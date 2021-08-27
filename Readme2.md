@@ -15,7 +15,7 @@
   <a href="#License">License</a>	
 </p>
 
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+
 
 ## Install
 
@@ -36,6 +36,8 @@
   - Write distraction free.
 * Cross platform
 - Windows, macOS and Linux ready.
+
+![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
 
 ## Установка
 
