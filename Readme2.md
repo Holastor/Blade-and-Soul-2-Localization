@@ -12,7 +12,9 @@
   <a href="#Скачать">Скачать</a> •
   <a href="#About">About</a> •
   <a href="#Об авторе">Об авторе</a>
-  <a href="#License">License</a>	
+  <a href="#License">License</a>
+  <a href="#A responsibility">A responsibility</a>
+  <a href="#Ответственность">Ответственность</a>
 </p>
 
 
@@ -47,6 +49,11 @@ You can [download](https://github.com/Holastor/Blade-and-Soul-2-Localization/rel
   * Author: by Holastor;
 ## Об авторе
   * Author: by Holastor;
+
+## A responsibility
+
+## Ответственность
+
 ## License
 
 Apache License 2.0
