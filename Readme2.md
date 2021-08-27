@@ -19,53 +19,29 @@
 
 ## Install
 
-* LivePreview - Make changes, See changes
-  - Instantly see what your Markdown documents look like in HTML as you create them.
-* Sync Scrolling
-  - While you type, LivePreview will automatically scroll to the current location you're editing.
-* GitHub Flavored Markdown  
-* Syntax highlighting
-* [KaTeX](https://khan.github.io/KaTeX/) Support
-* Dark/Light mode
-* Toolbar for basic Markdown formatting
-* Supports multiple cursors
-* Save the Markdown preview as PDF
-* Emoji support in preview :tada:
-* App will keep alive in tray for quick usage
-* Full screen mode
-  - Write distraction free.
-* Cross platform
-- Windows, macOS and Linux ready.
+* Download Last Release;
+* Unpack the B2_BaseData_00001.pak file from the archive into the \Game Folder\B2\Content\Paks;
+* And you need to go folder C:\Users\UserName\AppData\Local\B2\Saved\Option and open file LocalOption.json;
+* In LocalOption.json find "language":1" and change it to "language":2" for English Language and "language":6" for Russian Language;
+* And that's it you have english or russian language!;
 
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+<!-- ![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif) -->
 
 ## Установка
 
-* LivePreview - Make changes, See changes
-  - Instantly see what your Markdown documents look like in HTML as you create them.
-* Sync Scrolling
-  - While you type, LivePreview will automatically scroll to the current location you're editing.
-* GitHub Flavored Markdown  
-* Syntax highlighting
-* [KaTeX](https://khan.github.io/KaTeX/) Support
-* Dark/Light mode
-* Toolbar for basic Markdown formatting
-* Supports multiple cursors
-* Save the Markdown preview as PDF
-* Emoji support in preview :tada:
-* App will keep alive in tray for quick usage
-* Full screen mode
-  - Write distraction free.
-* Cross platform
-  - Windows, macOS and Linux ready.
+* Скачать последний релиз!;
+* Распаковать файл B2_BaseData_00001.pak из архива в папку \Game Folder\B2\Content\Paks;
+* Вам нужно перейти в папку C:\Users\UserName\AppData\Local\B2\Saved\Option и открыть файл LocalOption.json;
+* В LocalOption.json найдите "language":1" и измените его на"language":2" для английского языка и "language":6" для русского языка;
+* И все у вас есть английский или русский язык!;
 
 ## Download
 
-You can [download](https://github.com/amitmerchant1990/electron-markdownify/releases/tag/v1.2.0) the latest installable version of Markdownify for Windows, macOS and Linux.
+You can [download](https://github.com/Holastor/Blade-and-Soul-2-Localization/releases)
 
 ## Скачать
 
-You can [download](https://github.com/amitmerchant1990/electron-markdownify/releases/tag/v1.2.0) the latest installable version of Markdownify for Windows, macOS and Linux.
+You can [download](https://github.com/Holastor/Blade-and-Soul-2-Localization/releases)
 
 ## About
   * Author: by Holastor;
