@@ -10,10 +10,10 @@
   <a href="#download">Download</a> •
   <a href="#Скачать">Скачать</a> •
   <a href="#About">About</a> •
-  <a href="#Об авторе">Об авторе</a>
-  <a href="#License">License</a>
-  <a href="#A responsibility">A responsibility</a>
-  <a href="#Ответственность">Ответственность</a>
+  <a href="#Об авторе">Об авторе</a> •
+  <a href="#License">License</a> •
+  <a href="#A responsibility">A responsibility</a> •
+  <a href="#Ответственность">Ответственность</a> •
 </p>
 
 
