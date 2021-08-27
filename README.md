@@ -20,6 +20,7 @@
 
 ## Install
 
+* ONLY PC
 * Download Last Release;
 * Place the file B2_BaseData_00001.pak in the \Game Folder\B2\Content\Paks;
 * And you need to go folder C:\Users\UserName\AppData\Local\B2\Saved\Option and open file LocalOption.json;
@@ -28,6 +29,7 @@
 <!-- * Unpack the B2_BaseData_00001.pak file from the archive into the \Game Folder\B2\Content\Paks; -->
 ## Установка
 
+* Только PC
 * Скачать последний релиз;
 * Поместите файл B2_BaseData_00001.pak в папку \Game Folder\B2\Content\Paks;
 * Вам нужно перейти в папку C:\Users\UserName\AppData\Local\B2\Saved\Option и открыть файл LocalOption.json;
