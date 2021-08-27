@@ -28,7 +28,9 @@
 * And that's it you have english or russian language!;
 <!-- * Unpack the B2_BaseData_00001.pak file from the archive into the \Game Folder\B2\Content\Paks; -->
 ## Установка
-
+   <br>
+    Русский язык еще не готов!!!
+    <br>
 * Только PC
 * Скачать последний релиз;
 * Поместите файл B2_BaseData_00001.pak в папку \Game Folder\B2\Content\Paks;
