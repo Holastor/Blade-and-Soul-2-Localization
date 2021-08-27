@@ -53,7 +53,7 @@ You can [download](https://github.com/Holastor/Blade-and-Soul-2-Localization/rel
 ## A responsibility
 
 * The author is not responsible for bugs, bans, and other problems.
-* <span style="color: green">The author is not 100% sure whether it is possible to get a ban for this </span>
+* ![#f03c15](The author is not 100% sure whether it is possible to get a ban for this) `#f03c15`
 
 ## Ответственность
 
