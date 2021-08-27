@@ -66,9 +66,9 @@ You can [download](https://github.com/amitmerchant1990/electron-markdownify/rele
 You can [download](https://github.com/amitmerchant1990/electron-markdownify/releases/tag/v1.2.0) the latest installable version of Markdownify for Windows, macOS and Linux.
 
 ## About
-
+  * Author: by Holastor;
 ## Об авторе
-
+  * Author: by Holastor;
 ## License
 
 Apache License 2.0
