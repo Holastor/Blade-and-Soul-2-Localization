@@ -1,10 +1,3 @@
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
 <h1 align="center">
   <br>
   Blade and Soul 2 English and Russian Localization
@@ -59,8 +52,12 @@ You can [download](https://github.com/Holastor/Blade-and-Soul-2-Localization/rel
 ## A responsibility
 
 * The author is not responsible for bugs, bans, and other problems.
--The author is not 100% sure whether it is possible to get a ban for this
+* !!!!!! Автор не уверен на 100%, можно ли за это получить бан !!!!!!
+
 ## Ответственность
+
+* Автор не несет ответственности за ошибки, баны и другие проблемы.
+* 
 
 ## License
 
