@@ -1,10 +1,10 @@
-diff
+```diff
 - text in red
 + text in green
 ! text in orange
 # text in gray
 @@ text in purple (and bold)@@
-
+```
 <h1 align="center">
   <br>
   Blade and Soul 2 English and Russian Localization
@@ -61,6 +61,7 @@ You can [download](https://github.com/Holastor/Blade-and-Soul-2-Localization/rel
 * The author is not responsible for bugs, bans, and other problems.
 * color.Red("We have red")
 - The author is not 100% sure whether it is possible to get a ban for this
+- ![#f03c15](https://imgstack.try2explore.com/i/aHR0cHM6Ly9wbGFjZWhvbGQuaXQvMTUvZjAzYzE1LzAwMDAwMD90ZXh0PSs=.jpg) `#f03c15`
 * ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=) `#f03c15`
 
 ## Ответственность
