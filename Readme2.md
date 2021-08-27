@@ -26,11 +26,9 @@
 * In LocalOption.json find "language":1" and change it to "language":2" for English Language and "language":6" for Russian Language;
 * And that's it you have english or russian language!;
 
-<!-- ![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif) -->
-
 ## Установка
 
-* Скачать последний релиз!;
+* Скачать последний релиз;
 * Распаковать файл B2_BaseData_00001.pak из архива в папку \Game Folder\B2\Content\Paks;
 * Вам нужно перейти в папку C:\Users\UserName\AppData\Local\B2\Saved\Option и открыть файл LocalOption.json;
 * В LocalOption.json найдите "language":1" и измените его на"language":2" для английского языка и "language":6" для русского языка;
