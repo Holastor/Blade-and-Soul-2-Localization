@@ -55,7 +55,7 @@ You can [download](https://github.com/Holastor/Blade-and-Soul-2-Localization/rel
 3) !!!!!! The author is not 100% sure whether it is possible to get a ban for this!!!!!!
 4) Is something not translated? Feel free to leave a comment and I'll try to add the translation for the next update.
 4.1) There is text in the game that is sewn into the game, and its translation is impossible.
-4.3) There is a lot of confused, incomprehensible text. Most likely I did not touch it either.
+4.2) There is a lot of confused, incomprehensible text. Most likely I did not touch it either.
 5) Translated with Google Translate
 
 
@@ -66,7 +66,7 @@ You can [download](https://github.com/Holastor/Blade-and-Soul-2-Localization/rel
 3) !!!!!! Автор не уверен на 100%, можно ли за это получить бан !!!!!!
 4) Что-то не переведено? Не стесняйтесь оставлять комментарии, и я постараюсь добавить перевод для следующего обновления.
 4.1) В игре есть текст, который вшит в игру, и его перевод невозможен.
-4.3) Очень много запутанного, непонятного текста. Скорее всего я его тоже не трогал.
+4.2) Очень много запутанного, непонятного текста. Скорее всего я его тоже не трогал.
 5) Переведенно с помощью Google Translate
 
 ## License
