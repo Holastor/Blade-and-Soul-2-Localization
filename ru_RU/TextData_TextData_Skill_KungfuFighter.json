@@ -1,0 +1,968 @@
+{
+    "60020000": {
+        "deprecated": false,
+        "Dev_Desc": "횡이동",
+        "id": 60020000,
+        "alias": "Contents.Skill.Name.LightGauntlet.2010",
+        "text": "횡이동"
+    },
+    "60020001": {
+        "deprecated": false,
+        "Dev_Desc": "회천각",
+        "id": 60020001,
+        "alias": "Contents.Skill.Name.LightGauntlet.2100",
+        "text": "회천각"
+    },
+    "60020002": {
+        "deprecated": false,
+        "Dev_Desc": "승룡각",
+        "id": 60020002,
+        "alias": "Contents.Skill.Name.LightGauntlet.2140",
+        "text": "승룡각"
+    },
+    "60020003": {
+        "deprecated": false,
+        "Dev_Desc": "절명각",
+        "id": 60020003,
+        "alias": "Contents.Skill.Name.LightGauntlet.2180",
+        "text": "절명각"
+    },
+    "60020004": {
+        "deprecated": false,
+        "Dev_Desc": "비염각",
+        "id": 60020004,
+        "alias": "Contents.Skill.Name.LightGauntlet.2220",
+        "text": "비염각"
+    },
+    "60020005": {
+        "deprecated": false,
+        "Dev_Desc": "다리걸기",
+        "id": 60020005,
+        "alias": "Contents.Skill.Name.LightGauntlet.2060",
+        "text": "다리걸기"
+    },
+    "60020006": {
+        "deprecated": false,
+        "Dev_Desc": "승천권",
+        "id": 60020006,
+        "alias": "Contents.Skill.Name.LightGauntlet.2070",
+        "text": "승천권"
+    },
+    "60020007": {
+        "deprecated": false,
+        "Dev_Desc": "붕권",
+        "id": 60020007,
+        "alias": "Contents.Skill.Name.LightGauntlet.2320",
+        "text": "붕권"
+    },
+    "60020008": {
+        "deprecated": false,
+        "Dev_Desc": "초월권무",
+        "id": 60020008,
+        "alias": "Contents.Skill.Name.LightGauntlet.2340",
+        "text": "초월권무"
+    },
+    "60020009": {
+        "deprecated": false,
+        "Dev_Desc": "횡이동",
+        "id": 60020009,
+        "alias": "Contents.Skill.Desc.LightGauntlet.2010",
+        "text": "대상의 후방으로 빠르게 이동합니다."
+    },
+    "60020010": {
+        "deprecated": false,
+        "Dev_Desc": "횡이동_증폭",
+        "id": 60020010,
+        "alias": "Contents.Skill.Desc.LightGauntlet.2020",
+        "text": "대상의 후방으로 빠르게 이동합니다."
+    },
+    "60020011": {
+        "deprecated": false,
+        "Dev_Desc": "횡이동_극한",
+        "id": 60020011,
+        "alias": "Contents.Skill.Desc.LightGauntlet.2030",
+        "text": "대상의 후방으로 빠르게 이동합니다."
+    },
+    "60020012": {
+        "deprecated": false,
+        "Dev_Desc": "횡이동_돌파",
+        "id": 60020012,
+        "alias": "Contents.Skill.Desc.LightGauntlet.2040",
+        "text": "대상의 후방으로 빠르게 이동합니다."
+    },
+    "60020013": {
+        "deprecated": false,
+        "Dev_Desc": "회천각",
+        "id": 60020013,
+        "alias": "Contents.Skill.Desc.LightGauntlet.2100",
+        "text": "다리를 휘둘러 적에게 피해를 입힙니다."
+    },
+    "60020014": {
+        "deprecated": false,
+        "Dev_Desc": "회천각_증폭",
+        "id": 60020014,
+        "alias": "Contents.Skill.Desc.LightGauntlet.2110",
+        "text": "다리를 휘둘러 적에게 피해를 입힙니다."
+    },
+    "60020015": {
+        "deprecated": false,
+        "Dev_Desc": "회천각_극한",
+        "id": 60020015,
+        "alias": "Contents.Skill.Desc.LightGauntlet.2120",
+        "text": "다리를 휘둘러 적에게 피해를 입힙니다."
+    },
+    "60020016": {
+        "deprecated": false,
+        "Dev_Desc": "회천각_돌파",
+        "id": 60020016,
+        "alias": "Contents.Skill.Desc.LightGauntlet.2130",
+        "text": "다리를 휘둘러 적에게 피해를 입힙니다."
+    },
+    "60020017": {
+        "deprecated": false,
+        "Dev_Desc": "승룡각",
+        "id": 60020017,
+        "alias": "Contents.Skill.Desc.LightGauntlet.2140",
+        "text": "공중에서 발을 회전시켜 적에게 피해를 입힙니다.\n무공 사용 중 이동 가능합니다."
+    },
+    "60020018": {
+        "deprecated": false,
+        "Dev_Desc": "승룡각_증폭",
+        "id": 60020018,
+        "alias": "Contents.Skill.Desc.LightGauntlet.2150",
+        "text": "공중에서 발을 회전시켜 적에게 피해를 입힙니다.\n무공 사용 중 이동 가능합니다."
+    },
+    "60020019": {
+        "deprecated": false,
+        "Dev_Desc": "승룡각_극한",
+        "id": 60020019,
+        "alias": "Contents.Skill.Desc.LightGauntlet.2160",
+        "text": "공중에서 발을 회전시켜 적에게 피해를 입힙니다.\n무공 사용 중 이동 가능합니다."
+    },
+    "60020020": {
+        "deprecated": false,
+        "Dev_Desc": "승룡각_돌파",
+        "id": 60020020,
+        "alias": "Contents.Skill.Desc.LightGauntlet.2170",
+        "text": "공중에서 발을 회전시켜 적에게 피해를 입힙니다.\n무공 사용 중 이동 가능합니다."
+    },
+    "60020021": {
+        "deprecated": false,
+        "Dev_Desc": "절명각",
+        "id": 60020021,
+        "alias": "Contents.Skill.Desc.LightGauntlet.2180",
+        "text": "적에게 짧게 접근하여 다리를 휘둘러 피해를 입힙니다."
+    },
+    "60020022": {
+        "deprecated": false,
+        "Dev_Desc": "절명각_증폭",
+        "id": 60020022,
+        "alias": "Contents.Skill.Desc.LightGauntlet.2190",
+        "text": "적에게 짧게 접근하여 다리를 휘둘러 피해를 입힙니다."
+    },
+    "60020023": {
+        "deprecated": false,
+        "Dev_Desc": "절명각_극한",
+        "id": 60020023,
+        "alias": "Contents.Skill.Desc.LightGauntlet.2200",
+        "text": "적에게 짧게 접근하여 다리를 휘둘러 피해를 입힙니다."
+    },
+    "60020024": {
+        "deprecated": false,
+        "Dev_Desc": "절명각_돌파",
+        "id": 60020024,
+        "alias": "Contents.Skill.Desc.LightGauntlet.2210",
+        "text": "적에게 짧게 접근하여 다리를 휘둘러 피해를 입힙니다."
+    },
+    "60020025": {
+        "deprecated": false,
+        "Dev_Desc": "비염각",
+        "id": 60020025,
+        "alias": "Contents.Skill.Desc.LightGauntlet.2220",
+        "text": "적에게 날아가 발로 타격해 일정 확률로 \"경직\" 시키고 피해를 입힙니다."
+    },
+    "60020026": {
+        "deprecated": false,
+        "Dev_Desc": "비염각_증폭",
+        "id": 60020026,
+        "alias": "Contents.Skill.Desc.LightGauntlet.2230",
+        "text": "적에게 날아가 발로 타격해 일정 확률로 \"경직\" 시키고 피해를 입힙니다."
+    },
+    "60020027": {
+        "deprecated": false,
+        "Dev_Desc": "비염각_극한",
+        "id": 60020027,
+        "alias": "Contents.Skill.Desc.LightGauntlet.2240",
+        "text": "적에게 날아가 발로 타격해 일정 확률로 \"경직\" 시키고 피해를 입힙니다."
+    },
+    "60020028": {
+        "deprecated": false,
+        "Dev_Desc": "비염각_돌파",
+        "id": 60020028,
+        "alias": "Contents.Skill.Desc.LightGauntlet.2250",
+        "text": "적에게 날아가 발로 타격해 일정 확률로 \"경직\" 시키고 피해를 입힙니다."
+    },
+    "60020029": {
+        "deprecated": false,
+        "Dev_Desc": "다리걸기",
+        "id": 60020029,
+        "alias": "Contents.Skill.Desc.LightGauntlet.2060",
+        "text": "다리를 걸어 일정 확률로 적을 \"기절\" 시킵니다."
+    },
+    "60020030": {
+        "deprecated": false,
+        "Dev_Desc": "다리걸기_증폭",
+        "id": 60020030,
+        "alias": "Contents.Skill.Desc.LightGauntlet.2061",
+        "text": "다리를 걸어 일정 확률로 적을 \"기절\" 시킵니다."
+    },
+    "60020031": {
+        "deprecated": false,
+        "Dev_Desc": "다리걸기_극한",
+        "id": 60020031,
+        "alias": "Contents.Skill.Desc.LightGauntlet.2062",
+        "text": "다리를 걸어 일정 확률로 적을 \"기절\" 시킵니다."
+    },
+    "60020032": {
+        "deprecated": false,
+        "Dev_Desc": "다리걸기_돌파",
+        "id": 60020032,
+        "alias": "Contents.Skill.Desc.LightGauntlet.2063",
+        "text": "다리를 걸어 일정 확률로 적을 \"기절\" 시킵니다.\n이후 어깨로 강하게 \"밀어내 기절\"시키고 피해를 입힙니다."
+    },
+    "60020033": {
+        "deprecated": false,
+        "Dev_Desc": "승천권",
+        "id": 60020033,
+        "alias": "Contents.Skill.Desc.LightGauntlet.2070",
+        "text": "적에게 짧게 접근하여 올려친 뒤, 일정 확률로 \"공중\"으로 띄웁니다.\n공중에서 떨어진 후 \"기절\" 상태가 됩니다."
+    },
+    "60020034": {
+        "deprecated": false,
+        "Dev_Desc": "승천권_증폭",
+        "id": 60020034,
+        "alias": "Contents.Skill.Desc.LightGauntlet.2071",
+        "text": "적에게 짧게 접근하여 올려친 뒤, 일정 확률로 \"공중\"으로 띄웁니다.\n공중에서 떨어진 후 \"기절\" 상태가 됩니다."
+    },
+    "60020035": {
+        "deprecated": false,
+        "Dev_Desc": "승천권_극한",
+        "id": 60020035,
+        "alias": "Contents.Skill.Desc.LightGauntlet.2072",
+        "text": "적에게 짧게 접근하여 올려친 뒤, 일정 확률로 \"공중\"으로 띄웁니다.\n공중에서 떨어진 후 \"기절\" 상태가 됩니다."
+    },
+    "60020036": {
+        "deprecated": false,
+        "Dev_Desc": "승천권_돌파",
+        "id": 60020036,
+        "alias": "Contents.Skill.Desc.LightGauntlet.2073",
+        "text": "적에게 짧게 접근하여 올려친 뒤, 일정 확률로 \"공중\"으로 띄웁니다.\n이후 발로 내려쳐 피해를 입히고 \"기절\" 시킵니다."
+    },
+    "60020037": {
+        "deprecated": false,
+        "Dev_Desc": "붕권",
+        "id": 60020037,
+        "alias": "Contents.Skill.Desc.LightGauntlet.2320",
+        "text": "주먹을 내질러 일정 확률로 단일 대상을 \"밀치기\" 후 \"기절\"시키고 피해를 입힙니다.\n막기 중인 대상을 일정 확률로 관통해 \"기절\" 시킵니다."
+    },
+    "60020038": {
+        "deprecated": false,
+        "Dev_Desc": "붕권_증폭",
+        "id": 60020038,
+        "alias": "Contents.Skill.Desc.LightGauntlet.2330",
+        "text": "주먹을 내질러 일정 확률로 범위 내 다수의 대상을 \"밀치기\" 후 \"기절\" 시키고 피해를 입힙니다.\n막기 중인 대상을 일정 확률로 관통해 \"기절\" 시킵니다."
+    },
+    "60020039": {
+        "deprecated": false,
+        "Dev_Desc": "초월권무",
+        "id": 60020039,
+        "alias": "Contents.Skill.Desc.LightGauntlet.2340",
+        "text": "적에게 접근하여 강력한 연계공격을 퍼붓습니다.\n마지막 공격은 일정 확률로 적을 \"밀치기\" 후 \"기절\" 시킵니다.\n사용 중 통제 상태에 면역이 됩니다."
+    },
+    "60020040": {
+        "deprecated": false,
+        "Dev_Desc": "권갑 조건 표시 경직, 기절",
+        "id": 60020040,
+        "alias": "Contents.Skill.requirementDesc.LightGauntlet.1",
+        "text": "기절, 경직 대상"
+    },
+    "60020041": {
+        "deprecated": false,
+        "Dev_Desc": "권갑 조건 표시 경직, 기절, 공중",
+        "id": 60020041,
+        "alias": "Contents.Skill.requirementDesc.LightGauntlet.2",
+        "text": "공중, 기절, 경직 대상"
+    },
+    "60020042": {
+        "deprecated": false,
+        "Dev_Desc": "권갑 조건 표시 내 통제 무공, 통제 대상",
+        "id": 60020042,
+        "alias": "Contents.Skill.requirementDesc.LightGauntlet.3",
+        "text": "공중, 기절 대상"
+    },
+    "60020043": {
+        "deprecated": false,
+        "Dev_Desc": "권갑 효과 표시 경직",
+        "id": 60020043,
+        "alias": "Contents.Skill.useEffectDesc.LightGauntlet.1",
+        "text": "경직"
+    },
+    "60020044": {
+        "deprecated": false,
+        "Dev_Desc": "권갑 효과 표시 기절",
+        "id": 60020044,
+        "alias": "Contents.Skill.useEffectDesc.LightGauntlet.2",
+        "text": "기절"
+    },
+    "60020045": {
+        "deprecated": false,
+        "Dev_Desc": "권갑 효과 표시 공중",
+        "id": 60020045,
+        "alias": "Contents.Skill.useEffectDesc.LightGauntlet.3",
+        "text": "공중"
+    },
+    "60020046": {
+        "deprecated": false,
+        "Dev_Desc": "권갑 효과 표시 경직, 기절",
+        "id": 60020046,
+        "alias": "Contents.Skill.useEffectDesc.LightGauntlet.4",
+        "text": "경직, 기절"
+    },
+    "60020047": {
+        "deprecated": false,
+        "Dev_Desc": "권갑 효과 표시 기절, 밀치기",
+        "id": 60020047,
+        "alias": "Contents.Skill.useEffectDesc.LightGauntlet.5",
+        "text": "기절, 밀치기"
+    },
+    "60020048": {
+        "deprecated": false,
+        "Dev_Desc": "권갑 효과 표시 기절, 공중",
+        "id": 60020048,
+        "alias": "Contents.Skill.useEffectDesc.LightGauntlet.6",
+        "text": "기절, 공중"
+    },
+    "60020049": {
+        "deprecated": false,
+        "Dev_Desc": "권갑 효과 표시 경직, 기절, 밀치기",
+        "id": 60020049,
+        "alias": "Contents.Skill.useEffectDesc.LightGauntlet.7",
+        "text": "경직, 기절, 밀치기"
+    },
+    "60020050": {
+        "deprecated": false,
+        "Dev_Desc": "권갑 효과 표시 경직, 기절, 밀치기, 침묵",
+        "id": 60020050,
+        "alias": "Contents.Skill.useEffectDesc.LightGauntlet.8",
+        "text": "경직, 기절, 밀치기, 침묵"
+    },
+    "60020051": {
+        "deprecated": false,
+        "Dev_Desc": "횡이동 돌파 회피 증가",
+        "id": 60020051,
+        "alias": "Contents.Skill.useEffectDesc.LightGauntlet.9",
+        "text": "회피 증가"
+    },
+    "60020052": {
+        "deprecated": false,
+        "Dev_Desc": "패시브 집중 효과",
+        "id": 60020052,
+        "alias": "Contents.Skill.useEffectDesc.LightGauntlet.2800",
+        "text": "기본 공격 속도 +3%"
+    },
+    "60020053": {
+        "deprecated": false,
+        "Dev_Desc": "패시브 근력 효과",
+        "id": 60020053,
+        "alias": "Contents.Skill.useEffectDesc.LightGauntlet.2801",
+        "text": "권갑 공격력 +2"
+    },
+    "60020054": {
+        "deprecated": false,
+        "Dev_Desc": "패시브 강기 효과",
+        "id": 60020054,
+        "alias": "Contents.Skill.useEffectDesc.LightGauntlet.2802",
+        "text": "힘 +1, 건강 +1"
+    },
+    "60020056": {
+        "deprecated": false,
+        "Dev_Desc": "패시브 날렵함 효과",
+        "id": 60020056,
+        "alias": "Contents.Skill.useEffectDesc.LightGauntlet.2804",
+        "text": "회피 +3, 이동 속도 +1%"
+    },
+    "60020057": {
+        "deprecated": false,
+        "Dev_Desc": "패시브 강격 효과",
+        "id": 60020057,
+        "alias": "Contents.Skill.useEffectDesc.LightGauntlet.2807",
+        "text": "통제 적중률 +3%"
+    },
+    "60020059": {
+        "deprecated": false,
+        "Dev_Desc": "연권",
+        "id": 60020059,
+        "alias": "Contents.Skill.Name.LightGauntlet.2360",
+        "text": "연권"
+    },
+    "60020060": {
+        "deprecated": false,
+        "Dev_Desc": "연권_증폭",
+        "id": 60020060,
+        "alias": "Contents.Skill.Name.LightGauntlet.2370",
+        "text": "연권"
+    },
+    "60020061": {
+        "deprecated": false,
+        "Dev_Desc": "연권",
+        "id": 60020061,
+        "alias": "Contents.Skill.Desc.LightGauntlet.2360",
+        "text": "적에게 접근하여 아주 빠르게 타격해 경직시키고 피해를 입힙니다.\n마지막 타는 대상을 짧게 밀치고 기절시킵니다."
+    },
+    "60020062": {
+        "deprecated": false,
+        "Dev_Desc": "연권_증폭",
+        "id": 60020062,
+        "alias": "Contents.Skill.Desc.LightGauntlet.2370",
+        "text": "적에게 접근하여 아주 빠르게 타격해 경직시키고 피해를 입힙니다.\n마지막 타는 대상을 짧게 밀치고 기절시킵니다."
+    },
+    "60020063": {
+        "deprecated": false,
+        "Dev_Desc": "연권",
+        "id": 60020063,
+        "alias": "Contents.Skill.Option.LightGauntlet.2360",
+        "text": "내력 소모 104\n대기시간 65초"
+    },
+    "60020064": {
+        "deprecated": false,
+        "Dev_Desc": "연권_증폭",
+        "id": 60020064,
+        "alias": "Contents.Skill.Option.LightGauntlet.2370",
+        "text": "내력 소모 104\n대기시간 65초"
+    },
+    "60020065": {
+        "deprecated": false,
+        "Dev_Desc": "횡이동_증폭_성장설명",
+        "id": 60020065,
+        "alias": "Contents.Skill.acquireEffectDesc.2020",
+        "text": "기력 소모량 -100"
+    },
+    "60020066": {
+        "deprecated": false,
+        "Dev_Desc": "횡이동_극한_성장설명",
+        "id": 60020066,
+        "alias": "Contents.Skill.acquireEffectDesc.2030",
+        "text": "사용 거리 증가"
+    },
+    "60020067": {
+        "deprecated": false,
+        "Dev_Desc": "횡이동_돌파_성장설명",
+        "id": 60020067,
+        "alias": "Contents.Skill.acquireEffectDesc.2040",
+        "text": "사용 시, 1초동안 회피 +1000"
+    },
+    "60020068": {
+        "deprecated": false,
+        "Dev_Desc": "회천각_증폭_성장설명",
+        "id": 60020068,
+        "alias": "Contents.Skill.acquireEffectDesc.2110",
+        "text": "내력 소모량 -2"
+    },
+    "60020069": {
+        "deprecated": false,
+        "Dev_Desc": "회천각_극한_성장설명",
+        "id": 60020069,
+        "alias": "Contents.Skill.acquireEffectDesc.2120",
+        "text": "재사용 대기시간 -2초"
+    },
+    "60020070": {
+        "deprecated": false,
+        "Dev_Desc": "회천각_돌파_성장설명",
+        "id": 60020070,
+        "alias": "Contents.Skill.acquireEffectDesc.2130",
+        "text": "기본 공격 속도에 비례하여 추가 피해 적용"
+    },
+    "60020071": {
+        "deprecated": false,
+        "Dev_Desc": "승룡각_증폭_성장설명",
+        "id": 60020071,
+        "alias": "Contents.Skill.acquireEffectDesc.2150",
+        "text": "재사용 대기시간 -2초"
+    },
+    "60020072": {
+        "deprecated": false,
+        "Dev_Desc": "승룡각_극한_성장설명",
+        "id": 60020072,
+        "alias": "Contents.Skill.acquireEffectDesc.2160",
+        "text": "타격 수 증가"
+    },
+    "60020073": {
+        "deprecated": false,
+        "Dev_Desc": "승룡각_돌파_성장설명",
+        "id": 60020073,
+        "alias": "Contents.Skill.acquireEffectDesc.2170",
+        "text": "매 타격마다 일정 확률로 \"경직\" 효과 적용"
+    },
+    "60020074": {
+        "deprecated": false,
+        "Dev_Desc": "절명각_증폭_성장설명",
+        "id": 60020074,
+        "alias": "Contents.Skill.acquireEffectDesc.2190",
+        "text": "사용 중 근거리 절대 관통력 +10%"
+    },
+    "60020075": {
+        "deprecated": false,
+        "Dev_Desc": "절명각_극한_성장설명",
+        "id": 60020075,
+        "alias": "Contents.Skill.acquireEffectDesc.2200",
+        "text": "기본 공격 속도에 비례하여 추가 피해 적용"
+    },
+    "60020076": {
+        "deprecated": false,
+        "Dev_Desc": "절명각_돌파_성장설명",
+        "id": 60020076,
+        "alias": "Contents.Skill.acquireEffectDesc.2210",
+        "text": "약점 공격 시 추가 피해 적용"
+    },
+    "60020077": {
+        "deprecated": false,
+        "Dev_Desc": "비염각_증폭_성장설명",
+        "id": 60020077,
+        "alias": "Contents.Skill.acquireEffectDesc.2230",
+        "text": "재사용 대기시간 -2초"
+    },
+    "60020078": {
+        "deprecated": false,
+        "Dev_Desc": "비염각_극한_성장설명",
+        "id": 60020078,
+        "alias": "Contents.Skill.acquireEffectDesc.2240",
+        "text": "피해량 증가"
+    },
+    "60020079": {
+        "deprecated": false,
+        "Dev_Desc": "비염각_돌파_성장설명",
+        "id": 60020079,
+        "alias": "Contents.Skill.acquireEffectDesc.2250",
+        "text": "사용 거리 증가"
+    },
+    "60020080": {
+        "deprecated": false,
+        "Dev_Desc": "다리걸기_증폭_성장설명",
+        "id": 60020080,
+        "alias": "Contents.Skill.acquireEffectDesc.2061",
+        "text": "내력 소모량 -3"
+    },
+    "60020081": {
+        "deprecated": false,
+        "Dev_Desc": "다리걸기_극한_성장설명",
+        "id": 60020081,
+        "alias": "Contents.Skill.acquireEffectDesc.2062",
+        "text": "재사용 대기시간 -2초"
+    },
+    "60020082": {
+        "deprecated": false,
+        "Dev_Desc": "다리걸기_돌파_성장설명",
+        "id": 60020082,
+        "alias": "Contents.Skill.acquireEffectDesc.2063",
+        "text": "다리걸기 사용 후 철산고 연계"
+    },
+    "60020083": {
+        "deprecated": false,
+        "Dev_Desc": "승천권_증폭_성장설명",
+        "id": 60020083,
+        "alias": "Contents.Skill.acquireEffectDesc.2071",
+        "text": "기본 공격 속도에 비례하여 추가 피해 적용"
+    },
+    "60020084": {
+        "deprecated": false,
+        "Dev_Desc": "승천권_극한_성장설명",
+        "id": 60020084,
+        "alias": "Contents.Skill.acquireEffectDesc.2072",
+        "text": "타격 수 증가"
+    },
+    "60020085": {
+        "deprecated": false,
+        "Dev_Desc": "승천권_극한_성장설명",
+        "id": 60020085,
+        "alias": "Contents.Skill.acquireEffectDesc.2073",
+        "text": "승천권 사용 후 낙화각 연계"
+    },
+    "60020086": {
+        "deprecated": false,
+        "Dev_Desc": "붕권_증폭_성장설명",
+        "id": 60020086,
+        "alias": "Contents.Skill.acquireEffectDesc.2081",
+        "text": "재사용 대기시간 -3초"
+    },
+    "60020087": {
+        "deprecated": false,
+        "Dev_Desc": "붕권_극한_성장설명",
+        "id": 60020087,
+        "alias": "Contents.Skill.acquireEffectDesc.2082",
+        "text": "사용 중 막기 관통 +7"
+    },
+    "60020088": {
+        "deprecated": false,
+        "Dev_Desc": "붕권_돌파_성장설명",
+        "id": 60020088,
+        "alias": "Contents.Skill.acquireEffectDesc.2083",
+        "text": "광역 피해로 전환\n범위 내 최대 3인까지 적중"
+    },
+    "60020089": {
+        "deprecated": false,
+        "Dev_Desc": "패시브-집중",
+        "id": 60020089,
+        "alias": "Contents.Skill.Name.LightGauntlet.2800",
+        "text": "집중"
+    },
+    "60020090": {
+        "deprecated": false,
+        "Dev_Desc": "패시브-근력",
+        "id": 60020090,
+        "alias": "Contents.Skill.Name.LightGauntlet.2801",
+        "text": "근력"
+    },
+    "60020091": {
+        "deprecated": false,
+        "Dev_Desc": "패시브-강기",
+        "id": 60020091,
+        "alias": "Contents.Skill.Name.LightGauntlet.2802",
+        "text": "강기"
+    },
+    "60020092": {
+        "deprecated": false,
+        "Dev_Desc": "패시브-완력",
+        "id": 60020092,
+        "alias": "Contents.Skill.Name.LightGauntlet.2803",
+        "text": "완력"
+    },
+    "60020093": {
+        "deprecated": false,
+        "Dev_Desc": "패시브-날렵함",
+        "id": 60020093,
+        "alias": "Contents.Skill.Name.LightGauntlet.2804",
+        "text": "날렵함"
+    },
+    "60020094": {
+        "deprecated": false,
+        "Dev_Desc": "패시브-무투",
+        "id": 60020094,
+        "alias": "Contents.Skill.Name.LightGauntlet.2805",
+        "text": "무투"
+    },
+    "60020095": {
+        "deprecated": false,
+        "Dev_Desc": "패시브-뇌진탕",
+        "id": 60020095,
+        "alias": "Contents.Skill.Name.LightGauntlet.2806",
+        "text": "뇌진탕"
+    },
+    "60020096": {
+        "deprecated": false,
+        "Dev_Desc": "패시브-강격",
+        "id": 60020096,
+        "alias": "Contents.Skill.Name.LightGauntlet.2807",
+        "text": "강격"
+    },
+    "60020097": {
+        "deprecated": false,
+        "Dev_Desc": "패시브-개혈",
+        "id": 60020097,
+        "alias": "Contents.Skill.Name.LightGauntlet.2808",
+        "text": "개혈"
+    },
+    "60020098": {
+        "deprecated": false,
+        "Dev_Desc": "패시브-급소가격",
+        "id": 60020098,
+        "alias": "Contents.Skill.Name.LightGauntlet.2809",
+        "text": "급소가격"
+    },
+    "60020099": {
+        "deprecated": false,
+        "Dev_Desc": "패시브-집중",
+        "id": 60020099,
+        "alias": "Contents.Skill.Desc.LightGauntlet.2800",
+        "text": "정신 집중을 통해 조금 더 빨라집니다.\n기본 공격 속도가 증가합니다."
+    },
+    "60020100": {
+        "deprecated": false,
+        "Dev_Desc": "패시브-근력",
+        "id": 60020100,
+        "alias": "Contents.Skill.Desc.LightGauntlet.2801",
+        "text": "근육을 단련시켜 무기의 파괴력을 끌어올립니다.\n권갑 공격력이 증가합니다."
+    },
+    "60020101": {
+        "deprecated": false,
+        "Dev_Desc": "패시브-강기",
+        "id": 60020101,
+        "alias": "Contents.Skill.Desc.LightGauntlet.2802",
+        "text": "기를 다스리는 법을 터득합니다.\n힘과 건강이 증가합니다."
+    },
+    "60020102": {
+        "deprecated": false,
+        "Dev_Desc": "패시브-완력",
+        "id": 60020102,
+        "alias": "Contents.Skill.Desc.LightGauntlet.2803",
+        "text": "육체를 극한으로 단련시켜 강해집니다.\n근거리 공격력이 증가합니다."
+    },
+    "60020103": {
+        "deprecated": false,
+        "Dev_Desc": "패시브-날렵함",
+        "id": 60020103,
+        "alias": "Contents.Skill.Desc.LightGauntlet.2804",
+        "text": "신체를 경량화시킵니다.\n회피와 이동 속도가 증가합니다."
+    },
+    "60020104": {
+        "deprecated": false,
+        "Dev_Desc": "패시브-무투",
+        "id": 60020104,
+        "alias": "Contents.Skill.Desc.LightGauntlet.2805",
+        "text": "기본공격이 통제 상태의 적에게 추가 피해를 입힙니다."
+    },
+    "60020105": {
+        "deprecated": false,
+        "Dev_Desc": "패시브-뇌진탕",
+        "id": 60020105,
+        "alias": "Contents.Skill.Desc.LightGauntlet.2806",
+        "text": "기본공격이 적에게 명중할 경우 일정 확률로 대상을 \"경직\" 시킵니다.\n\"경직\" 효과는 5초의 재사용 대기시간을 갖습니다."
+    },
+    "60020106": {
+        "deprecated": false,
+        "Dev_Desc": "패시브-강격",
+        "id": 60020106,
+        "alias": "Contents.Skill.Desc.LightGauntlet.2807",
+        "text": "한계를 극복해 강한 자신감이 생깁니다.\n통제 적중률이 증가합니다."
+    },
+    "60020107": {
+        "deprecated": false,
+        "Dev_Desc": "패시브-개혈",
+        "id": 60020107,
+        "alias": "Contents.Skill.Desc.LightGauntlet.2808",
+        "text": "혈도를 개방시켜 신진대사를 촉진시킵니다.\n소울 발동률이 증가합니다."
+    },
+    "60020108": {
+        "deprecated": false,
+        "Dev_Desc": "패시브-급소가격",
+        "id": 60020108,
+        "alias": "Contents.Skill.Desc.LightGauntlet.2809",
+        "text": "기본공격이 적에게 명중할 경우 일정 확률로 대상을 \"기절\" 시킵니다.\n\"기절\" 효과는 60초의 재사용 대기시간을 갖습니다."
+    },
+    "60020109": {
+        "deprecated": false,
+        "Dev_Desc": "패시브-집중",
+        "id": 60020109,
+        "alias": "Contents.Skill.Option.LightGauntlet.2800",
+        "text": "지속 효과"
+    },
+    "60020110": {
+        "deprecated": false,
+        "Dev_Desc": "패시브-근력",
+        "id": 60020110,
+        "alias": "Contents.Skill.Option.LightGauntlet.2801",
+        "text": "지속 효과"
+    },
+    "60020111": {
+        "deprecated": false,
+        "Dev_Desc": "패시브-강기",
+        "id": 60020111,
+        "alias": "Contents.Skill.Option.LightGauntlet.2802",
+        "text": "지속 효과"
+    },
+    "60020112": {
+        "deprecated": false,
+        "Dev_Desc": "패시브-완력",
+        "id": 60020112,
+        "alias": "Contents.Skill.Option.LightGauntlet.2803",
+        "text": "지속 효과"
+    },
+    "60020113": {
+        "deprecated": false,
+        "Dev_Desc": "패시브-날렵함",
+        "id": 60020113,
+        "alias": "Contents.Skill.Option.LightGauntlet.2804",
+        "text": "지속 효과"
+    },
+    "60020114": {
+        "deprecated": false,
+        "Dev_Desc": "패시브-무투",
+        "id": 60020114,
+        "alias": "Contents.Skill.Option.LightGauntlet.2805",
+        "text": "지속 효과"
+    },
+    "60020115": {
+        "deprecated": false,
+        "Dev_Desc": "패시브-뇌진탕",
+        "id": 60020115,
+        "alias": "Contents.Skill.Option.LightGauntlet.2806",
+        "text": "지속 효과"
+    },
+    "60020116": {
+        "deprecated": false,
+        "Dev_Desc": "패시브-강격",
+        "id": 60020116,
+        "alias": "Contents.Skill.Option.LightGauntlet.2807",
+        "text": "지속 효과"
+    },
+    "60020117": {
+        "deprecated": false,
+        "Dev_Desc": "패시브-개혈",
+        "id": 60020117,
+        "alias": "Contents.Skill.Option.LightGauntlet.2808",
+        "text": "지속 효과"
+    },
+    "60020118": {
+        "deprecated": false,
+        "Dev_Desc": "패시브-급소가격",
+        "id": 60020118,
+        "alias": "Contents.Skill.Option.LightGauntlet.2809",
+        "text": "지속 효과"
+    },
+    "60020119": {
+        "deprecated": false,
+        "Dev_Desc": "맹호격",
+        "id": 60020119,
+        "alias": "Contents.Skill.Name.LightGauntlet.2016",
+        "text": "맹호격"
+    },
+    "60020120": {
+        "deprecated": false,
+        "Dev_Desc": "맹호격",
+        "id": 60020120,
+        "alias": "Contents.Skill.Desc.LightGauntlet.2016",
+        "text": "뛰어올라 지면을 강타해 일정 확률로 적을 \"기절\" 시키고 피해를 입힙니다."
+    },
+    "60020121": {
+        "deprecated": false,
+        "Dev_Desc": "맹호격",
+        "id": 60020121,
+        "alias": "Contents.Skill.Option.LightGauntlet.2016",
+        "text": "내력 소모 15\n대기시간 6초"
+    },
+    "60020122": {
+        "deprecated": false,
+        "Dev_Desc": "횡이동_돌파_회피증가_이름",
+        "id": 60020122,
+        "alias": "Contents.Effect.Name.LightGauntlet.205100",
+        "text": "횡이동 돌파"
+    },
+    "60020123": {
+        "deprecated": false,
+        "Dev_Desc": "횡이동_돌파_회피증가_설명",
+        "id": 60020123,
+        "alias": "Contents.Effect.Desc.LightGauntlet.205100",
+        "text": "방어 관련 능력 증가"
+    },
+    "60020124": {
+        "deprecated": false,
+        "Dev_Desc": "횡이동_돌파_회피증가_옵션",
+        "id": 60020124,
+        "alias": "Contents.Effect.Option.LightGauntlet.205100",
+        "text": "모든 회피 +200"
+    },
+    "60020125": {
+        "deprecated": false,
+        "Dev_Desc": "횡이동_돌파_회피증가_세부설명",
+        "id": 60020125,
+        "alias": "Contents.Effect.detail.LightGauntlet.205100",
+        "text": "횡이동 사용 시 효과가 발동됩니다."
+    },
+    "60020126": {
+        "deprecated": false,
+        "Dev_Desc": "패시브-무투_효과",
+        "id": 60020126,
+        "alias": "Contents.Skill.useEffectDesc.LightGauntlet.2805",
+        "text": "추가 피해"
+    },
+    "60020127": {
+        "deprecated": false,
+        "Dev_Desc": "맹호격_증폭_성장설명",
+        "id": 60020127,
+        "alias": "Contents.Skill.acquireEffectDesc.2111",
+        "text": "피해량 증가"
+    },
+    "60020128": {
+        "deprecated": false,
+        "Dev_Desc": "맹호격_극한_성장설명",
+        "id": 60020128,
+        "alias": "Contents.Skill.acquireEffectDesc.2112",
+        "text": "\"기절\" 확률 증가"
+    },
+    "60020129": {
+        "deprecated": false,
+        "Dev_Desc": "맹호격_돌파_성장설명",
+        "id": 60020129,
+        "alias": "Contents.Skill.acquireEffectDesc.2113",
+        "text": "일정 확률로 \"공중\" 효과 적용"
+    },
+    "60020130": {
+        "deprecated": false,
+        "Dev_Desc": "무공 피해 계수 증가",
+        "id": 60020130,
+        "alias": "Contents.Skill.Upgrade.LightGauntlet.1",
+        "text": "무공 피해 계수 증가"
+    },
+    "60020131": {
+        "deprecated": false,
+        "Dev_Desc": "기력 소모량 감소",
+        "id": 60020131,
+        "alias": "Contents.Skill.Upgrade.LightGauntlet.2",
+        "text": "기력 소모량 감소"
+    },
+    "60020132": {
+        "deprecated": false,
+        "Dev_Desc": "추가 피해 계수 증가",
+        "id": 60020132,
+        "alias": "Contents.Skill.Upgrade.LightGauntlet.3",
+        "text": "추가 피해 계수 증가"
+    },
+    "60020133": {
+        "deprecated": false,
+        "Dev_Desc": "기본 공격 속도 증가",
+        "id": 60020133,
+        "alias": "Contents.Skill.Upgrade.LightGauntlet.4",
+        "text": "기본 공격 속도 증가"
+    },
+    "60020134": {
+        "deprecated": false,
+        "Dev_Desc": "권갑 피해량 증가",
+        "id": 60020134,
+        "alias": "Contents.Skill.Upgrade.LightGauntlet.5",
+        "text": "권갑 피해량 증가"
+    },
+    "60020135": {
+        "deprecated": false,
+        "Dev_Desc": "힘 증가",
+        "id": 60020135,
+        "alias": "Contents.Skill.Upgrade.LightGauntlet.6",
+        "text": "힘 증가"
+    },
+    "60020136": {
+        "deprecated": false,
+        "Dev_Desc": "건강 증가",
+        "id": 60020136,
+        "alias": "Contents.Skill.Upgrade.LightGauntlet.7",
+        "text": "건강 증가"
+    },
+    "60020137": {
+        "deprecated": false,
+        "Dev_Desc": "회피 증가",
+        "id": 60020137,
+        "alias": "Contents.Skill.Upgrade.LightGauntlet.8",
+        "text": "회피 증가"
+    },
+    "60020138": {
+        "deprecated": false,
+        "Dev_Desc": "이동 속도 증가",
+        "id": 60020138,
+        "alias": "Contents.Skill.Upgrade.LightGauntlet.9",
+        "text": "이동 속도 증가"
+    },
+    "60020139": {
+        "deprecated": false,
+        "Dev_Desc": "막기 관통 증가",
+        "id": 60020139,
+        "alias": "Contents.Skill.Upgrade.LightGauntlet.10",
+        "text": "막기 관통 증가"
+    }
+}
