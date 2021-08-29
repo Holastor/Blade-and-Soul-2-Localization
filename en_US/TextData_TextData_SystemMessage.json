@@ -3,25 +3,25 @@
         "deprecated": false,
         "id": 9000001,
         "alias": "SysM.Alchemy.NeedPrevPrep",
-        "text": "이전 단계 모두 조제 후 조제 가능합니다."
+        "text": "All previous steps can be prepared after preparation."
     },
     "9000002": {
         "deprecated": false,
         "id": 9000002,
         "alias": "SysM.Alchemy.LackLevel",
-        "text": "레벨이 부족하여 조제할 수 업습니다."
+        "text": "Not enough level to prepare."
     },
     "9000003": {
         "deprecated": false,
         "id": 9000003,
         "alias": "SysM.Alchemy.LackResource",
-        "text": "재료가 부족하여 조제할 수 없습니다."
+        "text": "Not enough ingredients to make it."
     },
     "9000004": {
         "deprecated": false,
         "id": 9000004,
         "alias": "SysM.Alchemy.TitleName.UpGrade",
-        "text": "성급업"
+        "text": "stardust"
     },
     "9000005": {
         "deprecated": false,
@@ -34,103 +34,103 @@
         "deprecated": false,
         "id": 9000006,
         "alias": "SysM.Alchemy.FirstPage",
-        "text": "첫 번째 목록입니다."
+        "text": "This is the first list."
     },
     "9000007": {
         "deprecated": false,
         "id": 9000007,
         "alias": "SysM.Alchemy.LastPage",
-        "text": "마지막 목록입니다."
+        "text": "This is the last list."
     },
     "9000008": {
         "deprecated": false,
         "id": 9000008,
         "alias": "SysM.Forge.OptionReidentify.OptionNotSelect",
-        "text": "옵션이 선택되지 않아 변경할 수 없습니다."
+        "text": "The option is not selected and cannot be changed."
     },
     "9000009": {
         "deprecated": false,
         "id": 9000009,
         "alias": "SysM.Forge.OptionRedientify.ResourceNotRegister",
-        "text": "재료가 등록되지 않아 변경할 수 없습니다."
+        "text": "The material is not registered and cannot be changed."
     },
     "9000010": {
         "deprecated": false,
         "id": 9000010,
         "alias": "SysM.Forge.OptionRedientify.LackMoney",
-        "text": "재화가 부족하여 변경할 수 없습니다."
+        "text": "Cannot be changed due to insufficient resources."
     },
     "9000011": {
         "deprecated": false,
         "id": 9000011,
         "alias": "SysM.Forge.OptionValueRedice.OptionNotSelect",
-        "text": "옵션이 선택되지 않아 개조할 수 없습니다."
+        "text": "Cannot mod because no option selected."
     },
     "9000012": {
         "deprecated": false,
         "id": 9000012,
         "alias": "SysM.Forge.OptionValueRedice.ResourceNotRegister",
-        "text": "재료가 등록되지 않아 개조할 수 없습니다."
+        "text": "The material cannot be modified because it is not registered."
     },
     "9000013": {
         "deprecated": false,
         "id": 9000013,
         "alias": "SysM.Forge.OpitonValueRedice.LackMoney",
-        "text": "재화가 부족하여 개조할 수 없습니다."
+        "text": "Cannot be modified due to insufficient resources."
     },
     "9000014": {
         "deprecated": false,
         "id": 9000014,
         "alias": "SysM.Forge.Enchant.MaximumEnchant",
-        "text": "이미 최고 강화 단계를 달성하였습니다."
+        "text": "You have already reached the highest level of enhancement."
     },
     "9000015": {
         "deprecated": false,
         "id": 9000015,
         "alias": "SysM.Forge.Enchant.CannotEnchant",
-        "text": "강화가 불가능한 물품입니다."
+        "text": "This item cannot be enhanced."
     },
     "9000016": {
         "deprecated": false,
         "id": 9000016,
         "alias": "SysM.Forge.Enchant.NoEnchantableItem",
-        "text": "강화가 가능한 물품이 없습니다."
+        "text": "No items can be upgraded."
     },
     "9000017": {
         "deprecated": false,
         "id": 9000017,
         "alias": "SysM.Forge.OptionReidentify.CannotOptionReidentify",
-        "text": "옵션 변경이 불가능한 물품입니다."
+        "text": "This item cannot be changed."
     },
     "9000018": {
         "deprecated": false,
         "id": 9000018,
         "alias": "SysM.Forge.OptionReidentify.NoOptionReidentifyableItem",
-        "text": "옵션 변경이 가능한 물품이 없습니다."
+        "text": "No items can be changed."
     },
     "9000019": {
         "deprecated": false,
         "id": 9000019,
         "alias": "SysM.Forge.OptionValueRedice.CannotOptionValueRedice",
-        "text": "옵션 개조가 불가능한 물품입니다."
+        "text": "This item cannot be modified."
     },
     "9000020": {
         "deprecated": false,
         "id": 9000020,
         "alias": "SysM.Forge.OptionValueRedice.NoOptionValueRediceableItem",
-        "text": "옵션 개조가 가능한 물품이 없습니다."
+        "text": "No items available for option modification."
     },
     "9000021": {
         "deprecated": false,
         "id": 9000021,
         "alias": "SysM.HUD.NotOpen",
-        "text": "준비 중인 기능입니다."
+        "text": "This function is being prepared."
     },
     "9000022": {
         "deprecated": false,
         "id": 9000022,
         "alias": "SysM.Forge.OptionValueRedice.MaxOptionValue",
-        "text": "최대치를 달성하여 개조할 수 없습니다."
+        "text": "Cannot be modded by reaching max."
     },
     "9000023": {
         "deprecated": false,
@@ -157,67 +157,67 @@
         "deprecated": false,
         "id": 9000026,
         "alias": "SysM.HUD.LastPage",
-        "text": "마지막 목록입니다."
+        "text": "This is the last list."
     },
     "9000027": {
         "deprecated": false,
         "id": 9000027,
         "alias": "SysM.HUD.FirstPage",
-        "text": "첫 번째 목록입니다."
+        "text": "This is the first list."
     },
     "9000028": {
         "deprecated": false,
         "id": 9000028,
         "alias": "SysM.Item.Discompose.GetNothing",
-        "text": "아이템을 분해하였으나 아무것도 얻지 못하였습니다."
+        "text": "Disassembled the item but found nothing."
     },
     "9000029": {
         "deprecated": false,
         "id": 9000029,
         "alias": "SysM.Inventory.TempInventoryMade",
-        "text": "물품을 더 이상 획득할 수 없어 임시보관함이 생성되었습니다."
+        "text": "A stash has been created because no more items can be obtained."
     },
     "9000030": {
         "deprecated": false,
         "id": 9000030,
         "alias": "SysM.Craft.InventoryFull",
-        "text": "소지품이 꽉 차서 제작할 수 없습니다."
+        "text": "Your inventory is full and can't be crafted."
     },
     "9000031": {
         "deprecated": false,
         "id": 9000031,
         "alias": "SysM.Craft.LackResource",
-        "text": "재료 부족으로 제작할 수 없습니다."
+        "text": "Can't craft due to lack of materials."
     },
     "9000032": {
         "deprecated": false,
         "id": 9000032,
         "alias": "SysM.Craft.LackMoney",
-        "text": "재화 부족으로 제작할 수 없습니다."
+        "text": "Cannot be crafted due to lack of resources."
     },
     "9000033": {
         "deprecated": false,
         "id": 9000033,
         "alias": "SysM.Craft.LackSelectableResource",
-        "text": "선택 재료 부족으로 제작할 수 없습니다."
+        "text": "Could not be crafted due to lack of selected materials."
     },
     "9000034": {
         "deprecated": false,
         "id": 9000034,
         "alias": "SysM.Craft.MaxCraftNum",
-        "text": "한 번에 제작할 수 있는 최대 수량입니다."
+        "text": "Maximum quantity that can be crafted at one time."
     },
     "9000035": {
         "deprecated": false,
         "id": 9000035,
         "alias": "SysM.Craft.ResultFailure",
-        "text": "제작 실패 시 재료는 소멸됩니다."
+        "text": "If crafting fails, the material will be destroyed."
     },
     "9000036": {
         "deprecated": false,
         "id": 9000036,
         "alias": "SysM.Craft.SelectableResourceRegist",
-        "text": "선택 재료를 등록하여 제작할 수 있습니다."
+        "text": "Can be crafted by registering optional materials."
     },
     "9000037": {
         "deprecated": false,
@@ -300,7 +300,7 @@
         "deprecated": false,
         "id": 9000048,
         "alias": "SysM.Item.LackCloth",
-        "text": "보유한 옷감이 부족하여 교환할 수 없습니다.\n옷감은 의복 분해 시 획득 가능합니다."
+        "text": "We do not have enough fabric to exchange.\nCloth can be obtained by disassembling clothes."
     },
     "9000049": {
         "deprecated": false,
@@ -313,7 +313,7 @@
         "deprecated": false,
         "id": 9000050,
         "alias": "SysM.Item.SellItem",
-        "text": "물품을 판매했습니다."
+        "text": "You have sold an item."
     },
     "9000051": {
         "deprecated": false,
@@ -326,55 +326,55 @@
         "deprecated": false,
         "id": 9000052,
         "alias": "SysM.Item.NeedToOpenBox.2",
-        "text": "또는"
+        "text": "or"
     },
     "9000053": {
         "deprecated": false,
         "id": 9000053,
         "alias": "SysM.Item.NeedToOpenBox.3",
-        "text": "필요"
+        "text": "need"
     },
     "9000054": {
         "deprecated": false,
         "id": 9000054,
         "alias": "SysM.ENV.Fail",
-        "text": "조작에 실패했습니다."
+        "text": "Operation failed."
     },
     "9000055": {
         "deprecated": false,
         "id": 9000055,
         "alias": "SysM.ENV.AlreadyDone",
-        "text": "다른 플레이어가 조작을 완료하였습니다."
+        "text": "Another player completed the operation."
     },
     "9000056": {
         "deprecated": false,
         "id": 9000056,
         "alias": "SysM.ENV.NoTool",
-        "text": "도구가 없어서 조작할 수 없습니다."
+        "text": "Unable to operate because the tool is missing."
     },
     "9000057": {
         "deprecated": false,
         "id": 9000057,
         "alias": "SysM.Item.TeleportNotAvailable",
-        "text": "순간이동을 할 수 없는 상태입니다."
+        "text": "You cannot teleport."
     },
     "9000058": {
         "deprecated": false,
         "id": 9000058,
         "alias": "SysM.Item.Reselect",
-        "text": "다시 선택해 주십시오."
+        "text": "Please select again."
     },
     "9000059": {
         "deprecated": false,
         "id": 9000059,
         "alias": "SysM.TempInventory.Reward",
-        "text": "임시 보관함에 보관 중인 물품이 있어 보상을 획득할 수 없습니다."
+        "text": "The reward could not be obtained because there are items in the Drafts."
     },
     "9000060": {
         "deprecated": false,
         "id": 9000060,
         "alias": "SysM.TempInventory.Made",
-        "text": "소지품 여유 공간이 없어 임시보관함이 생성되었습니다."
+        "text": "Drafts have been created because there is no free space in your inventory."
     },
     "9000061": {
         "deprecated": false,
@@ -387,13 +387,13 @@
         "deprecated": false,
         "id": 9000062,
         "alias": "SysM.Item.UseFail.NotAvailabeStance",
-        "text": "아이템을 사용 할 수 있는 상태가 아닙니다."
+        "text": "The item is not in a usable state."
     },
     "9000063": {
         "deprecated": false,
         "id": 9000063,
         "alias": "SysM.Item.QuickBar.UseFail.Cooltime",
-        "text": "아직 사용할 수 없습니다."
+        "text": "Not available yet."
     },
     "9000064": {
         "deprecated": false,
@@ -406,319 +406,319 @@
         "deprecated": false,
         "id": 9000065,
         "alias": "SysM.Lobby.logIn.ConnectError",
-        "text": "연결 오류가 발생하였습니다. (<arg p=[1:integer]/>)"
+        "text": "A connection error occurred. (<arg p=[1:integer]/>)"
     },
     "9000066": {
         "deprecated": false,
         "id": 9000066,
         "alias": "SysM.Lobby.logIn.NeedUpdate",
-        "text": "버전이 일치하지 않습니다. 업데이트 후 재접속 해주세요. (<arg p=[1:integer]/>)"
+        "text": "Version mismatch. Please reconnect after updating. (<arg p=[1:integer]/>)"
     },
     "9000067": {
         "deprecated": false,
         "id": 9000067,
         "alias": "SysM.Lobby.logIn.CertificateError",
-        "text": "인증오류 <arg p=[1:integer]/>"
+        "text": "Authentication error <arg p=[1:integer]/>"
     },
     "9000068": {
         "deprecated": false,
         "id": 9000068,
         "alias": "SysM.Region.EntranceFail.Level",
-        "text": "레벨이 낮아 입장이 불가능합니다."
+        "text": "You cannot enter due to low level."
     },
     "9000069": {
         "deprecated": false,
         "id": 9000069,
         "alias": "SysM.Region.EntranceFail.Quest",
-        "text": "선행 퀘스트를 완료하지 않아 입장이 불가능합니다."
+        "text": "You cannot enter because you have not completed the preceding quest."
     },
     "9000070": {
         "deprecated": false,
         "id": 9000070,
         "alias": "SysM.Dungeon.Cleared.Out.1",
-        "text": "이미 클리어한 던전입니다. <arg p=[1:integer]/>초 후 던전 밖으로 이동 됩니다."
+        "text": "This dungeon has already been cleared. It will be moved out of the dungeon after <arg p=[1:integer]/> seconds."
     },
     "9000071": {
         "deprecated": false,
         "id": 9000071,
         "alias": "SysM.Dungeon.Cleared.Out.2",
-        "text": "이미 클리어한 던전입니다. 던전 밖으로 이동 됩니다."
+        "text": "This dungeon has already been cleared. It will be moved out of the dungeon."
     },
     "9000072": {
         "deprecated": false,
         "id": 9000072,
         "alias": "SysM.Dungeon.DeclineInvite",
-        "text": "던전 동참을 거부했습니다."
+        "text": "You refused to join the dungeon."
     },
     "9000073": {
         "deprecated": false,
         "id": 9000073,
         "alias": "SysM.Dungeon.Information.DeclineInvite",
-        "text": "<arg p=[1:string]/> 님이 던전 동참을 거부했습니다."
+        "text": "<arg p=[1:string]/> refused to join the dungeon."
     },
     "9000074": {
         "deprecated": false,
         "id": 9000074,
         "alias": "SysM.Dungeon.GoOut",
-        "text": "던전 밖으로 이동합니다."
+        "text": "Move out of the dungeon."
     },
     "9000075": {
         "deprecated": false,
         "id": 9000075,
         "alias": "SysM.Dungeon.EntranceLevelLack",
-        "text": "진입 가능 레벨이 부족합니다."
+        "text": "Not enough entry levels."
     },
     "9000076": {
         "deprecated": false,
         "id": 9000076,
         "alias": "SysM.Dungeon.NeedQuestDone",
-        "text": "선행 퀘스트를 완료해야 합니다."
+        "text": "You must complete the preceding quest."
     },
     "9000077": {
         "deprecated": false,
         "id": 9000077,
         "alias": "SysM.TempInventory.Reward2",
-        "text": "임시 보관 중인 물품이 있어\n보상 일부를 획득할 수 없습니다."
+        "text": "Some of the rewards cannot be obtained because there are items in temporary storage."
     },
     "9000078": {
         "deprecated": false,
         "id": 9000078,
         "alias": "SysM.Death.InstantRevival.1",
-        "text": "즉시 부활 사용 시 비용을 지불해야 합니다.\n"
+        "text": "You have to pay when using Instant Resurrection.\n"
     },
     "9000079": {
         "deprecated": false,
         "id": 9000079,
         "alias": "SysM.Death.InstantRevival.2",
-        "text": "내에 즉시 부활을 반복 사용할 경우, 즉시 부활 비용이 증가합니다."
+        "text": "If you use Instant Respawn repeatedly within, the cost of Instant Respawn increases."
     },
     "9000080": {
         "deprecated": false,
         "id": 9000080,
         "alias": "SysM.Death.InstantRevival.LackMoney",
-        "text": "즉시 부활 비용이 부족합니다."
+        "text": "Not enough instant respawn."
     },
     "9000081": {
         "deprecated": false,
         "id": 9000081,
         "alias": "SysM.Item.ExpendResult",
-        "text": "<arg p=[1:string]/> 공간이 <arg p=[2:integer]/>개로 확장되었습니다."
+        "text": "<arg p=[1:string]/> expanded to <arg p=[2:integer]/>"
     },
     "9000082": {
         "deprecated": false,
         "id": 9000082,
         "alias": "SysM.Battle.Information.DestructParts",
-        "text": "<arg p=[1:string]/> 님이 <arg p=[2:string]/>의 <arg p=[3:string]/>을(를) 파괴했습니다."
+        "text": "<arg p=[1:string]/> destroyed <arg p=[3:string]/> of <arg p=[2:string]/>"
     },
     "9000083": {
         "deprecated": false,
         "id": 9000083,
         "alias": "SysM.Party.Join",
-        "text": "파티에 합류했습니다."
+        "text": "You have joined the party."
     },
     "9000084": {
         "deprecated": false,
         "id": 9000084,
         "alias": "SysM.Party.Withdrawal",
-        "text": "파티에서 탈퇴하였습니다."
+        "text": "You have left the party."
     },
     "9000085": {
         "deprecated": false,
         "id": 9000085,
         "alias": "SysM.Party.DisSysMiss",
-        "text": "파티가 해산되었습니다."
+        "text": "The party has been disbanded."
     },
     "9000086": {
         "deprecated": false,
         "id": 9000086,
         "alias": "SysM.Party.InformationJoin",
-        "text": "<arg p=[1:string]/> 님이 파티에 참여했습니다."
+        "text": "<arg p=[1:string]/> joined the party."
     },
     "9000087": {
         "deprecated": false,
         "id": 9000087,
         "alias": "SysM.Party.Information.Withdrawal",
-        "text": "<arg p=[1:string]/> 님이 파티에서 탈퇴하였습니다."
+        "text": "<arg p=[1:string]/> has left the party."
     },
     "9000088": {
         "deprecated": false,
         "id": 9000088,
         "alias": "SysM.Party.Information.InviteFail",
-        "text": "<arg p=[1:string]/> 님은 이미 다른 파티에 소속되어 있습니다."
+        "text": "<arg p=[1:string]/> already belongs to another party."
     },
     "9000089": {
         "deprecated": false,
         "id": 9000089,
         "alias": "SysM.Party.Information.DisSysMissed",
-        "text": "<arg p=[1:string]/> 님이 탈퇴해 파티가 해산되었습니다."
+        "text": "Party disbanded because <arg p=[1:string]/> left."
     },
     "9000090": {
         "deprecated": false,
         "id": 9000090,
         "alias": "SysM.Party.Information.InviteFail.Full",
-        "text": "최대 파티원 수를 초과해 초대할 수 없습니다."
+        "text": "You cannot invite more than the maximum number of party members."
     },
     "9000091": {
         "deprecated": false,
         "id": 9000091,
         "alias": "SysM.Party.Information.LeaderChagne",
-        "text": "<arg p=[1:string]/> 님이 파티장으로 변경되었습니다."
+        "text": "<arg p=[1:string]/> has been changed to party leader."
     },
     "9000092": {
         "deprecated": false,
         "id": 9000092,
         "alias": "SysM.Party.Information.Decline",
-        "text": "<arg p=[1:string]/> 님이 파티 초대를 거부 하였습니다."
+        "text": "The party invitation was declined by <arg p=[1:string]/>."
     },
     "9000093": {
         "deprecated": false,
         "id": 9000093,
         "alias": "SysM.Party.Information.Invite",
-        "text": "<arg p=[1:string]/> 님을 파티에 초대했습니다."
+        "text": "You have invited <arg p=[1:string]/> to your party."
     },
     "9000094": {
         "deprecated": false,
         "id": 9000094,
         "alias": "SysM.Party.Information.AlreadyIn",
-        "text": "대상이 이미 다른 파티에 소속되어 있어 파티에 참여할 수 없습니다."
+        "text": "The target cannot join the party because it is already in another party."
     },
     "9000095": {
         "deprecated": false,
         "id": 9000095,
         "alias": "SysM.Party.Information.JoinFail.Full",
-        "text": "파티원이 가득차 파티에 참여할 수 없습니다."
+        "text": "You cannot join the party because it is full."
     },
     "9000096": {
         "deprecated": false,
         "id": 9000096,
         "alias": "SysM.Party.Information.EntranceFail",
-        "text": "파티원이 다른 던전에 참여하고 있어 던전에 입장할 수 없습니다."
+        "text": "You cannot enter the dungeon because a party member is participating in another dungeon."
     },
     "9000097": {
         "deprecated": false,
         "id": 9000097,
         "alias": "SysM.Party.Travel",
-        "text": "<arg p=[1:string]/> 님에게 이동합니다."
+        "text": "Go to <arg p=[1:string]/>"
     },
     "9000098": {
         "deprecated": false,
         "id": 9000098,
         "alias": "SysM.Party.Information.TravelFail",
-        "text": "레벨이 부족하여 이동할 수 없는 지역입니다."
+        "text": "This area cannot be moved due to insufficient levels."
     },
     "9000099": {
         "deprecated": false,
         "id": 9000099,
         "alias": "SysM.Party.LeaderChange",
-        "text": "파티장으로 위임할 파티원을 선택하세요."
+        "text": "Choose a party member to delegate as party leader."
     },
     "9000100": {
         "deprecated": false,
         "id": 9000100,
         "alias": "SysM.Party.Information.NoFriend",
-        "text": "등록된 친구가 없습니다."
+        "text": "There are no registered friends."
     },
     "9000101": {
         "deprecated": false,
         "id": 9000101,
         "alias": "SysM.Party.Information.NoParty",
-        "text": "참여중인 파티가 없습니다."
+        "text": "No party is participating."
     },
     "9000102": {
         "deprecated": false,
         "id": 9000102,
         "alias": "SysM.Party.Confirm.DiSysMiss",
-        "text": "파티를 해산하시겠습니까?"
+        "text": "Are you sure you want to dissolve the party?"
     },
     "9000103": {
         "deprecated": false,
         "id": 9000103,
         "alias": "SysM.Party.Confirm.Withdrawal",
-        "text": "파티를 탈퇴하시겠습니까?"
+        "text": "Are you sure you want to leave the party?"
     },
     "9000104": {
         "deprecated": false,
         "id": 9000104,
         "alias": "SysM.Battle.Target.Counter.TimeOut",
-        "text": "카운터-타겟이 해제되었습니다.(시간초과)"
+        "text": "Counter-target disarmed (timeout)"
     },
     "9000105": {
         "deprecated": false,
         "id": 9000105,
         "alias": "SysM.Battle.Target.Conter.DistanceOut",
-        "text": "카운터-타겟이 해제되었습니다.(거리초과)"
+        "text": "Counter-Target has been removed (exceeded distance)"
     },
     "9000106": {
         "deprecated": false,
         "id": 9000106,
         "alias": "SysM.Battle.Target.NeedMoreSelection",
-        "text": "공격 대상은 최소 한 분류 이상 선택되어야 합니다."
+        "text": "Attack target must be selected for at least one classification."
     },
     "9000107": {
         "deprecated": false,
         "id": 9000107,
         "alias": "SysM.Battle.Target.Counter.Undesignated",
-        "text": "카운터-타겟이 해제되었습니다."
+        "text": "Counter-target is off."
     },
     "9000108": {
         "deprecated": false,
         "id": 9000108,
         "alias": "SysM.Battle.Target.Counter.Designated",
-        "text": "카운터-타겟이 설정되었습니다."
+        "text": "Counter-target set."
     },
     "9000109": {
         "deprecated": false,
         "id": 9000109,
         "alias": "SysM.Battle.Target.Focus.Designated",
-        "text": "포커스-타겟이 해제되었습니다."
+        "text": "Focus-target is off."
     },
     "9000110": {
         "deprecated": false,
         "id": 9000110,
         "alias": "SysM.Achievement.GetReward",
-        "text": "업적 보상을 획득 하였습니다."
+        "text": "You have earned an achievement reward."
     },
     "9000111": {
         "deprecated": false,
         "id": 9000111,
         "alias": "SysM.Achievement.RewardCond",
-        "text": "업적 달성 후에 보상을 획득할 수 있습니다."
+        "text": "You can get a reward after completing the achievement."
     },
     "9000112": {
         "deprecated": false,
         "id": 9000112,
         "alias": "SysM.Achievement.LackSpace",
-        "text": "소지품 여유 공간이 부족하여 획득할 수 없습니다."
+        "text": "Not enough free space in your inventory to obtain."
     },
     "9000113": {
         "deprecated": false,
         "id": 9000113,
         "alias": "SysM.Party.PopUp.Confirm.Invite",
-        "text": "<arg p=[1:string]/> 님의 파티 초대"
+        "text": "Party invite from <arg p=[1:string]/>"
     },
     "9000114": {
         "deprecated": false,
         "id": 9000114,
         "alias": "SysM.Party.PopUp.Confirm.Follow",
-        "text": "<arg p=[1:string]/> 님이 <arg p=[2:string]/>(레벨 <arg p=[3:integer]/>) 던전으로 이동 하였습니다. 따라 가시겠습니까?"
+        "text": "<arg p=[1:string]/> moved to dungeon <arg p=[2:string]/> (level <arg p=[3:integer]/>). would you?"
     },
     "9000115": {
         "deprecated": false,
         "id": 9000115,
         "alias": "SysM.Party.InviteDecline",
-        "text": "파티초대를 거부 했습니다."
+        "text": "You have declined the party invitation."
     },
     "9000116": {
         "deprecated": false,
         "id": 9000116,
         "alias": "SysM.Party.Dengeon.LackLevel",
-        "text": "던전 입장 레벨이 부족하여 수락할 수 없습니다."
+        "text": "The dungeon entry level is insufficient to accept."
     },
     "9000117": {
         "deprecated": false,
         "id": 9000117,
         "alias": "SysM.Item.OpenBox.SelectKey",
-        "text": "상자를 열기 위한 열쇠를 선택해주세요."
+        "text": "Choose a key to open the chest."
     },
     "9000118": {
         "deprecated": false,
@@ -731,193 +731,193 @@
         "deprecated": false,
         "id": 9000119,
         "alias": "SysM.Item.OpenBox.LackKey",
-        "text": "열쇠가 부족하여 사용할 수 없습니다."
+        "text": "Not enough keys to use."
     },
     "9000120": {
         "deprecated": false,
         "id": 9000120,
         "alias": "SysM.TempInventory.CannotOpen",
-        "text": "임시 보관함에 보관 중인 물품이 있어 <arg p=[1:string]/>을 열 수 없습니다."
+        "text": "Cannot open <arg p=[1:string]/> because there are items in the draft."
     },
     "9000121": {
         "deprecated": false,
         "id": 9000121,
         "alias": "SysM.Item.OpenBox.LackSpace",
-        "text": "소지품 여유 공간이 없어 상자를 열 수 없습니다."
+        "text": "Crate cannot be opened because there is not enough space in your inventory."
     },
     "9000122": {
         "deprecated": false,
         "id": 9000122,
         "alias": "SysM.ExchangeShop.AchievementCoin",
-        "text": "업적을 달성하여 업적 주화를 획득할 수 있습니다."
+        "text": "You can earn achievement coins by completing achievements."
     },
     "9000123": {
         "deprecated": false,
         "id": 9000123,
         "alias": "SysM.ExchangeShop.DiscomposeCloth",
-        "text": "의복을 분해하여 옷감을 획득할 수 있습니다."
+        "text": "Cloth can be disassembled for cloth."
     },
     "9000124": {
         "deprecated": false,
         "id": 9000124,
         "alias": "SysM.ExchangeShop.Exchange",
-        "text": "<arg p=[1:string]/> <arg p=[2:integer]/>개를 교환합니다"
+        "text": "Swap <arg p=[1:string]/> <arg p=[2:integer]/>"
     },
     "9000125": {
         "deprecated": false,
         "id": 9000125,
         "alias": "SysM.ExchangeShop.LackCoin",
-        "text": "<arg p=[1:string]/>가 부족하여 돌릴 수 없습니다."
+        "text": "Not enough <arg p=[1:string]/> to run."
     },
     "9000126": {
         "deprecated": false,
         "id": 9000126,
         "alias": "SysM.ExchangeShop.AcquireItem",
-        "text": "돌림판을 돌려 <arg p=[1:integer]/>개의 물품을 획득하였습니다."
+        "text": "Turn the wheel to obtain <arg p=[1:integer]/> items."
     },
     "9000127": {
         "deprecated": false,
         "id": 9000127,
         "alias": "SysM.ExchangeShop.LackAchievementCoin",
-        "text": "보유 중인 업적주화가 부족하여 구매할 수 없습니다.\n업적주화는 업적 달성 시 획득 가능합니다."
+        "text": "You cannot purchase achievement coins because you do not have enough achievement coins.\nAchievement coins can be obtained by completing achievements."
     },
     "9000128": {
         "deprecated": false,
         "id": 9000128,
         "alias": "SysM.ExchangeShop.LackCloth",
-        "text": "보유한 옷감이 부족하여 교환할 수 없습니다.\n옷감은 의복 분해 시 획득 가능합니다."
+        "text": "You can't exchange it because you don't have enough fabric.\nCloth can be obtained by disassembling clothes."
     },
     "9000129": {
         "deprecated": false,
         "id": 9000129,
         "alias": "SysM.Item.Equip.Ability",
-        "text": "<arg p=[1:string]/> 장착 시 능력이 발동됩니다."
+        "text": "Abilities are triggered when equipped <arg p=[1:string]/>"
     },
     "9000130": {
         "deprecated": false,
         "id": 9000130,
         "alias": "SysM.Lobby.AD.Consent",
-        "text": "광고성 정보 수신을 동의하였습니다. "
+        "text": "I agree to receive advertising information. "
     },
     "9000131": {
         "deprecated": false,
         "id": 9000131,
         "alias": "SysM.Lobby.AD.Declline",
-        "text": "광고성 정보 수신을 거부하였습니다."
+        "text": "You have refused to receive advertising information."
     },
     "9000132": {
         "deprecated": false,
         "id": 9000132,
         "alias": "SysM.Lobby.AD.NightConsent",
-        "text": "야간 광고성 Push 수신을 동의하였습니다. "
+        "text": "You have agreed to receive nightly advertising pushes. "
     },
     "9000133": {
         "deprecated": false,
         "id": 9000133,
         "alias": "SysM.Lobby.AD.NightDecline",
-        "text": "야간 광고성 Push 수신을 거부하였습니다."
+        "text": "You have declined to receive nightly advertising pushes."
     },
     "9000134": {
         "deprecated": false,
         "id": 9000134,
         "alias": "SysM.Lobby.NeedConsent",
-        "text": "필수 이용약관을 동의하지 않은 경우 시작할 수 없습니다."
+        "text": "You cannot start if you do not accept the required terms and conditions."
     },
     "9000135": {
         "deprecated": false,
         "id": 9000135,
         "alias": "SysM.Lobby.Checking",
-        "text": "점검중 입니다."
+        "text": "Under maintenance."
     },
     "9000136": {
         "deprecated": false,
         "id": 9000136,
         "alias": "SysM.Lobby.NeedUpdate",
-        "text": "최신 버전으로 업데이트 해주세요."
+        "text": "Please update to the latest version."
     },
     "9000137": {
         "deprecated": false,
         "id": 9000137,
         "alias": "SysM.Lobby.SessionExpired",
-        "text": "세션이 유효하지 않습니다."
+        "text": "The session is invalid."
     },
     "9000138": {
         "deprecated": false,
         "id": 9000138,
         "alias": "SysM.Lobby.IogIn.Fail",
-        "text": "로그인에 실패하였습니다. (<arg p=[1:integer]/>)"
+        "text": "Login failed. (<arg p=[1:integer]/>)"
     },
     "9000139": {
         "deprecated": false,
         "id": 9000139,
         "alias": "SysM.Lobby.IogIn.UserNameNotValid",
-        "text": "로그인 플레이어 이름이 유효하지 않습니다."
+        "text": "The login player name is invalid."
     },
     "9000140": {
         "deprecated": false,
         "id": 9000140,
         "alias": "SysM.Lobby.IogIn.AccountNotValid",
-        "text": "로그인 계정이 유효하지 않습니다."
+        "text": "The login account is invalid."
     },
     "9000141": {
         "deprecated": false,
         "id": 9000141,
         "alias": "SysM.Lobby.AuthorityNotActivate",
-        "text": "필수권한이 활성화 되지 않았습니다."
+        "text": "Required privileges are not activated."
     },
     "9000142": {
         "deprecated": false,
         "id": 9000142,
         "alias": "SysM.Lobby.URLFail",
-        "text": "약관동의 URL 을 가져오는데 실패하였습니다."
+        "text": "Failed to fetch the terms and conditions URL."
     },
     "9000143": {
         "deprecated": false,
         "id": 9000143,
         "alias": "SysM.Lobby.SetUpFail",
-        "text": "로비 설정을 가져오는데 실패하였습니다."
+        "text": "Failed to get lobby settings."
     },
     "9000144": {
         "deprecated": false,
         "id": 9000144,
         "alias": "SysM.Lobby.IogIn.AccountOrPasswordNotValid",
-        "text": "계정 또는 비밀번호가 유효하지 않습니다."
+        "text": "Your account or password is invalid."
     },
     "9000145": {
         "deprecated": false,
         "id": 9000145,
         "alias": "SysM.Lobby.IogIn.AccountLost",
-        "text": "계정을 찾을 수 없습니다."
+        "text": "Account not found."
     },
     "9000146": {
         "deprecated": false,
         "id": 9000146,
         "alias": "SysM.Lobby.IogIn.Double",
-        "text": "이중 로그인 에러"
+        "text": "Double login error"
     },
     "9000147": {
         "deprecated": false,
         "id": 9000147,
         "alias": "SysM.Lobby.IogIn.AccountInfoNotValid",
-        "text": "유효하지 않은 계정정보 입니다"
+        "text": "Invalid account information"
     },
     "9000148": {
         "deprecated": false,
         "id": 9000148,
         "alias": "SysM.Lobby.IogIn.PasswordNotValid",
-        "text": "유효하지 않은 비밀번호 입니다"
+        "text": "Invalid password"
     },
     "9000149": {
         "deprecated": false,
         "id": 9000149,
         "alias": "SysM.Lobby.NoCharactor",
-        "text": "생성된 캐릭터가 없습니다."
+        "text": "No character was created."
     },
     "9000150": {
         "deprecated": false,
         "id": 9000150,
         "alias": "SysM.Lobby.FailInitialize",
-        "text": "NcNp 초기화에 실패하였습니다."
+        "text": "NcNp initialization failed."
     },
     "9000151": {
         "deprecated": false,
@@ -930,55 +930,55 @@
         "deprecated": false,
         "id": 9000152,
         "alias": "SysM.Skill.Center.Acquire.HyperRun",
-        "text": "경공 습득"
+        "text": "Acquire light work"
     },
     "9000153": {
         "deprecated": false,
         "id": 9000153,
         "alias": "SysM.Lobby.CannotConnect.DeleteStanby",
-        "text": "삭제 대기중인 캐릭터로 시작할 수 없습니다."
+        "text": "Cannot start with character waiting to be deleted."
     },
     "9000154": {
         "deprecated": false,
         "id": 9000154,
         "alias": "SysM.Lobby.CharactorDeleted",
-        "text": "<arg p=[1:string]/><ga/> 삭제되었습니다."
+        "text": "<arg p=[1:string]/><ga/> removed."
     },
     "9000155": {
         "deprecated": false,
         "id": 9000155,
         "alias": "SysM.Lobby.NeedName",
-        "text": "이름을 입력해 주세요."
+        "text": "Please enter a name."
     },
     "9000156": {
         "deprecated": false,
         "id": 9000156,
         "alias": "SysM.Lobby.CreatableNumOver",
-        "text": "생성 가능한 영웅 개수를 초과하였습니다."
+        "text": "The number of heroes that can be created has been exceeded."
     },
     "9000157": {
         "deprecated": false,
         "id": 9000157,
         "alias": "SysM.Lobby.NameOverlap",
-        "text": "중복된 이름입니다."
+        "text": "Duplicate name."
     },
     "9000158": {
         "deprecated": false,
         "id": 9000158,
         "alias": "SysM.Lobby.NotAvailableName",
-        "text": "사용할 수 없는 이름입니다."
+        "text": "Name not allowed."
     },
     "9000159": {
         "deprecated": false,
         "id": 9000159,
         "alias": "SysM.Lobby.NotAvailableLength",
-        "text": "길이가 알맞지 않습니다."
+        "text": "Invalid length."
     },
     "9000160": {
         "deprecated": false,
         "id": 9000160,
         "alias": "SysM.Lobby.NotAvailableWord",
-        "text": "사용할 수 없는 문자가 포함되어 있습니다."
+        "text": "Contains invalid characters."
     },
     "9000162": {
         "deprecated": false,
@@ -1194,13 +1194,13 @@
         "deprecated": false,
         "id": 9000203,
         "alias": "SysM.ClientExit.GMBanish",
-        "text": "운영자에 의해 접속이 종료되었습니다."
+        "text": "The connection was closed by the operator."
     },
     "9000204": {
         "deprecated": false,
         "id": 9000204,
         "alias": "SysM.ClientExit.NeedClientUpdate",
-        "text": "게임 종료"
+        "text": "Game Ended"
     },
     "9000205": {
         "deprecated": false,

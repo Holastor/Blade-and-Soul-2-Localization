@@ -431,7 +431,7 @@
         "Dev_Desc": "시티즌 상점 / 타이틀 이름 / ",
         "id": 8000062,
         "alias": "UI.NPCShop.TitleName.Shop",
-        "text": "shop"
+        "text": "Shop"
     },
     "8000063": {
         "deprecated": false,
@@ -473,7 +473,7 @@
         "Dev_Desc": "교환상점 / 버튼 / ",
         "id": 8000068,
         "alias": "UI.ExchangeShop.buttonName.GoNPCShop",
-        "text": "Move shop"
+        "text": "Move Shop"
     },
     "8000069": {
         "deprecated": false,
@@ -1397,7 +1397,7 @@
         "Dev_Desc": "던전 / 타이틀 이름 / ",
         "id": 8000200,
         "alias": "UI.Dungeon.TitleName.Dungeon",
-        "text": "dungeon"
+        "text": "Dungeon"
     },
     "8000201": {
         "deprecated": false,
@@ -2699,7 +2699,7 @@
         "Dev_Desc": "HUD / ",
         "id": 8000386,
         "alias": "UI.HUD.Second",
-        "text": "seconds"
+        "text": "Sec"
     },
     "8000387": {
         "deprecated": false,
@@ -2713,14 +2713,14 @@
         "Dev_Desc": "HUD / ",
         "id": 8000388,
         "alias": "UI.HUD.Minute",
-        "text": "minutes"
+        "text": "Min"
     },
     "8000389": {
         "deprecated": false,
         "Dev_Desc": "HUD / ",
         "id": 8000389,
         "alias": "UI.HUD.Hour",
-        "text": "hour"
+        "text": "Hour"
     },
     "8000390": {
         "deprecated": false,
@@ -3693,21 +3693,21 @@
         "Dev_Desc": "친구 팝업 / 접속 상태 / 1시간 이내 마지막 접속",
         "id": 8000529,
         "alias": "UI.FriendPopUp.ConnectionState.Notconnected.1",
-        "text": "<arg p=[1:integer]/> minutes ago"
+        "text": "<arg p=[1:integer]/> Min ago"
     },
     "8000530": {
         "deprecated": false,
         "Dev_Desc": "친구 팝업 / 접속 상태 / 24시간 이내 마지막 접속",
         "id": 8000530,
         "alias": "UI.FriendPopUp.ConnectionState.Notconnected.2",
-        "text": "<arg p=[1:integer]/> hours ago"
+        "text": "<arg p=[1:integer]/> Hours ago"
     },
     "8000531": {
         "deprecated": false,
         "Dev_Desc": "친구 팝업 / 접속 상태 / 24시간 이후 미접속",
         "id": 8000531,
         "alias": "UI.FriendPopUp.ConnectionState.Notconnected.3",
-        "text": "<arg p=[1:integer]/> days ago"
+        "text": "<arg p=[1:integer]/> Days ago"
     },
     "8000532": {
         "deprecated": false,
@@ -6269,21 +6269,21 @@
         "Dev_Desc": "문파 / 문파원 / 컬럼 / 접속상태 / 미접속 / 1시간 이내",
         "id": 8000924,
         "alias": "UI.Guild.CrewInfo.UnConnected.LessHour",
-        "text": "<arg p=[1:integer]/> minutes ago"
+        "text": "<arg p=[1:integer]/> Min ago"
     },
     "8000925": {
         "deprecated": false,
         "Dev_Desc": "문파 / 문파원 / 컬럼 / 접속상태 / 미접속 / 1일 이내",
         "id": 8000925,
         "alias": "UI.Guild.CrewInfo.UnConnected.LessDay",
-        "text": "<arg p=[1:integer]/> hours ago"
+        "text": "<arg p=[1:integer]/> Hours ago"
     },
     "8000926": {
         "deprecated": false,
         "Dev_Desc": "문파 / 문파원 / 컬럼 / 접속상태 / 미접속 / 1일 초과",
         "id": 8000926,
         "alias": "UI.Guild.CrewInfo.UnConnected.overDay",
-        "text": "<arg p=[1:integer]/> days ago"
+        "text": "<arg p=[1:integer]/> Days ago"
     },
     "8000927": {
         "deprecated": false,
@@ -15509,7 +15509,7 @@
         "Dev_Desc": "로그인 UI / 데이터 다운로드 / 저장 공간 부족",
         "id": 8002291,
         "alias": "UI.Login.DataDownload.LackSpace",
-        "text": "Not enough storage space <arg p=[1:double]/>% (<arg p=[2:integer]/>/<arg p=[3:integer]/><arg p=[4] :string]/>)"
+        "text": "Not enough storage space <arg p=[1:double]/>% (<arg p=[2:integer]/>/<arg p=[3:integer]/><arg p=[4:string]/>)"
     },
     "8002292": {
         "deprecated": false,
@@ -17868,7 +17868,7 @@
         "Dev_Desc": "설정 / 조작 / 편의 / 시간 설정 버튼",
         "id": 8002631,
         "alias": "UI.Option.Control.Convenience.SaveMode.AutoSave.Button.",
-        "text": "<arg p=[1:integer]/>minutes"
+        "text": "<arg p=[1:integer]/> Min"
     },
     "8002632": {
         "deprecated": false,
@@ -19373,7 +19373,7 @@
         "Dev_Desc": "던전 / 시간 정보 / 시간, 분",
         "id": 8002846,
         "alias": "UI.Dungeon.RemainTime.2",
-        "text": "<arg p=[1:integer]/>hours <arg p=[2:integer]/>minutes"
+        "text": "<arg p=[1:integer]/> Hours <arg p=[2:integer]/> Min"
     },
     "8002847": {
         "deprecated": false,
@@ -19660,7 +19660,7 @@
         "Dev_Desc": "던전 / 시간 정보 / 시간, 분",
         "id": 8002888,
         "alias": "UI.Dungeon.RemainTime.3",
-        "text": "<arg p=[1:integer]/>minutes"
+        "text": "<arg p=[1:integer]/> Min"
     },
     "8002889": {
         "deprecated": false,
@@ -20086,21 +20086,21 @@
         "Dev_Desc": "던전 / 남은 이용 시간 / 시간",
         "id": 8002949,
         "alias": "UI.Dungeon.RemainTimeHUD.1",
-        "text": "Time remaining <arg p=[1:integer]/>hours"
+        "text": "Time remaining <arg p=[1:integer]/> Hours"
     },
     "8002950": {
         "deprecated": false,
         "Dev_Desc": "던전 / 남은 이용 시간 / 시간 및 분",
         "id": 8002950,
         "alias": "UI.Dungeon.RemainTimeHUD.2",
-        "text": "Time remaining <arg p=[1:integer]/> hours <arg p=[2:integer]/> minutes"
+        "text": "Time remaining <arg p=[1:integer]/> Hours <arg p=[2:integer]/> Minutes"
     },
     "8002951": {
         "deprecated": false,
         "Dev_Desc": "던전 / 남은 이용 시간 / 분",
         "id": 8002951,
         "alias": "UI.Dungeon.RemainTimeHUD.3",
-        "text": "Time remaining <arg p=[1:integer]/> minutes"
+        "text": "Time remaining <arg p=[1:integer]/> Minutes"
     },
     "8002952": {
         "deprecated": false,
@@ -22480,7 +22480,7 @@
         "Dev_Desc": "환경설정 / 계정/ 탈출실패 (쿨타임)",
         "id": 8003291,
         "alias": "UI.Option.Acount.Escape.Fail.ByCoolDown",
-        "text": "Available again in <arg p=[1:integer]/> minutes."
+        "text": "Available again in <arg p=[1:integer]/> Minutes."
     },
     "8003292": {
         "deprecated": false,
