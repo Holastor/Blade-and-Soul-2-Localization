@@ -1,0 +1,510 @@
+{
+    "97000036": {
+        "deprecated": false,
+        "Dev_Desc": "PK 상점 - 흑구슬",
+        "id": 97000036,
+        "alias": "Contents.Item.Desc.7000036",
+        "text": "<br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_005.Icon_Test_TextForm_005'] width=[32] height=[32]/>결투상인 스트론"
+    },
+    "97000037": {
+        "deprecated": false,
+        "Dev_Desc": "PK 상점 - 백구슬",
+        "id": 97000037,
+        "alias": "Contents.Item.Desc.7000037",
+        "text": "<br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_005.Icon_Test_TextForm_005'] width=[32] height=[32]/>결투상인 스트론"
+    },
+    "97000105": {
+        "deprecated": false,
+        "Dev_Desc": "숙련",
+        "id": 97000105,
+        "alias": "Contents.Item.Desc.7000105",
+        "text": "통제 성공 시 유지시간 증가<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_005.Icon_Test_TextForm_005'] width=[32] height=[32]/>능력치 도우미 주디아"
+    },
+    "97000106": {
+        "deprecated": false,
+        "Dev_Desc": "유연",
+        "id": 97000106,
+        "alias": "Contents.Item.Desc.7000106",
+        "text": "통제 피격 시 유지시간 감소<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_005.Icon_Test_TextForm_005'] width=[32] height=[32]/>능력치 도우미 주디아"
+    },
+    "97000107": {
+        "deprecated": false,
+        "Dev_Desc": "기민",
+        "id": 97000107,
+        "alias": "Contents.Item.Desc.7000107",
+        "text": "피격 시 빗맞음 확률 증가<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_005.Icon_Test_TextForm_005'] width=[32] height=[32]/>능력치 도우미 주디아"
+    },
+    "97000108": {
+        "deprecated": false,
+        "Dev_Desc": "제압",
+        "id": 97000108,
+        "alias": "Contents.Item.Desc.7000108",
+        "text": "통제 명중 확률 증가<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_005.Icon_Test_TextForm_005'] width=[32] height=[32]/>능력치 도우미 주디아"
+    },
+    "97000109": {
+        "deprecated": false,
+        "Dev_Desc": "인내",
+        "id": 97000109,
+        "alias": "Contents.Item.Desc.7000109",
+        "text": "통제 명중 확률 감소<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_005.Icon_Test_TextForm_005'] width=[32] height=[32]/>능력치 도우미 주디아"
+    },
+    "97000110": {
+        "deprecated": false,
+        "Dev_Desc": "집중",
+        "id": 97000110,
+        "alias": "Contents.Item.Desc.7000110",
+        "text": "막기 관통 사용 시 상대의 막기 확률 감소<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_005.Icon_Test_TextForm_005'] width=[32] height=[32]/>능력치 도우미 주디아"
+    },
+    "97000111": {
+        "deprecated": false,
+        "Dev_Desc": "방호",
+        "id": 97000111,
+        "alias": "Contents.Item.Desc.7000111",
+        "text": "막기 사용 시 막기 확률 증가<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_005.Icon_Test_TextForm_005'] width=[32] height=[32]/>능력치 도우미 주디아"
+    },
+    "97000112": {
+        "deprecated": false,
+        "Dev_Desc": "불굴",
+        "id": 97000112,
+        "alias": "Contents.Item.Desc.7000112",
+        "text": "중첩 대미지 감소<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_005.Icon_Test_TextForm_005'] width=[32] height=[32]/>능력치 도우미 주디아"
+    },
+    "97000115": {
+        "deprecated": false,
+        "Dev_Desc": "힘의 보석",
+        "id": 97000115,
+        "alias": "Contents.Item.Desc.7000115",
+        "text": "보석 분해 시 보석가루를 획득합니다. 획득한 보석 가루는 잡화상인에게서 보석 상자로 교환할 수 있습니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_005.Icon_Test_TextForm_005'] width=[32] height=[32]/>능력치 도우미 주디아"
+    },
+    "97000116": {
+        "deprecated": false,
+        "Dev_Desc": "솜씨의 보석",
+        "id": 97000116,
+        "alias": "Contents.Item.Desc.7000116",
+        "text": "보석 분해 시 보석가루를 획득합니다. 획득한 보석 가루는 잡화상인에게서 보석 상자로 교환할 수 있습니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_005.Icon_Test_TextForm_005'] width=[32] height=[32]/>능력치 도우미 주디아"
+    },
+    "97000117": {
+        "deprecated": false,
+        "Dev_Desc": "지능의 보석",
+        "id": 97000117,
+        "alias": "Contents.Item.Desc.7000117",
+        "text": "보석 분해 시 보석가루를 획득합니다. 획득한 보석 가루는 잡화상인에게서 보석 상자로 교환할 수 있습니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_005.Icon_Test_TextForm_005'] width=[32] height=[32]/>능력치 도우미 주디아"
+    },
+    "97000118": {
+        "deprecated": false,
+        "Dev_Desc": "건강의 보석",
+        "id": 97000118,
+        "alias": "Contents.Item.Desc.7000118",
+        "text": "보석 분해 시 보석가루를 획득합니다. 획득한 보석 가루는 잡화상인에게서 보석 상자로 교환할 수 있습니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_005.Icon_Test_TextForm_005'] width=[32] height=[32]/>능력치 도우미 주디아"
+    },
+    "97000119": {
+        "deprecated": false,
+        "Dev_Desc": "지혜의 보석",
+        "id": 97000119,
+        "alias": "Contents.Item.Desc.7000119",
+        "text": "보석 분해 시 보석가루를 획득합니다. 획득한 보석 가루는 잡화상인에게서 보석 상자로 교환할 수 있습니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_005.Icon_Test_TextForm_005'] width=[32] height=[32]/>능력치 도우미 주디아"
+    },
+    "97000120": {
+        "deprecated": false,
+        "Dev_Desc": "민첩의 보석",
+        "id": 97000120,
+        "alias": "Contents.Item.Desc.7000120",
+        "text": "보석 분해 시 보석가루를 획득합니다. 획득한 보석 가루는 잡화상인에게서 보석 상자로 교환할 수 있습니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_005.Icon_Test_TextForm_005'] width=[32] height=[32]/>능력치 도우미 주디아"
+    },
+    "97000121": {
+        "deprecated": false,
+        "Dev_Desc": "스태미너 보석",
+        "id": 97000121,
+        "alias": "Contents.Item.Desc.7000121"
+    },
+    "97000122": {
+        "deprecated": false,
+        "Dev_Desc": "홍옥",
+        "id": 97000122,
+        "alias": "Contents.Item.Desc.7000122",
+        "text": "보석 분해 시 보석가루를 획득합니다. 획득한 보석 가루는 잡화상인에게서 보석 상자로 교환할 수 있습니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[54:174:6:255]>상급 보석 상자</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[4:48:206:255]>희귀 보석 상자</>"
+    },
+    "97000123": {
+        "deprecated": false,
+        "Dev_Desc": "상급 홍옥",
+        "id": 97000123,
+        "alias": "Contents.Item.Desc.7000123",
+        "text": "보석 분해 시 보석가루를 획득합니다. 획득한 보석 가루는 잡화상인에게서 보석 상자로 교환할 수 있습니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[4:48:206:255]>희귀 보석 상자</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[98:0:182:255]>영웅 보석 상자</>"
+    },
+    "97000124": {
+        "deprecated": false,
+        "Dev_Desc": "최상급 홍옥",
+        "id": 97000124,
+        "alias": "Contents.Item.Desc.7000124",
+        "text": "보석 분해 시 보석가루를 획득합니다. 획득한 보석 가루는 잡화상인에게서 보석 상자로 교환할 수 있습니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[98:0:182:255]>영웅 보석 상자</>"
+    },
+    "97000125": {
+        "deprecated": false,
+        "Dev_Desc": "홍옥",
+        "id": 97000125,
+        "alias": "Contents.Item.Desc.7000125",
+        "text": "보석 분해 시 보석가루를 획득합니다. 획득한 보석 가루는 잡화상인에게서 보석 상자로 교환할 수 있습니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[54:174:6:255]>상급 보석 상자</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[4:48:206:255]>희귀 보석 상자</>"
+    },
+    "97000126": {
+        "deprecated": false,
+        "Dev_Desc": "상급 홍옥",
+        "id": 97000126,
+        "alias": "Contents.Item.Desc.7000126",
+        "text": "보석 분해 시 보석가루를 획득합니다. 획득한 보석 가루는 잡화상인에게서 보석 상자로 교환할 수 있습니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[4:48:206:255]>희귀 보석 상자</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[98:0:182:255]>영웅 보석 상자</>"
+    },
+    "97000127": {
+        "deprecated": false,
+        "Dev_Desc": "최상급 홍옥",
+        "id": 97000127,
+        "alias": "Contents.Item.Desc.7000127",
+        "text": "보석 분해 시 보석가루를 획득합니다. 획득한 보석 가루는 잡화상인에게서 보석 상자로 교환할 수 있습니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[98:0:182:255]>영웅 보석 상자</>"
+    },
+    "97000128": {
+        "deprecated": false,
+        "Dev_Desc": "청옥",
+        "id": 97000128,
+        "alias": "Contents.Item.Desc.7000128",
+        "text": "보석 분해 시 보석가루를 획득합니다. 획득한 보석 가루는 잡화상인에게서 보석 상자로 교환할 수 있습니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[54:174:6:255]>상급 보석 상자</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[4:48:206:255]>희귀 보석 상자</>"
+    },
+    "97000129": {
+        "deprecated": false,
+        "Dev_Desc": "상급 청옥",
+        "id": 97000129,
+        "alias": "Contents.Item.Desc.7000129",
+        "text": "보석 분해 시 보석가루를 획득합니다. 획득한 보석 가루는 잡화상인에게서 보석 상자로 교환할 수 있습니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[4:48:206:255]>희귀 보석 상자</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[98:0:182:255]>영웅 보석 상자</>"
+    },
+    "97000130": {
+        "deprecated": false,
+        "Dev_Desc": "최상급 청옥",
+        "id": 97000130,
+        "alias": "Contents.Item.Desc.7000130",
+        "text": "보석 분해 시 보석가루를 획득합니다. 획득한 보석 가루는 잡화상인에게서 보석 상자로 교환할 수 있습니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[98:0:182:255]>영웅 보석 상자</>"
+    },
+    "97000131": {
+        "deprecated": false,
+        "Dev_Desc": "청옥",
+        "id": 97000131,
+        "alias": "Contents.Item.Desc.7000131",
+        "text": "보석 분해 시 보석가루를 획득합니다. 획득한 보석 가루는 잡화상인에게서 보석 상자로 교환할 수 있습니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[54:174:6:255]>상급 보석 상자</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[4:48:206:255]>희귀 보석 상자</>"
+    },
+    "97000132": {
+        "deprecated": false,
+        "Dev_Desc": "상급 청옥",
+        "id": 97000132,
+        "alias": "Contents.Item.Desc.7000132",
+        "text": "보석 분해 시 보석가루를 획득합니다. 획득한 보석 가루는 잡화상인에게서 보석 상자로 교환할 수 있습니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[4:48:206:255]>희귀 보석 상자</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[98:0:182:255]>영웅 보석 상자</>"
+    },
+    "97000133": {
+        "deprecated": false,
+        "Dev_Desc": "최상급 청옥",
+        "id": 97000133,
+        "alias": "Contents.Item.Desc.7000133",
+        "text": "보석 분해 시 보석가루를 획득합니다. 획득한 보석 가루는 잡화상인에게서 보석 상자로 교환할 수 있습니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[98:0:182:255]>영웅 보석 상자</>"
+    },
+    "97000134": {
+        "deprecated": false,
+        "Dev_Desc": "녹옥",
+        "id": 97000134,
+        "alias": "Contents.Item.Desc.7000134",
+        "text": "보석 분해 시 보석가루를 획득합니다. 획득한 보석 가루는 잡화상인에게서 보석 상자로 교환할 수 있습니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[54:174:6:255]>상급 보석 상자</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[4:48:206:255]>희귀 보석 상자</>"
+    },
+    "97000135": {
+        "deprecated": false,
+        "Dev_Desc": "상급 녹옥",
+        "id": 97000135,
+        "alias": "Contents.Item.Desc.7000135",
+        "text": "보석 분해 시 보석가루를 획득합니다. 획득한 보석 가루는 잡화상인에게서 보석 상자로 교환할 수 있습니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[4:48:206:255]>희귀 보석 상자</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[98:0:182:255]>영웅 보석 상자</>"
+    },
+    "97000136": {
+        "deprecated": false,
+        "Dev_Desc": "최상급 녹옥",
+        "id": 97000136,
+        "alias": "Contents.Item.Desc.7000136",
+        "text": "보석 분해 시 보석가루를 획득합니다. 획득한 보석 가루는 잡화상인에게서 보석 상자로 교환할 수 있습니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[98:0:182:255]>영웅 보석 상자</>"
+    },
+    "97000137": {
+        "deprecated": false,
+        "Dev_Desc": "녹옥",
+        "id": 97000137,
+        "alias": "Contents.Item.Desc.7000137",
+        "text": "보석 분해 시 보석가루를 획득합니다. 획득한 보석 가루는 잡화상인에게서 보석 상자로 교환할 수 있습니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[54:174:6:255]>상급 보석 상자</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[4:48:206:255]>희귀 보석 상자</>"
+    },
+    "97000138": {
+        "deprecated": false,
+        "Dev_Desc": "상급 녹옥",
+        "id": 97000138,
+        "alias": "Contents.Item.Desc.7000138",
+        "text": "보석 분해 시 보석가루를 획득합니다. 획득한 보석 가루는 잡화상인에게서 보석 상자로 교환할 수 있습니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[4:48:206:255]>희귀 보석 상자</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[98:0:182:255]>영웅 보석 상자</>"
+    },
+    "97000139": {
+        "deprecated": false,
+        "Dev_Desc": "최상급 녹옥",
+        "id": 97000139,
+        "alias": "Contents.Item.Desc.7000139",
+        "text": "보석 분해 시 보석가루를 획득합니다. 획득한 보석 가루는 잡화상인에게서 보석 상자로 교환할 수 있습니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[98:0:182:255]>영웅 보석 상자</>"
+    },
+    "97000140": {
+        "deprecated": false,
+        "Dev_Desc": "황옥",
+        "id": 97000140,
+        "alias": "Contents.Item.Desc.7000140",
+        "text": "보석 분해 시 보석가루를 획득합니다. 획득한 보석 가루는 잡화상인에게서 보석 상자로 교환할 수 있습니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[54:174:6:255]>상급 보석 상자</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[4:48:206:255]>희귀 보석 상자</>"
+    },
+    "97000141": {
+        "deprecated": false,
+        "Dev_Desc": "상급 황옥",
+        "id": 97000141,
+        "alias": "Contents.Item.Desc.7000141",
+        "text": "보석 분해 시 보석가루를 획득합니다. 획득한 보석 가루는 잡화상인에게서 보석 상자로 교환할 수 있습니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[4:48:206:255]>희귀 보석 상자</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[98:0:182:255]>영웅 보석 상자</>"
+    },
+    "97000142": {
+        "deprecated": false,
+        "Dev_Desc": "최상급 황옥",
+        "id": 97000142,
+        "alias": "Contents.Item.Desc.7000142",
+        "text": "보석 분해 시 보석가루를 획득합니다. 획득한 보석 가루는 잡화상인에게서 보석 상자로 교환할 수 있습니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[98:0:182:255]>영웅 보석 상자</>"
+    },
+    "97000143": {
+        "deprecated": false,
+        "Dev_Desc": "황옥",
+        "id": 97000143,
+        "alias": "Contents.Item.Desc.7000143",
+        "text": "보석 분해 시 보석가루를 획득합니다. 획득한 보석 가루는 잡화상인에게서 보석 상자로 교환할 수 있습니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[54:174:6:255]>상급 보석 상자</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[4:48:206:255]>희귀 보석 상자</>"
+    },
+    "97000144": {
+        "deprecated": false,
+        "Dev_Desc": "상급 황옥",
+        "id": 97000144,
+        "alias": "Contents.Item.Desc.7000144",
+        "text": "보석 분해 시 보석가루를 획득합니다. 획득한 보석 가루는 잡화상인에게서 보석 상자로 교환할 수 있습니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[4:48:206:255]>희귀 보석 상자</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[98:0:182:255]>영웅 보석 상자</>"
+    },
+    "97000145": {
+        "deprecated": false,
+        "Dev_Desc": "최상급 황옥",
+        "id": 97000145,
+        "alias": "Contents.Item.Desc.7000145",
+        "text": "보석 분해 시 보석가루를 획득합니다. 획득한 보석 가루는 잡화상인에게서 보석 상자로 교환할 수 있습니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[98:0:182:255]>영웅 보석 상자</>"
+    },
+    "97000146": {
+        "deprecated": false,
+        "Dev_Desc": "흑요석",
+        "id": 97000146,
+        "alias": "Contents.Item.Desc.7000146",
+        "text": "보석 분해 시 보석가루를 획득합니다. 획득한 보석 가루는 잡화상인에게서 보석 상자로 교환할 수 있습니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[54:174:6:255]>상급 보석 상자</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[4:48:206:255]>희귀 보석 상자</>"
+    },
+    "97000147": {
+        "deprecated": false,
+        "Dev_Desc": "상급 흑요석",
+        "id": 97000147,
+        "alias": "Contents.Item.Desc.7000147",
+        "text": "보석 분해 시 보석가루를 획득합니다. 획득한 보석 가루는 잡화상인에게서 보석 상자로 교환할 수 있습니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[4:48:206:255]>희귀 보석 상자</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[98:0:182:255]>영웅 보석 상자</>"
+    },
+    "97000148": {
+        "deprecated": false,
+        "Dev_Desc": "최상급 흑요석",
+        "id": 97000148,
+        "alias": "Contents.Item.Desc.7000148",
+        "text": "보석 분해 시 보석가루를 획득합니다. 획득한 보석 가루는 잡화상인에게서 보석 상자로 교환할 수 있습니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[98:0:182:255]>영웅 보석 상자</>"
+    },
+    "97000149": {
+        "deprecated": false,
+        "Dev_Desc": "흑요석",
+        "id": 97000149,
+        "alias": "Contents.Item.Desc.7000149",
+        "text": "보석 분해 시 보석가루를 획득합니다. 획득한 보석 가루는 잡화상인에게서 보석 상자로 교환할 수 있습니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[54:174:6:255]>상급 보석 상자</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[4:48:206:255]>희귀 보석 상자</>"
+    },
+    "97000150": {
+        "deprecated": false,
+        "Dev_Desc": "상급 흑요석",
+        "id": 97000150,
+        "alias": "Contents.Item.Desc.7000150",
+        "text": "보석 분해 시 보석가루를 획득합니다. 획득한 보석 가루는 잡화상인에게서 보석 상자로 교환할 수 있습니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[4:48:206:255]>희귀 보석 상자</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[98:0:182:255]>영웅 보석 상자</>"
+    },
+    "97000151": {
+        "deprecated": false,
+        "Dev_Desc": "최상급 흑요석",
+        "id": 97000151,
+        "alias": "Contents.Item.Desc.7000151",
+        "text": "보석 분해 시 보석가루를 획득합니다. 획득한 보석 가루는 잡화상인에게서 보석 상자로 교환할 수 있습니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[98:0:182:255]>영웅 보석 상자</>"
+    },
+    "97000152": {
+        "deprecated": false,
+        "Dev_Desc": "비취",
+        "id": 97000152,
+        "alias": "Contents.Item.Desc.7000152",
+        "text": "보석 분해 시 보석가루를 획득합니다. 획득한 보석 가루는 잡화상인에게서 보석 상자로 교환할 수 있습니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[54:174:6:255]>상급 보석 상자</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[4:48:206:255]>희귀 보석 상자</>"
+    },
+    "97000153": {
+        "deprecated": false,
+        "Dev_Desc": "상급 비취",
+        "id": 97000153,
+        "alias": "Contents.Item.Desc.7000153",
+        "text": "보석 분해 시 보석가루를 획득합니다. 획득한 보석 가루는 잡화상인에게서 보석 상자로 교환할 수 있습니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[4:48:206:255]>희귀 보석 상자</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[98:0:182:255]>영웅 보석 상자</>"
+    },
+    "97000154": {
+        "deprecated": false,
+        "Dev_Desc": "최상급 비취",
+        "id": 97000154,
+        "alias": "Contents.Item.Desc.7000154",
+        "text": "보석 분해 시 보석가루를 획득합니다. 획득한 보석 가루는 잡화상인에게서 보석 상자로 교환할 수 있습니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[98:0:182:255]>영웅 보석 상자</>"
+    },
+    "97000155": {
+        "deprecated": false,
+        "Dev_Desc": "비취",
+        "id": 97000155,
+        "alias": "Contents.Item.Desc.7000155",
+        "text": "보석 분해 시 보석가루를 획득합니다. 획득한 보석 가루는 잡화상인에게서 보석 상자로 교환할 수 있습니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[54:174:6:255]>상급 보석 상자</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[4:48:206:255]>희귀 보석 상자</>"
+    },
+    "97000156": {
+        "deprecated": false,
+        "Dev_Desc": "상급 비취",
+        "id": 97000156,
+        "alias": "Contents.Item.Desc.7000156",
+        "text": "보석 분해 시 보석가루를 획득합니다. 획득한 보석 가루는 잡화상인에게서 보석 상자로 교환할 수 있습니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[4:48:206:255]>희귀 보석 상자</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[98:0:182:255]>영웅 보석 상자</>"
+    },
+    "97000157": {
+        "deprecated": false,
+        "Dev_Desc": "최상급 비취",
+        "id": 97000157,
+        "alias": "Contents.Item.Desc.7000157",
+        "text": "보석 분해 시 보석가루를 획득합니다. 획득한 보석 가루는 잡화상인에게서 보석 상자로 교환할 수 있습니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[98:0:182:255]>영웅 보석 상자</>"
+    },
+    "97000158": {
+        "deprecated": false,
+        "Dev_Desc": "금강석",
+        "id": 97000158,
+        "alias": "Contents.Item.Desc.7000158",
+        "text": "보석 분해 시 보석가루를 획득합니다. 획득한 보석 가루는 잡화상인에게서 보석 상자로 교환할 수 있습니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[54:174:6:255]>상급 보석 상자</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[4:48:206:255]>희귀 보석 상자</>"
+    },
+    "97000159": {
+        "deprecated": false,
+        "Dev_Desc": "상급 금강석",
+        "id": 97000159,
+        "alias": "Contents.Item.Desc.7000159",
+        "text": "보석 분해 시 보석가루를 획득합니다. 획득한 보석 가루는 잡화상인에게서 보석 상자로 교환할 수 있습니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[4:48:206:255]>희귀 보석 상자</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[98:0:182:255]>영웅 보석 상자</>"
+    },
+    "97000160": {
+        "deprecated": false,
+        "Dev_Desc": "최상급 금강석",
+        "id": 97000160,
+        "alias": "Contents.Item.Desc.7000160",
+        "text": "보석 분해 시 보석가루를 획득합니다. 획득한 보석 가루는 잡화상인에게서 보석 상자로 교환할 수 있습니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[98:0:182:255]>영웅 보석 상자</>"
+    },
+    "97000161": {
+        "deprecated": false,
+        "Dev_Desc": "금강석",
+        "id": 97000161,
+        "alias": "Contents.Item.Desc.7000161",
+        "text": "보석 분해 시 보석가루를 획득합니다. 획득한 보석 가루는 잡화상인에게서 보석 상자로 교환할 수 있습니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[54:174:6:255]>상급 보석 상자</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[4:48:206:255]>희귀 보석 상자</>"
+    },
+    "97000162": {
+        "deprecated": false,
+        "Dev_Desc": "상급 금강석",
+        "id": 97000162,
+        "alias": "Contents.Item.Desc.7000162",
+        "text": "보석 분해 시 보석가루를 획득합니다. 획득한 보석 가루는 잡화상인에게서 보석 상자로 교환할 수 있습니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[4:48:206:255]>희귀 보석 상자</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[98:0:182:255]>영웅 보석 상자</>"
+    },
+    "97000163": {
+        "deprecated": false,
+        "Dev_Desc": "최상급 금강석",
+        "id": 97000163,
+        "alias": "Contents.Item.Desc.7000163",
+        "text": "보석 분해 시 보석가루를 획득합니다. 획득한 보석 가루는 잡화상인에게서 보석 상자로 교환할 수 있습니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_014.Icon_Test_TextForm_014'] width=[32] height=[32]/><textColor=[98:0:182:255]>영웅 보석 상자</>"
+    },
+    "97000164": {
+        "deprecated": false,
+        "Dev_Desc": "검술 신속의 정수 6단",
+        "id": 97000164,
+        "alias": "Contents.Item.Desc.7000164"
+    },
+    "97000165": {
+        "deprecated": false,
+        "Dev_Desc": "검술 신속의 정수 9단",
+        "id": 97000165,
+        "alias": "Contents.Item.Desc.7000165"
+    },
+    "97000166": {
+        "deprecated": false,
+        "Dev_Desc": "부술 신속의 정수 6단",
+        "id": 97000166,
+        "alias": "Contents.Item.Desc.7000166"
+    },
+    "97000167": {
+        "deprecated": false,
+        "Dev_Desc": "부술 신속의 정수 6단",
+        "id": 97000167,
+        "alias": "Contents.Item.Desc.7000167"
+    },
+    "97000168": {
+        "deprecated": false,
+        "Dev_Desc": "궁술 신속의 정수 6단",
+        "id": 97000168,
+        "alias": "Contents.Item.Desc.7000168"
+    },
+    "97000169": {
+        "deprecated": false,
+        "Dev_Desc": "궁술 신속의 정수 9단",
+        "id": 97000169,
+        "alias": "Contents.Item.Desc.7000169"
+    },
+    "97000170": {
+        "deprecated": false,
+        "Dev_Desc": "권술 신속의 정수 6단",
+        "id": 97000170,
+        "alias": "Contents.Item.Desc.7000170"
+    },
+    "97000171": {
+        "deprecated": false,
+        "Dev_Desc": "권술 신속의 정수 9단",
+        "id": 97000171,
+        "alias": "Contents.Item.Desc.7000171"
+    },
+    "97000172": {
+        "deprecated": false,
+        "Dev_Desc": "기공술 신속의 정수 6단",
+        "id": 97000172,
+        "alias": "Contents.Item.Desc.7000172"
+    },
+    "97000173": {
+        "deprecated": false,
+        "Dev_Desc": "기공술 신속의 정수 9단",
+        "id": 97000173,
+        "alias": "Contents.Item.Desc.7000173"
+    },
+    "97000174": {
+        "deprecated": false,
+        "Dev_Desc": "수호의 보석",
+        "id": 97000174,
+        "alias": "Contents.Item.Desc.7000174"
+    },
+    "97000176": {
+        "deprecated": false,
+        "Dev_Desc": "이벤트이펙트 구슬",
+        "id": 97000176,
+        "alias": "Contents.Item.Desc.7000176"
+    },
+    "97000177": {
+        "deprecated": false,
+        "Dev_Desc": "테스트용 스킬 정수",
+        "id": 97000177,
+        "alias": "Contents.Item.Desc.7000177"
+    },
+    "97000178": {
+        "deprecated": false,
+        "Dev_Desc": "테스트용 스킬 정수",
+        "id": 97000178,
+        "alias": "Contents.Item.Desc.7000178"
+    },
+    "97000179": {
+        "deprecated": false,
+        "Dev_Desc": "테스트용 스킬 정수",
+        "id": 97000179,
+        "alias": "Contents.Item.Desc.7000179"
+    },
+    "97000180": {
+        "deprecated": false,
+        "Dev_Desc": "테스트용 스킬 정수",
+        "id": 97000180,
+        "alias": "Contents.Item.Desc.7000180"
+    }
+}
