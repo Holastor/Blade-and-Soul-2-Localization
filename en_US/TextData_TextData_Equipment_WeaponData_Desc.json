@@ -1,0 +1,3204 @@
+{
+    "92000001": {
+        "deprecated": false,
+        "Dev_Desc": "수련용 검",
+        "id": 92000001,
+        "alias": "Contents.Item.Desc.2000001"
+    },
+    "92000002": {
+        "deprecated": false,
+        "Dev_Desc": "수련용 권갑",
+        "id": 92000002,
+        "alias": "Contents.Item.Desc.2000002"
+    },
+    "92000003": {
+        "deprecated": false,
+        "Dev_Desc": "수련용 기공패",
+        "id": 92000003,
+        "alias": "Contents.Item.Desc.2000003"
+    },
+    "92000004": {
+        "deprecated": false,
+        "Dev_Desc": "수련용 도끼",
+        "id": 92000004,
+        "alias": "Contents.Item.Desc.2000004"
+    },
+    "92000005": {
+        "deprecated": false,
+        "Dev_Desc": "수련용 활",
+        "id": 92000005,
+        "alias": "Contents.Item.Desc.2000005"
+    },
+    "92000052": {
+        "deprecated": false,
+        "Dev_Desc": "조화 검_몬스터 루팅 테스트용",
+        "id": 92000052,
+        "alias": "Contents.Item.Desc.2000052"
+    },
+    "92000053": {
+        "deprecated": false,
+        "Dev_Desc": "조화 권갑_몬스터 루팅 테스트용",
+        "id": 92000053,
+        "alias": "Contents.Item.Desc.2000053"
+    },
+    "92000054": {
+        "deprecated": false,
+        "Dev_Desc": "조화 도끼_몬스터 루팅 테스트용",
+        "id": 92000054,
+        "alias": "Contents.Item.Desc.2000054"
+    },
+    "92000069": {
+        "deprecated": false,
+        "Dev_Desc": "테스트_투명Mesh_검",
+        "id": 92000069,
+        "alias": "Contents.Item.Desc.2000069"
+    },
+    "92000070": {
+        "deprecated": false,
+        "Dev_Desc": "테스트_투명Mesh_권갑",
+        "id": 92000070,
+        "alias": "Contents.Item.Desc.2000070"
+    },
+    "92000071": {
+        "deprecated": false,
+        "Dev_Desc": "테스트_투명Mesh_도끼",
+        "id": 92000071,
+        "alias": "Contents.Item.Desc.2000071"
+    },
+    "92000072": {
+        "deprecated": false,
+        "Dev_Desc": "테스트_투명Mesh_기공패",
+        "id": 92000072,
+        "alias": "Contents.Item.Desc.2000072"
+    },
+    "92000073": {
+        "deprecated": false,
+        "Dev_Desc": "테스트_투명Mesh_활",
+        "id": 92000073,
+        "alias": "Contents.Item.Desc.2000073"
+    },
+    "92000074": {
+        "deprecated": false,
+        "Dev_Desc": "테스트_투명Mesh_단검",
+        "id": 92000074,
+        "alias": "Contents.Item.Desc.2000074"
+    },
+    "92000075": {
+        "deprecated": false,
+        "Dev_Desc": "장검_시작",
+        "id": 92000075,
+        "alias": "Contents.Item.Desc.2000075",
+        "text": "A weapon prepared for the contestants."
+    },
+    "92000076": {
+        "deprecated": false,
+        "Dev_Desc": "장검_얕은 호수",
+        "id": 92000076,
+        "alias": "Contents.Item.Desc.2000076",
+        "text": "낡디 낡았지만 모양새를 볼 때 과거에는 날카로움으로 꽤나 이름을 날렸을 법한 장검입니다. <br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>연잎인간<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>도둑도치<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>대장도치<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>거대버섯<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>푸른소라게"
+    },
+    "92000077": {
+        "deprecated": false,
+        "Dev_Desc": "장검_썩은 벌목지(서인족)",
+        "id": 92000077,
+        "alias": "Contents.Item.Desc.2000077",
+        "text": "관리가 되지 않아 곳곳에 녹이 슬어있지만, 가벼운 무게로 인해 적을 맞추기에 최적화되어 있습니다. <br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>서인족<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>간자<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>침식된 서인족"
+    },
+    "92000078": {
+        "deprecated": false,
+        "Dev_Desc": "장검_거북호",
+        "id": 92000078,
+        "alias": "Contents.Item.Desc.2000078",
+        "text": "믿을만한 공방에서 제작된 균형잡힌 장검입니다. <br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>폭주 수호병<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>금강철권<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>침식된 개골와<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>수호병<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>호수 거북"
+    },
+    "92000079": {
+        "deprecated": false,
+        "Dev_Desc": "장검_해지는 목초지",
+        "id": 92000079,
+        "alias": "Contents.Item.Desc.2000079",
+        "text": "장검의 단점을 보완하기 위해 제작된 특이한 형태의 검입니다. 적에게 보다 큰 피해를 줄 수 있는 형태로 개량되었습니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>초목정령<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>초목대정령<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>붉은 발발이<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>황금 발발이<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>사슴"
+    },
+    "92000080": {
+        "deprecated": false,
+        "Dev_Desc": "장검_창도단 소굴(창도단)",
+        "id": 92000080,
+        "alias": "Contents.Item.Desc.2000080",
+        "text": "창도단원이 주로 사용하는 장검입니다. 가벼운 무게로 치고 빠지기에 최적화되어 있습니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>창도단 도적"
+    },
+    "92000081": {
+        "deprecated": false,
+        "Dev_Desc": "장검_고도시 삼림 길",
+        "id": 92000081,
+        "alias": "Contents.Item.Desc.2000081",
+        "text": "검의 표면에 은을 입혀 절삭력을 높인 장겁입니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>수목정령<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>청목<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>적목<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>검은 발발이"
+    },
+    "92000082": {
+        "deprecated": false,
+        "Dev_Desc": "장검_돌 언덕 구릉지",
+        "id": 92000082,
+        "alias": "Contents.Item.Desc.2000082",
+        "text": "일반적인 장검을 더욱 강력하게 만들 방법을 고민한 끝에 나오게 된 장검입니다. 그 생김새가 마치 뾰족한 창포잎을 연상시킵니다. <br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>제작<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>늑대<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>곰<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>사슴<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>평원 여우<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>거랑"
+    },
+    "92000083": {
+        "deprecated": false,
+        "Dev_Desc": "장검_투엽단 근거지(투엽단)",
+        "id": 92000083,
+        "alias": "Contents.Item.Desc.2000083",
+        "text": "보다 효과적인 밀렵 활동을 위해 치명적인 일격을 통하여 사냥감을 한 방에 침묵시킬 수 있는 형태로 개량된 장검입니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>제작<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>투엽단 밀렵꾼"
+    },
+    "92000084": {
+        "deprecated": false,
+        "Dev_Desc": "장검_공허의 구덩이",
+        "id": 92000084,
+        "alias": "Contents.Item.Desc.2000084",
+        "text": "사이한 것들을 베기 위하여 신령스러운 나뭇가지를 손잡이로 사용한 장검입니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>제작<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>불마자<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>곰"
+    },
+    "92000085": {
+        "deprecated": false,
+        "Dev_Desc": "장검_깊은 묘지 숲",
+        "id": 92000085,
+        "alias": "Contents.Item.Desc.2000085",
+        "text": "하늘에 떠 있는 일곱 별의 기운이 담기길 기원하며 만들어진 장검입니다. 비록 별의 기운은 담지 못했지만, 정성들여 만든 만큼 준수한 성능을 자랑합니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>제작<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>대왕 거미<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>거미<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>도깨비불"
+    },
+    "92000086": {
+        "deprecated": false,
+        "Dev_Desc": "장검_파괴된 수와족 마을",
+        "id": 92000086,
+        "alias": "Contents.Item.Desc.2000086",
+        "text": "이 검이 뽑히는 것을 보면 누군가는 성히 돌아가지 못한다고 합니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>제작<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>사슴<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>늑대<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>늪지 악어<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>침식된 늪지 악어<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>침식된 전갈"
+    },
+    "92000087": {
+        "deprecated": false,
+        "Dev_Desc": "장검_으스스한 골짜기",
+        "id": 92000087,
+        "alias": "Contents.Item.Desc.2000087",
+        "text": "검은 태양이 뜬 날, 영감을 얻은 한 장인이 제작한 검입니다. 이 검을 상대해 본 사람들은 마치 세상이 어두워진것처럼 느껴졌다고 합니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>모순학<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>초령목<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>강철악"
+    },
+    "92000088": {
+        "deprecated": false,
+        "Dev_Desc": "흑예",
+        "id": 92000088,
+        "alias": "Contents.Item.Desc.2000088",
+        "text": "악명을 떨치던 창도단원 와륜의 거대한 검에는 수많은 적들의 피가 말라붙어 있습니다. <br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>와륜"
+    },
+    "92000089": {
+        "deprecated": false,
+        "Dev_Desc": "수련용 도",
+        "id": 92000089,
+        "alias": "Contents.Item.Desc.2000089",
+        "text": "Sword for Training"
+    },
+    "92000090": {
+        "deprecated": false,
+        "Dev_Desc": "팔괘도",
+        "id": 92000090,
+        "alias": "Contents.Item.Desc.2000090",
+        "text": "Baguarado"
+    },
+    "92000091": {
+        "deprecated": false,
+        "Dev_Desc": "유엽도",
+        "id": 92000091,
+        "alias": "Contents.Item.Desc.2000091",
+        "text": "Yeoyeopdo"
+    },
+    "92000092": {
+        "deprecated": false,
+        "Dev_Desc": "묘도",
+        "id": 92000092,
+        "alias": "Contents.Item.Desc.2000092",
+        "text": "Myodo"
+    },
+    "92000093": {
+        "deprecated": false,
+        "Dev_Desc": "박도",
+        "id": 92000093,
+        "alias": "Contents.Item.Desc.2000093",
+        "text": "Bakdo"
+    },
+    "92000094": {
+        "deprecated": false,
+        "Dev_Desc": "기병도",
+        "id": 92000094,
+        "alias": "Contents.Item.Desc.2000094",
+        "text": "The Cavalry"
+    },
+    "92000095": {
+        "deprecated": false,
+        "Dev_Desc": "춘추도",
+        "id": 92000095,
+        "alias": "Contents.Item.Desc.2000095",
+        "text": "Spring and Autumn"
+    },
+    "92000096": {
+        "deprecated": false,
+        "Dev_Desc": "환두대도",
+        "id": 92000096,
+        "alias": "Contents.Item.Desc.2000096",
+        "text": "환두대도<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>제작"
+    },
+    "92000097": {
+        "deprecated": false,
+        "Dev_Desc": "절영도",
+        "id": 92000097,
+        "alias": "Contents.Item.Desc.2000097",
+        "text": "절영도<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>제작"
+    },
+    "92000098": {
+        "deprecated": false,
+        "Dev_Desc": "제령도",
+        "id": 92000098,
+        "alias": "Contents.Item.Desc.2000098",
+        "text": "제령도<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>제작"
+    },
+    "92000099": {
+        "deprecated": false,
+        "Dev_Desc": "신염대도",
+        "id": 92000099,
+        "alias": "Contents.Item.Desc.2000099",
+        "text": "신염대도<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>제작"
+    },
+    "92000100": {
+        "deprecated": false,
+        "Dev_Desc": "일월건곤도",
+        "id": 92000100,
+        "alias": "Contents.Item.Desc.2000100",
+        "text": "일월건곤도<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>제작"
+    },
+    "92000101": {
+        "deprecated": false,
+        "Dev_Desc": "태극도",
+        "id": 92000101,
+        "alias": "Contents.Item.Desc.2000101",
+        "text": "태극도<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>제작"
+    },
+    "92000102": {
+        "deprecated": false,
+        "Dev_Desc": "흑월",
+        "id": 92000102,
+        "alias": "Contents.Item.Desc.2000102",
+        "text": "흑월<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>제작"
+    },
+    "92000103": {
+        "deprecated": false,
+        "Dev_Desc": "권갑_시작",
+        "id": 92000103,
+        "alias": "Contents.Item.Desc.2000103",
+        "text": "A weapon prepared for the contestants."
+    },
+    "92000104": {
+        "deprecated": false,
+        "Dev_Desc": "권갑_얕은 호수",
+        "id": 92000104,
+        "alias": "Contents.Item.Desc.2000104",
+        "text": "낡고 헤진 권갑이지만, 적의 방어를 뚫어내기에는 아직 충분합니다. <br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>연잎인간<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>도둑도치<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>대장도치<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>거대버섯<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>푸른소라게"
+    },
+    "92000105": {
+        "deprecated": false,
+        "Dev_Desc": "권갑_썩은 벌목지(서인족)",
+        "id": 92000105,
+        "alias": "Contents.Item.Desc.2000105",
+        "text": "서인족의 털이 군데군데 묻어있는 낡은 권갑입니다. <br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>서인족<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>간자<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>침식된 서인족"
+    },
+    "92000106": {
+        "deprecated": false,
+        "Dev_Desc": "권갑_거북호",
+        "id": 92000106,
+        "alias": "Contents.Item.Desc.2000106",
+        "text": "시중에서 구할 수 있는 권갑입니다. 잘 팔리는 상품인만큼 그 품질만큼은 검증된 물건입니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>폭주 수호병<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>금강철권<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>침식된 개골와<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>수호병<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>호수 거북"
+    },
+    "92000107": {
+        "deprecated": false,
+        "Dev_Desc": "권갑_해지는 목초지",
+        "id": 92000107,
+        "alias": "Contents.Item.Desc.2000107",
+        "text": "상대에게 보다 큰 충격을 주기 위해 징을 박아 넣은 권갑입니다. <br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>초목정령<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>초목대정령<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>붉은 발발이<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>황금 발발이<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>사슴"
+    },
+    "92000108": {
+        "deprecated": false,
+        "Dev_Desc": "권갑_창도단 소굴(창도단)",
+        "id": 92000108,
+        "alias": "Contents.Item.Desc.2000108",
+        "text": "창도단이 주로 사용하는 권갑으로 가볍고 날렵하게 만들어져 원하는 것을 노리기에 이상적인 형태입니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>창도단 도적"
+    },
+    "92000109": {
+        "deprecated": false,
+        "Dev_Desc": "권갑_고도시 삼림 길",
+        "id": 92000109,
+        "alias": "Contents.Item.Desc.2000109",
+        "text": "단단한 단풍나무를 덧대어 제작된 권갑입니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>수목정령<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>청목<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>적목<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>검은 발발이"
+    },
+    "92000110": {
+        "deprecated": false,
+        "Dev_Desc": "권갑_돌 언덕 구릉지",
+        "id": 92000110,
+        "alias": "Contents.Item.Desc.2000110",
+        "text": "통짜 강철을 이용하여 제작된 권갑입니다. 묵직하지만 그 파괴력만큼은 인정할 수 밖에 없습니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>제작<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>늑대<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>곰<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>사슴<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>평원 여우<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>거랑"
+    },
+    "92000111": {
+        "deprecated": false,
+        "Dev_Desc": "권갑_투엽단 근거지(투엽단)",
+        "id": 92000111,
+        "alias": "Contents.Item.Desc.2000111",
+        "text": "투엽단이 사용하는 권갑입니다. 사냥감을 소리 없이 제압하기 위하여 치명적인 날을 부착하였습니다. <br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>제작<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>투엽단 밀렵꾼"
+    },
+    "92000112": {
+        "deprecated": false,
+        "Dev_Desc": "권갑_공허의 구덩이",
+        "id": 92000112,
+        "alias": "Contents.Item.Desc.2000112",
+        "text": "명작을 남기고 싶었던 무명의 장인이 영령에게 빌어가며 제작한 권갑입니다. <br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>제작<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>불마자<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>곰"
+    },
+    "92000113": {
+        "deprecated": false,
+        "Dev_Desc": "권갑_깊은 묘지 숲",
+        "id": 92000113,
+        "alias": "Contents.Item.Desc.2000113",
+        "text": "승려들이 사이한 것들을 물리치기 위해 영험한 기운을 담아 만든 권갑입니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>제작<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>대왕 거미<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>거미<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>도깨비불"
+    },
+    "92000114": {
+        "deprecated": false,
+        "Dev_Desc": "권갑_파괴된 수와족 마을",
+        "id": 92000114,
+        "alias": "Contents.Item.Desc.2000114",
+        "text": "호랑이가 포효하는 듯한 맹렬한 기세를 담아내고자 한 권갑입니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>제작<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>사슴<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>늑대<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>늪지 악어<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>침식된 늪지 악어<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>침식된 전갈"
+    },
+    "92000115": {
+        "deprecated": false,
+        "Dev_Desc": "권갑_으스스한 골짜기",
+        "id": 92000115,
+        "alias": "Contents.Item.Desc.2000115",
+        "text": "인계와 명계의 경계에서 벼려낸 재료를 사용하여 만든 권갑입니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>모순학<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>초령목<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>강철악"
+    },
+    "92000116": {
+        "deprecated": false,
+        "Dev_Desc": "흑광",
+        "id": 92000116,
+        "alias": "Contents.Item.Desc.2000116",
+        "text": "희생자들을 짓뭉게 버렸던 우푸의 거대한 발을 닮은 권갑입니다. <br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>우푸"
+    },
+    "92000117": {
+        "deprecated": false,
+        "Dev_Desc": "수련용 중권갑",
+        "id": 92000117,
+        "alias": "Contents.Item.Desc.2000117",
+        "text": "A weapon prepared for the contestants."
+    },
+    "92000118": {
+        "deprecated": false,
+        "Dev_Desc": "새벽 중권갑",
+        "id": 92000118,
+        "alias": "Contents.Item.Desc.2000118",
+        "text": "Dawn Heavy Armor"
+    },
+    "92000119": {
+        "deprecated": false,
+        "Dev_Desc": "청동 중권갑",
+        "id": 92000119,
+        "alias": "Contents.Item.Desc.2000119",
+        "text": "Bronze Heavy Armor"
+    },
+    "92000120": {
+        "deprecated": false,
+        "Dev_Desc": "가시 중권갑",
+        "id": 92000120,
+        "alias": "Contents.Item.Desc.2000120",
+        "text": "Thorn Heavy Armor"
+    },
+    "92000121": {
+        "deprecated": false,
+        "Dev_Desc": "야만 중권갑",
+        "id": 92000121,
+        "alias": "Contents.Item.Desc.2000121",
+        "text": "Savage Heavy Armor"
+    },
+    "92000122": {
+        "deprecated": false,
+        "Dev_Desc": "거석 중권갑",
+        "id": 92000122,
+        "alias": "Contents.Item.Desc.2000122",
+        "text": "Megastone Heavy Armor"
+    },
+    "92000123": {
+        "deprecated": false,
+        "Dev_Desc": "투혼 중권갑",
+        "id": 92000123,
+        "alias": "Contents.Item.Desc.2000123",
+        "text": "Fighting Soul Heavy Armor"
+    },
+    "92000124": {
+        "deprecated": false,
+        "Dev_Desc": "대지 중권갑",
+        "id": 92000124,
+        "alias": "Contents.Item.Desc.2000124",
+        "text": "대지 중권갑<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>제작"
+    },
+    "92000125": {
+        "deprecated": false,
+        "Dev_Desc": "태천 중권갑",
+        "id": 92000125,
+        "alias": "Contents.Item.Desc.2000125",
+        "text": "태천 중권갑<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>제작"
+    },
+    "92000126": {
+        "deprecated": false,
+        "Dev_Desc": "해일 중권갑",
+        "id": 92000126,
+        "alias": "Contents.Item.Desc.2000126",
+        "text": "해일 중권갑<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>제작"
+    },
+    "92000127": {
+        "deprecated": false,
+        "Dev_Desc": "천무 중권갑",
+        "id": 92000127,
+        "alias": "Contents.Item.Desc.2000127",
+        "text": "천무 중권갑<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>제작"
+    },
+    "92000128": {
+        "deprecated": false,
+        "Dev_Desc": "명왕 중권갑",
+        "id": 92000128,
+        "alias": "Contents.Item.Desc.2000128",
+        "text": "명왕 중권갑<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>제작"
+    },
+    "92000129": {
+        "deprecated": false,
+        "Dev_Desc": "무혼 중권갑",
+        "id": 92000129,
+        "alias": "Contents.Item.Desc.2000129",
+        "text": "무혼 중권갑<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>제작"
+    },
+    "92000130": {
+        "deprecated": false,
+        "Dev_Desc": "흑운",
+        "id": 92000130,
+        "alias": "Contents.Item.Desc.2000130",
+        "text": "흑운<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>제작"
+    },
+    "92000131": {
+        "deprecated": false,
+        "Dev_Desc": "불꽃패_시작",
+        "id": 92000131,
+        "alias": "Contents.Item.Desc.2000131",
+        "text": "A weapon prepared for the contestants."
+    },
+    "92000132": {
+        "deprecated": false,
+        "Dev_Desc": "불꽃패_얕은 호수",
+        "id": 92000132,
+        "alias": "Contents.Item.Desc.2000132",
+        "text": "빛을 잃어가고 있는 오래된 홍염패입니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>연잎인간<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>도둑도치<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>대장도치<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>거대버섯<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>푸른소라게"
+    },
+    "92000133": {
+        "deprecated": false,
+        "Dev_Desc": "불꽃패_썩은 벌목지(서인족)",
+        "id": 92000133,
+        "alias": "Contents.Item.Desc.2000133",
+        "text": "빛에 민감한 서인족의 고유한 특성으로 인해 적을 쫓는 데에 탁월한 성능을 자랑합니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>서인족<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>침식된 서인족"
+    },
+    "92000134": {
+        "deprecated": false,
+        "Dev_Desc": "불꽃패_거북호",
+        "id": 92000134,
+        "alias": "Contents.Item.Desc.2000134",
+        "text": "이글거리는 불꽃의 기운을 담은 기공패입니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>폭주 수호병<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>금강철권<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>침식된 개골와<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>수호병<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>호수 거북"
+    },
+    "92000135": {
+        "deprecated": false,
+        "Dev_Desc": "불꽃패_해지는 목초지",
+        "id": 92000135,
+        "alias": "Contents.Item.Desc.2000135",
+        "text": "기공사들은 거듭된 연구를 통해 불꽃을 넘어 온전한 불의 기운을 담아내는 데에 성공해내었습니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>초목정령<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>초목대정령<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>붉은 발발이<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>황금 발발이<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>사슴"
+    },
+    "92000136": {
+        "deprecated": false,
+        "Dev_Desc": "불꽃패_창도단 소굴(창도단)",
+        "id": 92000136,
+        "alias": "Contents.Item.Desc.2000136",
+        "text": "단언컨대, 불은 혼란을 야기하는 데에 가장 탁월한 수단입니다. 창도단은 그들의 밥벌이에 이 수단을 활용하여 그들의 생존력을 대폭 증가시켰습니다..<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>창도단 도적"
+    },
+    "92000137": {
+        "deprecated": false,
+        "Dev_Desc": "불꽃패_고도시 삼림 길",
+        "id": 92000137,
+        "alias": "Contents.Item.Desc.2000137",
+        "text": "불의 기공사들이 가진 더 강한 불꽃에 대한 열망은 결국 붉은 색을 넘어 푸른 색의 영역으로 그들을 이끌었습니다. <br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>수목정령<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>청목<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>적목<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>검은 발발이"
+    },
+    "92000138": {
+        "deprecated": false,
+        "Dev_Desc": "불꽃패_돌 언덕 구릉지",
+        "id": 92000138,
+        "alias": "Contents.Item.Desc.2000138",
+        "text": "크고 아름다운 불꽃과 열정, 그것이야 말로 인생의 진리<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>늑대<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>곰<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>사슴<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>평원 여우<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>거랑"
+    },
+    "92000139": {
+        "deprecated": false,
+        "Dev_Desc": "불꽃패_투엽단 근거지(투엽단)",
+        "id": 92000139,
+        "alias": "Contents.Item.Desc.2000139",
+        "text": "투엽단이 사용하는 짙은 불꽃은 목표에게 치명적인 피해를 주는 것에 특화되어 있습니다. <br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>투엽단 밀렵꾼"
+    },
+    "92000140": {
+        "deprecated": false,
+        "Dev_Desc": "불꽃패_공허의 구덩이",
+        "id": 92000140,
+        "alias": "Contents.Item.Desc.2000140",
+        "text": "불에 대한 기공사들의 연구는 꺼지지 않는 불꽃을 발견하게 하였고, 불의 기공사들은 이를 진염이라 명명하였습니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>불마자<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>곰"
+    },
+    "92000141": {
+        "deprecated": false,
+        "Dev_Desc": "불꽃패_깊은 묘지 숲",
+        "id": 92000141,
+        "alias": "Contents.Item.Desc.2000141",
+        "text": "불이 가진 정화의 힘을 극대화 해 낸 기공패입니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>대왕 거미<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>거미<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>도깨비불"
+    },
+    "92000142": {
+        "deprecated": false,
+        "Dev_Desc": "불꽃패_파괴된 수와족 마을",
+        "id": 92000142,
+        "alias": "Contents.Item.Desc.2000142",
+        "text": "지금은 비록 그 뜨거움은 약해졌으나 아직도 일부나마 태양의 힘을 간직하고 있는 귀물입니다. <br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>사슴<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>늑대<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>늪지 악어<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>침식된 늪지 악어<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>침식된 전갈"
+    },
+    "92000143": {
+        "deprecated": false,
+        "Dev_Desc": "불꽃패_으스스한 골짜기",
+        "id": 92000143,
+        "alias": "Contents.Item.Desc.2000143",
+        "text": "거대한 꼬리별이 남긴 흔적을 이용하여 만들었으며, 그 안에 담긴 힘은 아직도 정확히 알려지지 않았습니다. <br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>모순학<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>초령목<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>강철악"
+    },
+    "92000144": {
+        "deprecated": false,
+        "Dev_Desc": "흑오패",
+        "id": 92000144,
+        "alias": "Contents.Item.Desc.2000144",
+        "text": "홍린의 핵으로 만들어진 불꽃 기공패입니다. 불안정한 핵은 끊임없이 열기를 내뿜습니다. <br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>홍린"
+    },
+    "92000145": {
+        "deprecated": false,
+        "Dev_Desc": "미늘창",
+        "id": 92000145,
+        "alias": "Contents.Item.Desc.2000145",
+        "text": "The Halberd"
+    },
+    "92000146": {
+        "deprecated": false,
+        "Dev_Desc": "십자 미늘창",
+        "id": 92000146,
+        "alias": "Contents.Item.Desc.2000146",
+        "text": "Cross Halberd"
+    },
+    "92000147": {
+        "deprecated": false,
+        "Dev_Desc": "양날 미늘창",
+        "id": 92000147,
+        "alias": "Contents.Item.Desc.2000147",
+        "text": "double-edged halberd"
+    },
+    "92000148": {
+        "deprecated": false,
+        "Dev_Desc": "강철 미늘창",
+        "id": 92000148,
+        "alias": "Contents.Item.Desc.2000148",
+        "text": "Steel Halberd"
+    },
+    "92000149": {
+        "deprecated": false,
+        "Dev_Desc": "당파창",
+        "id": 92000149,
+        "alias": "Contents.Item.Desc.2000149",
+        "text": "Partisan"
+    },
+    "92000150": {
+        "deprecated": false,
+        "Dev_Desc": "대신창",
+        "id": 92000150,
+        "alias": "Contents.Item.Desc.2000150",
+        "text": "Spear instead"
+    },
+    "92000151": {
+        "deprecated": false,
+        "Dev_Desc": "쌍초겸",
+        "id": 92000151,
+        "alias": "Contents.Item.Desc.2000151",
+        "text": "Ssangchogyeom"
+    },
+    "92000152": {
+        "deprecated": false,
+        "Dev_Desc": "천영화극",
+        "id": 92000152,
+        "alias": "Contents.Item.Desc.2000152",
+        "text": "The Heavenly Theater"
+    },
+    "92000153": {
+        "deprecated": false,
+        "Dev_Desc": "월아산",
+        "id": 92000153,
+        "alias": "Contents.Item.Desc.2000153",
+        "text": "Mt. Wol-A"
+    },
+    "92000154": {
+        "deprecated": false,
+        "Dev_Desc": "청룡극",
+        "id": 92000154,
+        "alias": "Contents.Item.Desc.2000154",
+        "text": "Blue Dragon Play"
+    },
+    "92000155": {
+        "deprecated": false,
+        "Dev_Desc": "명월삭",
+        "id": 92000155,
+        "alias": "Contents.Item.Desc.2000155",
+        "text": "New Moon Festival"
+    },
+    "92000156": {
+        "deprecated": false,
+        "Dev_Desc": "쇄혼삭",
+        "id": 92000156,
+        "alias": "Contents.Item.Desc.2000156",
+        "text": "Creeping"
+    },
+    "92000157": {
+        "deprecated": false,
+        "Dev_Desc": "풍령창",
+        "id": 92000157,
+        "alias": "Contents.Item.Desc.2000157",
+        "text": "Wind Spear"
+    },
+    "92000158": {
+        "deprecated": false,
+        "Dev_Desc": "흑영",
+        "id": 92000158,
+        "alias": "Contents.Item.Desc.2000158",
+        "text": "Black Spirit"
+    },
+    "92000159": {
+        "deprecated": false,
+        "Dev_Desc": "대형도끼_시작",
+        "id": 92000159,
+        "alias": "Contents.Item.Desc.2000159",
+        "text": "A weapon prepared for the contestants."
+    },
+    "92000160": {
+        "deprecated": false,
+        "Dev_Desc": "대형도끼_얕은 호수",
+        "id": 92000160,
+        "alias": "Contents.Item.Desc.2000160",
+        "text": "워낙 오래되어 듬성듬성 이가 빠졌지만, 남아있는 부분은 여전히 위협적으로 느껴집니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>연잎인간<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>도둑도치<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>대장도치<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>거대버섯<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>푸른소라게"
+    },
+    "92000161": {
+        "deprecated": false,
+        "Dev_Desc": "대형도끼_썩은 벌목지(서인족)",
+        "id": 92000161,
+        "alias": "Contents.Item.Desc.2000161",
+        "text": "서인족들이 사용하는 대형도끼입니다. 부서진 부분이 많지만, 서인족이 사용하기에 적합한 가벼운 무게로 인하여 더욱 정확히 적을 노릴 수 있습니다. <br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>서인족<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>간자<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>침식된 서인족"
+    },
+    "92000162": {
+        "deprecated": false,
+        "Dev_Desc": "대형도끼_거북호",
+        "id": 92000162,
+        "alias": "Contents.Item.Desc.2000162",
+        "text": "병사들이 애용하는 커다란 도끼입니다. 군문에서 사용하는 물건인만큼 신뢰성은 확실합니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>폭주 수호병<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>금강철권<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>침식된 개골와<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>수호병<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>호수 거북"
+    },
+    "92000163": {
+        "deprecated": false,
+        "Dev_Desc": "대형도끼_해지는 목초지",
+        "id": 92000163,
+        "alias": "Contents.Item.Desc.2000163",
+        "text": "손잡이부터 도끼날까지, 모든 부위가 강철로 만들어진 육중한 대형도끼입니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>초목정령<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>초목대정령<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>붉은 발발이<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>황금 발발이<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>사슴"
+    },
+    "92000164": {
+        "deprecated": false,
+        "Dev_Desc": "대형도끼_창도단 소굴(창도단)",
+        "id": 92000164,
+        "alias": "Contents.Item.Desc.2000164",
+        "text": "산적이라고 하면 뭐니뭐니 해도 도끼죠. 창도단의 정체성을 나타내기에는 이만한 무기도 없을 겁니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>창도단 도적"
+    },
+    "92000165": {
+        "deprecated": false,
+        "Dev_Desc": "대형도끼_고도시 삼림 길",
+        "id": 92000165,
+        "alias": "Contents.Item.Desc.2000165",
+        "text": "앞 쪽의 커다란 날과, 뒷 쪽의 작은 날을 이용하여 적을 분쇄하는 강력한 무기입니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>수목정령<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>청목<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>적목<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>검은 발발이"
+    },
+    "92000166": {
+        "deprecated": false,
+        "Dev_Desc": "대형도끼_돌 언덕 구릉지",
+        "id": 92000166,
+        "alias": "Contents.Item.Desc.2000166",
+        "text": "대륙의 장인들은 나날이 늘어나는 수라의 침입을 막기 위해 대형도끼를 더욱 강력하게 발전시켰습니다. <br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>늑대<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>곰<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>사슴<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>평원 여우<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>거랑"
+    },
+    "92000167": {
+        "deprecated": false,
+        "Dev_Desc": "대형도끼_투엽단 근거지(투엽단)",
+        "id": 92000167,
+        "alias": "Contents.Item.Desc.2000167",
+        "text": "투엽단원들이 즐겨 사용하는 대형도끼입니다. 주로 벌목 등에 많이 사용되지만, 전투용으로 사용하기에도 손색이 없습니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>투엽단 밀렵꾼"
+    },
+    "92000168": {
+        "deprecated": false,
+        "Dev_Desc": "대형도끼_공허의 구덩이",
+        "id": 92000168,
+        "alias": "Contents.Item.Desc.2000168",
+        "text": "은빛을 띄는 달을 닮은 대형도끼입니다. 휘두를 때의 잔상이 마치 은은한 달빛과 같다고 전해집니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>불마자<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>곰"
+    },
+    "92000169": {
+        "deprecated": false,
+        "Dev_Desc": "대형도끼_깊은 묘지 숲",
+        "id": 92000169,
+        "alias": "Contents.Item.Desc.2000169",
+        "text": "내리칠 때 마다 대지를 가를듯한 강력한 파괴력을 지닌 대형도끼입니다. <br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>대왕 거미<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>거미<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>도깨비불"
+    },
+    "92000170": {
+        "deprecated": false,
+        "Dev_Desc": "대형도끼_파괴된 수와족 마을",
+        "id": 92000170,
+        "alias": "Contents.Item.Desc.2000170",
+        "text": "한 명장이 연못에 비친 달의 잔영을 보고 패도적인 힘을 지닌 무구를 만들어 낼 제조기법을 깨달았다고 합니다. 하지만, 안타깝게도 현재 전해져 내려오는 것은 대형도끼의 제조기법 뿐이라고 합니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>사슴<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>늑대<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>늪지 악어<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>침식된 늪지 악어<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>침식된 전갈"
+    },
+    "92000171": {
+        "deprecated": false,
+        "Dev_Desc": "대형도끼_으스스한 골짜기",
+        "id": 92000171,
+        "alias": "Contents.Item.Desc.2000171",
+        "text": "가득 차올라 완연한 금빛을 띄는 보름달이 떠오르는 대형도끼입니다. 부드러워 보이지만 그 안에 담긴 힘은 결코 무시할 수 없습니다. <br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>모순학<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>초령목<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>강철악"
+    },
+    "92000172": {
+        "deprecated": false,
+        "Dev_Desc": "흑아",
+        "id": 92000172,
+        "alias": "Contents.Item.Desc.2000172",
+        "text": "청목의 단단한 가지를 베어 만든 도끼는 절대 부러지지 않습니다. <br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>청목"
+    },
+    "92000173": {
+        "deprecated": false,
+        "Dev_Desc": "장궁_시작",
+        "id": 92000173,
+        "alias": "Contents.Item.Desc.2000173",
+        "text": "A weapon prepared for the contestants."
+    },
+    "92000174": {
+        "deprecated": false,
+        "Dev_Desc": "장궁_얕은 호수",
+        "id": 92000174,
+        "alias": "Contents.Item.Desc.2000174",
+        "text": "풀을 먹인 지 오래되어 헐거워 진 먼 옛날의 활입니다. 과거에 비해서는 손색이 있으나, 상대의 갑옷을 무력화하기에는 부족하지 않습니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>연잎인간<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>도둑도치<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>대장도치<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>거대버섯<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>푸른소라게"
+    },
+    "92000175": {
+        "deprecated": false,
+        "Dev_Desc": "장궁_썩은 벌목지(서인족)",
+        "id": 92000175,
+        "alias": "Contents.Item.Desc.2000175",
+        "text": "서인족이 나무를 기워붙여 만든 조잡한 활입니다. 다만 볼 품 없는 외형에 비해 명중률은 몹시 훌륭합니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>서인족<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>침식된 서인족"
+    },
+    "92000176": {
+        "deprecated": false,
+        "Dev_Desc": "장궁_거북호",
+        "id": 92000176,
+        "alias": "Contents.Item.Desc.2000176",
+        "text": "원거리에서 적을 제압한다는 활의 기본에 충실한 병기입니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>폭주 수호병<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>금강철권<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>침식된 개골와<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>수호병<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>호수 거북"
+    },
+    "92000177": {
+        "deprecated": false,
+        "Dev_Desc": "장궁_해지는 목초지",
+        "id": 92000177,
+        "alias": "Contents.Item.Desc.2000177",
+        "text": "우거진 숲에 살던 사람들이 사냥을 위해 적합한 형태로 개량한 장궁입니다. <br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>초목정령<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>초목대정령<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>붉은 발발이<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>황금 발발이<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>사슴"
+    },
+    "92000178": {
+        "deprecated": false,
+        "Dev_Desc": "장궁_창도단 소굴(창도단)",
+        "id": 92000178,
+        "alias": "Contents.Item.Desc.2000178",
+        "text": "도적질을 하려면 먼저 적을 무력화시켜야 하죠. 이러한 지침에 따라 창도단의 활은 살상력을 희생한 대신 적을 정확히 맞출 수 있는 형태로 개량되었습니다. <br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>창도단 도적"
+    },
+    "92000179": {
+        "deprecated": false,
+        "Dev_Desc": "장궁_고도시 삼림 길",
+        "id": 92000179,
+        "alias": "Contents.Item.Desc.2000179",
+        "text": "좋은 활을 만들려면 탄력있는 활 대가 있어야 합니다. 탄성 좋은 환목은 활 대에 사용할 수 있는 가장 좋은 재료 중 하나죠.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>수목정령<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>청목<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>적목<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>검은 발발이"
+    },
+    "92000180": {
+        "deprecated": false,
+        "Dev_Desc": "장궁_돌 언덕 구릉지",
+        "id": 92000180,
+        "alias": "Contents.Item.Desc.2000180",
+        "text": "물소의 뿔은 예로부터 최고의 활을 만드는 데에 사용되었습니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>늑대<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>곰<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>사슴<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>평원 여우<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>거랑"
+    },
+    "92000181": {
+        "deprecated": false,
+        "Dev_Desc": "장궁_투엽단 근거지(투엽단)",
+        "id": 92000181,
+        "alias": "Contents.Item.Desc.2000181",
+        "text": "이 치명적인 투엽단의 친구는 유별나게 조용한 편이죠.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>투엽단 밀렵꾼<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>채랑랑"
+    },
+    "92000182": {
+        "deprecated": false,
+        "Dev_Desc": "장궁_공허의 구덩이",
+        "id": 92000182,
+        "alias": "Contents.Item.Desc.2000182",
+        "text": "옛적부터 동쪽 지방은 명사수의 고향으로 명성을 떨쳤습니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>불마자<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>곰"
+    },
+    "92000183": {
+        "deprecated": false,
+        "Dev_Desc": "장궁_깊은 묘지 숲",
+        "id": 92000183,
+        "alias": "Contents.Item.Desc.2000183",
+        "text": "바람의 가호가 깃든 활입니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>대왕 거미<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>거미<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>도깨비불"
+    },
+    "92000184": {
+        "deprecated": false,
+        "Dev_Desc": "장궁_파괴된 수와족 마을",
+        "id": 92000184,
+        "alias": "Contents.Item.Desc.2000184",
+        "text": "혜성의 조각을 사용하여 만들어 진 활입니다. 활에 깃든 별의 힘으로 쏠 때 마다 혜성의 궤적을 그린다고 합니다.<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>사슴<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>늑대<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>늪지 악어<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>침식된 늪지 악어<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>침식된 전갈"
+    },
+    "92000185": {
+        "deprecated": false,
+        "Dev_Desc": "장궁_으스스한 골짜기",
+        "id": 92000185,
+        "alias": "Contents.Item.Desc.2000185",
+        "text": "목표물의 영혼을 좇는 활입니다. 한 번 표적이 된 이상 어디로도 도망칠 수 없습니다. <br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>모순학<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>초령목<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>강철악"
+    },
+    "92000186": {
+        "deprecated": false,
+        "Dev_Desc": "흑풍",
+        "id": 92000186,
+        "alias": "Contents.Item.Desc.2000186",
+        "text": "적목의 유연한 가지로 만든 장궁은 멀리 보이지 않는 적에게까지 화살을 쏠 수 있다고 알려져 있습니다. <br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>적목"
+    },
+    "92000273": {
+        "deprecated": false,
+        "Dev_Desc": "수련용 장검",
+        "id": 92000273,
+        "alias": "Contents.Item.Desc.2000273",
+        "text": "16% chance to use lightning to cause stiffness, no cooldown"
+    },
+    "92000274": {
+        "deprecated": false,
+        "Dev_Desc": "수련용 환도",
+        "id": 92000274,
+        "alias": "Contents.Item.Desc.2000274",
+        "text": "Hwando for training"
+    },
+    "92000275": {
+        "deprecated": false,
+        "Dev_Desc": "수련용 세검",
+        "id": 92000275,
+        "alias": "Contents.Item.Desc.2000275",
+        "text": "Sword for Training"
+    },
+    "92000276": {
+        "deprecated": false,
+        "Dev_Desc": "수련용 권갑",
+        "id": 92000276,
+        "alias": "Contents.Item.Desc.2000276",
+        "text": "Practice Gauntlets"
+    },
+    "92000277": {
+        "deprecated": false,
+        "Dev_Desc": "수련용 중권갑",
+        "id": 92000277,
+        "alias": "Contents.Item.Desc.2000277",
+        "text": "Heavy Armor for Training"
+    },
+    "92000278": {
+        "deprecated": false,
+        "Dev_Desc": "수련용 각갑",
+        "id": 92000278,
+        "alias": "Contents.Item.Desc.2000278",
+        "text": "Practice Legplates"
+    },
+    "92000279": {
+        "deprecated": false,
+        "Dev_Desc": "수련용 미늘창",
+        "id": 92000279,
+        "alias": "Contents.Item.Desc.2000279",
+        "text": "Hulle for Training"
+    },
+    "92000280": {
+        "deprecated": false,
+        "Dev_Desc": "수련용 대형도끼",
+        "id": 92000280,
+        "alias": "Contents.Item.Desc.2000280",
+        "text": "Large Ax for Training"
+    },
+    "92000281": {
+        "deprecated": false,
+        "Dev_Desc": "수련용 장궁",
+        "id": 92000281,
+        "alias": "Contents.Item.Desc.2000281",
+        "text": "Longbow for Training"
+    },
+    "92000282": {
+        "deprecated": false,
+        "Dev_Desc": "수련용 쇠뇌",
+        "id": 92000282,
+        "alias": "Contents.Item.Desc.2000282",
+        "text": "training crossbow"
+    },
+    "92000283": {
+        "deprecated": false,
+        "Dev_Desc": "수련용 불꽃 기공패",
+        "id": 92000283,
+        "alias": "Contents.Item.Desc.2000283",
+        "text": "Fireworks for Training"
+    },
+    "92000284": {
+        "deprecated": false,
+        "Dev_Desc": "수련용 얼음 기공패",
+        "id": 92000284,
+        "alias": "Contents.Item.Desc.2000284",
+        "text": "Ice Training Plaque"
+    },
+    "92000285": {
+        "deprecated": false,
+        "Dev_Desc": "밸런스용 장검",
+        "id": 92000285,
+        "alias": "Contents.Item.Desc.2000273",
+        "text": "Balance Longsword"
+    },
+    "92000286": {
+        "deprecated": false,
+        "Dev_Desc": "밸런스용 환도",
+        "id": 92000286,
+        "alias": "Contents.Item.Desc.2000274",
+        "text": "Hwando for Balance"
+    },
+    "92000287": {
+        "deprecated": false,
+        "Dev_Desc": "밸런스용 세검",
+        "id": 92000287,
+        "alias": "Contents.Item.Desc.2000275",
+        "text": "Sword of Balance"
+    },
+    "92000288": {
+        "deprecated": false,
+        "Dev_Desc": "밸런스용 권갑",
+        "id": 92000288,
+        "alias": "Contents.Item.Desc.2000276",
+        "text": "Balance Gauntlets"
+    },
+    "92000289": {
+        "deprecated": false,
+        "Dev_Desc": "밸런스용 중권갑",
+        "id": 92000289,
+        "alias": "Contents.Item.Desc.2000277",
+        "text": "Heavy Armor for Balance"
+    },
+    "92000290": {
+        "deprecated": false,
+        "Dev_Desc": "밸런스용 각갑",
+        "id": 92000290,
+        "alias": "Contents.Item.Desc.2000278",
+        "text": "Balance Foot Armor"
+    },
+    "92000291": {
+        "deprecated": false,
+        "Dev_Desc": "밸런스용 미늘창",
+        "id": 92000291,
+        "alias": "Contents.Item.Desc.2000279",
+        "text": "Balanced Halberd"
+    },
+    "92000292": {
+        "deprecated": false,
+        "Dev_Desc": "밸런스용 대형도끼",
+        "id": 92000292,
+        "alias": "Contents.Item.Desc.2000280",
+        "text": "Great Ax for Balance"
+    },
+    "92000293": {
+        "deprecated": false,
+        "Dev_Desc": "밸런스용 장궁",
+        "id": 92000293,
+        "alias": "Contents.Item.Desc.2000281",
+        "text": "Balanced Longbow"
+    },
+    "92000294": {
+        "deprecated": false,
+        "Dev_Desc": "밸런스용 쇠뇌",
+        "id": 92000294,
+        "alias": "Contents.Item.Desc.2000282",
+        "text": "Balancing Crossbow"
+    },
+    "92000295": {
+        "deprecated": false,
+        "Dev_Desc": "밸런스용 불꽃 기공패",
+        "id": 92000295,
+        "alias": "Contents.Item.Desc.2000283",
+        "text": "Balancing Fireworks Ceremony"
+    },
+    "92000296": {
+        "deprecated": false,
+        "Dev_Desc": "밸런스용 얼음 기공패",
+        "id": 92000296,
+        "alias": "Contents.Item.Desc.2000284",
+        "text": "Ice ground tile for balance"
+    },
+    "92000297": {
+        "deprecated": false,
+        "Dev_Desc": "밸런스용 법종",
+        "id": 92000297,
+        "alias": "Contents.Item.Desc.2000285",
+        "text": "Balancing Law"
+    },
+    "92000506": {
+        "deprecated": false,
+        "id": 92000506,
+        "alias": "Contents.Item.Desc.2000506",
+        "text": "이 검이 뽑히는 것을 보면 누군가는 성히 돌아가지 못한다고 합니다.<br/><br/>+3부터 명중 추가 상승<br/>+5부터 치명률 추가 상승<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>제작<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>사슴<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>늑대<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>늪지 악어<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>침식된 늪지 악어<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>침식된 전갈"
+    },
+    "92000803": {
+        "deprecated": false,
+        "id": 92000803,
+        "alias": "Contents.Item.Desc.2000803",
+        "text": "기본공격 명중 시 선풍각 사용, 쿨타임 6초"
+    },
+    "92000807": {
+        "deprecated": false,
+        "id": 92000807,
+        "alias": "Contents.Item.Desc.2000807",
+        "text": "30% 확률로 기본공격 명중 시 천벌 사용, 쿨타임 6초"
+    },
+    "92000810": {
+        "deprecated": false,
+        "id": 92000810,
+        "alias": "Contents.Item.Desc.2000810",
+        "text": "50% 확률로 피격 시 회진보 사용, 쿨타임 10초"
+    },
+    "92001023": {
+        "deprecated": false,
+        "id": 92001023,
+        "alias": "Contents.Item.Desc.2001023",
+        "text": "평타 명중 시 10% 확률 내력 회복"
+    },
+    "92001024": {
+        "deprecated": false,
+        "id": 92001024,
+        "alias": "Contents.Item.Desc.2001024",
+        "text": "기절 대상 공격 시 1회 강한 피해, 쿨타임 60초"
+    },
+    "92001025": {
+        "deprecated": false,
+        "id": 92001025,
+        "alias": "Contents.Item.Desc.2001025",
+        "text": "체력 30% 이하 시 10초간 평타에 추가효과, 쿨타임 60초"
+    },
+    "92001037": {
+        "deprecated": false,
+        "id": 92001037,
+        "alias": "Contents.Item.Desc.2001037",
+        "text": "30% 확률로 기본공격 명중 시 찌르기 사용, 쿨타임 6초 / 찌르기 평타 공속 적용"
+    },
+    "92001038": {
+        "deprecated": false,
+        "id": 92001038,
+        "alias": "Contents.Item.Desc.2001038",
+        "text": "액티브 스킬 명중 시 찌르기 사용, 쿨타임 6초"
+    },
+    "92001039": {
+        "deprecated": false,
+        "id": 92001039,
+        "alias": "Contents.Item.Desc.2001039",
+        "text": "방어 성공 시 공격자에게 선풍 사용, 쿨타임 6초"
+    },
+    "92001040": {
+        "deprecated": false,
+        "id": 92001040,
+        "alias": "Contents.Item.Desc.2001040",
+        "text": "기본공격 명중 시 10% 확률로 선풍각 사용, 쿨타임 없음 <br/>선풍각은 적에게 피해를 주는 회오리를 날려보냅니다. <br/><br/>기본공격 치명타 시 뇌전 발생, 쿨타임 없음 <br/>뇌전은 낙뢰를 떨어뜨려 적을 경직 시킵니다."
+    },
+    "92100000": {
+        "deprecated": false,
+        "id": 92100000,
+        "alias": "Contents.Item.Desc.2100000",
+        "text": "진실을 밝히는 검입니다."
+    },
+    "92101001": {
+        "deprecated": false,
+        "id": 92101001,
+        "alias": "Contents.Item.Desc.2101001"
+    },
+    "92101002": {
+        "deprecated": false,
+        "id": 92101002,
+        "alias": "Contents.Item.Desc.2101002"
+    },
+    "92101003": {
+        "deprecated": false,
+        "id": 92101003,
+        "alias": "Contents.Item.Desc.2101003"
+    },
+    "92101004": {
+        "deprecated": false,
+        "id": 92101004,
+        "alias": "Contents.Item.Desc.2101004"
+    },
+    "92101005": {
+        "deprecated": false,
+        "id": 92101005,
+        "alias": "Contents.Item.Desc.2101005"
+    },
+    "92101006": {
+        "deprecated": false,
+        "id": 92101006,
+        "alias": "Contents.Item.Desc.2101006"
+    },
+    "92101007": {
+        "deprecated": false,
+        "id": 92101007,
+        "alias": "Contents.Item.Desc.2101007"
+    },
+    "92101008": {
+        "deprecated": false,
+        "id": 92101008,
+        "alias": "Contents.Item.Desc.2101008"
+    },
+    "92101009": {
+        "deprecated": false,
+        "id": 92101009,
+        "alias": "Contents.Item.Desc.2101009"
+    },
+    "92101010": {
+        "deprecated": false,
+        "id": 92101010,
+        "alias": "Contents.Item.Desc.2101010"
+    },
+    "92101201": {
+        "deprecated": false,
+        "id": 92101201,
+        "alias": "Contents.Item.Desc.2101201"
+    },
+    "92101202": {
+        "deprecated": false,
+        "id": 92101202,
+        "alias": "Contents.Item.Desc.2101202"
+    },
+    "92101203": {
+        "deprecated": false,
+        "id": 92101203,
+        "alias": "Contents.Item.Desc.2101203"
+    },
+    "92101204": {
+        "deprecated": false,
+        "id": 92101204,
+        "alias": "Contents.Item.Desc.2101204"
+    },
+    "92101205": {
+        "deprecated": false,
+        "id": 92101205,
+        "alias": "Contents.Item.Desc.2101205"
+    },
+    "92101401": {
+        "deprecated": false,
+        "id": 92101401,
+        "alias": "Contents.Item.Desc.2101401",
+        "text": "+7 강화 시 관통력 추가\n+8 강화 시 명중 추가\n+9 강화 시 무기 공격력 추가 상승"
+    },
+    "92101402": {
+        "deprecated": false,
+        "id": 92101402,
+        "alias": "Contents.Item.Desc.2101402"
+    },
+    "92101403": {
+        "deprecated": false,
+        "id": 92101403,
+        "alias": "Contents.Item.Desc.2101403"
+    },
+    "92101404": {
+        "deprecated": false,
+        "id": 92101404,
+        "alias": "Contents.Item.Desc.2101404"
+    },
+    "92101405": {
+        "deprecated": false,
+        "id": 92101405,
+        "alias": "Contents.Item.Desc.2101405"
+    },
+    "92101406": {
+        "deprecated": false,
+        "id": 92101406,
+        "alias": "Contents.Item.Desc.2101406"
+    },
+    "92101407": {
+        "deprecated": false,
+        "id": 92101407,
+        "alias": "Contents.Item.Desc.2101407"
+    },
+    "92101408": {
+        "deprecated": false,
+        "id": 92101408,
+        "alias": "Contents.Item.Desc.2101408"
+    },
+    "92101409": {
+        "deprecated": false,
+        "id": 92101409,
+        "alias": "Contents.Item.Desc.2101409"
+    },
+    "92101410": {
+        "deprecated": false,
+        "id": 92101410,
+        "alias": "Contents.Item.Desc.2101410"
+    },
+    "92101601": {
+        "deprecated": false,
+        "id": 92101601,
+        "alias": "Contents.Item.Desc.2101601"
+    },
+    "92101602": {
+        "deprecated": false,
+        "id": 92101602,
+        "alias": "Contents.Item.Desc.2101602"
+    },
+    "92101603": {
+        "deprecated": false,
+        "id": 92101603,
+        "alias": "Contents.Item.Desc.2101603"
+    },
+    "92101604": {
+        "deprecated": false,
+        "id": 92101604,
+        "alias": "Contents.Item.Desc.2101604"
+    },
+    "92101605": {
+        "deprecated": false,
+        "id": 92101605,
+        "alias": "Contents.Item.Desc.2101605"
+    },
+    "92101801": {
+        "deprecated": false,
+        "id": 92101801,
+        "alias": "Contents.Item.Desc.2101801"
+    },
+    "92101802": {
+        "deprecated": false,
+        "id": 92101802,
+        "alias": "Contents.Item.Desc.2101802"
+    },
+    "92102001": {
+        "deprecated": false,
+        "id": 92102001,
+        "alias": "Contents.Item.Desc.2102001"
+    },
+    "92102002": {
+        "deprecated": false,
+        "id": 92102002,
+        "alias": "Contents.Item.Desc.2102002"
+    },
+    "92102003": {
+        "deprecated": false,
+        "id": 92102003,
+        "alias": "Contents.Item.Desc.2102003"
+    },
+    "92102004": {
+        "deprecated": false,
+        "id": 92102004,
+        "alias": "Contents.Item.Desc.2102004"
+    },
+    "92102005": {
+        "deprecated": false,
+        "id": 92102005,
+        "alias": "Contents.Item.Desc.2102005"
+    },
+    "92102006": {
+        "deprecated": false,
+        "id": 92102006,
+        "alias": "Contents.Item.Desc.2102006"
+    },
+    "92102007": {
+        "deprecated": false,
+        "id": 92102007,
+        "alias": "Contents.Item.Desc.2102007"
+    },
+    "92102008": {
+        "deprecated": false,
+        "id": 92102008,
+        "alias": "Contents.Item.Desc.2102008"
+    },
+    "92102009": {
+        "deprecated": false,
+        "id": 92102009,
+        "alias": "Contents.Item.Desc.2102009"
+    },
+    "92102010": {
+        "deprecated": false,
+        "id": 92102010,
+        "alias": "Contents.Item.Desc.2102010"
+    },
+    "92102201": {
+        "deprecated": false,
+        "id": 92102201,
+        "alias": "Contents.Item.Desc.2102201"
+    },
+    "92102202": {
+        "deprecated": false,
+        "id": 92102202,
+        "alias": "Contents.Item.Desc.2102202"
+    },
+    "92102203": {
+        "deprecated": false,
+        "id": 92102203,
+        "alias": "Contents.Item.Desc.2102203"
+    },
+    "92102204": {
+        "deprecated": false,
+        "id": 92102204,
+        "alias": "Contents.Item.Desc.2102204"
+    },
+    "92102205": {
+        "deprecated": false,
+        "id": 92102205,
+        "alias": "Contents.Item.Desc.2102205"
+    },
+    "92102401": {
+        "deprecated": false,
+        "id": 92102401,
+        "alias": "Contents.Item.Desc.2102401",
+        "text": "+7 강화 시 관통력 추가\n+8 강화 시 명중 추가\n+9 강화 시 무기 공격력 추가 상승"
+    },
+    "92102402": {
+        "deprecated": false,
+        "id": 92102402,
+        "alias": "Contents.Item.Desc.2102402"
+    },
+    "92102403": {
+        "deprecated": false,
+        "id": 92102403,
+        "alias": "Contents.Item.Desc.2102403"
+    },
+    "92102404": {
+        "deprecated": false,
+        "id": 92102404,
+        "alias": "Contents.Item.Desc.2102404"
+    },
+    "92102405": {
+        "deprecated": false,
+        "id": 92102405,
+        "alias": "Contents.Item.Desc.2102405"
+    },
+    "92102406": {
+        "deprecated": false,
+        "id": 92102406,
+        "alias": "Contents.Item.Desc.2102406"
+    },
+    "92102407": {
+        "deprecated": false,
+        "id": 92102407,
+        "alias": "Contents.Item.Desc.2102407"
+    },
+    "92102408": {
+        "deprecated": false,
+        "id": 92102408,
+        "alias": "Contents.Item.Desc.2102408"
+    },
+    "92102409": {
+        "deprecated": false,
+        "id": 92102409,
+        "alias": "Contents.Item.Desc.2102409"
+    },
+    "92102410": {
+        "deprecated": false,
+        "id": 92102410,
+        "alias": "Contents.Item.Desc.2102410"
+    },
+    "92102601": {
+        "deprecated": false,
+        "id": 92102601,
+        "alias": "Contents.Item.Desc.2102601"
+    },
+    "92102602": {
+        "deprecated": false,
+        "id": 92102602,
+        "alias": "Contents.Item.Desc.2102602"
+    },
+    "92102603": {
+        "deprecated": false,
+        "id": 92102603,
+        "alias": "Contents.Item.Desc.2102603"
+    },
+    "92102604": {
+        "deprecated": false,
+        "id": 92102604,
+        "alias": "Contents.Item.Desc.2102604"
+    },
+    "92102605": {
+        "deprecated": false,
+        "id": 92102605,
+        "alias": "Contents.Item.Desc.2102605"
+    },
+    "92102801": {
+        "deprecated": false,
+        "id": 92102801,
+        "alias": "Contents.Item.Desc.2102801"
+    },
+    "92102802": {
+        "deprecated": false,
+        "id": 92102802,
+        "alias": "Contents.Item.Desc.2102802"
+    },
+    "92103001": {
+        "deprecated": false,
+        "id": 92103001,
+        "alias": "Contents.Item.Desc.2103001"
+    },
+    "92103002": {
+        "deprecated": false,
+        "id": 92103002,
+        "alias": "Contents.Item.Desc.2103002"
+    },
+    "92103003": {
+        "deprecated": false,
+        "id": 92103003,
+        "alias": "Contents.Item.Desc.2103003"
+    },
+    "92103004": {
+        "deprecated": false,
+        "id": 92103004,
+        "alias": "Contents.Item.Desc.2103004"
+    },
+    "92103005": {
+        "deprecated": false,
+        "id": 92103005,
+        "alias": "Contents.Item.Desc.2103005"
+    },
+    "92103006": {
+        "deprecated": false,
+        "id": 92103006,
+        "alias": "Contents.Item.Desc.2103006"
+    },
+    "92103007": {
+        "deprecated": false,
+        "id": 92103007,
+        "alias": "Contents.Item.Desc.2103007"
+    },
+    "92103008": {
+        "deprecated": false,
+        "id": 92103008,
+        "alias": "Contents.Item.Desc.2103008"
+    },
+    "92103009": {
+        "deprecated": false,
+        "id": 92103009,
+        "alias": "Contents.Item.Desc.2103009"
+    },
+    "92103010": {
+        "deprecated": false,
+        "id": 92103010,
+        "alias": "Contents.Item.Desc.2103010"
+    },
+    "92103201": {
+        "deprecated": false,
+        "id": 92103201,
+        "alias": "Contents.Item.Desc.2103201"
+    },
+    "92103202": {
+        "deprecated": false,
+        "id": 92103202,
+        "alias": "Contents.Item.Desc.2103202"
+    },
+    "92103203": {
+        "deprecated": false,
+        "id": 92103203,
+        "alias": "Contents.Item.Desc.2103203"
+    },
+    "92103204": {
+        "deprecated": false,
+        "id": 92103204,
+        "alias": "Contents.Item.Desc.2103204"
+    },
+    "92103205": {
+        "deprecated": false,
+        "id": 92103205,
+        "alias": "Contents.Item.Desc.2103205"
+    },
+    "92103401": {
+        "deprecated": false,
+        "id": 92103401,
+        "alias": "Contents.Item.Desc.2103401",
+        "text": "+7 강화 시 관통력 추가\n+8 강화 시 지능 추가\n+9 강화 시 무기 공격력 추가 상승"
+    },
+    "92103402": {
+        "deprecated": false,
+        "id": 92103402,
+        "alias": "Contents.Item.Desc.2103402"
+    },
+    "92103403": {
+        "deprecated": false,
+        "id": 92103403,
+        "alias": "Contents.Item.Desc.2103403"
+    },
+    "92103404": {
+        "deprecated": false,
+        "id": 92103404,
+        "alias": "Contents.Item.Desc.2103404"
+    },
+    "92103405": {
+        "deprecated": false,
+        "id": 92103405,
+        "alias": "Contents.Item.Desc.2103405"
+    },
+    "92103406": {
+        "deprecated": false,
+        "id": 92103406,
+        "alias": "Contents.Item.Desc.2103406"
+    },
+    "92103407": {
+        "deprecated": false,
+        "id": 92103407,
+        "alias": "Contents.Item.Desc.2103407"
+    },
+    "92103408": {
+        "deprecated": false,
+        "id": 92103408,
+        "alias": "Contents.Item.Desc.2103408"
+    },
+    "92103409": {
+        "deprecated": false,
+        "id": 92103409,
+        "alias": "Contents.Item.Desc.2103409"
+    },
+    "92103410": {
+        "deprecated": false,
+        "id": 92103410,
+        "alias": "Contents.Item.Desc.2103410"
+    },
+    "92103601": {
+        "deprecated": false,
+        "id": 92103601,
+        "alias": "Contents.Item.Desc.2103601"
+    },
+    "92103602": {
+        "deprecated": false,
+        "id": 92103602,
+        "alias": "Contents.Item.Desc.2103602"
+    },
+    "92103603": {
+        "deprecated": false,
+        "id": 92103603,
+        "alias": "Contents.Item.Desc.2103603"
+    },
+    "92103604": {
+        "deprecated": false,
+        "id": 92103604,
+        "alias": "Contents.Item.Desc.2103604"
+    },
+    "92103605": {
+        "deprecated": false,
+        "id": 92103605,
+        "alias": "Contents.Item.Desc.2103605"
+    },
+    "92103801": {
+        "deprecated": false,
+        "id": 92103801,
+        "alias": "Contents.Item.Desc.2103801"
+    },
+    "92103802": {
+        "deprecated": false,
+        "id": 92103802,
+        "alias": "Contents.Item.Desc.2103802"
+    },
+    "92104001": {
+        "deprecated": false,
+        "id": 92104001,
+        "alias": "Contents.Item.Desc.2104001"
+    },
+    "92104002": {
+        "deprecated": false,
+        "id": 92104002,
+        "alias": "Contents.Item.Desc.2104002"
+    },
+    "92104003": {
+        "deprecated": false,
+        "id": 92104003,
+        "alias": "Contents.Item.Desc.2104003"
+    },
+    "92104004": {
+        "deprecated": false,
+        "id": 92104004,
+        "alias": "Contents.Item.Desc.2104004"
+    },
+    "92104005": {
+        "deprecated": false,
+        "id": 92104005,
+        "alias": "Contents.Item.Desc.2104005"
+    },
+    "92104006": {
+        "deprecated": false,
+        "id": 92104006,
+        "alias": "Contents.Item.Desc.2104006"
+    },
+    "92104007": {
+        "deprecated": false,
+        "id": 92104007,
+        "alias": "Contents.Item.Desc.2104007"
+    },
+    "92104008": {
+        "deprecated": false,
+        "id": 92104008,
+        "alias": "Contents.Item.Desc.2104008"
+    },
+    "92104009": {
+        "deprecated": false,
+        "id": 92104009,
+        "alias": "Contents.Item.Desc.2104009"
+    },
+    "92104010": {
+        "deprecated": false,
+        "id": 92104010,
+        "alias": "Contents.Item.Desc.2104010"
+    },
+    "92104201": {
+        "deprecated": false,
+        "id": 92104201,
+        "alias": "Contents.Item.Desc.2104201"
+    },
+    "92104202": {
+        "deprecated": false,
+        "id": 92104202,
+        "alias": "Contents.Item.Desc.2104202"
+    },
+    "92104203": {
+        "deprecated": false,
+        "id": 92104203,
+        "alias": "Contents.Item.Desc.2104203"
+    },
+    "92104204": {
+        "deprecated": false,
+        "id": 92104204,
+        "alias": "Contents.Item.Desc.2104204"
+    },
+    "92104205": {
+        "deprecated": false,
+        "id": 92104205,
+        "alias": "Contents.Item.Desc.2104205"
+    },
+    "92104401": {
+        "deprecated": false,
+        "id": 92104401,
+        "alias": "Contents.Item.Desc.2104401",
+        "text": "+7 강화 시 관통력 추가\n+8 강화 시 건강 추가\n+9 강화 시 무기 공격력 추가 상승"
+    },
+    "92104402": {
+        "deprecated": false,
+        "id": 92104402,
+        "alias": "Contents.Item.Desc.2104402"
+    },
+    "92104403": {
+        "deprecated": false,
+        "id": 92104403,
+        "alias": "Contents.Item.Desc.2104403"
+    },
+    "92104404": {
+        "deprecated": false,
+        "id": 92104404,
+        "alias": "Contents.Item.Desc.2104404"
+    },
+    "92104405": {
+        "deprecated": false,
+        "id": 92104405,
+        "alias": "Contents.Item.Desc.2104405"
+    },
+    "92104406": {
+        "deprecated": false,
+        "id": 92104406,
+        "alias": "Contents.Item.Desc.2104406"
+    },
+    "92104407": {
+        "deprecated": false,
+        "id": 92104407,
+        "alias": "Contents.Item.Desc.2104407"
+    },
+    "92104408": {
+        "deprecated": false,
+        "id": 92104408,
+        "alias": "Contents.Item.Desc.2104408"
+    },
+    "92104409": {
+        "deprecated": false,
+        "id": 92104409,
+        "alias": "Contents.Item.Desc.2104409"
+    },
+    "92104410": {
+        "deprecated": false,
+        "id": 92104410,
+        "alias": "Contents.Item.Desc.2104410"
+    },
+    "92104601": {
+        "deprecated": false,
+        "id": 92104601,
+        "alias": "Contents.Item.Desc.2104601"
+    },
+    "92104602": {
+        "deprecated": false,
+        "id": 92104602,
+        "alias": "Contents.Item.Desc.2104602"
+    },
+    "92104603": {
+        "deprecated": false,
+        "id": 92104603,
+        "alias": "Contents.Item.Desc.2104603"
+    },
+    "92104604": {
+        "deprecated": false,
+        "id": 92104604,
+        "alias": "Contents.Item.Desc.2104604"
+    },
+    "92104605": {
+        "deprecated": false,
+        "id": 92104605,
+        "alias": "Contents.Item.Desc.2104605"
+    },
+    "92104801": {
+        "deprecated": false,
+        "id": 92104801,
+        "alias": "Contents.Item.Desc.2104801"
+    },
+    "92104802": {
+        "deprecated": false,
+        "id": 92104802,
+        "alias": "Contents.Item.Desc.2104802"
+    },
+    "92105001": {
+        "deprecated": false,
+        "id": 92105001,
+        "alias": "Contents.Item.Desc.2105001"
+    },
+    "92105002": {
+        "deprecated": false,
+        "id": 92105002,
+        "alias": "Contents.Item.Desc.2105002"
+    },
+    "92105003": {
+        "deprecated": false,
+        "id": 92105003,
+        "alias": "Contents.Item.Desc.2105003"
+    },
+    "92105004": {
+        "deprecated": false,
+        "id": 92105004,
+        "alias": "Contents.Item.Desc.2105004"
+    },
+    "92105005": {
+        "deprecated": false,
+        "id": 92105005,
+        "alias": "Contents.Item.Desc.2105005"
+    },
+    "92105006": {
+        "deprecated": false,
+        "id": 92105006,
+        "alias": "Contents.Item.Desc.2105006"
+    },
+    "92105007": {
+        "deprecated": false,
+        "id": 92105007,
+        "alias": "Contents.Item.Desc.2105007"
+    },
+    "92105008": {
+        "deprecated": false,
+        "id": 92105008,
+        "alias": "Contents.Item.Desc.2105008"
+    },
+    "92105009": {
+        "deprecated": false,
+        "id": 92105009,
+        "alias": "Contents.Item.Desc.2105009"
+    },
+    "92105010": {
+        "deprecated": false,
+        "id": 92105010,
+        "alias": "Contents.Item.Desc.2105010"
+    },
+    "92105201": {
+        "deprecated": false,
+        "id": 92105201,
+        "alias": "Contents.Item.Desc.2105201"
+    },
+    "92105202": {
+        "deprecated": false,
+        "id": 92105202,
+        "alias": "Contents.Item.Desc.2105202"
+    },
+    "92105203": {
+        "deprecated": false,
+        "id": 92105203,
+        "alias": "Contents.Item.Desc.2105203"
+    },
+    "92105204": {
+        "deprecated": false,
+        "id": 92105204,
+        "alias": "Contents.Item.Desc.2105204"
+    },
+    "92105205": {
+        "deprecated": false,
+        "id": 92105205,
+        "alias": "Contents.Item.Desc.2105205"
+    },
+    "92105401": {
+        "deprecated": false,
+        "id": 92105401,
+        "alias": "Contents.Item.Desc.2105401",
+        "text": "+7 강화 시 관통력 추가\n+8 강화 시 명중 추가\n+9 강화 시 치명타 추가 공격력 추가"
+    },
+    "92105402": {
+        "deprecated": false,
+        "id": 92105402,
+        "alias": "Contents.Item.Desc.2105402"
+    },
+    "92105403": {
+        "deprecated": false,
+        "id": 92105403,
+        "alias": "Contents.Item.Desc.2105403"
+    },
+    "92105404": {
+        "deprecated": false,
+        "id": 92105404,
+        "alias": "Contents.Item.Desc.2105404"
+    },
+    "92105405": {
+        "deprecated": false,
+        "id": 92105405,
+        "alias": "Contents.Item.Desc.2105405"
+    },
+    "92105406": {
+        "deprecated": false,
+        "id": 92105406,
+        "alias": "Contents.Item.Desc.2105406"
+    },
+    "92105407": {
+        "deprecated": false,
+        "id": 92105407,
+        "alias": "Contents.Item.Desc.2105407"
+    },
+    "92105408": {
+        "deprecated": false,
+        "id": 92105408,
+        "alias": "Contents.Item.Desc.2105408"
+    },
+    "92105409": {
+        "deprecated": false,
+        "id": 92105409,
+        "alias": "Contents.Item.Desc.2105409"
+    },
+    "92105410": {
+        "deprecated": false,
+        "id": 92105410,
+        "alias": "Contents.Item.Desc.2105410"
+    },
+    "92105601": {
+        "deprecated": false,
+        "id": 92105601,
+        "alias": "Contents.Item.Desc.2105601"
+    },
+    "92105602": {
+        "deprecated": false,
+        "id": 92105602,
+        "alias": "Contents.Item.Desc.2105602"
+    },
+    "92105603": {
+        "deprecated": false,
+        "id": 92105603,
+        "alias": "Contents.Item.Desc.2105603"
+    },
+    "92105604": {
+        "deprecated": false,
+        "id": 92105604,
+        "alias": "Contents.Item.Desc.2105604"
+    },
+    "92105605": {
+        "deprecated": false,
+        "id": 92105605,
+        "alias": "Contents.Item.Desc.2105605"
+    },
+    "92105801": {
+        "deprecated": false,
+        "id": 92105801,
+        "alias": "Contents.Item.Desc.2105801"
+    },
+    "92105802": {
+        "deprecated": false,
+        "id": 92105802,
+        "alias": "Contents.Item.Desc.2105802"
+    },
+    "92106001": {
+        "deprecated": false,
+        "id": 92106001,
+        "alias": "Contents.Item.Desc.2106001"
+    },
+    "92106002": {
+        "deprecated": false,
+        "id": 92106002,
+        "alias": "Contents.Item.Desc.2106002"
+    },
+    "92106003": {
+        "deprecated": false,
+        "id": 92106003,
+        "alias": "Contents.Item.Desc.2106003"
+    },
+    "92106004": {
+        "deprecated": false,
+        "id": 92106004,
+        "alias": "Contents.Item.Desc.2106004"
+    },
+    "92106005": {
+        "deprecated": false,
+        "id": 92106005,
+        "alias": "Contents.Item.Desc.2106005"
+    },
+    "92106006": {
+        "deprecated": false,
+        "id": 92106006,
+        "alias": "Contents.Item.Desc.2106006"
+    },
+    "92106007": {
+        "deprecated": false,
+        "id": 92106007,
+        "alias": "Contents.Item.Desc.2106007"
+    },
+    "92106008": {
+        "deprecated": false,
+        "id": 92106008,
+        "alias": "Contents.Item.Desc.2106008"
+    },
+    "92106009": {
+        "deprecated": false,
+        "id": 92106009,
+        "alias": "Contents.Item.Desc.2106009"
+    },
+    "92106010": {
+        "deprecated": false,
+        "id": 92106010,
+        "alias": "Contents.Item.Desc.2106010"
+    },
+    "92106201": {
+        "deprecated": false,
+        "id": 92106201,
+        "alias": "Contents.Item.Desc.2106201"
+    },
+    "92106202": {
+        "deprecated": false,
+        "id": 92106202,
+        "alias": "Contents.Item.Desc.2106202"
+    },
+    "92106203": {
+        "deprecated": false,
+        "id": 92106203,
+        "alias": "Contents.Item.Desc.2106203"
+    },
+    "92106204": {
+        "deprecated": false,
+        "id": 92106204,
+        "alias": "Contents.Item.Desc.2106204"
+    },
+    "92106205": {
+        "deprecated": false,
+        "id": 92106205,
+        "alias": "Contents.Item.Desc.2106205"
+    },
+    "92106401": {
+        "deprecated": false,
+        "id": 92106401,
+        "alias": "Contents.Item.Desc.2106401",
+        "text": "+7 강화 시 관통력 추가\n+8 강화 시 치유력 추가 상승\n+9 강화 시 추가 공격력 추가 상승"
+    },
+    "92106402": {
+        "deprecated": false,
+        "id": 92106402,
+        "alias": "Contents.Item.Desc.2106402"
+    },
+    "92106403": {
+        "deprecated": false,
+        "id": 92106403,
+        "alias": "Contents.Item.Desc.2106403"
+    },
+    "92106404": {
+        "deprecated": false,
+        "id": 92106404,
+        "alias": "Contents.Item.Desc.2106404"
+    },
+    "92106405": {
+        "deprecated": false,
+        "id": 92106405,
+        "alias": "Contents.Item.Desc.2106405"
+    },
+    "92106406": {
+        "deprecated": false,
+        "id": 92106406,
+        "alias": "Contents.Item.Desc.2106406"
+    },
+    "92106407": {
+        "deprecated": false,
+        "id": 92106407,
+        "alias": "Contents.Item.Desc.2106407"
+    },
+    "92106408": {
+        "deprecated": false,
+        "id": 92106408,
+        "alias": "Contents.Item.Desc.2106408"
+    },
+    "92106409": {
+        "deprecated": false,
+        "id": 92106409,
+        "alias": "Contents.Item.Desc.2106409"
+    },
+    "92106410": {
+        "deprecated": false,
+        "id": 92106410,
+        "alias": "Contents.Item.Desc.2106410"
+    },
+    "92106601": {
+        "deprecated": false,
+        "id": 92106601,
+        "alias": "Contents.Item.Desc.2106601"
+    },
+    "92106602": {
+        "deprecated": false,
+        "id": 92106602,
+        "alias": "Contents.Item.Desc.2106602"
+    },
+    "92106603": {
+        "deprecated": false,
+        "id": 92106603,
+        "alias": "Contents.Item.Desc.2106603"
+    },
+    "92106604": {
+        "deprecated": false,
+        "id": 92106604,
+        "alias": "Contents.Item.Desc.2106604"
+    },
+    "92106605": {
+        "deprecated": false,
+        "id": 92106605,
+        "alias": "Contents.Item.Desc.2106605"
+    },
+    "92106801": {
+        "deprecated": false,
+        "id": 92106801,
+        "alias": "Contents.Item.Desc.2106801"
+    },
+    "92106802": {
+        "deprecated": false,
+        "id": 92106802,
+        "alias": "Contents.Item.Desc.2106802"
+    },
+    "92201001": {
+        "deprecated": false,
+        "id": 92201001,
+        "alias": "Contents.Item.Desc.2201001"
+    },
+    "92201002": {
+        "deprecated": false,
+        "id": 92201002,
+        "alias": "Contents.Item.Desc.2201002",
+        "text": "마을에 있는 [증표교환상]에게 [장인의 증표]를 지불하여 구매할 수 있습니다."
+    },
+    "92201003": {
+        "deprecated": false,
+        "id": 92201003,
+        "alias": "Contents.Item.Desc.2201003"
+    },
+    "92201004": {
+        "deprecated": false,
+        "id": 92201004,
+        "alias": "Contents.Item.Desc.2201004",
+        "text": "[제작]으로 획득할 수 있습니다."
+    },
+    "92201005": {
+        "deprecated": false,
+        "id": 92201005,
+        "alias": "Contents.Item.Desc.2201005",
+        "text": "[협행]에서 획득할 수 있습니다."
+    },
+    "92201006": {
+        "deprecated": false,
+        "id": 92201006,
+        "alias": "Contents.Item.Desc.2201006",
+        "text": "[협행]에서 획득할 수 있습니다."
+    },
+    "92201007": {
+        "deprecated": false,
+        "id": 92201007,
+        "alias": "Contents.Item.Desc.2201007",
+        "text": "[각인 장비함]에서 획득할 수 있습니다."
+    },
+    "92201008": {
+        "deprecated": false,
+        "id": 92201008,
+        "alias": "Contents.Item.Desc.2201008",
+        "text": "[제작]으로 획득할 수 있습니다."
+    },
+    "92201009": {
+        "deprecated": false,
+        "id": 92201009,
+        "alias": "Contents.Item.Desc.2201009",
+        "text": "[각인 장비함]에서 획득할 수 있습니다."
+    },
+    "92201010": {
+        "deprecated": false,
+        "id": 92201010,
+        "alias": "Contents.Item.Desc.2201010"
+    },
+    "92201201": {
+        "deprecated": false,
+        "id": 92201201,
+        "alias": "Contents.Item.Desc.2201201",
+        "text": "마을에 있는 [증표교환상]에게 [장인의 증표]를 지불하여 구매 가능하며, \n[각인 장비함] 또는 [제작]으로도 획득할 수 있습니다."
+    },
+    "92201202": {
+        "deprecated": false,
+        "id": 92201202,
+        "alias": "Contents.Item.Desc.2201202",
+        "text": "마을에 있는 [증표교환상]에게 [장인의 증표]를 지불하여 구매 가능하며, \n[협행] 또는 [제작]으로도 획득할 수 있습니다."
+    },
+    "92201203": {
+        "deprecated": false,
+        "id": 92201203,
+        "alias": "Contents.Item.Desc.2201203",
+        "text": "[각인 장비함] 또는 [제작]으로 획득할 수 있습니다."
+    },
+    "92201204": {
+        "deprecated": false,
+        "id": 92201204,
+        "alias": "Contents.Item.Desc.2201204",
+        "text": "[협행]에서 획득할 수 있습니다."
+    },
+    "92201205": {
+        "deprecated": false,
+        "id": 92201205,
+        "alias": "Contents.Item.Desc.2201205",
+        "text": "[협행]에서 획득할 수 있습니다."
+    },
+    "92201401": {
+        "deprecated": false,
+        "id": 92201401,
+        "alias": "Contents.Item.Desc.2201401",
+        "text": "마을에 있는 [증표교환상]에게 [장인의 증표]를 지불하여 구매 가능하며, \n[제작]으로도 획득할 수 있습니다.\n\n+7 강화 시 관통력 추가\n+8 강화 시 명중 추가\n+9 강화 시 무기 공격력 추가 상승"
+    },
+    "92201402": {
+        "deprecated": false,
+        "id": 92201402,
+        "alias": "Contents.Item.Desc.2201402",
+        "text": "[협행], [각인 장비함]으로 획득할 수 있습니다."
+    },
+    "92201403": {
+        "deprecated": false,
+        "id": 92201403,
+        "alias": "Contents.Item.Desc.2201403",
+        "text": "[협행], [제작]으로 획득할 수 있습니다."
+    },
+    "92201404": {
+        "deprecated": false,
+        "id": 92201404,
+        "alias": "Contents.Item.Desc.2201404",
+        "text": "마을에 있는 [증표교환상]에게 [장인의 증표]를 지불하여 구매할 수 있습니다."
+    },
+    "92201405": {
+        "deprecated": false,
+        "id": 92201405,
+        "alias": "Contents.Item.Desc.2201405",
+        "text": "[제작]으로 획득할 수 있습니다."
+    },
+    "92201406": {
+        "deprecated": false,
+        "id": 92201406,
+        "alias": "Contents.Item.Desc.2201406"
+    },
+    "92201407": {
+        "deprecated": false,
+        "id": 92201407,
+        "alias": "Contents.Item.Desc.2201407"
+    },
+    "92201408": {
+        "deprecated": false,
+        "id": 92201408,
+        "alias": "Contents.Item.Desc.2201408",
+        "text": "[제작]으로 획득할 수 있습니다."
+    },
+    "92201409": {
+        "deprecated": false,
+        "id": 92201409,
+        "alias": "Contents.Item.Desc.2201409"
+    },
+    "92201410": {
+        "deprecated": false,
+        "id": 92201410,
+        "alias": "Contents.Item.Desc.2201410"
+    },
+    "92201601": {
+        "deprecated": false,
+        "id": 92201601,
+        "alias": "Contents.Item.Desc.2201601",
+        "text": "[제작]으로 획득할 수 있습니다."
+    },
+    "92201602": {
+        "deprecated": false,
+        "id": 92201602,
+        "alias": "Contents.Item.Desc.2201602"
+    },
+    "92201603": {
+        "deprecated": false,
+        "id": 92201603,
+        "alias": "Contents.Item.Desc.2201603"
+    },
+    "92201604": {
+        "deprecated": false,
+        "id": 92201604,
+        "alias": "Contents.Item.Desc.2201604"
+    },
+    "92201605": {
+        "deprecated": false,
+        "id": 92201605,
+        "alias": "Contents.Item.Desc.2201605"
+    },
+    "92201801": {
+        "deprecated": false,
+        "id": 92201801,
+        "alias": "Contents.Item.Desc.2201801",
+        "text": "[제작]으로 획득할 수 있습니다."
+    },
+    "92201802": {
+        "deprecated": false,
+        "id": 92201802,
+        "alias": "Contents.Item.Desc.2201802"
+    },
+    "92202001": {
+        "deprecated": false,
+        "id": 92202001,
+        "alias": "Contents.Item.Desc.2202001"
+    },
+    "92202002": {
+        "deprecated": false,
+        "id": 92202002,
+        "alias": "Contents.Item.Desc.2202002",
+        "text": "마을에 있는 [증표교환상]에게 [장인의 증표]를 지불하여 구매할 수 있습니다."
+    },
+    "92202003": {
+        "deprecated": false,
+        "id": 92202003,
+        "alias": "Contents.Item.Desc.2202003"
+    },
+    "92202004": {
+        "deprecated": false,
+        "id": 92202004,
+        "alias": "Contents.Item.Desc.2202004",
+        "text": "[제작]으로 획득할 수 있습니다."
+    },
+    "92202005": {
+        "deprecated": false,
+        "id": 92202005,
+        "alias": "Contents.Item.Desc.2202005",
+        "text": "[협행]에서 획득할 수 있습니다."
+    },
+    "92202006": {
+        "deprecated": false,
+        "id": 92202006,
+        "alias": "Contents.Item.Desc.2202006",
+        "text": "[협행]에서 획득할 수 있습니다."
+    },
+    "92202007": {
+        "deprecated": false,
+        "id": 92202007,
+        "alias": "Contents.Item.Desc.2202007",
+        "text": "[각인 장비함]에서 획득할 수 있습니다."
+    },
+    "92202008": {
+        "deprecated": false,
+        "id": 92202008,
+        "alias": "Contents.Item.Desc.2202008",
+        "text": "[제작]으로 획득할 수 있습니다."
+    },
+    "92202009": {
+        "deprecated": false,
+        "id": 92202009,
+        "alias": "Contents.Item.Desc.2202009",
+        "text": "[각인 장비함]에서 획득할 수 있습니다."
+    },
+    "92202010": {
+        "deprecated": false,
+        "id": 92202010,
+        "alias": "Contents.Item.Desc.2202010"
+    },
+    "92202201": {
+        "deprecated": false,
+        "id": 92202201,
+        "alias": "Contents.Item.Desc.2202201",
+        "text": "마을에 있는 [증표교환상]에게 [장인의 증표]를 지불하여 구매 가능하며, \n[각인 장비함] 또는 [제작]으로도 획득할 수 있습니다."
+    },
+    "92202202": {
+        "deprecated": false,
+        "id": 92202202,
+        "alias": "Contents.Item.Desc.2202202",
+        "text": "마을에 있는 [증표교환상]에게 [장인의 증표]를 지불하여 구매 가능하며,\n[협행] 또는 [제작]으로도 획득할 수 있습니다."
+    },
+    "92202203": {
+        "deprecated": false,
+        "id": 92202203,
+        "alias": "Contents.Item.Desc.2202203",
+        "text": "[각인 장비함] 또는 [제작]으로 획득할 수 있습니다."
+    },
+    "92202204": {
+        "deprecated": false,
+        "id": 92202204,
+        "alias": "Contents.Item.Desc.2202204",
+        "text": "[협행]에서 획득할 수 있습니다."
+    },
+    "92202205": {
+        "deprecated": false,
+        "id": 92202205,
+        "alias": "Contents.Item.Desc.2202205",
+        "text": "[협행]에서 획득할 수 있습니다."
+    },
+    "92202401": {
+        "deprecated": false,
+        "id": 92202401,
+        "alias": "Contents.Item.Desc.2202401",
+        "text": "마을에 있는 [증표교환상]에게 [장인의 증표]를 지불하여 구매 가능하며, \n[제작]으로도 획득할 수 있습니다.\n\n+7 강화 시 관통력 추가\n+8 강화 시 명중 추가\n+9 강화 시 무기 공격력 추가 상승"
+    },
+    "92202402": {
+        "deprecated": false,
+        "id": 92202402,
+        "alias": "Contents.Item.Desc.2202402",
+        "text": "[협행], [각인 장비함]으로 획득할 수 있습니다."
+    },
+    "92202403": {
+        "deprecated": false,
+        "id": 92202403,
+        "alias": "Contents.Item.Desc.2202403",
+        "text": "[협행]으로 획득할 수 있습니다."
+    },
+    "92202404": {
+        "deprecated": false,
+        "id": 92202404,
+        "alias": "Contents.Item.Desc.2202404",
+        "text": "마을에 있는 [증표교환상]에게 [장인의 증표]를 지불하여 구매 가능하며, \n[제작]으로도 획득할 수 있습니다."
+    },
+    "92202405": {
+        "deprecated": false,
+        "id": 92202405,
+        "alias": "Contents.Item.Desc.2202405"
+    },
+    "92202406": {
+        "deprecated": false,
+        "id": 92202406,
+        "alias": "Contents.Item.Desc.2202406"
+    },
+    "92202407": {
+        "deprecated": false,
+        "id": 92202407,
+        "alias": "Contents.Item.Desc.2202407",
+        "text": "[제작]으로 획득할 수 있습니다."
+    },
+    "92202408": {
+        "deprecated": false,
+        "id": 92202408,
+        "alias": "Contents.Item.Desc.2202408",
+        "text": "[제작]으로 획득할 수 있습니다."
+    },
+    "92202409": {
+        "deprecated": false,
+        "id": 92202409,
+        "alias": "Contents.Item.Desc.2202409"
+    },
+    "92202410": {
+        "deprecated": false,
+        "id": 92202410,
+        "alias": "Contents.Item.Desc.2202410"
+    },
+    "92202601": {
+        "deprecated": false,
+        "id": 92202601,
+        "alias": "Contents.Item.Desc.2202601",
+        "text": "[제작]으로 획득할 수 있습니다."
+    },
+    "92202602": {
+        "deprecated": false,
+        "id": 92202602,
+        "alias": "Contents.Item.Desc.2202602"
+    },
+    "92202603": {
+        "deprecated": false,
+        "id": 92202603,
+        "alias": "Contents.Item.Desc.2202603"
+    },
+    "92202604": {
+        "deprecated": false,
+        "id": 92202604,
+        "alias": "Contents.Item.Desc.2202604"
+    },
+    "92202605": {
+        "deprecated": false,
+        "id": 92202605,
+        "alias": "Contents.Item.Desc.2202605"
+    },
+    "92202801": {
+        "deprecated": false,
+        "id": 92202801,
+        "alias": "Contents.Item.Desc.2202801",
+        "text": "[제작]으로 획득할 수 있습니다."
+    },
+    "92202802": {
+        "deprecated": false,
+        "id": 92202802,
+        "alias": "Contents.Item.Desc.2202802"
+    },
+    "92203001": {
+        "deprecated": false,
+        "id": 92203001,
+        "alias": "Contents.Item.Desc.2203001"
+    },
+    "92203002": {
+        "deprecated": false,
+        "id": 92203002,
+        "alias": "Contents.Item.Desc.2203002",
+        "text": "마을에 있는 [증표교환상]에게 [장인의 증표]를 지불하여 구매할 수 있습니다."
+    },
+    "92203003": {
+        "deprecated": false,
+        "id": 92203003,
+        "alias": "Contents.Item.Desc.2203003"
+    },
+    "92203004": {
+        "deprecated": false,
+        "id": 92203004,
+        "alias": "Contents.Item.Desc.2203004",
+        "text": "[제작]으로 획득할 수 있습니다."
+    },
+    "92203005": {
+        "deprecated": false,
+        "id": 92203005,
+        "alias": "Contents.Item.Desc.2203005",
+        "text": "[협행]에서 획득할 수 있습니다."
+    },
+    "92203006": {
+        "deprecated": false,
+        "id": 92203006,
+        "alias": "Contents.Item.Desc.2203006",
+        "text": "[협행]에서 획득할 수 있습니다."
+    },
+    "92203007": {
+        "deprecated": false,
+        "id": 92203007,
+        "alias": "Contents.Item.Desc.2203007",
+        "text": "[각인 장비함]에서 획득할 수 있습니다."
+    },
+    "92203008": {
+        "deprecated": false,
+        "id": 92203008,
+        "alias": "Contents.Item.Desc.2203008",
+        "text": "[제작]으로 획득할 수 있습니다."
+    },
+    "92203009": {
+        "deprecated": false,
+        "id": 92203009,
+        "alias": "Contents.Item.Desc.2203009",
+        "text": "[각인 장비함]에서 획득할 수 있습니다."
+    },
+    "92203010": {
+        "deprecated": false,
+        "id": 92203010,
+        "alias": "Contents.Item.Desc.2203010"
+    },
+    "92203201": {
+        "deprecated": false,
+        "id": 92203201,
+        "alias": "Contents.Item.Desc.2203201",
+        "text": "마을에 있는 [증표교환상]에게 [장인의 증표]를 지불하여 구매 가능하며, \n[각인 장비함] 또는 [제작]으로도 획득할 수 있습니다."
+    },
+    "92203202": {
+        "deprecated": false,
+        "id": 92203202,
+        "alias": "Contents.Item.Desc.2203202",
+        "text": "마을에 있는 [증표교환상]에게 [장인의 증표]를 지불하여 구매 가능하며, \n[협행] 또는 [제작]으로도 획득할 수 있습니다."
+    },
+    "92203203": {
+        "deprecated": false,
+        "id": 92203203,
+        "alias": "Contents.Item.Desc.2203203",
+        "text": "[각인 장비함]에서 획득할 수 있습니다."
+    },
+    "92203204": {
+        "deprecated": false,
+        "id": 92203204,
+        "alias": "Contents.Item.Desc.2203204",
+        "text": "[협행], [제작]으로 획득할 수 있습니다."
+    },
+    "92203205": {
+        "deprecated": false,
+        "id": 92203205,
+        "alias": "Contents.Item.Desc.2203205",
+        "text": "[협행]에서 획득할 수 있습니다."
+    },
+    "92203401": {
+        "deprecated": false,
+        "id": 92203401,
+        "alias": "Contents.Item.Desc.2203401",
+        "text": "마을에 있는 [증표교환상]에게 [장인의 증표]를 지불하여 구매 가능하며, \n[제작]으로도 획득할 수 있습니다.\n\n+7 강화 시 관통력 추가\n+8 강화 시 지능 추가\n+9 강화 시 무기 공격력 추가 상승"
+    },
+    "92203402": {
+        "deprecated": false,
+        "id": 92203402,
+        "alias": "Contents.Item.Desc.2203402",
+        "text": "[각인 장비함], [협행]에서 획득할 수 있습니다."
+    },
+    "92203403": {
+        "deprecated": false,
+        "id": 92203403,
+        "alias": "Contents.Item.Desc.2203403",
+        "text": "[협행], [제작]으로 획득할 수 있습니다."
+    },
+    "92203404": {
+        "deprecated": false,
+        "id": 92203404,
+        "alias": "Contents.Item.Desc.2203404",
+        "text": "마을에 있는 [증표교환상]에게 [장인의 증표]를 지불하여 구매할 수 있습니다."
+    },
+    "92203405": {
+        "deprecated": false,
+        "id": 92203405,
+        "alias": "Contents.Item.Desc.2203405",
+        "text": "[제작]으로 획득할 수 있습니다."
+    },
+    "92203406": {
+        "deprecated": false,
+        "id": 92203406,
+        "alias": "Contents.Item.Desc.2203406"
+    },
+    "92203407": {
+        "deprecated": false,
+        "id": 92203407,
+        "alias": "Contents.Item.Desc.2203407"
+    },
+    "92203408": {
+        "deprecated": false,
+        "id": 92203408,
+        "alias": "Contents.Item.Desc.2203408"
+    },
+    "92203409": {
+        "deprecated": false,
+        "id": 92203409,
+        "alias": "Contents.Item.Desc.2203409",
+        "text": "[제작]으로 획득할 수 있습니다."
+    },
+    "92203410": {
+        "deprecated": false,
+        "id": 92203410,
+        "alias": "Contents.Item.Desc.2203410"
+    },
+    "92203601": {
+        "deprecated": false,
+        "id": 92203601,
+        "alias": "Contents.Item.Desc.2203601",
+        "text": "[제작]으로 획득할 수 있습니다."
+    },
+    "92203602": {
+        "deprecated": false,
+        "id": 92203602,
+        "alias": "Contents.Item.Desc.2203602"
+    },
+    "92203603": {
+        "deprecated": false,
+        "id": 92203603,
+        "alias": "Contents.Item.Desc.2203603"
+    },
+    "92203604": {
+        "deprecated": false,
+        "id": 92203604,
+        "alias": "Contents.Item.Desc.2203604"
+    },
+    "92203605": {
+        "deprecated": false,
+        "id": 92203605,
+        "alias": "Contents.Item.Desc.2203605"
+    },
+    "92203801": {
+        "deprecated": false,
+        "id": 92203801,
+        "alias": "Contents.Item.Desc.2203801",
+        "text": "[제작]으로 획득할 수 있습니다."
+    },
+    "92203802": {
+        "deprecated": false,
+        "id": 92203802,
+        "alias": "Contents.Item.Desc.2203802"
+    },
+    "92204001": {
+        "deprecated": false,
+        "id": 92204001,
+        "alias": "Contents.Item.Desc.2204001"
+    },
+    "92204002": {
+        "deprecated": false,
+        "id": 92204002,
+        "alias": "Contents.Item.Desc.2204002",
+        "text": "마을에 있는 [증표교환상]에게 [장인의 증표]를 지불하여 구매할 수 있습니다."
+    },
+    "92204003": {
+        "deprecated": false,
+        "id": 92204003,
+        "alias": "Contents.Item.Desc.2204003"
+    },
+    "92204004": {
+        "deprecated": false,
+        "id": 92204004,
+        "alias": "Contents.Item.Desc.2204004",
+        "text": "[제작]으로 획득할 수 있습니다."
+    },
+    "92204005": {
+        "deprecated": false,
+        "id": 92204005,
+        "alias": "Contents.Item.Desc.2204005",
+        "text": "[협행]에서 획득할 수 있습니다."
+    },
+    "92204006": {
+        "deprecated": false,
+        "id": 92204006,
+        "alias": "Contents.Item.Desc.2204006",
+        "text": "[협행]에서 획득할 수 있습니다."
+    },
+    "92204007": {
+        "deprecated": false,
+        "id": 92204007,
+        "alias": "Contents.Item.Desc.2204007",
+        "text": "[각인 장비함]에서 획득할 수 있습니다."
+    },
+    "92204008": {
+        "deprecated": false,
+        "id": 92204008,
+        "alias": "Contents.Item.Desc.2204008",
+        "text": "[제작]으로 획득할 수 있습니다."
+    },
+    "92204009": {
+        "deprecated": false,
+        "id": 92204009,
+        "alias": "Contents.Item.Desc.2204009",
+        "text": "[각인 장비함]에서 획득할 수 있습니다."
+    },
+    "92204010": {
+        "deprecated": false,
+        "id": 92204010,
+        "alias": "Contents.Item.Desc.2204010"
+    },
+    "92204201": {
+        "deprecated": false,
+        "id": 92204201,
+        "alias": "Contents.Item.Desc.2204201",
+        "text": "마을에 있는 [증표교환상]에게 [장인의 증표]를 지불하여 구매 가능하며, \n[각인 장비함] 또는 [제작]으로도 획득할 수 있습니다."
+    },
+    "92204202": {
+        "deprecated": false,
+        "id": 92204202,
+        "alias": "Contents.Item.Desc.2204202",
+        "text": "마을에 있는 [증표교환상]에게 [장인의 증표]를 지불하여 구매 가능하며, \n[협행] 또는 [제작]으로도 획득할 수 있습니다."
+    },
+    "92204203": {
+        "deprecated": false,
+        "id": 92204203,
+        "alias": "Contents.Item.Desc.2204203",
+        "text": "[각인 장비함] 또는 [제작]으로 획득할 수 있습니다."
+    },
+    "92204204": {
+        "deprecated": false,
+        "id": 92204204,
+        "alias": "Contents.Item.Desc.2204204",
+        "text": "[협행]에서 획득할 수 있습니다."
+    },
+    "92204205": {
+        "deprecated": false,
+        "id": 92204205,
+        "alias": "Contents.Item.Desc.2204205",
+        "text": "[협행]에서 획득할 수 있습니다."
+    },
+    "92204401": {
+        "deprecated": false,
+        "id": 92204401,
+        "alias": "Contents.Item.Desc.2204401",
+        "text": "마을에 있는 [증표교환상]에게 [장인의 증표]를 지불하여 구매 가능하며, \n[제작]으로도 획득할 수 있습니다.\n\n+7 강화 시 관통력 추가\n+8 강화 시 건강 추가\n+9 강화 시 무기 공격력 추가 상승"
+    },
+    "92204402": {
+        "deprecated": false,
+        "id": 92204402,
+        "alias": "Contents.Item.Desc.2204402",
+        "text": "[각인 장비함], [협행]으로 획득할 수 있습니다."
+    },
+    "92204403": {
+        "deprecated": false,
+        "id": 92204403,
+        "alias": "Contents.Item.Desc.2204403",
+        "text": "[협행]으로 획득할 수 있습니다."
+    },
+    "92204404": {
+        "deprecated": false,
+        "id": 92204404,
+        "alias": "Contents.Item.Desc.2204404",
+        "text": "마을에 있는 [증표교환상]에게 [장인의 증표]를 지불하여 구매 가능하며, \n[제작]으로도 획득할 수 있습니다."
+    },
+    "92204405": {
+        "deprecated": false,
+        "id": 92204405,
+        "alias": "Contents.Item.Desc.2204405",
+        "text": "[제작]으로 획득할 수 있습니다."
+    },
+    "92204406": {
+        "deprecated": false,
+        "id": 92204406,
+        "alias": "Contents.Item.Desc.2204406"
+    },
+    "92204407": {
+        "deprecated": false,
+        "id": 92204407,
+        "alias": "Contents.Item.Desc.2204407"
+    },
+    "92204408": {
+        "deprecated": false,
+        "id": 92204408,
+        "alias": "Contents.Item.Desc.2204408"
+    },
+    "92204409": {
+        "deprecated": false,
+        "id": 92204409,
+        "alias": "Contents.Item.Desc.2204409"
+    },
+    "92204410": {
+        "deprecated": false,
+        "id": 92204410,
+        "alias": "Contents.Item.Desc.2204410",
+        "text": "[제작]으로 획득할 수 있습니다."
+    },
+    "92204601": {
+        "deprecated": false,
+        "id": 92204601,
+        "alias": "Contents.Item.Desc.2204601",
+        "text": "[제작]으로 획득할 수 있습니다."
+    },
+    "92204602": {
+        "deprecated": false,
+        "id": 92204602,
+        "alias": "Contents.Item.Desc.2204602"
+    },
+    "92204603": {
+        "deprecated": false,
+        "id": 92204603,
+        "alias": "Contents.Item.Desc.2204603"
+    },
+    "92204604": {
+        "deprecated": false,
+        "id": 92204604,
+        "alias": "Contents.Item.Desc.2204604"
+    },
+    "92204605": {
+        "deprecated": false,
+        "id": 92204605,
+        "alias": "Contents.Item.Desc.2204605"
+    },
+    "92204801": {
+        "deprecated": false,
+        "id": 92204801,
+        "alias": "Contents.Item.Desc.2204801",
+        "text": "[제작]으로 획득할 수 있습니다."
+    },
+    "92204802": {
+        "deprecated": false,
+        "id": 92204802,
+        "alias": "Contents.Item.Desc.2204802"
+    },
+    "92205001": {
+        "deprecated": false,
+        "id": 92205001,
+        "alias": "Contents.Item.Desc.2205001"
+    },
+    "92205002": {
+        "deprecated": false,
+        "id": 92205002,
+        "alias": "Contents.Item.Desc.2205002",
+        "text": "마을에 있는 [증표교환상]에게 [장인의 증표]를 지불하여 구매할 수 있습니다."
+    },
+    "92205003": {
+        "deprecated": false,
+        "id": 92205003,
+        "alias": "Contents.Item.Desc.2205003"
+    },
+    "92205004": {
+        "deprecated": false,
+        "id": 92205004,
+        "alias": "Contents.Item.Desc.2205004",
+        "text": "[제작]으로 획득할 수 있습니다."
+    },
+    "92205005": {
+        "deprecated": false,
+        "id": 92205005,
+        "alias": "Contents.Item.Desc.2205005",
+        "text": "[협행]에서 획득할 수 있습니다."
+    },
+    "92205006": {
+        "deprecated": false,
+        "id": 92205006,
+        "alias": "Contents.Item.Desc.2205006",
+        "text": "[협행]에서 획득할 수 있습니다."
+    },
+    "92205007": {
+        "deprecated": false,
+        "id": 92205007,
+        "alias": "Contents.Item.Desc.2205007",
+        "text": "[각인 장비함]에서 획득할 수 있습니다."
+    },
+    "92205008": {
+        "deprecated": false,
+        "id": 92205008,
+        "alias": "Contents.Item.Desc.2205008",
+        "text": "[제작]으로 획득할 수 있습니다."
+    },
+    "92205009": {
+        "deprecated": false,
+        "id": 92205009,
+        "alias": "Contents.Item.Desc.2205009",
+        "text": "[각인 장비함]에서 획득할 수 있습니다."
+    },
+    "92205010": {
+        "deprecated": false,
+        "id": 92205010,
+        "alias": "Contents.Item.Desc.2205010"
+    },
+    "92205201": {
+        "deprecated": false,
+        "id": 92205201,
+        "alias": "Contents.Item.Desc.2205201",
+        "text": "마을에 있는 [증표교환상]에게 [장인의 증표]를 지불하여 구매 가능하며, \n[각인 장비함] 또는 [제작]으로도 획득할 수 있습니다."
+    },
+    "92205202": {
+        "deprecated": false,
+        "id": 92205202,
+        "alias": "Contents.Item.Desc.2205202",
+        "text": "마을에 있는 [증표교환상]에게 [장인의 증표]를 지불하여 구매 가능하며, \n[협행] 또는 [제작]으로도 획득할 수 있습니다."
+    },
+    "92205203": {
+        "deprecated": false,
+        "id": 92205203,
+        "alias": "Contents.Item.Desc.2205203",
+        "text": "[각인 장비함] 또는 [제작]으로 획득할 수 있습니다."
+    },
+    "92205204": {
+        "deprecated": false,
+        "id": 92205204,
+        "alias": "Contents.Item.Desc.2205204",
+        "text": "[협행]에서 획득할 수 있습니다."
+    },
+    "92205205": {
+        "deprecated": false,
+        "id": 92205205,
+        "alias": "Contents.Item.Desc.2205205",
+        "text": "[협행]에서 획득할 수 있습니다."
+    },
+    "92205401": {
+        "deprecated": false,
+        "id": 92205401,
+        "alias": "Contents.Item.Desc.2205401",
+        "text": "마을에 있는 [증표교환상]에게 [장인의 증표]를 지불하여 구매 가능하며, \n[제작]으로 획득할 수 있습니다.\n\n+7 강화 시 관통력 추가\n+8 강화 시 명중 추가\n+9 강화 시 치명타 추가 공격력 추가"
+    },
+    "92205402": {
+        "deprecated": false,
+        "id": 92205402,
+        "alias": "Contents.Item.Desc.2205402",
+        "text": "[각인 장비함], [협행]으로 획득할 수 있습니다."
+    },
+    "92205403": {
+        "deprecated": false,
+        "id": 92205403,
+        "alias": "Contents.Item.Desc.2205403",
+        "text": "[협행], [제작]으로 획득할 수 있습니다."
+    },
+    "92205404": {
+        "deprecated": false,
+        "id": 92205404,
+        "alias": "Contents.Item.Desc.2205404",
+        "text": "마을에 있는 [증표교환상]에게 [장인의 증표]를 지불하여 구매 가능하며, \n[제작]으로 획득할 수 있습니다."
+    },
+    "92205405": {
+        "deprecated": false,
+        "id": 92205405,
+        "alias": "Contents.Item.Desc.2205405"
+    },
+    "92205406": {
+        "deprecated": false,
+        "id": 92205406,
+        "alias": "Contents.Item.Desc.2205406"
+    },
+    "92205407": {
+        "deprecated": false,
+        "id": 92205407,
+        "alias": "Contents.Item.Desc.2205407"
+    },
+    "92205408": {
+        "deprecated": false,
+        "id": 92205408,
+        "alias": "Contents.Item.Desc.2205408",
+        "text": "[제작]으로 획득할 수 있습니다."
+    },
+    "92205409": {
+        "deprecated": false,
+        "id": 92205409,
+        "alias": "Contents.Item.Desc.2205409"
+    },
+    "92205410": {
+        "deprecated": false,
+        "id": 92205410,
+        "alias": "Contents.Item.Desc.2205410"
+    },
+    "92205601": {
+        "deprecated": false,
+        "id": 92205601,
+        "alias": "Contents.Item.Desc.2205601",
+        "text": "[제작]으로 획득할 수 있습니다."
+    },
+    "92205602": {
+        "deprecated": false,
+        "id": 92205602,
+        "alias": "Contents.Item.Desc.2205602"
+    },
+    "92205603": {
+        "deprecated": false,
+        "id": 92205603,
+        "alias": "Contents.Item.Desc.2205603"
+    },
+    "92205604": {
+        "deprecated": false,
+        "id": 92205604,
+        "alias": "Contents.Item.Desc.2205604"
+    },
+    "92205605": {
+        "deprecated": false,
+        "id": 92205605,
+        "alias": "Contents.Item.Desc.2205605"
+    },
+    "92205801": {
+        "deprecated": false,
+        "id": 92205801,
+        "alias": "Contents.Item.Desc.2205801",
+        "text": "[제작]으로 획득할 수 있습니다."
+    },
+    "92205802": {
+        "deprecated": false,
+        "id": 92205802,
+        "alias": "Contents.Item.Desc.2205802"
+    },
+    "92206001": {
+        "deprecated": false,
+        "id": 92206001,
+        "alias": "Contents.Item.Desc.2206001"
+    },
+    "92206002": {
+        "deprecated": false,
+        "id": 92206002,
+        "alias": "Contents.Item.Desc.2206002",
+        "text": "마을에 있는 [증표교환상]에게 [장인의 증표]를 지불하여 구매할 수 있습니다."
+    },
+    "92206003": {
+        "deprecated": false,
+        "id": 92206003,
+        "alias": "Contents.Item.Desc.2206003"
+    },
+    "92206004": {
+        "deprecated": false,
+        "id": 92206004,
+        "alias": "Contents.Item.Desc.2206004",
+        "text": "[제작]으로 획득할 수 있습니다."
+    },
+    "92206005": {
+        "deprecated": false,
+        "id": 92206005,
+        "alias": "Contents.Item.Desc.2206005",
+        "text": "[협행]에서 획득할 수 있습니다."
+    },
+    "92206006": {
+        "deprecated": false,
+        "id": 92206006,
+        "alias": "Contents.Item.Desc.2206006",
+        "text": "[협행]에서 획득할 수 있습니다."
+    },
+    "92206007": {
+        "deprecated": false,
+        "id": 92206007,
+        "alias": "Contents.Item.Desc.2206007",
+        "text": "[각인 장비함]에서 획득할 수 있습니다."
+    },
+    "92206008": {
+        "deprecated": false,
+        "id": 92206008,
+        "alias": "Contents.Item.Desc.2206008",
+        "text": "[제작]으로 획득할 수 있습니다."
+    },
+    "92206009": {
+        "deprecated": false,
+        "id": 92206009,
+        "alias": "Contents.Item.Desc.2206009",
+        "text": "[각인 장비함]에서 획득할 수 있습니다."
+    },
+    "92206010": {
+        "deprecated": false,
+        "id": 92206010,
+        "alias": "Contents.Item.Desc.2206010"
+    },
+    "92206201": {
+        "deprecated": false,
+        "id": 92206201,
+        "alias": "Contents.Item.Desc.2206201",
+        "text": "마을에 있는 [증표교환상]에게 [장인의 증표]를 지불하여 구매 가능하며, \n[각인 장비함] 또는 [제작]으로도 획득할 수 있습니다."
+    },
+    "92206202": {
+        "deprecated": false,
+        "id": 92206202,
+        "alias": "Contents.Item.Desc.2206202",
+        "text": "마을에 있는 [증표교환상]에게 [장인의 증표]를 지불하여 구매 가능하며, \n[협행] 또는 [제작]으로도 획득할 수 있습니다."
+    },
+    "92206203": {
+        "deprecated": false,
+        "id": 92206203,
+        "alias": "Contents.Item.Desc.2206203",
+        "text": "[각인 장비함] 또는 [제작]으로 획득할 수 있습니다."
+    },
+    "92206204": {
+        "deprecated": false,
+        "id": 92206204,
+        "alias": "Contents.Item.Desc.2206204",
+        "text": "[협행]에서 획득할 수 있습니다."
+    },
+    "92206205": {
+        "deprecated": false,
+        "id": 92206205,
+        "alias": "Contents.Item.Desc.2206205",
+        "text": "[협행]에서 획득할 수 있습니다."
+    },
+    "92206401": {
+        "deprecated": false,
+        "id": 92206401,
+        "alias": "Contents.Item.Desc.2206401",
+        "text": "마을에 있는 [증표교환상]에게 [장인의 증표]를 지불하여 구매 가능하며, \n[제작]으로 획득할 수 있습니다.\n\n+7 강화 시 관통력 추가\n+8 강화 시 치유력 추가 상승\n+9 강화 시 추가 공격력 추가 상승"
+    },
+    "92206402": {
+        "deprecated": false,
+        "id": 92206402,
+        "alias": "Contents.Item.Desc.2206402",
+        "text": "[각인 장비함], [협행]으로 획득할 수 있습니다."
+    },
+    "92206403": {
+        "deprecated": false,
+        "id": 92206403,
+        "alias": "Contents.Item.Desc.2206403",
+        "text": "[협행], [제작]으로 획득할 수 있습니다."
+    },
+    "92206404": {
+        "deprecated": false,
+        "id": 92206404,
+        "alias": "Contents.Item.Desc.2206404",
+        "text": "마을에 있는 [증표교환상]에게 [장인의 증표]를 지불하여 구매할 수 있습니다."
+    },
+    "92206405": {
+        "deprecated": false,
+        "id": 92206405,
+        "alias": "Contents.Item.Desc.2206405",
+        "text": "[제작]으로 획득할 수 있습니다."
+    },
+    "92206406": {
+        "deprecated": false,
+        "id": 92206406,
+        "alias": "Contents.Item.Desc.2206406",
+        "text": "[제작]으로 획득할 수 있습니다."
+    },
+    "92206407": {
+        "deprecated": false,
+        "id": 92206407,
+        "alias": "Contents.Item.Desc.2206407"
+    },
+    "92206408": {
+        "deprecated": false,
+        "id": 92206408,
+        "alias": "Contents.Item.Desc.2206408"
+    },
+    "92206409": {
+        "deprecated": false,
+        "id": 92206409,
+        "alias": "Contents.Item.Desc.2206409"
+    },
+    "92206410": {
+        "deprecated": false,
+        "id": 92206410,
+        "alias": "Contents.Item.Desc.2206410"
+    },
+    "92206601": {
+        "deprecated": false,
+        "id": 92206601,
+        "alias": "Contents.Item.Desc.2206601",
+        "text": "[제작]으로 획득할 수 있습니다."
+    },
+    "92206602": {
+        "deprecated": false,
+        "id": 92206602,
+        "alias": "Contents.Item.Desc.2206602"
+    },
+    "92206603": {
+        "deprecated": false,
+        "id": 92206603,
+        "alias": "Contents.Item.Desc.2206603"
+    },
+    "92206604": {
+        "deprecated": false,
+        "id": 92206604,
+        "alias": "Contents.Item.Desc.2206604"
+    },
+    "92206605": {
+        "deprecated": false,
+        "id": 92206605,
+        "alias": "Contents.Item.Desc.2206605"
+    },
+    "92206801": {
+        "deprecated": false,
+        "id": 92206801,
+        "alias": "Contents.Item.Desc.2206801",
+        "text": "[제작]으로 획득할 수 있습니다."
+    },
+    "92206802": {
+        "deprecated": false,
+        "id": 92206802,
+        "alias": "Contents.Item.Desc.2206802"
+    },
+    "92900001": {
+        "deprecated": false,
+        "id": 92900001,
+        "alias": "Contents.Item.Desc.2900001",
+        "text": "기본공격 적중 시 100%의 확률로 대상에게 추가 피해를 줍니다."
+    },
+    "92900002": {
+        "deprecated": false,
+        "id": 92900002,
+        "alias": "Contents.Item.Desc.2900002",
+        "text": "기본공격 적중 시 100%의 확률로 대상에게 추가 피해를 줍니다."
+    },
+    "92900003": {
+        "deprecated": false,
+        "id": 92900003,
+        "alias": "Contents.Item.Desc.2900003",
+        "text": "기본공격 적중 시 100%의 확률로 대상에게 추가 피해를 줍니다."
+    },
+    "92900004": {
+        "deprecated": false,
+        "id": 92900004,
+        "alias": "Contents.Item.Desc.2900004",
+        "text": "기본공격 적중 시 100%의 확률로 대상에게 추가 피해를 줍니다."
+    },
+    "92900005": {
+        "deprecated": false,
+        "id": 92900005,
+        "alias": "Contents.Item.Desc.2900005",
+        "text": "기본공격 명중 시 8% 확률로 선풍각을 사용합니다. 또한 기본공격 중 치명타 발생 시, 적에게 낙뢰를 떨어뜨려 경직시킵니다."
+    },
+    "92900006": {
+        "deprecated": false,
+        "id": 92900006,
+        "alias": "Contents.Item.Desc.2900006",
+        "text": "기본공격 적중 시 100%의 확률로 대상에게 추가 피해를 줍니다."
+    },
+    "92900007": {
+        "deprecated": false,
+        "id": 92900007,
+        "alias": "Contents.Item.Desc.2900007",
+        "text": "기본공격 명중 시 16% 확률로 폭발화살을 날려 광역 피해를 줍니다."
+    }
+}
