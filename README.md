@@ -49,15 +49,25 @@ You can [download](https://github.com/Holastor/Blade-and-Soul-2-Localization/rel
 ## Об авторе
   * Author: by Holastor;
 
-## A responsibility
+## Warning:
+1) Game crashes and unstable work are possible. Need more tests
+2) The author is not responsible for bugs, bans, and other problems.
+3) !!!!!! The author is not 100% sure whether it is possible to get a ban for this!!!!!!
+4) Is something not translated? Feel free to leave a comment and I'll try to add the translation for the next update.
+5) There is text in the game that is sewn into the game, and its translation is impossible.
+6) There is a lot of confused, incomprehensible text. Most likely I did not touch it either.
+7) Translated with Google Translate
 
-* The author is not responsible for bugs, bans, and other problems.
-* !!!!!! The author is not 100% sure whether it is possible to get a ban for this!!!!!!
 
-## Ответственность
 
-* Автор не несет ответственности за ошибки, баны и другие проблемы.
-* !!!!!! Автор не уверен на 100%, можно ли за это получить бан !!!!!!
+## Предупреждение:
+1) Возможны вылеты игры и нестабильная работа. Нужно больше тестов
+2) Автор не несет ответственности за баги, баны и прочие проблемы.
+3) !!!!!! Автор не уверен на 100%, можно ли за это получить бан !!!!!!
+4) Что-то не переведено? Не стесняйтесь оставлять комментарии, и я постараюсь добавить перевод для следующего обновления.
+5) В игре есть текст, который вшит в игру, и его перевод невозможен.
+6) Очень много запутанного, непонятного текста. Скорее всего я его тоже не трогал.
+7) Переведенно с помощью Google Translate
 
 ## License
 
