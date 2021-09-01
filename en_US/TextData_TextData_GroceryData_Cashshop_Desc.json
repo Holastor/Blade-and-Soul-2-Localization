@@ -811,6 +811,13 @@
         "alias": "Contents.CashShop.Item.Desc.5102",
         "text": "[Information on supplies]\nObtain the following goods and items when purchasing\n: Special Pass Ticket\n\n* Special Pass Ticket\n- Category: Material\n- Use: Special Pass Additional Compensation Activation Available\n: Available within the Special Pass menu\n- Other settings: Non-tradeable, non-sellable, available until September 23, 2021\n\n* Caution\nAfter the season ends, you will no longer be able to proceed with the pass mission. .\nA week after the end of the season, unused Pass Points will expire and can no longer be exchanged for rewards.\n\n[Purchase limit]\nOnce per server"
     },
+    "99800117": {
+        "deprecated": false,
+        "Dev_Desc": "금화 / 빛나는 영석(28일)(이벤트)",
+        "id": 99800117,
+        "alias": "Contents.CashShop.Item.Desc.5103",
+        "text": "[Information on supplies]\nObtain the following goods and items upon purchase\n: Shining Spirit Stone (28 Days) (Event)\n\n* Shining Spirit Stone (28 Days) (Event)\n- Category: Consumables\n- Use: Acquires the following effects when used (the effect is maintained for 28 days when used)\n: Increases EXP acquisition rate by 100%, Gold Coin acquisition rate by 50%\n: Cannot be stacked with existing Shining Spirit Stone (28 days)\n : The buff effect of Shining Spirit Stone / Spirit Stone / Spirit Crystal can be stacked\n- Note: The buff effect only applies to the character who used it, and the duration of the effect is deducted even when not connected. Cannot be reused during the duration of the effect\n- Other settings : Cannot be stored in warehouse, cannot be traded, cannot be sold, can be used until 2021.09.22. 05:00\n\n[Purchase limit]\nOnce per character"
+    },
     "99850000": {
         "deprecated": false,
         "Dev_Desc": "금화 / 소환 / 일반 소울 소환 / 매일 1회",
@@ -1104,5 +1111,12 @@
         "id": 99850042,
         "alias": "Contents.CashShop.Item.Desc.9850017",
         "text": "When used, there is a fixed chance to obtain a Spirit Power."
+    },
+    "99850043": {
+        "deprecated": false,
+        "Dev_Desc": "금화 / 빛나는 영석(28일)(이벤트)",
+        "id": 99850043,
+        "alias": "Contents.CashShop.Item.Desc.9710088",
+        "text": "[Maintains effect for 28 days when used]\nIncreases EXP acquisition rate by 100% and gold coin acquisition rate by 50%\nCannot stack with existing Shiny Spirit Stone (28 days)\nThe buff effect of Shining Spirit Stone / Spirit Stone / Spirit Stone Crystal is They overlap.\n\n[Precautions when using]\nThe buff effect only applies to the character who used it.\nIt cannot be reused during the duration of the effect, and persists even when not connected.\n※ Storage not allowed, No trade, no sale."
     }
 }

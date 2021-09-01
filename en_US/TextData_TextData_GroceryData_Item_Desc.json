@@ -4363,7 +4363,7 @@
         "Dev_Desc": "동동의 소울 소환서",
         "id": 99000664,
         "alias": "Contents.Item.Desc.9201000",
-        "text": "퀘스트 보상으로 지급되는 물품입니다."
+        "text": "This item is given as a quest reward."
     },
     "99000665": {
         "deprecated": false,
@@ -15376,13 +15376,6 @@
         "alias": "Contents.Item.Desc.9900148",
         "text": "You can get 5 Secrets (Engraving) when used."
     },
-    "99002458": {
-        "deprecated": false,
-        "Dev_Desc": "영석 결정(이벤트)",
-        "id": 99002458,
-        "alias": "Contents.Item.Desc.9900149",
-        "text": "[Effect maintains for 30 minutes when used]\nExperience gain increased by 50% and gold coin acquisition rate increased by 25%, all items including non-engraved items can be acquired\nBuff of Shining Spirit Stone / Spirit Stone / Spirit Stone Crystal Effect overlaps each other.\n\n[Precautions when using]\nThe buff effect is applied only to the character who used it.\nIt cannot be reused during the duration of the effect, and persists even when not connected.\n※ Storage in storage No, no trade"
-    },
     "99002459": {
         "deprecated": false,
         "Dev_Desc": "일반 소울 파편(11회)(이벤트)",
@@ -16276,5 +16269,197 @@
         "id": 99002586,
         "alias": "Contents.Item.Desc.9900205",
         "text": "Gives 1.8 million doubloons when used."
+    },
+    "99002587": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 소울 소환서(11회)(이벤트)",
+        "id": 99002587,
+        "alias": "Contents.Item.Desc.9201131",
+        "text": "You can acquire a soul according to a set probability when used.<br/>(Rank: Normal ~ Heroic)"
+    },
+    "99002588": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 수호령 소환서(11회)(이벤트)",
+        "id": 99002588,
+        "alias": "Contents.Item.Desc.9201132",
+        "text": "You can acquire a guardian spirit according to a set probability when used.\n(Class: Normal ~ Heroic)"
+    },
+    "99002589": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 영석(1일)(이벤트)",
+        "id": 99002589,
+        "alias": "Contents.Item.Desc.9201133",
+        "text": "[Effect stays for 1 day when used]\nIncreases experience gain by 100% and gold coins by 50%\nThe buff effects of Shining Spirit Stone / Spirit Stone / Spirit Stone Crystal overlap each other.\n\n [Precautions when using]\nThe buff effect is applied only to the character who used it.\nIt cannot be reused during the duration of the effect, and it persists even when not connected.\n※ Cannot be stored in warehouse, cannot be traded, cannot be sold"
+    },
+    "99002590": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 영석(3일)(이벤트)",
+        "id": 99002590,
+        "alias": "Contents.Item.Desc.9201134",
+        "text": "[Effect stays for 3 days when used]\nIncreases experience gain by 100% and gold coins by 50%\nThe buff effects of Shining Spirit Stone / Spirit Stone / Spirit Stone Crystal overlap each other.\n\n [Precautions when using]\nThe buff effect is applied only to the character who used it.\nIt cannot be reused during the duration of the effect, and it persists even when not connected.\n※ Cannot be stored in warehouse, cannot be traded, cannot be sold"
+    },
+    "99002591": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 영석(7일)(이벤트)",
+        "id": 99002591,
+        "alias": "Contents.Item.Desc.9201135",
+        "text": "[Maintains effect for 7 days when used]\nIncreases experience gain by 100% and gold coins by 50%\nThe buff effects of Shining Spiritstone / Spiritstone / Spiritstone Crystal overlap each other.\n\n [Precautions when using]\nThe buff effect only applies to the character it is used for.\nIt cannot be reused during the duration of the effect, and it persists even when not connected.\n※ Cannot be stored in warehouse, cannot be traded, cannot be sold"
+    },
+    "99002592": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 영석(1시간)(이벤트)",
+        "id": 99002592,
+        "alias": "Contents.Item.Desc.9201136",
+        "text": "[Keep the effect for 1 hour when used]\nIncrease the EXP acquisition rate by 100% and the gold coin acquisition rate by 50%\nThe buff effects of Shining Spirit Stone / Spirit Stone / Spirit Stone Crystal overlap each other.\n\n[ Precautions when using]\nThe buff effect only applies to the character used.\nIt cannot be reused during the duration of the effect and persists even when not connected.\n※ Cannot be stored in warehouse, cannot be traded, cannot be sold"
+    },
+    "99002593": {
+        "deprecated": false,
+        "id": 99002593,
+        "alias": "Contents.Item.Desc.9900206",
+        "text": "When used, the following items can be obtained according to a set probability.\n\n- Craftsman's Mark\n- Shining Soul Shard (11 times) (engraved)\n- Rare Equipment\n- Rare Equipment crafting material"
+    },
+    "99002594": {
+        "deprecated": false,
+        "id": 99002594,
+        "alias": "Contents.Item.Desc.9900207",
+        "text": "When used, the following items can be obtained according to a set probability.\n\n- Craftsman's Token\n- Shining Soul Fragment (11 times) (engraved)\n- Rare Equipment\n- Rare Equipment crafting material"
+    },
+    "99002595": {
+        "deprecated": false,
+        "id": 99002595,
+        "alias": "Contents.Item.Desc.9900208",
+        "text": "When used, the following items can be obtained according to a set probability.\n\n- Craftsman's Mark\n- Shining Soul Shard (11 times) (engraved)\n- Rare Equipment\n- Rare Equipment crafting material"
+    },
+    "99002596": {
+        "deprecated": false,
+        "id": 99002596,
+        "alias": "Contents.Item.Desc.9900209",
+        "text": "When used, you can obtain 1 Soul Tree Soul Fragment.<br/>(Rank: Heroic)"
+    },
+    "99002597": {
+        "deprecated": false,
+        "id": 99002597,
+        "alias": "Contents.Item.Desc.9900210",
+        "text": "When used, you can obtain 1 Fragment of Runaway Guard Captain Soul.<br/>(Rank: Heroic)"
+    },
+    "99002598": {
+        "deprecated": false,
+        "id": 99002598,
+        "alias": "Contents.Item.Desc.9900211",
+        "text": "You can get 1 Red Plum Blossom Soul Fragment when used.<br/>(Rank: Heroic)"
+    },
+    "99002599": {
+        "deprecated": false,
+        "id": 99002599,
+        "alias": "Contents.Item.Desc.9900212",
+        "text": "When used, you can obtain 1 Fragment of Cordyceps Soul.<br/>(Rank: Heroic)"
+    },
+    "99002600": {
+        "deprecated": false,
+        "id": 99002600,
+        "alias": "Contents.Item.Desc.9900213",
+        "text": "When used, you can obtain 1 Paradise Greatsong Soul Fragment.<br/>(Rank: Heroic)"
+    },
+    "99002601": {
+        "deprecated": false,
+        "id": 99002601,
+        "alias": "Contents.Item.Desc.9900214",
+        "text": "You can get 1 Wind God Soul Fragment when used.<br/>(Rank: Heroic)"
+    },
+    "99002602": {
+        "deprecated": false,
+        "id": 99002602,
+        "alias": "Contents.Item.Desc.9900215",
+        "text": "You can obtain 1 Thunder God Soul Fragment when used.<br/>(Rank: Heroic)"
+    },
+    "99002603": {
+        "deprecated": false,
+        "id": 99002603,
+        "alias": "Contents.Item.Desc.9900216",
+        "text": "You can get 1 Red Ginseng Soul Fragment when used.<br/>(Rank: Heroic)"
+    },
+    "99002604": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 영석(28일)(이벤트)",
+        "id": 99002604,
+        "alias": "Contents.Item.Desc.9201137",
+        "text": "[Maintains effect for 28 days when used]\nIncreases experience acquisition rate by 100% and gold coin acquisition rate by 50%\nCannot stack with existing Shiny Spirit Stone (28 days)\nShining Spirit Stone / Spirit Stone / Spirit Stone Crystal 's buff effects overlap each other.\n\n[Precautions when using]\nThe buff effect only applies to the character who used it.\nIt cannot be reused during the duration of the effect and persists even when not connected.\n※ Cannot be stored in warehouse, cannot be traded, cannot be sold"
+    },
+    "99002605": {
+        "deprecated": false,
+        "Dev_Desc": "영석(7일)(이벤트)",
+        "id": 99002605,
+        "alias": "Contents.Item.Desc.9201138",
+        "text": "[Maintains effect for 7 days when used]\nIncreases experience gain by 100% and gold coin drop by 50%\nThe buff effects of Shining Spirit Stone / Spirit Stone / Spirit Stone Crystal overlap each other.\n\n [Precautions when using]\nThe buff effect is applied only to the character who used it.\nIt cannot be reused during the duration of the effect, and it persists even when not connected.\n※ Cannot be stored in warehouse, cannot be traded, cannot be sold"
+    },
+    "99002606": {
+        "deprecated": false,
+        "Dev_Desc": "충전석: 어스름한 호숫가(이벤트)",
+        "id": 99002606,
+        "alias": "Contents.Item.Desc.9900270",
+        "text": "Charges time spent in Twilight Lakeside Dungeon."
+    },
+    "99002607": {
+        "deprecated": false,
+        "Dev_Desc": "평범한 소울 파편(1회)(각인)",
+        "id": 99002607,
+        "alias": "Contents.Item.Desc.9900217",
+        "text": "When used, you can obtain 1 Soul Fragment at a set probability.<br/>(Rating: Common ~ Rare)"
+    },
+    "99002608": {
+        "deprecated": false,
+        "Dev_Desc": "초령목 소울 파편 상자",
+        "id": 99002608,
+        "alias": "Contents.Item.Desc.9900218",
+        "text": "When used, you can obtain 1 Choryeongwood Soul Fragment (Imprint)."
+    },
+    "99002609": {
+        "deprecated": false,
+        "Dev_Desc": "폭주 수호병 대장 소울 파편 상자",
+        "id": 99002609,
+        "alias": "Contents.Item.Desc.9900219",
+        "text": "When used, you can obtain 1 Runaway Guard Captain Soul Fragment (Imprint)."
+    },
+    "99002610": {
+        "deprecated": false,
+        "Dev_Desc": "홍매화 소울 파편 상자",
+        "id": 99002610,
+        "alias": "Contents.Item.Desc.9900220",
+        "text": "You can get 1 Red Plum Blossom Soul Fragment (Imprint) when used."
+    },
+    "99002611": {
+        "deprecated": false,
+        "Dev_Desc": "동충 소울 파편 상자",
+        "id": 99002611,
+        "alias": "Contents.Item.Desc.9900221",
+        "text": "When used, you can obtain 1 Cordyceps Soul Fragment (Imprint)."
+    },
+    "99002612": {
+        "deprecated": false,
+        "Dev_Desc": "낙원대성 소울 파편 상자",
+        "id": 99002612,
+        "alias": "Contents.Item.Desc.9900222",
+        "text": "When used, you can obtain 1 Paradise Fortress Soul Fragment (Imprint)."
+    },
+    "99002613": {
+        "deprecated": false,
+        "Dev_Desc": "풍신 소울 파편 상자",
+        "id": 99002613,
+        "alias": "Contents.Item.Desc.9900223",
+        "text": "You can get 1 Wind God Soul Fragment (Imprint) when used."
+    },
+    "99002614": {
+        "deprecated": false,
+        "Dev_Desc": "뇌신 소울 파편 상자",
+        "id": 99002614,
+        "alias": "Contents.Item.Desc.9900224",
+        "text": "You can obtain 1 Thunder God Soul Fragment (Imprint) when used."
+    },
+    "99002615": {
+        "deprecated": false,
+        "Dev_Desc": "홍돈삼 소울 파편 상자",
+        "id": 99002615,
+        "alias": "Contents.Item.Desc.9900225",
+        "text": "You can obtain 1 Red Ginseng Soul Fragment (Imprint) when used."
     }
 }

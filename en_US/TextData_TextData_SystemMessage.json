@@ -7060,5 +7060,26 @@
         "id": 9001070,
         "alias": "SysM.Market.Sale.Cancel.Already",
         "text": "This item has already been requested to be cancelled."
+    },
+    "9001071": {
+        "deprecated": false,
+        "Dev_Desc": "복구술사 / 장비 복구 완료 메시지",
+        "id": 9001071,
+        "alias": "SysM.Recorvery.Complete.Item",
+        "text": "Recovered <arg p=[1:string]/><eul/>"
+    },
+    "9001072": {
+        "deprecated": false,
+        "Dev_Desc": "복구술사 / 경험치 복구 완료 메시지",
+        "id": 9001072,
+        "alias": "SysM.Recorvery.Complete.Exp",
+        "text": "<arg p=[1:string]/> XP recovered."
+    },
+    "9001073": {
+        "deprecated": false,
+        "Dev_Desc": "모험가 점수 획득 보상 불가 메시지",
+        "id": 9001073,
+        "alias": "SysM.Adventure.LackGrade",
+        "text": "This rank has not yet been achieved."
     }
 }
