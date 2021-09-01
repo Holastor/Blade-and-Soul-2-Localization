@@ -326,7 +326,7 @@
         "Dev_Desc": "[LV. - ] 도화상전 협행 전문가",
         "id": 42000046,
         "alias": "Contents.Quest.Guide.2000046",
-        "text": "(<textColor=[78:148:215:255]>도화상전</>의 협행을 \n4건 모두 완료했어.\n보상이 기대되는걸?)"
+        "text": "(<textColor=[78:148:215:255]>도화상전</>의 협행을 \n모두 완료했어.\n보상이 기대되는걸?)"
     },
     "42000047": {
         "deprecated": false,
@@ -347,14 +347,14 @@
         "Dev_Desc": "[LV. - ] 대어방 협행 전문가",
         "id": 42000049,
         "alias": "Contents.Quest.Guide.2000049",
-        "text": "(<textColor=[78:148:215:255]>대어방 주민</>들의\n협행을 4건 완료했다)"
+        "text": "(<textColor=[78:148:215:255]>대어방 주민</>들의\n협행을 충분히 완료했다)"
     },
     "42000050": {
         "deprecated": false,
-        "Dev_Desc": "[LV. - ] 주민들의 해결사",
+        "Dev_Desc": "[LV. - ] 비사문 협행 전문가",
         "id": 42000050,
         "alias": "Contents.Quest.Guide.2000050",
-        "text": "(<textColor=[78:148:215:255]>반달호수의 주민</>들이 \n직접 제보한 협행을 \n벌써 4건이나 완료했네!)"
+        "text": "(<textColor=[78:148:215:255]>반달호수의 주민</>들에게\n조금이나마 도움이 되었기를)"
     },
     "42000051": {
         "deprecated": false,
@@ -425,6 +425,90 @@
         "id": 42000060,
         "alias": "Contents.Quest.Guide.2000060",
         "text": "(짐 주변의 위협은\n충분히 제거했다.\n<textColor=[255:204:102:255]>수와의 짐</>을 수거하자)"
+    },
+    "42000061": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수_[Lv.27] 썩지 않는 난파선",
+        "id": 42000061,
+        "alias": "Contents.Quest.Guide.2000061",
+        "text": "(휴~ 힘들었다. 그나저나, \n<textColor=[255:204:102:255]>난파선</>에 타고 있던 \n사람들은 어떻게 됐을까?)"
+    },
+    "42000062": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수_[Lv.27] 소라게의 독",
+        "id": 42000062,
+        "alias": "Contents.Quest.Guide.2000062",
+        "text": "(충분히 얻었어. \n독성이 있다니 함부로 \n먹으면 안 되겠군)"
+    },
+    "42000063": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수_[Lv.27] 귀한 보양식",
+        "id": 42000063,
+        "alias": "Contents.Quest.Guide.2000063",
+        "text": "(이 정도면 충분해. \n맛이 일품이라니,\n언제 한번 먹어봐야겠군)"
+    },
+    "42000064": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수_[Lv.27] 떠밀려온 난파선 조사",
+        "id": 42000064,
+        "alias": "Contents.Quest.Guide.2000064",
+        "text": "(드디어 끝마쳤다.\n<textColor=[78:148:215:255]>조사원</>들이 안전하게\n둘러볼 수 있겠어)"
+    },
+    "42000065": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수_[Lv.27] 반달초를 구해달라냥!_1",
+        "id": 42000065,
+        "alias": "Contents.Quest.Guide.2000065",
+        "text": "(안전해진 틈을 타\n<textColor=[255:204:102:255]>반달초</>를 채집하자!)"
+    },
+    "42000066": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수_[Lv.27] 반달초를 구해달라냥!_2",
+        "id": 42000066,
+        "alias": "Contents.Quest.Guide.2000066",
+        "text": "(이거로군! \n좋은 향기가 나는걸?)"
+    },
+    "42000067": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수_[Lv.28] 최고의 재료",
+        "id": 42000067,
+        "alias": "Contents.Quest.Guide.2000067",
+        "text": "(충분히 모았다.\n튼튼해서 갑옷으로 \n만들면 딱이겠어)"
+    },
+    "42000068": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수_[Lv.28] 진흙 속에 사는 물고기",
+        "id": 42000068,
+        "alias": "Contents.Quest.Guide.2000068",
+        "text": "(드디어 끝마쳤다.\n<textColor=[255:204:102:255]>물고기</>가 보이진 않는데…)"
+    },
+    "42000069": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수_[Lv.28] 악어 가죽이 필요해",
+        "id": 42000069,
+        "alias": "Contents.Quest.Guide.2000069",
+        "text": "(모두 구했다.\n제법 까다로운 임무였어)"
+    },
+    "42000070": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수_[Lv.28] 수양대원을 위한 특식",
+        "id": 42000070,
+        "alias": "Contents.Quest.Guide.2000070",
+        "text": "(이 정도면 <textColor=[78:148:215:255]>수양대원</> 전부가\n배부르게 먹을 수 있겠어)"
+    },
+    "42000071": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수_[Lv.28] 늪지에서 피는 꽃_1",
+        "id": 42000071,
+        "alias": "Contents.Quest.Guide.2000071",
+        "text": "(휴, 조금 안전해졌네.\n어서 <textColor=[255:204:102:255]>늪지 약초</>를 채집하자)"
+    },
+    "42000072": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수_[Lv.28] 늪지에서 피는 꽃_2",
+        "id": 42000072,
+        "alias": "Contents.Quest.Guide.2000072",
+        "text": "(하얗고 예쁜 꽃이네.\n진흙 속에서 자랐다는 게\n믿기지 않을 정도야)"
     },
     "42001000": {
         "deprecated": false,
@@ -725,28 +809,28 @@
         "Dev_Desc": "[LV. - ] 에레다 협행 전문가",
         "id": 42001042,
         "alias": "Contents.Quest.Guide.2001042",
-        "text": "(<textColor=[78:148:215:255]>에레다</>의 협행을\n3건 완수했다)"
+        "text": "(<textColor=[78:148:215:255]>에레다</>의 협행을\n충분히 완수했다)"
     },
     "42001043": {
         "deprecated": false,
         "Dev_Desc": "[LV. - ] 금경철문 협행 전문가",
         "id": 42001043,
         "alias": "Contents.Quest.Guide.2001043",
-        "text": "(<textColor=[78:148:215:255]>금경철문</>을 도와\n각종 재료를 수집하는 \n임무를 3건 완료했다)"
+        "text": "(<textColor=[78:148:215:255]>금경철문</>을 도와\n각종 재료를 수집하는 \n임무를 모두 완료했다)"
     },
     "42001044": {
         "deprecated": false,
         "Dev_Desc": "[LV. - ] 도화상전 협행 전문가",
         "id": 42001044,
         "alias": "Contents.Quest.Guide.2001044",
-        "text": "(<textColor=[78:148:215:255]>도화상전</>의 협행을\n3건 모두 완수했다.\n보상이 기대되는걸?)"
+        "text": "(<textColor=[78:148:215:255]>도화상전</>의 협행을\n모두 완수했다.\n보상이 기대되는걸?)"
     },
     "42001045": {
         "deprecated": false,
         "Dev_Desc": "[LV. - ] 수양 협행 전문가",
         "id": 42001045,
         "alias": "Contents.Quest.Guide.2001045",
-        "text": "(<textColor=[78:148:215:255]>수양</>이 제보한 \n<textColor=[110:216:175:255]>태록림</> 치안 유지 협행을\n3건 끝마쳤다)"
+        "text": "(<textColor=[78:148:215:255]>수양</>이 제보한 \n<textColor=[110:216:175:255]>태록림</> 치안 유지 협행을\n모두 끝마쳤다)"
     },
     "42001046": {
         "deprecated": false,
@@ -760,14 +844,14 @@
         "Dev_Desc": "[LV. - ] 명혜단 협행 전문가",
         "id": 42001047,
         "alias": "Contents.Quest.Guide.2001047",
-        "text": "(<textColor=[110:216:175:255]>태록림</>에서 \n<textColor=[78:148:215:255]>명혜단</>이 제보한 협행을 \n3건 완수했다)"
+        "text": "(<textColor=[110:216:175:255]>태록림</>에서 \n<textColor=[78:148:215:255]>명혜단</>이 제보한 협행을 \n모두 완수했다)"
     },
     "42001048": {
         "deprecated": false,
-        "Dev_Desc": "[LV. - ] 주민들의 해결사",
+        "Dev_Desc": "[LV. - ] 비사문 협행 전문가",
         "id": 42001048,
         "alias": "Contents.Quest.Guide.2001048",
-        "text": "(<textColor=[78:148:215:255]>태록림</>의 주민들이\n직접 제보한 협행을\n2건 모두 완수했다)"
+        "text": "(<textColor=[78:148:215:255]>태록림의 주민</>들에게\n조금이나마 도움이 되었기를)"
     },
     "42001049": {
         "deprecated": false,
@@ -998,7 +1082,7 @@
         "Dev_Desc": "[LV.58] 창도단 장비 수거",
         "id": 42002026,
         "alias": "Contents.Quest.Guide.2002026",
-        "text": "(<textColor=[78:148:215:255]>수양</>의 장비에 비해서 \n투박해 보이지만, \n조사를 해볼 만은 하다)"
+        "text": "(<textColor=[78:148:215:255]>매화단</>의 장비에 비해서 \n투박해 보이지만, \n조사를 해볼 만은 하다)"
     },
     "42002027": {
         "deprecated": false,
@@ -1051,10 +1135,10 @@
     },
     "42002034": {
         "deprecated": false,
-        "Dev_Desc": "[LV. - ] 주민들의 해결사",
+        "Dev_Desc": "[LV. - ] 비사문 협행 전문가",
         "id": 42002034,
         "alias": "Contents.Quest.Guide.2002034",
-        "text": "(<textColor=[78:148:215:255]>비옥대지의 주민</>들이\n직접 의뢰한 협행을\n2건 완수했다)"
+        "text": "(<textColor=[78:148:215:255]>비옥대지의 주민</>들에게\n조금이나마 도움이 되었기를)"
     },
     "42002035": {
         "deprecated": false,

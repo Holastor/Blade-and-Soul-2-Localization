@@ -323,10 +323,17 @@
     },
     "83100047": {
         "deprecated": false,
-        "Dev_Desc": "금화 / 데일리 패스권",
+        "Dev_Desc": "금화 / 스페셜 패스권",
         "id": 83100047,
         "alias": "Contents.CashShop.Item.Name.5102",
         "text": "스페셜 패스권"
+    },
+    "83100048": {
+        "deprecated": false,
+        "Dev_Desc": "금화 / 빛나는 영석(28일)(이벤트)",
+        "id": 83100048,
+        "alias": "Contents.CashShop.Item.Name.5103",
+        "text": "빛나는 영석(28일)(이벤트)"
     },
     "83150000": {
         "deprecated": false,
@@ -1041,5 +1048,12 @@
         "id": 83150101,
         "alias": "Contents.CashShop.Item.Name.9710073",
         "text": "시로의 인연 VI"
+    },
+    "83150102": {
+        "deprecated": false,
+        "Dev_Desc": "금화 / 빛나는 영석(28일)(이벤트)",
+        "id": 83150102,
+        "alias": "Contents.CashShop.Item.Name.9710088",
+        "text": "빛나는 영석(28일)(이벤트)"
     }
 }

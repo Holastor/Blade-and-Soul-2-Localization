@@ -4939,7 +4939,7 @@
         "Dev_Desc": "퀘스트 / 전격 / 팝업 / 수락창 / 버튼 No - 수락",
         "id": 8000723,
         "alias": "UI.Quest.OutBreak.PopUpText.KeepQuestN",
-        "text": "나중에 하기"
+        "text": "거절"
     },
     "8000724": {
         "deprecated": false,
@@ -8226,10 +8226,10 @@
     },
     "8001230": {
         "deprecated": false,
-        "Dev_Desc": "환경설정 / 타이틀",
+        "Dev_Desc": "설정 / 타이틀",
         "id": 8001230,
         "alias": "UI.Option.Title",
-        "text": "환경설정"
+        "text": "설정"
     },
     "8001231": {
         "deprecated": false,
@@ -8268,56 +8268,56 @@
     },
     "8001236": {
         "deprecated": false,
-        "Dev_Desc": "환경설정 / 탭 / 전투",
+        "Dev_Desc": "설정 / 탭 / 전투",
         "id": 8001236,
         "alias": "UI.Option.TabName.Battle",
         "text": "전투"
     },
     "8001237": {
         "deprecated": false,
-        "Dev_Desc": "환경설정 / 탭 / 환경",
+        "Dev_Desc": "설정 / 탭 / 환경",
         "id": 8001237,
         "alias": "UI.Option.TabName.Environment",
         "text": "환경설정"
     },
     "8001238": {
         "deprecated": false,
-        "Dev_Desc": "환경설정 / 탭 / 게임",
+        "Dev_Desc": "설정 / 탭 / 게임",
         "id": 8001238,
         "alias": "UI.Option.TabName.Game",
         "text": "게임"
     },
     "8001239": {
         "deprecated": false,
-        "Dev_Desc": "환경설정 / 탭 / 알림",
+        "Dev_Desc": "설정 / 탭 / 알림",
         "id": 8001239,
         "alias": "UI.Option.TabName.Notice",
         "text": "알림"
     },
     "8001240": {
         "deprecated": false,
-        "Dev_Desc": "환경설정 / 탭 / 정보",
+        "Dev_Desc": "설정 / 탭 / 정보",
         "id": 8001240,
         "alias": "UI.Option.TabName.Information",
         "text": "정보"
     },
     "8001241": {
         "deprecated": false,
-        "Dev_Desc": "환경설정 / 탭 / 탐지",
+        "Dev_Desc": "설정 / 탭 / 탐지",
         "id": 8001241,
         "alias": "UI.Option.TabName.Scan",
         "text": "탐지"
     },
     "8001242": {
         "deprecated": false,
-        "Dev_Desc": "환경설정 / 물약 자동 사용",
+        "Dev_Desc": "설정 / 물약 자동 사용",
         "id": 8001242,
         "alias": "UI.Option.HPPotionAutoUse",
         "text": "회복물약 자동사용 HP 값"
     },
     "8001243": {
         "deprecated": false,
-        "Dev_Desc": "환경설정 / 타겟까지 자동 이동",
+        "Dev_Desc": "설정 / 타겟까지 자동 이동",
         "id": 8001243,
         "alias": "UI.Option.AutoMoveToTarget",
         "text": "타겟까지 자동 이동"
@@ -8338,63 +8338,63 @@
     },
     "8001246": {
         "deprecated": false,
-        "Dev_Desc": "환경설정 / 타겟까지 자동 이동",
+        "Dev_Desc": "설정 / 타겟까지 자동 이동",
         "id": 8001246,
         "alias": "UI.Option.CommonAttackAutoUse",
         "text": "평타 자동 사용"
     },
     "8001247": {
         "deprecated": false,
-        "Dev_Desc": "환경설정 / 자동전투 범위",
+        "Dev_Desc": "설정 / 자동전투 범위",
         "id": 8001247,
         "alias": "UI.Option.AutoBattleBound",
         "text": "자동전투 범위"
     },
     "8001248": {
         "deprecated": false,
-        "Dev_Desc": "환경설정 / 가까움 버튼",
+        "Dev_Desc": "설정 / 가까움 버튼",
         "id": 8001248,
         "alias": "UI.Option.Button.Nearby",
         "text": "가까움"
     },
     "8001249": {
         "deprecated": false,
-        "Dev_Desc": "환경설정 / 먼거리 버튼",
+        "Dev_Desc": "설정 / 먼거리 버튼",
         "id": 8001249,
         "alias": "UI.Option.Button.Faraway",
         "text": "먼 거리"
     },
     "8001250": {
         "deprecated": false,
-        "Dev_Desc": "환경설정 / 제한없음 버튼",
+        "Dev_Desc": "설정 / 제한없음 버튼",
         "id": 8001250,
         "alias": "UI.Option.Button.NoLimit",
         "text": "제한없음"
     },
     "8001251": {
         "deprecated": false,
-        "Dev_Desc": "환경설정 / 자동전투 공격 대상",
+        "Dev_Desc": "설정 / 자동전투 공격 대상",
         "id": 8001251,
         "alias": "UI.Option.AutoBattleTarget",
         "text": "자동전투 공격 대상"
     },
     "8001252": {
         "deprecated": false,
-        "Dev_Desc": "환경설정 / 몬스터 등급 / 일반",
+        "Dev_Desc": "설정 / 몬스터 등급 / 일반",
         "id": 8001252,
         "alias": "UI.Option.MonsterGradeButton.Normal",
         "text": "일반"
     },
     "8001253": {
         "deprecated": false,
-        "Dev_Desc": "환경설정 / 몬스터 등급 / 정예",
+        "Dev_Desc": "설정 / 몬스터 등급 / 정예",
         "id": 8001253,
         "alias": "UI.Option.MonsterGradeButton.Elite",
         "text": "정예"
     },
     "8001254": {
         "deprecated": false,
-        "Dev_Desc": "환경설정 / 몬스터 등급 / 보스",
+        "Dev_Desc": "설정 / 몬스터 등급 / 보스",
         "id": 8001254,
         "alias": "UI.Option.MonsterGradeButton.Boss",
         "text": "보스"
@@ -8408,49 +8408,49 @@
     },
     "8001256": {
         "deprecated": false,
-        "Dev_Desc": "환경설정 / 아이템 획득 정보",
+        "Dev_Desc": "설정 / 아이템 획득 정보",
         "id": 8001256,
         "alias": "UI.Option.ItemGradeLimit",
         "text": "아이템 획득 최소 등급"
     },
     "8001257": {
         "deprecated": false,
-        "Dev_Desc": "환경설정 / 자동채집",
+        "Dev_Desc": "설정 / 자동채집",
         "id": 8001257,
         "alias": "UI.Option.AutoGather",
         "text": "자동 전투 중 자동 채집"
     },
     "8001258": {
         "deprecated": false,
-        "Dev_Desc": "환경설정 / 언어",
+        "Dev_Desc": "설정 / 언어",
         "id": 8001258,
         "alias": "UI.Option.Language",
         "text": "언어"
     },
     "8001259": {
         "deprecated": false,
-        "Dev_Desc": "환경설정 / 전투 탐지 대상",
+        "Dev_Desc": "설정 / 전투 탐지 대상",
         "id": 8001259,
         "alias": "UI.Option.ScanTarget",
         "text": "전투 탐지 대상"
     },
     "8001260": {
         "deprecated": false,
-        "Dev_Desc": "환경설정 / 적용 중인 탐지 대상 조건",
+        "Dev_Desc": "설정 / 적용 중인 탐지 대상 조건",
         "id": 8001260,
         "alias": "UI.Option.ScanTarget.AppliedCondition",
         "text": "적용 조건"
     },
     "8001261": {
         "deprecated": false,
-        "Dev_Desc": "환경설정 / 전체 탐지 대상 조건",
+        "Dev_Desc": "설정 / 전체 탐지 대상 조건",
         "id": 8001261,
         "alias": "UI.Option.ScanTarget.FullCondition",
         "text": "전체 조건"
     },
     "8001262": {
         "deprecated": false,
-        "Dev_Desc": "환경설정 / 탐지조건 순서 편집",
+        "Dev_Desc": "설정 / 탐지조건 순서 편집",
         "id": 8001262,
         "alias": "UI.Option.ScanTarget.OrderEditing",
         "text": "순서 편집"
@@ -14631,175 +14631,175 @@
     },
     "8002166": {
         "deprecated": false,
-        "Dev_Desc": "환경설정 / 전투 옵션",
+        "Dev_Desc": "설정 / 전투 옵션",
         "id": 8002166,
         "alias": "UI.Targeting.Button.Distance",
         "text": "거리 순"
     },
     "8002167": {
         "deprecated": false,
-        "Dev_Desc": "환경설정 / 전투 옵션",
+        "Dev_Desc": "설정 / 전투 옵션",
         "id": 8002167,
         "alias": "UI.Targeting.Button.Priority",
         "text": "타겟팅 우선순위 순"
     },
     "8002168": {
         "deprecated": false,
-        "Dev_Desc": "환경설정 / 전투 옵션",
+        "Dev_Desc": "설정 / 전투 옵션",
         "id": 8002168,
         "alias": "UI.Targeting.Button.Time",
         "text": "<arg p=[1:integer]/> 초"
     },
     "8002169": {
         "deprecated": false,
-        "Dev_Desc": "환경설정 / 전투 옵션",
+        "Dev_Desc": "설정 / 전투 옵션",
         "id": 8002169,
         "alias": "UI.Targeting.Button.Customize",
         "text": "사용자 지정"
     },
     "8002170": {
         "deprecated": false,
-        "Dev_Desc": "환경설정 / 전투 옵션",
+        "Dev_Desc": "설정 / 전투 옵션",
         "id": 8002170,
         "alias": "UI.Targeting.Filter.BattleTarget",
         "text": "교전대상"
     },
     "8002171": {
         "deprecated": false,
-        "Dev_Desc": "환경설정 / 전투 옵션",
+        "Dev_Desc": "설정 / 전투 옵션",
         "id": 8002171,
         "alias": "UI.Targeting.Filter.GuardTarget",
         "text": "경계대상"
     },
     "8002172": {
         "deprecated": false,
-        "Dev_Desc": "환경설정 / 전투 옵션",
+        "Dev_Desc": "설정 / 전투 옵션",
         "id": 8002172,
         "alias": "UI.Targeting.Filter.NormalPlayer",
         "text": "일반 플레이어"
     },
     "8002173": {
         "deprecated": false,
-        "Dev_Desc": "환경설정 / 전투 옵션",
+        "Dev_Desc": "설정 / 전투 옵션",
         "id": 8002173,
         "alias": "UI.Targeting.Filter.HostilityGuild",
         "text": "적대문파"
     },
     "8002174": {
         "deprecated": false,
-        "Dev_Desc": "환경설정 / 전투 옵션",
+        "Dev_Desc": "설정 / 전투 옵션",
         "id": 8002174,
         "alias": "UI.Targeting.Filter.AffiliatedGuild",
         "text": "소속문파"
     },
     "8002175": {
         "deprecated": false,
-        "Dev_Desc": "환경설정 / 전투 옵션",
+        "Dev_Desc": "설정 / 전투 옵션",
         "id": 8002175,
         "alias": "UI.Targeting.Filter.AllianceGuild",
         "text": "동맹문파"
     },
     "8002176": {
         "deprecated": false,
-        "Dev_Desc": "환경설정 / 전투 옵션",
+        "Dev_Desc": "설정 / 전투 옵션",
         "id": 8002176,
         "alias": "UI.Targeting.Filter.HostilityGuildLeader",
         "text": "적대 문파장"
     },
     "8002177": {
         "deprecated": false,
-        "Dev_Desc": "환경설정 / 전투 옵션",
+        "Dev_Desc": "설정 / 전투 옵션",
         "id": 8002177,
         "alias": "UI.Targeting.Filter.AffiliatedGuildLeader",
         "text": "소속 문파장"
     },
     "8002178": {
         "deprecated": false,
-        "Dev_Desc": "환경설정 / 전투 옵션",
+        "Dev_Desc": "설정 / 전투 옵션",
         "id": 8002178,
         "alias": "UI.Targeting.Filter.AllianceGuildLeader",
         "text": "동맹 문파장"
     },
     "8002179": {
         "deprecated": false,
-        "Dev_Desc": "환경설정 / 전투 옵션",
+        "Dev_Desc": "설정 / 전투 옵션",
         "id": 8002179,
         "alias": "UI.Targeting.Filter.BossMonster",
         "text": "보스 몬스터"
     },
     "8002180": {
         "deprecated": false,
-        "Dev_Desc": "환경설정 / 전투 옵션",
+        "Dev_Desc": "설정 / 전투 옵션",
         "id": 8002180,
         "alias": "UI.Targeting.Filter.NamedMonster",
         "text": "네임드 몬스터"
     },
     "8002181": {
         "deprecated": false,
-        "Dev_Desc": "환경설정 / 전투 옵션",
+        "Dev_Desc": "설정 / 전투 옵션",
         "id": 8002181,
         "alias": "UI.Targeting.Filter.EliteMonster",
         "text": "정예 몬스터"
     },
     "8002182": {
         "deprecated": false,
-        "Dev_Desc": "환경설정 / 전투 옵션",
+        "Dev_Desc": "설정 / 전투 옵션",
         "id": 8002182,
         "alias": "UI.Targeting.Filter.QuestMonster",
         "text": "퀘스트 몬스터"
     },
     "8002183": {
         "deprecated": false,
-        "Dev_Desc": "환경설정 / 전투 옵션",
+        "Dev_Desc": "설정 / 전투 옵션",
         "id": 8002183,
         "alias": "UI.Targeting.Filter.FirstAttackMonster",
         "text": "선공 몬스터"
     },
     "8002184": {
         "deprecated": false,
-        "Dev_Desc": "환경설정 / 전투 옵션",
+        "Dev_Desc": "설정 / 전투 옵션",
         "id": 8002184,
         "alias": "UI.Targeting.Filter.NormalMonster",
         "text": "일반 몬스터"
     },
     "8002185": {
         "deprecated": false,
-        "Dev_Desc": "환경설정 / 전투 옵션",
+        "Dev_Desc": "설정 / 전투 옵션",
         "id": 8002185,
         "alias": "UI.Targeting.Filter.OrderScanNumber",
         "text": "탐지번호 순"
     },
     "8002186": {
         "deprecated": false,
-        "Dev_Desc": "환경설정 / 전투 옵션",
+        "Dev_Desc": "설정 / 전투 옵션",
         "id": 8002186,
         "alias": "UI.Targeting.Filter.ScanNumber",
         "text": "탐지 번호"
     },
     "8002187": {
         "deprecated": false,
-        "Dev_Desc": "환경설정 / 전투 옵션",
+        "Dev_Desc": "설정 / 전투 옵션",
         "id": 8002187,
         "alias": "UI.Targeting.Filter.MonsterAttacking",
         "text": "나를 공격 중인 몬스터"
     },
     "8002188": {
         "deprecated": false,
-        "Dev_Desc": "환경설정 / 전투 옵션",
+        "Dev_Desc": "설정 / 전투 옵션",
         "id": 8002188,
         "alias": "UI.Targeting.Filter.PlayerAttacking",
         "text": "나를 공격 중인 플레이어"
     },
     "8002189": {
         "deprecated": false,
-        "Dev_Desc": "환경설정 / 전투 옵션",
+        "Dev_Desc": "설정 / 전투 옵션",
         "id": 8002189,
         "alias": "UI.Targeting.Filter.HostilityRelationship",
         "text": "나와 적대 관계인 플레이어"
     },
     "8002190": {
         "deprecated": false,
-        "Dev_Desc": "환경설정 / 전투 옵션",
+        "Dev_Desc": "설정 / 전투 옵션",
         "id": 8002190,
         "alias": "UI.Targeting.Filter.AllianceRelationship",
         "text": "나와 우호 관계인 플레이어"
@@ -14820,35 +14820,35 @@
     },
     "8002193": {
         "deprecated": false,
-        "Dev_Desc": "환경설정 / 전투 옵션",
+        "Dev_Desc": "설정 / 전투 옵션",
         "id": 8002193,
         "alias": "UI.Targeting.Button.Time1",
         "text": "3초"
     },
     "8002194": {
         "deprecated": false,
-        "Dev_Desc": "환경설정 / 전투 옵션",
+        "Dev_Desc": "설정 / 전투 옵션",
         "id": 8002194,
         "alias": "UI.Targeting.Button.Time2",
         "text": "5초"
     },
     "8002195": {
         "deprecated": false,
-        "Dev_Desc": "환경설정 / 전투 옵션",
+        "Dev_Desc": "설정 / 전투 옵션",
         "id": 8002195,
         "alias": "UI.Targeting.Button.Time3",
         "text": "10초"
     },
     "8002196": {
         "deprecated": false,
-        "Dev_Desc": "환경설정 / 전투 옵션",
+        "Dev_Desc": "설정 / 전투 옵션",
         "id": 8002196,
         "alias": "UI.Targeting.Button.Time4",
         "text": "15초"
     },
     "8002197": {
         "deprecated": false,
-        "Dev_Desc": "환경설정 / 전투 옵션",
+        "Dev_Desc": "설정 / 전투 옵션",
         "id": 8002197,
         "alias": "UI.Targeting.Button.Time5",
         "text": "20초"
@@ -16475,7 +16475,7 @@
         "Dev_Desc": "아이템 복구 / 팝업 / 설명",
         "id": 8002431,
         "alias": "UI.Recovery.PopUp.Item.Desc",
-        "text": "선택한 아이템을 복구하시겠습니까?"
+        "text": "선택한 물품을 복구하시겠습니까?"
     },
     "8002432": {
         "deprecated": false,
@@ -19870,7 +19870,7 @@
         "Dev_Desc": "퀘스트 / 즉시이동 팝업창 / 비용",
         "id": 8002918,
         "alias": "UI.Quest.WarpPopup.Money",
-        "text": "비용"
+        "text": "축지비용"
     },
     "8002919": {
         "deprecated": false,
@@ -20527,7 +20527,7 @@
         "Dev_Desc": "타이틀 / 보안 서비스 가입 안내 / 설명2",
         "id": 8003012,
         "alias": "UI.Login.SecurityInfo.Desc2",
-        "text": "※ 게스트 계정은 보안설정(기기 등록)을 할 수 없습니다.\n메뉴>환경설정>계정에서 plaync, Google, Apple, Facebook 계정 중 선택해 계정 연동 및 보안 설정을 한 후 이용하실 수 있습니다."
+        "text": "※ 게스트 계정은 보안설정(기기 등록)을 할 수 없습니다.\n메뉴>설정>계정에서 plaync, Google, Apple, Facebook 계정 중 선택해 계정 연동 및 보안 설정을 한 후 이용하실 수 있습니다."
     },
     "8003013": {
         "deprecated": false,
@@ -22477,21 +22477,21 @@
     },
     "8003291": {
         "deprecated": false,
-        "Dev_Desc": "환경설정 / 계정/ 탈출실패 (쿨타임)",
+        "Dev_Desc": "설정 / 계정/ 탈출실패 (쿨타임)",
         "id": 8003291,
         "alias": "UI.Option.Acount.Escape.Fail.ByCoolDown",
         "text": "<arg p=[1:integer]/>분 후에 다시 사용할 수 있습니다."
     },
     "8003292": {
         "deprecated": false,
-        "Dev_Desc": "환경설정 / 계정/ 탈출실패 (전투중)",
+        "Dev_Desc": "설정 / 계정/ 탈출실패 (전투중)",
         "id": 8003292,
         "alias": "UI.Option.Acount.Escape.Fail.ByCombat",
         "text": "전투중에는 사용할 수 없습니다."
     },
     "8003293": {
         "deprecated": false,
-        "Dev_Desc": "환경설정 / 계정/ 탈출실패 (시작존)",
+        "Dev_Desc": "설정 / 계정/ 탈출실패 (시작존)",
         "id": 8003293,
         "alias": "UI.Option.Acount.Escape.Fail.ByLocation",
         "text": "사용할 수 없는 지역입니다."
@@ -22509,5 +22509,26 @@
         "id": 8003295,
         "alias": "UI.Lobby.PreCreate.Error.Desc",
         "text": "커스터마이징을 종료할 경우 외형 변경은 더 이상 불가능합니다."
+    },
+    "8003296": {
+        "deprecated": false,
+        "Dev_Desc": "캐릭터 삭제 안내 메시지",
+        "id": 8003296,
+        "alias": "UI.Lobby.CharacterSelect.DeleteCountDown.3",
+        "text": "<textColor=[255:255:255:204]>캐릭터 삭제까지</>\n<textColor=[209:72:59:255]> <arg p=[1:string]/></><textColor=[255:255:255:204]> 남았습니다.</>"
+    },
+    "8003297": {
+        "deprecated": false,
+        "Dev_Desc": "게임Flow / 저장 공간 부족 사전 안내 팝업 / 타이틀",
+        "id": 8003297,
+        "alias": "UI.Login.LackSpaceErrorPre.Title",
+        "text": "저장 공간 부족"
+    },
+    "8003298": {
+        "deprecated": false,
+        "Dev_Desc": "게임Flow / 저장 공간 부족 사전 안내 팝업 / 설명",
+        "id": 8003298,
+        "alias": "UI.Login.LackSpaceErrorPre.Desc",
+        "text": "저장 공간이 부족합니다.\n저장 공간이 충분한지 확인 후 다시 시도해 주시기 바랍니다."
     }
 }

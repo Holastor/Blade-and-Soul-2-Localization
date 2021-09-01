@@ -563,7 +563,7 @@
         "Dev_Desc": "기공패 무공 화광소천_설명",
         "id": 60030081,
         "alias": "Contents.Skill.Desc.FireBangle.3651",
-        "text": "궁극의 화염폭풍으로 범위 내 모든 적을 일정 확률로 끌어당긴 후 폭발시켜 밀어냅니다.\n사용 중 통제 상태에 면역이 됩니다."
+        "text": "궁극의 화염폭풍을 형성하여 일정 확률로 끌어당긴 후 폭발시켜 밀어냅니다.\n범위 내 최대 5인까지 적중합니다.\n사용 중 통제 상태에 면역이 됩니다."
     },
     "60030082": {
         "deprecated": false,
@@ -1194,12 +1194,5 @@
         "id": 60030171,
         "alias": "Contents.Effect.Option.FireBangle.344420",
         "text": "기본 공격 속도 +68%\n무공 공격 속도 +30%\n소울 발동률 +5%"
-    },
-    "60030172": {
-        "deprecated": false,
-        "Dev_Desc": "강화텍스트_무공 피해 계수 추가 증가",
-        "id": 60030172,
-        "alias": "Contents.Skill.Upgrade.Name.3999",
-        "text": "무공 피해 계수 추가 증가"
     }
 }
