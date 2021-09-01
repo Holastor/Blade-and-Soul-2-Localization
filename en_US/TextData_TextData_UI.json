@@ -2412,7 +2412,7 @@
         "Dev_Desc": "NPC상점 / ",
         "id": 8000345,
         "alias": "UI.Shop.PopUpText.Sell.Confirm.2",
-        "text": "[<arg p=[1:string]/>] and <arg p=[2:integer]/>species <fontStyle=[FunctionStyleA]>sell</><br/>< textColor=[209:73:60:255]>Items expire when sold</>"
+        "text": "[<arg p=[1:string]/>] and <arg p=[2:integer]/>species <fontStyle=[FunctionStyleA]>sell</><br/><textColor=[209:73:60:255]>Items expire when sold</>"
     },
     "8000346": {
         "deprecated": false,
@@ -7487,7 +7487,7 @@
         "Dev_Desc": "조작가이드 / 질주 / 회류비",
         "id": 8001123,
         "alias": "UI.CommandGuide.Sprint.Drift",
-        "text": "\"While sprinting <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_A] width=[44] height=[44]/>< img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Plus] width=[28] height=[44]/><img src=[Texture2D'/Game/UI /Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Shift] width=[91] height=[44]/> or <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6. HUD_MS6'] frame=[Key_D] width=[44] height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Plus] width= [28] height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Shift] width=[91] height=[44]/> \""
+        "text": "\"While sprinting <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_A] width=[44] height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Plus] width=[28] height=[44]/><img src=[Texture2D'/Game/UI /Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Shift] width=[91] height=[44]/> or <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6. HUD_MS6'] frame=[Key_D] width=[44] height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Plus] width= [28] height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Shift] width=[91] height=[44]/> \""
     },
     "8001124": {
         "deprecated": false,
@@ -7543,7 +7543,7 @@
         "Dev_Desc": "조작가이드 / 수상비",
         "id": 8001131,
         "alias": "UI.CommandGuide.WaterSprint",
-        "text": "\"in water <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_W] width=[44] height=[44]/>< img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Plus] width=[28] height=[44]/><img src=[Texture2D'/Game/UI /Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Ctrl] width=[44] height=[44]/> or <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6. HUD_MS6'] frame=[Key_W] width=[44] height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_W] width= [44] height=[44]/>\""
+        "text": "\"in water <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_W] width=[44] height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Plus] width=[28] height=[44]/><img src=[Texture2D'/Game/UI /Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Ctrl] width=[44] height=[44]/> or <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6. HUD_MS6'] frame=[Key_W] width=[44] height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_W] width= [44] height=[44]/>\""
     },
     "8001132": {
         "deprecated": false,
@@ -15418,7 +15418,7 @@
         "Dev_Desc": "게임Flow / Extra 다운로드 팝업 / ios 설명 / 최초 유저",
         "id": 8002278,
         "alias": "UI.Login.ExtraUpdate.IosDesc",
-        "text": "Do you want to download additional data?\nYou can proceed with the download if you receive it later.\n\nYou can only play up to the tutorial area until the download is complete.\n<arg p=[1:integer] /> <arg p=[2:string]/>\n\n<textColor=[209:72:59:255]>Data charges may apply if you do not connect to Wi-Fi.</>"
+        "text": "Do you want to download additional data?\nYou can proceed with the download if you receive it later.\n\nYou can only play up to the tutorial area until the download is complete.\n<arg p=[1:integer]/> <arg p=[2:string]/>\n\n<textColor=[209:72:59:255]>Data charges may apply if you do not connect to Wi-Fi.</>"
     },
     "8002279": {
         "deprecated": false,
@@ -17350,7 +17350,7 @@
         "Dev_Desc": "블레이드&소울/소울/스탯 변경 팝업",
         "id": 8002557,
         "alias": "UI.BladeNSoul.ChangeStats.Popup1",
-        "text": "Are you sure you want to change <arg p=[1:integer]/> stats?<br/>When changing stats, values ​​are randomly assigned within the range."
+        "text": "Are you sure you want to change <arg p=[1:integer]/> stats?<br/>When changing stats, values are randomly assigned within the range."
     },
     "8002558": {
         "deprecated": false,
@@ -17378,7 +17378,7 @@
         "Dev_Desc": "블레이드&소울/효과 설명",
         "id": 8002561,
         "alias": "UI.BladeNSoul.Info.Desc",
-        "text": "Basic attack speed and non-attack speed are applied as the value of the soul installed in the main slot.\n\nThe soul's stats are the sum of the values ​​of the main soul and the sub soul, and the main soul is < arg p=[1:integer]/>%, sub-soul reflects the value of each <arg p=[2:integer]/>%.\n\nSpirit power required by soul is 3-star and 5-star growth It decreases with time.\n\nThe blade effect is applied as the effect possessed by the activated soul, and if the blade effects of the souls installed in the slot are the same, the blade effect with the summed level is applied."
+        "text": "Basic attack speed and non-attack speed are applied as the value of the soul installed in the main slot.\n\nThe soul's stats are the sum of the values of the main soul and the sub soul, and the main soul is <arg p=[1:integer]/>%, sub-soul reflects the value of each <arg p=[2:integer]/>%.\n\nSpirit power required by soul is 3-star and 5-star growth It decreases with time.\n\nThe blade effect is applied as the effect possessed by the activated soul, and if the blade effects of the souls installed in the slot are the same, the blade effect with the summed level is applied."
     },
     "8002562": {
         "deprecated": false,
@@ -19275,7 +19275,7 @@
         "Dev_Desc": "검결 / 효과 설명 텍스트8 (스탯)",
         "id": 8002832,
         "alias": "UI.Blade.StageEffect.Desc8",
-        "text": "<arg p=[1:integer]/> seconds <arg p=[2:string]/> <arg p=[3:string]/> stat <arg p=[4:string] />"
+        "text": "<arg p=[1:integer]/> seconds <arg p=[2:string]/> <arg p=[3:string]/> stat <arg p=[4:string]/>"
     },
     "8002833": {
         "deprecated": false,
@@ -19926,7 +19926,7 @@
         "Dev_Desc": "타이틀 / 계정 연동 / 설명",
         "id": 8002926,
         "alias": "UI.Login.Linkage.Popup.Desc",
-        "text": "Are you sure you want to link accounts?\n\n<textColor=[209:72:59:255]>You can only link accounts once.</>\n<textColor=[209:72:59: 255]>Please choose the account you wish to link carefully.</>"
+        "text": "Are you sure you want to link accounts?\n\n<textColor=[209:72:59:255]>You can only link accounts once.</>\n<textColor=[209:72:59:255]>Please choose the account you wish to link carefully.</>"
     },
     "8002927": {
         "deprecated": false,
@@ -22515,7 +22515,7 @@
         "Dev_Desc": "캐릭터 삭제 안내 메시지",
         "id": 8003296,
         "alias": "UI.Lobby.CharacterSelect.DeleteCountDown.3",
-        "text": "<textColor=[255:255:255:204]>캐릭터 삭제까지</>\n<textColor=[209:72:59:255]> <arg p=[1:string]/></><textColor=[255:255:255:204]> 남았습니다.</>"
+        "text": "<textColor=[255:255:255:204]>Until character deletion</>\n<textColor=[209:72:59:255]> <arg p=[1:string]/></><textColor=[255:255:255:204]> left.</>"
     },
     "8003297": {
         "deprecated": false,
