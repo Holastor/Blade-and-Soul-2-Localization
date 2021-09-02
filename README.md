@@ -22,7 +22,7 @@
 
 * ONLY PC
 * Download Last Release;
-* Place the file B2_BaseData_00001.pak in the \Game Folder\B2\Content\Paks;
+* Place the file B2_Data_00001.pak in the \Game Folder\B2\Content\Paks;
 * And you need to go folder C:\Users\UserName\AppData\Local\B2\Saved\Option and open file LocalOption.json;
 * In LocalOption.json find "language":1" and change it to "language":2" for English Language and "language":6" for Russian Language;
 * And that's it you have english or russian language!;
@@ -31,7 +31,7 @@
 * Русский язык еще не готов!!!
 * Только PC
 * Скачать последний релиз;
-* Поместите файл B2_BaseData_00001.pak в папку \Game Folder\B2\Content\Paks;
+* Поместите файл B2_Data_00001.pak в папку \Game Folder\B2\Content\Paks;
 * Вам нужно перейти в папку C:\Users\UserName\AppData\Local\B2\Saved\Option и открыть файл LocalOption.json;
 * В LocalOption.json найдите "language":1" и измените его на"language":2" для английского языка и "language":6" для русского языка;
 * И все у вас есть английский или русский язык!;
