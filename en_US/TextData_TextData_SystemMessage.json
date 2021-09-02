@@ -1445,7 +1445,7 @@
         "Dev_Desc": "옷장 / 삭제된 컨텐츠 / ",
         "id": 9000239,
         "alias": "SysM.Closet.Register",
-        "text": "<arg p=[1:string]/><eul/> in closet."
+        "text": "<arg p=[1:string]/><eul/> in Wardrobe."
     },
     "9000240": {
         "deprecated": false,
@@ -1515,7 +1515,7 @@
         "Dev_Desc": "옷장 / 삭제 / ",
         "id": 9000249,
         "alias": "SysM.Closet.AlreadyRegistered",
-        "text": "This outfit has already been registered in the closet."
+        "text": "This outfit has already been registered in the Wardrobe."
     },
     "9000250": {
         "deprecated": false,
@@ -2096,7 +2096,7 @@
         "Dev_Desc": "컨텐츠 해금 / 해금이 필요한 메뉴 이름 / ",
         "id": 9000333,
         "alias": "SysM.FunctionLock.ContentsName.Closet",
-        "text": "closet"
+        "text": "Wardrobe"
     },
     "9000334": {
         "deprecated": false,
@@ -2719,14 +2719,14 @@
         "Dev_Desc": "문파 시스템 / 기록 / 단기 버프 적용 안내",
         "id": 9000426,
         "alias": "SysM.Guild.History.GuildBuff.InstantBuff",
-        "text": "Munpa buff <arg p=[1:string]/> <ga/> applied."
+        "text": "Guild buff <arg p=[1:string]/> <ga/> applied."
     },
     "9000427": {
         "deprecated": false,
         "Dev_Desc": "문파 시스템 / 기록 / 상시 버프 레벨 업 안내",
         "id": 9000427,
         "alias": "SysM.Guild.History.GuildBuff.LevelUp",
-        "text": "Munpa buff <arg p=[1:string]/> <arg p=[1:integer]/> level applied."
+        "text": "Guild buff <arg p=[1:string]/> <arg p=[1:integer]/> level applied."
     },
     "9000428": {
         "deprecated": false,
@@ -2782,14 +2782,14 @@
         "Dev_Desc": "문파 시스템 / 해금 / 타입 명",
         "id": 9000435,
         "alias": "SysM.FunctionLock.ContentsName.Guild",
-        "text": "Munpa"
+        "text": "Guild"
     },
     "9000436": {
         "deprecated": false,
         "Dev_Desc": "문파 시스템 / 해금 / 메시지 / 타이틀",
         "id": 9000436,
         "alias": "SysM.FunctionLock.ContentsName.Guild.UnlockMsg.Title",
-        "text": "Munpa unlocked"
+        "text": "Guild unlocked"
     },
     "9000437": {
         "deprecated": false,
@@ -3020,7 +3020,7 @@
         "Dev_Desc": "문파 시스템 / 직위 위임 / 위임 대상자에게 변경 안내",
         "id": 9000475,
         "alias": "SysM.Guild.PositionChange.LeaderChange.MsgToRecipient",
-        "text": "I have been appointed to the Munpa."
+        "text": "I have been appointed to the Guild."
     },
     "9000476": {
         "deprecated": false,
@@ -3419,7 +3419,7 @@
         "Dev_Desc": "우편 / 설명 / 키워드 / 칙령 / 선포한 문파장 보상",
         "id": 9000532,
         "alias": "SysM.Post.Desc.KeyWord.RoyalOrder.ClanLeader",
-        "text": "Proclamation Munpajang"
+        "text": "Proclamation Guild"
     },
     "9000533": {
         "deprecated": false,
@@ -3531,14 +3531,14 @@
         "Dev_Desc": "문파 에러 / 문파장 / 추방, 탈퇴 불가 처리",
         "id": 9000553,
         "alias": "SysM.Guild.Error.Banish.CanNotLeaveOrKick",
-        "text": "Munpa-jang cannot be withdrawn or expelled."
+        "text": "Guild cannot be withdrawn or expelled."
     },
     "9000556": {
         "deprecated": false,
         "Dev_Desc": "문파 시스템 / 직위 임명 / 문파장 지위 변경 불가",
         "id": 9000556,
         "alias": "SysM.Guild.Error.PositionChange.CannotChangeLeader",
-        "text": "You can't change the position of the Munpa."
+        "text": "You can't change the position of the Guild."
     },
     "9000557": {
         "deprecated": false,
@@ -4014,7 +4014,7 @@
         "Dev_Desc": "잠금 / 의복 아이템 등록 시도",
         "id": 9000632,
         "alias": "SysM.ItemLock.Fail.4",
-        "text": "Locked clothing cannot be registered in the closet."
+        "text": "Locked clothing cannot be registered in the Wardrobe."
     },
     "9000633": {
         "deprecated": false,
@@ -4091,7 +4091,7 @@
         "Dev_Desc": "문파 기부 해금/ 타이틀 / 테스트",
         "id": 9000643,
         "alias": "SysM.FunctionLock.UnlockMsgTitle.GuildDonation",
-        "text": "Munpa donation ban"
+        "text": "Guild donation ban"
     },
     "9000644": {
         "deprecated": false,
@@ -4105,14 +4105,14 @@
         "Dev_Desc": "문파 상점 해금/ 타이틀 / 테스트",
         "id": 9000645,
         "alias": "SysM.FunctionLock.UnlockMsgTitle.GuildShop",
-        "text": "Munpa shop unlocked"
+        "text": "Guild shop unlocked"
     },
     "9000646": {
         "deprecated": false,
         "Dev_Desc": "문파 상점 해금/ 메시지 / 테스트",
         "id": 9000646,
         "alias": "SysM.FunctionLock.UnlockMsgDesc.GuildShop",
-        "text": "Munpa shop is now available."
+        "text": "Guild shop is now available."
     },
     "9000649": {
         "deprecated": false,
@@ -4147,7 +4147,7 @@
         "Dev_Desc": "문파 기능 해금/ 타이틀 / 테스트",
         "id": 9000653,
         "alias": "SysM.FunctionLock.UnlockMsgTitle.Guild",
-        "text": "Munpa unlocked"
+        "text": "Guild unlocked"
     },
     "9000654": {
         "deprecated": false,
@@ -4203,7 +4203,7 @@
         "Dev_Desc": "채팅 / 문파",
         "id": 9000661,
         "alias": "SysM.chat.Guild",
-        "text": "Munpa"
+        "text": "Guild"
     },
     "9000662": {
         "deprecated": false,
