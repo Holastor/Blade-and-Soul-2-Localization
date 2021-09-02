@@ -58,7 +58,7 @@
         "deprecated": false,
         "id": 9000010,
         "alias": "SysM.Forge.OptionRedientify.LackMoney",
-        "text": "Cannot be changed due to insufficient resources."
+        "text": "Cannot be changed due to lack of goods."
     },
     "9000011": {
         "deprecated": false,
@@ -231,7 +231,7 @@
         "Dev_Desc": "봉인해제/판매/분해/파괴",
         "id": 9000038,
         "alias": "SysM.Item.SelectItem",
-        "text": "<arg p=[1:string]/>Please select an item to use."
+        "text": "<arg p=[1:string]/>Please select the item you want to use."
     },
     "9000039": {
         "deprecated": false,
@@ -245,7 +245,7 @@
         "Dev_Desc": "봉인해제/판매/분해/파괴",
         "id": 9000040,
         "alias": "SysM.Item.NoSelectItem",
-        "text": "No items were selected. <arg p=[1:string]/> Please select an item to use."
+        "text": "No items have been selected. <arg p=[1:string]/> Please select an item."
     },
     "9000041": {
         "deprecated": false,
@@ -259,7 +259,7 @@
         "Dev_Desc": "분해/봉인 해제/획득/강화/승급/조작/진화",
         "id": 9000042,
         "alias": "SysM.TempInventory.Unable.2",
-        "text": "Cannot <arg p=[1:string]/> because there are items in storage."
+        "text": "Cannot <arg p=[1:string]/> because there are temporary items."
     },
     "9000043": {
         "deprecated": false,
@@ -400,7 +400,7 @@
         "Dev_Desc": "StatData의 HP 한글명",
         "id": 9000064,
         "alias": "SysM.Item.QuickBar.UseFail.HPFull",
-        "text": "Cannot use <arg p=[1:string]/><ga/> is full."
+        "text": "Cannot use <arg p=[1:string]/><ga/> because it is full."
     },
     "9000065": {
         "deprecated": false,
@@ -430,7 +430,7 @@
         "deprecated": false,
         "id": 9000069,
         "alias": "SysM.Region.EntranceFail.Quest",
-        "text": "You cannot enter because you have not completed the preceding quest."
+        "text": "You cannot enter because you have not completed the preceding quests."
     },
     "9000070": {
         "deprecated": false,
@@ -496,7 +496,7 @@
         "deprecated": false,
         "id": 9000080,
         "alias": "SysM.Death.InstantRevival.LackMoney",
-        "text": "Not enough instant respawn."
+        "text": "Insufficient immediate resurrection cost."
     },
     "9000081": {
         "deprecated": false,
@@ -568,7 +568,7 @@
         "deprecated": false,
         "id": 9000092,
         "alias": "SysM.Party.Information.Decline",
-        "text": "The party invitation was declined by <arg p=[1:string]/>."
+        "text": "The party invitation was rejected by <arg p=[1:string]/>."
     },
     "9000093": {
         "deprecated": false,
@@ -622,7 +622,7 @@
         "deprecated": false,
         "id": 9000101,
         "alias": "SysM.Party.Information.NoParty",
-        "text": "No party is participating."
+        "text": "No parties are participating."
     },
     "9000102": {
         "deprecated": false,
@@ -646,7 +646,7 @@
         "deprecated": false,
         "id": 9000105,
         "alias": "SysM.Battle.Target.Conter.DistanceOut",
-        "text": "Counter-Target has been removed (exceeded distance)"
+        "text": "Counter-target has been removed (exceeded distance)"
     },
     "9000106": {
         "deprecated": false,
@@ -706,7 +706,7 @@
         "deprecated": false,
         "id": 9000115,
         "alias": "SysM.Party.InviteDecline",
-        "text": "You have declined the party invitation."
+        "text": "Your party invitation has been declined."
     },
     "9000116": {
         "deprecated": false,
@@ -725,7 +725,7 @@
         "Dev_Desc": "아이템 / ",
         "id": 9000118,
         "alias": "SysM.Item.OpenBox.Confirm",
-        "text": "You have earned <arg p=[2:integer]/> items using <arg p=[1:integer]/> boxes."
+        "text": "You have used <arg p=[1:integer]/> chests to gain <arg p=[2:integer]/> items."
     },
     "9000119": {
         "deprecated": false,
@@ -785,7 +785,7 @@
         "deprecated": false,
         "id": 9000128,
         "alias": "SysM.ExchangeShop.LackCloth",
-        "text": "You can't exchange it because you don't have enough fabric.\nCloth can be obtained by disassembling clothes."
+        "text": "We do not have enough fabric to exchange.\nCloth can be obtained by disassembling clothes."
     },
     "9000129": {
         "deprecated": false,
@@ -1034,7 +1034,7 @@
         "Dev_Desc": "컨텐츠 해금 / 해금이 필요한 메뉴 이름 / ",
         "id": 9000169,
         "alias": "SysM.FunctionLock.UnlockMsgTitle.Skill",
-        "text": "Gun-free ban"
+        "text": "Break-free ban"
     },
     "9000170": {
         "deprecated": false,
@@ -1214,7 +1214,7 @@
         "Dev_Desc": "퀘스트 / 퀘스트 포인트용 힌트 선택 시 텍스트 / ",
         "id": 9000206,
         "alias": "SysM.Quest.ChooseHint.CantGetPoint",
-        "text": "This is a clue that cannot be investigated further."
+        "text": "This is a clue that cannot be further investigated."
     },
     "9000207": {
         "deprecated": false,
@@ -1445,7 +1445,7 @@
         "Dev_Desc": "옷장 / 삭제된 컨텐츠 / ",
         "id": 9000239,
         "alias": "SysM.Closet.Register",
-        "text": "<arg p=[1:string]/><eul/> in wardrobe."
+        "text": "<arg p=[1:string]/><eul/> in closet."
     },
     "9000240": {
         "deprecated": false,
@@ -1501,7 +1501,7 @@
         "Dev_Desc": "아이템 / ",
         "id": 9000247,
         "alias": "SysM.Item.Discompose.Result",
-        "text": "Disassembled <arg p=[1:integer]/> items to yield <arg p=[2:integer]/> items."
+        "text": "Disassembled <arg p=[1:integer]/> items yielding <arg p=[2:integer]/> items."
     },
     "9000248": {
         "deprecated": false,
@@ -1515,7 +1515,7 @@
         "Dev_Desc": "옷장 / 삭제 / ",
         "id": 9000249,
         "alias": "SysM.Closet.AlreadyRegistered",
-        "text": "This outfit has already been registered in the wardrobe."
+        "text": "This outfit has already been registered in the closet."
     },
     "9000250": {
         "deprecated": false,
@@ -1550,14 +1550,14 @@
         "Dev_Desc": "소지품 / ",
         "id": 9000254,
         "alias": "SysM.Inventory.EquipComplete",
-        "text": "<arg p=[1:string]/><ga/> mounted."
+        "text": "<arg p=[1:string]/><ga/> mounted"
     },
     "9000255": {
         "deprecated": false,
         "Dev_Desc": "소지품 / ",
         "id": 9000255,
         "alias": "SysM.Inventory.EquipCompltete.Multiple",
-        "text": "<arg p=[1:string]/> and <arg p=[2:integer]/> items loaded."
+        "text": "<arg p=[1:string]/> plus <arg p=[2:integer]/> items loaded."
     },
     "9000256": {
         "deprecated": false,
@@ -1585,7 +1585,7 @@
         "Dev_Desc": "소지품 / ",
         "id": 9000259,
         "alias": "SysM.Inventory.MoveItemFromTempStash",
-        "text": "Moved to inventory leaving <arg p=[1:integer]/> items in Draft."
+        "text": "Moved to inventory, leaving <arg p=[1:integer]/> items in Draft."
     },
     "9000260": {
         "deprecated": false,
@@ -1767,7 +1767,7 @@
         "Dev_Desc": "옷장 / ",
         "id": 9000285,
         "alias": "SysM.Closet.BatchRegistration.MultiSuccess",
-        "text": "You have added <arg p=[1:integer]/> clothes and decorations to your wardrobe."
+        "text": "<arg p=[1:integer]/> clothes and decorations registered in your wardrobe."
     },
     "9000286": {
         "deprecated": false,
@@ -1788,7 +1788,7 @@
         "Dev_Desc": "옷장 / ",
         "id": 9000288,
         "alias": "SysM.Closet.Reset.EquipSlot.2",
-        "text": "Applied as is."
+        "text": "Applied as it is."
     },
     "9000289": {
         "deprecated": false,
@@ -1809,7 +1809,7 @@
         "Dev_Desc": "옷장 / ",
         "id": 9000291,
         "alias": "SysM.Closet.BatchRegistration.NoItem",
-        "text": "No clothes/decorations have been selected to register."
+        "text": "No clothes/decorations to register."
     },
     "9000292": {
         "deprecated": false,
@@ -1949,14 +1949,14 @@
         "Dev_Desc": "거점쟁탈전 / 시작 안내 메시지 / <arg p=[1:integer]/>: 거점쟁탈전 시작 시간(FactionBase의 \"startTime\" 필드 값)까지 남은 시간",
         "id": 9000312,
         "alias": "SysM.FactionConquest.PreNotice.05",
-        "text": "Location where <arg p=[2:string]/> <arg p=[3:string]/> occurred after <arg p=[1:integer]/> minutes! Forced move soon."
+        "text": "Local where <arg p=[2:string]/> <arg p=[3:string]/> occurred after <arg p=[1:integer]/> minutes! Forced move soon."
     },
     "9000313": {
         "deprecated": false,
         "Dev_Desc": "거점쟁탈전 / 입장 불가 메시지 / ",
         "id": 9000313,
         "alias": "SysM.FactionConquest.CantEnter.01",
-        "text": "This is the area where <arg p=[1:string]/> will happen. <arg p=[2:string]/> can be entered at start."
+        "text": "This is the area where <arg p=[1:string]/> will happen. <arg p=[2:string]/> Available at start."
     },
     "9000314": {
         "deprecated": false,
@@ -2005,7 +2005,7 @@
         "Dev_Desc": "거점쟁탈전 / 점령점수 획득 메시지 / <arg p=[1:integer]/>: ENV를 조작 완료한 캐릭터 이름\n<arg p=[2:integer]/>: 조작 완료한 env 이름\n<arg p=[3:integer]/>: 포인트 이름\n<arg p=[4:string]/>: 획득한 점령점수 값 (FactionConquestData의 EnvList - \"Point\" 필드 값)",
         "id": 9000320,
         "alias": "SysM.FactionConquest.GainPoint.ExchangeEnv",
-        "text": "<arg p=[1:string]/> delivered <arg p=[3:string]/><eul/> to <arg p=[2:string]/> for capture points < arg p=[4:integer]/>points scored!"
+        "text": "<arg p=[1:string]/> delivered <arg p=[3:string]/><eul/> to <arg p=[2:string]/> for capture points < arg p=[4:integer]/>pointed!"
     },
     "9000321": {
         "deprecated": false,
@@ -2061,7 +2061,7 @@
         "Dev_Desc": "구슬 / 장착 메시지 / <arg p=[1:string]/>: 장착한 구슬 아이템 이름",
         "id": 9000328,
         "alias": "SysM.Bead.Equip",
-        "text": "<arg p=[1:string]/><eul/> mounted."
+        "text": "<arg p=[1:string]/><eul/> mounted"
     },
     "9000329": {
         "deprecated": false,
@@ -2096,7 +2096,7 @@
         "Dev_Desc": "컨텐츠 해금 / 해금이 필요한 메뉴 이름 / ",
         "id": 9000333,
         "alias": "SysM.FunctionLock.ContentsName.Closet",
-        "text": "Wardrobe"
+        "text": "closet"
     },
     "9000334": {
         "deprecated": false,
@@ -2264,7 +2264,7 @@
         "Dev_Desc": "친구 시스템 / 요청 실패 / 나한테 친추",
         "id": 9000358,
         "alias": "SysM.Friend.RequestFail.MyCharacter.1",
-        "text": "You can't make friend requests to yourself."
+        "text": "You cannot make friend requests to yourself."
     },
     "9000359": {
         "deprecated": false,
@@ -2306,7 +2306,7 @@
         "Dev_Desc": "파티 시스템 / 거점쟁탈전 / 타 문파원 파티 해산",
         "id": 9000364,
         "alias": "SysM.Party.Dismiss.AnotherGuild",
-        "text": "The party has been disbanded because it is not possible to form a party with characters belonging to other factions."
+        "text": "The party has been disbanded because it is an area where you cannot party with characters belonging to other factions."
     },
     "9000365": {
         "deprecated": false,
@@ -2467,7 +2467,7 @@
         "Dev_Desc": "문파 시스템 / 창설 / 이름 규칙 / 특수문자",
         "id": 9000388,
         "alias": "SysM.Guild.NotAvailableWord",
-        "text": "Only special characters !, @, #, $, %, ^, &, * are allowed, only at the beginning and end of the name."
+        "text": "Only special characters !, @, #, $, %, ^, &, * are allowed, only before and after names."
     },
     "9000389": {
         "deprecated": false,
@@ -2565,7 +2565,7 @@
         "Dev_Desc": "문파 시스템 / 기록 / 문파원 가입",
         "id": 9000402,
         "alias": "SysM.Guild.History.Join",
-        "text": "<arg p=[1:string]/> joined the clan."
+        "text": "<arg p=[1:string]/> has joined the clan."
     },
     "9000403": {
         "deprecated": false,
@@ -2593,7 +2593,7 @@
         "Dev_Desc": "문파 시스템 / 기록 / 폐쇄 대기 상태",
         "id": 9000406,
         "alias": "SysM.Guild.History.ShutDownState",
-        "text": "A mound that has been inactive for 4 weeks will be closed. Please wake up the sleeping mound!"
+        "text": "Monsters that have been inactive for 4 weeks will be closed. Wake up the dormants!"
     },
     "9000407": {
         "deprecated": false,
@@ -2614,7 +2614,7 @@
         "Dev_Desc": "문파 시스템 / 기록 / 문파 공간 대여 가능 상태",
         "id": 9000409,
         "alias": "SysM.Guild.History.LeaderChange.002",
-        "text": "The former member of the group left the account and the status of the member was delegated to <arg p=[1:string]/>."
+        "text": "The previous member of the group left the account and the status of the member was delegated to <arg p=[1:string]/>."
     },
     "9000412": {
         "deprecated": false,
@@ -2628,7 +2628,7 @@
         "Dev_Desc": "문파 시스템 / 기록 / 문파 공간 본산으로 변경 시",
         "id": 9000413,
         "alias": "SysM.Guild.History.agit.Castle.Conquest",
-        "text": "<arg p=[1:string]/> <eul/> captured, the clan hideout has been changed to its headquarters."
+        "text": "<arg p=[1:string]/> <eul/> has been captured, and the clan hideout has been changed to its headquarters."
     },
     "9000414": {
         "deprecated": false,
@@ -2705,7 +2705,7 @@
         "Dev_Desc": "문파 시스템 / 기록 / 거점쟁탈전 실패 안내",
         "id": 9000424,
         "alias": "SysM.Guild.History.FactionBase.defeat",
-        "text": "Failed to capture <arg p=[1:string]/>."
+        "text": "Failed to capture <arg p=[1:string]/>"
     },
     "9000425": {
         "deprecated": false,
@@ -2719,14 +2719,14 @@
         "Dev_Desc": "문파 시스템 / 기록 / 단기 버프 적용 안내",
         "id": 9000426,
         "alias": "SysM.Guild.History.GuildBuff.InstantBuff",
-        "text": "Guild buff <arg p=[1:string]/> <ga/> applied."
+        "text": "Munpa buff <arg p=[1:string]/> <ga/> applied."
     },
     "9000427": {
         "deprecated": false,
         "Dev_Desc": "문파 시스템 / 기록 / 상시 버프 레벨 업 안내",
         "id": 9000427,
         "alias": "SysM.Guild.History.GuildBuff.LevelUp",
-        "text": "Guild buff <arg p=[1:string]/> <arg p=[1:integer]/> level applied."
+        "text": "Munpa buff <arg p=[1:string]/> <arg p=[1:integer]/> level applied."
     },
     "9000428": {
         "deprecated": false,
@@ -2747,7 +2747,7 @@
         "Dev_Desc": "문파 시스템 / 기록 / 개인 지급 제작 시작 안내",
         "id": 9000430,
         "alias": "SysM.Guild.History.Craft.Personal",
-        "text": "Started production of <arg p=[2:string]/> <arg p=[3:integer]/> to be paid to <arg p=[1:string]/>"
+        "text": "Started production of <arg p=[2:string]/> <arg p=[3:integer]/> to be awarded to <arg p=[1:string]/>"
     },
     "9000431": {
         "deprecated": false,
@@ -2775,21 +2775,21 @@
         "Dev_Desc": "문파 시스템 / 기록 / 공용 제작 환불 안내",
         "id": 9000434,
         "alias": "SysM.Guild.History.Craft.Refund",
-        "text": "<arg p=[1:string]/> <arg p=[2:integer]/> was refunded due to clan member change."
+        "text": "<arg p=[1:string]/> <arg p=[2:integer]/> (pcs) refunded due to clan member change."
     },
     "9000435": {
         "deprecated": false,
         "Dev_Desc": "문파 시스템 / 해금 / 타입 명",
         "id": 9000435,
         "alias": "SysM.FunctionLock.ContentsName.Guild",
-        "text": "Guild"
+        "text": "Munpa"
     },
     "9000436": {
         "deprecated": false,
         "Dev_Desc": "문파 시스템 / 해금 / 메시지 / 타이틀",
         "id": 9000436,
         "alias": "SysM.FunctionLock.ContentsName.Guild.UnlockMsg.Title",
-        "text": "Guild unlocked"
+        "text": "Munpa unlocked"
     },
     "9000437": {
         "deprecated": false,
@@ -2831,7 +2831,7 @@
         "Dev_Desc": "문파 시스템 / 가입 신청 / 거절",
         "id": 9000442,
         "alias": "SysM.Guild.Join.Deny",
-        "text": "You have been rejected to join the <arg p=[1:string]/> clan."
+        "text": "You have been rejected from joining the <arg p=[1:string]/> clan."
     },
     "9000443": {
         "deprecated": false,
@@ -2929,7 +2929,7 @@
         "Dev_Desc": "문파 시스템 / 관리 / 문장 변경 / 현재와 동일 문장",
         "id": 9000460,
         "alias": "SysM.Guild.Emblem.Change.Same",
-        "text": "This is the same sentence as the current one. Please choose a different sentence."
+        "text": "This is the same sentence as the current one. Please select a different sentence."
     },
     "9000461": {
         "deprecated": false,
@@ -2957,7 +2957,7 @@
         "Dev_Desc": "문파 시스템 / 칭송 / 가입 당일 칭송 불가 안내",
         "id": 9000466,
         "alias": "SysM.Guild.Praise.CanNotPraise",
-        "text": "You cannot praise on the day you joined the clan."
+        "text": "You can't praise the day you joined the clan."
     },
     "9000467": {
         "deprecated": false,
@@ -2992,7 +2992,7 @@
         "Dev_Desc": "문파 시스템 / 추방 / 추방 대상에게 안내",
         "id": 9000471,
         "alias": "SysM.Guild.BanishMsg",
-        "text": "Exile <arg p=[1:string]/> from the clan."
+        "text": "<arg p=[1:string]/> Banished from the clan."
     },
     "9000472": {
         "deprecated": false,
@@ -3020,7 +3020,7 @@
         "Dev_Desc": "문파 시스템 / 직위 위임 / 위임 대상자에게 변경 안내",
         "id": 9000475,
         "alias": "SysM.Guild.PositionChange.LeaderChange.MsgToRecipient",
-        "text": "I have been appointed to the Guild."
+        "text": "I have been appointed to the Munpa."
     },
     "9000476": {
         "deprecated": false,
@@ -3104,7 +3104,7 @@
         "Dev_Desc": "귀환주문서 / 주문서 사용 / 활성화된 마을 축지가 없을 때",
         "id": 9000487,
         "alias": "SysM.ReturnScroll.UseFailed.LackTeleportPoint",
-        "text": "You can't use your recall spell because you don't have an active village."
+        "text": "You can't use a recall spell because you don't have an active village."
     },
     "9000488": {
         "deprecated": false,
@@ -3370,14 +3370,14 @@
         "Dev_Desc": "우편 / 타이틀 / 키워드 / 칙령 / 선포한 문파 보상",
         "id": 9000525,
         "alias": "SysM.Post.Title.KeyWord.RoyalOrder.Clan",
-        "text": "The Proclamation Clan"
+        "text": "The Proclamation Guild"
     },
     "9000526": {
         "deprecated": false,
         "Dev_Desc": "우편 / 타이틀 / 키워드 / 칙령 / 선포한 문파장 보상",
         "id": 9000526,
         "alias": "SysM.Post.Title.KeyWord.RoyalOrder.ClanLeader",
-        "text": "Proclamation Munpajang"
+        "text": "Proclamation Guild"
     },
     "9000527": {
         "deprecated": false,
@@ -3412,7 +3412,7 @@
         "Dev_Desc": "우편 / 설명 / 키워드 / 칙령 / 선포한 문파 보상",
         "id": 9000531,
         "alias": "SysM.Post.Desc.KeyWord.RoyalOrder.Clan",
-        "text": "The Proclamation Clan"
+        "text": "The Proclamation Guild"
     },
     "9000532": {
         "deprecated": false,
@@ -3426,7 +3426,7 @@
         "Dev_Desc": "우편 / 설명 / 키워드 / 칙령 /미션 단계 보상",
         "id": 9000533,
         "alias": "SysM.Post.Desc.KeyWord.RoyalOrder.Mission",
-        "text": "Stage Achieved"
+        "text": "Stage Reached"
     },
     "9000534": {
         "deprecated": false,
@@ -3454,7 +3454,7 @@
         "Dev_Desc": "문파 시스템 / 창설 / 이름 규칙 / 선점 이름 사용",
         "id": 9000537,
         "alias": "SysM.Guild.Error.PreemptionName",
-        "text": "This is the name of a clan that has already been occupied."
+        "text": "This is a clan name that has already been occupied."
     },
     "9000538": {
         "deprecated": false,
@@ -3538,7 +3538,7 @@
         "Dev_Desc": "문파 시스템 / 직위 임명 / 문파장 지위 변경 불가",
         "id": 9000556,
         "alias": "SysM.Guild.Error.PositionChange.CannotChangeLeader",
-        "text": "You cannot change the position of the Munpa."
+        "text": "You can't change the position of the Munpa."
     },
     "9000557": {
         "deprecated": false,
@@ -3734,14 +3734,14 @@
         "Dev_Desc": "문파 시스템 / 해산 / 해산 불가 / 점령 중",
         "id": 9000587,
         "alias": "SysM.Guild.CanNotDissolution.HaveBase",
-        "text": "Clan factions occupying strongholds or headquarters cannot be disbanded."
+        "text": "Clan factions occupying a stronghold or headquarters cannot be disbanded."
     },
     "9000588": {
         "deprecated": false,
         "Dev_Desc": "문파 시스템 / 해산 / 해산 불가 / 거점전 본산전",
         "id": 9000588,
         "alias": "SysM.Guild.CanNotDissolution.Conquest",
-        "text": "You cannot disband a clan that is in a Node or Main Battle."
+        "text": "You cannot disband a clan that is in a Node or Headquarters battle."
     },
     "9000589": {
         "deprecated": false,
@@ -3797,7 +3797,7 @@
         "Dev_Desc": "문파 시스템 / 추방 / 추방 대상 미선택",
         "id": 9000600,
         "alias": "SysM.Guild.Management.Apoint.NotSelected",
-        "text": "You have not chosen a clan to exile."
+        "text": "You have not selected any clan members to exile."
     },
     "9000601": {
         "deprecated": false,
@@ -3853,7 +3853,7 @@
         "Dev_Desc": "상점 / 한정 / 한정 횟수 부족 안내",
         "id": 9000609,
         "alias": "SysM.Shop.Limit.NoStock",
-        "text": "The product is out of stock."
+        "text": "Item is out of stock."
     },
     "9000610": {
         "deprecated": false,
@@ -3881,7 +3881,7 @@
         "Dev_Desc": "무게 시스템 / 65% 초과",
         "id": 9000613,
         "alias": "SysM.Weight.exceed.2",
-        "text": "Movement speed reduced beyond <arg p=[1:integer]/>% of weight."
+        "text": "Movement speed is reduced beyond <arg p=[1:integer]/>% of weight."
     },
     "9000614": {
         "deprecated": false,
@@ -3965,7 +3965,7 @@
         "Dev_Desc": "검결 / 포인트 부족 메시지",
         "id": 9000625,
         "alias": "SysM.Blade.LackPoint",
-        "text": "Not enough Spirit."
+        "text": "Not enough energy."
     },
     "9000626": {
         "deprecated": false,
@@ -4014,7 +4014,7 @@
         "Dev_Desc": "잠금 / 의복 아이템 등록 시도",
         "id": 9000632,
         "alias": "SysM.ItemLock.Fail.4",
-        "text": "Locked clothing cannot be registered in the wardrobe."
+        "text": "Locked clothing cannot be registered in the closet."
     },
     "9000633": {
         "deprecated": false,
@@ -4147,7 +4147,7 @@
         "Dev_Desc": "문파 기능 해금/ 타이틀 / 테스트",
         "id": 9000653,
         "alias": "SysM.FunctionLock.UnlockMsgTitle.Guild",
-        "text": "Guild unlocked"
+        "text": "Munpa unlocked"
     },
     "9000654": {
         "deprecated": false,
@@ -4203,7 +4203,7 @@
         "Dev_Desc": "채팅 / 문파",
         "id": 9000661,
         "alias": "SysM.chat.Guild",
-        "text": "Guild"
+        "text": "Munpa"
     },
     "9000662": {
         "deprecated": false,
@@ -4301,7 +4301,7 @@
         "Dev_Desc": "채팅 / 토스트 메시지 퀘스트 완료",
         "id": 9000675,
         "alias": "SysM.chat.ToastRequireQuest",
-        "text": "Full chat is available upon completion of mission <arg p=[1:integer]/> chapter."
+        "text": "Full chat available upon completion of mission <arg p=[1:integer]/> chapter."
     },
     "9000676": {
         "deprecated": false,
@@ -4329,7 +4329,7 @@
         "Dev_Desc": "채팅 / 최대 유저 차단 도달",
         "id": 9000679,
         "alias": "SysM.chat.MaxBlockUser",
-        "text": "Cannot block more than the maximum number of blocks that can be blocked."
+        "text": "Cannot block more than the maximum number of blocks allowed."
     },
     "9000680": {
         "deprecated": false,
@@ -4385,7 +4385,7 @@
         "Dev_Desc": "문파 시스템 / 출석 보상 / 가입 당일 제한",
         "id": 9000687,
         "alias": "SysM.Guild.AttendanceReward.Restricted.Newbee",
-        "text": "You cannot obtain rewards on the day you sign up."
+        "text": "You cannot earn rewards on the day you sign up."
     },
     "9000688": {
         "deprecated": false,
@@ -4406,7 +4406,7 @@
         "Dev_Desc": "문파 시스템 / 탈퇴 / 탈퇴 실패 안내",
         "id": 9000690,
         "alias": "SysM.Guild.Withdrawal.Fail",
-        "text": "Please enter the [withdrawal request] correctly."
+        "text": "Please enter the [Cancellation Request] correctly."
     },
     "9000691": {
         "deprecated": false,
@@ -4476,7 +4476,7 @@
         "Dev_Desc": "거래소 / 판매 / 판매 등록",
         "id": 9000700,
         "alias": "SysM.Market.Sale",
-        "text": "Successfully registered for sale on the exchange."
+        "text": "Successful to register for sale on the exchange."
     },
     "9000701": {
         "deprecated": false,
@@ -4490,7 +4490,7 @@
         "Dev_Desc": "거래소 / 판매 / 레벨 제한",
         "id": 9000703,
         "alias": "SysM.Market.Sale.RequiredLevel",
-        "text": "Exchange Sales tab is available starting at <arg p=[1:integer]/> level."
+        "text": "Exchange sales tab is available starting at <arg p=[1:integer]/> level."
     },
     "9000704": {
         "deprecated": false,
@@ -4511,7 +4511,7 @@
         "Dev_Desc": "협행 / 갱신 횟수 초과",
         "id": 9000706,
         "alias": "SysM.Board.RefreshFail.Exceeded",
-        "text": "You can no longer renew your partnership."
+        "text": "You can no longer renew the partnership."
     },
     "9000707": {
         "deprecated": false,
@@ -4553,7 +4553,7 @@
         "Dev_Desc": "거래소 / 판매 / 판매 취소 / 이미 판매",
         "id": 9000712,
         "alias": "SysM.Market.Sale.Cancel.AlreadySale",
-        "text": "This item has already been sold. Please check the settlement tab."
+        "text": "This item has already been sold. Please check the Settlement tab."
     },
     "9000713": {
         "deprecated": false,
@@ -4700,7 +4700,7 @@
         "Dev_Desc": "문파 시스템 / 동맹 문파 / 요청 / 동맹 요청 중",
         "id": 9000733,
         "alias": "SysM.Guild.GuildAlliance.Add.SendGuildAlliance",
-        "text": "Already requesting an alliance on <arg p=[1:string]/>"
+        "text": "Already requesting an alliance on <arg p=[1:string]/>."
     },
     "9000734": {
         "deprecated": false,
@@ -4791,7 +4791,7 @@
         "Dev_Desc": "우편 쓰기 횟수 초과(문파)",
         "id": 9000746,
         "alias": "SysM.Post.NoMoreSendToGuild",
-        "text": "You have exceeded the number of mails per day that can be sent."
+        "text": "Exceeded the number of mails sent per day."
     },
     "9000747": {
         "deprecated": false,
@@ -4889,7 +4889,7 @@
         "Dev_Desc": "문파 시스템 / 가입 관리 / 초대 / 삭제 대기 중 캐릭",
         "id": 9000760,
         "alias": "SysM.Guild.Invite.Fail.DeleteStanby",
-        "text": "You cannot invite players waiting to be deleted."
+        "text": "You cannot invite players waiting for deletion."
     },
     "9000761": {
         "deprecated": false,
@@ -4910,7 +4910,7 @@
         "Dev_Desc": "문파 시스템 / 동맹 문파 / 추가 / 자기 자신",
         "id": 9000763,
         "alias": "SysM.Guild.GuildAlliance.Add.SendMe",
-        "text": "You cannot add a faction to an alliance faction."
+        "text": "You cannot add your own faction to an alliance faction."
     },
     "9000764": {
         "deprecated": false,
@@ -4952,7 +4952,7 @@
         "Dev_Desc": "거래소 / 판매 / 판매 등록 / 등록 팝업 / 최소 판매 금액",
         "id": 9000769,
         "alias": "SysM.Market.Sale.MinPrice",
-        "text": "Sales Amount must be at least <arg p=[1:integer]/>New Stone. Please check the sales amount."
+        "text": "Sales Amount must be at least <arg p=[1:integer]/>New Stone. Please check the sale amount."
     },
     "9000770": {
         "deprecated": false,
@@ -5057,7 +5057,7 @@
         "Dev_Desc": "검결 / 각인 / 아이템 부족",
         "id": 9000784,
         "alias": "SysM.Blade.Imprint.ItemLack",
-        "text": "There are not enough items to be engraved."
+        "text": "Not enough items to engrave."
     },
     "9000785": {
         "deprecated": false,
@@ -5197,14 +5197,14 @@
         "Dev_Desc": "소울, 수호령 / 포인트 보상 오류",
         "id": 9000804,
         "alias": "SysM.Soul.ComposePoint.Desc",
-        "text": "You must obtain the point reward first."
+        "text": "You must acquire the point reward first."
     },
     "9000805": {
         "deprecated": false,
         "Dev_Desc": "소울 / 합성 대상 아님 (최고 등급)",
         "id": 9000805,
         "alias": "SysM.Soul.ComposeFail.MaxGrade",
-        "text": "This is the highest rated soul."
+        "text": "The highest rated soul."
     },
     "9000806": {
         "deprecated": false,
@@ -5407,7 +5407,7 @@
         "Dev_Desc": "아이템 사용 / 몬스터 소환 / 전투로 인한 실패",
         "id": 9000834,
         "alias": "SysM.ItemUse.MonsterSummonFail.4",
-        "text": "Cannot be used in combat."
+        "text": "Cannot be used during combat."
     },
     "9000835": {
         "deprecated": false,
@@ -5694,7 +5694,7 @@
         "Dev_Desc": "채팅 시스템 메시지 / 브로드 캐스팅 / 강화 성공",
         "id": 9000875,
         "alias": "SyM.ChatSysM.Enchant",
-        "text": "<<arg p=[1:string]/>>[<arg p=[2:string]/>] <arg p=[3:string]/> </><<arg Enhance p=[4:string]/>>+<arg p=[5:string]/> <arg p=[6:string]/></><<arg p=[1:string]/>> succeeded.</>"
+        "text": "<<arg p=[1:string]/>>[<arg p=[2:string]/>] <arg p=[3:string]/> </><<arg Enhance p=[4:string]/>>+<arg p=[5:string]/> <arg p=[6:string]/></><<arg p=[1:string]/>> successful.</>"
     },
     "9000876": {
         "deprecated": false,
@@ -5764,14 +5764,14 @@
         "Dev_Desc": "채팅 시스템 메시지 / 균열 열림",
         "id": 9000885,
         "alias": "SyM.ChatSysM.CrackOpen",
-        "text": "Cracked in area <<arg p=[1:string]/>><arg p=[2:string]/></>"
+        "text": "There is a crack in the area <<arg p=[1:string]/>><arg p=[2:string]/></>"
     },
     "9000886": {
         "deprecated": false,
         "Dev_Desc": "채팅 시스템 메시지 / 아이템 획득",
         "id": 9000886,
         "alias": "SysM.ChatSysM.GetItem",
-        "text": "You have obtained <<arg p=[1:string]/>><arg p=[2:string]/></><<arg p=[3:string]/>> <arg p=[ 4:string]/></>"
+        "text": "<<arg p=[1:string]/>><arg p=[2:string]/></><<arg p=[3:string]/>> <arg p=[ 4:string]/>You have obtained a dog</>"
     },
     "9000887": {
         "deprecated": false,
@@ -5799,7 +5799,7 @@
         "Dev_Desc": "채팅 시스템 메시지 / 퍼플 브로드 캐스팅 / 아이템 획득",
         "id": 9000890,
         "alias": "SyM.ChatSysM.Purple.ItemDrop",
-        "text": "<arg p=[1:string]/> by server <arg p=[2:string]/> <arg p=[3:string]/><eul/> <arg p=[ Obtained from 4:string]/>"
+        "text": "<arg p=[1:string]/> server <arg p=[2:string]/> by <arg p=[3:string]/><eul/> <arg p=[ Obtained from 4:string]/>"
     },
     "9000891": {
         "deprecated": false,
@@ -5827,7 +5827,7 @@
         "Dev_Desc": "채팅 시스템 메시지 / 퍼플 브로드 캐스팅 / 수호령 획득",
         "id": 9000894,
         "alias": "SyM.ChatSysM.Purple.Pets",
-        "text": "<arg p=[1:string]/> Server <arg p=[2:string]/> has obtained the Guardian Spirit <arg p=[3:string]/><eul/>."
+        "text": "<arg p=[1:string]/> Server <arg p=[2:string]/> has earned the Guardian Spirit <arg p=[3:string]/><eul/>."
     },
     "9000895": {
         "deprecated": false,
@@ -5890,7 +5890,7 @@
         "Dev_Desc": "문파 시스템 / 창설 / 이름 / 길이 조건 에러",
         "id": 9000903,
         "alias": "SysM.Guild.Foundation.Name.NotAvailableLength",
-        "text": "It does not meet the character limit. (1~8 Korean characters, 2~16 English characters)"
+        "text": "It does not meet the character limit. (1-8 Korean characters, 2-16 English characters)"
     },
     "9000904": {
         "deprecated": false,
@@ -5974,7 +5974,7 @@
         "Dev_Desc": "거래소 / 구매 / 구매 목록 선택 / 5개 초과",
         "id": 9000915,
         "alias": "SysM.Market.Purchase.Select.Over",
-        "text": "You can add up to 5 purchases."
+        "text": "You can add up to 5 purchase lists all."
     },
     "9000916": {
         "deprecated": false,
@@ -6016,21 +6016,21 @@
         "Dev_Desc": "복수 실패 / 대상 이동 불가 지역",
         "id": 9000921,
         "alias": "SysM.Revenge.Fail.CanNotTeleport1",
-        "text": "Target is unable to move."
+        "text": "Target is immovable."
     },
     "9000922": {
         "deprecated": false,
         "Dev_Desc": "복수 실패 / 내가 이동 불가 지역에 있는 경우",
         "id": 9000922,
         "alias": "SysM.Revenge.Fail.CanNotTeleport2",
-        "text": "You cannot move in your current area."
+        "text": "You cannot move in the current area."
     },
     "9000923": {
         "deprecated": false,
         "Dev_Desc": "복수 실패 / 대상 채널 입장 초과",
         "id": 9000923,
         "alias": "SysM.Revenge.Fail.CanNotTeleport3",
-        "text": "The target channel's occupancy has been exceeded."
+        "text": "The target channel has reached the limit."
     },
     "9000924": {
         "deprecated": false,
@@ -6086,7 +6086,7 @@
         "Dev_Desc": "파티 / 초대 횟수 제한",
         "id": 9000931,
         "alias": "SysM.Party.InviteLimit",
-        "text": "No more invitations allowed."
+        "text": "No more invites allowed."
     },
     "9000932": {
         "deprecated": false,
@@ -6114,7 +6114,7 @@
         "Dev_Desc": "채팅 / 인증 오류 메시지",
         "id": 9000935,
         "alias": "SysM.Lobby.DeleteHero.Fail.InGuild",
-        "text": "You cannot delete a character that is a member of a clan."
+        "text": "You cannot delete a character who is a member of a clan."
     },
     "9000936": {
         "deprecated": false,
@@ -6142,7 +6142,7 @@
         "Dev_Desc": "로비 / 캐릭터 삭제 신청 확인 메시지",
         "id": 9000939,
         "alias": "SysM.Lobby.DeleteCharacter.Fail",
-        "text": "Invalid input value. Please enter [deletion request]."
+        "text": "Invalid input value. Please enter [Deletion Request]."
     },
     "9000940": {
         "deprecated": false,
@@ -6380,7 +6380,7 @@
         "Dev_Desc": "던전 / 입장 레벨 부족 알림",
         "id": 9000973,
         "alias": "SysM.Dungeon.NeedLevel",
-        "text": "Can be entered from <arg p=[1:integer]/> level."
+        "text": "You can enter from <arg p=[1:integer]/> level."
     },
     "9000974": {
         "deprecated": false,
@@ -6394,14 +6394,14 @@
         "Dev_Desc": "던전 / 만료된 던전 입장 시도 시 알림",
         "id": 9000975,
         "alias": "SysM.Dungeon.TimeOver",
-        "text": "The dungeon usage time has been exhausted. You can enter after charging the time."
+        "text": "All dungeon usage time has been exhausted. You can enter after charging time."
     },
     "9000976": {
         "deprecated": false,
         "Dev_Desc": "던전 / 오픈되지 않은 던던 입장 시도 시 알림",
         "id": 9000976,
         "alias": "SysM.Dungeon.NeedDiscover",
-        "text": "<arg p=[1:string]/>You can enter after discovering the area."
+        "text": "<arg p=[1:string]/>You can enter after finding the area."
     },
     "9000977": {
         "deprecated": false,
@@ -6499,7 +6499,7 @@
         "Dev_Desc": "거래소 / 판매 / 회수 / 소지품 무게 부족",
         "id": 9000990,
         "alias": "SysM.Market.Sale.Retrieval.InventoryWeight",
-        "text": "Exceeds carryable weight and cannot be retrieved."
+        "text": "Exceeded carryable weight and cannot be retrieved."
     },
     "9000991": {
         "deprecated": false,
@@ -6681,7 +6681,7 @@
         "Dev_Desc": "문파 시스템 / 출석 보상 / 임시 보관함",
         "id": 9001016,
         "alias": "SysM.Guild.AttendanceReward.Inventory.TempInventory",
-        "text": "The reward cannot be obtained because there are items in temporary storage."
+        "text": "The reward could not be obtained because there are items in temporary storage."
     },
     "9001017": {
         "deprecated": false,
@@ -6716,7 +6716,7 @@
         "Dev_Desc": "소울 패스 / 보상 교환 / 교환 완료",
         "id": 9001021,
         "alias": "SysM.SoulPass.ChangeReward.Complete",
-        "text": "Exchanged for <arg p=[1:string]/><eul/> reward."
+        "text": "Exchanged for <arg p=[1:string]/><eul/> reward"
     },
     "9001022": {
         "deprecated": false,
@@ -6744,14 +6744,14 @@
         "Dev_Desc": "소울 패스 / 미션 리스트 / 미달성",
         "id": 9001025,
         "alias": "SysM.SoulPass.MissionList.NotComplete",
-        "text": "This mission has not yet been accomplished."
+        "text": "This is a mission not yet accomplished."
     },
     "9001026": {
         "deprecated": false,
         "Dev_Desc": "소울 / 합성 / 합성 포인트 초과",
         "id": 9001026,
         "alias": "SysM.Soul.ComposeFail.PointExceed",
-        "text": "Cannot register because the maximum number of composite points has been exceeded."
+        "text": "Cannot register because it exceeds the maximum composite point."
     },
     "9001027": {
         "deprecated": false,
@@ -6786,7 +6786,7 @@
         "Dev_Desc": "소울 패스 / 활성화 / 활성화 불가 기간",
         "id": 9001031,
         "alias": "SysM.SoulPass.Activate.CannotPeriod",
-        "text": "Cannot activate because the redemption period will end in a short time."
+        "text": "Cannot be activated as the redemption period will end in a while."
     },
     "9001032": {
         "deprecated": false,
@@ -6898,14 +6898,14 @@
         "Dev_Desc": "소울 패스 / 활성화 / 무게 부족",
         "id": 9001047,
         "alias": "SysM.SoulPass.Activate.InventoryWeight",
-        "text": "You cannot activate beyond your carry-on weight."
+        "text": "You cannot activate it beyond your carryable weight."
     },
     "9001048": {
         "deprecated": false,
         "Dev_Desc": "매입 상점/ 자동 판매 물품 없을 경우",
         "id": 9001048,
         "alias": "SysM.Shop.Error.NoItem",
-        "text": "There are no vending items in stock."
+        "text": "There are no vendingable items in stock."
     },
     "9001049": {
         "deprecated": false,
@@ -6919,7 +6919,7 @@
         "Dev_Desc": "퀘스트 / 보상 / 인벤토리 가득 찼을 때",
         "id": 9001050,
         "alias": "SysM.Quest.InventoryFull",
-        "text": "Please empty your inventory to proceed with the mission."
+        "text": "Please empty your inventory to proceed with the mission yo. This."
     },
     "9001051": {
         "deprecated": false,
@@ -6961,7 +6961,7 @@
         "Dev_Desc": "강화 / 토스트 메시지 / 신규 옵션 추가",
         "id": 9001056,
         "alias": "SysM.Enchant.Msg.NewOption",
-        "text": "Enhancement was successful and new stats have been added."
+        "text": "The enhancement was successful and new stats have been added."
     },
     "9001057": {
         "deprecated": false,
@@ -7031,7 +7031,7 @@
         "Dev_Desc": "환경설정 / 주간 푸시 끄기",
         "id": 9001066,
         "alias": "SysM.Option.Push.Off.Day",
-        "text": "[NCSOFT] Unsubscribed weekly advertising push opt-in. - <arg p=[1:string]/>"
+        "text": "[NCSOFT] opted out of receiving weekly advertising pushes. - <arg p=[1:string]/>"
     },
     "9001067": {
         "deprecated": false,
@@ -7052,7 +7052,7 @@
         "Dev_Desc": "문파 장원 귀환의 돌 사용 불가 메시지",
         "id": 9001069,
         "alias": "SysM.GuildReturnScroll.Error",
-        "text": "You can't use the Menor Manor Return Stone."
+        "text": "You can't use the Menor Manor Recall Stone."
     },
     "9001070": {
         "deprecated": false,
