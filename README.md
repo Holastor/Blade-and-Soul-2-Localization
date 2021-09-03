@@ -50,11 +50,11 @@
 <!-- * Распаковать файл B2_BaseData_00001.pak из архива в папку \Game Folder\B2\Content\Paks; -->
 ## Download
 
-You can [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/releases)
+You can [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/releases/tag/0.3.5)
 
 ## Скачать
 
-You can [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/releases)
+You can [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/releases/tag/0.3.5)
 
 ## About
   * Author: by Holastor;
