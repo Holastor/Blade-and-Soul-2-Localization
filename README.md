@@ -30,8 +30,9 @@
 -- FOR SOURCE INSTALL
 * ONLY PC
 * Download Source code (zip)
-* Unpack to any folder
-* Create folder Data\Text\ in the \Game Folder\B2 and copy the en_US folder there from the folder where you located source core(zip);
+* You need to download the source code and unpack it
+* In the /Blade-and-Soul-2-Localization-0.3.5/ folder there is an en_US folder, its contents must be transferred in the folder \Game Folder\B2\Data\Text\
+* If you don't have these folders, just create them.
 * And you need to go folder C:\Users\UserName\AppData\Local\B2\Saved\Option and open file LocalOption.json;
 * In LocalOption.json find "language":1" and change it to "language":2" for English Language and "language":6" for Russian Language;
 * And that's it you have english or russian language!;
