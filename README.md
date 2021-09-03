@@ -29,7 +29,7 @@
 
 -- FOR SOURCE INSTALL
 * ONLY PC
-* Download Source code (zip)
+* Download Source code (zip) [download](https://github.com/Holastor/Blade-and-Soul-2-Localization/archive/refs/tags/0.3.5.zip)
 * You need to download the source code and unpack it
 * In the /Blade-and-Soul-2-Localization-0.3.5/ folder there is an en_US folder, its contents must be transferred in the folder \Game Folder\B2\Data\Text\
 * If you don't have these folders, just create them.
