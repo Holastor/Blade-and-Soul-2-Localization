@@ -501,7 +501,7 @@
         "Dev_Desc": "교환상점 / 탭 이름 / ",
         "id": 8000072,
         "alias": "UI.ExchangeShop.TabName.SoulStone",
-        "text": "Integer"
+        "text": "Soul Stone"
     },
     "8000073": {
         "deprecated": false,
@@ -1894,7 +1894,7 @@
         "Dev_Desc": "로비 / ",
         "id": 8000271,
         "alias": "UI.Lobby.Text.Bangle",
-        "text": "Qigong Plaque"
+        "text": "Bangle"
     },
     "8000272": {
         "deprecated": false,
@@ -2734,7 +2734,7 @@
         "Dev_Desc": "HUD / ",
         "id": 8000391,
         "alias": "UI.HUD.Day",
-        "text": "work"
+        "text": "Day"
     },
     "8000392": {
         "deprecated": false,
@@ -3336,7 +3336,7 @@
         "Dev_Desc": "구슬 / 아이템 이름 / ",
         "id": 8000477,
         "alias": "UI.ItemName.Bead.Esse",
-        "text": "Integer"
+        "text": "Essence"
     },
     "8000478": {
         "deprecated": false,
@@ -6598,7 +6598,7 @@
         "Dev_Desc": "무기타입 / 불꽃 기공패",
         "id": 8000996,
         "alias": "UI.WeaponType.Name.FireBangle",
-        "text": "Qigong Plaque"
+        "text": "Bangle"
     },
     "8000997": {
         "deprecated": false,
@@ -7585,14 +7585,14 @@
         "Dev_Desc": "제작 / 결과 / 성공",
         "id": 8001137,
         "alias": "UI.Craft.FullShow.Skip",
-        "text": "Check result"
+        "text": "Check The Result"
     },
     "8001138": {
         "deprecated": false,
         "Dev_Desc": "제작 / 결과 / 실패",
         "id": 8001138,
         "alias": "UI.Craft.FullShow.Confirm",
-        "text": "OK"
+        "text": "Yes"
     },
     "8001139": {
         "deprecated": false,
@@ -7606,7 +7606,7 @@
         "Dev_Desc": "제작 / 메인페이지 / 컬렉션 가능",
         "id": 8001140,
         "alias": "UI.Craft.Main.Collectable",
-        "text": "Enrollment of Encyclopedia available"
+        "text": "Collectable Items"
     },
     "8001141": {
         "deprecated": false,
@@ -7620,7 +7620,7 @@
         "Dev_Desc": "제작 / 분류 / 검",
         "id": 8001142,
         "alias": "UI.Craft.Category.Sword",
-        "text": "sword"
+        "text": "Sword"
     },
     "8001143": {
         "deprecated": false,
@@ -7634,28 +7634,28 @@
         "Dev_Desc": "제작 / 분류 / 기공패",
         "id": 8001144,
         "alias": "UI.Craft.Category.Bangle",
-        "text": "Kigong Plaque"
+        "text": "Bangle"
     },
     "8001145": {
         "deprecated": false,
         "Dev_Desc": "제작 / 분류 / 도끼",
         "id": 8001145,
         "alias": "UI.Craft.Category.Axe",
-        "text": "axe"
+        "text": "Axe"
     },
     "8001146": {
         "deprecated": false,
         "Dev_Desc": "제작 / 분류 / 활",
         "id": 8001146,
         "alias": "UI.Craft.Category.Bow",
-        "text": "bow"
+        "text": "Bow"
     },
     "8001147": {
         "deprecated": false,
         "Dev_Desc": "제작 / 분류 / 무기",
         "id": 8001147,
         "alias": "UI.Craft.Category.Weapon",
-        "text": "weapon"
+        "text": "Weapon"
     },
     "8001148": {
         "deprecated": false,
@@ -7669,7 +7669,7 @@
         "Dev_Desc": "제작 / 분류 / 장신구",
         "id": 8001149,
         "alias": "UI.Craft.Category.Accessorry",
-        "text": "Trinket"
+        "text": "Accessorry"
     },
     "8001150": {
         "deprecated": false,
@@ -7690,28 +7690,28 @@
         "Dev_Desc": "아이템 / 거래 가능 여부 / 가능",
         "id": 8001152,
         "alias": "UI.Item.Tradeable.True",
-        "text": "tradeable"
+        "text": "Tradeable"
     },
     "8001153": {
         "deprecated": false,
         "Dev_Desc": "아이템 / 거래 가능 여부 / 불가",
         "id": 8001153,
         "alias": "UI.Item.Tradeable.False",
-        "text": "Untradable"
+        "text": "Untradeable"
     },
     "8001154": {
         "deprecated": false,
         "Dev_Desc": "문파 / 미가입 상태 / 추천 문파 탭 타이틀",
         "id": 8001154,
         "alias": "UI.Guild.Recommend.TabTitle",
-        "text": "recommended school"
+        "text": "Recommended Guild"
     },
     "8001155": {
         "deprecated": false,
         "Dev_Desc": "문파 / 미가입 상태 / 문파 순위 탭 타이틀",
         "id": 8001155,
         "alias": "UI.Guild.GuildRank.TabTitle",
-        "text": "Class rank"
+        "text": "Guild Rank"
     },
     "8001156": {
         "deprecated": false,
@@ -10623,7 +10623,7 @@
         "Dev_Desc": "아이템 / 아이템 소분류 / ",
         "id": 8001572,
         "alias": "UI.Item.ItemType.FireBangle",
-        "text": "Qigong Plaque"
+        "text": "Bangle"
     },
     "8001573": {
         "deprecated": false,
@@ -10644,7 +10644,7 @@
         "Dev_Desc": "아이템 / 아이템 소분류 / ",
         "id": 8001575,
         "alias": "UI.Item.ItemType.RitualBell",
-        "text": "The Law"
+        "text": "Ritual Bell"
     },
     "8001576": {
         "deprecated": false,
@@ -10665,21 +10665,21 @@
         "Dev_Desc": "아이템 / 아이템 소분류 / ",
         "id": 8001578,
         "alias": "UI.Item.ItemType.Belt",
-        "text": "belt"
+        "text": "Belts"
     },
     "8001579": {
         "deprecated": false,
         "Dev_Desc": "아이템 / 아이템 소분류 / ",
         "id": 8001579,
         "alias": "UI.Item.ItemType.LegGuard",
-        "text": "gaiters"
+        "text": "Leggings"
     },
     "8001580": {
         "deprecated": false,
         "Dev_Desc": "아이템 / 아이템 소분류 / ",
         "id": 8001580,
         "alias": "UI.Item.ItemType.Shoe",
-        "text": "shoes"
+        "text": "Shoes"
     },
     "8001581": {
         "deprecated": false,
@@ -10693,28 +10693,28 @@
         "Dev_Desc": "아이템 / 아이템 소분류 / ",
         "id": 8001582,
         "alias": "UI.Item.ItemType.SoulArmor",
-        "text": "Spirit"
+        "text": "Soul Armor"
     },
     "8001583": {
         "deprecated": false,
         "Dev_Desc": "아이템 / 아이템 소분류 / ",
         "id": 8001583,
         "alias": "UI.Item.ItemType.ProtectCard",
-        "text": "Guardian Plaque"
+        "text": "Guardian"
     },
     "8001584": {
         "deprecated": false,
         "Dev_Desc": "아이템 / 아이템 소분류 / ",
         "id": 8001584,
         "alias": "UI.Item.ItemType.sachet",
-        "text": "sachet"
+        "text": "Sachet"
     },
     "8001585": {
         "deprecated": false,
         "Dev_Desc": "아이템 / 아이템 소분류 / ",
         "id": 8001585,
         "alias": "UI.Item.ItemType.Earring",
-        "text": "earrings"
+        "text": "Earring"
     },
     "8001586": {
         "deprecated": false,
@@ -10742,14 +10742,14 @@
         "Dev_Desc": "아이템 / 아이템 소분류 / ",
         "id": 8001589,
         "alias": "UI.Item.ItemType.Norigae",
-        "text": "soother"
+        "text": "Norigae"
     },
     "8001590": {
         "deprecated": false,
         "Dev_Desc": "아이템 / 아이템 소분류 / ",
         "id": 8001590,
         "alias": "UI.Item.ItemType.SoulStone",
-        "text": "Soulstone"
+        "text": "Soul Stone"
     },
     "8001591": {
         "deprecated": false,
@@ -10777,7 +10777,7 @@
         "Dev_Desc": "아이템 / 아이템 소분류 / ",
         "id": 8001594,
         "alias": "UI.Item.ItemType.Esse",
-        "text": "Integer"
+        "text": "Essence"
     },
     "8001595": {
         "deprecated": false,
@@ -10798,56 +10798,56 @@
         "Dev_Desc": "아이템 / 아이템 소분류 / ",
         "id": 8001597,
         "alias": "UI.Item.ItemType.RewardBox",
-        "text": "box"
+        "text": "Reward Box"
     },
     "8001598": {
         "deprecated": false,
         "Dev_Desc": "아이템 / 아이템 소분류 / ",
         "id": 8001598,
         "alias": "UI.Item.ItemType.ChoiceBox",
-        "text": "box"
+        "text": "Choice Box"
     },
     "8001599": {
         "deprecated": false,
         "Dev_Desc": "아이템 / 아이템 소분류 / ",
         "id": 8001599,
         "alias": "UI.Item.ItemType.HpPotion",
-        "text": "Potion"
+        "text": "HP Potion"
     },
     "8001600": {
         "deprecated": false,
         "Dev_Desc": "아이템 / 아이템 소분류 / ",
         "id": 8001600,
         "alias": "UI.Item.ItemType.FocusPotion",
-        "text": "Potion"
+        "text": "Focus Potion"
     },
     "8001601": {
         "deprecated": false,
         "Dev_Desc": "아이템 / 아이템 소분류 / ",
         "id": 8001601,
         "alias": "UI.Item.ItemType.BuffItem",
-        "text": "Consumables"
+        "text": "Buff Item"
     },
     "8001602": {
         "deprecated": false,
         "Dev_Desc": "아이템 / 아이템 소분류 / ",
         "id": 8001602,
         "alias": "UI.Item.ItemType.SkillSetScroll",
-        "text": "Unofficial"
+        "text": "Skill Scroll"
     },
     "8001603": {
         "deprecated": false,
         "Dev_Desc": "아이템 / 아이템 소분류 / ",
         "id": 8001603,
         "alias": "UI.Item.ItemType.ReturnScroll",
-        "text": "heartstone"
+        "text": "Return Scroll"
     },
     "8001604": {
         "deprecated": false,
         "Dev_Desc": "아이템 / 아이템 소분류 / ",
         "id": 8001604,
         "alias": "UI.Item.ItemType.QuestScroll",
-        "text": "Collaboration"
+        "text": "Quest Scroll"
     },
     "8001605": {
         "deprecated": false,
@@ -10861,28 +10861,28 @@
         "Dev_Desc": "아이템 / 아이템 소분류 / ",
         "id": 8001606,
         "alias": "UI.Item.ItemType.Resource",
-        "text": "Material"
+        "text": "Materials"
     },
     "8001607": {
         "deprecated": false,
         "Dev_Desc": "아이템 / 아이템 소분류 / ",
         "id": 8001607,
         "alias": "UI.Item.ItemType.InstantAspectScroll",
-        "text": "Consumables"
+        "text": "Instant Aspect Scroll"
     },
     "8001608": {
         "deprecated": false,
         "Dev_Desc": "아이템 / 아이템 소분류 / ",
         "id": 8001608,
         "alias": "UI.Item.ItemType.TransformScroll",
-        "text": "Consumables"
+        "text": "Transform Scroll"
     },
     "8001609": {
         "deprecated": false,
         "Dev_Desc": "아이템 / 아이템 소분류 / ",
         "id": 8001609,
         "alias": "UI.Item.ItemType.ReleaseTransformScroll",
-        "text": "Consumables"
+        "text": "Release Transform Scroll"
     },
     "8001610": {
         "deprecated": false,
@@ -10896,49 +10896,49 @@
         "Dev_Desc": "아이템 / 아이템 소분류 / ",
         "id": 8001611,
         "alias": "UI.Item.ItemType.AddStatPoint",
-        "text": "Elixir"
+        "text": "Add Stat Point"
     },
     "8001612": {
         "deprecated": false,
         "Dev_Desc": "아이템 / 아이템 소분류 / ",
         "id": 8001612,
         "alias": "UI.Item.ItemType.ResetStatPoint",
-        "text": "Elixir"
+        "text": "Reset Stat Point"
     },
     "8001613": {
         "deprecated": false,
         "Dev_Desc": "아이템 / 아이템 소분류 / ",
         "id": 8001613,
         "alias": "UI.Item.ItemType.TestInstantAspectScroll",
-        "text": "Consumables"
+        "text": "Test Instant Aspect Scroll"
     },
     "8001614": {
         "deprecated": false,
         "Dev_Desc": "아이템 / 아이템 소분류 / ",
         "id": 8001614,
         "alias": "UI.Item.ItemType.TestTransformScroll",
-        "text": "Consumables"
+        "text": "Test Transform Scroll"
     },
     "8001615": {
         "deprecated": false,
         "Dev_Desc": "아이템 / 아이템 소분류 / ",
         "id": 8001615,
         "alias": "UI.Item.ItemType.OniPaintSpirit",
-        "text": "Guido"
+        "text": "Oni Paint Spirit"
     },
     "8001616": {
         "deprecated": false,
         "Dev_Desc": "아이템 / 아이템 소분류 / ",
         "id": 8001616,
         "alias": "UI.Item.ItemType.Soul",
-        "text": "Summon Scroll"
+        "text": "Soul"
     },
     "8001617": {
         "deprecated": false,
         "Dev_Desc": "아이템 / 아이템 소분류 / ",
         "id": 8001617,
         "alias": "UI.Item.ItemType.Pets",
-        "text": "Summon Scroll"
+        "text": "Pets"
     },
     "8001618": {
         "deprecated": false,
@@ -12982,7 +12982,7 @@
         "Dev_Desc": "아이템 / 아이템 소분류 / ",
         "id": 8001928,
         "alias": "UI.Item.ItemType.Grocery.SkillSetStone",
-        "text": "Integer"
+        "text": "Skill Set Stone"
     },
     "8001929": {
         "deprecated": false,
@@ -13703,7 +13703,7 @@
         "Dev_Desc": "캐시상점 / 서브 탭 / 상품 탭 / 소모품",
         "id": 8002031,
         "alias": "UI.CashShop.TapName.Sub.Grocery1",
-        "text": "Consumables"
+        "text": "Expendables"
     },
     "8002032": {
         "deprecated": false,
@@ -13724,7 +13724,7 @@
         "Dev_Desc": "캐시상점 / 서브 탭 / 금화 탭 / 소모품",
         "id": 8002034,
         "alias": "UI.CashShop.TapName.Sub.Grocery2",
-        "text": "Consumables"
+        "text": "Expendables"
     },
     "8002035": {
         "deprecated": false,
@@ -17385,7 +17385,7 @@
         "Dev_Desc": "아이템 / 아이템 소분류 / ",
         "id": 8002562,
         "alias": "UI.Item.ItemType.Grocery.BladePointResource",
-        "text": "Consumables"
+        "text": "Expendables"
     },
     "8002563": {
         "deprecated": false,
@@ -17413,7 +17413,7 @@
         "Dev_Desc": "로비 / 캐릭터 삭제 팝업 / 설명 1",
         "id": 8002566,
         "alias": "UI.Lobby.PopUp.Delete.Desc",
-        "text": "Are you sure you want to delete the selected character?\nOnly characters above Lv.<arg p=[1:integer]/> can be deleted, \nrequires deletion waiting time <arg p=[2:string]/> \n\n<textColor=[255:0:0:255]> Character recovery is not possible after the waiting time, </>\n<textColor=[255:0:0:255]>Delete all belongings </>"
+        "text": "Are you sure you want to delete the selected character? \n Only characters above Lv. <Arg p = [1:integer]/> can be deleted, \nThe waiting time for deletion is <arg p =[2:string]/>.\n \n <textColor = [255:0:0:255]> Character cannot be restored after waiting time,</>\n <textColor = [255:0:0:255]> All things will be deleted.</>"
     },
     "8002567": {
         "deprecated": false,
@@ -17448,7 +17448,7 @@
         "Dev_Desc": "제작/ 한정 / 계정별 서버 한정",
         "id": 8002571,
         "alias": "UI.Creaft.Limited.ServerAcount.Count",
-        "text": "Limit number of servers per account <arg p=[1:integer]/>/<arg p=[2:integer]/>"
+        "text": "Server limit per account <arg p=[1:integer]/>/<arg p=[2:integer]/>"
     },
     "8002572": {
         "deprecated": false,
@@ -17476,35 +17476,35 @@
         "Dev_Desc": "제작/ 한정 / 월요일",
         "id": 8002575,
         "alias": "UI.Creaft.Limited.Mon",
-        "text": "month"
+        "text": "Mon"
     },
     "8002576": {
         "deprecated": false,
         "Dev_Desc": "제작/ 한정 / 화요일",
         "id": 8002576,
         "alias": "UI.Creaft.Limited.Tue",
-        "text": "woe"
+        "text": "Tue"
     },
     "8002577": {
         "deprecated": false,
         "Dev_Desc": "제작/ 한정 / 수요일",
         "id": 8002577,
         "alias": "UI.Creaft.Limited.Wed",
-        "text": "Number"
+        "text": "Wed"
     },
     "8002578": {
         "deprecated": false,
         "Dev_Desc": "제작/ 한정 / 목요일",
         "id": 8002578,
         "alias": "UI.Creaft.Limited.Thu",
-        "text": "neck"
+        "text": "Thu"
     },
     "8002579": {
         "deprecated": false,
         "Dev_Desc": "제작/ 한정 / 금요일",
         "id": 8002579,
         "alias": "UI.Creaft.Limited.Fri",
-        "text": "gold"
+        "text": "Fri"
     },
     "8002580": {
         "deprecated": false,
@@ -17518,7 +17518,7 @@
         "Dev_Desc": "제작/ 한정 / 일요일",
         "id": 8002581,
         "alias": "UI.Creaft.Limited.Sun",
-        "text": "work"
+        "text": "Sun"
     },
     "8002582": {
         "deprecated": false,
@@ -17532,7 +17532,7 @@
         "Dev_Desc": "제작/ 한정 / 오후",
         "id": 8002583,
         "alias": "UI.Creaft.Limited.PM",
-        "text": "afternoon"
+        "text": "PM"
     },
     "8002584": {
         "deprecated": false,
@@ -19457,7 +19457,7 @@
         "Dev_Desc": "거래소 / 분류 / 무공 / 정수",
         "id": 8002858,
         "alias": "UI.Trade.Category.SkillSetScroll.SkillSetStone",
-        "text": "Integer"
+        "text": "Soul Stone"
     },
     "8002859": {
         "deprecated": false,
@@ -19478,7 +19478,7 @@
         "Dev_Desc": "아이템 / 아이템 소분류 / ",
         "id": 8002861,
         "alias": "UI.Item.ItemType.Grocery.EnchantScroll",
-        "text": "Fortification Scroll"
+        "text": "Enchant Scroll"
     },
     "8002862": {
         "deprecated": false,
@@ -20933,7 +20933,7 @@
         "Dev_Desc": "이벤트 제작 레시피 탭 / 스타터 패키지",
         "id": 8003070,
         "alias": "UI.Craft.LeftSubTabName.Event.Moon_04",
-        "text": "Younggyowon Package"
+        "text": "Starter Package"
     },
     "8003071": {
         "deprecated": false,
@@ -21031,7 +21031,7 @@
         "Dev_Desc": "캐시상점 / 서브 탭 / 신석 탭 / 이벤트",
         "id": 8003084,
         "alias": "UI.CashShop.TapName.Sub.Event",
-        "text": "event"
+        "text": "Event"
     },
     "8003085": {
         "deprecated": false,
