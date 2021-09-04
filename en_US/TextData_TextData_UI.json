@@ -10294,7 +10294,7 @@
         "Dev_Desc": "퀘스트 / 수락 팝업 / 목표",
         "id": 8001525,
         "alias": "UI.Quest.AcceptPopup.Goal",
-        "text": "target"
+        "text": "Target"
     },
     "8001526": {
         "deprecated": false,
@@ -10315,14 +10315,14 @@
         "Dev_Desc": "퀘스트 / 수락 팝업 / 무작위 보상 안내 문구",
         "id": 8001528,
         "alias": "UI.Quest.AcceptPopup.RandomReward.2",
-        "text": "(Get 1 of the rewards below)"
+        "text": "(Obtain 1 of the rewards below)"
     },
     "8001529": {
         "deprecated": false,
         "Dev_Desc": "퀘스트 / 수락 팝업 / 수락까지 남은 시간",
         "id": 8001529,
         "alias": "UI.Quest.AcceptPopup.RemainTime",
-        "text": "Remaining time: "
+        "text": "Remain Time: "
     },
     "8001530": {
         "deprecated": false,
@@ -10392,49 +10392,49 @@
         "Dev_Desc": "제작 / 분류 / 장비",
         "id": 8001539,
         "alias": "UI.Craft.Category.Gear",
-        "text": "Equipment"
+        "text": "Gear"
     },
     "8001540": {
         "deprecated": false,
         "Dev_Desc": "제작 / 결과 / 대성공",
         "id": 8001540,
         "alias": "UI.Craft.Result.GreatSuccess",
-        "text": "Jackpot"
+        "text": "Great Success"
     },
     "8001541": {
         "deprecated": false,
         "Dev_Desc": "제작 / 결과 / 성공",
         "id": 8001541,
         "alias": "UI.Craft.Result.Success",
-        "text": "success"
+        "text": "Success"
     },
     "8001542": {
         "deprecated": false,
         "Dev_Desc": "제작 / 결과 / 실패",
         "id": 8001542,
         "alias": "UI.Craft.Result.Fail",
-        "text": "failed"
+        "text": "Fail"
     },
     "8001543": {
         "deprecated": false,
         "Dev_Desc": "PK볼륨타입 / 일반",
         "id": 8001543,
         "alias": "UI.PKVolume.Normal",
-        "text": "General"
+        "text": "Normal"
     },
     "8001544": {
         "deprecated": false,
         "Dev_Desc": "PK볼륨타입 / 안전",
         "id": 8001544,
         "alias": "UI.PKVolume.Safety",
-        "text": "safe"
+        "text": "Safety"
     },
     "8001545": {
         "deprecated": false,
         "Dev_Desc": "PK볼륨타입 / 마을",
         "id": 8001545,
         "alias": "UI.PKVolume.SafetyTown",
-        "text": "village"
+        "text": "Safe Town"
     },
     "8001546": {
         "deprecated": false,
@@ -10469,7 +10469,7 @@
         "Dev_Desc": "던전 / 타이틀",
         "id": 8001550,
         "alias": "UI.Dungeon.Title",
-        "text": "Dungeon"
+        "text": "Dungeons"
     },
     "8001551": {
         "deprecated": false,
@@ -10490,7 +10490,7 @@
         "Dev_Desc": "환경 / 타이틀",
         "id": 8001553,
         "alias": "UI.Environment.Title",
-        "text": "environment"
+        "text": "Environment"
     },
     "8001554": {
         "deprecated": false,
@@ -10504,7 +10504,7 @@
         "Dev_Desc": "사냥터 정보 팝업 / 주요 전리품",
         "id": 8001555,
         "alias": "UI.ItemSource.ItemList",
-        "text": "Main loot"
+        "text": "Item List"
     },
     "8001556": {
         "deprecated": false,
@@ -10546,49 +10546,49 @@
         "Dev_Desc": "아이템 / 아이템 소분류 / ",
         "id": 8001561,
         "alias": "UI.Item.ItemType.EventCoin",
-        "text": "Special Coin"
+        "text": "Event Coin"
     },
     "8001562": {
         "deprecated": false,
         "Dev_Desc": "아이템 / 아이템 소분류 / ",
         "id": 8001562,
         "alias": "UI.Item.ItemType.LongSword",
-        "text": "sword"
+        "text": "LongSword"
     },
     "8001563": {
         "deprecated": false,
         "Dev_Desc": "아이템 / 아이템 소분류 / ",
         "id": 8001563,
         "alias": "UI.Item.ItemType.Blade",
-        "text": "degree"
+        "text": "Blade"
     },
     "8001564": {
         "deprecated": false,
         "Dev_Desc": "아이템 / 아이템 소분류 / ",
         "id": 8001564,
         "alias": "UI.Item.ItemType.Rapier",
-        "text": "Three Swords"
+        "text": "Rapier"
     },
     "8001565": {
         "deprecated": false,
         "Dev_Desc": "아이템 / 아이템 소분류 / ",
         "id": 8001565,
         "alias": "UI.Item.ItemType.LightGauntlet",
-        "text": "gauntlet"
+        "text": "Light Gauntlet"
     },
     "8001566": {
         "deprecated": false,
         "Dev_Desc": "아이템 / 아이템 소분류 / ",
         "id": 8001566,
         "alias": "UI.Item.ItemType.HeavyGauntlet",
-        "text": "Gauntlet"
+        "text": "Heavy Gauntlet"
     },
     "8001567": {
         "deprecated": false,
         "Dev_Desc": "아이템 / 아이템 소분류 / ",
         "id": 8001567,
         "alias": "UI.Item.ItemType.Greaves",
-        "text": "footshell"
+        "text": "Greaves"
     },
     "8001568": {
         "deprecated": false,
@@ -10602,14 +10602,14 @@
         "Dev_Desc": "아이템 / 아이템 소분류 / ",
         "id": 8001569,
         "alias": "UI.Item.ItemType.GreatAxe",
-        "text": "axe"
+        "text": "Great Axe"
     },
     "8001570": {
         "deprecated": false,
         "Dev_Desc": "아이템 / 아이템 소분류 / ",
         "id": 8001570,
         "alias": "UI.Item.ItemType.Longbow",
-        "text": "bow"
+        "text": "Longbow"
     },
     "8001571": {
         "deprecated": false,
@@ -10623,21 +10623,21 @@
         "Dev_Desc": "아이템 / 아이템 소분류 / ",
         "id": 8001572,
         "alias": "UI.Item.ItemType.FireBangle",
-        "text": "Bangle"
+        "text": "Fire Bangle"
     },
     "8001573": {
         "deprecated": false,
         "Dev_Desc": "아이템 / 아이템 소분류 / ",
         "id": 8001573,
         "alias": "UI.Item.ItemType.IceBangle",
-        "text": "Ice Technician"
+        "text": "Ice Bangle"
     },
     "8001574": {
         "deprecated": false,
         "Dev_Desc": "아이템 / 아이템 소분류 / ",
         "id": 8001574,
         "alias": "UI.Item.ItemType.DualDagger",
-        "text": "dagger"
+        "text": "Dual Dagger"
     },
     "8001575": {
         "deprecated": false,
@@ -10784,7 +10784,7 @@
         "Dev_Desc": "아이템 / 아이템 소분류 / ",
         "id": 8001595,
         "alias": "UI.Item.ItemType.Gem",
-        "text": "jewel"
+        "text": "Gem"
     },
     "8001596": {
         "deprecated": false,
@@ -10987,7 +10987,7 @@
         "Dev_Desc": "거래소 / 분류 / 메인",
         "id": 8001624,
         "alias": "UI.Trade.Category.Main",
-        "text": "main"
+        "text": "Main"
     },
     "8001625": {
         "deprecated": false,
@@ -11001,7 +11001,7 @@
         "Dev_Desc": "거래소 / 분류 / 무기",
         "id": 8001626,
         "alias": "UI.Trade.Category.Weapon",
-        "text": "weapon"
+        "text": "Weapon"
     },
     "8001627": {
         "deprecated": false,
@@ -11015,42 +11015,42 @@
         "Dev_Desc": "거래소 / 분류 / 무기 / 검",
         "id": 8001628,
         "alias": "UI.Trade.Category.Weapon.Sword",
-        "text": "sword"
+        "text": "Sword"
     },
     "8001629": {
         "deprecated": false,
         "Dev_Desc": "거래소 / 분류 / 무기 / 권갑",
         "id": 8001629,
         "alias": "UI.Trade.Category.Weapon.Gauntlet",
-        "text": "gauntlet"
+        "text": "Gauntlet"
     },
     "8001630": {
         "deprecated": false,
         "Dev_Desc": "거래소 / 분류 / 무기 / 도끼",
         "id": 8001630,
         "alias": "UI.Trade.Category.Weapon.Axe",
-        "text": "axe"
+        "text": "Axe"
     },
     "8001631": {
         "deprecated": false,
         "Dev_Desc": "거래소 / 분류 / 무기 / 활",
         "id": 8001631,
         "alias": "UI.Trade.Category.Weapon.Bow",
-        "text": "bow"
+        "text": "Bow"
     },
     "8001632": {
         "deprecated": false,
         "Dev_Desc": "거래소 / 분류 / 무기 / 기공패",
         "id": 8001632,
         "alias": "UI.Trade.Category.Weapon.Bangle",
-        "text": "Kigong Plaque"
+        "text": "Bangle"
     },
     "8001633": {
         "deprecated": false,
         "Dev_Desc": "거래소 / 분류 / 무기 / 법종",
         "id": 8001633,
         "alias": "UI.Trade.Category.Weapon.RitualBell",
-        "text": "Laws"
+        "text": "Ritual Bell"
     },
     "8001634": {
         "deprecated": false,
@@ -11085,21 +11085,21 @@
         "Dev_Desc": "거래소 / 분류 / 방어구 / 각반",
         "id": 8001638,
         "alias": "UI.Trade.Category.Armor.LegGuard",
-        "text": "gaiters"
+        "text": "Leggings"
     },
     "8001639": {
         "deprecated": false,
         "Dev_Desc": "거래소 / 분류 / 방어구 / 허리띠",
         "id": 8001639,
         "alias": "UI.Trade.Category.Armor.Belt",
-        "text": "belt"
+        "text": "Belt"
     },
     "8001640": {
         "deprecated": false,
         "Dev_Desc": "거래소 / 분류 / 장신구",
         "id": 8001640,
         "alias": "UI.Trade.Category.Accessorry",
-        "text": "Trinket"
+        "text": "Accessorry"
     },
     "8001641": {
         "deprecated": false,
@@ -11120,7 +11120,7 @@
         "Dev_Desc": "거래소 / 분류 / 장신구 / 귀걸이",
         "id": 8001643,
         "alias": "UI.Trade.Category.Accessorry.Earring",
-        "text": "earrings"
+        "text": "Earring"
     },
     "8001644": {
         "deprecated": false,
@@ -11134,7 +11134,7 @@
         "Dev_Desc": "거래소 / 분류 / 무공",
         "id": 8001645,
         "alias": "UI.Trade.Category.SkillSetScroll",
-        "text": "no attack"
+        "text": "Skill Scroll"
     },
     "8001646": {
         "deprecated": false,
@@ -11148,49 +11148,49 @@
         "Dev_Desc": "거래소 / 분류 / 무공 / 검",
         "id": 8001647,
         "alias": "UI.Trade.Category.SkillSetScroll.Sword",
-        "text": "Swordsmanship level"
+        "text": "Sword"
     },
     "8001648": {
         "deprecated": false,
         "Dev_Desc": "거래소 / 분류 / 무공 / 권갑",
         "id": 8001648,
         "alias": "UI.Trade.Category.SkillSetScroll.Gauntlet",
-        "text": "Kwonbeopseo"
+        "text": "Gauntlet"
     },
     "8001649": {
         "deprecated": false,
         "Dev_Desc": "거래소 / 분류 / 무공 / 도끼",
         "id": 8001649,
         "alias": "UI.Trade.Category.SkillSetScroll.Axe",
-        "text": "Breaking Vision"
+        "text": "Axe"
     },
     "8001650": {
         "deprecated": false,
         "Dev_Desc": "거래소 / 분류 / 무공 / 활",
         "id": 8001650,
         "alias": "UI.Trade.Category.SkillSetScroll.Bow",
-        "text": "Even Archery"
+        "text": "Bow"
     },
     "8001651": {
         "deprecated": false,
         "Dev_Desc": "거래소 / 분류 / 무공 / 기공패",
         "id": 8001651,
         "alias": "UI.Trade.Category.SkillSetScroll.Bangle",
-        "text": "Secretary of Qigong"
+        "text": "Bangle"
     },
     "8001652": {
         "deprecated": false,
         "Dev_Desc": "거래소 / 분류 / 무공 / 법종",
         "id": 8001652,
         "alias": "UI.Trade.Category.SkillSetScroll.RitualBell",
-        "text": "The Taoist Sutra"
+        "text": "Ritual Bell"
     },
     "8001653": {
         "deprecated": false,
         "Dev_Desc": "거래소 / 분류 / 소모품",
         "id": 8001653,
         "alias": "UI.Trade.Category.Grocery",
-        "text": "Consumables"
+        "text": "Expendables"
     },
     "8001654": {
         "deprecated": false,
@@ -11225,14 +11225,14 @@
         "Dev_Desc": "거래소 / 분류 / 기타 / 구슬",
         "id": 8001658,
         "alias": "UI.Trade.Category.Etc.Bead",
-        "text": "beads"
+        "text": "Beads"
     },
     "8001659": {
         "deprecated": false,
         "Dev_Desc": "거래소 / 분류 / 기타 / 재료",
         "id": 8001659,
         "alias": "UI.Trade.Category.Etc.Resource",
-        "text": "Material"
+        "text": "Resource"
     },
     "8001660": {
         "deprecated": false,
