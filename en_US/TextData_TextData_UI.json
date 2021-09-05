@@ -536,7 +536,7 @@
         "Dev_Desc": "캐릭터 정보 / ",
         "id": 8000077,
         "alias": "UI.StatInfo.Name.Equipment",
-        "text": "Equipment"
+        "text": "Equip"
     },
     "8000078": {
         "deprecated": false,
@@ -977,7 +977,7 @@
         "Dev_Desc": "시티즌 창고 / 타이틀 / ",
         "id": 8000140,
         "alias": "UI.Stash.TitleName.Stash",
-        "text": "warehouse"
+        "text": "Warehouse"
     },
     "8000141": {
         "deprecated": false,
@@ -991,28 +991,28 @@
         "Dev_Desc": "HUD / HUD소지품아이콘아래표기 / ",
         "id": 8000142,
         "alias": "UI.HUD.Item.Full",
-        "text": "full"
+        "text": "Full"
     },
     "8000143": {
         "deprecated": false,
         "Dev_Desc": "업적 / 탭 이름 / ",
         "id": 8000143,
         "alias": "UI.Achievement.TitleName.Ahievement",
-        "text": "Achievements"
+        "text": "Achieve"
     },
     "8000144": {
         "deprecated": false,
         "Dev_Desc": "업적 / 탭 이름 / ",
         "id": 8000144,
         "alias": "UI.Achievement.TabName.Groth",
-        "text": "growth"
+        "text": "Growth"
     },
     "8000145": {
         "deprecated": false,
         "Dev_Desc": "업적 / 탭 이름 / ",
         "id": 8000145,
         "alias": "UI.Achievement.TabName.Battle",
-        "text": "battle"
+        "text": "Battle"
     },
     "8000146": {
         "deprecated": false,
@@ -1033,7 +1033,7 @@
         "Dev_Desc": "업적 / 탭 이름 / ",
         "id": 8000148,
         "alias": "UI.Achievement.TabName.Social",
-        "text": "exploration"
+        "text": "Exploration"
     },
     "8000149": {
         "deprecated": false,
@@ -1397,7 +1397,7 @@
         "Dev_Desc": "던전 / 타이틀 이름 / ",
         "id": 8000200,
         "alias": "UI.Dungeon.TitleName.Dungeon",
-        "text": "Dungeon"
+        "text": "Dungeons"
     },
     "8000201": {
         "deprecated": false,
@@ -2244,14 +2244,14 @@
         "Dev_Desc": "아이템 / 아이템 소분류 / ",
         "id": 8000321,
         "alias": "UI.Item.ItemType.Grocery.RewardBox",
-        "text": "box"
+        "text": "Reward Box"
     },
     "8000322": {
         "deprecated": false,
         "Dev_Desc": "아이템 / 아이템 소분류 / ",
         "id": 8000322,
         "alias": "UI.Item.ItemType.Grocery.ChoiceBox",
-        "text": "select box"
+        "text": "ChoiceBox"
     },
     "8000323": {
         "deprecated": false,
@@ -2279,7 +2279,7 @@
         "Dev_Desc": "아이템 / 아이템 소분류 / ",
         "id": 8000326,
         "alias": "UI.Item.ItemType.Grocery.SkillSetScroll",
-        "text": "Unofficial"
+        "text": "Skill Scroll"
     },
     "8000327": {
         "deprecated": false,
@@ -2314,7 +2314,7 @@
         "Dev_Desc": "아이템 / 아이템 소분류 / ",
         "id": 8000331,
         "alias": "UI.Item.ItemType.Grocery.Resource",
-        "text": "Material"
+        "text": "Resource"
     },
     "8000332": {
         "deprecated": false,
@@ -2580,7 +2580,7 @@
         "Dev_Desc": "파티던전 / ",
         "id": 8000369,
         "alias": "UI.PartyDungeon.TitleName.PartyDungeon",
-        "text": "Party Dungeon"
+        "text": "Party Dungeons"
     },
     "8000370": {
         "deprecated": false,
@@ -4365,7 +4365,7 @@
         "Dev_Desc": "게시판 / 퀘스트버튼 / 수락",
         "id": 8000641,
         "alias": "UI.Board.ButtonStatus.Accept",
-        "text": "accept"
+        "text": "Accept"
     },
     "8000642": {
         "deprecated": false,
@@ -6815,7 +6815,7 @@
         "Dev_Desc": "귀도 / 슬롯 해제 팝업 / 필요 재료",
         "id": 8001027,
         "alias": "UI.OniPaint.UnlockPopup.Material",
-        "text": "Required Materials"
+        "text": "Required Resources"
     },
     "8001028": {
         "deprecated": false,
@@ -7704,7 +7704,7 @@
         "Dev_Desc": "문파 / 미가입 상태 / 추천 문파 탭 타이틀",
         "id": 8001154,
         "alias": "UI.Guild.Recommend.TabTitle",
-        "text": "Recommended Guild"
+        "text": "Rec. Guild"
     },
     "8001155": {
         "deprecated": false,
@@ -7732,7 +7732,7 @@
         "Dev_Desc": "문파 / 미가입 상태 / 가입 관리 탭 타이틀",
         "id": 8001158,
         "alias": "UI.Guild.JoinManage.TabTitle",
-        "text": "Manage Subscriptions"
+        "text": "Invitations"
     },
     "8001159": {
         "deprecated": false,
@@ -7788,7 +7788,7 @@
         "Dev_Desc": "문파 / 항목 이름 / 가입 가능 레벨",
         "id": 8001166,
         "alias": "UI.Guild.GuildRank.ColumnName.5",
-        "text": "Available level to join"
+        "text": "Joinable Level"
     },
     "8001167": {
         "deprecated": false,
@@ -7802,14 +7802,14 @@
         "Dev_Desc": "문파 / 항목 이름 / 남은 시간",
         "id": 8001168,
         "alias": "UI.Guild.GuildRank.ColumnName.7",
-        "text": "time remaining"
+        "text": "Time Remaining"
     },
     "8001169": {
         "deprecated": false,
         "Dev_Desc": "문파 / 항목 이름 / 가입 신청",
         "id": 8001169,
         "alias": "UI.Guild.GuildRank.ColumnName.8",
-        "text": "application"
+        "text": "Application"
     },
     "8001170": {
         "deprecated": false,
@@ -7823,28 +7823,28 @@
         "Dev_Desc": "문파 / 항목 이름 / 신청 승인",
         "id": 8001171,
         "alias": "UI.Guild.GuildRank.ColumnName.10",
-        "text": "approval of application"
+        "text": "Approval of Application"
     },
     "8001172": {
         "deprecated": false,
         "Dev_Desc": "문파 / 항목 이름 / 선택 거절",
         "id": 8001172,
         "alias": "UI.Guild.GuildRank.ColumnName.11",
-        "text": "reject selection"
+        "text": "Reject"
     },
     "8001173": {
         "deprecated": false,
         "Dev_Desc": "문파 / 하단 버튼 / 선택 거절",
         "id": 8001173,
         "alias": "UI.Guild.BottomButton.SelectReject",
-        "text": "reject choice"
+        "text": "Reject"
     },
     "8001174": {
         "deprecated": false,
         "Dev_Desc": "문파 / 하단 버튼 / 전체 선택",
         "id": 8001174,
         "alias": "UI.Guild.BottomButton.SelectAll",
-        "text": "select all"
+        "text": "Select All"
     },
     "8001175": {
         "deprecated": false,
@@ -8222,7 +8222,7 @@
         "Dev_Desc": "경공 / 타이틀",
         "id": 8001229,
         "alias": "UI.HyperRun.Title",
-        "text": "light lord"
+        "text": "Hyper Run"
     },
     "8001230": {
         "deprecated": false,
@@ -8474,7 +8474,7 @@
         "Dev_Desc": "제작 / 재료 선택",
         "id": 8001265,
         "alias": "UI.Craft.CheckResource.Title",
-        "text": "Select Material"
+        "text": "Select Resource"
     },
     "8001266": {
         "deprecated": false,
@@ -9776,7 +9776,7 @@
         "Dev_Desc": "장비도감 / 검색 안내",
         "id": 8001451,
         "alias": "UI.EquipCollection.SearchGuide",
-        "text": "Please enter a search term."
+        "text": "Search"
     },
     "8001452": {
         "deprecated": false,
@@ -10336,21 +10336,21 @@
         "Dev_Desc": "소울 / 탭 이름 / 합성",
         "id": 8001531,
         "alias": "UI.Soul.TabName.Synthesis",
-        "text": "Soul Synthesis"
+        "text": "Synthesis"
     },
     "8001532": {
         "deprecated": false,
         "Dev_Desc": "소울 / 탭 이름 / 컬렉션",
         "id": 8001532,
         "alias": "UI.Soul.TabName.Collection",
-        "text": "Soul Collection"
+        "text": "Collection"
     },
     "8001533": {
         "deprecated": false,
         "Dev_Desc": "소울 / 탭 이름 / 소울 확정",
         "id": 8001533,
         "alias": "UI.Soul.TabName.Confirmation",
-        "text": "Soul Confirmed"
+        "text": "Confirmed"
     },
     "8001534": {
         "deprecated": false,
@@ -10742,7 +10742,7 @@
         "Dev_Desc": "아이템 / 아이템 소분류 / ",
         "id": 8001589,
         "alias": "UI.Item.ItemType.Norigae",
-        "text": "Norigae"
+        "text": "Trinket"
     },
     "8001590": {
         "deprecated": false,
@@ -10861,7 +10861,7 @@
         "Dev_Desc": "아이템 / 아이템 소분류 / ",
         "id": 8001606,
         "alias": "UI.Item.ItemType.Resource",
-        "text": "Materials"
+        "text": "Resources"
     },
     "8001607": {
         "deprecated": false,
@@ -10966,14 +10966,14 @@
         "Dev_Desc": "거래소 / 메뉴 / 정산",
         "id": 8001621,
         "alias": "UI.Trade.Menu.Calculate",
-        "text": "Settlement"
+        "text": "Calculate"
     },
     "8001622": {
         "deprecated": false,
         "Dev_Desc": "거래소 / 메뉴 / 정산내역",
         "id": 8001622,
         "alias": "UI.Trade.Menu.CalculateList",
-        "text": "Settlement Details"
+        "text": "Calculate List"
     },
     "8001623": {
         "deprecated": false,
@@ -11204,7 +11204,7 @@
         "Dev_Desc": "거래소 / 분류 / 소모품 / 주문서",
         "id": 8001655,
         "alias": "UI.Trade.Category.Grocery.Scroll",
-        "text": "Order"
+        "text": "Scroll"
     },
     "8001656": {
         "deprecated": false,
@@ -12296,35 +12296,35 @@
         "Dev_Desc": "문파 / 가입 관리 / 가입 신청 / 없음",
         "id": 8001817,
         "alias": "UI.Guild.JoinManage.JoinRequest.No",
-        "text": "No clan has applied for membership."
+        "text": "No Guild has applied for membership."
     },
     "8001818": {
         "deprecated": false,
         "Dev_Desc": "문파 / 가입 관리 / 가입 초대 / 없음",
         "id": 8001818,
         "alias": "UI.Guild.JoinManage.JoinInvite.No",
-        "text": "No clan invited."
+        "text": "No Guild invited."
     },
     "8001819": {
         "deprecated": false,
         "Dev_Desc": "문파 / 문파 혜택",
         "id": 8001819,
         "alias": "UI.Guild.Reward.TabTitle",
-        "text": "Benefits of the clan"
+        "text": "Guild Benefits"
     },
     "8001820": {
         "deprecated": false,
         "Dev_Desc": "문파 / 문파 혜택 / 내 문파",
         "id": 8001820,
         "alias": "UI.Guild.Reward.MyGuild",
-        "text": "my clan"
+        "text": "My Guild"
     },
     "8001821": {
         "deprecated": false,
         "Dev_Desc": "문파 / 문파 창설",
         "id": 8001821,
         "alias": "UI.Guild.Foundation",
-        "text": "Foundation of a clan"
+        "text": "Create Guild"
     },
     "8001822": {
         "deprecated": false,
@@ -12975,7 +12975,7 @@
         "Dev_Desc": "소울 / 소울 합성 / n회 합성",
         "id": 8001927,
         "alias": "UI.Soul.Synthesis.SynthesisCount",
-        "text": "<arg p=[1:integer]/>time compositing"
+        "text": "Synthesis <arg p=[1:integer]/> Times"
     },
     "8001928": {
         "deprecated": false,
@@ -13031,7 +13031,7 @@
         "Dev_Desc": "수호령 / 탭 / 수호령 확정",
         "id": 8001935,
         "alias": "UI.Pets.TabName.Confirmation",
-        "text": "confirmed guardian spirit"
+        "text": "Confirmation"
     },
     "8001936": {
         "deprecated": false,
@@ -13052,7 +13052,7 @@
         "Dev_Desc": "협행 / 내 협행",
         "id": 8001938,
         "alias": "UI.Board.MyQuest",
-        "text": "my companion"
+        "text": "My Quest"
     },
     "8001939": {
         "deprecated": false,
@@ -13164,7 +13164,7 @@
         "Dev_Desc": "퀘스트 / 이벤트",
         "id": 8001954,
         "alias": "UI.Quest.TypeName.Event",
-        "text": "event"
+        "text": "Event"
     },
     "8001955": {
         "deprecated": false,
@@ -14984,21 +14984,21 @@
         "Dev_Desc": "경공 / 질주",
         "id": 8002216,
         "alias": "UI.HyPerRun.Name.Sprint",
-        "text": "sprint"
+        "text": "Sprint"
     },
     "8002217": {
         "deprecated": false,
         "Dev_Desc": "경공 / 도약",
         "id": 8002217,
         "alias": "UI.HyPerRun.Name.HighJump",
-        "text": "Leap"
+        "text": "High Jump"
     },
     "8002218": {
         "deprecated": false,
         "Dev_Desc": "경공 / 뛰기",
         "id": 8002218,
         "alias": "UI.HyPerRun.Name.Jump",
-        "text": "run"
+        "text": "Jump"
     },
     "8002219": {
         "deprecated": false,
@@ -15012,35 +15012,35 @@
         "Dev_Desc": "경공 / 강하",
         "id": 8002220,
         "alias": "UI.HyPerRun.Name.DescentDash",
-        "text": "Descent"
+        "text": "Descent Dash"
     },
     "8002221": {
         "deprecated": false,
         "Dev_Desc": "경공 / 천상비",
         "id": 8002221,
         "alias": "UI.HyPerRun.Name.SkyDash",
-        "text": "Heavenly Rain"
+        "text": "Sky Dash"
     },
     "8002222": {
         "deprecated": false,
         "Dev_Desc": "경공 / 승천비",
         "id": 8002222,
         "alias": "UI.HyPerRun.Name.AscentDash",
-        "text": "Rise of Ascension"
+        "text": "Ascent Dash"
     },
     "8002223": {
         "deprecated": false,
         "Dev_Desc": "경공 / 신속",
         "id": 8002223,
         "alias": "UI.HyPerRun.Name.Swift",
-        "text": "quick"
+        "text": "Swiftness"
     },
     "8002224": {
         "deprecated": false,
         "Dev_Desc": "경공 / 수상비",
         "id": 8002224,
         "alias": "UI.HyPerRun.Name.WaterSprint",
-        "text": "Water Ratio"
+        "text": "Water Sprint"
     },
     "8002225": {
         "deprecated": false,
@@ -15054,35 +15054,35 @@
         "Dev_Desc": "경공 / 회류비",
         "id": 8002226,
         "alias": "UI.HyPerRun.Name.Drift",
-        "text": "return fee"
+        "text": "Drift"
     },
     "8002227": {
         "deprecated": false,
         "Dev_Desc": "경공 / 수상 회류비",
         "id": 8002227,
         "alias": "UI.HyPerRun.Name.WaterDrift",
-        "text": "Water turnover fee"
+        "text": "Water Drift"
     },
     "8002228": {
         "deprecated": false,
         "Dev_Desc": "경공 / 활루",
         "id": 8002228,
         "alias": "UI.HyPerRun.Name.Slide",
-        "text": "Historical"
+        "text": "Slide"
     },
     "8002229": {
         "deprecated": false,
         "Dev_Desc": "경공 / 수상 활루",
         "id": 8002229,
         "alias": "UI.HyPerRun.Name.WaterSlide",
-        "text": "Water Hike"
+        "text": "Water Slide"
     },
     "8002230": {
         "deprecated": false,
         "Dev_Desc": "경공 / 미획득",
         "id": 8002230,
         "alias": "UI.HyPerRun.Name.NotLearn",
-        "text": "Unobtained"
+        "text": "Not Learn"
     },
     "8002231": {
         "deprecated": false,
@@ -15810,7 +15810,7 @@
         "Dev_Desc": "검결 / 성장버튼",
         "id": 8002336,
         "alias": "UI.Blade.Growth.Button",
-        "text": "growth"
+        "text": "Growth"
     },
     "8002337": {
         "deprecated": false,
@@ -15999,7 +15999,7 @@
         "Dev_Desc": "거래소 / 분류 / 방어구 / 신발",
         "id": 8002363,
         "alias": "UI.Trade.Category.Armor.Shoe",
-        "text": "shoes"
+        "text": "Shoes"
     },
     "8002364": {
         "deprecated": false,
@@ -16027,14 +16027,14 @@
         "Dev_Desc": "거래소 / 분류 / 방어구 / 팔찌",
         "id": 8002367,
         "alias": "UI.Trade.Category.Accessorry.Bracelet",
-        "text": "bracelet"
+        "text": "Bracelet"
     },
     "8002368": {
         "deprecated": false,
         "Dev_Desc": "거래소 / 분류 / 방어구 / 노리개",
         "id": 8002368,
         "alias": "UI.Trade.Category.Accessorry.Norigae",
-        "text": "soother"
+        "text": "Trinket"
     },
     "8002369": {
         "deprecated": false,
@@ -16503,7 +16503,7 @@
         "Dev_Desc": "상자 / 수량 조절 팝업",
         "id": 8002435,
         "alias": "UI.BoxOpenPopup.SelectCountDesc",
-        "text": "Please select the number of boxes to open."
+        "text": "Please select the number of Trinketes to open."
     },
     "8002436": {
         "deprecated": false,
@@ -16678,7 +16678,7 @@
         "Dev_Desc": "제작/이벤트 탭",
         "id": 8002461,
         "alias": "UI.Craft.Category.Event",
-        "text": "event"
+        "text": "Event"
     },
     "8002462": {
         "deprecated": false,
@@ -17000,35 +17000,35 @@
         "Dev_Desc": "블레이드&소울/소울 등급",
         "id": 8002507,
         "alias": "UI.BladeNSoul.GradeName.Legendary",
-        "text": "Legend"
+        "text": "Legendary"
     },
     "8002508": {
         "deprecated": false,
         "Dev_Desc": "블레이드&소울/소울 등급",
         "id": 8002508,
         "alias": "UI.BladeNSoul.GradeName.Heroic",
-        "text": "hero"
+        "text": "Heroic"
     },
     "8002509": {
         "deprecated": false,
         "Dev_Desc": "블레이드&소울/소울 등급",
         "id": 8002509,
         "alias": "UI.BladeNSoul.GradeName.Rare",
-        "text": "rare"
+        "text": "Rare"
     },
     "8002510": {
         "deprecated": false,
         "Dev_Desc": "블레이드&소울/소울 등급",
         "id": 8002510,
         "alias": "UI.BladeNSoul.GradeName.Superior",
-        "text": "advanced"
+        "text": "Superior"
     },
     "8002511": {
         "deprecated": false,
         "Dev_Desc": "블레이드&소울/소울 등급",
         "id": 8002511,
         "alias": "UI.BladeNSoul.GradeName.Common",
-        "text": "General"
+        "text": "Common"
     },
     "8002512": {
         "deprecated": false,
@@ -17042,7 +17042,7 @@
         "Dev_Desc": "블레이드&소울/블레이드&소울/장착",
         "id": 8002513,
         "alias": "UI.BladeNSoul.Equip",
-        "text": "Equipped"
+        "text": "Equip"
     },
     "8002514": {
         "deprecated": false,
@@ -17196,7 +17196,7 @@
         "Dev_Desc": "블레이드&소울/소울/소울 성장/성장 버튼",
         "id": 8002535,
         "alias": "UI.BladeNSoul.Soul.Growth",
-        "text": "growth"
+        "text": "Growth"
     },
     "8002536": {
         "deprecated": false,
@@ -19471,7 +19471,7 @@
         "Dev_Desc": "거래소 / 분류 / 기타 / 시간 충전석",
         "id": 8002860,
         "alias": "UI.Trade.Category.Etc.TimeStone",
-        "text": "Time Charging Stone"
+        "text": "Time Stone"
     },
     "8002861": {
         "deprecated": false,
@@ -20170,14 +20170,14 @@
         "Dev_Desc": "AOS 12세 PG 이름",
         "id": 8002961,
         "alias": "UI.PG.AOS.Age12",
-        "text": "Google PlayStore Blade & Soul 2 (12)"
+        "text": "GooglePlay Store Blade & Soul 2 (12)"
     },
     "8002962": {
         "deprecated": false,
         "Dev_Desc": "AOS 19세 PG 이름",
         "id": 8002962,
         "alias": "UI.PG.AOS.Age19",
-        "text": "Google PlayStore Blade & Soul 2"
+        "text": "GooglePlay Store Blade & Soul 2"
     },
     "8002963": {
         "deprecated": false,
@@ -21234,14 +21234,14 @@
         "Dev_Desc": "거래소 / 분류 / 무공 / 공용",
         "id": 8003113,
         "alias": "UI.Trade.Category.SkillSetScroll.Common",
-        "text": "public"
+        "text": "Common"
     },
     "8003114": {
         "deprecated": false,
         "Dev_Desc": "거래소 / 분류 / 기타 / 상자",
         "id": 8003114,
         "alias": "UI.Trade.Category.Etc.RewardBox",
-        "text": "box"
+        "text": "Reward Box"
     },
     "8003115": {
         "deprecated": false,
