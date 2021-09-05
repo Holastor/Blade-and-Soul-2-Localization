@@ -16,6 +16,7 @@
   <a href="#License">License</a> •
   <a href="#A responsibility">A responsibility</a> •
   <a href="#Ответственность">Ответственность</a> •
+  <a href="#Ответственность">Discord</a> •
 </p>
 
 
@@ -97,3 +98,7 @@ You can [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/rel
 ## License
 
 Apache License 2.0
+
+## Discord
+
+If you have any problems go to our [Discord](https://discord.gg/ecbKmM5h6Q)
