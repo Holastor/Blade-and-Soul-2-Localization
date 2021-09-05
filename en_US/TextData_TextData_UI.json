@@ -480,7 +480,7 @@
         "Dev_Desc": "교환상점 / 팝업 메시지 / ",
         "id": 8000069,
         "alias": "UI.ExchangeShop.PopUpText.LackAchievementCoin",
-        "text": "Clan Achievement Coin"
+        "text": "Guild Achievement Coin"
     },
     "8000070": {
         "deprecated": false,
@@ -1474,28 +1474,28 @@
         "Dev_Desc": "문파 / 버튼 / ",
         "id": 8000211,
         "alias": "UI.Clan.buttonName.ManageClan",
-        "text": "Manage the Clan"
+        "text": "Manage the Guild"
     },
     "8000212": {
         "deprecated": false,
         "Dev_Desc": "문파 / 버튼 / ",
         "id": 8000212,
         "alias": "UI.Clan.buttonName.RegisterClan",
-        "text": "Join the clan"
+        "text": "Join the Guild"
     },
     "8000213": {
         "deprecated": false,
         "Dev_Desc": "문파 / 버튼 / ",
         "id": 8000213,
         "alias": "UI.Clan.buttonName.ClanInfo",
-        "text": "Clan Information"
+        "text": "Guild Information"
     },
     "8000214": {
         "deprecated": false,
         "Dev_Desc": "문파 / 버튼 / ",
         "id": 8000214,
         "alias": "UI.Clan.buttonName.ClanFoundation",
-        "text": "Foundation of a clan"
+        "text": "Create Guild"
     },
     "8000215": {
         "deprecated": false,
@@ -1551,21 +1551,21 @@
         "Dev_Desc": "문파 / 버튼 / ",
         "id": 8000222,
         "alias": "UI.Clan.buttonName.Withdraw",
-        "text": "withdraw"
+        "text": "Leave"
     },
     "8000223": {
         "deprecated": false,
         "Dev_Desc": "문파 / 버튼 / ",
         "id": 8000223,
         "alias": "UI.Clan.buttonName.CancleWithdraw",
-        "text": "Cancel withdrawal"
+        "text": "Cancel Leave"
     },
     "8000224": {
         "deprecated": false,
         "Dev_Desc": "문파 / 문파원 / 문파원",
         "id": 8000224,
         "alias": "UI.Clan.StatusText.ClanCrewNum",
-        "text": "Moonpa member (<arg p=[1:integer]/>/<arg p=[2:integer]/>)"
+        "text": "Guild member (<arg p=[1:integer]/>/<arg p=[2:integer]/>)"
     },
     "8000225": {
         "deprecated": false,
@@ -1586,14 +1586,14 @@
         "Dev_Desc": "문파 / 상태표기메시지 / ",
         "id": 8000227,
         "alias": "UI.Clan.StatusText.WithdrawalTimeLeft",
-        "text": "<arg p=[1:integer]/> seconds remaining until leaving the clan"
+        "text": "<arg p=[1:integer]/> sec left until leaving the guild"
     },
     "8000228": {
         "deprecated": false,
         "Dev_Desc": "문파 / 직위 / 문파장",
         "id": 8000228,
         "alias": "UI.Clan.StatusText.Master",
-        "text": "Moon Wave"
+        "text": "Guild Leader"
     },
     "8000229": {
         "deprecated": false,
@@ -1607,7 +1607,7 @@
         "Dev_Desc": "문파 / 직위 / 문파원",
         "id": 8000230,
         "alias": "UI.Clan.StatusText.ClanCrew",
-        "text": "Moonpawon"
+        "text": "Members"
     },
     "8000231": {
         "deprecated": false,
@@ -1754,7 +1754,7 @@
         "Dev_Desc": "로비 / 팝업 메시지 / ",
         "id": 8000251,
         "alias": "UI.Clan.Text.Encourage",
-        "text": "Join a clan to challenge with your clan members and get various rewards!"
+        "text": "Join a Guild to challenge with your Guild members and get various rewards!"
     },
     "8000252": {
         "deprecated": false,
@@ -2937,14 +2937,14 @@
         "Dev_Desc": "거점쟁탈전 / 미니맵 안내 메시지 / ",
         "id": 8000420,
         "alias": "UI.Minimap.Guide.FactionBase.02",
-        "text": "Our Clan Occupied Area"
+        "text": "Our Guild Occupied Area"
     },
     "8000421": {
         "deprecated": false,
         "Dev_Desc": "거점쟁탈전 / 미니맵 안내 메시지 / ",
         "id": 8000421,
         "alias": "UI.Minimap.Guide.FactionBase.03",
-        "text": "Other Clan Occupied Areas"
+        "text": "Other Guild Occupied Areas"
     },
     "8000422": {
         "deprecated": false,
@@ -3805,7 +3805,7 @@
         "Dev_Desc": "소셜 팝업 / 문파 초대",
         "id": 8000545,
         "alias": "UI.SocialPopUp.GuildRequest",
-        "text": "Invite the Clan"
+        "text": "Invite the Guild"
     },
     "8000546": {
         "deprecated": false,
@@ -4099,7 +4099,7 @@
         "Dev_Desc": "PK / 장부 / 메인 화면 / PK 기록 / 이름",
         "id": 8000592,
         "alias": "UI.PK.Record.PKInfo.RecordColumnTitle.PlayerName",
-        "text": "Name/Clan"
+        "text": "Name/Guild"
     },
     "8000593": {
         "deprecated": false,
@@ -4162,7 +4162,7 @@
         "Dev_Desc": "문파 / 문파원 / 추방 / 추방 설명",
         "id": 8000610,
         "alias": "UI.Guild.Management.Exile.Desc2",
-        "text": "Choose clan members to exile"
+        "text": "Choose a member of the guild to be expelled"
     },
     "8000611": {
         "deprecated": false,
@@ -4183,14 +4183,14 @@
         "Dev_Desc": "문파 / 관리 / 위임 / 위임 설명",
         "id": 8000615,
         "alias": "UI.Guild.Management.Delegation.Desc",
-        "text": "Choose a member of the clan to delegate the rank of clan leader"
+        "text": "Choose a member of the guild to delegate the rank of guild leader"
     },
     "8000616": {
         "deprecated": false,
         "Dev_Desc": "문파 / 문파 정보 / 기부 / 타이틀",
         "id": 8000616,
         "alias": "UI.Guild.Donation.Title",
-        "text": "Clan Donation"
+        "text": "Guild Donation"
     },
     "8000617": {
         "deprecated": false,
@@ -4218,7 +4218,7 @@
         "Dev_Desc": "문파 / 관리 / 위임/ 위임자 아이디 표시",
         "id": 8000620,
         "alias": "UI.Guild.Management.Delegation.SuccessorInfo",
-        "text": "Target clan member <arg p=[1:string]/>"
+        "text": "Target Guild member <arg p=[1:string]/>"
     },
     "8000621": {
         "deprecated": false,
@@ -4232,7 +4232,7 @@
         "Dev_Desc": "문파 / 문파원 / 추방 / 팝업 / 안내2",
         "id": 8000622,
         "alias": "UI.Guild.Management.Exile.ExileDesc",
-        "text": "Are you sure you want to banish <arg p=[1:integer]/> clan members?"
+        "text": "Are you sure you want to banish <arg p=[1:integer]/> Guild members?"
     },
     "8000623": {
         "deprecated": false,
@@ -4253,7 +4253,7 @@
         "Dev_Desc": "문파 / 문파 정보 / 관리 / 문파 해산 / 기본 문구",
         "id": 8000625,
         "alias": "UI.Guild.Management.Dissolve.DissolveConsent",
-        "text": "Application for Dissolution"
+        "text": "Dissolve"
     },
     "8000626": {
         "deprecated": false,
@@ -4281,7 +4281,7 @@
         "Dev_Desc": "문파 / 창설 / 창설 팝업 / 타이틀",
         "id": 8000629,
         "alias": "UI.Guild.Foundation.PopUp.Title",
-        "text": "Foundation of a clan"
+        "text": "Foundation of a Guild"
     },
     "8000630": {
         "deprecated": false,
@@ -4295,7 +4295,7 @@
         "Dev_Desc": "문파 / 문파 창설 / 팝업 / 안내2",
         "id": 8000631,
         "alias": "UI.Guild.Foundation.PopUp.Notice",
-        "text": "Clan names cannot be changed after creation."
+        "text": "Guild names cannot be changed after creation."
     },
     "8000632": {
         "deprecated": false,
@@ -4806,7 +4806,7 @@
         "Dev_Desc": "문파 / 관리 / 위임 / 위임 안내",
         "id": 8000704,
         "alias": "UI.Guild.PopUp.Delegate.Desc",
-        "text": "Are you sure you want to delegate the position of clan leader to a clan member?"
+        "text": "Are you sure you want to delegate the position of Guild leader to a Guild member?"
     },
     "8000705": {
         "deprecated": false,
@@ -5037,7 +5037,7 @@
         "Dev_Desc": "상점 / 메인 화면 / 구매, 매입 조건 / 문파 직위",
         "id": 8000737,
         "alias": "UI.NPCShop.Condition.GuildLevel",
-        "text": "More than clan Lv<arg p=[1:interger]/>"
+        "text": "More than Guild Lv<arg p=[1:interger]/>"
     },
     "8000738": {
         "deprecated": false,
@@ -5359,7 +5359,7 @@
         "Dev_Desc": "파티 시스템 / 탈퇴 버튼",
         "id": 8000783,
         "alias": "UI.Party.FunctionName.Leave",
-        "text": "withdraw"
+        "text": "Leave"
     },
     "8000784": {
         "deprecated": false,
@@ -6115,28 +6115,28 @@
         "Dev_Desc": "문파 / 관리 / 가입 / 가입 방식 설정 / 설명",
         "id": 8000902,
         "alias": "UI.Guild.Management.Join.Style.Desc",
-        "text": "Sets the method of handling clan membership."
+        "text": "Sets the method of handling Guild membership."
     },
     "8000903": {
         "deprecated": false,
         "Dev_Desc": "문파 / 관리 / 가입 / 가입 제한 레벨 설정 / 설명",
         "id": 8000903,
         "alias": "UI.Guild.Management.Join.RequireLevel.Desc",
-        "text": "Sets the minimum level to join a clan."
+        "text": "Sets the minimum level to join a Guild."
     },
     "8000904": {
         "deprecated": false,
         "Dev_Desc": "문파 / 문파 정보 / 관리 / 가입,해산 / 문파 소개",
         "id": 8000904,
         "alias": "UI.Guild.Management.Introduction.Titel",
-        "text": "Introduction to the clan"
+        "text": "Introduction to the Guild"
     },
     "8000905": {
         "deprecated": false,
         "Dev_Desc": "문파 / 문파 정보 / 관리 / 가입,해산 / 문파 소개 / 기본 문구",
         "id": 8000905,
         "alias": "UI.Guild.Management.Introduction.Desc",
-        "text": "Introduce the clan to future clan members.\n(Maximum 15 Korean characters, 30 English characters)"
+        "text": "Introduce the Guild to future Guild members.\n(Maximum 15 Korean characters, 30 English characters)"
     },
     "8000906": {
         "deprecated": false,
@@ -6150,7 +6150,7 @@
         "Dev_Desc": "문파 / 문파 정보 / 관리 / 가입,해산 / 문파 해산 / 안내",
         "id": 8000907,
         "alias": "UI.Guild.Management.Dissolve.Desc",
-        "text": "When the clan is disbanded, all activity history so far will be lost.\nAfter disbanding, all information cannot be recovered."
+        "text": "When the Guild is disbanded, all activity history so far will be lost.\nAfter disbanding, all information cannot be recovered."
     },
     "8000908": {
         "deprecated": false,
@@ -6185,7 +6185,7 @@
         "Dev_Desc": "문파 / 문파 정보 / 관리 / 문파 해산 / 안내1",
         "id": 8000912,
         "alias": "UI.Guild.Management.Dissolve.PopUp.Desc",
-        "text": "Are you sure you want to disband the clan?"
+        "text": "Are you sure you want to disband the Guild?"
     },
     "8000913": {
         "deprecated": false,
@@ -6199,7 +6199,7 @@
         "Dev_Desc": "문파 / 문파 정보 / 관리 / 문파 해산 / 안내3",
         "id": 8000914,
         "alias": "UI.Guild.Management.Dissolve.PopUp.Desc.Input",
-        "text": "Enter <textColor=[248:219:179:255]>\"Request dissolution\"</> to disband a clan."
+        "text": "Enter <textColor=[248:219:179:255]>\"Dissolve\"</> to delete a guild."
     },
     "8000915": {
         "deprecated": false,
@@ -6220,21 +6220,21 @@
         "Dev_Desc": "문파 / 관리 / 문장 변경 / 설명",
         "id": 8000917,
         "alias": "UI.Guild.Management.Emblem.Change.Desc",
-        "text": "Goods required to change heraldry consume clan funds."
+        "text": "Goods required to change heraldry consume Guild funds."
     },
     "8000918": {
         "deprecated": false,
         "Dev_Desc": "문파 / 탈퇴 / 팝업 / 제목",
         "id": 8000918,
         "alias": "UI.Guild.WithDrawal.PopUp.Title",
-        "text": "Leave the clan"
+        "text": "Leave the Guild"
     },
     "8000919": {
         "deprecated": false,
         "Dev_Desc": "문파 / 문파 정보 / 탈퇴 / 안내1",
         "id": 8000919,
         "alias": "UI.Guild.WithDrawal.PopUp.Desc",
-        "text": "Are you sure you want to leave the clan?"
+        "text": "Are you sure you want to leave the Guild?"
     },
     "8000920": {
         "deprecated": false,
@@ -6248,7 +6248,7 @@
         "Dev_Desc": "문파 / 문파 정보 / 탈퇴 / 탈퇴",
         "id": 8000921,
         "alias": "UI.Guild.WithDrawal.PopUp.Button.WithDrawal",
-        "text": "Withdraw"
+        "text": "Leave"
     },
     "8000922": {
         "deprecated": false,
@@ -6297,7 +6297,7 @@
         "Dev_Desc": "문파 / 문파원 / 위임 / 안내1",
         "id": 8000928,
         "alias": "UI.Guild.leaderChange.PopUp.Desc",
-        "text": "Are you sure you want to delegate the authority of the clan commander to the clan member?"
+        "text": "Are you sure you want to delegate the authority of the Guild commander to the Guild member?"
     },
     "8000929": {
         "deprecated": false,
@@ -6346,7 +6346,7 @@
         "Dev_Desc": "문파 / 관리 / 문장 / 변경 / 팝업 / 타이틀",
         "id": 8000936,
         "alias": "UI.Guild.Management.Emblem.Change.PopUp.Title",
-        "text": "Change the clan crest"
+        "text": "Change the Guild crest"
     },
     "8000937": {
         "deprecated": false,
@@ -6360,7 +6360,7 @@
         "Dev_Desc": "문파 / 문파 정보 / 정보 / 문파 계급",
         "id": 8000940,
         "alias": "UI.Guild.info.GuildLevel",
-        "text": "Clan Level"
+        "text": "Guild Level"
     },
     "8000941": {
         "deprecated": false,
@@ -6381,7 +6381,7 @@
         "Dev_Desc": "문파 / 문파 정보 / 정보 / 문파원 수",
         "id": 8000943,
         "alias": "UI.Guild.info.CrewNum",
-        "text": "Number of members"
+        "text": "Members"
     },
     "8000944": {
         "deprecated": false,
@@ -6395,14 +6395,14 @@
         "Dev_Desc": "문파 / 문파 정보",
         "id": 8000946,
         "alias": "UI.Guild.GuildInfo",
-        "text": "Clan Information"
+        "text": "Guild Information"
     },
     "8000947": {
         "deprecated": false,
         "Dev_Desc": "문파 / 문파원",
         "id": 8000947,
         "alias": "UI.Guild.CrewInfo",
-        "text": "Moonpawon"
+        "text": "Members"
     },
     "8000955": {
         "deprecated": false,
@@ -6437,7 +6437,7 @@
         "Dev_Desc": "문파 / 문파원 / 추방 / 팝업 / 안내3",
         "id": 8000973,
         "alias": "UI.Guild.Management.Exile.PopUp.Desc.Detail",
-        "text": "The weekly contribution of the exiled clan members may be lost, leading to a decline in clan reputation and ranking."
+        "text": "The weekly contribution of the exiled Guild members may be lost, leading to a decline in Guild reputation and ranking."
     },
     "8000974": {
         "deprecated": false,
@@ -6507,7 +6507,7 @@
         "Dev_Desc": "문파 / 문파원 / 가입 초대 / 초대 / 안내",
         "id": 8000983,
         "alias": "UI.Guild.CrewInfo.Invite.PopUp.Desc",
-        "text": "Enter the name of the player to whom you want to send a request to join the clan."
+        "text": "Enter the name of the player to whom you want to send a request to join the Guild."
     },
     "8000984": {
         "deprecated": false,
@@ -7725,7 +7725,7 @@
         "Dev_Desc": "문파 / 미가입 상태 / 초대받은 문파 탭 타이틀",
         "id": 8001157,
         "alias": "UI.Guild.Invited.TabTitle",
-        "text": "invited clan"
+        "text": "invited Guild"
     },
     "8001158": {
         "deprecated": false,
@@ -7739,7 +7739,7 @@
         "Dev_Desc": "문파 / 미가입 상태 / 문파 검색",
         "id": 8001159,
         "alias": "UI.Guild.Search",
-        "text": "Find a clan"
+        "text": "Find a Guild"
     },
     "8001160": {
         "deprecated": false,
@@ -7753,7 +7753,7 @@
         "Dev_Desc": "문파 / 미가입 상태 / 거절할 문파 초대 선택 / 설명2",
         "id": 8001161,
         "alias": "UI.Guld.Invited.SelectReject.2",
-        "text": "I decline the invitation to the clan."
+        "text": "I decline the invitation to the Guild."
     },
     "8001162": {
         "deprecated": false,
@@ -8117,14 +8117,14 @@
         "Dev_Desc": "HUD / 문파창설 메시지1",
         "id": 8001214,
         "alias": "UI.HUDMessage.ClanFoundation.1",
-        "text": "Foundation of a clan"
+        "text": "Foundation of a Guild"
     },
     "8001215": {
         "deprecated": false,
         "Dev_Desc": "HUD / 문파창설 메시지2 / arg1 : 문파명",
         "id": 8001215,
         "alias": "UI.HUDMessage.ClanFoundation.2",
-        "text": "<arg p=[1:string]/> founded a clan."
+        "text": "<arg p=[1:string]/> founded a Guild."
     },
     "8001216": {
         "deprecated": false,
@@ -9097,7 +9097,7 @@
         "Dev_Desc": "채팅 / 채팅 설정 / 문파 인사 설정",
         "id": 8001354,
         "alias": "UI.Chat.Option.GreetingGuildChatSetting",
-        "text": "Setting up clan personnel"
+        "text": "Setting up Guild personnel"
     },
     "8001355": {
         "deprecated": false,
@@ -9209,14 +9209,14 @@
         "Dev_Desc": "채팅 / 1:1 대화 상대 접속 여부 / 접속 중",
         "id": 8001370,
         "alias": "UI.Chat.ChatPartnerState.Connected",
-        "text": "Connecting"
+        "text": "Online"
     },
     "8001371": {
         "deprecated": false,
         "Dev_Desc": "채팅 / 1:1 대화 상대 접속 여부 / 미접속",
         "id": 8001371,
         "alias": "UI.Chat.ChatPartnerState.Disconnected",
-        "text": "unconnected"
+        "text": "Offline"
     },
     "8001372": {
         "deprecated": false,
@@ -12352,14 +12352,14 @@
         "Dev_Desc": "문파 / 문파 정보 / 출석 보상 정보",
         "id": 8001826,
         "alias": "UI.Guild.GuildInfo.AttendanceInfo",
-        "text": "reward information"
+        "text": "Attendance Info"
     },
     "8001827": {
         "deprecated": false,
         "Dev_Desc": "문파 / 문파 정보 / 출석 보상 정보 / 타이틀",
         "id": 8001827,
         "alias": "UI.Guild.GuildInfo.AttendanceInfo.Title",
-        "text": "Attendance Reward Information"
+        "text": "Attendance Reward Info"
     },
     "8001828": {
         "deprecated": false,
@@ -12394,28 +12394,28 @@
         "Dev_Desc": "문파 / 문파 정보 / 공지사항 기본 문구",
         "id": 8001832,
         "alias": "UI.Guild.GuildInfo.Notice.Default",
-        "text": "Write a clan notice.\n(Maximum 50 Korean characters, 100 English characters)"
+        "text": "Write a Guild notice.\n(Maximum 50 Korean characters, 100 English characters)"
     },
     "8001833": {
         "deprecated": false,
         "Dev_Desc": "문파 / 문파 정보 / 탈퇴 버튼",
         "id": 8001833,
         "alias": "UI.Guild.WithDrawal",
-        "text": "Withdraw"
+        "text": "Leave"
     },
     "8001834": {
         "deprecated": false,
         "Dev_Desc": "문파 / 문파 정보 / 탈퇴 / 안내3",
         "id": 8001834,
         "alias": "UI.Guild.WithDrawal.PopUp.Desc3",
-        "text": "To unsubscribe, please enter <textColor=[248:219:179:255]>\"Subscribe\"</>"
+        "text": "To leave, please enter <textColor=[248:219:179:255]>\"Leave\"</>"
     },
     "8001835": {
         "deprecated": false,
         "Dev_Desc": "문파 / 문파 정보 / 탈퇴 / 기본 문구",
         "id": 8001835,
         "alias": "UI.Guild.WithDrawal.PopUp.Default",
-        "text": "Application for withdrawal"
+        "text": "Leave"
     },
     "8001836": {
         "deprecated": false,
@@ -12436,14 +12436,14 @@
         "Dev_Desc": "문파 / 문파 정보 / 관리 버튼",
         "id": 8001838,
         "alias": "UI.Guild.Management",
-        "text": "Manage the Clan"
+        "text": "Manage the Guild"
     },
     "8001839": {
         "deprecated": false,
         "Dev_Desc": "문파 / 문파 정보 / 관리 / 타이틀",
         "id": 8001839,
         "alias": "UI.Guild.Management.Title",
-        "text": "Manage the Clan"
+        "text": "Manage the Guild"
     },
     "8001840": {
         "deprecated": false,
@@ -12457,7 +12457,7 @@
         "Dev_Desc": "문파 / 문파 정보 / 적대문파",
         "id": 8001844,
         "alias": "UI.Guild.GuildInfo.GuildEnemy.TabName",
-        "text": "The Hostile Sect"
+        "text": "Enemy"
     },
     "8001845": {
         "deprecated": false,
@@ -12485,7 +12485,7 @@
         "Dev_Desc": "문파 / 문파 정보 / 적대문파 / 추가 / 기본 문구",
         "id": 8001848,
         "alias": "UI.Guild.GuildInfo.GuildEnemy.Add.Default",
-        "text": "Enter clan name"
+        "text": "Enter Guild name"
     },
     "8001849": {
         "deprecated": false,
@@ -12541,7 +12541,7 @@
         "Dev_Desc": "문파 / 문파 정보 / 동맹문파",
         "id": 8001856,
         "alias": "UI.Guild.GuildInfo.GuildAlliance",
-        "text": "The League of Allies"
+        "text": "Alliance"
     },
     "8001857": {
         "deprecated": false,
@@ -12569,7 +12569,7 @@
         "Dev_Desc": "문파 / 문파 정보 / 동맹문파 / 요청 / 기본 문구",
         "id": 8001860,
         "alias": "UI.Guild.GuildInfo.GuildAlliance.Send.Default",
-        "text": "Enter clan name"
+        "text": "Enter Guild name"
     },
     "8001861": {
         "deprecated": false,
@@ -12856,7 +12856,7 @@
         "Dev_Desc": "문파 / 문파원 / 추방 / 안내",
         "id": 8001910,
         "alias": "UI.Guild.Management.Exlie.Desc1",
-        "text": "Exile the selected member of the clan."
+        "text": "Exile the selected member of the Guild."
     },
     "8001911": {
         "deprecated": false,
@@ -12870,7 +12870,7 @@
         "Dev_Desc": "문파 / 문파원 / 임명 / 안내",
         "id": 8001912,
         "alias": "UI.Guild.Management.Apoint.Desc",
-        "text": "Choose a position to appoint\nto Clan member Lv.<arg p=[1:integer]/> <arg p=[2:string]/>."
+        "text": "Choose a position to appoint\nto Guild member Lv.<arg p=[1:integer]/> <arg p=[2:string]/>."
     },
     "8001913": {
         "deprecated": false,
@@ -13605,7 +13605,7 @@
         "Dev_Desc": "받는 문파 힌트",
         "id": 8002017,
         "alias": "UI.Post.Input.GuildName",
-        "text": "Enter clan name"
+        "text": "Enter Guild name"
     },
     "8002018": {
         "deprecated": false,
@@ -15971,7 +15971,7 @@
         "Dev_Desc": "채팅 / 소셜 팝업 / 문파 초대",
         "id": 8002359,
         "alias": "UI.Chat.SocialPopUp.GuildRequest",
-        "text": "Invitation to the clan"
+        "text": "Invitation to the Guild"
     },
     "8002360": {
         "deprecated": false,
@@ -16482,7 +16482,7 @@
         "Dev_Desc": "문파 혜택 / 콘텐츠 해금 / 1 계급",
         "id": 8002432,
         "alias": "UI.Guild.Reward.Contents.1",
-        "text": "The Clan Donation\nThe Clan Manor"
+        "text": "The Guild Donation\nThe Guild Manor"
     },
     "8002433": {
         "deprecated": false,
@@ -16601,14 +16601,14 @@
         "Dev_Desc": "HUD / 문파가입 메시지1",
         "id": 8002449,
         "alias": "UI.HUDMessage.ClanJoin.1",
-        "text": "Join the clan"
+        "text": "Join the Guild"
     },
     "8002450": {
         "deprecated": false,
         "Dev_Desc": "HUD / 문파가입 메시지2 / arg1 : 문파명",
         "id": 8002450,
         "alias": "UI.HUDMessage.ClanJoin.2",
-        "text": "You have joined the clan <arg p=[1:string]/>."
+        "text": "You have joined the Guild <arg p=[1:string]/>."
     },
     "8002451": {
         "deprecated": false,
@@ -16629,7 +16629,7 @@
         "Dev_Desc": "문파 / 툴팁",
         "id": 8002453,
         "alias": "UI.Clan.Tooltip",
-        "text": "Users with the same meaning can gather and engage in clan activities, and various conveniences/benefits are provided."
+        "text": "Users with the same meaning can gather and engage in Guild activities, and various conveniences/benefits are provided."
     },
     "8002454": {
         "deprecated": false,
@@ -16713,7 +16713,7 @@
         "Dev_Desc": "우편 / 툴팁",
         "id": 8002466,
         "alias": "UI.Post.Tooltip",
-        "text": "You can send and receive mail with friends or members of your clan.\nMail sent from the system may contain goods or items."
+        "text": "You can send and receive mail with friends or members of your Guild.\nMail sent from the system may contain goods or items."
     },
     "8002467": {
         "deprecated": false,
@@ -16776,7 +16776,7 @@
         "Dev_Desc": "조롱하기 팝업 / 상세 설명",
         "id": 8002475,
         "alias": "UI.PopUp.Ridicule.SubDesc",
-        "text": "Displays a message to my friends and clan members, as well as the target's friends and clan members."
+        "text": "Displays a message to my friends and Guild members, as well as the target's friends and Guild members."
     },
     "8002476": {
         "deprecated": false,
@@ -20569,7 +20569,7 @@
         "Dev_Desc": "문파 목록 없음",
         "id": 8003018,
         "alias": "UI.Post.NoGuildList",
-        "text": "There are no clan members joined."
+        "text": "There are no Guild members joined."
     },
     "8003019": {
         "deprecated": false,
