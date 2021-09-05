@@ -1152,28 +1152,28 @@
         "Dev_Desc": "HUD / ",
         "id": 8000165,
         "alias": "UI.HUD.Text.Second",
-        "text": "<arg p=[1:integer]/>seconds"
+        "text": "<arg p=[1:integer]/> Sec"
     },
     "8000166": {
         "deprecated": false,
         "Dev_Desc": "HUD / ",
         "id": 8000166,
         "alias": "UI.HUD.Text.Minute",
-        "text": "<arg p=[1:integer]/>minutes"
+        "text": "<arg p=[1:integer]/> Min"
     },
     "8000167": {
         "deprecated": false,
         "Dev_Desc": "HUD / ",
         "id": 8000167,
         "alias": "UI.HUD.Text.Hour",
-        "text": "<arg p=[1:integer]/>time"
+        "text": "<arg p=[1:integer]/> Hrs"
     },
     "8000168": {
         "deprecated": false,
         "Dev_Desc": "HUD / ",
         "id": 8000168,
         "alias": "UI.HUD.Text.Day",
-        "text": "<arg p=[1:integer]/>days"
+        "text": "<arg p=[1:integer]/> Days"
     },
     "8000169": {
         "deprecated": false,
@@ -1397,7 +1397,7 @@
         "Dev_Desc": "던전 / 타이틀 이름 / ",
         "id": 8000200,
         "alias": "UI.Dungeon.TitleName.Dungeon",
-        "text": "Dungeons"
+        "text": "Dungeon"
     },
     "8000201": {
         "deprecated": false,
@@ -2580,7 +2580,7 @@
         "Dev_Desc": "파티던전 / ",
         "id": 8000369,
         "alias": "UI.PartyDungeon.TitleName.PartyDungeon",
-        "text": "Party Dungeons"
+        "text": "Party Dungeon"
     },
     "8000370": {
         "deprecated": false,
@@ -2930,7 +2930,7 @@
         "Dev_Desc": "거점쟁탈전 / 미니맵 안내 메시지 / <arg p=[1:integer]/>: 거점쟁탈전 시작 시간(FactionBase의 \"startTime\" 필드 값)까지 남은 시간",
         "id": 8000419,
         "alias": "UI.Minimap.Guide.FactionBase.01",
-        "text": "<arg p=[2:string]/> scheduled area after <arg p=[1:integer]/> minutes"
+        "text": "<arg p=[2:string]/> scheduled area after <arg p=[1:integer]/> min"
     },
     "8000420": {
         "deprecated": false,
@@ -3511,7 +3511,7 @@
         "Dev_Desc": "거점쟁탈전 / 진행 전 메시지 / <arg p=[1:integer]/>: 거점쟁탈전 시작 시간(FactionBase의 \"startTime\" 필드 값)까지 남은 시간",
         "id": 8000502,
         "alias": "UI.FactionConquest.PreNotice.01",
-        "text": "The area where the Node Battle occurred after <arg p=[1:integer]/> minutes! It will be forced to move soon."
+        "text": "The area where the Node Battle occurred after <arg p=[1:integer]/> min! It will be forced to move soon."
     },
     "8000503": {
         "deprecated": false,
@@ -3700,7 +3700,7 @@
         "Dev_Desc": "친구 팝업 / 접속 상태 / 24시간 이내 마지막 접속",
         "id": 8000530,
         "alias": "UI.FriendPopUp.ConnectionState.Notconnected.2",
-        "text": "<arg p=[1:integer]/> Hours ago"
+        "text": "<arg p=[1:integer]/> Hrs ago"
     },
     "8000531": {
         "deprecated": false,
@@ -6276,7 +6276,7 @@
         "Dev_Desc": "문파 / 문파원 / 컬럼 / 접속상태 / 미접속 / 1일 이내",
         "id": 8000925,
         "alias": "UI.Guild.CrewInfo.UnConnected.LessDay",
-        "text": "<arg p=[1:integer]/> Hours ago"
+        "text": "<arg p=[1:integer]/> Hrs ago"
     },
     "8000926": {
         "deprecated": false,
@@ -7004,7 +7004,7 @@
         "Dev_Desc": "장비도감 / 타이틀",
         "id": 8001054,
         "alias": "UI.EquipCollection.Title",
-        "text": "Equipment"
+        "text": "Equip"
     },
     "8001055": {
         "deprecated": false,
@@ -9881,7 +9881,7 @@
         "Dev_Desc": "칙령 / 랭킹 갱신 시간",
         "id": 8001466,
         "alias": "UI.Order.RankRefreshInfo",
-        "text": "The ranking is updated every 30 minutes."
+        "text": "The ranking is updated every 30 min."
     },
     "8001467": {
         "deprecated": false,
@@ -10189,7 +10189,7 @@
         "Dev_Desc": "협행서 / 공유 불가 안내 문구",
         "id": 8001510,
         "alias": "UI.Quest.Scroll.CannotSharingDesc",
-        "text": "Cannot be shared if the remaining mission time is less than 5 minutes"
+        "text": "Cannot be shared if the remaining mission time is less than 5 min"
     },
     "8001511": {
         "deprecated": false,
@@ -10469,7 +10469,7 @@
         "Dev_Desc": "던전 / 타이틀",
         "id": 8001550,
         "alias": "UI.Dungeon.Title",
-        "text": "Dungeons"
+        "text": "Dungeon"
     },
     "8001551": {
         "deprecated": false,
@@ -18603,7 +18603,7 @@
         "Dev_Desc": "절전 모드 / 시간제 던전 남은 시간",
         "id": 8002736,
         "alias": "UI.SaveMode.RemainingTime.Dungeon",
-        "text": "Time remaining <arg p=[1:integer]/> hours <arg p=[2:integer]/> minutes"
+        "text": "Time remaining <arg p=[1:integer]/> hrs <arg p=[2:integer]/> min"
     },
     "8002737": {
         "deprecated": false,
@@ -19366,14 +19366,14 @@
         "Dev_Desc": "던전 / 시간 정보 / 시간",
         "id": 8002845,
         "alias": "UI.Dungeon.RemainTime.1",
-        "text": "<arg p=[1:integer]/>time"
+        "text": "<arg p=[1:integer]/> Time"
     },
     "8002846": {
         "deprecated": false,
         "Dev_Desc": "던전 / 시간 정보 / 시간, 분",
         "id": 8002846,
         "alias": "UI.Dungeon.RemainTime.2",
-        "text": "<arg p=[1:integer]/> Hours <arg p=[2:integer]/> Min"
+        "text": "<arg p=[1:integer]/> Hrs <arg p=[2:integer]/> Min"
     },
     "8002847": {
         "deprecated": false,
@@ -20086,21 +20086,21 @@
         "Dev_Desc": "던전 / 남은 이용 시간 / 시간",
         "id": 8002949,
         "alias": "UI.Dungeon.RemainTimeHUD.1",
-        "text": "Time remaining <arg p=[1:integer]/> Hours"
+        "text": "Time remaining <arg p=[1:integer]/> hrs"
     },
     "8002950": {
         "deprecated": false,
         "Dev_Desc": "던전 / 남은 이용 시간 / 시간 및 분",
         "id": 8002950,
         "alias": "UI.Dungeon.RemainTimeHUD.2",
-        "text": "Time remaining <arg p=[1:integer]/> Hours <arg p=[2:integer]/> Minutes"
+        "text": "Time remaining <arg p=[1:integer]/> hrs <arg p=[2:integer]/> min"
     },
     "8002951": {
         "deprecated": false,
         "Dev_Desc": "던전 / 남은 이용 시간 / 분",
         "id": 8002951,
         "alias": "UI.Dungeon.RemainTimeHUD.3",
-        "text": "Time remaining <arg p=[1:integer]/> Minutes"
+        "text": "Time remaining <arg p=[1:integer]/> min"
     },
     "8002952": {
         "deprecated": false,
@@ -22480,7 +22480,7 @@
         "Dev_Desc": "설정 / 계정/ 탈출실패 (쿨타임)",
         "id": 8003291,
         "alias": "UI.Option.Acount.Escape.Fail.ByCoolDown",
-        "text": "Available again in <arg p=[1:integer]/> Minutes."
+        "text": "Available again in <arg p=[1:integer]/> min."
     },
     "8003292": {
         "deprecated": false,
