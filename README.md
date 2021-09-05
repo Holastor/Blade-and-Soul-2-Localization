@@ -6,6 +6,7 @@
 
 <p align="center">
   <a href="#Install">Install</a> •
+  <a href="#SOURCE INSTALL">SOURCE INSTALL</a> •
   <a href="#Установка">Установка</a> •
   <a href="#download">Download</a> •
   <a href="#Скачать">Скачать</a> •
@@ -27,7 +28,7 @@
 * In LocalOption.json find "language":1" and change it to "language":2" for English Language and "language":6" for Russian Language;
 * And that's it you have english or russian language!;
 
--- FOR SOURCE INSTALL
+## SOURCE INSTALL
 * ONLY PC
 * Download Source code (zip) [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/archive/refs/tags/0.3.5.zip)
 * You need to download the source code and unpack it
