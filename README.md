@@ -7,6 +7,7 @@
 <p align="center">
   <a href="#Install">Install</a> •
   <a href="#Source-Install">Source Install</a> •
+  <a href="#Mobile-Install">Mobile Install</a> •
   <a href="#Установка">Установка</a> •
   <a href="#download">Download</a> •
   <a href="#Скачать">Скачать</a> •
@@ -22,15 +23,15 @@
 ## Install
 
 * ONLY PC
-* Download Latest Release;
-* Place the file B2_Data_00001.pak in the \Game Folder\B2\Content\Paks;
+* Download Latest Release (B2_Data_00002.pak);
+* Place the file B2_Data_00002.pak in the \Game Folder\B2\Content\Paks;
 * And you need to go folder C:\Users\UserName\AppData\Local\B2\Saved\Option and open file LocalOption.json;
-* In LocalOption.json find "language":1" and change it to "language":2" for English Language and "language":6" for Russian Language;
-* And that's it you have english or russian language!;
+* In LocalOption.json find "language":1" and change it to "language":2" for English Language;
+* And that's it you have english language!;
 
 ## Source-Install
 * ONLY PC
-* Download Source code (zip) [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/archive/refs/tags/0.3.5.zip)
+* Download Source code (zip) [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/archive/refs/tags/0.4.zip)
 * You need to download the source code and unpack it
 * In the /Blade-and-Soul-2-Localization-0.3.5/ folder there is an en_US folder, its contents must be transferred in the folder \Game Folder\B2\Data\Text\
 * If you don't have these folders, just create them.
@@ -38,8 +39,17 @@
  ![Screenshot 2021-09-03 085020](https://user-images.githubusercontent.com/77208679/131947968-630a7edd-d2e2-4754-80e1-769d07ffa34a.png)
 * And you need to go folder C:\Users\UserName\AppData\Local\B2\Saved\Option and open file LocalOption.json;
 * In LocalOption.json find "language":1" and change it to "language":2" for English Language and "language":6" for Russian Language;
-* And that's it you have english or russian language!;
-<!-- * Unpack the B2_BaseData_00001.pak file from the archive into the \Game Folder\B2\Content\Paks; -->
+* And that's it you have english language;
+
+## Mobile-Install
+* ONLY Android and ONLY ROOT DEVICES
+* Download Latest Release (patch.17.com.ncsoft.bns219.obb);
+* Place the file patch.17.com.ncsoft.bns219.obb in the "Internal Memory\Android\obb\com.ncsoft.bns219\";
+* And you need to go folder root/data/data/com.ncsoft.bns219/files/UE4Game/B2/B2/Saved/Option/ and open file LocalOption.json;
+* If you do not have this file in this path, you need find him;
+* In LocalOption.json find "language":1" and change it to "language":2" for English Language;
+* And that's it you have english language;
+
 ## Установка
 * Русский язык еще не готов!!!
 * Только PC
@@ -51,11 +61,11 @@
 <!-- * Распаковать файл B2_BaseData_00001.pak из архива в папку \Game Folder\B2\Content\Paks; -->
 ## Download
 
-You can [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/releases/tag/0.3.5)
+You can [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/releases/tag/0.4)
 
 ## Скачать
 
-You can [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/releases/tag/0.3.5)
+You can [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/releases/tag/0.4)
 
 ## About
   * Author: by Holastor;
