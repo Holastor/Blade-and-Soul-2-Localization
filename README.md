@@ -16,7 +16,7 @@
   <a href="#License">License</a> •
   <a href="#A responsibility">A responsibility</a> •
   <a href="#Ответственность">Ответственность</a> •
-  <a href="#Ответственность">Discord</a> •
+  <a href="#Discord">Discord</a> •
 </p>
 
 
