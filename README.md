@@ -45,8 +45,10 @@
 * ONLY Android and ONLY ROOT DEVICES
 * [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/releases/tag/0.4) Latest Release (patch.17.com.ncsoft.bns219.obb);
 * Place the file patch.17.com.ncsoft.bns219.obb in the "Internal Memory\Android\obb\com.ncsoft.bns219\";
-* And you need to go folder root/data/data/com.ncsoft.bns219/files/UE4Game/B2/B2/Saved/Option/ and open file LocalOption.json;
-* If you do not have this file in this path, you need find him;
+* LocalOption.json file location:
+* Android 10: "root/data/data/com.ncsoft.bns219/files/UE4Game/B2/B2/Saved/Option/"
+* Android 11: Maybe "root/data_mirror/data_ce/null/0/com.ncsoft.bns219/files/UE4Game/B2/Saved/Config/Option/"
+* If you do not have this file in this path, you need to find it yourself;
 * In LocalOption.json find "language":1" and change it to "language":2" for English Language;
 * And that's it you have english language;
 
