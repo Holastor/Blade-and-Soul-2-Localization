@@ -2943,7 +2943,7 @@
         "Dev_Desc": "문파 시스템 / 해산 / 해산 실패",
         "id": 9000462,
         "alias": "SysM.Guild.Dissolution.Fail",
-        "text": "Please enter [dissolve] correctly."
+        "text": "Please enter [Dissolve] correctly."
     },
     "9000465": {
         "deprecated": false,
@@ -7066,20 +7066,20 @@
         "Dev_Desc": "복구술사 / 장비 복구 완료 메시지",
         "id": 9001071,
         "alias": "SysM.Recorvery.Complete.Item",
-        "text": "Recovered <arg p=[1:string]/><eul/>"
+        "text": "<arg p=[1:string]/><eul/>복구 했습니다."
     },
     "9001072": {
         "deprecated": false,
         "Dev_Desc": "복구술사 / 경험치 복구 완료 메시지",
         "id": 9001072,
         "alias": "SysM.Recorvery.Complete.Exp",
-        "text": "<arg p=[1:string]/> XP recovered."
+        "text": "<arg p=[1:string]/> 경험치를 복구 했습니다."
     },
     "9001073": {
         "deprecated": false,
         "Dev_Desc": "모험가 점수 획득 보상 불가 메시지",
         "id": 9001073,
         "alias": "SysM.Adventure.LackGrade",
-        "text": "This rank has not yet been achieved."
+        "text": "아직 달성하지 못한 등급입니다."
     }
 }
