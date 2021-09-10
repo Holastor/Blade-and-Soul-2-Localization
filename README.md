@@ -65,8 +65,6 @@
 
 ## About
   * Author: by Holastor;
-## Об авторе
-  * Author: by Holastor;
 
 ## Warning:
 1) Game crashes and unstable work are possible. Need more tests
