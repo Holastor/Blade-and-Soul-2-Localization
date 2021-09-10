@@ -27,7 +27,7 @@
 * [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/releases/tag/0.4.6) Latest Release (B2_Data_00002.pak);
 * Place the file B2_Data_00002.pak in the \Game Folder\B2\Content\Paks;
 * And you need to go folder C:\Users\UserName\AppData\Local\B2\Saved\Option and open file LocalOption.json;
-* In LocalOption.json find "language":1" and change it to "language":2" for English Language;
+* In LocalOption.json find "language":1" and change it to "language":6" for English Language;
 * And that's it you have english language!;
 
 ## Source-Install
@@ -39,7 +39,7 @@
 * You should get something like this:
  ![Screenshot 2021-09-03 085020](https://user-images.githubusercontent.com/77208679/131947968-630a7edd-d2e2-4754-80e1-769d07ffa34a.png)
 * And you need to go folder C:\Users\UserName\AppData\Local\B2\Saved\Option and open file LocalOption.json;
-* In LocalOption.json find "language":1" and change it to "language":2" for English Language and "language":6" for Russian Language;
+* In LocalOption.json find "language":1" and change it to "language":6" for English Language and "language":6" for Russian Language;
 * And that's it you have english language;
 
 ## Mobile-Install
@@ -50,7 +50,7 @@
 * Android 10: "root/data/data/com.ncsoft.bns219/files/UE4Game/B2/B2/Saved/Option/"
 * Android 11: Maybe "root/data_mirror/data_ce/null/0/com.ncsoft.bns219/files/UE4Game/B2/Saved/Config/Option/"
 * If you do not have this file in this path, you need to find it yourself;
-* In LocalOption.json find "language":1" and change it to "language":2" for English Language;
+* In LocalOption.json find "language":1" and change it to "language":6" for English Language;
 * And that's it you have english language;
 
 ## Установка
