@@ -4,7 +4,6 @@
   <br>
 </h1>
 
-<p align="center">
   <a href="#Install">Install</a> •
   <a href="#Source-Install">Source Install</a> •
   <a href="#Mobile-Install">Mobile Install</a> •
@@ -18,8 +17,10 @@
   <a href="#Ответственность">Ответственность</a> •
   <a href="#Discord">Discord</a> •
 </p>
+<!-- 
+## Buy me a coffee
 
-
+<a href="https://www.buymeacoffee.com/Holastor" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a> -->
 
 ## Install
 
