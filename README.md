@@ -3,7 +3,7 @@
   Blade and Soul 2 English and Russian Localization
   <br>
 </h1>
-  <a href="#Now-You-Can-Support-Me!">Install</a> •
+  <a href="#Now-You-Can-Support-Me!">Now-You-Can-Support-Me!</a> •
   <a href="#Install">Install</a> •
   <a href="#Source-Install">Source Install</a> •
   <a href="#Mobile-Install">Mobile Install</a> •
