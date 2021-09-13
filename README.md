@@ -21,7 +21,7 @@
 
 ## Now-You-Can-Support-Me!
 
-<a href="https://www.buymeacoffee.com/Holastor" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+<a href="https://www.buymeacoffee.com/Holastor" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>, or
 
 ETH - 0xFD5B50a2953021557E9FD08FeAd37c0bF3bD50b4
 
