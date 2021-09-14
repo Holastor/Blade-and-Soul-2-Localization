@@ -25,7 +25,9 @@
 
 ETH - 0xFD5B50a2953021557E9FD08FeAd37c0bF3bD50b4
 
-BTC - bc1qpqnyfvz36u904pw60tv5ky8da38aq0wy7l7rk6
+BTC - bc1qpqnyfvz36u904pw60tv5ky8da38aq0wy7l7rk6, or
+
+[PayPal](https://www.paypal.me/holastor)
 
 ## Install
 
