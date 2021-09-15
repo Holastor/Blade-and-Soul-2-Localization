@@ -452,14 +452,14 @@
         "Dev_Desc": "횡이동_극한_성장설명",
         "id": 60020066,
         "alias": "Contents.Skill.acquireEffectDesc.2030",
-        "text": "사용 거리 증가"
+        "text": "사용 거리 증가\n사용 시, 1초 동안 받는 피해량 감소 +10%"
     },
     "60020067": {
         "deprecated": false,
         "Dev_Desc": "횡이동_돌파_성장설명",
         "id": 60020067,
         "alias": "Contents.Skill.acquireEffectDesc.2040",
-        "text": "사용 시, 1초동안 회피 +1000"
+        "text": "사용 시, 1초 동안 회피 +1000"
     },
     "60020068": {
         "deprecated": false,
@@ -964,5 +964,334 @@
         "id": 60020139,
         "alias": "Contents.Skill.Upgrade.LightGauntlet.10",
         "text": "막기 관통 증가"
+    },
+    "60020140": {
+        "deprecated": false,
+        "Dev_Desc": "경직, 통제, 도발 저항률 증가",
+        "id": 60020140,
+        "alias": "Contents.Skill.Upgrade.LightGauntlet.11",
+        "text": "경직, 통제, 도발 저항률 증가"
+    },
+    "60020141": {
+        "deprecated": false,
+        "Dev_Desc": "빙결 저항률 증가",
+        "id": 60020141,
+        "alias": "Contents.Skill.Upgrade.LightGauntlet.12",
+        "text": "빙결 저항률 증가"
+    },
+    "60020142": {
+        "deprecated": false,
+        "Dev_Desc": "개혈_이름",
+        "id": 60020142,
+        "alias": "Contents.Skill.Name.LightGauntlet.2120",
+        "text": "개혈"
+    },
+    "60020143": {
+        "deprecated": false,
+        "Dev_Desc": "개혈_설명",
+        "id": 60020143,
+        "alias": "Contents.Skill.Desc.LightGauntlet.2121",
+        "text": "혈도를 개방시켜 20초간 저항 관련 능력치가 급격하게 증가합니다."
+    },
+    "60020144": {
+        "deprecated": false,
+        "Dev_Desc": "개혈_효과",
+        "id": 60020144,
+        "alias": "Contents.Skill.useEffectDesc.LightGauntlet.2120",
+        "text": "경직, 통제, 도발 저항률 +50%"
+    },
+    "60020145": {
+        "deprecated": false,
+        "Dev_Desc": "개혈_증폭_이름",
+        "id": 60020145,
+        "alias": "Contents.Skill.Name.LightGauntlet.2121",
+        "text": "개혈_증폭"
+    },
+    "60020146": {
+        "deprecated": false,
+        "Dev_Desc": "개혈_극한_이름",
+        "id": 60020146,
+        "alias": "Contents.Skill.Name.LightGauntlet.2122",
+        "text": "개혈_극한"
+    },
+    "60020147": {
+        "deprecated": false,
+        "Dev_Desc": "개혈_극한_설명",
+        "id": 60020147,
+        "alias": "Contents.Skill.Desc.LightGauntlet.2122",
+        "text": "혈도를 개방시켜 20초간 저항 관련 능력치가 급격하게 증가합니다.\n\"빙결\" 효과를 해제합니다."
+    },
+    "60020148": {
+        "deprecated": false,
+        "Dev_Desc": "개혈_극한_효과",
+        "id": 60020148,
+        "alias": "Contents.Skill.useEffectDesc.LightGauntlet.2122",
+        "text": "빙결 해제 및 경직, 통제, 도발, 빙결 저항률 +50%"
+    },
+    "60020149": {
+        "deprecated": false,
+        "Dev_Desc": "개혈_돌파_이름",
+        "id": 60020149,
+        "alias": "Contents.Skill.Name.LightGauntlet.2123",
+        "text": "개혈_돌파"
+    },
+    "60020150": {
+        "deprecated": false,
+        "Dev_Desc": "개혈_돌파_효과",
+        "id": 60020150,
+        "alias": "Contents.Skill.useEffectDesc.LightGauntlet.2123",
+        "text": "모든 이동 속도 관련 디버프 효과 해제 및 경직, 통제, 도발 ,빙결 저항률 +50%"
+    },
+    "60020151": {
+        "deprecated": false,
+        "Dev_Desc": "개혈_돌파_설명",
+        "id": 60020151,
+        "alias": "Contents.Skill.Desc.LightGauntlet.2123",
+        "text": "혈도를 개방시켜 20초간 저항 관련 능력치가 급격하게 증가합니다.\n모든 이동 속도 관련 디버프 효과를 해제합니다."
+    },
+    "60020152": {
+        "deprecated": false,
+        "Dev_Desc": "개혈_증폭_성장설명",
+        "id": 60020152,
+        "alias": "Contents.Skill.acquireEffectDesc.2121",
+        "text": "지속 시간 5초 증가"
+    },
+    "60020153": {
+        "deprecated": false,
+        "Dev_Desc": "개혈_극한_성장설명",
+        "id": 60020153,
+        "alias": "Contents.Skill.acquireEffectDesc.2122",
+        "text": "\"빙결\" 효과 해제\n빙결 저항률 +50%"
+    },
+    "60020154": {
+        "deprecated": false,
+        "Dev_Desc": "개혈_돌파_성장설명",
+        "id": 60020154,
+        "alias": "Contents.Skill.acquireEffectDesc.2123",
+        "text": "모든 이동 속도 관련 디버프 효과 해제 및 면역"
+    },
+    "60020155": {
+        "deprecated": false,
+        "Dev_Desc": "개혈_경직/통제/도발 저항률증가_이름",
+        "id": 60020155,
+        "alias": "Contents.Effect.Name.LightGauntlet.2120",
+        "text": "개혈"
+    },
+    "60020156": {
+        "deprecated": false,
+        "Dev_Desc": "개혈_경직/통제/도발 저항률증가_설명",
+        "id": 60020156,
+        "alias": "Contents.Effect.Desc.LightGauntlet.2120",
+        "text": "저항 관련 능력 증가"
+    },
+    "60020157": {
+        "deprecated": false,
+        "Dev_Desc": "개혈_경직/통제/도발 저항률증가_효과",
+        "id": 60020157,
+        "alias": "Contents.Effect.Option.LightGauntlet.212010",
+        "text": "경직, 통제, 도발 저항률 +50%"
+    },
+    "60020158": {
+        "deprecated": false,
+        "Dev_Desc": "개혈_경직/통제/도발 저항률증가_효과",
+        "id": 60020158,
+        "alias": "Contents.Effect.Option.LightGauntlet.212011",
+        "text": "경직, 통제, 도발 저항률 +52%"
+    },
+    "60020159": {
+        "deprecated": false,
+        "Dev_Desc": "개혈_경직/통제/도발 저항률증가_효과",
+        "id": 60020159,
+        "alias": "Contents.Effect.Option.LightGauntlet.212012",
+        "text": "경직, 통제, 도발 저항률 +54%"
+    },
+    "60020160": {
+        "deprecated": false,
+        "Dev_Desc": "개혈_경직/통제/도발 저항률증가_효과",
+        "id": 60020160,
+        "alias": "Contents.Effect.Option.LightGauntlet.212013",
+        "text": "경직, 통제, 도발 저항률 +56%"
+    },
+    "60020161": {
+        "deprecated": false,
+        "Dev_Desc": "개혈_경직/통제/도발 저항률증가_효과",
+        "id": 60020161,
+        "alias": "Contents.Effect.Option.LightGauntlet.212014",
+        "text": "경직, 통제, 도발 저항률 +58%"
+    },
+    "60020162": {
+        "deprecated": false,
+        "Dev_Desc": "개혈_경직/통제/도발 저항률증가_효과",
+        "id": 60020162,
+        "alias": "Contents.Effect.Option.LightGauntlet.212015",
+        "text": "경직, 통제, 도발 저항률 +60%"
+    },
+    "60020163": {
+        "deprecated": false,
+        "Dev_Desc": "개혈_경직/통제/도발 저항률증가_효과",
+        "id": 60020163,
+        "alias": "Contents.Effect.Option.LightGauntlet.212016",
+        "text": "경직, 통제, 도발 저항률 +62%"
+    },
+    "60020164": {
+        "deprecated": false,
+        "Dev_Desc": "개혈_경직/통제/도발 저항률증가_효과",
+        "id": 60020164,
+        "alias": "Contents.Effect.Option.LightGauntlet.212017",
+        "text": "경직, 통제, 도발 저항률 +64%"
+    },
+    "60020165": {
+        "deprecated": false,
+        "Dev_Desc": "개혈_경직/통제/도발 저항률증가_효과",
+        "id": 60020165,
+        "alias": "Contents.Effect.Option.LightGauntlet.212018",
+        "text": "경직, 통제, 도발 저항률 +66%"
+    },
+    "60020166": {
+        "deprecated": false,
+        "Dev_Desc": "개혈_경직/통제/도발 저항률증가_효과",
+        "id": 60020166,
+        "alias": "Contents.Effect.Option.LightGauntlet.212019",
+        "text": "경직, 통제, 도발 저항률 +70%"
+    },
+    "60020167": {
+        "deprecated": false,
+        "Dev_Desc": "개혈_극한_경직/통제/도발/빙결 저항률증가_효과",
+        "id": 60020167,
+        "alias": "Contents.Effect.Option.LightGauntlet.212210",
+        "text": "경직, 통제, 도발, 빙결 저항률 +50%"
+    },
+    "60020168": {
+        "deprecated": false,
+        "Dev_Desc": "개혈_극한_경직/통제/도발/빙결 저항률증가_효과",
+        "id": 60020168,
+        "alias": "Contents.Effect.Option.LightGauntlet.212211",
+        "text": "경직, 통제, 도발, 빙결 저항률 +52%"
+    },
+    "60020169": {
+        "deprecated": false,
+        "Dev_Desc": "개혈_극한_경직/통제/도발/빙결 저항률증가_효과",
+        "id": 60020169,
+        "alias": "Contents.Effect.Option.LightGauntlet.212212",
+        "text": "경직, 통제, 도발, 빙결 저항률 +54%"
+    },
+    "60020170": {
+        "deprecated": false,
+        "Dev_Desc": "개혈_극한_경직/통제/도발/빙결 저항률증가_효과",
+        "id": 60020170,
+        "alias": "Contents.Effect.Option.LightGauntlet.212213",
+        "text": "경직, 통제, 도발, 빙결 저항률 +56%"
+    },
+    "60020171": {
+        "deprecated": false,
+        "Dev_Desc": "개혈_극한_경직/통제/도발/빙결 저항률증가_효과",
+        "id": 60020171,
+        "alias": "Contents.Effect.Option.LightGauntlet.212214",
+        "text": "경직, 통제, 도발, 빙결 저항률 +58%"
+    },
+    "60020172": {
+        "deprecated": false,
+        "Dev_Desc": "개혈_극한_경직/통제/도발/빙결 저항률증가_효과",
+        "id": 60020172,
+        "alias": "Contents.Effect.Option.LightGauntlet.212215",
+        "text": "경직, 통제, 도발, 빙결 저항률 +60%"
+    },
+    "60020173": {
+        "deprecated": false,
+        "Dev_Desc": "개혈_극한_경직/통제/도발/빙결 저항률증가_효과",
+        "id": 60020173,
+        "alias": "Contents.Effect.Option.LightGauntlet.212216",
+        "text": "경직, 통제, 도발, 빙결 저항률 +62%"
+    },
+    "60020174": {
+        "deprecated": false,
+        "Dev_Desc": "개혈_극한_경직/통제/도발/빙결 저항률증가_효과",
+        "id": 60020174,
+        "alias": "Contents.Effect.Option.LightGauntlet.212217",
+        "text": "경직, 통제, 도발, 빙결 저항률 +64%"
+    },
+    "60020175": {
+        "deprecated": false,
+        "Dev_Desc": "개혈_극한_경직/통제/도발/빙결 저항률증가_효과",
+        "id": 60020175,
+        "alias": "Contents.Effect.Option.LightGauntlet.212218",
+        "text": "경직, 통제, 도발, 빙결 저항률 +66%"
+    },
+    "60020176": {
+        "deprecated": false,
+        "Dev_Desc": "개혈_극한_경직/통제/도발/빙결 저항률증가_효과",
+        "id": 60020176,
+        "alias": "Contents.Effect.Option.LightGauntlet.212219",
+        "text": "경직, 통제, 도발, 빙결 저항률 +70%"
+    },
+    "60020177": {
+        "deprecated": false,
+        "Dev_Desc": "개혈_돌파_경직/통제/도발/빙결 저항률증가, 이속 디버프 면역_효과",
+        "id": 60020177,
+        "alias": "Contents.Effect.Option.LightGauntlet.212310",
+        "text": "경직, 통제, 도발, 빙결 저항률 +50%\n모든 이동 속도 관련 디버프 효과 면역"
+    },
+    "60020178": {
+        "deprecated": false,
+        "Dev_Desc": "개혈_돌파_경직/통제/도발/빙결 저항률증가, 이속 디버프 면역_효과",
+        "id": 60020178,
+        "alias": "Contents.Effect.Option.LightGauntlet.212310",
+        "text": "경직, 통제, 도발, 빙결 저항률 +52%\n모든 이동 속도 관련 디버프 효과 면역"
+    },
+    "60020179": {
+        "deprecated": false,
+        "Dev_Desc": "개혈_돌파_경직/통제/도발/빙결 저항률증가, 이속 디버프 면역_효과",
+        "id": 60020179,
+        "alias": "Contents.Effect.Option.LightGauntlet.212310",
+        "text": "경직, 통제, 도발, 빙결 저항률 +54%\n모든 이동 속도 관련 디버프 효과 면역"
+    },
+    "60020180": {
+        "deprecated": false,
+        "Dev_Desc": "개혈_돌파_경직/통제/도발/빙결 저항률증가, 이속 디버프 면역_효과",
+        "id": 60020180,
+        "alias": "Contents.Effect.Option.LightGauntlet.212310",
+        "text": "경직, 통제, 도발, 빙결 저항률 +56%\n모든 이동 속도 관련 디버프 효과 면역"
+    },
+    "60020181": {
+        "deprecated": false,
+        "Dev_Desc": "개혈_돌파_경직/통제/도발/빙결 저항률증가, 이속 디버프 면역_효과",
+        "id": 60020181,
+        "alias": "Contents.Effect.Option.LightGauntlet.212310",
+        "text": "경직, 통제, 도발, 빙결 저항률 +58%\n모든 이동 속도 관련 디버프 효과 면역"
+    },
+    "60020182": {
+        "deprecated": false,
+        "Dev_Desc": "개혈_돌파_경직/통제/도발/빙결 저항률증가, 이속 디버프 면역_효과",
+        "id": 60020182,
+        "alias": "Contents.Effect.Option.LightGauntlet.212310",
+        "text": "경직, 통제, 도발, 빙결 저항률 +60%\n모든 이동 속도 관련 디버프 효과 면역"
+    },
+    "60020183": {
+        "deprecated": false,
+        "Dev_Desc": "개혈_돌파_경직/통제/도발/빙결 저항률증가, 이속 디버프 면역_효과",
+        "id": 60020183,
+        "alias": "Contents.Effect.Option.LightGauntlet.212310",
+        "text": "경직, 통제, 도발, 빙결 저항률 +62%\n모든 이동 속도 관련 디버프 효과 면역"
+    },
+    "60020184": {
+        "deprecated": false,
+        "Dev_Desc": "개혈_돌파_경직/통제/도발/빙결 저항률증가, 이속 디버프 면역_효과",
+        "id": 60020184,
+        "alias": "Contents.Effect.Option.LightGauntlet.212310",
+        "text": "경직, 통제, 도발, 빙결 저항률 +64%\n모든 이동 속도 관련 디버프 효과 면역"
+    },
+    "60020185": {
+        "deprecated": false,
+        "Dev_Desc": "개혈_돌파_경직/통제/도발/빙결 저항률증가, 이속 디버프 면역_효과",
+        "id": 60020185,
+        "alias": "Contents.Effect.Option.LightGauntlet.212310",
+        "text": "경직, 통제, 도발, 빙결 저항률 +66%\n모든 이동 속도 관련 디버프 효과 면역"
+    },
+    "60020186": {
+        "deprecated": false,
+        "Dev_Desc": "개혈_돌파_경직/통제/도발/빙결 저항률증가, 이속 디버프 면역_효과",
+        "id": 60020186,
+        "alias": "Contents.Effect.Option.LightGauntlet.212310",
+        "text": "경직, 통제, 도발, 빙결 저항률 +70%\n모든 이동 속도 관련 디버프 효과 면역"
     }
 }
