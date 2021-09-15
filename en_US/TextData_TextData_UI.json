@@ -22536,139 +22536,139 @@
         "Dev_Desc": "캐시상점 / 퍼플 On 스트리밍 중 구매 불가 표시",
         "id": 8003299,
         "alias": "UI.CashShop.UnablePurchase",
-        "text": "구매 불가"
+        "text": "Cannot Buy"
     },
     "8003300": {
         "deprecated": false,
         "Dev_Desc": "지도 / 모험가 등급 / 달성효과 / 초보자",
         "id": 8003300,
         "alias": "UI.Map.Adventure.NoEffect",
-        "text": "효과 없음"
+        "text": "no effect"
     },
     "8003301": {
         "deprecated": false,
         "Dev_Desc": "캐시상점 / 소환 상품 / 판매 기간",
         "id": 8003301,
         "alias": "UI.CashShop.Goods.Summon.UntilEndSale",
-        "text": "판매 종료까지 <arg p=[1:string]/>"
+        "text": "Until end of sale <arg p=[1:string]/>"
     },
     "8003302": {
         "deprecated": false,
         "Dev_Desc": "HUD / PK 모드 버튼 / PK ON",
         "id": 8003302,
         "alias": "UI.HUD.ButtonName.PKon",
-        "text": "PK\n켜짐"
+        "text": "PK\nOn"
     },
     "8003303": {
         "deprecated": false,
         "Dev_Desc": "HUD / PK 모드 버튼 / PK Off",
         "id": 8003303,
         "alias": "UI.HUD.ButtonName.PKoff",
-        "text": "PK\n꺼짐"
+        "text": "PK\nOff"
     },
     "8003304": {
         "deprecated": false,
         "Dev_Desc": "야화 / 상위야화 수집 완료 메시지",
         "id": 8003304,
         "alias": "UI.Yahwa.ToastMessage.StoryComplete",
-        "text": "<arg p=[1:string]/> 야화 주제를 완성했습니다."
+        "text": "<arg p=[1:string]/> Completed the Night Story topic."
     },
     "8003305": {
         "deprecated": false,
         "Dev_Desc": "로비 / 팝업 / 서버 점검 메시지",
         "id": 8003305,
         "alias": "UI.Network.PopUp.SeverInspection",
-        "text": "서버 점검 중입니다."
+        "text": "Server is under maintenance."
     },
     "8003306": {
         "deprecated": false,
         "Dev_Desc": "로비 / 팝업 / 접속 종료 타이틀",
         "id": 8003306,
         "alias": "UI.Disconnect.Title",
-        "text": "접속 종료"
+        "text": "Connection Closed"
     },
     "8003307": {
         "deprecated": false,
         "Dev_Desc": "소울 / 소울 교체 확률 설명",
         "id": 8003307,
         "alias": "UI.Soul.RediceDesc",
-        "text": "확률에 따라 새로운 소울을 획득합니다.\n교체 전 소울은 교체 대상에서 제외됩니다."
+        "text": "Acquire a new soul according to the probability.\nSouls before replacement are excluded from replacement."
     },
     "8003308": {
         "deprecated": false,
         "Dev_Desc": "수호령 / 수호령 교체 확률 설명",
         "id": 8003308,
         "alias": "UI.Pets.RediceDesc",
-        "text": "확률에 따라 새로운 수호령을 획득합니다.\n교체 전 수호령은 교체 대상에서 제외됩니다."
+        "text": "According to a probability, you will acquire a new guardian spirit.\nThe guardian spirit before replacement is excluded from replacement."
     },
     "8003309": {
         "deprecated": false,
         "Dev_Desc": "빛나는 정수 [검]",
         "id": 8003309,
         "alias": "UI.Craft.LeftSubTabName.Event.EssencePieces_01",
-        "text": "빛나는 정수 [검]"
+        "text": "Shining Essence [Sword]"
     },
     "8003310": {
         "deprecated": false,
         "Dev_Desc": "빛나는 정수 [권갑]",
         "id": 8003310,
         "alias": "UI.Craft.LeftSubTabName.Event.EssencePieces_02",
-        "text": "빛나는 정수 [권갑]"
+        "text": "Shining Essence [Gauntlet]"
     },
     "8003311": {
         "deprecated": false,
         "Dev_Desc": "빛나는 정수 [도끼]",
         "id": 8003311,
         "alias": "UI.Craft.LeftSubTabName.Event.EssencePieces_03",
-        "text": "빛나는 정수 [도끼]"
+        "text": "Shining Essence [Axe]"
     },
     "8003312": {
         "deprecated": false,
         "Dev_Desc": "빛나는 정수 [기공패]",
         "id": 8003312,
         "alias": "UI.Craft.LeftSubTabName.Event.EssencePieces_04",
-        "text": "빛나는 정수 [기공패]"
+        "text": "Shining Essence [Trinket]"
     },
     "8003313": {
         "deprecated": false,
         "Dev_Desc": "빛나는 정수 [활]",
         "id": 8003313,
         "alias": "UI.Craft.LeftSubTabName.Event.EssencePieces_05",
-        "text": "빛나는 정수 [활]"
+        "text": "Shining Essence [Bow]"
     },
     "8003314": {
         "deprecated": false,
         "Dev_Desc": "빛나는 정수 [법종]",
         "id": 8003314,
         "alias": "UI.Craft.LeftSubTabName.Event.EssencePieces_06",
-        "text": "빛나는 정수 [법종]"
+        "text": "Shining Essence [Law Bell]"
     },
     "8003315": {
         "deprecated": false,
         "Dev_Desc": "증폭의 정수 상자",
         "id": 8003315,
         "alias": "UI.Craft.LeftSubTabName.Event.EssencePieces_07",
-        "text": "정수 파편 상자"
+        "text": "Essence Fragment Box"
     },
     "8003316": {
         "deprecated": false,
         "Dev_Desc": "한가위 이벤트 / 비사문 송편 상인",
         "id": 8003316,
         "alias": "UI.Shop.Tittle.Name.10021",
-        "text": "비밀 상인"
+        "text": "Secret Merchant"
     },
     "8003317": {
         "deprecated": false,
         "Dev_Desc": "캐시상점 / 서브 탭 / 금화 탭 / 소울 파편",
         "id": 8003317,
         "alias": "UI.CashShop.TapName.Sub.Grocery3",
-        "text": "소울 파편"
+        "text": "Soul Fragments"
     },
     "8003318": {
         "deprecated": false,
         "Dev_Desc": "이벤트 제작 레시피 탭 / 오너라 풍년아",
         "id": 8003318,
         "alias": "UI.Craft.LeftSubTabName.Event.FullMoon_01",
-        "text": "한가위 송편 교환"
+        "text": "Hangawi Songpyeon Exchange"
     }
 }

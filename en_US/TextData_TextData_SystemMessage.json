@@ -7066,27 +7066,27 @@
         "Dev_Desc": "복구술사 / 장비 복구 완료 메시지",
         "id": 9001071,
         "alias": "SysM.Recorvery.Complete.Item",
-        "text": "<arg p=[1:string]/><eul/>복구 했습니다."
+        "text": "<arg p=[1:string]/><eul/>Recovered"
     },
     "9001072": {
         "deprecated": false,
         "Dev_Desc": "복구술사 / 경험치 복구 완료 메시지",
         "id": 9001072,
         "alias": "SysM.Recorvery.Complete.Exp",
-        "text": "<arg p=[1:string]/> 경험치를 복구 했습니다."
+        "text": "<arg p=[1:string]/> experience recovered"
     },
     "9001073": {
         "deprecated": false,
         "Dev_Desc": "모험가 점수 획득 보상 불가 메시지",
         "id": 9001073,
         "alias": "SysM.Adventure.LackGrade",
-        "text": "아직 달성하지 못한 등급입니다."
+        "text": "It's a rank that hasn't been achieved yet."
     },
     "9001074": {
         "deprecated": false,
         "Dev_Desc": "모험가 점수 보상 획득 메시지",
         "id": 9001074,
         "alias": "SysM.Adventure.getReward",
-        "text": "모험가 등급 달성 보상을 획득했습니다."
+        "text": "You have earned a reward for reaching the Adventurer rank."
     }
 }
