@@ -43,12 +43,12 @@ BTC - bc1qpqnyfvz36u904pw60tv5ky8da38aq0wy7l7rk6, or
 * Download Source code (zip) [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/archive/refs/tags/0.5.0.zip)
 * You need to download the source code and unpack it
 * In the /Blade-and-Soul-2-Localization-0.3.5/ folder there is an en_US folder, its contents must be transferred in the folder \Game Folder\B2\Data\Text\
-* And You need Rename en_US to en_EN.
+* And You need Rename en_US to ru_RU.
 * If you don't have these folders, just create them.
 * You should get something like this:
  ![Screenshot 2021-09-03 085020](https://user-images.githubusercontent.com/77208679/131947968-630a7edd-d2e2-4754-80e1-769d07ffa34a.png)
 * And you need to go folder C:\Users\UserName\AppData\Local\B2\Saved\Option and open file LocalOption.json;
-* In LocalOption.json find "language":1" and change it to "language":22" for English Language;
+* In LocalOption.json find "language":1" and change it to "language":6" for English Language;
 * And that's it you have english language;
 
 ## Mobile-Install
