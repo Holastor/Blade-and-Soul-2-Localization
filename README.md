@@ -74,6 +74,7 @@ BTC - bc1qpqnyfvz36u904pw60tv5ky8da38aq0wy7l7rk6, or
 
 ## About
   * Author: by Holastor;
+  * Author Chinese localizaton: by JR;
 
 ## Warning:
 1) Game crashes and unstable work are possible. Need more tests
