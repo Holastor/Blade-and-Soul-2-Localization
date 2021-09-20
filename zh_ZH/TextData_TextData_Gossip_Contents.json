@@ -1,0 +1,548 @@
+{
+    "40000": {
+        "deprecated": false,
+        "Dev_Desc": "SW_BD_Deco_002",
+        "id": 40000,
+        "alias": "DecoGossip.1",
+        "text": "今天会有什么东西进来呢？"
+    },
+    "40001": {
+        "deprecated": false,
+        "Dev_Desc": "SW_BD_Deco_002",
+        "id": 40001,
+        "alias": "DecoGossip.2",
+        "text": "从远处来到桃花像殿真是有意义啊."
+    },
+    "40002": {
+        "deprecated": false,
+        "Dev_Desc": "SW_BD_Deco_004",
+        "id": 40002,
+        "alias": "DecoGossip.3",
+        "text": "呜呜…我好像没有才能…"
+    },
+    "40003": {
+        "deprecated": false,
+        "Dev_Desc": "SW_BD_Deco_004",
+        "id": 40003,
+        "alias": "DecoGossip.4",
+        "text": "又被老师挨训了..."
+    },
+    "40004": {
+        "deprecated": false,
+        "Dev_Desc": "SW_BD_Deco_005",
+        "id": 40004,
+        "alias": "DecoGossip.5",
+        "text": "哇~这里是英老师啊~"
+    },
+    "40005": {
+        "deprecated": false,
+        "Dev_Desc": "SW_BD_Deco_005",
+        "id": 40005,
+        "alias": "DecoGossip.6",
+        "text": "听说英老师有很多巴隆～"
+    },
+    "40006": {
+        "deprecated": false,
+        "Dev_Desc": "SW_BD_Deco_012",
+        "id": 40006,
+        "alias": "DecoGossip.7",
+        "text": "这个灯塔有传说..."
+    },
+    "40007": {
+        "deprecated": false,
+        "Dev_Desc": "SW_BD_Deco_012",
+        "id": 40007,
+        "alias": "DecoGossip.8",
+        "text": "我…不相信传说…"
+    },
+    "40008": {
+        "deprecated": false,
+        "Dev_Desc": "SW_BD_Deco_013",
+        "id": 40008,
+        "alias": "DecoGossip.9",
+        "text": "哇~肚子真帅！"
+    },
+    "40009": {
+        "deprecated": false,
+        "Dev_Desc": "SW_BD_Deco_013",
+        "id": 40009,
+        "alias": "DecoGossip.10",
+        "text": "我总有一天也要有这么大的船！"
+    },
+    "40010": {
+        "deprecated": false,
+        "Dev_Desc": "SW_BD_Deco_018",
+        "id": 40010,
+        "alias": "DecoGossip.11",
+        "text": "给我一分钱吧~"
+    },
+    "40011": {
+        "deprecated": false,
+        "Dev_Desc": "SW_BD_Deco_019",
+        "id": 40011,
+        "alias": "DecoGossip.12",
+        "text": "那远海的尽头会有什么呢？"
+    },
+    "40012": {
+        "deprecated": false,
+        "Dev_Desc": "SW_BD_Deco_019",
+        "id": 40012,
+        "alias": "DecoGossip.13",
+        "text": "爬到云上能看见吗？"
+    },
+    "40013": {
+        "deprecated": false,
+        "Dev_Desc": "SW_BD_Deco_022",
+        "id": 40013,
+        "alias": "DecoGossip.14",
+        "text": "嘻嘻~"
+    },
+    "40014": {
+        "deprecated": false,
+        "Dev_Desc": "SW_BD_Deco_026",
+        "id": 40014,
+        "alias": "DecoGossip.15",
+        "text": "这次新做的镰刀很好用."
+    },
+    "40015": {
+        "deprecated": false,
+        "Dev_Desc": "SW_BD_Deco_026",
+        "id": 40015,
+        "alias": "DecoGossip.16",
+        "text": "听说在金硬铁门可以强化武器."
+    },
+    "40016": {
+        "deprecated": false,
+        "Dev_Desc": "SW_BD_Deco_027",
+        "id": 40016,
+        "alias": "DecoGossip.17",
+        "text": "金硬铁门的手艺不是很有名吗."
+    },
+    "40017": {
+        "deprecated": false,
+        "Dev_Desc": "SW_BD_Deco_027",
+        "id": 40017,
+        "alias": "DecoGossip.18",
+        "text": "但是像我们这样的人怎么会有这种事."
+    },
+    "40018": {
+        "deprecated": false,
+        "Dev_Desc": "SW_BD_Deco_037",
+        "id": 40018,
+        "alias": "DecoGossip.19",
+        "text": "呼呼，是新手吗？"
+    },
+    "40019": {
+        "deprecated": false,
+        "Dev_Desc": "SW_BD_Deco_040",
+        "id": 40019,
+        "alias": "DecoGossip.20",
+        "text": "嗯…"
+    },
+    "40020": {
+        "deprecated": false,
+        "Dev_Desc": "SW_BD_Deco_040",
+        "id": 40020,
+        "alias": "DecoGossip.21",
+        "text": "应该没什么事的..."
+    },
+    "40021": {
+        "deprecated": false,
+        "Dev_Desc": "SW_BD_Deco_047",
+        "id": 40021,
+        "alias": "DecoGossip.22",
+        "text": "因为是久违的庆典所以很开心！"
+    },
+    "40022": {
+        "deprecated": false,
+        "Dev_Desc": "SW_BD_Deco_054",
+        "id": 40022,
+        "alias": "DecoGossip.23",
+        "text": "来，放钱吃饭！"
+    },
+    "40023": {
+        "deprecated": false,
+        "Dev_Desc": "SW_BD_Deco_054",
+        "id": 40023,
+        "alias": "DecoGossip.24",
+        "text": "现在最大的股息是4倍！人生逆转的机会来了~！"
+    },
+    "40024": {
+        "deprecated": false,
+        "Dev_Desc": "SW_BD_Deco_058",
+        "id": 40024,
+        "alias": "DecoGossip.25",
+        "text": "赌一次吗？"
+    },
+    "40025": {
+        "deprecated": false,
+        "Dev_Desc": "SW_BD_Deco_060",
+        "id": 40025,
+        "alias": "DecoGossip.26",
+        "text": "这次要多拿一份..."
+    },
+    "40026": {
+        "deprecated": false,
+        "Dev_Desc": "SW_BD_Deco_060",
+        "id": 40026,
+        "alias": "DecoGossip.27",
+        "text": "这次一定要摘！"
+    },
+    "40027": {
+        "deprecated": false,
+        "Dev_Desc": "SW_BD_Deco_064",
+        "id": 40027,
+        "alias": "DecoGossip.28",
+        "text": "嘴的质量..."
+    },
+    "40028": {
+        "deprecated": false,
+        "Dev_Desc": "SW_BD_Deco_064",
+        "id": 40028,
+        "alias": "DecoGossip.29",
+        "text": "嗯."
+    },
+    "40029": {
+        "deprecated": false,
+        "Dev_Desc": "SW_BD_Deco_074",
+        "id": 40029,
+        "alias": "DecoGossip.30",
+        "text": "有点...好奇怪..."
+    },
+    "40030": {
+        "deprecated": false,
+        "Dev_Desc": "SW_BD_Deco_074",
+        "id": 40030,
+        "alias": "DecoGossip.31",
+        "text": "嗯…"
+    },
+    "40031": {
+        "deprecated": false,
+        "Dev_Desc": "SW_BD_Deco_079",
+        "id": 40031,
+        "alias": "DecoGossip.32",
+        "text": "顺！顺！在哪儿？呜呜..."
+    },
+    "40032": {
+        "deprecated": false,
+        "Dev_Desc": "SW_BD_Deco_080",
+        "id": 40032,
+        "alias": "DecoGossip.33",
+        "text": "唉…到底发生了什么事情..."
+    },
+    "40033": {
+        "deprecated": false,
+        "Dev_Desc": "SW_BD_Deco_080",
+        "id": 40033,
+        "alias": "DecoGossip.34",
+        "text": "孩子们没关系吗..."
+    },
+    "40034": {
+        "deprecated": false,
+        "Dev_Desc": "SW_BD_Deco_081",
+        "id": 40034,
+        "alias": "DecoGossip.35",
+        "text": "啦啦."
+    },
+    "40035": {
+        "deprecated": false,
+        "Dev_Desc": "SW_BD_Deco_081",
+        "id": 40035,
+        "alias": "DecoGossip.36",
+        "text": "哼~"
+    },
+    "40036": {
+        "deprecated": false,
+        "Dev_Desc": "SW_BD_Deco_083",
+        "id": 40036,
+        "alias": "DecoGossip.37",
+        "text": "呃呃..."
+    },
+    "40037": {
+        "deprecated": false,
+        "Dev_Desc": "SW_BD_Deco_088",
+        "id": 40037,
+        "alias": "DecoGossip.38",
+        "text": "偷猎者们…"
+    },
+    "40038": {
+        "deprecated": false,
+        "Dev_Desc": "SW_BD_Deco_089",
+        "id": 40038,
+        "alias": "DecoGossip.39",
+        "text": "没什么事吗."
+    },
+    "40039": {
+        "deprecated": false,
+        "Dev_Desc": "SW_BD_Deco_090",
+        "id": 40039,
+        "alias": "DecoGossip.40",
+        "text": "在决赛中那位…\n真的很了不起..."
+    },
+    "40040": {
+        "deprecated": false,
+        "Dev_Desc": "SW_BD_Deco_091",
+        "id": 40040,
+        "alias": "DecoGossip.41",
+        "text": "啊啊...去哪儿\n还能再见面？"
+    },
+    "40041": {
+        "deprecated": false,
+        "Dev_Desc": "SW_BD_Deco_092",
+        "id": 40041,
+        "alias": "DecoGossip.42",
+        "text": "你们在听我的话吗？\n我看清楚了！"
+    },
+    "40042": {
+        "deprecated": false,
+        "Dev_Desc": "SW_BD_Deco_093",
+        "id": 40042,
+        "alias": "DecoGossip.43",
+        "text": "差点把半月湖整个消失！"
+    },
+    "40043": {
+        "deprecated": false,
+        "Dev_Desc": "SW_BD_Deco_094",
+        "id": 40043,
+        "alias": "DecoGossip.44",
+        "text": "喂你.\n你是从大鱼房来的吗？"
+    },
+    "40044": {
+        "deprecated": false,
+        "Dev_Desc": "SW_BD_Deco_095",
+        "id": 40044,
+        "alias": "DecoGossip.45",
+        "text": "那是真的吗？\n听说出现了裂痕！"
+    },
+    "30001000001": {
+        "deprecated": false,
+        "Dev_Desc": "오돌",
+        "id": 30001000001,
+        "alias": "Contents.Gossip.1000001",
+        "text": "招募和伟大的秋收GOT一起的\n团员！"
+    },
+    "30001000002": {
+        "deprecated": false,
+        "Dev_Desc": "차돌",
+        "id": 30001000002,
+        "alias": "Contents.Gossip.1000002",
+        "text": "高额报酬保障！\n保障终身工作岗位！"
+    },
+    "30001000003": {
+        "deprecated": false,
+        "Dev_Desc": "지미갓",
+        "id": 30001000003,
+        "alias": "Contents.Gossip.1000003",
+        "text": "来~不是每天都来的\n团员招募~"
+    },
+    "30001000004": {
+        "deprecated": false,
+        "Dev_Desc": "오돌",
+        "id": 30001000004,
+        "alias": "Contents.Gossip.1000004",
+        "text": "招募和伟大的秋收GOT一起的\n团员！"
+    },
+    "30001000005": {
+        "deprecated": false,
+        "Dev_Desc": "차돌",
+        "id": 30001000005,
+        "alias": "Contents.Gossip.1000005",
+        "text": "高额报酬保障！\n保障像家人一样的福利！"
+    },
+    "30001000006": {
+        "deprecated": false,
+        "Dev_Desc": "지미갓",
+        "id": 30001000006,
+        "alias": "Contents.Gossip.1000006",
+        "text": "来~不是每天都来的\n团员招募~"
+    },
+    "30001000007": {
+        "deprecated": false,
+        "Dev_Desc": "오돌",
+        "id": 30001000007,
+        "alias": "Contents.Gossip.1000007",
+        "text": "招募和伟大的秋收GOT一起的\n团员！"
+    },
+    "30001000008": {
+        "deprecated": false,
+        "Dev_Desc": "차돌",
+        "id": 30001000008,
+        "alias": "Contents.Gossip.1000008",
+        "text": "高额报酬保障！\n保证半月湖的名声！"
+    },
+    "30001000009": {
+        "deprecated": false,
+        "Dev_Desc": "지미갓",
+        "id": 30001000009,
+        "alias": "Contents.Gossip.1000009",
+        "text": "来~不是每天都来的\n团员招募~"
+    },
+    "30001000010": {
+        "deprecated": false,
+        "Dev_Desc": "오돌",
+        "id": 30001000010,
+        "alias": "Contents.Gossip.1000010",
+        "text": "招募和伟大的秋收GOT一起的\n团员！"
+    },
+    "30001000011": {
+        "deprecated": false,
+        "Dev_Desc": "차돌",
+        "id": 30001000011,
+        "alias": "Contents.Gossip.1000011",
+        "text": "保障生命津贴！\n保障终身工作岗位！"
+    },
+    "30001000012": {
+        "deprecated": false,
+        "Dev_Desc": "지미갓",
+        "id": 30001000012,
+        "alias": "Contents.Gossip.1000012",
+        "text": "来~不是每天都来的\n团员招募~"
+    },
+    "30001000013": {
+        "deprecated": false,
+        "Dev_Desc": "오돌",
+        "id": 30001000013,
+        "alias": "Contents.Gossip.1000013",
+        "text": "招募和伟大的秋收GOT一起的\n团员！"
+    },
+    "30001000014": {
+        "deprecated": false,
+        "Dev_Desc": "차돌",
+        "id": 30001000014,
+        "alias": "Contents.Gossip.1000014",
+        "text": "高额报酬保障！\n保障自由时间！"
+    },
+    "30001000015": {
+        "deprecated": false,
+        "Dev_Desc": "지미갓",
+        "id": 30001000015,
+        "alias": "Contents.Gossip.1000015",
+        "text": "来~不是每天都来的\n团员招募~"
+    },
+    "30001000020": {
+        "deprecated": false,
+        "Dev_Desc": "오도독",
+        "id": 30001000020,
+        "alias": "Contents.Gossip.1000020",
+        "text": "队长~秋收芥菜队长~！\n你到底去哪儿了？"
+    },
+    "30001000021": {
+        "deprecated": false,
+        "Dev_Desc": "우두둑",
+        "id": 30001000021,
+        "alias": "Contents.Gossip.1000021",
+        "text": "哎呀，还是赶紧逃跑吧！\n这里太危险了！"
+    },
+    "30001000022": {
+        "deprecated": false,
+        "Dev_Desc": "오도독",
+        "id": 30001000022,
+        "alias": "Contents.Gossip.1000022",
+        "text": "队长~秋收芥菜队长~！"
+    },
+    "30001000023": {
+        "deprecated": false,
+        "Dev_Desc": "우두둑",
+        "id": 30001000023,
+        "alias": "Contents.Gossip.1000023",
+        "text": "啊，你要找到什么时候？\n我最讨厌危险的."
+    },
+    "30001000024": {
+        "deprecated": false,
+        "Dev_Desc": "오도독",
+        "id": 30001000024,
+        "alias": "Contents.Gossip.1000024",
+        "text": "队长~秋收芥菜队长~！"
+    },
+    "30001000025": {
+        "deprecated": false,
+        "Dev_Desc": "우두둑",
+        "id": 30001000025,
+        "alias": "Contents.Gossip.1000025",
+        "text": "那个，看到大海了…\n好想回去，呼噜."
+    },
+    "30001000026": {
+        "deprecated": false,
+        "Dev_Desc": "우두둑",
+        "id": 30001000026,
+        "alias": "Contents.Gossip.1000026",
+        "text": "啊~以后怎么办？"
+    },
+    "30001000027": {
+        "deprecated": false,
+        "Dev_Desc": "오도독",
+        "id": 30001000027,
+        "alias": "Contents.Gossip.1000027",
+        "text": "咯吱咯吱！\n这次你站出来看看！"
+    },
+    "30001000028": {
+        "deprecated": false,
+        "Dev_Desc": "우두둑",
+        "id": 30001000028,
+        "alias": "Contents.Gossip.1000028",
+        "text": "不是，就是~\n是误会，是误会~"
+    },
+    "30001000030": {
+        "deprecated": false,
+        "Dev_Desc": "추수갓",
+        "id": 30001000030,
+        "alias": "Contents.Gossip.1000030",
+        "text": "来~不是每天都来的\n团员招募~"
+    },
+    "30001000031": {
+        "deprecated": false,
+        "Dev_Desc": "소추아",
+        "id": 30001000031,
+        "alias": "Contents.Gossip.1000031",
+        "text": "招募和伟大的秋收GOT一起的\n新团员！"
+    },
+    "30001000032": {
+        "deprecated": false,
+        "Dev_Desc": "오도독",
+        "id": 30001000032,
+        "alias": "Contents.Gossip.1000032",
+        "text": "高额报酬…保证…\n狩猎海水的人..."
+    },
+    "30001000033": {
+        "deprecated": false,
+        "Dev_Desc": "오도독",
+        "id": 30001000033,
+        "alias": "Contents.Gossip.1000033",
+        "text": "我现在怎么办…\n没有队长也没有头领..."
+    },
+    "30001000034": {
+        "deprecated": false,
+        "Dev_Desc": "추수갓",
+        "id": 30001000034,
+        "alias": "Contents.Gossip.1000034",
+        "text": "哈哈哈！怎么办？\n来也行，不来也行."
+    },
+    "30001000035": {
+        "deprecated": false,
+        "Dev_Desc": "오도독",
+        "id": 30001000035,
+        "alias": "Contents.Gossip.1000035",
+        "text": "队长！！！"
+    },
+    "30001000036": {
+        "deprecated": false,
+        "Dev_Desc": "소추아",
+        "id": 30001000036,
+        "alias": "Contents.Gossip.1000036",
+        "text": "那家伙真的会来吗？"
+    },
+    "30001000037": {
+        "deprecated": false,
+        "Dev_Desc": "추수갓",
+        "id": 30001000037,
+        "alias": "Contents.Gossip.1000037",
+        "text": "来~不是每天都来的\n团员招募~"
+    },
+    "30001000038": {
+        "deprecated": false,
+        "Dev_Desc": "오도독",
+        "id": 30001000038,
+        "alias": "Contents.Gossip.1000038",
+        "text": "招募和伟大的秋收GOT一起的\n团员！"
+    }
+}

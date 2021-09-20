@@ -1,0 +1,940 @@
+{
+    "120010000": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10000_1",
+        "id": 120010000,
+        "alias": "Contents.Quest.Mission.10000",
+        "text": "听孩子们的对话"
+    },
+    "120010001": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10000_2",
+        "id": 120010001,
+        "alias": "Contents.Quest.Mission.10001",
+        "text": "收集有用的树"
+    },
+    "120010002": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10000_3",
+        "id": 120010002,
+        "alias": "Contents.Quest.Mission.10002",
+        "text": "与金嘤铁门匠人对话"
+    },
+    "120010003": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10000_4",
+        "id": 120010003,
+        "alias": "Contents.Quest.Mission.10003",
+        "text": "和孩子们对话"
+    },
+    "120010004": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10001_1",
+        "id": 120010004,
+        "alias": "Contents.Quest.Mission.10004",
+        "text": "听金嘤铁门工匠们的对话"
+    },
+    "120010005": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10002_1",
+        "id": 120010005,
+        "alias": "Contents.Quest.Mission.10005",
+        "text": "收集淘气刺猬的苹果"
+    },
+    "120010006": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10002_2",
+        "id": 120010006,
+        "alias": "Contents.Quest.Mission.10006",
+        "text": "缝隙研究移动到营地"
+    },
+    "120010007": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10002_3",
+        "id": 120010007,
+        "alias": "Contents.Quest.Mission.10007",
+        "text": "与金圭珍对话"
+    },
+    "120010008": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10002_4",
+        "id": 120010008,
+        "alias": "Contents.Quest.Mission.10008",
+        "text": "火魔者标本采集"
+    },
+    "120010009": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10002_5",
+        "id": 120010009,
+        "alias": "Contents.Quest.Mission.10009",
+        "text": "移动到金圭来营地"
+    },
+    "120010010": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10002_6",
+        "id": 120010010,
+        "alias": "Contents.Quest.Mission.10010",
+        "text": "特别的标本采集"
+    },
+    "120010011": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10002_7",
+        "id": 120010011,
+        "alias": "Contents.Quest.Mission.10011",
+        "text": "向金圭珍提交标本"
+    },
+    "120010012": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10003_1",
+        "id": 120010012,
+        "alias": "Contents.Quest.Mission.10012",
+        "text": "移动到空洞的坑里"
+    },
+    "120010013": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10003_2",
+        "id": 120010013,
+        "alias": "Contents.Quest.Mission.10013",
+        "text": "击败精英火魔者"
+    },
+    "120010014": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10003_3",
+        "id": 120010014,
+        "alias": "Contents.Quest.Mission.10014",
+        "text": "向金圭珍提交标本"
+    },
+    "120010015": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10003_4",
+        "id": 120010015,
+        "alias": "Contents.Quest.Mission.10015",
+        "text": "与金圭珍对话"
+    },
+    "120010016": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10004_1",
+        "id": 120010016,
+        "alias": "Contents.Quest.Mission.10016",
+        "text": "探索空洞的坑"
+    },
+    "120010017": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10004_5",
+        "id": 120010017,
+        "alias": "Contents.Quest.Mission.10017",
+        "text": "与赵树勋对话"
+    },
+    "120010018": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10005_1",
+        "id": 120010018,
+        "alias": "Contents.Quest.Mission.10018",
+        "text": "追踪痕迹"
+    },
+    "120010019": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10005_2",
+        "id": 120010019,
+        "alias": "Contents.Quest.Mission.10019",
+        "text": "峡谷内搜索"
+    },
+    "120010020": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10006_1",
+        "id": 120010020,
+        "alias": "Contents.Quest.Mission.10020",
+        "text": "调查木箱"
+    },
+    "120010021": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10006_2",
+        "id": 120010021,
+        "alias": "Contents.Quest.Mission.10021",
+        "text": "确认封印的日志"
+    },
+    "120010022": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10007_1",
+        "id": 120010022,
+        "alias": "Contents.Quest.Mission.10022",
+        "text": "偷听清人族的对话"
+    },
+    "120010023": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10008_2",
+        "id": 120010023,
+        "alias": "Contents.Quest.Mission.10023",
+        "text": "确认樵夫的矿物"
+    },
+    "120010024": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10008_3",
+        "id": 120010024,
+        "alias": "Contents.Quest.Mission.10024",
+        "text": "击败愤怒的树木精灵"
+    },
+    "120010025": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10008_4",
+        "id": 120010025,
+        "alias": "Contents.Quest.Mission.10025",
+        "text": "向樵夫报告"
+    },
+    "120010026": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10009_2",
+        "id": 120010026,
+        "alias": "Contents.Quest.Mission.10026",
+        "text": "神木传说确认"
+    },
+    "120010027": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10010_1",
+        "id": 120010027,
+        "alias": "Contents.Quest.Mission.10027",
+        "text": "和担心的男人对话"
+    },
+    "120010028": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10011_1",
+        "id": 120010028,
+        "alias": "Contents.Quest.Mission.10028",
+        "text": "古都市森林路调查"
+    },
+    "120010029": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10011_2",
+        "id": 120010029,
+        "alias": "Contents.Quest.Mission.10029",
+        "text": "与树木精灵对话"
+    },
+    "120010030": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10011_3",
+        "id": 120010030,
+        "alias": "Contents.Quest.Mission.10030",
+        "text": "帮助树木精灵安息"
+    },
+    "120010031": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10011_4",
+        "id": 120010031,
+        "alias": "Contents.Quest.Mission.10031",
+        "text": "与树木精灵对话"
+    },
+    "120010032": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10011_5",
+        "id": 120010032,
+        "alias": "Contents.Quest.Mission.10032",
+        "text": "闪亮的物品调查"
+    },
+    "120010033": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10012_2",
+        "id": 120010033,
+        "alias": "Contents.Quest.Mission.10033",
+        "text": "打听东西的来龙去脉"
+    },
+    "120010034": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10012_3",
+        "id": 120010034,
+        "alias": "Contents.Quest.Mission.10034",
+        "text": "和你的猫再次对话"
+    },
+    "120010035": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10012_4",
+        "id": 120010035,
+        "alias": "Contents.Quest.Mission.10035",
+        "text": "击败暴走守护兵"
+    },
+    "120010036": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10012_5",
+        "id": 120010036,
+        "alias": "Contents.Quest.Mission.10036",
+        "text": "击败觉醒的暴走守护兵"
+    },
+    "120010037": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10012_6",
+        "id": 120010037,
+        "alias": "Contents.Quest.Mission.10037",
+        "text": "和猫咪对话"
+    },
+    "120010038": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10013_1",
+        "id": 120010038,
+        "alias": "Contents.Quest.Mission.10038",
+        "text": "闪亮的物品调查"
+    },
+    "120010039": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10013_2",
+        "id": 120010039,
+        "alias": "Contents.Quest.Mission.10039",
+        "text": "和刘爱琳对话"
+    },
+    "120010040": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10014_1",
+        "id": 120010040,
+        "alias": "Contents.Quest.Mission.10040",
+        "text": "与可疑的男人对话"
+    },
+    "120010041": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10014_2",
+        "id": 120010041,
+        "alias": "Contents.Quest.Mission.10041",
+        "text": "确认合作目标"
+    },
+    "120010042": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10015_1",
+        "id": 120010042,
+        "alias": "Contents.Quest.Mission.10042",
+        "text": "访问野生保全会"
+    },
+    "120010043": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10015_2",
+        "id": 120010043,
+        "alias": "Contents.Quest.Mission.10043",
+        "text": "与灰色的风对话"
+    },
+    "120010044": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10015_3",
+        "id": 120010044,
+        "alias": "Contents.Quest.Mission.10044",
+        "text": "帮助野生保全会"
+    },
+    "120010045": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10015_4",
+        "id": 120010045,
+        "alias": "Contents.Quest.Mission.10045",
+        "text": "与灰色的风对话"
+    },
+    "120010046": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10016_2",
+        "id": 120010046,
+        "alias": "Contents.Quest.Mission.10046",
+        "text": "搜索开拓巴隆团团员"
+    },
+    "120010047": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10016_3",
+        "id": 120010047,
+        "alias": "Contents.Quest.Mission.10047",
+        "text": "砰砰地和猫对话"
+    },
+    "120010048": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10016_4",
+        "id": 120010048,
+        "alias": "Contents.Quest.Mission.10048",
+        "text": "兴致勃勃"
+    },
+    "120010049": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10016_5",
+        "id": 120010049,
+        "alias": "Contents.Quest.Mission.10049",
+        "text": "击败守护兵"
+    },
+    "120010050": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10016_6",
+        "id": 120010050,
+        "alias": "Contents.Quest.Mission.10050",
+        "text": "兴致与对话"
+    },
+    "120010051": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10016_7",
+        "id": 120010051,
+        "alias": "Contents.Quest.Mission.10051",
+        "text": "和猫咪对话"
+    },
+    "120010052": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10017_1",
+        "id": 120010052,
+        "alias": "Contents.Quest.Mission.10052",
+        "text": "兴致与对话"
+    },
+    "120010053": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10017_2",
+        "id": 120010053,
+        "alias": "Contents.Quest.Mission.10053",
+        "text": "巴隆草采集"
+    },
+    "120010054": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10017_3",
+        "id": 120010054,
+        "alias": "Contents.Quest.Mission.10054",
+        "text": "兴致与对话"
+    },
+    "120010055": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10018_1",
+        "id": 120010055,
+        "alias": "Contents.Quest.Mission.10055",
+        "text": "砰砰地和猫对话"
+    },
+    "120010056": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10018_2",
+        "id": 120010056,
+        "alias": "Contents.Quest.Mission.10056",
+        "text": "收集野生动物的毛"
+    },
+    "120010057": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10018_3",
+        "id": 120010057,
+        "alias": "Contents.Quest.Mission.10057",
+        "text": "砰砰地和猫对话"
+    },
+    "120010058": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10019_1",
+        "id": 120010058,
+        "alias": "Contents.Quest.Mission.10058",
+        "text": "与开拓巴隆丹对话"
+    },
+    "120010059": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10020_1",
+        "id": 120010059,
+        "alias": "Contents.Quest.Mission.10059",
+        "text": "与吉米甲对话"
+    },
+    "120010060": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10020_2",
+        "id": 120010060,
+        "alias": "Contents.Quest.Mission.10060",
+        "text": "实力证明"
+    },
+    "120010061": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10020_3",
+        "id": 120010061,
+        "alias": "Contents.Quest.Mission.10061",
+        "text": "与吉米甲对话"
+    },
+    "120010062": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10021_1",
+        "id": 120010062,
+        "alias": "Contents.Quest.Mission.10062",
+        "text": "追踪海水的痕迹"
+    },
+    "120010063": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10021_2",
+        "id": 120010063,
+        "alias": "Contents.Quest.Mission.10063",
+        "text": "消灭妨碍野生动物"
+    },
+    "120010064": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10021_3",
+        "id": 120010064,
+        "alias": "Contents.Quest.Mission.10064",
+        "text": "调查海水的痕迹"
+    },
+    "120010065": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10021_4",
+        "id": 120010065,
+        "alias": "Contents.Quest.Mission.10065",
+        "text": "追踪海水的痕迹"
+    },
+    "120010066": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10021_5",
+        "id": 120010066,
+        "alias": "Contents.Quest.Mission.10066",
+        "text": "消灭妨碍野生动物"
+    },
+    "120010067": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10021_6",
+        "id": 120010067,
+        "alias": "Contents.Quest.Mission.10067",
+        "text": "调查海水的痕迹"
+    },
+    "120010068": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10021_7",
+        "id": 120010068,
+        "alias": "Contents.Quest.Mission.10068",
+        "text": "发现海水的住处"
+    },
+    "120010069": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10021_8",
+        "id": 120010069,
+        "alias": "Contents.Quest.Mission.10069",
+        "text": "与吉米甲对话"
+    },
+    "120010070": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10022_1",
+        "id": 120010070,
+        "alias": "Contents.Quest.Mission.10070",
+        "text": "听开拓巴隆团的对话"
+    },
+    "120010071": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10022_2",
+        "id": 120010071,
+        "alias": "Contents.Quest.Mission.10071",
+        "text": "和猫咪对话"
+    },
+    "120010072": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10022_3",
+        "id": 120010072,
+        "alias": "Contents.Quest.Mission.10072",
+        "text": "与红梅对话"
+    },
+    "120010073": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10022_4",
+        "id": 120010073,
+        "alias": "Contents.Quest.Mission.10073",
+        "text": "帮助钓鱼人"
+    },
+    "120010074": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10022_5",
+        "id": 120010074,
+        "alias": "Contents.Quest.Mission.10074",
+        "text": "与红梅对话"
+    },
+    "120010075": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10022_6",
+        "id": 120010075,
+        "alias": "Contents.Quest.Mission.10075",
+        "text": "把许可证交给梅花团"
+    },
+    "120010076": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10022_7",
+        "id": 120010076,
+        "alias": "Contents.Quest.Mission.10076",
+        "text": "和猫咪对话"
+    },
+    "120010077": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10023_1",
+        "id": 120010077,
+        "alias": "Contents.Quest.Mission.10077",
+        "text": "迁往水月港"
+    },
+    "120010078": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10023_2",
+        "id": 120010078,
+        "alias": "Contents.Quest.Mission.10078",
+        "text": "和猫咪对话"
+    },
+    "120010079": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10023_3",
+        "id": 120010079,
+        "alias": "Contents.Quest.Mission.10079",
+        "text": "调任教员"
+    },
+    "120010080": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10023_4",
+        "id": 120010080,
+        "alias": "Contents.Quest.Mission.10080",
+        "text": "灵教员树下确认"
+    },
+    "120010081": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10023_5",
+        "id": 120010081,
+        "alias": "Contents.Quest.Mission.10081",
+        "text": "确认你的礼物"
+    },
+    "120010082": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10024_1",
+        "id": 120010082,
+        "alias": "Contents.Quest.Mission.10082",
+        "text": "和敏京对话"
+    },
+    "120010083": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10024_2",
+        "id": 120010083,
+        "alias": "Contents.Quest.Mission.10083",
+        "text": "确认夜话状态"
+    },
+    "120010084": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10024_3",
+        "id": 120010084,
+        "alias": "Contents.Quest.Mission.10084",
+        "text": "追可疑的男人"
+    },
+    "120010085": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10024_4",
+        "id": 120010085,
+        "alias": "Contents.Quest.Mission.10085",
+        "text": "与可疑的男人战斗"
+    },
+    "120010086": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10024_5",
+        "id": 120010086,
+        "alias": "Contents.Quest.Mission.10086",
+        "text": "与可疑的男人对话"
+    },
+    "120010087": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10024_6",
+        "id": 120010087,
+        "alias": "Contents.Quest.Mission.10087",
+        "text": "确认其他石碑的状态"
+    },
+    "120010088": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10000_2",
+        "id": 120010088,
+        "alias": "Contents.Quest.Mission.10088",
+        "text": "收集更有用的树"
+    },
+    "120010089": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10025_1",
+        "id": 120010089,
+        "alias": "Contents.Quest.Mission.10089",
+        "text": "半月湖治安强化"
+    },
+    "120010090": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10026_1",
+        "id": 120010090,
+        "alias": "Contents.Quest.Mission.10090",
+        "text": "击杀老虎"
+    },
+    "120010091": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10026_2",
+        "id": 120010091,
+        "alias": "Contents.Quest.Mission.10091",
+        "text": "和微风对话"
+    },
+    "120010092": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10027_1",
+        "id": 120010092,
+        "alias": "Contents.Quest.Mission.10092",
+        "text": "袭击斗夜团根据地"
+    },
+    "120010093": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10027_2",
+        "id": 120010093,
+        "alias": "Contents.Quest.Mission.10093",
+        "text": "与马帕兰对话"
+    },
+    "120010096": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10029_1",
+        "id": 120010096,
+        "alias": "Contents.Quest.Mission.10096",
+        "text": "教训鬼怪"
+    },
+    "120010097": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10029_2",
+        "id": 120010097,
+        "alias": "Contents.Quest.Mission.10097",
+        "text": "和鬼怪对话"
+    },
+    "120010098": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10029_3",
+        "id": 120010098,
+        "alias": "Contents.Quest.Mission.10098",
+        "text": "与居民傻子对话"
+    },
+    "120010099": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10030_1",
+        "id": 120010099,
+        "alias": "Contents.Quest.Mission.10099",
+        "text": "施舍"
+    },
+    "120010100": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10030_2",
+        "id": 120010100,
+        "alias": "Contents.Quest.Mission.10100",
+        "text": "对话"
+    },
+    "120010101": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10031_1",
+        "id": 120010101,
+        "alias": "Contents.Quest.Mission.10101",
+        "text": "武器制作材料收集"
+    },
+    "120010102": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10031_2",
+        "id": 120010102,
+        "alias": "Contents.Quest.Mission.10102",
+        "text": "对话"
+    },
+    "120010103": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10006_1",
+        "id": 120010103,
+        "alias": "Contents.Quest.Mission.10103",
+        "text": "蓝海螺蟹整理"
+    },
+    "120010104": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10012_3",
+        "id": 120010104,
+        "alias": "Contents.Quest.Mission.10104",
+        "text": "询问尼昂"
+    },
+    "120010105": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10010_2",
+        "id": 120010105,
+        "alias": "Contents.Quest.Mission.10105",
+        "text": "讨伐墓地森林蜘蛛"
+    },
+    "120010106": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10017_2",
+        "id": 120010106,
+        "alias": "Contents.Quest.Mission.10106",
+        "text": "兴致勃勃地寻找篮子"
+    },
+    "120010107": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10032_1",
+        "id": 120010107,
+        "alias": "Contents.Quest.Mission.10107",
+        "text": "进入觉醒走廊"
+    },
+    "120010108": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10032_2",
+        "id": 120010108,
+        "alias": "Contents.Quest.Mission.10108",
+        "text": "往走廊里"
+    },
+    "120010109": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10032_9",
+        "id": 120010109,
+        "alias": "Contents.Quest.Mission.10109",
+        "text": "寻找走廊出口"
+    },
+    "120010110": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10032_10",
+        "id": 120010110,
+        "alias": "Contents.Quest.Mission.10110",
+        "text": "移动到走廊外"
+    },
+    "120010111": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10033_1",
+        "id": 120010111,
+        "alias": "Contents.Quest.Mission.10111",
+        "text": "进入觉醒走廊"
+    },
+    "120010112": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10033_2",
+        "id": 120010112,
+        "alias": "Contents.Quest.Mission.10112",
+        "text": "往走廊里"
+    },
+    "120010113": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10033_11",
+        "id": 120010113,
+        "alias": "Contents.Quest.Mission.10113",
+        "text": "寻找走廊出口"
+    },
+    "120010114": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10033_12",
+        "id": 120010114,
+        "alias": "Contents.Quest.Mission.10114",
+        "text": "移动到走廊外"
+    },
+    "120010115": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10004_2",
+        "id": 120010115,
+        "alias": "Contents.Quest.Mission.10115",
+        "text": "寻找夜话"
+    },
+    "120010116": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10004_3",
+        "id": 120010116,
+        "alias": "Contents.Quest.Mission.10116",
+        "text": "探索空洞的坑"
+    },
+    "120010117": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10004_4",
+        "id": 120010117,
+        "alias": "Contents.Quest.Mission.10117",
+        "text": "寻找夜话"
+    },
+    "120010118": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10032_3",
+        "id": 120010118,
+        "alias": "Contents.Quest.Mission.10118",
+        "text": "处置入口守护兵"
+    },
+    "120010119": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10032_4",
+        "id": 120010119,
+        "alias": "Contents.Quest.Mission.10119",
+        "text": "处置地下守护兵"
+    },
+    "120010120": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10032_5",
+        "id": 120010120,
+        "alias": "Contents.Quest.Mission.10120",
+        "text": "击败精英守护兵"
+    },
+    "120010121": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10032_6",
+        "id": 120010121,
+        "alias": "Contents.Quest.Mission.10121",
+        "text": "沿途移动"
+    },
+    "120010122": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10032_8",
+        "id": 120010122,
+        "alias": "Contents.Quest.Mission.10122",
+        "text": "移动到楼梯上"
+    },
+    "120010123": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10032_7",
+        "id": 120010123,
+        "alias": "Contents.Quest.Mission.10123",
+        "text": "可疑的设备操作"
+    },
+    "120010124": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10033_3",
+        "id": 120010124,
+        "alias": "Contents.Quest.Mission.10124",
+        "text": "击败守护兵"
+    },
+    "120010125": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10033_4",
+        "id": 120010125,
+        "alias": "Contents.Quest.Mission.10125",
+        "text": "移动到悬崖上"
+    },
+    "120010126": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10033_5",
+        "id": 120010126,
+        "alias": "Contents.Quest.Mission.10126",
+        "text": "击败守护兵"
+    },
+    "120010127": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10033_6",
+        "id": 120010127,
+        "alias": "Contents.Quest.Mission.10127",
+        "text": "击败精英守护兵"
+    },
+    "120010128": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10033_8",
+        "id": 120010128,
+        "alias": "Contents.Quest.Mission.10128",
+        "text": "向内移动"
+    },
+    "120010129": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10033_7",
+        "id": 120010129,
+        "alias": "Contents.Quest.Mission.10129",
+        "text": "可疑的设备操作"
+    },
+    "120010130": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10033_10",
+        "id": 120010130,
+        "alias": "Contents.Quest.Mission.10130",
+        "text": "沿途移动"
+    },
+    "120010131": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10033_11",
+        "id": 120010131,
+        "alias": "Contents.Quest.Mission.10131",
+        "text": "击杀远程守护兵"
+    },
+    "120010132": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10033_9",
+        "id": 120010132,
+        "alias": "Contents.Quest.Mission.10132",
+        "text": "向对面移动"
+    },
+    "120010133": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10024_4",
+        "id": 120010133,
+        "alias": "Contents.Quest.Mission.10133",
+        "text": "再次追赶可疑的男人"
+    },
+    "120010134": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10024_7",
+        "id": 120010134,
+        "alias": "Contents.Quest.Mission.10134",
+        "text": "向前移动"
+    },
+    "120010135": {
+        "deprecated": false,
+        "Dev_Desc": "반달서브_10024_4",
+        "id": 120010135,
+        "alias": "Contents.Quest.Mission.10135",
+        "text": "夜话确认"
+    }
+}

@@ -1,0 +1,3264 @@
+{
+    "92000001": {
+        "deprecated": false,
+        "Dev_Desc": "수련용 검",
+        "id": 92000001,
+        "alias": "Contents.Item.Desc.2000001"
+    },
+    "92000002": {
+        "deprecated": false,
+        "Dev_Desc": "수련용 권갑",
+        "id": 92000002,
+        "alias": "Contents.Item.Desc.2000002"
+    },
+    "92000003": {
+        "deprecated": false,
+        "Dev_Desc": "수련용 기공패",
+        "id": 92000003,
+        "alias": "Contents.Item.Desc.2000003"
+    },
+    "92000004": {
+        "deprecated": false,
+        "Dev_Desc": "수련용 도끼",
+        "id": 92000004,
+        "alias": "Contents.Item.Desc.2000004"
+    },
+    "92000005": {
+        "deprecated": false,
+        "Dev_Desc": "수련용 활",
+        "id": 92000005,
+        "alias": "Contents.Item.Desc.2000005"
+    },
+    "92000052": {
+        "deprecated": false,
+        "Dev_Desc": "조화 검_몬스터 루팅 테스트용",
+        "id": 92000052,
+        "alias": "Contents.Item.Desc.2000052"
+    },
+    "92000053": {
+        "deprecated": false,
+        "Dev_Desc": "조화 권갑_몬스터 루팅 테스트용",
+        "id": 92000053,
+        "alias": "Contents.Item.Desc.2000053"
+    },
+    "92000054": {
+        "deprecated": false,
+        "Dev_Desc": "조화 도끼_몬스터 루팅 테스트용",
+        "id": 92000054,
+        "alias": "Contents.Item.Desc.2000054"
+    },
+    "92000069": {
+        "deprecated": false,
+        "Dev_Desc": "테스트_투명Mesh_검",
+        "id": 92000069,
+        "alias": "Contents.Item.Desc.2000069"
+    },
+    "92000070": {
+        "deprecated": false,
+        "Dev_Desc": "테스트_투명Mesh_권갑",
+        "id": 92000070,
+        "alias": "Contents.Item.Desc.2000070"
+    },
+    "92000071": {
+        "deprecated": false,
+        "Dev_Desc": "테스트_투명Mesh_도끼",
+        "id": 92000071,
+        "alias": "Contents.Item.Desc.2000071"
+    },
+    "92000072": {
+        "deprecated": false,
+        "Dev_Desc": "테스트_투명Mesh_기공패",
+        "id": 92000072,
+        "alias": "Contents.Item.Desc.2000072"
+    },
+    "92000073": {
+        "deprecated": false,
+        "Dev_Desc": "테스트_투명Mesh_활",
+        "id": 92000073,
+        "alias": "Contents.Item.Desc.2000073"
+    },
+    "92000074": {
+        "deprecated": false,
+        "Dev_Desc": "테스트_투명Mesh_단검",
+        "id": 92000074,
+        "alias": "Contents.Item.Desc.2000074"
+    },
+    "92000075": {
+        "deprecated": false,
+        "Dev_Desc": "장검_시작",
+        "id": 92000075,
+        "alias": "Contents.Item.Desc.2000075",
+        "text": "这是为武术比赛参与者准备的武器."
+    },
+    "92000076": {
+        "deprecated": false,
+        "Dev_Desc": "장검_얕은 호수",
+        "id": 92000076,
+        "alias": "Contents.Item.Desc.2000076",
+        "text": "虽然年久失修,但以它的形状来看,是一把在过去以锋利而闻名的长剑.. <br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>荷叶<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>小偷<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>铁匠铺<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>巨型蘑菇<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>蓝色寄居蟹"
+    },
+    "92000077": {
+        "deprecated": false,
+        "Dev_Desc": "장검_썩은 벌목지(서인족)",
+        "id": 92000077,
+        "alias": "Contents.Item.Desc.2000077",
+        "text": "因为不保养所以到处生锈,但由于重量轻,它针对击中敌人进行了优化. <br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>蜥人族<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>奸细<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>侵蚀蜥人族"
+    },
+    "92000078": {
+        "deprecated": false,
+        "Dev_Desc": "장검_거북호",
+        "id": 92000078,
+        "alias": "Contents.Item.Desc.2000078",
+        "text": "在可靠的作坊中制作的平衡良好的长剑. <br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>失控守卫<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>金钢之拳<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>腐蚀的盖茨<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>警卫<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>湖龟"
+    },
+    "92000079": {
+        "deprecated": false,
+        "Dev_Desc": "장검_해지는 목초지",
+        "id": 92000079,
+        "alias": "Contents.Item.Desc.2000079",
+        "text": "为了弥补长剑的不足而制作的异形剑.它已得到改进,可以对敌人造成更多伤害.<br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>草木精灵<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>草木大精灵<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>红脚<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>金爪<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>鹿"
+    },
+    "92000080": {
+        "deprecated": false,
+        "Dev_Desc": "장검_창도단 소굴(창도단)",
+        "id": 92000080,
+        "alias": "Contents.Item.Desc.2000080",
+        "text": "昌都团经常使用的长剑.轻巧的重量,最适合脱落.<br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>昌都团盗贼"
+    },
+    "92000081": {
+        "deprecated": false,
+        "Dev_Desc": "장검_고도시 삼림 길",
+        "id": 92000081,
+        "alias": "Contents.Item.Desc.2000081",
+        "text": "这是一把长剑,通过在剑的表面镀上一层银来提高切割力.<br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>树精<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>青木<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>红眼睛<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>黑爪子"
+    },
+    "92000082": {
+        "deprecated": false,
+        "Dev_Desc": "장검_돌 언덕 구릉지",
+        "id": 92000082,
+        "alias": "Contents.Item.Desc.2000082",
+        "text": "这是在思考如何让一把普通的长剑变得更加强大之后出来的长剑.它的形状让人想起尖尖的鸢尾叶.<br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>制作<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>狼<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>熊<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>鹿<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>平原狐狸<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>巨浪"
+    },
+    "92000083": {
+        "deprecated": false,
+        "Dev_Desc": "장검_투엽단 근거지(투엽단)",
+        "id": 92000083,
+        "alias": "Contents.Item.Desc.2000083",
+        "text": "为了更有效的偷猎活动,通过致命的一击,将猎物改良为可以一下子沉默的形态.장검입니다.<br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>制作<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>啾叶丹偷猎者"
+    },
+    "92000084": {
+        "deprecated": false,
+        "Dev_Desc": "장검_공허의 구덩이",
+        "id": 92000084,
+        "alias": "Contents.Item.Desc.2000084",
+        "text": "为了割断中间的东西,使用了神灵树枝作为把手的长剑.<br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>制作<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>火魔者<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>熊"
+    },
+    "92000085": {
+        "deprecated": false,
+        "Dev_Desc": "장검_깊은 묘지 숲",
+        "id": 92000085,
+        "alias": "Contents.Item.Desc.2000085",
+        "text": "祈愿天空中有七星气息而制作的长剑.虽然没有星星的气息,但是精心制作的,展现了俊秀的性能.<br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>制作<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>巨型蜘蛛<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>蜘蛛<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>鬼火"
+    },
+    "92000086": {
+        "deprecated": false,
+        "Dev_Desc": "장검_파괴된 수와족 마을",
+        "id": 92000086,
+        "alias": "Contents.Item.Desc.2000086",
+        "text": "看这把剑被拔出来,有人说回不去了.<br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>制作<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>鹿<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>狼<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>沼泽雷克顿<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>侵蚀的沼泽雷克顿<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>侵蚀的蝎子"
+    },
+    "92000087": {
+        "deprecated": false,
+        "Dev_Desc": "장검_으스스한 골짜기",
+        "id": 92000087,
+        "alias": "Contents.Item.Desc.2000087",
+        "text": "黑太阳升起的那天,获得灵感的一位匠人制作的剑.面对这把剑的人感觉世界变得黑暗了.<br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>矛盾<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>草灵木<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>钢铁雷克顿"
+    },
+    "92000088": {
+        "deprecated": false,
+        "Dev_Desc": "흑예",
+        "id": 92000088,
+        "alias": "Contents.Item.Desc.2000088",
+        "text": "臭名昭著的昌道团员和轮的巨大剑上粘着无数敌人的血. <br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>瓦轮"
+    },
+    "92000089": {
+        "deprecated": false,
+        "Dev_Desc": "수련용 도",
+        "id": 92000089,
+        "alias": "Contents.Item.Desc.2000089",
+        "text": "训练"
+    },
+    "92000090": {
+        "deprecated": false,
+        "Dev_Desc": "팔괘도",
+        "id": 92000090,
+        "alias": "Contents.Item.Desc.2000090",
+        "text": "巴瓜多"
+    },
+    "92000091": {
+        "deprecated": false,
+        "Dev_Desc": "유엽도",
+        "id": 92000091,
+        "alias": "Contents.Item.Desc.2000091",
+        "text": "柳叶道"
+    },
+    "92000092": {
+        "deprecated": false,
+        "Dev_Desc": "묘도",
+        "id": 92000092,
+        "alias": "Contents.Item.Desc.2000092",
+        "text": "公墓"
+    },
+    "92000093": {
+        "deprecated": false,
+        "Dev_Desc": "박도",
+        "id": 92000093,
+        "alias": "Contents.Item.Desc.2000093",
+        "text": "朴道"
+    },
+    "92000094": {
+        "deprecated": false,
+        "Dev_Desc": "기병도",
+        "id": 92000094,
+        "alias": "Contents.Item.Desc.2000094",
+        "text": "骑兵"
+    },
+    "92000095": {
+        "deprecated": false,
+        "Dev_Desc": "춘추도",
+        "id": 92000095,
+        "alias": "Contents.Item.Desc.2000095",
+        "text": "春天和秋天"
+    },
+    "92000096": {
+        "deprecated": false,
+        "Dev_Desc": "환두대도",
+        "id": 92000096,
+        "alias": "Contents.Item.Desc.2000096",
+        "text": "环斗图<br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>制作"
+    },
+    "92000097": {
+        "deprecated": false,
+        "Dev_Desc": "절영도",
+        "id": 92000097,
+        "alias": "Contents.Item.Desc.2000097",
+        "text": "绝影图<br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>制作"
+    },
+    "92000098": {
+        "deprecated": false,
+        "Dev_Desc": "제령도",
+        "id": 92000098,
+        "alias": "Contents.Item.Desc.2000098",
+        "text": "制灵图<br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>制作"
+    },
+    "92000099": {
+        "deprecated": false,
+        "Dev_Desc": "신염대도",
+        "id": 92000099,
+        "alias": "Contents.Item.Desc.2000099",
+        "text": "新盐图<br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>制作"
+    },
+    "92000100": {
+        "deprecated": false,
+        "Dev_Desc": "일월건곤도",
+        "id": 92000100,
+        "alias": "Contents.Item.Desc.2000100",
+        "text": "日月乾坤图<br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>制作"
+    },
+    "92000101": {
+        "deprecated": false,
+        "Dev_Desc": "태극도",
+        "id": 92000101,
+        "alias": "Contents.Item.Desc.2000101",
+        "text": "太极图<br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>制作"
+    },
+    "92000102": {
+        "deprecated": false,
+        "Dev_Desc": "흑월",
+        "id": 92000102,
+        "alias": "Contents.Item.Desc.2000102",
+        "text": "黑月<br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>制作"
+    },
+    "92000103": {
+        "deprecated": false,
+        "Dev_Desc": "권갑_시작",
+        "id": 92000103,
+        "alias": "Contents.Item.Desc.2000103",
+        "text": "这是为武术比赛参与者准备的武器."
+    },
+    "92000104": {
+        "deprecated": false,
+        "Dev_Desc": "권갑_얕은 호수",
+        "id": 92000104,
+        "alias": "Contents.Item.Desc.2000104",
+        "text": "破破的拳套,但足以攻破敌人的防御. <br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>荷叶人<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>偷盗<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>大只淘气<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>巨型蘑菇<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>蓝色寄居蟹"
+    },
+    "92000105": {
+        "deprecated": false,
+        "Dev_Desc": "권갑_썩은 벌목지(서인족)",
+        "id": 92000105,
+        "alias": "Contents.Item.Desc.2000105",
+        "text": "这是一张旧拳套,上面有蜥人族的毛.. <br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>蜥人族<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>简子<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>侵蚀的蜥人族"
+    },
+    "92000106": {
+        "deprecated": false,
+        "Dev_Desc": "권갑_거북호",
+        "id": 92000106,
+        "alias": "Contents.Item.Desc.2000106",
+        "text": "是市面上能买到的拳套.作为畅销商品,其品质是经过验证的商品.<br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>暴走守护兵<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>金刚铁拳<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>侵蚀的狗骨瓦<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>守护兵<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>湖龟"
+    },
+    "92000107": {
+        "deprecated": false,
+        "Dev_Desc": "권갑_해지는 목초지",
+        "id": 92000107,
+        "alias": "Contents.Item.Desc.2000107",
+        "text": "这是为了给对方更大的冲击而镶了锣的拳套. <br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>草木精灵<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>草木大精灵<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>红爪子<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>黄金爆发<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>鹿"
+    },
+    "92000108": {
+        "deprecated": false,
+        "Dev_Desc": "권갑_창도단 소굴(창도단)",
+        "id": 92000108,
+        "alias": "Contents.Item.Desc.2000108",
+        "text": "作为昌道团主要使用的拳套,制作的轻便而敏捷,是理想的形态.<br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>昌道团盗贼"
+    },
+    "92000109": {
+        "deprecated": false,
+        "Dev_Desc": "권갑_고도시 삼림 길",
+        "id": 92000109,
+        "alias": "Contents.Item.Desc.2000109",
+        "text": "用坚硬的枫树制作的拳套.<br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>树精<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>青木<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>赤木<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>黑色爆发"
+    },
+    "92000110": {
+        "deprecated": false,
+        "Dev_Desc": "권갑_돌 언덕 구릉지",
+        "id": 92000110,
+        "alias": "Contents.Item.Desc.2000110",
+        "text": "用整条钢铁制作的拳套.虽然很沉重但只能承认其破坏力..<br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>制作<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>狼<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>熊<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>鹿<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>平原狐狸<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>巨浪"
+    },
+    "92000111": {
+        "deprecated": false,
+        "Dev_Desc": "권갑_투엽단 근거지(투엽단)",
+        "id": 92000111,
+        "alias": "Contents.Item.Desc.2000111",
+        "text": "是双叶团使用的拳套.为了把猎物无声地制服,贴上了致命的日子. <br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>制作<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>斗夜团偷猎者"
+    },
+    "92000112": {
+        "deprecated": false,
+        "Dev_Desc": "권갑_공허의 구덩이",
+        "id": 92000112,
+        "alias": "Contents.Item.Desc.2000112",
+        "text": "想留下名作的无名工匠向英灵祈求,是光明的拳套. <br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>制作<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>火魔者<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>熊"
+    },
+    "92000113": {
+        "deprecated": false,
+        "Dev_Desc": "권갑_깊은 묘지 숲",
+        "id": 92000113,
+        "alias": "Contents.Item.Desc.2000113",
+        "text": "为了击退僧侣们之间的关系,用灵验的气息制作的拳套.<br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>制作<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>巨型蜘蛛<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>蜘蛛<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>鬼火"
+    },
+    "92000114": {
+        "deprecated": false,
+        "Dev_Desc": "권갑_파괴된 수와족 마을",
+        "id": 92000114,
+        "alias": "Contents.Item.Desc.2000114",
+        "text": "想表现出老虎咆哮的猛烈气势的拳套.<br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>制作<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>鹿<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>狼<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>沼泽雷克顿<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>侵蚀的沼泽雷克顿<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>侵蚀的蝎子"
+    },
+    "92000115": {
+        "deprecated": false,
+        "Dev_Desc": "권갑_으스스한 골짜기",
+        "id": 92000115,
+        "alias": "Contents.Item.Desc.2000115",
+        "text": "使用交接与冥界之境下的材料制作的拳套.<br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>矛盾<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>草灵木<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>钢铁雷克顿"
+    },
+    "92000116": {
+        "deprecated": false,
+        "Dev_Desc": "흑광",
+        "id": 92000116,
+        "alias": "Contents.Item.Desc.2000116",
+        "text": "把牺牲者们压垮的乌福的巨大脚相似的拳套. <br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>乌福"
+    },
+    "92000117": {
+        "deprecated": false,
+        "Dev_Desc": "수련용 중권갑",
+        "id": 92000117,
+        "alias": "Contents.Item.Desc.2000117",
+        "text": "这是为武术比赛参与者准备的武器."
+    },
+    "92000118": {
+        "deprecated": false,
+        "Dev_Desc": "새벽 중권갑",
+        "id": 92000118,
+        "alias": "Contents.Item.Desc.2000118",
+        "text": "黎明重甲"
+    },
+    "92000119": {
+        "deprecated": false,
+        "Dev_Desc": "청동 중권갑",
+        "id": 92000119,
+        "alias": "Contents.Item.Desc.2000119",
+        "text": "青铜重甲"
+    },
+    "92000120": {
+        "deprecated": false,
+        "Dev_Desc": "가시 중권갑",
+        "id": 92000120,
+        "alias": "Contents.Item.Desc.2000120",
+        "text": "荆棘重甲"
+    },
+    "92000121": {
+        "deprecated": false,
+        "Dev_Desc": "야만 중권갑",
+        "id": 92000121,
+        "alias": "Contents.Item.Desc.2000121",
+        "text": "野蛮重甲"
+    },
+    "92000122": {
+        "deprecated": false,
+        "Dev_Desc": "거석 중권갑",
+        "id": 92000122,
+        "alias": "Contents.Item.Desc.2000122",
+        "text": "巨石重甲"
+    },
+    "92000123": {
+        "deprecated": false,
+        "Dev_Desc": "투혼 중권갑",
+        "id": 92000123,
+        "alias": "Contents.Item.Desc.2000123",
+        "text": "斗魂重甲"
+    },
+    "92000124": {
+        "deprecated": false,
+        "Dev_Desc": "대지 중권갑",
+        "id": 92000124,
+        "alias": "Contents.Item.Desc.2000124",
+        "text": "大地重拳甲<br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>制作"
+    },
+    "92000125": {
+        "deprecated": false,
+        "Dev_Desc": "태천 중권갑",
+        "id": 92000125,
+        "alias": "Contents.Item.Desc.2000125",
+        "text": "山川重拳甲<br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>制作"
+    },
+    "92000126": {
+        "deprecated": false,
+        "Dev_Desc": "해일 중권갑",
+        "id": 92000126,
+        "alias": "Contents.Item.Desc.2000126",
+        "text": "海啸重拳甲<br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>制作"
+    },
+    "92000127": {
+        "deprecated": false,
+        "Dev_Desc": "천무 중권갑",
+        "id": 92000127,
+        "alias": "Contents.Item.Desc.2000127",
+        "text": "天武重拳甲<br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>制作"
+    },
+    "92000128": {
+        "deprecated": false,
+        "Dev_Desc": "명왕 중권갑",
+        "id": 92000128,
+        "alias": "Contents.Item.Desc.2000128",
+        "text": "国王重拳甲<br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>制作"
+    },
+    "92000129": {
+        "deprecated": false,
+        "Dev_Desc": "무혼 중권갑",
+        "id": 92000129,
+        "alias": "Contents.Item.Desc.2000129",
+        "text": "武魂重拳甲<br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>制作"
+    },
+    "92000130": {
+        "deprecated": false,
+        "Dev_Desc": "흑운",
+        "id": 92000130,
+        "alias": "Contents.Item.Desc.2000130",
+        "text": "乌云<br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>制作"
+    },
+    "92000131": {
+        "deprecated": false,
+        "Dev_Desc": "불꽃패_시작",
+        "id": 92000131,
+        "alias": "Contents.Item.Desc.2000131",
+        "text": "这是为武术比赛参与者准备的武器."
+    },
+    "92000132": {
+        "deprecated": false,
+        "Dev_Desc": "불꽃패_얕은 호수",
+        "id": 92000132,
+        "alias": "Contents.Item.Desc.2000132",
+        "text": "失去光芒的古老气功牌<br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>荷叶人<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>偷盗<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>大只淘气<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>巨型蘑菇<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>蓝色寄居蟹"
+    },
+    "92000133": {
+        "deprecated": false,
+        "Dev_Desc": "불꽃패_썩은 벌목지(서인족)",
+        "id": 92000133,
+        "alias": "Contents.Item.Desc.2000133",
+        "text": "因对光敏感的蜥人族固有的特性,在追赶敌人方面具有卓越的性能.<br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>蜥人族<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>侵蚀的蜥人族"
+    },
+    "92000134": {
+        "deprecated": false,
+        "Dev_Desc": "불꽃패_거북호",
+        "id": 92000134,
+        "alias": "Contents.Item.Desc.2000134",
+        "text": "燃烧着的火焰气息的气功牌.<br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>暴走守护兵<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>金刚铁拳<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>侵蚀的狗骨瓦<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>守护兵<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>湖龟"
+    },
+    "92000135": {
+        "deprecated": false,
+        "Dev_Desc": "불꽃패_해지는 목초지",
+        "id": 92000135,
+        "alias": "Contents.Item.Desc.2000135",
+        "text": "气功师们通过反复的研究,越过火花,成功地将完整的火的气息展现出来.<br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>草木精灵<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>草木大精灵<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>红爪子<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>黄金爆发<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>鹿"
+    },
+    "92000136": {
+        "deprecated": false,
+        "Dev_Desc": "불꽃패_창도단 소굴(창도단)",
+        "id": 92000136,
+        "alias": "Contents.Item.Desc.2000136",
+        "text": "我敢断言,火是引起混乱的最卓越的手段.昌道团在他们的生计中利用这一手段,大幅增加了他们的生存能力..<br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>昌道团盗贼"
+    },
+    "92000137": {
+        "deprecated": false,
+        "Dev_Desc": "불꽃패_고도시 삼림 길",
+        "id": 92000137,
+        "alias": "Contents.Item.Desc.2000137",
+        "text": "火之气功师们对更强烈的火焰的渴望最终超越红色,引领他们走向蓝色领域. <br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>树精<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>青木<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>赤木<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>黑色爆发"
+    },
+    "92000138": {
+        "deprecated": false,
+        "Dev_Desc": "불꽃패_돌 언덕 구릉지",
+        "id": 92000138,
+        "alias": "Contents.Item.Desc.2000138",
+        "text": "大而美丽的火花和热情,这才是绑定生的真理<br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>狼<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>熊<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>鹿<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>平原狐狸<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>巨浪"
+    },
+    "92000139": {
+        "deprecated": false,
+        "Dev_Desc": "불꽃패_투엽단 근거지(투엽단)",
+        "id": 92000139,
+        "alias": "Contents.Item.Desc.2000139",
+        "text": "战士使用的浓烈火焰专门对目标造成致命伤害. <br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>斗夜团偷猎者"
+    },
+    "92000140": {
+        "deprecated": false,
+        "Dev_Desc": "불꽃패_공허의 구덩이",
+        "id": 92000140,
+        "alias": "Contents.Item.Desc.2000140",
+        "text": "对火的气功师们的研究发现了永不熄灭的火焰,火的气功师们把它命名为真炎.<br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>火魔者<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>熊"
+    },
+    "92000141": {
+        "deprecated": false,
+        "Dev_Desc": "불꽃패_깊은 묘지 숲",
+        "id": 92000141,
+        "alias": "Contents.Item.Desc.2000141",
+        "text": "把火的净化力量最大化的气功牌.<br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>巨型蜘蛛<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>蜘蛛<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>鬼火"
+    },
+    "92000142": {
+        "deprecated": false,
+        "Dev_Desc": "불꽃패_파괴된 수와족 마을",
+        "id": 92000142,
+        "alias": "Contents.Item.Desc.2000142",
+        "text": "现在虽然那火热减弱了,但还是有一部分珍藏着太阳力量的贵重物品. <br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>鹿<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>狼<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>沼泽雷克顿<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>侵蚀的沼泽雷克顿<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>侵蚀的蝎子"
+    },
+    "92000143": {
+        "deprecated": false,
+        "Dev_Desc": "불꽃패_으스스한 골짜기",
+        "id": 92000143,
+        "alias": "Contents.Item.Desc.2000143",
+        "text": "利用巨大的尾星留下的痕迹制作的,里面的力量还不清楚. <br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>矛盾<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>草灵木<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>钢铁雷克顿"
+    },
+    "92000144": {
+        "deprecated": false,
+        "Dev_Desc": "흑오패",
+        "id": 92000144,
+        "alias": "Contents.Item.Desc.2000144",
+        "text": "用红鳞之核制作的火花气功牌.不安定的核不停地散发热气. <br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>红磷"
+    },
+    "92000145": {
+        "deprecated": false,
+        "Dev_Desc": "미늘창",
+        "id": 92000145,
+        "alias": "Contents.Item.Desc.2000145",
+        "text": "戟"
+    },
+    "92000146": {
+        "deprecated": false,
+        "Dev_Desc": "십자 미늘창",
+        "id": 92000146,
+        "alias": "Contents.Item.Desc.2000146",
+        "text": "十字戟"
+    },
+    "92000147": {
+        "deprecated": false,
+        "Dev_Desc": "양날 미늘창",
+        "id": 92000147,
+        "alias": "Contents.Item.Desc.2000147",
+        "text": "双刃矛"
+    },
+    "92000148": {
+        "deprecated": false,
+        "Dev_Desc": "강철 미늘창",
+        "id": 92000148,
+        "alias": "Contents.Item.Desc.2000148",
+        "text": "钢百叶窗"
+    },
+    "92000149": {
+        "deprecated": false,
+        "Dev_Desc": "당파창",
+        "id": 92000149,
+        "alias": "Contents.Item.Desc.2000149",
+        "text": "党派"
+    },
+    "92000150": {
+        "deprecated": false,
+        "Dev_Desc": "대신창",
+        "id": 92000150,
+        "alias": "Contents.Item.Desc.2000150",
+        "text": "而不是窗口"
+    },
+    "92000151": {
+        "deprecated": false,
+        "Dev_Desc": "쌍초겸",
+        "id": 92000151,
+        "alias": "Contents.Item.Desc.2000151",
+        "text": "双胞胎"
+    },
+    "92000152": {
+        "deprecated": false,
+        "Dev_Desc": "천영화극",
+        "id": 92000152,
+        "alias": "Contents.Item.Desc.2000152",
+        "text": "千部电影"
+    },
+    "92000153": {
+        "deprecated": false,
+        "Dev_Desc": "월아산",
+        "id": 92000153,
+        "alias": "Contents.Item.Desc.2000153",
+        "text": "月牙山"
+    },
+    "92000154": {
+        "deprecated": false,
+        "Dev_Desc": "청룡극",
+        "id": 92000154,
+        "alias": "Contents.Item.Desc.2000154",
+        "text": "蓝龙戏"
+    },
+    "92000155": {
+        "deprecated": false,
+        "Dev_Desc": "명월삭",
+        "id": 92000155,
+        "alias": "Contents.Item.Desc.2000155",
+        "text": "新月"
+    },
+    "92000156": {
+        "deprecated": false,
+        "Dev_Desc": "쇄혼삭",
+        "id": 92000156,
+        "alias": "Contents.Item.Desc.2000156",
+        "text": "粉碎"
+    },
+    "92000157": {
+        "deprecated": false,
+        "Dev_Desc": "풍령창",
+        "id": 92000157,
+        "alias": "Contents.Item.Desc.2000157",
+        "text": "风矛"
+    },
+    "92000158": {
+        "deprecated": false,
+        "Dev_Desc": "흑영",
+        "id": 92000158,
+        "alias": "Contents.Item.Desc.2000158",
+        "text": "黑精灵"
+    },
+    "92000159": {
+        "deprecated": false,
+        "Dev_Desc": "대형도끼_시작",
+        "id": 92000159,
+        "alias": "Contents.Item.Desc.2000159",
+        "text": "这是为武术比赛参与者准备的武器."
+    },
+    "92000160": {
+        "deprecated": false,
+        "Dev_Desc": "대형도끼_얕은 호수",
+        "id": 92000160,
+        "alias": "Contents.Item.Desc.2000160",
+        "text": "虽然时间太久了,稀稀拉拉地掉了下来,但剩下的部分仍然觉得很有威胁.<br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>荷叶人<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>偷盗<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>大只淘气<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>巨型蘑菇<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>蓝色寄居蟹"
+    },
+    "92000161": {
+        "deprecated": false,
+        "Dev_Desc": "대형도끼_썩은 벌목지(서인족)",
+        "id": 92000161,
+        "alias": "Contents.Item.Desc.2000161",
+        "text": "蜥人族使用的大型斧头.虽然破碎的地方很多,但由于蜥人使用的轻重量,可以更加准确地瞄准敌人. <br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>蜥人族<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>简子<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>侵蚀的蜥人族"
+    },
+    "92000162": {
+        "deprecated": false,
+        "Dev_Desc": "대형도끼_거북호",
+        "id": 92000162,
+        "alias": "Contents.Item.Desc.2000162",
+        "text": "士兵们喜欢用的巨斧.因为是军门口使用的物品所以信赖度很高.<br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>暴走守护兵<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>金刚铁拳<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>侵蚀的狗骨瓦<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>守护兵<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>湖龟"
+    },
+    "92000163": {
+        "deprecated": false,
+        "Dev_Desc": "대형도끼_해지는 목초지",
+        "id": 92000163,
+        "alias": "Contents.Item.Desc.2000163",
+        "text": "从把手到斧头刃,所有部位都是用钢铁制成的笨重的大型斧头.<br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>草木精灵<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>草木大精灵<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>红爪子<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>黄金爆发<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>鹿"
+    },
+    "92000164": {
+        "deprecated": false,
+        "Dev_Desc": "대형도끼_창도단 소굴(창도단)",
+        "id": 92000164,
+        "alias": "Contents.Item.Desc.2000164",
+        "text": "山贼的话不管怎么说都是斧头.没有比这更好的武器了.<br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>昌道团盗贼"
+    },
+    "92000165": {
+        "deprecated": false,
+        "Dev_Desc": "대형도끼_고도시 삼림 길",
+        "id": 92000165,
+        "alias": "Contents.Item.Desc.2000165",
+        "text": "利用前面的大日子和后面的小日子粉碎敌人的强力武器.<br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>树精<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>青木<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>赤木<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>黑色爆发"
+    },
+    "92000166": {
+        "deprecated": false,
+        "Dev_Desc": "대형도끼_돌 언덕 구릉지",
+        "id": 92000166,
+        "alias": "Contents.Item.Desc.2000166",
+        "text": "大陆的工匠们为了防止日益增多的修罗入侵,大力发展了大型斧头. <br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>狼<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>熊<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>鹿<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>平原狐狸<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>巨浪"
+    },
+    "92000167": {
+        "deprecated": false,
+        "Dev_Desc": "대형도끼_투엽단 근거지(투엽단)",
+        "id": 92000167,
+        "alias": "Contents.Item.Desc.2000167",
+        "text": "斗夜团员们喜欢使用的大型斧头.主要用于伐木、战斗用也毫不逊色.<br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>斗夜团偷猎者"
+    },
+    "92000168": {
+        "deprecated": false,
+        "Dev_Desc": "대형도끼_공허의 구덩이",
+        "id": 92000168,
+        "alias": "Contents.Item.Desc.2000168",
+        "text": "长得像银色月亮的大型斧头.据说挥动时的残像如同朦胧的月光.<br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>火魔者<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>熊"
+    },
+    "92000169": {
+        "deprecated": false,
+        "Dev_Desc": "대형도끼_깊은 묘지 숲",
+        "id": 92000169,
+        "alias": "Contents.Item.Desc.2000169",
+        "text": "每次落下都会划破大地的具有强大破坏力的大型斧头. <br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>巨型蜘蛛<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>蜘蛛<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>鬼火"
+    },
+    "92000170": {
+        "deprecated": false,
+        "Dev_Desc": "대형도끼_파괴된 수와족 마을",
+        "id": 92000170,
+        "alias": "Contents.Item.Desc.2000170",
+        "text": "一位名将看到池塘里月亮的残影,领悟到了制造具有霸道力量的武器的方法.但是,遗憾的是,现在流传下来的只有大型斧头的制造方法.<br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>鹿<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>狼<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>沼泽雷克顿<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>侵蚀的沼泽雷克顿<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>侵蚀的蝎子"
+    },
+    "92000171": {
+        "deprecated": false,
+        "Dev_Desc": "대형도끼_으스스한 골짜기",
+        "id": 92000171,
+        "alias": "Contents.Item.Desc.2000171",
+        "text": "满溢着金色的满月升起的大型斧头.虽然看起来很温柔,但是其中的力量绝对不能忽视. <br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>矛盾<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>草灵木<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>钢铁雷克顿"
+    },
+    "92000172": {
+        "deprecated": false,
+        "Dev_Desc": "흑아",
+        "id": 92000172,
+        "alias": "Contents.Item.Desc.2000172",
+        "text": "砍下青木坚硬树枝制作的斧头绝对不会折断. <br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>青木"
+    },
+    "92000173": {
+        "deprecated": false,
+        "Dev_Desc": "장궁_시작",
+        "id": 92000173,
+        "alias": "Contents.Item.Desc.2000173",
+        "text": "这是为武术比赛参与者准备的武器."
+    },
+    "92000174": {
+        "deprecated": false,
+        "Dev_Desc": "장궁_얕은 호수",
+        "id": 92000174,
+        "alias": "Contents.Item.Desc.2000174",
+        "text": "这是好久没上浆了,变松了的远古的弓.虽然比过去逊色,但不足以使对方的盔甲无力化.<br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>荷叶人<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>偷盗<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>大只淘气<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>巨型蘑菇<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>蓝色寄居蟹"
+    },
+    "92000175": {
+        "deprecated": false,
+        "Dev_Desc": "장궁_썩은 벌목지(서인족)",
+        "id": 92000175,
+        "alias": "Contents.Item.Desc.2000175",
+        "text": "是蜥人用木头做的粗糙的弓.但是比起不起眼的外形命中率非常好.<br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>蜥人族<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>侵蚀的蜥人族"
+    },
+    "92000176": {
+        "deprecated": false,
+        "Dev_Desc": "장궁_거북호",
+        "id": 92000176,
+        "alias": "Contents.Item.Desc.2000176",
+        "text": "远距离压制敌人的弓箭基本上的兵器.<br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>暴走守护兵<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>金刚铁拳<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>侵蚀的狗骨瓦<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>守护兵<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>湖龟"
+    },
+    "92000177": {
+        "deprecated": false,
+        "Dev_Desc": "장궁_해지는 목초지",
+        "id": 92000177,
+        "alias": "Contents.Item.Desc.2000177",
+        "text": "生活在茂密森林中的人们为了打猎而改良的长弓. <br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>草木精灵<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>草木大精灵<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>红爪子<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>黄金爆发<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>鹿"
+    },
+    "92000178": {
+        "deprecated": false,
+        "Dev_Desc": "장궁_창도단 소굴(창도단)",
+        "id": 92000178,
+        "alias": "Contents.Item.Desc.2000178",
+        "text": "要想偷盗首先要让敌人无力化.根据这些方针,昌道团的弓被改良成可以正确命中敌人的形态,而不是牺牲杀伤力. <br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>昌道团盗贼"
+    },
+    "92000179": {
+        "deprecated": false,
+        "Dev_Desc": "장궁_고도시 삼림 길",
+        "id": 92000179,
+        "alias": "Contents.Item.Desc.2000179",
+        "text": "要想制作好的弓,就要有弹性的弓.弹性好的环木是弓台最好的材料之一.<br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>树精<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>青木<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>赤木<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>黑色爆发"
+    },
+    "92000180": {
+        "deprecated": false,
+        "Dev_Desc": "장궁_돌 언덕 구릉지",
+        "id": 92000180,
+        "alias": "Contents.Item.Desc.2000180",
+        "text": "水牛的角自古以来就被用来制作最好的弓.<br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>狼<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>熊<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>鹿<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>平原狐狸<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>巨浪"
+    },
+    "92000181": {
+        "deprecated": false,
+        "Dev_Desc": "장궁_투엽단 근거지(투엽단)",
+        "id": 92000181,
+        "alias": "Contents.Item.Desc.2000181",
+        "text": "这个致命的斗夜团的朋友特别安静.<br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>투엽단 밀렵꾼<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>채랑랑"
+    },
+    "92000182": {
+        "deprecated": false,
+        "Dev_Desc": "장궁_공허의 구덩이",
+        "id": 92000182,
+        "alias": "Contents.Item.Desc.2000182",
+        "text": "自古以来,东方地区就以神枪手的故乡而闻名.<br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>火魔者<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>熊"
+    },
+    "92000183": {
+        "deprecated": false,
+        "Dev_Desc": "장궁_깊은 묘지 숲",
+        "id": 92000183,
+        "alias": "Contents.Item.Desc.2000183",
+        "text": "附有风之庇佑的弓.<br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>巨型蜘蛛<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>蜘蛛<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>鬼火"
+    },
+    "92000184": {
+        "deprecated": false,
+        "Dev_Desc": "장궁_파괴된 수와족 마을",
+        "id": 92000184,
+        "alias": "Contents.Item.Desc.2000184",
+        "text": "使用彗星碎片制作的弓.每次用弓箭上的星星的力量射击的时候都会画彗星的轨迹.<br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>鹿<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>狼<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>沼泽雷克顿<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>侵蚀的沼泽雷克顿<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>侵蚀的蝎子"
+    },
+    "92000185": {
+        "deprecated": false,
+        "Dev_Desc": "장궁_으스스한 골짜기",
+        "id": 92000185,
+        "alias": "Contents.Item.Desc.2000185",
+        "text": "追逐目标灵魂的弓.一旦成为目标,哪里都逃不掉. <br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>矛盾<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>草灵木<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>钢铁雷克顿"
+    },
+    "92000186": {
+        "deprecated": false,
+        "Dev_Desc": "흑풍",
+        "id": 92000186,
+        "alias": "Contents.Item.Desc.2000186",
+        "text": "用敌人脖子柔软的树枝制作的长弓,可以向看不见的敌人射箭. <br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>红眼"
+    },
+    "92000273": {
+        "deprecated": false,
+        "Dev_Desc": "수련용 장검",
+        "id": 92000273,
+        "alias": "Contents.Item.Desc.2000273",
+        "text": "16% 几率使用闪电造成僵硬,无冷却"
+    },
+    "92000274": {
+        "deprecated": false,
+        "Dev_Desc": "수련용 환도",
+        "id": 92000274,
+        "alias": "Contents.Item.Desc.2000274",
+        "text": "训练用的环岛"
+    },
+    "92000275": {
+        "deprecated": false,
+        "Dev_Desc": "수련용 세검",
+        "id": 92000275,
+        "alias": "Contents.Item.Desc.2000275",
+        "text": "练剑"
+    },
+    "92000276": {
+        "deprecated": false,
+        "Dev_Desc": "수련용 권갑",
+        "id": 92000276,
+        "alias": "Contents.Item.Desc.2000276",
+        "text": "训练手套"
+    },
+    "92000277": {
+        "deprecated": false,
+        "Dev_Desc": "수련용 중권갑",
+        "id": 92000277,
+        "alias": "Contents.Item.Desc.2000277",
+        "text": "训练用重型装甲"
+    },
+    "92000278": {
+        "deprecated": false,
+        "Dev_Desc": "수련용 각갑",
+        "id": 92000278,
+        "alias": "Contents.Item.Desc.2000278",
+        "text": "训练盔甲"
+    },
+    "92000279": {
+        "deprecated": false,
+        "Dev_Desc": "수련용 미늘창",
+        "id": 92000279,
+        "alias": "Contents.Item.Desc.2000279",
+        "text": "修炼的戟"
+    },
+    "92000280": {
+        "deprecated": false,
+        "Dev_Desc": "수련용 대형도끼",
+        "id": 92000280,
+        "alias": "Contents.Item.Desc.2000280",
+        "text": "训练用大斧头"
+    },
+    "92000281": {
+        "deprecated": false,
+        "Dev_Desc": "수련용 장궁",
+        "id": 92000281,
+        "alias": "Contents.Item.Desc.2000281",
+        "text": "训练长弓"
+    },
+    "92000282": {
+        "deprecated": false,
+        "Dev_Desc": "수련용 쇠뇌",
+        "id": 92000282,
+        "alias": "Contents.Item.Desc.2000282",
+        "text": "训练弩"
+    },
+    "92000283": {
+        "deprecated": false,
+        "Dev_Desc": "수련용 불꽃 기공패",
+        "id": 92000283,
+        "alias": "Contents.Item.Desc.2000283",
+        "text": "训练烟花"
+    },
+    "92000284": {
+        "deprecated": false,
+        "Dev_Desc": "수련용 얼음 기공패",
+        "id": 92000284,
+        "alias": "Contents.Item.Desc.2000284",
+        "text": "训练用冰被"
+    },
+    "92000285": {
+        "deprecated": false,
+        "Dev_Desc": "밸런스용 장검",
+        "id": 92000285,
+        "alias": "Contents.Item.Desc.2000273",
+        "text": "长剑平衡"
+    },
+    "92000286": {
+        "deprecated": false,
+        "Dev_Desc": "밸런스용 환도",
+        "id": 92000286,
+        "alias": "Contents.Item.Desc.2000274",
+        "text": "焕多平衡"
+    },
+    "92000287": {
+        "deprecated": false,
+        "Dev_Desc": "밸런스용 세검",
+        "id": 92000287,
+        "alias": "Contents.Item.Desc.2000275",
+        "text": "平衡之剑"
+    },
+    "92000288": {
+        "deprecated": false,
+        "Dev_Desc": "밸런스용 권갑",
+        "id": 92000288,
+        "alias": "Contents.Item.Desc.2000276",
+        "text": "平衡护手"
+    },
+    "92000289": {
+        "deprecated": false,
+        "Dev_Desc": "밸런스용 중권갑",
+        "id": 92000289,
+        "alias": "Contents.Item.Desc.2000277",
+        "text": "重装甲平衡"
+    },
+    "92000290": {
+        "deprecated": false,
+        "Dev_Desc": "밸런스용 각갑",
+        "id": 92000290,
+        "alias": "Contents.Item.Desc.2000278",
+        "text": "平衡装甲"
+    },
+    "92000291": {
+        "deprecated": false,
+        "Dev_Desc": "밸런스용 미늘창",
+        "id": 92000291,
+        "alias": "Contents.Item.Desc.2000279",
+        "text": "平衡之戟"
+    },
+    "92000292": {
+        "deprecated": false,
+        "Dev_Desc": "밸런스용 대형도끼",
+        "id": 92000292,
+        "alias": "Contents.Item.Desc.2000280",
+        "text": "平衡用大斧头"
+    },
+    "92000293": {
+        "deprecated": false,
+        "Dev_Desc": "밸런스용 장궁",
+        "id": 92000293,
+        "alias": "Contents.Item.Desc.2000281",
+        "text": "平衡用长弓"
+    },
+    "92000294": {
+        "deprecated": false,
+        "Dev_Desc": "밸런스용 쇠뇌",
+        "id": 92000294,
+        "alias": "Contents.Item.Desc.2000282",
+        "text": "平衡弩"
+    },
+    "92000295": {
+        "deprecated": false,
+        "Dev_Desc": "밸런스용 불꽃 기공패",
+        "id": 92000295,
+        "alias": "Contents.Item.Desc.2000283",
+        "text": "烟花平衡"
+    },
+    "92000296": {
+        "deprecated": false,
+        "Dev_Desc": "밸런스용 얼음 기공패",
+        "id": 92000296,
+        "alias": "Contents.Item.Desc.2000284",
+        "text": "冰平衡"
+    },
+    "92000297": {
+        "deprecated": false,
+        "Dev_Desc": "밸런스용 법종",
+        "id": 92000297,
+        "alias": "Contents.Item.Desc.2000285",
+        "text": "平衡方法"
+    },
+    "92000506": {
+        "deprecated": false,
+        "id": 92000506,
+        "alias": "Contents.Item.Desc.2000506",
+        "text": "看到这把剑拔起,有人说绕不开.<br/><br/>+3命中追加上升<br/>+5暴击率追加上升<br/><br/><fontStyle=[TestStyleB]>获取于</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>制作<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>鹿<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>狼<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>沼泽雷克顿<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>侵蚀的沼泽雷克顿<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>侵蚀的蝎子"
+    },
+    "92000803": {
+        "deprecated": false,
+        "id": 92000803,
+        "alias": "Contents.Item.Desc.2000803",
+        "text": "命中时普攻,使用风铃,冷却6秒"
+    },
+    "92000807": {
+        "deprecated": false,
+        "id": 92000807,
+        "alias": "Contents.Item.Desc.2000807",
+        "text": "普攻时有 30% 几率使用复仇女神,冷却 6 秒"
+    },
+    "92000810": {
+        "deprecated": false,
+        "id": 92000810,
+        "alias": "Contents.Item.Desc.2000810",
+        "text": "受到攻击时有 50% 几率使用环形交叉路口,冷却 10 秒"
+    },
+    "92001023": {
+        "deprecated": false,
+        "id": 92001023,
+        "alias": "Contents.Item.Desc.2001023",
+        "text": "击中普通命中时有 10% 几率恢复体力"
+    },
+    "92001024": {
+        "deprecated": false,
+        "id": 92001024,
+        "alias": "Contents.Item.Desc.2001024",
+        "text": "攻击昏迷目标时造成1次强力伤害,冷却60秒"
+    },
+    "92001025": {
+        "deprecated": false,
+        "id": 92001025,
+        "alias": "Contents.Item.Desc.2001025",
+        "text": "HP低于30%时,普通命中附加效果10秒,冷却60秒"
+    },
+    "92001037": {
+        "deprecated": false,
+        "id": 92001037,
+        "alias": "Contents.Item.Desc.2001037",
+        "text": "普通攻击有 30% 几率使用刺,冷却 6 秒/刺普通攻速"
+    },
+    "92001038": {
+        "deprecated": false,
+        "id": 92001038,
+        "alias": "Contents.Item.Desc.2001038",
+        "text": "主动技能使用刺击命中,冷却6秒"
+    },
+    "92001039": {
+        "deprecated": false,
+        "id": 92001039,
+        "alias": "Contents.Item.Desc.2001039",
+        "text": "防御成功后,对攻击者使用旋风,冷却6秒"
+    },
+    "92001040": {
+        "deprecated": false,
+        "id": 92001040,
+        "alias": "Contents.Item.Desc.2001040",
+        "text": "普通攻击有10%的几率使用旋风斩,无冷却时间.<br/><br/>普攻暴击产生雷霆,无冷却时间<br/>雷霆落下闪电,使敌人僵硬."
+    },
+    "92100000": {
+        "deprecated": false,
+        "id": 92100000,
+        "alias": "Contents.Item.Desc.2100000",
+        "text": "一剑揭示真相."
+    },
+    "92101001": {
+        "deprecated": false,
+        "id": 92101001,
+        "alias": "Contents.Item.Desc.2101001"
+    },
+    "92101002": {
+        "deprecated": false,
+        "id": 92101002,
+        "alias": "Contents.Item.Desc.2101002"
+    },
+    "92101003": {
+        "deprecated": false,
+        "id": 92101003,
+        "alias": "Contents.Item.Desc.2101003"
+    },
+    "92101004": {
+        "deprecated": false,
+        "id": 92101004,
+        "alias": "Contents.Item.Desc.2101004"
+    },
+    "92101005": {
+        "deprecated": false,
+        "id": 92101005,
+        "alias": "Contents.Item.Desc.2101005"
+    },
+    "92101006": {
+        "deprecated": false,
+        "id": 92101006,
+        "alias": "Contents.Item.Desc.2101006"
+    },
+    "92101007": {
+        "deprecated": false,
+        "id": 92101007,
+        "alias": "Contents.Item.Desc.2101007"
+    },
+    "92101008": {
+        "deprecated": false,
+        "id": 92101008,
+        "alias": "Contents.Item.Desc.2101008"
+    },
+    "92101009": {
+        "deprecated": false,
+        "id": 92101009,
+        "alias": "Contents.Item.Desc.2101009"
+    },
+    "92101010": {
+        "deprecated": false,
+        "id": 92101010,
+        "alias": "Contents.Item.Desc.2101010"
+    },
+    "92101201": {
+        "deprecated": false,
+        "id": 92101201,
+        "alias": "Contents.Item.Desc.2101201"
+    },
+    "92101202": {
+        "deprecated": false,
+        "id": 92101202,
+        "alias": "Contents.Item.Desc.2101202"
+    },
+    "92101203": {
+        "deprecated": false,
+        "id": 92101203,
+        "alias": "Contents.Item.Desc.2101203"
+    },
+    "92101204": {
+        "deprecated": false,
+        "id": 92101204,
+        "alias": "Contents.Item.Desc.2101204"
+    },
+    "92101205": {
+        "deprecated": false,
+        "id": 92101205,
+        "alias": "Contents.Item.Desc.2101205"
+    },
+    "92101401": {
+        "deprecated": false,
+        "id": 92101401,
+        "alias": "Contents.Item.Desc.2101401",
+        "text": "强化+7时增加穿透力 \n强化+8时增加命中,\n强化+9时增加武器攻击力."
+    },
+    "92101402": {
+        "deprecated": false,
+        "id": 92101402,
+        "alias": "Contents.Item.Desc.2101402"
+    },
+    "92101403": {
+        "deprecated": false,
+        "id": 92101403,
+        "alias": "Contents.Item.Desc.2101403"
+    },
+    "92101404": {
+        "deprecated": false,
+        "id": 92101404,
+        "alias": "Contents.Item.Desc.2101404"
+    },
+    "92101405": {
+        "deprecated": false,
+        "id": 92101405,
+        "alias": "Contents.Item.Desc.2101405"
+    },
+    "92101406": {
+        "deprecated": false,
+        "id": 92101406,
+        "alias": "Contents.Item.Desc.2101406"
+    },
+    "92101407": {
+        "deprecated": false,
+        "id": 92101407,
+        "alias": "Contents.Item.Desc.2101407"
+    },
+    "92101408": {
+        "deprecated": false,
+        "id": 92101408,
+        "alias": "Contents.Item.Desc.2101408"
+    },
+    "92101409": {
+        "deprecated": false,
+        "id": 92101409,
+        "alias": "Contents.Item.Desc.2101409"
+    },
+    "92101410": {
+        "deprecated": false,
+        "id": 92101410,
+        "alias": "Contents.Item.Desc.2101410"
+    },
+    "92101601": {
+        "deprecated": false,
+        "id": 92101601,
+        "alias": "Contents.Item.Desc.2101601"
+    },
+    "92101602": {
+        "deprecated": false,
+        "id": 92101602,
+        "alias": "Contents.Item.Desc.2101602"
+    },
+    "92101603": {
+        "deprecated": false,
+        "id": 92101603,
+        "alias": "Contents.Item.Desc.2101603"
+    },
+    "92101604": {
+        "deprecated": false,
+        "id": 92101604,
+        "alias": "Contents.Item.Desc.2101604"
+    },
+    "92101605": {
+        "deprecated": false,
+        "id": 92101605,
+        "alias": "Contents.Item.Desc.2101605"
+    },
+    "92101606": {
+        "deprecated": false,
+        "id": 92101606,
+        "alias": "Contents.Item.Desc.2101606"
+    },
+    "92101801": {
+        "deprecated": false,
+        "id": 92101801,
+        "alias": "Contents.Item.Desc.2101801"
+    },
+    "92101802": {
+        "deprecated": false,
+        "id": 92101802,
+        "alias": "Contents.Item.Desc.2101802"
+    },
+    "92102001": {
+        "deprecated": false,
+        "id": 92102001,
+        "alias": "Contents.Item.Desc.2102001"
+    },
+    "92102002": {
+        "deprecated": false,
+        "id": 92102002,
+        "alias": "Contents.Item.Desc.2102002"
+    },
+    "92102003": {
+        "deprecated": false,
+        "id": 92102003,
+        "alias": "Contents.Item.Desc.2102003"
+    },
+    "92102004": {
+        "deprecated": false,
+        "id": 92102004,
+        "alias": "Contents.Item.Desc.2102004"
+    },
+    "92102005": {
+        "deprecated": false,
+        "id": 92102005,
+        "alias": "Contents.Item.Desc.2102005"
+    },
+    "92102006": {
+        "deprecated": false,
+        "id": 92102006,
+        "alias": "Contents.Item.Desc.2102006"
+    },
+    "92102007": {
+        "deprecated": false,
+        "id": 92102007,
+        "alias": "Contents.Item.Desc.2102007"
+    },
+    "92102008": {
+        "deprecated": false,
+        "id": 92102008,
+        "alias": "Contents.Item.Desc.2102008"
+    },
+    "92102009": {
+        "deprecated": false,
+        "id": 92102009,
+        "alias": "Contents.Item.Desc.2102009"
+    },
+    "92102010": {
+        "deprecated": false,
+        "id": 92102010,
+        "alias": "Contents.Item.Desc.2102010"
+    },
+    "92102201": {
+        "deprecated": false,
+        "id": 92102201,
+        "alias": "Contents.Item.Desc.2102201"
+    },
+    "92102202": {
+        "deprecated": false,
+        "id": 92102202,
+        "alias": "Contents.Item.Desc.2102202"
+    },
+    "92102203": {
+        "deprecated": false,
+        "id": 92102203,
+        "alias": "Contents.Item.Desc.2102203"
+    },
+    "92102204": {
+        "deprecated": false,
+        "id": 92102204,
+        "alias": "Contents.Item.Desc.2102204"
+    },
+    "92102205": {
+        "deprecated": false,
+        "id": 92102205,
+        "alias": "Contents.Item.Desc.2102205"
+    },
+    "92102401": {
+        "deprecated": false,
+        "id": 92102401,
+        "alias": "Contents.Item.Desc.2102401",
+        "text": "强化+7时增加穿透力 \n强化+8时增加命中,\n强化+9时增加武器攻击力."
+    },
+    "92102402": {
+        "deprecated": false,
+        "id": 92102402,
+        "alias": "Contents.Item.Desc.2102402"
+    },
+    "92102403": {
+        "deprecated": false,
+        "id": 92102403,
+        "alias": "Contents.Item.Desc.2102403"
+    },
+    "92102404": {
+        "deprecated": false,
+        "id": 92102404,
+        "alias": "Contents.Item.Desc.2102404"
+    },
+    "92102405": {
+        "deprecated": false,
+        "id": 92102405,
+        "alias": "Contents.Item.Desc.2102405"
+    },
+    "92102406": {
+        "deprecated": false,
+        "id": 92102406,
+        "alias": "Contents.Item.Desc.2102406"
+    },
+    "92102407": {
+        "deprecated": false,
+        "id": 92102407,
+        "alias": "Contents.Item.Desc.2102407"
+    },
+    "92102408": {
+        "deprecated": false,
+        "id": 92102408,
+        "alias": "Contents.Item.Desc.2102408"
+    },
+    "92102409": {
+        "deprecated": false,
+        "id": 92102409,
+        "alias": "Contents.Item.Desc.2102409"
+    },
+    "92102410": {
+        "deprecated": false,
+        "id": 92102410,
+        "alias": "Contents.Item.Desc.2102410"
+    },
+    "92102601": {
+        "deprecated": false,
+        "id": 92102601,
+        "alias": "Contents.Item.Desc.2102601"
+    },
+    "92102602": {
+        "deprecated": false,
+        "id": 92102602,
+        "alias": "Contents.Item.Desc.2102602"
+    },
+    "92102603": {
+        "deprecated": false,
+        "id": 92102603,
+        "alias": "Contents.Item.Desc.2102603"
+    },
+    "92102604": {
+        "deprecated": false,
+        "id": 92102604,
+        "alias": "Contents.Item.Desc.2102604"
+    },
+    "92102605": {
+        "deprecated": false,
+        "id": 92102605,
+        "alias": "Contents.Item.Desc.2102605"
+    },
+    "92102606": {
+        "deprecated": false,
+        "id": 92102606,
+        "alias": "Contents.Item.Desc.2102606"
+    },
+    "92102801": {
+        "deprecated": false,
+        "id": 92102801,
+        "alias": "Contents.Item.Desc.2102801"
+    },
+    "92102802": {
+        "deprecated": false,
+        "id": 92102802,
+        "alias": "Contents.Item.Desc.2102802"
+    },
+    "92103001": {
+        "deprecated": false,
+        "id": 92103001,
+        "alias": "Contents.Item.Desc.2103001"
+    },
+    "92103002": {
+        "deprecated": false,
+        "id": 92103002,
+        "alias": "Contents.Item.Desc.2103002"
+    },
+    "92103003": {
+        "deprecated": false,
+        "id": 92103003,
+        "alias": "Contents.Item.Desc.2103003"
+    },
+    "92103004": {
+        "deprecated": false,
+        "id": 92103004,
+        "alias": "Contents.Item.Desc.2103004"
+    },
+    "92103005": {
+        "deprecated": false,
+        "id": 92103005,
+        "alias": "Contents.Item.Desc.2103005"
+    },
+    "92103006": {
+        "deprecated": false,
+        "id": 92103006,
+        "alias": "Contents.Item.Desc.2103006"
+    },
+    "92103007": {
+        "deprecated": false,
+        "id": 92103007,
+        "alias": "Contents.Item.Desc.2103007"
+    },
+    "92103008": {
+        "deprecated": false,
+        "id": 92103008,
+        "alias": "Contents.Item.Desc.2103008"
+    },
+    "92103009": {
+        "deprecated": false,
+        "id": 92103009,
+        "alias": "Contents.Item.Desc.2103009"
+    },
+    "92103010": {
+        "deprecated": false,
+        "id": 92103010,
+        "alias": "Contents.Item.Desc.2103010"
+    },
+    "92103201": {
+        "deprecated": false,
+        "id": 92103201,
+        "alias": "Contents.Item.Desc.2103201"
+    },
+    "92103202": {
+        "deprecated": false,
+        "id": 92103202,
+        "alias": "Contents.Item.Desc.2103202"
+    },
+    "92103203": {
+        "deprecated": false,
+        "id": 92103203,
+        "alias": "Contents.Item.Desc.2103203"
+    },
+    "92103204": {
+        "deprecated": false,
+        "id": 92103204,
+        "alias": "Contents.Item.Desc.2103204"
+    },
+    "92103205": {
+        "deprecated": false,
+        "id": 92103205,
+        "alias": "Contents.Item.Desc.2103205"
+    },
+    "92103401": {
+        "deprecated": false,
+        "id": 92103401,
+        "alias": "Contents.Item.Desc.2103401",
+        "text": "强化+7时,增加穿透 \n强化+8时,增加智力 \n强化+9时,武器攻击力增加"
+    },
+    "92103402": {
+        "deprecated": false,
+        "id": 92103402,
+        "alias": "Contents.Item.Desc.2103402"
+    },
+    "92103403": {
+        "deprecated": false,
+        "id": 92103403,
+        "alias": "Contents.Item.Desc.2103403"
+    },
+    "92103404": {
+        "deprecated": false,
+        "id": 92103404,
+        "alias": "Contents.Item.Desc.2103404"
+    },
+    "92103405": {
+        "deprecated": false,
+        "id": 92103405,
+        "alias": "Contents.Item.Desc.2103405"
+    },
+    "92103406": {
+        "deprecated": false,
+        "id": 92103406,
+        "alias": "Contents.Item.Desc.2103406"
+    },
+    "92103407": {
+        "deprecated": false,
+        "id": 92103407,
+        "alias": "Contents.Item.Desc.2103407"
+    },
+    "92103408": {
+        "deprecated": false,
+        "id": 92103408,
+        "alias": "Contents.Item.Desc.2103408"
+    },
+    "92103409": {
+        "deprecated": false,
+        "id": 92103409,
+        "alias": "Contents.Item.Desc.2103409"
+    },
+    "92103410": {
+        "deprecated": false,
+        "id": 92103410,
+        "alias": "Contents.Item.Desc.2103410"
+    },
+    "92103601": {
+        "deprecated": false,
+        "id": 92103601,
+        "alias": "Contents.Item.Desc.2103601"
+    },
+    "92103602": {
+        "deprecated": false,
+        "id": 92103602,
+        "alias": "Contents.Item.Desc.2103602"
+    },
+    "92103603": {
+        "deprecated": false,
+        "id": 92103603,
+        "alias": "Contents.Item.Desc.2103603"
+    },
+    "92103604": {
+        "deprecated": false,
+        "id": 92103604,
+        "alias": "Contents.Item.Desc.2103604"
+    },
+    "92103605": {
+        "deprecated": false,
+        "id": 92103605,
+        "alias": "Contents.Item.Desc.2103605"
+    },
+    "92103606": {
+        "deprecated": false,
+        "id": 92103606,
+        "alias": "Contents.Item.Desc.2103606"
+    },
+    "92103801": {
+        "deprecated": false,
+        "id": 92103801,
+        "alias": "Contents.Item.Desc.2103801"
+    },
+    "92103802": {
+        "deprecated": false,
+        "id": 92103802,
+        "alias": "Contents.Item.Desc.2103802"
+    },
+    "92104001": {
+        "deprecated": false,
+        "id": 92104001,
+        "alias": "Contents.Item.Desc.2104001"
+    },
+    "92104002": {
+        "deprecated": false,
+        "id": 92104002,
+        "alias": "Contents.Item.Desc.2104002"
+    },
+    "92104003": {
+        "deprecated": false,
+        "id": 92104003,
+        "alias": "Contents.Item.Desc.2104003"
+    },
+    "92104004": {
+        "deprecated": false,
+        "id": 92104004,
+        "alias": "Contents.Item.Desc.2104004"
+    },
+    "92104005": {
+        "deprecated": false,
+        "id": 92104005,
+        "alias": "Contents.Item.Desc.2104005"
+    },
+    "92104006": {
+        "deprecated": false,
+        "id": 92104006,
+        "alias": "Contents.Item.Desc.2104006"
+    },
+    "92104007": {
+        "deprecated": false,
+        "id": 92104007,
+        "alias": "Contents.Item.Desc.2104007"
+    },
+    "92104008": {
+        "deprecated": false,
+        "id": 92104008,
+        "alias": "Contents.Item.Desc.2104008"
+    },
+    "92104009": {
+        "deprecated": false,
+        "id": 92104009,
+        "alias": "Contents.Item.Desc.2104009"
+    },
+    "92104010": {
+        "deprecated": false,
+        "id": 92104010,
+        "alias": "Contents.Item.Desc.2104010"
+    },
+    "92104201": {
+        "deprecated": false,
+        "id": 92104201,
+        "alias": "Contents.Item.Desc.2104201"
+    },
+    "92104202": {
+        "deprecated": false,
+        "id": 92104202,
+        "alias": "Contents.Item.Desc.2104202"
+    },
+    "92104203": {
+        "deprecated": false,
+        "id": 92104203,
+        "alias": "Contents.Item.Desc.2104203"
+    },
+    "92104204": {
+        "deprecated": false,
+        "id": 92104204,
+        "alias": "Contents.Item.Desc.2104204"
+    },
+    "92104205": {
+        "deprecated": false,
+        "id": 92104205,
+        "alias": "Contents.Item.Desc.2104205"
+    },
+    "92104401": {
+        "deprecated": false,
+        "id": 92104401,
+        "alias": "Contents.Item.Desc.2104401",
+        "text": "强化+7时,增加穿透 \n强化+8时,增加生命值 \n强化+9时,武器攻击力额外增加"
+    },
+    "92104402": {
+        "deprecated": false,
+        "id": 92104402,
+        "alias": "Contents.Item.Desc.2104402"
+    },
+    "92104403": {
+        "deprecated": false,
+        "id": 92104403,
+        "alias": "Contents.Item.Desc.2104403"
+    },
+    "92104404": {
+        "deprecated": false,
+        "id": 92104404,
+        "alias": "Contents.Item.Desc.2104404"
+    },
+    "92104405": {
+        "deprecated": false,
+        "id": 92104405,
+        "alias": "Contents.Item.Desc.2104405"
+    },
+    "92104406": {
+        "deprecated": false,
+        "id": 92104406,
+        "alias": "Contents.Item.Desc.2104406"
+    },
+    "92104407": {
+        "deprecated": false,
+        "id": 92104407,
+        "alias": "Contents.Item.Desc.2104407"
+    },
+    "92104408": {
+        "deprecated": false,
+        "id": 92104408,
+        "alias": "Contents.Item.Desc.2104408"
+    },
+    "92104409": {
+        "deprecated": false,
+        "id": 92104409,
+        "alias": "Contents.Item.Desc.2104409"
+    },
+    "92104410": {
+        "deprecated": false,
+        "id": 92104410,
+        "alias": "Contents.Item.Desc.2104410"
+    },
+    "92104601": {
+        "deprecated": false,
+        "id": 92104601,
+        "alias": "Contents.Item.Desc.2104601"
+    },
+    "92104602": {
+        "deprecated": false,
+        "id": 92104602,
+        "alias": "Contents.Item.Desc.2104602"
+    },
+    "92104603": {
+        "deprecated": false,
+        "id": 92104603,
+        "alias": "Contents.Item.Desc.2104603"
+    },
+    "92104604": {
+        "deprecated": false,
+        "id": 92104604,
+        "alias": "Contents.Item.Desc.2104604"
+    },
+    "92104605": {
+        "deprecated": false,
+        "id": 92104605,
+        "alias": "Contents.Item.Desc.2104605"
+    },
+    "92104606": {
+        "deprecated": false,
+        "id": 92104606,
+        "alias": "Contents.Item.Desc.2104606"
+    },
+    "92104801": {
+        "deprecated": false,
+        "id": 92104801,
+        "alias": "Contents.Item.Desc.2104801"
+    },
+    "92104802": {
+        "deprecated": false,
+        "id": 92104802,
+        "alias": "Contents.Item.Desc.2104802"
+    },
+    "92105001": {
+        "deprecated": false,
+        "id": 92105001,
+        "alias": "Contents.Item.Desc.2105001"
+    },
+    "92105002": {
+        "deprecated": false,
+        "id": 92105002,
+        "alias": "Contents.Item.Desc.2105002"
+    },
+    "92105003": {
+        "deprecated": false,
+        "id": 92105003,
+        "alias": "Contents.Item.Desc.2105003"
+    },
+    "92105004": {
+        "deprecated": false,
+        "id": 92105004,
+        "alias": "Contents.Item.Desc.2105004"
+    },
+    "92105005": {
+        "deprecated": false,
+        "id": 92105005,
+        "alias": "Contents.Item.Desc.2105005"
+    },
+    "92105006": {
+        "deprecated": false,
+        "id": 92105006,
+        "alias": "Contents.Item.Desc.2105006"
+    },
+    "92105007": {
+        "deprecated": false,
+        "id": 92105007,
+        "alias": "Contents.Item.Desc.2105007"
+    },
+    "92105008": {
+        "deprecated": false,
+        "id": 92105008,
+        "alias": "Contents.Item.Desc.2105008"
+    },
+    "92105009": {
+        "deprecated": false,
+        "id": 92105009,
+        "alias": "Contents.Item.Desc.2105009"
+    },
+    "92105010": {
+        "deprecated": false,
+        "id": 92105010,
+        "alias": "Contents.Item.Desc.2105010"
+    },
+    "92105201": {
+        "deprecated": false,
+        "id": 92105201,
+        "alias": "Contents.Item.Desc.2105201"
+    },
+    "92105202": {
+        "deprecated": false,
+        "id": 92105202,
+        "alias": "Contents.Item.Desc.2105202"
+    },
+    "92105203": {
+        "deprecated": false,
+        "id": 92105203,
+        "alias": "Contents.Item.Desc.2105203"
+    },
+    "92105204": {
+        "deprecated": false,
+        "id": 92105204,
+        "alias": "Contents.Item.Desc.2105204"
+    },
+    "92105205": {
+        "deprecated": false,
+        "id": 92105205,
+        "alias": "Contents.Item.Desc.2105205"
+    },
+    "92105401": {
+        "deprecated": false,
+        "id": 92105401,
+        "alias": "Contents.Item.Desc.2105401",
+        "text": "强化+7时,增加穿透 \n强化+8时,增加命中 \n强化+9时,暴击时增加额外攻击力"
+    },
+    "92105402": {
+        "deprecated": false,
+        "id": 92105402,
+        "alias": "Contents.Item.Desc.2105402"
+    },
+    "92105403": {
+        "deprecated": false,
+        "id": 92105403,
+        "alias": "Contents.Item.Desc.2105403"
+    },
+    "92105404": {
+        "deprecated": false,
+        "id": 92105404,
+        "alias": "Contents.Item.Desc.2105404"
+    },
+    "92105405": {
+        "deprecated": false,
+        "id": 92105405,
+        "alias": "Contents.Item.Desc.2105405"
+    },
+    "92105406": {
+        "deprecated": false,
+        "id": 92105406,
+        "alias": "Contents.Item.Desc.2105406"
+    },
+    "92105407": {
+        "deprecated": false,
+        "id": 92105407,
+        "alias": "Contents.Item.Desc.2105407"
+    },
+    "92105408": {
+        "deprecated": false,
+        "id": 92105408,
+        "alias": "Contents.Item.Desc.2105408"
+    },
+    "92105409": {
+        "deprecated": false,
+        "id": 92105409,
+        "alias": "Contents.Item.Desc.2105409"
+    },
+    "92105410": {
+        "deprecated": false,
+        "id": 92105410,
+        "alias": "Contents.Item.Desc.2105410"
+    },
+    "92105601": {
+        "deprecated": false,
+        "id": 92105601,
+        "alias": "Contents.Item.Desc.2105601"
+    },
+    "92105602": {
+        "deprecated": false,
+        "id": 92105602,
+        "alias": "Contents.Item.Desc.2105602"
+    },
+    "92105603": {
+        "deprecated": false,
+        "id": 92105603,
+        "alias": "Contents.Item.Desc.2105603"
+    },
+    "92105604": {
+        "deprecated": false,
+        "id": 92105604,
+        "alias": "Contents.Item.Desc.2105604"
+    },
+    "92105605": {
+        "deprecated": false,
+        "id": 92105605,
+        "alias": "Contents.Item.Desc.2105605"
+    },
+    "92105606": {
+        "deprecated": false,
+        "id": 92105606,
+        "alias": "Contents.Item.Desc.2105606"
+    },
+    "92105801": {
+        "deprecated": false,
+        "id": 92105801,
+        "alias": "Contents.Item.Desc.2105801"
+    },
+    "92105802": {
+        "deprecated": false,
+        "id": 92105802,
+        "alias": "Contents.Item.Desc.2105802"
+    },
+    "92106001": {
+        "deprecated": false,
+        "id": 92106001,
+        "alias": "Contents.Item.Desc.2106001"
+    },
+    "92106002": {
+        "deprecated": false,
+        "id": 92106002,
+        "alias": "Contents.Item.Desc.2106002"
+    },
+    "92106003": {
+        "deprecated": false,
+        "id": 92106003,
+        "alias": "Contents.Item.Desc.2106003"
+    },
+    "92106004": {
+        "deprecated": false,
+        "id": 92106004,
+        "alias": "Contents.Item.Desc.2106004"
+    },
+    "92106005": {
+        "deprecated": false,
+        "id": 92106005,
+        "alias": "Contents.Item.Desc.2106005"
+    },
+    "92106006": {
+        "deprecated": false,
+        "id": 92106006,
+        "alias": "Contents.Item.Desc.2106006"
+    },
+    "92106007": {
+        "deprecated": false,
+        "id": 92106007,
+        "alias": "Contents.Item.Desc.2106007"
+    },
+    "92106008": {
+        "deprecated": false,
+        "id": 92106008,
+        "alias": "Contents.Item.Desc.2106008"
+    },
+    "92106009": {
+        "deprecated": false,
+        "id": 92106009,
+        "alias": "Contents.Item.Desc.2106009"
+    },
+    "92106010": {
+        "deprecated": false,
+        "id": 92106010,
+        "alias": "Contents.Item.Desc.2106010"
+    },
+    "92106201": {
+        "deprecated": false,
+        "id": 92106201,
+        "alias": "Contents.Item.Desc.2106201"
+    },
+    "92106202": {
+        "deprecated": false,
+        "id": 92106202,
+        "alias": "Contents.Item.Desc.2106202"
+    },
+    "92106203": {
+        "deprecated": false,
+        "id": 92106203,
+        "alias": "Contents.Item.Desc.2106203"
+    },
+    "92106204": {
+        "deprecated": false,
+        "id": 92106204,
+        "alias": "Contents.Item.Desc.2106204"
+    },
+    "92106205": {
+        "deprecated": false,
+        "id": 92106205,
+        "alias": "Contents.Item.Desc.2106205"
+    },
+    "92106401": {
+        "deprecated": false,
+        "id": 92106401,
+        "alias": "Contents.Item.Desc.2106401",
+        "text": "强化+7时追加穿透力 \n强化+8时追加回复力 \n强化+9时追加攻击力"
+    },
+    "92106402": {
+        "deprecated": false,
+        "id": 92106402,
+        "alias": "Contents.Item.Desc.2106402"
+    },
+    "92106403": {
+        "deprecated": false,
+        "id": 92106403,
+        "alias": "Contents.Item.Desc.2106403"
+    },
+    "92106404": {
+        "deprecated": false,
+        "id": 92106404,
+        "alias": "Contents.Item.Desc.2106404"
+    },
+    "92106405": {
+        "deprecated": false,
+        "id": 92106405,
+        "alias": "Contents.Item.Desc.2106405"
+    },
+    "92106406": {
+        "deprecated": false,
+        "id": 92106406,
+        "alias": "Contents.Item.Desc.2106406"
+    },
+    "92106407": {
+        "deprecated": false,
+        "id": 92106407,
+        "alias": "Contents.Item.Desc.2106407"
+    },
+    "92106408": {
+        "deprecated": false,
+        "id": 92106408,
+        "alias": "Contents.Item.Desc.2106408"
+    },
+    "92106409": {
+        "deprecated": false,
+        "id": 92106409,
+        "alias": "Contents.Item.Desc.2106409"
+    },
+    "92106410": {
+        "deprecated": false,
+        "id": 92106410,
+        "alias": "Contents.Item.Desc.2106410"
+    },
+    "92106601": {
+        "deprecated": false,
+        "id": 92106601,
+        "alias": "Contents.Item.Desc.2106601"
+    },
+    "92106602": {
+        "deprecated": false,
+        "id": 92106602,
+        "alias": "Contents.Item.Desc.2106602"
+    },
+    "92106603": {
+        "deprecated": false,
+        "id": 92106603,
+        "alias": "Contents.Item.Desc.2106603"
+    },
+    "92106604": {
+        "deprecated": false,
+        "id": 92106604,
+        "alias": "Contents.Item.Desc.2106604"
+    },
+    "92106605": {
+        "deprecated": false,
+        "id": 92106605,
+        "alias": "Contents.Item.Desc.2106605"
+    },
+    "92106606": {
+        "deprecated": false,
+        "id": 92106606,
+        "alias": "Contents.Item.Desc.2106606"
+    },
+    "92106801": {
+        "deprecated": false,
+        "id": 92106801,
+        "alias": "Contents.Item.Desc.2106801"
+    },
+    "92106802": {
+        "deprecated": false,
+        "id": 92106802,
+        "alias": "Contents.Item.Desc.2106802"
+    },
+    "92201001": {
+        "deprecated": false,
+        "id": 92201001,
+        "alias": "Contents.Item.Desc.2201001"
+    },
+    "92201002": {
+        "deprecated": false,
+        "id": 92201002,
+        "alias": "Contents.Item.Desc.2201002",
+        "text": "可以通过向村庄的[代币兑换商]支付[工匠信物]来购买."
+    },
+    "92201003": {
+        "deprecated": false,
+        "id": 92201003,
+        "alias": "Contents.Item.Desc.2201003"
+    },
+    "92201004": {
+        "deprecated": false,
+        "id": 92201004,
+        "alias": "Contents.Item.Desc.2201004",
+        "text": "可以通过[制作]获得."
+    },
+    "92201005": {
+        "deprecated": false,
+        "id": 92201005,
+        "alias": "Contents.Item.Desc.2201005",
+        "text": "可从[悬赏]中获得."
+    },
+    "92201006": {
+        "deprecated": false,
+        "id": 92201006,
+        "alias": "Contents.Item.Desc.2201006",
+        "text": "可从[悬赏]中获得."
+    },
+    "92201007": {
+        "deprecated": false,
+        "id": 92201007,
+        "alias": "Contents.Item.Desc.2201007",
+        "text": "可从[绑定装备箱]中获得."
+    },
+    "92201008": {
+        "deprecated": false,
+        "id": 92201008,
+        "alias": "Contents.Item.Desc.2201008",
+        "text": "可以通过[制作]获得."
+    },
+    "92201009": {
+        "deprecated": false,
+        "id": 92201009,
+        "alias": "Contents.Item.Desc.2201009",
+        "text": "可从[绑定装备箱]中获得."
+    },
+    "92201010": {
+        "deprecated": false,
+        "id": 92201010,
+        "alias": "Contents.Item.Desc.2201010"
+    },
+    "92201201": {
+        "deprecated": false,
+        "id": 92201201,
+        "alias": "Contents.Item.Desc.2201201",
+        "text": "可以通过向村里的[代币兑换商]支付[工匠信物]购买,也可以从\n[绑定装备箱]或[制作]获得."
+    },
+    "92201202": {
+        "deprecated": false,
+        "id": 92201202,
+        "alias": "Contents.Item.Desc.2201202",
+        "text": "可以通过向村里的[代币兑换商]支付[工匠信物]购买,也可以通过\n[合作]或[制作]获得."
+    },
+    "92201203": {
+        "deprecated": false,
+        "id": 92201203,
+        "alias": "Contents.Item.Desc.2201203",
+        "text": "可通过[绑定装备箱]或[制作]获得."
+    },
+    "92201204": {
+        "deprecated": false,
+        "id": 92201204,
+        "alias": "Contents.Item.Desc.2201204",
+        "text": "可从[悬赏]中获得."
+    },
+    "92201205": {
+        "deprecated": false,
+        "id": 92201205,
+        "alias": "Contents.Item.Desc.2201205",
+        "text": "可从[悬赏]中获得."
+    },
+    "92201401": {
+        "deprecated": false,
+        "id": 92201401,
+        "alias": "Contents.Item.Desc.2201401",
+        "text": "可以通过向村里的[代币兑换商]支付[工匠信物]购买,也可以通过\n[制作]获得.武器攻击力额外增加"
+    },
+    "92201402": {
+        "deprecated": false,
+        "id": 92201402,
+        "alias": "Contents.Item.Desc.2201402",
+        "text": "可通过[悬赏]和[绑定装备箱]获得."
+    },
+    "92201403": {
+        "deprecated": false,
+        "id": 92201403,
+        "alias": "Contents.Item.Desc.2201403",
+        "text": "可通过[悬赏]或[制作]获得."
+    },
+    "92201404": {
+        "deprecated": false,
+        "id": 92201404,
+        "alias": "Contents.Item.Desc.2201404",
+        "text": "您可以通过向村庄的[令牌交换器]支付[工匠信物]来购买它."
+    },
+    "92201405": {
+        "deprecated": false,
+        "id": 92201405,
+        "alias": "Contents.Item.Desc.2201405",
+        "text": "可以通过[制作]获得."
+    },
+    "92201406": {
+        "deprecated": false,
+        "id": 92201406,
+        "alias": "Contents.Item.Desc.2201406"
+    },
+    "92201407": {
+        "deprecated": false,
+        "id": 92201407,
+        "alias": "Contents.Item.Desc.2201407"
+    },
+    "92201408": {
+        "deprecated": false,
+        "id": 92201408,
+        "alias": "Contents.Item.Desc.2201408",
+        "text": "可以通过[制作]获得."
+    },
+    "92201409": {
+        "deprecated": false,
+        "id": 92201409,
+        "alias": "Contents.Item.Desc.2201409"
+    },
+    "92201410": {
+        "deprecated": false,
+        "id": 92201410,
+        "alias": "Contents.Item.Desc.2201410"
+    },
+    "92201601": {
+        "deprecated": false,
+        "id": 92201601,
+        "alias": "Contents.Item.Desc.2201601",
+        "text": "可以通过[制作]获得."
+    },
+    "92201602": {
+        "deprecated": false,
+        "id": 92201602,
+        "alias": "Contents.Item.Desc.2201602"
+    },
+    "92201603": {
+        "deprecated": false,
+        "id": 92201603,
+        "alias": "Contents.Item.Desc.2201603"
+    },
+    "92201604": {
+        "deprecated": false,
+        "id": 92201604,
+        "alias": "Contents.Item.Desc.2201604"
+    },
+    "92201605": {
+        "deprecated": false,
+        "id": 92201605,
+        "alias": "Contents.Item.Desc.2201605"
+    },
+    "92201606": {
+        "deprecated": false,
+        "id": 92201606,
+        "alias": "Contents.Item.Desc.2201606"
+    },
+    "92201801": {
+        "deprecated": false,
+        "id": 92201801,
+        "alias": "Contents.Item.Desc.2201801",
+        "text": "可以获得[生产]。"
+    },
+    "92201802": {
+        "deprecated": false,
+        "id": 92201802,
+        "alias": "Contents.Item.Desc.2201802"
+    },
+    "92202001": {
+        "deprecated": false,
+        "id": 92202001,
+        "alias": "Contents.Item.Desc.2202001"
+    },
+    "92202002": {
+        "deprecated": false,
+        "id": 92202002,
+        "alias": "Contents.Item.Desc.2202002",
+        "text": "可以通过向村庄的[代币兑换商]支付[工匠信物]来购买."
+    },
+    "92202003": {
+        "deprecated": false,
+        "id": 92202003,
+        "alias": "Contents.Item.Desc.2202003"
+    },
+    "92202004": {
+        "deprecated": false,
+        "id": 92202004,
+        "alias": "Contents.Item.Desc.2202004",
+        "text": "可以通过[制作]获得."
+    },
+    "92202005": {
+        "deprecated": false,
+        "id": 92202005,
+        "alias": "Contents.Item.Desc.2202005",
+        "text": "可从[悬赏]中获得."
+    },
+    "92202006": {
+        "deprecated": false,
+        "id": 92202006,
+        "alias": "Contents.Item.Desc.2202006",
+        "text": "可从[悬赏]中获得."
+    },
+    "92202007": {
+        "deprecated": false,
+        "id": 92202007,
+        "alias": "Contents.Item.Desc.2202007",
+        "text": "可从[绑定装备箱]中获得."
+    },
+    "92202008": {
+        "deprecated": false,
+        "id": 92202008,
+        "alias": "Contents.Item.Desc.2202008",
+        "text": "可以通过[制作]获得."
+    },
+    "92202009": {
+        "deprecated": false,
+        "id": 92202009,
+        "alias": "Contents.Item.Desc.2202009",
+        "text": "可从[绑定装备箱]中获得."
+    },
+    "92202010": {
+        "deprecated": false,
+        "id": 92202010,
+        "alias": "Contents.Item.Desc.2202010"
+    },
+    "92202201": {
+        "deprecated": false,
+        "id": 92202201,
+        "alias": "Contents.Item.Desc.2202201",
+        "text": "可以通过向村里的[代币兑换商]支付[工匠信物]购买,也可以从\n[绑定装备箱]或[制作]获得."
+    },
+    "92202202": {
+        "deprecated": false,
+        "id": 92202202,
+        "alias": "Contents.Item.Desc.2202202",
+        "text": "可以通过向村庄内的[代币兑换商]支付[工匠信物]购买,也可以通过\n[合作]或[制作]获得."
+    },
+    "92202203": {
+        "deprecated": false,
+        "id": 92202203,
+        "alias": "Contents.Item.Desc.2202203",
+        "text": "可通过[绑定装备箱]或[制作]获得."
+    },
+    "92202204": {
+        "deprecated": false,
+        "id": 92202204,
+        "alias": "Contents.Item.Desc.2202204",
+        "text": "可从[悬赏]中获得."
+    },
+    "92202205": {
+        "deprecated": false,
+        "id": 92202205,
+        "alias": "Contents.Item.Desc.2202205",
+        "text": "可从[悬赏]中获得."
+    },
+    "92202401": {
+        "deprecated": false,
+        "id": 92202401,
+        "alias": "Contents.Item.Desc.2202401",
+        "text": "可以通过向村里的[代币兑换商]支付[工匠信物]购买,也可以通过\n[制作]获得.武器攻击力额外增加"
+    },
+    "92202402": {
+        "deprecated": false,
+        "id": 92202402,
+        "alias": "Contents.Item.Desc.2202402",
+        "text": "可通过[悬赏]和[绑定装备箱]获得."
+    },
+    "92202403": {
+        "deprecated": false,
+        "id": 92202403,
+        "alias": "Contents.Item.Desc.2202403",
+        "text": "可通过[合作]获得."
+    },
+    "92202404": {
+        "deprecated": false,
+        "id": 92202404,
+        "alias": "Contents.Item.Desc.2202404",
+        "text": "可以通过向村里的[代币兑换商]支付[工匠信物]购买,也可以通过\n[制作]获得."
+    },
+    "92202405": {
+        "deprecated": false,
+        "id": 92202405,
+        "alias": "Contents.Item.Desc.2202405"
+    },
+    "92202406": {
+        "deprecated": false,
+        "id": 92202406,
+        "alias": "Contents.Item.Desc.2202406"
+    },
+    "92202407": {
+        "deprecated": false,
+        "id": 92202407,
+        "alias": "Contents.Item.Desc.2202407",
+        "text": "可以通过[制作]获得."
+    },
+    "92202408": {
+        "deprecated": false,
+        "id": 92202408,
+        "alias": "Contents.Item.Desc.2202408",
+        "text": "可以通过[制作]获得."
+    },
+    "92202409": {
+        "deprecated": false,
+        "id": 92202409,
+        "alias": "Contents.Item.Desc.2202409"
+    },
+    "92202410": {
+        "deprecated": false,
+        "id": 92202410,
+        "alias": "Contents.Item.Desc.2202410"
+    },
+    "92202601": {
+        "deprecated": false,
+        "id": 92202601,
+        "alias": "Contents.Item.Desc.2202601",
+        "text": "可以通过[制作]获得."
+    },
+    "92202602": {
+        "deprecated": false,
+        "id": 92202602,
+        "alias": "Contents.Item.Desc.2202602"
+    },
+    "92202603": {
+        "deprecated": false,
+        "id": 92202603,
+        "alias": "Contents.Item.Desc.2202603"
+    },
+    "92202604": {
+        "deprecated": false,
+        "id": 92202604,
+        "alias": "Contents.Item.Desc.2202604"
+    },
+    "92202605": {
+        "deprecated": false,
+        "id": 92202605,
+        "alias": "Contents.Item.Desc.2202605"
+    },
+    "92202606": {
+        "deprecated": false,
+        "id": 92202606,
+        "alias": "Contents.Item.Desc.2202606"
+    },
+    "92202801": {
+        "deprecated": false,
+        "id": 92202801,
+        "alias": "Contents.Item.Desc.2202801",
+        "text": "可以通过[制作]获得."
+    },
+    "92202802": {
+        "deprecated": false,
+        "id": 92202802,
+        "alias": "Contents.Item.Desc.2202802"
+    },
+    "92203001": {
+        "deprecated": false,
+        "id": 92203001,
+        "alias": "Contents.Item.Desc.2203001"
+    },
+    "92203002": {
+        "deprecated": false,
+        "id": 92203002,
+        "alias": "Contents.Item.Desc.2203002",
+        "text": "可以通过向村庄的[代币兑换商]支付[工匠信物]来购买."
+    },
+    "92203003": {
+        "deprecated": false,
+        "id": 92203003,
+        "alias": "Contents.Item.Desc.2203003"
+    },
+    "92203004": {
+        "deprecated": false,
+        "id": 92203004,
+        "alias": "Contents.Item.Desc.2203004",
+        "text": "可以通过[制作]获得."
+    },
+    "92203005": {
+        "deprecated": false,
+        "id": 92203005,
+        "alias": "Contents.Item.Desc.2203005",
+        "text": "可从[悬赏]中获得."
+    },
+    "92203006": {
+        "deprecated": false,
+        "id": 92203006,
+        "alias": "Contents.Item.Desc.2203006",
+        "text": "可从[悬赏]中获得."
+    },
+    "92203007": {
+        "deprecated": false,
+        "id": 92203007,
+        "alias": "Contents.Item.Desc.2203007",
+        "text": "可从[绑定装备箱]中获得."
+    },
+    "92203008": {
+        "deprecated": false,
+        "id": 92203008,
+        "alias": "Contents.Item.Desc.2203008",
+        "text": "可以通过[制作]获得."
+    },
+    "92203009": {
+        "deprecated": false,
+        "id": 92203009,
+        "alias": "Contents.Item.Desc.2203009",
+        "text": "可从[绑定装备箱]中获得."
+    },
+    "92203010": {
+        "deprecated": false,
+        "id": 92203010,
+        "alias": "Contents.Item.Desc.2203010"
+    },
+    "92203201": {
+        "deprecated": false,
+        "id": 92203201,
+        "alias": "Contents.Item.Desc.2203201",
+        "text": "可以通过向村里的[代币兑换商]支付[工匠信物]购买,也可以从\n[绑定装备箱]或[制作]获得."
+    },
+    "92203202": {
+        "deprecated": false,
+        "id": 92203202,
+        "alias": "Contents.Item.Desc.2203202",
+        "text": "可以通过向村里的[代币兑换商]支付[工匠信物]购买,也可以通过\n[合作]或[制作]获得."
+    },
+    "92203203": {
+        "deprecated": false,
+        "id": 92203203,
+        "alias": "Contents.Item.Desc.2203203",
+        "text": "可从[绑定装备箱]中获得."
+    },
+    "92203204": {
+        "deprecated": false,
+        "id": 92203204,
+        "alias": "Contents.Item.Desc.2203204",
+        "text": "[伴奏],可以通过[制作]获得."
+    },
+    "92203205": {
+        "deprecated": false,
+        "id": 92203205,
+        "alias": "Contents.Item.Desc.2203205",
+        "text": "可从[悬赏]中获得."
+    },
+    "92203401": {
+        "deprecated": false,
+        "id": 92203401,
+        "alias": "Contents.Item.Desc.2203401",
+        "text": "可以通过向村里的[代币兑换商]支付[工匠信物]购买,也可以通过\n[制作]获得.武器攻击力额外增加"
+    },
+    "92203402": {
+        "deprecated": false,
+        "id": 92203402,
+        "alias": "Contents.Item.Desc.2203402",
+        "text": "[绑定装备箱],可从[悬赏]中获得."
+    },
+    "92203403": {
+        "deprecated": false,
+        "id": 92203403,
+        "alias": "Contents.Item.Desc.2203403",
+        "text": "[悬赏],可以通过[制作]获得."
+    },
+    "92203404": {
+        "deprecated": false,
+        "id": 92203404,
+        "alias": "Contents.Item.Desc.2203404",
+        "text": "可以通过向村庄的[代币兑换商]支付[工匠信物]来购买."
+    },
+    "92203405": {
+        "deprecated": false,
+        "id": 92203405,
+        "alias": "Contents.Item.Desc.2203405",
+        "text": "可以通过[制作]获得."
+    },
+    "92203406": {
+        "deprecated": false,
+        "id": 92203406,
+        "alias": "Contents.Item.Desc.2203406"
+    },
+    "92203407": {
+        "deprecated": false,
+        "id": 92203407,
+        "alias": "Contents.Item.Desc.2203407"
+    },
+    "92203408": {
+        "deprecated": false,
+        "id": 92203408,
+        "alias": "Contents.Item.Desc.2203408"
+    },
+    "92203409": {
+        "deprecated": false,
+        "id": 92203409,
+        "alias": "Contents.Item.Desc.2203409",
+        "text": "可以通过[制作]获得."
+    },
+    "92203410": {
+        "deprecated": false,
+        "id": 92203410,
+        "alias": "Contents.Item.Desc.2203410"
+    },
+    "92203601": {
+        "deprecated": false,
+        "id": 92203601,
+        "alias": "Contents.Item.Desc.2203601",
+        "text": "可以通过[制作]获得."
+    },
+    "92203602": {
+        "deprecated": false,
+        "id": 92203602,
+        "alias": "Contents.Item.Desc.2203602"
+    },
+    "92203603": {
+        "deprecated": false,
+        "id": 92203603,
+        "alias": "Contents.Item.Desc.2203603"
+    },
+    "92203604": {
+        "deprecated": false,
+        "id": 92203604,
+        "alias": "Contents.Item.Desc.2203604"
+    },
+    "92203605": {
+        "deprecated": false,
+        "id": 92203605,
+        "alias": "Contents.Item.Desc.2203605"
+    },
+    "92203606": {
+        "deprecated": false,
+        "id": 92203606,
+        "alias": "Contents.Item.Desc.2203606"
+    },
+    "92203801": {
+        "deprecated": false,
+        "id": 92203801,
+        "alias": "Contents.Item.Desc.2203801",
+        "text": "可以通过[制作]获得."
+    },
+    "92203802": {
+        "deprecated": false,
+        "id": 92203802,
+        "alias": "Contents.Item.Desc.2203802"
+    },
+    "92204001": {
+        "deprecated": false,
+        "id": 92204001,
+        "alias": "Contents.Item.Desc.2204001"
+    },
+    "92204002": {
+        "deprecated": false,
+        "id": 92204002,
+        "alias": "Contents.Item.Desc.2204002",
+        "text": "可以通过向村庄的[代币兑换商]支付[工匠信物]来购买."
+    },
+    "92204003": {
+        "deprecated": false,
+        "id": 92204003,
+        "alias": "Contents.Item.Desc.2204003"
+    },
+    "92204004": {
+        "deprecated": false,
+        "id": 92204004,
+        "alias": "Contents.Item.Desc.2204004",
+        "text": "可以通过[制作]获得."
+    },
+    "92204005": {
+        "deprecated": false,
+        "id": 92204005,
+        "alias": "Contents.Item.Desc.2204005",
+        "text": "可从[悬赏]中获得."
+    },
+    "92204006": {
+        "deprecated": false,
+        "id": 92204006,
+        "alias": "Contents.Item.Desc.2204006",
+        "text": "可从[悬赏]中获得."
+    },
+    "92204007": {
+        "deprecated": false,
+        "id": 92204007,
+        "alias": "Contents.Item.Desc.2204007",
+        "text": "可从[绑定装备箱]中获得."
+    },
+    "92204008": {
+        "deprecated": false,
+        "id": 92204008,
+        "alias": "Contents.Item.Desc.2204008",
+        "text": "可以通过[制作]获得."
+    },
+    "92204009": {
+        "deprecated": false,
+        "id": 92204009,
+        "alias": "Contents.Item.Desc.2204009",
+        "text": "可从[绑定装备箱]中获得."
+    },
+    "92204010": {
+        "deprecated": false,
+        "id": 92204010,
+        "alias": "Contents.Item.Desc.2204010"
+    },
+    "92204201": {
+        "deprecated": false,
+        "id": 92204201,
+        "alias": "Contents.Item.Desc.2204201",
+        "text": "可以通过向村里的[代币兑换商]支付[工匠信物]购买,也可以从\n[绑定装备箱]或[制作]获得."
+    },
+    "92204202": {
+        "deprecated": false,
+        "id": 92204202,
+        "alias": "Contents.Item.Desc.2204202",
+        "text": "可以通过向村里的[代币兑换商]支付[工匠信物]购买,也可以通过\n[合作]或[制作]获得."
+    },
+    "92204203": {
+        "deprecated": false,
+        "id": 92204203,
+        "alias": "Contents.Item.Desc.2204203",
+        "text": "[绑定装备箱]或可以通过[制作]获得."
+    },
+    "92204204": {
+        "deprecated": false,
+        "id": 92204204,
+        "alias": "Contents.Item.Desc.2204204",
+        "text": "可从[悬赏]中获得."
+    },
+    "92204205": {
+        "deprecated": false,
+        "id": 92204205,
+        "alias": "Contents.Item.Desc.2204205",
+        "text": "可从[悬赏]中获得."
+    },
+    "92204401": {
+        "deprecated": false,
+        "id": 92204401,
+        "alias": "Contents.Item.Desc.2204401",
+        "text": "可以通过向村里的[代币兑换商]支付[工匠信物]购买,也可以通过\n[制作]获得.武器攻击力额外增加"
+    },
+    "92204402": {
+        "deprecated": false,
+        "id": 92204402,
+        "alias": "Contents.Item.Desc.2204402",
+        "text": "可通过[绑定装备箱]和[合作]获得."
+    },
+    "92204403": {
+        "deprecated": false,
+        "id": 92204403,
+        "alias": "Contents.Item.Desc.2204403",
+        "text": "可通过[合作]获得."
+    },
+    "92204404": {
+        "deprecated": false,
+        "id": 92204404,
+        "alias": "Contents.Item.Desc.2204404",
+        "text": "可以通过向村里的[代币兑换商]支付[工匠信物]购买,也可以通过\n[制作]获得."
+    },
+    "92204405": {
+        "deprecated": false,
+        "id": 92204405,
+        "alias": "Contents.Item.Desc.2204405",
+        "text": "可以通过[制作]获得."
+    },
+    "92204406": {
+        "deprecated": false,
+        "id": 92204406,
+        "alias": "Contents.Item.Desc.2204406"
+    },
+    "92204407": {
+        "deprecated": false,
+        "id": 92204407,
+        "alias": "Contents.Item.Desc.2204407"
+    },
+    "92204408": {
+        "deprecated": false,
+        "id": 92204408,
+        "alias": "Contents.Item.Desc.2204408"
+    },
+    "92204409": {
+        "deprecated": false,
+        "id": 92204409,
+        "alias": "Contents.Item.Desc.2204409"
+    },
+    "92204410": {
+        "deprecated": false,
+        "id": 92204410,
+        "alias": "Contents.Item.Desc.2204410",
+        "text": "可以通过[制作]获得."
+    },
+    "92204601": {
+        "deprecated": false,
+        "id": 92204601,
+        "alias": "Contents.Item.Desc.2204601",
+        "text": "可以通过[制作]获得."
+    },
+    "92204602": {
+        "deprecated": false,
+        "id": 92204602,
+        "alias": "Contents.Item.Desc.2204602"
+    },
+    "92204603": {
+        "deprecated": false,
+        "id": 92204603,
+        "alias": "Contents.Item.Desc.2204603"
+    },
+    "92204604": {
+        "deprecated": false,
+        "id": 92204604,
+        "alias": "Contents.Item.Desc.2204604"
+    },
+    "92204605": {
+        "deprecated": false,
+        "id": 92204605,
+        "alias": "Contents.Item.Desc.2204605"
+    },
+    "92204606": {
+        "deprecated": false,
+        "id": 92204606,
+        "alias": "Contents.Item.Desc.2204606"
+    },
+    "92204801": {
+        "deprecated": false,
+        "id": 92204801,
+        "alias": "Contents.Item.Desc.2204801",
+        "text": "可以通过[制作]获得."
+    },
+    "92204802": {
+        "deprecated": false,
+        "id": 92204802,
+        "alias": "Contents.Item.Desc.2204802"
+    },
+    "92205001": {
+        "deprecated": false,
+        "id": 92205001,
+        "alias": "Contents.Item.Desc.2205001"
+    },
+    "92205002": {
+        "deprecated": false,
+        "id": 92205002,
+        "alias": "Contents.Item.Desc.2205002",
+        "text": "可以通过向村庄的[代币兑换商]支付[工匠信物]来购买."
+    },
+    "92205003": {
+        "deprecated": false,
+        "id": 92205003,
+        "alias": "Contents.Item.Desc.2205003"
+    },
+    "92205004": {
+        "deprecated": false,
+        "id": 92205004,
+        "alias": "Contents.Item.Desc.2205004",
+        "text": "可以通过[制作]获得."
+    },
+    "92205005": {
+        "deprecated": false,
+        "id": 92205005,
+        "alias": "Contents.Item.Desc.2205005",
+        "text": "可从[悬赏]中获得."
+    },
+    "92205006": {
+        "deprecated": false,
+        "id": 92205006,
+        "alias": "Contents.Item.Desc.2205006",
+        "text": "可从[悬赏]中获得."
+    },
+    "92205007": {
+        "deprecated": false,
+        "id": 92205007,
+        "alias": "Contents.Item.Desc.2205007",
+        "text": "可从[绑定装备箱]中获得."
+    },
+    "92205008": {
+        "deprecated": false,
+        "id": 92205008,
+        "alias": "Contents.Item.Desc.2205008",
+        "text": "可以通过[制作]获得."
+    },
+    "92205009": {
+        "deprecated": false,
+        "id": 92205009,
+        "alias": "Contents.Item.Desc.2205009",
+        "text": "可从[绑定装备箱]中获得."
+    },
+    "92205010": {
+        "deprecated": false,
+        "id": 92205010,
+        "alias": "Contents.Item.Desc.2205010"
+    },
+    "92205201": {
+        "deprecated": false,
+        "id": 92205201,
+        "alias": "Contents.Item.Desc.2205201",
+        "text": "可以通过向村里的[代币兑换商]支付[工匠信物]购买,也可以从\n[绑定装备箱]或[制作]获得."
+    },
+    "92205202": {
+        "deprecated": false,
+        "id": 92205202,
+        "alias": "Contents.Item.Desc.2205202",
+        "text": "可以通过向村里的[代币兑换商]支付[工匠信物]购买,也可以通过\n[合作]或[制作]获得."
+    },
+    "92205203": {
+        "deprecated": false,
+        "id": 92205203,
+        "alias": "Contents.Item.Desc.2205203",
+        "text": "[绑定装备箱]或可以通过[制作]获得."
+    },
+    "92205204": {
+        "deprecated": false,
+        "id": 92205204,
+        "alias": "Contents.Item.Desc.2205204",
+        "text": "可从[悬赏]中获得."
+    },
+    "92205205": {
+        "deprecated": false,
+        "id": 92205205,
+        "alias": "Contents.Item.Desc.2205205",
+        "text": "可从[悬赏]中获得."
+    },
+    "92205401": {
+        "deprecated": false,
+        "id": 92205401,
+        "alias": "Contents.Item.Desc.2205401",
+        "text": "向镇上的[代币交换商]支付[工匠信物]即可购买\n以[制作]方式获得\n\n+7强化时增加穿透力\n+8强化时增加命中\n+9强化时增加爆击伤害"
+    },
+    "92205402": {
+        "deprecated": false,
+        "id": 92205402,
+        "alias": "Contents.Item.Desc.2205402",
+        "text": "可通过[绑定装备箱]和[合作]获得."
+    },
+    "92205403": {
+        "deprecated": false,
+        "id": 92205403,
+        "alias": "Contents.Item.Desc.2205403",
+        "text": "[悬赏],可以通过[制作]获得."
+    },
+    "92205404": {
+        "deprecated": false,
+        "id": 92205404,
+        "alias": "Contents.Item.Desc.2205404",
+        "text": "可以通过向村庄的[兑换券]支付[工匠信物]购买\n可以通过[制作]获得."
+    },
+    "92205405": {
+        "deprecated": false,
+        "id": 92205405,
+        "alias": "Contents.Item.Desc.2205405"
+    },
+    "92205406": {
+        "deprecated": false,
+        "id": 92205406,
+        "alias": "Contents.Item.Desc.2205406"
+    },
+    "92205407": {
+        "deprecated": false,
+        "id": 92205407,
+        "alias": "Contents.Item.Desc.2205407"
+    },
+    "92205408": {
+        "deprecated": false,
+        "id": 92205408,
+        "alias": "Contents.Item.Desc.2205408",
+        "text": "可以通过[制作]获得."
+    },
+    "92205409": {
+        "deprecated": false,
+        "id": 92205409,
+        "alias": "Contents.Item.Desc.2205409"
+    },
+    "92205410": {
+        "deprecated": false,
+        "id": 92205410,
+        "alias": "Contents.Item.Desc.2205410"
+    },
+    "92205601": {
+        "deprecated": false,
+        "id": 92205601,
+        "alias": "Contents.Item.Desc.2205601",
+        "text": "可以通过[制作]获得."
+    },
+    "92205602": {
+        "deprecated": false,
+        "id": 92205602,
+        "alias": "Contents.Item.Desc.2205602"
+    },
+    "92205603": {
+        "deprecated": false,
+        "id": 92205603,
+        "alias": "Contents.Item.Desc.2205603"
+    },
+    "92205604": {
+        "deprecated": false,
+        "id": 92205604,
+        "alias": "Contents.Item.Desc.2205604"
+    },
+    "92205605": {
+        "deprecated": false,
+        "id": 92205605,
+        "alias": "Contents.Item.Desc.2205605"
+    },
+    "92205606": {
+        "deprecated": false,
+        "id": 92205606,
+        "alias": "Contents.Item.Desc.2205606"
+    },
+    "92205801": {
+        "deprecated": false,
+        "id": 92205801,
+        "alias": "Contents.Item.Desc.2205801",
+        "text": "可以通过[制作]获得."
+    },
+    "92205802": {
+        "deprecated": false,
+        "id": 92205802,
+        "alias": "Contents.Item.Desc.2205802"
+    },
+    "92206001": {
+        "deprecated": false,
+        "id": 92206001,
+        "alias": "Contents.Item.Desc.2206001"
+    },
+    "92206002": {
+        "deprecated": false,
+        "id": 92206002,
+        "alias": "Contents.Item.Desc.2206002",
+        "text": "可以通过向村庄的[代币兑换商]支付[工匠信物]来购买."
+    },
+    "92206003": {
+        "deprecated": false,
+        "id": 92206003,
+        "alias": "Contents.Item.Desc.2206003"
+    },
+    "92206004": {
+        "deprecated": false,
+        "id": 92206004,
+        "alias": "Contents.Item.Desc.2206004",
+        "text": "可以通过[制作]获得."
+    },
+    "92206005": {
+        "deprecated": false,
+        "id": 92206005,
+        "alias": "Contents.Item.Desc.2206005",
+        "text": "可从[悬赏]中获得."
+    },
+    "92206006": {
+        "deprecated": false,
+        "id": 92206006,
+        "alias": "Contents.Item.Desc.2206006",
+        "text": "可从[悬赏]中获得."
+    },
+    "92206007": {
+        "deprecated": false,
+        "id": 92206007,
+        "alias": "Contents.Item.Desc.2206007",
+        "text": "可从[绑定装备箱]中获得."
+    },
+    "92206008": {
+        "deprecated": false,
+        "id": 92206008,
+        "alias": "Contents.Item.Desc.2206008",
+        "text": "可以通过[制作]获得."
+    },
+    "92206009": {
+        "deprecated": false,
+        "id": 92206009,
+        "alias": "Contents.Item.Desc.2206009",
+        "text": "可从[绑定装备箱]中获得."
+    },
+    "92206010": {
+        "deprecated": false,
+        "id": 92206010,
+        "alias": "Contents.Item.Desc.2206010"
+    },
+    "92206201": {
+        "deprecated": false,
+        "id": 92206201,
+        "alias": "Contents.Item.Desc.2206201",
+        "text": "可以通过向村里的[代币兑换商]支付[工匠信物]购买,也可以从\n[绑定装备箱]或[制作]获得."
+    },
+    "92206202": {
+        "deprecated": false,
+        "id": 92206202,
+        "alias": "Contents.Item.Desc.2206202",
+        "text": "可以通过向村里的[代币兑换商]支付[工匠信物]购买,也可以通过\n[合作]或[制作]获得."
+    },
+    "92206203": {
+        "deprecated": false,
+        "id": 92206203,
+        "alias": "Contents.Item.Desc.2206203",
+        "text": "[绑定装备箱]或可以通过[制作]获得."
+    },
+    "92206204": {
+        "deprecated": false,
+        "id": 92206204,
+        "alias": "Contents.Item.Desc.2206204",
+        "text": "可从[悬赏]中获得."
+    },
+    "92206205": {
+        "deprecated": false,
+        "id": 92206205,
+        "alias": "Contents.Item.Desc.2206205",
+        "text": "可从[悬赏]中获得."
+    },
+    "92206401": {
+        "deprecated": false,
+        "id": 92206401,
+        "alias": "Contents.Item.Desc.2206401",
+        "text": "向镇上的[代币交换商]支付[工匠信物]即可购买\n以[制作]方式获得\n\n+7强化时增加穿透力\n+8强化时治疗力进一步提升\n+9强化时增加额外伤害"
+    },
+    "92206402": {
+        "deprecated": false,
+        "id": 92206402,
+        "alias": "Contents.Item.Desc.2206402",
+        "text": "可以通过向村庄的[代币兑换商]支付[工匠信物]来购买.额外增加攻击力"
+    },
+    "92206403": {
+        "deprecated": false,
+        "id": 92206403,
+        "alias": "Contents.Item.Desc.2206403",
+        "text": "可通过[绑定装备箱]和[悬赏]获得."
+    },
+    "92206404": {
+        "deprecated": false,
+        "id": 92206404,
+        "alias": "Contents.Item.Desc.2206404",
+        "text": "[悬赏],可以通过[制作]获得."
+    },
+    "92206405": {
+        "deprecated": false,
+        "id": 92206405,
+        "alias": "Contents.Item.Desc.2206405",
+        "text": "可以通过向村庄的[代币兑换商]支付[工匠信物]来购买."
+    },
+    "92206406": {
+        "deprecated": false,
+        "id": 92206406,
+        "alias": "Contents.Item.Desc.2206406",
+        "text": "可以通过[制作]获得."
+    },
+    "92206407": {
+        "deprecated": false,
+        "id": 92206407,
+        "alias": "Contents.Item.Desc.2206407"
+    },
+    "92206408": {
+        "deprecated": false,
+        "id": 92206408,
+        "alias": "Contents.Item.Desc.2206408"
+    },
+    "92206409": {
+        "deprecated": false,
+        "id": 92206409,
+        "alias": "Contents.Item.Desc.2206409"
+    },
+    "92206410": {
+        "deprecated": false,
+        "id": 92206410,
+        "alias": "Contents.Item.Desc.2206410"
+    },
+    "92206601": {
+        "deprecated": false,
+        "id": 92206601,
+        "alias": "Contents.Item.Desc.2206601",
+        "text": "可以获得[生产]。"
+    },
+    "92206602": {
+        "deprecated": false,
+        "id": 92206602,
+        "alias": "Contents.Item.Desc.2206602"
+    },
+    "92206603": {
+        "deprecated": false,
+        "id": 92206603,
+        "alias": "Contents.Item.Desc.2206603"
+    },
+    "92206604": {
+        "deprecated": false,
+        "id": 92206604,
+        "alias": "Contents.Item.Desc.2206604"
+    },
+    "92206605": {
+        "deprecated": false,
+        "id": 92206605,
+        "alias": "Contents.Item.Desc.2206605"
+    },
+    "92206606": {
+        "deprecated": false,
+        "id": 92206606,
+        "alias": "Contents.Item.Desc.2206606"
+    },
+    "92206801": {
+        "deprecated": false,
+        "id": 92206801,
+        "alias": "Contents.Item.Desc.2206801",
+        "text": "[제작]으로 획득할 수 있습니다."
+    },
+    "92206802": {
+        "deprecated": false,
+        "id": 92206802,
+        "alias": "Contents.Item.Desc.2206802"
+    },
+    "92900001": {
+        "deprecated": false,
+        "id": 92900001,
+        "alias": "Contents.Item.Desc.2900001",
+        "text": "기본공격 적중 시 100%의 확률로 대상에게 추가 피해를 줍니다."
+    },
+    "92900002": {
+        "deprecated": false,
+        "id": 92900002,
+        "alias": "Contents.Item.Desc.2900002",
+        "text": "기본공격 적중 시 100%의 확률로 대상에게 추가 피해를 줍니다."
+    },
+    "92900003": {
+        "deprecated": false,
+        "id": 92900003,
+        "alias": "Contents.Item.Desc.2900003",
+        "text": "기본공격 적중 시 100%의 확률로 대상에게 추가 피해를 줍니다."
+    },
+    "92900004": {
+        "deprecated": false,
+        "id": 92900004,
+        "alias": "Contents.Item.Desc.2900004",
+        "text": "기본공격 적중 시 100%의 확률로 대상에게 추가 피해를 줍니다."
+    },
+    "92900005": {
+        "deprecated": false,
+        "id": 92900005,
+        "alias": "Contents.Item.Desc.2900005",
+        "text": "기본공격 명중 시 8% 확률로 선풍각을 사용합니다. 또한 기본공격 중 치명타 발생 시, 적에게 낙뢰를 떨어뜨려 경직시킵니다."
+    },
+    "92900006": {
+        "deprecated": false,
+        "id": 92900006,
+        "alias": "Contents.Item.Desc.2900006",
+        "text": "기본공격 적중 시 100%의 확률로 대상에게 추가 피해를 줍니다."
+    },
+    "92900007": {
+        "deprecated": false,
+        "id": 92900007,
+        "alias": "Contents.Item.Desc.2900007",
+        "text": "普攻命中时,有16%的几率发射爆炸箭矢,造成大范围伤害."
+    }
+}

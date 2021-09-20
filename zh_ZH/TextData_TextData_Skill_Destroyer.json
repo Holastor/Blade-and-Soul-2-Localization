@@ -1,0 +1,946 @@
+{
+    "60040000": {
+        "deprecated": false,
+        "Dev_Desc": "역사_불사버프",
+        "id": 60040000,
+        "alias": "Contents.Effect.Name.GreatAxe.409101",
+        "text": "不朽"
+    },
+    "60040001": {
+        "deprecated": false,
+        "Dev_Desc": "역사_불사버프",
+        "id": 60040001,
+        "alias": "Contents.Effect.Desc.GreatAxe.409101",
+        "text": "按健康比例恢复生命力"
+    },
+    "60040002": {
+        "deprecated": false,
+        "Dev_Desc": "역사_불사버프",
+        "id": 60040002,
+        "alias": "Contents.Effect.Option.GreatAxe.409101",
+        "text": "维持时间内生命力持续恢复"
+    },
+    "60040003": {
+        "deprecated": false,
+        "Dev_Desc": "역사_불사버프",
+        "id": 60040003,
+        "alias": "Contents.Effect.Detail.GreatAxe.409101"
+    },
+    "60040004": {
+        "deprecated": false,
+        "Dev_Desc": "역사_불사버프_증폭",
+        "id": 60040004,
+        "alias": "Contents.Effect.Name.GreatAxe.409201",
+        "text": "不朽"
+    },
+    "60040005": {
+        "deprecated": false,
+        "Dev_Desc": "역사_불사버프_증폭",
+        "id": 60040005,
+        "alias": "Contents.Effect.Desc.GreatAxe.409201",
+        "text": "与健康成正比恢复生命力"
+    },
+    "60040006": {
+        "deprecated": false,
+        "Dev_Desc": "역사_불사버프_증폭",
+        "id": 60040006,
+        "alias": "Contents.Effect.Option.GreatAxe.409201",
+        "text": "维持时间内、HP持续恢复\n控制抵抗率+20%"
+    },
+    "60040007": {
+        "deprecated": false,
+        "Dev_Desc": "역사_불사버프_증폭",
+        "id": 60040007,
+        "alias": "Contents.Effect.Detail.GreatAxe.409201"
+    },
+    "60040008": {
+        "deprecated": false,
+        "Dev_Desc": "역사_불사버프_극한",
+        "id": 60040008,
+        "alias": "Contents.Effect.Name.GreatAxe.409301",
+        "text": "不朽"
+    },
+    "60040009": {
+        "deprecated": false,
+        "Dev_Desc": "역사_불사버프_극한",
+        "id": 60040009,
+        "alias": "Contents.Effect.Desc.GreatAxe.409301",
+        "text": "按健康比例恢复生命力"
+    },
+    "60040010": {
+        "deprecated": false,
+        "Dev_Desc": "역사_불사버프_극한",
+        "id": 60040010,
+        "alias": "Contents.Effect.Option.GreatAxe.409301",
+        "text": "维持时间内、HP持续恢复\n控制抵抗率+20%"
+    },
+    "60040011": {
+        "deprecated": false,
+        "Dev_Desc": "역사_불사버프_극한",
+        "id": 60040011,
+        "alias": "Contents.Effect.Detail.GreatAxe.409301"
+    },
+    "60040012": {
+        "deprecated": false,
+        "Dev_Desc": "역사_도발디버프",
+        "id": 60040012,
+        "alias": "Contents.Effect.Name.GreatAxe.13000",
+        "text": "挑衅"
+    },
+    "60040013": {
+        "deprecated": false,
+        "Dev_Desc": "역사_도발디버프",
+        "id": 60040013,
+        "alias": "Contents.Effect.Desc.GreatAxe.13000",
+        "text": "挑衅状态"
+    },
+    "60040014": {
+        "deprecated": false,
+        "Dev_Desc": "역사_도발디버프",
+        "id": 60040014,
+        "alias": "Contents.Effect.Option.GreatAxe.13000",
+        "text": "无法移动及战斗操作"
+    },
+    "60040015": {
+        "deprecated": false,
+        "Dev_Desc": "역사_도발디버프",
+        "id": 60040015,
+        "alias": "Contents.Effect.Detail.GreatAxe.13000",
+        "text": "对挑衅的对象进行基础攻击"
+    },
+    "60040016": {
+        "deprecated": false,
+        "Dev_Desc": "역사_분노버프",
+        "id": 60040016,
+        "alias": "Contents.Effect.Name.GreatAxe.412101",
+        "text": "愤怒"
+    },
+    "60040017": {
+        "deprecated": false,
+        "Dev_Desc": "역사_분노버프",
+        "id": 60040017,
+        "alias": "Contents.Effect.Desc.GreatAxe.412101",
+        "text": "可以使用激怒"
+    },
+    "60040018": {
+        "deprecated": false,
+        "Dev_Desc": "역사_분노버프",
+        "id": 60040018,
+        "alias": "Contents.Effect.Option.GreatAxe.412101",
+        "text": "可以使用基础攻击“激怒”"
+    },
+    "60040019": {
+        "deprecated": false,
+        "Dev_Desc": "역사_분노버프",
+        "id": 60040019,
+        "alias": "Contents.Effect.Detail.GreatAxe.412101"
+    },
+    "60040020": {
+        "deprecated": false,
+        "Dev_Desc": "역사_분노버프_증폭",
+        "id": 60040020,
+        "alias": "Contents.Effect.Name.GreatAxe.412201",
+        "text": "愤怒"
+    },
+    "60040021": {
+        "deprecated": false,
+        "Dev_Desc": "역사_분노버프_증폭",
+        "id": 60040021,
+        "alias": "Contents.Effect.Desc.GreatAxe.412201",
+        "text": "可以使用激怒"
+    },
+    "60040022": {
+        "deprecated": false,
+        "Dev_Desc": "역사_분노버프_증폭",
+        "id": 60040022,
+        "alias": "Contents.Effect.Option.GreatAxe.412201",
+        "text": "基础攻击“激怒”可用\n斧子攻击力+5"
+    },
+    "60040023": {
+        "deprecated": false,
+        "Dev_Desc": "역사_분노버프_증폭",
+        "id": 60040023,
+        "alias": "Contents.Effect.Detail.GreatAxe.412201"
+    },
+    "60040024": {
+        "deprecated": false,
+        "Dev_Desc": "역사_분노버프_극한",
+        "id": 60040024,
+        "alias": "Contents.Effect.Name.GreatAxe.412301",
+        "text": "愤怒"
+    },
+    "60040025": {
+        "deprecated": false,
+        "Dev_Desc": "역사_분노버프_극한",
+        "id": 60040025,
+        "alias": "Contents.Effect.Desc.GreatAxe.412301",
+        "text": "可以使用激怒"
+    },
+    "60040026": {
+        "deprecated": false,
+        "Dev_Desc": "역사_분노버프_극한",
+        "id": 60040026,
+        "alias": "Contents.Effect.Option.GreatAxe.412301",
+        "text": "基础攻击“激怒”可用\n斧子攻击力+5"
+    },
+    "60040027": {
+        "deprecated": false,
+        "Dev_Desc": "역사_분노버프_극한",
+        "id": 60040027,
+        "alias": "Contents.Effect.Detail.GreatAxe.412301"
+    },
+    "60040028": {
+        "deprecated": false,
+        "Dev_Desc": "역사_불사활성화증가",
+        "id": 60040028,
+        "alias": "Contents.Effect.Name.GreatAxe.406901",
+        "text": "咆哮"
+    },
+    "60040029": {
+        "deprecated": false,
+        "Dev_Desc": "역사_불사활성화증가",
+        "id": 60040029,
+        "alias": "Contents.Effect.Desc.GreatAxe.406901",
+        "text": "不死激活几率增加"
+    },
+    "60040030": {
+        "deprecated": false,
+        "Dev_Desc": "역사_불사활성화증가",
+        "id": 60040030,
+        "alias": "Contents.Effect.Option.GreatAxe.406901",
+        "text": "不死激活几率+3%"
+    },
+    "60040031": {
+        "deprecated": false,
+        "Dev_Desc": "역사_불사활성화증가",
+        "id": 60040031,
+        "alias": "Contents.Effect.Detail.GreatAxe.406901"
+    },
+    "60040032": {
+        "deprecated": false,
+        "Dev_Desc": "역사_불사활성화증가",
+        "id": 60040032,
+        "alias": "Contents.Effect.Option.GreatAxe.411501",
+        "text": "不死激活几率+3%\n受到的伤害量减少+8%"
+    },
+    "60040033": {
+        "deprecated": false,
+        "Dev_Desc": "역사_불사활성화증가",
+        "id": 60040033,
+        "alias": "Contents.Effect.Detail.GreatAxe.411501"
+    },
+    "60040034": {
+        "deprecated": false,
+        "Dev_Desc": "심판",
+        "id": 60040034,
+        "alias": "Contents.Skill.Name.GreatAxe.4001",
+        "text": "裁判"
+    },
+    "60040035": {
+        "deprecated": false,
+        "Dev_Desc": "응징",
+        "id": 60040035,
+        "alias": "Contents.Skill.Name.GreatAxe.4002",
+        "text": "惩戒"
+    },
+    "60040036": {
+        "deprecated": false,
+        "Dev_Desc": "철벽",
+        "id": 60040036,
+        "alias": "Contents.Skill.Name.GreatAxe.4005",
+        "text": "铁壁"
+    },
+    "60040037": {
+        "deprecated": false,
+        "Dev_Desc": "철벽",
+        "id": 60040037,
+        "alias": "Contents.Skill.Desc.GreatAxe.4005",
+        "text": "防御前方的攻击\n基础攻击变更\n再使用时,解除铁壁进行攻击\n格挡时,体力减少,0时解除"
+    },
+    "60040038": {
+        "deprecated": false,
+        "Dev_Desc": "철벽_증",
+        "id": 60040038,
+        "alias": "Contents.Skill.acquireEffect.GreatAxe.4005_2",
+        "text": "“铁壁”中反弹触发率+15%"
+    },
+    "60040039": {
+        "deprecated": false,
+        "Dev_Desc": "철벽_극",
+        "id": 60040039,
+        "alias": "Contents.Skill.acquireEffect.GreatAxe.4005_3",
+        "text": "“铁壁”中防御伤害减少率+5%"
+    },
+    "60040040": {
+        "deprecated": false,
+        "Dev_Desc": "철벽_돌",
+        "id": 60040040,
+        "alias": "Contents.Skill.acquireEffect.GreatAxe.4005_4",
+        "text": "“铁壁”中也可以使用巨石、咆哮、不死"
+    },
+    "60040041": {
+        "deprecated": false,
+        "Dev_Desc": "천벌",
+        "id": 60040041,
+        "alias": "Contents.Skill.Name.GreatAxe.4061",
+        "text": "天谴"
+    },
+    "60040042": {
+        "deprecated": false,
+        "Dev_Desc": "천벌",
+        "id": 60040042,
+        "alias": "Contents.Skill.Desc.GreatAxe.4061",
+        "text": "砍下斧头造成伤害"
+    },
+    "60040043": {
+        "deprecated": false,
+        "Dev_Desc": "천벌_증폭",
+        "id": 60040043,
+        "alias": "Contents.Skill.acquireEffect.GreatAxe.4061_2",
+        "text": "伤害量增加"
+    },
+    "60040044": {
+        "deprecated": false,
+        "Dev_Desc": "천벌_극한",
+        "id": 60040044,
+        "alias": "Contents.Skill.acquireEffect.GreatAxe.4061_3",
+        "text": "冷却时间-2秒"
+    },
+    "60040045": {
+        "deprecated": false,
+        "Dev_Desc": "천벌_돌파",
+        "id": 60040045,
+        "alias": "Contents.Skill.acquireEffect.GreatAxe.4061_4",
+        "text": "有一定几率最多5次加速攻击"
+    },
+    "60040046": {
+        "deprecated": false,
+        "Dev_Desc": "붕괴",
+        "id": 60040046,
+        "alias": "Contents.Skill.Name.GreatAxe.4071",
+        "text": "坍塌"
+    },
+    "60040047": {
+        "deprecated": false,
+        "Dev_Desc": "붕괴",
+        "id": 60040047,
+        "alias": "Contents.Skill.Desc.GreatAxe.4071",
+        "text": "集中力量向上攻击后向下攻击造成伤害\n有一定几率赋予“僵直”效果"
+    },
+    "60040048": {
+        "deprecated": false,
+        "Dev_Desc": "붕괴",
+        "id": 60040048,
+        "alias": "Contents.Skill.useEffect.GreatAxe.4041",
+        "text": "僵直"
+    },
+    "60040049": {
+        "deprecated": false,
+        "Dev_Desc": "붕괴_증폭",
+        "id": 60040049,
+        "alias": "Contents.Skill.acquireEffect.GreatAxe.4072",
+        "text": "内力消耗量-1"
+    },
+    "60040050": {
+        "deprecated": false,
+        "Dev_Desc": "붕괴_극한",
+        "id": 60040050,
+        "alias": "Contents.Skill.acquireEffect.GreatAxe.4074",
+        "text": "冷却时间-2秒"
+    },
+    "60040051": {
+        "deprecated": false,
+        "Dev_Desc": "붕괴_돌파",
+        "id": 60040051,
+        "alias": "Contents.Skill.acquireEffect.GreatAxe.4075",
+        "text": "按健康比例适用追加伤害"
+    },
+    "60040052": {
+        "deprecated": false,
+        "Dev_Desc": "광풍",
+        "id": 60040052,
+        "alias": "Contents.Skill.Name.GreatAxe.4011",
+        "text": "狂风"
+    },
+    "60040053": {
+        "deprecated": false,
+        "Dev_Desc": "광풍",
+        "id": 60040053,
+        "alias": "Contents.Skill.Desc.GreatAxe.4011",
+        "text": "旋转对敌人造成伤害\n使用中可以移动\n使用中受到的伤害量减少"
+    },
+    "60040054": {
+        "deprecated": false,
+        "Dev_Desc": "광풍",
+        "id": 60040054,
+        "alias": "Contents.Skill.useEffect.GreatAxe.4203",
+        "text": "受到的伤害量减少+4%"
+    },
+    "60040055": {
+        "deprecated": false,
+        "Dev_Desc": "광풍_돌파",
+        "id": 60040055,
+        "alias": "Contents.Skill.useEffect.GreatAxe.4203_2",
+        "text": "受到的伤害量减少+4%,僵直"
+    },
+    "60040056": {
+        "deprecated": false,
+        "Dev_Desc": "광풍_증폭",
+        "id": 60040056,
+        "alias": "Contents.Skill.acquireEffect.GreatAxe.4202",
+        "text": "范围内最多可攻击3人\n使用中移动速度增加率+50%"
+    },
+    "60040057": {
+        "deprecated": false,
+        "Dev_Desc": "광풍_극한",
+        "id": 60040057,
+        "alias": "Contents.Skill.acquireEffect.GreatAxe.4203",
+        "text": "使用中周边攻击防御"
+    },
+    "60040058": {
+        "deprecated": false,
+        "Dev_Desc": "광풍_돌파",
+        "id": 60040058,
+        "alias": "Contents.Skill.acquireEffect.GreatAxe.4203_2",
+        "text": "有一定几率适用“僵直”效果"
+    },
+    "60040059": {
+        "deprecated": false,
+        "Dev_Desc": "격돌",
+        "id": 60040059,
+        "alias": "Contents.Skill.Name.GreatAxe.4031",
+        "text": "碰撞"
+    },
+    "60040060": {
+        "deprecated": false,
+        "Dev_Desc": "격돌",
+        "id": 60040060,
+        "alias": "Contents.Skill.Desc.GreatAxe.4031",
+        "text": "向敌人发起攻击造成伤害\n有一定几率赋予“僵直”效果"
+    },
+    "60040061": {
+        "deprecated": false,
+        "Dev_Desc": "격돌_증폭",
+        "id": 60040061,
+        "alias": "Contents.Skill.acquireEffect.GreatAxe.4031_2",
+        "text": "内力消耗量-1"
+    },
+    "60040062": {
+        "deprecated": false,
+        "Dev_Desc": "격돌_극한",
+        "id": 60040062,
+        "alias": "Contents.Skill.acquireEffect.GreatAxe.4031_3",
+        "text": "命中时,有一定几率激活愤怒"
+    },
+    "60040063": {
+        "deprecated": false,
+        "Dev_Desc": "격돌_돌파",
+        "id": 60040063,
+        "alias": "Contents.Skill.acquireEffect.GreatAxe.4031_4",
+        "text": "使用距离增加"
+    },
+    "60040064": {
+        "deprecated": false,
+        "Dev_Desc": "격돌_돌파",
+        "id": 60040064,
+        "alias": "Contents.Skill.useEffect.GreatAxe.4031_4",
+        "text": "僵直"
+    },
+    "60040065": {
+        "deprecated": false,
+        "Dev_Desc": "불사",
+        "id": 60040065,
+        "alias": "Contents.Skill.Name.GreatAxe.4081",
+        "text": "不朽"
+    },
+    "60040066": {
+        "deprecated": false,
+        "Dev_Desc": "불사",
+        "id": 60040066,
+        "alias": "Contents.Skill.Desc.GreatAxe.4081",
+        "text": "4秒内获得“不死”效果\n与健康成正比,持续恢复生命力\n被攻击时有一定几率激活使用"
+    },
+    "60040067": {
+        "deprecated": false,
+        "Dev_Desc": "불사",
+        "id": 60040067,
+        "alias": "Contents.Skill.require.GreatAxe.4081",
+        "text": "被击时有一定几率"
+    },
+    "60040068": {
+        "deprecated": false,
+        "Dev_Desc": "불사_증",
+        "id": 60040068,
+        "alias": "Contents.Skill.acquireEffect.GreatAxe.4087",
+        "text": "“不死”中控制抵抗率+20%"
+    },
+    "60040069": {
+        "deprecated": false,
+        "Dev_Desc": "불사_극",
+        "id": 60040069,
+        "alias": "Contents.Skill.acquireEffect.GreatAxe.4088",
+        "text": "在一定体力以下激活几率增加"
+    },
+    "60040070": {
+        "deprecated": false,
+        "Dev_Desc": "불사_돌",
+        "id": 60040070,
+        "alias": "Contents.Skill.acquireEffect.GreatAxe.4089",
+        "text": "防御成功时,激活几率增加"
+    },
+    "60040071": {
+        "deprecated": false,
+        "Dev_Desc": "처단",
+        "id": 60040071,
+        "alias": "Contents.Skill.Name.GreatAxe.4086",
+        "text": "处决"
+    },
+    "60040072": {
+        "deprecated": false,
+        "Dev_Desc": "처단",
+        "id": 60040072,
+        "alias": "Contents.Skill.Desc.GreatAxe.4086",
+        "text": "集中全身力量造成强力伤害\n有一定几率赋予“眩晕”效果\n用于“眩晕”、“空中”状态的对象"
+    },
+    "60040073": {
+        "deprecated": false,
+        "Dev_Desc": "처단",
+        "id": 60040073,
+        "alias": "Contents.Skill.require.GreatAxe.4086",
+        "text": "眩晕,空中目标"
+    },
+    "60040074": {
+        "deprecated": false,
+        "Dev_Desc": "처단",
+        "id": 60040074,
+        "alias": "Contents.Skill.useEffect.GreatAxe.4086",
+        "text": "气绝"
+    },
+    "60040075": {
+        "deprecated": false,
+        "Dev_Desc": "처단_증폭",
+        "id": 60040075,
+        "alias": "Contents.Skill.acquireEffect.GreatAxe.4086_2",
+        "text": "内力消耗量-3"
+    },
+    "60040076": {
+        "deprecated": false,
+        "Dev_Desc": "처단_극한",
+        "id": 60040076,
+        "alias": "Contents.Skill.acquireEffect.GreatAxe.4086_3",
+        "text": "按健康比例适用追加伤害"
+    },
+    "60040077": {
+        "deprecated": false,
+        "Dev_Desc": "처단_돌파",
+        "id": 60040077,
+        "alias": "Contents.Skill.acquireEffect.GreatAxe.4086_4",
+        "text": "广域伤害兑换\n范围内最多命中3人"
+    },
+    "60040078": {
+        "deprecated": false,
+        "Dev_Desc": "포효",
+        "id": 60040078,
+        "alias": "Contents.Skill.Name.GreatAxe.4208",
+        "text": "咆哮"
+    },
+    "60040079": {
+        "deprecated": false,
+        "Dev_Desc": "포효",
+        "id": 60040079,
+        "alias": "Contents.Skill.Desc.GreatAxe.4208",
+        "text": "在前方呐喊\n有一定几率赋予“挑衅”效果"
+    },
+    "60040080": {
+        "deprecated": false,
+        "Dev_Desc": "포효",
+        "id": 60040080,
+        "alias": "Contents.Skill.useEffect.GreatAxe.4208",
+        "text": "挑衅"
+    },
+    "60040081": {
+        "deprecated": false,
+        "Dev_Desc": "포효_증폭",
+        "id": 60040081,
+        "alias": "Contents.Skill.useEffect.GreatAxe.4208_2",
+        "text": "怒吼"
+    },
+    "60040082": {
+        "deprecated": false,
+        "Dev_Desc": "포효_증폭",
+        "id": 60040082,
+        "alias": "Contents.Skill.acquireEffect.GreatAxe.4208_2",
+        "text": "6秒内“咆哮”效果\n“咆哮”中不死激活几率增加"
+    },
+    "60040083": {
+        "deprecated": false,
+        "Dev_Desc": "포효_극한",
+        "id": 60040083,
+        "alias": "Contents.Skill.acquireEffect.GreatAxe.4208_3",
+        "text": "“咆哮”中受到的伤害量减少+8%"
+    },
+    "60040084": {
+        "deprecated": false,
+        "Dev_Desc": "포효_돌파",
+        "id": 60040084,
+        "alias": "Contents.Skill.acquireEffect.GreatAxe.4208_4",
+        "text": "广域伤害兑换\n范围内最多命中3人"
+    },
+    "60040085": {
+        "deprecated": false,
+        "Dev_Desc": "분노",
+        "id": 60040085,
+        "alias": "Contents.Skill.Name.GreatAxe.4036",
+        "text": "愤怒"
+    },
+    "60040086": {
+        "deprecated": false,
+        "Dev_Desc": "분노",
+        "id": 60040086,
+        "alias": "Contents.Skill.Desc.GreatAxe.4036",
+        "text": "爆发的气息给予强力伤害\n5秒内获得“愤怒”效果\n“愤怒”中强化基础攻击\n攻击命中时有一定几率激活使用"
+    },
+    "60040087": {
+        "deprecated": false,
+        "Dev_Desc": "분노",
+        "id": 60040087,
+        "alias": "Contents.Skill.require.GreatAxe.4036",
+        "text": "攻击命中时有一定几率"
+    },
+    "60040088": {
+        "deprecated": false,
+        "Dev_Desc": "분노_증",
+        "id": 60040088,
+        "alias": "Contents.Skill.acquireEffect.GreatAxe.4041",
+        "text": "“愤怒”中斧子攻击力+5"
+    },
+    "60040089": {
+        "deprecated": false,
+        "Dev_Desc": "분노_극",
+        "id": 60040089,
+        "alias": "Contents.Skill.acquireEffect.GreatAxe.4041_2",
+        "text": "“愤怒”中近距离绝对命中+5%"
+    },
+    "60040090": {
+        "deprecated": false,
+        "Dev_Desc": "분노_돌",
+        "id": 60040090,
+        "alias": "Contents.Skill.acquireEffect.GreatAxe.4041_3",
+        "text": "旋风,处决命中时,有一定几率激活"
+    },
+    "60040091": {
+        "deprecated": false,
+        "Dev_Desc": "선풍",
+        "id": 60040091,
+        "alias": "Contents.Skill.Name.GreatAxe.4042",
+        "text": "旋风"
+    },
+    "60040092": {
+        "deprecated": false,
+        "Dev_Desc": "선풍",
+        "id": 60040092,
+        "alias": "Contents.Skill.Desc.GreatAxe.4042",
+        "text": "投掷斧子进行攻击\n有一定几率赋予“眩晕”效果"
+    },
+    "60040093": {
+        "deprecated": false,
+        "Dev_Desc": "선풍",
+        "id": 60040093,
+        "alias": "Contents.Skill.useEffect.GreatAxe.4042",
+        "text": "气绝"
+    },
+    "60040094": {
+        "deprecated": false,
+        "Dev_Desc": "선풍",
+        "id": 60040094,
+        "alias": "Contents.Skill.useEffect.GreatAxe.4042_3",
+        "text": "气绝"
+    },
+    "60040095": {
+        "deprecated": false,
+        "Dev_Desc": "선풍_증폭",
+        "id": 60040095,
+        "alias": "Contents.Skill.acquireEffect.GreatAxe.4044",
+        "text": "冷却时间-3秒"
+    },
+    "60040096": {
+        "deprecated": false,
+        "Dev_Desc": "선풍_극한",
+        "id": 60040096,
+        "alias": "Contents.Skill.acquireEffect.GreatAxe.4044_3",
+        "text": "有一定几率适用“拉”效果"
+    },
+    "60040097": {
+        "deprecated": false,
+        "Dev_Desc": "선풍_돌파",
+        "id": 60040097,
+        "alias": "Contents.Skill.acquireEffect.GreatAxe.4044_4",
+        "text": "对拉过来的敌人追加攻击"
+    },
+    "60040098": {
+        "deprecated": false,
+        "Dev_Desc": "장벽",
+        "id": 60040098,
+        "alias": "Contents.Skill.Name.GreatAxe.4161",
+        "text": "隔阂"
+    },
+    "60040099": {
+        "deprecated": false,
+        "Dev_Desc": "장벽",
+        "id": 60040099,
+        "alias": "Contents.Skill.Desc.GreatAxe.4161",
+        "text": "生成屏障\n阻止移动,妨碍敌人攻击\n使用中免疫控制状态"
+    },
+    "60040100": {
+        "deprecated": false,
+        "Dev_Desc": "격노",
+        "id": 60040100,
+        "alias": "Contents.Skill.Name.GreatAxe.4091",
+        "text": "激怒"
+    },
+    "60040101": {
+        "deprecated": false,
+        "Dev_Desc": "격노",
+        "id": 60040101,
+        "alias": "Contents.Skill.Desc.GreatAxe.4091",
+        "text": "更快的攻击敌人造成伤害\n可以在愤怒中使用"
+    },
+    "60040102": {
+        "deprecated": false,
+        "Dev_Desc": "지속효과",
+        "id": 60040102,
+        "alias": "Contents.Skill.Name.GreatAxe.Passive",
+        "text": "持续效果"
+    },
+    "60040103": {
+        "deprecated": false,
+        "Dev_Desc": "단련",
+        "id": 60040103,
+        "alias": "Contents.Skill.Name.GreatAxe.4801",
+        "text": "锻炼"
+    },
+    "60040104": {
+        "deprecated": false,
+        "Dev_Desc": "단련",
+        "id": 60040104,
+        "alias": "Contents.Skill.Desc.GreatAxe.4801",
+        "text": "坚持高强度体力锻炼\n生命力增加"
+    },
+    "60040105": {
+        "deprecated": false,
+        "Dev_Desc": "단련",
+        "id": 60040105,
+        "alias": "Contents.Skill.useEffect.GreatAxe.4801",
+        "text": "生命力增加"
+    },
+    "60040106": {
+        "deprecated": false,
+        "Dev_Desc": "기합",
+        "id": 60040106,
+        "alias": "Contents.Skill.Name.GreatAxe.4802",
+        "text": "体罚"
+    },
+    "60040107": {
+        "deprecated": false,
+        "Dev_Desc": "기합",
+        "id": 60040107,
+        "alias": "Contents.Skill.Desc.GreatAxe.4802",
+        "text": "做对全身肌肉有强烈刺激的运动\n增加力量"
+    },
+    "60040108": {
+        "deprecated": false,
+        "Dev_Desc": "기합",
+        "id": 60040108,
+        "alias": "Contents.Skill.useEffect.GreatAxe.4802",
+        "text": "增加力量"
+    },
+    "60040109": {
+        "deprecated": false,
+        "Dev_Desc": "활력",
+        "id": 60040109,
+        "alias": "Contents.Skill.Name.GreatAxe.4803",
+        "text": "活力"
+    },
+    "60040110": {
+        "deprecated": false,
+        "Dev_Desc": "활력",
+        "id": 60040110,
+        "alias": "Contents.Skill.Desc.GreatAxe.4803",
+        "text": "持续活跃的身体活动\n增加健康"
+    },
+    "60040111": {
+        "deprecated": false,
+        "Dev_Desc": "활력",
+        "id": 60040111,
+        "alias": "Contents.Skill.useEffect.GreatAxe.4803",
+        "text": "健康增加"
+    },
+    "60040112": {
+        "deprecated": false,
+        "Dev_Desc": "체질",
+        "id": 60040112,
+        "alias": "Contents.Skill.Name.GreatAxe.4804",
+        "text": "体质"
+    },
+    "60040113": {
+        "deprecated": false,
+        "Dev_Desc": "체질",
+        "id": 60040113,
+        "alias": "Contents.Skill.Desc.GreatAxe.4804",
+        "text": "强化天生的恢复能力\n药水恢复率增加"
+    },
+    "60040114": {
+        "deprecated": false,
+        "Dev_Desc": "체질",
+        "id": 60040114,
+        "alias": "Contents.Skill.useEffect.GreatAxe.4804",
+        "text": "药水恢复率增加"
+    },
+    "60040115": {
+        "deprecated": false,
+        "Dev_Desc": "강철",
+        "id": 60040115,
+        "alias": "Contents.Skill.Name.GreatAxe.4805",
+        "text": "钢铁"
+    },
+    "60040116": {
+        "deprecated": false,
+        "Dev_Desc": "강철",
+        "id": 60040116,
+        "alias": "Contents.Skill.Desc.GreatAxe.4805",
+        "text": "像钢铁一样锻炼身体\n增加防御力"
+    },
+    "60040117": {
+        "deprecated": false,
+        "Dev_Desc": "강철",
+        "id": 60040117,
+        "alias": "Contents.Skill.useEffect.GreatAxe.4805",
+        "text": "防御力增加"
+    },
+    "60040118": {
+        "deprecated": false,
+        "Dev_Desc": "금강",
+        "id": 60040118,
+        "alias": "Contents.Skill.Name.GreatAxe.4806",
+        "text": "金刚"
+    },
+    "60040119": {
+        "deprecated": false,
+        "Dev_Desc": "금강",
+        "id": 60040119,
+        "alias": "Contents.Skill.Desc.GreatAxe.4806",
+        "text": "防御时进行忍耐训练\n防御增加"
+    },
+    "60040120": {
+        "deprecated": false,
+        "Dev_Desc": "금강",
+        "id": 60040120,
+        "alias": "Contents.Skill.useEffect.GreatAxe.4806",
+        "text": "防御增加"
+    },
+    "60040121": {
+        "deprecated": false,
+        "Dev_Desc": "불굴",
+        "id": 60040121,
+        "alias": "Contents.Skill.Name.GreatAxe.4807",
+        "text": "不屈"
+    },
+    "60040122": {
+        "deprecated": false,
+        "Dev_Desc": "불굴",
+        "id": 60040122,
+        "alias": "Contents.Skill.Desc.GreatAxe.4807",
+        "text": "以不屈的意志接受敌人的攻击\n受到的伤害量减少"
+    },
+    "60040123": {
+        "deprecated": false,
+        "Dev_Desc": "불굴",
+        "id": 60040123,
+        "alias": "Contents.Skill.useEffect.GreatAxe.4807",
+        "text": "受到的伤害量减少"
+    },
+    "60040124": {
+        "deprecated": false,
+        "Dev_Desc": "무공 피해 계수 증가",
+        "id": 60040124,
+        "alias": "Contents.Skill.Upgrade.Name.GreatAxe.damage",
+        "text": "技能伤害系数增加"
+    },
+    "60040125": {
+        "deprecated": false,
+        "Dev_Desc": "막기 피해 감소율 증가",
+        "id": 60040125,
+        "alias": "Contents.Skill.Upgrade.Name.GreatAxe.ReduceDamageRateBlock",
+        "text": "防御伤害量减少"
+    },
+    "60040126": {
+        "deprecated": false,
+        "Dev_Desc": "건강 비례 체력 회복량 증가",
+        "id": 60040126,
+        "alias": "Contents.Skill.Upgrade.Name.GreatAxe.healConstitution",
+        "text": "生命力恢复系数增加"
+    },
+    "60040127": {
+        "deprecated": false,
+        "Dev_Desc": "도발 유지 시간 증가",
+        "id": 60040127,
+        "alias": "Contents.Skill.Upgrade.Name.GreatAxe.TauntTime",
+        "text": "维持挑衅时间增加"
+    },
+    "60040128": {
+        "deprecated": false,
+        "Dev_Desc": "장벽 받는 피해량 감소",
+        "id": 60040128,
+        "alias": "Contents.Skill.Upgrade.Name.GreatAxe.ReduceDamageWall",
+        "text": "受到屏障的伤害量减少"
+    },
+    "60040129": {
+        "deprecated": false,
+        "Dev_Desc": "생명력 증가",
+        "id": 60040129,
+        "alias": "Contents.Skill.Upgrade.Name.GreatAxe.HP",
+        "text": "生命力+150"
+    },
+    "60040130": {
+        "deprecated": false,
+        "Dev_Desc": "힘 증가",
+        "id": 60040130,
+        "alias": "Contents.Skill.Upgrade.Name.GreatAxe.Strength",
+        "text": "力量+2"
+    },
+    "60040131": {
+        "deprecated": false,
+        "Dev_Desc": "건강 증가",
+        "id": 60040131,
+        "alias": "Contents.Skill.Upgrade.Name.GreatAxe.Constitution",
+        "text": "健康+2"
+    },
+    "60040132": {
+        "deprecated": false,
+        "Dev_Desc": "생명력 회복약 증가율 증가",
+        "id": 60040132,
+        "alias": "Contents.Skill.Upgrade.Name.GreatAxe.HPPotionRecoveryRate",
+        "text": "药水恢复率+3%"
+    },
+    "60040133": {
+        "deprecated": false,
+        "Dev_Desc": "방어력 증가",
+        "id": 60040133,
+        "alias": "Contents.Skill.Upgrade.Name.GreatAxe.Defence",
+        "text": "防御力+10"
+    },
+    "60040134": {
+        "deprecated": false,
+        "Dev_Desc": "막기 증가",
+        "id": 60040134,
+        "alias": "Contents.Skill.Upgrade.Name.GreatAxe.Block",
+        "text": "阻止+5"
+    },
+    "60040135": {
+        "deprecated": false,
+        "Dev_Desc": "받는 피해량 감소",
+        "id": 60040135,
+        "alias": "Contents.Skill.Upgrade.Name.GreatAxe.ReduceTakenDamageRate",
+        "text": "受到的伤害量减少+5%"
+    }
+}

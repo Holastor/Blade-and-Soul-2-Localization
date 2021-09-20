@@ -1,0 +1,5824 @@
+{
+    "10000900": {
+        "deprecated": false,
+        "Dev_Desc": "독초거사의 시험 900",
+        "id": 10000900,
+        "alias": "Contents.Quest.Name.900",
+        "text": "旅程的开始"
+    },
+    "10000901": {
+        "deprecated": false,
+        "Dev_Desc": "독초거사의 시험 901",
+        "id": 10000901,
+        "alias": "Contents.Quest.Name.901",
+        "text": "毒草居士的深入修炼"
+    },
+    "10000902": {
+        "deprecated": false,
+        "Dev_Desc": "독초거사의 시험 902",
+        "id": 10000902,
+        "alias": "Contents.Quest.Name.902",
+        "text": "毒草居士的最终任务"
+    },
+    "10000903": {
+        "deprecated": false,
+        "Dev_Desc": "독초거사의 시험 903",
+        "id": 10000903,
+        "alias": "Contents.Quest.Name.903",
+        "text": "毒草居士的考验"
+    },
+    "10000904": {
+        "deprecated": false,
+        "Dev_Desc": "독초거사의 시험 904",
+        "id": 10000904,
+        "alias": "Contents.Quest.Name.904",
+        "text": "毒草居士的考验"
+    },
+    "10000905": {
+        "deprecated": false,
+        "Dev_Desc": "독초거사 numberTag",
+        "id": 10000905,
+        "alias": "Contents.Quest.Name.905",
+        "text": "第 1 章"
+    },
+    "10000906": {
+        "deprecated": false,
+        "Dev_Desc": "독초거사 numberTag",
+        "id": 10000906,
+        "alias": "Contents.Quest.Name.906",
+        "text": "第 2 章"
+    },
+    "10000907": {
+        "deprecated": false,
+        "Dev_Desc": "독초거사 numberTag",
+        "id": 10000907,
+        "alias": "Contents.Quest.Name.907",
+        "text": "第 3 章"
+    },
+    "10000908": {
+        "deprecated": false,
+        "Dev_Desc": "독초거사 numberTag",
+        "id": 10000908,
+        "alias": "Contents.Quest.Name.908",
+        "text": "第 4 章"
+    },
+    "10000909": {
+        "deprecated": false,
+        "Dev_Desc": "독초거사 numberTag",
+        "id": 10000909,
+        "alias": "Contents.Quest.Name.909",
+        "text": "第 5 章"
+    },
+    "10001000": {
+        "deprecated": false,
+        "Dev_Desc": "반달 에픽 Group name",
+        "id": 10001000,
+        "alias": "Contents.Quest.Name.1000",
+        "text": "黑白的起点"
+    },
+    "10001001": {
+        "deprecated": false,
+        "Dev_Desc": "반달 에픽 Group name",
+        "id": 10001001,
+        "alias": "Contents.Quest.Name.1001",
+        "text": "黎明的主人"
+    },
+    "10001002": {
+        "deprecated": false,
+        "Dev_Desc": "반달 에픽 Group name numbertag",
+        "id": 10001002,
+        "alias": "Contents.Quest.Name.1002",
+        "text": "序幕"
+    },
+    "10001003": {
+        "deprecated": false,
+        "Dev_Desc": "반달 에픽 Group name numbertag",
+        "id": 10001003,
+        "alias": "Contents.Quest.Name.1003",
+        "text": "第 1 幕"
+    },
+    "10001100": {
+        "deprecated": false,
+        "Dev_Desc": "반달 에픽 name",
+        "id": 10001100,
+        "alias": "Contents.Quest.Name.1100",
+        "text": "准备战斗"
+    },
+    "10001101": {
+        "deprecated": false,
+        "Dev_Desc": "반달 에픽 name",
+        "id": 10001101,
+        "alias": "Contents.Quest.Name.1101",
+        "text": "最终"
+    },
+    "10001102": {
+        "deprecated": false,
+        "Dev_Desc": "반달 에픽 name",
+        "id": 10001102,
+        "alias": "Contents.Quest.Name.1102",
+        "text": "无罪证明"
+    },
+    "10001103": {
+        "deprecated": false,
+        "Dev_Desc": "반달 에픽 name",
+        "id": 10001103,
+        "alias": "Contents.Quest.Name.1103",
+        "text": "四只老虎"
+    },
+    "10001104": {
+        "deprecated": false,
+        "Dev_Desc": "반달 에픽 name",
+        "id": 10001104,
+        "alias": "Contents.Quest.Name.1104",
+        "text": "可疑的枪手"
+    },
+    "10001105": {
+        "deprecated": false,
+        "Dev_Desc": "반달 에픽 name",
+        "id": 10001105,
+        "alias": "Contents.Quest.Name.1105",
+        "text": "加深怀疑"
+    },
+    "10001106": {
+        "deprecated": false,
+        "Dev_Desc": "반달 에픽 name",
+        "id": 10001106,
+        "alias": "Contents.Quest.Name.1106",
+        "text": "一种神秘的饮料"
+    },
+    "10001107": {
+        "deprecated": false,
+        "Dev_Desc": "반달 에픽 name",
+        "id": 10001107,
+        "alias": "Contents.Quest.Name.1107",
+        "text": "另一个任务"
+    },
+    "10001108": {
+        "deprecated": false,
+        "Dev_Desc": "반달 에픽 name",
+        "id": 10001108,
+        "alias": "Contents.Quest.Name.1108",
+        "text": "觉醒走廊"
+    },
+    "10001109": {
+        "deprecated": false,
+        "Dev_Desc": "반달 에픽 name",
+        "id": 10001109,
+        "alias": "Contents.Quest.Name.1109",
+        "text": "暴露废墟"
+    },
+    "10001110": {
+        "deprecated": false,
+        "Dev_Desc": "반달 에픽 name",
+        "id": 10001110,
+        "alias": "Contents.Quest.Name.1110",
+        "text": "虚空之坑"
+    },
+    "10001111": {
+        "deprecated": false,
+        "Dev_Desc": "반달 에픽 name",
+        "id": 10001111,
+        "alias": "Contents.Quest.Name.1111",
+        "text": "生长和记忆"
+    },
+    "10001112": {
+        "deprecated": false,
+        "Dev_Desc": "반달 에픽 name",
+        "id": 10001112,
+        "alias": "Contents.Quest.Name.1112",
+        "text": "阴谋揭开"
+    },
+    "10001113": {
+        "deprecated": false,
+        "Dev_Desc": "반달 에픽 name",
+        "id": 10001113,
+        "alias": "Contents.Quest.Name.1113",
+        "text": "堕落的枪战"
+    },
+    "10001114": {
+        "deprecated": false,
+        "Dev_Desc": "반달 에픽 name",
+        "id": 10001114,
+        "alias": "Contents.Quest.Name.1114",
+        "text": "跟进"
+    },
+    "10001115": {
+        "deprecated": false,
+        "Dev_Desc": "반달 에픽 name",
+        "id": 10001115,
+        "alias": "Contents.Quest.Name.1115",
+        "text": "可怕的计划"
+    },
+    "10001116": {
+        "deprecated": false,
+        "Dev_Desc": "반달 에픽 name",
+        "id": 10001116,
+        "alias": "Contents.Quest.Name.1116",
+        "text": "出发准备"
+    },
+    "10001200": {
+        "deprecated": false,
+        "Dev_Desc": "반달 에픽 name -장",
+        "id": 10001200,
+        "alias": "Contents.Quest.Name.1200",
+        "text": "第 2 章"
+    },
+    "10001201": {
+        "deprecated": false,
+        "Dev_Desc": "반달 에픽 name -장",
+        "id": 10001201,
+        "alias": "Contents.Quest.Name.1201",
+        "text": "第 3 章"
+    },
+    "10001202": {
+        "deprecated": false,
+        "Dev_Desc": "반달 에픽 name -장",
+        "id": 10001202,
+        "alias": "Contents.Quest.Name.1202",
+        "text": "第 1 章"
+    },
+    "10001203": {
+        "deprecated": false,
+        "Dev_Desc": "반달 에픽 name -장",
+        "id": 10001203,
+        "alias": "Contents.Quest.Name.1203",
+        "text": "第 2 章"
+    },
+    "10001204": {
+        "deprecated": false,
+        "Dev_Desc": "반달 에픽 name -장",
+        "id": 10001204,
+        "alias": "Contents.Quest.Name.1204",
+        "text": "第 3 章"
+    },
+    "10001205": {
+        "deprecated": false,
+        "Dev_Desc": "반달 에픽 name -장",
+        "id": 10001205,
+        "alias": "Contents.Quest.Name.1205",
+        "text": "第 4 章"
+    },
+    "10001206": {
+        "deprecated": false,
+        "Dev_Desc": "반달 에픽 name -장",
+        "id": 10001206,
+        "alias": "Contents.Quest.Name.1206",
+        "text": "第 5 章"
+    },
+    "10001207": {
+        "deprecated": false,
+        "Dev_Desc": "반달 에픽 name -장",
+        "id": 10001207,
+        "alias": "Contents.Quest.Name.1207",
+        "text": "第 6 章"
+    },
+    "10001208": {
+        "deprecated": false,
+        "Dev_Desc": "반달 에픽 name -장",
+        "id": 10001208,
+        "alias": "Contents.Quest.Name.1208",
+        "text": "第 7 章"
+    },
+    "10001209": {
+        "deprecated": false,
+        "Dev_Desc": "반달 에픽 name -장",
+        "id": 10001209,
+        "alias": "Contents.Quest.Name.1209",
+        "text": "第 8 章"
+    },
+    "10001210": {
+        "deprecated": false,
+        "Dev_Desc": "반달 에픽 name -장",
+        "id": 10001210,
+        "alias": "Contents.Quest.Name.1210",
+        "text": "第 9 章"
+    },
+    "10001211": {
+        "deprecated": false,
+        "Dev_Desc": "반달 에픽 name -장",
+        "id": 10001211,
+        "alias": "Contents.Quest.Name.1211",
+        "text": "第 10 章"
+    },
+    "10001212": {
+        "deprecated": false,
+        "Dev_Desc": "반달 에픽 name -장",
+        "id": 10001212,
+        "alias": "Contents.Quest.Name.1212",
+        "text": "第 11 章"
+    },
+    "10001213": {
+        "deprecated": false,
+        "Dev_Desc": "반달 에픽 name -장",
+        "id": 10001213,
+        "alias": "Contents.Quest.Name.1213",
+        "text": "第 12 章"
+    },
+    "10001214": {
+        "deprecated": false,
+        "Dev_Desc": "반달 에픽 name -장",
+        "id": 10001214,
+        "alias": "Contents.Quest.Name.1214",
+        "text": "第 13 章"
+    },
+    "10001215": {
+        "deprecated": false,
+        "Dev_Desc": "반달 에픽 name -장",
+        "id": 10001215,
+        "alias": "Contents.Quest.Name.1215",
+        "text": "第 14 章"
+    },
+    "10001216": {
+        "deprecated": false,
+        "Dev_Desc": "반달 에픽 name -장",
+        "id": 10001216,
+        "alias": "Contents.Quest.Name.1216",
+        "text": "第 15 章"
+    },
+    "10015000": {
+        "deprecated": false,
+        "Dev_Desc": "반달 지역탐사",
+        "id": 10015000,
+        "alias": "Contents.Quest.Name.15000",
+        "text": "[Lv.6]勘探（腐烂的伐木地）"
+    },
+    "10015001": {
+        "deprecated": false,
+        "Dev_Desc": "반달 지역탐사",
+        "id": 10015001,
+        "alias": "Contents.Quest.Name.15001",
+        "text": "[Lv.6]勘探（腐烂的伐木地）"
+    },
+    "10015002": {
+        "deprecated": false,
+        "Dev_Desc": "반달 지역탐사",
+        "id": 10015002,
+        "alias": "Contents.Quest.Name.15002",
+        "text": "[Lv.7]勘探（浅水湖）"
+    },
+    "10015003": {
+        "deprecated": false,
+        "Dev_Desc": "반달 지역탐사",
+        "id": 10015003,
+        "alias": "Contents.Quest.Name.15003",
+        "text": "[Lv.7]勘探（浅水湖）"
+    },
+    "10015004": {
+        "deprecated": false,
+        "Dev_Desc": "반달 지역탐사",
+        "id": 10015004,
+        "alias": "Contents.Quest.Name.15004",
+        "text": "[Lv.7]勘探（浅水湖）"
+    },
+    "10015005": {
+        "deprecated": false,
+        "Dev_Desc": "반달 지역탐사",
+        "id": 10015005,
+        "alias": "Contents.Quest.Name.15005",
+        "text": "[Lv.7]勘探（龟湖）"
+    },
+    "10015006": {
+        "deprecated": false,
+        "Dev_Desc": "반달 지역탐사",
+        "id": 10015006,
+        "alias": "Contents.Quest.Name.15006",
+        "text": "[Lv.8]勘探（露出的遗迹）"
+    },
+    "10015007": {
+        "deprecated": false,
+        "Dev_Desc": "반달 지역탐사",
+        "id": 10015007,
+        "alias": "Contents.Quest.Name.15007",
+        "text": "[Lv.8]勘探（露出的遗迹）"
+    },
+    "10015008": {
+        "deprecated": false,
+        "Dev_Desc": "반달 지역탐사",
+        "id": 10015008,
+        "alias": "Contents.Quest.Name.15008",
+        "text": "[Lv.14]勘探（斗夜团根据地）"
+    },
+    "10015009": {
+        "deprecated": false,
+        "Dev_Desc": "반달 지역탐사",
+        "id": 10015009,
+        "alias": "Contents.Quest.Name.15009",
+        "text": "[Lv.14]勘探（斗夜团根据地）"
+    },
+    "10015010": {
+        "deprecated": false,
+        "Dev_Desc": "반달 지역탐사",
+        "id": 10015010,
+        "alias": "Contents.Quest.Name.15010",
+        "text": "[Lv.15]勘探（古都市森林路）"
+    },
+    "10015011": {
+        "deprecated": false,
+        "Dev_Desc": "반달 지역탐사",
+        "id": 10015011,
+        "alias": "Contents.Quest.Name.15011",
+        "text": "[Lv.15]勘探（古都市森林路）"
+    },
+    "10015012": {
+        "deprecated": false,
+        "Dev_Desc": "반달 지역탐사",
+        "id": 10015012,
+        "alias": "Contents.Quest.Name.15012",
+        "text": "[Lv.16]探索（昌道丹巢穴）"
+    },
+    "10015013": {
+        "deprecated": false,
+        "Dev_Desc": "반달 지역탐사",
+        "id": 10015013,
+        "alias": "Contents.Quest.Name.15013",
+        "text": "[Lv.16]探索（昌道丹巢穴）"
+    },
+    "10015014": {
+        "deprecated": false,
+        "Dev_Desc": "반달 지역탐사",
+        "id": 10015014,
+        "alias": "Contents.Quest.Name.15014",
+        "text": "[Lv.18]勘探（深邃的墓地森林）"
+    },
+    "10015015": {
+        "deprecated": false,
+        "Dev_Desc": "반달 지역탐사",
+        "id": 10015015,
+        "alias": "Contents.Quest.Name.15015",
+        "text": "[Lv.18]勘探（深邃的墓地森林）"
+    },
+    "10015016": {
+        "deprecated": false,
+        "Dev_Desc": "반달 지역탐사",
+        "id": 10015016,
+        "alias": "Contents.Quest.Name.15016",
+        "text": "[Lv.18]勘探（深邃的墓地森林）"
+    },
+    "10015017": {
+        "deprecated": false,
+        "Dev_Desc": "반달 지역탐사",
+        "id": 10015017,
+        "alias": "Contents.Quest.Name.15017",
+        "text": "[Lv.21]探索（日落的草场）"
+    },
+    "10015018": {
+        "deprecated": false,
+        "Dev_Desc": "반달 지역탐사",
+        "id": 10015018,
+        "alias": "Contents.Quest.Name.15018",
+        "text": "[Lv.21]探索（日落的草场）"
+    },
+    "10015019": {
+        "deprecated": false,
+        "Dev_Desc": "반달 지역탐사",
+        "id": 10015019,
+        "alias": "Contents.Quest.Name.15019",
+        "text": "[Lv.21]探索（日落的草场）"
+    },
+    "10015020": {
+        "deprecated": false,
+        "Dev_Desc": "반달 지역탐사",
+        "id": 10015020,
+        "alias": "Contents.Quest.Name.15020",
+        "text": "[Lv.23]勘探（石坡丘陵地）"
+    },
+    "10015021": {
+        "deprecated": false,
+        "Dev_Desc": "반달 지역탐사",
+        "id": 10015021,
+        "alias": "Contents.Quest.Name.15021",
+        "text": "[Lv.23]勘探（石坡丘陵地）"
+    },
+    "10015022": {
+        "deprecated": false,
+        "Dev_Desc": "반달 지역탐사",
+        "id": 10015022,
+        "alias": "Contents.Quest.Name.15022",
+        "text": "[Lv.23]勘探（石坡丘陵地）"
+    },
+    "10015023": {
+        "deprecated": false,
+        "Dev_Desc": "반달 지역탐사",
+        "id": 10015023,
+        "alias": "Contents.Quest.Name.15023",
+        "text": "[Lv.26]探索（被破坏的水族…）"
+    },
+    "10015024": {
+        "deprecated": false,
+        "Dev_Desc": "반달 지역탐사",
+        "id": 10015024,
+        "alias": "Contents.Quest.Name.15024",
+        "text": "[Lv.26]探索（被破坏的水族…）"
+    },
+    "10015025": {
+        "deprecated": false,
+        "Dev_Desc": "반달 지역탐사",
+        "id": 10015025,
+        "alias": "Contents.Quest.Name.15025",
+        "text": "[Lv.30]勘探（空虚的坑）"
+    },
+    "10015026": {
+        "deprecated": false,
+        "Dev_Desc": "반달 지역탐사",
+        "id": 10015026,
+        "alias": "Contents.Quest.Name.15026",
+        "text": "[Lv.30]勘探（空虚的坑）"
+    },
+    "17000000": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수_각성의회랑_1",
+        "id": 17000000,
+        "alias": "Contents.Quest.Name.1000000",
+        "text": "觉醒的走廊调查"
+    },
+    "17000001": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수_각성의회랑_2",
+        "id": 17000001,
+        "alias": "Contents.Quest.Name.1000001",
+        "text": "觉醒的走廊调查"
+    },
+    "17000002": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수_각성의회랑_3",
+        "id": 17000002,
+        "alias": "Contents.Quest.Name.1000002",
+        "text": "觉醒的走廊调查"
+    },
+    "17000003": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수_각성의회랑_4",
+        "id": 17000003,
+        "alias": "Contents.Quest.Name.1000003",
+        "text": "觉醒的走廊调查"
+    },
+    "17000004": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수_각성의회랑_5",
+        "id": 17000004,
+        "alias": "Contents.Quest.Name.1000004",
+        "text": "觉醒的走廊调查"
+    },
+    "17000005": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수_각성의회랑_6",
+        "id": 17000005,
+        "alias": "Contents.Quest.Name.1000015",
+        "text": "觉醒的走廊调查"
+    },
+    "17000006": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수_각성의회랑_7",
+        "id": 17000006,
+        "alias": "Contents.Quest.Name.1000016",
+        "text": "觉醒的走廊调查"
+    },
+    "17000007": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수_각성의회랑_8",
+        "id": 17000007,
+        "alias": "Contents.Quest.Name.1000017",
+        "text": "觉醒的走廊调查"
+    },
+    "17000008": {
+        "deprecated": false,
+        "Dev_Desc": "태록림_각성의회랑_9",
+        "id": 17000008,
+        "alias": "Contents.Quest.Name.1000018",
+        "text": "觉醒的走廊调查"
+    },
+    "17000009": {
+        "deprecated": false,
+        "Dev_Desc": "태록림_각성의회랑_10",
+        "id": 17000009,
+        "alias": "Contents.Quest.Name.1000019",
+        "text": "觉醒的走廊调查"
+    },
+    "17000010": {
+        "deprecated": false,
+        "Dev_Desc": "태록림_각성의회랑_11",
+        "id": 17000010,
+        "alias": "Contents.Quest.Name.1000020",
+        "text": "觉醒的走廊调查"
+    },
+    "17000011": {
+        "deprecated": false,
+        "Dev_Desc": "태록림_각성의회랑_12",
+        "id": 17000011,
+        "alias": "Contents.Quest.Name.1000021",
+        "text": "觉醒的走廊调查"
+    },
+    "17000012": {
+        "deprecated": false,
+        "Dev_Desc": "태록림_각성의회랑_13",
+        "id": 17000012,
+        "alias": "Contents.Quest.Name.1000022",
+        "text": "觉醒的走廊调查"
+    },
+    "17000013": {
+        "deprecated": false,
+        "Dev_Desc": "태록림_각성의회랑_14",
+        "id": 17000013,
+        "alias": "Contents.Quest.Name.1000023",
+        "text": "觉醒的走廊调查"
+    },
+    "17000014": {
+        "deprecated": false,
+        "Dev_Desc": "태록림_각성의회랑_15",
+        "id": 17000014,
+        "alias": "Contents.Quest.Name.1000024",
+        "text": "觉醒的走廊调查"
+    },
+    "17000015": {
+        "deprecated": false,
+        "Dev_Desc": "태록림_각성의회랑_16",
+        "id": 17000015,
+        "alias": "Contents.Quest.Name.1000025",
+        "text": "觉醒的走廊调查"
+    },
+    "17000016": {
+        "deprecated": false,
+        "Dev_Desc": "태록림_각성의회랑_17",
+        "id": 17000016,
+        "alias": "Contents.Quest.Name.1000026",
+        "text": "觉醒的走廊调查"
+    },
+    "17000017": {
+        "deprecated": false,
+        "Dev_Desc": "태록림_각성의회랑_18",
+        "id": 17000017,
+        "alias": "Contents.Quest.Name.1000027",
+        "text": "觉醒的走廊调查"
+    },
+    "17000018": {
+        "deprecated": false,
+        "Dev_Desc": "태록림_각성의회랑_19",
+        "id": 17000018,
+        "alias": "Contents.Quest.Name.1000028",
+        "text": "觉醒的走廊调查"
+    },
+    "18000000": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행 name",
+        "id": 18000000,
+        "alias": "Contents.Quest.Name.2000000",
+        "text": "[Lv.7]风味中的风味"
+    },
+    "18000001": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행 name",
+        "id": 18000001,
+        "alias": "Contents.Quest.Name.2000001",
+        "text": "[Lv.7]淘气淘气大骚动"
+    },
+    "18000002": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행 name",
+        "id": 18000002,
+        "alias": "Contents.Quest.Name.2000002",
+        "text": "[Lv.7]隐藏着淘气的闪亮！"
+    },
+    "18000003": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행 name",
+        "id": 18000003,
+        "alias": "Contents.Quest.Name.2000003",
+        "text": "[Lv.7]在摇曳的荷叶中..."
+    },
+    "18000004": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행 name",
+        "id": 18000004,
+        "alias": "Contents.Quest.Name.2000004",
+        "text": "[Lv.7]移动的荷叶"
+    },
+    "18000005": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행 name",
+        "id": 18000005,
+        "alias": "Contents.Quest.Name.2000005",
+        "text": "[Lv.7]可以制作雨伞"
+    },
+    "18000006": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행 name",
+        "id": 18000006,
+        "alias": "Contents.Quest.Name.2000006",
+        "text": "[Lv.6]水沟的主人们"
+    },
+    "18000007": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행 name",
+        "id": 18000007,
+        "alias": "Contents.Quest.Name.2000007",
+        "text": "[Lv.6]气味的原因"
+    },
+    "18000008": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행 name",
+        "id": 18000008,
+        "alias": "Contents.Quest.Name.2000008",
+        "text": "[Lv.6]蜥人族武器研究"
+    },
+    "18000009": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행 name",
+        "id": 18000009,
+        "alias": "Contents.Quest.Name.2000009",
+        "text": "[Lv.7]坚硬的皮很有用"
+    },
+    "18000010": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행 name",
+        "id": 18000010,
+        "alias": "Contents.Quest.Name.2000010",
+        "text": "[Lv.7]乌龟没有罪！"
+    },
+    "18000011": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행 name",
+        "id": 18000011,
+        "alias": "Contents.Quest.Name.2000011",
+        "text": "[Lv.7]乌龟有罪"
+    },
+    "18000012": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행 name",
+        "id": 18000012,
+        "alias": "Contents.Quest.Name.2000012",
+        "text": "[Lv.8]守护遗迹！"
+    },
+    "18000013": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행 name",
+        "id": 18000013,
+        "alias": "Contents.Quest.Name.2000013",
+        "text": "[Lv.8]移动的岩石！"
+    },
+    "18000014": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행 name",
+        "id": 18000014,
+        "alias": "Contents.Quest.Name.2000014",
+        "text": "[Lv.8]神秘的碎屑"
+    },
+    "18000015": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행 name",
+        "id": 18000015,
+        "alias": "Contents.Quest.Name.2000015",
+        "text": "[Lv.30]火魔的存在"
+    },
+    "18000016": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행 name",
+        "id": 18000016,
+        "alias": "Contents.Quest.Name.2000016",
+        "text": "[Lv.30]强力的敌人"
+    },
+    "18000017": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행 name",
+        "id": 18000017,
+        "alias": "Contents.Quest.Name.2000017",
+        "text": "[Lv.30]缝隙的痕迹"
+    },
+    "18000018": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행 name",
+        "id": 18000018,
+        "alias": "Contents.Quest.Name.2000018",
+        "text": "[Lv.21]牧草地的麻烦事"
+    },
+    "18000019": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행 name",
+        "id": 18000019,
+        "alias": "Contents.Quest.Name.2000019",
+        "text": "[Lv.21]自然药材，第一个"
+    },
+    "18000020": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행 name",
+        "id": 18000020,
+        "alias": "Contents.Quest.Name.2000020",
+        "text": "[Lv.21]自然药材，第二个"
+    },
+    "18000021": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행 name",
+        "id": 18000021,
+        "alias": "Contents.Quest.Name.2000021",
+        "text": "[Lv.21]需要红色染料"
+    },
+    "18000022": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행 name",
+        "id": 18000022,
+        "alias": "Contents.Quest.Name.2000022",
+        "text": "[Lv.21]需要黄金染料"
+    },
+    "18000023": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행 name",
+        "id": 18000023,
+        "alias": "Contents.Quest.Name.2000023",
+        "text": "[Lv.21]丢失的秘方书"
+    },
+    "18000024": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행 name",
+        "id": 18000024,
+        "alias": "Contents.Quest.Name.2000024",
+        "text": "[Lv.16]血的复仇"
+    },
+    "18000025": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행 name",
+        "id": 18000025,
+        "alias": "Contents.Quest.Name.2000025",
+        "text": "[Lv.16]昌道团独特的武器"
+    },
+    "18000026": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행 name",
+        "id": 18000026,
+        "alias": "Contents.Quest.Name.2000026",
+        "text": "[Lv.16]意外的流行品"
+    },
+    "18000027": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행 name",
+        "id": 18000027,
+        "alias": "Contents.Quest.Name.2000027",
+        "text": "[Lv.16]扫荡盗贼团"
+    },
+    "18000028": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행 name",
+        "id": 18000028,
+        "alias": "Contents.Quest.Name.2000028",
+        "text": "[Lv.23]猛兽们的威胁"
+    },
+    "18000029": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행 name",
+        "id": 18000029,
+        "alias": "Contents.Quest.Name.2000029",
+        "text": "[Lv.23]帮我弄些皮来"
+    },
+    "18000030": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행 name",
+        "id": 18000030,
+        "alias": "Contents.Quest.Name.2000030",
+        "text": "[Lv.23]丢失的行李"
+    },
+    "18000031": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행 name",
+        "id": 18000031,
+        "alias": "Contents.Quest.Name.2000031",
+        "text": "[Lv.15]行人保护任务"
+    },
+    "18000032": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행 name",
+        "id": 18000032,
+        "alias": "Contents.Quest.Name.2000032",
+        "text": "[Lv.15]落下的包袱"
+    },
+    "18000033": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행 name",
+        "id": 18000033,
+        "alias": "Contents.Quest.Name.2000033",
+        "text": "[Lv.15]像样的药材"
+    },
+    "18000034": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행 name",
+        "id": 18000034,
+        "alias": "Contents.Quest.Name.2000034",
+        "text": "[Lv.15]精灵、树枝、没有…"
+    },
+    "18000035": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행 name",
+        "id": 18000035,
+        "alias": "Contents.Quest.Name.2000035",
+        "text": "[Lv.14]阻止斗夜团"
+    },
+    "18000036": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행 name",
+        "id": 18000036,
+        "alias": "Contents.Quest.Name.2000036",
+        "text": "[Lv.14]为了动物们的安息"
+    },
+    "18000037": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행 name",
+        "id": 18000037,
+        "alias": "Contents.Quest.Name.2000037",
+        "text": "[Lv.18]珍贵的人偶"
+    },
+    "18000038": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행 name",
+        "id": 18000038,
+        "alias": "Contents.Quest.Name.2000038",
+        "text": "[Lv.18]要抚慰冤魂"
+    },
+    "18000039": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행 name",
+        "id": 18000039,
+        "alias": "Contents.Quest.Name.2000039",
+        "text": "[Lv.18]我，金相公，不是."
+    },
+    "18000040": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행 name",
+        "id": 18000040,
+        "alias": "Contents.Quest.Name.2000040",
+        "text": "[Lv.26]稍微不同的生物"
+    },
+    "18000041": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행 name",
+        "id": 18000041,
+        "alias": "Contents.Quest.Name.2000041",
+        "text": "[Lv.26]落下的东西"
+    },
+    "18000042": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행 name",
+        "id": 18000042,
+        "alias": "Contents.Quest.Name.2000042",
+        "text": "[Lv.26]苏瓦族村庄重建事业"
+    },
+    "18000043": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행 name",
+        "id": 18000043,
+        "alias": "Contents.Quest.Name.2000043",
+        "text": "[Lv.26]被侵蚀的存在"
+    },
+    "18000044": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행 name",
+        "id": 18000044,
+        "alias": "Contents.Quest.Name.2000044",
+        "text": "[Lv. - ] 朔阳悬赏专家"
+    },
+    "18000045": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행 name",
+        "id": 18000045,
+        "alias": "Contents.Quest.Name.2000045",
+        "text": "[Lv. - ] 埃莱达悬赏专家"
+    },
+    "18000046": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행 name",
+        "id": 18000046,
+        "alias": "Contents.Quest.Name.2000046",
+        "text": "[Lv. - ] 桃花商战悬赏专家"
+    },
+    "18000047": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행 name",
+        "id": 18000047,
+        "alias": "Contents.Quest.Name.2000047",
+        "text": "[Lv. - ] 灵教员协会专家"
+    },
+    "18000048": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행 name",
+        "id": 18000048,
+        "alias": "Contents.Quest.Name.2000048",
+        "text": "[Lv. - ] 金嘤铁门悬赏专家"
+    },
+    "18000049": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행 name",
+        "id": 18000049,
+        "alias": "Contents.Quest.Name.2000049",
+        "text": "[Lv. - ] 大鱼房悬赏专家"
+    },
+    "18000050": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행 name",
+        "id": 18000050,
+        "alias": "Contents.Quest.Name.2000050",
+        "text": "[Lv. - ] 秘史文悬赏专家"
+    },
+    "18001000": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18001000,
+        "alias": "Contents.Quest.Name.2001000",
+        "text": "[Lv.30]油腻的脚尖"
+    },
+    "18001001": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18001001,
+        "alias": "Contents.Quest.Name.2001001",
+        "text": "[Lv.30]蜘蛛网研究"
+    },
+    "18001002": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18001002,
+        "alias": "Contents.Quest.Name.2001002",
+        "text": "[Lv.31]生态系统复原"
+    },
+    "18001003": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18001003,
+        "alias": "Contents.Quest.Name.2001003",
+        "text": "[Lv.31]总是消失的秘方书"
+    },
+    "18001004": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18001004,
+        "alias": "Contents.Quest.Name.2001004",
+        "text": "[Lv.32]构筑防线"
+    },
+    "18001005": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18001005,
+        "alias": "Contents.Quest.Name.2001005",
+        "text": "[Lv.32]狼群"
+    },
+    "18001006": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18001006,
+        "alias": "Contents.Quest.Name.2001006",
+        "text": "[Lv.32]开发新的染料"
+    },
+    "18001007": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18001007,
+        "alias": "Contents.Quest.Name.2001007",
+        "text": "[Lv.33]曼陀罗化噪音问题"
+    },
+    "18001008": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18001008,
+        "alias": "Contents.Quest.Name.2001008",
+        "text": "[Lv.34]匠人们的美味！"
+    },
+    "18001009": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18001009,
+        "alias": "Contents.Quest.Name.2001009",
+        "text": "[Lv.34]采集龟卵"
+    },
+    "18001010": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18001010,
+        "alias": "Contents.Quest.Name.2001010",
+        "text": "[Lv.35]沿岸龟皮"
+    },
+    "18001011": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18001011,
+        "alias": "Contents.Quest.Name.2001011",
+        "text": "[Lv.35]消除黑暗"
+    },
+    "18001012": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18001012,
+        "alias": "Contents.Quest.Name.2001012",
+        "text": "[Lv.37]消灭食人雷克顿"
+    },
+    "18001013": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18001013,
+        "alias": "Contents.Quest.Name.2001013",
+        "text": "[Lv.40]坚硬的植物的茎"
+    },
+    "18001014": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18001014,
+        "alias": "Contents.Quest.Name.2001014",
+        "text": "[Lv.40]寻找丢失的行李"
+    },
+    "18001015": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18001015,
+        "alias": "Contents.Quest.Name.2001015",
+        "text": "[Lv.41]血雨牌驱逐"
+    },
+    "18001016": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18001016,
+        "alias": "Contents.Quest.Name.2001016",
+        "text": "[Lv.41]燃烧血雨牌头巾"
+    },
+    "18001017": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18001017,
+        "alias": "Contents.Quest.Name.2001017",
+        "text": "[Lv.42]月光风的名誉"
+    },
+    "18001018": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18001018,
+        "alias": "Contents.Quest.Name.2001018",
+        "text": "[Lv.42]斗烟研究"
+    },
+    "18001019": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18001019,
+        "alias": "Contents.Quest.Name.2001019",
+        "text": "[Lv.42]郭浩龙的威信"
+    },
+    "18001020": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18001020,
+        "alias": "Contents.Quest.Name.2001020",
+        "text": "[Lv.43]通往开拓地的路"
+    },
+    "18001021": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18001021,
+        "alias": "Contents.Quest.Name.2001021",
+        "text": "[Lv.43]突然的危险"
+    },
+    "18001022": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18001022,
+        "alias": "Contents.Quest.Name.2001022",
+        "text": "[Lv.44]蛇菇解毒剂"
+    },
+    "18001023": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18001023,
+        "alias": "Contents.Quest.Name.2001023",
+        "text": "[Lv.45]确保墓地附近的治安"
+    },
+    "18001024": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18001024,
+        "alias": "Contents.Quest.Name.2001024",
+        "text": "[Lv.45]消灭墓地的血匪牌"
+    },
+    "18001025": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18001025,
+        "alias": "Contents.Quest.Name.2001025",
+        "text": "[Lv.46]开发妙药"
+    },
+    "18001026": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18001026,
+        "alias": "Contents.Quest.Name.2001026",
+        "text": "[Lv.47]古代苗族的武器"
+    },
+    "18001027": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18001027,
+        "alias": "Contents.Quest.Name.2001027",
+        "text": "[Lv.47]谭仁超新研究"
+    },
+    "18001028": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18001028,
+        "alias": "Contents.Quest.Name.2001028",
+        "text": "[Lv.47]袭击者乐园族"
+    },
+    "18001029": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18001029,
+        "alias": "Contents.Quest.Name.2001029",
+        "text": "[Lv.47]用荷叶制作雨伞"
+    },
+    "18001030": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18001030,
+        "alias": "Contents.Quest.Name.2001030",
+        "text": "[Lv.48]坡路管理"
+    },
+    "18001031": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18001031,
+        "alias": "Contents.Quest.Name.2001031",
+        "text": "[Lv.48]赶走石淼精"
+    },
+    "18001032": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18001032,
+        "alias": "Contents.Quest.Name.2001032",
+        "text": "[Lv.49]三色鸟油"
+    },
+    "18001033": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18001033,
+        "alias": "Contents.Quest.Name.2001033",
+        "text": "[Lv.49]管理太绿林水源"
+    },
+    "18001034": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18001034,
+        "alias": "Contents.Quest.Name.2001034",
+        "text": "[Lv.49]制作好毛笔"
+    },
+    "18001035": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18001035,
+        "alias": "Contents.Quest.Name.2001035",
+        "text": "[Lv.51]妙面族防御"
+    },
+    "18001036": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18001036,
+        "alias": "Contents.Quest.Name.2001036",
+        "text": "[Lv.51]保护游客的任务"
+    },
+    "18001037": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18001037,
+        "alias": "Contents.Quest.Name.2001037",
+        "text": "[Lv.50]工作人员保护任务"
+    },
+    "18001038": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18001038,
+        "alias": "Contents.Quest.Name.2001038",
+        "text": "[Lv.50]获得坚硬的皮革"
+    },
+    "18001039": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18001039,
+        "alias": "Contents.Quest.Name.2001039",
+        "text": "[Lv.49]海边的黑暗"
+    },
+    "18001040": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18001040,
+        "alias": "Contents.Quest.Name.2001040",
+        "text": "[Lv.49]美味，乌龟蛋！"
+    },
+    "18001041": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18001041,
+        "alias": "Contents.Quest.Name.2001041",
+        "text": "[Lv.35]从自然中获得的药材"
+    },
+    "18001042": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18001042,
+        "alias": "Contents.Quest.Name.2001042",
+        "text": "[Lv. - ] 埃莱达悬赏专家"
+    },
+    "18001043": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18001043,
+        "alias": "Contents.Quest.Name.2001043",
+        "text": "[Lv. - ] 金嘤铁门悬赏专家"
+    },
+    "18001044": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18001044,
+        "alias": "Contents.Quest.Name.2001044",
+        "text": "[Lv. - ] 桃花商战悬赏专家"
+    },
+    "18001045": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18001045,
+        "alias": "Contents.Quest.Name.2001045",
+        "text": "[Lv. - ] 朔阳悬赏专家"
+    },
+    "18001046": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18001046,
+        "alias": "Contents.Quest.Name.2001046",
+        "text": "[Lv. - ] 灵教员协会专家"
+    },
+    "18001047": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18001047,
+        "alias": "Contents.Quest.Name.2001047",
+        "text": "[Lv. - ] 明慧丹悬赏专家"
+    },
+    "18001048": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18001048,
+        "alias": "Contents.Quest.Name.2001048",
+        "text": "[Lv. - ] 秘史文悬赏专家"
+    },
+    "18002000": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18002000,
+        "alias": "Contents.Quest.Name.2002000",
+        "text": "[Lv.50]整理营地遗址"
+    },
+    "18002001": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18002001,
+        "alias": "Contents.Quest.Name.2002001",
+        "text": "[Lv.50]曼陀罗的噪音"
+    },
+    "18002002": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18002002,
+        "alias": "Contents.Quest.Name.2002002",
+        "text": "[Lv.53]保护训练生"
+    },
+    "18002003": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18002003,
+        "alias": "Contents.Quest.Name.2002003",
+        "text": "[Lv.52]蝎子的毒"
+    },
+    "18002004": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18002004,
+        "alias": "Contents.Quest.Name.2002004",
+        "text": "[Lv.53]回收原野垃圾"
+    },
+    "18002005": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18002005,
+        "alias": "Contents.Quest.Name.2002005",
+        "text": "[Lv.54]制作好毛笔"
+    },
+    "18002006": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18002006,
+        "alias": "Contents.Quest.Name.2002006",
+        "text": "[Lv.54]保护地区居民"
+    },
+    "18002007": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18002007,
+        "alias": "Contents.Quest.Name.2002007",
+        "text": "[Lv.54]保护我！"
+    },
+    "18002008": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18002008,
+        "alias": "Contents.Quest.Name.2002008",
+        "text": "[Lv.51]又开发新的染料"
+    },
+    "18002009": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18002009,
+        "alias": "Contents.Quest.Name.2002009",
+        "text": "[Lv.55]寻找老虎皮"
+    },
+    "18002010": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18002010,
+        "alias": "Contents.Quest.Name.2002010",
+        "text": "[Lv.55]永远的安息"
+    },
+    "18002011": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18002011,
+        "alias": "Contents.Quest.Name.2002011",
+        "text": "[Lv.55]缝隙研究资料"
+    },
+    "18002012": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18002012,
+        "alias": "Contents.Quest.Name.2002012",
+        "text": "[Lv.60]一点一点！"
+    },
+    "18002013": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18002013,
+        "alias": "Contents.Quest.Name.2002013",
+        "text": "[Lv.60]寻找好药草"
+    },
+    "18002014": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18002014,
+        "alias": "Contents.Quest.Name.2002014",
+        "text": "[Lv.56]红角的价值"
+    },
+    "18002015": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18002015,
+        "alias": "Contents.Quest.Name.2002015",
+        "text": "[Lv.56]天空的水母"
+    },
+    "18002016": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18002016,
+        "alias": "Contents.Quest.Name.2002016",
+        "text": "[Lv.56]赶走烟草"
+    },
+    "18002017": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18002017,
+        "alias": "Contents.Quest.Name.2002017",
+        "text": "[Lv.56]开发新染料"
+    },
+    "18002018": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18002018,
+        "alias": "Contents.Quest.Name.2002018",
+        "text": "[Lv.56]火焰草的价值"
+    },
+    "18002019": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18002019,
+        "alias": "Contents.Quest.Name.2002019",
+        "text": "[Lv.56]柳江毒毛的皮"
+    },
+    "18002020": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18002020,
+        "alias": "Contents.Quest.Name.2002020",
+        "text": "[Lv.56]泡制的草的用途"
+    },
+    "18002021": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18002021,
+        "alias": "Contents.Quest.Name.2002021",
+        "text": "[Lv.57]优质石材"
+    },
+    "18002022": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18002022,
+        "alias": "Contents.Quest.Name.2002022",
+        "text": "[Lv.57]羊皮纸材料"
+    },
+    "18002023": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18002023,
+        "alias": "Contents.Quest.Name.2002023",
+        "text": "[Lv.56]采石工的工具"
+    },
+    "18002024": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18002024,
+        "alias": "Contents.Quest.Name.2002024",
+        "text": "[Lv.59]消灭昌道团"
+    },
+    "18002025": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18002025,
+        "alias": "Contents.Quest.Name.2002025",
+        "text": "[Lv.51]赶走红豚族"
+    },
+    "18002026": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18002026,
+        "alias": "Contents.Quest.Name.2002026",
+        "text": "[Lv.59]收集创刀团装备"
+    },
+    "18002027": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18002027,
+        "alias": "Contents.Quest.Name.2002027",
+        "text": "[Lv.58]清人族退治任务"
+    },
+    "18002028": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18002028,
+        "alias": "Contents.Quest.Name.2002028",
+        "text": "[Lv. - ] 风白门悬赏专家"
+    },
+    "18002029": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18002029,
+        "alias": "Contents.Quest.Name.2002029",
+        "text": "[Lv. - ] 金嘤铁门悬赏专家"
+    },
+    "18002030": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18002030,
+        "alias": "Contents.Quest.Name.2002030",
+        "text": "[Lv. - ] 桃花商战悬赏专家"
+    },
+    "18002031": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18002031,
+        "alias": "Contents.Quest.Name.2002031",
+        "text": "[Lv. - ] 朔阳悬赏专家"
+    },
+    "18002032": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18002032,
+        "alias": "Contents.Quest.Name.2002032",
+        "text": "[Lv. - ] 灵教员协会专家"
+    },
+    "18002033": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18002033,
+        "alias": "Contents.Quest.Name.2002033",
+        "text": "[Lv. - ] 明慧丹悬赏专家"
+    },
+    "18002034": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18002034,
+        "alias": "Contents.Quest.Name.2002034",
+        "text": "[Lv. - ] 秘史文悬赏专家"
+    },
+    "18002035": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18002035,
+        "alias": "Contents.Quest.Name.2002035",
+        "text": "[Lv.50]曼陀罗的武器"
+    },
+    "18002036": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18002036,
+        "alias": "Contents.Quest.Name.2002036",
+        "text": "[Lv.50]阴凉的妈妈草饭后甜点？"
+    },
+    "18002037": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18002037,
+        "alias": "Contents.Quest.Name.2002037",
+        "text": "[Lv.52]树精的苔藓"
+    },
+    "18002038": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18002038,
+        "alias": "Contents.Quest.Name.2002038",
+        "text": "[Lv.52]蛇蘑菇的毒性成分"
+    },
+    "18002039": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18002039,
+        "alias": "Contents.Quest.Name.2002039",
+        "text": "[Lv.53]对新人有负担"
+    },
+    "18002040": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18002040,
+        "alias": "Contents.Quest.Name.2002040",
+        "text": "[Lv.57]从西归处救出"
+    },
+    "18002041": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18002041,
+        "alias": "Contents.Quest.Name.2002041",
+        "text": "[Lv.58]攻破坚固的防线"
+    },
+    "18002042": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18002042,
+        "alias": "Contents.Quest.Name.2002042",
+        "text": "[Lv.58]清人族武器再利用"
+    },
+    "18002043": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18002043,
+        "alias": "Contents.Quest.Name.2002043",
+        "text": "[Lv.58]奇怪形态的武器"
+    },
+    "18002044": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18002044,
+        "alias": "Contents.Quest.Name.2002044",
+        "text": "[Lv.59]昌道丹武器再利用"
+    },
+    "18002045": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18002045,
+        "alias": "Contents.Quest.Name.2002045",
+        "text": "[Lv.59]解决明慧团员危机"
+    },
+    "18002046": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18002046,
+        "alias": "Contents.Quest.Name.2002046",
+        "text": "[Lv.60]消灭隐身蜘蛛"
+    },
+    "19000001": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행서 제목",
+        "id": 19000001,
+        "alias": "Contents.Quest.Name.3000000",
+        "text": "荷叶满湖人"
+    },
+    "19000002": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행서 제목",
+        "id": 19000002,
+        "alias": "Contents.Quest.Name.3000001",
+        "text": "调整数量"
+    },
+    "19000003": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행서 제목",
+        "id": 19000003,
+        "alias": "Contents.Quest.Name.3000002",
+        "text": "钓鱼场的妨碍者"
+    },
+    "19000004": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행서 제목",
+        "id": 19000004,
+        "alias": "Contents.Quest.Name.3000003",
+        "text": "遗迹调查"
+    },
+    "19000005": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행서 제목",
+        "id": 19000005,
+        "alias": "Contents.Quest.Name.3001001",
+        "text": "遗迹调查（上级）"
+    },
+    "19000006": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행서 제목",
+        "id": 19000006,
+        "alias": "Contents.Quest.Name.3002001",
+        "text": "遗迹守护者洪琳"
+    },
+    "19000007": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행서 제목",
+        "id": 19000007,
+        "alias": "Contents.Quest.Name.3000004",
+        "text": "荒芜的草场"
+    },
+    "19000008": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행서 제목",
+        "id": 19000008,
+        "alias": "Contents.Quest.Name.3001002",
+        "text": "荒废的草场（上级）"
+    },
+    "19000009": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행서 제목",
+        "id": 19000009,
+        "alias": "Contents.Quest.Name.3000005",
+        "text": "扫荡昌道团"
+    },
+    "19000010": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행서 제목",
+        "id": 19000010,
+        "alias": "Contents.Quest.Name.3001003",
+        "text": "狂徒扫荡（上级）"
+    },
+    "19000011": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행서 제목",
+        "id": 19000011,
+        "alias": "Contents.Quest.Name.3002002",
+        "text": "昌道团队长和伦"
+    },
+    "19000012": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행서 제목",
+        "id": 19000012,
+        "alias": "Contents.Quest.Name.3000006",
+        "text": "森林中的野生动物"
+    },
+    "19000013": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행서 제목",
+        "id": 19000013,
+        "alias": "Contents.Quest.Name.3001004",
+        "text": "森林中的野生动物（上级）"
+    },
+    "19000014": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행서 제목",
+        "id": 19000014,
+        "alias": "Contents.Quest.Name.3003001",
+        "text": "变了的神木"
+    },
+    "19000015": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행서 제목",
+        "id": 19000015,
+        "alias": "Contents.Quest.Name.3000007",
+        "text": "扫荡斗夜团"
+    },
+    "19000016": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행서 제목",
+        "id": 19000016,
+        "alias": "Contents.Quest.Name.3001005",
+        "text": "扫荡斗夜团（上级）"
+    },
+    "19000017": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행서 제목",
+        "id": 19000017,
+        "alias": "Contents.Quest.Name.3002003",
+        "text": "斗夜团队长彩郎."
+    },
+    "19000018": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행서 제목",
+        "id": 19000018,
+        "alias": "Contents.Quest.Name.3000008",
+        "text": "调查坑"
+    },
+    "19000019": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행서 제목",
+        "id": 19000019,
+        "alias": "Contents.Quest.Name.3000012",
+        "text": "防止缝隙（一般）"
+    },
+    "19000020": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행서 제목",
+        "id": 19000020,
+        "alias": "Contents.Quest.Name.3001006",
+        "text": "防止缝隙（上级）"
+    },
+    "19000021": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행서 제목",
+        "id": 19000021,
+        "alias": "Contents.Quest.Name.3000009",
+        "text": "深墓地森林威胁"
+    },
+    "19000022": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행서 제목",
+        "id": 19000022,
+        "alias": "Contents.Quest.Name.3001007",
+        "text": "小火种再次（上级）"
+    },
+    "19000023": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행서 제목",
+        "id": 19000023,
+        "alias": "Contents.Quest.Name.3002005",
+        "text": "奇特的大王蜘蛛"
+    },
+    "19000024": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행서 제목",
+        "id": 19000024,
+        "alias": "Contents.Quest.Name.3000010",
+        "text": "顶级捕食者"
+    },
+    "19000025": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행서 제목",
+        "id": 19000025,
+        "alias": "Contents.Quest.Name.3001008",
+        "text": "顶级捕食者（上级）"
+    },
+    "19000026": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행서 제목",
+        "id": 19000026,
+        "alias": "Contents.Quest.Name.3000011",
+        "text": "恢复准备"
+    },
+    "19000027": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행서 제목",
+        "id": 19000027,
+        "alias": "Contents.Quest.Name.3001009",
+        "text": "恢复准备（上级）"
+    },
+    "19000028": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행서 제목",
+        "id": 19000028,
+        "alias": "Contents.Quest.Name.3002006",
+        "text": "被侵蚀的蜥人族队长徐仁章."
+    },
+    "19000029": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행서 제목",
+        "id": 19000029,
+        "alias": "Contents.Quest.Name.3003002",
+        "text": "可怕的回响"
+    },
+    "19000030": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행서",
+        "id": 19000030,
+        "alias": "Contents.Quest.Name.3000101",
+        "text": "物资保护"
+    },
+    "19000031": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행서",
+        "id": 19000031,
+        "alias": "Contents.Quest.Name.3000102",
+        "text": "红豚族势力无力化"
+    },
+    "19000032": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행서",
+        "id": 19000032,
+        "alias": "Contents.Quest.Name.3000103",
+        "text": "毒辣地"
+    },
+    "19000033": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행서",
+        "id": 19000033,
+        "alias": "Contents.Quest.Name.3000104",
+        "text": "奇怪的谜语"
+    },
+    "19000034": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행서",
+        "id": 19000034,
+        "alias": "Contents.Quest.Name.3000105",
+        "text": "黑色黎明的残党"
+    },
+    "19000035": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행서",
+        "id": 19000035,
+        "alias": "Contents.Quest.Name.3000106",
+        "text": "交易材料"
+    },
+    "19000036": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행서",
+        "id": 19000036,
+        "alias": "Contents.Quest.Name.3000107",
+        "text": "进退两难"
+    },
+    "19000037": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행서",
+        "id": 19000037,
+        "alias": "Contents.Quest.Name.3000108",
+        "text": "死气沉沉的树林"
+    },
+    "19000038": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행서",
+        "id": 19000038,
+        "alias": "Contents.Quest.Name.3000109",
+        "text": "巨大的威胁"
+    },
+    "19000039": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행서",
+        "id": 19000039,
+        "alias": "Contents.Quest.Name.3000110",
+        "text": "给生命安息"
+    },
+    "19000040": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행서",
+        "id": 19000040,
+        "alias": "Contents.Quest.Name.3000111",
+        "text": "角之战"
+    },
+    "19000041": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행서",
+        "id": 19000041,
+        "alias": "Contents.Quest.Name.3000112",
+        "text": "峡谷的不祥气息"
+    },
+    "19000042": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행서",
+        "id": 19000042,
+        "alias": "Contents.Quest.Name.3000113",
+        "text": "建立据点"
+    },
+    "19000043": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행서",
+        "id": 19000043,
+        "alias": "Contents.Quest.Name.3000114",
+        "text": "净化森林"
+    },
+    "19000044": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행서",
+        "id": 19000044,
+        "alias": "Contents.Quest.Name.3000115",
+        "text": "噩梦之森"
+    },
+    "19000045": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행서",
+        "id": 19000045,
+        "alias": "Contents.Quest.Name.3000116",
+        "text": "比岩石更坚固"
+    },
+    "19000046": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행서",
+        "id": 19000046,
+        "alias": "Contents.Quest.Name.3000117",
+        "text": "危险的斜坡"
+    },
+    "19000047": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행서",
+        "id": 19000047,
+        "alias": "Contents.Quest.Name.3000118",
+        "text": "通往沙漠的路"
+    },
+    "19000048": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행서",
+        "id": 19000048,
+        "alias": "Contents.Quest.Name.3000119",
+        "text": "无限的欲望"
+    },
+    "19000049": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행서",
+        "id": 19000049,
+        "alias": "Contents.Quest.Name.3000120",
+        "text": "聚集的蜘蛛"
+    },
+    "19000050": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행서",
+        "id": 19000050,
+        "alias": "Contents.Quest.Name.3000121",
+        "text": "风土病治疗剂"
+    },
+    "19000051": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행서",
+        "id": 19000051,
+        "alias": "Contents.Quest.Name.3000122",
+        "text": "最好的防御是攻击"
+    },
+    "19000052": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행서",
+        "id": 19000052,
+        "alias": "Contents.Quest.Name.3000123",
+        "text": "噪音污染的原因"
+    },
+    "19000053": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행서",
+        "id": 19000053,
+        "alias": "Contents.Quest.Name.3000124",
+        "text": "抓水果小偷"
+    },
+    "19000054": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행서",
+        "id": 19000054,
+        "alias": "Contents.Quest.Name.3000125",
+        "text": "月夜的淘气鬼们"
+    },
+    "19000055": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행서",
+        "id": 19000055,
+        "alias": "Contents.Quest.Name.3000126",
+        "text": "平息谣言"
+    },
+    "19000056": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행서",
+        "id": 19000056,
+        "alias": "Contents.Quest.Name.3000127",
+        "text": "我亲眼所见."
+    },
+    "19000057": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행서",
+        "id": 19000057,
+        "alias": "Contents.Quest.Name.3000128",
+        "text": "野群"
+    },
+    "19000058": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행서",
+        "id": 19000058,
+        "alias": "Contents.Quest.Name.3000129",
+        "text": "森林里的土匪"
+    },
+    "19000059": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행서",
+        "id": 19000059,
+        "alias": "Contents.Quest.Name.3000130",
+        "text": "下雨后地面变硬."
+    },
+    "19000060": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행서",
+        "id": 19000060,
+        "alias": "Contents.Quest.Name.3000131",
+        "text": "在深深的沼泽雾中"
+    },
+    "19000061": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행서",
+        "id": 19000061,
+        "alias": "Contents.Quest.Name.3000132",
+        "text": "蛇蘑菇"
+    },
+    "19000062": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행서",
+        "id": 19000062,
+        "alias": "Contents.Quest.Name.3000133",
+        "text": "亡者"
+    },
+    "19000063": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행서",
+        "id": 19000063,
+        "alias": "Contents.Quest.Name.3000134",
+        "text": "制作样板"
+    },
+    "19000064": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행서",
+        "id": 19000064,
+        "alias": "Contents.Quest.Name.3000135",
+        "text": "可怕的混种"
+    },
+    "19000065": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행서",
+        "id": 19000065,
+        "alias": "Contents.Quest.Name.3000136",
+        "text": "可爱的脸上"
+    },
+    "19000066": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행서",
+        "id": 19000066,
+        "alias": "Contents.Quest.Name.3000137",
+        "text": "确保海滩"
+    },
+    "19000067": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행서",
+        "id": 19000067,
+        "alias": "Contents.Quest.Name.3000138",
+        "text": "黑土"
+    },
+    "19000068": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행서",
+        "id": 19000068,
+        "alias": "Contents.Quest.Name.3000139",
+        "text": "建象牙塔的人们"
+    },
+    "19000069": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행서",
+        "id": 19000069,
+        "alias": "Contents.Quest.Name.3000140",
+        "text": "太阳今天也出现了."
+    },
+    "19000070": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행서",
+        "id": 19000070,
+        "alias": "Contents.Quest.Name.3000141",
+        "text": "高山动物"
+    },
+    "15000001": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수_전격_얕은 호수",
+        "id": 15000001,
+        "alias": "Contents.Quest.Name.5000001",
+        "text": "浅水"
+    },
+    "15000002": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수_전격_썩은 벌목지",
+        "id": 15000002,
+        "alias": "Contents.Quest.Name.5000002",
+        "text": "腐烂的伐木地"
+    },
+    "15000003": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수_전격_거북호",
+        "id": 15000003,
+        "alias": "Contents.Quest.Name.5000003",
+        "text": "讨伐龟湖"
+    },
+    "15000004": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수_전격_드러난 유적지",
+        "id": 15000004,
+        "alias": "Contents.Quest.Name.5000004",
+        "text": "暴露的遗迹"
+    },
+    "15000005": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수_전격_목초지",
+        "id": 15000005,
+        "alias": "Contents.Quest.Name.5000005",
+        "text": "落日草场"
+    },
+    "15000006": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수_전격_도적단 근거지",
+        "id": 15000006,
+        "alias": "Contents.Quest.Name.5000006",
+        "text": "昌道团巢穴"
+    },
+    "15000007": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수_전격_고도시 삼림길",
+        "id": 15000007,
+        "alias": "Contents.Quest.Name.5000007",
+        "text": "古都市林荫道"
+    },
+    "15000008": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수_전격_밀렵단 근거지",
+        "id": 15000008,
+        "alias": "Contents.Quest.Name.5000008",
+        "text": "斗夜团根据地"
+    },
+    "15000009": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수_전격_언덕 평원",
+        "id": 15000009,
+        "alias": "Contents.Quest.Name.5000009",
+        "text": "石岗丘陵地"
+    },
+    "15000010": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수_전격_공허의 구덩이",
+        "id": 15000010,
+        "alias": "Contents.Quest.Name.5000010",
+        "text": "空洞的坑"
+    },
+    "15000011": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수_전격_깊은 묘지 숲",
+        "id": 15000011,
+        "alias": "Contents.Quest.Name.5000011",
+        "text": "深山老林"
+    },
+    "15000012": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수_전격_파괴된 수와족 마을",
+        "id": 15000012,
+        "alias": "Contents.Quest.Name.5000012",
+        "text": "被破坏的水族村庄"
+    },
+    "15000013": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지_전격_붉은비탈길",
+        "id": 15000013,
+        "alias": "Contents.Quest.Name.5000013",
+        "text": "红坡定理"
+    },
+    "15000014": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지_전격_붉은숲길",
+        "id": 15000014,
+        "alias": "Contents.Quest.Name.5000014",
+        "text": "整理红林荫道"
+    },
+    "15000015": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지_전격_단풍노을평원",
+        "id": 15000015,
+        "alias": "Contents.Quest.Name.5000015",
+        "text": "整理红叶晚霞山谷"
+    },
+    "15000016": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지_전격_수수께끼벌판",
+        "id": 15000016,
+        "alias": "Contents.Quest.Name.5000016",
+        "text": "谜底清理"
+    },
+    "15000017": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지_전격_원령의언덕",
+        "id": 15000017,
+        "alias": "Contents.Quest.Name.5000017",
+        "text": "元灵之丘整理"
+    },
+    "15000018": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지_전격_벌목지",
+        "id": 15000018,
+        "alias": "Contents.Quest.Name.5000018",
+        "text": "伐木地整理"
+    },
+    "15000019": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지_전격_숲의장막",
+        "id": 15000019,
+        "alias": "Contents.Quest.Name.5000019",
+        "text": "森林的帐幕整理"
+    },
+    "15000020": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지_전격_잿빛밀림",
+        "id": 15000020,
+        "alias": "Contents.Quest.Name.5000020",
+        "text": "灰色丛林整理"
+    },
+    "15000021": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지_전격_비옥 폐허",
+        "id": 15000021,
+        "alias": "Contents.Quest.Name.5000021",
+        "text": "清理肥沃的废墟"
+    },
+    "15000022": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지_전격_재앙의은신처",
+        "id": 15000022,
+        "alias": "Contents.Quest.Name.5000022",
+        "text": "整理灾难的藏身处"
+    },
+    "15000023": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지_전격_붉은 뿔의 길",
+        "id": 15000023,
+        "alias": "Contents.Quest.Name.5000023",
+        "text": "红角之路整理"
+    },
+    "15000024": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지_전격_탁회암협곡",
+        "id": 15000024,
+        "alias": "Contents.Quest.Name.5000024",
+        "text": "卓会岩峡谷整理"
+    },
+    "15000025": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지_전격_용머리곶",
+        "id": 15000025,
+        "alias": "Contents.Quest.Name.5000025",
+        "text": "龙头串定理"
+    },
+    "15000026": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지_전격_사묘정의숲",
+        "id": 15000026,
+        "alias": "Contents.Quest.Name.5000026",
+        "text": "沙墓亭的森林整理"
+    },
+    "15000027": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지_전격_꿈결의숲",
+        "id": 15000027,
+        "alias": "Contents.Quest.Name.5000027",
+        "text": "梦中的森林整理"
+    },
+    "15000028": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지_전격_솟을바위산",
+        "id": 15000028,
+        "alias": "Contents.Quest.Name.5000028",
+        "text": "高耸入云的岩山定理"
+    },
+    "15000029": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지_전격_솟을바위경사로",
+        "id": 15000029,
+        "alias": "Contents.Quest.Name.5000029",
+        "text": "平整"
+    },
+    "15000030": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지_전격_파석의갈채",
+        "id": 15000030,
+        "alias": "Contents.Quest.Name.5000030",
+        "text": "破石的喝采整理"
+    },
+    "15000031": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지_전격_비옥 발굴지",
+        "id": 15000031,
+        "alias": "Contents.Quest.Name.5000031",
+        "text": "肥沃发掘地整理"
+    },
+    "15000032": {
+        "deprecated": false,
+        "Dev_Desc": "태록림_전격_거미 숲 길",
+        "id": 15000032,
+        "alias": "Contents.Quest.Name.5000032",
+        "text": "整理蜘蛛森林之路"
+    },
+    "15000033": {
+        "deprecated": false,
+        "Dev_Desc": "태록림_전격_동부 생태 조사림",
+        "id": 15000033,
+        "alias": "Contents.Quest.Name.5000033",
+        "text": "东部生态调查林整理"
+    },
+    "15000034": {
+        "deprecated": false,
+        "Dev_Desc": "태록림_전격_녹색 뿔의 숲",
+        "id": 15000034,
+        "alias": "Contents.Quest.Name.5000034",
+        "text": "绿色角之森整理"
+    },
+    "15000035": {
+        "deprecated": false,
+        "Dev_Desc": "태록림_전격_만다라 폭포 앞",
+        "id": 15000035,
+        "alias": "Contents.Quest.Name.5000035",
+        "text": "曼陀罗瀑布前整理"
+    },
+    "15000036": {
+        "deprecated": false,
+        "Dev_Desc": "태록림_전격_버려진 감시탑",
+        "id": 15000036,
+        "alias": "Contents.Quest.Name.5000036",
+        "text": "废弃的监视塔整理"
+    },
+    "15000037": {
+        "deprecated": false,
+        "Dev_Desc": "태록림_전격_난파선의 잔해",
+        "id": 15000037,
+        "alias": "Contents.Quest.Name.5000037",
+        "text": "清理遇难船的残骸"
+    },
+    "15000038": {
+        "deprecated": false,
+        "Dev_Desc": "태록림_전격_발자국 없는 해안",
+        "id": 15000038,
+        "alias": "Contents.Quest.Name.5000038",
+        "text": "没有脚印的海岸整理"
+    },
+    "15000039": {
+        "deprecated": false,
+        "Dev_Desc": "태록림_전격_난파선의 무덤",
+        "id": 15000039,
+        "alias": "Contents.Quest.Name.5000039",
+        "text": "遇难船的坟墓整理"
+    },
+    "15000040": {
+        "deprecated": false,
+        "Dev_Desc": "태록림_전격_골짜기 바람길",
+        "id": 15000040,
+        "alias": "Contents.Quest.Name.5000040",
+        "text": "山谷风路整理"
+    },
+    "15000041": {
+        "deprecated": false,
+        "Dev_Desc": "태록림_전격_혈비의 숲",
+        "id": 15000041,
+        "alias": "Contents.Quest.Name.5000041",
+        "text": "血雨之森整理"
+    },
+    "15000042": {
+        "deprecated": false,
+        "Dev_Desc": "태록림_전격_안개 그늘 숲 남부",
+        "id": 15000042,
+        "alias": "Contents.Quest.Name.5000042",
+        "text": "雾影树荫南部整理"
+    },
+    "15000043": {
+        "deprecated": false,
+        "Dev_Desc": "태록림_전격_메말라 가는 늪지",
+        "id": 15000043,
+        "alias": "Contents.Quest.Name.5000043",
+        "text": "干涸的沼泽整理"
+    },
+    "15000044": {
+        "deprecated": false,
+        "Dev_Desc": "태록림_전격_뱀버섯 군락",
+        "id": 15000044,
+        "alias": "Contents.Quest.Name.5000044",
+        "text": "蛇菇群落整理"
+    },
+    "15000045": {
+        "deprecated": false,
+        "Dev_Desc": "태록림_전격_개척자 위령 묘지",
+        "id": 15000045,
+        "alias": "Contents.Quest.Name.5000045",
+        "text": "开拓者慰灵墓地整理"
+    },
+    "15000046": {
+        "deprecated": false,
+        "Dev_Desc": "태록림_전격_참고요 숲",
+        "id": 15000046,
+        "alias": "Contents.Quest.Name.5000046",
+        "text": "参考妖林整理"
+    },
+    "15000047": {
+        "deprecated": false,
+        "Dev_Desc": "태록림_전격_담인초 습지",
+        "id": 15000047,
+        "alias": "Contents.Quest.Name.5000047",
+        "text": "潭仁草湿地整理"
+    },
+    "15000048": {
+        "deprecated": false,
+        "Dev_Desc": "태록림_전격_낙원 구릉",
+        "id": 15000048,
+        "alias": "Contents.Quest.Name.5000048",
+        "text": "整理乐园丘陵"
+    },
+    "15000049": {
+        "deprecated": false,
+        "Dev_Desc": "태록림_전격_도깨비 해변",
+        "id": 15000049,
+        "alias": "Contents.Quest.Name.5000049",
+        "text": "整理鬼怪海边"
+    },
+    "15000050": {
+        "deprecated": false,
+        "Dev_Desc": "태록림_전격_검은 진흙지대",
+        "id": 15000050,
+        "alias": "Contents.Quest.Name.5000050",
+        "text": "清理黑土地带"
+    },
+    "15000051": {
+        "deprecated": false,
+        "Dev_Desc": "태록림_전격_풀내음 언덕길",
+        "id": 15000051,
+        "alias": "Contents.Quest.Name.5000051",
+        "text": "草坡路整理"
+    },
+    "15000052": {
+        "deprecated": false,
+        "Dev_Desc": "태록림_전격_해맞이 비탈길",
+        "id": 15000052,
+        "alias": "Contents.Quest.Name.5000052",
+        "text": "迎日坡路整理"
+    },
+    "15000053": {
+        "deprecated": false,
+        "Dev_Desc": "태록림_전격_폭포 남부 숲",
+        "id": 15000053,
+        "alias": "Contents.Quest.Name.5000053",
+        "text": "瀑布南部森林整理"
+    },
+    "15000054": {
+        "deprecated": false,
+        "Dev_Desc": "태록림_전격_물안개 고원",
+        "id": 15000054,
+        "alias": "Contents.Quest.Name.5000054",
+        "text": "水雾高原整理"
+    },
+    "15000055": {
+        "deprecated": false,
+        "Dev_Desc": "안개 그늘 숲 북부 정리",
+        "id": 15000055,
+        "alias": "Contents.Quest.Name.5000055",
+        "text": "雾影树荫森林北部整理"
+    },
+    "15000056": {
+        "deprecated": false,
+        "Dev_Desc": "태록림_전격_언덕 숲",
+        "id": 15000056,
+        "alias": "Contents.Quest.Name.5000056",
+        "text": "整理丘陵森林"
+    },
+    "15000057": {
+        "deprecated": false,
+        "Dev_Desc": "태록림_전격_가는 모래 하구",
+        "id": 15000057,
+        "alias": "Contents.Quest.Name.5000057",
+        "text": "细沙河段整治"
+    },
+    "11000005": {
+        "deprecated": false,
+        "Dev_Desc": "반달_해수사냥_예리한 가시 대장도치",
+        "id": 11000005,
+        "alias": "Contents.Quest.Name.1000005",
+        "text": "海水痕迹！"
+    },
+    "11000006": {
+        "deprecated": false,
+        "Dev_Desc": "반달_해수사냥_날카로운 갑주 바우탄",
+        "id": 11000006,
+        "alias": "Contents.Quest.Name.1000006",
+        "text": "海水痕迹！"
+    },
+    "11000007": {
+        "deprecated": false,
+        "Dev_Desc": "반달_해수사냥_돌연변이 대왕거미",
+        "id": 11000007,
+        "alias": "Contents.Quest.Name.1000007",
+        "text": "海水痕迹！"
+    },
+    "11000008": {
+        "deprecated": false,
+        "Dev_Desc": "반달_해수사냥_거센발톱 우푸",
+        "id": 11000008,
+        "alias": "Contents.Quest.Name.1000008",
+        "text": "海水痕迹！"
+    },
+    "11000009": {
+        "deprecated": false,
+        "Dev_Desc": "반달_해수사냥_침식된 칼날 서인장",
+        "id": 11000009,
+        "alias": "Contents.Quest.Name.1000009",
+        "text": "海水痕迹！"
+    },
+    "11000010": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지_해수_붉은 낫",
+        "id": 11000010,
+        "alias": "Contents.Quest.Name.1000010",
+        "text": "海水痕迹！"
+    },
+    "11000011": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지_해수_흑묘",
+        "id": 11000011,
+        "alias": "Contents.Quest.Name.1000011",
+        "text": "海水痕迹！"
+    },
+    "11000012": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지_해수_철야금",
+        "id": 11000012,
+        "alias": "Contents.Quest.Name.1000012",
+        "text": "海水痕迹！"
+    },
+    "11000013": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지_해수_재앙의 원령",
+        "id": 11000013,
+        "alias": "Contents.Quest.Name.1000013",
+        "text": "海水痕迹！"
+    },
+    "11000014": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지_해수_고대의 엔트",
+        "id": 11000014,
+        "alias": "Contents.Quest.Name.1000014",
+        "text": "海水痕迹！"
+    },
+    "11000030": {
+        "deprecated": false,
+        "Dev_Desc": "태록림_해수_광포한 발",
+        "id": 11000030,
+        "alias": "Contents.Quest.Name.1000030",
+        "text": "海水痕迹！"
+    },
+    "11000031": {
+        "deprecated": false,
+        "Dev_Desc": "태록림_해수_해변 삼색조",
+        "id": 11000031,
+        "alias": "Contents.Quest.Name.1000031",
+        "text": "海水痕迹！"
+    },
+    "11000032": {
+        "deprecated": false,
+        "Dev_Desc": "태록림_해수_외로운 어둠",
+        "id": 11000032,
+        "alias": "Contents.Quest.Name.1000032",
+        "text": "海水痕迹！"
+    },
+    "11000033": {
+        "deprecated": false,
+        "Dev_Desc": "태록림_해수_복수의 칼날",
+        "id": 11000033,
+        "alias": "Contents.Quest.Name.1000033",
+        "text": "海水痕迹！"
+    },
+    "11000034": {
+        "deprecated": false,
+        "Dev_Desc": "태록림_해수_왕두",
+        "id": 11000034,
+        "alias": "Contents.Quest.Name.1000034",
+        "text": "海水痕迹！"
+    },
+    "10010000": {
+        "deprecated": false,
+        "Dev_Desc": "반달 서브 name",
+        "id": 10010000,
+        "alias": "Contents.Quest.Name.10000",
+        "text": "最强的矛盾"
+    },
+    "10010001": {
+        "deprecated": false,
+        "Dev_Desc": "반달 서브 name",
+        "id": 10010001,
+        "alias": "Contents.Quest.Name.10001",
+        "text": "钢铁面匣"
+    },
+    "10010002": {
+        "deprecated": false,
+        "Dev_Desc": "반달 서브 name",
+        "id": 10010002,
+        "alias": "Contents.Quest.Name.10002",
+        "text": "金奎妮，是个疯子"
+    },
+    "10010003": {
+        "deprecated": false,
+        "Dev_Desc": "반달 서브 name",
+        "id": 10010003,
+        "alias": "Contents.Quest.Name.10003",
+        "text": "寻找完美标本的方法"
+    },
+    "10010004": {
+        "deprecated": false,
+        "Dev_Desc": "반달 서브 name",
+        "id": 10010004,
+        "alias": "Contents.Quest.Name.10004",
+        "text": "赵柱勋，我是赵柱勋"
+    },
+    "10010005": {
+        "deprecated": false,
+        "Dev_Desc": "반달 서브 name",
+        "id": 10010005,
+        "alias": "Contents.Quest.Name.10005",
+        "text": "这种地方有人…？"
+    },
+    "10010006": {
+        "deprecated": false,
+        "Dev_Desc": "반달 서브 name",
+        "id": 10010006,
+        "alias": "Contents.Quest.Name.10006",
+        "text": "航海日志"
+    },
+    "10010007": {
+        "deprecated": false,
+        "Dev_Desc": "반달 서브 name",
+        "id": 10010007,
+        "alias": "Contents.Quest.Name.10007",
+        "text": "老清人"
+    },
+    "10010008": {
+        "deprecated": false,
+        "Dev_Desc": "반달 서브 name",
+        "id": 10010008,
+        "alias": "Contents.Quest.Name.10008",
+        "text": "樵夫的烦恼"
+    },
+    "10010009": {
+        "deprecated": false,
+        "Dev_Desc": "반달 서브 name",
+        "id": 10010009,
+        "alias": "Contents.Quest.Name.10009",
+        "text": "扭曲的神木传说"
+    },
+    "10010010": {
+        "deprecated": false,
+        "Dev_Desc": "반달 서브 name",
+        "id": 10010010,
+        "alias": "Contents.Quest.Name.10010",
+        "text": "你这家夥"
+    },
+    "10010011": {
+        "deprecated": false,
+        "Dev_Desc": "반달 서브 name",
+        "id": 10010011,
+        "alias": "Contents.Quest.Name.10011",
+        "text": "说话的精灵"
+    },
+    "10010012": {
+        "deprecated": false,
+        "Dev_Desc": "반달 서브 name",
+        "id": 10010012,
+        "alias": "Contents.Quest.Name.10012",
+        "text": "被诅咒的石头"
+    },
+    "10010013": {
+        "deprecated": false,
+        "Dev_Desc": "반달 서브 name",
+        "id": 10010013,
+        "alias": "Contents.Quest.Name.10013",
+        "text": "消失的舰队"
+    },
+    "10010014": {
+        "deprecated": false,
+        "Dev_Desc": "반달 서브 name",
+        "id": 10010014,
+        "alias": "Contents.Quest.Name.10014",
+        "text": "狭义之路"
+    },
+    "10010015": {
+        "deprecated": false,
+        "Dev_Desc": "반달 서브 name",
+        "id": 10010015,
+        "alias": "Contents.Quest.Name.10015",
+        "text": "野生保护运动"
+    },
+    "10010016": {
+        "deprecated": false,
+        "Dev_Desc": "반달 서브 name",
+        "id": 10010016,
+        "alias": "Contents.Quest.Name.10016",
+        "text": "我们是开拓巴隆丹！"
+    },
+    "10010017": {
+        "deprecated": false,
+        "Dev_Desc": "반달 서브 name",
+        "id": 10010017,
+        "alias": "Contents.Quest.Name.10017",
+        "text": "开拓充满诱惑！"
+    },
+    "10010018": {
+        "deprecated": false,
+        "Dev_Desc": "반달 서브 name",
+        "id": 10010018,
+        "alias": "Contents.Quest.Name.10018",
+        "text": "开拓是困难重重！"
+    },
+    "10010019": {
+        "deprecated": false,
+        "Dev_Desc": "반달 서브 name",
+        "id": 10010019,
+        "alias": "Contents.Quest.Name.10019",
+        "text": "被破坏的迷宫"
+    },
+    "10010020": {
+        "deprecated": false,
+        "Dev_Desc": "반달 서브 name",
+        "id": 10010020,
+        "alias": "Contents.Quest.Name.10020",
+        "text": "登场！海水猎人！"
+    },
+    "10010021": {
+        "deprecated": false,
+        "Dev_Desc": "반달 서브 name",
+        "id": 10010021,
+        "alias": "Contents.Quest.Name.10021",
+        "text": "藏在哪里了？"
+    },
+    "10010022": {
+        "deprecated": false,
+        "Dev_Desc": "반달 서브 name",
+        "id": 10010022,
+        "alias": "Contents.Quest.Name.10022",
+        "text": "遗憾的问候"
+    },
+    "10010023": {
+        "deprecated": false,
+        "Dev_Desc": "반달 서브 name(사용X)",
+        "id": 10010023,
+        "alias": "Contents.Quest.Name.10023",
+        "text": "以危机为机会！"
+    },
+    "10010024": {
+        "deprecated": false,
+        "Dev_Desc": "반달 서브 name",
+        "id": 10010024,
+        "alias": "Contents.Quest.Name.10024",
+        "text": "犯人就是你！"
+    },
+    "10010025": {
+        "deprecated": false,
+        "Dev_Desc": "반달 서브 name",
+        "id": 10010025,
+        "alias": "Contents.Quest.Name.10025",
+        "text": "离开家的时候"
+    },
+    "10010026": {
+        "deprecated": false,
+        "Dev_Desc": "반달 서브 name",
+        "id": 10010026,
+        "alias": "Contents.Quest.Name.10026",
+        "text": "古都市林荫道的捕食者"
+    },
+    "10010027": {
+        "deprecated": false,
+        "Dev_Desc": "반달 서브 name",
+        "id": 10010027,
+        "alias": "Contents.Quest.Name.10027",
+        "text": "野风"
+    },
+    "10010028": {
+        "deprecated": false,
+        "Dev_Desc": "반달 서브 name",
+        "id": 10010028,
+        "alias": "Contents.Quest.Name.10028",
+        "text": "最后的路"
+    },
+    "10010029": {
+        "deprecated": false,
+        "Dev_Desc": "반달 서브 name",
+        "id": 10010029,
+        "alias": "Contents.Quest.Name.10029",
+        "text": "我要回去了"
+    },
+    "10010030": {
+        "deprecated": false,
+        "Dev_Desc": "반달 서브 name",
+        "id": 10010030,
+        "alias": "Contents.Quest.Name.10030",
+        "text": "奇怪的是一直这样"
+    },
+    "10010031": {
+        "deprecated": false,
+        "Dev_Desc": "반달 서브 name",
+        "id": 10010031,
+        "alias": "Contents.Quest.Name.10031",
+        "text": "集思广益"
+    },
+    "10010032": {
+        "deprecated": false,
+        "Dev_Desc": "반달 서브 name",
+        "id": 10010032,
+        "alias": "Contents.Quest.Name.10032",
+        "text": "在空中游动的方法"
+    },
+    "10010033": {
+        "deprecated": false,
+        "Dev_Desc": "반달 서브 name",
+        "id": 10010033,
+        "alias": "Contents.Quest.Name.10033",
+        "text": "滑行法"
+    },
+    "10005000": {
+        "deprecated": false,
+        "Dev_Desc": "반달 스페셜 name",
+        "id": 10005000,
+        "alias": "Contents.Quest.Name.5000",
+        "text": "宁静的半月牧场"
+    },
+    "10005001": {
+        "deprecated": false,
+        "Dev_Desc": "반달 스페셜 name",
+        "id": 10005001,
+        "alias": "Contents.Quest.Name.5001",
+        "text": "一个真正宁静的半月牧场"
+    },
+    "10005002": {
+        "deprecated": false,
+        "Dev_Desc": "반달 스페셜 name",
+        "id": 10005002,
+        "alias": "Contents.Quest.Name.5002",
+        "text": "被收买的盗贼"
+    },
+    "10005003": {
+        "deprecated": false,
+        "Dev_Desc": "반달 스페셜 name",
+        "id": 10005003,
+        "alias": "Contents.Quest.Name.5003",
+        "text": "可以加入吗？"
+    },
+    "10005004": {
+        "deprecated": false,
+        "Dev_Desc": "반달 스페셜 name",
+        "id": 10005004,
+        "alias": "Contents.Quest.Name.5004",
+        "text": "真剑假剑"
+    },
+    "10005005": {
+        "deprecated": false,
+        "Dev_Desc": "반달 스페셜 name",
+        "id": 10005005,
+        "alias": "Contents.Quest.Name.5005",
+        "text": "被诅咒的村庄"
+    },
+    "10005006": {
+        "deprecated": false,
+        "Dev_Desc": "반달 스페셜 name",
+        "id": 10005006,
+        "alias": "Contents.Quest.Name.5006",
+        "text": "森林隐藏的秘密"
+    },
+    "10005007": {
+        "deprecated": false,
+        "Dev_Desc": "반달 스페셜 name",
+        "id": 10005007,
+        "alias": "Contents.Quest.Name.5007",
+        "text": "暴露的秘密"
+    },
+    "10005008": {
+        "deprecated": false,
+        "Dev_Desc": "반달 스페셜 name",
+        "id": 10005008,
+        "alias": "Contents.Quest.Name.5008",
+        "text": "痛苦的现实"
+    },
+    "10005009": {
+        "deprecated": false,
+        "Dev_Desc": "반달 스페셜 name",
+        "id": 10005009,
+        "alias": "Contents.Quest.Name.5009",
+        "text": "被破坏的水族村庄"
+    },
+    "10005010": {
+        "deprecated": false,
+        "Dev_Desc": "반달 스페셜 name",
+        "id": 10005010,
+        "alias": "Contents.Quest.Name.5010",
+        "text": "夺回村子的作战"
+    },
+    "10005011": {
+        "deprecated": false,
+        "Dev_Desc": "반달 스페셜 name",
+        "id": 10005011,
+        "alias": "Contents.Quest.Name.5011",
+        "text": "谷中怪物"
+    },
+    "10005012": {
+        "deprecated": false,
+        "Dev_Desc": "반달 스페셜 name",
+        "id": 10005012,
+        "alias": "Contents.Quest.Name.5012",
+        "text": "没落的神枪手"
+    },
+    "10005013": {
+        "deprecated": false,
+        "Dev_Desc": "반달 스페셜 name",
+        "id": 10005013,
+        "alias": "Contents.Quest.Name.5013",
+        "text": "明谋"
+    },
+    "10025000": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 스페셜 name",
+        "id": 10025000,
+        "alias": "Contents.Quest.Name.25000",
+        "text": "退休的苏阳队员"
+    },
+    "10025001": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 스페셜 name",
+        "id": 10025001,
+        "alias": "Contents.Quest.Name.25001",
+        "text": "鼓吹工匠们的士气"
+    },
+    "10025002": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 스페셜 name",
+        "id": 10025002,
+        "alias": "Contents.Quest.Name.25002",
+        "text": "四户移住政策"
+    },
+    "10025003": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 스페셜 name",
+        "id": 10025003,
+        "alias": "Contents.Quest.Name.25003",
+        "text": "特产开发"
+    },
+    "10025004": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 스페셜 name",
+        "id": 10025004,
+        "alias": "Contents.Quest.Name.25004",
+        "text": "特产开发的困难"
+    },
+    "10025005": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 스페셜 name",
+        "id": 10025005,
+        "alias": "Contents.Quest.Name.25005",
+        "text": "苏阳与史浩的误解"
+    },
+    "10025006": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 스페셜 name",
+        "id": 10025006,
+        "alias": "Contents.Quest.Name.25006",
+        "text": "恢复关系"
+    },
+    "10025007": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 스페셜 name",
+        "id": 10025007,
+        "alias": "Contents.Quest.Name.25007",
+        "text": "新勘探"
+    },
+    "10025008": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 스페셜 name",
+        "id": 10025008,
+        "alias": "Contents.Quest.Name.25008",
+        "text": "探查遇难船的坟墓"
+    },
+    "10025200": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 스페셜 name",
+        "id": 10025200,
+        "alias": "Contents.Quest.Name.25200",
+        "text": "溪水有毒？"
+    },
+    "10025201": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 스페셜 name",
+        "id": 10025201,
+        "alias": "Contents.Quest.Name.25201",
+        "text": "泥土的价值"
+    },
+    "10025202": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 스페셜 name",
+        "id": 10025202,
+        "alias": "Contents.Quest.Name.25202",
+        "text": "坡路安全"
+    },
+    "10025203": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 스페셜 name",
+        "id": 10025203,
+        "alias": "Contents.Quest.Name.25203",
+        "text": "误会"
+    },
+    "10025204": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 스페셜 name",
+        "id": 10025204,
+        "alias": "Contents.Quest.Name.25204",
+        "text": "河势"
+    },
+    "10030000": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 서브 name",
+        "id": 10030000,
+        "alias": "Contents.Quest.Name.30000",
+        "text": "请帮我找狗"
+    },
+    "10030001": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 서브 name",
+        "id": 10030001,
+        "alias": "Contents.Quest.Name.30001",
+        "text": "需要帮助的队员"
+    },
+    "10030002": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 서브 name",
+        "id": 10030002,
+        "alias": "Contents.Quest.Name.30002",
+        "text": "长出的绿角鮟鱇"
+    },
+    "10030003": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 서브 name",
+        "id": 10030003,
+        "alias": "Contents.Quest.Name.30003",
+        "text": "收集农具材料"
+    },
+    "10030004": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 서브 name",
+        "id": 10030004,
+        "alias": "Contents.Quest.Name.30004",
+        "text": "生物的异常繁殖"
+    },
+    "10030005": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 서브 name",
+        "id": 10030005,
+        "alias": "Contents.Quest.Name.30005",
+        "text": "危险的海边"
+    },
+    "10030100": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 서브 name",
+        "id": 10030100,
+        "alias": "Contents.Quest.Name.30100",
+        "text": "蛇菇治疗药"
+    },
+    "10030101": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 서브 name",
+        "id": 10030101,
+        "alias": "Contents.Quest.Name.30101",
+        "text": "慰灵墓地管理"
+    },
+    "10030102": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 서브 name",
+        "id": 10030102,
+        "alias": "Contents.Quest.Name.30102",
+        "text": "献花"
+    },
+    "10030103": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 서브 name",
+        "id": 10030103,
+        "alias": "Contents.Quest.Name.30103",
+        "text": "查找盗贼团位置"
+    },
+    "10030104": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 서브 name",
+        "id": 10030104,
+        "alias": "Contents.Quest.Name.30104",
+        "text": "沼泽土"
+    },
+    "10030105": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 서브 name",
+        "id": 10030105,
+        "alias": "Contents.Quest.Name.30105",
+        "text": "干涸的沼泽"
+    },
+    "10030106": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 서브 name",
+        "id": 10030106,
+        "alias": "Contents.Quest.Name.30106",
+        "text": "惊人的方向感"
+    },
+    "10030107": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 서브 name",
+        "id": 10030107,
+        "alias": "Contents.Quest.Name.30107",
+        "text": "费心的敌人"
+    },
+    "10030200": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 서브 name",
+        "id": 10030200,
+        "alias": "Contents.Quest.Name.30200",
+        "text": "安全瀑布"
+    },
+    "10030201": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 서브 name",
+        "id": 10030201,
+        "alias": "Contents.Quest.Name.30201",
+        "text": "乐园大成的心情"
+    },
+    "10030202": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 서브 name",
+        "id": 10030202,
+        "alias": "Contents.Quest.Name.30202",
+        "text": "除草作业战斗杀虫剂！"
+    },
+    "10030203": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 서브 name",
+        "id": 10030203,
+        "alias": "Contents.Quest.Name.30203",
+        "text": "危险的泥土地带"
+    },
+    "10030204": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 서브 name",
+        "id": 10030204,
+        "alias": "Contents.Quest.Name.30204",
+        "text": "珍贵的苔藓"
+    },
+    "10045000": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 스페셜 name",
+        "id": 10045000,
+        "alias": "Contents.Quest.Name.45000",
+        "text": "沃土的商业价值"
+    },
+    "10045001": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 스페셜 name",
+        "id": 10045001,
+        "alias": "Contents.Quest.Name.45001",
+        "text": "困难的情况"
+    },
+    "10045002": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 스페셜 name",
+        "id": 10045002,
+        "alias": "Contents.Quest.Name.45002",
+        "text": "最后的机会"
+    },
+    "10045003": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 스페셜 name",
+        "id": 10045003,
+        "alias": "Contents.Quest.Name.45003",
+        "text": "创造新的机会"
+    },
+    "10045004": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 스페셜 name",
+        "id": 10045004,
+        "alias": "Contents.Quest.Name.45004",
+        "text": "成功的失败"
+    },
+    "10045100": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 스페셜 name",
+        "id": 10045100,
+        "alias": "Contents.Quest.Name.45100",
+        "text": "好石材"
+    },
+    "10045101": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 스페셜 name",
+        "id": 10045101,
+        "alias": "Contents.Quest.Name.45101",
+        "text": "梅花团勘探队"
+    },
+    "10045102": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 스페셜 name",
+        "id": 10045102,
+        "alias": "Contents.Quest.Name.45102",
+        "text": "最后的勘探"
+    },
+    "10045103": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 스페셜 name",
+        "id": 10045103,
+        "alias": "Contents.Quest.Name.45103",
+        "text": "桃花意象的未来"
+    },
+    "10050000": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 서브 name",
+        "id": 10050000,
+        "alias": "Contents.Quest.Name.50000",
+        "text": "训练就像实战一样"
+    },
+    "10050001": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 서브 name",
+        "id": 10050001,
+        "alias": "Contents.Quest.Name.50001",
+        "text": "禁物"
+    },
+    "10050002": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 서브 name",
+        "id": 10050002,
+        "alias": "Contents.Quest.Name.50002",
+        "text": "灾荒"
+    },
+    "10050003": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 서브 name",
+        "id": 10050003,
+        "alias": "Contents.Quest.Name.50003",
+        "text": "开拓巴隆丹来了！！"
+    },
+    "10050004": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 서브 name",
+        "id": 10050004,
+        "alias": "Contents.Quest.Name.50004",
+        "text": "前文主义者"
+    },
+    "10050005": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 서브 name",
+        "id": 10050005,
+        "alias": "Contents.Quest.Name.50005",
+        "text": "调查红豚族的武器"
+    },
+    "10050006": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 서브 name",
+        "id": 10050006,
+        "alias": "Contents.Quest.Name.50006",
+        "text": "蝎子的武器"
+    },
+    "10050007": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 서브 name",
+        "id": 10050007,
+        "alias": "Contents.Quest.Name.50007",
+        "text": "噪音问题处理"
+    },
+    "10050008": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 서브 name",
+        "id": 10050008,
+        "alias": "Contents.Quest.Name.50008",
+        "text": "可怕的母角"
+    },
+    "10050009": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 서브 name",
+        "id": 10050009,
+        "alias": "Contents.Quest.Name.50009",
+        "text": "蜥人族的第一武器"
+    },
+    "10050100": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 서브 name",
+        "id": 10050100,
+        "alias": "Contents.Quest.Name.50100",
+        "text": "生物的适应能力"
+    },
+    "10050101": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 서브 name",
+        "id": 10050101,
+        "alias": "Contents.Quest.Name.50101",
+        "text": "神秘而危险的生物"
+    },
+    "10050102": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 서브 name",
+        "id": 10050102,
+        "alias": "Contents.Quest.Name.50102",
+        "text": "地证"
+    },
+    "10050103": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 서브 name",
+        "id": 10050103,
+        "alias": "Contents.Quest.Name.50103",
+        "text": "结晶性传染病"
+    },
+    "10050104": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 서브 name",
+        "id": 10050104,
+        "alias": "Contents.Quest.Name.50104",
+        "text": "开发治疗剂"
+    },
+    "10050105": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 서브 name",
+        "id": 10050105,
+        "alias": "Contents.Quest.Name.50105",
+        "text": "研究员的第一份差事"
+    },
+    "10050106": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 서브 name",
+        "id": 10050106,
+        "alias": "Contents.Quest.Name.50106",
+        "text": "沙墓之蘑菇"
+    },
+    "18500000": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 협행 name",
+        "id": 18500000,
+        "alias": "Contents.Quest.Name.2500000",
+        "text": "[Lv.7]吃幼苗的小偷们"
+    },
+    "18500001": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 협행 name",
+        "id": 18500001,
+        "alias": "Contents.Quest.Name.2500001",
+        "text": "[Lv.7]湖中的海螺蟹"
+    },
+    "18500002": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 협행 name",
+        "id": 18500002,
+        "alias": "Contents.Quest.Name.2500002",
+        "text": "[Lv.7]头疼的小偷们"
+    },
+    "18500003": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 협행 name",
+        "id": 18500003,
+        "alias": "Contents.Quest.Name.2500003",
+        "text": "[Lv.7]有毒的蘑菇"
+    },
+    "18500004": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 협행 name",
+        "id": 18500004,
+        "alias": "Contents.Quest.Name.2500004",
+        "text": "[Lv.7]浅银湖荷叶人"
+    },
+    "18500005": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 협행 name",
+        "id": 18500005,
+        "alias": "Contents.Quest.Name.2500005",
+        "text": "[Lv.7]螃蟹刺猬"
+    },
+    "18500006": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 협행 name",
+        "id": 18500006,
+        "alias": "Contents.Quest.Name.2500006",
+        "text": "[Lv.7]除掉妨碍物"
+    },
+    "18500007": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 협행 name",
+        "id": 18500007,
+        "alias": "Contents.Quest.Name.2500007",
+        "text": "[Lv.7]坏习惯的狐狸"
+    },
+    "18500008": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 협행 name",
+        "id": 18500008,
+        "alias": "Contents.Quest.Name.2500008",
+        "text": "[Lv.6]拯救伐木地"
+    },
+    "18500009": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 협행 name",
+        "id": 18500009,
+        "alias": "Contents.Quest.Name.2500009",
+        "text": "[Lv.6]疾病的原因"
+    },
+    "18500010": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 협행 name",
+        "id": 18500010,
+        "alias": "Contents.Quest.Name.2500010",
+        "text": "[Lv.6]残忍的蜥人族"
+    },
+    "18500011": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 협행 name",
+        "id": 18500011,
+        "alias": "Contents.Quest.Name.2500011",
+        "text": "[Lv.7]龟湖养殖场"
+    },
+    "18500012": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 협행 name",
+        "id": 18500012,
+        "alias": "Contents.Quest.Name.2500012",
+        "text": "[Lv.7]湖边的乌龟"
+    },
+    "18500013": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 협행 name",
+        "id": 18500013,
+        "alias": "Contents.Quest.Name.2500013",
+        "text": "[Lv.8]手持剑的守护兵"
+    },
+    "18500014": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 협행 name",
+        "id": 18500014,
+        "alias": "Contents.Quest.Name.2500014",
+        "text": "[Lv.8]炮击的守护兵"
+    },
+    "18500015": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 협행 name",
+        "id": 18500015,
+        "alias": "Contents.Quest.Name.2500015",
+        "text": "[Lv.8]消除潜在危险"
+    },
+    "18500016": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 협행 name",
+        "id": 18500016,
+        "alias": "Contents.Quest.Name.2500016",
+        "text": "[Lv.8]遗迹的守护兵"
+    },
+    "18500017": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 협행 name",
+        "id": 18500017,
+        "alias": "Contents.Quest.Name.2500017",
+        "text": "[Lv.16]卑劣的矛头团"
+    },
+    "18500018": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 협행 name",
+        "id": 18500018,
+        "alias": "Contents.Quest.Name.2500018",
+        "text": "[Lv.16]成群的盗贼"
+    },
+    "18500019": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 협행 name",
+        "id": 18500019,
+        "alias": "Contents.Quest.Name.2500019",
+        "text": "[Lv.16]讨伐盗贼"
+    },
+    "18500020": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 협행 name",
+        "id": 18500020,
+        "alias": "Contents.Quest.Name.2500020",
+        "text": "[Lv.15]古老的精灵"
+    },
+    "18500022": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 협행 name",
+        "id": 18500022,
+        "alias": "Contents.Quest.Name.2500022",
+        "text": "[Lv.15]消灭捕食者"
+    },
+    "18500023": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 협행 name",
+        "id": 18500023,
+        "alias": "Contents.Quest.Name.2500023",
+        "text": "[Lv.15]森林之路的精灵"
+    },
+    "18500024": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 협행 name",
+        "id": 18500024,
+        "alias": "Contents.Quest.Name.2500024",
+        "text": "[Lv.14]为了医协"
+    },
+    "18500025": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 협행 name",
+        "id": 18500025,
+        "alias": "Contents.Quest.Name.2500025",
+        "text": "[Lv.14]斗夜团大攻势"
+    },
+    "18500026": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 협행 name",
+        "id": 18500026,
+        "alias": "Contents.Quest.Name.2500026",
+        "text": "[Lv.14]恶毒的斗夜团"
+    },
+    "18500027": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 협행 name",
+        "id": 18500027,
+        "alias": "Contents.Quest.Name.2500027",
+        "text": "[Lv.14]斗夜团攻击"
+    },
+    "18500028": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 협행 name",
+        "id": 18500028,
+        "alias": "Contents.Quest.Name.2500028",
+        "text": "[Lv.18]蜘蛛的墓地"
+    },
+    "18500029": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 협행 name",
+        "id": 18500029,
+        "alias": "Contents.Quest.Name.2500029",
+        "text": "[Lv.18]墓地的灵魂们"
+    },
+    "18500030": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 협행 name",
+        "id": 18500030,
+        "alias": "Contents.Quest.Name.2500030",
+        "text": "[Lv.18]墓地的鬼怪"
+    },
+    "18500031": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 협행 name",
+        "id": 18500031,
+        "alias": "Contents.Quest.Name.2500031",
+        "text": "[Lv.21]家畜的恐惧"
+    },
+    "18500032": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 협행 name",
+        "id": 18500032,
+        "alias": "Contents.Quest.Name.2500032",
+        "text": "[Lv.21]守护草场"
+    },
+    "18500033": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 협행 name",
+        "id": 18500033,
+        "alias": "Contents.Quest.Name.2500033",
+        "text": "[Lv.21]闪耀的的的叶子"
+    },
+    "18500034": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 협행 name",
+        "id": 18500034,
+        "alias": "Contents.Quest.Name.2500034",
+        "text": "[Lv.23]丘陵地的野生熊"
+    },
+    "18500035": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 협행 name",
+        "id": 18500035,
+        "alias": "Contents.Quest.Name.2500035",
+        "text": "[Lv.23]饥饿的老虎"
+    },
+    "18500036": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 협행 name",
+        "id": 18500036,
+        "alias": "Contents.Quest.Name.2500036",
+        "text": "[Lv.23]猛兽的巢穴"
+    },
+    "18500037": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 협행 name",
+        "id": 18500037,
+        "alias": "Contents.Quest.Name.2500037",
+        "text": "[Lv.26]阻断污染"
+    },
+    "18500038": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 협행 name",
+        "id": 18500038,
+        "alias": "Contents.Quest.Name.2500038",
+        "text": "[Lv.26]为了安全"
+    },
+    "18500039": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 협행 name",
+        "id": 18500039,
+        "alias": "Contents.Quest.Name.2500039",
+        "text": "[Lv.26]帮助苏瓦族"
+    },
+    "18500040": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 협행 name",
+        "id": 18500040,
+        "alias": "Contents.Quest.Name.2500040",
+        "text": "[Lv.27]帮助渔业"
+    },
+    "18500041": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 협행 name",
+        "id": 18500041,
+        "alias": "Contents.Quest.Name.2500041",
+        "text": "[Lv.28]恐怖的雷克顿们"
+    },
+    "18500042": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 협행 name",
+        "id": 18500042,
+        "alias": "Contents.Quest.Name.2500042",
+        "text": "[Lv.30]无法生存的土地"
+    },
+    "18500043": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 협행 name",
+        "id": 18500043,
+        "alias": "Contents.Quest.Name.2500043",
+        "text": "[Lv.30]只剩下皮的"
+    },
+    "18500044": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 협행 name",
+        "id": 18500044,
+        "alias": "Contents.Quest.Name.2500044",
+        "text": "[Lv.30]绝望的坑"
+    },
+    "18500501": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500501,
+        "alias": "Contents.Quest.Name.2500501",
+        "text": "[Lv.30]去除毒蘑菇"
+    },
+    "18500502": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500502,
+        "alias": "Contents.Quest.Name.2500502",
+        "text": "[Lv.30]可怕的蜘蛛"
+    },
+    "18500503": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500503,
+        "alias": "Contents.Quest.Name.2500503",
+        "text": "[Lv.30]李明的原因"
+    },
+    "18500504": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500504,
+        "alias": "Contents.Quest.Name.2500504",
+        "text": "[Lv.31]毫无理由的攻击"
+    },
+    "18500505": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500505,
+        "alias": "Contents.Quest.Name.2500505",
+        "text": "[Lv.31]奇怪的妙面族"
+    },
+    "18500506": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500506,
+        "alias": "Contents.Quest.Name.2500506",
+        "text": "[Lv.31]接连不断的攻击"
+    },
+    "18500507": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500507,
+        "alias": "Contents.Quest.Name.2500507",
+        "text": "[Lv.33]不协和音"
+    },
+    "18500508": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500508,
+        "alias": "Contents.Quest.Name.2500508",
+        "text": "[Lv.33]像瀑布一样骚乱的"
+    },
+    "18500509": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500509,
+        "alias": "Contents.Quest.Name.2500509",
+        "text": "[Lv.33]痛苦的噪音"
+    },
+    "18500510": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500510,
+        "alias": "Contents.Quest.Name.2500510",
+        "text": "[Lv.32]可怕的狼"
+    },
+    "18500511": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500511,
+        "alias": "Contents.Quest.Name.2500511",
+        "text": "[Lv.32]隐藏的危险"
+    },
+    "18500512": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500512,
+        "alias": "Contents.Quest.Name.2500512",
+        "text": "[Lv.32]虚假传闻"
+    },
+    "18500513": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500513,
+        "alias": "Contents.Quest.Name.2500513",
+        "text": "[Lv.34]获得蔚蓝的叶子"
+    },
+    "18500514": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500514,
+        "alias": "Contents.Quest.Name.2500514",
+        "text": "[Lv.34]小码头"
+    },
+    "18500515": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500515,
+        "alias": "Contents.Quest.Name.2500515",
+        "text": "[Lv.34]可疑的事情"
+    },
+    "18500516": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500516,
+        "alias": "Contents.Quest.Name.2500516",
+        "text": "[Lv.35]遇难船的亡灵"
+    },
+    "18500517": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500517,
+        "alias": "Contents.Quest.Name.2500517",
+        "text": "[Lv.35]海岸边的不速之客"
+    },
+    "18500518": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500518,
+        "alias": "Contents.Quest.Name.2500518",
+        "text": "[Lv.35]鬼怪的恶作剧"
+    },
+    "18500519": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500519,
+        "alias": "Contents.Quest.Name.2500519",
+        "text": "[Lv.37]为了移民"
+    },
+    "18500520": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500520,
+        "alias": "Contents.Quest.Name.2500520",
+        "text": "[Lv.39]恐怖的遇难船"
+    },
+    "18500521": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500521,
+        "alias": "Contents.Quest.Name.2500521",
+        "text": "[Lv.37]海岸盗贼"
+    },
+    "18500522": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500522,
+        "alias": "Contents.Quest.Name.2500522",
+        "text": "[Lv.40]不祥的征兆"
+    },
+    "18500523": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500523,
+        "alias": "Contents.Quest.Name.2500523",
+        "text": "[Lv.40]母角多鬼的武器"
+    },
+    "18500524": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500524,
+        "alias": "Contents.Quest.Name.2500524",
+        "text": "[Lv.40]凶恶的熊"
+    },
+    "18500525": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500525,
+        "alias": "Contents.Quest.Name.2500525",
+        "text": "[Lv.49]贵重的贝壳"
+    },
+    "18500526": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500526,
+        "alias": "Contents.Quest.Name.2500526",
+        "text": "[Lv.49]蜂拥而至的爆发"
+    },
+    "18500527": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500527,
+        "alias": "Contents.Quest.Name.2500527",
+        "text": "[Lv.49]消失的工具"
+    },
+    "18500528": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500528,
+        "alias": "Contents.Quest.Name.2500528",
+        "text": "[Lv.49]海边的宝石"
+    },
+    "18500529": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500529,
+        "alias": "Contents.Quest.Name.2500529",
+        "text": "[Lv.41]阻止狼训练"
+    },
+    "18500530": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500530,
+        "alias": "Contents.Quest.Name.2500530",
+        "text": "[Lv.41]凶恶的盗贼"
+    },
+    "18500531": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500531,
+        "alias": "Contents.Quest.Name.2500531",
+        "text": "[Lv.41]红色面具"
+    },
+    "18500532": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500532,
+        "alias": "Contents.Quest.Name.2500532",
+        "text": "[Lv.42]攻击性的烟头"
+    },
+    "18500533": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500533,
+        "alias": "Contents.Quest.Name.2500533",
+        "text": "[Lv.42]月光风的欢迎"
+    },
+    "18500534": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500534,
+        "alias": "Contents.Quest.Name.2500534",
+        "text": "[Lv.42]欢迎主子"
+    },
+    "18500535": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500535,
+        "alias": "Contents.Quest.Name.2500535",
+        "text": "[Lv.42]解除危险"
+    },
+    "18500536": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500536,
+        "alias": "Contents.Quest.Name.2500536",
+        "text": "[Lv.43]垂死之地"
+    },
+    "18500537": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500537,
+        "alias": "Contents.Quest.Name.2500537",
+        "text": "[Lv.43]可怕的猛兽"
+    },
+    "18500538": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500538,
+        "alias": "Contents.Quest.Name.2500538",
+        "text": "[Lv.43]欢迎的原因"
+    },
+    "18500539": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500539,
+        "alias": "Contents.Quest.Name.2500539",
+        "text": "[Lv.43]欢迎梅花丹主"
+    },
+    "18500540": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500540,
+        "alias": "Contents.Quest.Name.2500540",
+        "text": "[Lv.44]危险的蘑菇"
+    },
+    "18500541": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500541,
+        "alias": "Contents.Quest.Name.2500541",
+        "text": "[Lv.44]先发制人攻击"
+    },
+    "18500542": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500542,
+        "alias": "Contents.Quest.Name.2500542",
+        "text": "[Lv.44]危险的安全"
+    },
+    "18500543": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500543,
+        "alias": "Contents.Quest.Name.2500543",
+        "text": "[Lv.45]为了开拓者"
+    },
+    "18500544": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500544,
+        "alias": "Contents.Quest.Name.2500544",
+        "text": "[Lv.45]亡者的安息"
+    },
+    "18500545": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500545,
+        "alias": "Contents.Quest.Name.2500546",
+        "text": "[Lv.46]请求支援"
+    },
+    "18500546": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500546,
+        "alias": "Contents.Quest.Name.2500547",
+        "text": "[Lv.46]锋利的乌龟"
+    },
+    "18500547": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500547,
+        "alias": "Contents.Quest.Name.2500548",
+        "text": "[Lv.47]迷惑的烟头"
+    },
+    "18500548": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500548,
+        "alias": "Contents.Quest.Name.2500549",
+        "text": "[Lv.47]妙面族的袭击"
+    },
+    "18500549": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500549,
+        "alias": "Contents.Quest.Name.2500550",
+        "text": "[Lv.47]食人植物"
+    },
+    "18500550": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500550,
+        "alias": "Contents.Quest.Name.2500551",
+        "text": "[Lv.47]乐园族的攻击"
+    },
+    "18500551": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500551,
+        "alias": "Contents.Quest.Name.2500552",
+        "text": "[Lv.47]风土病特效药"
+    },
+    "18500552": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500552,
+        "alias": "Contents.Quest.Name.2500553",
+        "text": "[Lv.47]乐园的瀑布"
+    },
+    "18500553": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500553,
+        "alias": "Contents.Quest.Name.2500554",
+        "text": "[Lv.48]坡路上的诗鬼"
+    },
+    "18500554": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500554,
+        "alias": "Contents.Quest.Name.2500555",
+        "text": "[Lv.48]特产品开发"
+    },
+    "18500555": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500555,
+        "alias": "Contents.Quest.Name.2500556",
+        "text": "[Lv.48]饥饿的蜘蛛"
+    },
+    "18500556": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500556,
+        "alias": "Contents.Quest.Name.2500557",
+        "text": "[Lv.48]食性调查"
+    },
+    "18500557": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500557,
+        "alias": "Contents.Quest.Name.2500558",
+        "text": "[Lv.49]高原掠夺者"
+    },
+    "18500558": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500558,
+        "alias": "Contents.Quest.Name.2500559",
+        "text": "[Lv.49]药草师三色鸟"
+    },
+    "18500559": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500559,
+        "alias": "Contents.Quest.Name.2500560",
+        "text": "[Lv.49]不安定的鬼"
+    },
+    "18500560": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500560,
+        "alias": "Contents.Quest.Name.2500561",
+        "text": "[Lv.51]怪僻的妙面族"
+    },
+    "18500561": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500561,
+        "alias": "Contents.Quest.Name.2500562",
+        "text": "[Lv.51]柔软的皮革"
+    },
+    "18500562": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500562,
+        "alias": "Contents.Quest.Name.2500563",
+        "text": "[Lv.51]药草师的担心"
+    },
+    "18500563": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500563,
+        "alias": "Contents.Quest.Name.2500564",
+        "text": "[Lv.50]黑暗中的雷克顿"
+    },
+    "18500564": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500564,
+        "alias": "Contents.Quest.Name.2500565",
+        "text": "[Lv.50]减少牺牲者"
+    },
+    "18500565": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500565,
+        "alias": "Contents.Quest.Name.2500566",
+        "text": "[Lv.50]讨伐泥土蜘蛛"
+    },
+    "18500566": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500566,
+        "alias": "Contents.Quest.Name.2500567",
+        "text": "[Lv.30]确保森林之路"
+    },
+    "18500567": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500567,
+        "alias": "Contents.Quest.Name.2500568",
+        "text": "[Lv.31]阻止掠夺"
+    },
+    "18500568": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500568,
+        "alias": "Contents.Quest.Name.2500569",
+        "text": "[Lv.33]保护运输员"
+    },
+    "18500569": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500569,
+        "alias": "Contents.Quest.Name.2500570",
+        "text": "[Lv.33]缝隙的影响"
+    },
+    "18500570": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500570,
+        "alias": "Contents.Quest.Name.2500571",
+        "text": "[Lv.34]紧急通知"
+    },
+    "18500571": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500571,
+        "alias": "Contents.Quest.Name.2500572",
+        "text": "[Lv.39]为了人们"
+    },
+    "18500572": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500572,
+        "alias": "Contents.Quest.Name.2500573",
+        "text": "[Lv.39]棘手的任务"
+    },
+    "18500573": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500573,
+        "alias": "Contents.Quest.Name.2500574",
+        "text": "[Lv.39]明慧团员的请求"
+    },
+    "18500574": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500574,
+        "alias": "Contents.Quest.Name.2500575",
+        "text": "[Lv.39]桃花商战的提案"
+    },
+    "18500575": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500575,
+        "alias": "Contents.Quest.Name.2500576",
+        "text": "[Lv.39]疑问的诗句"
+    },
+    "18500576": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500576,
+        "alias": "Contents.Quest.Name.2500577",
+        "text": "[Lv.37]探索创道丹"
+    },
+    "18500577": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500577,
+        "alias": "Contents.Quest.Name.2500578",
+        "text": "[Lv.37]商团的反击"
+    },
+    "18500578": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500578,
+        "alias": "Contents.Quest.Name.2500579",
+        "text": "[Lv.37]缝隙的余波"
+    },
+    "18500579": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500579,
+        "alias": "Contents.Quest.Name.2500580",
+        "text": "[Lv.41]侦察血匪牌"
+    },
+    "18500580": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500580,
+        "alias": "Contents.Quest.Name.2500581",
+        "text": "[Lv.41]奇怪的动作"
+    },
+    "18500581": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500581,
+        "alias": "Contents.Quest.Name.2500582",
+        "text": "[Lv.45]找回名堂"
+    },
+    "18500582": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500582,
+        "alias": "Contents.Quest.Name.2500583",
+        "text": "[Lv.45]墓地盗贼"
+    },
+    "18500583": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500583,
+        "alias": "Contents.Quest.Name.2500584",
+        "text": "[Lv.46]被破坏的自豪感"
+    },
+    "18500584": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500584,
+        "alias": "Contents.Quest.Name.2500585",
+        "text": "[Lv.46]桃花主子的神医"
+    },
+    "18500585": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500585,
+        "alias": "Contents.Quest.Name.2500586",
+        "text": "[Lv.46]首阳的不名誉"
+    },
+    "18500586": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500586,
+        "alias": "Contents.Quest.Name.2500587",
+        "text": "[Lv.50]泥土的可能性"
+    },
+    "18500587": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500587,
+        "alias": "Contents.Quest.Name.2500588",
+        "text": "[Lv.50]明慧丹的计划"
+    },
+    "18500588": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500588,
+        "alias": "Contents.Quest.Name.2500589",
+        "text": "[Lv.50]危险地区"
+    },
+    "18500589": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 name",
+        "id": 18500589,
+        "alias": "Contents.Quest.Name.2500590",
+        "text": "[Lv.50]不安的变化"
+    },
+    "18501001": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18501001,
+        "alias": "Contents.Quest.Name.2501001",
+        "text": "[Lv.50]具有威胁性的红豚族"
+    },
+    "18501002": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18501002,
+        "alias": "Contents.Quest.Name.2501002",
+        "text": "[Lv.50]高级玩具"
+    },
+    "18501003": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18501003,
+        "alias": "Contents.Quest.Name.2501003",
+        "text": "[Lv.51]凶猛的狼"
+    },
+    "18501004": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18501004,
+        "alias": "Contents.Quest.Name.2501004",
+        "text": "[Lv.51]风土病治疗"
+    },
+    "18501005": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18501005,
+        "alias": "Contents.Quest.Name.2501005",
+        "text": "[Lv.51]赶走红豚族"
+    },
+    "18501006": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18501006,
+        "alias": "Contents.Quest.Name.2501006",
+        "text": "[Lv.51]红豚族无力化"
+    },
+    "18501007": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18501007,
+        "alias": "Contents.Quest.Name.2501007",
+        "text": "[Lv.51]红豚族的粮食"
+    },
+    "18501008": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18501008,
+        "alias": "Contents.Quest.Name.2501008",
+        "text": "[Lv.52]妨碍道路的人"
+    },
+    "18501009": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18501009,
+        "alias": "Contents.Quest.Name.2501009",
+        "text": "[Lv.52]好好用的话就吃药"
+    },
+    "18501010": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18501010,
+        "alias": "Contents.Quest.Name.2501010",
+        "text": "[Lv.52]怨恨的精灵"
+    },
+    "18501011": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18501011,
+        "alias": "Contents.Quest.Name.2501011",
+        "text": "[Lv.53]不公平的恶作剧"
+    },
+    "18501012": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18501012,
+        "alias": "Contents.Quest.Name.2501012",
+        "text": "[Lv.53]原野的黑暗"
+    },
+    "18501013": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18501013,
+        "alias": "Contents.Quest.Name.2501013",
+        "text": "[Lv.53]砍树的地方"
+    },
+    "18501014": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18501014,
+        "alias": "Contents.Quest.Name.2501014",
+        "text": "[Lv.54]夜晚的入侵者"
+    },
+    "18501015": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18501015,
+        "alias": "Contents.Quest.Name.2501015",
+        "text": "[Lv.54]噪音诱发者"
+    },
+    "18501016": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18501016,
+        "alias": "Contents.Quest.Name.2501016",
+        "text": "[Lv.54]茎研究"
+    },
+    "18501017": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18501017,
+        "alias": "Contents.Quest.Name.2501017",
+        "text": "[Lv.54]守护最前方"
+    },
+    "18501018": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18501018,
+        "alias": "Contents.Quest.Name.2501018",
+        "text": "[Lv.54]阻断谣言"
+    },
+    "18501019": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18501019,
+        "alias": "Contents.Quest.Name.2501019",
+        "text": "[Lv.54]森林的危险要素"
+    },
+    "18501020": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18501020,
+        "alias": "Contents.Quest.Name.2501020",
+        "text": "[Lv.54]风白门支援"
+    },
+    "18501021": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18501021,
+        "alias": "Contents.Quest.Name.2501021",
+        "text": "[Lv.54]黑色清晨的短肢削弱"
+    },
+    "18501022": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18501022,
+        "alias": "Contents.Quest.Name.2501022",
+        "text": "[Lv.54]巫师与毒术士"
+    },
+    "18501023": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18501023,
+        "alias": "Contents.Quest.Name.2501023",
+        "text": "[Lv.55]变了的老虎"
+    },
+    "18501024": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18501024,
+        "alias": "Contents.Quest.Name.2501024",
+        "text": "[Lv.55]肥沃研究标本"
+    },
+    "18501025": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18501025,
+        "alias": "Contents.Quest.Name.2501025",
+        "text": "[Lv.55]红眼蜥人族"
+    },
+    "18501026": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18501026,
+        "alias": "Contents.Quest.Name.2501026",
+        "text": "[Lv.55]失去灵魂的人们"
+    },
+    "18501027": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18501027,
+        "alias": "Contents.Quest.Name.2501027",
+        "text": "[Lv.55]废墟之火马扎"
+    },
+    "18501028": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18501028,
+        "alias": "Contents.Quest.Name.2501028",
+        "text": "[Lv.55]火魔子研究"
+    },
+    "18501029": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18501029,
+        "alias": "Contents.Quest.Name.2501029",
+        "text": "[Lv.55]从深渊上来的"
+    },
+    "18501030": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18501030,
+        "alias": "Contents.Quest.Name.2501030",
+        "text": "[Lv.55]肥沃粉"
+    },
+    "18501031": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18501031,
+        "alias": "Contents.Quest.Name.2501031",
+        "text": "[Lv.55]过去的痕迹"
+    },
+    "18501032": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18501032,
+        "alias": "Contents.Quest.Name.2501032",
+        "text": "[Lv.60]漂泊的冤魂"
+    },
+    "18501033": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18501033,
+        "alias": "Contents.Quest.Name.2501033",
+        "text": "[Lv.60]不能拖延的事情"
+    },
+    "18501034": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18501034,
+        "alias": "Contents.Quest.Name.2501034",
+        "text": "[Lv.60]狩猎的代价"
+    },
+    "18501035": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18501035,
+        "alias": "Contents.Quest.Name.2501035",
+        "text": "[Lv.56]正好的治疗剂"
+    },
+    "18501036": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18501036,
+        "alias": "Contents.Quest.Name.2501036",
+        "text": "[Lv.56]鹿捕食者"
+    },
+    "18501037": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18501037,
+        "alias": "Contents.Quest.Name.2501037",
+        "text": "[Lv.56]无耻的偷猎团"
+    },
+    "18501038": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18501038,
+        "alias": "Contents.Quest.Name.2501038",
+        "text": "[Lv.56]妨碍休息的"
+    },
+    "18501039": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18501039,
+        "alias": "Contents.Quest.Name.2501039",
+        "text": "[Lv.56]追赶人的鸟"
+    },
+    "18501040": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18501040,
+        "alias": "Contents.Quest.Name.2501040",
+        "text": "[Lv.56]华丽的羽毛"
+    },
+    "18501041": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18501041,
+        "alias": "Contents.Quest.Name.2501041",
+        "text": "[Lv.56]斗烟研究"
+    },
+    "18501042": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18501042,
+        "alias": "Contents.Quest.Name.2501042",
+        "text": "[Lv.56]卓会岩的影响"
+    },
+    "18501043": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18501043,
+        "alias": "Contents.Quest.Name.2501043",
+        "text": "[Lv.56]危险的森林"
+    },
+    "18501044": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18501044,
+        "alias": "Contents.Quest.Name.2501044",
+        "text": "[Lv.56]徘徊的潭印草"
+    },
+    "18501045": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18501045,
+        "alias": "Contents.Quest.Name.2501045",
+        "text": "[Lv.56]生火植物"
+    },
+    "18501046": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18501046,
+        "alias": "Contents.Quest.Name.2501046",
+        "text": "[Lv.56]携带病菌的幼虫"
+    },
+    "18501047": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18501047,
+        "alias": "Contents.Quest.Name.2501047",
+        "text": "[Lv.57]粮食供应"
+    },
+    "18501048": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18501048,
+        "alias": "Contents.Quest.Name.2501048",
+        "text": "[Lv.57]奇怪的存在"
+    },
+    "18501049": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18501049,
+        "alias": "Contents.Quest.Name.2501049",
+        "text": "[Lv.57]确认身份"
+    },
+    "18501050": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18501050,
+        "alias": "Contents.Quest.Name.2501050",
+        "text": "[Lv.56]特产品竞争"
+    },
+    "18501051": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18501051,
+        "alias": "Contents.Quest.Name.2501051",
+        "text": "[Lv.56]无法移动"
+    },
+    "18501052": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18501052,
+        "alias": "Contents.Quest.Name.2501052",
+        "text": "[Lv.59]蓝色盗贼群"
+    },
+    "18501053": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18501053,
+        "alias": "Contents.Quest.Name.2501053",
+        "text": "[Lv.59]争取时间"
+    },
+    "18501054": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18501054,
+        "alias": "Contents.Quest.Name.2501054",
+        "text": "[Lv.58]收集线索"
+    },
+    "18501055": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 협행 name",
+        "id": 18501055,
+        "alias": "Contents.Quest.Name.2501055",
+        "text": "[Lv.58]武装的清人族"
+    },
+    "10035000": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 지역탐사",
+        "id": 10035000,
+        "alias": "Contents.Quest.Name.35000",
+        "text": "[Lv.30]探索（蜘蛛森林路）"
+    },
+    "10035001": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 지역탐사",
+        "id": 10035001,
+        "alias": "Contents.Quest.Name.35001",
+        "text": "[Lv.30]探索（蜘蛛森林路）"
+    },
+    "10035002": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 지역탐사",
+        "id": 10035002,
+        "alias": "Contents.Quest.Name.35002",
+        "text": "[Lv.31]勘探（东部生态组…）"
+    },
+    "10035003": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 지역탐사",
+        "id": 10035003,
+        "alias": "Contents.Quest.Name.35003",
+        "text": "[Lv.31]勘探（东部生态组…）"
+    },
+    "10035004": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 지역탐사",
+        "id": 10035004,
+        "alias": "Contents.Quest.Name.35004",
+        "text": "[Lv.32]勘探（绿色角之森）"
+    },
+    "10035005": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 지역탐사",
+        "id": 10035005,
+        "alias": "Contents.Quest.Name.35005",
+        "text": "[Lv.32]勘探（绿色角之森）"
+    },
+    "10035006": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 지역탐사",
+        "id": 10035006,
+        "alias": "Contents.Quest.Name.35006",
+        "text": "[Lv.33]勘探（曼陀罗瀑布前）"
+    },
+    "10035007": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 지역탐사",
+        "id": 10035007,
+        "alias": "Contents.Quest.Name.35007",
+        "text": "[Lv.33]勘探（曼陀罗瀑布前）"
+    },
+    "10035008": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 지역탐사",
+        "id": 10035008,
+        "alias": "Contents.Quest.Name.35008",
+        "text": "[Lv.34]勘探（细沙河口）"
+    },
+    "10035009": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 지역탐사",
+        "id": 10035009,
+        "alias": "Contents.Quest.Name.35009",
+        "text": "[Lv.34]勘探（废弃的监视塔）"
+    },
+    "10035010": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 지역탐사",
+        "id": 10035010,
+        "alias": "Contents.Quest.Name.35010",
+        "text": "[Lv.34]勘探（废弃的监视塔）"
+    },
+    "10035011": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 지역탐사",
+        "id": 10035011,
+        "alias": "Contents.Quest.Name.35011",
+        "text": "[Lv.35]勘探（遇难船的残骸）"
+    },
+    "10035012": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 지역탐사",
+        "id": 10035012,
+        "alias": "Contents.Quest.Name.35012",
+        "text": "[Lv.35]勘探（遇难船的残骸）"
+    },
+    "10035013": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 지역탐사",
+        "id": 10035013,
+        "alias": "Contents.Quest.Name.35013",
+        "text": "[Lv.37]探索（没有脚印的…）"
+    },
+    "10035014": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 지역탐사",
+        "id": 10035014,
+        "alias": "Contents.Quest.Name.35014",
+        "text": "[Lv.37]探索（没有脚印的…）"
+    },
+    "10035015": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 지역탐사",
+        "id": 10035015,
+        "alias": "Contents.Quest.Name.35015",
+        "text": "[Lv.39]勘探（遇难船的坟墓）"
+    },
+    "10035016": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 지역탐사",
+        "id": 10035016,
+        "alias": "Contents.Quest.Name.35016",
+        "text": "[Lv.39]勘探（遇难船的坟墓）"
+    },
+    "10035017": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 지역탐사",
+        "id": 10035017,
+        "alias": "Contents.Quest.Name.35017",
+        "text": "[Lv.40]勘探（山谷风路）"
+    },
+    "10035018": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 지역탐사",
+        "id": 10035018,
+        "alias": "Contents.Quest.Name.35018",
+        "text": "[Lv.40]勘探（山谷风路）"
+    },
+    "10035019": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 지역탐사",
+        "id": 10035019,
+        "alias": "Contents.Quest.Name.35019",
+        "text": "[Lv.41]勘探（血雨之森）"
+    },
+    "10035020": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 지역탐사",
+        "id": 10035020,
+        "alias": "Contents.Quest.Name.35020",
+        "text": "[Lv.41]勘探（血雨之森）"
+    },
+    "10035021": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 지역탐사",
+        "id": 10035021,
+        "alias": "Contents.Quest.Name.35021",
+        "text": "[Lv.42]勘探（树荫南部）"
+    },
+    "10035022": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 지역탐사",
+        "id": 10035022,
+        "alias": "Contents.Quest.Name.35022",
+        "text": "[Lv.42]勘探（树荫南部）"
+    },
+    "10035023": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 지역탐사",
+        "id": 10035023,
+        "alias": "Contents.Quest.Name.35023",
+        "text": "[Lv.43]探索（枯竭的…）"
+    },
+    "10035024": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 지역탐사",
+        "id": 10035024,
+        "alias": "Contents.Quest.Name.35024",
+        "text": "[Lv.43]探索（枯竭的…）"
+    },
+    "10035025": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 지역탐사",
+        "id": 10035025,
+        "alias": "Contents.Quest.Name.35025",
+        "text": "[Lv.44]探索（蛇菇群落）"
+    },
+    "10035026": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 지역탐사",
+        "id": 10035026,
+        "alias": "Contents.Quest.Name.35026",
+        "text": "[Lv.44]探索（蛇菇群落）"
+    },
+    "10035027": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 지역탐사",
+        "id": 10035027,
+        "alias": "Contents.Quest.Name.35027",
+        "text": "[Lv.45]探索（开拓者慰灵…）"
+    },
+    "10035028": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 지역탐사",
+        "id": 10035028,
+        "alias": "Contents.Quest.Name.35028",
+        "text": "[Lv.45]探索（开拓者慰灵…）"
+    },
+    "10035029": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 지역탐사",
+        "id": 10035029,
+        "alias": "Contents.Quest.Name.35029",
+        "text": "[Lv.46]探索（参考妖林）"
+    },
+    "10035030": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 지역탐사",
+        "id": 10035030,
+        "alias": "Contents.Quest.Name.35030",
+        "text": "[Lv.46]探索（参考妖林）"
+    },
+    "10035031": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 지역탐사",
+        "id": 10035031,
+        "alias": "Contents.Quest.Name.35031",
+        "text": "[Lv.47]勘探（潭仁草湿地）"
+    },
+    "10035032": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 지역탐사",
+        "id": 10035032,
+        "alias": "Contents.Quest.Name.35032",
+        "text": "[Lv.47]勘探（潭仁草湿地）"
+    },
+    "10035033": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 지역탐사",
+        "id": 10035033,
+        "alias": "Contents.Quest.Name.35033",
+        "text": "[Lv.47]探索（乐园丘陵）"
+    },
+    "10035034": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 지역탐사",
+        "id": 10035034,
+        "alias": "Contents.Quest.Name.35034",
+        "text": "[Lv.47]探索（乐园丘陵）"
+    },
+    "10035035": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 지역탐사",
+        "id": 10035035,
+        "alias": "Contents.Quest.Name.35035",
+        "text": "[Lv.49]勘探（鬼怪海边）"
+    },
+    "10035036": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 지역탐사",
+        "id": 10035036,
+        "alias": "Contents.Quest.Name.35036",
+        "text": "[Lv.49]勘探（鬼怪海边）"
+    },
+    "10035037": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 지역탐사",
+        "id": 10035037,
+        "alias": "Contents.Quest.Name.35037",
+        "text": "[Lv.50]勘探（黑泥地带）"
+    },
+    "10035038": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 지역탐사",
+        "id": 10035038,
+        "alias": "Contents.Quest.Name.35038",
+        "text": "[Lv.50]勘探（黑泥地带）"
+    },
+    "10035039": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 지역탐사",
+        "id": 10035039,
+        "alias": "Contents.Quest.Name.35039",
+        "text": "[Lv.51]勘探（迎日坡路）"
+    },
+    "10035040": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 지역탐사",
+        "id": 10035040,
+        "alias": "Contents.Quest.Name.35040",
+        "text": "[Lv.51]勘探（迎日坡路）"
+    },
+    "10035041": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 지역탐사",
+        "id": 10035041,
+        "alias": "Contents.Quest.Name.35041",
+        "text": "[Lv.48]探索（草之音坡路）"
+    },
+    "10035042": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 지역탐사",
+        "id": 10035042,
+        "alias": "Contents.Quest.Name.35042",
+        "text": "[Lv.48]探索（草之音坡路）"
+    },
+    "10035043": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 지역탐사",
+        "id": 10035043,
+        "alias": "Contents.Quest.Name.35043",
+        "text": "[Lv.49]勘探（瀑布南部森林）"
+    },
+    "10035044": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 지역탐사",
+        "id": 10035044,
+        "alias": "Contents.Quest.Name.35044",
+        "text": "[Lv.49]勘探（瀑布南部森林）"
+    },
+    "10035045": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 지역탐사",
+        "id": 10035045,
+        "alias": "Contents.Quest.Name.35045",
+        "text": "[Lv.49]勘探（瀑布南部森林）"
+    },
+    "10035046": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 지역탐사",
+        "id": 10035046,
+        "alias": "Contents.Quest.Name.35046",
+        "text": "[Lv.49]勘探（水雾高原）"
+    },
+    "10035047": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 지역탐사",
+        "id": 10035047,
+        "alias": "Contents.Quest.Name.35047",
+        "text": "[Lv.49]勘探（水雾高原）"
+    },
+    "10035048": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 지역탐사",
+        "id": 10035048,
+        "alias": "Contents.Quest.Name.35048",
+        "text": "[Lv.42]勘探（树荫北部）"
+    },
+    "10035049": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 지역탐사",
+        "id": 10035049,
+        "alias": "Contents.Quest.Name.35049",
+        "text": "[Lv.42]勘探（树荫北部）"
+    },
+    "10035050": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 지역탐사",
+        "id": 10035050,
+        "alias": "Contents.Quest.Name.35050",
+        "text": "[Lv.32]勘探（丘陵森林）"
+    },
+    "10035051": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 지역탐사",
+        "id": 10035051,
+        "alias": "Contents.Quest.Name.35051",
+        "text": "[Lv.34]勘探（细沙河口）"
+    },
+    "10055000": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 서포트 name",
+        "id": 10055000,
+        "alias": "Contents.Quest.Name.55000",
+        "text": "[Lv.50]勘探（红坡）"
+    },
+    "10055001": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 서포트 name",
+        "id": 10055001,
+        "alias": "Contents.Quest.Name.55001",
+        "text": "[Lv.50]勘探（红坡）"
+    },
+    "10055002": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 서포트 name",
+        "id": 10055002,
+        "alias": "Contents.Quest.Name.55002",
+        "text": "[Lv.51]勘探（红色森林路）"
+    },
+    "10055003": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 서포트 name",
+        "id": 10055003,
+        "alias": "Contents.Quest.Name.55003",
+        "text": "[Lv.51]勘探（红色森林路）"
+    },
+    "10055004": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 서포트 name",
+        "id": 10055004,
+        "alias": "Contents.Quest.Name.55004",
+        "text": "[Lv.54]勘探（元灵之丘）"
+    },
+    "10055005": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 서포트 name",
+        "id": 10055005,
+        "alias": "Contents.Quest.Name.55005",
+        "text": "[Lv.54]勘探（元灵之丘）"
+    },
+    "10055006": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 서포트 name",
+        "id": 10055006,
+        "alias": "Contents.Quest.Name.55006",
+        "text": "[Lv.52]探索（红叶鲁乙谷…）"
+    },
+    "10055007": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 서포트 name",
+        "id": 10055007,
+        "alias": "Contents.Quest.Name.55007",
+        "text": "[Lv.52]探索（红叶鲁乙谷…）"
+    },
+    "10055008": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 서포트 name",
+        "id": 10055008,
+        "alias": "Contents.Quest.Name.55008",
+        "text": "[Lv.53]勘探（谜底原野）"
+    },
+    "10055009": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 서포트 name",
+        "id": 10055009,
+        "alias": "Contents.Quest.Name.55009",
+        "text": "[Lv.54]勘探（伐木地）"
+    },
+    "10055010": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 서포트 name",
+        "id": 10055010,
+        "alias": "Contents.Quest.Name.55010",
+        "text": "[Lv.54]勘探（伐木地）"
+    },
+    "10055011": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 서포트 name",
+        "id": 10055011,
+        "alias": "Contents.Quest.Name.55011",
+        "text": "[Lv.54]探索（森林的帐幕）"
+    },
+    "10055012": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 서포트 name",
+        "id": 10055012,
+        "alias": "Contents.Quest.Name.55012",
+        "text": "[Lv.55]探索（灰色丛林）"
+    },
+    "10055013": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 서포트 name",
+        "id": 10055013,
+        "alias": "Contents.Quest.Name.55013",
+        "text": "[Lv.55]探索（灰色丛林）"
+    },
+    "10055014": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 서포트 name",
+        "id": 10055014,
+        "alias": "Contents.Quest.Name.55014",
+        "text": "[Lv.55]勘探（肥沃废墟）"
+    },
+    "10055015": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 서포트 name",
+        "id": 10055015,
+        "alias": "Contents.Quest.Name.55015",
+        "text": "[Lv.55]勘探（肥沃废墟）"
+    },
+    "10055016": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 서포트 name",
+        "id": 10055016,
+        "alias": "Contents.Quest.Name.55016",
+        "text": "[Lv.55]勘探（肥沃的发掘地）"
+    },
+    "10055017": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 서포트 name",
+        "id": 10055017,
+        "alias": "Contents.Quest.Name.55017",
+        "text": "[Lv.55]勘探（肥沃的发掘地）"
+    },
+    "10055018": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 서포트 name",
+        "id": 10055018,
+        "alias": "Contents.Quest.Name.55018",
+        "text": "[Lv.56]探索（红角之路）"
+    },
+    "10055019": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 서포트 name",
+        "id": 10055019,
+        "alias": "Contents.Quest.Name.55019",
+        "text": "[Lv.56]探索（红角之路）"
+    },
+    "10055020": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 서포트 name",
+        "id": 10055020,
+        "alias": "Contents.Quest.Name.55020",
+        "text": "[Lv.56]探索（梦境之森）"
+    },
+    "10055021": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 서포트 name",
+        "id": 10055021,
+        "alias": "Contents.Quest.Name.55021",
+        "text": "[Lv.56]探索（梦境之森）"
+    },
+    "10055022": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 서포트 name",
+        "id": 10055022,
+        "alias": "Contents.Quest.Name.55022",
+        "text": "[Lv.56]勘探（破石的喝彩）"
+    },
+    "10055023": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 서포트 name",
+        "id": 10055023,
+        "alias": "Contents.Quest.Name.55023",
+        "text": "[Lv.56]勘探（破石的喝彩）"
+    },
+    "10055024": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 서포트 name",
+        "id": 10055024,
+        "alias": "Contents.Quest.Name.55024",
+        "text": "[Lv.56]勘探（破石的喝彩）"
+    },
+    "10055025": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 서포트 name",
+        "id": 10055025,
+        "alias": "Contents.Quest.Name.55025",
+        "text": "[Lv.56]勘探（高耸的岩山）"
+    },
+    "10055026": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 서포트 name",
+        "id": 10055026,
+        "alias": "Contents.Quest.Name.55026",
+        "text": "[Lv.56]勘探（高耸的岩山）"
+    },
+    "10055027": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 서포트 name",
+        "id": 10055027,
+        "alias": "Contents.Quest.Name.55027",
+        "text": "[Lv.56]勘探（石淼精正义之森）"
+    },
+    "10055028": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 서포트 name",
+        "id": 10055028,
+        "alias": "Contents.Quest.Name.55028",
+        "text": "[Lv.56]勘探（石淼精正义之森）"
+    },
+    "10055029": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 서포트 name",
+        "id": 10055029,
+        "alias": "Contents.Quest.Name.55029",
+        "text": "[Lv.57]勘探（高耸入云的岩石镜…）"
+    },
+    "10055030": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 서포트 name",
+        "id": 10055030,
+        "alias": "Contents.Quest.Name.55030",
+        "text": "[Lv.57]勘探（高耸入云的岩石镜…）"
+    },
+    "10055031": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 서포트 name",
+        "id": 10055031,
+        "alias": "Contents.Quest.Name.55031",
+        "text": "[Lv.58]勘探（卓会岩峡谷）"
+    },
+    "10055032": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 서포트 name",
+        "id": 10055032,
+        "alias": "Contents.Quest.Name.55032",
+        "text": "[Lv.58]勘探（卓会岩峡谷）"
+    },
+    "10055033": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 서포트 name",
+        "id": 10055033,
+        "alias": "Contents.Quest.Name.55033",
+        "text": "[Lv.58]勘探（卓会岩峡谷）"
+    },
+    "10055034": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 서포트 name",
+        "id": 10055034,
+        "alias": "Contents.Quest.Name.55034",
+        "text": "[Lv.59]勘探（龙头串）"
+    },
+    "10055035": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 서포트 name",
+        "id": 10055035,
+        "alias": "Contents.Quest.Name.55035",
+        "text": "[Lv.59]勘探（龙头串）"
+    },
+    "10055036": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 서포트 name",
+        "id": 10055036,
+        "alias": "Contents.Quest.Name.55036",
+        "text": "[Lv.59]勘探（龙头串）"
+    },
+    "10055037": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 서포트 name",
+        "id": 10055037,
+        "alias": "Contents.Quest.Name.55037",
+        "text": "[Lv.60]探索（灾难的藏身处）"
+    },
+    "10055038": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 서포트 name",
+        "id": 10055038,
+        "alias": "Contents.Quest.Name.55038",
+        "text": "[Lv.60]探索（灾难的藏身处）"
+    },
+    "10040000": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 에픽 퀘스트 name",
+        "id": 10040000,
+        "alias": "Contents.Quest.Name.40000",
+        "text": "被背叛的红豚"
+    },
+    "10040001": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 에픽 퀘스트 name",
+        "id": 10040001,
+        "alias": "Contents.Quest.Name.40001",
+        "text": "侍奉黑暗的人们"
+    },
+    "10040002": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 에픽 퀘스트 name",
+        "id": 10040002,
+        "alias": "Contents.Quest.Name.40002",
+        "text": "风伯的疼痛手指"
+    },
+    "10040003": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 에픽 퀘스트 name",
+        "id": 10040003,
+        "alias": "Contents.Quest.Name.40003",
+        "text": "开裂"
+    },
+    "10040005": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 에픽 퀘스트 name",
+        "id": 10040005,
+        "alias": "Contents.Quest.Name.40005",
+        "text": "第 1 章"
+    },
+    "10040006": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 에픽 퀘스트 name",
+        "id": 10040006,
+        "alias": "Contents.Quest.Name.40006",
+        "text": "第 2 章"
+    },
+    "10040007": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 에픽 퀘스트 name",
+        "id": 10040007,
+        "alias": "Contents.Quest.Name.40007",
+        "text": "第 3 章"
+    },
+    "10040008": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 에픽 퀘스트 name",
+        "id": 10040008,
+        "alias": "Contents.Quest.Name.40008",
+        "text": "第 4 章"
+    },
+    "10040009": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 에픽 퀘스트 name",
+        "id": 10040009,
+        "alias": "Contents.Quest.Name.40009",
+        "text": "第 3 幕"
+    },
+    "10040010": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 에픽 퀘스트 name",
+        "id": 10040010,
+        "alias": "Contents.Quest.Name.40010",
+        "text": "影子经过的地方"
+    },
+    "10040011": {
+        "deprecated": false,
+        "Dev_Desc": "모래황야 에픽 퀘스트 name(임시)",
+        "id": 10040011,
+        "alias": "Contents.Quest.Name.40011",
+        "text": "第 4 幕"
+    },
+    "10040012": {
+        "deprecated": false,
+        "Dev_Desc": "모래황야 에픽 퀘스트 name(임시)",
+        "id": 10040012,
+        "alias": "Contents.Quest.Name.40012",
+        "text": "第 1 章"
+    },
+    "10040013": {
+        "deprecated": false,
+        "Dev_Desc": "모래황야 에픽 퀘스트 name(임시)",
+        "id": 10040013,
+        "alias": "Contents.Quest.Name.40013",
+        "text": "思想准备"
+    },
+    "10040014": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 에픽 퀘스트 name",
+        "id": 10040014,
+        "alias": "Contents.Quest.Name.40014",
+        "text": "给老师的礼物"
+    },
+    "10020000": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 에픽 퀘스트 name",
+        "id": 10020000,
+        "alias": "Contents.Quest.Name.20000",
+        "text": "埃莱达探查"
+    },
+    "10020001": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 에픽 퀘스트 name",
+        "id": 10020001,
+        "alias": "Contents.Quest.Name.20001",
+        "text": "祭祀准备"
+    },
+    "10020002": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 에픽 퀘스트 name",
+        "id": 10020002,
+        "alias": "Contents.Quest.Name.20002",
+        "text": "路铃"
+    },
+    "10020003": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 에픽 퀘스트 name",
+        "id": 10020003,
+        "alias": "Contents.Quest.Name.20003",
+        "text": "校长"
+    },
+    "10020004": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 에픽 퀘스트 name",
+        "id": 10020004,
+        "alias": "Contents.Quest.Name.20004",
+        "text": "天神祭礼"
+    },
+    "10020005": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 에픽 퀘스트 name",
+        "id": 10020005,
+        "alias": "Contents.Quest.Name.20005"
+    },
+    "10020006": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 에픽 퀘스트 name",
+        "id": 10020006,
+        "alias": "Contents.Quest.Name.20006",
+        "text": "月光下的树林"
+    },
+    "10020007": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 에픽 퀘스트 name",
+        "id": 10020007,
+        "alias": "Contents.Quest.Name.20007",
+        "text": "风闻"
+    },
+    "10020008": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 에픽 퀘스트 name",
+        "id": 10020008,
+        "alias": "Contents.Quest.Name.20008",
+        "text": "第 1 章"
+    },
+    "10020009": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 에픽 퀘스트 name",
+        "id": 10020009,
+        "alias": "Contents.Quest.Name.20009",
+        "text": "第 2 章"
+    },
+    "10020010": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 에픽 퀘스트 name",
+        "id": 10020010,
+        "alias": "Contents.Quest.Name.20010",
+        "text": "第 3 章"
+    },
+    "10020011": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 에픽 퀘스트 name",
+        "id": 10020011,
+        "alias": "Contents.Quest.Name.20011",
+        "text": "第 4 章"
+    },
+    "10020012": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 에픽 퀘스트 name",
+        "id": 10020012,
+        "alias": "Contents.Quest.Name.20012",
+        "text": "第 5 章"
+    },
+    "10020013": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 에픽 퀘스트 name",
+        "id": 10020013,
+        "alias": "Contents.Quest.Name.20013"
+    },
+    "10020014": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 에픽 퀘스트 name",
+        "id": 10020014,
+        "alias": "Contents.Quest.Name.20014",
+        "text": "第 6 章"
+    },
+    "10020015": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 에픽 퀘스트 name",
+        "id": 10020015,
+        "alias": "Contents.Quest.Name.20015",
+        "text": "第 7 章"
+    },
+    "10020016": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 에픽 퀘스트 name",
+        "id": 10020016,
+        "alias": "Contents.Quest.Name.20016",
+        "text": "第 2 幕"
+    },
+    "10020017": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 에픽 퀘스트 name",
+        "id": 10020017,
+        "alias": "Contents.Quest.Name.20017",
+        "text": "开路者"
+    },
+    "10020018": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 에픽 퀘스트 name",
+        "id": 10020018,
+        "alias": "Contents.Quest.Name.20018",
+        "text": "第 8 章"
+    },
+    "10020019": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 에픽 퀘스트 name",
+        "id": 10020019,
+        "alias": "Contents.Quest.Name.20019",
+        "text": "第 9 章"
+    },
+    "10020020": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 에픽 퀘스트 name",
+        "id": 10020020,
+        "alias": "Contents.Quest.Name.20020",
+        "text": "修路剑"
+    },
+    "10020021": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 에픽 퀘스트 name",
+        "id": 10020021,
+        "alias": "Contents.Quest.Name.20021",
+        "text": "照路镜"
+    },
+    "11000051": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 해수 퀘스트",
+        "id": 11000051,
+        "alias": "Contents.Quest.Name.1000051",
+        "text": "[海水]黑熊乌福[Lv.12]"
+    },
+    "11000052": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 해수 퀘스트",
+        "id": 11000052,
+        "alias": "Contents.Quest.Name.1000052",
+        "text": "[海水]大王蜘蛛[Lv.23]"
+    },
+    "11000053": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 해수 퀘스트",
+        "id": 11000053,
+        "alias": "Contents.Quest.Name.1000053",
+        "text": "[解树]徐仁章[Lv.16]"
+    },
+    "11000054": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 해수 퀘스트",
+        "id": 11000054,
+        "alias": "Contents.Quest.Name.1000054",
+        "text": "[海水]淘气国王[Lv.30]"
+    },
+    "11000055": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 해수 퀘스트",
+        "id": 11000055,
+        "alias": "Contents.Quest.Name.1000055",
+        "text": "[海水]巴乌坦[Lv.26]"
+    },
+    "11000056": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 해수 퀘스트",
+        "id": 11000056,
+        "alias": "Contents.Quest.Name.1000056",
+        "text": "[海水]疯狂黄雄[Lv.32]"
+    },
+    "11000057": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 해수 퀘스트",
+        "id": 11000057,
+        "alias": "Contents.Quest.Name.1000057",
+        "text": "[海水]血魔[Lv.43]"
+    },
+    "11000058": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 해수 퀘스트",
+        "id": 11000058,
+        "alias": "Contents.Quest.Name.1000058",
+        "text": "[解树]蜥人东西[Lv.48]"
+    },
+    "11000059": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 해수 퀘스트",
+        "id": 11000059,
+        "alias": "Contents.Quest.Name.1000059",
+        "text": "[海水]淘气国王[Lv.52]"
+    },
+    "11000060": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 해수 퀘스트",
+        "id": 11000060,
+        "alias": "Contents.Quest.Name.1000060",
+        "text": "[解树]韩朝[Lv.54]"
+    },
+    "11000061": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 해수 퀘스트",
+        "id": 11000061,
+        "alias": "Contents.Quest.Name.1000061",
+        "text": "[海水]精灵古树[Lv.51]"
+    },
+    "11000062": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 해수 퀘스트",
+        "id": 11000062,
+        "alias": "Contents.Quest.Name.1000062",
+        "text": "[海水]元灵之王[Lv.51]"
+    },
+    "11000063": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 해수 퀘스트",
+        "id": 11000063,
+        "alias": "Contents.Quest.Name.1000063",
+        "text": "[海水]暴烈黑苗[Lv.56]"
+    },
+    "11000064": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 해수 퀘스트",
+        "id": 11000064,
+        "alias": "Contents.Quest.Name.1000064",
+        "text": "[海水]铁爪子[Lv.56]"
+    },
+    "11000065": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 해수 퀘스트",
+        "id": 11000065,
+        "alias": "Contents.Quest.Name.1000065",
+        "text": "[解树]李丹[Lv.64]"
+    },
+    "11000066": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 해수 퀘스트",
+        "id": 11000066,
+        "alias": "Contents.Quest.Name.1000066",
+        "text": "[解树]与秋收芥菜的重逢"
+    },
+    "11000067": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 해수 퀘스트",
+        "id": 11000067,
+        "alias": "Contents.Quest.Name.1000067",
+        "text": "[海水]重新聚集的海水远征队"
+    },
+    "11000068": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행",
+        "id": 11000068,
+        "alias": "Contents.Quest.Name.2000051",
+        "text": "[Lv.27]不会腐烂的遇难船"
+    },
+    "11000069": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행",
+        "id": 11000069,
+        "alias": "Contents.Quest.Name.2000052",
+        "text": "[Lv.27]海螺蟹的毒"
+    },
+    "11000070": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행",
+        "id": 11000070,
+        "alias": "Contents.Quest.Name.2000053",
+        "text": "[Lv.27]珍贵的养生食品"
+    },
+    "11000071": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행",
+        "id": 11000071,
+        "alias": "Contents.Quest.Name.2000054",
+        "text": "[Lv.27]调查汹涌而来的遇难船"
+    },
+    "11000072": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행",
+        "id": 11000072,
+        "alias": "Contents.Quest.Name.2000055",
+        "text": "[Lv.27]拜托你拿半月草！"
+    },
+    "11000073": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행",
+        "id": 11000073,
+        "alias": "Contents.Quest.Name.2000056",
+        "text": "[Lv.28]最佳材料"
+    },
+    "11000074": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행",
+        "id": 11000074,
+        "alias": "Contents.Quest.Name.2000057",
+        "text": "[Lv.28]生活在泥土中的鱼"
+    },
+    "11000075": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행",
+        "id": 11000075,
+        "alias": "Contents.Quest.Name.2000058",
+        "text": "[Lv.28]需要雷克顿皮"
+    },
+    "11000076": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행",
+        "id": 11000076,
+        "alias": "Contents.Quest.Name.2000059",
+        "text": "[Lv.28]为朔阳队员准备的特餐"
+    },
+    "11000077": {
+        "deprecated": false,
+        "Dev_Desc": "반달 협행",
+        "id": 11000077,
+        "alias": "Contents.Quest.Name.2000060",
+        "text": "[Lv.28]沼泽地开的花"
+    }
+}
