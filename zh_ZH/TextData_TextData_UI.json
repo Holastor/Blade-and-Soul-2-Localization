@@ -5748,14 +5748,14 @@
     },
     "8000839": {
         "deprecated": false,
-        "Dev_Desc": "야화 / 상위야화 획득",
+        "Dev_Desc": "야화 / 하위야화 획득",
         "id": 8000839,
         "alias": "UI.Yahwa.AcquirePrecedenceYahwa",
         "text": "获得新的夜话"
     },
     "8000840": {
         "deprecated": false,
-        "Dev_Desc": "야화 / 상위야화 획득 / 상세",
+        "Dev_Desc": "야화 / 하위야화 획득 / 상세",
         "id": 8000840,
         "alias": "UI.Yahwa.AcquirePrecedenceYahwa.DetailInfo",
         "text": "<arg p=[1:string]/> 获得了夜话"
@@ -15128,10 +15128,10 @@
     },
     "8002237": {
         "deprecated": false,
-        "Dev_Desc": "HUD / 영기 / 영기 단계",
+        "Dev_Desc": "HUD / 영기 / 영기 문구",
         "id": 8002237,
         "alias": "UI.SpiritEnergy",
-        "text": "灵气 <arg p=[1:integer]/> 步"
+        "text": "灵气"
     },
     "8002238": {
         "deprecated": false,
@@ -19195,7 +19195,7 @@
     },
     "8002821": {
         "deprecated": false,
-        "Dev_Desc": "블레이드 효과 정지 명령Lv.1",
+        "Dev_Desc": "블레이드 효과 화신Lv.1",
         "id": 8002821,
         "alias": "UI.Soul.BladeEffect.58",
         "text": "Blade效果停止命令Lv.1"
@@ -19570,20 +19570,6 @@
         "id": 8002874,
         "alias": "UI.Enchant.Scroll.Inform",
         "text": "请选择要登记的强化订单."
-    },
-    "8002875": {
-        "deprecated": false,
-        "Dev_Desc": "영기 단계 표시 / 1단계",
-        "id": 8002875,
-        "alias": "UI.SpiritEnergy.Step.1",
-        "text": "灵气不活跃"
-    },
-    "8002876": {
-        "deprecated": false,
-        "Dev_Desc": "영기 단계 표시 / 2단계",
-        "id": 8002876,
-        "alias": "UI.SpiritEnergy.Step.2",
-        "text": "灵气活跃"
     },
     "8002878": {
         "deprecated": false,
@@ -22120,7 +22106,7 @@
     },
     "8003240": {
         "deprecated": false,
-        "Dev_Desc": "전설 3성/블레이드 효과 정지 명령Lv.2",
+        "Dev_Desc": "전설 3성/블레이드 효과 화신Lv.2",
         "id": 8003240,
         "alias": "UI.Soul.BladeEffect.38.Legendary.3",
         "text": "刀片效应停止命令LV.2\n使用时的灵魂行为"
@@ -22155,7 +22141,7 @@
     },
     "8003245": {
         "deprecated": false,
-        "Dev_Desc": "전설 5성/블레이드 효과 정지 명령Lv.3",
+        "Dev_Desc": "전설 5성/블레이드 효과 화신Lv.3",
         "id": 8003245,
         "alias": "UI.Soul.BladeEffect.38.Legendary.5",
         "text": "刀片效应停止命令LV.3\n增加空袭率"
@@ -22670,5 +22656,19 @@
         "id": 8003318,
         "alias": "UI.Craft.LeftSubTabName.Event.FullMoon_01",
         "text": "中秋交换松糕"
+    },
+    "8003319": {
+        "deprecated": false,
+        "Dev_Desc": "환경설정 / 계정 / 게스트",
+        "id": 8003319,
+        "alias": "UI.Option.Acount.Guest",
+        "text": "没有考核帐户"
+    },
+    "8003320": {
+        "deprecated": false,
+        "Dev_Desc": "야화 / 상위야화 완료",
+        "id": 8003320,
+        "alias": "UI.Yahwa.CompleteYahwa",
+        "text": "收集夜生活"
     }
 }

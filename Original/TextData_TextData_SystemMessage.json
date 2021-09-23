@@ -4070,7 +4070,7 @@
         "Dev_Desc": "문파 레이드 소환서 실패1",
         "id": 9000640,
         "alias": "SysM.ItemUse.MonsterSummonFail.1",
-        "text": "문파 장원의 레이드 공간에서만 사용할 수 있습니다."
+        "text": "문파 장원의 소환지에서만 사용할 수 있습니다."
     },
     "9000641": {
         "deprecated": false,
@@ -7088,5 +7088,32 @@
         "id": 9001074,
         "alias": "SysM.Adventure.getReward",
         "text": "모험가 등급 달성 보상을 획득했습니다."
+    },
+    "9001075": {
+        "deprecated": false,
+        "Dev_Desc": "문파 시스템 / 기부 / 소지품 공간 부족",
+        "id": 9001075,
+        "alias": "SysM.Guild.Error.Donation.LackSpace",
+        "text": "소지품에 여유 공간이 없어 기부할 수 없습니다."
+    },
+    "9001076": {
+        "deprecated": false,
+        "Dev_Desc": "문파 시스템 / 기부 / 무게 부족",
+        "id": 9001076,
+        "alias": "SysM.Guild.Error.Donation.LackWeight",
+        "text": "소지 가능 무게를 초과하여 기부할 수 없습니다."
+    },
+    "9001077": {
+        "deprecated": false,
+        "Dev_Desc": "문파 시스템 / 기부 / 임시보관함",
+        "id": 9001077,
+        "alias": "SysM.Guild.Error.Donation.TempInventory",
+        "text": "임시 보관 중인 물품이 있어 기부할 수 없습니다."
+    },
+    "9001078": {
+        "deprecated": false,
+        "id": 9001078,
+        "alias": "SysM.Craft.LackCount",
+        "text": "제한된 수량을 모두 제작했습니다."
     }
 }

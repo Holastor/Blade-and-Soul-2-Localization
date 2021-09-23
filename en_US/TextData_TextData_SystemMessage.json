@@ -7088,5 +7088,32 @@
         "id": 9001074,
         "alias": "SysM.Adventure.getReward",
         "text": "You have earned a reward for reaching the Adventurer rank."
+    },
+    "9001075": {
+        "deprecated": false,
+        "Dev_Desc": "문파 시스템 / 기부 / 소지품 공간 부족",
+        "id": 9001075,
+        "alias": "SysM.Guild.Error.Donation.LackSpace",
+        "text": "You can not donate without free space in your belongings."
+    },
+    "9001076": {
+        "deprecated": false,
+        "Dev_Desc": "문파 시스템 / 기부 / 무게 부족",
+        "id": 9001076,
+        "alias": "SysM.Guild.Error.Donation.LackWeight",
+        "text": "I can not donate with a possibility of possibly."
+    },
+    "9001077": {
+        "deprecated": false,
+        "Dev_Desc": "문파 시스템 / 기부 / 임시보관함",
+        "id": 9001077,
+        "alias": "SysM.Guild.Error.Donation.TempInventory",
+        "text": "There is a product being stored in a temporary storage."
+    },
+    "9001078": {
+        "deprecated": false,
+        "id": 9001078,
+        "alias": "SysM.Craft.LackCount",
+        "text": "We have created all limited quantities."
     }
 }

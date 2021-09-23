@@ -965,6 +965,41 @@
         "alias": "Contents.CashShop.Item.Desc.5124",
         "text": "[지급품 안내]\n: 충전석: 각성의 미궁(심층)(각인) 1개\n\n- 분류 : 소모품 (충전석)\n- 사용 효과 : 사용 시 각성의 미궁(심층) 던전 이용 시간 1시간 충전\n- 기타 설정 : 거래 불가, 판매 불가\n\n[구매 제한]\n각 서버 당 매일 1회\n\n매일 0시에 구매 횟수 초기화"
     },
+    "99800139": {
+        "deprecated": false,
+        "Dev_Desc": "특별 소울 소환 / 풍신, 홍돈삼, 폭주 수호병 대장 / 1회",
+        "id": 99800139,
+        "alias": "Contents.CashShop.Item.Desc.5125",
+        "text": "[[Obtainable Soul List]\nYou can acquire one of the souls according to the probability of the soul below.\n(Rating: General ~ Hero)\n\n<Hero> Soul: 0.675%\n[Castle / Hongdong]\n\n<Rare> Soul: 5.1%\n[Suwati Big / Window Test / Window Cotton Pair / Window Project]: Each 0.6%\n[Variant Archuit / Variant Article Assassin / Variant Artery Projection / Black New Wurner Combat / Black New Wall Assassin / Black New Wall Ax: Each 0.45%\n\n<Advanced> Soul: 20%\n[Black wolf / black bear / white / golden moss fox / corridor / trees / trees]: Each 1.3%\n[Corridor / Western Palace / Nerono / Western Palace / Suwai Guard / Ghost / West Warrior / Warriors / Warrior / Awareness / Awareness]: Each 1%\n[Owno Moorin / Father / Net / Golden Outbreak / Field Human]: Each 0.64%\n\n<General> Soul: 74.225%\n[Deer / Sheep / Sorada / Green Ok / Chicken / Snake Mushroom]: Each 4.2%\n[Wolf / Bear / Beginner / Horses / Horses / Banned Jellyfish / Fox / Beach Bureau / Little Book / Hollyon Books]: Each 3.7%\n[Tiger / Moss Fox / Apples High Color / Outbreak / Triumph]: Each 3.145%\n\n- etc\n: If you have already acquired the soul of already retained, automatic conversion to 25 corresponding soul debris\n: The 'Soul Confirmation' menu is replaced with other souls in the \"Soul Confirmation\" menu\n"
+    },
+    "99800140": {
+        "deprecated": false,
+        "Dev_Desc": "특별 소울 소환 / 풍신, 홍돈삼, 폭주 수호병 대장 / 11회",
+        "id": 99800140,
+        "alias": "Contents.CashShop.Item.Desc.5126",
+        "text": "[[Obtainable Soul List]\nWe can acquire 11 soul according to the probability of the soul below\n(Rating: General ~ Hero)\n\n<Hero> Soul: 0.675%\n[Castle / Hongdong]\n\n<Rare> Soul: 5.1%\n[Suwati Big / Window Test / Window Cotton Pair / Window Project]: Each 0.6%\n[Variant Archuit / Variant Article Assassin / Variant Artery Projection / Black New Wurner Combat / Black New Wall Assassin / Black New Wall Ax: Each 0.45%\n\n<Advanced> Soul: 20%\n[Black wolf / black bear / white / golden moss fox / corridor / trees / trees]: Each 1.3%\n[Corridor / Western Palace / Nerono / Western Palace / Suwai Guard / Ghost / West Warrior / Warriors / Warrior / Awareness / Awareness]: Each 1%\n[Owno Moorin / Father / Net / Golden Outbreak / Field Human]: Each 0.64%\n\n<General> Soul: 74.225%\n[Deer / Sheep / Sorada / Green Ok / Chicken / Snake Mushroom]: Each 4.2%\n[Wolf / Bear / Beginner / Horses / Horses / Banned Jellyfish / Fox / Beach Bureau / Little Book / Hollyon Books]: Each 3.7%\n[Tiger / Moss Fox / Apples High Color / Outbreak / Triumph]: Each 3.145%\n\n- etc\n: If you have already acquired the soul of already retained, automatic conversion to 25 corresponding soul debris\n: When you acquire a hero rating Soul, you can replace the 'Soul Confirmation' menu in the menu "
+    },
+    "99800141": {
+        "deprecated": false,
+        "Dev_Desc": "패키지 / 백화의 귀걸이 패키지",
+        "id": 99800141,
+        "alias": "Contents.CashShop.Item.Desc.5127",
+        "text": "[Payment Guide]\nOne earring package of white\n\n* Earring package of white white\n- Category: Consumables (box)\n- Use: Acquire the following items when using\n: +3 1 flame of white\n: 5 cerebral roaring boxes\n: Five flame boxes for white\n: Strengthening of Shining Bao Bao Order: One White White\n: Glowing Soul Summon (11 times) 5\n- Other settings: Warehouse storage, no transaction, no deal\n\n* +3 flame of white\n- Category: Equipment (Earrings)\n- Wear effect: (Depending on the reinforcement value)\n+3: Penetration 4, Damage 1\n+ 3 ~: Additional rise by 1 attack power\n+ 5 ~: Additional rising to 0.5%\n+ 6 ~: Public damage by 0.5%\n- Limitations: The same name's earrings are not wearable\n- Other settings: No warehouse storage, no transaction\n\n* Cerebral roaring box\n- Category: Consumables (box)\n- Use: Acquire the following items when using\n: 1 cerebral roars\n: 10 reinforced order of Baobao 10\n- Other settings: Warehouse storage, no transaction, no deal\n\n* Cerebral roar\n- Category: Equipment (Earrings)\n- Wear effect: (Depending on the reinforcement value)\n+0: ​​Defense 1\n+ 1 ~: Rise by 1 defense\n+ 3 ~: Additional rise by 1\n+ 5 ~: Additional rise of Soul Resistivity by 0.5%\n+ 6 ~: Additional rising control resistivity by 1%\n- Limitations: The same name's earrings are not wearable\n- Other settings: No warehouse storage, no transaction\n\n* Flame box of department\n- Category: Consumables (box)\n- Use: Acquire the following items when using\n: One flame of a white department\n: 10 reinforced order of Baobao 10\n- Other settings: Warehouse storage, no transaction, no deal\n\n* Flame of department\n- Category: Equipment (Earrings)\n- Wear effect: (Depending on the reinforcement value)\n+0: ​​Penetration 1\n+ 1 ~: Rising by 1 penetration\n+ 3 ~: Additional rise by 1 attack power\n+ 5 ~: Additional rising to 0.5%\n+ 6 ~: Public damage by 0.5%\n- Limitations: The same name's earrings are not wearable\n- Other settings: No warehouse storage, no transaction\n\n* Reinforced order of Baobao\n- Category: Order\n- Effect: When used in special ornaments, strengthening figures 1 rise according to the definition probability\n- Other settings: not transaction, no transaction\n\n* Strengthening of Shining Bao Bao Order: White\n- Category: Order\n- Use effect: 100% chance to rise +1.\nIt is only available for +3 white flames.\n- Other settings: not transaction, no transaction\n\n* Shining Soul Summon (11 times)\n- Category: Supplies (Summon)\n- Effect: Depending on the probability of use, it can be obtained according to the probability of use.\n- Other settings: Warehouse storage, no transaction, no deal\n\n[Obtainable Soul List]\nYou can acquire one of the souls according to the probability of the soul below.\n(Rating: General ~ Hero)\n\n<Hero> Soul: 0.675%\n[Capture / Guardian Lattle / Melteen / Head Both Ginni / Roh Ward Battle / Hong Dynasty Ginseng: Each 0.06500%\n[Cost / Bao Bao / Kwak Hwa Ryong / Hongdong Hwa / Moonlight Wind / Farong Person]: Each 0.04000%\n[Wind / Training / Paradise Standard]: Each 0.01500%\n\n<Rare> Soul: 5.100%\n[Roll Anary / Endophe / Warehouse Big / Window Test / Changdogon Saber / Changdogon Projection / Marrenant Exploration Section / Marrisoning Patrol Unit / Spirit / Marrisoning Patroll Unit / Mineral Service ]: Each 0.20000%\n[Variant Architecture / Variant Article Assassin / Variant Chung In the Article / Hongdon Battle / Hongdon Combat / Achievement Counting / Ichedus Pipe Palace / Supreme Navigation Crew / Ceremony Boundary / Black New Wall Battle / Black New Wall Assassin / Cheongdong Warriors / Cheongkyeongpyeong Championship / Cheongkyeongpyeong Projection / Tangdong Test / Wallpark / Korean Student Scholarship / Korean Student]: Each 0.13000%\n[Farmard Moon Battle Control / Flower Dogs Publishers / Shrine / Jin Bum]: Each 0.09000%\n\n<Advanced> Soul: 20.000%\n[Black Bear / Black Wolf / Golden Moss Fox / Baek Ho / Tree Element / Corridor Bonds]: Each 1.30000%\n[Corridor / Seonghang Palace / Warrior Warrior / Seonguan Archer / Nerono / Suwai Warrior / Suwa Guard / Ghost / Awareness / Affectionate / Affectionate / Awareness]: Each 1.00000%\n[Ya Month / Net / Fen Leaf Human / Father / Golden Outbreak]: Each 0.64000%\n\n<General> Soul: 74.225%\n[Sorada / Green Ok / Snake Mushroom / Deer / Chicken / Sheep]: Each 4.20000%\n[Beginner / Hours / Both / Wolf / Fox / Beach Book / Breaking / Wolves / Beau / Holly Books / Eve: Each 3.70000%\n[Outbreak / apple / moss fox / tiger / trial]: each 3.14500%\n\n<Other>\n: If you have already acquired the soul of already retained, automatic conversion to 25 corresponding soul debris\n: When you acquire a hero rating Soul, you can replace the 'Soul Confirmation' menu in the menu "
+    },
+    "99800142": {
+        "deprecated": false,
+        "Dev_Desc": "패키지 / 질풍의 팔찌 패키지",
+        "id": 99800142,
+        "alias": "Contents.CashShop.Item.Desc.5128",
+        "text": "[Payment Guide]\nOne bracelet package of alarm\n\n* Flicker bracelet package\n- Category: Consumables (box)\n- Use: Acquire the following items when using\n: +3 1 of the wrist\n: Five alarms of the wrist\n: Five whispers of fallen whispers\n: Strengthening of Shining Bao Bao: One Wallpaper\n: Glowing Soul Summon (11 times) 5\n- Other settings: Warehouse storage, no transaction, no deal\n\n* +3 Non-wrist\n- Category: Equipment (bracelet)\n- Wear effect: (Depending on the reinforcement value)\n+3: Hair 4, weapon damage amplification 3%, weapon damage 1\n+ 3 ~: Additional rise in weapon damage 1\n+ 5 ~: Control hit rate 0.5% Additional rise\n+ 6 ~: The default attack rate is 0.5%\n- Limitation: The same name is not wearable with two or more\n- Other settings: No warehouse storage, no transaction\n\n* Non-wrinkle box\n- Category: Consumables (box)\n- Use: Acquire the following items when using\n: One of the wrath\n: 10 reinforced order of Baobao 10\n- Other settings: Warehouse storage, no transaction, no deal\n\n*\n- Category: Equipment (bracelet)\n- Wear effect: (Depending on the reinforcement value)\n+0: ​​1, 1, weapon damage amplification 3%\n+ 1 ~: Rising by 1\n+ 3 ~: Additional rise in weapon damage 1\n+ 5 ~: Control hit rate 0.5% Additional rise\n+ 6 ~: The default attack rate is 0.5%\n- Limitation: The same name is not wearable with two or more\n- Other settings: No warehouse storage, no transaction\n\n* Feature whispering box\n- Category: Consumables (box)\n- Use: Acquire the following items when using\n: One whisper of falling\n: 10 reinforced order of Baobao 10\n- Other settings: Warehouse storage, no transaction, no deal\n\n* Whispering of the Fall\n- Category: Equipment (bracelet)\n- Wear effect: (Depending on the reinforcement value)\n+0: ​​Evasion 1, Health Play 3\n+ 1 ~: Earn 1\n+ 3 ~: Additional rise by 1 defense\n+ 5 ~: Additional rising for an additional 0.5% of the anti-malfunction resistance\n+6: Add 5% control resistivity\n+ 6 ~: Additional rising control resistivity by 1%\n- Limitation: The same name is not wearable with two or more\n- Other settings: No warehouse storage, no transaction\n\n* Reinforced order of Baobao\n- Category: Order\n- Effect: When used in special ornaments, strengthening figures 1 rise according to the definition probability\n- Other settings: not transaction, no transaction\n\n* Strengthen Order of Shining Bao Bao:\n- Category: Order\n- Use effect: 100% chance to rise +1.\n+3 It is only available for the wrath of the crab.\n- Other settings: not transaction, no transaction\n\n* Shining Soul Summon (11 times)\n- Category: Supplies (Summon)\n- Effect: Depending on the probability of use, it can be obtained according to the probability of use.\n- Other settings: Warehouse storage, no transaction, no deal\n\n[Obtainable Soul List]\nYou can acquire one of the souls according to the probability of the soul below.\n(Rating: General ~ Hero)\n\n<Hero> Soul: 0.675%\n[Capture / Guardian Lattle / Melteen / Head Both Ginni / Roh Ward Battle / Hong Dynasty Ginseng: Each 0.06500%\n[Cost / Bao Bao / Kwak Hwa Ryong / Hongdong Hwa / Moonlight Wind / Farong Person]: Each 0.04000%\n[Wind / Training / Paradise Standard]: Each 0.01500%\n\n<Rare> Soul: 5.100%\n[Roll Anary / Endophe / Warehouse Big / Window Test / Changdogon Saber / Changdogon Projection / Marrenant Exploration Section / Marrisoning Patrol Unit / Spirit / Marrisoning Patroll Unit / Mineral Service ]: Each 0.20000%\n[Variant Architecture / Variant Article Assassin / Variant Chung In the Article / Hongdon Battle / Hongdon Combat / Achievement Counting / Ichedus Pipe Palace / Supreme Navigation Crew / Ceremony Boundary / Black New Wall Battle / Black New Wall Assassin / Cheongdong Warriors / Cheongkyeongpyeong Championship / Cheongkyeongpyeong Projection / Tangdong Test / Wallpark / Korean Student Scholarship / Korean Student]: Each 0.13000%\n[Farmard Moon Battle Control / Flower Dogs Publishers / Shrine / Jin Bum]: Each 0.09000%\n\n<Advanced> Soul: 20.000%\n[Black Bear / Black Wolf / Golden Moss Fox / Baek Ho / Tree Element / Corridor Bonds]: Each 1.30000%\n[Corridor / Seonghang Palace / Warrior Warrior / Seonguan Archer / Nerono / Suwai Warrior / Suwa Guard / Ghost / Awareness / Affectionate / Affectionate / Awareness]: Each 1.00000%\n[Ya Month / Net / Fen Leaf Human / Father / Golden Outbreak]: Each 0.64000%\n\n<General> Soul: 74.225%\n[Sorada / Green Ok / Snake Mushroom / Deer / Chicken / Sheep]: Each 4.20000%\n[Beginner / Hours / Both / Wolf / Fox / Beach Book / Breaking / Wolves / Beau / Holly Books / Eve: Each 3.70000%\n[Outbreak / apple / moss fox / tiger / trial]: each 3.14500%\n\n<Other>\n: If you have already acquired the soul of already retained, automatic conversion to 25 corresponding soul debris\n: When you acquire a hero rating Soul, you can replace the 'Soul Confirmation' menu in the menu "
+    },
+    "99800143": {
+        "deprecated": false,
+        "Dev_Desc": "패키지 / 폭풍 성장 패키지",
+        "id": 99800143,
+        "alias": "Contents.CashShop.Item.Desc.5129",
+        "text": "[Payment Guide]\nAcquire the next item to purchase\n: Two of the air (engraved)\n: Certificate of cards 1,000\n: Advanced antioxidant selection box (amplification) 1\n: Twenty (engraved) 20\n\n* Area (engraved)\n- Category: Rare Supplies\n- Description: You can acquire the aerodynamic for the glance\n- Other settings: Warehouse storage, no transaction, no deal\n\n* Craftsmanship\n- Category: Advanced Culture\n- Description: It is a coin to purchase [Weapon] and [Armor] from [Called Replacement] in Village.\n- Other settings: Warehouse storage, no transaction, no deal\n\n* Advanced anti-purifier selection box (amplification)\n- Classification: Advanced Selection Box\n- You can obtain one of the following items when using the following items\n: [Sword] Integer of amplification: uploaded (engraved)\n: [Sword] An integer of amplification: jumped (engraved)\n: [Index] An integer of amplification:\n: [Index] An integer of amplification: Name (engraved)\n: [Ax] Integer of amplification: optical wind (engraved)\n: [Ax] Integer of amplification: Claims (engraved)\n: [Porcelain] Integer of amplification: Line (engraved)\n: [Porcelain] Integer of amplification: Yuseong (engraved)\n: [Bow] Integer of amplification: Arrows (engraved)\n: [Bow] Integer of amplification: Track arrow (engraved)\n: [Grant] Integer of amplification: Plantation (engraved)\n: [Grant] Integer of amplification: Planting illumination (engraved)\n- Other settings: not transaction, no transaction\n \n* Tip (stamp)\n- Category: Materials\n- Description: Materials used for unbeatable and non-workable materials\n- Other settings: not transaction "
+    },
     "99850000": {
         "deprecated": false,
         "Dev_Desc": "금화 / 소환 / 일반 소울 소환 / 매일 1회",
@@ -1405,5 +1440,54 @@
         "id": 99850063,
         "alias": "Contents.CashShop.Item.Desc.9710107",
         "text": "사용 시 정해진 확률에 따라 영웅 소울 파편 1개를 획득할 수 있습니다.\n(등급: 영웅)"
+    },
+    "99850064": {
+        "deprecated": false,
+        "Dev_Desc": "특별 소울 소환 / 풍신, 홍돈삼, 폭주 수호병 대장 / 1회",
+        "id": 99850064,
+        "alias": "Contents.CashShop.Item.Desc.9710110",
+        "text": "You can acquire a soul according to the probability of use.\n(Rating: General ~ Hero) "
+    },
+    "99850065": {
+        "deprecated": false,
+        "Dev_Desc": "특별 소울 소환 / 풍신, 홍돈삼, 폭주 수호병 대장 / 11회",
+        "id": 99850065,
+        "alias": "Contents.CashShop.Item.Desc.9710111",
+        "text": "You can acquire a soul according to the probability of use.\n(Rating: General ~ Hero) "
+    },
+    "99850066": {
+        "deprecated": false,
+        "Dev_Desc": "패키지 / 백화의 귀걸이 패키지",
+        "id": 99850066,
+        "alias": "Contents.CashShop.Item.Desc.9710112",
+        "text": "When using, you can acquire all the following items:\n\n- 1 flame of +3 white\n- 5 cerebral roaring boxes\n- Five fireworks boxes for white\n- Strengthening of shining Baobao Order: 1 white white\n- Shining Soul Summon 11 times "
+    },
+    "99850067": {
+        "deprecated": false,
+        "Dev_Desc": "패키지 / 질풍의 팔찌 패키지",
+        "id": 99850067,
+        "alias": "Contents.CashShop.Item.Desc.9710113",
+        "text": "When using, you can acquire all the following items:\n\n- 1 +3 1\n- Five of the wrath of the wrist\n- Five whispers of fallen whispering boxes\n- Strengthening the shining Bao Bao Order: 1\n- Shining Soul Summon 11 times "
+    },
+    "99850068": {
+        "deprecated": false,
+        "Dev_Desc": "패키지 / 백화의 귀걸이 패키지",
+        "id": 99850068,
+        "alias": "Contents.CashShop.Item.Desc.9850036",
+        "text": "When using, you can acquire all the following items:\n\n- 1 flame of +3 white\n- 5 cerebral roaring boxes\n- Five fireworks boxes for white\n- Strengthening of shining Baobao Order: 1 white white\n- Shining Soul Summon 11 times "
+    },
+    "99850069": {
+        "deprecated": false,
+        "Dev_Desc": "패키지 / 질풍의 팔찌 패키지",
+        "id": 99850069,
+        "alias": "Contents.CashShop.Item.Desc.9850037",
+        "text": "When using, you can acquire all the following items:\n\n- 1 +3 1\n- Five of the wrath of the wrist\n- Five whispers of fallen whispering boxes\n- Strengthening the shining Bao Bao Order: 1\n- Shining Soul Summon 11 times "
+    },
+    "99850070": {
+        "deprecated": false,
+        "Dev_Desc": "패키지 / 폭풍 성장 패키지",
+        "id": 99850070,
+        "alias": "Contents.CashShop.Item.Desc.9710114",
+        "text": "When using, you can acquire all the following items:\n\n- Two air (engraved)\n- Gender of the craftsmanship 1000\n- Advanced Powder Integer Box (Amplification) 1\n- Twist (stamp) 20 "
     }
 }

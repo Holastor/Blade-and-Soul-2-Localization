@@ -5748,14 +5748,14 @@
     },
     "8000839": {
         "deprecated": false,
-        "Dev_Desc": "야화 / 상위야화 획득",
+        "Dev_Desc": "야화 / 하위야화 획득",
         "id": 8000839,
         "alias": "UI.Yahwa.AcquirePrecedenceYahwa",
         "text": "Acquire New Night Flower"
     },
     "8000840": {
         "deprecated": false,
-        "Dev_Desc": "야화 / 상위야화 획득 / 상세",
+        "Dev_Desc": "야화 / 하위야화 획득 / 상세",
         "id": 8000840,
         "alias": "UI.Yahwa.AcquirePrecedenceYahwa.DetailInfo",
         "text": "<arg p=[1:string]/> You have obtained a wild flower."
@@ -7473,105 +7473,105 @@
         "Dev_Desc": "조작가이드 / 질주",
         "id": 8001121,
         "alias": "UI.CommandGuide.Sprint",
-        "text": "\"<img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_W] width=[44] height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Plus] width=[28] height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Ctrl] width=[44] height=[44]/> 혹은 <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_W] width=[44] height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_W] width=[44] height=[44]/>\""
+        "text": "<img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_W] width=[44] height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Plus] width=[28] height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Ctrl] width=[44] height=[44]/> 혹은 <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_W] width=[44] height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_W] width=[44] height=[44]/>"
     },
     "8001122": {
         "deprecated": false,
         "Dev_Desc": "조작가이드 / 질주 / 활루",
         "id": 8001122,
         "alias": "UI.CommandGuide.Sprint.Sliding",
-        "text": "\"질주 중 <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Shift] width=[91] height=[44]/> 유지\""
+        "text": "질주 중 <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Shift] width=[91] height=[44]/> 유지"
     },
     "8001123": {
         "deprecated": false,
         "Dev_Desc": "조작가이드 / 질주 / 회류비",
         "id": 8001123,
         "alias": "UI.CommandGuide.Sprint.Drift",
-        "text": "\"질주 중 <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_A] width=[44] height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Plus] width=[28] height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Shift] width=[91] height=[44]/> 또는 <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_D] width=[44] height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Plus] width=[28] height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Shift] width=[91] height=[44]/>\""
+        "text": "질주 중 <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_A] width=[44] height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Plus] width=[28] height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Shift] width=[91] height=[44]/> 또는 <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_D] width=[44] height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Plus] width=[28] height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Shift] width=[91] height=[44]/>"
     },
     "8001124": {
         "deprecated": false,
         "Dev_Desc": "조작가이드 / 질주 / 회류비 / 신속",
         "id": 8001124,
         "alias": "UI.CommandGuide.Sprint.Drift.Swift",
-        "text": "\"회류비 중 <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Shift] width=[91] height=[44]/> 놓기\""
+        "text": "회류비 중 <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Shift] width=[91] height=[44]/> 놓기"
     },
     "8001125": {
         "deprecated": false,
         "Dev_Desc": "조작가이드 / 도약",
         "id": 8001125,
         "alias": "UI.CommandGuide.Highjump",
-        "text": "\"<img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Space] width=[190] height=[44]/> 유지\""
+        "text": "<img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Space] width=[190] height=[44]/> 유지"
     },
     "8001126": {
         "deprecated": false,
         "Dev_Desc": "조작가이드 / 뛰기",
         "id": 8001126,
         "alias": "UI.CommandGuide.Jump",
-        "text": "\"<img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Space] width=[190] height=[44]/> 누르기\""
+        "text": "<img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Space] width=[190] height=[44]/> 누르기"
     },
     "8001127": {
         "deprecated": false,
         "Dev_Desc": "조작가이드 / 활강",
         "id": 8001127,
         "alias": "UI.CommandGuide.Glide",
-        "text": "\"공중에 뜬 상태에서 <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Space] width=[190] height=[44]/>\""
+        "text": "공중에 뜬 상태에서 <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Space] width=[190] height=[44]/>"
     },
     "8001128": {
         "deprecated": false,
         "Dev_Desc": "조작가이드 / 강하",
         "id": 8001128,
         "alias": "UI.CommandGuide.DescentDash",
-        "text": "\"활강 상태에서 <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Ctrl] width=[75] height=[44]/> 유지\""
+        "text": "활강 상태에서 <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Ctrl] width=[75] height=[44]/> 유지"
     },
     "8001129": {
         "deprecated": false,
         "Dev_Desc": "조작가이드 / 강하 / 신속",
         "id": 8001129,
         "alias": "UI.CommandGuide.DescentDash.Swift",
-        "text": "\"강하 중 지면에 닿을 때 <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_W] width=[44] height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_A] width=[44] height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_S] width=[44] height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_D] width=[44] height=[44]/> 유지\""
+        "text": "강하 중 지면에 닿을 때 <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_W] width=[44] height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_A] width=[44] height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_S] width=[44] height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_D] width=[44] height=[44]/> 유지"
     },
     "8001130": {
         "deprecated": false,
         "Dev_Desc": "조작가이드 / 천상비",
         "id": 8001130,
         "alias": "UI.CommandGuide.SkyDash",
-        "text": "\"활강 상태에서 <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Shift] width=[91] height=[44]/>\""
+        "text": "활강 상태에서 <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Shift] width=[91] height=[44]/>"
     },
     "8001131": {
         "deprecated": false,
         "Dev_Desc": "조작가이드 / 수상비",
         "id": 8001131,
         "alias": "UI.CommandGuide.WaterSprint",
-        "text": "\"물에서 <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_W] width=[44] height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Plus] width=[28] height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Ctrl] width=[44] height=[44]/> 혹은 <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_W] width=[44] height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_W] width=[44] height=[44]/>\""
+        "text": "물에서 <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_W] width=[44] height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Plus] width=[28] height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Ctrl] width=[44] height=[44]/> 혹은 <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_W] width=[44] height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_W] width=[44] height=[44]/>"
     },
     "8001132": {
         "deprecated": false,
         "Dev_Desc": "조작가이드 / 수상비 / 수상 활루",
         "id": 8001132,
         "alias": "UI.CommandGuide.WaterSprint.WaterSliding",
-        "text": "\"수상비 중 <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Shift] width=[91] height=[44]/> 유지\""
+        "text": "수상비 중 <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Shift] width=[91] height=[44]/> 유지"
     },
     "8001133": {
         "deprecated": false,
         "Dev_Desc": "조작가이드 / 수상비 / 수상 회류비",
         "id": 8001133,
         "alias": "UI.CommandGuide.WaterSprint.WaterDrift",
-        "text": "\"수상비 중 <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_A] width=[44] height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Plus] width=[28] height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Shift] width=[91] height=[44]/> 또는 <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_D] width=[44] height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Plus] width=[28] height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Shift] width=[91] height=[44]/>\""
+        "text": "수상비 중 <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_A] width=[44] height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Plus] width=[28] height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Shift] width=[91] height=[44]/> 또는 <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_D] width=[44] height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Plus] width=[28] height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Shift] width=[91] height=[44]/>"
     },
     "8001134": {
         "deprecated": false,
         "Dev_Desc": "조작가이드 / 수상비 / 수상 회류비 / 수상 신속",
         "id": 8001134,
         "alias": "UI.CommandGuide.WaterSprint.WaterDrift.WaterSwift",
-        "text": "\"수상 회류비 중 <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Shift] width=[91] height=[44]/> 놓기\""
+        "text": "수상 회류비 중 <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Shift] width=[91] height=[44]/> 놓기"
     },
     "8001135": {
         "deprecated": false,
         "Dev_Desc": "조작가이드 / 수상비 / 수상 도약",
         "id": 8001135,
         "alias": "UI.CommandGuide.WaterSprint.WaterHightJump",
-        "text": "\"수상비 중 <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Space] width=[190] height=[44]/> 유지\""
+        "text": "수상비 중 <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Space] width=[190] height=[44]/> 유지"
     },
     "8001136": {
         "deprecated": false,
@@ -15128,10 +15128,10 @@
     },
     "8002237": {
         "deprecated": false,
-        "Dev_Desc": "HUD / 영기 / 영기 단계",
+        "Dev_Desc": "HUD / 영기 / 영기 문구",
         "id": 8002237,
         "alias": "UI.SpiritEnergy",
-        "text": "Reign <arg p=[1:integer]/>step"
+        "text": "Reign"
     },
     "8002238": {
         "deprecated": false,
@@ -19195,7 +19195,7 @@
     },
     "8002821": {
         "deprecated": false,
-        "Dev_Desc": "블레이드 효과 정지 명령Lv.1",
+        "Dev_Desc": "블레이드 효과 화신Lv.1",
         "id": 8002821,
         "alias": "UI.Soul.BladeEffect.58",
         "text": "Blade effect stop command Lv.1"
@@ -19570,20 +19570,6 @@
         "id": 8002874,
         "alias": "UI.Enchant.Scroll.Inform",
         "text": "Please select an enhancement order to register."
-    },
-    "8002875": {
-        "deprecated": false,
-        "Dev_Desc": "영기 단계 표시 / 1단계",
-        "id": 8002875,
-        "alias": "UI.SpiritEnergy.Step.1",
-        "text": "Aura Inactive"
-    },
-    "8002876": {
-        "deprecated": false,
-        "Dev_Desc": "영기 단계 표시 / 2단계",
-        "id": 8002876,
-        "alias": "UI.SpiritEnergy.Step.2",
-        "text": "Aura Active"
     },
     "8002878": {
         "deprecated": false,
@@ -22120,7 +22106,7 @@
     },
     "8003240": {
         "deprecated": false,
-        "Dev_Desc": "전설 3성/블레이드 효과 정지 명령Lv.2",
+        "Dev_Desc": "전설 3성/블레이드 효과 화신Lv.2",
         "id": 8003240,
         "alias": "UI.Soul.BladeEffect.38.Legendary.3",
         "text": "Blade effect stop command Lv.2\nSoul is activated when using no attack"
@@ -22155,7 +22141,7 @@
     },
     "8003245": {
         "deprecated": false,
-        "Dev_Desc": "전설 5성/블레이드 효과 정지 명령Lv.3",
+        "Dev_Desc": "전설 5성/블레이드 효과 화신Lv.3",
         "id": 8003245,
         "alias": "UI.Soul.BladeEffect.38.Legendary.5",
         "text": "Blade effect stop command Lv.3\nIncrease attack speed without attack"
@@ -22670,5 +22656,19 @@
         "id": 8003318,
         "alias": "UI.Craft.LeftSubTabName.Event.FullMoon_01",
         "text": "Hangawi Songpyeon Exchange"
+    },
+    "8003319": {
+        "deprecated": false,
+        "Dev_Desc": "환경설정 / 계정 / 게스트",
+        "id": 8003319,
+        "alias": "UI.Option.Acount.Guest",
+        "text": "No Accounted Account"
+    },
+    "8003320": {
+        "deprecated": false,
+        "Dev_Desc": "야화 / 상위야화 완료",
+        "id": 8003320,
+        "alias": "UI.Yahwa.CompleteYahwa",
+        "text": "Collecting nightlife"
     }
 }
