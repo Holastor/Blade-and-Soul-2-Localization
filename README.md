@@ -1,9 +1,9 @@
 <h1 align="center">
   <br>
-  Blade and Soul 2 English and Russian Localization
+  Blade and Soul 2 Unofficial Localization
   <br>
 </h1>
-  <a href="#Now-You-Can-Support-Me!">Now-You-Can-Support-Me!</a> •
+  <a href="#Now-You-Can-Support-Me">Now You Can Support Me!</a> •
   <a href="#Install">Install</a> •
   <a href="#Source-Install">Source Install</a> •
   <a href="#Mobile-Install">Mobile Install</a> •
@@ -14,7 +14,7 @@
 </p>
 
 
-## Now-You-Can-Support-Me!
+## Now-You-Can-Support-Me
 
 <a href="https://www.buymeacoffee.com/Holastor" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>, or
 
