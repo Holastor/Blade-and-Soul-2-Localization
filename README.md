@@ -9,7 +9,7 @@
   <a href="#Mobile-Install">Mobile Install</a> •
   <a href="#About">About</a> •
   <a href="#License">License</a> •
-  <a href="#A responsibility">A responsibility</a> •
+  <a href="#Warning">Warning</a> •
   <a href="#Discord">Discord</a> •
 </p>
 
