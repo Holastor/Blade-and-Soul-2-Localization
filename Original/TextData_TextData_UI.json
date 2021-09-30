@@ -21017,7 +21017,7 @@
         "Dev_Desc": "캐시상점 / 서브 탭 / 신석 탭 / 이벤트",
         "id": 8003084,
         "alias": "UI.CashShop.TapName.Sub.Event",
-        "text": "이벤트"
+        "text": "프로모션"
     },
     "8003085": {
         "deprecated": false,
@@ -22670,5 +22670,39 @@
         "id": 8003320,
         "alias": "UI.Yahwa.CompleteYahwa",
         "text": "야화 수집 완료"
+    },
+    "8003321": {
+        "deprecated": false,
+        "Dev_Desc": "타이틀 / 잠긴 계정 / 설명",
+        "id": 8003321,
+        "alias": "UI.Login.Fail.LockAccount.Desc",
+        "text": "잠긴 상태의 계정입니다.\n자세한 내용은 [모바일 고객센터 > 1:1문의]를 통해 확인해 주세요."
+    },
+    "8003322": {
+        "deprecated": false,
+        "Dev_Desc": "환경설정 / 환경 / 사운드 / 전투보정",
+        "id": 8003322,
+        "alias": "UI.Option.Environment.Sound.AutoBattleSound",
+        "text": "전투 효과음 피로도 완화"
+    },
+    "8003323": {
+        "deprecated": false,
+        "Dev_Desc": "환경설정 / 환경 / 사운드 / 전투보정툴팁",
+        "id": 8003323,
+        "alias": "UI.Option.Environment.Sound.AutoBattleSound.Tooltip",
+        "text": "전투와 관련된 효과음 음량을 일괄적으로 감소시켜 줍니다."
+    },
+    "8003324": {
+        "deprecated": false,
+        "id": 8003324,
+        "alias": "UI.Shop.Tittle.Name.10022",
+        "text": "비사문 상인"
+    },
+    "8003325": {
+        "deprecated": false,
+        "Dev_Desc": "묵화 수호령 이벤트 / 묵화 패키지",
+        "id": 8003325,
+        "alias": "UI.Craft.LeftSubTabName.Event.Mukhwa_01",
+        "text": "묵화 패키지"
     }
 }
