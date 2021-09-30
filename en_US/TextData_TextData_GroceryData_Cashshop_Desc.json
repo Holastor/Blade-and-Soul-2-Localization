@@ -106,899 +106,1033 @@
     },
     "99800016": {
         "deprecated": false,
-        "Dev_Desc": "주화 / 비사전 / 정수 파편",
+        "Dev_Desc": "패키지 / 시즌 패스: 소울",
         "id": 99800016,
-        "alias": "Contents.CashShop.Item.Desc.5000",
+        "alias": "Contents.CashShop.Item.Desc.17",
         "text": "[Information on supplies]\n: Essence fragment (engraving)\n\n- Classification: Material\n- Description: Material used to craft Essence that can grow martial arts\n- Other settings: Untradeable , cannot be sold\n\n[Purchase limit]\n5 times per day for each server\n\nReset the number of purchases at 00:00 every day"
     },
     "99800017": {
         "deprecated": false,
-        "Dev_Desc": "주화 / 도화 / 도인의 정기",
+        "Dev_Desc": "패키지 / 스타팅 패스",
         "id": 99800017,
-        "alias": "Contents.CashShop.Item.Desc.5001",
+        "alias": "Contents.CashShop.Item.Desc.18",
         "text": "[Information on supplies]\n: Swordsman's Spirit (Engraving)\n\n- Classification: Material\n- Description: Materials used to craft Essence that can grow martial arts\n- Other Settings: Trade No, no sale\n\n[Purchase limit]\nOnce per month for each server\n\nReset the number of purchases at 00:00 on the 1st of every month"
     },
     "99800018": {
         "deprecated": false,
-        "Dev_Desc": "주화 / 도화 / 기력의 비약",
+        "Dev_Desc": "패키지 / IAP / 도화의 신석 패키지",
         "id": 99800018,
-        "alias": "Contents.CashShop.Item.Desc.5002",
+        "alias": "Contents.CashShop.Item.Desc.19",
         "text": "[Information on supplies]\n: Elixir of advanced energy\n\n- Category: Consumables\n- Use effect: Instantly recovers a lot of energy when used\n- Other settings: Non-tradeable, non-sellable\n \n[Purchase limit]\n5 times a day for each server\n\nReset the number of purchases at 00:00 every day"
     },
     "99800019": {
         "deprecated": false,
-        "Dev_Desc": "도화전 / 희귀 제작 비법서 상자",
+        "Dev_Desc": "패키지 / IAP / 장인의 신석 패키지",
         "id": 99800019,
-        "alias": "Contents.CashShop.Item.Desc.5003",
+        "alias": "Contents.CashShop.Item.Desc.20",
         "text": "[Information on supplies]\n : Rare Crafting Recipe Fragment Box\n\n- Category : Consumables\n- You can obtain one of the following items when used\n : Rare Weapon Crafting Recipe Fragment ( Engraving)\n : Rare armor crafting recipe fragment (engraving)\n : Rare accessory crafting recipe engraving (engraving)\n- Other settings: Unable to store in warehouse, impossible to trade, impossible to sell\n\n* How to make rare weapon Calligraphy fragment (engraving)\n- Classification: Material\n- Description: Rare weapon crafting recipe craftable\n- Other settings: Non-tradeable, non-sellable\n\n* Rare armor crafting recipe fragment (engraved)\n - Classification: Material\n- Description: Rare armor making recipe available\n- Other settings: Untradeable, unavailable for sale\n\n* Rare accessory making recipe fragment (engraving)\n- Classification: Material\n- Description: Crafting recipes for rare ornaments can be produced\n- Other settings: Cannot be traded, cannot be sold\n\n[Purchase limit]\nOnce per day per server\n\nReset the number of purchases at 00:00 every day"
     },
     "99800020": {
         "deprecated": false,
-        "Dev_Desc": "비사전 / 장신구 강화 주문서",
+        "Dev_Desc": "패키지 / IAP / 무림 정착 패키지",
         "id": 99800020,
-        "alias": "Contents.CashShop.Item.Desc.5004",
+        "alias": "Contents.CashShop.Item.Desc.21",
         "text": "[Information on supplies]\n: Accessory enhancement order book (engraving)\n\n- Classification: Order book\n- Use effect: When used, the enhancement value of ornaments increases according to a set probability\n: Accessory enhancement order book - Enhancement Value +1 / Blessed Accessory Reinforcement Scroll - Reinforcement Level +1~2 / Cursed Accessory Reinforcement Scroll - Reinforcement Value -1\n: When upgrading equipment with a safety enhancement level or higher, there is a chance of equipment destruction\n- Other settings : Transaction unavailable\n\n[Purchase limit]\n10 times per day per server\n\nReset the number of purchases at 00:00 every day"
     },
     "99800021": {
         "deprecated": false,
-        "Dev_Desc": "비사전 / 진경 : 합일 (희귀)",
+        "Dev_Desc": "패키지 / IAP / 영교원 특별 소울 패키지",
         "id": 99800021,
-        "alias": "Contents.CashShop.Item.Desc.5005",
+        "alias": "Contents.CashShop.Item.Desc.22",
         "text": "Realism: Unity (Rare) Description"
     },
     "99800022": {
         "deprecated": false,
-        "Dev_Desc": "비사전 / 무공서 조각",
+        "Dev_Desc": "패키지 / IAP / 영교원 특별 수호령 패키지",
         "id": 99800022,
-        "alias": "Contents.CashShop.Item.Desc.5006",
+        "alias": "Contents.CashShop.Item.Desc.23",
         "text": "[Information on supplies]\n: Secret (engraving)\n\n- Classification: Materials\n- Materials used to enhance martial arts and crafting documents\n- Other settings: Not tradeable\n\n[Purchase Limit]\n10 times per week per server\n\nReset the number of purchases every Wednesday at 05:00"
     },
     "99800023": {
         "deprecated": false,
-        "Dev_Desc": "신석 소환 / 상급 소울 소환 1회",
+        "Dev_Desc": "패키지 / IAP / 출사표 패키지",
         "id": 99800023,
-        "alias": "Contents.CashShop.Item.Desc.5007",
+        "alias": "Contents.CashShop.Item.Desc.24",
         "text": "[List of available souls]\n\nYou can acquire 1 soul according to a set probability among the souls below\n(Class: Normal ~ Hero)\n\n<Hero>\nCorrupt/Guardian Captain /Choryeongmok/Chief Duukshini/Runaway Guard Captain/Hongdonsam/Biryuha/Baobao/Kwak Horyong/Red Plum Blossom/Moonlight Wind/Furlong Perong/Wind God/Nakwondaeseong/Thunder God\n\n<rare>\nRarity/Myomyeon/Wood Wa clan size/swordsman swordsman/swordsman double swords/swordsman fighters/maehwadan expedition team member/maehwadan patrol team/younggyowon shaman/imyeonsu/bisamun manager/bisamun spy officer/mutated blues swordsman/mutated blueman assassin /mutated Blue Man Fighter/Hongdon Sentinel/Hongdon Combatant/Ilseonggwan Striker/Ilseonggwan Archer/Discipline Searcher/Discipline Watcher/Black Dawn Fighter/Black Dawn Assassin/Black Dawn Axeman/Blue Warrior of the Blue House/ Qingming fighter / Cheonmudan swordsman / Cheonmudan kwonsa / Myunghyedan scholar / Myunghyedan researcher / Pungbaekmun fighter / Pungbaekmun patrol officer / Yang Geon / Jin Myoyoung\n\n<advanced>\nSeoin warrior / Seoin tribe Archer / Lotus Leaf Man / Tree Spirit / Corridor Guard / Corridor Guard Artillery / Suwa Warrior / Suwa Guard / Dongja-ryeong / Black Bear / Black Wolf / Golden Moss Fox / Fishman Swordsman / Fishman Spearman / Ghost / Ney Nyan / Sea and Moon Monster/Nero Nero/White Tiger/Golden Snake\n\n<Normal>\nHermit Crab/Green Jade Crab/Snake Mushroom/Deer/Chicken/Sheep/Beginner Guard/Mutated Jellyfish/Old Spirit/Bear/Wolf/Fox/Beach Turtle /Imp/Sloppy Goblin/Badfoot/Apple Swallow/Moss Fox/Tiger/Tricolor\n\n- Others\n: If you acquire a soul you already own, it will be automatically converted to 25 Soul Fragments\n: Hero When acquiring a grade soul, it can be replaced with another soul in the 'Soul Confirmation' menu"
     },
     "99800024": {
         "deprecated": false,
-        "Dev_Desc": "신석 소환 / 상급 소울 소환 11회",
+        "Dev_Desc": "패키지 / IAP / 강호 초출 패키지",
         "id": 99800024,
-        "alias": "Contents.CashShop.Item.Desc.5008",
+        "alias": "Contents.CashShop.Item.Desc.25",
         "text": "[Available Soul List]\n\nAvailable to acquire 11 souls according to a set probability among the souls below\n(Class: Normal ~ Heroic)\n\n<Hero>\nCorrupt/Guardian Captain /Choryeongmok/Chief Duukshini/Runaway Guard Captain/Hongdonsam/Biryuha/Baobao/Kwak Horyong/Red Plum Blossom/Moonlight Wind/Furlong Perong/Wind God/Nakwondaeseong/Thunder God\n\n<rare>\nRarity/Myomyeon/Wood Wa clan size/swordsman swordsman/swordsman double swords/swordsman fighters/maehwadan expedition team member/maehwadan patrol member/younggyowon shaman/imyeonsu/bisamun manager/bisamun spy officer/mutated blues swordsman/mutated blueman assassin /mutated Blue Man Fighter/Hongdon Sentinel/Hongdon Combatant/Ilseonggwan Striker/Ilseonggwan Archer/Discipline Searcher/Discipline Watcher/Black Dawn Fighter/Black Dawn Assassin/Black Dawn Axeman/Blue Dawn Warrior/ Qingming fighter / Cheonmudan swordsman / Cheonmudan kwonsa / Myunghyedan scholar / Myunghyedan researcher / Pungbaekmun fighter / Pungbaekmun patrol officer / Yang Geon / Jin Myoyoung\n\n<advanced>\nSeoin warrior / Seoin tribe Archer / Lotus Leaf Man / Tree Spirit / Corridor Guard / Corridor Guard Artillery / Suwa Warrior / Suwa Guard / Dongjaryung / Black Bear / Black Wolf / Golden Moss Fox / Fishman Swordsman / Fishman Spearman / Ghost / Ney Nyan / Sea and Moon Monster/Nero Nero/White Tiger/Golden Snake\n\n<Normal>\nHermit Crab/Green Jade Crab/Snake Mushroom/Deer/Chicken/Sheep/Beginner Guard/Mutated Jellyfish/Old Spirit/Bear/Wolf/Fox/Beach Turtle /Imp/Sloppy Goblin/Puppy/Apple Swallow/Moss Fox/Tiger/Tricolor\n\n- Others\n: If you acquire a soul you already own, it will be automatically converted to 25 Soul Fragments\n: Hero When acquiring a grade soul, it can be replaced with another soul in the 'Soul Confirmation' menu"
     },
     "99800025": {
         "deprecated": false,
-        "Dev_Desc": "신석 소환 / 상급 수호령 소환 1회",
+        "Dev_Desc": "주화 / 비사전 / 정수 파편",
         "id": 99800025,
-        "alias": "Contents.CashShop.Item.Desc.5009",
+        "alias": "Contents.CashShop.Item.Desc.5000",
         "text": "[List of available guardian spirits]\n\nYou can acquire 1 guardian spirit according to a set probability among the following guardian spirits\n(Class: Normal ~ Heroic)\n\n<Hero>\nHong Seok-geun/Cheonjin-kwon /Hwajung/Saturated Oran/Haemujin\n\n<rare>\nJeonghado/Jin Soa/Namsoyou/Docheonpung/Geumgang Station/Thunder God/Nakwondaeseong/Taejanggeum\n\n<advanced>\nFlame water Wa / Water Suwa / Heuk Qian Elder / Heuk Qian Chef / Golden Balbali / General Tou / Nakwon Soseong / Hosooki / Snow Nyeo / Jararidan Elder\n\n<Normal>\nSuwa / Black Qiang/ Black Spear Chef / Grasshopper / Tow Soldier / Jar Bandits / Jar Ax Team / Paradise Clan\n\n- Others\n: When you acquire a hero level guardian spirit, you can replace it with another guardian spirit in the 'Confirm Guardian Spirit' menu"
     },
     "99800026": {
         "deprecated": false,
-        "Dev_Desc": "신석 소환 / 상급 수호령 소환 11회",
+        "Dev_Desc": "주화 / 도화 / 도인의 정기",
         "id": 99800026,
-        "alias": "Contents.CashShop.Item.Desc.5010",
+        "alias": "Contents.CashShop.Item.Desc.5001",
         "text": "[List of available guardian spirits]\n\nYou can acquire 11 guardian spirits according to a set probability among the following guardian spirits\n(Class: Normal ~ Heroic)\n\n<Hero>\nHong Seok-geun/Cheon Jin-kwon /Hwajung/Saturated Orchid/Haemujin\n\n<rare>\nJeonghado/Jinsoah/Namsoyou/Docheonpung/Geumgang Station/Thunder God/Nakwondaeseong/Taejanggeum\n\n<advanced>\nFlame water Wa / Water Suwa / Heuk Qian Elder / Heuk Qian Chef / Golden Balbali / General Tou / Nakwon Soseong / Hosooki / Snow Nyeo / Jararidan Elder\n\n<Normal>\nSuwa / Black Qiang/ Black Spear Chef / Grasshopper / Tow Soldier / Jar Bandits / Jar Ax Team / Paradise Clan\n\n- Others\n: When you acquire a hero level guardian spirit, you can replace it with another guardian spirit in the 'Confirm Guardian Spirit' menu"
     },
     "99800027": {
         "deprecated": false,
-        "Dev_Desc": "신석 소환 / 한정 소울 소환 1회",
+        "Dev_Desc": "주화 / 도화 / 기력의 비약",
         "id": 99800027,
-        "alias": "Contents.CashShop.Item.Desc.5011",
+        "alias": "Contents.CashShop.Item.Desc.5002",
         "text": "[Information on supplies]\n : Limited Soul Summon 1 time\n\n- Normal ~ Heroic level Soul acquired at a set probability\n : Limited Appearance Soul\n (Rare) Yuran, Geogeobung\n (Heroic) Jin Seo-yeon"
     },
     "99800028": {
         "deprecated": false,
-        "Dev_Desc": "신석 소환 / 한정 소울 소환 11회",
+        "Dev_Desc": "도화전 / 희귀 제작 비법서 상자",
         "id": 99800028,
-        "alias": "Contents.CashShop.Item.Desc.5012",
+        "alias": "Contents.CashShop.Item.Desc.5003",
         "text": "[Information on supplies]\n : Limited Soul Summon 11 times\n\n- Normal ~ Heroic grade Soul acquired at a set probability\n : Limited Appearance Soul\n (Rare) Yuran, Geogeobung\n (Hero) Jin Seo-yeon"
     },
     "99800029": {
         "deprecated": false,
-        "Dev_Desc": "신석 소환 / 한정 수호령 소환 1회",
+        "Dev_Desc": "비사전 / 장신구 강화 주문서",
         "id": 99800029,
-        "alias": "Contents.CashShop.Item.Desc.5013",
+        "alias": "Contents.CashShop.Item.Desc.5004",
         "text": "[Information on supplies]\n : Summon a limited guardian spirit 1 time\n\n- Obtain a regular ~ hero grade guardian spirit with a set probability\n : Limited appearance guardian spirit\n (Rare) Yuran, Geogeobung\n (Hero) Jin Seo-yeon"
     },
     "99800030": {
         "deprecated": false,
-        "Dev_Desc": "신석 소환 / 한정 수호령 소환 11회",
+        "Dev_Desc": "비사전 / 진경 : 합일 (희귀)",
         "id": 99800030,
-        "alias": "Contents.CashShop.Item.Desc.5014",
+        "alias": "Contents.CashShop.Item.Desc.5005",
         "text": "[Information on supplies]\n : Summon limited guardian spirit 11 times\n\n- Obtain Normal ~ Hero grade guardian spirit with a set probability\n : Limited appearance guardian spirit\n (Rare) Yuran, Geogeobung\n (Hero) Jin Seo-yeon"
     },
     "99800031": {
         "deprecated": false,
-        "Dev_Desc": "신석 소환 / 픽업 소울 소환 1회",
+        "Dev_Desc": "비사전 / 무공서 조각",
         "id": 99800031,
-        "alias": "Contents.CashShop.Item.Desc.5015",
+        "alias": "Contents.CashShop.Item.Desc.5006",
         "text": "[List of available souls]\n\nYou can acquire 1 soul according to a set probability among the souls below\n(Class: Normal ~ Hero)\n\n<Hero>\nBiryuha/Bao Bao/Ho-Ryong Kwak\n\n\n<rare>\nRarity/Rarity/Myomyeon/Bisamun Officer/Bisamun spy agent/Hongdon sentry/Hongdon fighter/Ilseongkwan slayer/Ilseongkwan Archer/Myunghyedan Scholar/Myunghyedan Researcher\n\n <Advanced>\nWestern Warrior / Westin Archer / Lotus Leaf Man / Tree Spirit / Corridor Guard / Corridor Guard Artillery / Suwa Warrior / Suwa Guard / Dong Jaryeong / Black Bear / Black Wolf / Golden Moss Fox / Fishman Swordsman / Fishman Spearman / Ghost / Neignan / Sea and Moon Monster / Nero Nero / White Tiger / Golden Frog\n\n<Normal>\n Hermit Crab / Green Jade Crab / Snake Mushroom / Deer / Chicken / Sheep / Beginner Guard / Mutated Jellyfish /Homeless Spirit/Bear/Wolf/Fox/Beach Turtle/Imp/Sloppy Goblin/Poppause/Apple Dogfish/Moss Fox/Tiger/Tricolor\n\n- Others\n: If you acquire a soul you already have in duplicate, Automatically converted to 25 Soul Fragments\n: When you acquire a hero-grade soul, you can exchange it for another soul in the 'Soul Confirmation' menu"
     },
     "99800032": {
         "deprecated": false,
-        "Dev_Desc": "신석 소환 / 픽업 소울 소환 11회",
+        "Dev_Desc": "신석 소환 / 상급 소울 소환 1회",
         "id": 99800032,
-        "alias": "Contents.CashShop.Item.Desc.5016",
-        "text": "[List of available souls]\n\nAvailable to acquire 11 souls according to a set probability among the souls below\n(Class: Normal ~ Heroic)\n\n<Hero>\nBiryuha/Bao Bao/Ho-Ryong Kwak\n\n\n<rare>\nAnthorn crow/Myomyeon tribe/Bisamun officer/Bisamun spy agent/Hongdon sentry/Hongdon combat soldier/Ilseongkwan stinger/Ilseongkwan archer/Myunghyedan Scholar/Myunghyedan researcher\n\n <Advanced>\nWestern Warrior / Westin Archer / Lotus Leaf Man / Tree Spirit / Corridor Guard / Corridor Guard Artillery / Suwa Warrior / Suwa Guard / Dong Jaryeong / Black Bear / Black Wolf / Golden Moss Fox / Fishman Swordsman/ Fishman Spearman/Spectre/Nyanyan/Sea and Moon Monster/Nero Nero/White Tiger/Golden Frog\n\n<Normal>\n Hermit Crab/Green Jelly Crab/Snake Mushroom/Deer/Chicken/Sheep/Beginner Guard/Mutated Jellyfish /Homeless Spirit/Bear/Wolf/Fox/Beach Turtle/Imp/Sloppy Goblin/Poppause/Apple Dogfish/Moss Fox/Tiger/Tricolor\n\n- Others\n: If you acquire a soul you already have in duplicate, Automatically converted to 25 soul fragments\n: When you acquire a hero-grade soul, you can exchange it for another soul in the 'Soul Confirmation' menu"
+        "alias": "Contents.CashShop.Item.Desc.5007",
+        "text": "[List of available souls]\n\nAvailable to acquire 11 souls according to a set probability among the souls below\n(Class: Normal ~ Heroic)\n\n<Hero>\nBiryuha/Bao Bao/Ho-Ryong Kwak\n\n\n<rare>\nAnthorn crow/Myomyeon tribe/Bisamun officer/Bisamun spy agent/Hongdon sentry/Hongdon combat soldier/Ilseongkwan stinger/Ilseongkwan archer/Myunghyedan Scholar/Myunghyedan researcher\n\n <Advanced>\nWestern Warrior / Westin Archer / Lotus Leaf Man / Tree Spirit / Corridor Guard / Corridor Guard Artillery / Suwa Warrior / Suwa Guard / Dong Jaryeong / Black Bear / Black Wolf / Golden Moss Fox / Fishman Swordsman/ Fishman Spearman/Spectre/Nyanyan/Sea and Moon Monster/Nero Nero/White Tiger/Golden Frog\n\n<Normal>\n Hermit Crab/Green Jelly Crab/Snake Mushroom/Deer/Chicken/Sheep/Beginner Guard/Mutated Jellyfish /Homeless Spirit/Bear/Wolf/Fox/Beach Turtle/Imp/Sloppy Goblin/Poppause/Apple Dogfish/Moss Fox/Tiger/Tricolor\n\n- Others\n: If you acquire a soul you already have in duplicate, Automatically converted to 25 soul fragments\n: When you acquire a hero-grade soul, you can exchange it for another soul in the 'Soul Confirmation' menu",
+        "열1": "아"
     },
     "99800033": {
         "deprecated": false,
-        "Dev_Desc": "신석 /성장 지원 패키지",
+        "Dev_Desc": "신석 소환 / 상급 소울 소환 11회",
         "id": 99800033,
-        "alias": "Contents.CashShop.Item.Desc.5017",
+        "alias": "Contents.CashShop.Item.Desc.5008",
         "text": "[Information on supplies]\n: 1 growth support package\n\n- Category: Consumables (box)\n- Use: Obtain the following items when used\n: 100,000 gold coins\n: Baeknyeoncho dumplings (engraved) 10ea\n: Shiny Yongbongtang (engraved) 10ea\n: Returning Stones (engraved) 20ea\n- Other settings: Storage not allowed, not traded, not for sale\n\n* Baeknyeoncho dumplings (Engraving)\n- Classification: Consumables (Food)\n- Effect: When used, attack-related stats are greatly increased (Cooldown: 30 minutes)\n: Attack +2 / Accuracy +1 / Penetration +3\n: Other food Cannot be stacked with item use effects\n- Other settings: Cannot be traded\n\n* Shiny Dragon Bongtang (Imprint)\n- Classification: Consumables (Food)\n- When used, experience gain increases by 10% for 30 minutes\n - Other settings: non-tradeable, non-sellable\n\n* Return stone (engraved)\n- Category: Consumables\n- Effect: Move to the nearest town when used\n- Other settings: Non-tradeable\n\n [Purchase limit]\n30 times per month for each server\n\nReset the number of purchases at 00:00 on the 1st of every month"
     },
     "99800034": {
         "deprecated": false,
-        "Dev_Desc": "신석 / 도화상전 금화상자",
+        "Dev_Desc": "신석 소환 / 상급 수호령 소환 1회",
         "id": 99800034,
-        "alias": "Contents.CashShop.Item.Desc.5018",
+        "alias": "Contents.CashShop.Item.Desc.5009",
         "text": "[Information on supplies]\n: 1 gold coin box \n\n- Category: Consumables (box)\n- Use: When used, the following items can be obtained at a set probability\n: Mystic Gold Chest: 200,000\n: Mystic Gold Chest: 300,000\n: Mystic Gold Coin Chest: 500,000\n: Mystic Gold Coin Chest: 1,000,000\n: Mystic Gold Coin Chest: 1.5,000,000\n: Mystic Gold Coin Chest: 1.8,000,000 \n- Other settings: Storage not allowed, trade not allowed, cannot be sold\n\n* Mysterious gold coin box: 200,000\n- Classification: Consumables (box)\n- Use effect: The following goods can be obtained when used\n : 200,000 gold coins\n- Other settings: storage impossible, trading impossible, non-sellable\n\n* Mysterious gold coin box: 300,000\n- Classification: Consumables (box)\n- Use effect: When used, the following goods Obtainable\n: Gold Coin 300,000\n- Other Settings: Storage Unavailable, Untradeable, Unsellable\n\n* Mysterious Gold Coin Box: 500,000\n- Classification: Consumables (Crate)\n- Use: Use The following goods can be acquired\n: Gold 500,000\n- Other settings: Storage impossible, non-tradeable, non-sellable\n\n* Mysterious Gold Coin Box: 1 million\n- Category: Consumables (Crate)\n- Use: When used, the following goods can be obtained\n: 1 million gold coins\n- Other settings: storage not allowed, non-tradeable, non-sellable\n\n* Mystic Gold Coin Box: 1.5 million\n- Category: Consumables (Crates) )\n- Use effect: When used, the following goods can be obtained\n: 1.5 million gold coins\n- Other settings: Storage impossible, trade impossible, sales impossible\n\n* Mysterious gold coin box: 1.8 million\n- Category : Consumables (box)\n- Use effect: When used, the following goods can be obtained\n: 1.8 million gold coins\n- Other settings: Storage impossible, trade impossible, sales impossible\n\n[Purchase limit]\neach 10 times per day per server\n\nReset the number of purchases at 00:00 every day"
     },
     "99800035": {
         "deprecated": false,
-        "Dev_Desc": "신석 / 내력의 단환 10개",
+        "Dev_Desc": "신석 소환 / 상급 수호령 소환 11회",
         "id": 99800035,
-        "alias": "Contents.CashShop.Item.Desc.5019",
+        "alias": "Contents.CashShop.Item.Desc.5010",
         "text": "[Information on supplies]\n: A bundle of 10 single rings (engraving) of strength\n\n- Category: Consumables\n- Use effect: Instantly recovers strength when used (Cooldown time 5 minutes)\n- Other settings: warehouse storage impossible, transaction impossible, sales impossible\n\n[Purchase limit]\n10 times per day for each server\n\nReset the number of purchases at 00:00 every day"
     },
     "99800036": {
         "deprecated": false,
-        "Dev_Desc": "신석 / 망각의 영약",
+        "Dev_Desc": "신석 소환 / 한정 소울 소환 1회",
         "id": 99800036,
-        "alias": "Contents.CashShop.Item.Desc.5020",
+        "alias": "Contents.CashShop.Item.Desc.5011",
         "text": "[Information on supplies]\n: Elixir of Oblivion (Imprint) x1\n\n- Classification: Material\n- Use: Reset character stats when used\n: 'Reset' button in character stat information Used as\n- Other settings: non-tradeable, non-sellable"
     },
     "99800037": {
         "deprecated": false,
-        "Dev_Desc": "신석 / 환혼의 서",
+        "Dev_Desc": "신석 소환 / 한정 소울 소환 11회",
         "id": 99800037,
-        "alias": "Contents.CashShop.Item.Desc.5021",
+        "alias": "Contents.CashShop.Item.Desc.5012",
         "text": "[Information on supplies]\n: 1 book of remarriage (engraving)\n\n- Classification: Material\n- Use effect: Reset character swordsword growth when used\n: 'Reset' button in the swordsman menu Used as\n- Other settings: warehouse storage impossible, transaction impossible, sale impossible"
     },
     "99800038": {
         "deprecated": false,
-        "Dev_Desc": "신석 / 금화 50만 상자",
+        "Dev_Desc": "신석 소환 / 한정 수호령 소환 1회",
         "id": 99800038,
-        "alias": "Contents.CashShop.Item.Desc.5022",
+        "alias": "Contents.CashShop.Item.Desc.5013",
         "text": "[Information on supplies]\n: 1 huge gold coin box\n\n- Category: Consumables\n- Obtain 500,000 gold coins when used"
     },
     "99800039": {
         "deprecated": false,
-        "Dev_Desc": "신석 / 뇌성의 포효 상자",
+        "Dev_Desc": "신석 소환 / 한정 수호령 소환 11회",
         "id": 99800039,
-        "alias": "Contents.CashShop.Item.Desc.5023",
+        "alias": "Contents.CashShop.Item.Desc.5014",
         "text": "[Supplies Guide]\n1 Thunder Roar Box\n\n- Category: Consumables (Crate)\n- Use: Obtain the following items when used\n: 1 Thunder Roar\n : 10 Baobao's Enhancement Scrolls\n- Other settings: Storage not allowed, trade not allowed, cannot be sold\n\n* Roar of Thunder\n- Classification: Equipment (Earrings)\n- Equip Effect: (On the enhancement level It has the following effects)\n+0 : DEF 1\n+1~ : DEF increases by 1\n+3~ : Self-Defense increases by 1 additional\n+5~ : Soul resistance increases by 0.5% additionally\n+ 6~: Control resistance increases by 1% additionally\n- Restrictions: You cannot wear more than one earring with the same name\n- Other settings: Cannot store in warehouse, cannot trade\n\n* Baobao's enhancement order book\n - Classification: Order book\n- Use effect: When used on special accessories, the enhancement value increases by 1 according to a set probability\n- Other settings: Cannot be traded, cannot be sold"
     },
     "99800040": {
         "deprecated": false,
-        "Dev_Desc": "신석 / 뇌성의 포효 상자 11개",
+        "Dev_Desc": "신석 소환 / 픽업 소울 소환 1회",
         "id": 99800040,
-        "alias": "Contents.CashShop.Item.Desc.5024",
+        "alias": "Contents.CashShop.Item.Desc.5015",
         "text": "[Supplies Information]\nA bundle of 11 Thunder Roar Boxes\n\n- Classification: Consumables (Boxes)\n- Use: When used, obtain the following items\n: Thunder Roar x1\n: 10 Baobao's Enhancement Scrolls\n- Other settings: Storage impossible, trading impossible, not selling\n\n* Roar of Thunder\n- Classification: Equipment (Earrings)\n- Equip Effect: (Enhancement Value) has the following effects)\n+0 : DEF 1\n+1~ : DEF rises by 1\n+3~ : Defense rises by 1 additional\n+5~ : Soul resistance increases by 0.5% additionally\n +6~: Increases control resistance by 1% additionally\n- Restrictions: You cannot wear more than one earring with the same name\n- Other settings: Cannot store in warehouse, cannot trade\n\n* Baobao's Enhancement Order\n- Classification: Order book\n- Use effect: When used on special accessories, the enhancement value increases by 1 according to a set probability\n- Other settings: Cannot be traded, cannot be sold"
     },
     "99800041": {
         "deprecated": false,
-        "Dev_Desc": "신석 / 백화의 불꽃 상자",
+        "Dev_Desc": "신석 소환 / 픽업 소울 소환 11회",
         "id": 99800041,
-        "alias": "Contents.CashShop.Item.Desc.5025",
+        "alias": "Contents.CashShop.Item.Desc.5016",
         "text": "[Supplies Information]\nOne Flower of Flower Box\n\n- Category: Consumables (Box)\n- Use: When used, obtain the following items\n: One Flower of Flower\n: Baobao's 10 Enhancement Scrolls\n- Other Settings: Storage impossible, trade impossible, sales impossible\n\n* Flame of a Flower\n- Classification: Equipment (Earrings)\n- Equip Effect: (According to the enhancement level, the following effects are applied. have)\n+0 : Penetration 1\n+1~ : Penetration increases by 1\n+3~ : Attack power increases by additional 1\n+5~ : Crit rate increases by 0.5% additional\n+6~ : Non-attack damage Increases amplification by 0.5% additional increase\n- Restrictions: You cannot wear more than one earring with the same name\n- Other settings: Cannot store in warehouse, cannot trade\n\n* Baobao's Enhancement Orders\n- Category: Orders \n- Use effect: When used on special accessories, the enhancement value increases by 1 according to a set probability\n- Other settings: Cannot be traded, cannot be sold"
     },
     "99800042": {
         "deprecated": false,
-        "Dev_Desc": "신석 / 백화의 불꽃 상자 11개",
+        "Dev_Desc": "신석 /성장 지원 패키지",
         "id": 99800042,
-        "alias": "Contents.CashShop.Item.Desc.5026",
+        "alias": "Contents.CashShop.Item.Desc.5017",
         "text": "[Information on supplies]\nA pack of 11 flower boxes\n\n- Category: Consumables (Boxes)\n- Use: When used, obtain the following items\n: Flower of Flowers 1x\n: 10 Baobao's Enhancement Scrolls\n- Other settings: Storage impossible, non-tradable, non-sellable\n\n* Flame of Hundred Flowers\n- Classification: Equipment (Earrings)\n- Equip Effect: (Enhancement value) has the following effects)\n+0 : Penetration 1\n+1~ : Penetration increases by 1\n+3~ : Attack power increases by 1 additional\n+5~ : Crit rate increases by 0.5% additionally\n+ 6~: Increases damage amplification by 0.5% additionally\n- Restrictions: You cannot wear more than one earring with the same name\n- Other settings: Cannot store in warehouse, cannot trade\n\n* Baobao's Enhancement Order\n- Classification: Order book\n- Use effect: When used on special accessories, the enhancement value increases by 1 according to a set probability\n- Other settings: Cannot be traded, cannot be sold"
     },
     "99800043": {
         "deprecated": false,
-        "Dev_Desc": "신석 / 타락의 속삭임 상자",
+        "Dev_Desc": "신석 / 도화상전 금화상자",
         "id": 99800043,
-        "alias": "Contents.CashShop.Item.Desc.5027",
+        "alias": "Contents.CashShop.Item.Desc.5018",
         "text": "[Supplies Guide]\n1 Corruption Whisper Box\n\n- Category: Consumables (Crate)\n- Use: When used, obtain the following items\n: Whispers of Corruption 1x\n : 10 Baobao's Enhancement Scrolls\n- Other Settings: Storage not allowed, non-tradable, non-sellable\n\n* Whispers of Corruption\n- Classification: Equipment (Bracelet)\n- Equip Effect: (On the enhancement level It has the following effects)\n+0 : Evasion 1, Life regeneration 3\n+1~ : Evasion increases by 1\n+3~ : DEF increases by 1 additional\n+5~ : Non-attack damage resistance 0.5% each Additional increase\n+6: Add 5% control resistance\n+6~: Increase control resistance by 1% additionally\n- Restrictions: You cannot wear more than one bracelet with the same name\n- Other settings: Cannot store storage , Untradeable\n\n* Baobao's Enhancement Scroll\n- Classification: Spellbook\n- Use: When used on special accessories, the enhancement value increases by 1 according to a set probability\n- Other settings: Non-tradeable, non-sellable "
     },
     "99800044": {
         "deprecated": false,
-        "Dev_Desc": "신석 / 타락의 속삭임 상자 11개",
+        "Dev_Desc": "신석 / 내력의 단환 10개",
         "id": 99800044,
-        "alias": "Contents.CashShop.Item.Desc.5028",
+        "alias": "Contents.CashShop.Item.Desc.5019",
         "text": "[Supplies Guide]\nA bundle of 11 Whispers of Corruption Boxes\n\n- Category: Consumables (Boxes)\n- Use: When used, obtain the following items\n: Whispers of Corruption 1x\n: 10 Baobao's Enhancement Scrolls\n- Other settings: Storage impossible, non-tradable, non-sellable\n\n* Whispers of Corruption\n- Classification: Equipment (Bracelet)\n- Equip Effect: (Enhancement value) It has the following effects depending on Each additional increase\n+6: Control resistance increases by 5%\n+6~: Control resistance increases by additional 1%\n- Restrictions: You cannot wear more than one bracelet with the same name\n- Other settings: Storage Impossible, non-tradable\n\n* Baobao's Enhancement Scroll\n- Classification: Spellbook\n- Use: When used on special accessories, the enhancement value increases by 1 according to a set probability\n- Other settings: Non-tradeable, sold impossible"
     },
     "99800045": {
         "deprecated": false,
-        "Dev_Desc": "신석 / 질풍의 진노 상자",
+        "Dev_Desc": "신석 / 망각의 영약",
         "id": 99800045,
-        "alias": "Contents.CashShop.Item.Desc.5029",
+        "alias": "Contents.CashShop.Item.Desc.5020",
         "text": "[Supplies Information]\nWrath of the Windfury Box x1\n\n- Category: Consumables (Crate)\n- Use: When used, obtain the following items\n: Wrath of the Windfury x1\n : 10 Baobao's Enhancement Scrolls\n- Other settings: Storage not allowed, not traded, not sold\n\n* Wrath of the Windfury\n- Classification: Equipment (Bracelet)\n- Equip Effect: (On the enhancement level has the following effects)\n+0: Accuracy 1, weapon attack amplification 3%\n+1~ : Accuracy increases by 1\n+3~ : Weapon attack increases by 1 additional\n+5~ : Control hit rate 0.5 Increases by additional %\n+6~ : Increases basic attack speed by 0.5% additionally\n- Restrictions: You cannot wear more than one bracelet with the same name\n- Other settings: Cannot store in storage, cannot trade\n\n * Baobao's Enhancement Scroll\n- Classification: Spellbook\n- Use: When used on special accessories, the enhancement value increases by 1 according to a set probability\n- Other settings: Non-tradeable, non-sellable"
     },
     "99800046": {
         "deprecated": false,
-        "Dev_Desc": "신석 / 질풍의 진노 상자 11개",
+        "Dev_Desc": "신석 / 환혼의 서",
         "id": 99800046,
-        "alias": "Contents.CashShop.Item.Desc.5030",
+        "alias": "Contents.CashShop.Item.Desc.5021",
         "text": "[Supplies Guide]\nWrath of Windfury Box Pack of 11\n\n- Category: Consumables (Box)\n- Use: When used, obtain the following items\n: Wrath of Windfury x 1\n: 10 Baobao's Enhancement Scrolls\n- Other settings: Storage not allowed, not traded, not sold\n\n* Wrath of the Windfury\n- Classification: Equipment (Bracelet)\n- Equip Effect: (Enhancement Value) has the following effects)\n+0 : Accuracy 1, weapon attack amplification 3%\n+1~ : Accuracy increases by 1\n+3~ : Weapon attack increases by 1 additional\n+5~ : Control hit rate Additional increase by 0.5%\n+6~: Basic attack speed increases by additional 0.5%\n- Restrictions: You cannot wear two or more bracelets with the same name\n- Other settings: Storage not allowed, cannot be traded\n\n* Baobao's Enhancement Scroll\n- Classification: Spellbook\n- Use: When used on special accessories, the enhancement value increases by 1 according to a set probability\n- Other settings: Cannot be traded, cannot be sold"
     },
     "99800047": {
         "deprecated": false,
-        "Dev_Desc": "금화 / 일반 소울 소환 ",
+        "Dev_Desc": "신석 / 금화 50만 상자",
         "id": 99800047,
-        "alias": "Contents.CashShop.Item.Desc.5031",
+        "alias": "Contents.CashShop.Item.Desc.5022",
         "text": "[Available Soul List]\n\nYou can acquire 1 soul according to a set probability from among the souls below\n(Class: Common ~ Rare)\n\n<Rare>\nAntler/Crab Myeonjok / Suwa clan size / Spear team swordsman / Sword dagger double swords / Spear gang fighters / Plum Blossom Team Exploration Team / Plum Blossom Team Patrol Team / Young Gyowon Shaman / Lim Yeon Soo / Bissamun Inspector / Bisamun spy manager / Mutated Blue People Swordsman / Mutated Blue Man Assassin / Mutated Blue Man Fighter / Red Don Sentinel / Red Don Combatant / Ilsung Kwan Striker / Il Sung Kwan Archer / Discipline Searcher / Discipline Watchman / Black Dawn Combatant / Black Dawn Assassin / Black Dawn Axeman / Blue Dawn Blue Warrior / Blue Warrior Warrior / Cheonmudan Swordsman / Cheonmudan Kwonsa / Myunghyedan Scholar / Myunghyedan Researcher\n\n<Advanced>\nSeoin Warrior / Westin Archer / Lotus Leaf Man / Tree Spirit / Corridor Guard / Corridor Guardian Artillery / Suwa Warrior / Suwa Guard / Dongja-ryeong / Black Bear / Black Wolf / Golden Moss Fox / Fishman Swordsman / Fishman Spearman / Spectre / Neignan / Sea and Moon Monster / Nero Nero / White Tiger / Golden Bargain\n \n<Normal>\nHermit Crab / Green Jade Crab / Snake Mushroom / Deer / Chicken / Sheep / Beginner Guard / Mutated Jellyfish / Homeless Spirit / Bear / Wolf / Fox / Beach Turtle / Little Goblin / Sloppy Goblin / Pawfish / Apple Swordfish/ Moss Fox/Tiger/Tricolor\n\n- Others\n: If you acquire a soul you already own, it will be automatically converted to 25 soul shards\n\n[Purchase limit]\nOnce per day per server \nAvailable only for purchases above level 20\n\nReset the number of purchases at 00:00 every day"
     },
     "99800048": {
         "deprecated": false,
-        "Dev_Desc": "금화 / 상급 소울 소환 ",
+        "Dev_Desc": "신석 / 뇌성의 포효 상자",
         "id": 99800048,
-        "alias": "Contents.CashShop.Item.Desc.5032",
+        "alias": "Contents.CashShop.Item.Desc.5023",
         "text": "[Available Soul List]\n\nYou can acquire 1 soul according to a set probability from among the souls below\n(Class: Normal ~ Hero)\n\n<Hero>\nCorrupt/Guardian Captain /Choryeongmok/Chief Duukshini/Runaway Guard Captain/Hongdonsam/Biryuha/Baobao/Kwak Horyong/Red Plum Blossom/Moonlight Wind/Furlong Perong/Wind God/Nakwondaeseong/Thunder God\n\n<rare>\nRarity/Myomyeon/Wood Wa clan size/swordsman swordsman/swordsman double swords/swordsman fighters/maehwadan expedition team member/maehwadan patrol team/younggyowon shaman/imyeonsu/bisamun manager/bisamun spy officer/mutated blues swordsman/mutated blueman assassin /mutated Blue Man Fighter/Hongdon Sentinel/Hongdon Combatant/Ilseonggwan Striker/Ilsunggwan Archer/Discipline Searcher/Discipline Watcher/Black Dawn Fighter/Black Dawn Assassin/Black Dawn Axeman/Blue Dawn Warrior/ Qingming fighter / Cheonmudan swordsman / Cheonmudan kwonsa / Myunghyedan scholar / Myunghyedan researcher / Pungbaekmun fighter / Pungbaekmun patrol officer / Yang Geon / Jin Myoyoung\n\n<advanced>\nSeoin warrior / Seoin tribe Archer / Lotus Leaf Man / Tree Spirit / Corridor Guard / Corridor Guard Artillery / Suwa Warrior / Suwa Guard / Dongja-ryeong / Black Bear / Black Wolf / Golden Moss Fox / Fishman Swordsman / Fishman Spearman / Ghost / Ney Nyan / Sea and Moon Monster/Nero Nero/White Tiger/Golden Snake\n\n<Normal>\nHermit Crab/Green Jade Crab/Snake Mushroom/Deer/Chicken/Sheep/Beginner Guard/Mutated Jellyfish/Old Spirit/Bear/Wolf/Fox/Beach Turtle /Imp/Sloppy Goblin/Badfoot/Apple Swallow/Moss Fox/Tiger/Tricolor\n\n- Others\n: If you acquire a soul you already own, it will be automatically converted to 25 Soul Fragments\n: Hero When acquiring a rank soul, you can replace it with another soul in the 'Soul Confirmation' menu\n\n[Purchase Restriction]\nOnce per day per server\nYou can only purchase level 30 or higher\n\nReset the number of purchases at 00:00 every day"
     },
     "99800049": {
         "deprecated": false,
-        "Dev_Desc": "금화 / 상급 소울 소환 2",
+        "Dev_Desc": "신석 / 뇌성의 포효 상자 11개",
         "id": 99800049,
-        "alias": "Contents.CashShop.Item.Desc.5033",
+        "alias": "Contents.CashShop.Item.Desc.5024",
         "text": "[Available Soul List]\n\nYou can acquire 1 soul according to a set probability from among the souls below\n(Class: Normal ~ Hero)\n\n<Hero>\nCorrupt/Guardian Captain /Choryeongmok/Chief Duukshini/Runaway Guard Captain/Hongdonsam/Biryuha/Baobao/Kwak Horyong/Red Plum Blossom/Moonlight Wind/Furlong Perong/Wind God/Nakwondaeseong/Thunder God\n\n<rare>\nRarity/Myomyeon/Wood Wa clan size/swordsman swordsman/swordsman double swords/swordsman fighters/maehwadan expedition team member/maehwadan patrol member/younggyowon shaman/imyeonsu/bisamun manager/bisamun spy officer/mutated blues swordsman/mutated blueman assassin /mutated Blue Man Fighter/Hongdon Sentinel/Hongdon Combatant/Ilseonggwan Striker/Ilsunggwan Archer/Discipline Searcher/Discipline Watcher/Black Dawn Fighter/Black Dawn Assassin/Black Dawn Axeman/Blue Dawn Warrior/ Qingming fighter / Cheonmudan swordsman / Cheonmudan kwonsa / Myunghyedan scholar / Myunghyedan researcher / Pungbaekmun fighter / Pungbaekmun patrol officer / Yang Geon / Jin Myoyoung\n\n<advanced>\nSeoin warrior / Seoin tribe Archer / Lotus Leaf Man / Tree Spirit / Corridor Guard / Corridor Guard Artillery / Suwa Warrior / Suwa Guard / Dongjaryung / Black Bear / Black Wolf / Golden Moss Fox / Fishman Swordsman / Fishman Spearman / Ghost / Ney Nyan / Sea and Moon Monster/Nero Nero/White Tiger/Golden Snake\n\n<Normal>\nHermit Crab/Green Jade Crab/Snake Mushroom/Deer/Chicken/Sheep/Beginner Guard/Mutated Jellyfish/Old Spirit/Bear/Wolf/Fox/Beach Turtle /Imp/Sloppy Goblin/Puppy/Apple Swallow/Moss Fox/Tiger/Tricolor\n\n- Others\n: If you acquire a soul you already own, it will be automatically converted to 25 Soul Fragments\n: Hero When acquiring a rank soul, you can replace it with another soul in the 'Soul Confirmation' menu\n\n[Purchase limit]\nOnce per day for each server\nPurchase only at level 40 or higher\n\nReset the number of purchases at 00:00 every day"
     },
     "99800050": {
         "deprecated": false,
-        "Dev_Desc": "금화 / 상급 소울 소환 3",
+        "Dev_Desc": "신석 / 백화의 불꽃 상자",
         "id": 99800050,
-        "alias": "Contents.CashShop.Item.Desc.5034",
+        "alias": "Contents.CashShop.Item.Desc.5025",
         "text": "[List of available souls]\n\nYou can acquire 1 soul according to a set probability among the souls below\n(Class: Normal ~ Hero)\n\n<Hero>\nCorrupt/Guardian Captain /Choryeongmok/Chief Duukshini/Runaway Guard Captain/Hongdonsam/Biryuha/Baobao/Kwak Horyong/Red Plum Blossom/Moonlight Wind/Furlong Perong/Wind God/Nakwondaeseong/Thunder God\n\n<rare>\nRarity/Myomyeon/Wood Wa clan size/swordsman swordsman/swordsman double swords/swordsman fighters/maehwadan expedition team member/maehwadan patrol member/younggyowon shaman/imyeonsu/bisamun manager/bisamun spy officer/mutated blues swordsman/mutated blueman assassin /mutated Blue Man Fighter/Hongdon Sentinel/Hongdon Combatant/Ilseonggwan Striker/Ilseonggwan Archer/Discipline Searcher/Discipline Watcher/Black Dawn Fighter/Black Dawn Assassin/Black Dawn Axeman/Blue Dawn Warrior/ Qingming fighter / Cheonmudan swordsman / Cheonmudan kwonsa / Myunghyedan scholar / Myunghyedan researcher / Pungbaekmun fighter / Pungbaekmun patrol officer / Yanggeon / Jin Myoyoung\n\n<advanced>\nSeoin warrior / Seoin tribe Archer / Lotus Leaf Man / Tree Spirit / Corridor Guard / Corridor Guard Artillery / Suwa Warrior / Suwa Guard / Dongja-ryeong / Black Bear / Black Wolf / Golden Moss Fox / Fishman Swordsman / Fishman Spearman / Ghost / Ney Nyan / Sea and Moon Monster/Nero Nero/White Tiger/Golden Snake\n\n<Normal>\nHermit Crab/Green Jade Crab/Snake Mushroom/Deer/Chicken/Sheep/Beginner Guard/Mutated Jellyfish/Old Spirit/Bear/Wolf/Fox/Beach Turtle /Imp/Sloppy Goblin/Puppy/Apple Swallow/Moss Fox/Tiger/Tricolor\n\n- Others\n: If you acquire a soul you already own, it will be automatically converted to 25 Soul Fragments\n: Hero When acquiring a grade soul, you can replace it with another soul in the 'Soul Confirmation' menu\n\n[Purchase Restriction]\nOnce per day per server\nOnly purchases above level 50 are possible\n\nThe number of purchases reset at 00:00 every day"
     },
     "99800051": {
         "deprecated": false,
-        "Dev_Desc": "금화 / 일반 수호령 소환",
+        "Dev_Desc": "신석 / 백화의 불꽃 상자 11개",
         "id": 99800051,
-        "alias": "Contents.CashShop.Item.Desc.5035",
+        "alias": "Contents.CashShop.Item.Desc.5026",
         "text": "[List of available guardian spirits]\n\nYou can acquire 1 guardian spirit according to a set probability among the following guardian spirits\n(Class: Common ~ Rare)\n\n<Rare>\nJeonghado/ Jin So-ah / Nam So-yu / Docheon-pung / Geumgang Station / God of Thunder / Nakwon Daeseong / Taejang-geum\n\n<advanced>\nFire Suwa / Water Suwa / Heukqian Elder / Heukqian Chief Chef/Golden Baldi/ General Tou/Paradise Soseong/Hosooki/Snownyeo/Elder of the jar gang\n\n<normal>\nSuwa/Black spear/Black spear cook/ Grasshopper/Tou soldier/Jar thieves/Jar axe/Paradise\n\n[Purchase Restriction]\nOnce per day per server\nYou can only purchase level 20 or higher\n\nReset the number of purchases at 00:00 every day"
     },
     "99800052": {
         "deprecated": false,
-        "Dev_Desc": "금화 / 상급 수호령 소환",
+        "Dev_Desc": "신석 / 타락의 속삭임 상자",
         "id": 99800052,
-        "alias": "Contents.CashShop.Item.Desc.5036",
+        "alias": "Contents.CashShop.Item.Desc.5027",
         "text": "[List of available guardian spirits]\n\nYou can acquire 1 guardian spirit according to a set probability among the following guardian spirits\n(Class: Normal ~ Heroic)\n\n<Hero>\nHong Seok-geun/Cheon Jin-kwon /Hwajung/Saturated Oran/Haemujin\n\n<rare>\nJeonghado/Jin Soa/Namsoyou/Docheonpung/Geumgang Station/Thunder God/Nakwondaeseong/Taejanggeum\n\n<advanced>\nFlame water Wa / Water Suwa / Heuk Qian Elder / Heuk Qian Chef / Golden Balbali / General Tou / Nakwon Soseong / Hosooki / Snow Nyeo / Jararidan Elder\n\n<Normal>\nSuwa / Black Qiang/ Black Spear Chef / Grasshopper / Tow Soldier / Jar Bandits / Jar Ax Team / Paradise Clan\n\n- Others\n: When you acquire a hero level guardian spirit, you can replace it with another guardian spirit in the 'Confirm Guardian Spirit' menu\n\n[Purchase] Limited]\nOnly once per day per server\nAvailable for purchases above level 30\n\nReset the number of purchases at 00:00 every day"
     },
     "99800053": {
         "deprecated": false,
-        "Dev_Desc": "금화 / 상급 수호령 소환 2",
+        "Dev_Desc": "신석 / 타락의 속삭임 상자 11개",
         "id": 99800053,
-        "alias": "Contents.CashShop.Item.Desc.5037",
+        "alias": "Contents.CashShop.Item.Desc.5028",
         "text": "[List of available guardian spirits]\n\nYou can acquire 1 guardian spirit according to a set probability among the following guardian spirits\n(Rank: Normal ~ Heroic)\n\n<Hero>\nHong Seok-geun/Cheon Jin-kwon /Hwajung/Saturated Orchid/Haemujin\n\n<rare>\nJeonghado/Jinsoah/Namsoyou/Docheonpung/Geumgang Station/Thunder God/Nakwondaeseong/Taejanggeum\n\n<advanced>\nFlame water Wa / Water Suwa / Heuk Qian Elder / Heuk Qian Chef / Golden Balbali / General Tou / Nakwon Soseong / Hosooki / Snow Nyeo / Jararidan Elder\n\n<Normal>\nSuwa / Black Qiang/ Black Spear Chef / Grasshopper / Tow Soldier / Jar Thieves / Jar Ax Team / Paradise Clan\n\n- Others\n: When acquiring a hero level guardian spirit, it can be replaced with another guardian spirit in the 'Confirm Guardian Spirit' menu\n\n[Purchase] Restriction]\nOnly once per day per server\nAvailable for purchases above level 40\n\nReset the number of purchases at 00:00 every day"
     },
     "99800054": {
         "deprecated": false,
-        "Dev_Desc": "금화 / 상급 수호령 소환 3",
+        "Dev_Desc": "신석 / 질풍의 진노 상자",
         "id": 99800054,
-        "alias": "Contents.CashShop.Item.Desc.5038",
+        "alias": "Contents.CashShop.Item.Desc.5029",
         "text": "[List of available guardian spirits]\n\nYou can acquire 1 guardian spirit according to a set probability among the following guardian spirits\n(Class: Normal ~ Heroic)\n\n<Hero>\nHong Seok-geun/Cheon Jin-kwon /Hwajung/Saturated Oran/Haemujin\n\n<rare>\nJeonghado/Jin Soa/Namsoyou/Docheonpung/Geumgang Station/Thunder God/Nakwondaeseong/Taejanggeum\n\n<advanced>\nFlame water Wa / Water Suwa / Heuk Qian Elder / Heuk Qian Chef / Golden Balbali / General Tou / Nakwon Soseong / Hosooki / Snow Nyeo / Jararidan Elder\n\n<Normal>\nSuwa / Black Qiang/ Black Spear Chef / Grasshopper / Tow Soldier / Jar Bandits / Jar Ax Team / Paradise Clan\n\n- Others\n: When you acquire a hero level guardian spirit, you can replace it with another guardian spirit in the 'Confirm Guardian Spirit' menu\n\n[Purchase] Restriction]\nOnly once per day per server\nAvailable for purchases above level 50\n\nReset the number of purchases at 00:00 every day"
     },
     "99800055": {
         "deprecated": false,
-        "Dev_Desc": "금화 / 무기 강화 주문서 (각인)",
+        "Dev_Desc": "신석 / 질풍의 진노 상자 11개",
         "id": 99800055,
-        "alias": "Contents.CashShop.Item.Desc.5039",
+        "alias": "Contents.CashShop.Item.Desc.5030",
         "text": "[Information on supplies]\n: Weapon Enhancement Scroll (Engraving) x1\n\n- Classification: Order Scroll\n- Use Effect: When used, the enhancement value of the weapon increases according to a set probability\n: Weapon Enhancement Scroll - Enhancement Value +1 / Blessed Weapon Enhancement Scroll - Enhancement Value +1~2 / Cursed Weapon Enhancement Scroll - Enhancement Value -1\n: When strengthening equipment with a safety enhancement level or higher, there is a chance of equipment destruction\n- Other settings: No transaction\n\n[Purchase limit]\n10 times a day for each server\n\nReset the number of purchases at 00:00 every day"
     },
     "99800056": {
         "deprecated": false,
-        "Dev_Desc": "금화 / 방어구 강화 주문서 (각인)",
+        "Dev_Desc": "금화 / 일반 소울 소환 ",
         "id": 99800056,
-        "alias": "Contents.CashShop.Item.Desc.5040",
+        "alias": "Contents.CashShop.Item.Desc.5031",
         "text": "[Information on supplies]\n: 1 piece of armor enhancement spell (engraving)\n\n- Classification: Scroll\n- Use effect: When used, the enhancement value of armor increases according to a set probability\n: Armor Enhancement Scroll - Enhancement Value +1 / Blessed Armor Enhancement Scroll - Enhancement Value +1~2 / Cursed Armor Enhancement Scroll - Enhancement Value -1\n: When equipment is upgraded with a safety enhancement value or higher, there is a chance of equipment destruction\n- Other settings: No transaction\n\n[Purchase limit]\n10 times per day for each server\n\nReset the number of purchases at 00:00 every day"
     },
     "99800057": {
         "deprecated": false,
-        "Dev_Desc": "금화 / 빛나는 무기 강화 주문서 상자",
+        "Dev_Desc": "금화 / 상급 소울 소환 ",
         "id": 99800057,
-        "alias": "Contents.CashShop.Item.Desc.5041",
+        "alias": "Contents.CashShop.Item.Desc.5032",
         "text": "[Supplies Information]\n: One Shiny Weapon Enhancement Scroll Box\n\n- Category: Consumables (Crate)\n- Use: When used, one of the following items can be obtained according to a set probability. \n: 1 weapon enhancement order book (engraving) / 2 weapon enhancement orders (engraving) / 3 weapon enhancement orders (engraving) / 1 blessed weapon enhancement order book (engraving) \n- Other settings: Storage not allowed, Untradable, unsellable\n\n* Weapon Enhancement Scroll\n- Classification: Spellbook\n- Use: When used, the enhancement level of the weapon increases according to a set probability when used\n: Weapon Enhancement Scroll - Enhancement Level +1 / Blessing Received Weapon Enhancement Scroll - Enhancement Value +1~2 / Cursed Weapon Enhancement Scroll - Enhancement Value -1\n: When equipment is strengthened above the safety enhancement value, there is a chance of equipment destruction\n- Other settings: Cannot trade\n\n [Purchase limit]\n5 times per day for each server\n\nReset the number of purchases at 00:00 every day"
     },
     "99800058": {
         "deprecated": false,
-        "Dev_Desc": "금화 / 빛나는 방어구 강화 주문서 상자",
+        "Dev_Desc": "금화 / 상급 소울 소환 2",
         "id": 99800058,
-        "alias": "Contents.CashShop.Item.Desc.5042",
+        "alias": "Contents.CashShop.Item.Desc.5033",
         "text": "[Information on supplies]\n: 1 Box of Shiny Armor Enhancement Scrolls\n\n- Category: Consumables (Boxes)\n- Use: Depending on the probability of use, you can obtain one of the following items. \n: 1 piece of armor enhancement order book (engraving) / 2 pieces of armor enhancement order book (engraving) / 3 pieces of armor enhancement order book (engraving) / 1 blessed armor enhancement order book (engraving) \n- Other settings: Storage not allowed, Non-tradable, non-sellable\n\n* Armor Enhancement Scroll\n- Classification: Spellbook\n- Use: When used, the enhancement value of the armor increases according to a set probability when used\n: Armor Enhancement Scroll - Enhancement Value +1 / Blessing Received Armor Reinforcement Scroll - Enhancement Value +1~2 / Cursed Armor Enhancement Scroll - Enhancement Value -1\n: When equipment is upgraded with more than the safety enhancement value, there is a chance of equipment destruction\n- Other settings: Cannot trade\n\n [Purchase limit]\n5 times per day for each server\n\nReset the number of purchases at 00:00 every day"
     },
     "99800059": {
         "deprecated": false,
-        "Dev_Desc": "금화 / 고급 회복약",
+        "Dev_Desc": "금화 / 상급 소울 소환 3",
         "id": 99800059,
-        "alias": "Contents.CashShop.Item.Desc.5043",
+        "alias": "Contents.CashShop.Item.Desc.5034",
         "text": "[Information on supplies]\n: 1 advanced recovery potion (engraving)\n\n- Classification: Consumables\n- Use effect: Allows to recover a large amount of character's HP when used\n- Other settings: Non-tradeable \n\n[Purchase limit]\n10 times a day for each server\n\nReset the number of purchases at 00:00 every day"
     },
     "99800060": {
         "deprecated": false,
-        "Dev_Desc": "금화 / 도화의 금고",
+        "Dev_Desc": "금화 / 일반 수호령 소환",
         "id": 99800060,
-        "alias": "Contents.CashShop.Item.Desc.5044",
+        "alias": "Contents.CashShop.Item.Desc.5035",
         "text": "[Supplies Information]\n: 1 Vault of Dohwa\n\n- Classification: Consumables (Box)\n- Use: When used, the following goods are obtained according to a set probability\n: Dohwajeon 1000 Dogs, 1500 pieces, 2000 pieces\n- Other settings: warehouse storage impossible, transaction impossible, sale impossible\n\n* Dohwajeon\n- Category: Goods\n- Description: Blade & Soul 2 Store and various systems Goods that can be used\n\n[Purchase limit]\nOnce per day for each server\n\nReset the number of purchases at 00:00 every day"
     },
     "99800061": {
         "deprecated": false,
-        "Dev_Desc": "금화 / 시간 충전석 : 황금의 숲길",
+        "Dev_Desc": "금화 / 상급 수호령 소환",
         "id": 99800061,
-        "alias": "Contents.CashShop.Item.Desc.5045",
+        "alias": "Contents.CashShop.Item.Desc.5036",
         "text": "[Information on supplies]\n: Charging stone: Golden Forest Path (engraving) 1 x\n\n- Category: Consumables (Charging Stone)\n- Use: When used, Golden Forest dungeon usage time 1 Time charge\n- Other settings: No transaction, no sale\n\n[Purchase limit]\nOnce per day for each server\n\nReset the number of purchases at 00:00 every day"
     },
     "99800062": {
         "deprecated": false,
-        "Dev_Desc": "금화 /시간 충전석 : 수련의 폐허",
+        "Dev_Desc": "금화 / 상급 수호령 소환 2",
         "id": 99800062,
-        "alias": "Contents.CashShop.Item.Desc.5046",
+        "alias": "Contents.CashShop.Item.Desc.5037",
         "text": "[Information on supplies]\n: Charging stone: Ruins of Training (Imprint) 1 x\n\n- Classification: Consumables (Charging Stone)\n- Use: When used, Ruins of Training, Dungeon usage time 1 Time recharge\n- Other settings: No transaction, no sale\n\n[Purchase limit]\nOnce per day per server\n\nReset the number of purchases at 00:00 every day"
     },
     "99800063": {
         "deprecated": false,
-        "Dev_Desc": "금화 /시간 충전석 : 각성의 미궁",
+        "Dev_Desc": "금화 / 상급 수호령 소환 3",
         "id": 99800063,
-        "alias": "Contents.CashShop.Item.Desc.5047",
+        "alias": "Contents.CashShop.Item.Desc.5038",
         "text": "[Supplies Information]\n: Charging Stone: Labyrinth of Awakening (Engraving) x 1\n\n- Category: Consumables (Charging Stone)\n- Use: When used, Labyrinth of Awakening Dungeon Usage Time 1 Time recharge\n- Other settings: No transaction, no sale\n\n[Purchase limit]\nOnce per day per server\n\nReset the number of purchases at 00:00 every day"
     },
     "99800064": {
         "deprecated": false,
-        "Dev_Desc": "플레이 포인트 / 내력의 단환 10개",
+        "Dev_Desc": "금화 / 무기 강화 주문서 (각인)",
         "id": 99800064,
-        "alias": "Contents.CashShop.Item.Desc.5048",
+        "alias": "Contents.CashShop.Item.Desc.5039",
         "text": "[Information on supplies]\n: A bundle of 10 single rings (engravings) of strength\n\n- Category: Consumables\n- Use effect: Instantly recovers strength when used (Cooling time 5 minutes)\n- Other settings: warehouse storage impossible, transaction impossible, sales impossible\n\n[Purchase limit]\n10 times per day for each server\n\nReset the number of purchases at 00:00 every day"
     },
     "99800065": {
         "deprecated": false,
-        "Dev_Desc": "플레이 포인트 / 망각의 영약",
+        "Dev_Desc": "금화 / 방어구 강화 주문서 (각인)",
         "id": 99800065,
-        "alias": "Contents.CashShop.Item.Desc.5049",
+        "alias": "Contents.CashShop.Item.Desc.5040",
         "text": "[Information on supplies]\n: Elixir of Oblivion (Imprint) 1 piece\n\n- Classification: Material\n- Use effect: Reset character stats when used\n: 'Reset' button in character stat information Used as\n- Other settings: non-tradeable, non-sellable"
     },
     "99800066": {
         "deprecated": false,
-        "Dev_Desc": "플레이 포인트 / 환혼의 서",
+        "Dev_Desc": "금화 / 빛나는 무기 강화 주문서 상자",
         "id": 99800066,
-        "alias": "Contents.CashShop.Item.Desc.5050",
+        "alias": "Contents.CashShop.Item.Desc.5041",
         "text": "[Information on supplies]\n: 1 book of remarriage (engraving)\n\n- Classification: Material\n- Use effect: Reset character's sword growth when used\n: 'Reset' button in the swordsman menu Used as\n- Other settings: warehouse storage impossible, transaction impossible, sales impossible"
     },
     "99800067": {
         "deprecated": false,
-        "Dev_Desc": "플레이 포인트 / 꿩만두",
+        "Dev_Desc": "금화 / 빛나는 방어구 강화 주문서 상자",
         "id": 99800067,
-        "alias": "Contents.CashShop.Item.Desc.5051",
+        "alias": "Contents.CashShop.Item.Desc.5042",
         "text": "[Information on supplies]\n: Pheasant dumplings (engraved)\n\n- Classification: Consumables (food)\n- Use: Increases attack-related stats when used (30 minutes cooldown)\n: Attack power +2 / Accuracy +1\n: Cannot stack with other food item effects\n- Other settings: Cannot trade"
     },
     "99800068": {
         "deprecated": false,
-        "Dev_Desc": "플레이 포인트 / 백년초 만두",
+        "Dev_Desc": "금화 / 고급 회복약",
         "id": 99800068,
-        "alias": "Contents.CashShop.Item.Desc.5052",
+        "alias": "Contents.CashShop.Item.Desc.5043",
         "text": "[Information on supplies]\n: Centennial Dumplings (Engraving)\n\n- Category: Consumables (Food)\n- Effect: Increases attack-related stats significantly when used (30 minutes cooldown)\n: ATK +2 / Accuracy +1 / Penetration +3\n: Cannot stack with other food item effects\n- Other settings: Cannot trade\n\n\n[Purchase limit]\n10 times per week per server\n \nReset the number of purchases at 05:00 every Wednesday"
     },
     "99800069": {
         "deprecated": false,
-        "Dev_Desc": "플레이 포인트 / 의상 / 긍지",
+        "Dev_Desc": "금화 / 도화의 금고",
         "id": 99800069,
-        "alias": "Contents.CashShop.Item.Desc.5053",
+        "alias": "Contents.CashShop.Item.Desc.5044",
         "text": "[Information on supplies]\n: Pride 1 x\n\n- Classification: Clothing\n- Equip Effect: Increases the following stats when equipped\n: PVE Accuracy +1 / Soul Affinity +4\n\n - Note: Costumes can be registered and worn in the closet. If only the appearance is applied, the stats will not increase.\n- Other settings: Storage not allowed, trade is not allowed, cannot be sold\n\n[Purchase restrictions] once per account"
     },
     "99800070": {
         "deprecated": false,
-        "Dev_Desc": "플레이 포인트 / 의상 / 투지",
+        "Dev_Desc": "금화 / 시간 충전석 : 황금의 숲길",
         "id": 99800070,
-        "alias": "Contents.CashShop.Item.Desc.5054",
+        "alias": "Contents.CashShop.Item.Desc.5045",
         "text": "[Information on supplies]\n: Fighting spirit 1 x\n\n- Category: Clothing\n- Equip Effect: Increases the following stats when worn\n: Penetration +2 / Soul Affinity +7\n\n- Note: Costumes can be registered and worn in the closet, and if only the appearance is applied, the stats will not increase.\n- Other settings: Storage not allowed, trade not allowed, sales not allowed\n\n[Purchase restrictions]\n once per account"
     },
     "99800071": {
         "deprecated": false,
-        "Dev_Desc": "플레이 포인트 / 의상 /  전장의 유성",
+        "Dev_Desc": "금화 /시간 충전석 : 수련의 폐허",
         "id": 99800071,
-        "alias": "Contents.CashShop.Item.Desc.5055",
+        "alias": "Contents.CashShop.Item.Desc.5046",
         "text": "[Supplies Information]\n: 1 Meteor of the Battlefield\n\n- Category: Costume\n- Equip Effect: Increases the following stats when equipped\n: Attack +1 / Soul Affinity +7\n\n- Note: Costumes can be registered and worn in the closet, and if only the appearance is applied, the stats will not increase.\n- Other settings: Storage not allowed, trade is not allowed, cannot be sold\n\n[Purchase restrictions] \nOnce per account"
     },
     "99800072": {
         "deprecated": false,
-        "Dev_Desc": "플레이 포인트 / 의상 / 홍염의 노래",
+        "Dev_Desc": "금화 /시간 충전석 : 각성의 미궁",
         "id": 99800072,
-        "alias": "Contents.CashShop.Item.Desc.5056",
+        "alias": "Contents.CashShop.Item.Desc.5047",
         "text": "[Information on supplies]\n: Song of the Red Flame 1\n\n- Category: Costume\n- Equip Effect: Increases the following stats when equipped\n: Penetration +4 / Soul Affinity +10\n\n- Note: Costumes can be registered and worn in the closet. If only the appearance is applied, the stats will not increase.\n- Other settings: Storage not allowed, trade is not allowed, cannot be sold\n\n[Purchase restrictions] \nOnce per account"
     },
     "99800073": {
         "deprecated": false,
-        "Dev_Desc": "플레이 포인트 / 의상 / 노을",
+        "Dev_Desc": "플레이 포인트 / 내력의 단환 10개",
         "id": 99800073,
-        "alias": "Contents.CashShop.Item.Desc.5057",
+        "alias": "Contents.CashShop.Item.Desc.5048",
         "text": "[Information on supplies]\n: 1 sunset\n\n- Category: Costume\n- Equip effect: Increases the following stats when worn\n: Evasion +3 / Soul Affinity +10\n\n- Note: Costumes can be registered and worn in the closet, and if only the appearance is applied, the stats will not increase.\n- Other settings: storage not allowed in storage, not traded, not sold\n\n[Purchase restrictions]\n once per account"
     },
     "99800074": {
         "deprecated": false,
-        "Dev_Desc": "플레이 포인트 / 의상 / 아수라",
+        "Dev_Desc": "플레이 포인트 / 망각의 영약",
         "id": 99800074,
-        "alias": "Contents.CashShop.Item.Desc.5058",
+        "alias": "Contents.CashShop.Item.Desc.5049",
         "text": "[Supplies Information]\n: Asura 1 x\n\n- Category: Clothing\n- Equip Effect: Increases the following stats when equipped\n: Attack Power +4 / Control Skill +1 / Soul Affinity +12 \n\n- Note: Clothing can be registered and worn in the closet. If only the appearance is applied, the stats will not increase.\n- Other settings: Storage not allowed, trade not allowed, sales not allowed\n\n[ Purchase limit]\nOnce per account"
     },
     "99800075": {
         "deprecated": false,
-        "Dev_Desc": "백화의 불꽃 연속구매 패키지 [Step 1] / 백화의 불꽃 3개",
+        "Dev_Desc": "플레이 포인트 / 환혼의 서",
         "id": 99800075,
-        "alias": "Contents.CashShop.Item.Desc.5059",
+        "alias": "Contents.CashShop.Item.Desc.5050",
         "text": "[Supplies Information]\n3 Flower Boxes\n\n* Flower Boxes\n- Category: Consumables (Boxes)\n- Use: Obtain the following items when used\n: 1 Flower of Flower\n: 10 Baobao's Enhancement Scrolls\n- Other Settings: Cannot be stored in storage, cannot be traded, cannot be sold\n\n* Fire of Hundred Flowers\n- Category: Equipment (Earrings)\n- Equip effect: (It has the following effects depending on the enhancement level)\n+0 : Penetration 1\n+1~ : Penetration increases by 1\n+3~ : Attack power increases by 1 additional\n+5~ : Critical rate 0.5% Each additional increase\n+6~ : Increases non-attack damage amplification by 0.5% additionally\n- Restrictions: You cannot wear more than one earring with the same name\n- Other settings: Storage cannot be stored, cannot be traded\n\n* Baobao's Enhancement Scroll\n- Category: Spellbook\n- Use: When used on special accessories, the enhancement value increases by 1 according to a set probability\n- Other settings: Non-tradeable, non-sellable"
     },
     "99800076": {
         "deprecated": false,
-        "Dev_Desc": "백화의 불꽃 연속구매 패키지 [Step 2] / 뇌성의 포효 3개",
+        "Dev_Desc": "플레이 포인트 / 꿩만두",
         "id": 99800076,
-        "alias": "Contents.CashShop.Item.Desc.5060",
+        "alias": "Contents.CashShop.Item.Desc.5051",
         "text": "[Supplies Guide]\n3 Thunder Roar Boxes\n\n*Thunder Roar Box\n- Category: Consumables (Crate)\n- Use: Obtain the following items when used\n: 1x Roar of Thunder\n: 10 Baobao's Enhancement Scrolls\n- Other Settings: Unable to store in storage, cannot be traded, cannot be sold\n\n* Roar of Thunder\n- Category: Equipment (Earrings)\n- Equip effect: (It has the following effects depending on the enhancement value)\n+0 : DEF 1\n+1~ : DEF increases by 1\n+3~ : Self-Defense increases by 1 additional\n+5~ : Soul Resistance 0.5 Additional increase by %\n+6~: Control resistance increases by 1% additionally\n- Restrictions: You cannot wear more than one earring with the same name\n- Other settings: Storage not allowed, trading is not allowed\n\n* Baobao's Enhancement Scroll\n- Category: Spellbook\n- Use: When used on special accessories, the enhancement value increases by 1 according to a set probability\n- Other settings: Cannot be traded, cannot be sold"
     },
     "99800077": {
         "deprecated": false,
-        "Dev_Desc": "백화의 불꽃 연속구매 패키지 [Step 3] / 백화의 불꽃 3개",
+        "Dev_Desc": "플레이 포인트 / 백년초 만두",
         "id": 99800077,
-        "alias": "Contents.CashShop.Item.Desc.5061",
+        "alias": "Contents.CashShop.Item.Desc.5052",
         "text": "[Supplies Information]\n3 Flower Boxes\n\n* Flower Boxes\n- Category: Consumables (Crate)\n- Use: Obtain the following items when used\n: 1 Flower of Flower\n: 10 Baobao's Enhancement Scrolls\n- Other Settings: Cannot be stored in storage, cannot be traded, cannot be sold\n\n* Fire of Hundred Flowers\n- Category: Equipment (Earrings)\n- Equip effect: (It has the following effects depending on the enhancement level)\n+0 : Penetration 1\n+1~ : Penetration increases by 1\n+3~ : Attack power increases by 1 additional\n+5~ : Critical rate 0.5% Each additional increase\n+6~ : Increases non-attack damage amplification by 0.5% additionally\n- Restrictions: You cannot wear more than one earring with the same name\n- Other settings: Storage cannot be stored, cannot be traded\n\n* Baobao's Enhancement Scroll\n- Category: Spellbook\n- Use: When used on special accessories, the enhancement value increases by 1 according to a set probability\n- Other settings: Non-tradeable, non-sellable"
     },
     "99800078": {
         "deprecated": false,
-        "Dev_Desc": "백화의 불꽃 연속구매 패키지 [Step 4] / 뇌성의 포효 3개",
+        "Dev_Desc": "플레이 포인트 / 의상 / 긍지",
         "id": 99800078,
-        "alias": "Contents.CashShop.Item.Desc.5062",
+        "alias": "Contents.CashShop.Item.Desc.5053",
         "text": "[Supplies Guide]\n3 Thunder Roar Boxes\n\n*Thunder Roar Box\n- Category: Consumables (Crate)\n- Use: Obtain the following items when used\n: 1x Roar of Thunder\n: 10 Baobao's Enhancement Scrolls\n- Other Settings: Unable to store in storage, cannot be traded, cannot be sold\n\n* Roar of Thunder\n- Category: Equipment (Earrings)\n- Equip effect: (It has the following effects depending on the enhancement value)\n+0 : DEF 1\n+1~ : DEF increases by 1\n+3~ : Self-Defense increases by 1 additional\n+5~ : Soul Resistance 0.5 Additional increase by %\n+6~: Control resistance increases by 1% additionally\n- Restrictions: You cannot wear more than one earring with the same name\n- Other settings: Storage not allowed, trading is not allowed\n\n* Baobao's Enhancement Scroll\n- Category: Spellbook\n- Use: When used on special accessories, the enhancement value increases by 1 according to a set probability\n- Other settings: Non-tradeable, non-sellable"
     },
     "99800079": {
         "deprecated": false,
-        "Dev_Desc": "백화의 불꽃 연속구매 패키지 보너스 상품 [Step 3] / +3 백화의 불꽃",
+        "Dev_Desc": "플레이 포인트 / 의상 / 투지",
         "id": 99800079,
-        "alias": "Contents.CashShop.Item.Desc.5063",
+        "alias": "Contents.CashShop.Item.Desc.5054",
         "text": "[Supplies Information]\n+3 One Flower of Flowers\n\n- Category: Equipment (Earrings)\n- Equip Effect: (It has the following effects depending on the enhancement level)\n+3: Penetration 4, attack power 1\n+3~ : Attack power increases by additional 1\n+5~ : Critical rate increases by 0.5% additional \n+6~ : Attack damage amplification increases by 0.5% additional increase\n\n- Restrictions: You cannot wear more than one earring with the same name\n- Other settings: Storage not allowed, trading is not allowed."
     },
     "99800080": {
         "deprecated": false,
-        "Dev_Desc": "백화의 불꽃 연속구매 패키지 보너스 상품 [Step 4] / 안전강화 주문서",
+        "Dev_Desc": "플레이 포인트 / 의상 /  전장의 유성",
         "id": 99800080,
-        "alias": "Contents.CashShop.Item.Desc.5064",
+        "alias": "Contents.CashShop.Item.Desc.5055",
         "text": "[Supplies Guide]\nShining Baobao's Enhancement Scroll: White Flower\n\n- Classification: Scroll\n- Use: 100% chance to increase the enhancement level by +1.\n+3 White Flower It can only be used for the flame of .\n- Other settings: cannot be traded, cannot be sold"
     },
     "99800081": {
         "deprecated": false,
-        "Dev_Desc": "질풍의 진노 연속구매 패키지 [Step 1] / 질풍의 진노 3개",
+        "Dev_Desc": "플레이 포인트 / 의상 / 홍염의 노래",
         "id": 99800081,
-        "alias": "Contents.CashShop.Item.Desc.5065",
+        "alias": "Contents.CashShop.Item.Desc.5056",
         "text": "[Supplies Information]\nThree Wrath of Windfury Boxes\n\n* Wrath of Windfury Box\n- Category: Consumables (Crate)\n- Use: Obtain the following items when used\n: 1 Wrath of Windfury\n: 10 Baobao's Enhancement Scrolls\n- Other Settings: Unable to store in storage, cannot be traded, cannot be sold\n\n* Wrath of Windfury\n- Category: Equipment (Bracelet)\n- Equip effect: (It has the following effects depending on the enhancement value)\n+0: Accuracy 1, weapon attack amplification 3%\n+1~ : Accuracy increases by 1\n+3~ : Weapon attack power increases by additional 1\n +5~ : Increases control accuracy by 0.5% additionally\n+6~ : Increases basic attack speed by additional 0.5%\n- Restrictions: You cannot wear more than one bracelet with the same name\n- Other settings: Cannot store storage , Untradable\n\n* Baobao's Enhancement Scroll\n- Classification: Spellbook\n- Use: When used on special accessories, the enhancement value increases by 1 according to a set probability\n- Other settings: Non-tradeable, non-sellable "
     },
     "99800082": {
         "deprecated": false,
-        "Dev_Desc": "질풍의 진노 연속구매 패키지 [Step 2] / 타락의 속삭임 3개",
+        "Dev_Desc": "플레이 포인트 / 의상 / 노을",
         "id": 99800082,
-        "alias": "Contents.CashShop.Item.Desc.5066",
+        "alias": "Contents.CashShop.Item.Desc.5057",
         "text": "[Supplies Guide]\n3 Corrupted Whisper Boxes\n\n*Corrupted Whisper Box\n- Category: Consumables (Crate)\n- Use: Obtain the following items when used\n: 1 Whisper of Corruption\n: 10 Baobao's Enhancement Scrolls\n- Other settings: Storage not allowed, non-tradeable, non-sellable\n\n* Whisper of Corruption\n- Category: Equipment (Bracelet)\n- Equip Effect: (It has the following effects according to the enhancement level)\n+0: Evasion 1, HP regeneration 3\n+1~: Evasion increases by 1\n+3~: Defense increases by 1 additional\n+5~ : Increases non-attack damage resistance by additional 0.5%\n+6 : Adds 5% control resistance\n+6~ : Increases control resistance by additional 1%\n- Restrictions: You cannot wear more than one bracelet with the same name\n - 기타 설정 : 창고 보관 불가, 거래 불가\n\n* 바오바오의 강화 주문서\n- 분류 : 주문서\n- 사용 효과 : 특수 장신구에 사용 시, 정해진 확률에 따라 강화 수치 1 상승\n- 기타 설정 : 거래 불가, 판매 불가"
     },
     "99800083": {
         "deprecated": false,
-        "Dev_Desc": "질풍의 진노 연속구매 패키지 [Step 3] / 질풍의 진노 3개",
+        "Dev_Desc": "플레이 포인트 / 의상 / 아수라",
         "id": 99800083,
-        "alias": "Contents.CashShop.Item.Desc.5067",
+        "alias": "Contents.CashShop.Item.Desc.5058",
         "text": "[Supplies Information]\nThree Wrath of Windfury Boxes\n\n* Wrath of Windfury Box\n- Category: Consumables (Crate)\n- Use: Obtain the following items when used\n: 1 Wrath of Windfury\n: 10 Baobao's Enhancement Scrolls\n- Other Settings: Unable to store in storage, cannot be traded, cannot be sold\n\n* Wrath of Windfury\n- Category: Equipment (Bracelet)\n- Equip effect: (It has the following effects depending on the enhancement value)\n+0: Accuracy 1, weapon attack amplification 3%\n+1~ : Accuracy increases by 1\n+3~ : Weapon attack power increases by additional 1\n +5~ : Increases control accuracy by 0.5% additionally\n+6~ : Increases basic attack speed by additional 0.5%\n- Restrictions: You cannot wear more than one bracelet with the same name\n- Other settings: Cannot store in warehouse , Untradeable\n\n* Baobao's Enhancement Scroll\n- Classification: Spellbook\n- Use: When used on special accessories, the enhancement value increases by 1 according to a set probability\n- Other settings: Non-tradeable, non-sellable "
     },
     "99800084": {
         "deprecated": false,
-        "Dev_Desc": "질풍의 진노 연속구매 패키지 [Step 4] /  타락의 속삭임 3개",
+        "Dev_Desc": "백화의 불꽃 연속구매 패키지 [Step 1] / 백화의 불꽃 3개",
         "id": 99800084,
-        "alias": "Contents.CashShop.Item.Desc.5068",
+        "alias": "Contents.CashShop.Item.Desc.5059",
         "text": "[Supplies Guide]\n3 Corrupted Whisper Boxes\n\n*Corrupted Whisper Box\n- Category: Consumables (Crate)\n- Use: Obtain the following items when used\n: Whispers of Corruption 1 x\n: 10 Baobao's Enhancement Scrolls\n- Other settings: Unable to store in storage, not traded, cannot be sold\n\n* Whispers of Corruption\n- Category: Equipment (Bracelet)\n- Equip effect: (It has the following effects depending on the enhancement value)\n+0: Evasion 1, HP regeneration 3\n+1~: Evasion increases by 1\n+3~: Defense increases by additional 1\n+5~ : Additional damage resistance increase by 0.5%\n+6 : Add 5% control resistance\n+6~ : Increase control resistance by additional 1%\n- Restrictions: You cannot wear more than one bracelet with the same name\n - Other settings: Storage not allowed, cannot be traded\n\n* Baobao's Enhancement Scroll\n- Classification: Order Book\n- Use Effect: When used for special accessories, the enhancement value increases by 1 according to a set probability\n- Others Settings: Untradeable, Unsellable"
     },
     "99800085": {
         "deprecated": false,
-        "Dev_Desc": "질풍의 진노 연속구매 패키지 보너스 상품 [Step 3] / +3 질풍의 진노",
+        "Dev_Desc": "백화의 불꽃 연속구매 패키지 [Step 2] / 뇌성의 포효 3개",
         "id": 99800085,
-        "alias": "Contents.CashShop.Item.Desc.5069",
+        "alias": "Contents.CashShop.Item.Desc.5060",
         "text": "[Supplies Guide]\n+3 Windfury Wrath x 1\n\n- Classification: Equipment (Bracelet)\n- Equip Effect: (Has the following effects depending on the enhancement level)\n+3: Accuracy 4, weapon attack amplification 3%, weapon attack 1\n+3~: weapon attack increased by 1 additional\n+5~: control hit rate increased by 0.5% additional\n+6~: basic attack speed increased by 0.5% Rise\n\n- Restrictions: You cannot wear more than one bracelet with the same name\n- Other settings: Storage is not allowed, cannot be traded"
     },
     "99800086": {
         "deprecated": false,
-        "Dev_Desc": "질풍의 진노 연속구매 패키지 보너스 상품 [Step 4] / 안전강화 주문서",
+        "Dev_Desc": "백화의 불꽃 연속구매 패키지 [Step 3] / 백화의 불꽃 3개",
         "id": 99800086,
-        "alias": "Contents.CashShop.Item.Desc.5070",
+        "alias": "Contents.CashShop.Item.Desc.5061",
         "text": "[Supplies Guide]\nShining Baobao's Enhancement Scroll: Flurry\n\n- Classification: Scroll\n- Use: 100% chance to increase the enhancement level by +1.\n+3 Flurry Can only be used in the wrath of"
     },
     "99800087": {
         "deprecated": false,
-        "Dev_Desc": "신석 / 소모품 / 월광 제작주화 상자 11개",
+        "Dev_Desc": "백화의 불꽃 연속구매 패키지 [Step 4] / 뇌성의 포효 3개",
         "id": 99800087,
-        "alias": "Contents.CashShop.Item.Desc.5072",
+        "alias": "Contents.CashShop.Item.Desc.5062",
         "text": "[Supplies Information]\n : 11 Moonlight Crafting Coin Boxes\n\n- Category: Consumables\n- Use to obtain the following items\n : 4 Moonlight Crafting Coins\n : Moonlight Crafting Bonus Box 1 pc \n- Other settings: Storage not allowed, cannot be traded\n\n*Moonlight Elemental Bonus Box\n- Classification: Consumables\n- Effect: When used, one of the following items is obtained according to a set probability\n: Last Judgment 1 / Hand of All Worlds 1 / Weight of Good and Evil 1 / Shinsal Bow 1 / Eternal Flash 1 / Hymn of Brilliance 1 / Spirit Stone 5 / \nSword of the King of Kings 1 / Forgotten Promise 1 / Continental Barrier 1 / Jingu Bow 1 / Dawn Fire 1 / Whisper of Dawn 1 / Hasuo 1 / \nGold Gyeongsang Belt 1 / Gold Gwanggyeong Boots 1 / Gold Gyne Armor 1 x 1ea / Gold Gloves 1ea / Golden Gaiters 1ea /\nHeroes' Soul Armor 1ea / Warrior's Soul Armor 1ea / Sage's Soul Armor 1ea / Hunter's Pants 1ea / Anti-Evil's Pauldrons 1x /\n Weapon Enhancement Scroll 1 / Armor Reinforcement Scroll 1 / Blessed Weapon Enhancement Scroll 1 / Blessed Armor Enhancement Scroll 1 / Faded Weapon Enhancement Scroll 1 / Faded Armor Reinforcement Scroll 1 /\nHundreds of Centennial Dumplings 3ea / Centennial Plant 6 dumplings / 9 chrysanthemum dumplings / 100 air flour / 200 air flour / 300 air flour / 5 advanced healing potions\n- Other settings: Storage not allowed, trade is not allowed"
     },
     "99800088": {
         "deprecated": false,
-        "Dev_Desc": "신석 / 소모품 / 월광 제작주화 상자 1개",
+        "Dev_Desc": "백화의 불꽃 연속구매 패키지 보너스 상품 [Step 3] / +3 백화의 불꽃",
         "id": 99800088,
-        "alias": "Contents.CashShop.Item.Desc.5071",
+        "alias": "Contents.CashShop.Item.Desc.5063",
         "text": "[Information on supplies]\n : 1 Moonlight Crafting Coin Box\n\n- Category: Consumables\n- Use to obtain the following items\n : 4 Moonlight Crafting Coins\n : Moonlight Crafting Bonus Box 1 pc \n- Other settings: Storage not allowed, cannot be traded\n\n*Moonlight Elemental Bonus Box\n- Classification: Consumables\n- Effect: When used, one of the following items is obtained according to a set probability\n: Last Judgment 1 / Hand of All Worlds 1 / Weight of Good and Evil 1 / Shinsal Bow 1 / Eternal Flash 1 / Hymn of Brilliance 1 / Spirit Stone 5 / \nSword of the King of Kings 1 / Forgotten Promise 1 / Continental Barrier 1 / Jingu Bow 1 / Dawn Fire 1 / Whisper of Dawn 1 / Hasuo 1 / \nGold Gyeongsang Belt 1 / Gold Gwanggyeong Boots 1 / Gold Gyne Armor 1 x 1ea / Gold Gloves 1ea / Golden Gaiters 1ea /\nHeroes' Soul Armor 1ea / Warrior's Soul Armor 1ea / Sage's Soul Armor 1ea / Hunter's Pants 1ea / Anti-Evil's Pauldrons 1x /\n Weapon Enhancement Scroll 1 / Armor Enhancement Scroll 1 / Blessed Weapon Enhancement Scroll 1 / Blessed Armor Enhancement Scroll 1 / Faded Weapon Enhancement Scroll 1 / Faded Armor Reinforcement Scroll 1 /\nHundreds of Centennial Dumplings 3ea / Centennial Herb 6 dumplings / 9 chrysanthemum dumplings / 100 air flour / 200 air flour / 300 air flour / 5 advanced healing potions\n- Other settings: Storage not allowed, trade is not allowed"
     },
     "99800089": {
         "deprecated": false,
-        "Dev_Desc": "홈/ 월광 연속구매 패키지 [Step 1] ",
+        "Dev_Desc": "백화의 불꽃 연속구매 패키지 보너스 상품 [Step 4] / 안전강화 주문서",
         "id": 99800089,
-        "alias": "Contents.CashShop.Item.Desc.5073",
+        "alias": "Contents.CashShop.Item.Desc.5064",
         "text": "[Information on supplies]\n : Moonlight Consecutive Purchase Package\n\n- When purchasing, obtain the following items\n : 5 Moonlight Crafting Coin Boxes\n : 1 Moonlight Energy Pouch\n : Advanced Soul 1 Fragment Summon Scroll \n\n* Moonlight Crafting Coin Box\n- Category: Consumables\n- Use to obtain the following items\n : 4 Moonlight Crafting Coins\n : 1 Moonlight Elemental Bonus Box \n- Others Settings: Storage not allowed, cannot be traded\n\n*Moonlight Elemental Bonus Box\n- Classification: Consumables\n- Effect: When used, one of the following items is obtained according to a set probability\n: One Last Judgment / All Things 1 Hand / 1 Weight of Good and Evil / 1 Shinsal Bow / 1 Eternal Flash / 1 Hymn of Brilliance / 5 Spirit Stones / \nThe King's Sword 1 / Forgotten Promise 1 / Continental Wall 1 / Bow of Jingu 1 / Fire of Dawn 1 / Whisper of Dawn 1 / Hsuo 1 / \nGolden Leather Belt 1 / Gold Gwanggyeong Boots 1 / Gold Gwanggyeong Armor 1ea / Geumgyeong Pauldrons 1ea / Geumgyeong Gloves 1 Dog / Golden Gaiters 1 x /\nHeroes' Soul Armor x 1 / Champion's Soul Armor x 1 / Sage's Soul Armor x 1 / Hunter's Pants x 1 / Anti-Evil's Pauldrons 1 x /\nWeapon Enhancement Scroll 1 x / Armor Enhancement Scroll 1 / Blessed Weapon Enhancement Scroll 1 / Blessed Armor Enhancement Scroll 1 / Faded Weapon Enhancement Scroll 1 / Faded Armor Reinforcement Scroll 1 /\nHubnyeoncho Dumplings 3ea / Hundrednyeoncho Dumplings 6ea / Centennial Dumplings 9 pieces / 100 Spirit flour / 200 Spirit flour / 300 Spirit flour / 5 advanced recovery potions\n- Other settings: Storage not allowed, cannot be traded\n\n* Moonlight Air flour pouch\n- Category: Consumables \n- When used, one of the following items is obtained according to a set probability\n: 50 air flour / 100 air flour / 200 air flour / 300 air flour / 500 energy flour \n- Other settings: storage No, no trade\n\n* Advanced Soul Fragment Summon Scroll\n- Category: Consumables\n- When used Acquire soul shards according to a set probability"
     },
     "99800090": {
         "deprecated": false,
-        "Dev_Desc": "홈/ 월광 연속구매 패키지 [Step 2] ",
+        "Dev_Desc": "질풍의 진노 연속구매 패키지 [Step 1] / 질풍의 진노 3개",
         "id": 99800090,
-        "alias": "Contents.CashShop.Item.Desc.5074",
+        "alias": "Contents.CashShop.Item.Desc.5065",
         "text": "[Information on supplies]\n : Moonlight Consecutive Purchase Package\n\n- When purchasing, obtain the following items\n : 10 Moonlight Crafting Coin Boxes\n : 2 Moonlight Air Power Pouches\n\n\n* Moonlight Crafting Coin Box\n- Classification: Consumables\n- When used, the following items are obtained\n : 4 Moonlight Crafting Coins\n : 1 Moonlight Elemental Bonus Box \n- Other Settings: Storage Not Available, Not Tradeable \n\n*Moonlight Elemental Bonus Box\n- Category: Consumables\n- Effect: When used, one of the following items is obtained according to a set probability\n: 1 Last Judgment / 1 Hand of All Things / Weight of Good and Evil 1 Pendulum / Shinsal's Bow 1 / Eternal Flash 1 / Hymn of Brilliance 1 / Spirit Stone 5 / \nThe King's Sword 1 / Forgotten Promise 1 / Continental Barrier 1 / Jingu Bow 1 / Fire of Dawn 1 / Whisper of Dawn 1 / Hasuo 1 / \nGold Jade Leather Belt 1 / Gold Light Boots 1 / Gold Light Armor 1ea / Gold Light Pauldrons 1 / Gold Light Gloves 1 / Gold Kyeong Gaiters 1 X /\nHeroes' Soul Armor 1x / Warrior's Soul Armor 1x / Sage's Soul Armor 1x / Hunter's Pants 1x / Anti-Evil's Pauldrons 1x /\nWeapon Enhancement Scroll 1x / Armor Enhancement Scroll 1x / Blessed Weapon Enhancement Scroll 1 / Blessed Armor Reinforcement Scroll 1 / Faded Weapon Enhancement Scroll 1 / Faded Armor Reinforcement Scroll 1 /\nHundred Nuncho Dumplings 3ea / Hundred Nuncho Dumplings 6ea / Hundred Nuncho Dumplings 9ea / Agricultural Meal 100ea / 200 Spirit Flour / 300 Spirit Flour / 5 Advanced Recovery Potions\n- Other Settings: Storage not allowed, cannot be traded\n\n* Moonlight Air Flour Pouch\n- Classification: Consumables \n- At a certain probability when used Acquire one of the following items according to\n: 50 AE / 100 AE / 200 AE / 300 AE / 500 AE \n- Other settings: Storage not allowed, trade is not allowed"
     },
     "99800091": {
         "deprecated": false,
-        "Dev_Desc": "홈/ 월광 연속구매 패키지 [Step 3] ",
+        "Dev_Desc": "질풍의 진노 연속구매 패키지 [Step 2] / 타락의 속삭임 3개",
         "id": 99800091,
-        "alias": "Contents.CashShop.Item.Desc.5075",
+        "alias": "Contents.CashShop.Item.Desc.5066",
         "text": "[Information on supplies]\n : Moonlight Consecutive Purchase Package\n\n- When purchasing, obtain the following items\n : 15 Moonlight Crafting Coin Boxes\n : 3 Moonlight Energy Pouches\n : Advanced Soul 2 Scrap Summon Scrolls \n\n* Moonlight Crafting Coin Box\n- Category: Consumables\n- When used, the following items are obtained\n : 4 Moonlight Crafting Coins\n : 1 Moonlight Elemental Bonus Box \n- Others Settings: Storage not allowed, cannot be traded\n\n*Moonlight Elemental Bonus Box\n- Classification: Consumables\n- Effect: When used, one of the following items is obtained according to a set probability\n: One Last Judgment / All Things 1 Hand / 1 Weight of Good and Evil / 1 Shinsal Bow / 1 Eternal Flash / 1 Hymn of Brilliance / 5 Spirit Stones / \nThe King's Sword 1 / Forgotten Promise 1 / Continental Wall 1 / Jingu Bow 1 / Dawn Fire 1 / Dawn's Whisper 1 / Hsuo 1 / \nGolden Leather Belt 1 / Gold Gwangjang Boots 1 / Gold Gyneggle Armour 1 x Gold Gwanggyeong Pauldrons 1 Geumgyeong Pauldrons 1 Dog / Golden Gaiters 1 x /\nHeroes' Soul Armor x 1 / Warrior's Soul Armor x 1 / Sage's Soul Armor x 1 / Hunter's Pants x 1 / Anti-Evil's Pauldrons 1 x /\nWeapon Enhancement Scroll 1 x / Armor Enhancement Scroll 1 / Blessed Weapon Enhancement Scroll 1 / Blessed Armor Enhancement Scroll 1 / Faded Weapon Enhancement Scroll 1 / Faded Armor Reinforcement Scroll 1 /\nHundred Nuncho Dumplings 3ea / Hundred Nuncho Dumplings 6ea / Centennial Dumplings 9 pieces / 100 Spirit flour / 200 Spirit flour / 300 Spirit flour / 5 advanced healing potions\n- Other settings: Storage not allowed, cannot be traded\n\n* Moonlight Air flour pouch\n- Category: Consumables \n- When used, one of the following items is obtained according to a set probability\n: 50 air flour / 100 air flour / 200 air flour / 300 air flour / 500 energy flour\n- Other settings: storage No, no trade\n\n* Greater Soul Fragment Summon Scroll\n- Category: Consumables\n- Use Acquire soul shards according to a certain probability"
     },
     "99800092": {
         "deprecated": false,
-        "Dev_Desc": "홈/ 월광 연속구매 패키지 [Step 4] ",
+        "Dev_Desc": "질풍의 진노 연속구매 패키지 [Step 3] / 질풍의 진노 3개",
         "id": 99800092,
-        "alias": "Contents.CashShop.Item.Desc.5076",
+        "alias": "Contents.CashShop.Item.Desc.5067",
         "text": "[Information on supplies]\n : Moonlight continuous purchase package\n\n- When purchasing, obtain the following items\n : 15 Moonlight Crafting Coin Boxes\n : 3 Moonlight Energy Pouches\n : Shining Moonlight 3 Elemental Pouches\n : 2 Advanced Soul Fragment Summon Scrolls \n\n* Moonlight Crafting Coin Box\n- Category: Consumables\n- Use to obtain the following items\n : 4 Moonlight Crafting Coins\n : 1 Moonlight Elemental Bonus Box \n- Other Settings: Storage Unavailable, Untradeable\n\n*Moonlight Elemental Bonus Box\n- Category: Consumables\n- Effect: Acquire one of the following items according to a set probability when used \n : 1 Last Judgment / 1 Hand of All Worlds / 1 Weight of Good and Evil / 1 Bow of Shinsal / 1 Flash of Eternity / 1 Hymn of Brilliance / 5 Spirit Stones / \nSword of the King of Defeat 1 Dog / Forgotten Promise 1 / Continental Barrier 1 / Jingu Bow 1 / Dawn Fire 1 / Dawn's Whisper 1 / Hasuo 1 / \nGolden Leather Belt 1 / Gold Gwangjang Boots 1 / Golden Gylon Armor 1 Dog / Gold-gold Pauldrons 1 / Gold-gold Gloves 1 / Gold-gold Gaiters 1 x /\nHeroes' Soul Armor x 1 / Warrior's Soul Armor x 1 / Sage's Soul Armor x 1 / Hunter's Pants x 1 / Anti-Ear's Pauldrons 1 Dog /\nWeapon Enhancement Scroll 1 / Armor Reinforcement Scroll 1 / Blessed Weapon Enhancement Scroll 1 / Blessed Armor Enhancement Scroll 1 / Faded Weapon Enhancement Scroll 1 / Faded Armor Enhancement Scroll 1 /\nChunnyeoncho Dumplings 3 pieces / Baeknyeoncho dumplings 6ea / Baeknyeoncho dumplings 9ea / Air flour 100ea / Air flour 200ea / Air flour 300ea / Advanced recovery potion 5ea\n- Other settings: Storage not allowed, trade is not allowed\n\n* Moonlight Air Meal Pouch\n- Classification: Consumables \n- When used, one of the following items is obtained according to a set probability\n: 50 air flour / 100 air flour / 200 air flour / 300 air flour / 300 air flour 500 pieces\n- Other settings: storage not allowed, not tradeable\n\n* Shiny Moonlight Ball Energy Pouch\n- Classification: Consumables \n- When used, one of the following items is obtained according to a set probability\n: 200 Spirit flour / 300 Spirit flour / 500 Spirit flour / 750 Spirit flour / 1 Spirit flour / 2 Spirits\n- Other settings: Storage not allowed, cannot be traded\n\n* Advanced Soul Fragment Summon Scroll\n- Classification: Consumables\n- Acquire Soul Fragments according to a set probability when used"
     },
     "99800093": {
         "deprecated": false,
-        "Dev_Desc": "홈 / 월광 연속구매 패키지 보너스 상품 [Step 2] / 월광 증표 1개",
+        "Dev_Desc": "질풍의 진노 연속구매 패키지 [Step 4] /  타락의 속삭임 3개",
         "id": 99800093,
-        "alias": "Contents.CashShop.Item.Desc.5077",
+        "alias": "Contents.CashShop.Item.Desc.5068",
         "text": "[Information on supplies]\n: 2 moonlight tokens\n- Category: Consumables\n- Equipment encyclopedia registration possible"
     },
     "99800094": {
         "deprecated": false,
-        "Dev_Desc": "홈 / 월광 연속구매 패키지 보너스 상품 [Step 4] / 월광 증표 3개",
+        "Dev_Desc": "질풍의 진노 연속구매 패키지 보너스 상품 [Step 3] / +3 질풍의 진노",
         "id": 99800094,
-        "alias": "Contents.CashShop.Item.Desc.5078",
+        "alias": "Contents.CashShop.Item.Desc.5069",
         "text": "[Information on supplies]\n: 2 moonlight tokens\n- Category: Consumables\n- Equipment Encyclopedia can be registered"
     },
     "99800095": {
         "deprecated": false,
-        "Dev_Desc": "파사의 질서 패키지 [지급품 설명]",
+        "Dev_Desc": "질풍의 진노 연속구매 패키지 보너스 상품 [Step 4] / 안전강화 주문서",
         "id": 99800095,
-        "alias": "Contents.CashShop.Item.Desc.5079",
+        "alias": "Contents.CashShop.Item.Desc.5070",
         "text": "[Information on supplies]\n: Order of Fasa package\n\n- Category: Consumables\n- When used, obtain the following items\n: 1 Shining Soul Summon Scroll (11 times)\n: Shiny Guardian Spirit Summon Scroll (11 times) 1 x \n : Roar of Thunder 5 x \n : Fire of Blossom 5 x \n : Whisper of Corruption 5 x \n : Windfury Wrath 5 x \n : Baobao's Enhancement Scroll 200 Dogs\n : 200 Air Flour\n : 4 pieces of Abyss Crafting Secret Recipe \n : 1 Token of Fasa\n- Other Settings: Storage not allowed, no trades\n\n* Token of Fasa\n- Category: Consumables\n- Use effect: Equipment Encyclopedia can be registered"
     },
     "99800096": {
         "deprecated": false,
-        "Dev_Desc": "홈/ 시로의 인연 연속구매 패키지 [Step 1] [지급품 설명]",
+        "Dev_Desc": "신석 / 소모품 / 월광 제작주화 상자 11개",
         "id": 99800096,
-        "alias": "Contents.CashShop.Item.Desc.5080",
+        "alias": "Contents.CashShop.Item.Desc.5072",
         "text": "[Information on supplies]\n: Shiro's bond I\n\n- Category: Consumables\n- When used, obtain the following items\n: 1 Shining Soul Summon Scroll (11 times)\n: Shining Guardian Spirit Summon Scroll (11 times) x1\n: Shiro's Token x1\n- Other Settings: Storage not allowed, cannot be traded\n\n* Shiro's Token\n- Classification: Consumables\n- Use: Equipment Enrollment possible"
     },
     "99800097": {
         "deprecated": false,
-        "Dev_Desc": "홈/ 시로의 인연 연속구매 패키지 [Step 2] [지급품 설명]",
+        "Dev_Desc": "신석 / 소모품 / 월광 제작주화 상자 1개",
         "id": 99800097,
-        "alias": "Contents.CashShop.Item.Desc.5081",
+        "alias": "Contents.CashShop.Item.Desc.5071",
         "text": "[Information on supplies]\n: Shiro's bond II\n\n- Category: Consumables\n- When used, obtain the following items\n: 1 Shining Soul Summon Scroll (11 times)\n: Spirit Stone (7 days) 1 pc\n: 10,000 swatches\n- Other settings: warehouse storage not allowed, transaction not allowed"
     },
     "99800098": {
         "deprecated": false,
-        "Dev_Desc": "홈/ 시로의 인연 연속구매 패키지 [Step 3] [지급품 설명]",
+        "Dev_Desc": "홈/ 월광 연속구매 패키지 [Step 1] ",
         "id": 99800098,
-        "alias": "Contents.CashShop.Item.Desc.5082",
+        "alias": "Contents.CashShop.Item.Desc.5073",
         "text": "[Information on supplies]\n: Shiro's bond III\n\n- Category: Consumables\n- When used, obtain the following items\n: 1 Shining Soul Summon Scroll (11 times)\n: Shiro 3 tokens of \n- Other settings: warehouse storage impossible, transaction impossible\n\n* Shiro's token\n- Category: Consumables\n- Use effect: Equipment encyclopedia registration possible"
     },
     "99800099": {
         "deprecated": false,
-        "Dev_Desc": "홈/ 시로의 인연 연속구매 패키지 [Step 4] [지급품 설명]",
+        "Dev_Desc": "홈/ 월광 연속구매 패키지 [Step 2] ",
         "id": 99800099,
-        "alias": "Contents.CashShop.Item.Desc.5083",
+        "alias": "Contents.CashShop.Item.Desc.5074",
         "text": "[Supplies Guide]\n: Shiro's Bond IV\n\n- Classification: Consumables\n- When used, obtain the following items\n: 1 Shining Soul Summon Scroll (11 times)\n: Shining Guardian Spirit Summon Scroll (11 times) 1 x\n: Shiro's Token 3 x\n- Other Settings: Storage not allowed, cannot be traded\n\n* Shiro's Token\n- Classification: Consumables\n- Use: Equipment Enrollment possible"
     },
     "99800100": {
         "deprecated": false,
-        "Dev_Desc": "홈/ 시로의 인연 연속구매 패키지 [Step 5] [지급품 설명]",
+        "Dev_Desc": "홈/ 월광 연속구매 패키지 [Step 3] ",
         "id": 99800100,
-        "alias": "Contents.CashShop.Item.Desc.5084",
+        "alias": "Contents.CashShop.Item.Desc.5075",
         "text": "[Information on supplies]\n: Shiro's bond V\n\n- Classification: Consumables\n- When used, obtain the following items\n: 500 Spirit Flour\n: 4 Shiro's Tokens\n - Other settings: Storage not allowed, cannot be traded\n\n* Shiro's token\n- Classification: Consumables\n- Use effect: Equipment encyclopedia registration possible"
     },
     "99800101": {
         "deprecated": false,
-        "Dev_Desc": "홈/ 시로의 인연 연속구매 패키지 [Step 6] [지급품 설명]",
+        "Dev_Desc": "홈/ 월광 연속구매 패키지 [Step 4] ",
         "id": 99800101,
-        "alias": "Contents.CashShop.Item.Desc.5085",
+        "alias": "Contents.CashShop.Item.Desc.5076",
         "text": "[Supplies Information]\n: Shiro's Bond VI\n\n- Category: Consumables\n- When used, obtain the following items\n: 50 Essence Fragments\n: 3 Shiro's Tokens\n - Other settings: Storage not allowed, cannot be traded\n\n* Shiro's token\n- Classification: Consumables\n- Use effect: Equipment encyclopedia registration possible"
     },
     "99800102": {
         "deprecated": false,
-        "Dev_Desc": "홈/ 시로의 인연 연속구매 패키지 보너스 상품 / 희귀 수호령(확정)",
+        "Dev_Desc": "홈 / 월광 연속구매 패키지 보너스 상품 [Step 2] / 월광 증표 1개",
         "id": 99800102,
-        "alias": "Contents.CashShop.Item.Desc.5086",
+        "alias": "Contents.CashShop.Item.Desc.5077",
         "text": "[Information on supplies]\n : Rare military paper selection box I\n\n- Classification: Consumables (box)\n- Use effect: When used, you can obtain one of the following military documents\n : [Sword] Splitting the Sky (Engraving)\n : [Gauntlet] Legging (Imprinting)\n : [Axe] Rage (Engraving)\n : [Kigong Plaque] Biryun Engraving (Engraving)\n : [Bow] Multiple Shots ( Engraving)\n: [Beopjong] Healing Zone (Engraving)\n\n- Other settings: Storage not allowed, trade not allowed"
     },
     "99800103": {
         "deprecated": false,
-        "Dev_Desc": "도화전 / 희귀 무공 선택 상자",
+        "Dev_Desc": "홈 / 월광 연속구매 패키지 보너스 상품 [Step 4] / 월광 증표 3개",
         "id": 99800103,
-        "alias": "Contents.CashShop.Item.Desc.5087",
+        "alias": "Contents.CashShop.Item.Desc.5078",
         "text": "[Information on supplies]\n : Rare military paper selection box I\n\n- Classification: Consumables (box)\n- Use effect: When used, you can obtain one of the following military papers\n : [Sword] Splitting the sky (engraving)\n : [Gauntlet] Leg hanging (engraving)\n : [Axe] Whirlwind (engraving)\n : [Kigong Plaque] Hoejinbo (engraving)\n : [Bow] Kill command ( engraved)\n: [Lecture] Healing Zone (Imprinted)\n\n- Other settings: Storage not allowed, transaction not allowed"
     },
     "99800104": {
         "deprecated": false,
-        "Dev_Desc": "도화전 / 진묘영 소울 소환서 (각인)",
+        "Dev_Desc": "파사의 질서 패키지 [지급품 설명]",
         "id": 99800104,
-        "alias": "Contents.CashShop.Item.Desc.5088",
+        "alias": "Contents.CashShop.Item.Desc.5079",
         "text": "[Information on supplies]\n : Jinmyoyoung Soul Summon Scroll (1 time) (engraved) \n\n- Classification: Consumables (summon Scroll)\n- When used, acquire the rare grade soul 'Jinmyoyoung' You can\n- Other settings: warehouse storage impossible, transaction impossible, sale impossible\n\n[Purchase limit]\nOnce per month for each server\n\nReset the number of purchases at 00:00 on the 1st of every month"
     },
     "99800105": {
         "deprecated": false,
-        "Dev_Desc": "도화전 / 곽호룡 소울 소환서 (각인)",
+        "Dev_Desc": "홈/ 시로의 인연 연속구매 패키지 [Step 1] [지급품 설명]",
         "id": 99800105,
-        "alias": "Contents.CashShop.Item.Desc.5089",
+        "alias": "Contents.CashShop.Item.Desc.5080",
         "text": "[Supplies Guide]\n: Horyong Kwak Soul Fragment (Engraving) \n\n- Category: Consumables (Summon Scroll)\n- Use: When used, obtain 25 Soul Fragments of Hero Grade 'Kwak Ho-Ryong'\n- Other settings: warehouse storage impossible, transaction impossible, sale impossible\n\n[Purchase limit]\nOnce a month for each server\n\nReset the number of purchases at 00:00 on the 1st of every month"
     },
     "99800106": {
         "deprecated": false,
-        "Dev_Desc": "도화전 / 금강역사 수호령 소환서 (각인)",
+        "Dev_Desc": "홈/ 시로의 인연 연속구매 패키지 [Step 2] [지급품 설명]",
         "id": 99800106,
-        "alias": "Contents.CashShop.Item.Desc.5090",
+        "alias": "Contents.CashShop.Item.Desc.5081",
         "text": "[Information on supplies]\n : Geumgang Station Guardian Spirit Summon Scroll (1 time) (engraved) \n\n- Classification: Consumables (Summon Scroll)\n- Use: When used, Rare Grade Guardian Spirit 'Geumgang Station' '\n- Other settings: warehouse storage impossible, transaction impossible, sale impossible\n\n[Purchase limit]\nOnce per month for each server\n\nReset the number of purchases at 00:00 on the 1st of every month "
     },
     "99800107": {
         "deprecated": false,
-        "Dev_Desc": "도화전 / 영웅 수호령 소환서 (각인)",
+        "Dev_Desc": "홈/ 시로의 인연 연속구매 패키지 [Step 3] [지급품 설명]",
         "id": 99800107,
-        "alias": "Contents.CashShop.Item.Desc.5091",
+        "alias": "Contents.CashShop.Item.Desc.5082",
         "text": "[Information on supplies]\n : Hero's Guardian Spirit Confirmation Summon Scroll (1 time) (Engraved) \n\n- Classification: Consumables (Summon Scroll)\n- Use: Depending on a set probability when used, Hero's Guardian Spirit 1 can be obtained\n- Other settings: Storage not allowed, trade is not allowed, cannot be sold\n\n[List of available guardian spirits]\n\nYou can acquire 1 guardian spirit according to a set probability among the following guardian spirits\n(grade : Hero)\n\n<Hero>\nHong Seok-geun/Cheonjin-Kwon/Hwajung/Saturated/Hwa-Ran/Hae-Mu-Jin\n\n- Others\n: When you acquire a hero-grade guardian spirit, you can replace it with another guardian spirit in the 'Confirm Guardian Spirit' menu\n\n[Purchase limit]\nOnce a month for each server\n\nReset the number of purchases at 00:00 on the 1st of each month"
     },
     "99800108": {
         "deprecated": false,
-        "Dev_Desc": "도화전 / 회귀 의상 상자 (각인)",
+        "Dev_Desc": "홈/ 시로의 인연 연속구매 패키지 [Step 4] [지급품 설명]",
         "id": 99800108,
-        "alias": "Contents.CashShop.Item.Desc.5094",
+        "alias": "Contents.CashShop.Item.Desc.5083",
         "text": "[Information on supplies]\n: Rare costume pouch (engraving)\n\n- Classification: Consumables (box)\n- When used, you can obtain one of the advanced ~ rare grade clothes according to a set probability. \n- Other settings: No transaction"
     },
     "99800109": {
         "deprecated": false,
-        "Dev_Desc": "도화전 / 영웅 의상 상자 (각인)",
+        "Dev_Desc": "홈/ 시로의 인연 연속구매 패키지 [Step 5] [지급품 설명]",
         "id": 99800109,
-        "alias": "Contents.CashShop.Item.Desc.5095",
+        "alias": "Contents.CashShop.Item.Desc.5084",
         "text": "[Information on supplies]\n: Hero costume pouch (engraving)\n\n- Category: Consumables (box)\n- When used, you can obtain one of the rare ~ hero grade costumes according to a set probability. \n- Other settings: No transaction"
     },
     "99800110": {
         "deprecated": false,
-        "Dev_Desc": "도화전 / 고급 회복 물약(각인)",
+        "Dev_Desc": "홈/ 시로의 인연 연속구매 패키지 [Step 6] [지급품 설명]",
         "id": 99800110,
-        "alias": "Contents.CashShop.Item.Desc.5096",
+        "alias": "Contents.CashShop.Item.Desc.5085",
         "text": "[Information on supplies]\n: 1 advanced recovery potion (engraving)\n\n- Classification: Consumables\n- Use effect: Allows to recover a large amount of character's HP when used\n- Other settings: Non-tradeable \n\n[Purchase limit]\n10 times per day for each server\n\nReset the number of purchases at 00:00 every day"
     },
     "99800111": {
         "deprecated": false,
-        "Dev_Desc": "비사전 / 백년초 만두(각인)",
+        "Dev_Desc": "홈/ 시로의 인연 연속구매 패키지 보너스 상품 / 희귀 수호령(확정)",
         "id": 99800111,
-        "alias": "Contents.CashShop.Item.Desc.5097",
+        "alias": "Contents.CashShop.Item.Desc.5086",
         "text": "[Information on supplies]\n: Centennial Dumplings (Engraving)\n\n- Classification: Consumables (Food)\n- Effect: Increases attack-related stats significantly when used (30 minutes cooldown)\n: ATK +2 / Accuracy +1 / Penetration +3\n: Cannot stack with other food item effects\n- Other settings: Cannot trade\n\n\n[Purchase limit]\n10 times per day per server\n \nReset the number of purchases at 00:00 every day"
     },
     "99800112": {
         "deprecated": false,
-        "Dev_Desc": "비사전 / 금괴 :1만금",
+        "Dev_Desc": "도화전 / 희귀 무공 선택 상자",
         "id": 99800112,
-        "alias": "Contents.CashShop.Item.Desc.5098",
+        "alias": "Contents.CashShop.Item.Desc.5087",
         "text": "[Information on supplies]\n : Gold Bar: 10,000 gold (engraved)\n\n- Classification: Materials\n- You can obtain 10,000 gold coins by selling to the shop\n- Other settings: Storage not allowed, No transaction\n\n[Purchase limit]\n10 times per day for each server\n\nReset the number of purchases at 00:00 every day"
     },
     "99800113": {
         "deprecated": false,
-        "Dev_Desc": "비사전 / 낡은 소울 파편(11회) 1~3개",
+        "Dev_Desc": "도화전 / 진묘영 소울 소환서 (각인)",
         "id": 99800113,
-        "alias": "Contents.CashShop.Item.Desc.5099",
+        "alias": "Contents.CashShop.Item.Desc.5088",
         "text": "[Supplies Information]\n : Old Soul Fragments (11 times) (Engraving)\n\n[Acquired Soul List]\n\n1~3 Soul Fragments according to a set probability from among the souls below Obtainable\n(Level: Normal ~ Advanced)\n\n<Advanced>\nSeoin Warrior / Westin Archer / Lotus Leaf Man / Tree Spirit / Corridor Guard / Corridor Guard Artillery / Suwa Warrior / Suwa Guard /Dongja-ryeong/Black Bear/Black Wolf/Golden Moss Fox/Fishman Swordsman/ Fishman Spearman/Spectre/Nyanyan/Sea and Moon Monster/Nero Nero/White Tiger/Golden Bald Eagle\n\n<Normal>\nHermit Crab/Green Jade Crab/ Snake mushroom/deer/chicken/sheep/beginner guardian/mutated jellyfish/mother spirit/bear/wolf/fox/beach tortoise/Imp/sloppy goblin/pigtail/apple dog/moss fox/tiger/tricolor\n\n- Other settings: warehouse storage impossible, transaction impossible, sale impossible\n\n[Purchase limit]\nOnce per day for each server\n\nReset the number of purchases at 00:00 every day"
     },
     "99800114": {
         "deprecated": false,
-        "Dev_Desc": "도화전 / 희귀 무공 선택 상자 2",
+        "Dev_Desc": "도화전 / 곽호룡 소울 소환서 (각인)",
         "id": 99800114,
-        "alias": "Contents.CashShop.Item.Desc.5100",
+        "alias": "Contents.CashShop.Item.Desc.5089",
         "text": "[Information on supplies]\n: Rare Military Paper Selection Box II\n\n- Category: Consumables (Crate)\n- Use: When used, you can select one of the following items to obtain\n: [Sword] One Island (Engraving)\n : [Gauntlet] Furious Attack (Engraving)\n : [Axe] Rage (Imprinting)\n : [Kigong Plaque] Biryun Engraving (Imprinting)\n : [Bow] Multiple Shots (Engraving) )\n: [Beopjong] Cheonghwa (engraving)\n\n- Other settings: Storage not allowed, transaction not allowed"
     },
     "99800115": {
         "deprecated": false,
-        "Dev_Desc": "금화 / 데일리 패스권",
+        "Dev_Desc": "도화전 / 금강역사 수호령 소환서 (각인)",
         "id": 99800115,
-        "alias": "Contents.CashShop.Item.Desc.5101",
+        "alias": "Contents.CashShop.Item.Desc.5090",
         "text": "[Information on supplies]\nWhen purchasing, obtain the following goods and items\n: Daily Pass Ticket\n\n* Daily Pass Ticket\n- Category: Material\n- Use: Activate Daily Pass Additional Compensation Available\n: Available within the Daily Pass menu\n- Other settings: Non-tradeable, unavailable for sale, available until 2021.09.22.\n\n* Caution\nAfter the season ends, you will no longer be able to proceed with the Pass mission. .\nA week after the end of the season, unused Pass Points will expire and can no longer be exchanged for rewards.\n\n[Purchase limit]\nOnce per server"
     },
     "99800116": {
         "deprecated": false,
-        "Dev_Desc": "금화 / TJ 패스권",
+        "Dev_Desc": "도화전 / 영웅 수호령 소환서 (각인)",
         "id": 99800116,
-        "alias": "Contents.CashShop.Item.Desc.5102",
+        "alias": "Contents.CashShop.Item.Desc.5091",
         "text": "[Information on supplies]\nObtain the following goods and items when purchasing\n: Special Pass Ticket\n\n* Special Pass Ticket\n- Category: Material\n- Use: Special Pass Additional Compensation Activation Available\n: Available within the Special Pass menu\n- Other settings: Non-tradeable, non-sellable, available until September 23, 2021\n\n* Caution\nAfter the season ends, you will no longer be able to proceed with the pass mission. .\nA week after the end of the season, unused Pass Points will expire and can no longer be exchanged for rewards.\n\n[Purchase limit]\nOnce per server"
     },
     "99800117": {
         "deprecated": false,
-        "Dev_Desc": "금화 / 빛나는 영석(28일)(이벤트)",
+        "Dev_Desc": "도화전 / 회귀 의상 상자 (각인)",
         "id": 99800117,
-        "alias": "Contents.CashShop.Item.Desc.5103",
+        "alias": "Contents.CashShop.Item.Desc.5094",
         "text": "[Information on supplies]\nObtain the following goods and items upon purchase\n: Shining Spirit Stone (28 Days) (Event)\n\n* Shining Spirit Stone (28 Days) (Event)\n- Category: Consumables\n- Use: Acquires the following effects when used (the effect is maintained for 28 days when used)\n: Increases EXP acquisition rate by 100%, Gold Coin acquisition rate by 50%\n: Cannot be stacked with existing Shining Spirit Stone (28 days)\n : The buff effect of Shining Spirit Stone / Spirit Stone / Spirit Crystal can be stacked\n- Note: The buff effect only applies to the character who used it, and the duration of the effect is deducted even when not connected. Cannot be reused during the duration of the effect\n- Other settings : Cannot be stored in warehouse, cannot be traded, cannot be sold, can be used until 2021.09.22. 05:00\n\n[Purchase limit]\nOnce per character"
     },
     "99800118": {
         "deprecated": false,
-        "Dev_Desc": "신석 / 소환 / 픽업 소울 소환 1회 / 홍매화, 달빛바람, 퍼롱퍼롱",
+        "Dev_Desc": "도화전 / 영웅 의상 상자 (각인)",
         "id": 99800118,
-        "alias": "Contents.CashShop.Item.Desc.5104",
+        "alias": "Contents.CashShop.Item.Desc.5095",
         "text": "[획득 가능한 소울 리스트]\n아래 소울 중 정해진 확률에 따라 소울을 1개 획득 가능\n(등급 : 일반 ~ 영웅)\n\n<영웅> 소울 : 0.675%\n[홍매화/달빛바람/퍼롱퍼롱] : 각 0.225%\n\n<희귀> 소울 : 5.100%\n[수양 탐색대원/수양 경계대원/청명파 청의전사/청명파 청의투사/천무단 검사/천무단 권사] : 각 0.450%\n[매화단 탐사단원/매화단 순찰단원/영교원 주술사/임연수] : 각 0.600%\n\n<상급> 소울 : 20.000%\n[해월괴인/동자령/네이냥/황금 발발이/연잎인간] : 각 0.640%\n[네로네로/서인족 궁수/수와족 경비병/망령/서인족 전사/수와족 전사/어인족 검병/어인족 창병/회랑 수호포병] : 각 1.000%\n[검은늑대/흑곰/백호/황금이끼여우/회랑 수호병/수목정령] : 각 1.300%\n\n<일반> 소울 : 74.225%\n[호랑이/이끼여우/사과도치/발발이/삼색조] : 각 3.145%\n[늑대/곰/초급 수호병/노숙령/변이된 해파리/여우/해변거북/꼬마 도깨비/홀쭉 도깨비] : 각 3.700%\n[사슴/양/소라게/녹옥 게/닭/뱀버섯] : 각 4.200%\n\n- 기타\n: 이미 보유 중인 소울을 중복으로 획득할 경우, 해당 소울 파편 25개로 자동 변환\n: 영웅 등급 소울 획득 시 '소울 확정' 메뉴에서 다른 소울로 교체 가능"
     },
     "99800119": {
         "deprecated": false,
-        "Dev_Desc": "신석 / 소환 / 픽업 소울 소환 11회 / 홍매화, 달빛바람, 퍼롱퍼롱",
+        "Dev_Desc": "도화전 / 고급 회복 물약(각인)",
         "id": 99800119,
-        "alias": "Contents.CashShop.Item.Desc.5105",
+        "alias": "Contents.CashShop.Item.Desc.5096",
         "text": "[획득 가능한 소울 리스트]\n아래 소울 중 정해진 확률에 따라 소울을 11개 획득 가능\n(등급 : 일반 ~ 영웅)\n\n<영웅> 소울 : 0.675%\n[홍매화/달빛바람/퍼롱퍼롱] : 각 0.225%\n\n<희귀> 소울 : 5.100%\n[수양 탐색대원/수양 경계대원/청명파 청의전사/청명파 청의투사/천무단 검사/천무단 권사] : 각 0.450%\n[매화단 탐사단원/매화단 순찰단원/영교원 주술사/임연수] : 각 0.600%\n\n<상급> 소울 : 20.000%\n[해월괴인/동자령/네이냥/황금 발발이/연잎인간] : 각 0.640%\n[네로네로/서인족 궁수/수와족 경비병/망령/서인족 전사/수와족 전사/어인족 검병/어인족 창병/회랑 수호포병] : 각 1.000%\n[검은늑대/흑곰/백호/황금이끼여우/회랑 수호병/수목정령] : 각 1.300%\n\n<일반> 소울 : 74.225%\n[호랑이/이끼여우/사과도치/발발이/삼색조] : 각 3.145%\n[늑대/곰/초급 수호병/노숙령/변이된 해파리/여우/해변거북/꼬마 도깨비/홀쭉 도깨비] : 각 3.700%\n[사슴/양/소라게/녹옥 게/닭/뱀버섯] : 각 4.200%\n\n- 기타\n: 이미 보유 중인 소울을 중복으로 획득할 경우, 해당 소울 파편 25개로 자동 변환\n: 영웅 등급 소울 획득 시 '소울 확정' 메뉴에서 다른 소울로 교체 가능"
     },
     "99800120": {
         "deprecated": false,
-        "Dev_Desc": "홈 / 무공 성장 패키지 / [Step 1] / 무공 재료 상자 2개, 빛나는 정수 파편 1개",
+        "Dev_Desc": "비사전 / 백년초 만두(각인)",
         "id": 99800120,
-        "alias": "Contents.CashShop.Item.Desc.5106",
+        "alias": "Contents.CashShop.Item.Desc.5097",
         "text": "[지급품 안내]\n구매 시 다음 재화 및 아이템을 획득\n: 무공 재료 상자 1개\n: 빛나는 정수 파편 2개\n\n* 무공 재료 상자\n- 분류 : 소모품 (상자)\n- 사용 효과 : 사용 시 다음 아이템을 획득\n: 정수 파편(각인) 5개\n: 비결(각인) 25개\n- 기타 설정 : 판매 불가\n\n* 빛나는 정수 파편\n- 분류 : 재료\n- 사용 효과 : 빛나는 정수 파편을 이용하여, 증폭/극한의 정수를 확정 제작 가능\n- 빛나는 정수 파편 1개로 제작 가능한 리스트\n: 정수 파편(각인) 5개\n\n- 빛나는 정수 파편 2개로 제작 가능한 리스트\n: [검] 증폭의 정수: 올려베기(각인)\n: [검] 증폭의 정수: 뛰어베기(각인) \n: [권갑] 증폭의 정수: 승룡각(각인) \n: [권갑] 증폭의 정수: 절명각(각인)\n: [도끼] 증폭의 정수: 광풍(각인)\n: [도끼] 증폭의 정수: 격돌(각인)\n: [기공패] 증폭의 정수: 화련장(각인)\n: [기공패] 증폭의 정수: 유성(각인)\n: [활] 증폭의 정수: 화살비(각인) \n: [활] 증폭의 정수: 추적화살(각인)\n: [법종] 증폭의 정수: 생령치유(각인)\n: [법종] 증폭의 정수: 심기일전(각인) \n\n- 빛나는 정수 파편 4개로 제작 가능 리스트\n: [검] 극한의 정수: 올려베기(각인)\n: [검] 극한의 정수: 뛰어베기(각인)\n: [권갑] 극한의 정수: 승룡각(각인)\n: [권갑] 극한의 정수: 절명각(각인)\n: [도끼] 극한의 정수: 광풍(각인)\n: [도끼] 극한의 정수: 격돌(각인)\n: [기공패] 극한의 정수: 화련장(각인)\n: [기공패] 극한의 정수: 유성(각인)\n: [활] 극한의 정수: 화살비(각인) \n: [활] 극한의 정수: 추적화살(각인)\n: [법종] 극한의 정수: 생령치유(각인)\n: [법종] 극한의 정수: 심기일전(각인)\n\n- 빛나는 정수 파편 35개로 제작 가능 리스트\n: [검] 증폭의 정수: 천지가르기(각인)\n: [검] 증폭의 정수: 일섬(각인)\n: [권갑] 증폭의 정수: 다리걸기(각인)\n: [권갑] 증폭의 정수: 맹호격(각인)\n: [도끼] 증폭의 정수: 분노(각인)\n: [도끼] 증폭의 정수: 선풍(각인)\n: [기공패] 증폭의 정수: 비륜연휘(각인)\n: [기공패] 증폭의 정수: 회진보(각인)\n: [활] 증폭의 정수: 다중사격(각인)\n: [활] 증폭의 정수: 살상명령(각인)\n: [법종] 증폭의 정수: 치유지대(각인)\n: [법종] 증폭의 정수: 청화(각인)\n\n- 빛나는 정수 파편 70개로 제작 가능 리스트\n: [검] 극한의 정수: 천지가르기(각인)\n: [검] 극한의 정수: 일섬(각인)\n: [권갑] 극한의 정수: 다리걸기(각인)\n: [권갑] 극한의 정수: 맹호격(각인)\n: [도끼] 극한의 정수: 분노(각인)\n: [도끼] 극한의 정수: 선풍(각인)\n: [기공패] 극한의 정수: 비륜연휘(각인)\n: [기공패] 극한의 정수: 회진보(각인)\n: [활] 극한의 정수: 다중사격(각인)\n: [활] 극한의 정수: 살상명령(각인)\n: [법종] 극한의 정수: 치유지대(각인)\n: [법종] 극한의 정수: 청화(각인)\n- 기타 설정 : 판매 불가, 2021.12.01.까지 사용 가능\n\n* 정수 파편(각인)\n- 분류 : 재료\n- 설명 : 무공을 성장시킬 수 있는 정수 제작에 사용되는 재료\n- 기타 설정 : 거래 불가, 판매 불가\n\n* 비결(각인)\n- 분류 : 재료\n- 무공 강화 및 무공서 제작에 사용되는 재료\n- 기타 설정 : 거래 불가"
     },
     "99800121": {
         "deprecated": false,
-        "Dev_Desc": "홈 / 무공 성장 패키지 / [Step 2] / 무공 재료 상자 2개, 빛나는 정수 파편 1개",
+        "Dev_Desc": "비사전 / 금괴 :1만금",
         "id": 99800121,
-        "alias": "Contents.CashShop.Item.Desc.5107",
+        "alias": "Contents.CashShop.Item.Desc.5098",
         "text": "[지급품 안내]\n구매 시 다음 재화 및 아이템을 획득\n: 무공 재료 상자 2개\n: 빛나는 정수 파편 2개\n\n* 무공 재료 상자\n- 분류 : 소모품 (상자)\n- 사용 효과 : 사용 시 다음 아이템을 획득\n: 정수 파편(각인) 5개\n: 비결(각인) 25개\n- 기타 설정 : 판매 불가\n\n* 빛나는 정수 파편\n- 분류 : 재료\n- 사용 효과 : 빛나는 정수 파편을 이용하여, 증폭/극한의 정수를 확정 제작 가능\n- 빛나는 정수 파편 1개로 제작 가능한 리스트\n: 정수 파편(각인) 5개\n\n- 빛나는 정수 파편 2개로 제작 가능한 리스트\n: [검] 증폭의 정수: 올려베기(각인)\n: [검] 증폭의 정수: 뛰어베기(각인) \n: [권갑] 증폭의 정수: 승룡각(각인) \n: [권갑] 증폭의 정수: 절명각(각인)\n: [도끼] 증폭의 정수: 광풍(각인)\n: [도끼] 증폭의 정수: 격돌(각인)\n: [기공패] 증폭의 정수: 화련장(각인)\n: [기공패] 증폭의 정수: 유성(각인)\n: [활] 증폭의 정수: 화살비(각인) \n: [활] 증폭의 정수: 추적화살(각인)\n: [법종] 증폭의 정수: 생령치유(각인)\n: [법종] 증폭의 정수: 심기일전(각인) \n\n- 빛나는 정수 파편 4개로 제작 가능 리스트\n: [검] 극한의 정수: 올려베기(각인)\n: [검] 극한의 정수: 뛰어베기(각인)\n: [권갑] 극한의 정수: 승룡각(각인)\n: [권갑] 극한의 정수: 절명각(각인)\n: [도끼] 극한의 정수: 광풍(각인)\n: [도끼] 극한의 정수: 격돌(각인)\n: [기공패] 극한의 정수: 화련장(각인)\n: [기공패] 극한의 정수: 유성(각인)\n: [활] 극한의 정수: 화살비(각인) \n: [활] 극한의 정수: 추적화살(각인)\n: [법종] 극한의 정수: 생령치유(각인)\n: [법종] 극한의 정수: 심기일전(각인)\n\n- 빛나는 정수 파편 35개로 제작 가능 리스트\n: [검] 증폭의 정수: 천지가르기(각인)\n: [검] 증폭의 정수: 일섬(각인)\n: [권갑] 증폭의 정수: 다리걸기(각인)\n: [권갑] 증폭의 정수: 맹호격(각인)\n: [도끼] 증폭의 정수: 분노(각인)\n: [도끼] 증폭의 정수: 선풍(각인)\n: [기공패] 증폭의 정수: 비륜연휘(각인)\n: [기공패] 증폭의 정수: 회진보(각인)\n: [활] 증폭의 정수: 다중사격(각인)\n: [활] 증폭의 정수: 살상명령(각인)\n: [법종] 증폭의 정수: 치유지대(각인)\n: [법종] 증폭의 정수: 청화(각인)\n\n- 빛나는 정수 파편 70개로 제작 가능 리스트\n: [검] 극한의 정수: 천지가르기(각인)\n: [검] 극한의 정수: 일섬(각인)\n: [권갑] 극한의 정수: 다리걸기(각인)\n: [권갑] 극한의 정수: 맹호격(각인)\n: [도끼] 극한의 정수: 분노(각인)\n: [도끼] 극한의 정수: 선풍(각인)\n: [기공패] 극한의 정수: 비륜연휘(각인)\n: [기공패] 극한의 정수: 회진보(각인)\n: [활] 극한의 정수: 다중사격(각인)\n: [활] 극한의 정수: 살상명령(각인)\n: [법종] 극한의 정수: 치유지대(각인)\n: [법종] 극한의 정수: 청화(각인)\n- 기타 설정 : 판매 불가, 2021.12.01.까지 사용 가능\n\n* 정수 파편(각인)\n- 분류 : 재료\n- 설명 : 무공을 성장시킬 수 있는 정수 제작에 사용되는 재료\n- 기타 설정 : 거래 불가, 판매 불가\n\n* 비결(각인)\n- 분류 : 재료\n- 무공 강화 및 무공서 제작에 사용되는 재료\n- 기타 설정 : 거래 불가"
     },
     "99800122": {
         "deprecated": false,
-        "Dev_Desc": "홈 / 무공 성장 패키지 / [Step 3] / 무공 재료 상자 2개, 빛나는 정수 파편 1개",
+        "Dev_Desc": "비사전 / 낡은 소울 파편(11회) 1~3개",
         "id": 99800122,
-        "alias": "Contents.CashShop.Item.Desc.5108",
+        "alias": "Contents.CashShop.Item.Desc.5099",
         "text": "[지급품 안내]\n구매 시 다음 재화 및 아이템을 획득\n: 무공 재료 상자 3개\n: 빛나는 정수 파편 3개\n\n* 무공 재료 상자\n- 분류 : 소모품 (상자)\n- 사용 효과 : 사용 시 다음 아이템을 획득\n: 정수 파편(각인) 5개\n: 비결(각인) 25개\n- 기타 설정 : 판매 불가\n\n* 빛나는 정수 파편\n- 분류 : 재료\n- 사용 효과 : 빛나는 정수 파편을 이용하여, 증폭/극한의 정수를 확정 제작 가능\n- 빛나는 정수 파편 1개로 제작 가능한 리스트\n: 정수 파편(각인) 5개\n\n- 빛나는 정수 파편 2개로 제작 가능한 리스트\n: [검] 증폭의 정수: 올려베기(각인)\n: [검] 증폭의 정수: 뛰어베기(각인) \n: [권갑] 증폭의 정수: 승룡각(각인) \n: [권갑] 증폭의 정수: 절명각(각인)\n: [도끼] 증폭의 정수: 광풍(각인)\n: [도끼] 증폭의 정수: 격돌(각인)\n: [기공패] 증폭의 정수: 화련장(각인)\n: [기공패] 증폭의 정수: 유성(각인)\n: [활] 증폭의 정수: 화살비(각인) \n: [활] 증폭의 정수: 추적화살(각인)\n: [법종] 증폭의 정수: 생령치유(각인)\n: [법종] 증폭의 정수: 심기일전(각인) \n\n- 빛나는 정수 파편 4개로 제작 가능 리스트\n: [검] 극한의 정수: 올려베기(각인)\n: [검] 극한의 정수: 뛰어베기(각인)\n: [권갑] 극한의 정수: 승룡각(각인)\n: [권갑] 극한의 정수: 절명각(각인)\n: [도끼] 극한의 정수: 광풍(각인)\n: [도끼] 극한의 정수: 격돌(각인)\n: [기공패] 극한의 정수: 화련장(각인)\n: [기공패] 극한의 정수: 유성(각인)\n: [활] 극한의 정수: 화살비(각인) \n: [활] 극한의 정수: 추적화살(각인)\n: [법종] 극한의 정수: 생령치유(각인)\n: [법종] 극한의 정수: 심기일전(각인)\n\n- 빛나는 정수 파편 35개로 제작 가능 리스트\n: [검] 증폭의 정수: 천지가르기(각인)\n: [검] 증폭의 정수: 일섬(각인)\n: [권갑] 증폭의 정수: 다리걸기(각인)\n: [권갑] 증폭의 정수: 맹호격(각인)\n: [도끼] 증폭의 정수: 분노(각인)\n: [도끼] 증폭의 정수: 선풍(각인)\n: [기공패] 증폭의 정수: 비륜연휘(각인)\n: [기공패] 증폭의 정수: 회진보(각인)\n: [활] 증폭의 정수: 다중사격(각인)\n: [활] 증폭의 정수: 살상명령(각인)\n: [법종] 증폭의 정수: 치유지대(각인)\n: [법종] 증폭의 정수: 청화(각인)\n\n- 빛나는 정수 파편 70개로 제작 가능 리스트\n: [검] 극한의 정수: 천지가르기(각인)\n: [검] 극한의 정수: 일섬(각인)\n: [권갑] 극한의 정수: 다리걸기(각인)\n: [권갑] 극한의 정수: 맹호격(각인)\n: [도끼] 극한의 정수: 분노(각인)\n: [도끼] 극한의 정수: 선풍(각인)\n: [기공패] 극한의 정수: 비륜연휘(각인)\n: [기공패] 극한의 정수: 회진보(각인)\n: [활] 극한의 정수: 다중사격(각인)\n: [활] 극한의 정수: 살상명령(각인)\n: [법종] 극한의 정수: 치유지대(각인)\n: [법종] 극한의 정수: 청화(각인)\n- 기타 설정 : 판매 불가, 2021.12.01.까지 사용 가능\n\n* 정수 파편(각인)\n- 분류 : 재료\n- 설명 : 무공을 성장시킬 수 있는 정수 제작에 사용되는 재료\n- 기타 설정 : 거래 불가, 판매 불가\n\n* 비결(각인)\n- 분류 : 재료\n- 무공 강화 및 무공서 제작에 사용되는 재료\n- 기타 설정 : 거래 불가"
     },
     "99800123": {
         "deprecated": false,
-        "Dev_Desc": "홈 / 무공 성장 패키지 / 보너스 상품 / 도인의 정기",
+        "Dev_Desc": "도화전 / 희귀 무공 선택 상자 2",
         "id": 99800123,
-        "alias": "Contents.CashShop.Item.Desc.5109",
+        "alias": "Contents.CashShop.Item.Desc.5100",
         "text": "[지급품 안내]\n다음 재화 및 아이템을 획득\n: 빛나는 소울 소환서(11회) 2개\n\n* 빛나는 소울 소환서 (11회)\n- 분류 : 소모품 (소환서)\n- 사용 효과 : 사용 시 정해진 확률에 따라 일반~영웅 소울 11개 획득 가능\n- 기타 설정 : 창고 보관 불가, 거래 불가, 판매 불가\n\n[획득 가능한 소울 리스트]\n아래 소울 중 정해진 확률에 따라 소울을 1개 획득 가능\n(등급 : 일반 ~ 영웅)\n\n<영웅> 소울 : 0.675%\n[동충/수호병 대장/초령목/우두머리 두억시니/폭주 수호병 대장/홍돈삼] : 0.390%\n[비류하/바오바오/곽호룡/홍매화/월광바람/퍼롱퍼롱] : 0.240%\n[픙신/뇌신/낙원대성] : 0.045%\n\n<희귀> 소울 : 5.100%\n[녹각다귀/ 묘면족/수와족 덩치/창도단 검사/창도단 쌍칼/창도단 투사/매화단 탐사단원/매화단 순찰단원/영교원 주술사 임연수 (대어방주)/비사문 관리관/비사문 첩보관] : 2.400%\n[변이된 청인족 검사/변이된 청인족 암살자/변이된 청인족 투사/홍돈 보초병/홍돈 전투병/일성관 살수/일성관 궁수/수양 탐색대원/수양 경계대원/검은 새벽단 전투병/검은 새벽단 암살자/검은 새벽단 주술사/청명파 청의전사/청명파 청의투사/천무단 검사/천무단 권사/명혜단 석학/명혜단 연구원] : 2.340%\n[풍백문 전투조원/풍백문 순찰조원/양건/진묘영] : 0.360%\n\n<상급> 소울 : 20.000%\n[흑곰/검은 늑대/황금이끼여우/백호/수목정령/도끼 든 수호병] : 7.800%\n[기공포 수호병/서인족 전사/서인족 궁수/네로네로/수와족 전사/수와족 경비병/망령/어인족 검병/어인족 창병] : 9.000%\n[해월괴인/네이냥 연잎인간/동자령/황금 발발이] : 3.200%\n\n<일반> 소울 : 74.225%\n[소라게/녹옥게/뱀버섯/사슴/닭/양] : 25.200%\n[초급 수호병/변이된 해파리/노숙령/곰/늑대/여우/해변거북/꼬마 도깨비/홀쭉 도깨비] : 33.300%\n[발발이/사과도치/이끼여우/호랑이/삼색조] : 15.725%\n\n- 기타\n: 이미 보유 중인 소울을 중복으로 획득할 경우, 해당 소울 파편 25개로 자동 변환\n: 영웅 등급 소울 획득 시 '소울 확정' 메뉴에서 다른 소울로 교체 가능"
     },
     "99800124": {
         "deprecated": false,
-        "Dev_Desc": "홈 / 무공 성장 패키지 / 보너스 상품 / 도인의 정기",
+        "Dev_Desc": "금화 / 데일리 패스권",
         "id": 99800124,
-        "alias": "Contents.CashShop.Item.Desc.5110",
+        "alias": "Contents.CashShop.Item.Desc.5101",
         "text": "[지급품 안내]\n다음 재화 및 아이템을 획득\n: 빛나는 소울 소환서(11회) 3개\n\n* 빛나는 소울 소환서 (11회)\n- 분류 : 소모품 (소환서)\n- 사용 효과 : 사용 시 정해진 확률에 따라 일반~영웅 소울 11개 획득 가능\n- 기타 설정 : 창고 보관 불가, 거래 불가, 판매 불가\n\n[획득 가능한 소울 리스트]\n아래 소울 중 정해진 확률에 따라 소울을 1개 획득 가능\n(등급 : 일반 ~ 영웅)\n\n<영웅> 소울 : 0.675%\n[동충/수호병 대장/초령목/우두머리 두억시니/폭주 수호병 대장/홍돈삼] : 각 0.06500%\n[비류하/바오바오/곽호룡/홍매화/달빛바람/퍼롱퍼롱] : 각 0.04000%\n[풍신/뇌신/낙원대성] : 각 0.01500%\n\n<희귀> 소울 : 5.100%\n[녹각다귀/묘면족/수와족 덩치/창도단 검사/창도단 쌍칼/창도단 투사/매화단 탐사단원/매화단 순찰단원/영교원 주술사/임연수(대어방주)/비사문 관리관/비사문 첩보관] : 각 0.20000%\n[변이된 청인족 검사/변이된 청인족 암살자/변이된 청인족 투사/홍돈 보초병/홍돈 전투병/일성관 살수/일성관 궁수/수양 탐색대원/수양 경계대원/검은 새벽단 전투병/검은 새벽단 암살자/검은 새벽단 주술사/청명파 청의전사/청명파 청의투사/천무단 검사/천무단 권사/명혜단 석학/명혜단 연구원] : 각 0.13000%\n[풍백문 전투조원/풍백문 순찰조원/양건/진묘영] : 각 0.09000%\n\n<상급> 소울 : 20.000%\n[흑곰/검은 늑대/황금이끼여우/백호/수목정령/회랑 수호병] : 각 1.30000%\n[회랑 수호포병/서인족 전사/서인족 궁수/네로네로/수와족 전사/수와족 경비병/망령/어인족 검병/어인족 창병] : 각 1.00000%\n[해월괴인/네이냥/연잎인간/동자령/황금 발발이] : 각 0.64000%\n\n<일반> 소울 : 74.225%\n[소라게/녹옥게/뱀버섯/사슴/닭/양] : 각 4.20000%\n[초급 수호병/변이된 해파리/노숙령/곰/늑대/여우/해변거북/꼬마 도깨비/홀쭉 도깨비] : 각 3.70000%\n[발발이/사과도치/이끼여우/호랑이/삼색조] : 각 3.14500%\n\n<기타>\n: 이미 보유 중인 소울을 중복으로 획득할 경우, 해당 소울 파편 25개로 자동 변환\n: 영웅 등급 소울 획득 시 '소울 확정' 메뉴에서 다른 소울로 교체 가능"
     },
     "99800125": {
         "deprecated": false,
-        "Dev_Desc": "홈 / 무공 성장 패키지 / 보너스 상품 / 도인의 정기",
+        "Dev_Desc": "금화 / TJ 패스권",
         "id": 99800125,
-        "alias": "Contents.CashShop.Item.Desc.5111",
+        "alias": "Contents.CashShop.Item.Desc.5102",
         "text": "[지급품 안내]\n다음 재화 및 아이템을 획득\n: 빛나는 소울 소환서(11회) 5개\n\n* 빛나는 소울 소환서 (11회)\n- 분류 : 소모품 (소환서)\n- 사용 효과 : 사용 시 정해진 확률에 따라 일반~영웅 소울 11개 획득 가능\n- 기타 설정 : 창고 보관 불가, 거래 불가, 판매 불가\n\n[획득 가능한 소울 리스트]\n아래 소울 중 정해진 확률에 따라 소울을 1개 획득 가능\n(등급 : 일반 ~ 영웅)\n\n<영웅> 소울 : 0.675%\n[동충/수호병 대장/초령목/우두머리 두억시니/폭주 수호병 대장/홍돈삼] : 각 0.06500%\n[비류하/바오바오/곽호룡/홍매화/달빛바람/퍼롱퍼롱] : 각 0.04000%\n[풍신/뇌신/낙원대성] : 각 0.01500%\n\n<희귀> 소울 : 5.100%\n[녹각다귀/묘면족/수와족 덩치/창도단 검사/창도단 쌍칼/창도단 투사/매화단 탐사단원/매화단 순찰단원/영교원 주술사/임연수(대어방주)/비사문 관리관/비사문 첩보관] : 각 0.20000%\n[변이된 청인족 검사/변이된 청인족 암살자/변이된 청인족 투사/홍돈 보초병/홍돈 전투병/일성관 살수/일성관 궁수/수양 탐색대원/수양 경계대원/검은 새벽단 전투병/검은 새벽단 암살자/검은 새벽단 주술사/청명파 청의전사/청명파 청의투사/천무단 검사/천무단 권사/명혜단 석학/명혜단 연구원] : 각 0.13000%\n[풍백문 전투조원/풍백문 순찰조원/양건/진묘영] : 각 0.09000%\n\n<상급> 소울 : 20.000%\n[흑곰/검은 늑대/황금이끼여우/백호/수목정령/회랑 수호병] : 각 1.30000%\n[회랑 수호포병/서인족 전사/서인족 궁수/네로네로/수와족 전사/수와족 경비병/망령/어인족 검병/어인족 창병] : 각 1.00000%\n[해월괴인/네이냥/연잎인간/동자령/황금 발발이] : 각 0.64000%\n\n<일반> 소울 : 74.225%\n[소라게/녹옥게/뱀버섯/사슴/닭/양] : 각 4.20000%\n[초급 수호병/변이된 해파리/노숙령/곰/늑대/여우/해변거북/꼬마 도깨비/홀쭉 도깨비] : 각 3.70000%\n[발발이/사과도치/이끼여우/호랑이/삼색조] : 각 3.14500%\n\n<기타>\n: 이미 보유 중인 소울을 중복으로 획득할 경우, 해당 소울 파편 25개로 자동 변환\n: 영웅 등급 소울 획득 시 '소울 확정' 메뉴에서 다른 소울로 교체 가능"
     },
     "99800126": {
         "deprecated": false,
-        "Dev_Desc": "신석 / 특별 소환 상품: 인연 / 비류하, 바오바오, 달빛바람 1회",
+        "Dev_Desc": "금화 / 빛나는 영석(28일)(이벤트)",
         "id": 99800126,
-        "alias": "Contents.CashShop.Item.Desc.5112",
+        "alias": "Contents.CashShop.Item.Desc.5103",
         "text": "[획득 가능한 소울 리스트]\n아래 소울 중 정해진 확률에 따라 소울을 1개 획득 가능\n(등급 : 일반 ~ 영웅)\n\n<영웅> 소울 : 0.675%\n[비류하/바오바오/달빛바람] : 각 0.225%\n\n<희귀> 소울 : 5.100%\n[홍돈 전투병/홍돈 보초병/일성관 살수/일성관 궁수/명혜단 석학/명혜단 연구원] : 각 0.450%\n[녹각다귀/묘면족/비사문 첩보관/비사문 관리관] : 각 0.600%\n\n<상급> 소울 : 20.000%\n[해월괴인/동자령/네이냥/황금 발발이/연잎인간] : 각 0.640%\n[네로네로/서인족 궁수/수와족 경비병/망령/서인족 전사/수와족 전사/어인족 검병/어인족 창병/회랑 수호포병] : 각 1.000%\n[검은늑대/흑곰/백호/황금이끼여우/회랑 수호병/수목정령] : 각 1.300%\n\n<일반> 소울 : 74.225%\n[호랑이/이끼여우/사과도치/발발이/삼색조] : 각 3.145%\n[늑대/곰/초급 수호병/노숙령/변이된 해파리/여우/해변거북/꼬마 도깨비/홀쭉 도깨비] : 각 3.700%\n[사슴/양/소라게/녹옥 게/닭/뱀버섯] : 각 4.200%\n\n<기타>\n: 이미 보유 중인 소울을 중복으로 획득할 경우, 해당 소울 파편 25개로 자동 변환\n: 영웅 등급 소울 획득 시 '소울 확정' 메뉴에서 다른 소울로 교체 가능"
     },
     "99800127": {
         "deprecated": false,
-        "Dev_Desc": "신석 / 특별 소환 상품: 인연 / 비류하, 바오바오, 달빛바람 11회",
+        "Dev_Desc": "신석 / 소환 / 픽업 소울 소환 1회 / 홍매화, 달빛바람, 퍼롱퍼롱",
         "id": 99800127,
-        "alias": "Contents.CashShop.Item.Desc.5113",
+        "alias": "Contents.CashShop.Item.Desc.5104",
         "text": "[획득 가능한 소울 리스트]\n아래 소울 중 정해진 확률에 따라 소울을 11개 획득 가능\n(등급 : 일반 ~ 영웅)\n\n<영웅> 소울 : 0.675%\n[비류하/바오바오/달빛바람] : 각 0.225%\n\n<희귀> 소울 : 5.100%\n[홍돈 전투병/홍돈 보초병/일성관 살수/일성관 궁수/명혜단 석학/명혜단 연구원] : 각 0.450%\n[녹각다귀/묘면족/비사문 첩보관/비사문 관리관] : 각 0.600%\n\n<상급> 소울 : 20.000%\n[해월괴인/동자령/네이냥/황금 발발이/연잎인간] : 각 0.640%\n[네로네로/서인족 궁수/수와족 경비병/망령/서인족 전사/수와족 전사/어인족 검병/어인족 창병/회랑 수호포병] : 각 1.000%\n[검은늑대/흑곰/백호/황금이끼여우/회랑 수호병/수목정령] : 각 1.300%\n\n<일반> 소울 : 74.225%\n[호랑이/이끼여우/사과도치/발발이/삼색조] : 각 3.145%\n[늑대/곰/초급 수호병/노숙령/변이된 해파리/여우/해변거북/꼬마 도깨비/홀쭉 도깨비] : 각 3.700%\n[사슴/양/소라게/녹옥 게/닭/뱀버섯] : 각 4.200%\n\n<기타>\n: 이미 보유 중인 소울을 중복으로 획득할 경우, 해당 소울 파편 25개로 자동 변환\n: 영웅 등급 소울 획득 시 '소울 확정' 메뉴에서 다른 소울로 교체 가능"
     },
     "99800128": {
         "deprecated": false,
-        "Dev_Desc": "홈 / 무림 새싹 패키지 / [Step 1] 무림 새싹 귀걸이 패키지 / 뇌성 3, 포효 3",
+        "Dev_Desc": "신석 / 소환 / 픽업 소울 소환 11회 / 홍매화, 달빛바람, 퍼롱퍼롱",
         "id": 99800128,
-        "alias": "Contents.CashShop.Item.Desc.5114",
+        "alias": "Contents.CashShop.Item.Desc.5105",
         "text": "[지급품 안내]\n구매 시 다음 아이템을 획득\n: 뇌성의 포효 상자 6개\n: 영웅 소울 파편(7개) 선택 꾸러미 1개\n\n* 뇌성의 포효 상자\n- 분류 : 소모품 (상자)\n- 사용 효과 : 사용 시 다음 아이템을 획득\n: 뇌성의 포효 1개\n: 바오바오의 강화 주문서 10개\n- 기타 설정 : 창고 보관 불가, 거래 불가, 판매 불가\n \n* 뇌성의 포효\n- 분류 : 장비 (귀걸이)\n- 착용 효과 : (강화 수치에 따라 다음 효과를 가짐)\n+0 : 방어력 1\n+1~ : 방어력 1씩 상승\n+3~ : 호신 1씩 추가 상승\n+5~ : 소울 저항률 0.5%씩 추가 상승\n+6~ : 통제 저항률 1%씩 추가 상승\n- 제한 사항 : 같은 이름의 귀걸이는 두 개 이상 착용 불가\n- 기타 설정 : 창고 보관 불가, 거래 불가\n \n* 바오바오의 강화 주문서\n- 분류 : 주문서\n- 사용 효과 : 특수 장신구에 사용 시, 정해진 확률에 따라 강화 수치 1 상승\n- 기타 설정 : 거래 불가, 판매 불가\n\n* 영웅 소울 파편(7개) 선택 꾸러미\n- 분류 : 소모품 (상자)\n- 사용 효과 : 사용 시 다음 소울 파편 중 하나를 선택하여 획득할 수 있습니다\n: 바오바오 파편 7개\n: 비류하 파편 7개\n: 퍼롱퍼롱 파편 7개\n: 달빛바람 파편 7개\n: 홍매화 파편 7개\n: 곽호룡 파편 7개\n: 홍돈삼 파편 7개\n: 폭주 수호병 대장 파편 7개\n: 우두머리 두억시니 파편 7개\n: 초령목 파편 7개\n: 수호병 대장 파편 7개\n: 동충 파편 7개\n- 기타 설정 : 창고 보관 불가, 거래 불가, 판매불가"
     },
     "99800129": {
         "deprecated": false,
-        "Dev_Desc": "홈 / 무림 새싹 패키지 / [Step 2] 무림 새싹 팔찌 패키지 / 질풍 3, 타락 3",
+        "Dev_Desc": "홈 / 무공 성장 패키지 / [Step 1] / 무공 재료 상자 2개, 빛나는 정수 파편 1개",
         "id": 99800129,
-        "alias": "Contents.CashShop.Item.Desc.5115",
+        "alias": "Contents.CashShop.Item.Desc.5106",
         "text": "[지급품 안내]\n구매 시 다음 아이템을 획득\n: 타락의 속삭임 상자 6개\n: 영웅 소울 파편(7개) 선택 꾸러미 1개\n\n* 타락의 속삭임 상자\n- 분류 : 소모품 (상자)\n- 사용 효과 : 사용 시 다음 아이템을 획득\n: 타락의 속삭임 1개\n: 바오바오의 강화 주문서 10개\n- 기타 설정 : 창고 보관 불가, 거래 불가, 판매 불가\n \n* 타락의 속삭임\n- 분류 : 장비 (팔찌)\n- 착용 효과 : (강화 수치에 따라 다음 효과를 가짐)\n+0 : 회피 1, 생명력 재생 3\n+1~ : 회피 1씩 상승\n+3~ : 방어력 1씩 추가 상승\n+5~ : 무공 피해 내성 0.5%씩 추가 상승\n+6 : 통제 저항률 5% 추가\n+6~ : 통제 저항률 1%씩 추가 상승\n- 제한 사항 : 같은 이름의 팔찌는 두 개 이상 착용 불가\n- 기타 설정 : 창고 보관 불가, 거래 불가\n \n* 바오바오의 강화 주문서\n- 분류 : 주문서\n- 사용 효과 : 특수 장신구에 사용 시, 정해진 확률에 따라 강화 수치 1 상승\n- 기타 설정 : 거래 불가, 판매 불가\n\n* 영웅 소울 파편(7개) 선택 꾸러미\n- 분류 : 소모품 (상자)\n- 사용 효과 : 사용 시 다음 소울 파편 중 하나를 선택하여 획득할 수 있습니다\n: 바오바오 파편 7개\n: 비류하 파편 7개\n: 퍼롱퍼롱 파편 7개\n: 달빛바람 파편 7개\n: 홍매화 파편 7개\n: 곽호룡 파편 7개\n: 홍돈삼 파편 7개\n: 폭주 수호병 대장 파편 7개\n: 우두머리 두억시니 파편 7개\n: 초령목 파편 7개\n: 수호병 대장 파편 7개\n: 동충 파편 7개\n- 기타 설정 : 창고 보관 불가, 거래 불가, 판매불가"
     },
     "99800130": {
         "deprecated": false,
-        "Dev_Desc": "홈 / 무림 새싹 패키지 / [Step 3] 무림 새싹 소울 패키지 / 빛나는 소울 소환서(11회), 영웅 소울 파편 선택 상자(7개)",
+        "Dev_Desc": "홈 / 무공 성장 패키지 / [Step 2] / 무공 재료 상자 2개, 빛나는 정수 파편 1개",
         "id": 99800130,
-        "alias": "Contents.CashShop.Item.Desc.5116",
+        "alias": "Contents.CashShop.Item.Desc.5107",
         "text": "[지급품 안내]\n구매 시 다음 아이템을 획득\n: 영웅 소울 파편(7개) 선택 꾸러미 1개\n: 빛나는 소울 소환서(11회) 1개\n\n* 영웅 소울 파편(7개) 선택 꾸러미\n- 분류 : 소모품 (상자)\n- 사용 효과 : 사용 시 다음 소울 파편 중 하나를 선택하여 획득할 수 있습니다\n: 바오바오 파편 7개\n: 비류하 파편 7개\n: 퍼롱퍼롱 파편 7개\n: 달빛바람 파편 7개\n: 홍매화 파편 7개\n: 곽호룡 파편 7개\n: 홍돈삼 파편 7개\n: 폭주 수호병 대장 파편 7개\n: 우두머리 두억시니 파편 7개\n: 초령목 파편 7개\n: 수호병 대장 파편 7개\n: 동충 파편 7개\n- 기타 설정 : 창고 보관 불가, 거래 불가, 판매불가\n\n* 빛나는 소울 소환서(11회)\n[획득 가능한 소울 리스트]\n아래 소울 중 정해진 확률에 따라 소울을 11개 획득 가능\n(등급 : 일반 ~ 영웅)\n- 기타 설정 : 창고 보관 불가, 거래 불가, 판매 불가\n\n<영웅> 소울 : 0.675%\n[동충/수호병 대장/초령목/우두머리 두억시니/폭주 수호병 대장/홍돈삼] : 0.390%\n[비류하/바오바오/곽호룡/홍매화/달빛바람/퍼롱퍼롱] : 0.240%\n[풍신/뇌신/낙원대성] : 0.045%\n\n<희귀> 소울 : 5.100%\n[녹각다귀/묘면족/수와족 덩치/창도단 검사/창도단 쌍칼/창도단 투사/매화단 탐사단원/매화단 순찰단원/영교원 주술사/임연수(대어방주)/비사문 관리관/비사문 첩보관] : 2.400%\n[변이된 청인족 검사/변이된 청인족 암살자/변이된 청인족 투사/홍돈 보초병/홍돈 전투병/일성관 살수/일성관 궁수/수양 탐색대원/수양 경계대원/검은 새벽단 전투병/검은 새벽단 암살자/검은 새벽단 주술사/청명파 청의전사/청명파 청의투사/천무단 검사/천무단 권사/명혜단 석학/명혜단 연구원] : 2.340%\n[풍백문 전투조원/풍백문 순찰조원/양건/진묘영] : 0.360%\n\n<상급> 소울 : 20.000%\n[흑곰/검은 늑대/황금이끼여우/백호/수목정령/회랑 수호병] : 7.800%\n[회랑 수호포병/서인족 전사/서인족 궁수/네로네로/수와족 전사/수와족 경비병/망령/어인족 검병/어인족 창병] : 9.000%\n[해월괴인/네이냥/연잎인간/동자령/황금 발발이] : 3.200%\n\n<일반> 소울 : 74.225%\n[소라게/녹옥게/뱀버섯/사슴/닭/양] : 25.200%\n[초급 수호병/변이된 해파리/노숙령/곰/늑대/여우/해변거북/꼬마 도깨비/홀쭉 도깨비] : 33.300%\n[발발이/사과도치/이끼여우/호랑이/삼색조] : 15.725%\n\n<기타>\n: 이미 보유 중인 소울을 중복으로 획득할 경우, 해당 소울 파편 25개로 자동 변환\n: 영웅 등급 소울 획득 시 '소울 확정' 메뉴에서 다른 소울로 교체 가능\n"
     },
     "99800131": {
         "deprecated": false,
-        "Dev_Desc": "홈 / 무림 새싹 패키지 / [Step 4] 무림 새싹 수호령 패키지 / 빛나는 수호령 소환서(11회), 영웅 소울 파편 선택 상자(7개)",
+        "Dev_Desc": "홈 / 무공 성장 패키지 / [Step 3] / 무공 재료 상자 2개, 빛나는 정수 파편 1개",
         "id": 99800131,
-        "alias": "Contents.CashShop.Item.Desc.5117",
+        "alias": "Contents.CashShop.Item.Desc.5108",
         "text": "[지급품 안내]\n구매 시 다음 아이템을 획득\n: 영웅 소울 파편(7개) 선택 꾸러미 1개\n: 빛나는 수호령 소환서(11회) 1개\n- 기타 설정 : 창고 보관 불가, 거래 불가, 판매 불가\n\n* 영웅 소울 파편(7개) 선택 꾸러미\n- 분류 : 소모품 (상자)\n- 사용 효과 : 사용 시 다음 소울 파편 중 하나를 선택하여 획득할 수 있습니다\n: 바오바오 파편 7개\n: 비류하 파편 7개\n: 퍼롱퍼롱 파편 7개\n: 달빛바람 파편 7개\n: 홍매화 파편 7개\n: 곽호룡 파편 7개\n: 홍돈삼 파편 7개\n: 폭주 수호병 대장 파편 7개\n: 우두머리 두억시니 파편 7개\n: 초령목 파편 7개\n: 수호병 대장 파편 7개\n: 동충 파편 7개\n- 기타 설정 : 창고 보관 불가, 거래 불가, 판매불가\n\n* 빛나는 수호령 소환서(11회)\n[획득 가능한 수호령 리스트]\n아래 수호령 중 정해진 확률에 따라 수호령을 1개 획득 가능\n(등급 : 일반 ~ 영웅)\n- 기타 설정 : 창고 보관 불가, 거래 불가, 판매 불가\n\n<영웅> 수호령 : 0.100%\n[홍석근/천진권/화중/포화란/해무진] : 0.100%\n\n<희귀> 수호령 : 1.400%\n[정하도/진소아/남소유/도천풍/금강역사/뇌신/낙원대성/태장금] : 1.400%\n\n<상급> 수호령 : 19.500%\n[화염 수와족/물 수와족/흑창족 장로/흑창족 대주방장/황금 발발이/토우 장군/항아리단 장로/낙원소성/호숙이/설녀] : 19.500%\n\n<일반> 수호령 : 79.000%\n[수와족/흑창족/흑창족 요리사/풀숲 발발이/토우 병사/항아리 도적단/항아리 도끼단/낙원족] : 79.500%\n\n<기타>\n: 영웅 등급 수호령 획득 시 '수호령 확정' 메뉴에서 다른 수호령으로 교체 가능"
     },
     "99800132": {
         "deprecated": false,
-        "Dev_Desc": "홈 / 무림 새싹 패키지 / 보너스 상품 / 빛나는 바오바오의 강화 주문서: 백화",
+        "Dev_Desc": "홈 / 무공 성장 패키지 / 보너스 상품 / 도인의 정기",
         "id": 99800132,
-        "alias": "Contents.CashShop.Item.Desc.5118",
+        "alias": "Contents.CashShop.Item.Desc.5109",
         "text": "[지급품 안내]\n빛나는 바오바오의 강화 주문서: 뇌성 1개\n\n- 분류 : 주문서\n- 사용 효과 : 100% 확률로 강화 단계가 +1 상승합니다.\n+3 뇌성의 포효에만 사용할 수 있습니다.\n- 기타 설정 : 거래 불가, 판매 불가"
     },
     "99800133": {
         "deprecated": false,
-        "Dev_Desc": "홈 / 무림 새싹 패키지 / 보너스 상품 / 빛나는 바오바오의 강화 주문서: 질풍",
+        "Dev_Desc": "홈 / 무공 성장 패키지 / 보너스 상품 / 도인의 정기",
         "id": 99800133,
-        "alias": "Contents.CashShop.Item.Desc.5119",
+        "alias": "Contents.CashShop.Item.Desc.5110",
         "text": "[지급품 안내]\n빛나는 바오바오의 강화 주문서: 타락 1개\n\n- 분류 : 주문서\n- 사용 효과 : 100% 확률로 강화 단계가 +1 상승합니다.\n+3 타락의 속삭임에만 사용할 수 있습니다.\n- 기타 설정 : 거래 불가, 판매 불가"
     },
     "99800134": {
         "deprecated": false,
-        "Dev_Desc": "홈 / 무림 새싹 패키지 / 보너스 상품 / 영웅 소울 소환서",
+        "Dev_Desc": "홈 / 무공 성장 패키지 / 보너스 상품 / 도인의 정기",
         "id": 99800134,
-        "alias": "Contents.CashShop.Item.Desc.5120",
+        "alias": "Contents.CashShop.Item.Desc.5111",
         "text": "[지급품 안내]\n영웅 소울 확정 소환서(1회) 1개\n\n- 분류 : 소모품 (소환서)\n- 사용 효과 : 사용 시 정해진 확률에 따라 영웅 소울 1개 획득 가능\n- 기타 설정 : 창고 보관 불가, 거래 불가, 판매 불가\n\n[획득 가능한 소울 리스트]\n아래 소울 중 정해진 확률에 따라 소울 1개 획득 가능\n(등급 : 영웅)\n\n<영웅> 소울 : 100%\n[동충/수호병 대장/초령목/우두머리 두억시니/폭주 수호병 대장/홍돈삼] : 각 57.77778%\n[비류하/바오바오/곽호룡/홍매화/월광바람/퍼롱퍼롱] : 각 35.55558%\n[픙신/뇌신/낙원대성] : 각 6.66664%"
     },
     "99800135": {
         "deprecated": false,
-        "Dev_Desc": "금화 / 희귀 소울 파편",
+        "Dev_Desc": "신석 / 특별 소환 상품: 인연 / 비류하, 바오바오, 달빛바람 1회",
         "id": 99800135,
-        "alias": "Contents.CashShop.Item.Desc.5121",
+        "alias": "Contents.CashShop.Item.Desc.5112",
         "text": "[지급품 안내]\n : 희귀 소울 파편(1회) (각인)\n- 기타 설정 : 창고 보관 불가, 거래 불가, 판매 불가\n\n[획득 가능 소울 리스트]\n\n아래 소울 중 정해진 확률에 따라 소울 파편을 2개 획득 가능\n(등급 : 희귀)\n\n<희귀>\n양건/진묘영/풍백문 전투조원/풍백문 순찰조원\n\n[구매 제한]\n계정 당 매주 7회\n\n매주 수요일 05시에 구매 횟수 초기화"
     },
     "99800136": {
         "deprecated": false,
-        "Dev_Desc": "금화 / 영웅 소울 파편",
+        "Dev_Desc": "신석 / 특별 소환 상품: 인연 / 비류하, 바오바오, 달빛바람 11회",
         "id": 99800136,
-        "alias": "Contents.CashShop.Item.Desc.5122",
+        "alias": "Contents.CashShop.Item.Desc.5113",
         "text": "[지급품 안내]\n : 영웅 소울 파편(1회) (각인)\n- 기타 설정 : 창고 보관 불가, 거래 불가, 판매 불가\n\n[획득 가능 소울 리스트]\n\n아래 소울 중 정해진 확률에 따라 소울 파편을 1개 획득 가능\n(등급 : 영웅)\n\n<영웅>\n비류하/바오바오/곽호룡\n\n[구매 제한]\n계정 당 매주 7회\n\n매주 수요일 05시에 구매 횟수 초기화"
     },
     "99800137": {
         "deprecated": false,
-        "Dev_Desc": "한가위 패스권",
+        "Dev_Desc": "홈 / 무림 새싹 패키지 / [Step 1] 무림 새싹 귀걸이 패키지 / 뇌성 3, 포효 3",
         "id": 99800137,
-        "alias": "Contents.CashShop.Item.Desc.5123",
+        "alias": "Contents.CashShop.Item.Desc.5114",
         "text": "[지급품 안내]\n구매 시 다음 재화 및 아이템을 획득\n: 한가위 패스권\n\n* 한가위 패스권\n- 분류 : 재료\n- 사용 효과 : 한가위 패스 추가보상 활성화 가능\n: 한가위 패스 메뉴 내에서 사용 가능\n- 기타 설정 : 거래 불가, 판매 불가, 2021.10.06.까지 사용 가능\n\n* 주의\n시즌이 종료되면 패스 미션을 더 이상 진행할 수 없습니다.\n시즌 종료 후 일주일이 지나면 사용하지 못한 패스 포인트는 소멸되며 더 이상 보상 교환이 불가합니다.\n\n[구매 제한]\n각 서버 당 1회"
     },
     "99800138": {
         "deprecated": false,
-        "Dev_Desc": "금화 / 시간 충전석 : 각성의 미궁 심픙",
+        "Dev_Desc": "홈 / 무림 새싹 패키지 / [Step 2] 무림 새싹 팔찌 패키지 / 질풍 3, 타락 3",
         "id": 99800138,
-        "alias": "Contents.CashShop.Item.Desc.5124",
+        "alias": "Contents.CashShop.Item.Desc.5115",
         "text": "[지급품 안내]\n: 충전석: 각성의 미궁(심층)(각인) 1개\n\n- 분류 : 소모품 (충전석)\n- 사용 효과 : 사용 시 각성의 미궁(심층) 던전 이용 시간 1시간 충전\n- 기타 설정 : 거래 불가, 판매 불가\n\n[구매 제한]\n각 서버 당 매일 1회\n\n매일 0시에 구매 횟수 초기화"
     },
     "99800139": {
         "deprecated": false,
-        "Dev_Desc": "특별 소울 소환 / 풍신, 홍돈삼, 폭주 수호병 대장 / 1회",
+        "Dev_Desc": "홈 / 무림 새싹 패키지 / [Step 3] 무림 새싹 소울 패키지 / 빛나는 소울 소환서(11회), 영웅 소울 파편 선택 상자(7개)",
         "id": 99800139,
-        "alias": "Contents.CashShop.Item.Desc.5125",
+        "alias": "Contents.CashShop.Item.Desc.5116",
         "text": "[[Obtainable Soul List]\nYou can acquire one of the souls according to the probability of the soul below.\n(Rating: General ~ Hero)\n\n<Hero> Soul: 0.675%\n[Castle / Hongdong]\n\n<Rare> Soul: 5.1%\n[Suwati Big / Window Test / Window Cotton Pair / Window Project]: Each 0.6%\n[Variant Archuit / Variant Article Assassin / Variant Artery Projection / Black New Wurner Combat / Black New Wall Assassin / Black New Wall Ax: Each 0.45%\n\n<Advanced> Soul: 20%\n[Black wolf / black bear / white / golden moss fox / corridor / trees / trees]: Each 1.3%\n[Corridor / Western Palace / Nerono / Western Palace / Suwai Guard / Ghost / West Warrior / Warriors / Warrior / Awareness / Awareness]: Each 1%\n[Owno Moorin / Father / Net / Golden Outbreak / Field Human]: Each 0.64%\n\n<General> Soul: 74.225%\n[Deer / Sheep / Sorada / Green Ok / Chicken / Snake Mushroom]: Each 4.2%\n[Wolf / Bear / Beginner / Horses / Horses / Banned Jellyfish / Fox / Beach Bureau / Little Book / Hollyon Books]: Each 3.7%\n[Tiger / Moss Fox / Apples High Color / Outbreak / Triumph]: Each 3.145%\n\n- etc\n: If you have already acquired the soul of already retained, automatic conversion to 25 corresponding soul debris\n: The 'Soul Confirmation' menu is replaced with other souls in the \"Soul Confirmation\" menu\n"
     },
     "99800140": {
         "deprecated": false,
-        "Dev_Desc": "특별 소울 소환 / 풍신, 홍돈삼, 폭주 수호병 대장 / 11회",
+        "Dev_Desc": "홈 / 무림 새싹 패키지 / [Step 4] 무림 새싹 수호령 패키지 / 빛나는 수호령 소환서(11회), 영웅 소울 파편 선택 상자(7개)",
         "id": 99800140,
-        "alias": "Contents.CashShop.Item.Desc.5126",
+        "alias": "Contents.CashShop.Item.Desc.5117",
         "text": "[[Obtainable Soul List]\nWe can acquire 11 soul according to the probability of the soul below\n(Rating: General ~ Hero)\n\n<Hero> Soul: 0.675%\n[Castle / Hongdong]\n\n<Rare> Soul: 5.1%\n[Suwati Big / Window Test / Window Cotton Pair / Window Project]: Each 0.6%\n[Variant Archuit / Variant Article Assassin / Variant Artery Projection / Black New Wurner Combat / Black New Wall Assassin / Black New Wall Ax: Each 0.45%\n\n<Advanced> Soul: 20%\n[Black wolf / black bear / white / golden moss fox / corridor / trees / trees]: Each 1.3%\n[Corridor / Western Palace / Nerono / Western Palace / Suwai Guard / Ghost / West Warrior / Warriors / Warrior / Awareness / Awareness]: Each 1%\n[Owno Moorin / Father / Net / Golden Outbreak / Field Human]: Each 0.64%\n\n<General> Soul: 74.225%\n[Deer / Sheep / Sorada / Green Ok / Chicken / Snake Mushroom]: Each 4.2%\n[Wolf / Bear / Beginner / Horses / Horses / Banned Jellyfish / Fox / Beach Bureau / Little Book / Hollyon Books]: Each 3.7%\n[Tiger / Moss Fox / Apples High Color / Outbreak / Triumph]: Each 3.145%\n\n- etc\n: If you have already acquired the soul of already retained, automatic conversion to 25 corresponding soul debris\n: When you acquire a hero rating Soul, you can replace the 'Soul Confirmation' menu in the menu "
     },
     "99800141": {
         "deprecated": false,
-        "Dev_Desc": "패키지 / 백화의 귀걸이 패키지",
+        "Dev_Desc": "홈 / 무림 새싹 패키지 / 보너스 상품 / 빛나는 바오바오의 강화 주문서: 백화",
         "id": 99800141,
-        "alias": "Contents.CashShop.Item.Desc.5127",
+        "alias": "Contents.CashShop.Item.Desc.5118",
         "text": "[Payment Guide]\nOne earring package of white\n\n* Earring package of white white\n- Category: Consumables (box)\n- Use: Acquire the following items when using\n: +3 1 flame of white\n: 5 cerebral roaring boxes\n: Five flame boxes for white\n: Strengthening of Shining Bao Bao Order: One White White\n: Glowing Soul Summon (11 times) 5\n- Other settings: Warehouse storage, no transaction, no deal\n\n* +3 flame of white\n- Category: Equipment (Earrings)\n- Wear effect: (Depending on the reinforcement value)\n+3: Penetration 4, Damage 1\n+ 3 ~: Additional rise by 1 attack power\n+ 5 ~: Additional rising to 0.5%\n+ 6 ~: Public damage by 0.5%\n- Limitations: The same name's earrings are not wearable\n- Other settings: No warehouse storage, no transaction\n\n* Cerebral roaring box\n- Category: Consumables (box)\n- Use: Acquire the following items when using\n: 1 cerebral roars\n: 10 reinforced order of Baobao 10\n- Other settings: Warehouse storage, no transaction, no deal\n\n* Cerebral roar\n- Category: Equipment (Earrings)\n- Wear effect: (Depending on the reinforcement value)\n+0: ​​Defense 1\n+ 1 ~: Rise by 1 defense\n+ 3 ~: Additional rise by 1\n+ 5 ~: Additional rise of Soul Resistivity by 0.5%\n+ 6 ~: Additional rising control resistivity by 1%\n- Limitations: The same name's earrings are not wearable\n- Other settings: No warehouse storage, no transaction\n\n* Flame box of department\n- Category: Consumables (box)\n- Use: Acquire the following items when using\n: One flame of a white department\n: 10 reinforced order of Baobao 10\n- Other settings: Warehouse storage, no transaction, no deal\n\n* Flame of department\n- Category: Equipment (Earrings)\n- Wear effect: (Depending on the reinforcement value)\n+0: ​​Penetration 1\n+ 1 ~: Rising by 1 penetration\n+ 3 ~: Additional rise by 1 attack power\n+ 5 ~: Additional rising to 0.5%\n+ 6 ~: Public damage by 0.5%\n- Limitations: The same name's earrings are not wearable\n- Other settings: No warehouse storage, no transaction\n\n* Reinforced order of Baobao\n- Category: Order\n- Effect: When used in special ornaments, strengthening figures 1 rise according to the definition probability\n- Other settings: not transaction, no transaction\n\n* Strengthening of Shining Bao Bao Order: White\n- Category: Order\n- Use effect: 100% chance to rise +1.\nIt is only available for +3 white flames.\n- Other settings: not transaction, no transaction\n\n* Shining Soul Summon (11 times)\n- Category: Supplies (Summon)\n- Effect: Depending on the probability of use, it can be obtained according to the probability of use.\n- Other settings: Warehouse storage, no transaction, no deal\n\n[Obtainable Soul List]\nYou can acquire one of the souls according to the probability of the soul below.\n(Rating: General ~ Hero)\n\n<Hero> Soul: 0.675%\n[Capture / Guardian Lattle / Melteen / Head Both Ginni / Roh Ward Battle / Hong Dynasty Ginseng: Each 0.06500%\n[Cost / Bao Bao / Kwak Hwa Ryong / Hongdong Hwa / Moonlight Wind / Farong Person]: Each 0.04000%\n[Wind / Training / Paradise Standard]: Each 0.01500%\n\n<Rare> Soul: 5.100%\n[Roll Anary / Endophe / Warehouse Big / Window Test / Changdogon Saber / Changdogon Projection / Marrenant Exploration Section / Marrisoning Patrol Unit / Spirit / Marrisoning Patroll Unit / Mineral Service ]: Each 0.20000%\n[Variant Architecture / Variant Article Assassin / Variant Chung In the Article / Hongdon Battle / Hongdon Combat / Achievement Counting / Ichedus Pipe Palace / Supreme Navigation Crew / Ceremony Boundary / Black New Wall Battle / Black New Wall Assassin / Cheongdong Warriors / Cheongkyeongpyeong Championship / Cheongkyeongpyeong Projection / Tangdong Test / Wallpark / Korean Student Scholarship / Korean Student]: Each 0.13000%\n[Farmard Moon Battle Control / Flower Dogs Publishers / Shrine / Jin Bum]: Each 0.09000%\n\n<Advanced> Soul: 20.000%\n[Black Bear / Black Wolf / Golden Moss Fox / Baek Ho / Tree Element / Corridor Bonds]: Each 1.30000%\n[Corridor / Seonghang Palace / Warrior Warrior / Seonguan Archer / Nerono / Suwai Warrior / Suwa Guard / Ghost / Awareness / Affectionate / Affectionate / Awareness]: Each 1.00000%\n[Ya Month / Net / Fen Leaf Human / Father / Golden Outbreak]: Each 0.64000%\n\n<General> Soul: 74.225%\n[Sorada / Green Ok / Snake Mushroom / Deer / Chicken / Sheep]: Each 4.20000%\n[Beginner / Hours / Both / Wolf / Fox / Beach Book / Breaking / Wolves / Beau / Holly Books / Eve: Each 3.70000%\n[Outbreak / apple / moss fox / tiger / trial]: each 3.14500%\n\n<Other>\n: If you have already acquired the soul of already retained, automatic conversion to 25 corresponding soul debris\n: When you acquire a hero rating Soul, you can replace the 'Soul Confirmation' menu in the menu "
     },
     "99800142": {
         "deprecated": false,
-        "Dev_Desc": "패키지 / 질풍의 팔찌 패키지",
+        "Dev_Desc": "홈 / 무림 새싹 패키지 / 보너스 상품 / 빛나는 바오바오의 강화 주문서: 질풍",
         "id": 99800142,
-        "alias": "Contents.CashShop.Item.Desc.5128",
+        "alias": "Contents.CashShop.Item.Desc.5119",
         "text": "[Payment Guide]\nOne bracelet package of alarm\n\n* Flicker bracelet package\n- Category: Consumables (box)\n- Use: Acquire the following items when using\n: +3 1 of the wrist\n: Five alarms of the wrist\n: Five whispers of fallen whispers\n: Strengthening of Shining Bao Bao: One Wallpaper\n: Glowing Soul Summon (11 times) 5\n- Other settings: Warehouse storage, no transaction, no deal\n\n* +3 Non-wrist\n- Category: Equipment (bracelet)\n- Wear effect: (Depending on the reinforcement value)\n+3: Hair 4, weapon damage amplification 3%, weapon damage 1\n+ 3 ~: Additional rise in weapon damage 1\n+ 5 ~: Control hit rate 0.5% Additional rise\n+ 6 ~: The default attack rate is 0.5%\n- Limitation: The same name is not wearable with two or more\n- Other settings: No warehouse storage, no transaction\n\n* Non-wrinkle box\n- Category: Consumables (box)\n- Use: Acquire the following items when using\n: One of the wrath\n: 10 reinforced order of Baobao 10\n- Other settings: Warehouse storage, no transaction, no deal\n\n*\n- Category: Equipment (bracelet)\n- Wear effect: (Depending on the reinforcement value)\n+0: ​​1, 1, weapon damage amplification 3%\n+ 1 ~: Rising by 1\n+ 3 ~: Additional rise in weapon damage 1\n+ 5 ~: Control hit rate 0.5% Additional rise\n+ 6 ~: The default attack rate is 0.5%\n- Limitation: The same name is not wearable with two or more\n- Other settings: No warehouse storage, no transaction\n\n* Feature whispering box\n- Category: Consumables (box)\n- Use: Acquire the following items when using\n: One whisper of falling\n: 10 reinforced order of Baobao 10\n- Other settings: Warehouse storage, no transaction, no deal\n\n* Whispering of the Fall\n- Category: Equipment (bracelet)\n- Wear effect: (Depending on the reinforcement value)\n+0: ​​Evasion 1, Health Play 3\n+ 1 ~: Earn 1\n+ 3 ~: Additional rise by 1 defense\n+ 5 ~: Additional rising for an additional 0.5% of the anti-malfunction resistance\n+6: Add 5% control resistivity\n+ 6 ~: Additional rising control resistivity by 1%\n- Limitation: The same name is not wearable with two or more\n- Other settings: No warehouse storage, no transaction\n\n* Reinforced order of Baobao\n- Category: Order\n- Effect: When used in special ornaments, strengthening figures 1 rise according to the definition probability\n- Other settings: not transaction, no transaction\n\n* Strengthen Order of Shining Bao Bao:\n- Category: Order\n- Use effect: 100% chance to rise +1.\n+3 It is only available for the wrath of the crab.\n- Other settings: not transaction, no transaction\n\n* Shining Soul Summon (11 times)\n- Category: Supplies (Summon)\n- Effect: Depending on the probability of use, it can be obtained according to the probability of use.\n- Other settings: Warehouse storage, no transaction, no deal\n\n[Obtainable Soul List]\nYou can acquire one of the souls according to the probability of the soul below.\n(Rating: General ~ Hero)\n\n<Hero> Soul: 0.675%\n[Capture / Guardian Lattle / Melteen / Head Both Ginni / Roh Ward Battle / Hong Dynasty Ginseng: Each 0.06500%\n[Cost / Bao Bao / Kwak Hwa Ryong / Hongdong Hwa / Moonlight Wind / Farong Person]: Each 0.04000%\n[Wind / Training / Paradise Standard]: Each 0.01500%\n\n<Rare> Soul: 5.100%\n[Roll Anary / Endophe / Warehouse Big / Window Test / Changdogon Saber / Changdogon Projection / Marrenant Exploration Section / Marrisoning Patrol Unit / Spirit / Marrisoning Patroll Unit / Mineral Service ]: Each 0.20000%\n[Variant Architecture / Variant Article Assassin / Variant Chung In the Article / Hongdon Battle / Hongdon Combat / Achievement Counting / Ichedus Pipe Palace / Supreme Navigation Crew / Ceremony Boundary / Black New Wall Battle / Black New Wall Assassin / Cheongdong Warriors / Cheongkyeongpyeong Championship / Cheongkyeongpyeong Projection / Tangdong Test / Wallpark / Korean Student Scholarship / Korean Student]: Each 0.13000%\n[Farmard Moon Battle Control / Flower Dogs Publishers / Shrine / Jin Bum]: Each 0.09000%\n\n<Advanced> Soul: 20.000%\n[Black Bear / Black Wolf / Golden Moss Fox / Baek Ho / Tree Element / Corridor Bonds]: Each 1.30000%\n[Corridor / Seonghang Palace / Warrior Warrior / Seonguan Archer / Nerono / Suwai Warrior / Suwa Guard / Ghost / Awareness / Affectionate / Affectionate / Awareness]: Each 1.00000%\n[Ya Month / Net / Fen Leaf Human / Father / Golden Outbreak]: Each 0.64000%\n\n<General> Soul: 74.225%\n[Sorada / Green Ok / Snake Mushroom / Deer / Chicken / Sheep]: Each 4.20000%\n[Beginner / Hours / Both / Wolf / Fox / Beach Book / Breaking / Wolves / Beau / Holly Books / Eve: Each 3.70000%\n[Outbreak / apple / moss fox / tiger / trial]: each 3.14500%\n\n<Other>\n: If you have already acquired the soul of already retained, automatic conversion to 25 corresponding soul debris\n: When you acquire a hero rating Soul, you can replace the 'Soul Confirmation' menu in the menu "
     },
     "99800143": {
         "deprecated": false,
-        "Dev_Desc": "패키지 / 폭풍 성장 패키지",
+        "Dev_Desc": "홈 / 무림 새싹 패키지 / 보너스 상품 / 영웅 소울 소환서",
         "id": 99800143,
-        "alias": "Contents.CashShop.Item.Desc.5129",
+        "alias": "Contents.CashShop.Item.Desc.5120",
         "text": "[Payment Guide]\nAcquire the next item to purchase\n: Two of the air (engraved)\n: Certificate of cards 1,000\n: Advanced antioxidant selection box (amplification) 1\n: Twenty (engraved) 20\n\n* Area (engraved)\n- Category: Rare Supplies\n- Description: You can acquire the aerodynamic for the glance\n- Other settings: Warehouse storage, no transaction, no deal\n\n* Craftsmanship\n- Category: Advanced Culture\n- Description: It is a coin to purchase [Weapon] and [Armor] from [Called Replacement] in Village.\n- Other settings: Warehouse storage, no transaction, no deal\n\n* Advanced anti-purifier selection box (amplification)\n- Classification: Advanced Selection Box\n- You can obtain one of the following items when using the following items\n: [Sword] Integer of amplification: uploaded (engraved)\n: [Sword] An integer of amplification: jumped (engraved)\n: [Index] An integer of amplification:\n: [Index] An integer of amplification: Name (engraved)\n: [Ax] Integer of amplification: optical wind (engraved)\n: [Ax] Integer of amplification: Claims (engraved)\n: [Porcelain] Integer of amplification: Line (engraved)\n: [Porcelain] Integer of amplification: Yuseong (engraved)\n: [Bow] Integer of amplification: Arrows (engraved)\n: [Bow] Integer of amplification: Track arrow (engraved)\n: [Grant] Integer of amplification: Plantation (engraved)\n: [Grant] Integer of amplification: Planting illumination (engraved)\n- Other settings: not transaction, no transaction\n \n* Tip (stamp)\n- Category: Materials\n- Description: Materials used for unbeatable and non-workable materials\n- Other settings: not transaction "
+    },
+    "99800144": {
+        "deprecated": false,
+        "Dev_Desc": "금화 / 희귀 소울 파편",
+        "id": 99800144,
+        "alias": "Contents.CashShop.Item.Desc.5121",
+        "text": "[지급품 안내]\n : 희귀 소울 파편(1회) (각인)\n- 기타 설정 : 창고 보관 불가, 거래 불가, 판매 불가\n\n[획득 가능 소울 리스트]\n\n아래 소울 중 정해진 확률에 따라 소울 파편을 2개 획득 가능\n(등급 : 희귀)\n\n<희귀>\n양건/진묘영/풍백문 전투조원/풍백문 순찰조원\n\n[구매 제한]\n계정 당 매주 7회\n\n매주 수요일 05시에 구매 횟수 초기화"
+    },
+    "99800145": {
+        "deprecated": false,
+        "Dev_Desc": "금화 / 영웅 소울 파편",
+        "id": 99800145,
+        "alias": "Contents.CashShop.Item.Desc.5122",
+        "text": "[지급품 안내]\n : 영웅 소울 파편(1회) (각인)\n- 기타 설정 : 창고 보관 불가, 거래 불가, 판매 불가\n\n[획득 가능 소울 리스트]\n\n아래 소울 중 정해진 확률에 따라 소울 파편을 1개 획득 가능\n(등급 : 영웅)\n\n<영웅>\n비류하/바오바오/곽호룡\n\n[구매 제한]\n계정 당 매주 7회\n\n매주 수요일 05시에 구매 횟수 초기화"
+    },
+    "99800146": {
+        "deprecated": false,
+        "Dev_Desc": "한가위 패스권",
+        "id": 99800146,
+        "alias": "Contents.CashShop.Item.Desc.5123",
+        "text": "[지급품 안내]\n구매 시 다음 재화 및 아이템을 획득\n: 한가위 패스권\n\n* 한가위 패스권\n- 분류 : 재료\n- 사용 효과 : 한가위 패스 추가보상 활성화 가능\n: 한가위 패스 메뉴 내에서 사용 가능\n- 기타 설정 : 거래 불가, 판매 불가, 2021.10.06.까지 사용 가능\n\n* 주의\n시즌이 종료되면 패스 미션을 더 이상 진행할 수 없습니다.\n시즌 종료 후 일주일이 지나면 사용하지 못한 패스 포인트는 소멸되며 더 이상 보상 교환이 불가합니다.\n\n[구매 제한]\n각 서버 당 1회"
+    },
+    "99800147": {
+        "deprecated": false,
+        "Dev_Desc": "금화 / 시간 충전석 : 각성의 미궁 심픙",
+        "id": 99800147,
+        "alias": "Contents.CashShop.Item.Desc.5124",
+        "text": "[지급품 안내]\n: 충전석: 각성의 미궁(심층)(각인) 1개\n\n- 분류 : 소모품 (충전석)\n- 사용 효과 : 사용 시 각성의 미궁(심층) 던전 이용 시간 1시간 충전\n- 기타 설정 : 거래 불가, 판매 불가\n\n[구매 제한]\n각 서버 당 매일 1회\n\n매일 0시에 구매 횟수 초기화"
+    },
+    "99800148": {
+        "deprecated": false,
+        "Dev_Desc": "특별 소울 소환 / 풍신, 홍돈삼, 폭주 수호병 대장 / 1회",
+        "id": 99800148,
+        "alias": "Contents.CashShop.Item.Desc.5125",
+        "text": "[획득 가능한 소울 리스트]\n아래 소울 중 정해진 확률에 따라 소울을 1개 획득 가능 \n(등급 : 일반 ~ 영웅)\n\n<영웅> 소울 : 0.675%\n[풍신/홍돈삼/폭주 수호병 대장] : 각 0.225%\n\n<희귀> 소울 : 5.1%\n[수와족 덩치/창도단 검사/창도단 쌍칼/창도단 투사] : 각 0.6%\n[변이된 청인족 검사/변이된 청인족 암살자/변이된 청인족 투사/검은 새벽단 전투병/검은 새벽단 암살자/검은 새벽단 도끼병] : 각 0.45%\n\n<상급> 소울 : 20%\n[검은늑대/흑곰/백호/황금이끼여우/회랑 수호병/수목정령] : 각 1.3%\n[회랑 수호포병/네로네로/서인족 궁수/수와족 경비병/망령/서인족 전사/수와족 전사/어인족 검병/어인족 창병] : 각 1%\n[해월괴인/동자령/네이냥/황금 발발이/연잎인간] : 각 0.64%\n\n<일반> 소울 : 74.225%\n[사슴/양/소라게/녹옥게/닭/뱀버섯] : 각 4.2%\n[늑대/곰/초급 수호병/노숙령/변이된 해파리/여우/해변거북/꼬마 도깨비/홀쭉 도깨비] : 각 3.7%\n[호랑이/이끼여우/사과도치/발발이/삼색조] : 각 3.145%\n\n- 기타\n: 이미 보유 중인 소울을 중복으로 획득할 경우, 해당 소울 파편 25개로 자동 변환\n: 영웅 등급 소울 획득 시 '소울 확정' 메뉴에서 다른 소울로 교체 가능\n"
+    },
+    "99800149": {
+        "deprecated": false,
+        "Dev_Desc": "특별 소울 소환 / 풍신, 홍돈삼, 폭주 수호병 대장 / 11회",
+        "id": 99800149,
+        "alias": "Contents.CashShop.Item.Desc.5126",
+        "text": "[획득 가능한 소울 리스트]\n아래 소울 중 정해진 확률에 따라 소울을 11개 획득 가능 \n(등급 : 일반 ~ 영웅)\n\n<영웅> 소울 : 0.675%\n[풍신/홍돈삼/폭주 수호병 대장] : 각 0.225%\n\n<희귀> 소울 : 5.1%\n[수와족 덩치/창도단 검사/창도단 쌍칼/창도단 투사] : 각 0.6%\n[변이된 청인족 검사/변이된 청인족 암살자/변이된 청인족 투사/검은 새벽단 전투병/검은 새벽단 암살자/검은 새벽단 도끼병] : 각 0.45%\n\n<상급> 소울 : 20%\n[검은늑대/흑곰/백호/황금이끼여우/회랑 수호병/수목정령] : 각 1.3%\n[회랑 수호포병/네로네로/서인족 궁수/수와족 경비병/망령/서인족 전사/수와족 전사/어인족 검병/어인족 창병] : 각 1%\n[해월괴인/동자령/네이냥/황금 발발이/연잎인간] : 각 0.64%\n\n<일반> 소울 : 74.225%\n[사슴/양/소라게/녹옥게/닭/뱀버섯] : 각 4.2%\n[늑대/곰/초급 수호병/노숙령/변이된 해파리/여우/해변거북/꼬마 도깨비/홀쭉 도깨비] : 각 3.7%\n[호랑이/이끼여우/사과도치/발발이/삼색조] : 각 3.145%\n\n- 기타\n: 이미 보유 중인 소울을 중복으로 획득할 경우, 해당 소울 파편 25개로 자동 변환\n: 영웅 등급 소울 획득 시 '소울 확정' 메뉴에서 다른 소울로 교체 가능"
+    },
+    "99800150": {
+        "deprecated": false,
+        "Dev_Desc": "패키지 / 백화의 귀걸이 패키지",
+        "id": 99800150,
+        "alias": "Contents.CashShop.Item.Desc.5127",
+        "text": "[지급품 안내]\n구매 시 다음 아이템을 획득\n: 백화의 귀걸이 패키지 1개\n\n* 백화의 귀걸이 패키지\n- 분류 : 소모품 (상자)\n- 사용 효과 : 사용 시 다음 아이템을 획득\n: +3 백화의 불꽃 1개\n: 뇌성의 포효 상자 5개\n: 백화의 불꽃 상자 5개\n: 빛나는 바오바오의 강화 주문서: 백화 1개\n: 빛나는 소울 소환서(11회) 5개\n- 기타 설정 : 창고 보관 불가, 거래 불가, 판매 불가\n\n* +3 백화의 불꽃\n- 분류 : 장비 (귀걸이)\n- 착용 효과 : (강화 수치에 따라 다음 효과를 가짐)\n+3 : 관통력 4, 공격력 1\n+3~ : 공격력 1씩 추가 상승\n+5~ : 치명률 0.5%씩 추가 상승\n+6~ : 무공 피해 증폭 0.5%씩 추가 상승\n- 제한 사항 : 같은 이름의 귀걸이는 두 개 이상 착용 불가\n- 기타 설정 : 창고 보관 불가, 거래 불가\n\n* 뇌성의 포효 상자\n- 분류 : 소모품 (상자)\n- 사용 효과 : 사용 시 다음 아이템을 획득\n: 뇌성의 포효 1개\n: 바오바오의 강화 주문서 10개\n- 기타 설정 : 창고 보관 불가, 거래 불가, 판매 불가\n\n* 뇌성의 포효\n- 분류 : 장비 (귀걸이)\n- 착용 효과 : (강화 수치에 따라 다음 효과를 가짐)\n+0 : 방어력 1\n+1~ : 방어력 1씩 상승\n+3~ : 호신 1씩 추가 상승\n+5~ : 소울 저항률 0.5%씩 추가 상승\n+6~ : 통제 저항률 1%씩 추가 상승\n- 제한 사항 : 같은 이름의 귀걸이는 두 개 이상 착용 불가\n- 기타 설정 : 창고 보관 불가, 거래 불가\n\n* 백화의 불꽃 상자\n- 분류 : 소모품 (상자)\n- 사용 효과 : 사용 시 다음 아이템을 획득\n: 백화의 불꽃 1개\n: 바오바오의 강화 주문서 10개\n- 기타 설정 : 창고 보관 불가, 거래 불가, 판매 불가\n\n* 백화의 불꽃\n- 분류 : 장비 (귀걸이)\n- 착용 효과 : (강화 수치에 따라 다음 효과를 가짐)\n+0 : 관통력 1\n+1~ : 관통력 1씩 상승\n+3~ : 공격력 1씩 추가 상승\n+5~ : 치명률 0.5%씩 추가 상승\n+6~ : 무공 피해 증폭 0.5%씩 추가 상승\n- 제한 사항 : 같은 이름의 귀걸이는 두 개 이상 착용 불가\n- 기타 설정 : 창고 보관 불가, 거래 불가\n\n* 바오바오의 강화 주문서\n- 분류 : 주문서\n- 사용 효과 : 특수 장신구에 사용 시, 정해진 확률에 따라 강화 수치 1 상승\n- 기타 설정 : 거래 불가, 판매 불가\n\n* 빛나는 바오바오의 강화 주문서: 백화\n- 분류 : 주문서\n- 사용 효과 : 100% 확률로 강화 단계가 +1 상승합니다.\n+3 백화의 불꽃에만 사용할 수 있습니다.\n- 기타 설정 : 거래 불가, 판매 불가\n\n* 빛나는 소울 소환서 (11회)\n- 분류 : 소모품 (소환서)\n- 사용 효과 : 사용 시 정해진 확률에 따라 일반~영웅 소울 11개 획득 가능\n- 기타 설정 : 창고 보관 불가, 거래 불가, 판매 불가\n\n[획득 가능한 소울 리스트]\n아래 소울 중 정해진 확률에 따라 소울을 1개 획득 가능\n(등급 : 일반 ~ 영웅)\n\n<영웅> 소울 : 0.675%\n[동충/수호병 대장/초령목/우두머리 두억시니/폭주 수호병 대장/홍돈삼] : 각 0.06500%\n[비류하/바오바오/곽호룡/홍매화/달빛바람/퍼롱퍼롱] : 각 0.04000%\n[풍신/뇌신/낙원대성] : 각 0.01500%\n\n<희귀> 소울 : 5.100%\n[녹각다귀/묘면족/수와족 덩치/창도단 검사/창도단 쌍칼/창도단 투사/매화단 탐사단원/매화단 순찰단원/영교원 주술사/임연수(대어방주)/비사문 관리관/비사문 첩보관] : 각 0.20000%\n[변이된 청인족 검사/변이된 청인족 암살자/변이된 청인족 투사/홍돈 보초병/홍돈 전투병/일성관 살수/일성관 궁수/수양 탐색대원/수양 경계대원/검은 새벽단 전투병/검은 새벽단 암살자/검은 새벽단 도끼병/청명파 청의전사/청명파 청의투사/천무단 검사/천무단 권사/명혜단 석학/명혜단 연구원] : 각 0.13000%\n[풍백문 전투조원/풍백문 순찰조원/양건/진묘영] : 각 0.09000%\n\n<상급> 소울 : 20.000%\n[흑곰/검은 늑대/황금이끼여우/백호/수목정령/회랑 수호병] : 각 1.30000%\n[회랑 수호포병/서인족 전사/서인족 궁수/네로네로/수와족 전사/수와족 경비병/망령/어인족 검병/어인족 창병] : 각 1.00000%\n[해월괴인/네이냥/연잎인간/동자령/황금 발발이] : 각 0.64000%\n\n<일반> 소울 : 74.225%\n[소라게/녹옥게/뱀버섯/사슴/닭/양] : 각 4.20000%\n[초급 수호병/변이된 해파리/노숙령/곰/늑대/여우/해변거북/꼬마 도깨비/홀쭉 도깨비] : 각 3.70000%\n[발발이/사과도치/이끼여우/호랑이/삼색조] : 각 3.14500%\n\n<기타>\n: 이미 보유 중인 소울을 중복으로 획득할 경우, 해당 소울 파편 25개로 자동 변환\n: 영웅 등급 소울 획득 시 '소울 확정' 메뉴에서 다른 소울로 교체 가능"
+    },
+    "99800151": {
+        "deprecated": false,
+        "Dev_Desc": "패키지 / 질풍의 팔찌 패키지",
+        "id": 99800151,
+        "alias": "Contents.CashShop.Item.Desc.5128",
+        "text": "[지급품 안내]\n구매 시 다음 아이템을 획득\n: 질풍의 팔찌 패키지 1개\n\n* 질풍의 팔찌 패키지\n- 분류 : 소모품 (상자)\n- 사용 효과 : 사용 시 다음 아이템을 획득\n: +3 질풍의 진노 1개\n: 질풍의 진노 상자 5개\n: 타락의 속삭임 상자 5개\n: 빛나는 바오바오의 강화 주문서: 질풍 1개\n: 빛나는 소울 소환서(11회) 5개\n- 기타 설정 : 창고 보관 불가, 거래 불가, 판매 불가\n\n* +3 질풍의 진노\n- 분류 : 장비 (팔찌)\n- 착용 효과 : (강화 수치에 따라 다음 효과를 가짐)\n+3 : 명중 4, 무기 공격력 증폭 3%, 무기 공격력 1\n+3~ : 무기 공격력 1씩 추가 상승\n+5~ : 통제 적중률 0.5%씩 추가 상승\n+6~ : 기본 공격 속도 0.5%씩 추가 상승\n- 제한 사항 : 같은 이름의 팔찌는 두 개 이상 착용 불가\n- 기타 설정 : 창고 보관 불가, 거래 불가\n\n* 질풍의 진노 상자\n- 분류 : 소모품 (상자)\n- 사용 효과 : 사용 시 다음 아이템을 획득\n: 질풍의 진노 1개\n: 바오바오의 강화 주문서 10개\n- 기타 설정 : 창고 보관 불가, 거래 불가, 판매 불가\n\n* 질풍의 진노\n- 분류 : 장비 (팔찌)\n- 착용 효과 : (강화 수치에 따라 다음 효과를 가짐)\n+0 : 명중 1, 무기 공격력 증폭 3%\n+1~ : 명중 1씩 상승\n+3~ : 무기 공격력 1씩 추가 상승\n+5~ : 통제 적중률 0.5%씩 추가 상승\n+6~ : 기본 공격 속도 0.5%씩 추가 상승\n- 제한 사항 : 같은 이름의 팔찌는 두 개 이상 착용 불가\n- 기타 설정 : 창고 보관 불가, 거래 불가\n\n* 타락의 속삭임 상자\n- 분류 : 소모품 (상자)\n- 사용 효과 : 사용 시 다음 아이템을 획득\n: 타락의 속삭임 1개\n: 바오바오의 강화 주문서 10개\n- 기타 설정 : 창고 보관 불가, 거래 불가, 판매 불가\n\n* 타락의 속삭임\n- 분류 : 장비 (팔찌)\n- 착용 효과 : (강화 수치에 따라 다음 효과를 가짐)\n+0 : 회피 1, 생명력 재생 3\n+1~ : 회피 1씩 상승\n+3~ : 방어력 1씩 추가 상승\n+5~ : 무공 피해 내성 0.5%씩 추가 상승\n+6 : 통제 저항률 5% 추가\n+6~ : 통제 저항률 1%씩 추가 상승\n- 제한 사항 : 같은 이름의 팔찌는 두 개 이상 착용 불가\n- 기타 설정 : 창고 보관 불가, 거래 불가\n\n* 바오바오의 강화 주문서\n- 분류 : 주문서\n- 사용 효과 : 특수 장신구에 사용 시, 정해진 확률에 따라 강화 수치 1 상승\n- 기타 설정 : 거래 불가, 판매 불가\n\n* 빛나는 바오바오의 강화 주문서: 질풍\n- 분류 : 주문서\n- 사용 효과 : 100% 확률로 강화 단계가 +1 상승합니다.\n+3 질풍의 진노에만 사용할 수 있습니다.\n- 기타 설정 : 거래 불가, 판매 불가\n\n* 빛나는 소울 소환서 (11회)\n- 분류 : 소모품 (소환서)\n- 사용 효과 : 사용 시 정해진 확률에 따라 일반~영웅 소울 11개 획득 가능\n- 기타 설정 : 창고 보관 불가, 거래 불가, 판매 불가\n\n[획득 가능한 소울 리스트]\n아래 소울 중 정해진 확률에 따라 소울을 1개 획득 가능\n(등급 : 일반 ~ 영웅)\n\n<영웅> 소울 : 0.675%\n[동충/수호병 대장/초령목/우두머리 두억시니/폭주 수호병 대장/홍돈삼] : 각 0.06500%\n[비류하/바오바오/곽호룡/홍매화/달빛바람/퍼롱퍼롱] : 각 0.04000%\n[풍신/뇌신/낙원대성] : 각 0.01500%\n\n<희귀> 소울 : 5.100%\n[녹각다귀/묘면족/수와족 덩치/창도단 검사/창도단 쌍칼/창도단 투사/매화단 탐사단원/매화단 순찰단원/영교원 주술사/임연수(대어방주)/비사문 관리관/비사문 첩보관] : 각 0.20000%\n[변이된 청인족 검사/변이된 청인족 암살자/변이된 청인족 투사/홍돈 보초병/홍돈 전투병/일성관 살수/일성관 궁수/수양 탐색대원/수양 경계대원/검은 새벽단 전투병/검은 새벽단 암살자/검은 새벽단 도끼병/청명파 청의전사/청명파 청의투사/천무단 검사/천무단 권사/명혜단 석학/명혜단 연구원] : 각 0.13000%\n[풍백문 전투조원/풍백문 순찰조원/양건/진묘영] : 각 0.09000%\n\n<상급> 소울 : 20.000%\n[흑곰/검은 늑대/황금이끼여우/백호/수목정령/회랑 수호병] : 각 1.30000%\n[회랑 수호포병/서인족 전사/서인족 궁수/네로네로/수와족 전사/수와족 경비병/망령/어인족 검병/어인족 창병] : 각 1.00000%\n[해월괴인/네이냥/연잎인간/동자령/황금 발발이] : 각 0.64000%\n\n<일반> 소울 : 74.225%\n[소라게/녹옥게/뱀버섯/사슴/닭/양] : 각 4.20000%\n[초급 수호병/변이된 해파리/노숙령/곰/늑대/여우/해변거북/꼬마 도깨비/홀쭉 도깨비] : 각 3.70000%\n[발발이/사과도치/이끼여우/호랑이/삼색조] : 각 3.14500%\n\n<기타>\n: 이미 보유 중인 소울을 중복으로 획득할 경우, 해당 소울 파편 25개로 자동 변환\n: 영웅 등급 소울 획득 시 '소울 확정' 메뉴에서 다른 소울로 교체 가능"
+    },
+    "99800152": {
+        "deprecated": false,
+        "Dev_Desc": "패키지 / 폭풍 성장 패키지",
+        "id": 99800152,
+        "alias": "Contents.CashShop.Item.Desc.5129",
+        "text": "[지급품 안내]\n구매 시 다음 아이템을 획득\n: 공력수(각인) 2개\n: 장인의 증표 1,000개\n: 상급 무공 정수 선택 상자(증폭) 1개\n: 비결(각인) 20개\n\n* 공력수(각인)\n- 분류 : 희귀 소모품\n- 설명 : 검결 성장에 필요한 공력을 획득할 수 있습니다\n- 기타 설정 : 창고 보관 불가, 거래 불가, 판매 불가\n\n* 장인의 증표\n- 분류 : 상급 주화\n- 설명 : 마을에 있는 [증표 교환상]에게서 [무기]와 [방어구]를 구매할 수 있는 주화입니다\n- 기타 설정 : 창고 보관 불가, 거래 불가, 판매 불가\n\n* 상급 무공 정수 선택 상자(증폭)\n- 분류 : 상급 선택상자\n- 사용 시 아래 아이템 중 1개 선택 획득 가능\n: [검] 증폭의 정수 : 올려베기(각인)\n: [검] 증폭의 정수 : 뛰어베기(각인)\n: [권갑] 증폭의 정수 : 승룡각(각인)\n: [권갑] 증폭의 정수 : 절명각(각인)\n: [도끼] 증폭의 정수 : 광풍(각인)\n: [도끼] 증폭의 정수 : 격돌(각인)\n: [기공패] 증폭의 정수 : 화련장(각인)\n: [기공패] 증폭의 정수 : 유성(각인)\n: [활] 증폭의 정수 : 화살비(각인)\n: [활] 증폭의 정수 : 추적화살(각인)\n: [법종] 증폭의 정수 : 생령치유(각인)\n: [법종] 증폭의 정수 : 심기일전(각인) \n- 기타 설정 : 거래 불가, 판매 불가 \n \n* 비결(각인)\n- 분류 : 재료\n- 설명 : 무공 강화 및 무공서 제작에 사용되는 재료\n- 기타 설정 : 거래 불가"
+    },
+    "99800153": {
+        "deprecated": false,
+        "Dev_Desc": "특별 소울 소환 / 낙원대성, 우두머리 두억시니, 초령목 / 1회",
+        "id": 99800153,
+        "alias": "Contents.CashShop.Item.Desc.5130",
+        "text": "[획득 가능한 소울 리스트]\n아래 소울 중 정해진 확률에 따라 소울을 1개 획득 가능 \n(등급 : 일반 ~ 영웅)\n\n<영웅> 소울 : 0.675%\n[낙원대성/우두머리 두억시니/초령목] : 각 0.225%\n\n<희귀> 소울 : 5.1%\n[매화단 탐사단원/매화단 순찰단원/영교원 주술사/임연수(대어방주)] : 각 0.6%\n[수양 탐색대원/수양 경계대원/청명파 청의전사/청명파 청의투사/천무단 검사/천무단 권사] : 각 0.45%\n\n<상급> 소울 : 20%\n[검은늑대/흑곰/백호/황금이끼여우/회랑 수호병/수목정령] : 각 1.3%\n[회랑 수호포병/네로네로/서인족 궁수/수와족 경비병/망령/서인족 전사/수와족 전사/어인족 검병/어인족 창병] : 각 1%\n[해월괴인/동자령/네이냥/황금 발발이/연잎인간] : 각 0.64%\n\n<일반> 소울 : 74.225%\n[사슴/양/소라게/녹옥게/닭/뱀버섯] : 각 4.2%\n[늑대/곰/초급 수호병/노숙령/변이된 해파리/여우/해변거북/꼬마 도깨비/홀쭉 도깨비] : 각 3.7%\n[호랑이/이끼여우/사과도치/발발이/삼색조] : 각 3.145%\n\n- 기타\n: 이미 보유 중인 소울을 중복으로 획득할 경우, 해당 소울 파편 25개로 자동 변환\n: 영웅 등급 소울 획득 시 '소울 확정' 메뉴에서 다른 소울로 교체 가능"
+    },
+    "99800154": {
+        "deprecated": false,
+        "Dev_Desc": "특별 소울 소환 / 낙원대성, 우두머리 두억시니, 초령목 / 11회",
+        "id": 99800154,
+        "alias": "Contents.CashShop.Item.Desc.5131",
+        "text": "[획득 가능한 소울 리스트]\n아래 소울 중 정해진 확률에 따라 소울을 11개 획득 가능 \n(등급 : 일반 ~ 영웅)\n\n<영웅> 소울 : 0.675%\n[낙원대성/우두머리 두억시니/초령목] : 각 0.225%\n\n<희귀> 소울 : 5.1%\n[매화단 탐사단원/매화단 순찰단원/영교원 주술사/임연수(대어방주)] : 각 0.6%\n[수양 탐색대원/수양 경계대원/청명파 청의전사/청명파 청의투사/천무단 검사/천무단 권사] : 각 0.45%\n\n<상급> 소울 : 20%\n[검은늑대/흑곰/백호/황금이끼여우/회랑 수호병/수목정령] : 각 1.3%\n[회랑 수호포병/네로네로/서인족 궁수/수와족 경비병/망령/서인족 전사/수와족 전사/어인족 검병/어인족 창병] : 각 1%\n[해월괴인/동자령/네이냥/황금 발발이/연잎인간] : 각 0.64%\n\n<일반> 소울 : 74.225%\n[사슴/양/소라게/녹옥게/닭/뱀버섯] : 각 4.2%\n[늑대/곰/초급 수호병/노숙령/변이된 해파리/여우/해변거북/꼬마 도깨비/홀쭉 도깨비] : 각 3.7%\n[호랑이/이끼여우/사과도치/발발이/삼색조] : 각 3.145%\n\n- 기타\n: 이미 보유 중인 소울을 중복으로 획득할 경우, 해당 소울 파편 25개로 자동 변환\n: 영웅 등급 소울 획득 시 '소울 확정' 메뉴에서 다른 소울로 교체 가능"
+    },
+    "99800155": {
+        "deprecated": false,
+        "Dev_Desc": "특별 수호령 소환 / 진서연, 거거봉, 유란 / 1회",
+        "id": 99800155,
+        "alias": "Contents.CashShop.Item.Desc.5134",
+        "text": "[획득 가능한 수호령 리스트]\n아래 수호령 중 정해진 확률에 따라 수호령을 1개 획득 가능\n(등급 : 일반 ~ 영웅)\n\n<영웅> 수호령 : 0.1000%\n[거거붕/유란] : 각 0.0200%\n[홍석근/천진권/화중/포화란/해무진/진서연] : 각 0.0100%\n\n<희귀> 수호령 : 1.4000%\n[진영/영묵] : 각 0.2000%\n[정하도/진소아/남소유/도천풍/금강역사/뇌신/낙원대성/태장금] : 각 0.1250%\n\n<상급> 수호령 : 19.500%\n[화염 수와족/물 수와족/흑창족 장로/흑창족 대주방장/황금 발발이/토우 장군/항아리단 장로/낙원소성/호숙이/설녀] : 각 1.95000%\n\n<일반> 수호령 : 79.000%\n[수와족/흑창족/흑창족 요리사/풀숲 발발이/토우 병사/항아리 도적단/항아리 도끼단/낙원족] : 각 9.87500%\n\n<기타>\n: 영웅 등급 소울 획득 시 '수호령 확정' 메뉴에서 다른 수호령으로 교체 가능"
+    },
+    "99800156": {
+        "deprecated": false,
+        "Dev_Desc": "특별 수호령 소환 / 진서연, 거거봉, 유란 / 11회",
+        "id": 99800156,
+        "alias": "Contents.CashShop.Item.Desc.5135",
+        "text": "[획득 가능한 수호령 리스트]\n아래 수호령 중 정해진 확률에 따라 수호령을 11개 획득 가능\n(등급 : 일반 ~ 영웅)\n\n<영웅> 수호령 : 0.1000%\n[거거붕/유란] : 각 0.0200%\n[홍석근/천진권/화중/포화란/해무진/진서연] : 각 0.0100%\n\n<희귀> 수호령 : 1.4000%\n[진영/영묵] : 각 0.2000%\n[정하도/진소아/남소유/도천풍/금강역사/뇌신/낙원대성/태장금] : 각 0.1250%\n\n<상급> 수호령 : 19.500%\n[화염 수와족/물 수와족/흑창족 장로/흑창족 대주방장/황금 발발이/토우 장군/항아리단 장로/낙원소성/호숙이/설녀] : 각 1.95000%\n\n<일반> 수호령 : 79.000%\n[수와족/흑창족/흑창족 요리사/풀숲 발발이/토우 병사/항아리 도적단/항아리 도끼단/낙원족] : 각 9.87500%\n\n<기타>\n: 영웅 등급 소울 획득 시 '수호령 확정' 메뉴에서 다른 수호령으로 교체 가능"
+    },
+    "99800157": {
+        "deprecated": false,
+        "Dev_Desc": "플레이 포인트 / 연합의 증표",
+        "id": 99800157,
+        "alias": "Contents.CashShop.Item.Desc.5136",
+        "text": "[지급품 안내]\n연합의 증표 1개\n\n* 연합의 증표\n- 분류 : 장비 (인장)\n- 착용 효과\n: 공격력 +1\n: 명중 +1\n- 기타 설정 : 창고 보관 불가, 거래 불가, 판매 불가, 2021.10.20 정기점검 전 까지 사용 가능"
+    },
+    "99800158": {
+        "deprecated": false,
+        "Dev_Desc": "신석 / 소모품 / 도화상전 금화상자 / 매월 30회",
+        "id": 99800158,
+        "alias": "Contents.CashShop.Item.Desc.5137",
+        "text": "[지급품 안내]\n: 도화상전 금화상자 1개\n\n- 분류 : 소모품 (상자)\n- 사용 효과 : 사용 시 정해진 확률에 따라 아래의 아이템들 중 1종 획득 가능\n: [신비한 금화 상자: 20만] : 78.00%\n: [신비한 금화 상자: 30만] : 11.50%\n: [신비한 금화 상자: 50만] : 7.50%\n: [신비한 금화 상자: 100만] : 2.50%\n: [신비한 금화 상자: 150만] : 0.40%\n: [신비한 금화 상자: 180만] : 0.10%\n- 기타 설정 : 창고 보관 불가, 거래 불가, 판매 불가\n\n* 신비한 금화 상자: 20만\n- 분류 : 소모품 (상자)\n- 사용 효과 : 사용 시 아래의 재화 획득 가능\n: 금화 20만\n- 기타 설정 : 창고 보관 불가, 거래 불가, 판매 불가\n\n* 신비한 금화 상자: 30만\n- 분류 : 소모품 (상자)\n- 사용 효과 : 사용 시 아래의 재화 획득 가능\n: 금화 30만\n- 기타 설정 : 창고 보관 불가, 거래 불가, 판매 불가\n\n* 신비한 금화 상자: 50만\n- 분류 : 소모품 (상자)\n- 사용 효과 : 사용 시 아래의 재화 획득 가능\n: 금화 50만\n- 기타 설정 : 창고 보관 불가, 거래 불가, 판매 불가\n\n* 신비한 금화 상자: 100만\n- 분류 : 소모품 (상자)\n- 사용 효과 : 사용 시 아래의 재화 획득 가능\n: 금화 100만\n- 기타 설정 : 창고 보관 불가, 거래 불가, 판매 불가\n\n* 신비한 금화 상자: 150만\n- 분류 : 소모품 (상자)\n- 사용 효과 : 사용 시 아래의 재화 획득 가능\n: 금화 150만\n- 기타 설정 : 창고 보관 불가, 거래 불가, 판매 불가\n\n* 신비한 금화 상자: 180만\n- 분류 : 소모품 (상자)\n- 사용 효과 : 사용 시 아래의 재화 획득 가능\n: 금화 180만\n- 기타 설정 : 창고 보관 불가, 거래 불가, 판매 불가\n\n[구매 제한]\n각 서버 당 매주 30회\n\n매주 수요일 05시에 구매 횟수 초기화"
+    },
+    "99800159": {
+        "deprecated": false,
+        "Dev_Desc": "신석 / 소모품 / 내력의 단환 10개 / 매월 30회",
+        "id": 99800159,
+        "alias": "Contents.CashShop.Item.Desc.5138",
+        "text": "[지급품 안내]\n: 내력의 단환(각인) 10개 묶음\n\n- 분류 : 소모품\n- 사용 효과 : 사용 시 내력을 즉시 회복 (재사용시간 5분)\n- 기타 설정 : 창고 보관 불가, 거래 불가, 판매 불가\n\n[구매 제한]\n각 서버 당 매주 30회\n\n매주 수요일 05시에 구매 횟수 초기화"
+    },
+    "99800160": {
+        "deprecated": false,
+        "Dev_Desc": "금화 / 데일리 패스 2",
+        "id": 99800160,
+        "alias": "Contents.CashShop.Item.Desc.5139",
+        "text": "[지급품 안내]\n구매 시 다음 아이템을 획득\n: 데일리 패스권\n\n* 데일리 패스권\n- 분류 : 재료\n- 사용 효과 : 데일리 패스 추가보상 활성화 가능\n: 데일리 패스 메뉴 내에서 사용 가능\n- 기타 설정 : 거래 불가, 판매 불가, 2021.10.20. 정기점검 전 까지 사용 가능\n\n* 주의\n시즌이 종료되면 패스 미션을 더 이상 진행할 수 없습니다.\n시즌 종료 후 일주일이 지나면 사용하지 못한 패스 포인트는 소멸되며 더 이상 보상 교환이 불가합니다.\n\n[구매 제한]\n각 서버 당 1회"
+    },
+    "99800161": {
+        "deprecated": false,
+        "Dev_Desc": "패키지 / 묵화의 수호령 패키지",
+        "id": 99800161,
+        "alias": "Contents.CashShop.Item.Desc.5140",
+        "text": "[지급품 안내]\n구매 시 다음 아이템을 획득\n: 묵화의 수호령 패키지 1개\n\n* 묵화의 수호령 패키지\n- 분류 : 소모품 (상자)\n- 사용 효과 : 사용 시 아래의 아이템을 획득\n: 묵화의 수호령 소환서(11회) 2개\n: 묵화 수호령 제작서 1개\n- 기타 설정 : 창고 보관 불가, 거래 불가, 판매 불가\n\n* 묵화 수호령 제작서\n- 분류 : 제작 재료\n- 사용 효과 : 묵화 수호령 제작서를 이용하여, 묵화 수호령 소환서(11회), 찬란한 묵화 수호령 소환서(1회) 제작 가능 \n- 기타 설정 : 창고 보관 불가, 거래 불가, 판매 불가\n\n- 묵화 수호령 제작서 1개로 제작 가능한 리스트\n: 묵화 수호령 소환서(11회)\n\n[획득 가능한 수호령 리스트]\n<영웅> 수호령 : 0.100%\n[유란/거거붕] : 각 0.0400%\n[진서연] : 0.0200%\n\n<희귀> 수호령 : 1.400%\n[정하도/진소아/남소유/도천풍/금강역사/뇌신/낙원대성/태장금/진영/영묵] : 각 0.1400%\n\n<상급> 수호령 : 19.500%\n[화염 수와족/물 수와족/흑창족 장로/흑창족 대주방장/황금 발발이/토우 장군/항아리단 장로/낙원소성/호숙이/설녀] : 각 1.95000%\n\n<일반> 수호령 : 79.000%\n[수와족/흑창족/흑창족 요리사/풀숲 발발이/토우 병사/항아리 도적단/항아리 도끼단/낙원족] : 각 9.87500%\n\n<기타>\n: 영웅 등급 수호령 획득 시 '수호령 확정' 메뉴에서 다른 수호령으로 교체 가능\n\n- 묵화 수호령 제작서 3개로 제작 가능한 리스트\n: 찬란한 묵화 수호령 소환서(1회)\n\n[획득 가능한 수호령 리스트]\n<영웅> 수호령 : 1.600%\n[유란/거거붕] : 각 0.600%\n[진서연] : 0.400%\n\n<희귀> 수호령 : 98.400%\n[진영/영묵] : 각 49.200%\n\n[구매 제한]\n각 서버 당 12회"
+    },
+    "99800162": {
+        "deprecated": false,
+        "Dev_Desc": "패키지 / 급속 성장 패키지",
+        "id": 99800162,
+        "alias": "Contents.CashShop.Item.Desc.5141",
+        "text": "[지급품 안내]\n구매 시 다음 아이템을 획득\n: 급속 성장 패키지 1개\n\n* 급속 성장 패키지\n- 분류 : 소모품 (상자)\n- 사용 효과 : 사용 시 아래의 아이템을 획득\n: 백년초 만두(각인) 30개\n: 빛나는 용봉탕(각인) 30개\n: 집중의 녹용(각인) 30개\n- 기타 설정 : 창고 보관 불가, 거래 불가, 판매 불가\n\n* 백년초 만두(각인)\n- 분류 : 소모품 (음식)\n- 효과 : 사용 시 공격 관련 능력치가 크게 증가 (재사용시간 30분)\n: 공격력 +2 / 명중 +1 / 관통력 +3\n: 다른 음식 아이템 사용효과와 중첩 불가\n- 기타 설정 :  거래 불가\n\n* 빛나는 용봉탕(각인)\n- 분류 : 소모품 (음식)\n- 사용 시, 30분 간 경험치 획득량 10% 증가\n- 기타 설정 : 거래 불가, 판매 불가\n\n* 집중의 녹용(각인)\n- 분류 : 소모품 (음식)\n- 효과 : 사용 시 공격 관련 능력치 증가\n: PVE 명중 +2\n: 다른 음식 아이템 사용효과와 중첩 가능\n- 기타 설정 :  창고 보관 불가, 거래 불가, 판매 불가\n\n[구매 제한]\n각 서버 당 매주 10회\n\n매주 수요일 05시에 구매 횟수 초기화"
     },
     "99850000": {
         "deprecated": false,
@@ -1489,5 +1623,116 @@
         "id": 99850070,
         "alias": "Contents.CashShop.Item.Desc.9710114",
         "text": "When using, you can acquire all the following items:\n\n- Two air (engraved)\n- Gender of the craftsmanship 1000\n- Advanced Powder Integer Box (Amplification) 1\n- Twist (stamp) 20 "
+    },
+    "99850071": {
+        "deprecated": false,
+        "Dev_Desc": "특별 소울 소환 / 낙원대성, 우두머리 두억시니, 초령목 / 1회",
+        "id": 99850071,
+        "alias": "Contents.CashShop.Item.Desc.9710115",
+        "text": "사용 시 정해진 확률에 따라 소울을 획득할 수 있습니다.\n(등급: 일반 ~ 영웅)"
+    },
+    "99850072": {
+        "deprecated": false,
+        "Dev_Desc": "특별 소울 소환 / 낙원대성, 우두머리 두억시니, 초령목 / 11회",
+        "id": 99850072,
+        "alias": "Contents.CashShop.Item.Desc.9710116",
+        "text": "사용 시 정해진 확률에 따라 소울을 획득할 수 있습니다.\n(등급: 일반 ~ 영웅)"
+    },
+    "99850075": {
+        "deprecated": false,
+        "Dev_Desc": "특별 수호령 소환 / 진서연, 거거봉, 유란 / 1회",
+        "id": 99850075,
+        "alias": "Contents.CashShop.Item.Desc.9710119",
+        "text": "사용 시 정해진 확률에 따라 수호령을 획득할 수 있습니다.\n(등급: 일반 ~ 영웅)"
+    },
+    "99850076": {
+        "deprecated": false,
+        "Dev_Desc": "특별 수호령 소환 / 진서연, 거거봉, 유란 / 11회",
+        "id": 99850076,
+        "alias": "Contents.CashShop.Item.Desc.9710120",
+        "text": "사용 시 정해진 확률에 따라 수호령을 획득할 수 있습니다.\n(등급: 일반 ~ 영웅)"
+    },
+    "99850077": {
+        "deprecated": false,
+        "Dev_Desc": "플레이 포인트 / 연합의 증표",
+        "id": 99850077,
+        "alias": "Contents.CashShop.Item.Desc.9710121"
+    },
+    "99850078": {
+        "deprecated": false,
+        "Dev_Desc": "패키지 / 시즌 패스: 소울[실지급품]",
+        "id": 99850078,
+        "alias": "Contents.CashShop.Item.Desc.9850038",
+        "text": "사용 시 다음 물품을 모두 획득할 수 있습니다.\n\n- 시즌 패스: 소울 1개\n- 빛나는 소울 소환서(11회) 10개\n- 빛나는 수호령 소환서(11회) 10개"
+    },
+    "99850079": {
+        "deprecated": false,
+        "Dev_Desc": "패키지 / 스타팅 패키지[실지급품]",
+        "id": 99850079,
+        "alias": "Contents.CashShop.Item.Desc.9850039",
+        "text": "사용 시 다음 물품을 모두 획득할 수 있습니다.\n\n- 플레이 포인트 3,300개\n- 스타팅 패스 1개\n- 빛나는 소울 소환서(11회) 10개\n- 빛나는 수호령 소환서(11회) 10개\n- 무림 개척자 무기 선택 상자 1개\n- 무림 개척자 방어구 상자 1개"
+    },
+    "99850080": {
+        "deprecated": false,
+        "Dev_Desc": "패키지 / IAP / 도화의 신석 패키지 [실지급품]",
+        "id": 99850080,
+        "alias": "Contents.CashShop.Item.Desc.9850040",
+        "text": "사용 시 다음 물품을 모두 획득할 수 있습니다.\n\n- 도화상전 금화 상자 3개\n- 도화전 10,000개"
+    },
+    "99850081": {
+        "deprecated": false,
+        "Dev_Desc": "패키지 / IAP / 장인의 신석 패키지[실지급품]",
+        "id": 99850081,
+        "alias": "Contents.CashShop.Item.Desc.9850041",
+        "text": "사용 시 다음 물품을 모두 획득할 수 있습니다.\n\n- 신비한 공력분 주머니 3개\n- 장인의 증표 5,000개"
+    },
+    "99850082": {
+        "deprecated": false,
+        "Dev_Desc": "패키지 / IAP / 무림 정착 패키지[실지급품]",
+        "id": 99850082,
+        "alias": "Contents.CashShop.Item.Desc.9850042",
+        "text": "사용 시 다음 물품을 모두 획득할 수 있습니다.\n\n- 빛나는 소울 소환서(1회) 5개\n- 빛나는 수호령 소환서(1회) 5개"
+    },
+    "99850083": {
+        "deprecated": false,
+        "Dev_Desc": "패키지 / IAP / 영교원 특별 소울 패키지[실지급품]",
+        "id": 99850083,
+        "alias": "Contents.CashShop.Item.Desc.9850043",
+        "text": "사용 시 다음 물품을 모두 획득할 수 있습니다.\n\n- 빛나는 소울 소환서(11회) 2개\n- 영교원 소울 제작서 1개"
+    },
+    "99850084": {
+        "deprecated": false,
+        "Dev_Desc": "패키지 / IAP / 영교원 특별 수호령 패키지[실지급품]",
+        "id": 99850084,
+        "alias": "Contents.CashShop.Item.Desc.9850044",
+        "text": "사용 시 다음 물품을 모두 획득할 수 있습니다.\n\n- 빛나는 수호령 소환서(11회) 2개\n- 영교원 수호령 제작서 II 1개"
+    },
+    "99850085": {
+        "deprecated": false,
+        "Dev_Desc": "패키지 / IAP / 출사표 패키지[실지급품]",
+        "id": 99850085,
+        "alias": "Contents.CashShop.Item.Desc.9850045",
+        "text": "사용 시 다음 물품을 모두 획득할 수 있습니다.\n\n- 빛나는 소울 소환서 (1회) 3개\n- 빛나는 용봉탕(각인) 10개"
+    },
+    "99850086": {
+        "deprecated": false,
+        "Dev_Desc": "패키지 / IAP / 강호 초출 패키지[실지급품]",
+        "id": 99850086,
+        "alias": "Contents.CashShop.Item.Desc.9850046",
+        "text": "사용 시 다음 물품을 모두 획득할 수 있습니다.\n\n- 빛나는 수호령 소환서 (1회) 3개\n- 빛나는 용봉탕(각인) 20개"
+    },
+    "99850087": {
+        "deprecated": false,
+        "Dev_Desc": "패키지 / 급속 성장 패키지",
+        "id": 99850087,
+        "alias": "Contents.CashShop.Item.Desc.9850047",
+        "text": "사용 시 다음 물품을 모두 획득할 수 있습니다.\n\n- 백년초 만두(각인) 30개\n- 빛나는 용봉탕(각인) 30개\n- 집중의 녹용(각인) 30개"
+    },
+    "99850088": {
+        "deprecated": false,
+        "Dev_Desc": "패키지 / 묵화의 수호령 패키지",
+        "id": 99850088,
+        "alias": "Contents.CashShop.Item.Desc.9710123",
+        "text": "사용 시 다음 물품을 모두 획득할 수 있습니다.\n\n- 묵화 수호령 소환서(11회) 2개\n- 묵화 수호령 제작서"
     }
 }
