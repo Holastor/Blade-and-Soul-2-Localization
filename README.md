@@ -49,8 +49,8 @@ BTC - bc1qpqnyfvz36u904pw60tv5ky8da38aq0wy7l7rk6, or
 
 ## Mobile-Install
 * ONLY Android and ONLY ROOT DEVICES
-* [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/releases/tag/0.5.6_M) Latest Release (patch.20.com.ncsoft.bns219.obb);
-* Place the file patch.20.com.ncsoft.bns219.obb in the "Internal Memory\Android\obb\com.ncsoft.bns219\";
+* [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/releases/tag/0.5.7_M) Latest Release (patch.27.com.ncsoft.bns219.obb);
+* Place the file patch.27.com.ncsoft.bns219.obb in the "Internal Memory\Android\obb\com.ncsoft.bns219\";
 * LocalOption.json file location:
 * Android 10: "root/data/data/com.ncsoft.bns219/files/UE4Game/B2/B2/Saved/Option/"
 * Android 11: Maybe "root/data_mirror/data_ce/null/0/com.ncsoft.bns219/files/UE4Game/B2/Saved/Config/Option/"
