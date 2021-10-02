@@ -578,7 +578,7 @@
         "Dev_Desc": "소지품 / ",
         "id": 8000083,
         "alias": "UI.Inventory.TitleName.Inventory",
-        "text": "belongings"
+        "text": "Inventory"
     },
     "8000084": {
         "deprecated": false,
@@ -2153,7 +2153,7 @@
         "Dev_Desc": "HUD / ",
         "id": 8000308,
         "alias": "UI.HUD.Item",
-        "text": "belongings"
+        "text": "Inventory"
     },
     "8000309": {
         "deprecated": false,
@@ -3406,7 +3406,7 @@
         "Dev_Desc": "아이템 / 의복 / <arg p=[1:string]/> : 아이템 이름",
         "id": 8000487,
         "alias": "UI.Item.Dress.RegistConfirm",
-        "text": "Are you sure you want to register <arg p=[1:string]/><eul/> in your wardrobe?\nItems will be deleted from your belongings upon registration."
+        "text": "Are you sure you want to register <arg p=[1:string]/><eul/> in your wardrobe?\nItems will be deleted from your Inventory upon registration."
     },
     "8000488": {
         "deprecated": false,
@@ -8033,7 +8033,7 @@
         "Dev_Desc": "창고 / 창고 > 소지품 이동 가이드 메시지",
         "id": 8001202,
         "alias": "UI.Stash.MoveToInventory",
-        "text": "Recall belongings"
+        "text": "Moving to Inventory"
     },
     "8001203": {
         "deprecated": false,
@@ -9489,7 +9489,7 @@
         "Dev_Desc": "아이템 상세정보창 / 제작 정보 / 소지품 보유 수량",
         "id": 8001410,
         "alias": "UI.ItemInfo.CraftInfo.InventoryQuantity",
-        "text": "Keep your belongings"
+        "text": "Quantity of belongings held"
     },
     "8001411": {
         "deprecated": false,
@@ -9510,7 +9510,7 @@
         "Dev_Desc": "임시보관함 / 버튼 / 소지품으로 이동",
         "id": 8001413,
         "alias": "UI.TempInventory.ButtonName.MovoToInventory",
-        "text": "Go to your belongings"
+        "text": "Move to Inventory"
     },
     "8001414": {
         "deprecated": false,
@@ -16636,7 +16636,7 @@
         "Dev_Desc": "캐시상점 / 툴팁",
         "id": 8002454,
         "alias": "UI.CashShop.ToolTip",
-        "text": "This store sells rare items. Cash payment items will be sent to the in-store locker, and other items will be paid immediately to your belongings."
+        "text": "This store sells rare items. Cash payment items will be sent to the in-store locker, and other items will be paid immediately to your Inventory."
     },
     "8002456": {
         "deprecated": false,
@@ -17749,7 +17749,7 @@
         "Dev_Desc": "설정 / 조작 / 획득 / 무게 제한 설명",
         "id": 8002614,
         "alias": "UI.Option.Control.GetItem.LimitWeight.Info",
-        "text": "Debuff based on the weight of belongings\n50% to less than 65%: no auto-recovery\n65% to less than 80%: movement speed reduced\n80% to less than 90%: no auto-recovery\nmore than 90% : Skill cannot be used"
+        "text": "Debuff based on the weight of Inventory\n50% to less than 65%: no auto-recovery\n65% to less than 80%: movement speed reduced\n80% to less than 90%: no auto-recovery\nmore than 90% : Skill cannot be used"
     },
     "8002615": {
         "deprecated": false,
