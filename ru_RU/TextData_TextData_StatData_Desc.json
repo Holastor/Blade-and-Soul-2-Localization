@@ -1,0 +1,1367 @@
+{
+    "11001": {
+        "deprecated": false,
+        "Dev_Desc": "Strength",
+        "id": 11001,
+        "alias": "Contents.Stat.Desc.Strength",
+        "text": "Сила атаки в ближнем бою, пробивание на коротких дистанциях, точность на коротких дистанциях и защита увеличиваются для каждого установленного значения."
+    },
+    "11002": {
+        "deprecated": false,
+        "Dev_Desc": "Dexterity",
+        "id": 11002,
+        "alias": "Contents.Stat.Desc.Dexterity",
+        "text": "Сила атаки дальнего боя, проникновение дальнего боя, дальний удар и дополнительная сила атаки критического удара увеличиваются для каждого установленного значения."
+    },
+    "11003": {
+        "deprecated": false,
+        "Dev_Desc": "Intelligence",
+        "id": 11003,
+        "alias": "Contents.Stat.Desc.Intelligence",
+        "text": "Каждое число увеличивает силу атаки ци, проникновение ци, попадание ци и сопротивление контролю."
+    },
+    "11004": {
+        "deprecated": false,
+        "Dev_Desc": "Constitution",
+        "id": 11004,
+        "alias": "Contents.Stat.Desc.Constitution",
+        "text": "Определенное значение увеличивает здоровье, скорость восстановления зелий, сопротивление атакам и сопротивление души."
+    },
+    "11005": {
+        "deprecated": false,
+        "Dev_Desc": "Wisdom",
+        "id": 11005,
+        "alias": "Contents.Stat.Desc.Wisdom",
+        "text": "Для каждого определенного значения увеличивается сила, скорость активации души, усиление не-атаки и контроль силы."
+    },
+    "11006": {
+        "deprecated": false,
+        "Dev_Desc": "Agility",
+        "id": 11006,
+        "alias": "Contents.Stat.Desc.Agility",
+        "text": "Скорость критического удара, уклонение, скорость увеличения скорости передвижения и скорость базовой атаки увеличиваются на каждое определенное значение."
+    },
+    "11007": {
+        "deprecated": false,
+        "Dev_Desc": "ShortPhysicalAttack",
+        "id": 11007,
+        "alias": "Contents.Stat.Desc.ShortPhysicalAttack",
+        "text": "Урон в ближнем бою при атаке."
+    },
+    "11008": {
+        "deprecated": false,
+        "Dev_Desc": "LongPhysicalAttack",
+        "id": 11008,
+        "alias": "Contents.Stat.Desc.LongPhysicalAttack",
+        "text": "Это дальний урон, наносимый атакой."
+    },
+    "11009": {
+        "deprecated": false,
+        "Dev_Desc": "ForceAttack",
+        "id": 11009,
+        "alias": "Contents.Stat.Desc.ForceAttack",
+        "text": "Количество урона ци, нанесенного при атаке."
+    },
+    "11010": {
+        "deprecated": false,
+        "Dev_Desc": "Attack",
+        "id": 11010,
+        "alias": "Contents.Stat.Desc.Attack",
+        "text": "Увеличивает все виды повреждений."
+    },
+    "11011": {
+        "deprecated": false,
+        "Dev_Desc": "WeaponAttack",
+        "id": 11011,
+        "alias": "Contents.Stat.Desc.WeaponAttack",
+        "text": "Урон, который увеличивается при использовании оружия."
+    },
+    "11012": {
+        "deprecated": false,
+        "Dev_Desc": "WeaponAttackRate",
+        "id": 11012,
+        "alias": "Contents.Stat.Desc.WeaponAttackRate",
+        "text": "Урон от оружия увеличен."
+    },
+    "11013": {
+        "deprecated": false,
+        "Dev_Desc": "WeaponAttackToleranceRate",
+        "id": 11013,
+        "alias": "Contents.Stat.Desc.WeaponAttackToleranceRate",
+        "text": "Вы получаете меньше урона от урона от оружия."
+    },
+    "11014": {
+        "deprecated": false,
+        "Dev_Desc": "AttackBonus",
+        "id": 11014,
+        "alias": "Contents.Stat.Desc.AttackBonus",
+        "text": "Дополнительно увеличивает урон оружия."
+    },
+    "11015": {
+        "deprecated": false,
+        "Dev_Desc": "AddAttackMin",
+        "id": 11015,
+        "alias": "Contents.Stat.Desc.AddAttackMin",
+        "text": "Увеличивает минимальный урон, наносимый при атаке."
+    },
+    "11016": {
+        "deprecated": false,
+        "Dev_Desc": "healingPower",
+        "id": 11016,
+        "alias": "Contents.Stat.Desc.healingPower",
+        "text": "Это стандартное значение количества жизней, восстанавливаемых при исцелении."
+    },
+    "11017": {
+        "deprecated": false,
+        "Dev_Desc": "healingPowerRate",
+        "id": 11017,
+        "alias": "Contents.Stat.Desc.healingPowerRate",
+        "text": "Исцеляющая сила увеличивается."
+    },
+    "11018": {
+        "deprecated": false,
+        "Dev_Desc": "SwordAttack",
+        "id": 11018,
+        "alias": "Contents.Stat.Desc.SwordAttack",
+        "text": "Урон, который увеличивается при использовании меча."
+    },
+    "11019": {
+        "deprecated": false,
+        "Dev_Desc": "GauntletAttack",
+        "id": 11019,
+        "alias": "Contents.Stat.Desc.GauntletAttack",
+        "text": "Урон, который увеличивается при ношении рукавиц."
+    },
+    "11020": {
+        "deprecated": false,
+        "Dev_Desc": "AxeAttack",
+        "id": 11020,
+        "alias": "Contents.Stat.Desc.AxeAttack",
+        "text": "Урон увеличивается при использовании топора."
+    },
+    "11021": {
+        "deprecated": false,
+        "Dev_Desc": "BangleAttack",
+        "id": 11021,
+        "alias": "Contents.Stat.Desc.BangleAttack",
+        "text": "Урон, который увеличивается при использовании плитки цигун."
+    },
+    "11022": {
+        "deprecated": false,
+        "Dev_Desc": "BowAttack",
+        "id": 11022,
+        "alias": "Contents.Stat.Desc.BowAttack",
+        "text": "Урон увеличивается при использовании лука."
+    },
+    "11023": {
+        "deprecated": false,
+        "Dev_Desc": "RitualBellAttack",
+        "id": 11023,
+        "alias": "Contents.Stat.Desc.RitualBellAttack",
+        "text": "Урон, который увеличивается при использовании Колокола Дхармы."
+    },
+    "11024": {
+        "deprecated": false,
+        "Dev_Desc": "ShortPhysicalPenetration",
+        "id": 11024,
+        "alias": "Contents.Stat.Desc.ShortPhysicalPenetration",
+        "text": "Снимает ближнюю защиту цели от рукопашных атак."
+    },
+    "11025": {
+        "deprecated": false,
+        "Dev_Desc": "LongPhysicalPenetration",
+        "id": 11025,
+        "alias": "Contents.Stat.Desc.LongPhysicalPenetration",
+        "text": "Смещает дальнюю защиту цели при атаке на расстоянии."
+    },
+    "11026": {
+        "deprecated": false,
+        "Dev_Desc": "ForcePenetration",
+        "id": 11026,
+        "alias": "Contents.Stat.Desc.ForcePenetration",
+        "text": "При атаке с помощью цигун защита цели нивелируется."
+    },
+    "11027": {
+        "deprecated": false,
+        "Dev_Desc": "Penetration",
+        "id": 11027,
+        "alias": "Contents.Stat.Desc.Penetration",
+        "text": "Увеличивает проникновение всех типов."
+    },
+    "11028": {
+        "deprecated": false,
+        "Dev_Desc": "ShortPhysicalHit",
+        "id": 11028,
+        "alias": "Contents.Stat.Desc.ShortPhysicalHit",
+        "text": "Увеличивает шанс попадания в рукопашную атаку."
+    },
+    "11029": {
+        "deprecated": false,
+        "Dev_Desc": "LongPhysicalHit",
+        "id": 11029,
+        "alias": "Contents.Stat.Desc.LongPhysicalHit",
+        "text": "Увеличивает шанс попадания дальнобойными атаками."
+    },
+    "11030": {
+        "deprecated": false,
+        "Dev_Desc": "ForceHit",
+        "id": 11030,
+        "alias": "Contents.Stat.Desc.ForceHit",
+        "text": "Увеличивает шанс поразить с помощью атак цигун."
+    },
+    "11031": {
+        "deprecated": false,
+        "Dev_Desc": "Hit",
+        "id": 11031,
+        "alias": "Contents.Stat.Desc.Hit",
+        "text": "Увеличивает все виды ударов."
+    },
+    "11032": {
+        "deprecated": false,
+        "Dev_Desc": "ShortPhysicalCriticalRate",
+        "id": 11032,
+        "alias": "Contents.Stat.Desc.ShortPhysicalCriticalRate",
+        "text": "Увеличивает шанс критического удара при атаке в ближнем бою."
+    },
+    "11033": {
+        "deprecated": false,
+        "Dev_Desc": "LongPhysicalCriticalRate",
+        "id": 11033,
+        "alias": "Contents.Stat.Desc.LongPhysicalCriticalRate",
+        "text": "Шанс критического удара увеличивается при дальних атаках."
+    },
+    "11034": {
+        "deprecated": false,
+        "Dev_Desc": "ForceCriticalRate",
+        "id": 11034,
+        "alias": "Contents.Stat.Desc.ForceCriticalRate",
+        "text": "Увеличивает шанс критического удара с помощью атак цигун."
+    },
+    "11035": {
+        "deprecated": false,
+        "Dev_Desc": "CriticalRate",
+        "id": 11035,
+        "alias": "Contents.Stat.Desc.CriticalRate",
+        "text": "Увеличивает шанс критического удара всех типов."
+    },
+    "11036": {
+        "deprecated": false,
+        "Dev_Desc": "CriticalAttack",
+        "id": 11036,
+        "alias": "Contents.Stat.Desc.CriticalAttack",
+        "text": "Дополнительный урон нанесен успешным критическим ударом."
+    },
+    "11037": {
+        "deprecated": false,
+        "Dev_Desc": "FatalAttack",
+        "id": 11037,
+        "alias": "Contents.Stat.Desc.FatalAttack",
+        "text": "Дополнительный урон, нанесенный успешной атакой слабости."
+    },
+    "11038": {
+        "deprecated": false,
+        "Dev_Desc": "BlockpenetrationAttack",
+        "id": 11038,
+        "alias": "Contents.Stat.Desc.BlockpenetrationAttack",
+        "text": "Дополнительный урон при успешном пробитии блока."
+    },
+    "11039": {
+        "deprecated": false,
+        "Dev_Desc": "DamagePure",
+        "id": 11039,
+        "alias": "Contents.Stat.Desc.DamagePure",
+        "text": "Урон, который не уменьшается защитой цели при атаке."
+    },
+    "11040": {
+        "deprecated": false,
+        "Dev_Desc": "ShortPhysicalAttackReduction",
+        "id": 11040,
+        "alias": "Contents.Stat.Desc.ShortPhysicalAttackReduction",
+        "text": "Это компенсирует рукопашную атаку."
+    },
+    "11041": {
+        "deprecated": false,
+        "Dev_Desc": "LongPhysicalAttackReduction",
+        "id": 11041,
+        "alias": "Contents.Stat.Desc.LongPhysicalAttackReduction",
+        "text": "Компенсирует силу атаки дальнего боя."
+    },
+    "11042": {
+        "deprecated": false,
+        "Dev_Desc": "ForceAttackReduction",
+        "id": 11042,
+        "alias": "Contents.Stat.Desc.ForceAttackReduction",
+        "text": "Это компенсирует ущерб, нанесенный цигун."
+    },
+    "11043": {
+        "deprecated": false,
+        "Dev_Desc": "AttackReduction",
+        "id": 11043,
+        "alias": "Contents.Stat.Desc.AttackReduction",
+        "text": "Повышает все виды самообороны."
+    },
+    "11044": {
+        "deprecated": false,
+        "Dev_Desc": "ShortPhysicalDefence",
+        "id": 11044,
+        "alias": "Contents.Stat.Desc.ShortPhysicalDefence",
+        "text": "Вы получаете меньше урона от рукопашных атак."
+    },
+    "11045": {
+        "deprecated": false,
+        "Dev_Desc": "LongPhysicalDefence",
+        "id": 11045,
+        "alias": "Contents.Stat.Desc.LongPhysicalDefence",
+        "text": "Вы получаете меньше урона от дальних атак."
+    },
+    "11046": {
+        "deprecated": false,
+        "Dev_Desc": "ForceDefence",
+        "id": 11046,
+        "alias": "Contents.Stat.Desc.ForceDefence",
+        "text": "Урон от атак цигун уменьшен."
+    },
+    "11047": {
+        "deprecated": false,
+        "Dev_Desc": "Defence",
+        "id": 11047,
+        "alias": "Contents.Stat.Desc.Defence",
+        "text": "Повышает все виды защиты."
+    },
+    "11048": {
+        "deprecated": false,
+        "Dev_Desc": "ShortPhysicalEvasion",
+        "id": 11048,
+        "alias": "Contents.Stat.Desc.ShortPhysicalEvasion",
+        "text": "Увеличивает шанс получить удар в рукопашной атаке."
+    },
+    "11049": {
+        "deprecated": false,
+        "Dev_Desc": "LongPhysicalEvasion",
+        "id": 11049,
+        "alias": "Contents.Stat.Desc.LongPhysicalEvasion",
+        "text": "Увеличивает шанс попасть в дальнюю атаку."
+    },
+    "11050": {
+        "deprecated": false,
+        "Dev_Desc": "ForceEvasion",
+        "id": 11050,
+        "alias": "Contents.Stat.Desc.ForceEvasion",
+        "text": "Увеличивает шанс получить удар цигун."
+    },
+    "11051": {
+        "deprecated": false,
+        "Dev_Desc": "Evasion",
+        "id": 11051,
+        "alias": "Contents.Stat.Desc.Evasion",
+        "text": "Увеличивает уклонение всех типов."
+    },
+    "11052": {
+        "deprecated": false,
+        "Dev_Desc": "ShortPhysicalCriticalResistanceRate",
+        "id": 11052,
+        "alias": "Contents.Stat.Desc.ShortPhysicalCriticalResistanceRate",
+        "text": "Это компенсирует уровень смертности при получении рукопашной атаки."
+    },
+    "11053": {
+        "deprecated": false,
+        "Dev_Desc": "LongPhysicalCriticalResistanceRate",
+        "id": 11053,
+        "alias": "Contents.Stat.Desc.LongPhysicalCriticalResistanceRate",
+        "text": "Это компенсирует уровень смертности при получении дальнобойных атак."
+    },
+    "11054": {
+        "deprecated": false,
+        "Dev_Desc": "ForceCriticalResistanceRate",
+        "id": 11054,
+        "alias": "Contents.Stat.Desc.ForceCriticalResistanceRate",
+        "text": "Это компенсирует уровень смертности при получении атак цигун."
+    },
+    "11055": {
+        "deprecated": false,
+        "Dev_Desc": "CriticalResistanceRate",
+        "id": 11055,
+        "alias": "Contents.Stat.Desc.CriticalResistanceRate",
+        "text": "Повышает критическое сопротивление всех типов."
+    },
+    "11056": {
+        "deprecated": false,
+        "Dev_Desc": "CriticalAttackReduction",
+        "id": 11056,
+        "alias": "Contents.Stat.Desc.CriticalAttackReduction",
+        "text": "Критические удары компенсируют полученный дополнительный урон."
+    },
+    "11057": {
+        "deprecated": false,
+        "Dev_Desc": "FatalAttackReduction",
+        "id": 11057,
+        "alias": "Contents.Stat.Desc.FatalAttackReduction",
+        "text": "Компенсирует дополнительный урон, получаемый от атак слабости."
+    },
+    "11058": {
+        "deprecated": false,
+        "Dev_Desc": "BlockpenetrationAttackReduction",
+        "id": 11058,
+        "alias": "Contents.Stat.Desc.BlockpenetrationAttackReduction",
+        "text": "Увеличивает урон, получаемый от Block Penetration."
+    },
+    "11059": {
+        "deprecated": false,
+        "Dev_Desc": "ReduceDamagePure",
+        "id": 11059,
+        "alias": "Contents.Stat.Desc.ReduceDamagePure",
+        "text": "Компенсирует дополнительный урон, полученный от атак, игнорирующих защиту."
+    },
+    "11060": {
+        "deprecated": false,
+        "Dev_Desc": "HP",
+        "id": 11060,
+        "alias": "Contents.Stat.Desc.HP",
+        "text": "Если ваше здоровье достигнет 0, вы умрете."
+    },
+    "11061": {
+        "deprecated": false,
+        "Dev_Desc": "HPRate",
+        "id": 11061,
+        "alias": "Contents.Stat.Desc.HPRate",
+        "text": "Ваше здоровье увеличилось."
+    },
+    "11062": {
+        "deprecated": false,
+        "Dev_Desc": "Focus",
+        "id": 11062,
+        "alias": "Contents.Stat.Desc.Focus",
+        "text": "Ресурсы, которые уменьшаются при использовании боевых искусств."
+    },
+    "11063": {
+        "deprecated": false,
+        "Dev_Desc": "Stamina",
+        "id": 11063,
+        "alias": "Contents.Stat.Desc.Stamina",
+        "text": "Ресурс, который уменьшается при использовании легкой атаки или блокирования атаки."
+    },
+    "11064": {
+        "deprecated": false,
+        "Dev_Desc": "RegenerationHP",
+        "id": 11064,
+        "alias": "Contents.Stat.Desc.RegenerationHP",
+        "text": "HP, восстанавливаемое за единицу времени, увеличивается."
+    },
+    "11065": {
+        "deprecated": false,
+        "Dev_Desc": "FixedRegenerationHP",
+        "id": 11065,
+        "alias": "Contents.Stat.Desc.FixedRegenerationHP",
+        "text": "Независимо от веса владения, количество HP, восстанавливаемое за единицу времени, увеличивается."
+    },
+    "11066": {
+        "deprecated": false,
+        "Dev_Desc": "RegenerationFocus",
+        "id": 11066,
+        "alias": "Contents.Stat.Desc.RegenerationFocus",
+        "text": "Сила, восстанавливаемая в единицу времени, увеличивается."
+    },
+    "11067": {
+        "deprecated": false,
+        "Dev_Desc": "FixedRegenerationFocus",
+        "id": 11067,
+        "alias": "Contents.Stat.Desc.FixedRegenerationFocus",
+        "text": "Независимо от вашего веса, сила, восстанавливаемая за единицу времени, увеличивается."
+    },
+    "11068": {
+        "deprecated": false,
+        "Dev_Desc": "ControlFocus",
+        "id": 11068,
+        "alias": "Contents.Stat.Desc.ControlFocus",
+        "text": "Сила, потребляемая при использовании боевых искусств, уменьшается."
+    },
+    "11069": {
+        "deprecated": false,
+        "Dev_Desc": "RegenerationStamina",
+        "id": 11069,
+        "alias": "Contents.Stat.Desc.RegenerationStamina",
+        "text": "Энергия, рекуперированная в единицу времени, увеличивается."
+    },
+    "11070": {
+        "deprecated": false,
+        "Dev_Desc": "HPPotionRecovery",
+        "id": 11070,
+        "alias": "Contents.Stat.Desc.HPPotionRecovery",
+        "text": "Количество восстановления увеличивается при использовании зелья восстановления жизни."
+    },
+    "11071": {
+        "deprecated": false,
+        "Dev_Desc": "HPPotionRecoveryRate",
+        "id": 11071,
+        "alias": "Contents.Stat.Desc.HPPotionRecoveryRate",
+        "text": "При использовании зелья восстановления здоровья количество восстановления увеличивается на определенный процент."
+    },
+    "11072": {
+        "deprecated": false,
+        "Dev_Desc": "NormalAttackSpeed",
+        "id": 11072,
+        "alias": "Contents.Stat.Desc.NormalAttackSpeed",
+        "text": "Увеличивает количество базовых атак в единицу времени."
+    },
+    "11073": {
+        "deprecated": false,
+        "Dev_Desc": "ActiveAttackSpeed",
+        "id": 11073,
+        "alias": "Contents.Stat.Desc.ActiveAttackSpeed",
+        "text": "Количество атак в единицу времени увеличивается."
+    },
+    "11074": {
+        "deprecated": false,
+        "Dev_Desc": "SkillDamage",
+        "id": 11074,
+        "alias": "Contents.Stat.Desc.SkillDamage",
+        "text": "Увеличенный урон без атаки."
+    },
+    "11075": {
+        "deprecated": false,
+        "Dev_Desc": "ReduceSkillDamage",
+        "id": 11075,
+        "alias": "Contents.Stat.Desc.ReduceSkillDamage",
+        "text": "Урон, получаемый при отсутствии атаки, уменьшается."
+    },
+    "11076": {
+        "deprecated": false,
+        "Dev_Desc": "CutPartsDamageRate",
+        "id": 11076,
+        "alias": "Contents.Stat.Desc.CutPartsDamageRate",
+        "text": "При атаке слабости босса урон разрушающей части жизни увеличивается."
+    },
+    "11077": {
+        "deprecated": false,
+        "Dev_Desc": "StrikePartsDamageRate",
+        "id": 11077,
+        "alias": "Contents.Stat.Desc.StrikePartsDamageRate",
+        "text": "При атаке слабости босса, урон части разрушения (попадания) здоровья увеличивается."
+    },
+    "11078": {
+        "deprecated": false,
+        "Dev_Desc": "ControlHPDamageRate",
+        "id": 11078,
+        "alias": "Contents.Stat.Desc.ControlHPDamageRate",
+        "text": "При атаке слабости босса урон контролируемой жизни увеличивается."
+    },
+    "11079": {
+        "deprecated": false,
+        "Dev_Desc": "DamageRate",
+        "id": 11079,
+        "alias": "Contents.Stat.Desc.DamageRate",
+        "text": "Увеличивает наносимый урон."
+    },
+    "11080": {
+        "deprecated": false,
+        "Dev_Desc": "ReduceTakenDamageRate",
+        "id": 11080,
+        "alias": "Contents.Stat.Desc.ReduceTakenDamageRate",
+        "text": "Получаемый урон уменьшен."
+    },
+    "11081": {
+        "deprecated": false,
+        "Dev_Desc": "HealRate",
+        "id": 11081,
+        "alias": "Contents.Stat.Desc.HealRate",
+        "text": "Увеличивает количество исцеления."
+    },
+    "11082": {
+        "deprecated": false,
+        "Dev_Desc": "TakenHealRate",
+        "id": 11082,
+        "alias": "Contents.Stat.Desc.TakenHealRate",
+        "text": "Увеличивает количество получаемого вами исцеления."
+    },
+    "11083": {
+        "deprecated": false,
+        "Dev_Desc": "Block",
+        "id": 11083,
+        "alias": "Contents.Stat.Desc.Block",
+        "text": "Увеличивает ваш шанс заблокировать получаемую вами атаку."
+    },
+    "11084": {
+        "deprecated": false,
+        "Dev_Desc": "Blockpenetration",
+        "id": 11084,
+        "alias": "Contents.Stat.Desc.Blockpenetration",
+        "text": "Увеличивает шанс успешного пробития блока."
+    },
+    "11085": {
+        "deprecated": false,
+        "Dev_Desc": "ParryRate",
+        "id": 11085,
+        "alias": "Contents.Stat.Desc.ParryRate",
+        "text": "Увеличивает шанс отражения входящих атак."
+    },
+    "11086": {
+        "deprecated": false,
+        "Dev_Desc": "ParryResistanceRate",
+        "id": 11086,
+        "alias": "Contents.Stat.Desc.ParryResistanceRate",
+        "text": "Смещает показатель отказов цели при атаке."
+    },
+    "11087": {
+        "deprecated": false,
+        "Dev_Desc": "SoulRate",
+        "id": 11087,
+        "alias": "Contents.Stat.Desc.SoulRate",
+        "text": "Увеличивает шанс активации Души при атаке."
+    },
+    "11088": {
+        "deprecated": false,
+        "Dev_Desc": "SoulResistanceRate",
+        "id": 11088,
+        "alias": "Contents.Stat.Desc.SoulResistanceRate",
+        "text": "При атаке скорость активации души атакующего компенсируется."
+    },
+    "11089": {
+        "deprecated": false,
+        "Dev_Desc": "IncreaseSoulRate",
+        "id": 11089,
+        "alias": "Contents.Stat.Desc.IncreaseSoulRate",
+        "text": "Скорость активации души увеличивается."
+    },
+    "11090": {
+        "deprecated": false,
+        "Dev_Desc": "ReduceDamageRateMiss",
+        "id": 11090,
+        "alias": "Contents.Stat.Desc.ReduceDamageRateMiss",
+        "text": "Получаемый урон уменьшается, если полученная атака промахивается."
+    },
+    "11091": {
+        "deprecated": false,
+        "Dev_Desc": "ReduceDamageRateBlock",
+        "id": 11091,
+        "alias": "Contents.Stat.Desc.ReduceDamageRateBlock",
+        "text": "Когда вы блокируете атаку, вы получаете меньше урона."
+    },
+    "11092": {
+        "deprecated": false,
+        "Dev_Desc": "ReduceDamageRateParry",
+        "id": 11092,
+        "alias": "Contents.Stat.Desc.ReduceDamageRateParry",
+        "text": "Получаемый урон уменьшается при отражении атаки."
+    },
+    "11093": {
+        "deprecated": false,
+        "Dev_Desc": "Unyieldingness",
+        "id": 11093,
+        "alias": "Contents.Stat.Desc.Unyieldingness",
+        "text": "Урон, получаемый подряд во время PVP-сражений, уменьшен."
+    },
+    "11094": {
+        "deprecated": false,
+        "Dev_Desc": "CentralAttack",
+        "id": 11094,
+        "alias": "Contents.Stat.Desc.CentralAttack",
+        "text": "В PVP-сражениях эффект сфокусированной атаки на цель увеличивается."
+    },
+    "11095": {
+        "deprecated": false,
+        "Dev_Desc": "CentralAttackResistance",
+        "id": 11095,
+        "alias": "Contents.Stat.Desc.CentralAttackResistance",
+        "text": "Это компенсирует эффект сконцентрированной атаки, полученный во время сражений PVP."
+    },
+    "11096": {
+        "deprecated": false,
+        "Dev_Desc": "ShortPhysicalDefenceProbability",
+        "id": 11096,
+        "alias": "Contents.Stat.Desc.ShortPhysicalDefenceProbability",
+        "text": "При получении рукопашной атаки окончательная скорость защиты увеличивается."
+    },
+    "11097": {
+        "deprecated": false,
+        "Dev_Desc": "LongPhysicalDefenceProbability",
+        "id": 11097,
+        "alias": "Contents.Stat.Desc.LongPhysicalDefenceProbability",
+        "text": "При получении атаки дальнего боя окончательная скорость защиты увеличивается."
+    },
+    "11098": {
+        "deprecated": false,
+        "Dev_Desc": "ForceDefenceProbability",
+        "id": 11098,
+        "alias": "Contents.Stat.Desc.ForceDefenceProbability",
+        "text": "Ваша последняя защита увеличивается, когда вы получаете атаку цигун."
+    },
+    "11099": {
+        "deprecated": false,
+        "Dev_Desc": "ShortPhysicalPenetrationProbability",
+        "id": 11099,
+        "alias": "Contents.Stat.Desc.ShortPhysicalPenetrationProbability",
+        "text": "Окончательный показатель защиты защитника компенсируется при атаке с близкого расстояния."
+    },
+    "11100": {
+        "deprecated": false,
+        "Dev_Desc": "LongPhysicalPenetrationProbability",
+        "id": 11100,
+        "alias": "Contents.Stat.Desc.LongPhysicalPenetrationProbability",
+        "text": "Смещает окончательную скорость защиты защитника при атаке на расстоянии."
+    },
+    "11101": {
+        "deprecated": false,
+        "Dev_Desc": "ForcePenetrationProbability",
+        "id": 11101,
+        "alias": "Contents.Stat.Desc.ForcePenetrationProbability",
+        "text": "При атаке цигун окончательная защита защищающегося компенсируется."
+    },
+    "11102": {
+        "deprecated": false,
+        "Dev_Desc": "ShortPhysicalHitProbability",
+        "id": 11102,
+        "alias": "Contents.Stat.Desc.ShortPhysicalHitProbability",
+        "text": "Увеличен шанс финального попадания для рукопашных атак."
+    },
+    "11103": {
+        "deprecated": false,
+        "Dev_Desc": "LongPhysicalHitProbability",
+        "id": 11103,
+        "alias": "Contents.Stat.Desc.LongPhysicalHitProbability",
+        "text": "Увеличен шанс финального попадания при атаке с расстояния."
+    },
+    "11104": {
+        "deprecated": false,
+        "Dev_Desc": "ForceHitProbability",
+        "id": 11104,
+        "alias": "Contents.Stat.Desc.ForceHitProbability",
+        "text": "Увеличивает шанс финального удара при атаке цигун."
+    },
+    "11105": {
+        "deprecated": false,
+        "Dev_Desc": "ShortPhysicalEvasionProbability",
+        "id": 11105,
+        "alias": "Contents.Stat.Desc.ShortPhysicalEvasionProbability",
+        "text": "При атаке в ближнем бою это снижает шанс последнего попадания атакующего."
+    },
+    "11106": {
+        "deprecated": false,
+        "Dev_Desc": "LongPhysicalEvasionProbability",
+        "id": 11106,
+        "alias": "Contents.Stat.Desc.LongPhysicalEvasionProbability",
+        "text": "При атаке дальнего боя это сводит на нет последний шанс атакующего нанести удар."
+    },
+    "11107": {
+        "deprecated": false,
+        "Dev_Desc": "ForceEvasionProbability",
+        "id": 11107,
+        "alias": "Contents.Stat.Desc.ForceEvasionProbability",
+        "text": "Принимая атаку цигун, она сводит на нет последний шанс атакующего нанести удар."
+    },
+    "11108": {
+        "deprecated": false,
+        "Dev_Desc": "ControlAttack",
+        "id": 11108,
+        "alias": "Contents.Stat.Desc.ControlAttack",
+        "text": "Когда контрольная атака успешна, продолжительность контроля увеличивается."
+    },
+    "11109": {
+        "deprecated": false,
+        "Dev_Desc": "ControlDefence",
+        "id": 11109,
+        "alias": "Contents.Stat.Desc.ControlDefence",
+        "text": "Когда вы контролируете ситуацию, продолжительность контроля сокращается."
+    },
+    "11110": {
+        "deprecated": false,
+        "Dev_Desc": "ControlHitRate",
+        "id": 11110,
+        "alias": "Contents.Stat.Desc.ControlHitRate",
+        "text": "Увеличивает шанс успеха в управлении."
+    },
+    "11111": {
+        "deprecated": false,
+        "Dev_Desc": "ControlResistanceRate",
+        "id": 11111,
+        "alias": "Contents.Stat.Desc.ControlResistanceRate",
+        "text": "Ваш шанс получить контроль снижен."
+    },
+    "11112": {
+        "deprecated": false,
+        "Dev_Desc": "TauntHitRate",
+        "id": 11112,
+        "alias": "Contents.Stat.Desc.TauntHitRate",
+        "text": "Увеличивает шанс успеха насмешек."
+    },
+    "11113": {
+        "deprecated": false,
+        "Dev_Desc": "TauntResistanceRate",
+        "id": 11113,
+        "alias": "Contents.Stat.Desc.TauntResistanceRate",
+        "text": "Ваш шанс получить насмешку уменьшен."
+    },
+    "11114": {
+        "deprecated": false,
+        "Dev_Desc": "SlowdownHitRate",
+        "id": 11114,
+        "alias": "Contents.Stat.Desc.SlowdownHitRate",
+        "text": "Увеличивает шанс замедления на успех."
+    },
+    "11115": {
+        "deprecated": false,
+        "Dev_Desc": "SlowdownResistanceRate",
+        "id": 11115,
+        "alias": "Contents.Stat.Desc.SlowdownResistanceRate",
+        "text": "Ваш шанс замедлиться снижен."
+    },
+    "11116": {
+        "deprecated": false,
+        "Dev_Desc": "FrozenHitRate",
+        "id": 11116,
+        "alias": "Contents.Stat.Desc.FrozenHitRate",
+        "text": "Увеличивает шанс заморозки успеха."
+    },
+    "11117": {
+        "deprecated": false,
+        "Dev_Desc": "FrozenResistanceRate",
+        "id": 11117,
+        "alias": "Contents.Stat.Desc.FrozenResistanceRate",
+        "text": "Вероятность заморозки снижена."
+    },
+    "11118": {
+        "deprecated": false,
+        "Dev_Desc": "FlinchHitRate",
+        "id": 11118,
+        "alias": "Contents.Stat.Desc.FlinchHitRate",
+        "text": "Увеличивает шанс успеха Жесткости."
+    },
+    "11119": {
+        "deprecated": false,
+        "Dev_Desc": "FlinchResistanceRate",
+        "id": 11119,
+        "alias": "Contents.Stat.Desc.FlinchResistanceRate",
+        "text": "Шанс задохнуться снижается."
+    },
+    "11120": {
+        "deprecated": false,
+        "Dev_Desc": "BurnHitRate",
+        "id": 11120,
+        "alias": "Contents.Stat.Desc.BurnHitRate",
+        "text": "Увеличивает шанс получения ожогов."
+    },
+    "11121": {
+        "deprecated": false,
+        "Dev_Desc": "BurnResistanceRate",
+        "id": 11121,
+        "alias": "Contents.Stat.Desc.BurnResistanceRate",
+        "text": "Ваш шанс получить ожог снижен."
+    },
+    "11122": {
+        "deprecated": false,
+        "Dev_Desc": "BleedingHitRate",
+        "id": 11122,
+        "alias": "Contents.Stat.Desc.BleedingHitRate",
+        "text": "Увеличивает шанс кровотечения."
+    },
+    "11123": {
+        "deprecated": false,
+        "Dev_Desc": "BleedingResistanceRate",
+        "id": 11123,
+        "alias": "Contents.Stat.Desc.BleedingResistanceRate",
+        "text": "Ваш шанс заразиться кровотечением снижен."
+    },
+    "11124": {
+        "deprecated": false,
+        "Dev_Desc": "MovementSpeed",
+        "id": 11124,
+        "alias": "Contents.Stat.Desc.MovementSpeed",
+        "text": "Увеличивает скорость ходьбы и скорость плавания."
+    },
+    "11125": {
+        "deprecated": false,
+        "Dev_Desc": "SwimSpeed",
+        "id": 11125,
+        "alias": "Contents.Stat.Desc.SwimSpeed",
+        "text": "Скорость плавания увеличивается."
+    },
+    "11126": {
+        "deprecated": false,
+        "Dev_Desc": "WalkSpeed",
+        "id": 11126,
+        "alias": "Contents.Stat.Desc.WalkSpeed",
+        "text": "Увеличивает скорость ходьбы."
+    },
+    "11127": {
+        "deprecated": false,
+        "Dev_Desc": "WeightMax",
+        "id": 11127,
+        "alias": "Contents.Stat.Desc.WeightMax",
+        "text": "Максимальный вес вещей, которые вы можете носить в сумке."
+    },
+    "11128": {
+        "deprecated": false,
+        "Dev_Desc": "RateGold",
+        "id": 11128,
+        "alias": "Contents.Stat.Desc.RateGold",
+        "text": "Увеличивает количество заработанного золота."
+    },
+    "11129": {
+        "deprecated": false,
+        "Dev_Desc": "RateExp",
+        "id": 11129,
+        "alias": "Contents.Stat.Desc.RateExp",
+        "text": "Прирост опыта увеличивается."
+    },
+    "11130": {
+        "deprecated": false,
+        "Dev_Desc": "ReduceSEConsumption",
+        "id": 11130,
+        "alias": "Contents.Stat.Desc.ReduceSEConsumption",
+        "text": "Потребление Рейки снижено."
+    },
+    "11131": {
+        "deprecated": false,
+        "Dev_Desc": "SEFillingAmount",
+        "id": 11131,
+        "alias": "Contents.Stat.Desc.SEFillingAmount",
+        "text": "Увеличивает заряд ауры."
+    },
+    "11132": {
+        "deprecated": false,
+        "Dev_Desc": "ReduceHealRate",
+        "id": 11132,
+        "alias": "Contents.Stat.Desc.ReduceHealRate",
+        "text": "Исцеление уменьшается."
+    },
+    "11133": {
+        "deprecated": false,
+        "Dev_Desc": "ReduceTakenHealRate",
+        "id": 11133,
+        "alias": "Contents.Stat.Desc.ReduceTakenHealRate",
+        "text": "Полученное исцеление уменьшено."
+    },
+    "11134": {
+        "deprecated": false,
+        "Dev_Desc": "ReduceDamageRate",
+        "id": 11134,
+        "alias": "Contents.Stat.Desc.ReduceDamageRate",
+        "text": "Наносимый урон уменьшен."
+    },
+    "11135": {
+        "deprecated": false,
+        "Dev_Desc": "TakenDamageRate",
+        "id": 11135,
+        "alias": "Contents.Stat.Desc.TakenDamageRate",
+        "text": "Увеличивает получаемый урон."
+    },
+    "11136": {
+        "deprecated": false,
+        "Dev_Desc": "ReduceNormalAttackSpeed",
+        "id": 11136,
+        "alias": "Contents.Stat.Desc.ReduceNormalAttackSpeed",
+        "text": "Количество базовых атак в единицу времени уменьшается."
+    },
+    "11137": {
+        "deprecated": false,
+        "Dev_Desc": "ReduceActiveAttackSpeed",
+        "id": 11137,
+        "alias": "Contents.Stat.Desc.ReduceActiveAttackSpeed",
+        "text": "Количество не атакующих атак в единицу времени уменьшено."
+    },
+    "11138": {
+        "deprecated": false,
+        "Dev_Desc": "ReduceHpPotionRecovery",
+        "id": 11138,
+        "alias": "Contents.Stat.Desc.ReduceHpPotionRecovery",
+        "text": "При использовании зелья восстановления здоровья количество восстановления зелья компенсируется."
+    },
+    "11139": {
+        "deprecated": false,
+        "Dev_Desc": "ReduceHpPotionRecoveryRate",
+        "id": 11139,
+        "alias": "Contents.Stat.Desc.ReduceHpPotionRecoveryRate",
+        "text": "Если вы используете зелье восстановления здоровья, скорость восстановления зелья компенсируется."
+    },
+    "11140": {
+        "deprecated": false,
+        "Dev_Desc": "ReduceMovementSpeed",
+        "id": 11140,
+        "alias": "Contents.Stat.Desc.ReduceMovementSpeed",
+        "text": "Снижены скорость ходьбы и скорость плавания."
+    },
+    "11141": {
+        "deprecated": false,
+        "Dev_Desc": "ReduceSwimSpeed",
+        "id": 11141,
+        "alias": "Contents.Stat.Desc.ReduceSwimSpeed",
+        "text": "Ваша скорость плавания снижена."
+    },
+    "11142": {
+        "deprecated": false,
+        "Dev_Desc": "ReduceWalkSpeed",
+        "id": 11142,
+        "alias": "Contents.Stat.Desc.ReduceWalkSpeed",
+        "text": "Скорость ходьбы снижена."
+    },
+    "11143": {
+        "deprecated": false,
+        "Dev_Desc": "PvPAttack",
+        "id": 11143,
+        "alias": "Contents.Stat.Desc.PvPAttack",
+        "text": "Дополнительная сила атаки, применяемая в боях PVP."
+    },
+    "11144": {
+        "deprecated": false,
+        "Dev_Desc": "PvPAttackReduction",
+        "id": 11144,
+        "alias": "Contents.Stat.Desc.PvPAttackReduction",
+        "text": "Это дополнительная самооборона, применяемая во время PVP-сражений."
+    },
+    "11145": {
+        "deprecated": false,
+        "Dev_Desc": "PvPDefence",
+        "id": 11145,
+        "alias": "Contents.Stat.Desc.PvPDefence",
+        "text": "Это дополнительная защита, применяемая в сражениях PVP."
+    },
+    "11146": {
+        "deprecated": false,
+        "Dev_Desc": "PvPPenetration",
+        "id": 11146,
+        "alias": "Contents.Stat.Desc.PvPPenetration",
+        "text": "Это дополнительное проникновение, применяемое в боях PVP."
+    },
+    "11147": {
+        "deprecated": false,
+        "Dev_Desc": "PvPHit",
+        "id": 11147,
+        "alias": "Contents.Stat.Desc.PvPHit",
+        "text": "Это дополнительный удар, применяемый в боях PVP."
+    },
+    "11148": {
+        "deprecated": false,
+        "Dev_Desc": "PvPEvasion",
+        "id": 11148,
+        "alias": "Contents.Stat.Desc.PvPEvasion",
+        "text": "Дополнительное уклонение, применяемое в боях PVP."
+    },
+    "11149": {
+        "deprecated": false,
+        "Dev_Desc": "PvPCriticalRate",
+        "id": 11149,
+        "alias": "Contents.Stat.Desc.PvPCriticalRate",
+        "text": "Это дополнительная критическая скорость, применяемая в боях PVP."
+    },
+    "11150": {
+        "deprecated": false,
+        "Dev_Desc": "PvPCriticalResistanceRate",
+        "id": 11150,
+        "alias": "Contents.Stat.Desc.PvPCriticalResistanceRate",
+        "text": "Это дополнительное критическое сопротивление, применяемое в сражениях PVP."
+    },
+    "11151": {
+        "deprecated": false,
+        "Dev_Desc": "PvEAttack",
+        "id": 11151,
+        "alias": "Contents.Stat.Desc.PvEAttack",
+        "text": "Дополнительная сила атаки, применяемая во время сражений PVE."
+    },
+    "11152": {
+        "deprecated": false,
+        "Dev_Desc": "PvEAttackReduction",
+        "id": 11152,
+        "alias": "Contents.Stat.Desc.PvEAttackReduction",
+        "text": "Это дополнительная самооборона, применяемая во время PVE-сражений."
+    },
+    "11153": {
+        "deprecated": false,
+        "Dev_Desc": "PvEDefence",
+        "id": 11153,
+        "alias": "Contents.Stat.Desc.PvEDefence",
+        "text": "Дополнительная защита применяется во время PVE-сражений."
+    },
+    "11154": {
+        "deprecated": false,
+        "Dev_Desc": "PvEPenetration",
+        "id": 11154,
+        "alias": "Contents.Stat.Desc.PvEPenetration",
+        "text": "В бою PVE применяется дополнительное проникновение."
+    },
+    "11155": {
+        "deprecated": false,
+        "Dev_Desc": "PvEHit",
+        "id": 11155,
+        "alias": "Contents.Stat.Desc.PvEHit",
+        "text": "Это дополнительный удар, применяемый в битвах PVE."
+    },
+    "11156": {
+        "deprecated": false,
+        "Dev_Desc": "PvEEvasion",
+        "id": 11156,
+        "alias": "Contents.Stat.Desc.PvEEvasion",
+        "text": "Дополнительное уклонение во время PVE-сражений."
+    },
+    "11157": {
+        "deprecated": false,
+        "Dev_Desc": "PvECriticalRate",
+        "id": 11157,
+        "alias": "Contents.Stat.Desc.PvECriticalRate",
+        "text": "Это дополнительная критическая скорость, применяемая в битвах PVE."
+    },
+    "11158": {
+        "deprecated": false,
+        "Dev_Desc": "PvECriticalResistanceRate",
+        "id": 11158,
+        "alias": "Contents.Stat.Desc.PvECriticalResistanceRate",
+        "text": "Это дополнительное критическое сопротивление, применяемое в битвах PVE."
+    },
+    "11159": {
+        "deprecated": false,
+        "Dev_Desc": "BossAttack",
+        "id": 11159,
+        "alias": "Contents.Stat.Desc.BossAttack",
+        "text": "Дополнительная сила атаки, применяемая во время битв с боссами."
+    },
+    "11160": {
+        "deprecated": false,
+        "Dev_Desc": "BossAttackReduction",
+        "id": 11160,
+        "alias": "Contents.Stat.Desc.BossAttackReduction",
+        "text": "Это дополнительная самооборона, применяемая во время битв с боссами."
+    },
+    "11161": {
+        "deprecated": false,
+        "Dev_Desc": "BossDefence",
+        "id": 11161,
+        "alias": "Contents.Stat.Desc.BossDefence",
+        "text": "Это дополнительная защита, применяемая во время битв с боссами."
+    },
+    "11162": {
+        "deprecated": false,
+        "Dev_Desc": "BossPenetration",
+        "id": 11162,
+        "alias": "Contents.Stat.Desc.BossPenetration",
+        "text": "Это дополнительное проникновение, применяемое во время битв с боссами."
+    },
+    "11163": {
+        "deprecated": false,
+        "Dev_Desc": "BossHit",
+        "id": 11163,
+        "alias": "Contents.Stat.Desc.BossHit",
+        "text": "Это дополнительный удар, применяемый во время битв с боссами."
+    },
+    "11164": {
+        "deprecated": false,
+        "Dev_Desc": "BossEvasion",
+        "id": 11164,
+        "alias": "Contents.Stat.Desc.BossEvasion",
+        "text": "Дополнительное уклонение, применяемое во время битв с боссами."
+    },
+    "11165": {
+        "deprecated": false,
+        "Dev_Desc": "BossCriticalRate",
+        "id": 11165,
+        "alias": "Contents.Stat.Desc.BossCriticalRate",
+        "text": "Это дополнительная критическая скорость, применяемая во время битв с боссами."
+    },
+    "11166": {
+        "deprecated": false,
+        "Dev_Desc": "BossCriticalResistanceRate",
+        "id": 11166,
+        "alias": "Contents.Stat.Desc.BossCriticalResistanceRate",
+        "text": "Это дополнительное критическое сопротивление, применяемое во время битв с боссами."
+    },
+    "11167": {
+        "deprecated": false,
+        "Dev_Desc": "FireDamage",
+        "id": 11167,
+        "alias": "Contents.Stat.Desc.FireDamage",
+        "text": "Наносит дополнительный урон огнем при активации элемента Огня Душа."
+    },
+    "11168": {
+        "deprecated": false,
+        "Dev_Desc": "WaterDamage",
+        "id": 11168,
+        "alias": "Contents.Stat.Desc.WaterDamage",
+        "text": "Наносит дополнительный урон водным свойствам, когда активируется душа водного свойства."
+    },
+    "11169": {
+        "deprecated": false,
+        "Dev_Desc": "WoodDamage",
+        "id": 11169,
+        "alias": "Contents.Stat.Desc.WoodDamage",
+        "text": "Наносит дополнительный урон шее, когда активирована душа элемента дерева."
+    },
+    "11170": {
+        "deprecated": false,
+        "Dev_Desc": "IronDamage",
+        "id": 11170,
+        "alias": "Contents.Stat.Desc.IronDamage",
+        "text": "Наносит дополнительный урон золотом, когда активирована душа золотого элемента."
+    },
+    "11171": {
+        "deprecated": false,
+        "Dev_Desc": "WindDamage",
+        "id": 11171,
+        "alias": "Contents.Stat.Desc.WindDamage",
+        "text": "Наносит дополнительный урон собственности ветра, когда активирована душа свойства ветра."
+    },
+    "11172": {
+        "deprecated": false,
+        "Dev_Desc": "LightningDamage",
+        "id": 11172,
+        "alias": "Contents.Stat.Desc.LightningDamage",
+        "text": "Наносит дополнительный урон мозгу, когда активирована душа свойства мозга."
+    },
+    "11173": {
+        "deprecated": false,
+        "Dev_Desc": "LightDamage",
+        "id": 11173,
+        "alias": "Contents.Stat.Desc.LightDamage",
+        "text": "Наносит дополнительный легкий урон собственности, когда активирована душа свойства имени."
+    },
+    "11174": {
+        "deprecated": false,
+        "Dev_Desc": "DarkDamage",
+        "id": 11174,
+        "alias": "Contents.Stat.Desc.DarkDamage",
+        "text": "Наносит дополнительный урон темной магией при активации Dark Soul."
+    },
+    "11175": {
+        "deprecated": false,
+        "Dev_Desc": "ElementDamage",
+        "id": 11175,
+        "alias": "Contents.Stat.Desc.ElementDamage",
+        "text": "Вся сила атаки стихий увеличивается."
+    },
+    "11176": {
+        "deprecated": false,
+        "Dev_Desc": "FireDamageRate",
+        "id": 11176,
+        "alias": "Contents.Stat.Desc.FireDamageRate",
+        "text": "Увеличивает материальный ущерб от огня."
+    },
+    "11177": {
+        "deprecated": false,
+        "Dev_Desc": "WaterDamageRate",
+        "id": 11177,
+        "alias": "Contents.Stat.Desc.WaterDamageRate",
+        "text": "Увеличивает наносимый урон водной собственности."
+    },
+    "11178": {
+        "deprecated": false,
+        "Dev_Desc": "WoodDamageRate",
+        "id": 11178,
+        "alias": "Contents.Stat.Desc.WoodDamageRate",
+        "text": "Увеличивает урон атрибутом шеи."
+    },
+    "11179": {
+        "deprecated": false,
+        "Dev_Desc": "IronDamageRate",
+        "id": 11179,
+        "alias": "Contents.Stat.Desc.IronDamageRate",
+        "text": "Увеличивает наносимый золотой урон."
+    },
+    "11180": {
+        "deprecated": false,
+        "Dev_Desc": "WindDamageRate",
+        "id": 11180,
+        "alias": "Contents.Stat.Desc.WindDamageRate",
+        "text": "Увеличивает повреждение собственности ветром."
+    },
+    "11181": {
+        "deprecated": false,
+        "Dev_Desc": "LightningDamageRate",
+        "id": 11181,
+        "alias": "Contents.Stat.Desc.LightningDamageRate",
+        "text": "Увеличивает нанесенный мозг."
+    },
+    "11182": {
+        "deprecated": false,
+        "Dev_Desc": "LightDamageRate",
+        "id": 11182,
+        "alias": "Contents.Stat.Desc.LightDamageRate",
+        "text": "Увеличивает нанесенный имущественный ущерб имени."
+    },
+    "11183": {
+        "deprecated": false,
+        "Dev_Desc": "DarkDamageRate",
+        "id": 11183,
+        "alias": "Contents.Stat.Desc.DarkDamageRate",
+        "text": "Увеличивает урон от рака."
+    },
+    "11184": {
+        "deprecated": false,
+        "Dev_Desc": "ElementDamageRate",
+        "id": 11184,
+        "alias": "Contents.Stat.Desc.ElementDamageRate",
+        "text": "Увеличивает усиление всего элементального урона."
+    },
+    "11185": {
+        "deprecated": false,
+        "Dev_Desc": "FireDamageToleranceRate",
+        "id": 11185,
+        "alias": "Contents.Stat.Desc.FireDamageToleranceRate",
+        "text": "Снижает получаемый урон от огня."
+    },
+    "11186": {
+        "deprecated": false,
+        "Dev_Desc": "WaterDamageToleranceRate",
+        "id": 11186,
+        "alias": "Contents.Stat.Desc.WaterDamageToleranceRate",
+        "text": "Уменьшает нанесенный ущерб водному имуществу."
+    },
+    "11187": {
+        "deprecated": false,
+        "Dev_Desc": "WoodDamageToleranceRate",
+        "id": 11187,
+        "alias": "Contents.Stat.Desc.WoodDamageToleranceRate",
+        "text": "Уменьшает получаемый урон шеи."
+    },
+    "11188": {
+        "deprecated": false,
+        "Dev_Desc": "IronDamageToleranceRate",
+        "id": 11188,
+        "alias": "Contents.Stat.Desc.IronDamageToleranceRate",
+        "text": "Уменьшает получаемый золотой урон."
+    },
+    "11189": {
+        "deprecated": false,
+        "Dev_Desc": "WindDamageToleranceRate",
+        "id": 11189,
+        "alias": "Contents.Stat.Desc.WindDamageToleranceRate",
+        "text": "Уменьшает повреждение имущества ветром."
+    },
+    "11190": {
+        "deprecated": false,
+        "Dev_Desc": "LightningDamageToleranceRate",
+        "id": 11190,
+        "alias": "Contents.Stat.Desc.LightningDamageToleranceRate",
+        "text": "Уменьшает полученные повреждения мозга."
+    },
+    "11191": {
+        "deprecated": false,
+        "Dev_Desc": "LightDamageToleranceRate",
+        "id": 11191,
+        "alias": "Contents.Stat.Desc.LightDamageToleranceRate",
+        "text": "Снижает размер полученного имущественного ущерба имени."
+    },
+    "11192": {
+        "deprecated": false,
+        "Dev_Desc": "DarkDamageToleranceRate",
+        "id": 11192,
+        "alias": "Contents.Stat.Desc.DarkDamageToleranceRate",
+        "text": "Уменьшает раковые повреждения."
+    },
+    "11193": {
+        "deprecated": false,
+        "Dev_Desc": "ElementDamageToleranceRate",
+        "id": 11193,
+        "alias": "Contents.Stat.Desc.ElementDamageToleranceRate",
+        "text": "Увеличивает сопротивление урону от всех стихий."
+    },
+    "11194": {
+        "deprecated": false,
+        "Dev_Desc": "ElementDamageValue",
+        "id": 11194,
+        "alias": "Contents.Stat.Desc.ElementDamageValue",
+        "text": "Атрибут урон, нанесенный при активации Души, усиливается."
+    },
+    "11195": {
+        "deprecated": false,
+        "Dev_Desc": "ElementDamageValueRate",
+        "id": 11195,
+        "alias": "Contents.Stat.Desc.ElementDamageValueRate",
+        "text": "Атрибут урон, нанесенный при активации Души, дополнительно усиливается."
+    }
+}

@@ -1,0 +1,1280 @@
+{
+    "60070000": {
+        "deprecated": false,
+        "Dev_Desc": "생령치유",
+        "id": 60070000,
+        "alias": "Contents.Skill.Name.RitualBell.7011",
+        "text": "Исцеление жизни"
+    },
+    "60070001": {
+        "deprecated": false,
+        "Dev_Desc": "생령치유",
+        "id": 60070001,
+        "alias": "Contents.Skill.Desc.RitualBell.7011",
+        "text": "Исцеляет цель, чтобы восстановить здоровье."
+    },
+    "60070002": {
+        "deprecated": false,
+        "Dev_Desc": "연섬뢰",
+        "id": 60070002,
+        "alias": "Contents.Skill.Name.RitualBell.7021",
+        "text": "Пушистая молния"
+    },
+    "60070003": {
+        "deprecated": false,
+        "Dev_Desc": "연섬뢰",
+        "id": 60070003,
+        "alias": "Contents.Skill.Desc.RitualBell.7021",
+        "text": "Мгновенно наносит множественный урон."
+    },
+    "60070004": {
+        "deprecated": false,
+        "Dev_Desc": "강섬뢰",
+        "id": 60070004,
+        "alias": "Contents.Skill.Name.RitualBell.7031",
+        "text": "Сильная молния"
+    },
+    "60070005": {
+        "deprecated": false,
+        "Dev_Desc": "강섬뢰",
+        "id": 60070005,
+        "alias": "Contents.Skill.Desc.RitualBell.7031",
+        "text": "Сильно атакует цель."
+    },
+    "60070006": {
+        "deprecated": false,
+        "Dev_Desc": "심판",
+        "id": 60070006,
+        "alias": "Contents.Skill.Name.RitualBell.7041",
+        "text": "Рефери"
+    },
+    "60070007": {
+        "deprecated": false,
+        "Dev_Desc": "심판",
+        "id": 60070007,
+        "alias": "Contents.Skill.Desc.RitualBell.7041",
+        "text": "Падает с неба, чтобы нанести мощный колющий удар."
+    },
+    "60070008": {
+        "deprecated": false,
+        "Dev_Desc": "심기일전",
+        "id": 60070008,
+        "alias": "Contents.Skill.Name.RitualBell.7051",
+        "text": "За день до посадки"
+    },
+    "60070009": {
+        "deprecated": false,
+        "Dev_Desc": "심기일전",
+        "id": 60070009,
+        "alias": "Contents.Skill.Desc.RitualBell.7051",
+        "text": "Увеличивает урон всех членов группы на 5 секунд."
+    },
+    "60070010": {
+        "deprecated": false,
+        "Dev_Desc": "연쇄치유",
+        "id": 60070010,
+        "alias": "Contents.Skill.Name.RitualBell.7061",
+        "text": "Цепное исцеление"
+    },
+    "60070011": {
+        "deprecated": false,
+        "Dev_Desc": "연쇄치유",
+        "id": 60070011,
+        "alias": "Contents.Skill.Desc.RitualBell.7061",
+        "text": "Лечит до 2-х ближайших членов группы подряд."
+    },
+    "60070012": {
+        "deprecated": false,
+        "Dev_Desc": "치유지대",
+        "id": 60070012,
+        "alias": "Contents.Skill.Name.RitualBell.7071",
+        "text": "Зона исцеления"
+    },
+    "60070013": {
+        "deprecated": false,
+        "Dev_Desc": "치유지대",
+        "id": 60070013,
+        "alias": "Contents.Skill.Desc.RitualBell.7071",
+        "text": "Помещает ящик рядом с целью, непрерывно исцеляя ближайших членов группы в течение 10 секунд."
+    },
+    "60070014": {
+        "deprecated": false,
+        "Dev_Desc": "수호",
+        "id": 60070014,
+        "alias": "Contents.Skill.Name.RitualBell.7081",
+        "text": "Хранитель"
+    },
+    "60070015": {
+        "deprecated": false,
+        "Dev_Desc": "수호",
+        "id": 60070015,
+        "alias": "Contents.Skill.Desc.RitualBell.7081",
+        "text": "Защищает цель божественной энергией, уменьшая получаемый урон на 25 секунд."
+    },
+    "60070016": {
+        "deprecated": false,
+        "Dev_Desc": "구원",
+        "id": 60070016,
+        "alias": "Contents.Skill.Name.RitualBell.7091",
+        "text": "Спасение"
+    },
+    "60070017": {
+        "deprecated": false,
+        "Dev_Desc": "구원",
+        "id": 60070017,
+        "alias": "Contents.Skill.Desc.RitualBell.7091",
+        "text": "Снимает некоторые вредные эффекты со всех членов группы и восстанавливает определенное количество HP."
+    },
+    "60070018": {
+        "deprecated": false,
+        "Dev_Desc": "청화",
+        "id": 60070018,
+        "alias": "Contents.Skill.Name.RitualBell.7101",
+        "text": "Голубой цветок"
+    },
+    "60070019": {
+        "deprecated": false,
+        "Dev_Desc": "청화",
+        "id": 60070019,
+        "alias": "Contents.Skill.Desc.RitualBell.7101",
+        "text": "Атакует цель силой благоприятного синего пламени."
+    },
+    "60070020": {
+        "deprecated": false,
+        "Dev_Desc": "우보법",
+        "id": 60070020,
+        "alias": "Contents.Skill.Name.RitualBell.7121",
+        "text": "Закон Вубо"
+    },
+    "60070021": {
+        "deprecated": false,
+        "Dev_Desc": "우보법",
+        "id": 60070021,
+        "alias": "Contents.Skill.Desc.RitualBell.7121",
+        "text": "Быстро движется к членам группы и лечит цель."
+    },
+    "60070022": {
+        "deprecated": false,
+        "Dev_Desc": "광명청음",
+        "id": 60070022,
+        "alias": "Contents.Skill.Name.RitualBell.7111",
+        "text": "Квангмён Слушает"
+    },
+    "60070023": {
+        "deprecated": false,
+        "Dev_Desc": "광명청음",
+        "id": 60070023,
+        "alias": "Contents.Skill.Desc.RitualBell.7111",
+        "text": "Окутывает всех членов группы божественным светом и звуком. Восстанавливает большое количество HP и защищает от повреждений в течение 5 секунд."
+    },
+    "60070024": {
+        "deprecated": false,
+        "Dev_Desc": "가호",
+        "id": 60070024,
+        "alias": "Contents.Skill.Name.RitualBell.7201",
+        "text": "гахо"
+    },
+    "60070025": {
+        "deprecated": false,
+        "Dev_Desc": "가호",
+        "id": 60070025,
+        "alias": "Contents.Skill.Desc.RitualBell.7201",
+        "text": "Благословение Небес увеличивает восстановление силы."
+    },
+    "60070026": {
+        "deprecated": false,
+        "Dev_Desc": "체화",
+        "id": 60070026,
+        "alias": "Contents.Skill.Name.RitualBell.7211",
+        "text": "воплощенный"
+    },
+    "60070027": {
+        "deprecated": false,
+        "Dev_Desc": "체화",
+        "id": 60070027,
+        "alias": "Contents.Skill.Desc.RitualBell.7211",
+        "text": "Увеличивает количество получаемого исцеления за счет включения в тело божественной энергии."
+    },
+    "60070028": {
+        "deprecated": false,
+        "Dev_Desc": "현자",
+        "id": 60070028,
+        "alias": "Contents.Skill.Name.RitualBell.7221",
+        "text": "мудрец"
+    },
+    "60070029": {
+        "deprecated": false,
+        "Dev_Desc": "현자",
+        "id": 60070029,
+        "alias": "Contents.Skill.Desc.RitualBell.7221",
+        "text": "Повышение мудрости и интеллекта с помощью глубокого мышления."
+    },
+    "60070030": {
+        "deprecated": false,
+        "Dev_Desc": "득음",
+        "id": 60070030,
+        "alias": "Contents.Skill.Name.RitualBell.7231",
+        "text": "Получил"
+    },
+    "60070031": {
+        "deprecated": false,
+        "Dev_Desc": "득음",
+        "id": 60070031,
+        "alias": "Contents.Skill.Desc.RitualBell.7231",
+        "text": "Просветление Инь наносит больший урон через колокол."
+    },
+    "60070032": {
+        "deprecated": false,
+        "Dev_Desc": "은총",
+        "id": 60070032,
+        "alias": "Contents.Skill.Name.RitualBell.7241",
+        "text": "благословение"
+    },
+    "60070033": {
+        "deprecated": false,
+        "Dev_Desc": "은총",
+        "id": 60070033,
+        "alias": "Contents.Skill.Desc.RitualBell.7241",
+        "text": "Исцеление от Благодати Небес увеличивается."
+    },
+    "60070034": {
+        "deprecated": false,
+        "Dev_Desc": "현기",
+        "id": 60070034,
+        "alias": "Contents.Skill.Name.RitualBell.7251",
+        "text": "головокружение"
+    },
+    "60070035": {
+        "deprecated": false,
+        "Dev_Desc": "현기",
+        "id": 60070035,
+        "alias": "Contents.Skill.Desc.RitualBell.7251",
+        "text": "Чем глубже вы понимаете исцеление, тем больше ваша целительная сила."
+    },
+    "60070036": {
+        "deprecated": false,
+        "Dev_Desc": "통달",
+        "id": 60070036,
+        "alias": "Contents.Skill.Name.RitualBell.7261",
+        "text": "Мастерство"
+    },
+    "60070037": {
+        "deprecated": false,
+        "Dev_Desc": "통달",
+        "id": 60070037,
+        "alias": "Contents.Skill.Desc.RitualBell.7261",
+        "text": "Властелин всех вещей помогает противостоять принудительному контролю."
+    },
+    "60070100": {
+        "deprecated": false,
+        "Dev_Desc": "생령치유_증폭_설명",
+        "id": 60070100,
+        "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7012",
+        "text": "Перезарядка -2 секунды"
+    },
+    "60070101": {
+        "deprecated": false,
+        "Dev_Desc": "생령치유_극한_설명",
+        "id": 60070101,
+        "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7013",
+        "text": "Исцелить дважды с определенным шансом"
+    },
+    "60070102": {
+        "deprecated": false,
+        "Dev_Desc": "생령치유_돌파_설명",
+        "id": 60070102,
+        "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7014",
+        "text": "Более высокий шанс излечиться вдвое"
+    },
+    "60070103": {
+        "deprecated": false,
+        "Dev_Desc": "연섬뢰_증폭_설명",
+        "id": 60070103,
+        "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7022",
+        "text": "Расход силы -1"
+    },
+    "60070104": {
+        "deprecated": false,
+        "Dev_Desc": "연섬뢰_극한_설명",
+        "id": 60070104,
+        "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7023",
+        "text": "Перезарядка -2 секунды"
+    },
+    "60070105": {
+        "deprecated": false,
+        "Dev_Desc": "연섬뢰_돌파_설명",
+        "id": 60070105,
+        "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7024",
+        "text": "Есть определенная вероятность, что есть шанс силы 99 при попадании"
+    },
+    "60070106": {
+        "deprecated": false,
+        "Dev_Desc": "강섬뢰_증폭_설명",
+        "id": 60070106,
+        "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7032",
+        "text": "Перезарядка -3 секунды"
+    },
+    "60070107": {
+        "deprecated": false,
+        "Dev_Desc": "강섬뢰_극한_설명",
+        "id": 60070107,
+        "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7033",
+        "text": "10% абсолютного попадания в цигун при использовании"
+    },
+    "60070108": {
+        "deprecated": false,
+        "Dev_Desc": "강섬뢰_돌파_설명",
+        "id": 60070108,
+        "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7034",
+        "text": "Наносит дополнительный урон пропорционально исцеляющей силе"
+    },
+    "60070109": {
+        "deprecated": false,
+        "Dev_Desc": "심판_증폭_설명",
+        "id": 60070109,
+        "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7042",
+        "text": "Увеличенный урон"
+    },
+    "60070110": {
+        "deprecated": false,
+        "Dev_Desc": "심판_극한_설명",
+        "id": 60070110,
+        "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7043",
+        "text": "Наносит дополнительный урон пропорционально исцеляющей силе"
+    },
+    "60070111": {
+        "deprecated": false,
+        "Dev_Desc": "심판_돌파_설명",
+        "id": 60070111,
+        "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7044",
+        "text": "Вероятность применения оглушающего эффекта"
+    },
+    "60070112": {
+        "deprecated": false,
+        "Dev_Desc": "심기일전_증폭_설명",
+        "id": 60070112,
+        "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7052",
+        "text": "Продолжительность 2 секунды"
+    },
+    "60070113": {
+        "deprecated": false,
+        "Dev_Desc": "심기일전_극한_설명",
+        "id": 60070113,
+        "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7053",
+        "text": "Вероятность точности 5"
+    },
+    "60070114": {
+        "deprecated": false,
+        "Dev_Desc": "심기일전_돌파_설명",
+        "id": 60070114,
+        "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7054",
+        "text": "Вероятность 10% абсолютной точности ближнего, дальнего и цигун"
+    },
+    "60070115": {
+        "deprecated": false,
+        "Dev_Desc": "연쇄치유_증폭_설명",
+        "id": 60070115,
+        "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7062",
+        "text": "Увеличьте расстояние, на котором осуществляется цепное исцеление"
+    },
+    "60070116": {
+        "deprecated": false,
+        "Dev_Desc": "연쇄치유_극한_설명",
+        "id": 60070116,
+        "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7063",
+        "text": "Энергозатратность -50"
+    },
+    "60070117": {
+        "deprecated": false,
+        "Dev_Desc": "연쇄치유_돌파_설명",
+        "id": 60070117,
+        "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7064",
+        "text": "Вылечите до 4 человек подряд"
+    },
+    "60070118": {
+        "deprecated": false,
+        "Dev_Desc": "치유지대_증폭_설명",
+        "id": 60070118,
+        "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7072",
+        "text": "Перезарядка -10 секунд"
+    },
+    "60070119": {
+        "deprecated": false,
+        "Dev_Desc": "치유지대_극한_설명",
+        "id": 60070119,
+        "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7073",
+        "text": "Время удерживания 5 секунд"
+    },
+    "60070120": {
+        "deprecated": false,
+        "Dev_Desc": "치유지대_돌파_설명",
+        "id": 60070120,
+        "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7074",
+        "text": "Цель исцеления распространяется на союзников \n Увеличивает дальность исцеления"
+    },
+    "60070121": {
+        "deprecated": false,
+        "Dev_Desc": "수호_증폭_설명",
+        "id": 60070121,
+        "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7082",
+        "text": "Расход силы -2"
+    },
+    "60070122": {
+        "deprecated": false,
+        "Dev_Desc": "수호_극한_설명",
+        "id": 60070122,
+        "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7083",
+        "text": "Получаемый урон уменьшен на 5% \n Увеличенная дальность"
+    },
+    "60070123": {
+        "deprecated": false,
+        "Dev_Desc": "수호_돌파_설명",
+        "id": 60070123,
+        "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7084",
+        "text": "Снижение получаемого урона на 10% \n Игнорирует эффекты развеивания вплоть до полумагических стрел [Экстремальный]"
+    },
+    "60070124": {
+        "deprecated": false,
+        "Dev_Desc": "구원_증폭_설명",
+        "id": 60070124,
+        "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7092",
+        "text": "Дополнительное удаление кровотечения , ожога , снижения скорости движения и жесткости "
+    },
+    "60070125": {
+        "deprecated": false,
+        "Dev_Desc": "구원_극한_설명",
+        "id": 60070125,
+        "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7093",
+        "text": "Перезарядка -10 секунд"
+    },
+    "60070126": {
+        "deprecated": false,
+        "Dev_Desc": "구원_돌파_설명",
+        "id": 60070126,
+        "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7094",
+        "text": "Дополнительное снятие воздуха и насмешки \n Дополнительное снятие иммобилизации эффектов клинка"
+    },
+    "60070127": {
+        "deprecated": false,
+        "Dev_Desc": "청화_증폭_설명",
+        "id": 60070127,
+        "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7102",
+        "text": "Вероятность удаления части истории цели пропорционально исцеляющей силе"
+    },
+    "60070128": {
+        "deprecated": false,
+        "Dev_Desc": "청화_극한_설명",
+        "id": 60070128,
+        "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7103",
+        "text": "Увеличенный урон"
+    },
+    "60070129": {
+        "deprecated": false,
+        "Dev_Desc": "청화_돌파_설명",
+        "id": 60070129,
+        "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7104",
+        "text": "Более высокий шанс удалить часть истории цели пропорционально исцеляющей силе"
+    },
+    "60070200": {
+        "deprecated": false,
+        "Dev_Desc": "심판_조건",
+        "id": 60070200,
+        "alias": "Contents.Effect.requirementDesc.RitualBell.7041"
+    },
+    "60070201": {
+        "deprecated": false,
+        "Dev_Desc": "심기일전_조건",
+        "id": 60070201,
+        "alias": "Contents.Effect.requirementDesc.RitualBell.7051",
+        "text": "Для себя и для однопартийцев"
+    },
+    "60070202": {
+        "deprecated": false,
+        "Dev_Desc": "연쇄치유_조건",
+        "id": 60070202,
+        "alias": "Contents.Effect.requirementDesc.RitualBell.7061",
+        "text": "Для себя и для однопартийцев"
+    },
+    "60070203": {
+        "deprecated": false,
+        "Dev_Desc": "치유지대_조건",
+        "id": 60070203,
+        "alias": "Contents.Effect.requirementDesc.RitualBell.7071",
+        "text": "Для себя и для однопартийцев"
+    },
+    "60070204": {
+        "deprecated": false,
+        "Dev_Desc": "수호_조건",
+        "id": 60070204,
+        "alias": "Contents.Effect.requirementDesc.RitualBell.7081",
+        "text": "Для себя, членов партии, членов вашего клана, союзников вашего клана"
+    },
+    "60070205": {
+        "deprecated": false,
+        "Dev_Desc": "구원_조건",
+        "id": 60070205,
+        "alias": "Contents.Effect.requirementDesc.RitualBell.7091",
+        "text": "Для себя и для однопартийцев"
+    },
+    "60070206": {
+        "deprecated": false,
+        "Dev_Desc": "청화_조건",
+        "id": 60070206,
+        "alias": "Contents.Effect.requirementDesc.RitualBell.7101"
+    },
+    "60070207": {
+        "deprecated": false,
+        "Dev_Desc": "광명청음 조건",
+        "id": 60070207,
+        "alias": "Contents.Effect.requirementDesc.RitualBell.7111",
+        "text": "Для себя и для однопартийцев"
+    },
+    "60070208": {
+        "deprecated": false,
+        "Dev_Desc": "생령치유_효과",
+        "id": 60070208,
+        "alias": "Contents.Skill.UseEffect.RitualBell.7011"
+    },
+    "60070209": {
+        "deprecated": false,
+        "Dev_Desc": "연섬뢰_효과",
+        "id": 60070209,
+        "alias": "Contents.Skill.UseEffect.RitualBell.7021"
+    },
+    "60070210": {
+        "deprecated": false,
+        "Dev_Desc": "강섬뢰_효과",
+        "id": 60070210,
+        "alias": "Contents.Skill.UseEffect.RitualBell.7031"
+    },
+    "60070211": {
+        "deprecated": false,
+        "Dev_Desc": "심판_효과",
+        "id": 60070211,
+        "alias": "Contents.Skill.UseEffect.RitualBell.7041"
+    },
+    "60070212": {
+        "deprecated": false,
+        "Dev_Desc": "심기일전_효과",
+        "id": 60070212,
+        "alias": "Contents.Skill.UseEffect.RitualBell.7051",
+        "text": "Увеличивает наносимый урон на 4%"
+    },
+    "60070213": {
+        "deprecated": false,
+        "Dev_Desc": "연쇄치유_효과",
+        "id": 60070213,
+        "alias": "Contents.Skill.UseEffect.RitualBell.7061"
+    },
+    "60070214": {
+        "deprecated": false,
+        "Dev_Desc": "치유지대_효과",
+        "id": 60070214,
+        "alias": "Contents.Skill.UseEffect.RitualBell.7071"
+    },
+    "60070215": {
+        "deprecated": false,
+        "Dev_Desc": "수호_효과",
+        "id": 60070215,
+        "alias": "Contents.Skill.UseEffect.RitualBell.7081",
+        "text": "Уменьшить получаемый урон на 10%"
+    },
+    "60070216": {
+        "deprecated": false,
+        "Dev_Desc": "구원_효과",
+        "id": 60070216,
+        "alias": "Contents.Skill.UseEffect.RitualBell.7091",
+        "text": "Оглушить, заморозить"
+    },
+    "60070217": {
+        "deprecated": false,
+        "Dev_Desc": "청화_효과",
+        "id": 60070217,
+        "alias": "Contents.Skill.UseEffect.RitualBell.7101"
+    },
+    "60070218": {
+        "deprecated": false,
+        "Dev_Desc": "광명청음_효과",
+        "id": 60070218,
+        "alias": "Contents.Skill.UseEffect.RitualBell.7111"
+    },
+    "60070219": {
+        "deprecated": false,
+        "Dev_Desc": "가호_효과",
+        "id": 60070219,
+        "alias": "Contents.Skill.UseEffect.RitualBell.7201",
+        "text": "Возрождение истории 1"
+    },
+    "60070220": {
+        "deprecated": false,
+        "Dev_Desc": "체화_효과",
+        "id": 60070220,
+        "alias": "Contents.Skill.UseEffect.RitualBell.7211",
+        "text": "Исцеление получено на 2,0%"
+    },
+    "60070221": {
+        "deprecated": false,
+        "Dev_Desc": "현자_효과",
+        "id": 60070221,
+        "alias": "Contents.Skill.UseEffect.RitualBell.7221",
+        "text": "Интеллект 1, Мудрость 1"
+    },
+    "60070222": {
+        "deprecated": false,
+        "Dev_Desc": "득음_효과",
+        "id": 60070222,
+        "alias": "Contents.Skill.UseEffect.RitualBell.7231",
+        "text": "Атака Атака 3"
+    },
+    "60070223": {
+        "deprecated": false,
+        "Dev_Desc": "은총_효과",
+        "id": 60070223,
+        "alias": "Contents.Skill.UseEffect.RitualBell.7241",
+        "text": "Исцеление на 3,0%"
+    },
+    "60070224": {
+        "deprecated": false,
+        "Dev_Desc": "현기_효과",
+        "id": 60070224,
+        "alias": "Contents.Skill.UseEffect.RitualBell.7251",
+        "text": "Исцеляющая сила 10"
+    },
+    "60070225": {
+        "deprecated": false,
+        "Dev_Desc": "통달_효과",
+        "id": 60070225,
+        "alias": "Contents.Skill.UseEffect.RitualBell.7261",
+        "text": "Контроль удельного сопротивления 8,0%"
+    },
+    "60070300": {
+        "deprecated": false,
+        "Dev_Desc": "심기일전_피해량_버프창",
+        "id": 60070300,
+        "alias": "Contents.Effect.Name.RitualBell.705100",
+        "text": "Перед посадкой (повреждение)"
+    },
+    "60070301": {
+        "deprecated": false,
+        "Dev_Desc": "심기일전_피해량_버프창",
+        "id": 60070301,
+        "alias": "Contents.Effect.Desc.RitualBell.705100",
+        "text": "Увеличивает наносимый урон"
+    },
+    "60070302": {
+        "deprecated": false,
+        "Dev_Desc": "심기일전_정밀_버프창",
+        "id": 60070302,
+        "alias": "Contents.Effect.Name.RitualBell.705350",
+        "text": "Перед посадкой (точность)"
+    },
+    "60070303": {
+        "deprecated": false,
+        "Dev_Desc": "심기일전_정밀_버프창",
+        "id": 60070303,
+        "alias": "Contents.Effect.Desc.RitualBell.705350",
+        "text": "Повышение точности"
+    },
+    "60070304": {
+        "deprecated": false,
+        "Dev_Desc": "심기일전_명중_버프창",
+        "id": 60070304,
+        "alias": "Contents.Effect.Name.RitualBell.705250",
+        "text": "За день до посадки (абсолютный успех)"
+    },
+    "60070305": {
+        "deprecated": false,
+        "Dev_Desc": "심기일전_명중_버프창",
+        "id": 60070305,
+        "alias": "Contents.Effect.Desc.RitualBell.705250",
+        "text": "Абсолютное увеличение попадания"
+    },
+    "60070306": {
+        "deprecated": false,
+        "Dev_Desc": "수호_기본_피해감소_버프창",
+        "id": 60070306,
+        "alias": "Contents.Effect.Name.RitualBell.708100",
+        "text": "Хранитель"
+    },
+    "60070307": {
+        "deprecated": false,
+        "Dev_Desc": "수호_증폭_피해감소_버프창",
+        "id": 60070307,
+        "alias": "Contents.Effect.Name.RitualBell.708200",
+        "text": "Охрана [усилить]"
+    },
+    "60070308": {
+        "deprecated": false,
+        "Dev_Desc": "수호_극한_피해감소_버프창",
+        "id": 60070308,
+        "alias": "Contents.Effect.Name.RitualBell.708300",
+        "text": "Страж [Экстрим]"
+    },
+    "60070309": {
+        "deprecated": false,
+        "Dev_Desc": "수호_돌파_피해감소_버프창",
+        "id": 60070309,
+        "alias": "Contents.Effect.Name.RitualBell.708400",
+        "text": "Страж [прорыв]"
+    },
+    "60070310": {
+        "deprecated": false,
+        "Dev_Desc": "수호_피해감소_버프창",
+        "id": 60070310,
+        "alias": "Contents.Effect.Desc.RitualBell.708100",
+        "text": "Уменьшить получаемый урон"
+    },
+    "60070311": {
+        "deprecated": false,
+        "Dev_Desc": "구원_통제저항_버프창",
+        "id": 60070311,
+        "alias": "Contents.Effect.Name.RitualBell.709100",
+        "text": "Спасение"
+    },
+    "60070312": {
+        "deprecated": false,
+        "Dev_Desc": "구원_통제저항_버프창",
+        "id": 60070312,
+        "alias": "Contents.Effect.Desc.RitualBell.709100",
+        "text": "Увеличьте контрольное сопротивление"
+    },
+    "60070313": {
+        "deprecated": false,
+        "Dev_Desc": "심기일전_피해량_버프창",
+        "id": 60070313,
+        "alias": "Contents.Effect.Option.RitualBell.705100",
+        "text": "Увеличивает наносимый урон на 4,0%"
+    },
+    "60070314": {
+        "deprecated": false,
+        "Dev_Desc": "심기일전_피해량_버프창",
+        "id": 60070314,
+        "alias": "Contents.Effect.Option.RitualBell.705101",
+        "text": "Увеличивает наносимый урон на 4,3%"
+    },
+    "60070315": {
+        "deprecated": false,
+        "Dev_Desc": "심기일전_피해량_버프창",
+        "id": 60070315,
+        "alias": "Contents.Effect.Option.RitualBell.705102",
+        "text": "Увеличивает наносимый урон на 4,6%"
+    },
+    "60070316": {
+        "deprecated": false,
+        "Dev_Desc": "심기일전_피해량_버프창",
+        "id": 60070316,
+        "alias": "Contents.Effect.Option.RitualBell.705103",
+        "text": "Увеличивает наносимый урон на 5,0%"
+    },
+    "60070317": {
+        "deprecated": false,
+        "Dev_Desc": "심기일전_피해량_버프창",
+        "id": 60070317,
+        "alias": "Contents.Effect.Option.RitualBell.705104",
+        "text": "Увеличивает наносимый урон на 5,3%"
+    },
+    "60070318": {
+        "deprecated": false,
+        "Dev_Desc": "심기일전_피해량_버프창",
+        "id": 60070318,
+        "alias": "Contents.Effect.Option.RitualBell.705105",
+        "text": "Увеличивает наносимый урон на 5,6%"
+    },
+    "60070319": {
+        "deprecated": false,
+        "Dev_Desc": "심기일전_피해량_버프창",
+        "id": 60070319,
+        "alias": "Contents.Effect.Option.RitualBell.705106",
+        "text": "Увеличивает наносимый урон на 6,0%"
+    },
+    "60070320": {
+        "deprecated": false,
+        "Dev_Desc": "심기일전_피해량_버프창",
+        "id": 60070320,
+        "alias": "Contents.Effect.Option.RitualBell.705107",
+        "text": "Увеличивает наносимый урон на 6,3%"
+    },
+    "60070321": {
+        "deprecated": false,
+        "Dev_Desc": "심기일전_피해량_버프창",
+        "id": 60070321,
+        "alias": "Contents.Effect.Option.RitualBell.705108",
+        "text": "Увеличивает наносимый урон на 6,6%"
+    },
+    "60070322": {
+        "deprecated": false,
+        "Dev_Desc": "심기일전_피해량_버프창",
+        "id": 60070322,
+        "alias": "Contents.Effect.Option.RitualBell.705109",
+        "text": "Увеличение наносимого урона на 7,0%"
+    },
+    "60070323": {
+        "deprecated": false,
+        "Dev_Desc": "심기일전_정밀_버프창",
+        "id": 60070323,
+        "alias": "Contents.Effect.Option.RitualBell.705350",
+        "text": "Точность 5"
+    },
+    "60070324": {
+        "deprecated": false,
+        "Dev_Desc": "심기일전_명중_버프창",
+        "id": 60070324,
+        "alias": "Contents.Effect.Option.RitualBell.705250",
+        "text": "10% абсолютных ударов в ближнем бою \n 10% абсолютных ударов на дальнем расстоянии \n 10% абсолютных ударов по цигун"
+    },
+    "60070325": {
+        "deprecated": false,
+        "Dev_Desc": "수호_기본_피해감소_버프창",
+        "id": 60070325,
+        "alias": "Contents.Effect.Option.RitualBell.708100",
+        "text": "Получаемый урон уменьшен на 10,0%"
+    },
+    "60070326": {
+        "deprecated": false,
+        "Dev_Desc": "수호_기본_피해감소_버프창",
+        "id": 60070326,
+        "alias": "Contents.Effect.Option.RitualBell.708101",
+        "text": "Получаемый урон уменьшен на 10,6%"
+    },
+    "60070327": {
+        "deprecated": false,
+        "Dev_Desc": "수호_기본_피해감소_버프창",
+        "id": 60070327,
+        "alias": "Contents.Effect.Option.RitualBell.708102",
+        "text": "Получаемый урон уменьшен на 11,1%"
+    },
+    "60070328": {
+        "deprecated": false,
+        "Dev_Desc": "수호_기본_피해감소_버프창",
+        "id": 60070328,
+        "alias": "Contents.Effect.Option.RitualBell.708103",
+        "text": "Полученный урон 11,7%"
+    },
+    "60070329": {
+        "deprecated": false,
+        "Dev_Desc": "수호_기본_피해감소_버프창",
+        "id": 60070329,
+        "alias": "Contents.Effect.Option.RitualBell.708104",
+        "text": "Получаемый урон уменьшен на 12,2%"
+    },
+    "60070330": {
+        "deprecated": false,
+        "Dev_Desc": "수호_기본_피해감소_버프창",
+        "id": 60070330,
+        "alias": "Contents.Effect.Option.RitualBell.708105",
+        "text": "Полученный урон 12,8%"
+    },
+    "60070331": {
+        "deprecated": false,
+        "Dev_Desc": "수호_기본_피해감소_버프창",
+        "id": 60070331,
+        "alias": "Contents.Effect.Option.RitualBell.708106",
+        "text": "Полученный урон 13,3%"
+    },
+    "60070332": {
+        "deprecated": false,
+        "Dev_Desc": "수호_기본_피해감소_버프창",
+        "id": 60070332,
+        "alias": "Contents.Effect.Option.RitualBell.708107",
+        "text": "Получаемый урон уменьшен на 13,9%"
+    },
+    "60070333": {
+        "deprecated": false,
+        "Dev_Desc": "수호_기본_피해감소_버프창",
+        "id": 60070333,
+        "alias": "Contents.Effect.Option.RitualBell.708108",
+        "text": "Получаемый урон уменьшен на 14,4%"
+    },
+    "60070334": {
+        "deprecated": false,
+        "Dev_Desc": "수호_기본_피해감소_버프창",
+        "id": 60070334,
+        "alias": "Contents.Effect.Option.RitualBell.708109",
+        "text": "Получаемый урон уменьшен на 15,0%"
+    },
+    "60070335": {
+        "deprecated": false,
+        "Dev_Desc": "수호_증폭_피해감소_버프창",
+        "id": 60070335,
+        "alias": "Contents.Effect.Option.RitualBell.708200",
+        "text": "Получаемый урон уменьшен на 10,0%"
+    },
+    "60070336": {
+        "deprecated": false,
+        "Dev_Desc": "수호_증폭_피해감소_버프창",
+        "id": 60070336,
+        "alias": "Contents.Effect.Option.RitualBell.708201",
+        "text": "Получаемый урон уменьшен на 10,6%"
+    },
+    "60070337": {
+        "deprecated": false,
+        "Dev_Desc": "수호_증폭_피해감소_버프창",
+        "id": 60070337,
+        "alias": "Contents.Effect.Option.RitualBell.708202",
+        "text": "Получаемый урон уменьшен на 11,1%"
+    },
+    "60070338": {
+        "deprecated": false,
+        "Dev_Desc": "수호_증폭_피해감소_버프창",
+        "id": 60070338,
+        "alias": "Contents.Effect.Option.RitualBell.708203",
+        "text": "Полученный урон 11,7%"
+    },
+    "60070339": {
+        "deprecated": false,
+        "Dev_Desc": "수호_증폭_피해감소_버프창",
+        "id": 60070339,
+        "alias": "Contents.Effect.Option.RitualBell.708204",
+        "text": "Получаемый урон уменьшен на 12,2%"
+    },
+    "60070340": {
+        "deprecated": false,
+        "Dev_Desc": "수호_증폭_피해감소_버프창",
+        "id": 60070340,
+        "alias": "Contents.Effect.Option.RitualBell.708205",
+        "text": "Полученный урон 12,8%"
+    },
+    "60070341": {
+        "deprecated": false,
+        "Dev_Desc": "수호_증폭_피해감소_버프창",
+        "id": 60070341,
+        "alias": "Contents.Effect.Option.RitualBell.708206",
+        "text": "Полученный урон 13,3%"
+    },
+    "60070342": {
+        "deprecated": false,
+        "Dev_Desc": "수호_증폭_피해감소_버프창",
+        "id": 60070342,
+        "alias": "Contents.Effect.Option.RitualBell.708207",
+        "text": "Получаемый урон уменьшен на 13,9%"
+    },
+    "60070343": {
+        "deprecated": false,
+        "Dev_Desc": "수호_증폭_피해감소_버프창",
+        "id": 60070343,
+        "alias": "Contents.Effect.Option.RitualBell.708208",
+        "text": "Получаемый урон уменьшен на 14,4%"
+    },
+    "60070344": {
+        "deprecated": false,
+        "Dev_Desc": "수호_증폭_피해감소_버프창",
+        "id": 60070344,
+        "alias": "Contents.Effect.Option.RitualBell.708209",
+        "text": "Получаемый урон уменьшен на 15,0%"
+    },
+    "60070345": {
+        "deprecated": false,
+        "Dev_Desc": "수호_극한_피해감소_버프창",
+        "id": 60070345,
+        "alias": "Contents.Effect.Option.RitualBell.708300",
+        "text": "Получаемый урон уменьшен на 15,0%"
+    },
+    "60070346": {
+        "deprecated": false,
+        "Dev_Desc": "수호_극한_피해감소_버프창",
+        "id": 60070346,
+        "alias": "Contents.Effect.Option.RitualBell.708301",
+        "text": "Получаемый урон уменьшен на 15,6%"
+    },
+    "60070347": {
+        "deprecated": false,
+        "Dev_Desc": "수호_극한_피해감소_버프창",
+        "id": 60070347,
+        "alias": "Contents.Effect.Option.RitualBell.708302",
+        "text": "Полученный урон 16,1%"
+    },
+    "60070348": {
+        "deprecated": false,
+        "Dev_Desc": "수호_극한_피해감소_버프창",
+        "id": 60070348,
+        "alias": "Contents.Effect.Option.RitualBell.708303",
+        "text": "Получаемый урон уменьшен на 16,7%"
+    },
+    "60070349": {
+        "deprecated": false,
+        "Dev_Desc": "수호_극한_피해감소_버프창",
+        "id": 60070349,
+        "alias": "Contents.Effect.Option.RitualBell.708304",
+        "text": "Полученный урон 17,2%"
+    },
+    "60070350": {
+        "deprecated": false,
+        "Dev_Desc": "수호_극한_피해감소_버프창",
+        "id": 60070350,
+        "alias": "Contents.Effect.Option.RitualBell.708305",
+        "text": "Получаемый урон уменьшен на 17,8%"
+    },
+    "60070351": {
+        "deprecated": false,
+        "Dev_Desc": "수호_극한_피해감소_버프창",
+        "id": 60070351,
+        "alias": "Contents.Effect.Option.RitualBell.708306",
+        "text": "Получаемый урон уменьшен на 18,3%"
+    },
+    "60070352": {
+        "deprecated": false,
+        "Dev_Desc": "수호_극한_피해감소_버프창",
+        "id": 60070352,
+        "alias": "Contents.Effect.Option.RitualBell.708307",
+        "text": "Полученный урон 18,9%"
+    },
+    "60070353": {
+        "deprecated": false,
+        "Dev_Desc": "수호_극한_피해감소_버프창",
+        "id": 60070353,
+        "alias": "Contents.Effect.Option.RitualBell.708308",
+        "text": "Получаемый урон уменьшен на 19,4%"
+    },
+    "60070354": {
+        "deprecated": false,
+        "Dev_Desc": "수호_극한_피해감소_버프창",
+        "id": 60070354,
+        "alias": "Contents.Effect.Option.RitualBell.708309",
+        "text": "Получаемый урон уменьшен на 20,0%"
+    },
+    "60070355": {
+        "deprecated": false,
+        "Dev_Desc": "수호_돌파_피해감소_버프창",
+        "id": 60070355,
+        "alias": "Contents.Effect.Option.RitualBell.708400",
+        "text": "Получаемый урон уменьшен на 25,0%"
+    },
+    "60070356": {
+        "deprecated": false,
+        "Dev_Desc": "수호_돌파_피해감소_버프창",
+        "id": 60070356,
+        "alias": "Contents.Effect.Option.RitualBell.708401",
+        "text": "Получаемый урон уменьшен на 25,6%"
+    },
+    "60070357": {
+        "deprecated": false,
+        "Dev_Desc": "수호_돌파_피해감소_버프창",
+        "id": 60070357,
+        "alias": "Contents.Effect.Option.RitualBell.708402",
+        "text": "Получаемый урон уменьшен на 26,1%"
+    },
+    "60070358": {
+        "deprecated": false,
+        "Dev_Desc": "수호_돌파_피해감소_버프창",
+        "id": 60070358,
+        "alias": "Contents.Effect.Option.RitualBell.708403",
+        "text": "Получаемый урон уменьшен на 26,7%"
+    },
+    "60070359": {
+        "deprecated": false,
+        "Dev_Desc": "수호_돌파_피해감소_버프창",
+        "id": 60070359,
+        "alias": "Contents.Effect.Option.RitualBell.708404",
+        "text": "Получаемый урон уменьшен на 27,2%"
+    },
+    "60070360": {
+        "deprecated": false,
+        "Dev_Desc": "수호_돌파_피해감소_버프창",
+        "id": 60070360,
+        "alias": "Contents.Effect.Option.RitualBell.708405",
+        "text": "Получаемый урон уменьшен на 27,8%"
+    },
+    "60070361": {
+        "deprecated": false,
+        "Dev_Desc": "수호_돌파_피해감소_버프창",
+        "id": 60070361,
+        "alias": "Contents.Effect.Option.RitualBell.708406",
+        "text": "Получаемый урон уменьшен на 28,3%"
+    },
+    "60070362": {
+        "deprecated": false,
+        "Dev_Desc": "수호_돌파_피해감소_버프창",
+        "id": 60070362,
+        "alias": "Contents.Effect.Option.RitualBell.708407",
+        "text": "Получаемый урон уменьшен на 28,9%"
+    },
+    "60070363": {
+        "deprecated": false,
+        "Dev_Desc": "수호_돌파_피해감소_버프창",
+        "id": 60070363,
+        "alias": "Contents.Effect.Option.RitualBell.708408",
+        "text": "Полученный урон 29,4%"
+    },
+    "60070364": {
+        "deprecated": false,
+        "Dev_Desc": "수호_돌파_피해감소_버프창",
+        "id": 60070364,
+        "alias": "Contents.Effect.Option.RitualBell.708409",
+        "text": "Получаемый урон уменьшен на 30,0%"
+    },
+    "60070365": {
+        "deprecated": false,
+        "Dev_Desc": "구원_통제저항_버프창",
+        "id": 60070365,
+        "alias": "Contents.Effect.Option.RitualBell.709100",
+        "text": "Контроль удельного сопротивления 1,0%"
+    },
+    "60070366": {
+        "deprecated": false,
+        "Dev_Desc": "구원_통제저항_버프창",
+        "id": 60070366,
+        "alias": "Contents.Effect.Option.RitualBell.709101",
+        "text": "Контроль удельного сопротивления 1,3%"
+    },
+    "60070367": {
+        "deprecated": false,
+        "Dev_Desc": "구원_통제저항_버프창",
+        "id": 60070367,
+        "alias": "Contents.Effect.Option.RitualBell.709102",
+        "text": "Контроль удельного сопротивления 1,6%"
+    },
+    "60070368": {
+        "deprecated": false,
+        "Dev_Desc": "구원_통제저항_버프창",
+        "id": 60070368,
+        "alias": "Contents.Effect.Option.RitualBell.709103",
+        "text": "Контроль удельного сопротивления 2,0%"
+    },
+    "60070369": {
+        "deprecated": false,
+        "Dev_Desc": "구원_통제저항_버프창",
+        "id": 60070369,
+        "alias": "Contents.Effect.Option.RitualBell.709104",
+        "text": "Контрольное сопротивление 2,3%"
+    },
+    "60070370": {
+        "deprecated": false,
+        "Dev_Desc": "구원_통제저항_버프창",
+        "id": 60070370,
+        "alias": "Contents.Effect.Option.RitualBell.709105",
+        "text": "Контрольное сопротивление 2,6%"
+    },
+    "60070371": {
+        "deprecated": false,
+        "Dev_Desc": "구원_통제저항_버프창",
+        "id": 60070371,
+        "alias": "Contents.Effect.Option.RitualBell.709106",
+        "text": "Контроль удельного сопротивления 3,0%"
+    },
+    "60070372": {
+        "deprecated": false,
+        "Dev_Desc": "구원_통제저항_버프창",
+        "id": 60070372,
+        "alias": "Contents.Effect.Option.RitualBell.709107",
+        "text": "Контрольное сопротивление 3,3%"
+    },
+    "60070373": {
+        "deprecated": false,
+        "Dev_Desc": "구원_통제저항_버프창",
+        "id": 60070373,
+        "alias": "Contents.Effect.Option.RitualBell.709108",
+        "text": "Контрольное сопротивление 3,6%"
+    },
+    "60070374": {
+        "deprecated": false,
+        "Dev_Desc": "구원_통제저항_버프창",
+        "id": 60070374,
+        "alias": "Contents.Effect.Option.RitualBell.709109",
+        "text": "Контроль удельного сопротивления 5,0%"
+    },
+    "60070500": {
+        "deprecated": false,
+        "Dev_Desc": "무공 강화 업그레이드 툴팁",
+        "id": 60070500,
+        "alias": "Contents.Skill.Upgrade.Name.7000",
+        "text": "Повышенный лечебный фактор"
+    },
+    "60070501": {
+        "deprecated": false,
+        "Dev_Desc": "무공 강화 업그레이드 툴팁",
+        "id": 60070501,
+        "alias": "Contents.Skill.Upgrade.Name.7001",
+        "text": "Увеличить коэффициент поражения неавтомобилей"
+    },
+    "60070502": {
+        "deprecated": false,
+        "Dev_Desc": "무공 강화 업그레이드 툴팁",
+        "id": 60070502,
+        "alias": "Contents.Skill.Upgrade.Name.7002",
+        "text": "Увеличивает наносимый урон"
+    },
+    "60070503": {
+        "deprecated": false,
+        "Dev_Desc": "무공 강화 업그레이드 툴팁",
+        "id": 60070503,
+        "alias": "Contents.Skill.Upgrade.Name.7003",
+        "text": "Повышенная скорость уменьшения урона"
+    },
+    "60070504": {
+        "deprecated": false,
+        "Dev_Desc": "무공 강화 업그레이드 툴팁",
+        "id": 60070504,
+        "alias": "Contents.Skill.Upgrade.Name.7004",
+        "text": "Увеличьте контрольное сопротивление"
+    },
+    "60070505": {
+        "deprecated": false,
+        "Dev_Desc": "무공 강화 업그레이드 툴팁",
+        "id": 60070505,
+        "alias": "Contents.Skill.Upgrade.Name.7005",
+        "text": "Увеличьте жизнь воскрешения"
+    },
+    "60070506": {
+        "deprecated": false,
+        "Dev_Desc": "무공 강화 업그레이드 툴팁",
+        "id": 60070506,
+        "alias": "Contents.Skill.Upgrade.Name.7006",
+        "text": "Увеличена длительность неуязвимости"
+    },
+    "60070507": {
+        "deprecated": false,
+        "Dev_Desc": "무공 강화 업그레이드 툴팁 패시브",
+        "id": 60070507,
+        "alias": "Contents.Skill.Upgrade.Name.7007",
+        "text": "Повышенная регенерация силы"
+    },
+    "60070508": {
+        "deprecated": false,
+        "Dev_Desc": "무공 강화 업그레이드 툴팁 패시브",
+        "id": 60070508,
+        "alias": "Contents.Skill.Upgrade.Name.7008",
+        "text": "Повышенная лечебная сила"
+    },
+    "60070509": {
+        "deprecated": false,
+        "Dev_Desc": "무공 강화 업그레이드 툴팁 패시브",
+        "id": 60070509,
+        "alias": "Contents.Skill.Upgrade.Name.7009",
+        "text": "Повышение интеллекта"
+    },
+    "60070510": {
+        "deprecated": false,
+        "Dev_Desc": "무공 강화 업그레이드 툴팁 패시브",
+        "id": 60070510,
+        "alias": "Contents.Skill.Upgrade.Name.7010",
+        "text": "Возрастающая мудрость"
+    },
+    "60070511": {
+        "deprecated": false,
+        "Dev_Desc": "무공 강화 업그레이드 툴팁 패시브",
+        "id": 60070511,
+        "alias": "Contents.Skill.Upgrade.Name.7011",
+        "text": "Повышенная сила атаки"
+    },
+    "60070512": {
+        "deprecated": false,
+        "Dev_Desc": "무공 강화 업그레이드 툴팁 패시브",
+        "id": 60070512,
+        "alias": "Contents.Skill.Upgrade.Name.7012",
+        "text": "Получено усиленное исцеление"
+    },
+    "60070513": {
+        "deprecated": false,
+        "Dev_Desc": "무공 강화 업그레이드 툴팁 패시브",
+        "id": 60070513,
+        "alias": "Contents.Skill.Upgrade.Name.7013",
+        "text": "Увеличьте контрольное сопротивление"
+    },
+    "60070514": {
+        "deprecated": false,
+        "Dev_Desc": "무공 강화 업그레이드 툴팁 패시브",
+        "id": 60070514,
+        "alias": "Contents.Skill.Upgrade.Name.7014",
+        "text": "Увеличивает количество исцеления"
+    }
+}
