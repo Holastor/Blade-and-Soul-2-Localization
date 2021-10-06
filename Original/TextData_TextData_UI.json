@@ -22704,5 +22704,82 @@
         "id": 8003325,
         "alias": "UI.Craft.LeftSubTabName.Event.Mukhwa_01",
         "text": "묵화 패키지"
+    },
+    "8003326": {
+        "deprecated": false,
+        "Dev_Desc": "무공 / 진화 / 진화 불가 토스트메시지",
+        "id": 8003326,
+        "alias": "UI.Skill.Evolution.Desc.No",
+        "text": "무공 강화 단계가 낮아 진화할 수 없습니다."
+    },
+    "8003327": {
+        "deprecated": false,
+        "Dev_Desc": "무공 / 진화 / 진화 불가 / 상세정보창",
+        "id": 8003327,
+        "alias": "UI.Skill.Evolution.Desc.No2",
+        "text": "선행 조건: 무공 강화 단계 +9 이상"
+    },
+    "8003328": {
+        "deprecated": false,
+        "Dev_Desc": "무공 / 진화 / 진화 불가 / 상세정보창 / 임시",
+        "id": 8003328,
+        "alias": "UI.Skill.Evolution.Desc.LoadFail",
+        "text": "선행 조건: 진화 선행 조건을 충족하지 못했습니다."
+    },
+    "8003329": {
+        "deprecated": false,
+        "Dev_Desc": "소울 / 합성 / 확률정보 / 성공 시 정보",
+        "id": 8003329,
+        "alias": "UI.Soul.Compose.ProbabilityInfo.SucceedDesc",
+        "text": "합성 성공 시 아래 소울 중 1개 획득"
+    },
+    "8003330": {
+        "deprecated": false,
+        "Dev_Desc": "소울 / 합성 / 확률정보 / 실패 시 정보",
+        "id": 8003330,
+        "alias": "UI.Soul.Compose.ProbabilityInfo.FailureDesc",
+        "text": "합성 실패 시 아래 소울 중 1개 획득"
+    },
+    "8003331": {
+        "deprecated": false,
+        "Dev_Desc": "소울 / 합성 / 확률정보 / 부분 성공 정보",
+        "id": 8003331,
+        "alias": "UI.Soul.Compose.ProbabilityInfo.PartialSucceedDesc.1",
+        "text": "소울 합성 실패 시 25% 확률로 아래 소울 중 1종의 파편 10개 추가 획득"
+    },
+    "8003332": {
+        "deprecated": false,
+        "Dev_Desc": "소울 / 합성 / 확률정보 / 부분 성공 정보",
+        "id": 8003332,
+        "alias": "UI.Soul.Compose.ProbabilityInfo.PartialSucceedDesc.2",
+        "text": "소울 합성 실패 시 20% 확률로 아래 소울 중 1종의 파편 10개 추가 획득"
+    },
+    "8003333": {
+        "deprecated": false,
+        "Dev_Desc": "소울 / 합성 / 확률정보 / 부분 성공 정보",
+        "id": 8003333,
+        "alias": "UI.Soul.Compose.ProbabilityInfo.PartialSucceedDesc.3",
+        "text": "소울 합성 실패 시 15% 확률로 아래 소울 중 1종의 파편 10개 추가 획득"
+    },
+    "8003334": {
+        "deprecated": false,
+        "Dev_Desc": "소울 / 합성 / 확률정보 / 부분 성공 정보",
+        "id": 8003334,
+        "alias": "UI.Soul.Compose.ProbabilityInfo.PartialSucceedDesc.4",
+        "text": "소울 합성 실패 시 10% 확률로 아래 소울 중 1종의 파편 10개 추가 획득"
+    },
+    "8003335": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 합성 / 확률정보",
+        "id": 8003335,
+        "alias": "UI.Pets.Compose.ProbabilityInfo.Desc",
+        "text": "합성 시 아래 수호령 중 1개 획득"
+    },
+    "8003336": {
+        "deprecated": false,
+        "Dev_Desc": "이벤트 제작 레시피 탭 / 신비한 상자",
+        "id": 8003336,
+        "alias": "UI.Craft.LeftSubTabName.Event.MysticBox_01",
+        "text": "신비한 상자"
     }
 }
