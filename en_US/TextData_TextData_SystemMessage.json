@@ -2943,7 +2943,7 @@
         "Dev_Desc": "문파 시스템 / 해산 / 해산 실패",
         "id": 9000462,
         "alias": "SysM.Guild.Dissolution.Fail",
-        "text": "Please enter [Dissolve] correctly."
+        "text": "Please enter [Dissolve]>correctly."
     },
     "9000465": {
         "deprecated": false,
@@ -4406,7 +4406,7 @@
         "Dev_Desc": "문파 시스템 / 탈퇴 / 탈퇴 실패 안내",
         "id": 9000690,
         "alias": "SysM.Guild.Withdrawal.Fail",
-        "text": "Please enter the [Cancellation Request] correctly."
+        "text": "Please enter the [Cancellation Request]>correctly."
     },
     "9000691": {
         "deprecated": false,
@@ -4868,7 +4868,7 @@
         "Dev_Desc": "차단 성공",
         "id": 9000757,
         "alias": "SysM.Post.BlockComplete",
-        "text": "Your mail from [<arg p=[1:string]/>] has been blocked."
+        "text": "Your mail from [<arg p=[1:string]/>]>has been blocked."
     },
     "9000758": {
         "deprecated": false,
@@ -5687,35 +5687,35 @@
         "Dev_Desc": "채팅 시스템 메시지 / 브로드 캐스팅 / 아이템 획득",
         "id": 9000874,
         "alias": "SyM.ChatSysM.ItemDrop",
-        "text": "<<arg p=[1:string]/>>[<arg p=[2:string]/>] <arg p=[3:string]/> </><<arg p=[4:string]/>><arg p=[5:string]/></><<arg p=[1:string]/>><eul/> <arg p=[6:string] Obtained from /></>"
+        "text": "<<arg p=[1:string]/>>[<arg p=[2:string]/>]><arg p=[3:string]/> </><<arg p=[4:string]/>><arg p=[5:string]/></><<arg p=[1:string]/>><eul/> <arg p=[6:string]>Obtained from</></>"
     },
     "9000875": {
         "deprecated": false,
         "Dev_Desc": "채팅 시스템 메시지 / 브로드 캐스팅 / 강화 성공",
         "id": 9000875,
         "alias": "SyM.ChatSysM.Enchant",
-        "text": "<<arg p=[1:string]/>>[<arg p=[2:string]/>] <arg p=[3:string]/> </><<arg Enhance p=[4:string]/>>+<arg p=[5:string]/> <arg p=[6:string]/></><<arg p=[1:string]/>> successful.</>"
+        "text": "<<arg p=[1:string]/>>[<arg p=[2:string]/>]><arg p=[3:string]/> </><<arg Enhance p=[4:string]/>>+<arg p=[5:string]/> <arg p=[6:string]/></><<arg p=[1:string]/>> successful.</>"
     },
     "9000876": {
         "deprecated": false,
         "Dev_Desc": "채팅 시스템 메시지 / 브로드 캐스팅 / 제작 성공",
         "id": 9000876,
         "alias": "SyM.ChatSysM.Craft",
-        "text": "<<arg p=[1:string]/>>[<arg p=[2:string]/>] <arg p=[3:string]/> </><<arg p=[4:string]/>><arg p=[5:string]/></><<arg p=[1:string]/>> Production succeeded</>"
+        "text": "<<arg p=[1:string]/>>[<arg p=[2:string]/>]><arg p=[3:string]/> </><<arg p=[4:string]/>><arg p=[5:string]/></><<arg p=[1:string]/>> Production succeeded</>"
     },
     "9000877": {
         "deprecated": false,
         "Dev_Desc": "채팅 시스템 메시지 / 브로드 캐스팅 / 소울 획득",
         "id": 9000877,
         "alias": "SyM.ChatSysM.Soul",
-        "text": "<<arg p=[1:string]/>>[<arg p=[2:string]/>] <arg p=[3:string]/> soul </><<arg p=[4:string]/>><arg p=[5:string]/></><<arg p=[1:string]/>><eul/> obtained</>"
+        "text": "<<arg p=[1:string]/>>[<arg p=[2:string]/>]><arg p=[3:string]/> soul </><<arg p=[4:string]/>><arg p=[5:string]/></><<arg p=[1:string]/>><eul/> obtained</>"
     },
     "9000878": {
         "deprecated": false,
         "Dev_Desc": "채팅 시스템 메시지 / 브로드 캐스팅 / 수호령 획득",
         "id": 9000878,
         "alias": "SyM.ChatSysM.Pets",
-        "text": "<<arg p=[1:string]/>>[<arg p=[2:string]/>] <arg p=[3:string]/> is your guardian spirit </><<arg p=[4:string]/>><arg p=[5:string]/></><<arg p=[1:string]/>><eul/> obtained</>"
+        "text": "<<arg p=[1:string]/>>[<arg p=[2:string]/>]><arg p=[3:string]/> is your guardian spirit </><<arg p=[4:string]/>><arg p=[5:string]/></><<arg p=[1:string]/>><eul/> obtained</>"
     },
     "9000879": {
         "deprecated": false,
@@ -6583,35 +6583,35 @@
         "Dev_Desc": "브로드캐스팅 / 아이템 획득",
         "id": 9001002,
         "alias": "SysM.BroadCasting.GetItem",
-        "text": "[<arg p=[1:string]/>] <arg p=[2:string]/> by <arg p=[3:string]/><eul/> <arg p= Obtained from [4:string]/>"
+        "text": "[<arg p=[1:string]/>]><arg p=[2:string]/> by <arg p=[3:string]/><eul/> <arg p= Obtained from [4:string]/>"
     },
     "9001003": {
         "deprecated": false,
         "Dev_Desc": "브로드캐스팅 / 강화 성공",
         "id": 9001003,
         "alias": "SysM.BroadCasting.EnchantSucceed",
-        "text": "[<arg p=[1:string]/>] <arg p=[2:string]/> succeeded in hardening <arg p=[3:string]/>"
+        "text": "[<arg p=[1:string]/>]><arg p=[2:string]/> succeeded in hardening <arg p=[3:string]/>"
     },
     "9001004": {
         "deprecated": false,
         "Dev_Desc": "브로드캐스팅 / 제작 성공",
         "id": 9001004,
         "alias": "SysM.BroadCasting.CraftSucceed",
-        "text": "[<arg p=[1:string]/>] <arg p=[2:string]/> successfully created <arg p=[3:string]/>"
+        "text": "[<arg p=[1:string]/>]><arg p=[2:string]/> successfully created <arg p=[3:string]/>"
     },
     "9001005": {
         "deprecated": false,
         "Dev_Desc": "브로드캐스팅 / 소울 획득",
         "id": 9001005,
         "alias": "SysM.BroadCasting.GetSoul",
-        "text": "[<arg p=[1:string]/>] <arg p=[2:string]/> earned soul <arg p=[3:string]/><eul/>. "
+        "text": "[<arg p=[1:string]/>]><arg p=[2:string]/> earned soul <arg p=[3:string]/><eul/>. "
     },
     "9001006": {
         "deprecated": false,
         "Dev_Desc": "브로드캐스팅 / 수호령 획득",
         "id": 9001006,
         "alias": "SysM.BroadCasting.GetPets",
-        "text": "[<arg p=[1:string]/>] <arg p=[2:string]/> has earned the Guardian Spirit <arg p=[3:string]/><eul/>. "
+        "text": "[<arg p=[1:string]/>]><arg p=[2:string]/> has earned the Guardian Spirit <arg p=[3:string]/><eul/>. "
     },
     "9001007": {
         "deprecated": false,
@@ -6877,7 +6877,7 @@
         "Dev_Desc": "강화 / 채팅메시지 / 단계하락",
         "id": 9001044,
         "alias": "SysM.ChatSys.EnchantDowngrade",
-        "text": "<<arg p=[1:string]/>>+<arg p=[2:string]/><arg p=[3:string]/></><<arg p=[ 4:string]/>> Curse enhancement succeeded</>"
+        "text": "<<arg p=[1:string]/>>+<arg p=[2:string]/><arg p=[3:string]/></><<arg p=[4:string]/>> Curse enhancement succeeded</>"
     },
     "9001045": {
         "deprecated": false,
@@ -7024,28 +7024,28 @@
         "Dev_Desc": "환경설정 / 주간 푸시 켜기",
         "id": 9001065,
         "alias": "SysM.Option.Push.On.Day",
-        "text": "[NCSOFT] I have agreed to receive weekly advertising pushes. - <arg p=[1:string]/>"
+        "text": "[NCSOFT]>I have agreed to receive weekly advertising pushes. - <arg p=[1:string]/>"
     },
     "9001066": {
         "deprecated": false,
         "Dev_Desc": "환경설정 / 주간 푸시 끄기",
         "id": 9001066,
         "alias": "SysM.Option.Push.Off.Day",
-        "text": "[NCSOFT] opted out of receiving weekly advertising pushes. - <arg p=[1:string]/>"
+        "text": "[NCSOFT]>opted out of receiving weekly advertising pushes. - <arg p=[1:string]/>"
     },
     "9001067": {
         "deprecated": false,
         "Dev_Desc": "환경설정 / 야간 푸시 켜기",
         "id": 9001067,
         "alias": "SysM.Option.Push.On.Night",
-        "text": "[NCSOFT] I have agreed to receive nightly advertising pushes. - <arg p=[1:string]/>"
+        "text": "[NCSOFT]>I have agreed to receive nightly advertising pushes. - <arg p=[1:string]/>"
     },
     "9001068": {
         "deprecated": false,
         "Dev_Desc": "환경설정 / 야간 푸시 끄기",
         "id": 9001068,
         "alias": "SysM.Option.Push.Off.Night",
-        "text": "[NCSOFT] Unsubscribe from nightly advertising pushes. - <arg p=[1:string]/>"
+        "text": "[NCSOFT]>Unsubscribe from nightly advertising pushes. - <arg p=[1:string]/>"
     },
     "9001069": {
         "deprecated": false,
@@ -7115,5 +7115,19 @@
         "id": 9001078,
         "alias": "SysM.Craft.LackCount",
         "text": "We have created all limited quantities."
+    },
+    "9001079": {
+        "deprecated": false,
+        "Dev_Desc": "채팅 / 소울 성장 브로드캐스팅",
+        "id": 9001079,
+        "alias": "SysM.ChatSysM.GrowSoul",
+        "text": "<<arg p=[1:string]/>>[<arg p=[2:string]/>] <arg p=[3:string]/> Soul </><<arg p=[4 "
+    },
+    "9001080": {
+        "deprecated": false,
+        "Dev_Desc": "소울 성장 브로드캐스팅",
+        "id": 9001080,
+        "alias": "SysM.BroadCasting.GrowSoul",
+        "text": "[<arg p=[1:string]/>] <arg p=[2:string]/> soul <arg p=[3:string]/> <arg p=[4:integer]/>last name "
     }
 }

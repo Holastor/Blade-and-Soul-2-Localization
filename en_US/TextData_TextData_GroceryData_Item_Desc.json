@@ -11,14 +11,14 @@
         "Dev_Desc": "이동속도 물약 (상급)",
         "id": 99000001,
         "alias": "Contents.Item.Desc.9000023",
-        "text": "이동속도 물약 (상급)<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_011.Icon_Test_TextForm_011'] width=[20] height=[20]/>허수아비 로밍"
+        "text": "이동속도 물약 (상급)<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_011.Icon_Test_TextForm_011']>width=[20]>height=[20]/>허수아비 로밍"
     },
     "99000002": {
         "deprecated": false,
         "Dev_Desc": "이동속도 물약 (고급)",
         "id": 99000002,
         "alias": "Contents.Item.Desc.9000024",
-        "text": "이동속도 물약 (고급)<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_011.Icon_Test_TextForm_011'] width=[20] height=[20]/>허수아비 로밍"
+        "text": "이동속도 물약 (고급)<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_011.Icon_Test_TextForm_011']>width=[20]>height=[20]/>허수아비 로밍"
     },
     "99000003": {
         "deprecated": false,
@@ -151,7 +151,7 @@
         "Dev_Desc": "초급 생명력 비약",
         "id": 99000021,
         "alias": "Contents.Item.Desc.9000068",
-        "text": "초급 생명력 비약<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_011.Icon_Test_TextForm_011'] width=[20] height=[20]/>허수아비 로밍"
+        "text": "초급 생명력 비약<br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_011.Icon_Test_TextForm_011']>width=[20]>height=[20]/>허수아비 로밍"
     },
     "99000022": {
         "deprecated": false,
@@ -410,42 +410,42 @@
         "Dev_Desc": "일반 탐지비급 상자",
         "id": 99000058,
         "alias": "Contents.Item.Desc.9000196",
-        "text": "일반 탐지비급이 들어 있는 상자입니다.<br/><br/><fontStyle=[TestStyleB]>획득 가능 물품</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Distance_001.Icon_Test_Detect_Distance_001'] width=[32] height=[32]/>탐지 거리 1단계<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Height_001.Icon_Test_Detect_Height_001'] width=[32] height=[32]/>탐지 높이 1단계<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Target_001.Icon_Test_Detect_Target_001'] width=[32] height=[32]/>탐지 대상 1단계<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Duration_001.Icon_Test_Detect_Duration_001'] width=[32] height=[32]/>탐지 시간 1단계<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Cooltime_001.Icon_Test_Detect_Cooltime_001'] width=[32] height=[32]/>탐지 재사용 1단계"
+        "text": "일반 탐지비급이 들어 있는 상자입니다.<br/><br/><fontStyle=[TestStyleB]>획득 가능 물품</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Distance_001.Icon_Test_Detect_Distance_001']>width=[32]>height=[32]/>탐지 거리 1단계<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Height_001.Icon_Test_Detect_Height_001']>width=[32]>height=[32]/>탐지 높이 1단계<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Target_001.Icon_Test_Detect_Target_001']>width=[32]>height=[32]/>탐지 대상 1단계<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Duration_001.Icon_Test_Detect_Duration_001']>width=[32]>height=[32]/>탐지 시간 1단계<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Cooltime_001.Icon_Test_Detect_Cooltime_001']>width=[32]>height=[32]/>탐지 재사용 1단계"
     },
     "99000059": {
         "deprecated": false,
         "Dev_Desc": "상급 탐지비급 상자",
         "id": 99000059,
         "alias": "Contents.Item.Desc.9000197",
-        "text": "상급 탐지비급이 들어 있는 상자입니다.<br/><br/><fontStyle=[TestStyleB]>획득 가능 물품</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Distance_002.Icon_Test_Detect_Distance_002'] width=[32] height=[32]/>탐지 거리 2단계<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Height_002.Icon_Test_Detect_Height_002'] width=[32] height=[32]/>탐지 높이 2단계<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Target_002.Icon_Test_Detect_Target_002'] width=[32] height=[32]/>탐지 대상 2단계<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Duration_002.Icon_Test_Detect_Duration_002'] width=[32] height=[32]/>탐지 시간 2단계<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Cooltime_002.Icon_Test_Detect_Cooltime_002'] width=[32] height=[32]/>탐지 재사용 2단계"
+        "text": "상급 탐지비급이 들어 있는 상자입니다.<br/><br/><fontStyle=[TestStyleB]>획득 가능 물품</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Distance_002.Icon_Test_Detect_Distance_002']>width=[32]>height=[32]/>탐지 거리 2단계<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Height_002.Icon_Test_Detect_Height_002']>width=[32]>height=[32]/>탐지 높이 2단계<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Target_002.Icon_Test_Detect_Target_002']>width=[32]>height=[32]/>탐지 대상 2단계<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Duration_002.Icon_Test_Detect_Duration_002']>width=[32]>height=[32]/>탐지 시간 2단계<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Cooltime_002.Icon_Test_Detect_Cooltime_002']>width=[32]>height=[32]/>탐지 재사용 2단계"
     },
     "99000060": {
         "deprecated": false,
         "Dev_Desc": "희귀 탐지비급 상자",
         "id": 99000060,
         "alias": "Contents.Item.Desc.9000198",
-        "text": "희귀 탐지비급이 들어 있는 상자입니다.<br/><br/><fontStyle=[TestStyleB]>획득 가능 물품</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Distance_003.Icon_Test_Detect_Distance_003'] width=[32] height=[32]/>탐지 거리 3단계<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Height_003.Icon_Test_Detect_Height_003'] width=[32] height=[32]/>탐지 높이 3단계<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Target_003.Icon_Test_Detect_Target_003'] width=[32] height=[32]/>탐지 대상 3단계<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Duration_003.Icon_Test_Detect_Duration_003'] width=[32] height=[32]/>탐지 시간 3단계<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Cooltime_003.Icon_Test_Detect_Cooltime_003'] width=[32] height=[32]/>탐지 재사용 3단계"
+        "text": "희귀 탐지비급이 들어 있는 상자입니다.<br/><br/><fontStyle=[TestStyleB]>획득 가능 물품</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Distance_003.Icon_Test_Detect_Distance_003']>width=[32]>height=[32]/>탐지 거리 3단계<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Height_003.Icon_Test_Detect_Height_003']>width=[32]>height=[32]/>탐지 높이 3단계<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Target_003.Icon_Test_Detect_Target_003']>width=[32]>height=[32]/>탐지 대상 3단계<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Duration_003.Icon_Test_Detect_Duration_003']>width=[32]>height=[32]/>탐지 시간 3단계<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Cooltime_003.Icon_Test_Detect_Cooltime_003']>width=[32]>height=[32]/>탐지 재사용 3단계"
     },
     "99000061": {
         "deprecated": false,
         "Dev_Desc": "영웅 탐지비급 상자",
         "id": 99000061,
         "alias": "Contents.Item.Desc.9000199",
-        "text": "영웅 탐지비급이 들어 있는 상자입니다.<br/><br/><fontStyle=[TestStyleB]>획득 가능 물품</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Distance_004.Icon_Test_Detect_Distance_004'] width=[32] height=[32]/>탐지 거리 4단계<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Height_004.Icon_Test_Detect_Height_004'] width=[32] height=[32]/>탐지 높이 4단계<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Target_004.Icon_Test_Detect_Target_004'] width=[32] height=[32]/>탐지 대상 4단계<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Duration_004.Icon_Test_Detect_Duration_004'] width=[32] height=[32]/>탐지 시간 4단계<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Cooltime_004.Icon_Test_Detect_Cooltime_004'] width=[32] height=[32]/>탐지 재사용 4단계"
+        "text": "영웅 탐지비급이 들어 있는 상자입니다.<br/><br/><fontStyle=[TestStyleB]>획득 가능 물품</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Distance_004.Icon_Test_Detect_Distance_004']>width=[32]>height=[32]/>탐지 거리 4단계<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Height_004.Icon_Test_Detect_Height_004']>width=[32]>height=[32]/>탐지 높이 4단계<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Target_004.Icon_Test_Detect_Target_004']>width=[32]>height=[32]/>탐지 대상 4단계<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Duration_004.Icon_Test_Detect_Duration_004']>width=[32]>height=[32]/>탐지 시간 4단계<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Cooltime_004.Icon_Test_Detect_Cooltime_004']>width=[32]>height=[32]/>탐지 재사용 4단계"
     },
     "99000062": {
         "deprecated": false,
         "Dev_Desc": "전설 탐지비급 상자",
         "id": 99000062,
         "alias": "Contents.Item.Desc.9000200",
-        "text": "전설 탐지비급이 들어 있는 상자입니다.<br/><br/><fontStyle=[TestStyleB]>획득 가능 물품</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Target_005.Icon_Test_Detect_Target_005'] width=[32] height=[32]/>탐지 대상 5단계<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Duration_005.Icon_Test_Detect_Duration_005'] width=[32] height=[32]/>탐지 시간 5단계<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Cooltime_005.Icon_Test_Detect_Cooltime_005'] width=[32] height=[32]/>탐지 재사용 5단계"
+        "text": "전설 탐지비급이 들어 있는 상자입니다.<br/><br/><fontStyle=[TestStyleB]>획득 가능 물품</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Target_005.Icon_Test_Detect_Target_005']>width=[32]>height=[32]/>탐지 대상 5단계<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Duration_005.Icon_Test_Detect_Duration_005']>width=[32]>height=[32]/>탐지 시간 5단계<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Cooltime_005.Icon_Test_Detect_Cooltime_005']>width=[32]>height=[32]/>탐지 재사용 5단계"
     },
     "99000063": {
         "deprecated": false,
         "Dev_Desc": "식별 탐지비급 상자",
         "id": 99000063,
         "alias": "Contents.Item.Desc.9000201",
-        "text": "식별 탐지비급이 들어 있는 상자입니다. 사용 시 식별 탐지비급을 무작위로 1개 획득할 수 있습니다.<br/><br/><fontStyle=[TestStyleB]>획득 가능 물품</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Identify_001.Icon_Test_Detect_Identify_001'] width=[32] height=[32]/>탐지 거리 표시<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Identify_002.Icon_Test_Detect_Identify_002'] width=[32] height=[32]/>도검 식별<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Identify_003.Icon_Test_Detect_Identify_003'] width=[32] height=[32]/>권갑 식별<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Identify_004.Icon_Test_Detect_Identify_004'] width=[32] height=[32]/>도끼 식별<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Identify_005.Icon_Test_Detect_Identify_005'] width=[32] height=[32]/>활 식별<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Identify_006.Icon_Test_Detect_Identify_006'] width=[32] height=[32]/>기공패 식별<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Identify_008.Icon_Test_Detect_Identify_008'] width=[32] height=[32]/>문파장 식별<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Identify_009.Icon_Test_Detect_Identify_009'] width=[32] height=[32]/>보스 식별"
+        "text": "식별 탐지비급이 들어 있는 상자입니다. 사용 시 식별 탐지비급을 무작위로 1개 획득할 수 있습니다.<br/><br/><fontStyle=[TestStyleB]>획득 가능 물품</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Identify_001.Icon_Test_Detect_Identify_001']>width=[32]>height=[32]/>탐지 거리 표시<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Identify_002.Icon_Test_Detect_Identify_002']>width=[32]>height=[32]/>도검 식별<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Identify_003.Icon_Test_Detect_Identify_003']>width=[32]>height=[32]/>권갑 식별<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Identify_004.Icon_Test_Detect_Identify_004']>width=[32]>height=[32]/>도끼 식별<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Identify_005.Icon_Test_Detect_Identify_005']>width=[32]>height=[32]/>활 식별<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Identify_006.Icon_Test_Detect_Identify_006']>width=[32]>height=[32]/>기공패 식별<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Identify_008.Icon_Test_Detect_Identify_008']>width=[32]>height=[32]/>문파장 식별<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Identify_009.Icon_Test_Detect_Identify_009']>width=[32]>height=[32]/>보스 식별"
     },
     "99000064": {
         "deprecated": false,
@@ -472,7 +472,7 @@
         "Dev_Desc": "의뢰서테스트용 스크롤",
         "id": 99000067,
         "alias": "Contents.Item.Desc.9000233",
-        "text": "This is an item for testing the [Request Form] request. You can obtain the mission [Turtle Tortoise]."
+        "text": "This is an item for testing the [Request Form]>request. You can obtain the mission [Turtle Tortoise]."
     },
     "99000068": {
         "deprecated": false,
@@ -2856,7 +2856,7 @@
         "Dev_Desc": "대장도치의 사과",
         "id": 99000410,
         "alias": "Contents.Item.Desc.9000640",
-        "text": "대장도치가 소중히 등에 엎고 다니던 맛있는 사과입니다. <br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>대장도치"
+        "text": "대장도치가 소중히 등에 엎고 다니던 맛있는 사과입니다. <br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002']>width=[20]>height=[20]/>대장도치"
     },
     "99000411": {
         "deprecated": false,
@@ -2869,14 +2869,14 @@
         "Dev_Desc": "채랑랑의 투엽단 명패",
         "id": 99000412,
         "alias": "Contents.Item.Desc.9000642",
-        "text": "투엽단 소속임을 증명하는 명패입니다. <br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>채랑랑"
+        "text": "투엽단 소속임을 증명하는 명패입니다. <br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002']>width=[20]>height=[20]/>채랑랑"
     },
     "99000413": {
         "deprecated": false,
         "Dev_Desc": "대왕 거미의 독니",
         "id": 99000413,
         "alias": "Contents.Item.Desc.9000643",
-        "text": "대왕 거미의 이빨에서 짠 독은 매우 치명적이어서 거대한 동물들을 사냥할 때 종종 쓰이곤 합니다. <br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>대왕 거미"
+        "text": "대왕 거미의 이빨에서 짠 독은 매우 치명적이어서 거대한 동물들을 사냥할 때 종종 쓰이곤 합니다. <br/><br/><fontStyle=[TestStyleB]>획득처</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002']>width=[20]>height=[20]/>대왕 거미"
     },
     "99000414": {
         "deprecated": false,
@@ -3355,21 +3355,21 @@
         "Dev_Desc": "비사전",
         "id": 99000486,
         "alias": "Contents.Item.Desc.9200001",
-        "text": "Can be used to purchase [Common Weapons] from [Non-Advance Exchange Vendors] or to purchase various consumables from the [Shop].\n\n[Rift], [Collaboration], [Lightning Victory Box] ], etc."
+        "text": "Can be used to purchase [Common Weapons]>from [Non-Advance Exchange Vendors]>or to purchase various consumables from the [Shop].\n\n[Rift], [Collaboration], [Lightning Victory Box]>], etc."
     },
     "99000487": {
         "deprecated": false,
         "Dev_Desc": "도화전",
         "id": 99000487,
         "alias": "Contents.Item.Desc.9200002",
-        "text": "You can exchange [Rare] grade [Soul], [Guard Spirit], [Costume Box], etc., for valuable items in the [Shop]. Also, [Charge Stone] sold by [Moon-Paris], [Blessed You can also purchase [Fortification Book], etc.\n\nIt can be obtained from [The Vault of Paintings] or [Clan Attendance] sold at the [Shop]."
+        "text": "You can exchange [Rare]>grade [Soul], [Guard Spirit], [Costume Box], etc., for valuable items in the [Shop]. Also, [Charge Stone]>sold by [Moon-Paris], [Blessed You can also purchase [Fortification Book], etc.\n\nIt can be obtained from [The Vault of Paintings]>or [Clan Attendance]>sold at the [Shop]."
     },
     "99000488": {
         "deprecated": false,
         "Dev_Desc": "장인의 증표",
         "id": 99000488,
         "alias": "Contents.Item.Desc.9200003",
-        "text": "A coin that allows you to purchase [weapon] and [armor] from the [Token Exchanger] in the village.\n\nYou can obtain it by [Tale], [Defeat monsters], etc.\nThe equipment possessed by n[Token Exchanger] can be usefully used in the Equipment Encyclopedia along with efficient performance."
+        "text": "A coin that allows you to purchase [weapon]>and [armor]>from the [Token Exchanger]>in the village.\n\nYou can obtain it by [Tale], [Defeat monsters], etc.\nThe equipment possessed by n[Token Exchanger]>can be usefully used in the Equipment Encyclopedia along with efficient performance."
     },
     "99000489": {
         "deprecated": false,
@@ -3817,7 +3817,7 @@
         "Dev_Desc": "무기 강화 주문서 (각인)",
         "id": 99000552,
         "alias": "Contents.Item.Desc.9200310",
-        "text": "A material used for enhancement.<br/>Normal: 1<br/>Blessing: 1-2<br/>Curse: -1\n\n[Shop], [Collaboration], [Golden] Forest Path], etc."
+        "text": "A material used for enhancement.<br/>Normal: 1<br/>Blessing: 1-2<br/>Curse: -1\n\n[Shop], [Collaboration], [Golden]>Forest Path], etc."
     },
     "99000553": {
         "deprecated": false,
@@ -3838,7 +3838,7 @@
         "Dev_Desc": "방어구 강화 주문서 (각인)",
         "id": 99000555,
         "alias": "Contents.Item.Desc.9200313",
-        "text": "A material used for enhancement.<br/>Normal: 1<br/>Blessing: 1-2<br/>Curse: -1\n\n[Shop], [Collaboration], [Golden] Forest Path], etc."
+        "text": "A material used for enhancement.<br/>Normal: 1<br/>Blessing: 1-2<br/>Curse: -1\n\n[Shop], [Collaboration], [Golden]>Forest Path], etc."
     },
     "99000556": {
         "deprecated": false,
@@ -5957,7 +5957,7 @@
         "Dev_Desc": "영웅 / 어검징표 / 액티브 / 각인",
         "id": 99000895,
         "alias": "Contents.Item.Desc.9100140",
-        "text": "Puts a sword at an enemy to deal damage.\nApplies the effect of \"Sword Mark\".\nNumber of damage received from \"Sword Mark\" increases.\n\n[Effect] \nIncrease damage taken +10%"
+        "text": "Puts a sword at an enemy to deal damage.\nApplies the effect of \"Sword Mark\".\nNumber of damage received from \"Sword Mark\" increases.\n\n[Effect]>\nIncrease damage taken +10%"
     },
     "99000896": {
         "deprecated": false,
@@ -9188,14 +9188,14 @@
         "Dev_Desc": "극한의 정수 : 반마화살 (각인)",
         "id": 99001412,
         "alias": "Contents.Item.Desc.9101547",
-        "text": "Essence used for the evolution of Anti-Magic Arrows.\nWhen evolving, targets hit by the Anti-Magic Arrow cannot receive the effect until the [Extreme] Guardian [Extreme] effect for 10 seconds."
+        "text": "Essence used for the evolution of Anti-Magic Arrows.\nWhen evolving, targets hit by the Anti-Magic Arrow cannot receive the effect until the [Extreme]>Guardian [Extreme]>effect for 10 seconds."
     },
     "99001413": {
         "deprecated": false,
         "Dev_Desc": "돌파의 정수 : 반마화살 (각인)",
         "id": 99001413,
         "alias": "Contents.Item.Desc.9101548",
-        "text": "Essence used for the evolution of Anti-Magic Arrow.\nWhen evolving, it can cancel up to [Breaking] Protection, and targets hit by Anti-Magic Arrow cannot receive the effect up to [Breaking] Protection for 10 seconds."
+        "text": "Essence used for the evolution of Anti-Magic Arrow.\nWhen evolving, it can cancel up to [Breaking]>Protection, and targets hit by Anti-Magic Arrow cannot receive the effect up to [Breaking]>Protection for 10 seconds."
     },
     "99001414": {
         "deprecated": false,
@@ -13421,7 +13421,7 @@
         "Dev_Desc": "무림 개척자 무기 상자",
         "id": 99002178,
         "alias": "Contents.Item.Desc.9900028",
-        "text": "You can obtain one of the items below when used.\n\n- [Sword] +6 Full Moon Sword (Imprinted) x 1\n- [Gauntlet] +6 Jinwol Gauntlet (Imprinted) 1pc\n- [Axe] +6 Sasakwolbu (engraved) 1pc\n- [Qigong tile] +6 Chocheon qigong tile (engraved) 1pc\n- [Bow] +6 Baekwoogung (engraved) 1pc\n- [Beopjong] +6 Goblin Drop (Imprint) x 1"
+        "text": "You can obtain one of the items below when used.\n\n- [Sword]>+6 Full Moon Sword (Imprinted) x 1\n- [Gauntlet]>+6 Jinwol Gauntlet (Imprinted) 1pc\n- [Axe]>+6 Sasakwolbu (engraved) 1pc\n- [Qigong tile]>+6 Chocheon qigong tile (engraved) 1pc\n- [Bow]>+6 Baekwoogung (engraved) 1pc\n- [Beopjong]>+6 Goblin Drop (Imprint) x 1"
     },
     "99002179": {
         "deprecated": false,
@@ -16128,14 +16128,14 @@
         "Dev_Desc": "희귀 무공서 선택 상자 I",
         "id": 99002566,
         "alias": "Contents.Item.Desc.9900189",
-        "text": "When used, you can select one of the following items to obtain.\n\n- [Sword] Heaven-Slicing (Imprint) x 1\n- [Gauntlet] Legging (Imprint) x 1\n - [Axe] Whirlwind (engraving) 1ea\n- [Kigong Plaque] Hoejinbo (engraving) 1ea\n- [Bow] Killing Order (engraving) 1ea\n- [Bowjong] Healing Zone (engraving) 1ea "
+        "text": "When used, you can select one of the following items to obtain.\n\n- [Sword]>Heaven-Slicing (Imprint) x 1\n- [Gauntlet]>Legging (Imprint) x 1\n - [Axe]>Whirlwind (engraving) 1ea\n- [Kigong Plaque]>Hoejinbo (engraving) 1ea\n- [Bow]>Killing Order (engraving) 1ea\n- [Bowjong]>Healing Zone (engraving) 1ea "
     },
     "99002567": {
         "deprecated": false,
         "Dev_Desc": "희귀 무공서 선택 상자 II",
         "id": 99002567,
         "alias": "Contents.Item.Desc.9900190",
-        "text": "When used, you can select one of the following items to obtain.\n\n- [Sword] One Island (Imprint) 1 x\n- [Gauntlet] Fierce Tiger (Imprint) 1 x \n- [Axe] Rage (engraving) 1 x\n- [Kigong Plaque] Biryun Yeonhui (engraving) 1 x\n- [Bow] Multi-shot (engraving) x 1\n- [Beopjong] Blue (engraving) 1 x"
+        "text": "When used, you can select one of the following items to obtain.\n\n- [Sword]>One Island (Imprint) 1 x\n- [Gauntlet]>Fierce Tiger (Imprint) 1 x \n- [Axe]>Rage (engraving) 1 x\n- [Kigong Plaque]>Biryun Yeonhui (engraving) 1 x\n- [Bow]>Multi-shot (engraving) x 1\n- [Beopjong]>Blue (engraving) 1 x"
     },
     "99002568": {
         "deprecated": false,
@@ -16865,14 +16865,14 @@
         "Dev_Desc": "상급 무공 정수 선택 상자(증폭)",
         "id": 99002673,
         "alias": "Contents.Item.Desc.9900269",
-        "text": "When using, you can select one of the following items.\n\n- [Sword] An integer of amplification: 1\n- [Sword] An integer of amplification: Jump (engraved) 1\n- [Index] An integer of amplification: 1 grinding (engraved)\n- [Index] An integer of amplification: Signed angle (engraved) 1\n- [Ax] An integer of amplification: 1 light-wind (engraved)\n- [Ax] An integer of amplification: 1st (engraved)\n- [Porcelain] An integer of amplification: 1 Chinese (engraved)\n- [Porcelags] An integer of amplification: 1 meteor (engraved)\n- [Bow] An integer of amplification: 1 arrow ratio (engraved)\n- [Bow] Integer of amplification: Trace arrow (engraved) 1\n- [Grant] Integer of amplification: 1 person (engraved) 1\n- [Grant] Integer of amplification: 1 planting (engraving) 1 "
+        "text": "When using, you can select one of the following items.\n\n- [Sword]>An integer of amplification: 1\n- [Sword]>An integer of amplification: Jump (engraved) 1\n- [Index]>An integer of amplification: 1 grinding (engraved)\n- [Index]>An integer of amplification: Signed angle (engraved) 1\n- [Ax]>An integer of amplification: 1 light-wind (engraved)\n- [Ax]>An integer of amplification: 1st (engraved)\n- [Porcelain]>An integer of amplification: 1 Chinese (engraved)\n- [Porcelags]>An integer of amplification: 1 meteor (engraved)\n- [Bow]>An integer of amplification: 1 arrow ratio (engraved)\n- [Bow]>Integer of amplification: Trace arrow (engraved) 1\n- [Grant]>Integer of amplification: 1 person (engraved) 1\n- [Grant]>Integer of amplification: 1 planting (engraving) 1 "
     },
     "99002674": {
         "deprecated": false,
         "Dev_Desc": "상급 무공 정수 선택 상자(극한)",
         "id": 99002674,
         "alias": "Contents.Item.Desc.9900275",
-        "text": "When using, you can select one of the following items.\n\n- [Sword] Extreme integer: 1\n- [Sword] Extreme integer: 1 jump (engraved) 1\n- [Index] Extreme integer: 1 grinding (engraved) 1\n- [Index] Extreme integer: Signed angle (engraved) 1\n- [Ax] Extreme integer: 1 light (engraved) 1\n- [Ax] Extreme integer: 1 stack (engraved) 1\n- [Porcelags] Extreme integer: 1 Chinese (engraved)\n- [Porcelain] Extreme integer: 1 meteor (engraved)\n- [Bow] Extreme integer: 1 arrow ratio (engraved)\n- [Bow] Extreme integer: Trace arrow (engraved) 1\n- [Dragon] Extreme integer: 1 person (engraved) 1\n- [Dragon] Extreme integer: 1 planting (engraved) 1 "
+        "text": "When using, you can select one of the following items.\n\n- [Sword]>Extreme integer: 1\n- [Sword]>Extreme integer: 1 jump (engraved) 1\n- [Index]>Extreme integer: 1 grinding (engraved) 1\n- [Index]>Extreme integer: Signed angle (engraved) 1\n- [Ax]>Extreme integer: 1 light (engraved) 1\n- [Ax]>Extreme integer: 1 stack (engraved) 1\n- [Porcelags]>Extreme integer: 1 Chinese (engraved)\n- [Porcelain]>Extreme integer: 1 meteor (engraved)\n- [Bow]>Extreme integer: 1 arrow ratio (engraved)\n- [Bow]>Extreme integer: Trace arrow (engraved) 1\n- [Dragon]>Extreme integer: 1 person (engraved) 1\n- [Dragon]>Extreme integer: 1 planting (engraved) 1 "
     },
     "99002675": {
         "deprecated": false,
@@ -16897,21 +16897,21 @@
     },
     "99002678": {
         "deprecated": false,
-        "Dev_Desc": "낡은 소혼의 병풍: 망가진 미궁 수호자(이벤트)",
+        "Dev_Desc": "낡은 소혼의 병풍: 망가진 수호자(이벤트)",
         "id": 99002678,
         "alias": "Contents.Item.Desc.9900277",
         "text": "This item is used for the clan boss summoning event.\n\nThis is a small soul screen that can be used at the clan manor's summoning site.\nA broken labyrinth guardian is summoned in front of the character using the small soul screen.\n Broken Labyrinth Guardians are summoned and maintained until killed.\nWhen you defeat the Broken Labyrinth Guardians, you can obtain Ordinary Small Soul Screen: Runaway Labyrinth Guardian (event)."
     },
     "99002679": {
         "deprecated": false,
-        "Dev_Desc": "평범한 소혼의 병풍: 폭주한 미궁 수호자(이벤트)",
+        "Dev_Desc": "평범한 소혼의 병풍: 폭주한 수호자(이벤트)",
         "id": 99002679,
         "alias": "Contents.Item.Desc.9900278",
         "text": "This item is used for the clan boss summoning event.\n\nThis is a screen of small souls that can be used at the summoning site of the clan manor.\nA labyrinth protector who ran wild in front of the character using the screen of sorcery is summoned.\nThe Runaway Labyrinth Guardian is summoned and maintained until killed.\nWhen you defeat the Runaway Labyrinth Guardian, you can obtain the Shining Screen of Souls: Labyrinth of Destruction Guardian (event)."
     },
     "99002680": {
         "deprecated": false,
-        "Dev_Desc": "빛나는 소혼의 병풍: 파괴의 미궁 수호자(이벤트)",
+        "Dev_Desc": "빛나는 소혼의 병풍: 파괴의 수호자(이벤트)",
         "id": 99002680,
         "alias": "Contents.Item.Desc.9900279",
         "text": "This item is used for the clan boss summoning event.\n\nThis is a small soul screen that can be used at the clan manor's summoning site.\nA labyrinth of destruction guardian is summoned in front of the character who uses the small soul screen.\nThe Labyrinth of Destruction Guardian is summoned and maintained until killed."
@@ -17209,5 +17209,257 @@
         "id": 99002722,
         "alias": "Contents.Item.Desc.9900321",
         "text": "You can obtain 1 Soul Fragment of Horyong Kwak when used.<br/>(Rank: Heroic)"
+    },
+    "99002723": {
+        "deprecated": false,
+        "Dev_Desc": "희귀 의상 주머니(이벤트)",
+        "id": 99002723,
+        "alias": "Contents.Item.Desc.9900322",
+        "text": "When used, you can obtain 1 outfit according to a set probability. "
+    },
+    "99002729": {
+        "deprecated": false,
+        "Dev_Desc": "낡은 소혼의 병풍 선택 상자",
+        "id": 99002729,
+        "alias": "Contents.Item.Desc.9900328",
+        "text": "When used, you can obtain an Old Screen of Souls."
+    },
+    "99002730": {
+        "deprecated": false,
+        "Dev_Desc": "낡은 소혼의 병풍: 바위손 동충(이벤트)",
+        "id": 99002730,
+        "alias": "Contents.Item.Desc.9900329",
+        "text": "This item is used in the Munpa boss summoning event.\n\nThis is a small soul screen that can be used in the Summoning Grounds of the Munpa manor. "
+    },
+    "99002731": {
+        "deprecated": false,
+        "Dev_Desc": "낡은 소혼의 병풍: 망가진 수호자(이벤트)",
+        "id": 99002731,
+        "alias": "Contents.Item.Desc.9900330",
+        "text": "This item is used in the Munpa Boss Summon Event.\n\nThis is a screen of the soul that can be used in the Summoning Grounds of the Munpa Manor.\nA broken guardian will be summoned in front of the character who uses the screen of the minion.\nThe broken guardian will remain until killed after summoning "
+    },
+    "99002732": {
+        "deprecated": false,
+        "Dev_Desc": "낡은 소혼의 병풍: 이상한 우와(이벤트)",
+        "id": 99002732,
+        "alias": "Contents.Item.Desc.9900331",
+        "text": "This item is used in the Munpa Boss Summon Event.\n\nThis is a small soul screen that can be used in the Summoning Grounds of the Munpa Manor.\nA strange Uwa is summoned in front of the character who uses the solitary screen.\nThe strange Uwa is maintained until after being summoned and killed. "
+    },
+    "99002733": {
+        "deprecated": false,
+        "Dev_Desc": "평범한 소혼의 병풍: 강철손 동충(이벤트)",
+        "id": 99002733,
+        "alias": "Contents.Item.Desc.9900332",
+        "text": "This item is used in the Munpa Boss Summon Event.\n\nThis is a small soul screen that can be used in the Summoning Grounds of the Munpa Manor.\nA Steel-Handed Dongchong is summoned in front of the character who uses the Solitary Screen. "
+    },
+    "99002734": {
+        "deprecated": false,
+        "Dev_Desc": "평범한 소혼의 병풍: 폭주한 수호자(이벤트)",
+        "id": 99002734,
+        "alias": "Contents.Item.Desc.9900333",
+        "text": "This item is used in the Munpa Boss Summon Event.\n\nThis is a screen of small souls that can be used in the summoning site of the Munpa Manor.\nA raging guardian is summoned in front of the character who uses the screen of solitary. "
+    },
+    "99002735": {
+        "deprecated": false,
+        "Dev_Desc": "평범한 소혼의 병풍: 괴이한 우와(이벤트)",
+        "id": 99002735,
+        "alias": "Contents.Item.Desc.9900334",
+        "text": "This item is used in the Munpa Boss Summon Event.\n\nThis is a small soul screen that can be used in the Summoning Grounds of the Munpa Manor.\nA strange Uwa is summoned in front of the character who uses the solitary screen.\nThe mysterious Uwa is maintained until killed after summoning "
+    },
+    "99002736": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 소혼의 병풍: 붉은손 동충(이벤트)",
+        "id": 99002736,
+        "alias": "Contents.Item.Desc.9900335",
+        "text": "This item is used in the Munpa Boss Summon Event.\n\nThis is a small soul screen that can be used in the Summoning Grounds of the Munpa Manor. "
+    },
+    "99002737": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 소혼의 병풍: 파괴의 수호자(이벤트)",
+        "id": 99002737,
+        "alias": "Contents.Item.Desc.9900336",
+        "text": "This item is used for the Monk Boss Summon Event.\n\nThis is a screen of small souls that can be used in the Summoning Grounds of the Monarch Manor.\nA Guardian of Destruction is summoned in front of the character who uses the screen of Sonam.\nThe Guardian of Destruction is summoned and until killed "
+    },
+    "99002738": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 소혼의 병풍: 타락한 우와(이벤트)",
+        "id": 99002738,
+        "alias": "Contents.Item.Desc.9900337",
+        "text": "This item is used in the Munpa Boss Summon Event.\n\nThis is a small soul screen that can be used in the Summoning Grounds of the Munpa Manor.\nCorrupted Uwa is summoned in front of the character who uses the small soul screen. "
+    },
+    "99002739": {
+        "deprecated": false,
+        "Dev_Desc": "용염(각인)",
+        "id": 99002739,
+        "alias": "Contents.Item.Desc.9900338",
+        "text": "A very special material used to craft equipment."
+    },
+    "99002740": {
+        "deprecated": false,
+        "Dev_Desc": "소울 파편 선택 꾸러미(1개)",
+        "id": 99002740,
+        "alias": "Contents.Item.Desc.9900339",
+        "text": "You can obtain it by selecting one of the following soul fragments when used.<br/>(Rank: Hero)\n\n\n- Hongdonsam shard 1\n- Runaway Guard Captain 1 shard\n- Boss Duukshini 1 shard\n- Choryungmok "
+    },
+    "99002741": {
+        "deprecated": false,
+        "Dev_Desc": "협행상자: 반달호수",
+        "id": 99002741,
+        "alias": "Contents.Item.Desc.9900340",
+        "text": "You can acquire Vandal Lake Compensation Equipment according to a set probability."
+    },
+    "99002742": {
+        "deprecated": false,
+        "Dev_Desc": "협행상자: 태록림",
+        "id": 99002742,
+        "alias": "Contents.Item.Desc.9900341",
+        "text": "You can obtain the Taerokrim Compensation Equipment according to a set probability."
+    },
+    "99002743": {
+        "deprecated": false,
+        "Dev_Desc": "협행상자: 비옥대지",
+        "id": 99002743,
+        "alias": "Contents.Item.Desc.9900342",
+        "text": "You can obtain the Fertile Land Compensation Equipment at a certain rate."
+    },
+    "99002744": {
+        "deprecated": false,
+        "Dev_Desc": "문파 봉마함: 1단(만년설)",
+        "id": 99002744,
+        "alias": "Contents.Item.Desc.9900343",
+        "text": "This is a reward for participating in the clan boss.\n\nYou can obtain Snowflake, Secret, Essence Fragment, and Rare grade armor at a chance."
+    },
+    "99002745": {
+        "deprecated": false,
+        "Dev_Desc": "문파 봉마함: 2단(만년설)",
+        "id": 99002745,
+        "alias": "Contents.Item.Desc.9900344",
+        "text": "This is a reward for participating in the clan boss.\n\nYou can obtain Snowflake, Secret, Essence Fragment, and Rare grade armor at a chance."
+    },
+    "99002746": {
+        "deprecated": false,
+        "Dev_Desc": "문파 봉마함: 3단(만년설)",
+        "id": 99002746,
+        "alias": "Contents.Item.Desc.9900345",
+        "text": "This is a reward for participating in the clan boss.\n\nYou can obtain Snowflake, Secret, Essence Fragment, and Rare grade armor at a chance."
+    },
+    "99002747": {
+        "deprecated": false,
+        "Dev_Desc": "문파 봉마함: 1단(천년화정)",
+        "id": 99002747,
+        "alias": "Contents.Item.Desc.9900346",
+        "text": "This is a reward for participating in the clan boss.\n\nYou can obtain Millennium Hwajeong, Secret, Essence Fragment, and Rare grade armor at a chance."
+    },
+    "99002748": {
+        "deprecated": false,
+        "Dev_Desc": "문파 봉마함: 2단(천년화정)",
+        "id": 99002748,
+        "alias": "Contents.Item.Desc.9900347",
+        "text": "This is a reward for participating in the clan boss.\n\nYou can obtain Millennium Hwajeong, Secret, Essence Fragment, and Rare grade armor at a chance."
+    },
+    "99002749": {
+        "deprecated": false,
+        "Dev_Desc": "문파 봉마함: 3단(천년화정)",
+        "id": 99002749,
+        "alias": "Contents.Item.Desc.9900348",
+        "text": "This is a reward for participating in the clan boss.\n\nYou can obtain Millennium Hwajeong, Secret, Essence Fragment, and Rare grade armor at a chance."
+    },
+    "99002750": {
+        "deprecated": false,
+        "Dev_Desc": "문파 봉마함: 1단(천뢰석)",
+        "id": 99002750,
+        "alias": "Contents.Item.Desc.9900349",
+        "text": "This is a reward for participating in the clan boss.\n\nThere is a chance to obtain a thunderstone, secret, essence shard, and rare grade armor."
+    },
+    "99002751": {
+        "deprecated": false,
+        "Dev_Desc": "문파 봉마함: 2단(천뢰석)",
+        "id": 99002751,
+        "alias": "Contents.Item.Desc.9900350",
+        "text": "This is a reward for participating in the clan boss.\n\nThere is a chance to obtain a thunderstone, secret, essence shard, and rare grade armor."
+    },
+    "99002752": {
+        "deprecated": false,
+        "Dev_Desc": "문파 봉마함: 3단(천뢰석)",
+        "id": 99002752,
+        "alias": "Contents.Item.Desc.9900351",
+        "text": "This is a reward for participating in the clan boss.\n\nThere is a chance to obtain a thunderstone, secret, essence shard, and rare grade armor."
+    },
+    "99002753": {
+        "deprecated": false,
+        "Dev_Desc": "3주차 대사형의 무기 상자(30레벨)",
+        "id": 99002753,
+        "alias": "Contents.Item.Desc.9900352",
+        "text": "A weapon box that can be used to obtain one of some rare weapons."
+    },
+    "99002754": {
+        "deprecated": false,
+        "Dev_Desc": "3주차 대사형의 무기 상자(40레벨)",
+        "id": 99002754,
+        "alias": "Contents.Item.Desc.9900353",
+        "text": "A weapon box that can be used to obtain one of some rare weapons."
+    },
+    "99002755": {
+        "deprecated": false,
+        "Dev_Desc": "3주차 대사형의 무기 상자(50레벨)",
+        "id": 99002755,
+        "alias": "Contents.Item.Desc.9900354",
+        "text": "A weapon box that can be used to obtain one of some rare weapons."
+    },
+    "99002756": {
+        "deprecated": false,
+        "Dev_Desc": "찬란한 소울 파편(1회)",
+        "id": 99002756,
+        "alias": "Contents.Item.Desc.9900355",
+        "text": "When used, you can obtain 7 Soul Fragments according to a set probability.\n (Rare ~ Heroic)"
+    },
+    "99002757": {
+        "deprecated": false,
+        "Dev_Desc": "영웅 소울 파편(2개) 선택 꾸러미",
+        "id": 99002757,
+        "alias": "Contents.Item.Desc.9900356",
+        "text": "You can obtain it by selecting one of the following Soul Shards when used.\n(Rank - Heroic)\n\n- Baobao Fragments 2\n- Biryuha 2 Shards\n- Perlong Perong 2 Fragments\n- Moonwind 2 Fragments "
+    },
+    "99002758": {
+        "deprecated": false,
+        "Dev_Desc": "신비한 무기 상자(이벤트)",
+        "id": 99002758,
+        "alias": "Contents.Item.Name.9900357",
+        "text": "When used, the following items can be obtained with a set probability.\n\n- Rare Weapon Crafting Secret Fragment (Engraving)\n- Forgotten Hero Weapon Crafting Secret Fragment (Engraving)\n- Weapon Enhancement Scroll (Engraving)\n- Blessed "
+    },
+    "99002759": {
+        "deprecated": false,
+        "Dev_Desc": "신비한 방어구 상자(이벤트)",
+        "id": 99002759,
+        "alias": "Contents.Item.Name.9900358",
+        "text": "When used, the following items can be obtained according to a set probability.\n\n- Rare Armor Crafting Secret Fragment (Engraving)\n- Hero Armor Crafting Secret Fragment (Engraving)\n- Armor Enhancement Scroll (Engraving)\n- Blessed Armor "
+    },
+    "99002760": {
+        "deprecated": false,
+        "Dev_Desc": "잊혀진 영웅 무기 제작 비법서(각인)",
+        "id": 99002760,
+        "alias": "Contents.Item.Name.9900359",
+        "text": "Contains the secret to crafting Heroic or higher grade equipment."
+    },
+    "99002761": {
+        "deprecated": false,
+        "Dev_Desc": "잊혀진 영웅 무기 제작 비법서 조각(각인)",
+        "id": 99002761,
+        "alias": "Contents.Item.Name.9900360",
+        "text": "You can craft a recipe for making a hero weapon."
+    },
+    "99002762": {
+        "deprecated": false,
+        "Dev_Desc": "영웅 무기 선택 상자(각인)",
+        "id": 99002762,
+        "alias": "Contents.Item.Name.9900361",
+        "text": "When used, you can obtain one of the items below.\n\n- Sword of the Forgotten Executioner\n- Fist of Forgotten Condemnation\n- Mirror of Forgotten Sins\n- Ax of Forgotten Fanatics\n- Bow of Forgotten Punisher\n- Forgotten Arm "
+    },
+    "99002763": {
+        "deprecated": false,
+        "Dev_Desc": "사자의 춤 의상 주머니(각인)",
+        "id": 99002763,
+        "alias": "Contents.Item.Desc.9900362",
+        "text": "You can obtain a Legendary-grade costume when used.\n\n- Dance of the Lion"
     }
 }

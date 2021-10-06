@@ -2412,7 +2412,7 @@
         "Dev_Desc": "NPC상점 / ",
         "id": 8000345,
         "alias": "UI.Shop.PopUpText.Sell.Confirm.2",
-        "text": "[<arg p=[1:string]/>] and <arg p=[2:integer]/>species <fontStyle=[FunctionStyleA]>sell</><br/><textColor=[209:73:60:255]>Items expire when sold</>"
+        "text": "[<arg p=[1:string]/>]>and <arg p=[2:integer]/>species <fontStyle=[FunctionStyleA]>sell</><br/><textColor=[209:73:60:255]>Items expire when sold</>"
     },
     "8000346": {
         "deprecated": false,
@@ -7473,105 +7473,105 @@
         "Dev_Desc": "조작가이드 / 질주",
         "id": 8001121,
         "alias": "UI.CommandGuide.Sprint",
-        "text": "<img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_W] width=[44] height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Plus] width=[28] height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Ctrl] width=[44] height=[44]/> 혹은 <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_W] width=[44] height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_W] width=[44] height=[44]/>"
+        "text": "<img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6']>frame=[Key_W]>width=[44]>height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6']>frame=[Key_Plus]>width=[28]>height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6']>frame=[Key_Ctrl]>width=[44]>height=[44]/> 혹은 <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6']>frame=[Key_W]>width=[44]>height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6']>frame=[Key_W]>width=[44]>height=[44]/>"
     },
     "8001122": {
         "deprecated": false,
         "Dev_Desc": "조작가이드 / 질주 / 활루",
         "id": 8001122,
         "alias": "UI.CommandGuide.Sprint.Sliding",
-        "text": "질주 중 <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Shift] width=[91] height=[44]/> 유지"
+        "text": "질주 중 <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6']>frame=[Key_Shift]>width=[91]>height=[44]/> 유지"
     },
     "8001123": {
         "deprecated": false,
         "Dev_Desc": "조작가이드 / 질주 / 회류비",
         "id": 8001123,
         "alias": "UI.CommandGuide.Sprint.Drift",
-        "text": "질주 중 <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_A] width=[44] height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Plus] width=[28] height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Shift] width=[91] height=[44]/> 또는 <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_D] width=[44] height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Plus] width=[28] height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Shift] width=[91] height=[44]/>"
+        "text": "질주 중 <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6']>frame=[Key_A]>width=[44]>height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6']>frame=[Key_Plus]>width=[28]>height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6']>frame=[Key_Shift]>width=[91]>height=[44]/> 또는 <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6']>frame=[Key_D]>width=[44]>height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6']>frame=[Key_Plus]>width=[28]>height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6']>frame=[Key_Shift]>width=[91]>height=[44]/>"
     },
     "8001124": {
         "deprecated": false,
         "Dev_Desc": "조작가이드 / 질주 / 회류비 / 신속",
         "id": 8001124,
         "alias": "UI.CommandGuide.Sprint.Drift.Swift",
-        "text": "회류비 중 <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Shift] width=[91] height=[44]/> 놓기"
+        "text": "회류비 중 <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6']>frame=[Key_Shift]>width=[91]>height=[44]/> 놓기"
     },
     "8001125": {
         "deprecated": false,
         "Dev_Desc": "조작가이드 / 도약",
         "id": 8001125,
         "alias": "UI.CommandGuide.Highjump",
-        "text": "<img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Space] width=[190] height=[44]/> 유지"
+        "text": "<img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6']>frame=[Key_Space]>width=[190]>height=[44]/> 유지"
     },
     "8001126": {
         "deprecated": false,
         "Dev_Desc": "조작가이드 / 뛰기",
         "id": 8001126,
         "alias": "UI.CommandGuide.Jump",
-        "text": "<img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Space] width=[190] height=[44]/> 누르기"
+        "text": "<img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6']>frame=[Key_Space]>width=[190]>height=[44]/> 누르기"
     },
     "8001127": {
         "deprecated": false,
         "Dev_Desc": "조작가이드 / 활강",
         "id": 8001127,
         "alias": "UI.CommandGuide.Glide",
-        "text": "공중에 뜬 상태에서 <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Space] width=[190] height=[44]/>"
+        "text": "공중에 뜬 상태에서 <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6']>frame=[Key_Space]>width=[190]>height=[44]/>"
     },
     "8001128": {
         "deprecated": false,
         "Dev_Desc": "조작가이드 / 강하",
         "id": 8001128,
         "alias": "UI.CommandGuide.DescentDash",
-        "text": "활강 상태에서 <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Ctrl] width=[75] height=[44]/> 유지"
+        "text": "활강 상태에서 <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6']>frame=[Key_Ctrl]>width=[75]>height=[44]/> 유지"
     },
     "8001129": {
         "deprecated": false,
         "Dev_Desc": "조작가이드 / 강하 / 신속",
         "id": 8001129,
         "alias": "UI.CommandGuide.DescentDash.Swift",
-        "text": "강하 중 지면에 닿을 때 <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_W] width=[44] height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_A] width=[44] height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_S] width=[44] height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_D] width=[44] height=[44]/> 유지"
+        "text": "강하 중 지면에 닿을 때 <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6']>frame=[Key_W]>width=[44]>height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6']>frame=[Key_A]>width=[44]>height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6']>frame=[Key_S]>width=[44]>height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6']>frame=[Key_D]>width=[44]>height=[44]/> 유지"
     },
     "8001130": {
         "deprecated": false,
         "Dev_Desc": "조작가이드 / 천상비",
         "id": 8001130,
         "alias": "UI.CommandGuide.SkyDash",
-        "text": "활강 상태에서 <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Shift] width=[91] height=[44]/>"
+        "text": "활강 상태에서 <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6']>frame=[Key_Shift]>width=[91]>height=[44]/>"
     },
     "8001131": {
         "deprecated": false,
         "Dev_Desc": "조작가이드 / 수상비",
         "id": 8001131,
         "alias": "UI.CommandGuide.WaterSprint",
-        "text": "물에서 <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_W] width=[44] height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Plus] width=[28] height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Ctrl] width=[44] height=[44]/> 혹은 <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_W] width=[44] height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_W] width=[44] height=[44]/>"
+        "text": "물에서 <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6']>frame=[Key_W]>width=[44]>height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6']>frame=[Key_Plus]>width=[28]>height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6']>frame=[Key_Ctrl]>width=[44]>height=[44]/> 혹은 <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6']>frame=[Key_W]>width=[44]>height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6']>frame=[Key_W]>width=[44]>height=[44]/>"
     },
     "8001132": {
         "deprecated": false,
         "Dev_Desc": "조작가이드 / 수상비 / 수상 활루",
         "id": 8001132,
         "alias": "UI.CommandGuide.WaterSprint.WaterSliding",
-        "text": "수상비 중 <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Shift] width=[91] height=[44]/> 유지"
+        "text": "수상비 중 <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6']>frame=[Key_Shift]>width=[91]>height=[44]/> 유지"
     },
     "8001133": {
         "deprecated": false,
         "Dev_Desc": "조작가이드 / 수상비 / 수상 회류비",
         "id": 8001133,
         "alias": "UI.CommandGuide.WaterSprint.WaterDrift",
-        "text": "수상비 중 <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_A] width=[44] height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Plus] width=[28] height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Shift] width=[91] height=[44]/> 또는 <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_D] width=[44] height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Plus] width=[28] height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Shift] width=[91] height=[44]/>"
+        "text": "수상비 중 <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6']>frame=[Key_A]>width=[44]>height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6']>frame=[Key_Plus]>width=[28]>height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6']>frame=[Key_Shift]>width=[91]>height=[44]/> 또는 <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6']>frame=[Key_D]>width=[44]>height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6']>frame=[Key_Plus]>width=[28]>height=[44]/><img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6']>frame=[Key_Shift]>width=[91]>height=[44]/>"
     },
     "8001134": {
         "deprecated": false,
         "Dev_Desc": "조작가이드 / 수상비 / 수상 회류비 / 수상 신속",
         "id": 8001134,
         "alias": "UI.CommandGuide.WaterSprint.WaterDrift.WaterSwift",
-        "text": "수상 회류비 중 <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Shift] width=[91] height=[44]/> 놓기"
+        "text": "수상 회류비 중 <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6']>frame=[Key_Shift]>width=[91]>height=[44]/> 놓기"
     },
     "8001135": {
         "deprecated": false,
         "Dev_Desc": "조작가이드 / 수상비 / 수상 도약",
         "id": 8001135,
         "alias": "UI.CommandGuide.WaterSprint.WaterHightJump",
-        "text": "수상비 중 <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6'] frame=[Key_Space] width=[190] height=[44]/> 유지"
+        "text": "수상비 중 <img src=[Texture2D'/Game/UI/Resource/Img/SpriteSheet/HUD_MS6.HUD_MS6']>frame=[Key_Space]>width=[190]>height=[44]/> 유지"
     },
     "8001136": {
         "deprecated": false,
@@ -8684,7 +8684,7 @@
         "Dev_Desc": "로그인 UI / 선택 권한 고지 / 권한",
         "id": 8001295,
         "alias": "UI.Login.Authority.Desc2.AOS",
-        "text": "[Optional] Microphone: Permission to record audio when recording video\n[Optional] Storage space (photo/media/file): Save screen capture and video recording image, attach photo when writing a post or making a customer inquiry authority for"
+        "text": "[Optional]>Microphone: Permission to record audio when recording video\n[Optional]>Storage space (photo/media/file): Save screen capture and video recording image, attach photo when writing a post or making a customer inquiry authority for"
     },
     "8001296": {
         "deprecated": false,
@@ -13493,7 +13493,7 @@
         "Dev_Desc": "우편 제목 [컨텐츠 이름] 완료",
         "id": 8002001,
         "alias": "UI.Post.Title.ContentClear",
-        "text": "[<arg p=[1:string]/>] done"
+        "text": "[<arg p=[1:string]/>]>done"
     },
     "8002002": {
         "deprecated": false,
@@ -14907,14 +14907,14 @@
         "Dev_Desc": "소울 / 합성 포인트 보상 / 영웅",
         "id": 8002205,
         "alias": "UI.Soul.Compose.ComposePoint.heroic",
-        "text": "Would you like to earn [Heroic] Points?"
+        "text": "Would you like to earn [Heroic]>Points?"
     },
     "8002206": {
         "deprecated": false,
         "Dev_Desc": "소울 / 합성 포인트 보상 / 전설",
         "id": 8002206,
         "alias": "UI.Soul.Compose.ComposePoint.Legendary",
-        "text": "Would you like to earn [Legendary] Points?"
+        "text": "Would you like to earn [Legendary]>Points?"
     },
     "8002207": {
         "deprecated": false,
@@ -20142,7 +20142,7 @@
         "Dev_Desc": "로그인 UI / 선택 권한 고지 / 권한 / ios",
         "id": 8002959,
         "alias": "UI.Login.Authority.Desc2.IOS",
-        "text": "[Optional] Photo: Permission to save screen captures and video recordings, write posts, and attach photos when contacting customers"
+        "text": "[Optional]>Photo: Permission to save screen captures and video recordings, write posts, and attach photos when contacting customers"
     },
     "8002960": {
         "deprecated": false,
@@ -20191,7 +20191,7 @@
         "Dev_Desc": "무공 / 무공 진화 / 결과 / 성공",
         "id": 8002966,
         "alias": "UI.Skill.Result.Evolutuon.Success",
-        "text": "You have successfully evolved to acquire [%s] Martial Arts."
+        "text": "You have successfully evolved to acquire [%s]>Martial Arts."
     },
     "8002967": {
         "deprecated": false,
@@ -22704,5 +22704,82 @@
         "id": 8003325,
         "alias": "UI.Craft.LeftSubTabName.Event.Mukhwa_01",
         "text": "Ink Painting Package"
+    },
+    "8003326": {
+        "deprecated": false,
+        "Dev_Desc": "무공 / 진화 / 진화 불가 토스트메시지",
+        "id": 8003326,
+        "alias": "UI.Skill.Evolution.Desc.No",
+        "text": "It cannot be evolved due to the low attack power level."
+    },
+    "8003327": {
+        "deprecated": false,
+        "Dev_Desc": "무공 / 진화 / 진화 불가 / 상세정보창",
+        "id": 8003327,
+        "alias": "UI.Skill.Evolution.Desc.No2",
+        "text": "Prerequisites: Level 9 or higher"
+    },
+    "8003328": {
+        "deprecated": false,
+        "Dev_Desc": "무공 / 진화 / 진화 불가 / 상세정보창 / 임시",
+        "id": 8003328,
+        "alias": "UI.Skill.Evolution.Desc.LoadFail",
+        "text": "Prerequisites: The evolution prerequisites have not been met."
+    },
+    "8003329": {
+        "deprecated": false,
+        "Dev_Desc": "소울 / 합성 / 확률정보 / 성공 시 정보",
+        "id": 8003329,
+        "alias": "UI.Soul.Compose.ProbabilityInfo.SucceedDesc",
+        "text": "Acquire 1 of the following souls upon successful synthesis"
+    },
+    "8003330": {
+        "deprecated": false,
+        "Dev_Desc": "소울 / 합성 / 확률정보 / 실패 시 정보",
+        "id": 8003330,
+        "alias": "UI.Soul.Compose.ProbabilityInfo.FailureDesc",
+        "text": "Acquire 1 of the following souls when synthesizing fails"
+    },
+    "8003331": {
+        "deprecated": false,
+        "Dev_Desc": "소울 / 합성 / 확률정보 / 부분 성공 정보",
+        "id": 8003331,
+        "alias": "UI.Soul.Compose.ProbabilityInfo.PartialSucceedDesc.1",
+        "text": "When soul synthesis fails, 25% chance to acquire an additional 10 fragments of one of the souls below."
+    },
+    "8003332": {
+        "deprecated": false,
+        "Dev_Desc": "소울 / 합성 / 확률정보 / 부분 성공 정보",
+        "id": 8003332,
+        "alias": "UI.Soul.Compose.ProbabilityInfo.PartialSucceedDesc.2",
+        "text": "When soul synthesis fails, 20% chance to acquire an additional 10 fragments of one of the souls below"
+    },
+    "8003333": {
+        "deprecated": false,
+        "Dev_Desc": "소울 / 합성 / 확률정보 / 부분 성공 정보",
+        "id": 8003333,
+        "alias": "UI.Soul.Compose.ProbabilityInfo.PartialSucceedDesc.3",
+        "text": "When soul synthesis fails, 15% chance to acquire an additional 10 fragments of one of the souls below"
+    },
+    "8003334": {
+        "deprecated": false,
+        "Dev_Desc": "소울 / 합성 / 확률정보 / 부분 성공 정보",
+        "id": 8003334,
+        "alias": "UI.Soul.Compose.ProbabilityInfo.PartialSucceedDesc.4",
+        "text": "When soul synthesis fails, 10% chance to acquire an additional 10 fragments of one of the souls below."
+    },
+    "8003335": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 합성 / 확률정보",
+        "id": 8003335,
+        "alias": "UI.Pets.Compose.ProbabilityInfo.Desc",
+        "text": "Obtain 1 of the following guardian spirits when synthesizing"
+    },
+    "8003336": {
+        "deprecated": false,
+        "Dev_Desc": "이벤트 제작 레시피 탭 / 신비한 상자",
+        "id": 8003336,
+        "alias": "UI.Craft.LeftSubTabName.Event.MysticBox_01",
+        "text": "mysterious box"
     }
 }
