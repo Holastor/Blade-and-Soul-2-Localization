@@ -22676,33 +22676,110 @@
         "Dev_Desc": "타이틀 / 잠긴 계정 / 설명",
         "id": 8003321,
         "alias": "UI.Login.Fail.LockAccount.Desc",
-        "text": "账号处在被锁状态.\n更多信息请查看 [手机客服 > 1:1咨询]."
+        "text": "잠긴 상태의 계정입니다.\n자세한 내용은 [모바일 고객센터 > 1:1문의]를 통해 확인해 주세요."
     },
     "8003322": {
         "deprecated": false,
         "Dev_Desc": "환경설정 / 환경 / 사운드 / 전투보정",
         "id": 8003322,
         "alias": "UI.Option.Environment.Sound.AutoBattleSound",
-        "text": "去除战斗声音特效"
+        "text": "전투 효과음 피로도 완화"
     },
     "8003323": {
         "deprecated": false,
         "Dev_Desc": "환경설정 / 환경 / 사운드 / 전투보정툴팁",
         "id": 8003323,
         "alias": "UI.Option.Environment.Sound.AutoBattleSound.Tooltip",
-        "text": "减少战斗声音特效."
+        "text": "전투와 관련된 효과음 음량을 일괄적으로 감소시켜 줍니다."
     },
     "8003324": {
         "deprecated": false,
         "id": 8003324,
         "alias": "UI.Shop.Tittle.Name.10022",
-        "text": "不正经的商人"
+        "text": "비사문 상인"
     },
     "8003325": {
         "deprecated": false,
         "Dev_Desc": "묵화 수호령 이벤트 / 묵화 패키지",
         "id": 8003325,
         "alias": "UI.Craft.LeftSubTabName.Event.Mukhwa_01",
-        "text": "水墨礼包"
+        "text": "묵화 패키지"
+    },
+    "8003326": {
+        "deprecated": false,
+        "Dev_Desc": "무공 / 진화 / 진화 불가 토스트메시지",
+        "id": 8003326,
+        "alias": "UI.Skill.Evolution.Desc.No",
+        "text": "由于攻击力低，无法进化。"
+    },
+    "8003327": {
+        "deprecated": false,
+        "Dev_Desc": "무공 / 진화 / 진화 불가 / 상세정보창",
+        "id": 8003327,
+        "alias": "UI.Skill.Evolution.Desc.No2",
+        "text": "先决条件：9级或更高"
+    },
+    "8003328": {
+        "deprecated": false,
+        "Dev_Desc": "무공 / 진화 / 진화 불가 / 상세정보창 / 임시",
+        "id": 8003328,
+        "alias": "UI.Skill.Evolution.Desc.LoadFail",
+        "text": "先决条件：尚未满足进化先决条件。"
+    },
+    "8003329": {
+        "deprecated": false,
+        "Dev_Desc": "소울 / 합성 / 확률정보 / 성공 시 정보",
+        "id": 8003329,
+        "alias": "UI.Soul.Compose.ProbabilityInfo.SucceedDesc",
+        "text": "合成成功后获得下列灵魂之一"
+    },
+    "8003330": {
+        "deprecated": false,
+        "Dev_Desc": "소울 / 합성 / 확률정보 / 실패 시 정보",
+        "id": 8003330,
+        "alias": "UI.Soul.Compose.ProbabilityInfo.FailureDesc",
+        "text": "合成失败时获得以下灵魂中的1个"
+    },
+    "8003331": {
+        "deprecated": false,
+        "Dev_Desc": "소울 / 합성 / 확률정보 / 부분 성공 정보",
+        "id": 8003331,
+        "alias": "UI.Soul.Compose.ProbabilityInfo.PartialSucceedDesc.1",
+        "text": "当灵魂合成失败时，有 25% 的几率额外获得以下灵魂之一的 10 个碎片。"
+    },
+    "8003332": {
+        "deprecated": false,
+        "Dev_Desc": "소울 / 합성 / 확률정보 / 부분 성공 정보",
+        "id": 8003332,
+        "alias": "UI.Soul.Compose.ProbabilityInfo.PartialSucceedDesc.2",
+        "text": "灵魂合成失败时，有20%的几率额外获得10个以下灵魂之一的碎片。"
+    },
+    "8003333": {
+        "deprecated": false,
+        "Dev_Desc": "소울 / 합성 / 확률정보 / 부분 성공 정보",
+        "id": 8003333,
+        "alias": "UI.Soul.Compose.ProbabilityInfo.PartialSucceedDesc.3",
+        "text": "当灵魂合成失败时，有 15% 的几率额外获得以下灵魂之一的 10 个碎片。"
+    },
+    "8003334": {
+        "deprecated": false,
+        "Dev_Desc": "소울 / 합성 / 확률정보 / 부분 성공 정보",
+        "id": 8003334,
+        "alias": "UI.Soul.Compose.ProbabilityInfo.PartialSucceedDesc.4",
+        "text": "灵魂合成失败时，有10%的几率额外获得10个以下灵魂之一的碎片。"
+    },
+    "8003335": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 합성 / 확률정보",
+        "id": 8003335,
+        "alias": "UI.Pets.Compose.ProbabilityInfo.Desc",
+        "text": "合成时获得以下守护灵中的1个"
+    },
+    "8003336": {
+        "deprecated": false,
+        "Dev_Desc": "이벤트 제작 레시피 탭 / 신비한 상자",
+        "id": 8003336,
+        "alias": "UI.Craft.LeftSubTabName.Event.MysticBox_01",
+        "text": "神秘盒子"
     }
 }

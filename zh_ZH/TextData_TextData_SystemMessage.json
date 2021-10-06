@@ -7115,5 +7115,19 @@
         "id": 9001078,
         "alias": "SysM.Craft.LackCount",
         "text": "我们创造了所有限制的数量。"
+    },
+    "9001079": {
+        "deprecated": false,
+        "Dev_Desc": "채팅 / 소울 성장 브로드캐스팅",
+        "id": 9001079,
+        "alias": "SysM.ChatSysM.GrowSoul",
+        "text": "<<arg p=[1:string]/>>[<arg p=[2:string]/>] <arg p=[3:string]/> 灵魂 </><<arg p=[4 :string ]/>><arg p=[5:string]/></><<arg p=[1:string]/>> <arg p=[6:integer]/>您已获得姓氏。< />"
+    },
+    "9001080": {
+        "deprecated": false,
+        "Dev_Desc": "소울 성장 브로드캐스팅",
+        "id": 9001080,
+        "alias": "SysM.BroadCasting.GrowSoul",
+        "text": "[<arg p=[1:string]/>] <arg p=[2:string]/> 灵魂 <arg p=[3:string]/> <arg p=[4:integer]/> 姓有已获得。"
     }
 }
