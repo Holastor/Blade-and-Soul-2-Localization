@@ -22704,5 +22704,82 @@
         "id": 8003325,
         "alias": "UI.Craft.LeftSubTabName.Event.Mukhwa_01",
         "text": "Пакет для рисования тушью"
+    },
+    "8003326": {
+        "deprecated": false,
+        "Dev_Desc": "무공 / 진화 / 진화 불가 토스트메시지",
+        "id": 8003326,
+        "alias": "UI.Skill.Evolution.Desc.No",
+        "text": "Его нельзя развить из-за низкого уровня силы атаки."
+    },
+    "8003327": {
+        "deprecated": false,
+        "Dev_Desc": "무공 / 진화 / 진화 불가 / 상세정보창",
+        "id": 8003327,
+        "alias": "UI.Skill.Evolution.Desc.No2",
+        "text": "Требования: Уровень 9 или выше."
+    },
+    "8003328": {
+        "deprecated": false,
+        "Dev_Desc": "무공 / 진화 / 진화 불가 / 상세정보창 / 임시",
+        "id": 8003328,
+        "alias": "UI.Skill.Evolution.Desc.LoadFail",
+        "text": "Предпосылки: Предпосылки эволюции не выполнены."
+    },
+    "8003329": {
+        "deprecated": false,
+        "Dev_Desc": "소울 / 합성 / 확률정보 / 성공 시 정보",
+        "id": 8003329,
+        "alias": "UI.Soul.Compose.ProbabilityInfo.SucceedDesc",
+        "text": "Получите 1 из следующих душ после успешного синтеза"
+    },
+    "8003330": {
+        "deprecated": false,
+        "Dev_Desc": "소울 / 합성 / 확률정보 / 실패 시 정보",
+        "id": 8003330,
+        "alias": "UI.Soul.Compose.ProbabilityInfo.FailureDesc",
+        "text": "Получите 1 из следующих душ при неудачном синтезе"
+    },
+    "8003331": {
+        "deprecated": false,
+        "Dev_Desc": "소울 / 합성 / 확률정보 / 부분 성공 정보",
+        "id": 8003331,
+        "alias": "UI.Soul.Compose.ProbabilityInfo.PartialSucceedDesc.1",
+        "text": "Когда синтез души не удается, 25% шанс получить дополнительные 10 фрагментов одной из душ ниже."
+    },
+    "8003332": {
+        "deprecated": false,
+        "Dev_Desc": "소울 / 합성 / 확률정보 / 부분 성공 정보",
+        "id": 8003332,
+        "alias": "UI.Soul.Compose.ProbabilityInfo.PartialSucceedDesc.2",
+        "text": "Когда синтез души не удается, 20% шанс получить дополнительные 10 фрагментов одной из душ ниже."
+    },
+    "8003333": {
+        "deprecated": false,
+        "Dev_Desc": "소울 / 합성 / 확률정보 / 부분 성공 정보",
+        "id": 8003333,
+        "alias": "UI.Soul.Compose.ProbabilityInfo.PartialSucceedDesc.3",
+        "text": "Когда синтез души не удается, 15% шанс получить дополнительные 10 фрагментов одной из душ ниже."
+    },
+    "8003334": {
+        "deprecated": false,
+        "Dev_Desc": "소울 / 합성 / 확률정보 / 부분 성공 정보",
+        "id": 8003334,
+        "alias": "UI.Soul.Compose.ProbabilityInfo.PartialSucceedDesc.4",
+        "text": "Когда синтез души не удается, 10% шанс получить дополнительные 10 фрагментов одной из душ ниже."
+    },
+    "8003335": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 합성 / 확률정보",
+        "id": 8003335,
+        "alias": "UI.Pets.Compose.ProbabilityInfo.Desc",
+        "text": "Получите 1 из следующих духов-хранителей при синтезе"
+    },
+    "8003336": {
+        "deprecated": false,
+        "Dev_Desc": "이벤트 제작 레시피 탭 / 신비한 상자",
+        "id": 8003336,
+        "alias": "UI.Craft.LeftSubTabName.Event.MysticBox_01",
+        "text": "таинственная коробка"
     }
 }
