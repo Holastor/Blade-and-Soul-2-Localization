@@ -27,7 +27,7 @@ BTC - bc1qpqnyfvz36u904pw60tv5ky8da38aq0wy7l7rk6, or
 ## Install
 
 * ONLY PC
-* [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/releases/tag/0.5.7) Latest Release (B2_Data_00002.pak);
+* [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/releases/tag/0.6.1) Latest Release (B2_Data_00002.pak);
 * Place the file B2_Data_00002.pak in the \Game Folder\B2\Content\Paks;
 * And you need to go folder C:\Users\UserName\AppData\Local\B2\Saved\Option and open file LocalOption.json;
 * Optional for Chinese you need download file B2-WindowsNoEditor_00003.pak
@@ -36,7 +36,7 @@ BTC - bc1qpqnyfvz36u904pw60tv5ky8da38aq0wy7l7rk6, or
 
 ## Source-Install
 * ONLY PC
-* Download Source code (zip) [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/releases/tag/0.5.7)
+* Download Source code (zip) [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/releases/tag/0.6.1)
 * You need to download the source code and unpack it
 * In the /Blade-and-Soul-2-Localization-0.3.5/ folder there is an en_US folder, its contents must be transferred in the folder \Game Folder\B2\Data\Text\
 * And You need Rename en_US to ru_RU.
@@ -49,7 +49,7 @@ BTC - bc1qpqnyfvz36u904pw60tv5ky8da38aq0wy7l7rk6, or
 
 ## Mobile-Install
 * ONLY Android and ONLY ROOT DEVICES
-* [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/releases/tag/0.5.7_M) Latest Release (patch.27.com.ncsoft.bns219.obb);
+* [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/releases/tag/0.6.1_M) Latest Release (patch.27.com.ncsoft.bns219.obb);
 * Place the file patch.27.com.ncsoft.bns219.obb in the "Internal Memory\Android\obb\com.ncsoft.bns219\";
 * LocalOption.json file location:
 * Android 10: "root/data/data/com.ncsoft.bns219/files/UE4Game/B2/B2/Saved/Option/"
