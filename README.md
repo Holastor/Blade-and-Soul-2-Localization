@@ -31,7 +31,7 @@ BTC - bc1qpqnyfvz36u904pw60tv5ky8da38aq0wy7l7rk6, or
 * Place the file B2_Data_00002.pak in the \Game Folder\B2\Content\Paks;
 * And you need to go folder C:\Users\UserName\AppData\Local\B2\Saved\Option and open file LocalOption.json;
 * Optional for Chinese you need download file B2-WindowsNoEditor_00003.pak
-* In LocalOption.json find "language":1" and change it to "language":22" for English Language or "language":14";
+* In LocalOption.json find "language":1" and change it to "language":22" for English Language or "language":14" for Chinese Language;
 * And that's it you have english language!;
 
 ## Source-Install
