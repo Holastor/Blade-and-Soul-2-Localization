@@ -1159,14 +1159,14 @@
         "Dev_Desc": "HUD / ",
         "id": 8000166,
         "alias": "UI.HUD.Text.Minute",
-        "text": "<arg p=[1:integer]/>分"
+        "text": "<arg p=[1:integer]/>分钟"
     },
     "8000167": {
         "deprecated": false,
         "Dev_Desc": "HUD / ",
         "id": 8000167,
         "alias": "UI.HUD.Text.Hour",
-        "text": "<arg p=[1:integer]/>时"
+        "text": "<arg p=[1:integer]/>小时"
     },
     "8000168": {
         "deprecated": false,
@@ -1362,7 +1362,7 @@
         "Dev_Desc": "HUD / ",
         "id": 8000195,
         "alias": "UI.HUD.PKMode.Revenge",
-        "text": "惩戒"
+        "text": "复仇"
     },
     "8000196": {
         "deprecated": false,
@@ -1376,7 +1376,7 @@
         "Dev_Desc": "HUD / ",
         "id": 8000197,
         "alias": "UI.HUD.PKMode.Peace",
-        "text": "平和"
+        "text": "和平"
     },
     "8000198": {
         "deprecated": false,
@@ -1628,21 +1628,21 @@
         "Dev_Desc": "HUD / ",
         "id": 8000233,
         "alias": "UI.HUD.ServerStatus.Good",
-        "text": "圆滑"
+        "text": "流畅"
     },
     "8000234": {
         "deprecated": false,
         "Dev_Desc": "HUD / ",
         "id": 8000234,
         "alias": "UI.HUD.ServerStatus.Crowded",
-        "text": "困惑"
+        "text": "拥挤"
     },
     "8000235": {
         "deprecated": false,
         "Dev_Desc": "HUD / ",
         "id": 8000235,
         "alias": "UI.HUD.ServerStatus.Wait",
-        "text": "等待"
+        "text": "爆满"
     },
     "8000236": {
         "deprecated": false,
@@ -1670,7 +1670,7 @@
         "Dev_Desc": "제작 / 전면 연출 / 아이템명, 개수",
         "id": 8000239,
         "alias": "UI.Craft.FullShowText.ResourceReturn",
-        "text": "<arg p=[1:string]/> <arg p=[2:integer]/>把狗还回来了."
+        "text": "<arg p=[1:string]/> <arg p=[2:integer]/>把材料还回来了."
     },
     "8000240": {
         "deprecated": false,
@@ -2328,7 +2328,7 @@
         "Dev_Desc": "팝업창 / 아이템 이동 확인 / ",
         "id": 8000333,
         "alias": "UI.PopUpMsg.ItemMoveConfirm",
-        "text": "<arg p=[1:string]/> <arg p=[2:integer]/>移动狗."
+        "text": "<arg p=[1:string]/> <arg p=[2:integer]/>移动物品."
     },
     "8000334": {
         "deprecated": false,
@@ -2419,7 +2419,7 @@
         "Dev_Desc": "아이템 / ",
         "id": 8000346,
         "alias": "UI.Item.Unceal.RandomStat.1",
-        "text": "解除封印时 <arg p=[1:integer]/>随机赋予狗的能力值"
+        "text": "解除封印时 <arg p=[1:integer]/>随机赋予物品的能力值"
     },
     "8000347": {
         "deprecated": false,
@@ -2559,7 +2559,7 @@
         "Dev_Desc": "아이템 / ",
         "id": 8000366,
         "alias": "UI.Item.Unceal.RandomStat.2",
-        "text": "解除封印时 <arg p=[1:integer]/>随机赋予狗的能力值"
+        "text": "解除封印时 <arg p=[1:integer]/>随机赋予物品的能力值"
     },
     "8000367": {
         "deprecated": false,
@@ -2601,14 +2601,14 @@
         "Dev_Desc": "소지품 / ",
         "id": 8000372,
         "alias": "UI.Inventory.Discomposed.Popup.Confirm",
-        "text": "<arg p=[1:integer]/>您想把狗拆开吗?<br/><textColor=[209:72:59:255]>分解时就会消失.</>"
+        "text": "<arg p=[1:integer]/>您想把物品拆开吗?<br/><textColor=[209:72:59:255]>分解时就会消失.</>"
     },
     "8000373": {
         "deprecated": false,
         "Dev_Desc": "소지품 / ",
         "id": 8000373,
         "alias": "UI.Inventory.Destroy.Popup.Confirm",
-        "text": "<arg p=[1:integer]/>您想要破坏物品狗吗?<br/><textColor=[209:72:59:255]>破坏时就会消失.</>"
+        "text": "<arg p=[1:integer]/>您想要破坏物品吗?<br/><textColor=[209:72:59:255]>破坏时就会消失.</>"
     },
     "8000374": {
         "deprecated": false,
@@ -2636,7 +2636,7 @@
         "Dev_Desc": "옷장 / ",
         "id": 8000377,
         "alias": "UI.Closet.PopUpText.RegisterConfirm.2",
-        "text": "<arg p=[1:integer]/>统一登记狗的服装/装饰."
+        "text": "<arg p=[1:integer]/>统一登记的服装/装饰."
     },
     "8000378": {
         "deprecated": false,
@@ -6437,7 +6437,7 @@
         "Dev_Desc": "문파 / 문파원 / 추방 / 팝업 / 안내3",
         "id": 8000973,
         "alias": "UI.Guild.Management.Exile.PopUp.Desc.Detail",
-        "text": "被驱逐的门派成员的一周贡献度消失，门派的名声和排名可能会下降."
+        "text": "被驱逐的门派成员的一周贡献度消失，门派的声望和排名可能会下降."
     },
     "8000974": {
         "deprecated": false,
@@ -6479,7 +6479,7 @@
         "Dev_Desc": "문파 / 문파원 / 가입 신청 / 일괄 거절",
         "id": 8000979,
         "alias": "UI.Guild.CrewInfo.JoinRequest.Button.RejectAll",
-        "text": "成批拒绝"
+        "text": "批量拒绝"
     },
     "8000980": {
         "deprecated": false,
@@ -6493,7 +6493,7 @@
         "Dev_Desc": "문파 / 문파원 / 가입 초대 / 초대",
         "id": 8000981,
         "alias": "UI.Guild.CrewInfo.Invite",
-        "text": "招待，招待"
+        "text": "邀请信息"
     },
     "8000982": {
         "deprecated": false,
@@ -6864,14 +6864,14 @@
         "Dev_Desc": "귀도 / 필터 / 등급 높은 순",
         "id": 8001034,
         "alias": "UI.OniPaint.NotEquip.SortingDescending",
-        "text": "等次"
+        "text": "高到低"
     },
     "8001035": {
         "deprecated": false,
         "Dev_Desc": "귀도 / 필터 / 등급 낮은 순",
         "id": 8001035,
         "alias": "UI.OniPaint.NotEquip.SortingAscending",
-        "text": "次等"
+        "text": "低到高"
     },
     "8001036": {
         "deprecated": false,
@@ -11484,14 +11484,14 @@
         "Dev_Desc": "거래소 / 구매 팝업 / 타이틀 / 강화된 아이템",
         "id": 8001698,
         "alias": "UI.Trade.Purchase.Title.Enchant",
-        "text": "加<arg p=[1:integer]/> <arg p=[2:string]/> <arg p=[3:integer]/>确定购买狗吗?"
+        "text": "加<arg p=[1:integer]/> <arg p=[2:string]/> <arg p=[3:integer]/>确定购买物品吗?"
     },
     "8001699": {
         "deprecated": false,
         "Dev_Desc": "거래소 / 구매 팝업 / 타이틀",
         "id": 8001699,
         "alias": "UI.Trade.Purchase.Title",
-        "text": "<arg p=[1:string]/> <arg p=[2:integer]/>您要购买狗吗?"
+        "text": "<arg p=[1:string]/> <arg p=[2:integer]/>您要购买物品吗?"
     },
     "8001700": {
         "deprecated": false,
@@ -13269,28 +13269,28 @@
         "Dev_Desc": "무공 / 무공 설명 / 단계1",
         "id": 8001969,
         "alias": "UI.Skill.Info.Step.1",
-        "text": "基本，基本"
+        "text": "基础"
     },
     "8001970": {
         "deprecated": false,
         "Dev_Desc": "무공 / 무공 설명 / 단계2",
         "id": 8001970,
         "alias": "UI.Skill.Info.Step.2",
-        "text": "闪避"
+        "text": "进阶"
     },
     "8001971": {
         "deprecated": false,
         "Dev_Desc": "무공 / 무공 설명 / 단계3",
         "id": 8001971,
         "alias": "UI.Skill.Info.Step.3",
-        "text": "极限"
+        "text": "特级"
     },
     "8001972": {
         "deprecated": false,
         "Dev_Desc": "무공 / 무공 설명 / 단계4",
         "id": 8001972,
         "alias": "UI.Skill.Info.Step.4",
-        "text": "冲破"
+        "text": "巅峰"
     },
     "8001973": {
         "deprecated": false,
@@ -14753,7 +14753,7 @@
         "Dev_Desc": "설정 / 전투 옵션",
         "id": 8002183,
         "alias": "UI.Targeting.Filter.FirstAttackMonster",
-        "text": "速攻怪"
+        "text": "主动攻击怪"
     },
     "8002184": {
         "deprecated": false,
@@ -15908,14 +15908,14 @@
         "Dev_Desc": "문파 / 문파 정보 / 정보 / 문파 순위 / 명성",
         "id": 8002350,
         "alias": "UI.Guild.info.GuildRank.Honor",
-        "text": "名声 <arg p=[1:integer]/>位"
+        "text": "声望 <arg p=[1:integer]/>位"
     },
     "8002351": {
         "deprecated": false,
         "Dev_Desc": "문파 / 문파 정보 / 정보 / 문파 순위 / 명성 / 순위권 밖",
         "id": 8002351,
         "alias": "UI.Guild.info.GuildRank.Honor.Out",
-        "text": "名声 - 位"
+        "text": "声望 - 位"
     },
     "8002352": {
         "deprecated": false,
@@ -15978,7 +15978,7 @@
         "Dev_Desc": "채팅 / 소셜 팝업 / 귓속말",
         "id": 8002360,
         "alias": "UI.Chat.SocialPopUp.WhisperRequest",
-        "text": "耳语"
+        "text": "私聊"
     },
     "8002361": {
         "deprecated": false,
@@ -16062,7 +16062,7 @@
         "Dev_Desc": "PK / 장부 / 메인 화면 / 랭킹 보상 텍스트",
         "id": 8002372,
         "alias": "UI.PK.Record.PKInfo.RankReward",
-        "text": "  "
+        "text": "排名奖励"
     },
     "8002373": {
         "deprecated": false,
@@ -16160,7 +16160,7 @@
         "Dev_Desc": "타이틀 / 보안 서비스 / 기기등록 / 기기 등록 버튼",
         "id": 8002386,
         "alias": "UI.Login.Security.DeviceRegistration.Yes",
-        "text": "设备注册"
+        "text": "设备登记"
     },
     "8002387": {
         "deprecated": false,
@@ -16174,21 +16174,21 @@
         "Dev_Desc": "타이틀 / 보안 서비스 / 기기등록완료 / 타이틀",
         "id": 8002388,
         "alias": "UI.Login.Security.Complete.Title",
-        "text": "注册信息"
+        "text": "登记信息"
     },
     "8002389": {
         "deprecated": false,
         "Dev_Desc": "타이틀 / 보안 서비스 / 기기등록완료 / 설명",
         "id": 8002389,
         "alias": "UI.Login.Security.Complete.Desc",
-        "text": "设备注册完成."
+        "text": "设备登记完成."
     },
     "8002390": {
         "deprecated": false,
         "Dev_Desc": "타이틀 / 보안 서비스 / 기기등록완료 / 등록일",
         "id": 8002390,
         "alias": "UI.Login.Security.Complete.RegistrationDate",
-        "text": "注册日期：<arg p=[1:string]/>"
+        "text": "登记日期：<arg p=[1:string]/>"
     },
     "8002391": {
         "deprecated": false,
@@ -16202,14 +16202,14 @@
         "Dev_Desc": "타이틀 / 보안 서비스 / 기기등록안내 / 타이틀",
         "id": 8002392,
         "alias": "UI.Login.Security.DeviceRegistration2.Title",
-        "text": "注册信息"
+        "text": "登记信息"
     },
     "8002393": {
         "deprecated": false,
         "Dev_Desc": "타이틀 / 보안 서비스 / 기기등록안내 / 설명",
         "id": 8002393,
         "alias": "UI.Login.Security.DeviceRegistration2.Desc",
-        "text": "设备注册信息无效.要继续玩游戏，您需要验证您的身份并注册您的设备."
+        "text": "设备登记信息无效.要继续玩游戏，您需要验证您的身份并登记您的设备."
     },
     "8002394": {
         "deprecated": false,
@@ -16223,7 +16223,7 @@
         "Dev_Desc": "타이틀 / 보안 서비스 / 기기등록안내 / 기기 등록 버튼",
         "id": 8002395,
         "alias": "UI.Login.Security.DeviceRegistration2.Yes",
-        "text": "设备注册"
+        "text": "设备登记"
     },
     "8002396": {
         "deprecated": false,
@@ -20072,14 +20072,14 @@
         "Dev_Desc": "던전 / 남은 이용 시간 / 시간",
         "id": 8002949,
         "alias": "UI.Dungeon.RemainTimeHUD.1",
-        "text": "剩余使用时间<arg p=[1:integer]/>时间."
+        "text": "剩余使用时间<arg p=[1:integer]/>小时."
     },
     "8002950": {
         "deprecated": false,
         "Dev_Desc": "던전 / 남은 이용 시간 / 시간 및 분",
         "id": 8002950,
         "alias": "UI.Dungeon.RemainTimeHUD.2",
-        "text": "剩余使用时间<arg p=[1:integer]/>时间<arg p=[2:integer]/>分钟."
+        "text": "剩余使用时间<arg p=[1:integer]/>小时<arg p=[2:integer]/>分钟."
     },
     "8002951": {
         "deprecated": false,
@@ -22676,110 +22676,110 @@
         "Dev_Desc": "타이틀 / 잠긴 계정 / 설명",
         "id": 8003321,
         "alias": "UI.Login.Fail.LockAccount.Desc",
-        "text": "잠긴 상태의 계정입니다.\n자세한 내용은 [모바일 고객센터 > 1:1문의]를 통해 확인해 주세요."
+        "text": "账号处在被锁状态.\n更多信息请查看 [手机客服 > 1:1咨询]."
     },
     "8003322": {
         "deprecated": false,
         "Dev_Desc": "환경설정 / 환경 / 사운드 / 전투보정",
         "id": 8003322,
         "alias": "UI.Option.Environment.Sound.AutoBattleSound",
-        "text": "전투 효과음 피로도 완화"
+        "text": "去除战斗声音特效"
     },
     "8003323": {
         "deprecated": false,
         "Dev_Desc": "환경설정 / 환경 / 사운드 / 전투보정툴팁",
         "id": 8003323,
         "alias": "UI.Option.Environment.Sound.AutoBattleSound.Tooltip",
-        "text": "전투와 관련된 효과음 음량을 일괄적으로 감소시켜 줍니다."
+        "text": "减少战斗声音特效."
     },
     "8003324": {
         "deprecated": false,
         "id": 8003324,
         "alias": "UI.Shop.Tittle.Name.10022",
-        "text": "비사문 상인"
+        "text": "不正经的商人"
     },
     "8003325": {
         "deprecated": false,
         "Dev_Desc": "묵화 수호령 이벤트 / 묵화 패키지",
         "id": 8003325,
         "alias": "UI.Craft.LeftSubTabName.Event.Mukhwa_01",
-        "text": "묵화 패키지"
+        "text": "水墨礼包"
     },
     "8003326": {
         "deprecated": false,
         "Dev_Desc": "무공 / 진화 / 진화 불가 토스트메시지",
         "id": 8003326,
         "alias": "UI.Skill.Evolution.Desc.No",
-        "text": "由于攻击力低，无法进化。"
+        "text": "武功强化阶段低，无法进化."
     },
     "8003327": {
         "deprecated": false,
         "Dev_Desc": "무공 / 진화 / 진화 불가 / 상세정보창",
         "id": 8003327,
         "alias": "UI.Skill.Evolution.Desc.No2",
-        "text": "先决条件：9级或更高"
+        "text": "先行条件：技能强化阶段+9以上"
     },
     "8003328": {
         "deprecated": false,
         "Dev_Desc": "무공 / 진화 / 진화 불가 / 상세정보창 / 임시",
         "id": 8003328,
         "alias": "UI.Skill.Evolution.Desc.LoadFail",
-        "text": "先决条件：尚未满足进化先决条件。"
+        "text": "先行条件：未满足进化先行条件."
     },
     "8003329": {
         "deprecated": false,
         "Dev_Desc": "소울 / 합성 / 확률정보 / 성공 시 정보",
         "id": 8003329,
         "alias": "UI.Soul.Compose.ProbabilityInfo.SucceedDesc",
-        "text": "合成成功后获得下列灵魂之一"
+        "text": "合成成功时获得以下灵魂之一"
     },
     "8003330": {
         "deprecated": false,
         "Dev_Desc": "소울 / 합성 / 확률정보 / 실패 시 정보",
         "id": 8003330,
         "alias": "UI.Soul.Compose.ProbabilityInfo.FailureDesc",
-        "text": "合成失败时获得以下灵魂中的1个"
+        "text": "合成失败时获得以下灵魂之一"
     },
     "8003331": {
         "deprecated": false,
         "Dev_Desc": "소울 / 합성 / 확률정보 / 부분 성공 정보",
         "id": 8003331,
         "alias": "UI.Soul.Compose.ProbabilityInfo.PartialSucceedDesc.1",
-        "text": "当灵魂合成失败时，有 25% 的几率额外获得以下灵魂之一的 10 个碎片。"
+        "text": "灵魂合成失败时有25%几率获得以下灵魂中1种碎片10个"
     },
     "8003332": {
         "deprecated": false,
         "Dev_Desc": "소울 / 합성 / 확률정보 / 부분 성공 정보",
         "id": 8003332,
         "alias": "UI.Soul.Compose.ProbabilityInfo.PartialSucceedDesc.2",
-        "text": "灵魂合成失败时，有20%的几率额外获得10个以下灵魂之一的碎片。"
+        "text": "灵魂合成失败时有20%几率获得以下灵魂中1种碎片10个"
     },
     "8003333": {
         "deprecated": false,
         "Dev_Desc": "소울 / 합성 / 확률정보 / 부분 성공 정보",
         "id": 8003333,
         "alias": "UI.Soul.Compose.ProbabilityInfo.PartialSucceedDesc.3",
-        "text": "当灵魂合成失败时，有 15% 的几率额外获得以下灵魂之一的 10 个碎片。"
+        "text": "灵魂合成失败时有15%几率获得以下灵魂中1种碎片10个"
     },
     "8003334": {
         "deprecated": false,
         "Dev_Desc": "소울 / 합성 / 확률정보 / 부분 성공 정보",
         "id": 8003334,
         "alias": "UI.Soul.Compose.ProbabilityInfo.PartialSucceedDesc.4",
-        "text": "灵魂合成失败时，有10%的几率额外获得10个以下灵魂之一的碎片。"
+        "text": "灵魂合成失败时有10%几率获得以下灵魂中1种碎片10个"
     },
     "8003335": {
         "deprecated": false,
         "Dev_Desc": "수호령 / 합성 / 확률정보",
         "id": 8003335,
         "alias": "UI.Pets.Compose.ProbabilityInfo.Desc",
-        "text": "合成时获得以下守护灵中的1个"
+        "text": "合成时获得以下守护灵中的一个"
     },
     "8003336": {
         "deprecated": false,
         "Dev_Desc": "이벤트 제작 레시피 탭 / 신비한 상자",
         "id": 8003336,
         "alias": "UI.Craft.LeftSubTabName.Event.MysticBox_01",
-        "text": "神秘盒子"
+        "text": "神秘的箱子"
     }
 }

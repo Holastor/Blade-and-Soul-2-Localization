@@ -3888,21 +3888,21 @@
         "Dev_Desc": "무게 시스템 / 80% 초과",
         "id": 9000614,
         "alias": "SysM.Weight.exceed.3",
-        "text": "如果重量超过 <arg p=[1:integer]/>%,则不能使用轻质空气."
+        "text": "如果重量超过 <arg p=[1:integer]/>%,则不能使用轻功冲刺."
     },
     "9000615": {
         "deprecated": false,
         "Dev_Desc": "무게 시스템 / 90% 초과 / 스킬 사용",
         "id": 9000615,
         "alias": "SysM.Weight.exceed.4",
-        "text": "如果权重超过<arg p=[1:integer]/>%,则无法使用该技能."
+        "text": "如果重量超过<arg p=[1:integer]/>%,则无法使用该技能."
     },
     "9000616": {
         "deprecated": false,
         "Dev_Desc": "무게 시스템 / 90% 초과 / 퀘스트 완료",
         "id": 9000616,
         "alias": "SysM.Weight.exceed.5",
-        "text": "超过 <arg p=[1:integer]/>% 的权重无法完成任务."
+        "text": "超过 <arg p=[1:integer]/>% 的重量无法完成任务."
     },
     "9000617": {
         "deprecated": false,
@@ -5274,7 +5274,7 @@
         "Dev_Desc": "경계 / 경계등록 실패 / 친구",
         "id": 9000815,
         "alias": "SysM.Alert.RequestFail.Friend",
-        "text": "朋友不能登记为看门狗."
+        "text": "不能将他登记为朋友."
     },
     "9000816": {
         "deprecated": false,
@@ -7121,13 +7121,13 @@
         "Dev_Desc": "채팅 / 소울 성장 브로드캐스팅",
         "id": 9001079,
         "alias": "SysM.ChatSysM.GrowSoul",
-        "text": "<<arg p=[1:string]/>>[<arg p=[2:string]/>] <arg p=[3:string]/> 灵魂 </><<arg p=[4 :string ]/>><arg p=[5:string]/></><<arg p=[1:string]/>> <arg p=[6:integer]/>您已获得姓氏。< />"
+        "text": "<<arg p=[1:string]/>>[<arg p=[2:string]/>] <arg p=[3:string]/> 님이 소울 </><<arg p=[4:string]/>><arg p=[5:string]/></><<arg p=[1:string]/>> <arg p=[6:integer]/>성을 획득했습니다.</>"
     },
     "9001080": {
         "deprecated": false,
         "Dev_Desc": "소울 성장 브로드캐스팅",
         "id": 9001080,
         "alias": "SysM.BroadCasting.GrowSoul",
-        "text": "[<arg p=[1:string]/>] <arg p=[2:string]/> 灵魂 <arg p=[3:string]/> <arg p=[4:integer]/> 姓有已获得。"
+        "text": "[<arg p=[1:string]/>] <arg p=[2:string]/> 님이 소울 <arg p=[3:string]/> <arg p=[4:integer]/>성을 획득했습니다."
     }
 }
