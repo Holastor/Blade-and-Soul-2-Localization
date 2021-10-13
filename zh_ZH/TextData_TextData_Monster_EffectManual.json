@@ -376,5 +376,82 @@
         "id": 61000054,
         "alias": "Contents.Effect.Desc.Monster.130000017",
         "text": "移动速度减少率50%"
+    },
+    "61000055": {
+        "deprecated": false,
+        "Dev_Desc": "낙원대성_아머_광역디버프이름",
+        "id": 61000055,
+        "alias": "Contents.Effect.Name.Monster.123870413",
+        "text": "“慢，降低攻击速度”"
+    },
+    "61000056": {
+        "deprecated": false,
+        "Dev_Desc": "낙원대성_아머_광역디버프내용",
+        "id": 61000056,
+        "alias": "Contents.Effect.Desc.Monster.123870413",
+        "text": "“移动速度降低，攻击速度降低”"
+    },
+    "61000057": {
+        "deprecated": false,
+        "Dev_Desc": "낙원대성_아머_전격기절이름",
+        "id": 61000057,
+        "alias": "Contents.Effect.Name.Monster.123880413",
+        "text": "“头晕的”"
+    },
+    "61000058": {
+        "deprecated": false,
+        "Dev_Desc": "낙원대성_아머_광역디버프옵션",
+        "id": 61000058,
+        "alias": "Contents.Effect.Option.Monster.123870413",
+        "text": "“移动速度-25%\n基本攻速-70%\n非攻速-35%”"
+    },
+    "61000059": {
+        "deprecated": false,
+        "Dev_Desc": "낙원대성_아머_전격기절옵션",
+        "id": 61000059,
+        "alias": "Contents.Effect.Option.Monster.123880413",
+        "text": "“不能移动\n不能没有攻击不能使用\n某些项目不能使用”"
+    },
+    "61000060": {
+        "deprecated": false,
+        "Dev_Desc": "보스_타락한 우와_독액 폭탄 중독 1스택 (도트) 이름",
+        "id": 61000060,
+        "alias": "Contents.Effect.Name.Monster.113240912",
+        "text": "“中毒”"
+    },
+    "61000061": {
+        "deprecated": false,
+        "Dev_Desc": "보스_타락한 우와_독액 폭탄 중독 1스택 (도트) 설명",
+        "id": 61000061,
+        "alias": "Contents.Effect.Desc.Monster.113240912",
+        "text": "“持续的毒害。”"
+    },
+    "61000062": {
+        "deprecated": false,
+        "Dev_Desc": "보스_타락한 우와_독액 폭탄 중독 1스택 (도트) 옵션",
+        "id": 61000062,
+        "alias": "Contents.Effect.Option.Monster.113240912",
+        "text": "“成瘾的第一阶段”"
+    },
+    "61000063": {
+        "deprecated": false,
+        "Dev_Desc": "보스_타락한 우와_독액 폭탄 중독 1스택 (도트) 이름",
+        "id": 61000063,
+        "alias": "Contents.Effect.Name.Monster.113240913",
+        "text": "“强化成瘾”"
+    },
+    "61000064": {
+        "deprecated": false,
+        "Dev_Desc": "보스_타락한 우와_독액 폭탄 중독 1스택 (도트) 설명",
+        "id": 61000064,
+        "alias": "Contents.Effect.Desc.Monster.113240913",
+        "text": "“随着时间的推移造成强烈的毒害。”"
+    },
+    "61000065": {
+        "deprecated": false,
+        "Dev_Desc": "보스_타락한 우와_독액 폭탄 중독 1스택 (도트) 옵션",
+        "id": 61000065,
+        "alias": "Contents.Effect.Option.Monster.113240913",
+        "text": "“成瘾的第二阶段”"
     }
 }

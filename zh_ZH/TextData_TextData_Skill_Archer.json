@@ -971,5 +971,54 @@
         "id": 60050142,
         "alias": "Contents.Skill.Upgrade.LongBow.9",
         "text": "增加暴击伤害"
+    },
+    "60050143": {
+        "deprecated": false,
+        "Dev_Desc": "봉쇄화살",
+        "id": 60050143,
+        "alias": "Contents.Skill.Name.LongBow.5110",
+        "text": "《挡箭牌》"
+    },
+    "60050144": {
+        "deprecated": false,
+        "Dev_Desc": "봉쇄화살_설명",
+        "id": 60050144,
+        "alias": "Contents.Skill.Desc.LongBow.5110",
+        "text": "“射出束缚目标双脚的特殊箭矢，对包括目标在内的最多 3 人造成伤害。"
+    },
+    "60050145": {
+        "deprecated": false,
+        "Dev_Desc": "봉쇄화살_효과",
+        "id": 60050145,
+        "alias": "Contents.Skill.UseEffect.LongBow.5110",
+        "text": "“封锁”"
+    },
+    "60050146": {
+        "deprecated": false,
+        "Dev_Desc": "봉쇄화살_돌파_설명",
+        "id": 60050146,
+        "alias": "Contents.Skill.Desc.LongBow.5113",
+        "text": "射出束缚目标双脚的特殊箭矢，对包括目标在内的最多 3 人造成伤害。你不能，并且你的移动速度会降低。"
+    },
+    "60050147": {
+        "deprecated": false,
+        "Dev_Desc": "봉쇄화살_증폭_성장효과",
+        "id": 60050147,
+        "alias": "Contents.Skill.acquireEffectDesc.LongBow.5111",
+        "text": "“力量消耗——”"
+    },
+    "60050148": {
+        "deprecated": false,
+        "Dev_Desc": "봉쇄화살_극한_성장효과",
+        "id": 60050148,
+        "alias": "Contents.Skill.acquireEffectDesc.LongBow.5112",
+        "text": "“逃避——”"
+    },
+    "60050149": {
+        "deprecated": false,
+        "Dev_Desc": "봉쇄화살_돌파_성장효과",
+        "id": 60050149,
+        "alias": "Contents.Skill.acquireEffectDesc.LongBow.5113",
+        "text": "“对目标中心施加“拉”效果\n增强移动速度降低效果”"
     }
 }
