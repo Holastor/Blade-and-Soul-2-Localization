@@ -276,7 +276,7 @@
         "Dev_Desc": "철벽_돌",
         "id": 60040040,
         "alias": "Contents.Skill.acquireEffect.GreatAxe.4005_4",
-        "text": "\"철벽\" 중에도 격돌, 포효, 불사 사용 가능"
+        "text": "\"철벽\" 중에도 격돌, 불사 사용 가능"
     },
     "60040041": {
         "deprecated": false,
@@ -311,7 +311,7 @@
         "Dev_Desc": "천벌_돌파",
         "id": 60040045,
         "alias": "Contents.Skill.acquireEffect.GreatAxe.4061_4",
-        "text": "일정 확률로 최대 5번 가속 공격"
+        "text": "일정 확률로 최대 5회 가속 공격"
     },
     "60040046": {
         "deprecated": false,
@@ -353,7 +353,7 @@
         "Dev_Desc": "붕괴_돌파",
         "id": 60040051,
         "alias": "Contents.Skill.acquireEffect.GreatAxe.4075",
-        "text": "건강에 비례하여 추가 피해 적용"
+        "text": "근거리 절대 명중 +30%"
     },
     "60040052": {
         "deprecated": false,
@@ -437,7 +437,7 @@
         "Dev_Desc": "격돌_돌파",
         "id": 60040063,
         "alias": "Contents.Skill.acquireEffect.GreatAxe.4031_4",
-        "text": "사용 거리 증가"
+        "text": "사용 거리 증가\n\"철벽\" 중, 일정 확률로 \"기절\" 효과 적용"
     },
     "60040064": {
         "deprecated": false,
@@ -528,7 +528,7 @@
         "Dev_Desc": "처단_극한",
         "id": 60040076,
         "alias": "Contents.Skill.acquireEffect.GreatAxe.4086_3",
-        "text": "건강에 비례하여 추가 피해 적용"
+        "text": "건강에 비례하여 피해량 증가"
     },
     "60040077": {
         "deprecated": false,
@@ -871,7 +871,7 @@
         "Dev_Desc": "막기 피해 감소율 증가",
         "id": 60040125,
         "alias": "Contents.Skill.Upgrade.Name.GreatAxe.ReduceDamageRateBlock",
-        "text": "막기 피해량 감소"
+        "text": "막기 피해 감소율"
     },
     "60040126": {
         "deprecated": false,

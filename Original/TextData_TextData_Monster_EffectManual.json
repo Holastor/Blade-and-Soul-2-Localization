@@ -376,5 +376,82 @@
         "id": 61000054,
         "alias": "Contents.Effect.Desc.Monster.130000017",
         "text": "이동속도 감소율 50%"
+    },
+    "61000055": {
+        "deprecated": false,
+        "Dev_Desc": "낙원대성_아머_광역디버프이름",
+        "id": 61000055,
+        "alias": "Contents.Effect.Name.Monster.123870413",
+        "text": "둔화, 공격속도 감소"
+    },
+    "61000056": {
+        "deprecated": false,
+        "Dev_Desc": "낙원대성_아머_광역디버프내용",
+        "id": 61000056,
+        "alias": "Contents.Effect.Desc.Monster.123870413",
+        "text": "이동속도 감소 공격속도 감소"
+    },
+    "61000057": {
+        "deprecated": false,
+        "Dev_Desc": "낙원대성_아머_전격기절이름",
+        "id": 61000057,
+        "alias": "Contents.Effect.Name.Monster.123880413",
+        "text": "기절"
+    },
+    "61000058": {
+        "deprecated": false,
+        "Dev_Desc": "낙원대성_아머_광역디버프옵션",
+        "id": 61000058,
+        "alias": "Contents.Effect.Option.Monster.123870413",
+        "text": "이동속도 -25%\n기본 공격속도 -70%\n무공 공격속도 -35%"
+    },
+    "61000059": {
+        "deprecated": false,
+        "Dev_Desc": "낙원대성_아머_전격기절옵션",
+        "id": 61000059,
+        "alias": "Contents.Effect.Option.Monster.123880413",
+        "text": "이동 불가\n무공 사용 불가\n일부 아이템 사용 불가"
+    },
+    "61000060": {
+        "deprecated": false,
+        "Dev_Desc": "보스_타락한 우와_독액 폭탄 중독 1스택 (도트) 이름",
+        "id": 61000060,
+        "alias": "Contents.Effect.Name.Monster.113240912",
+        "text": "중독"
+    },
+    "61000061": {
+        "deprecated": false,
+        "Dev_Desc": "보스_타락한 우와_독액 폭탄 중독 1스택 (도트) 설명",
+        "id": 61000061,
+        "alias": "Contents.Effect.Desc.Monster.113240912",
+        "text": "지속적인 중독 피해를 입는다."
+    },
+    "61000062": {
+        "deprecated": false,
+        "Dev_Desc": "보스_타락한 우와_독액 폭탄 중독 1스택 (도트) 옵션",
+        "id": 61000062,
+        "alias": "Contents.Effect.Option.Monster.113240912",
+        "text": "중독 1단계"
+    },
+    "61000063": {
+        "deprecated": false,
+        "Dev_Desc": "보스_타락한 우와_독액 폭탄 중독 1스택 (도트) 이름",
+        "id": 61000063,
+        "alias": "Contents.Effect.Name.Monster.113240913",
+        "text": "강화 중독"
+    },
+    "61000064": {
+        "deprecated": false,
+        "Dev_Desc": "보스_타락한 우와_독액 폭탄 중독 1스택 (도트) 설명",
+        "id": 61000064,
+        "alias": "Contents.Effect.Desc.Monster.113240913",
+        "text": "지속적인 강한 중독 피해를 입는다."
+    },
+    "61000065": {
+        "deprecated": false,
+        "Dev_Desc": "보스_타락한 우와_독액 폭탄 중독 1스택 (도트) 옵션",
+        "id": 61000065,
+        "alias": "Contents.Effect.Option.Monster.113240913",
+        "text": "중독 2단계"
     }
 }

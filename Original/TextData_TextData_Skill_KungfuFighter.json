@@ -459,7 +459,7 @@
         "Dev_Desc": "횡이동_돌파_성장설명",
         "id": 60020067,
         "alias": "Contents.Skill.acquireEffectDesc.2040",
-        "text": "사용 시, 1초 동안 회피 +1000"
+        "text": "사용 시, 0.5초 동안 회피 +1000"
     },
     "60020068": {
         "deprecated": false,
@@ -480,7 +480,7 @@
         "Dev_Desc": "회천각_돌파_성장설명",
         "id": 60020070,
         "alias": "Contents.Skill.acquireEffectDesc.2130",
-        "text": "기본 공격 속도에 비례하여 추가 피해 적용"
+        "text": "기본 공격 속도에 비례하여 피해량 증가"
     },
     "60020071": {
         "deprecated": false,
@@ -501,7 +501,7 @@
         "Dev_Desc": "승룡각_돌파_성장설명",
         "id": 60020073,
         "alias": "Contents.Skill.acquireEffectDesc.2170",
-        "text": "매 타격마다 일정 확률로 \"경직\" 효과 적용"
+        "text": "매 타격마다 일정 확률로 \"경직\" 효과 적용\n사용 후 확정적으로 절명각 사용 가능"
     },
     "60020074": {
         "deprecated": false,
@@ -515,7 +515,7 @@
         "Dev_Desc": "절명각_극한_성장설명",
         "id": 60020075,
         "alias": "Contents.Skill.acquireEffectDesc.2200",
-        "text": "기본 공격 속도에 비례하여 추가 피해 적용"
+        "text": "기본 공격 속도에 비례하여 피해량 증가"
     },
     "60020076": {
         "deprecated": false,
@@ -543,7 +543,7 @@
         "Dev_Desc": "비염각_돌파_성장설명",
         "id": 60020079,
         "alias": "Contents.Skill.acquireEffectDesc.2250",
-        "text": "사용 거리 증가"
+        "text": "사용 거리 증가\n추가 피해 적용"
     },
     "60020080": {
         "deprecated": false,
@@ -571,7 +571,7 @@
         "Dev_Desc": "승천권_증폭_성장설명",
         "id": 60020083,
         "alias": "Contents.Skill.acquireEffectDesc.2071",
-        "text": "기본 공격 속도에 비례하여 추가 피해 적용"
+        "text": "기본 공격 속도에 비례하여 피해량 증가"
     },
     "60020084": {
         "deprecated": false,
@@ -718,7 +718,7 @@
         "Dev_Desc": "패시브-무투",
         "id": 60020104,
         "alias": "Contents.Skill.Desc.LightGauntlet.2805",
-        "text": "기본공격이 통제 상태의 적에게 추가 피해를 입힙니다."
+        "text": "싸움에 더욱 가속이 붙습니다.\n기본 공격 명중 시, 3초간 기본 공격 속도가 증가합니다.\n최대 5회까지 중첩됩니다."
     },
     "60020105": {
         "deprecated": false,
@@ -872,7 +872,7 @@
         "Dev_Desc": "패시브-무투_효과",
         "id": 60020126,
         "alias": "Contents.Skill.useEffectDesc.LightGauntlet.2805",
-        "text": "추가 피해"
+        "text": "기본 공격 속도 +3%"
     },
     "60020127": {
         "deprecated": false,
@@ -1293,5 +1293,61 @@
         "id": 60020186,
         "alias": "Contents.Effect.Option.LightGauntlet.212310",
         "text": "경직, 통제, 도발, 빙결 저항률 +70%\n모든 이동 속도 관련 디버프 효과 면역"
+    },
+    "60020187": {
+        "deprecated": false,
+        "Dev_Desc": "무투_이름",
+        "id": 60020187,
+        "alias": "Contents.Effect.Name.LightGauntlet.2805",
+        "text": "무투"
+    },
+    "60020188": {
+        "deprecated": false,
+        "Dev_Desc": "무투_설명",
+        "id": 60020188,
+        "alias": "Contents.Effect.Desc.LightGauntlet.2805",
+        "text": "기본 공격 속도 증가"
+    },
+    "60020189": {
+        "deprecated": false,
+        "Dev_Desc": "무투_효과_Lv1",
+        "id": 60020189,
+        "alias": "Contents.Effect.Option.LightGauntlet.280500",
+        "text": "기본 공격 속도 +3%"
+    },
+    "60020190": {
+        "deprecated": false,
+        "Dev_Desc": "무투_효과_Lv2",
+        "id": 60020190,
+        "alias": "Contents.Effect.Option.LightGauntlet.280501",
+        "text": "기본 공격 속도 +6%"
+    },
+    "60020191": {
+        "deprecated": false,
+        "Dev_Desc": "무투_효과_Lv3",
+        "id": 60020191,
+        "alias": "Contents.Effect.Option.LightGauntlet.280502",
+        "text": "기본 공격 속도 +9%"
+    },
+    "60020192": {
+        "deprecated": false,
+        "Dev_Desc": "무투_효과_Lv4",
+        "id": 60020192,
+        "alias": "Contents.Effect.Option.LightGauntlet.280503",
+        "text": "기본 공격 속도 +12%"
+    },
+    "60020193": {
+        "deprecated": false,
+        "Dev_Desc": "무투_효과_Lv5",
+        "id": 60020193,
+        "alias": "Contents.Effect.Option.LightGauntlet.280504",
+        "text": "기본 공격 속도 +15%"
+    },
+    "60020194": {
+        "deprecated": false,
+        "Dev_Desc": "무투_상세",
+        "id": 60020194,
+        "alias": "Contents.Effect.Detail.LightGauntlet.2805",
+        "text": "\"무투\"는 최대 5회까지 중첩"
     }
 }

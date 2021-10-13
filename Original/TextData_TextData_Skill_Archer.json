@@ -599,7 +599,7 @@
         "Dev_Desc": "후퇴사격_돌파_효과",
         "id": 60050085,
         "alias": "Contents.Skill.acquireEffectDesc.LongBow.5100",
-        "text": "일정 확률로 \"밀치기\", \"기절\" 효과 적용"
+        "text": "사용 중 회피 +30"
     },
     "60050086": {
         "deprecated": false,
@@ -655,7 +655,7 @@
         "Dev_Desc": "출혈화살_설명",
         "id": 60050093,
         "alias": "Contents.Skill.Desc.LongBow.5010",
-        "text": "일정 확률로 대상을 \"출혈\" 시키는 화살을 날립니다."
+        "text": "일정 확률로 대상을 3초간 \"출혈\" 시키는 화살을 날립니다."
     },
     "60050094": {
         "deprecated": false,
@@ -676,7 +676,7 @@
         "Dev_Desc": "출혈화살_돌파",
         "id": 60050096,
         "alias": "Contents.Skill.acquireEffectDesc.LongBow.5063",
-        "text": "치명타 시 \"출혈\" 2중첩\n사용 중 원거리 치명률 +10%"
+        "text": "피해량 증가"
     },
     "60050101": {
         "deprecated": false,
@@ -746,7 +746,7 @@
         "Dev_Desc": "깊은상처_효과",
         "id": 60050110,
         "alias": "Contents.Skill.UseEffect.LongBow.5890",
-        "text": "출혈 지속시간 증가"
+        "text": "출혈 지속시간 +1초"
     },
     "60050111": {
         "deprecated": false,
@@ -971,5 +971,54 @@
         "id": 60050142,
         "alias": "Contents.Skill.Upgrade.LongBow.9",
         "text": "원거리 명중 증가"
+    },
+    "60050143": {
+        "deprecated": false,
+        "Dev_Desc": "봉쇄화살",
+        "id": 60050143,
+        "alias": "Contents.Skill.Name.LongBow.5110",
+        "text": "봉쇄화살"
+    },
+    "60050144": {
+        "deprecated": false,
+        "Dev_Desc": "봉쇄화살_설명",
+        "id": 60050144,
+        "alias": "Contents.Skill.Desc.LongBow.5110",
+        "text": "대상의 발을 묶는 특수한 화살을 날려 대상을 포함한 최대 3인에게 피해를 입힙니다.\n무공에 적중당한 모든 대상은 구르기 및 지면에서 발이 떨어지는 무공을 사용할 수 없으며, 이동 속도가 감소합니다."
+    },
+    "60050145": {
+        "deprecated": false,
+        "Dev_Desc": "봉쇄화살_효과",
+        "id": 60050145,
+        "alias": "Contents.Skill.UseEffect.LongBow.5110",
+        "text": "봉쇄"
+    },
+    "60050146": {
+        "deprecated": false,
+        "Dev_Desc": "봉쇄화살_돌파_설명",
+        "id": 60050146,
+        "alias": "Contents.Skill.Desc.LongBow.5113",
+        "text": "대상의 발을 묶는 특수한 화살을 날려 대상을 포함한 최대 3인에게 피해를 입힙니다.\n무공에 적중당한 모든 대상은 가운데로 \"당기기\" 효과가 적용되며, 구르기 및 지면에서 발이 떠지는 무공을 사용할 수 없으며, 이동 속도가 감소합니다."
+    },
+    "60050147": {
+        "deprecated": false,
+        "Dev_Desc": "봉쇄화살_증폭_성장효과",
+        "id": 60050147,
+        "alias": "Contents.Skill.acquireEffectDesc.LongBow.5111",
+        "text": "내력 소모량 -"
+    },
+    "60050148": {
+        "deprecated": false,
+        "Dev_Desc": "봉쇄화살_극한_성장효과",
+        "id": 60050148,
+        "alias": "Contents.Skill.acquireEffectDesc.LongBow.5112",
+        "text": "회피 -"
+    },
+    "60050149": {
+        "deprecated": false,
+        "Dev_Desc": "봉쇄화살_돌파_성장효과",
+        "id": 60050149,
+        "alias": "Contents.Skill.acquireEffectDesc.LongBow.5113",
+        "text": "대상을 중심으로 \"당기기\" 효과 적용\n이동 속도 감소 효과 강화"
     }
 }

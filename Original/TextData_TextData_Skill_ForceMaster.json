@@ -60,7 +60,7 @@
         "Dev_Desc": "기공패 디버프 둔화_옵션",
         "id": 60030009,
         "alias": "Contents.Effect.Option.FireBangle.300020",
-        "text": "이동 속도 감소율 30%"
+        "text": "이동 속도 감소율 60%"
     },
     "60030010": {
         "deprecated": false,
@@ -326,7 +326,7 @@
         "Dev_Desc": "기공패 효과 표시 둔화",
         "id": 60030047,
         "alias": "Contents.Skill.useEffectDesc.FireBangle.3001",
-        "text": "이동 속도 감소율 +30%"
+        "text": "이동 속도 감소율 +60%"
     },
     "60030048": {
         "deprecated": false,
@@ -696,7 +696,7 @@
         "Dev_Desc": "화련장_일반_증폭_성장설명",
         "id": 60030100,
         "alias": "Contents.Skill.acquireEffectDesc.3062",
-        "text": "지능에 비례하여 추가 피해 적용"
+        "text": "지능에 비례하여 피해량 증가"
     },
     "60030101": {
         "deprecated": false,
@@ -815,7 +815,7 @@
         "Dev_Desc": "봉황시_돌파_성장설명",
         "id": 60030117,
         "alias": "Contents.Skill.acquireEffectDesc.3384",
-        "text": "지능에 비례하여 추가 피해 적용"
+        "text": "지능에 비례하여 피해량 증가"
     },
     "60030118": {
         "deprecated": false,
@@ -899,7 +899,7 @@
         "Dev_Desc": "유성_영웅_돌파_성장설명",
         "id": 60030129,
         "alias": "Contents.Skill.acquireEffectDesc.3630",
-        "text": "유성 범위 증가\n범위 내 최대 5인까지 적중"
+        "text": "유성 범위 증가\n얼음 유성의 피해량 증가"
     },
     "60030130": {
         "deprecated": false,

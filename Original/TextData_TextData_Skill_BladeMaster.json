@@ -67,14 +67,14 @@
         "Dev_Desc": "일섬_증폭",
         "id": 60010017,
         "alias": "Contents.Skill.Acquire.LongSword.1013",
-        "text": "힘에 비례하여 추가 피해 적용"
+        "text": "힘에 비례하여 피해량 증가"
     },
     "60010018": {
         "deprecated": false,
         "Dev_Desc": "일섬_극한",
         "id": 60010018,
         "alias": "Contents.Skill.Acquire.LongSword.1015",
-        "text": "일정 확률로 막기 관통 효과 적용"
+        "text": "일정 확률로 막기 관통\n막기 관통 시 \"기절\" 효과 적용"
     },
     "60010019": {
         "deprecated": false,
@@ -116,7 +116,7 @@
         "Dev_Desc": "찔러베기_돌파",
         "id": 60010033,
         "alias": "Contents.Skill.Acquire.LongSword.1051_4",
-        "text": "힘에 비례하여 추가 피해 적용"
+        "text": "힘에 비례하여 피해량 증가"
     },
     "60010034": {
         "deprecated": false,
@@ -242,7 +242,7 @@
         "Dev_Desc": "뛰어베기_돌파",
         "id": 60010075,
         "alias": "Contents.Skill.Acquire.LongSword.1056_4",
-        "text": "사용 거리 증가"
+        "text": "사용 거리 증가\n일정 확률로 연속 뛰어베기 사용"
     },
     "60010076": {
         "deprecated": false,
@@ -270,7 +270,7 @@
         "Dev_Desc": "천지가르기_증폭",
         "id": 60010085,
         "alias": "Contents.Skill.Acquire.LongSword.1076_2",
-        "text": "힘에 비례하여 추가 피해 적용"
+        "text": "힘에 비례하여 피해량 증가"
     },
     "60010086": {
         "deprecated": false,
@@ -284,7 +284,7 @@
         "Dev_Desc": "천지가르기_돌파",
         "id": 60010087,
         "alias": "Contents.Skill.Acquire.LongSword.1076_4",
-        "text": "\"어검징표\" 대상 근거리 절대 명중 +50%"
+        "text": "\"어검징표\" 대상 추가 공격"
     },
     "60010088": {
         "deprecated": false,
@@ -326,7 +326,7 @@
         "Dev_Desc": "막기_돌파",
         "id": 60010098,
         "alias": "Contents.Skill.Acquire.LongSword.1101_4",
-        "text": "튕기기 확률 증가 +50%"
+        "text": "튕기기 발동률 +50%"
     },
     "60010099": {
         "deprecated": false,
@@ -473,7 +473,7 @@
         "Dev_Desc": "번개베기_증폭",
         "id": 60010135,
         "alias": "Contents.Skill.Acquire.LongSword.1102_2",
-        "text": "일정 확률로 막기 관통 효과 적용"
+        "text": "일정 확률로 막기 관통\n막기 관통 시 \"기절\" 효과 적용"
     },
     "60010136": {
         "deprecated": false,
@@ -655,7 +655,7 @@
         "Dev_Desc": "튕기기 발동률 증가",
         "id": 60010161,
         "alias": "Contents.Skill.Upgrade.Name.LongSword.parryrate",
-        "text": "튕기기 발동률 증가"
+        "text": "튕기기 발동률"
     },
     "60010162": {
         "deprecated": false,
@@ -719,5 +719,54 @@
         "id": 60010170,
         "alias": "Contents.Skill.Upgrade.Name.LongSword.ShortPhysicalAttack",
         "text": "근거리 공격력 +2"
+    },
+    "60010171": {
+        "deprecated": false,
+        "Dev_Desc": "휘몰아치기_버프",
+        "id": 60010171,
+        "alias": "Contents.Effect.Name.LongSword.180811",
+        "text": "휘몰아치기"
+    },
+    "60010172": {
+        "deprecated": false,
+        "Dev_Desc": "휘몰아치기_버프",
+        "id": 60010172,
+        "alias": "Contents.Effect.Desc.LongSword.180811",
+        "text": "무공 공격 속도 증가"
+    },
+    "60010173": {
+        "deprecated": false,
+        "Dev_Desc": "휘몰아치기_버프",
+        "id": 60010173,
+        "alias": "Contents.Effect.Option.LongSword.180811",
+        "text": "무공 공격 속도 +5%"
+    },
+    "60010174": {
+        "deprecated": false,
+        "Dev_Desc": "휘몰아치기_버프",
+        "id": 60010174,
+        "alias": "Contents.Effect.Detail.LongSword.180811",
+        "text": "\"휘몰아치기\"는 최대 5회까지 중첩"
+    },
+    "60010175": {
+        "deprecated": false,
+        "Dev_Desc": "휘몰아치기_스킬",
+        "id": 60010175,
+        "alias": "Contents.Skill.Name.LongSword.1808",
+        "text": "휘몰아치기"
+    },
+    "60010176": {
+        "deprecated": false,
+        "Dev_Desc": "휘몰아치기_스킬",
+        "id": 60010176,
+        "alias": "Contents.Skill.Desc.LongSword.1808",
+        "text": "기세를 올려 공격을 몰아칩니다.\n무공 명중 시, 일정 확률로 무공 공격 속도가 증가합니다.\n최대 5회까지 중첩됩니다."
+    },
+    "60010177": {
+        "deprecated": false,
+        "Dev_Desc": "휘몰아치기_스킬",
+        "id": 60010177,
+        "alias": "Contents.Skill.useEffect.LongSword.1808",
+        "text": "무공 공격 속도 +5%"
     }
 }

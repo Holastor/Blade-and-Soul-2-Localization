@@ -1041,7 +1041,7 @@
         "deprecated": false,
         "id": 89000923,
         "alias": "Contents.Item.Name.9100620",
-        "text": "[법종] 연쇄치유(각인)"
+        "text": "[법종] 생령합일(각인)"
     },
     "89000924": {
         "deprecated": false,
@@ -1767,7 +1767,7 @@
         "deprecated": false,
         "id": 89001331,
         "alias": "Contents.Item.Name.9110620",
-        "text": "[법종] 연쇄치유"
+        "text": "[법종] 생령합일"
     },
     "89001332": {
         "deprecated": false,
@@ -1901,6 +1901,20 @@
         "alias": "Contents.Item.Name.9101123",
         "text": "[검] 증폭의 정수: 올려베기(각인)"
     },
+    "89001454": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89001454,
+        "alias": "Contents.Item.Name.9101130",
+        "text": "[검] 돌파의 정수: 찔러베기(각인)"
+    },
+    "89001455": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89001455,
+        "alias": "Contents.Item.Name.9101131",
+        "text": "[검] 돌파의 정수: 찌르기(각인)"
+    },
     "89001456": {
         "deprecated": false,
         "id": 89001456,
@@ -1931,6 +1945,20 @@
         "alias": "Contents.Item.Name.9101141",
         "text": "[검] 증폭의 정수: 일섬(각인)"
     },
+    "89001468": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89001468,
+        "alias": "Contents.Item.Name.9101144",
+        "text": "[검] 돌파의 정수: 뛰어베기(각인)"
+    },
+    "89001469": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89001469,
+        "alias": "Contents.Item.Name.9101145",
+        "text": "[검] 돌파의 정수: 올려베기(각인)"
+    },
     "89001470": {
         "deprecated": false,
         "id": 89001470,
@@ -1954,6 +1982,13 @@
         "id": 89001475,
         "alias": "Contents.Item.Name.9101151",
         "text": "[검] 극한의 정수: 일섬(각인)"
+    },
+    "89001476": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89001476,
+        "alias": "Contents.Item.Name.9101152",
+        "text": "[검] 돌파의 정수: 막기(각인)"
     },
     "89001477": {
         "deprecated": false,
@@ -2009,6 +2044,20 @@
         "alias": "Contents.Item.Name.9101223",
         "text": "[권갑] 증폭의 정수: 비염각(각인)"
     },
+    "89001505": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89001505,
+        "alias": "Contents.Item.Name.9101230",
+        "text": "[권갑] 돌파의 정수: 회천각(각인)"
+    },
+    "89001506": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89001506,
+        "alias": "Contents.Item.Name.9101231",
+        "text": "[권갑] 돌파의 정수: 승룡각(각인)"
+    },
     "89001507": {
         "deprecated": false,
         "id": 89001507,
@@ -2045,6 +2094,20 @@
         "alias": "Contents.Item.Name.9101241",
         "text": "[권갑] 증폭의 정수: 승천권(각인)"
     },
+    "89001517": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89001517,
+        "alias": "Contents.Item.Name.9101242",
+        "text": "[권갑] 돌파의 정수: 횡이동(각인)"
+    },
+    "89001518": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89001518,
+        "alias": "Contents.Item.Name.9101243",
+        "text": "[권갑] 돌파의 정수: 비염각(각인)"
+    },
     "89001519": {
         "deprecated": false,
         "id": 89001519,
@@ -2068,6 +2131,13 @@
         "id": 89001526,
         "alias": "Contents.Item.Name.9101251",
         "text": "[권갑] 극한의 정수: 승천권(각인)"
+    },
+    "89001527": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89001527,
+        "alias": "Contents.Item.Name.9101252",
+        "text": "[권갑] 돌파의 정수: 절명각(각인)"
     },
     "89001528": {
         "deprecated": false,
@@ -2117,6 +2187,27 @@
         "alias": "Contents.Item.Name.9101323",
         "text": "[도끼] 증폭의 정수: 광풍(각인)"
     },
+    "89001550": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89001550,
+        "alias": "Contents.Item.Name.9101324",
+        "text": "[도끼] 돌파의 정수: 격돌(각인)"
+    },
+    "89001556": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89001556,
+        "alias": "Contents.Item.Name.9101330",
+        "text": "[도끼] 돌파의 정수: 천벌(각인)"
+    },
+    "89001557": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89001557,
+        "alias": "Contents.Item.Name.9101331",
+        "text": "[도끼] 돌파의 정수: 붕괴(각인)"
+    },
     "89001558": {
         "deprecated": false,
         "id": 89001558,
@@ -2159,6 +2250,13 @@
         "alias": "Contents.Item.Name.9101342",
         "text": "[도끼] 극한의 정수: 철벽(각인)"
     },
+    "89001569": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89001569,
+        "alias": "Contents.Item.Name.9101343",
+        "text": "[도끼] 돌파의 정수: 광풍(각인)"
+    },
     "89001571": {
         "deprecated": false,
         "id": 89001571,
@@ -2176,6 +2274,13 @@
         "id": 89001577,
         "alias": "Contents.Item.Name.9101351",
         "text": "[도끼] 극한의 정수: 분노(각인)"
+    },
+    "89001578": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89001578,
+        "alias": "Contents.Item.Name.9101352",
+        "text": "[도끼] 돌파의 정수: 철벽(각인)"
     },
     "89001580": {
         "deprecated": false,
@@ -2219,6 +2324,13 @@
         "alias": "Contents.Item.Name.9101422",
         "text": "[기공패] 증폭의 정수: 얼음창(각인)"
     },
+    "89001607": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89001607,
+        "alias": "Contents.Item.Name.9101430",
+        "text": "[기공패] 돌파의 정수: 결빙공(각인)"
+    },
     "89001608": {
         "deprecated": false,
         "id": 89001608,
@@ -2249,6 +2361,27 @@
         "alias": "Contents.Item.Name.9101435",
         "text": "[기공패] 극한의 정수: 회진보(각인)"
     },
+    "89001617": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89001617,
+        "alias": "Contents.Item.Name.9101440",
+        "text": "[기공패] 돌파의 정수: 연화(각인)"
+    },
+    "89001618": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89001618,
+        "alias": "Contents.Item.Name.9101441",
+        "text": "[기공패] 돌파의 정수: 화련장(각인)"
+    },
+    "89001619": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89001619,
+        "alias": "Contents.Item.Name.9101442",
+        "text": "[기공패] 돌파의 정수: 얼음창(각인)"
+    },
     "89001620": {
         "deprecated": false,
         "id": 89001620,
@@ -2272,6 +2405,13 @@
         "id": 89001624,
         "alias": "Contents.Item.Name.9101447",
         "text": "[기공패] 극한의 정수: 봉황시(각인)"
+    },
+    "89001627": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89001627,
+        "alias": "Contents.Item.Name.9101450",
+        "text": "[기공패] 돌파의 정수: 유성(각인)"
     },
     "89001628": {
         "deprecated": false,
@@ -2309,6 +2449,13 @@
         "alias": "Contents.Item.Name.9101512",
         "text": "[활] 증폭의 정수: 출혈화살(각인)"
     },
+    "89001641": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89001641,
+        "alias": "Contents.Item.Name.9101513",
+        "text": "[활] 돌파의 정수: 후퇴사격(각인)"
+    },
     "89001648": {
         "deprecated": false,
         "id": 89001648,
@@ -2333,6 +2480,20 @@
         "alias": "Contents.Item.Name.9101523",
         "text": "[활] 극한의 정수: 출혈화살(각인)"
     },
+    "89001652": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89001652,
+        "alias": "Contents.Item.Name.9101524",
+        "text": "[활] 돌파의 정수: 화살비(각인)"
+    },
+    "89001658": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89001658,
+        "alias": "Contents.Item.Name.9101530",
+        "text": "[활] 돌파의 정수: 추적화살(각인)"
+    },
     "89001659": {
         "deprecated": false,
         "id": 89001659,
@@ -2350,6 +2511,13 @@
         "id": 89001661,
         "alias": "Contents.Item.Name.9101533",
         "text": "[활] 증폭의 정수: 살상명령(각인)"
+    },
+    "89001662": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89001662,
+        "alias": "Contents.Item.Name.9101534",
+        "text": "[활] 돌파의 정수: 출혈화살(각인)"
     },
     "89001668": {
         "deprecated": false,
@@ -2393,6 +2561,13 @@
         "alias": "Contents.Item.Name.9101547",
         "text": "[활] 극한의 정수: 반마화살(각인)"
     },
+    "89001678": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89001678,
+        "alias": "Contents.Item.Name.9101550",
+        "text": "[활] 돌파의 정수: 다발화살(각인)"
+    },
     "89001679": {
         "deprecated": false,
         "id": 89001679,
@@ -2433,13 +2608,27 @@
         "deprecated": false,
         "id": 89001701,
         "alias": "Contents.Item.Name.9101622",
-        "text": "[법종] 증폭의 정수: 연쇄치유(각인)"
+        "text": "[법종] 증폭의 정수: 생령합일(각인)"
     },
     "89001702": {
         "deprecated": false,
         "id": 89001702,
         "alias": "Contents.Item.Name.9101623",
         "text": "[법종] 증폭의 정수: 심기일전(각인)"
+    },
+    "89001709": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89001709,
+        "alias": "Contents.Item.Name.9101630",
+        "text": "[법종] 돌파의 정수: 연섬뢰(각인)"
+    },
+    "89001710": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89001710,
+        "alias": "Contents.Item.Name.9101631",
+        "text": "[법종] 돌파의 정수: 강섬뢰(각인)"
     },
     "89001711": {
         "deprecated": false,
@@ -2457,13 +2646,20 @@
         "deprecated": false,
         "id": 89001713,
         "alias": "Contents.Item.Name.9101634",
-        "text": "[법종] 극한의 정수: 연쇄치유(각인)"
+        "text": "[법종] 극한의 정수: 생령합일(각인)"
     },
     "89001714": {
         "deprecated": false,
         "id": 89001714,
         "alias": "Contents.Item.Name.9101635",
         "text": "[법종] 극한의 정수: 청화(각인)"
+    },
+    "89001720": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89001720,
+        "alias": "Contents.Item.Name.9101641",
+        "text": "[법종] 돌파의 정수: 생령치유(각인)"
     },
     "89001721": {
         "deprecated": false,
@@ -2476,6 +2672,13 @@
         "id": 89001722,
         "alias": "Contents.Item.Name.9101643",
         "text": "[법종] 증폭의 정수: 청화(각인)"
+    },
+    "89001723": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89001723,
+        "alias": "Contents.Item.Name.9101644",
+        "text": "[법종] 돌파의 정수: 생령합일(각인)"
     },
     "89001724": {
         "deprecated": false,
@@ -2494,6 +2697,13 @@
         "id": 89001729,
         "alias": "Contents.Item.Name.9101650",
         "text": "[법종] 증폭의 정수: 심판(각인)"
+    },
+    "89001730": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89001730,
+        "alias": "Contents.Item.Name.9101651",
+        "text": "[법종] 돌파의 정수: 심기일전(각인)"
     },
     "89001731": {
         "deprecated": false,
@@ -2543,6 +2753,20 @@
         "alias": "Contents.Item.Name.9111123",
         "text": "[검] 증폭의 정수: 올려베기 "
     },
+    "89001811": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89001811,
+        "alias": "Contents.Item.Name.9111130",
+        "text": "[검] 돌파의 정수: 찔러베기 "
+    },
+    "89001812": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89001812,
+        "alias": "Contents.Item.Name.9111131",
+        "text": "[검] 돌파의 정수: 찌르기 "
+    },
     "89001813": {
         "deprecated": false,
         "id": 89001813,
@@ -2573,6 +2797,20 @@
         "alias": "Contents.Item.Name.9111141",
         "text": "[검] 증폭의 정수: 일섬"
     },
+    "89001825": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89001825,
+        "alias": "Contents.Item.Name.9111144",
+        "text": "[검] 돌파의 정수: 뛰어베기 "
+    },
+    "89001826": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89001826,
+        "alias": "Contents.Item.Name.9111145",
+        "text": "[검] 돌파의 정수: 올려베기"
+    },
     "89001827": {
         "deprecated": false,
         "id": 89001827,
@@ -2596,6 +2834,13 @@
         "id": 89001832,
         "alias": "Contents.Item.Name.9111151",
         "text": "[검] 극한의 정수: 일섬"
+    },
+    "89001833": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89001833,
+        "alias": "Contents.Item.Name.9111152",
+        "text": "[검] 돌파의 정수: 막기"
     },
     "89001834": {
         "deprecated": false,
@@ -2645,6 +2890,20 @@
         "alias": "Contents.Item.Name.9111223",
         "text": "[권갑] 증폭의 정수: 비염각 "
     },
+    "89001862": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89001862,
+        "alias": "Contents.Item.Name.9111230",
+        "text": "[권갑] 돌파의 정수: 회천각 "
+    },
+    "89001863": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89001863,
+        "alias": "Contents.Item.Name.9111231",
+        "text": "[권갑] 돌파의 정수: 승룡각 "
+    },
     "89001864": {
         "deprecated": false,
         "id": 89001864,
@@ -2681,6 +2940,20 @@
         "alias": "Contents.Item.Name.9111241",
         "text": "[권갑] 증폭의 정수: 승천권 "
     },
+    "89001874": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89001874,
+        "alias": "Contents.Item.Name.9111242",
+        "text": "[권갑] 돌파의 정수: 횡이동 "
+    },
+    "89001875": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89001875,
+        "alias": "Contents.Item.Name.9111243",
+        "text": "[권갑] 돌파의 정수: 비염각 "
+    },
     "89001876": {
         "deprecated": false,
         "id": 89001876,
@@ -2704,6 +2977,13 @@
         "id": 89001883,
         "alias": "Contents.Item.Name.9111251",
         "text": "[권갑] 극한의 정수: 승천권 "
+    },
+    "89001884": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89001884,
+        "alias": "Contents.Item.Name.9111252",
+        "text": "[권갑] 돌파의 정수: 절명각 "
     },
     "89001885": {
         "deprecated": false,
@@ -2747,6 +3027,27 @@
         "alias": "Contents.Item.Name.9111323",
         "text": "[도끼] 증폭의 정수: 광풍"
     },
+    "89001907": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89001907,
+        "alias": "Contents.Item.Name.9111324",
+        "text": "[도끼] 돌파의 정수: 격돌"
+    },
+    "89001913": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89001913,
+        "alias": "Contents.Item.Name.9111330",
+        "text": "[도끼] 돌파의 정수: 천벌"
+    },
+    "89001914": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89001914,
+        "alias": "Contents.Item.Name.9111331",
+        "text": "[도끼] 돌파의 정수: 붕괴"
+    },
     "89001915": {
         "deprecated": false,
         "id": 89001915,
@@ -2789,6 +3090,13 @@
         "alias": "Contents.Item.Name.9111342",
         "text": "[도끼] 극한의 정수: 철벽"
     },
+    "89001926": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89001926,
+        "alias": "Contents.Item.Name.9111343",
+        "text": "[도끼] 돌파의 정수: 광풍"
+    },
     "89001928": {
         "deprecated": false,
         "id": 89001928,
@@ -2806,6 +3114,13 @@
         "id": 89001934,
         "alias": "Contents.Item.Name.9111351",
         "text": "[도끼] 극한의 정수: 분노 "
+    },
+    "89001935": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89001935,
+        "alias": "Contents.Item.Name.9111352",
+        "text": "[도끼] 돌파의 정수: 철벽 "
     },
     "89001937": {
         "deprecated": false,
@@ -2843,6 +3158,13 @@
         "alias": "Contents.Item.Name.9111422",
         "text": "[기공패] 증폭의 정수: 얼음창"
     },
+    "89001964": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89001964,
+        "alias": "Contents.Item.Name.9111430",
+        "text": "[기공패] 돌파의 정수: 결빙공"
+    },
     "89001965": {
         "deprecated": false,
         "id": 89001965,
@@ -2873,6 +3195,27 @@
         "alias": "Contents.Item.Name.9111435",
         "text": "[기공패] 극한의 정수: 회진보"
     },
+    "89001974": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89001974,
+        "alias": "Contents.Item.Name.9111440",
+        "text": "[기공패] 돌파의 정수: 연화"
+    },
+    "89001975": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89001975,
+        "alias": "Contents.Item.Name.9111441",
+        "text": "[기공패] 돌파의 정수: 화련장"
+    },
+    "89001976": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89001976,
+        "alias": "Contents.Item.Name.9111442",
+        "text": "[기공패] 돌파의 정수: 얼음창"
+    },
     "89001977": {
         "deprecated": false,
         "id": 89001977,
@@ -2896,6 +3239,13 @@
         "id": 89001981,
         "alias": "Contents.Item.Name.9111447",
         "text": "[기공패] 극한의 정수: 봉황시"
+    },
+    "89001984": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89001984,
+        "alias": "Contents.Item.Name.9111450",
+        "text": "[기공패] 돌파의 정수: 유성"
     },
     "89001985": {
         "deprecated": false,
@@ -2933,6 +3283,13 @@
         "alias": "Contents.Item.Name.9111512",
         "text": "[활] 증폭의 정수: 출혈화살"
     },
+    "89001998": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89001998,
+        "alias": "Contents.Item.Name.9111513",
+        "text": "[활] 돌파의 정수: 후퇴사격"
+    },
     "89002005": {
         "deprecated": false,
         "id": 89002005,
@@ -2957,6 +3314,20 @@
         "alias": "Contents.Item.Name.9111523",
         "text": "[활] 극한의 정수: 출혈화살"
     },
+    "89002009": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89002009,
+        "alias": "Contents.Item.Name.9111524",
+        "text": "[활] 돌파의 정수: 화살비"
+    },
+    "89002015": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89002015,
+        "alias": "Contents.Item.Name.9111530",
+        "text": "[활] 돌파의 정수: 추적화살 "
+    },
     "89002016": {
         "deprecated": false,
         "id": 89002016,
@@ -2974,6 +3345,13 @@
         "id": 89002018,
         "alias": "Contents.Item.Name.9111533",
         "text": "[활] 증폭의 정수: 살상명령 "
+    },
+    "89002019": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89002019,
+        "alias": "Contents.Item.Name.9111534",
+        "text": "[활] 돌파의 정수: 출혈화살"
     },
     "89002025": {
         "deprecated": false,
@@ -3010,6 +3388,13 @@
         "id": 89002032,
         "alias": "Contents.Item.Name.9111547",
         "text": "[활] 극한의 정수: 반마화살"
+    },
+    "89002035": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89002035,
+        "alias": "Contents.Item.Name.9111550",
+        "text": "[활] 돌파의 정수: 다발화살"
     },
     "89002036": {
         "deprecated": false,
@@ -3053,6 +3438,20 @@
         "alias": "Contents.Item.Name.9111623",
         "text": "[법종] 증폭의 정수: 심기일전 "
     },
+    "89002066": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89002066,
+        "alias": "Contents.Item.Name.9111630",
+        "text": "[법종] 돌파의 정수: 연섬뢰 "
+    },
+    "89002067": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89002067,
+        "alias": "Contents.Item.Name.9111631",
+        "text": "[법종] 돌파의 정수: 강섬뢰 "
+    },
     "89002068": {
         "deprecated": false,
         "id": 89002068,
@@ -3069,13 +3468,20 @@
         "deprecated": false,
         "id": 89002070,
         "alias": "Contents.Item.Name.9111634",
-        "text": "[법종] 극한의 정수: 연쇄치유 "
+        "text": "[법종] 극한의 정수: 생령합일 "
     },
     "89002071": {
         "deprecated": false,
         "id": 89002071,
         "alias": "Contents.Item.Name.9111635",
         "text": "[법종] 극한의 정수: 청화"
+    },
+    "89002077": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89002077,
+        "alias": "Contents.Item.Name.9111641",
+        "text": "[법종] 돌파의 정수: 생령치유 "
     },
     "89002078": {
         "deprecated": false,
@@ -3088,6 +3494,13 @@
         "id": 89002079,
         "alias": "Contents.Item.Name.9111643",
         "text": "[법종] 증폭의 정수: 청화"
+    },
+    "89002080": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89002080,
+        "alias": "Contents.Item.Name.9111644",
+        "text": "[법종] 돌파의 정수: 생령합일 "
     },
     "89002081": {
         "deprecated": false,
@@ -3106,6 +3519,13 @@
         "id": 89002086,
         "alias": "Contents.Item.Name.9111650",
         "text": "[법종] 증폭의 정수: 심판 "
+    },
+    "89002087": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89002087,
+        "alias": "Contents.Item.Name.9111651",
+        "text": "[법종] 돌파의 정수: 심기일전"
     },
     "89002088": {
         "deprecated": false,
@@ -4077,7 +4497,7 @@
         "deprecated": false,
         "id": 89002625,
         "alias": "Contents.Item.Name.9120620",
-        "text": "[법종] 연쇄치유(상점)"
+        "text": "[법종] 생령합일(상점)"
     },
     "89002626": {
         "deprecated": false,
@@ -4293,7 +4713,7 @@
         "deprecated": false,
         "id": 89002765,
         "alias": "Contents.Item.Name.9202014",
-        "text": "영석 결정(30분)(이벤트)"
+        "text": "영석 결정(30분)(각인)"
     },
     "89002767": {
         "deprecated": false,
@@ -6346,5 +6766,953 @@
         "id": 89003335,
         "alias": "Contents.Item.Name.9900362",
         "text": "사자의 춤 의상 주머니(각인)"
+    },
+    "89003336": {
+        "deprecated": false,
+        "id": 89003336,
+        "alias": "Contents.Item.Name.9900363",
+        "text": "빛나는 소혼의 병풍: 낙원대성(이벤트)"
+    },
+    "89003337": {
+        "deprecated": false,
+        "id": 89003337,
+        "alias": "Contents.Item.Name.9900364",
+        "text": "낡은 소혼의 병풍: 오염된 초령목(이벤트)"
+    },
+    "89003338": {
+        "deprecated": false,
+        "id": 89003338,
+        "alias": "Contents.Item.Name.9900365",
+        "text": "평범한 소혼의 병풍: 각성한 초령목(이벤트)"
+    },
+    "89003339": {
+        "deprecated": false,
+        "id": 89003339,
+        "alias": "Contents.Item.Name.9900366",
+        "text": "빛나는 소혼의 병풍: 분노한 초령목(이벤트)"
+    },
+    "89003340": {
+        "deprecated": false,
+        "id": 89003340,
+        "alias": "Contents.Item.Name.9900367",
+        "text": "과실주(각인)"
+    },
+    "89003341": {
+        "deprecated": false,
+        "id": 89003341,
+        "alias": "Contents.Item.Name.9900368",
+        "text": "과실주(이벤트)"
+    },
+    "89003342": {
+        "deprecated": false,
+        "id": 89003342,
+        "alias": "Contents.Item.Name.9900369",
+        "text": "찬란한 거곤 공로함(각인)"
+    },
+    "89003343": {
+        "deprecated": false,
+        "id": 89003343,
+        "alias": "Contents.Item.Name.9900370",
+        "text": "빛나는 거곤 공로함(각인)"
+    },
+    "89003344": {
+        "deprecated": false,
+        "id": 89003344,
+        "alias": "Contents.Item.Name.9900371",
+        "text": "평범한 거곤 공로함(각인)"
+    },
+    "89003345": {
+        "deprecated": false,
+        "id": 89003345,
+        "alias": "Contents.Item.Name.9900372",
+        "text": "낡은 거곤 공로함(각인)"
+    },
+    "89003346": {
+        "deprecated": false,
+        "id": 89003346,
+        "alias": "Contents.Item.Name.9900373",
+        "text": "찬란한 모극 공로함(각인)"
+    },
+    "89003347": {
+        "deprecated": false,
+        "id": 89003347,
+        "alias": "Contents.Item.Name.9900374",
+        "text": "빛나는 모극 공로함(각인)"
+    },
+    "89003348": {
+        "deprecated": false,
+        "id": 89003348,
+        "alias": "Contents.Item.Name.9900375",
+        "text": "평범한 모극 공로함(각인)"
+    },
+    "89003349": {
+        "deprecated": false,
+        "id": 89003349,
+        "alias": "Contents.Item.Name.9900376",
+        "text": "낡은 모극 공로함(각인)"
+    },
+    "89003350": {
+        "deprecated": false,
+        "id": 89003350,
+        "alias": "Contents.Item.Name.9900377",
+        "text": "찬란한 거곤 공로함(각인)"
+    },
+    "89003351": {
+        "deprecated": false,
+        "id": 89003351,
+        "alias": "Contents.Item.Name.9900378",
+        "text": "빛나는 거곤 공로함(각인)"
+    },
+    "89003352": {
+        "deprecated": false,
+        "id": 89003352,
+        "alias": "Contents.Item.Name.9900379",
+        "text": "평범한 거곤 공로함(각인)"
+    },
+    "89003353": {
+        "deprecated": false,
+        "id": 89003353,
+        "alias": "Contents.Item.Name.9900380",
+        "text": "낡은 거곤 공로함(각인)"
+    },
+    "89003354": {
+        "deprecated": false,
+        "id": 89003354,
+        "alias": "Contents.Item.Name.9900381",
+        "text": "찬란한 모극 공로함(각인)"
+    },
+    "89003355": {
+        "deprecated": false,
+        "id": 89003355,
+        "alias": "Contents.Item.Name.9900382",
+        "text": "빛나는 모극 공로함(각인)"
+    },
+    "89003356": {
+        "deprecated": false,
+        "id": 89003356,
+        "alias": "Contents.Item.Name.9900383",
+        "text": "평범한 모극 공로함(각인)"
+    },
+    "89003357": {
+        "deprecated": false,
+        "id": 89003357,
+        "alias": "Contents.Item.Name.9900384",
+        "text": "낡은 모극 공로함(각인)"
+    },
+    "89003358": {
+        "deprecated": false,
+        "id": 89003358,
+        "alias": "Contents.Item.Name.9900385",
+        "text": "찬란한 거곤 공로함(각인)"
+    },
+    "89003359": {
+        "deprecated": false,
+        "id": 89003359,
+        "alias": "Contents.Item.Name.9900386",
+        "text": "빛나는 거곤 공로함(각인)"
+    },
+    "89003360": {
+        "deprecated": false,
+        "id": 89003360,
+        "alias": "Contents.Item.Name.9900387",
+        "text": "평범한 거곤 공로함(각인)"
+    },
+    "89003361": {
+        "deprecated": false,
+        "id": 89003361,
+        "alias": "Contents.Item.Name.9900388",
+        "text": "낡은 거곤 공로함(각인)"
+    },
+    "89003362": {
+        "deprecated": false,
+        "id": 89003362,
+        "alias": "Contents.Item.Name.9900389",
+        "text": "찬란한 모극 공로함(각인)"
+    },
+    "89003363": {
+        "deprecated": false,
+        "id": 89003363,
+        "alias": "Contents.Item.Name.9900390",
+        "text": "빛나는 모극 공로함(각인)"
+    },
+    "89003364": {
+        "deprecated": false,
+        "id": 89003364,
+        "alias": "Contents.Item.Name.9900391",
+        "text": "평범한 모극 공로함(각인)"
+    },
+    "89003365": {
+        "deprecated": false,
+        "id": 89003365,
+        "alias": "Contents.Item.Name.9900392",
+        "text": "낡은 모극 공로함(각인)"
+    },
+    "89003366": {
+        "deprecated": false,
+        "id": 89003366,
+        "alias": "Contents.Item.Name.9900393",
+        "text": "찬란한 모순학 공로함(각인)"
+    },
+    "89003367": {
+        "deprecated": false,
+        "id": 89003367,
+        "alias": "Contents.Item.Name.9900394",
+        "text": "빛나는 모순학 공로함(각인)"
+    },
+    "89003368": {
+        "deprecated": false,
+        "id": 89003368,
+        "alias": "Contents.Item.Name.9900395",
+        "text": "평범한 모순학 공로함(각인)"
+    },
+    "89003369": {
+        "deprecated": false,
+        "id": 89003369,
+        "alias": "Contents.Item.Name.9900396",
+        "text": "낡은 모순학 공로함(각인)"
+    },
+    "89003370": {
+        "deprecated": false,
+        "id": 89003370,
+        "alias": "Contents.Item.Name.9900397",
+        "text": "찬란한 거곤 공로함(각인)"
+    },
+    "89003371": {
+        "deprecated": false,
+        "id": 89003371,
+        "alias": "Contents.Item.Name.9900398",
+        "text": "빛나는 거곤 공로함(각인)"
+    },
+    "89003372": {
+        "deprecated": false,
+        "id": 89003372,
+        "alias": "Contents.Item.Name.9900399",
+        "text": "평범한 거곤 공로함(각인)"
+    },
+    "89003373": {
+        "deprecated": false,
+        "id": 89003373,
+        "alias": "Contents.Item.Name.9900400",
+        "text": "낡은 거곤 공로함(각인)"
+    },
+    "89003374": {
+        "deprecated": false,
+        "id": 89003374,
+        "alias": "Contents.Item.Name.9900401",
+        "text": "찬란한 굴락 공로함(각인)"
+    },
+    "89003375": {
+        "deprecated": false,
+        "id": 89003375,
+        "alias": "Contents.Item.Name.9900402",
+        "text": "빛나는 굴락 공로함(각인)"
+    },
+    "89003376": {
+        "deprecated": false,
+        "id": 89003376,
+        "alias": "Contents.Item.Name.9900403",
+        "text": "평범한 굴락 공로함(각인)"
+    },
+    "89003377": {
+        "deprecated": false,
+        "id": 89003377,
+        "alias": "Contents.Item.Name.9900404",
+        "text": "낡은 굴락 공로함(각인)"
+    },
+    "89003378": {
+        "deprecated": false,
+        "id": 89003378,
+        "alias": "Contents.Item.Name.9900405",
+        "text": "찬란한 강철악 공로함(각인)"
+    },
+    "89003379": {
+        "deprecated": false,
+        "id": 89003379,
+        "alias": "Contents.Item.Name.9900406",
+        "text": "빛나는 강철악 공로함(각인)"
+    },
+    "89003380": {
+        "deprecated": false,
+        "id": 89003380,
+        "alias": "Contents.Item.Name.9900407",
+        "text": "평범한 강철악 공로함(각인)"
+    },
+    "89003381": {
+        "deprecated": false,
+        "id": 89003381,
+        "alias": "Contents.Item.Name.9900408",
+        "text": "낡은 강철악 공로함(각인)"
+    },
+    "89003382": {
+        "deprecated": false,
+        "id": 89003382,
+        "alias": "Contents.Item.Name.9900409",
+        "text": "찬란한 백화렴 공로함(각인)"
+    },
+    "89003383": {
+        "deprecated": false,
+        "id": 89003383,
+        "alias": "Contents.Item.Name.9900410",
+        "text": "빛나는 백화렴 공로함(각인)"
+    },
+    "89003384": {
+        "deprecated": false,
+        "id": 89003384,
+        "alias": "Contents.Item.Name.9900411",
+        "text": "평범한 백화렴 공로함(각인)"
+    },
+    "89003385": {
+        "deprecated": false,
+        "id": 89003385,
+        "alias": "Contents.Item.Name.9900412",
+        "text": "낡은 백화렴 공로함(각인)"
+    },
+    "89003386": {
+        "deprecated": false,
+        "id": 89003386,
+        "alias": "Contents.Item.Name.9900413",
+        "text": "찬란한 초령목 공로함(각인)"
+    },
+    "89003387": {
+        "deprecated": false,
+        "id": 89003387,
+        "alias": "Contents.Item.Name.9900414",
+        "text": "빛나는 초령목 공로함(각인)"
+    },
+    "89003388": {
+        "deprecated": false,
+        "id": 89003388,
+        "alias": "Contents.Item.Name.9900415",
+        "text": "평범한 초령목 공로함(각인)"
+    },
+    "89003389": {
+        "deprecated": false,
+        "id": 89003389,
+        "alias": "Contents.Item.Name.9900416",
+        "text": "낡은 초령목 공로함(각인)"
+    },
+    "89003390": {
+        "deprecated": false,
+        "id": 89003390,
+        "alias": "Contents.Item.Name.9900417",
+        "text": "찬란한 홍린 공로함(각인)"
+    },
+    "89003391": {
+        "deprecated": false,
+        "id": 89003391,
+        "alias": "Contents.Item.Name.9900418",
+        "text": "빛나는 홍린 공로함(각인)"
+    },
+    "89003392": {
+        "deprecated": false,
+        "id": 89003392,
+        "alias": "Contents.Item.Name.9900419",
+        "text": "평범한 홍린 공로함(각인)"
+    },
+    "89003393": {
+        "deprecated": false,
+        "id": 89003393,
+        "alias": "Contents.Item.Name.9900420",
+        "text": "낡은 홍린 공로함(각인)"
+    },
+    "89003394": {
+        "deprecated": false,
+        "id": 89003394,
+        "alias": "Contents.Item.Name.9900421",
+        "text": "찬란한 대인면충 공로함(각인)"
+    },
+    "89003395": {
+        "deprecated": false,
+        "id": 89003395,
+        "alias": "Contents.Item.Name.9900422",
+        "text": "빛나는 대인면충 공로함(각인)"
+    },
+    "89003396": {
+        "deprecated": false,
+        "id": 89003396,
+        "alias": "Contents.Item.Name.9900423",
+        "text": "평범한 대인면충 공로함(각인)"
+    },
+    "89003397": {
+        "deprecated": false,
+        "id": 89003397,
+        "alias": "Contents.Item.Name.9900424",
+        "text": "낡은 대인면충 공로함(각인)"
+    },
+    "89003398": {
+        "deprecated": false,
+        "id": 89003398,
+        "alias": "Contents.Item.Name.9900425",
+        "text": "찬란한 모순학 공로함(각인)"
+    },
+    "89003399": {
+        "deprecated": false,
+        "id": 89003399,
+        "alias": "Contents.Item.Name.9900426",
+        "text": "빛나는 모순학 공로함(각인)"
+    },
+    "89003400": {
+        "deprecated": false,
+        "id": 89003400,
+        "alias": "Contents.Item.Name.9900427",
+        "text": "평범한 모순학 공로함(각인)"
+    },
+    "89003401": {
+        "deprecated": false,
+        "id": 89003401,
+        "alias": "Contents.Item.Name.9900428",
+        "text": "낡은 모순학 공로함(각인)"
+    },
+    "89003402": {
+        "deprecated": false,
+        "id": 89003402,
+        "alias": "Contents.Item.Name.9900429",
+        "text": "찬란한 녹력대귀 공로함(각인)"
+    },
+    "89003403": {
+        "deprecated": false,
+        "id": 89003403,
+        "alias": "Contents.Item.Name.9900430",
+        "text": "빛나는 녹력대귀 공로함(각인)"
+    },
+    "89003404": {
+        "deprecated": false,
+        "id": 89003404,
+        "alias": "Contents.Item.Name.9900431",
+        "text": "평범한 녹력대귀 공로함(각인)"
+    },
+    "89003405": {
+        "deprecated": false,
+        "id": 89003405,
+        "alias": "Contents.Item.Name.9900432",
+        "text": "낡은 녹력대귀 공로함(각인)"
+    },
+    "89003406": {
+        "deprecated": false,
+        "id": 89003406,
+        "alias": "Contents.Item.Name.9900433",
+        "text": "찬란한 돌주먹 공로함(각인)"
+    },
+    "89003407": {
+        "deprecated": false,
+        "id": 89003407,
+        "alias": "Contents.Item.Name.9900434",
+        "text": "빛나는 돌주먹 공로함(각인)"
+    },
+    "89003408": {
+        "deprecated": false,
+        "id": 89003408,
+        "alias": "Contents.Item.Name.9900435",
+        "text": "평범한 돌주먹 공로함(각인)"
+    },
+    "89003409": {
+        "deprecated": false,
+        "id": 89003409,
+        "alias": "Contents.Item.Name.9900436",
+        "text": "낡은 돌주먹 공로함(각인)"
+    },
+    "89003410": {
+        "deprecated": false,
+        "id": 89003410,
+        "alias": "Contents.Item.Name.9900437",
+        "text": "찬란한 홍매화 공로함(각인)"
+    },
+    "89003411": {
+        "deprecated": false,
+        "id": 89003411,
+        "alias": "Contents.Item.Name.9900438",
+        "text": "빛나는 홍매화 공로함(각인)"
+    },
+    "89003412": {
+        "deprecated": false,
+        "id": 89003412,
+        "alias": "Contents.Item.Name.9900439",
+        "text": "평범한 홍매화 공로함(각인)"
+    },
+    "89003413": {
+        "deprecated": false,
+        "id": 89003413,
+        "alias": "Contents.Item.Name.9900440",
+        "text": "낡은 홍매화 공로함(각인)"
+    },
+    "89003414": {
+        "deprecated": false,
+        "id": 89003414,
+        "alias": "Contents.Item.Name.9900441",
+        "text": "찬란한 팔독모 공로함(각인)"
+    },
+    "89003415": {
+        "deprecated": false,
+        "id": 89003415,
+        "alias": "Contents.Item.Name.9900442",
+        "text": "빛나는 팔독모 공로함(각인)"
+    },
+    "89003416": {
+        "deprecated": false,
+        "id": 89003416,
+        "alias": "Contents.Item.Name.9900443",
+        "text": "평범한 팔독모 공로함(각인)"
+    },
+    "89003417": {
+        "deprecated": false,
+        "id": 89003417,
+        "alias": "Contents.Item.Name.9900444",
+        "text": "낡은 팔독모 공로함(각인)"
+    },
+    "89003418": {
+        "deprecated": false,
+        "id": 89003418,
+        "alias": "Contents.Item.Name.9900445",
+        "text": "찬란한 동충 공로함(각인)"
+    },
+    "89003419": {
+        "deprecated": false,
+        "id": 89003419,
+        "alias": "Contents.Item.Name.9900446",
+        "text": "빛나는 동충 공로함(각인)"
+    },
+    "89003420": {
+        "deprecated": false,
+        "id": 89003420,
+        "alias": "Contents.Item.Name.9900447",
+        "text": "평범한 동충 공로함(각인)"
+    },
+    "89003421": {
+        "deprecated": false,
+        "id": 89003421,
+        "alias": "Contents.Item.Name.9900448",
+        "text": "낡은 동충 공로함(각인)"
+    },
+    "89003422": {
+        "deprecated": false,
+        "id": 89003422,
+        "alias": "Contents.Item.Name.9900449",
+        "text": "찬란한 낙원대성 공로함(각인)"
+    },
+    "89003423": {
+        "deprecated": false,
+        "id": 89003423,
+        "alias": "Contents.Item.Name.9900450",
+        "text": "빛나는 낙원대성 공로함(각인)"
+    },
+    "89003424": {
+        "deprecated": false,
+        "id": 89003424,
+        "alias": "Contents.Item.Name.9900451",
+        "text": "평범한 낙원대성 공로함(각인)"
+    },
+    "89003425": {
+        "deprecated": false,
+        "id": 89003425,
+        "alias": "Contents.Item.Name.9900452",
+        "text": "낡은 낙원대성 공로함(각인)"
+    },
+    "89003426": {
+        "deprecated": false,
+        "id": 89003426,
+        "alias": "Contents.Item.Name.9900453",
+        "text": "찬란한 우와 공로함(각인)"
+    },
+    "89003427": {
+        "deprecated": false,
+        "id": 89003427,
+        "alias": "Contents.Item.Name.9900454",
+        "text": "빛나는 우와 공로함(각인)"
+    },
+    "89003428": {
+        "deprecated": false,
+        "id": 89003428,
+        "alias": "Contents.Item.Name.9900455",
+        "text": "평범한 우와 공로함(각인)"
+    },
+    "89003429": {
+        "deprecated": false,
+        "id": 89003429,
+        "alias": "Contents.Item.Name.9900456",
+        "text": "낡은 우와 공로함(각인)"
+    },
+    "89003430": {
+        "deprecated": false,
+        "id": 89003430,
+        "alias": "Contents.Item.Name.9900457",
+        "text": "찬란한 풍신 공로함(각인)"
+    },
+    "89003431": {
+        "deprecated": false,
+        "id": 89003431,
+        "alias": "Contents.Item.Name.9900458",
+        "text": "빛나는 풍신 공로함(각인)"
+    },
+    "89003432": {
+        "deprecated": false,
+        "id": 89003432,
+        "alias": "Contents.Item.Name.9900459",
+        "text": "평범한 풍신 공로함(각인)"
+    },
+    "89003433": {
+        "deprecated": false,
+        "id": 89003433,
+        "alias": "Contents.Item.Name.9900460",
+        "text": "낡은 풍신 공로함(각인)"
+    },
+    "89003434": {
+        "deprecated": false,
+        "id": 89003434,
+        "alias": "Contents.Item.Name.9900461",
+        "text": "찬란한 뇌신 공로함(각인)"
+    },
+    "89003435": {
+        "deprecated": false,
+        "id": 89003435,
+        "alias": "Contents.Item.Name.9900462",
+        "text": "빛나는 뇌신 공로함(각인)"
+    },
+    "89003436": {
+        "deprecated": false,
+        "id": 89003436,
+        "alias": "Contents.Item.Name.9900463",
+        "text": "평범한 뇌신 공로함(각인)"
+    },
+    "89003437": {
+        "deprecated": false,
+        "id": 89003437,
+        "alias": "Contents.Item.Name.9900464",
+        "text": "낡은 뇌신 공로함(각인)"
+    },
+    "89003438": {
+        "deprecated": false,
+        "id": 89003438,
+        "alias": "Contents.Item.Name.9900465",
+        "text": "찬란한 모순학 공로함(각인)"
+    },
+    "89003439": {
+        "deprecated": false,
+        "id": 89003439,
+        "alias": "Contents.Item.Name.9900466",
+        "text": "빛나는 모순학 공로함(각인)"
+    },
+    "89003440": {
+        "deprecated": false,
+        "id": 89003440,
+        "alias": "Contents.Item.Name.9900467",
+        "text": "평범한 모순학 공로함(각인)"
+    },
+    "89003441": {
+        "deprecated": false,
+        "id": 89003441,
+        "alias": "Contents.Item.Name.9900468",
+        "text": "낡은 모순학 공로함(각인)"
+    },
+    "89003442": {
+        "deprecated": false,
+        "id": 89003442,
+        "alias": "Contents.Item.Name.9900469",
+        "text": "찬란한 홍돈팔 공로함(각인)"
+    },
+    "89003443": {
+        "deprecated": false,
+        "id": 89003443,
+        "alias": "Contents.Item.Name.9900470",
+        "text": "빛나는 홍돈팔 공로함(각인)"
+    },
+    "89003444": {
+        "deprecated": false,
+        "id": 89003444,
+        "alias": "Contents.Item.Name.9900471",
+        "text": "평범한 홍돈팔 공로함(각인)"
+    },
+    "89003445": {
+        "deprecated": false,
+        "id": 89003445,
+        "alias": "Contents.Item.Name.9900472",
+        "text": "낡은 홍돈팔 공로함(각인)"
+    },
+    "89003446": {
+        "deprecated": false,
+        "id": 89003446,
+        "alias": "Contents.Item.Name.9900473",
+        "text": "찬란한 타리트 공로함(각인)"
+    },
+    "89003447": {
+        "deprecated": false,
+        "id": 89003447,
+        "alias": "Contents.Item.Name.9900474",
+        "text": "빛나는 타리트 공로함(각인)"
+    },
+    "89003448": {
+        "deprecated": false,
+        "id": 89003448,
+        "alias": "Contents.Item.Name.9900475",
+        "text": "평범한 타리트 공로함(각인)"
+    },
+    "89003449": {
+        "deprecated": false,
+        "id": 89003449,
+        "alias": "Contents.Item.Name.9900476",
+        "text": "낡은 타리트 공로함(각인)"
+    },
+    "89003450": {
+        "deprecated": false,
+        "id": 89003450,
+        "alias": "Contents.Item.Name.9900477",
+        "text": "찬란한 리오리노 공로함(각인)"
+    },
+    "89003451": {
+        "deprecated": false,
+        "id": 89003451,
+        "alias": "Contents.Item.Name.9900478",
+        "text": "빛나는 리오리노 공로함(각인)"
+    },
+    "89003452": {
+        "deprecated": false,
+        "id": 89003452,
+        "alias": "Contents.Item.Name.9900479",
+        "text": "평범한 리오리노 공로함(각인)"
+    },
+    "89003453": {
+        "deprecated": false,
+        "id": 89003453,
+        "alias": "Contents.Item.Name.9900480",
+        "text": "낡은 리오리노 공로함(각인)"
+    },
+    "89003454": {
+        "deprecated": false,
+        "id": 89003454,
+        "alias": "Contents.Item.Name.9900481",
+        "text": "찬란한 백야금 공로함(각인)"
+    },
+    "89003455": {
+        "deprecated": false,
+        "id": 89003455,
+        "alias": "Contents.Item.Name.9900482",
+        "text": "빛나는 백야금 공로함(각인)"
+    },
+    "89003456": {
+        "deprecated": false,
+        "id": 89003456,
+        "alias": "Contents.Item.Name.9900483",
+        "text": "평범한 백야금 공로함(각인)"
+    },
+    "89003457": {
+        "deprecated": false,
+        "id": 89003457,
+        "alias": "Contents.Item.Name.9900484",
+        "text": "낡은 백야금 공로함(각인)"
+    },
+    "89003458": {
+        "deprecated": false,
+        "id": 89003458,
+        "alias": "Contents.Item.Name.9900485",
+        "text": "찬란한 침식된 모순학 공로함(각인)"
+    },
+    "89003459": {
+        "deprecated": false,
+        "id": 89003459,
+        "alias": "Contents.Item.Name.9900486",
+        "text": "빛나는 침식된 모순학 공로함(각인)"
+    },
+    "89003460": {
+        "deprecated": false,
+        "id": 89003460,
+        "alias": "Contents.Item.Name.9900487",
+        "text": "평범한 침식된 모순학 공로함(각인)"
+    },
+    "89003461": {
+        "deprecated": false,
+        "id": 89003461,
+        "alias": "Contents.Item.Name.9900488",
+        "text": "낡은 침식된 모순학 공로함(각인)"
+    },
+    "89003462": {
+        "deprecated": false,
+        "id": 89003462,
+        "alias": "Contents.Item.Name.9900489",
+        "text": "찬란한 침식된 녹력대귀 공로함(각인)"
+    },
+    "89003463": {
+        "deprecated": false,
+        "id": 89003463,
+        "alias": "Contents.Item.Name.9900490",
+        "text": "빛나는 침식된 녹력대귀 공로함(각인)"
+    },
+    "89003464": {
+        "deprecated": false,
+        "id": 89003464,
+        "alias": "Contents.Item.Name.9900491",
+        "text": "평범한 침식된 녹력대귀 공로함(각인)"
+    },
+    "89003465": {
+        "deprecated": false,
+        "id": 89003465,
+        "alias": "Contents.Item.Name.9900492",
+        "text": "낡은 침식된 녹력대귀 공로함(각인)"
+    },
+    "89003466": {
+        "deprecated": false,
+        "id": 89003466,
+        "alias": "Contents.Item.Name.9900493",
+        "text": "찬란한 염환 공로함(각인)"
+    },
+    "89003467": {
+        "deprecated": false,
+        "id": 89003467,
+        "alias": "Contents.Item.Name.9900494",
+        "text": "빛나는 염환 공로함(각인)"
+    },
+    "89003468": {
+        "deprecated": false,
+        "id": 89003468,
+        "alias": "Contents.Item.Name.9900495",
+        "text": "평범한 염환 공로함(각인)"
+    },
+    "89003469": {
+        "deprecated": false,
+        "id": 89003469,
+        "alias": "Contents.Item.Name.9900496",
+        "text": "낡은 염환 공로함(각인)"
+    },
+    "89003471": {
+        "deprecated": false,
+        "id": 89003471,
+        "alias": "Contents.Item.Name.9900498",
+        "text": "문파 봉마함: 1단(이벤트)"
+    },
+    "89003472": {
+        "deprecated": false,
+        "id": 89003472,
+        "alias": "Contents.Item.Name.9900499",
+        "text": "문파 봉마함: 2단(이벤트)"
+    },
+    "89003473": {
+        "deprecated": false,
+        "id": 89003473,
+        "alias": "Contents.Item.Name.9900500",
+        "text": "문파 봉마함: 3단(이벤트)"
+    },
+    "89003474": {
+        "deprecated": false,
+        "id": 89003474,
+        "alias": "Contents.Item.Name.9900501",
+        "text": "문파 봉마함: 1단(이벤트)"
+    },
+    "89003475": {
+        "deprecated": false,
+        "id": 89003475,
+        "alias": "Contents.Item.Name.9900502",
+        "text": "문파 봉마함: 2단(이벤트)"
+    },
+    "89003476": {
+        "deprecated": false,
+        "id": 89003476,
+        "alias": "Contents.Item.Name.9900503",
+        "text": "문파 봉마함: 3단(이벤트)"
+    },
+    "89003477": {
+        "deprecated": false,
+        "id": 89003477,
+        "alias": "Contents.Item.Name.9900504",
+        "text": "문파 봉마함: 1단(이벤트)"
+    },
+    "89003478": {
+        "deprecated": false,
+        "id": 89003478,
+        "alias": "Contents.Item.Name.9900505",
+        "text": "문파 봉마함: 2단(이벤트)"
+    },
+    "89003479": {
+        "deprecated": false,
+        "id": 89003479,
+        "alias": "Contents.Item.Name.9900506",
+        "text": "문파 봉마함: 3단(이벤트)"
+    },
+    "89003480": {
+        "deprecated": false,
+        "id": 89003480,
+        "alias": "Contents.Item.Name.9900507",
+        "text": "대사형의 무기 상자(30레벨)"
+    },
+    "89003481": {
+        "deprecated": false,
+        "id": 89003481,
+        "alias": "Contents.Item.Name.9900508",
+        "text": "대사형의 무기 상자(40레벨)"
+    },
+    "89003482": {
+        "deprecated": false,
+        "id": 89003482,
+        "alias": "Contents.Item.Name.9900509",
+        "text": "대사형의 무기 상자(50레벨)"
+    },
+    "89003483": {
+        "deprecated": false,
+        "id": 89003483,
+        "alias": "Contents.Item.Name.9900517",
+        "text": "봉마함 IV(각인)"
+    },
+    "89003484": {
+        "deprecated": false,
+        "id": 89003484,
+        "alias": "Contents.Item.Name.9900518",
+        "text": "봉마함 V(각인)"
+    },
+    "89003485": {
+        "deprecated": false,
+        "id": 89003485,
+        "alias": "Contents.Item.Name.9900519",
+        "text": "봉마함 VI(각인)"
+    },
+    "89003486": {
+        "deprecated": false,
+        "id": 89003486,
+        "alias": "Contents.Item.Name.9900520",
+        "text": "봉마함 VII(각인)"
+    },
+    "89003487": {
+        "deprecated": false,
+        "id": 89003487,
+        "alias": "Contents.Item.Name.9900521",
+        "text": "봉마함 VIII(각인)"
+    },
+    "89003488": {
+        "deprecated": false,
+        "id": 89003488,
+        "alias": "Contents.Item.Name.9900522",
+        "text": "봉마함 IX(각인)"
+    },
+    "89003489": {
+        "deprecated": false,
+        "id": 89003489,
+        "alias": "Contents.Item.Name.9900523",
+        "text": "돌파의 정수 파편(각인)"
+    },
+    "89003490": {
+        "deprecated": false,
+        "id": 89003490,
+        "alias": "Contents.Item.Name.9900524",
+        "text": "일월의 정기"
+    },
+    "89003491": {
+        "deprecated": false,
+        "id": 89003491,
+        "alias": "Contents.Item.Name.9900525",
+        "text": "빛나는 소울 소환서(11회)(이벤트)"
+    },
+    "89003492": {
+        "deprecated": false,
+        "id": 89003492,
+        "alias": "Contents.Item.Name.9900526",
+        "text": "빛나는 수호령 소환서(11회)(이벤트)"
+    },
+    "89003493": {
+        "deprecated": false,
+        "id": 89003493,
+        "alias": "Contents.Item.Name.9900149",
+        "text": "영석 결정(30분)(이벤트)"
+    },
+    "89003494": {
+        "deprecated": false,
+        "id": 89003494,
+        "alias": "Contents.Item.Name.9900527",
+        "text": "노리개 선택 상자(각인)"
     }
 }
