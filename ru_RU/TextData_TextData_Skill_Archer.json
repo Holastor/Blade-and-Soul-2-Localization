@@ -971,5 +971,54 @@
         "id": 60050142,
         "alias": "Contents.Skill.Upgrade.LongBow.9",
         "text": "Повышенная точность стрельбы"
+    },
+    "60050143": {
+        "deprecated": false,
+        "Dev_Desc": "봉쇄화살",
+        "id": 60050143,
+        "alias": "Contents.Skill.Name.LongBow.5110",
+        "text": "Блокирующая стрела"
+    },
+    "60050144": {
+        "deprecated": false,
+        "Dev_Desc": "봉쇄화살_설명",
+        "id": 60050144,
+        "alias": "Contents.Skill.Desc.LongBow.5110",
+        "text": "Выпускает специальную стрелу, которая связывает ноги цели, нанося урон до 3 человек, включая цель."
+    },
+    "60050145": {
+        "deprecated": false,
+        "Dev_Desc": "봉쇄화살_효과",
+        "id": 60050145,
+        "alias": "Contents.Skill.UseEffect.LongBow.5110",
+        "text": "блокада"
+    },
+    "60050146": {
+        "deprecated": false,
+        "Dev_Desc": "봉쇄화살_돌파_설명",
+        "id": 60050146,
+        "alias": "Contents.Skill.Desc.LongBow.5113",
+        "text": "Выпускает специальную стрелу, которая связывает ноги цели, нанося урон до 3 человек, включая цель. Вы не можете, и ваша скорость передвижения снижается."
+    },
+    "60050147": {
+        "deprecated": false,
+        "Dev_Desc": "봉쇄화살_증폭_성장효과",
+        "id": 60050147,
+        "alias": "Contents.Skill.acquireEffectDesc.LongBow.5111",
+        "text": "Расход прочности -"
+    },
+    "60050148": {
+        "deprecated": false,
+        "Dev_Desc": "봉쇄화살_극한_성장효과",
+        "id": 60050148,
+        "alias": "Contents.Skill.acquireEffectDesc.LongBow.5112",
+        "text": "уклонение -"
+    },
+    "60050149": {
+        "deprecated": false,
+        "Dev_Desc": "봉쇄화살_돌파_성장효과",
+        "id": 60050149,
+        "alias": "Contents.Skill.acquireEffectDesc.LongBow.5113",
+        "text": "Применяет эффект притягивания к центру цели \n Усиливает эффект снижения скорости передвижения"
     }
 }

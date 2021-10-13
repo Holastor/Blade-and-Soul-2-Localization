@@ -719,5 +719,54 @@
         "id": 60010170,
         "alias": "Contents.Skill.Upgrade.Name.LongSword.ShortPhysicalAttack",
         "text": "Атака ближнего боя 2"
+    },
+    "60010171": {
+        "deprecated": false,
+        "Dev_Desc": "휘몰아치기_버프",
+        "id": 60010171,
+        "alias": "Contents.Effect.Name.LongSword.180811",
+        "text": "Подметание"
+    },
+    "60010172": {
+        "deprecated": false,
+        "Dev_Desc": "휘몰아치기_버프",
+        "id": 60010172,
+        "alias": "Contents.Effect.Desc.LongSword.180811",
+        "text": "Повышенная скорость атаки"
+    },
+    "60010173": {
+        "deprecated": false,
+        "Dev_Desc": "휘몰아치기_버프",
+        "id": 60010173,
+        "alias": "Contents.Effect.Option.LongSword.180811",
+        "text": "5% скорости атаки без атаки"
+    },
+    "60010174": {
+        "deprecated": false,
+        "Dev_Desc": "휘몰아치기_버프",
+        "id": 60010174,
+        "alias": "Contents.Effect.Detail.LongSword.180811",
+        "text": "Плавание складывается до 5 раз "
+    },
+    "60010175": {
+        "deprecated": false,
+        "Dev_Desc": "휘몰아치기_스킬",
+        "id": 60010175,
+        "alias": "Contents.Skill.Name.LongSword.1808",
+        "text": "Подметание"
+    },
+    "60010176": {
+        "deprecated": false,
+        "Dev_Desc": "휘몰아치기_스킬",
+        "id": 60010176,
+        "alias": "Contents.Skill.Desc.LongSword.1808",
+        "text": "Увеличивает импульс для запуска атаки. \n При атаке без атаки есть шанс увеличить скорость атаки без атаки. \n Суммируется до 5 раз."
+    },
+    "60010177": {
+        "deprecated": false,
+        "Dev_Desc": "휘몰아치기_스킬",
+        "id": 60010177,
+        "alias": "Contents.Skill.useEffect.LongSword.1808",
+        "text": "5% скорости атаки без атаки"
     }
 }

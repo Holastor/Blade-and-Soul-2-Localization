@@ -376,5 +376,82 @@
         "id": 61000054,
         "alias": "Contents.Effect.Desc.Monster.130000017",
         "text": "Снижение скорости передвижения на 50%"
+    },
+    "61000055": {
+        "deprecated": false,
+        "Dev_Desc": "낙원대성_아머_광역디버프이름",
+        "id": 61000055,
+        "alias": "Contents.Effect.Name.Monster.123870413",
+        "text": "Замедлить, снизить скорость атаки"
+    },
+    "61000056": {
+        "deprecated": false,
+        "Dev_Desc": "낙원대성_아머_광역디버프내용",
+        "id": 61000056,
+        "alias": "Contents.Effect.Desc.Monster.123870413",
+        "text": "Снижение скорости передвижения, уменьшение скорости атаки"
+    },
+    "61000057": {
+        "deprecated": false,
+        "Dev_Desc": "낙원대성_아머_전격기절이름",
+        "id": 61000057,
+        "alias": "Contents.Effect.Name.Monster.123880413",
+        "text": "слабый"
+    },
+    "61000058": {
+        "deprecated": false,
+        "Dev_Desc": "낙원대성_아머_광역디버프옵션",
+        "id": 61000058,
+        "alias": "Contents.Effect.Option.Monster.123870413",
+        "text": "Скорость передвижения -25% \n Скорость базовой атаки -70% \n Скорость атаки без атаки -35%"
+    },
+    "61000059": {
+        "deprecated": false,
+        "Dev_Desc": "낙원대성_아머_전격기절옵션",
+        "id": 61000059,
+        "alias": "Contents.Effect.Option.Monster.123880413",
+        "text": "Невозможно двинуться \n Невозможно использовать без атаки \n Некоторые предметы нельзя использовать"
+    },
+    "61000060": {
+        "deprecated": false,
+        "Dev_Desc": "보스_타락한 우와_독액 폭탄 중독 1스택 (도트) 이름",
+        "id": 61000060,
+        "alias": "Contents.Effect.Name.Monster.113240912",
+        "text": "Отравление"
+    },
+    "61000061": {
+        "deprecated": false,
+        "Dev_Desc": "보스_타락한 우와_독액 폭탄 중독 1스택 (도트) 설명",
+        "id": 61000061,
+        "alias": "Contents.Effect.Desc.Monster.113240912",
+        "text": "Непрерывное повреждение ядом."
+    },
+    "61000062": {
+        "deprecated": false,
+        "Dev_Desc": "보스_타락한 우와_독액 폭탄 중독 1스택 (도트) 옵션",
+        "id": 61000062,
+        "alias": "Contents.Effect.Option.Monster.113240912",
+        "text": "1 стадия зависимости"
+    },
+    "61000063": {
+        "deprecated": false,
+        "Dev_Desc": "보스_타락한 우와_독액 폭탄 중독 1스택 (도트) 이름",
+        "id": 61000063,
+        "alias": "Contents.Effect.Name.Monster.113240913",
+        "text": "Зависимость от подкрепления"
+    },
+    "61000064": {
+        "deprecated": false,
+        "Dev_Desc": "보스_타락한 우와_독액 폭탄 중독 1스택 (도트) 설명",
+        "id": 61000064,
+        "alias": "Contents.Effect.Desc.Monster.113240913",
+        "text": "Наносит сильный урон ядом с течением времени."
+    },
+    "61000065": {
+        "deprecated": false,
+        "Dev_Desc": "보스_타락한 우와_독액 폭탄 중독 1스택 (도트) 옵션",
+        "id": 61000065,
+        "alias": "Contents.Effect.Option.Monster.113240913",
+        "text": "2 стадия наркомании"
     }
 }
