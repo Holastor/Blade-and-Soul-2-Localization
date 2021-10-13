@@ -376,5 +376,82 @@
         "id": 61000054,
         "alias": "Contents.Effect.Desc.Monster.130000017",
         "text": "Movement speed reduction 50%"
+    },
+    "61000055": {
+        "deprecated": false,
+        "Dev_Desc": "낙원대성_아머_광역디버프이름",
+        "id": 61000055,
+        "alias": "Contents.Effect.Name.Monster.123870413",
+        "text": "Slow, decrease attack speed"
+    },
+    "61000056": {
+        "deprecated": false,
+        "Dev_Desc": "낙원대성_아머_광역디버프내용",
+        "id": 61000056,
+        "alias": "Contents.Effect.Desc.Monster.123870413",
+        "text": "Movement speed reduction, attack speed reduction"
+    },
+    "61000057": {
+        "deprecated": false,
+        "Dev_Desc": "낙원대성_아머_전격기절이름",
+        "id": 61000057,
+        "alias": "Contents.Effect.Name.Monster.123880413",
+        "text": "faint"
+    },
+    "61000058": {
+        "deprecated": false,
+        "Dev_Desc": "낙원대성_아머_광역디버프옵션",
+        "id": 61000058,
+        "alias": "Contents.Effect.Option.Monster.123870413",
+        "text": "Movement speed -25%\nBasic attack speed -70%\nNon-Attack attack speed -35%"
+    },
+    "61000059": {
+        "deprecated": false,
+        "Dev_Desc": "낙원대성_아머_전격기절옵션",
+        "id": 61000059,
+        "alias": "Contents.Effect.Option.Monster.123880413",
+        "text": "Cannot move \n Cannot be used without attack \n Some items cannot be used"
+    },
+    "61000060": {
+        "deprecated": false,
+        "Dev_Desc": "보스_타락한 우와_독액 폭탄 중독 1스택 (도트) 이름",
+        "id": 61000060,
+        "alias": "Contents.Effect.Name.Monster.113240912",
+        "text": "Poisoning"
+    },
+    "61000061": {
+        "deprecated": false,
+        "Dev_Desc": "보스_타락한 우와_독액 폭탄 중독 1스택 (도트) 설명",
+        "id": 61000061,
+        "alias": "Contents.Effect.Desc.Monster.113240912",
+        "text": "Continuous poison damage."
+    },
+    "61000062": {
+        "deprecated": false,
+        "Dev_Desc": "보스_타락한 우와_독액 폭탄 중독 1스택 (도트) 옵션",
+        "id": 61000062,
+        "alias": "Contents.Effect.Option.Monster.113240912",
+        "text": "Stage 1 of Addiction"
+    },
+    "61000063": {
+        "deprecated": false,
+        "Dev_Desc": "보스_타락한 우와_독액 폭탄 중독 1스택 (도트) 이름",
+        "id": 61000063,
+        "alias": "Contents.Effect.Name.Monster.113240913",
+        "text": "Reinforcement Addiction"
+    },
+    "61000064": {
+        "deprecated": false,
+        "Dev_Desc": "보스_타락한 우와_독액 폭탄 중독 1스택 (도트) 설명",
+        "id": 61000064,
+        "alias": "Contents.Effect.Desc.Monster.113240913",
+        "text": "Inflicts strong poison damage over time."
+    },
+    "61000065": {
+        "deprecated": false,
+        "Dev_Desc": "보스_타락한 우와_독액 폭탄 중독 1스택 (도트) 옵션",
+        "id": 61000065,
+        "alias": "Contents.Effect.Option.Monster.113240913",
+        "text": "Stage 2 of Addiction"
     }
 }

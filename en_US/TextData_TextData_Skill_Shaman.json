@@ -71,14 +71,14 @@
     },
     "60070010": {
         "deprecated": false,
-        "Dev_Desc": "연쇄치유",
+        "Dev_Desc": "생령합일",
         "id": 60070010,
         "alias": "Contents.Skill.Name.RitualBell.7061",
         "text": "Chain Healing"
     },
     "60070011": {
         "deprecated": false,
-        "Dev_Desc": "연쇄치유",
+        "Dev_Desc": "생령합일",
         "id": 60070011,
         "alias": "Contents.Skill.Desc.RitualBell.7061",
         "text": "Heals up to 2 nearby party members in a row."
@@ -267,23 +267,23 @@
     },
     "60070100": {
         "deprecated": false,
-        "Dev_Desc": "생령치유_증폭_설명",
+        "Dev_Desc": "생령합일_증폭_설명",
         "id": 60070100,
-        "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7012",
+        "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7062",
         "text": "Cooldown -2 seconds"
     },
     "60070101": {
         "deprecated": false,
-        "Dev_Desc": "생령치유_극한_설명",
+        "Dev_Desc": "생령합일_극한_설명",
         "id": 60070101,
-        "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7013",
+        "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7063",
         "text": "Chance to heal twice"
     },
     "60070102": {
         "deprecated": false,
-        "Dev_Desc": "생령치유_돌파_설명",
+        "Dev_Desc": "생령합일_돌파_설명",
         "id": 60070102,
-        "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7014",
+        "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7064",
         "text": "Higher chance to heal twice"
     },
     "60070103": {
@@ -372,23 +372,23 @@
     },
     "60070115": {
         "deprecated": false,
-        "Dev_Desc": "연쇄치유_증폭_설명",
+        "Dev_Desc": "생령치유_증폭_설명",
         "id": 60070115,
-        "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7062",
+        "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7012",
         "text": "Increase the distance that chain heals are delivered"
     },
     "60070116": {
         "deprecated": false,
-        "Dev_Desc": "연쇄치유_극한_설명",
+        "Dev_Desc": "생령치유_극한_설명",
         "id": 60070116,
-        "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7063",
+        "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7013",
         "text": "Energy cost -50"
     },
     "60070117": {
         "deprecated": false,
-        "Dev_Desc": "연쇄치유_돌파_설명",
+        "Dev_Desc": "생령치유_돌파_설명",
         "id": 60070117,
-        "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7064",
+        "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7014",
         "text": "Heal up to 4 people in a row"
     },
     "60070118": {
@@ -490,9 +490,9 @@
     },
     "60070202": {
         "deprecated": false,
-        "Dev_Desc": "연쇄치유_조건",
+        "Dev_Desc": "생령치유_조건",
         "id": 60070202,
-        "alias": "Contents.Effect.requirementDesc.RitualBell.7061",
+        "alias": "Contents.Effect.requirementDesc.RitualBell.7011",
         "text": "For yourself and party members"
     },
     "60070203": {
@@ -531,9 +531,9 @@
     },
     "60070208": {
         "deprecated": false,
-        "Dev_Desc": "생령치유_효과",
+        "Dev_Desc": "생령합일_효과",
         "id": 60070208,
-        "alias": "Contents.Skill.UseEffect.RitualBell.7011"
+        "alias": "Contents.Skill.UseEffect.RitualBell.7061"
     },
     "60070209": {
         "deprecated": false,
@@ -562,9 +562,9 @@
     },
     "60070213": {
         "deprecated": false,
-        "Dev_Desc": "연쇄치유_효과",
+        "Dev_Desc": "생령치유_효과",
         "id": 60070213,
-        "alias": "Contents.Skill.UseEffect.RitualBell.7061"
+        "alias": "Contents.Skill.UseEffect.RitualBell.7011"
     },
     "60070214": {
         "deprecated": false,
@@ -677,14 +677,14 @@
     },
     "60070304": {
         "deprecated": false,
-        "Dev_Desc": "심기일전_명중_버프창",
+        "Dev_Desc": "심기일전_무기 공격력_버프창",
         "id": 60070304,
         "alias": "Contents.Effect.Name.RitualBell.705250",
         "text": "Before Planting (Absolute Hit)"
     },
     "60070305": {
         "deprecated": false,
-        "Dev_Desc": "심기일전_명중_버프창",
+        "Dev_Desc": "심기일전_무기 공격력_버프창",
         "id": 60070305,
         "alias": "Contents.Effect.Desc.RitualBell.705250",
         "text": "Increased Absolute Hit"
@@ -726,451 +726,479 @@
     },
     "60070311": {
         "deprecated": false,
-        "Dev_Desc": "구원_통제저항_버프창",
+        "Dev_Desc": "수호_증폭_호신_버프창",
         "id": 60070311,
-        "alias": "Contents.Effect.Name.RitualBell.709100",
+        "alias": "Contents.Effect.Desc.RitualBell.708200",
         "text": "Amplifies damage dealt by 4.0%"
     },
     "60070312": {
         "deprecated": false,
         "Dev_Desc": "구원_통제저항_버프창",
         "id": 60070312,
-        "alias": "Contents.Effect.Desc.RitualBell.709100",
+        "alias": "Contents.Effect.Name.RitualBell.709100",
         "text": "Amplifies damage dealt by 4.3%"
     },
     "60070313": {
         "deprecated": false,
-        "Dev_Desc": "심기일전_피해량_버프창",
+        "Dev_Desc": "구원_통제저항_버프창",
         "id": 60070313,
-        "alias": "Contents.Effect.Option.RitualBell.705100",
+        "alias": "Contents.Effect.Desc.RitualBell.709100",
         "text": "Amplifies damage dealt by 4.6%"
     },
     "60070314": {
         "deprecated": false,
         "Dev_Desc": "심기일전_피해량_버프창",
         "id": 60070314,
-        "alias": "Contents.Effect.Option.RitualBell.705101",
+        "alias": "Contents.Effect.Option.RitualBell.705100",
         "text": "Damage amplification 5.0%"
     },
     "60070315": {
         "deprecated": false,
         "Dev_Desc": "심기일전_피해량_버프창",
         "id": 60070315,
-        "alias": "Contents.Effect.Option.RitualBell.705102",
+        "alias": "Contents.Effect.Option.RitualBell.705101",
         "text": "Amplifies damage dealt by 5.3%"
     },
     "60070316": {
         "deprecated": false,
         "Dev_Desc": "심기일전_피해량_버프창",
         "id": 60070316,
-        "alias": "Contents.Effect.Option.RitualBell.705103",
+        "alias": "Contents.Effect.Option.RitualBell.705102",
         "text": "Damage amplification by 5.6%"
     },
     "60070317": {
         "deprecated": false,
         "Dev_Desc": "심기일전_피해량_버프창",
         "id": 60070317,
-        "alias": "Contents.Effect.Option.RitualBell.705104",
+        "alias": "Contents.Effect.Option.RitualBell.705103",
         "text": "Damage amplification by 6.0%"
     },
     "60070318": {
         "deprecated": false,
         "Dev_Desc": "심기일전_피해량_버프창",
         "id": 60070318,
-        "alias": "Contents.Effect.Option.RitualBell.705105",
+        "alias": "Contents.Effect.Option.RitualBell.705104",
         "text": "Amplifies damage dealt by 6.3%"
     },
     "60070319": {
         "deprecated": false,
         "Dev_Desc": "심기일전_피해량_버프창",
         "id": 60070319,
-        "alias": "Contents.Effect.Option.RitualBell.705106",
+        "alias": "Contents.Effect.Option.RitualBell.705105",
         "text": "Damage amplification by 6.6%"
     },
     "60070320": {
         "deprecated": false,
         "Dev_Desc": "심기일전_피해량_버프창",
         "id": 60070320,
-        "alias": "Contents.Effect.Option.RitualBell.705107",
+        "alias": "Contents.Effect.Option.RitualBell.705106",
         "text": "Amplifies damage dealt by 7.0%"
     },
     "60070321": {
         "deprecated": false,
         "Dev_Desc": "심기일전_피해량_버프창",
         "id": 60070321,
-        "alias": "Contents.Effect.Option.RitualBell.705108",
+        "alias": "Contents.Effect.Option.RitualBell.705107",
         "text": "Precision +5"
     },
     "60070322": {
         "deprecated": false,
         "Dev_Desc": "심기일전_피해량_버프창",
         "id": 60070322,
-        "alias": "Contents.Effect.Option.RitualBell.705109",
+        "alias": "Contents.Effect.Option.RitualBell.705108",
         "text": "Melee absolute accuracy +10%\nRanged absolute accuracy +10%\nQigong absolute accuracy +10%"
     },
     "60070323": {
         "deprecated": false,
-        "Dev_Desc": "심기일전_정밀_버프창",
+        "Dev_Desc": "심기일전_피해량_버프창",
         "id": 60070323,
-        "alias": "Contents.Effect.Option.RitualBell.705350",
+        "alias": "Contents.Effect.Option.RitualBell.705109",
         "text": "Damage taken reduced by 10.0%"
     },
     "60070324": {
         "deprecated": false,
-        "Dev_Desc": "심기일전_명중_버프창",
+        "Dev_Desc": "심기일전_정밀_버프창",
         "id": 60070324,
-        "alias": "Contents.Effect.Option.RitualBell.705250",
+        "alias": "Contents.Effect.Option.RitualBell.705350",
         "text": "Damage taken reduced by 10.6%"
     },
     "60070325": {
         "deprecated": false,
-        "Dev_Desc": "수호_기본_피해감소_버프창",
+        "Dev_Desc": "심기일전_무기공격력_버프창",
         "id": 60070325,
-        "alias": "Contents.Effect.Option.RitualBell.708100",
+        "alias": "Contents.Effect.Option.RitualBell.705250",
         "text": "Damage taken is reduced by 11.1%"
     },
     "60070326": {
         "deprecated": false,
         "Dev_Desc": "수호_기본_피해감소_버프창",
         "id": 60070326,
-        "alias": "Contents.Effect.Option.RitualBell.708101",
+        "alias": "Contents.Effect.Option.RitualBell.708100",
         "text": "Damage taken reduced by 11.7%"
     },
     "60070327": {
         "deprecated": false,
         "Dev_Desc": "수호_기본_피해감소_버프창",
         "id": 60070327,
-        "alias": "Contents.Effect.Option.RitualBell.708102",
+        "alias": "Contents.Effect.Option.RitualBell.708101",
         "text": "Damage taken reduced by 12.2%"
     },
     "60070328": {
         "deprecated": false,
         "Dev_Desc": "수호_기본_피해감소_버프창",
         "id": 60070328,
-        "alias": "Contents.Effect.Option.RitualBell.708103",
+        "alias": "Contents.Effect.Option.RitualBell.708102",
         "text": "Damage taken reduced by 12.8%"
     },
     "60070329": {
         "deprecated": false,
         "Dev_Desc": "수호_기본_피해감소_버프창",
         "id": 60070329,
-        "alias": "Contents.Effect.Option.RitualBell.708104",
+        "alias": "Contents.Effect.Option.RitualBell.708103",
         "text": "Damage taken reduced by 13.3%"
     },
     "60070330": {
         "deprecated": false,
         "Dev_Desc": "수호_기본_피해감소_버프창",
         "id": 60070330,
-        "alias": "Contents.Effect.Option.RitualBell.708105",
+        "alias": "Contents.Effect.Option.RitualBell.708104",
         "text": "Damage taken reduced by 13.9%"
     },
     "60070331": {
         "deprecated": false,
         "Dev_Desc": "수호_기본_피해감소_버프창",
         "id": 60070331,
-        "alias": "Contents.Effect.Option.RitualBell.708106",
+        "alias": "Contents.Effect.Option.RitualBell.708105",
         "text": "Damage taken reduced by 14.4%"
     },
     "60070332": {
         "deprecated": false,
         "Dev_Desc": "수호_기본_피해감소_버프창",
         "id": 60070332,
-        "alias": "Contents.Effect.Option.RitualBell.708107",
+        "alias": "Contents.Effect.Option.RitualBell.708106",
         "text": "Damage taken reduced by 15.0%"
     },
     "60070333": {
         "deprecated": false,
         "Dev_Desc": "수호_기본_피해감소_버프창",
         "id": 60070333,
-        "alias": "Contents.Effect.Option.RitualBell.708108",
+        "alias": "Contents.Effect.Option.RitualBell.708107",
         "text": "Damage taken reduced by 25.0%"
     },
     "60070334": {
         "deprecated": false,
         "Dev_Desc": "수호_기본_피해감소_버프창",
         "id": 60070334,
-        "alias": "Contents.Effect.Option.RitualBell.708109",
+        "alias": "Contents.Effect.Option.RitualBell.708108",
         "text": "Damage taken reduced by 25.6%"
     },
     "60070335": {
         "deprecated": false,
-        "Dev_Desc": "수호_증폭_피해감소_버프창",
+        "Dev_Desc": "수호_기본_피해감소_버프창",
         "id": 60070335,
-        "alias": "Contents.Effect.Option.RitualBell.708200",
+        "alias": "Contents.Effect.Option.RitualBell.708109",
         "text": "Damage taken reduced by 26.1%"
     },
     "60070336": {
         "deprecated": false,
         "Dev_Desc": "수호_증폭_피해감소_버프창",
         "id": 60070336,
-        "alias": "Contents.Effect.Option.RitualBell.708201",
+        "alias": "Contents.Effect.Option.RitualBell.708200",
         "text": "Damage taken reduced by 26.7%"
     },
     "60070337": {
         "deprecated": false,
         "Dev_Desc": "수호_증폭_피해감소_버프창",
         "id": 60070337,
-        "alias": "Contents.Effect.Option.RitualBell.708202",
+        "alias": "Contents.Effect.Option.RitualBell.708201",
         "text": "Damage taken reduced by 27.2%"
     },
     "60070338": {
         "deprecated": false,
         "Dev_Desc": "수호_증폭_피해감소_버프창",
         "id": 60070338,
-        "alias": "Contents.Effect.Option.RitualBell.708203",
+        "alias": "Contents.Effect.Option.RitualBell.708202",
         "text": "Damage taken reduced by 27.8%"
     },
     "60070339": {
         "deprecated": false,
         "Dev_Desc": "수호_증폭_피해감소_버프창",
         "id": 60070339,
-        "alias": "Contents.Effect.Option.RitualBell.708204",
+        "alias": "Contents.Effect.Option.RitualBell.708203",
         "text": "Damage taken reduced by 28.3%"
     },
     "60070340": {
         "deprecated": false,
         "Dev_Desc": "수호_증폭_피해감소_버프창",
         "id": 60070340,
-        "alias": "Contents.Effect.Option.RitualBell.708205",
+        "alias": "Contents.Effect.Option.RitualBell.708204",
         "text": "Damage taken reduced by 28.9%"
     },
     "60070341": {
         "deprecated": false,
         "Dev_Desc": "수호_증폭_피해감소_버프창",
         "id": 60070341,
-        "alias": "Contents.Effect.Option.RitualBell.708206",
+        "alias": "Contents.Effect.Option.RitualBell.708205",
         "text": "Damage Reduction 29.4%"
     },
     "60070342": {
         "deprecated": false,
         "Dev_Desc": "수호_증폭_피해감소_버프창",
         "id": 60070342,
-        "alias": "Contents.Effect.Option.RitualBell.708207",
+        "alias": "Contents.Effect.Option.RitualBell.708206",
         "text": "Damage taken reduced by 30.0%"
     },
     "60070343": {
         "deprecated": false,
         "Dev_Desc": "수호_증폭_피해감소_버프창",
         "id": 60070343,
-        "alias": "Contents.Effect.Option.RitualBell.708208",
+        "alias": "Contents.Effect.Option.RitualBell.708207",
         "text": "Control Resistivity +1.0%"
     },
     "60070344": {
         "deprecated": false,
         "Dev_Desc": "수호_증폭_피해감소_버프창",
         "id": 60070344,
-        "alias": "Contents.Effect.Option.RitualBell.708209",
+        "alias": "Contents.Effect.Option.RitualBell.708208",
         "text": "Control Resistivity +1.3%"
     },
     "60070345": {
         "deprecated": false,
-        "Dev_Desc": "수호_극한_피해감소_버프창",
+        "Dev_Desc": "수호_증폭_피해감소_버프창",
         "id": 60070345,
-        "alias": "Contents.Effect.Option.RitualBell.708300",
+        "alias": "Contents.Effect.Option.RitualBell.708209",
         "text": "Control Resistivity +1.6%"
     },
     "60070346": {
         "deprecated": false,
         "Dev_Desc": "수호_극한_피해감소_버프창",
         "id": 60070346,
-        "alias": "Contents.Effect.Option.RitualBell.708301",
+        "alias": "Contents.Effect.Option.RitualBell.708300",
         "text": "Control Resistivity +2.0%"
     },
     "60070347": {
         "deprecated": false,
         "Dev_Desc": "수호_극한_피해감소_버프창",
         "id": 60070347,
-        "alias": "Contents.Effect.Option.RitualBell.708302",
+        "alias": "Contents.Effect.Option.RitualBell.708301",
         "text": "Control Resistivity +2.3%"
     },
     "60070348": {
         "deprecated": false,
         "Dev_Desc": "수호_극한_피해감소_버프창",
         "id": 60070348,
-        "alias": "Contents.Effect.Option.RitualBell.708303",
+        "alias": "Contents.Effect.Option.RitualBell.708302",
         "text": "Control Resistivity +2.6%"
     },
     "60070349": {
         "deprecated": false,
         "Dev_Desc": "수호_극한_피해감소_버프창",
         "id": 60070349,
-        "alias": "Contents.Effect.Option.RitualBell.708304",
+        "alias": "Contents.Effect.Option.RitualBell.708303",
         "text": "Control Resistivity +3.0%"
     },
     "60070350": {
         "deprecated": false,
         "Dev_Desc": "수호_극한_피해감소_버프창",
         "id": 60070350,
-        "alias": "Contents.Effect.Option.RitualBell.708305",
+        "alias": "Contents.Effect.Option.RitualBell.708304",
         "text": "Control Resistivity +3.3%"
     },
     "60070351": {
         "deprecated": false,
         "Dev_Desc": "수호_극한_피해감소_버프창",
         "id": 60070351,
-        "alias": "Contents.Effect.Option.RitualBell.708306",
+        "alias": "Contents.Effect.Option.RitualBell.708305",
         "text": "Control Resistivity +3.6%"
     },
     "60070352": {
         "deprecated": false,
         "Dev_Desc": "수호_극한_피해감소_버프창",
         "id": 60070352,
-        "alias": "Contents.Effect.Option.RitualBell.708307",
+        "alias": "Contents.Effect.Option.RitualBell.708306",
         "text": "Control Resistivity +5.0%"
     },
     "60070353": {
         "deprecated": false,
         "Dev_Desc": "수호_극한_피해감소_버프창",
         "id": 60070353,
-        "alias": "Contents.Effect.Option.RitualBell.708308",
+        "alias": "Contents.Effect.Option.RitualBell.708307",
         "text": "Damage received reduced by 19.4%"
     },
     "60070354": {
         "deprecated": false,
         "Dev_Desc": "수호_극한_피해감소_버프창",
         "id": 60070354,
-        "alias": "Contents.Effect.Option.RitualBell.708309",
+        "alias": "Contents.Effect.Option.RitualBell.708308",
         "text": "Damage received reduced by20.0%"
     },
     "60070355": {
         "deprecated": false,
-        "Dev_Desc": "수호_돌파_피해감소_버프창",
+        "Dev_Desc": "수호_극한_피해감소_버프창",
         "id": 60070355,
-        "alias": "Contents.Effect.Option.RitualBell.708400",
+        "alias": "Contents.Effect.Option.RitualBell.708309",
         "text": "Damage received reduced by25.0%"
     },
     "60070356": {
         "deprecated": false,
         "Dev_Desc": "수호_돌파_피해감소_버프창",
         "id": 60070356,
-        "alias": "Contents.Effect.Option.RitualBell.708401",
+        "alias": "Contents.Effect.Option.RitualBell.708400",
         "text": "Damage received reduced by25.6%"
     },
     "60070357": {
         "deprecated": false,
         "Dev_Desc": "수호_돌파_피해감소_버프창",
         "id": 60070357,
-        "alias": "Contents.Effect.Option.RitualBell.708402",
+        "alias": "Contents.Effect.Option.RitualBell.708401",
         "text": "Damage received reduced by26.1%"
     },
     "60070358": {
         "deprecated": false,
         "Dev_Desc": "수호_돌파_피해감소_버프창",
         "id": 60070358,
-        "alias": "Contents.Effect.Option.RitualBell.708403",
+        "alias": "Contents.Effect.Option.RitualBell.708402",
         "text": "Damage received reduced by26.7%"
     },
     "60070359": {
         "deprecated": false,
         "Dev_Desc": "수호_돌파_피해감소_버프창",
         "id": 60070359,
-        "alias": "Contents.Effect.Option.RitualBell.708404",
+        "alias": "Contents.Effect.Option.RitualBell.708403",
         "text": "Damage received reduced by27.2%"
     },
     "60070360": {
         "deprecated": false,
         "Dev_Desc": "수호_돌파_피해감소_버프창",
         "id": 60070360,
-        "alias": "Contents.Effect.Option.RitualBell.708405",
+        "alias": "Contents.Effect.Option.RitualBell.708404",
         "text": "Damage received reduced by27.8%"
     },
     "60070361": {
         "deprecated": false,
         "Dev_Desc": "수호_돌파_피해감소_버프창",
         "id": 60070361,
-        "alias": "Contents.Effect.Option.RitualBell.708406",
+        "alias": "Contents.Effect.Option.RitualBell.708405",
         "text": "Damage received reduced by28.3%"
     },
     "60070362": {
         "deprecated": false,
         "Dev_Desc": "수호_돌파_피해감소_버프창",
         "id": 60070362,
-        "alias": "Contents.Effect.Option.RitualBell.708407",
+        "alias": "Contents.Effect.Option.RitualBell.708406",
         "text": "Damage received reduced by28.9%"
     },
     "60070363": {
         "deprecated": false,
         "Dev_Desc": "수호_돌파_피해감소_버프창",
         "id": 60070363,
-        "alias": "Contents.Effect.Option.RitualBell.708408",
+        "alias": "Contents.Effect.Option.RitualBell.708407",
         "text": "Damage received reduced by29.4%"
     },
     "60070364": {
         "deprecated": false,
         "Dev_Desc": "수호_돌파_피해감소_버프창",
         "id": 60070364,
-        "alias": "Contents.Effect.Option.RitualBell.708409",
+        "alias": "Contents.Effect.Option.RitualBell.708408",
         "text": "Damage received reduced by30.0%"
     },
     "60070365": {
         "deprecated": false,
-        "Dev_Desc": "구원_통제저항_버프창",
+        "Dev_Desc": "수호_돌파_피해감소_버프창",
         "id": 60070365,
-        "alias": "Contents.Effect.Option.RitualBell.709100",
+        "alias": "Contents.Effect.Option.RitualBell.708409",
         "text": "Control Resistivity +1.0%"
     },
     "60070366": {
         "deprecated": false,
         "Dev_Desc": "구원_통제저항_버프창",
         "id": 60070366,
-        "alias": "Contents.Effect.Option.RitualBell.709101",
+        "alias": "Contents.Effect.Option.RitualBell.709100",
         "text": "Control Resistivity +1.3%"
     },
     "60070367": {
         "deprecated": false,
         "Dev_Desc": "구원_통제저항_버프창",
         "id": 60070367,
-        "alias": "Contents.Effect.Option.RitualBell.709102",
+        "alias": "Contents.Effect.Option.RitualBell.709101",
         "text": "Control Resistivity +1.6%"
     },
     "60070368": {
         "deprecated": false,
         "Dev_Desc": "구원_통제저항_버프창",
         "id": 60070368,
-        "alias": "Contents.Effect.Option.RitualBell.709103",
+        "alias": "Contents.Effect.Option.RitualBell.709102",
         "text": "Control Resistivity +2.0%"
     },
     "60070369": {
         "deprecated": false,
         "Dev_Desc": "구원_통제저항_버프창",
         "id": 60070369,
-        "alias": "Contents.Effect.Option.RitualBell.709104",
+        "alias": "Contents.Effect.Option.RitualBell.709103",
         "text": "Control Resistivity +2.3%"
     },
     "60070370": {
         "deprecated": false,
         "Dev_Desc": "구원_통제저항_버프창",
         "id": 60070370,
-        "alias": "Contents.Effect.Option.RitualBell.709105",
+        "alias": "Contents.Effect.Option.RitualBell.709104",
         "text": "Control Resistivity +2.6%"
     },
     "60070371": {
         "deprecated": false,
         "Dev_Desc": "구원_통제저항_버프창",
         "id": 60070371,
-        "alias": "Contents.Effect.Option.RitualBell.709106",
+        "alias": "Contents.Effect.Option.RitualBell.709105",
         "text": "Control Resistivity +3.0%"
     },
     "60070372": {
         "deprecated": false,
         "Dev_Desc": "구원_통제저항_버프창",
         "id": 60070372,
-        "alias": "Contents.Effect.Option.RitualBell.709107",
+        "alias": "Contents.Effect.Option.RitualBell.709106",
         "text": "Control Resistivity +3.3%"
     },
     "60070373": {
         "deprecated": false,
         "Dev_Desc": "구원_통제저항_버프창",
         "id": 60070373,
-        "alias": "Contents.Effect.Option.RitualBell.709108",
+        "alias": "Contents.Effect.Option.RitualBell.709107",
         "text": "Control Resistivity +3.6%"
     },
     "60070374": {
         "deprecated": false,
         "Dev_Desc": "구원_통제저항_버프창",
         "id": 60070374,
-        "alias": "Contents.Effect.Option.RitualBell.709109",
+        "alias": "Contents.Effect.Option.RitualBell.709108",
         "text": "Control Resistivity +5.0%"
+    },
+    "60070375": {
+        "deprecated": false,
+        "Dev_Desc": "구원_통제저항_버프창",
+        "id": 60070375,
+        "alias": "Contents.Effect.Option.RitualBell.709109",
+        "text": "Control Resistivity 5.0%"
+    },
+    "60070376": {
+        "deprecated": false,
+        "Dev_Desc": "치유지대_돌파_치명 저항률 버프창",
+        "id": 60070376,
+        "alias": "Contents.Effect.Name.RitualBell.707450",
+        "text": "Healing Zone (Critical Resistance)"
+    },
+    "60070377": {
+        "deprecated": false,
+        "Dev_Desc": "치유지대_돌파_치명 저항률 버프창",
+        "id": 60070377,
+        "alias": "Contents.Effect.Desc.RitualBell.707450",
+        "text": "Increased Critical Resistance"
+    },
+    "60070378": {
+        "deprecated": false,
+        "Dev_Desc": "치유지대_돌파_치명 저항률 버프창",
+        "id": 60070378,
+        "alias": "Contents.Effect.Option.RitualBell.707450",
+        "text": "Critical Resistance 20%"
     },
     "60070500": {
         "deprecated": false,
@@ -1276,5 +1304,12 @@
         "id": 60070514,
         "alias": "Contents.Skill.Upgrade.Name.7014",
         "text": "Increases healing done"
+    },
+    "60070515": {
+        "deprecated": false,
+        "Dev_Desc": "무공 강화 업그레이드 툴팁",
+        "id": 60070515,
+        "alias": "Contents.Skill.Upgrade.Name.7015",
+        "text": "Move Speed ​​Step"
     }
 }

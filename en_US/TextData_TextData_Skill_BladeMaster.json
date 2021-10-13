@@ -719,5 +719,54 @@
         "id": 60010170,
         "alias": "Contents.Skill.Upgrade.Name.LongSword.ShortPhysicalAttack",
         "text": "Melee Attack +2"
+    },
+    "60010171": {
+        "deprecated": false,
+        "Dev_Desc": "휘몰아치기_버프",
+        "id": 60010171,
+        "alias": "Contents.Effect.Name.LongSword.180811",
+        "text": "Sweeping"
+    },
+    "60010172": {
+        "deprecated": false,
+        "Dev_Desc": "휘몰아치기_버프",
+        "id": 60010172,
+        "alias": "Contents.Effect.Desc.LongSword.180811",
+        "text": "Increased attack speed"
+    },
+    "60010173": {
+        "deprecated": false,
+        "Dev_Desc": "휘몰아치기_버프",
+        "id": 60010173,
+        "alias": "Contents.Effect.Option.LongSword.180811",
+        "text": "5% attack speed without attack"
+    },
+    "60010174": {
+        "deprecated": false,
+        "Dev_Desc": "휘몰아치기_버프",
+        "id": 60010174,
+        "alias": "Contents.Effect.Detail.LongSword.180811",
+        "text": "Swimming stacks up to 5 times"
+    },
+    "60010175": {
+        "deprecated": false,
+        "Dev_Desc": "휘몰아치기_스킬",
+        "id": 60010175,
+        "alias": "Contents.Skill.Name.LongSword.1808",
+        "text": "Sweeping"
+    },
+    "60010176": {
+        "deprecated": false,
+        "Dev_Desc": "휘몰아치기_스킬",
+        "id": 60010176,
+        "alias": "Contents.Skill.Desc.LongSword.1808",
+        "text": "Raises the momentum to drive the attack.\nWhen attacking without attack, there is a chance to increase the attack speed without attack.\nStacks up to 5 times."
+    },
+    "60010177": {
+        "deprecated": false,
+        "Dev_Desc": "휘몰아치기_스킬",
+        "id": 60010177,
+        "alias": "Contents.Skill.useEffect.LongSword.1808",
+        "text": "5% attack speed without attack"
     }
 }
