@@ -5030,14 +5030,14 @@
         "Dev_Desc": "상점 / 메인 화면 / 구매, 매입 조건 / 레벨",
         "id": 8000736,
         "alias": "UI.NPCShop.Condition.Level",
-        "text": "Lv<arg p=[1:interger]/> 이상"
+        "text": "Lv.<arg p=[1:integer]/> 이상"
     },
     "8000737": {
         "deprecated": false,
         "Dev_Desc": "상점 / 메인 화면 / 구매, 매입 조건 / 문파 직위",
         "id": 8000737,
         "alias": "UI.NPCShop.Condition.GuildLevel",
-        "text": "문파 Lv<arg p=[1:interger]/> 이상"
+        "text": "문파 Lv<arg p=[1:integer]/> 이상"
     },
     "8000738": {
         "deprecated": false,
@@ -5058,14 +5058,14 @@
         "Dev_Desc": "상점 / 메인 화면 / 한정 판매 수량",
         "id": 8000740,
         "alias": "UI.NPCShop.LimitedCount.Buyer",
-        "text": "한정판매수량 : <arg p=[1:interger]/>"
+        "text": "한정판매수량 : <arg p=[1:integer]/>"
     },
     "8000741": {
         "deprecated": false,
         "Dev_Desc": "상점 / 메인 화면 / 한정 구매 수량",
         "id": 8000741,
         "alias": "UI.NPCShop.LimitedCount.Seller",
-        "text": "매입제한수량 : <arg p=[1:interger]/>"
+        "text": "매입제한수량 : <arg p=[1:integer]/>"
     },
     "8000742": {
         "deprecated": false,
@@ -5079,7 +5079,7 @@
         "Dev_Desc": "설정 / 바롱의 기운 회복 / 자동사용 / 수치 텍스트",
         "id": 8000743,
         "alias": "UI.Setting.Barong.Stamina.Value",
-        "text": "<arg p=[1:interger]/>%"
+        "text": "<arg p=[1:integer]/>%"
     },
     "8000744": {
         "deprecated": false,
@@ -17378,7 +17378,7 @@
         "Dev_Desc": "블레이드&소울/효과 설명",
         "id": 8002561,
         "alias": "UI.BladeNSoul.Info.Desc",
-        "text": "기본 공격 속도와 무공 공격 속도는 메인 슬롯에 장착한 소울의 수치로 적용됩니다.\n\n소울의 능력치는 메인 소울과 서브 소울 2종의 수치가 합산되며, 메인 소울은 <arg p=[1:integer]/>%, 서브 소울은 각 <arg p=[2:integer]/>%의 수치를 반영합니다.\n\n소울이 요구하는 영력은 3성, 5성 성장 시 감소합니다.\n\n블레이드 효과는 발동된 소울이 보유한 효과로 적용되며, 슬롯에 장착한 소울들의 블레이드 효과가 서로 동일할 경우 레벨이 합산된 블레이드 효과가 적용됩니다."
+        "text": "기본 공격 속도, 무공 공격 속도와 소울 합격 피해는 메인 슬롯에 장착한 소울의 수치로 적용됩니다.\n\n소울의 능력치는 메인 소울과 서브 소울 2종의 수치가 합산되며, 메인 소울은 <arg p=[1:integer]/>%, 서브 소울은 각 <arg p=[2:integer]/>%의 수치를 반영합니다.\n\n소울이 요구하는 영력은 3성, 5성 성장 시 감소합니다.\n\n블레이드 효과는 발동된 소울이 보유한 효과로 적용되며, 슬롯에 장착한 소울들의 블레이드 효과가 서로 동일할 경우 레벨이 합산된 블레이드 효과가 적용됩니다.\n\n보스 등급 이상 몬스터의 일부 공격을 특화 무공으로 튕겨내면 소울 합격 피해를 가합니다. 소울 합격 피해가 누적되어 소울 합격 게이지가 0이 되면 해당 몬스터는 통제 상태가 됩니다."
     },
     "8002562": {
         "deprecated": false,
@@ -22884,8 +22884,8 @@
         "deprecated": false,
         "Dev_Desc": "장비도감 / 탭 / 이벤트",
         "id": 8003351,
-        "alias": "UI.EquipCollection.Tab.Event",
-        "text": "이벤트"
+        "alias": "UI.EquipCollection.Tab.Etc",
+        "text": "기타"
     },
     "8003352": {
         "deprecated": false,
@@ -22898,5 +22898,110 @@
         "id": 8003353,
         "alias": "UI.Shop.Tittle.Name.10026",
         "text": "봉마의 증표"
+    },
+    "8003354": {
+        "deprecated": false,
+        "Dev_Desc": "블레이드&소울/블레이드&소울/소울 합격 피해",
+        "id": 8003354,
+        "alias": "UI.BladeNSoul.SoulParryDamage",
+        "text": "소울 합격 피해"
+    },
+    "8003355": {
+        "deprecated": false,
+        "Dev_Desc": "아이템 상세정보창 / 영력",
+        "id": 8003355,
+        "alias": "UI.ItemInfo.BladeNSoul",
+        "text": "영력"
+    },
+    "8003356": {
+        "deprecated": false,
+        "Dev_Desc": "NPC상점 / 구매 횟수 제한 / 문파",
+        "id": 8003356,
+        "alias": "UI.Shop.Limit.Guild",
+        "text": "문파 한정"
+    },
+    "8003357": {
+        "deprecated": false,
+        "Dev_Desc": "NPC상점 / 구매 조건 / 문파 레벨",
+        "id": 8003357,
+        "alias": "UI.Shop.Condition.GuildLevel",
+        "text": "문파 레벨 <arg p=[1:integer]/> 이상"
+    },
+    "8003358": {
+        "deprecated": false,
+        "Dev_Desc": "NPC상점 / 구매 조건 / 문파 직위",
+        "id": 8003358,
+        "alias": "UI.Shop.Condition.MemberGrade",
+        "text": "<arg p=[1:string]/> 이상"
+    },
+    "8003359": {
+        "deprecated": false,
+        "Dev_Desc": "로비 / 외형 변경 팝업 – desc",
+        "id": 8003359,
+        "alias": "UI.Lobby.changeAppearance.Pop.Confirm.Desc",
+        "text": "현재 설정한 외형으로 변경하시겠습니까?"
+    },
+    "8003360": {
+        "deprecated": false,
+        "Dev_Desc": "로비 / 외형 변경 팝업 – yes",
+        "id": 8003360,
+        "alias": "UI.Lobby.changeAppearance.Button.Change",
+        "text": "변경"
+    },
+    "8003361": {
+        "deprecated": false,
+        "Dev_Desc": "로비 / 외형 변경권 부족 팝업 – desc",
+        "id": 8003361,
+        "alias": "UI.Lobby.changeAppearance.Pop.LackRes.Desc",
+        "text": "외형 변경권은 캐시상점에서 구매할 수 있습니다."
+    },
+    "8003362": {
+        "deprecated": false,
+        "Dev_Desc": "로비 / 외형 변경권 부족 팝업 – yes",
+        "id": 8003362,
+        "alias": "UI.Lobby.changeAppearance.Button.LogIn",
+        "text": "게임 시작"
+    },
+    "8003363": {
+        "deprecated": false,
+        "Dev_Desc": "로비 / 불러오기 팝업 – desc",
+        "id": 8003363,
+        "alias": "UI.Lobby.changeAppearance.Pop.Load.Desc",
+        "text": "저장한 외형을 불러오시겠습니까?"
+    },
+    "8003364": {
+        "deprecated": false,
+        "Dev_Desc": "로비 / 불러오기 팝업– yes",
+        "id": 8003364,
+        "alias": "UI.Lobby.changeAppearance.Button.Load",
+        "text": "불러오기"
+    },
+    "8003365": {
+        "deprecated": false,
+        "Dev_Desc": "로비 / 외형 변경 진입시 불러오기 팝업 – desc",
+        "id": 8003365,
+        "alias": "UI.Lobby.changeAppearance.Pop.Load.Desc2",
+        "text": "저장된 외형이 있습니다. 불러오시겠습니까?"
+    },
+    "8003366": {
+        "deprecated": false,
+        "Dev_Desc": "로비 / 외형 변경 진입시 불러오기 팝업– yes",
+        "id": 8003366,
+        "alias": "UI.Lobby.changeAppearance.Button.Load2",
+        "text": "불러오기"
+    },
+    "8003367": {
+        "deprecated": false,
+        "Dev_Desc": "로비 / 커스터마이징 확정 버튼",
+        "id": 8003367,
+        "alias": "UI.Lobby.changeAppearance.Button.Change2",
+        "text": "변경"
+    },
+    "8003368": {
+        "deprecated": false,
+        "Dev_Desc": "NPC상점 / 수집품 상인 / 타이틀",
+        "id": 8003368,
+        "alias": "UI.Shop.Tittle.Name.10027",
+        "text": "증표 교환상"
     }
 }
