@@ -7129,5 +7129,12 @@
         "id": 9001080,
         "alias": "SysM.BroadCasting.GrowSoul",
         "text": "[<arg p=[1:string]/>] <arg p=[2:string]/> 님이 소울 <arg p=[3:string]/> <arg p=[4:integer]/>성을 획득했습니다."
+    },
+    "9001081": {
+        "deprecated": false,
+        "Dev_Desc": "거래소 / 판매 / 판매 등록 / 아이템 없음",
+        "id": 9001081,
+        "alias": "SysM.Market.Sale.NoHave",
+        "text": "“此项目不存在。”"
     }
 }

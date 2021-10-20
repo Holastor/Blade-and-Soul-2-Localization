@@ -5975,9 +5975,10 @@
     },
     "99000898": {
         "deprecated": false,
-        "Dev_Desc": "희귀 검 무공서 (각인)",
+        "Dev_Desc": "영웅 / 휘몰아치기 / 패시브",
         "id": 99000898,
-        "alias": "Contents.Item.Desc.9100143"
+        "alias": "Contents.Item.Desc.9100143",
+        "text": "提升气势驱动攻击。\n攻击命中时，有一定几率获得10秒的扫荡效果。\n旋涡期间增加攻击的攻速。\n叠加到 5 次。”"
     },
     "99000899": {
         "deprecated": false,
@@ -7249,9 +7250,10 @@
     },
     "99001102": {
         "deprecated": false,
-        "Dev_Desc": "영웅 / 철벽_극한 / 테스트용 / 각인",
+        "Dev_Desc": "영웅 / 정의 / 패시브",
         "id": 99001102,
-        "alias": "Contents.Item.Desc.9100343"
+        "alias": "Contents.Item.Desc.9100343",
+        "text": "“加强对状态异常的敌人的基本攻击。\n所有基本攻击都会对处于“昏迷”或“空中”状态的目标造成额外伤害。”"
     },
     "99001103": {
         "deprecated": false,
@@ -8224,9 +8226,10 @@
     },
     "99001257": {
         "deprecated": false,
-        "Dev_Desc": "영웅 / 심판_증폭 / 테스트용 / 각인",
+        "Dev_Desc": "영웅 / 치환 / 패시브",
         "id": 99001257,
-        "alias": "Contents.Item.Desc.9100645"
+        "alias": "Contents.Item.Desc.9100645",
+        "text": "“普通攻击有几率造成与治疗能力成正比的伤害。”"
     },
     "99001258": {
         "deprecated": false,
@@ -18567,5 +18570,383 @@
         "id": 99002921,
         "alias": "Contents.Item.Desc.9900527",
         "text": "“你可以在使用时获得安抚奶嘴。”"
+    },
+    "99002922": {
+        "deprecated": false,
+        "Dev_Desc": "데일리 패스권",
+        "id": 99002922,
+        "alias": "Contents.Item.Desc.9202069",
+        "text": "“此物品可以激活‘每日通行证’奖励。\n\n* 注意\n赛季结束后，您将无法继续执行通行证任务。\n赛季结束一周后，未使用的通行证积分将过期将不再使用。补偿无法交换。”"
+    },
+    "99002923": {
+        "deprecated": false,
+        "Dev_Desc": "희귀 소울 선택 상자(이벤트)",
+        "id": 99002923,
+        "alias": "Contents.Item.Desc.9900529",
+        "text": "使用时，可以获得以下稀有灵魂召唤卷轴之一。\n-阳建灵魂召唤卷轴(1次)(事件)\n-真妙-年轻灵魂召唤卷轴(1次)(事件)\n-风白门巡逻船员灵魂召唤卷轴(1次)(事件)\n-风白门战斗官灵魂召唤卷轴(1次)(事件)\n-梅花队探索队灵魂召唤卷轴(1次)(事件)\n-梅花团巡逻队灵魂召唤卷轴(1 次) (事件)\n- 英教元萨满灵魂召唤卷轴 (1 次) (事件)"
+    },
+    "99002924": {
+        "deprecated": false,
+        "Dev_Desc": "희귀 소울 파편(11회)(이벤트)",
+        "id": 99002924,
+        "alias": "Contents.Item.Desc.9900530",
+        "text": "“使用时，可以按照设定的概率获得1个稀有灵魂碎片。”"
+    },
+    "99002925": {
+        "deprecated": false,
+        "Dev_Desc": "양건 소울 소환서(각인)",
+        "id": 99002925,
+        "alias": "Contents.Item.Desc.9900531",
+        "text": "“使用后，获得阳棍之魂。”"
+    },
+    "99002926": {
+        "deprecated": false,
+        "Dev_Desc": "진묘영 소울 소환서(각인)",
+        "id": 99002926,
+        "alias": "Contents.Item.Desc.9900532",
+        "text": "“使用后，获得神明英魂。”"
+    },
+    "99002927": {
+        "deprecated": false,
+        "Dev_Desc": "풍백문 순찰조원 소울 소환서(각인)",
+        "id": 99002927,
+        "alias": "Contents.Item.Desc.9900533",
+        "text": "“使用时，获得风白门游侠之魂。”"
+    },
+    "99002928": {
+        "deprecated": false,
+        "Dev_Desc": "풍백문 전투조원 소울 소환서(각인)",
+        "id": 99002928,
+        "alias": "Contents.Item.Desc.9900534",
+        "text": "“使用时，获得风白门争斗者之魂。”"
+    },
+    "99002929": {
+        "deprecated": false,
+        "Dev_Desc": "매화단 탐사단원 소울 소환서(각인)",
+        "id": 99002929,
+        "alias": "Contents.Item.Desc.9900535",
+        "text": "“使用后，您将获得梅花远征队之魂。”"
+    },
+    "99002930": {
+        "deprecated": false,
+        "Dev_Desc": "매화단 순찰단원 소울 소환서(각인)",
+        "id": 99002930,
+        "alias": "Contents.Item.Desc.9900536",
+        "text": "“使用后，您将获得梅花巡队之魂。”"
+    },
+    "99002931": {
+        "deprecated": false,
+        "Dev_Desc": "영교원 주술사 소울 소환서(각인)",
+        "id": 99002931,
+        "alias": "Contents.Item.Desc.9900537",
+        "text": "“使用后，您将获得年轻的教元萨满之魂。”"
+    },
+    "99002932": {
+        "deprecated": false,
+        "Dev_Desc": "수호병의 증표",
+        "id": 99002932,
+        "alias": "Contents.Item.Desc.9900546",
+        "text": "“一种可以在[Guardian's Token Exchange]使用的硬币。”"
+    },
+    "99002933": {
+        "deprecated": false,
+        "Dev_Desc": "잠식된 수호병의 핵",
+        "id": 99002933,
+        "alias": "Contents.Item.Desc.9900547",
+        "text": "“此物品可在装备百科全书中使用。\n拆卸后，您将获得一个守卫徽章。”"
+    },
+    "99002934": {
+        "deprecated": false,
+        "Dev_Desc": "침식된 수호병의 핵",
+        "id": 99002934,
+        "alias": "Contents.Item.Desc.9900548",
+        "text": "“此物品可在装备百科全书中使用。\n拆卸后，您将获得一个守卫徽章。”"
+    },
+    "99002935": {
+        "deprecated": false,
+        "Dev_Desc": "타락한 수호병의 핵",
+        "id": 99002935,
+        "alias": "Contents.Item.Desc.9900549",
+        "text": "“此物品可在装备百科全书中使用。\n拆卸后，您将获得一个守卫徽章。”"
+    },
+    "99002936": {
+        "deprecated": false,
+        "Dev_Desc": "각성의 무공함(각인)",
+        "id": 99002936,
+        "alias": "Contents.Item.Desc.9900550",
+        "text": "“这是一个可以通过选择普通主动武器获得的盒子。”"
+    },
+    "99002937": {
+        "deprecated": false,
+        "Dev_Desc": "상급 각성의 무공함(각인)",
+        "id": 99002937,
+        "alias": "Contents.Item.Desc.9900551",
+        "text": "“这是一个可以通过选择高级主动武器获得的盒子。”"
+    },
+    "99002938": {
+        "deprecated": false,
+        "Dev_Desc": "회랑의 장비 상자(각인)",
+        "id": 99002938,
+        "alias": "Contents.Item.Desc.9900552",
+        "text": "“这是一个可以随机获得一件指定稀有装备的箱子。”"
+    },
+    "99002939": {
+        "deprecated": false,
+        "Dev_Desc": "희귀 소울 선택 상자 I",
+        "id": 99002939,
+        "alias": "Contents.Item.Desc.9900553",
+        "text": "“使用时，您可以获得以下稀有灵魂召唤卷轴之一。\n\n-绿色爬行者灵魂召唤卷轴（1次）（刻印）\n-妙面家族灵魂召唤卷轴（1次）（刻印）\n-诹访剑士灵魂召唤卷轴（1次）（刻印）\n-剑客剑客灵魂召唤卷轴（1次）（刻印）\n-剑客双剑灵魂召唤卷轴（1次）（刻印）\n-剑客战士灵魂召唤卷轴（1次）（刻)\n- 梅花团探队灵魂召唤卷轴(1次)(刻)\n- 梅花团巡逻队灵魂召唤卷轴(1次)(刻)\n-英教元萨满萨满灵魂召唤卷轴(1次)"
+    },
+    "99002940": {
+        "deprecated": false,
+        "Dev_Desc": "희귀 소울 선택 상자 II",
+        "id": 99002940,
+        "alias": "Contents.Item.Desc.9900554",
+        "text": "“使用时，您可以获得以下稀有灵魂召唤卷轴之一。\n\n- 变异蓝人剑客灵魂召唤卷轴（1 次）（刻印）\n- 变异蓝人刺客灵魂召唤卷轴（1 次）（刻印）\n-变异蓝人战士灵魂召唤卷轴（1 次）（刻字）\n- Red Don Sentinel 灵魂召唤卷轴（1 次）（刻字）\n- Red Don Combat Soldier 灵魂召唤卷轴（1 次）（雕刻）\n- Day Seonggwan Salsu灵魂召唤卷轴（1次）（刻）\n- Ilsunggwan Archer 灵魂召唤卷轴（1 次）（刻）\n- 戒律搜索者灵魂召唤卷轴（1 次）（刻）\n- 戒律守望者灵魂召唤卷轴（1 次）（刻印)\n- 黑色黎明争斗者灵魂召唤卷轴 (1 次) (刻印)\n- 黑色黎明刺客灵魂召唤卷轴 (1 次) (刻印)\n- 黑色黎明战斧灵魂召唤卷轴 (1 次)(刻印)\n- 清明青武魂召唤卷轴(1次)(刻字)\n-清明青武魂召唤卷轴(1次)(刻图)\n-天舞团剑客魂卷轴(1次)(刻字)\n-天舞团权沙召唤卷轴(1次)时间)(刻)\n-明​​惠丹学者灵魂召唤卷轴(1次)(刻)\n-明​​惠丹研究员灵魂召唤卷轴(1次)(刻)"
+    },
+    "99002941": {
+        "deprecated": false,
+        "Dev_Desc": "희귀 소울 선택 상자 III",
+        "id": 99002941,
+        "alias": "Contents.Item.Desc.9900555",
+        "text": "“使用时，您可以获得以下稀有灵魂召唤卷轴之一。\n- 丰柏门战卫灵魂召唤卷轴（1 次）（刻字）\n- 丰白门游侠灵魂召唤卷轴（1 次）（刻字）\n- Yanggeon Soul召唤卷轴（1次）（刻）\n-金妙英灵魂召唤卷轴（1次）（刻）"
+    },
+    "99002942": {
+        "deprecated": false,
+        "Dev_Desc": "녹각다귀 소울 소환서(1회)(각인)",
+        "id": 99002942,
+        "alias": "Contents.Item.Desc.9900556",
+        "text": "“使用后，获得鹿角之魂。”"
+    },
+    "99002943": {
+        "deprecated": false,
+        "Dev_Desc": "묘면족 소울 소환서(1회)(각인)",
+        "id": 99002943,
+        "alias": "Contents.Item.Desc.9900557",
+        "text": "“使用后，获得妙面型灵魂。”"
+    },
+    "99002944": {
+        "deprecated": false,
+        "Dev_Desc": "수와족 덩치 소울 소환서(1회)(각인)",
+        "id": 99002944,
+        "alias": "Contents.Item.Desc.9900558",
+        "text": "“使用时，获得诹访大小的灵魂。”"
+    },
+    "99002945": {
+        "deprecated": false,
+        "Dev_Desc": "창도단 검사 소울 소환서(1회)(각인)",
+        "id": 99002945,
+        "alias": "Contents.Item.Desc.9900559",
+        "text": "“使用后，获得枪剑士魂。”"
+    },
+    "99002946": {
+        "deprecated": false,
+        "Dev_Desc": "창도단 쌍칼 소울 소환서(1회)(각인)",
+        "id": 99002946,
+        "alias": "Contents.Item.Desc.9900560",
+        "text": "“使用后，获得双剑魂。”"
+    },
+    "99002947": {
+        "deprecated": false,
+        "Dev_Desc": "창도단 투사 소울 소환서(1회)(각인)",
+        "id": 99002947,
+        "alias": "Contents.Item.Desc.9900561",
+        "text": "“使用后，你将获得一名长矛战士的灵魂。”"
+    },
+    "99002948": {
+        "deprecated": false,
+        "Dev_Desc": "매화단 탐사단원 소울 소환서(1회)(각인)",
+        "id": 99002948,
+        "alias": "Contents.Item.Desc.9900562",
+        "text": "“使用后，您将获得梅花远征队之魂。”"
+    },
+    "99002949": {
+        "deprecated": false,
+        "Dev_Desc": "매화단 순찰단원 소울 소환서(1회)(각인)",
+        "id": 99002949,
+        "alias": "Contents.Item.Desc.9900563",
+        "text": "“使用后，您将获得梅花巡队之魂。”"
+    },
+    "99002950": {
+        "deprecated": false,
+        "Dev_Desc": "영교원 주술사 소울 소환서(1회)(각인)",
+        "id": 99002950,
+        "alias": "Contents.Item.Desc.9900564",
+        "text": "“使用后，您将获得年轻的教元萨满之魂。”"
+    },
+    "99002951": {
+        "deprecated": false,
+        "Dev_Desc": "임연수 소울 소환서(1회)(각인)",
+        "id": 99002951,
+        "alias": "Contents.Item.Desc.9900565",
+        "text": "“使用后，您将获得Im Yeonsu Soul。”"
+    },
+    "99002952": {
+        "deprecated": false,
+        "Dev_Desc": "비사문 관리관 소울 소환서(1회)(각인)",
+        "id": 99002952,
+        "alias": "Contents.Item.Desc.9900566",
+        "text": "“使用后，你将获得秘官之魂。”"
+    },
+    "99002953": {
+        "deprecated": false,
+        "Dev_Desc": "비사문 첩보관 소울 소환서(1회)(각인)",
+        "id": 99002953,
+        "alias": "Contents.Item.Desc.9900567",
+        "text": "“使用后，您将获得一个秘密的间谍灵魂。”"
+    },
+    "99002954": {
+        "deprecated": false,
+        "Dev_Desc": "변이된 청인족 검사 소울 소환서(1회)(각인)",
+        "id": 99002954,
+        "alias": "Contents.Item.Desc.9900568",
+        "text": "“使用时，获得变异蓝人剑士魂。”"
+    },
+    "99002955": {
+        "deprecated": false,
+        "Dev_Desc": "변이된 청인족 암살자 소울 소환서(1회)(각인)",
+        "id": 99002955,
+        "alias": "Contents.Item.Desc.9900569",
+        "text": "“使用后，您将获得一个变异的蓝人刺客之魂。”"
+    },
+    "99002956": {
+        "deprecated": false,
+        "Dev_Desc": "변이된 청인족 투사 소울 소환서(1회)(각인)",
+        "id": 99002956,
+        "alias": "Contents.Item.Desc.9900570",
+        "text": "“使用后，您将获得一个变异的蓝色武魂。”"
+    },
+    "99002957": {
+        "deprecated": false,
+        "Dev_Desc": "홍돈 보초병 소울 소환서(1회)(각인)",
+        "id": 99002957,
+        "alias": "Contents.Item.Desc.9900571",
+        "text": "“使用后，您将获得一个 Red-Don Sentry Soul。”"
+    },
+    "99002958": {
+        "deprecated": false,
+        "Dev_Desc": "홍돈 전투병 소울 소환서(1회)(각인)",
+        "id": 99002958,
+        "alias": "Contents.Item.Desc.9900572",
+        "text": "“使用后，您将获得一个红色唐斗士之魂。”"
+    },
+    "99002959": {
+        "deprecated": false,
+        "Dev_Desc": "일성관 살수 소울 소환서(1회)(각인)",
+        "id": 99002959,
+        "alias": "Contents.Item.Desc.9900573",
+        "text": "“使用后，您将获得一城关浇水之魂。”"
+    },
+    "99002960": {
+        "deprecated": false,
+        "Dev_Desc": "일성관 궁수 소울 소환서(1회)(각인)",
+        "id": 99002960,
+        "alias": "Contents.Item.Desc.9900574",
+        "text": "“使用后，您将获得一城馆弓箭手之魂。”"
+    },
+    "99002961": {
+        "deprecated": false,
+        "Dev_Desc": "수양 탐색대원 소울 소환서(1회)(각인)",
+        "id": 99002961,
+        "alias": "Contents.Item.Desc.9900575",
+        "text": "“使用后，你将获得一个戒律探索者之魂。”"
+    },
+    "99002962": {
+        "deprecated": false,
+        "Dev_Desc": "수양 경계대원 소울 소환서(1회)(각인)",
+        "id": 99002962,
+        "alias": "Contents.Item.Desc.9900576",
+        "text": "“使用后，获得戒律守望者之魂。”"
+    },
+    "99002963": {
+        "deprecated": false,
+        "Dev_Desc": "검은 새벽단 전투병 소울 소환서(1회)(각인)",
+        "id": 99002963,
+        "alias": "Contents.Item.Desc.9900577",
+        "text": "“使用后，您将获得黑色黎明斗士的灵魂。”"
+    },
+    "99002964": {
+        "deprecated": false,
+        "Dev_Desc": "검은 새벽단 암살자 소울 소환서(1회)(각인)",
+        "id": 99002964,
+        "alias": "Contents.Item.Desc.9900578",
+        "text": "“使用后，你获得黑色黎明刺客之魂。”"
+    },
+    "99002965": {
+        "deprecated": false,
+        "Dev_Desc": "검은 새벽단 도끼병 소울 소환서(1회)(각인)",
+        "id": 99002965,
+        "alias": "Contents.Item.Desc.9900579",
+        "text": "“使用后，您将获得黑色黎明斧之魂。”"
+    },
+    "99002966": {
+        "deprecated": false,
+        "Dev_Desc": "청명파 청의전사 소울 소환서(1회)(각인)",
+        "id": 99002966,
+        "alias": "Contents.Item.Desc.9900580",
+        "text": "“使用后，获得青之武魂。”"
+    },
+    "99002967": {
+        "deprecated": false,
+        "Dev_Desc": "청명파 청의투사 소울 소환서(1회)(각인)",
+        "id": 99002967,
+        "alias": "Contents.Item.Desc.9900581",
+        "text": "“使用后，您将获得一个蓝色战士之魂。”"
+    },
+    "99002968": {
+        "deprecated": false,
+        "Dev_Desc": "천무단 검사 소울 소환서(1회)(각인)",
+        "id": 99002968,
+        "alias": "Contents.Item.Desc.9900582",
+        "text": "“使用后，获得一千牡丹剑客之魂。”"
+    },
+    "99002969": {
+        "deprecated": false,
+        "Dev_Desc": "천무단 권사 소울 소환서(1회)(각인)",
+        "id": 99002969,
+        "alias": "Contents.Item.Desc.9900583",
+        "text": "“使用后，您将获得天舞团权沙之魂。”"
+    },
+    "99002970": {
+        "deprecated": false,
+        "Dev_Desc": "명혜단 석학 소울 소환서(1회)(각인)",
+        "id": 99002970,
+        "alias": "Contents.Item.Desc.9900584",
+        "text": "“使用后，你将获得明惠旦学者之魂。”"
+    },
+    "99002971": {
+        "deprecated": false,
+        "Dev_Desc": "명혜단 연구원 소울 소환서(1회)(각인)",
+        "id": 99002971,
+        "alias": "Contents.Item.Desc.9900585",
+        "text": "“使用时，获得研究员灵魂明惠丹。”"
+    },
+    "99002972": {
+        "deprecated": false,
+        "Dev_Desc": "풍백문 전투조원 소울 소환서(1회)(각인)",
+        "id": 99002972,
+        "alias": "Contents.Item.Desc.9900586",
+        "text": "“使用时，获得风白门争斗者之魂。”"
+    },
+    "99002973": {
+        "deprecated": false,
+        "Dev_Desc": "풍백문 순찰조원 소울 소환서(1회)(각인)",
+        "id": 99002973,
+        "alias": "Contents.Item.Desc.9900587",
+        "text": "“使用时，获得风白门游侠之魂。”"
+    },
+    "99002974": {
+        "deprecated": false,
+        "Dev_Desc": "양건 소울 소환서(1회)(각인)",
+        "id": 99002974,
+        "alias": "Contents.Item.Desc.9900588",
+        "text": "“使用后，获得阳棍之魂。”"
+    },
+    "99002975": {
+        "deprecated": false,
+        "Dev_Desc": "진묘영 소울 소환서(1회)(각인)",
+        "id": 99002975,
+        "alias": "Contents.Item.Desc.9900589",
+        "text": "“使用后，获得神明英魂。”"
     }
 }
