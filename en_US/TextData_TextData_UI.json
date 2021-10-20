@@ -22884,7 +22884,7 @@
         "deprecated": false,
         "Dev_Desc": "장비도감 / 탭 / 이벤트",
         "id": 8003351,
-        "alias": "UI.EquipCollection.Tab.Event",
+        "alias": "UI.EquipCollection.Tab.Etc",
         "text": "event"
     },
     "8003352": {
@@ -22898,5 +22898,110 @@
         "id": 8003353,
         "alias": "UI.Shop.Tittle.Name.10026",
         "text": "Mark of Bongma"
+    },
+    "8003354": {
+        "deprecated": false,
+        "Dev_Desc": "블레이드&소울/블레이드&소울/소울 합격 피해",
+        "id": 8003354,
+        "alias": "UI.BladeNSoul.SoulParryDamage",
+        "text": "Soul Pass Damage"
+    },
+    "8003355": {
+        "deprecated": false,
+        "Dev_Desc": "아이템 상세정보창 / 영력",
+        "id": 8003355,
+        "alias": "UI.ItemInfo.BladeNSoul",
+        "text": "Spirit Power"
+    },
+    "8003356": {
+        "deprecated": false,
+        "Dev_Desc": "NPC상점 / 구매 횟수 제한 / 문파",
+        "id": 8003356,
+        "alias": "UI.Shop.Limit.Guild",
+        "text": "Limited to the clan"
+    },
+    "8003357": {
+        "deprecated": false,
+        "Dev_Desc": "NPC상점 / 구매 조건 / 문파 레벨",
+        "id": 8003357,
+        "alias": "UI.Shop.Condition.GuildLevel",
+        "text": "Class level <arg p=[1:integer]/> or higher"
+    },
+    "8003358": {
+        "deprecated": false,
+        "Dev_Desc": "NPC상점 / 구매 조건 / 문파 직위",
+        "id": 8003358,
+        "alias": "UI.Shop.Condition.MemberGrade",
+        "text": "<arg p=[1:string]/> or greater"
+    },
+    "8003359": {
+        "deprecated": false,
+        "Dev_Desc": "로비 / 외형 변경 팝업 – desc",
+        "id": 8003359,
+        "alias": "UI.Lobby.changeAppearance.Pop.Confirm.Desc",
+        "text": "Are you sure you want to change to the currently set appearance?"
+    },
+    "8003360": {
+        "deprecated": false,
+        "Dev_Desc": "로비 / 외형 변경 팝업 – yes",
+        "id": 8003360,
+        "alias": "UI.Lobby.changeAppearance.Button.Change",
+        "text": "change"
+    },
+    "8003361": {
+        "deprecated": false,
+        "Dev_Desc": "로비 / 외형 변경권 부족 팝업 – desc",
+        "id": 8003361,
+        "alias": "UI.Lobby.changeAppearance.Pop.LackRes.Desc",
+        "text": "Appearance change coupons can be purchased at the Cash Shop."
+    },
+    "8003362": {
+        "deprecated": false,
+        "Dev_Desc": "로비 / 외형 변경권 부족 팝업 – yes",
+        "id": 8003362,
+        "alias": "UI.Lobby.changeAppearance.Button.LogIn",
+        "text": "starting Game"
+    },
+    "8003363": {
+        "deprecated": false,
+        "Dev_Desc": "로비 / 불러오기 팝업 – desc",
+        "id": 8003363,
+        "alias": "UI.Lobby.changeAppearance.Pop.Load.Desc",
+        "text": "Are you sure you want to load the saved appearance?"
+    },
+    "8003364": {
+        "deprecated": false,
+        "Dev_Desc": "로비 / 불러오기 팝업– yes",
+        "id": 8003364,
+        "alias": "UI.Lobby.changeAppearance.Button.Load",
+        "text": "loading"
+    },
+    "8003365": {
+        "deprecated": false,
+        "Dev_Desc": "로비 / 외형 변경 진입시 불러오기 팝업 – desc",
+        "id": 8003365,
+        "alias": "UI.Lobby.changeAppearance.Pop.Load.Desc2",
+        "text": "There is a saved appearance. Would you like to load it?"
+    },
+    "8003366": {
+        "deprecated": false,
+        "Dev_Desc": "로비 / 외형 변경 진입시 불러오기 팝업– yes",
+        "id": 8003366,
+        "alias": "UI.Lobby.changeAppearance.Button.Load2",
+        "text": "loading"
+    },
+    "8003367": {
+        "deprecated": false,
+        "Dev_Desc": "로비 / 커스터마이징 확정 버튼",
+        "id": 8003367,
+        "alias": "UI.Lobby.changeAppearance.Button.Change2",
+        "text": "change"
+    },
+    "8003368": {
+        "deprecated": false,
+        "Dev_Desc": "NPC상점 / 수집품 상인 / 타이틀",
+        "id": 8003368,
+        "alias": "UI.Shop.Tittle.Name.10027",
+        "text": "Token Exchange Award"
     }
 }
