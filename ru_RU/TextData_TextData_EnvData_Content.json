@@ -84,6 +84,13 @@
         "alias": "Content.Env.Name.2200100",
         "text": "шкатулка с сокровищами"
     },
+    "2200101": {
+        "deprecated": false,
+        "Dev_Desc": "ENV조작 레벨 제한",
+        "id": 2200101,
+        "alias": "Content.Env.LevelLimit.2200101",
+        "text": "Недостаточно уровней. (Требуемый уровень <arg p = [1: integer] />)"
+    },
     "900000": {
         "deprecated": false,
         "Dev_Desc": "혼불 애도 ",

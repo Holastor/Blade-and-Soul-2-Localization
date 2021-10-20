@@ -7129,5 +7129,12 @@
         "id": 9001080,
         "alias": "SysM.BroadCasting.GrowSoul",
         "text": "[<arg p=[1:string]/>]><arg p=[2:string]/> Soul <arg p=[3:string]/> <arg p=[4:integer]/> фамилия имеет было получено."
+    },
+    "9001081": {
+        "deprecated": false,
+        "Dev_Desc": "거래소 / 판매 / 판매 등록 / 아이템 없음",
+        "id": 9001081,
+        "alias": "SysM.Market.Sale.NoHave",
+        "text": "Этого предмета не существует."
     }
 }
