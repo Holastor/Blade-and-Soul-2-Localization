@@ -38,7 +38,7 @@ BTC - bc1qpqnyfvz36u904pw60tv5ky8da38aq0wy7l7rk6, or
 * ONLY PC
 * Download Source code (zip) [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/releases/tag/0.7.0)
 * You need to download the source code and unpack it
-* In the /Blade-and-Soul-2-Localization-0.3.5/ folder there is an en_US folder, its contents must be transferred in the folder \Game Folder\B2\Data\Text\
+* In the /Blade-and-Soul-2-Localization-0.7.0/ folder there is an en_US folder, its contents must be transferred in the folder \Game Folder\B2\Data\Text\
 * And You need Rename en_US to ru_RU.
 * If you don't have these folders, just create them.
 * You should get something like this:
