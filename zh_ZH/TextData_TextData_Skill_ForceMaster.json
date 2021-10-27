@@ -286,20 +286,6 @@
         "alias": "Contents.Skill.useEffectDesc.FireBangle.3035",
         "text": "智慧+4"
     },
-    "60030042": {
-        "deprecated": false,
-        "Dev_Desc": "패시브_조화_무공공속",
-        "id": 60030042,
-        "alias": "Contents.Skill.useEffectDesc.FireBangle.3036",
-        "text": "技能攻击速度+"
-    },
-    "60030043": {
-        "deprecated": false,
-        "Dev_Desc": "패시브_염제_기공 명중",
-        "id": 60030043,
-        "alias": "Contents.Skill.useEffectDesc.FireBangle.3037",
-        "text": "气功命中+13"
-    },
     "60030044": {
         "deprecated": false,
         "Dev_Desc": "패시브_홍염_기공방어력감소",
@@ -634,34 +620,6 @@
         "id": 60030091,
         "alias": "Contents.Skill.Desc.FireBangle.3035",
         "text": "明白了冰属性的奥义\n智慧增加"
-    },
-    "60030092": {
-        "deprecated": false,
-        "Dev_Desc": "기공패 패시브 조화",
-        "id": 60030092,
-        "alias": "Contents.Skill.Name.FireBangle.3036",
-        "text": "造化"
-    },
-    "60030093": {
-        "deprecated": false,
-        "Dev_Desc": "기공패 패시브 조화_설명",
-        "id": 60030093,
-        "alias": "Contents.Skill.Desc.FireBangle.3036",
-        "text": "实现冰与火的协调\n技能攻击速度增加"
-    },
-    "60030094": {
-        "deprecated": false,
-        "Dev_Desc": "기공패 패시브 염제",
-        "id": 60030094,
-        "alias": "Contents.Skill.Name.FireBangle.3037",
-        "text": "炎帝"
-    },
-    "60030095": {
-        "deprecated": false,
-        "Dev_Desc": "기공패 패시브 염제_설명",
-        "id": 60030095,
-        "alias": "Contents.Skill.Desc.FireBangle.3037",
-        "text": "精通火的技能\n气功命中增加"
     },
     "60030096": {
         "deprecated": false,
@@ -1194,5 +1152,26 @@
         "id": 60030171,
         "alias": "Contents.Effect.Option.FireBangle.344420",
         "text": "基础攻击速度+68%\n技能攻击速度+30%\n灵魂触发率+5%"
+    },
+    "60030172": {
+        "deprecated": false,
+        "Dev_Desc": "기공패 패시브 천빙",
+        "id": 60030172,
+        "alias": "Contents.Skill.Name.FireBangle.3037",
+        "text": "《春饼》"
+    },
+    "60030173": {
+        "deprecated": false,
+        "Dev_Desc": "패시브_천빙_둔화 빙결 추피",
+        "id": 60030173,
+        "alias": "Contents.Skill.useEffectDesc.FireBangle.3037",
+        "text": "“攻击冻结目标时施加的额外伤害”"
+    },
+    "60030174": {
+        "deprecated": false,
+        "Dev_Desc": "기공패 패시브 천빙_설명",
+        "id": 60030174,
+        "alias": "Contents.Skill.Desc.FireBangle.3037",
+        "text": "“对被寒意禁用的目标进行更无情的攻击。\n攻击被冻结的目标造成额外伤害。\n额外伤害有 3 秒的冷却时间。”"
     }
 }

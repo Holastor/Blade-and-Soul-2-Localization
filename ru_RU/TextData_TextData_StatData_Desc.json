@@ -1363,5 +1363,12 @@
         "id": 11195,
         "alias": "Contents.Stat.Desc.ElementDamageValueRate",
         "text": "Атрибут урон, нанесенный при активации Души, дополнительно усиливается."
+    },
+    "11196": {
+        "deprecated": false,
+        "Dev_Desc": "SoulParryDamage",
+        "id": 11196,
+        "alias": "Contents.Stat.Desc.SoulParryDamage",
+        "text": "Увеличивает урон по шкале прохода души монстра."
     }
 }

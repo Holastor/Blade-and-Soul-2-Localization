@@ -286,20 +286,6 @@
         "alias": "Contents.Skill.useEffectDesc.FireBangle.3035",
         "text": "Wisdom +4"
     },
-    "60030042": {
-        "deprecated": false,
-        "Dev_Desc": "패시브_조화_무공공속",
-        "id": 60030042,
-        "alias": "Contents.Skill.useEffectDesc.FireBangle.3036",
-        "text": "Non-Attack Speed +"
-    },
-    "60030043": {
-        "deprecated": false,
-        "Dev_Desc": "패시브_염제_기공 명중",
-        "id": 60030043,
-        "alias": "Contents.Skill.useEffectDesc.FireBangle.3037",
-        "text": "+13 qigong hit"
-    },
     "60030044": {
         "deprecated": false,
         "Dev_Desc": "패시브_홍염_기공방어력감소",
@@ -634,34 +620,6 @@
         "id": 60030091,
         "alias": "Contents.Skill.Desc.FireBangle.3035",
         "text": "I understand the logic of ice.\nIncreases wisdom."
-    },
-    "60030092": {
-        "deprecated": false,
-        "Dev_Desc": "기공패 패시브 조화",
-        "id": 60030092,
-        "alias": "Contents.Skill.Name.FireBangle.3036",
-        "text": "harmony"
-    },
-    "60030093": {
-        "deprecated": false,
-        "Dev_Desc": "기공패 패시브 조화_설명",
-        "id": 60030093,
-        "alias": "Contents.Skill.Desc.FireBangle.3036",
-        "text": "Achieves a balance between ice and fire.\nIncreases attack speed without attack."
-    },
-    "60030094": {
-        "deprecated": false,
-        "Dev_Desc": "기공패 패시브 염제",
-        "id": 60030094,
-        "alias": "Contents.Skill.Name.FireBangle.3037",
-        "text": "Salt"
-    },
-    "60030095": {
-        "deprecated": false,
-        "Dev_Desc": "기공패 패시브 염제_설명",
-        "id": 60030095,
-        "alias": "Contents.Skill.Desc.FireBangle.3037",
-        "text": "You have mastered the martial arts of dealing with fire.\nIncreases qigong accuracy."
     },
     "60030096": {
         "deprecated": false,
@@ -1194,5 +1152,26 @@
         "id": 60030171,
         "alias": "Contents.Effect.Option.FireBangle.344420",
         "text": "Base attack speed +68%\nNo attack speed +30%\nSoul activation rate +5%"
+    },
+    "60030172": {
+        "deprecated": false,
+        "Dev_Desc": "기공패 패시브 천빙",
+        "id": 60030172,
+        "alias": "Contents.Skill.Name.FireBangle.3037",
+        "text": "Additional increase in non-air damage factor"
+    },
+    "60030173": {
+        "deprecated": false,
+        "Dev_Desc": "패시브_천빙_둔화 빙결 추피",
+        "id": 60030173,
+        "alias": "Contents.Skill.useEffectDesc.FireBangle.3037",
+        "text": "Additional damage applied when attacking a frozen target"
+    },
+    "60030174": {
+        "deprecated": false,
+        "Dev_Desc": "기공패 패시브 천빙_설명",
+        "id": 60030174,
+        "alias": "Contents.Skill.Desc.FireBangle.3037",
+        "text": "Attacks a target that has been disabled by the chill even more mercilessly.\nAttacks a frozen target for additional damage.\nAdditional damage has a 3 second cooldown."
     }
 }

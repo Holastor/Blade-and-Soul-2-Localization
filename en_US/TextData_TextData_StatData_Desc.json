@@ -1363,5 +1363,12 @@
         "id": 11195,
         "alias": "Contents.Stat.Desc.ElementDamageValueRate",
         "text": "Additionally amplifies elemental damage when Soul is activated."
+    },
+    "11196": {
+        "deprecated": false,
+        "Dev_Desc": "SoulParryDamage",
+        "id": 11196,
+        "alias": "Contents.Stat.Desc.SoulParryDamage",
+        "text": "Increases the damage against the monster's soul pass gauge."
     }
 }

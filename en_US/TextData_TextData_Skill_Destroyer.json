@@ -942,5 +942,19 @@
         "id": 60040135,
         "alias": "Contents.Skill.Upgrade.Name.GreatAxe.ReduceTakenDamageRate",
         "text": "Damage Reduction +5%"
+    },
+    "60040136": {
+        "deprecated": false,
+        "Dev_Desc": "정의",
+        "id": 60040136,
+        "alias": "Contents.Skill.Name.GreatAxe.4808",
+        "text": "Justice"
+    },
+    "60040137": {
+        "deprecated": false,
+        "Dev_Desc": "정의",
+        "id": 60040137,
+        "alias": "Contents.Skill.Desc.GreatAxe.4808",
+        "text": "Strengthens basic attacks against enemies with status ailments.\nAll basic attacks deal additional damage to targets with stun or air status."
     }
 }

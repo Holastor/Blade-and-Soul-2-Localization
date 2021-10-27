@@ -286,20 +286,6 @@
         "alias": "Contents.Skill.useEffectDesc.FireBangle.3035",
         "text": "Мудрость 4"
     },
-    "60030042": {
-        "deprecated": false,
-        "Dev_Desc": "패시브_조화_무공공속",
-        "id": 60030042,
-        "alias": "Contents.Skill.useEffectDesc.FireBangle.3036",
-        "text": "Скорость без атаки"
-    },
-    "60030043": {
-        "deprecated": false,
-        "Dev_Desc": "패시브_염제_기공 명중",
-        "id": 60030043,
-        "alias": "Contents.Skill.useEffectDesc.FireBangle.3037",
-        "text": "Цигун Хит 13"
-    },
     "60030044": {
         "deprecated": false,
         "Dev_Desc": "패시브_홍염_기공방어력감소",
@@ -634,34 +620,6 @@
         "id": 60030091,
         "alias": "Contents.Skill.Desc.FireBangle.3035",
         "text": "Я понимаю логику льда. \n Увеличивает мудрость."
-    },
-    "60030092": {
-        "deprecated": false,
-        "Dev_Desc": "기공패 패시브 조화",
-        "id": 60030092,
-        "alias": "Contents.Skill.Name.FireBangle.3036",
-        "text": "Гармония"
-    },
-    "60030093": {
-        "deprecated": false,
-        "Dev_Desc": "기공패 패시브 조화_설명",
-        "id": 60030093,
-        "alias": "Contents.Skill.Desc.FireBangle.3036",
-        "text": "Создает баланс льда и огня. \n Увеличивает скорость атаки без атаки."
-    },
-    "60030094": {
-        "deprecated": false,
-        "Dev_Desc": "기공패 패시브 염제",
-        "id": 60030094,
-        "alias": "Contents.Skill.Name.FireBangle.3037",
-        "text": "Поваренная соль"
-    },
-    "60030095": {
-        "deprecated": false,
-        "Dev_Desc": "기공패 패시브 염제_설명",
-        "id": 60030095,
-        "alias": "Contents.Skill.Desc.FireBangle.3037",
-        "text": "Мастер боевых искусств с огнем. \n Увеличивает удар цигун."
     },
     "60030096": {
         "deprecated": false,
@@ -1194,5 +1152,26 @@
         "id": 60030171,
         "alias": "Contents.Effect.Option.FireBangle.344420",
         "text": "Базовая скорость атаки 68% \n скорость без атаки 30% \n Скорость активации души 5%"
+    },
+    "60030172": {
+        "deprecated": false,
+        "Dev_Desc": "기공패 패시브 천빙",
+        "id": 60030172,
+        "alias": "Contents.Skill.Name.FireBangle.3037",
+        "text": "Чуньбин"
+    },
+    "60030173": {
+        "deprecated": false,
+        "Dev_Desc": "패시브_천빙_둔화 빙결 추피",
+        "id": 60030173,
+        "alias": "Contents.Skill.useEffectDesc.FireBangle.3037",
+        "text": "Дополнительный урон при атаке замороженной цели"
+    },
+    "60030174": {
+        "deprecated": false,
+        "Dev_Desc": "기공패 패시브 천빙_설명",
+        "id": 60030174,
+        "alias": "Contents.Skill.Desc.FireBangle.3037",
+        "text": "Более безжалостно атакует цели, которые были отключены Холодом. \n Атакует замороженные цели, нанося дополнительный урон. \n Дополнительный урон имеет время восстановления в 3 секунды."
     }
 }
