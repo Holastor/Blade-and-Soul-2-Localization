@@ -17378,7 +17378,7 @@
         "Dev_Desc": "블레이드&소울/효과 설명",
         "id": 8002561,
         "alias": "UI.BladeNSoul.Info.Desc",
-        "text": "기본 공격 속도, 무공 공격 속도와 소울 합격 피해는 메인 슬롯에 장착한 소울의 수치로 적용됩니다.\n\n소울의 능력치는 메인 소울과 서브 소울 2종의 수치가 합산되며, 메인 소울은 <arg p=[1:integer]/>%, 서브 소울은 각 <arg p=[2:integer]/>%의 수치를 반영합니다.\n\n소울이 요구하는 영력은 3성, 5성 성장 시 감소합니다.\n\n블레이드 효과는 발동된 소울이 보유한 효과로 적용되며, 슬롯에 장착한 소울들의 블레이드 효과가 서로 동일할 경우 레벨이 합산된 블레이드 효과가 적용됩니다.\n\n보스 등급 이상 몬스터의 일부 공격을 특화 무공으로 튕겨내면 소울 합격 피해를 가합니다. 소울 합격 피해가 누적되어 소울 합격 게이지가 0이 되면 해당 몬스터는 통제 상태가 됩니다."
+        "text": "기본 공격 속도, 무공 공격 속도와 소울 합격 피해는 메인 슬롯에 장착한 소울의 수치로 적용됩니다.\n\n소울의 능력치는 메인 소울과 서브 소울 2종의 수치가 합산되며, 메인 소울은 <arg p=[1:integer]/>%, 서브 소울은 각 <arg p=[2:integer]/>%의 수치를 반영합니다.\n\n소울이 요구하는 영력은 3성, 5성 성장 시 감소합니다.\n\n블레이드 효과는 발동된 소울이 보유한 효과로 적용되며, 슬롯에 장착한 소울들의 블레이드 효과가 서로 동일할 경우 레벨이 합산된 블레이드 효과가 적용됩니다.\n\n보스 몬스터의 일부 공격을 특화 무공으로 튕겨내면 소울 합격 공격력만큼 보스 기력을 감소시킵니다. 보스 기력이 모두 소진되면 해당 보스 몬스터는 통제 상태가 됩니다."
     },
     "8002562": {
         "deprecated": false,
@@ -20730,7 +20730,7 @@
         "Dev_Desc": "캐시상점 / AOS,Purpel / IAP 구매 수량 조절 안내",
         "id": 8003043,
         "alias": "UI.CashShop.Notice.IAPBuyInBulk",
-        "text": "본 상품은 구매 버튼 터치 후 나타나는 결제 창에서 수량을 변경하여 구매할 수 있는 상품입니다.\n상품 구매 수량을 변경하여 결제할 경우, 해당 수량에 대하여 상품 구매 계약을 체결한 것으로 봅니다."
+        "text": "구매하시는 상품의 수량 및 금액을 반드시 확인하시기 바랍니다.\n결제된 상품 수량 전체에 대하여 상품 구매 계약이 체결된 것으로 봅니다."
     },
     "8003044": {
         "deprecated": false,
@@ -22901,107 +22901,135 @@
     },
     "8003354": {
         "deprecated": false,
-        "Dev_Desc": "블레이드&소울/블레이드&소울/소울 합격 피해",
-        "id": 8003354,
-        "alias": "UI.BladeNSoul.SoulParryDamage",
-        "text": "소울 합격 피해"
-    },
-    "8003355": {
-        "deprecated": false,
         "Dev_Desc": "아이템 상세정보창 / 영력",
-        "id": 8003355,
+        "id": 8003354,
         "alias": "UI.ItemInfo.BladeNSoul",
         "text": "영력"
     },
-    "8003356": {
+    "8003355": {
         "deprecated": false,
         "Dev_Desc": "NPC상점 / 구매 횟수 제한 / 문파",
-        "id": 8003356,
+        "id": 8003355,
         "alias": "UI.Shop.Limit.Guild",
         "text": "문파 한정"
     },
-    "8003357": {
+    "8003356": {
         "deprecated": false,
         "Dev_Desc": "NPC상점 / 구매 조건 / 문파 레벨",
-        "id": 8003357,
+        "id": 8003356,
         "alias": "UI.Shop.Condition.GuildLevel",
         "text": "문파 레벨 <arg p=[1:integer]/> 이상"
     },
-    "8003358": {
+    "8003357": {
         "deprecated": false,
         "Dev_Desc": "NPC상점 / 구매 조건 / 문파 직위",
-        "id": 8003358,
+        "id": 8003357,
         "alias": "UI.Shop.Condition.MemberGrade",
         "text": "<arg p=[1:string]/> 이상"
     },
-    "8003359": {
+    "8003358": {
         "deprecated": false,
         "Dev_Desc": "로비 / 외형 변경 팝업 – desc",
-        "id": 8003359,
+        "id": 8003358,
         "alias": "UI.Lobby.changeAppearance.Pop.Confirm.Desc",
         "text": "현재 설정한 외형으로 변경하시겠습니까?"
     },
-    "8003360": {
+    "8003359": {
         "deprecated": false,
         "Dev_Desc": "로비 / 외형 변경 팝업 – yes",
-        "id": 8003360,
+        "id": 8003359,
         "alias": "UI.Lobby.changeAppearance.Button.Change",
         "text": "변경"
     },
-    "8003361": {
+    "8003360": {
         "deprecated": false,
         "Dev_Desc": "로비 / 외형 변경권 부족 팝업 – desc",
-        "id": 8003361,
+        "id": 8003360,
         "alias": "UI.Lobby.changeAppearance.Pop.LackRes.Desc",
         "text": "외형 변경권은 캐시상점에서 구매할 수 있습니다."
     },
-    "8003362": {
+    "8003361": {
         "deprecated": false,
         "Dev_Desc": "로비 / 외형 변경권 부족 팝업 – yes",
-        "id": 8003362,
+        "id": 8003361,
         "alias": "UI.Lobby.changeAppearance.Button.LogIn",
         "text": "게임 시작"
     },
-    "8003363": {
+    "8003362": {
         "deprecated": false,
         "Dev_Desc": "로비 / 불러오기 팝업 – desc",
-        "id": 8003363,
+        "id": 8003362,
         "alias": "UI.Lobby.changeAppearance.Pop.Load.Desc",
         "text": "저장한 외형을 불러오시겠습니까?"
     },
-    "8003364": {
+    "8003363": {
         "deprecated": false,
         "Dev_Desc": "로비 / 불러오기 팝업– yes",
-        "id": 8003364,
+        "id": 8003363,
         "alias": "UI.Lobby.changeAppearance.Button.Load",
         "text": "불러오기"
     },
-    "8003365": {
+    "8003364": {
         "deprecated": false,
         "Dev_Desc": "로비 / 외형 변경 진입시 불러오기 팝업 – desc",
-        "id": 8003365,
+        "id": 8003364,
         "alias": "UI.Lobby.changeAppearance.Pop.Load.Desc2",
         "text": "저장된 외형이 있습니다. 불러오시겠습니까?"
     },
-    "8003366": {
+    "8003365": {
         "deprecated": false,
         "Dev_Desc": "로비 / 외형 변경 진입시 불러오기 팝업– yes",
-        "id": 8003366,
+        "id": 8003365,
         "alias": "UI.Lobby.changeAppearance.Button.Load2",
         "text": "불러오기"
     },
-    "8003367": {
+    "8003366": {
         "deprecated": false,
         "Dev_Desc": "로비 / 커스터마이징 확정 버튼",
-        "id": 8003367,
+        "id": 8003366,
         "alias": "UI.Lobby.changeAppearance.Button.Change2",
         "text": "변경"
     },
-    "8003368": {
+    "8003367": {
         "deprecated": false,
         "Dev_Desc": "NPC상점 / 수집품 상인 / 타이틀",
-        "id": 8003368,
+        "id": 8003367,
         "alias": "UI.Shop.Tittle.Name.10027",
         "text": "증표 교환상"
+    },
+    "8003368": {
+        "deprecated": false,
+        "Dev_Desc": "이벤트 제작 레시피 탭 / 할로윈 사탕 교환",
+        "id": 8003368,
+        "alias": "UI.Craft.LeftSubTabName.Event.Halloween_01",
+        "text": "할로윈 사탕 교환"
+    },
+    "8003369": {
+        "deprecated": false,
+        "Dev_Desc": "이벤트 제작 레시피 탭 / 돌파의 정수 파편",
+        "id": 8003369,
+        "alias": "UI.Craft.LeftSubTabName.Event.EssencePieces_08",
+        "text": "돌파의 정수 파편"
+    },
+    "8003370": {
+        "deprecated": false,
+        "Dev_Desc": "이벤트 제작 레시피 탭 / 스페셜 영웅 소환",
+        "id": 8003370,
+        "alias": "UI.Craft.LeftSubTabName.Event.SpecialHeroSoul_01",
+        "text": "스페셜 영웅 소울"
+    },
+    "8003371": {
+        "deprecated": false,
+        "Dev_Desc": "이벤트 제작 레시피 탭 / 심연의 틈 충전석",
+        "id": 8003371,
+        "alias": "UI.Craft.LeftSubTabName.Event.MissingDochi_01",
+        "text": "심연의 틈 충전석"
+    },
+    "8003372": {
+        "deprecated": false,
+        "Dev_Desc": "이벤트 제작 레시피 탭 / 빛나는 달빛 상자",
+        "id": 8003372,
+        "alias": "UI.Craft.LeftSubTabName.Event.MoonlightBox_01",
+        "text": "빛나는 달빛 상자"
     }
 }

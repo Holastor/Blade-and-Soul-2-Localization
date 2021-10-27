@@ -286,20 +286,6 @@
         "alias": "Contents.Skill.useEffectDesc.FireBangle.3035",
         "text": "지혜 +4"
     },
-    "60030042": {
-        "deprecated": false,
-        "Dev_Desc": "패시브_조화_무공공속",
-        "id": 60030042,
-        "alias": "Contents.Skill.useEffectDesc.FireBangle.3036",
-        "text": "무공 공격 속도 +"
-    },
-    "60030043": {
-        "deprecated": false,
-        "Dev_Desc": "패시브_염제_기공 명중",
-        "id": 60030043,
-        "alias": "Contents.Skill.useEffectDesc.FireBangle.3037",
-        "text": "기공 명중 +13"
-    },
     "60030044": {
         "deprecated": false,
         "Dev_Desc": "패시브_홍염_기공방어력감소",
@@ -465,7 +451,7 @@
         "Dev_Desc": "기공패 무공 연화_설명",
         "id": 60030067,
         "alias": "Contents.Skill.Desc.FireBangle.3351",
-        "text": "대상에게 즉각 화기를 주입하여 피해를 입힙니다.\n명중 시, 특정 무공 사용을 가능하게 하는 \"발화\" 효과를 5.5초간 얻습니다."
+        "text": "대상에게 즉각 화기를 주입하여 피해를 입힙니다.\n명중 시, 특정 무공 사용을 가능하게 하는 \"발화\" 효과를 5.8초간 얻습니다."
     },
     "60030068": {
         "deprecated": false,
@@ -635,34 +621,6 @@
         "alias": "Contents.Skill.Desc.FireBangle.3035",
         "text": "얼음의 이치를 깨닫습니다.\n지혜가 증가합니다."
     },
-    "60030092": {
-        "deprecated": false,
-        "Dev_Desc": "기공패 패시브 조화",
-        "id": 60030092,
-        "alias": "Contents.Skill.Name.FireBangle.3036",
-        "text": "조화"
-    },
-    "60030093": {
-        "deprecated": false,
-        "Dev_Desc": "기공패 패시브 조화_설명",
-        "id": 60030093,
-        "alias": "Contents.Skill.Desc.FireBangle.3036",
-        "text": "얼음과 불의 조화를 이뤄냅니다.\n무공 공격 속도가 증가합니다."
-    },
-    "60030094": {
-        "deprecated": false,
-        "Dev_Desc": "기공패 패시브 염제",
-        "id": 60030094,
-        "alias": "Contents.Skill.Name.FireBangle.3037",
-        "text": "염제"
-    },
-    "60030095": {
-        "deprecated": false,
-        "Dev_Desc": "기공패 패시브 염제_설명",
-        "id": 60030095,
-        "alias": "Contents.Skill.Desc.FireBangle.3037",
-        "text": "불을 다루는 무공에 통달합니다.\n기공 명중이 증가합니다."
-    },
     "60030096": {
         "deprecated": false,
         "Dev_Desc": "기공패 패시브 홍염",
@@ -710,7 +668,7 @@
         "Dev_Desc": "화련장_영웅_돌파_성장설명",
         "id": 60030102,
         "alias": "Contents.Skill.acquireEffectDesc.3064",
-        "text": "일정 확률로 5.5초간 자신에게 \"발화\" 효과 부여"
+        "text": "일정 확률로 5.8초간 자신에게 \"발화\" 효과 부여"
     },
     "60030103": {
         "deprecated": false,
@@ -724,14 +682,14 @@
         "Dev_Desc": "비륜연휘_극한_성장설명",
         "id": 60030104,
         "alias": "Contents.Skill.acquireEffectDesc.3291",
-        "text": "일정 확률로 5.5초간 자신에게 \"발화\" 효과 부여"
+        "text": "일정 확률로 5.8초간 자신에게 \"발화\" 효과 부여"
     },
     "60030105": {
         "deprecated": false,
         "Dev_Desc": "비륜연휘_돌파_성장설명",
         "id": 60030105,
         "alias": "Contents.Skill.acquireEffectDesc.3321",
-        "text": "강력한 폭발을 일으키는 기폭양염 연계\n대상 주변의 \"화상\" 상태인 적은 함께 피격"
+        "text": "시전 시간 감소"
     },
     "60030106": {
         "deprecated": false,
@@ -885,7 +843,7 @@
         "Dev_Desc": "유성_상급_증폭_성장설명",
         "id": 60030127,
         "alias": "Contents.Skill.acquireEffectDesc.3628",
-        "text": "일정 확률로 5.5초간 자신에게 \"발화\" 효과 부여"
+        "text": "일정 확률로 5.8초간 자신에게 \"발화\" 효과 부여"
     },
     "60030128": {
         "deprecated": false,
@@ -1194,5 +1152,26 @@
         "id": 60030171,
         "alias": "Contents.Effect.Option.FireBangle.344420",
         "text": "기본 공격 속도 +68%\n무공 공격 속도 +30%\n소울 발동률 +5%"
+    },
+    "60030172": {
+        "deprecated": false,
+        "Dev_Desc": "기공패 패시브 천빙",
+        "id": 60030172,
+        "alias": "Contents.Skill.Name.FireBangle.3037",
+        "text": "천빙"
+    },
+    "60030173": {
+        "deprecated": false,
+        "Dev_Desc": "패시브_천빙_둔화 빙결 추피",
+        "id": 60030173,
+        "alias": "Contents.Skill.useEffectDesc.FireBangle.3037",
+        "text": "빙결 상태의 대상 공격 시 추가 피해 적용"
+    },
+    "60030174": {
+        "deprecated": false,
+        "Dev_Desc": "기공패 패시브 천빙_설명",
+        "id": 60030174,
+        "alias": "Contents.Skill.Desc.FireBangle.3037",
+        "text": "한기로 무력화된 대상을 더욱 냉혹하게 공격합니다.\n빙결 상태의 대상 공격 시 추가 피해를 적용합니다.\n추가 피해는 3초의 재사용 대기시간을 갖습니다."
     }
 }

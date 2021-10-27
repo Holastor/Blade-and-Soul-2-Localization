@@ -25,14 +25,14 @@
         "Dev_Desc": "Constitution",
         "id": 11004,
         "alias": "Contents.Stat.Desc.Constitution",
-        "text": "일정 수치마다 생명력, 물약 회복률, 무공 피해 내성, 소울 저항률이 증가합니다."
+        "text": "일정 수치마다 생명력, 물약 회복률, 무공 피해 내성, 상대 소울 억제력이 증가합니다."
     },
     "11005": {
         "deprecated": false,
         "Dev_Desc": "Wisdom",
         "id": 11005,
         "alias": "Contents.Stat.Desc.Wisdom",
-        "text": "일정 수치마다 내력, 소울 발동률, 무공 피해 증폭, 내력 조절이 증가합니다."
+        "text": "일정 수치마다 내력, 소울 발동률, 무공 공격 증폭, 내력 조절이 증가합니다."
     },
     "11006": {
         "deprecated": false,
@@ -529,21 +529,21 @@
         "Dev_Desc": "CutPartsDamageRate",
         "id": 11076,
         "alias": "Contents.Stat.Desc.CutPartsDamageRate",
-        "text": "보스의 약점 공격 시 부위파괴 생명력에 대한 피해량이 증가합니다."
+        "text": "보스의 약점 공격 시 부위파괴 게이지에 대한 피해량이 증가합니다."
     },
     "11077": {
         "deprecated": false,
         "Dev_Desc": "StrikePartsDamageRate",
         "id": 11077,
         "alias": "Contents.Stat.Desc.StrikePartsDamageRate",
-        "text": "보스의 약점 공격 시 부위파괴(타격) 생명력에 대한 피해량이 증가합니다."
+        "text": "보스의 약점 공격 시 부위파괴(타격) 게이지에 대한 피해량이 증가합니다."
     },
     "11078": {
         "deprecated": false,
         "Dev_Desc": "ControlHPDamageRate",
         "id": 11078,
         "alias": "Contents.Stat.Desc.ControlHPDamageRate",
-        "text": "보스의 약점 공격 시 통제 생명력에 대한 피해량이 증가합니다."
+        "text": "보스의 약점 공격 시 통제 게이지에 대한 피해량이 증가합니다."
     },
     "11079": {
         "deprecated": false,
@@ -620,7 +620,7 @@
         "Dev_Desc": "IncreaseSoulRate",
         "id": 11089,
         "alias": "Contents.Stat.Desc.IncreaseSoulRate",
-        "text": "소울 발동률이 증가합니다."
+        "text": "공격 시 소울이 발동할 확률이 추가로 증가합니다."
     },
     "11090": {
         "deprecated": false,
@@ -1363,5 +1363,12 @@
         "id": 11195,
         "alias": "Contents.Stat.Desc.ElementDamageValueRate",
         "text": "소울 발동 시 주는 속성 피해가 추가로 증폭됩니다."
+    },
+    "11196": {
+        "deprecated": false,
+        "Dev_Desc": "SoulParryDamage",
+        "id": 11196,
+        "alias": "Contents.Stat.Desc.SoulParryDamage",
+        "text": "몬스터의 소울 합격 게이지에 대한 피해량이 증가합니다."
     }
 }

@@ -137,7 +137,7 @@
         "Dev_Desc": "살상명령_돌파_효과",
         "id": 60050019,
         "alias": "Contents.Skill.acquireEffectDesc.LongBow.5043",
-        "text": "사용 시, 치명타 추가 공격력 +10"
+        "text": "사용 시, 치명타 추가 공격력 +7"
     },
     "60050020": {
         "deprecated": false,
@@ -417,70 +417,70 @@
         "Dev_Desc": "살상명령_돌파_버프_효과Lv1",
         "id": 60050059,
         "alias": "Contents.Effect.Option.LongBow.504310",
-        "text": "기본 공격 속도 +50%\n원거리 치명률 +10%\n치명타 추가 공격력 +10"
+        "text": "기본 공격 속도 +50%\n원거리 치명률 +10%\n치명타 추가 공격력 +7"
     },
     "60050060": {
         "deprecated": false,
         "Dev_Desc": "살상명령_돌파_버프_효과Lv2",
         "id": 60050060,
         "alias": "Contents.Effect.Option.LongBow.504311",
-        "text": "기본 공격 속도 +52%\n원거리 치명률 +10%\n치명타 추가 공격력 +10"
+        "text": "기본 공격 속도 +52%\n원거리 치명률 +10%\n치명타 추가 공격력 +7"
     },
     "60050061": {
         "deprecated": false,
         "Dev_Desc": "살상명령_돌파_버프_효과Lv3",
         "id": 60050061,
         "alias": "Contents.Effect.Option.LongBow.504312",
-        "text": "기본 공격 속도 +54%\n원거리 치명률 +10%\n치명타 추가 공격력 +10"
+        "text": "기본 공격 속도 +54%\n원거리 치명률 +10%\n치명타 추가 공격력 +7"
     },
     "60050062": {
         "deprecated": false,
         "Dev_Desc": "살상명령_돌파_버프_효과Lv4",
         "id": 60050062,
         "alias": "Contents.Effect.Option.LongBow.504313",
-        "text": "기본 공격 속도 +56%\n원거리 치명률 +10%\n치명타 추가 공격력 +10"
+        "text": "기본 공격 속도 +56%\n원거리 치명률 +10%\n치명타 추가 공격력 +7"
     },
     "60050063": {
         "deprecated": false,
         "Dev_Desc": "살상명령_돌파_버프_효과Lv5",
         "id": 60050063,
         "alias": "Contents.Effect.Option.LongBow.504314",
-        "text": "기본 공격 속도 +58%\n원거리 치명률 +10%\n치명타 추가 공격력 +10"
+        "text": "기본 공격 속도 +58%\n원거리 치명률 +10%\n치명타 추가 공격력 +7"
     },
     "60050064": {
         "deprecated": false,
         "Dev_Desc": "살상명령_돌파_버프_효과Lv6",
         "id": 60050064,
         "alias": "Contents.Effect.Option.LongBow.504315",
-        "text": "기본 공격 속도 +60%\n원거리 치명률 +10%\n치명타 추가 공격력 +10"
+        "text": "기본 공격 속도 +60%\n원거리 치명률 +10%\n치명타 추가 공격력 +7"
     },
     "60050065": {
         "deprecated": false,
         "Dev_Desc": "살상명령_돌파_버프_효과Lv7",
         "id": 60050065,
         "alias": "Contents.Effect.Option.LongBow.504316",
-        "text": "기본 공격 속도 +62%\n원거리 치명률 +10%\n치명타 추가 공격력 +10"
+        "text": "기본 공격 속도 +62%\n원거리 치명률 +10%\n치명타 추가 공격력 +7"
     },
     "60050066": {
         "deprecated": false,
         "Dev_Desc": "살상명령_돌파_버프_효과Lv8",
         "id": 60050066,
         "alias": "Contents.Effect.Option.LongBow.504317",
-        "text": "기본 공격 속도 +64%\n원거리 치명률 +10%\n치명타 추가 공격력 +10"
+        "text": "기본 공격 속도 +64%\n원거리 치명률 +10%\n치명타 추가 공격력 +7"
     },
     "60050067": {
         "deprecated": false,
         "Dev_Desc": "살상명령_돌파_버프_효과Lv9",
         "id": 60050067,
         "alias": "Contents.Effect.Option.LongBow.504318",
-        "text": "기본 공격 속도 +66%\n원거리 치명률 +10%\n치명타 추가 공격력 +10"
+        "text": "기본 공격 속도 +66%\n원거리 치명률 +10%\n치명타 추가 공격력 +7"
     },
     "60050068": {
         "deprecated": false,
         "Dev_Desc": "살상명령_돌파_버프_효과Lv10",
         "id": 60050068,
         "alias": "Contents.Effect.Option.LongBow.504319",
-        "text": "기본 공격 속도 +70%\n원거리 치명률 +10%\n치명타 추가 공격력 +10"
+        "text": "기본 공격 속도 +70%\n원거리 치명률 +10%\n치명타 추가 공격력 +7"
     },
     "60050069": {
         "deprecated": false,
@@ -781,7 +781,7 @@
         "Dev_Desc": "백발백중_효과",
         "id": 60050115,
         "alias": "Contents.Skill.UseEffect.LongBow.5880",
-        "text": "원거리 명중 +7"
+        "text": "무기 공격력 증폭 +15%"
     },
     "60050116": {
         "deprecated": false,
@@ -907,7 +907,7 @@
         "Dev_Desc": "백발백중",
         "id": 60050133,
         "alias": "Contents.Skill.Desc.LongBow.5880",
-        "text": "숙련된 활솜씨로 표적을 빗나가지 않습니다.\n원거리 명중이 증가합니다."
+        "text": "숙련된 활솜씨로 표적을 빗나가지 않습니다.\n무기 공격력 증폭이 증가합니다."
     },
     "60050134": {
         "deprecated": false,

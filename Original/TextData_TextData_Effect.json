@@ -5312,7 +5312,7 @@
         "Dev_Desc": "월광정기",
         "id": 89500790,
         "alias": "Contents.Effect.Option.70101155",
-        "text": "경험치 획득량 +30%\n방어력 +3\nHP +100\n힘, 솜씨, 지능 +1\n건강, 지혜, 민첩 +1"
+        "text": "공격력 +3\n명중 +3\n방어력 +5\n경험치 획득량 +15%"
     },
     "89500791": {
         "deprecated": false,
@@ -5439,5 +5439,12 @@
         "Dev_Desc": "과실주(이벤트)",
         "id": 89500809,
         "alias": "Contents.Effect.Detail.70101166"
+    },
+    "89500810": {
+        "deprecated": false,
+        "Dev_Desc": "양갱아범의 선물(이벤트)",
+        "id": 89500810,
+        "alias": "Contents.Effect.Name.70101167",
+        "text": "양갱아범의 선물"
     }
 }

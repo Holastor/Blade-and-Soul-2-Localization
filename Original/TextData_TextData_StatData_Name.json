@@ -270,7 +270,7 @@
         "Dev_Desc": "DamagePure",
         "id": 10039,
         "alias": "Contents.Stat.Name.DamagePure",
-        "text": "방어 무시 피해"
+        "text": "방어 무시 공격력"
     },
     "10040": {
         "deprecated": false,
@@ -515,7 +515,7 @@
         "Dev_Desc": "SkillDamage",
         "id": 10074,
         "alias": "Contents.Stat.Name.SkillDamage",
-        "text": "무공 피해 증폭"
+        "text": "무공 공격 증폭"
     },
     "10075": {
         "deprecated": false,
@@ -529,21 +529,21 @@
         "Dev_Desc": "CutPartsDamageRate",
         "id": 10076,
         "alias": "Contents.Stat.Name.CutPartsDamageRate",
-        "text": "보스 부위파괴 피해량 증폭"
+        "text": "보스 부위파괴 공격 증폭"
     },
     "10077": {
         "deprecated": false,
         "Dev_Desc": "StrikePartsDamageRate",
         "id": 10077,
         "alias": "Contents.Stat.Name.StrikePartsDamageRate",
-        "text": "보스 타격 피해량 증폭"
+        "text": "보스 타격 공격 증폭"
     },
     "10078": {
         "deprecated": false,
         "Dev_Desc": "ControlHPDamageRate",
         "id": 10078,
         "alias": "Contents.Stat.Name.ControlHPDamageRate",
-        "text": "보스 통제 피해량 증폭"
+        "text": "보스 통제 공격 증폭"
     },
     "10079": {
         "deprecated": false,
@@ -599,7 +599,7 @@
         "Dev_Desc": "ParryResistanceRate",
         "id": 10086,
         "alias": "Contents.Stat.Name.ParryResistanceRate",
-        "text": "튕기기 저항률"
+        "text": "상대 튕기기 억제력"
     },
     "10087": {
         "deprecated": false,
@@ -613,7 +613,7 @@
         "Dev_Desc": "SoulResistanceRate",
         "id": 10088,
         "alias": "Contents.Stat.Name.SoulResistanceRate",
-        "text": "소울 저항률"
+        "text": "상대 소울 억제력"
     },
     "10089": {
         "deprecated": false,
@@ -1229,63 +1229,63 @@
         "Dev_Desc": "FireDamageRate",
         "id": 10176,
         "alias": "Contents.Stat.Name.FireDamageRate",
-        "text": "화 속성 피해 증폭"
+        "text": "화 속성 공격 증폭"
     },
     "10177": {
         "deprecated": false,
         "Dev_Desc": "WaterDamageRate",
         "id": 10177,
         "alias": "Contents.Stat.Name.WaterDamageRate",
-        "text": "수 속성 피해 증폭"
+        "text": "수 속성 공격 증폭"
     },
     "10178": {
         "deprecated": false,
         "Dev_Desc": "WoodDamageRate",
         "id": 10178,
         "alias": "Contents.Stat.Name.WoodDamageRate",
-        "text": "목 속성 피해 증폭"
+        "text": "목 속성 공격 증폭"
     },
     "10179": {
         "deprecated": false,
         "Dev_Desc": "IronDamageRate",
         "id": 10179,
         "alias": "Contents.Stat.Name.IronDamageRate",
-        "text": "금 속성 피해 증폭"
+        "text": "금 속성 공격 증폭"
     },
     "10180": {
         "deprecated": false,
         "Dev_Desc": "WindDamageRate",
         "id": 10180,
         "alias": "Contents.Stat.Name.WindDamageRate",
-        "text": "풍 속성 피해 증폭"
+        "text": "풍 속성 공격 증폭"
     },
     "10181": {
         "deprecated": false,
         "Dev_Desc": "LightningDamageRate",
         "id": 10181,
         "alias": "Contents.Stat.Name.LightningDamageRate",
-        "text": "뇌 속성 피해 증폭"
+        "text": "뇌 속성 공격 증폭"
     },
     "10182": {
         "deprecated": false,
         "Dev_Desc": "LightDamageRate",
         "id": 10182,
         "alias": "Contents.Stat.Name.LightDamageRate",
-        "text": "명 속성 피해 증폭"
+        "text": "명 속성 공격 증폭"
     },
     "10183": {
         "deprecated": false,
         "Dev_Desc": "DarkDamageRate",
         "id": 10183,
         "alias": "Contents.Stat.Name.DarkDamageRate",
-        "text": "암 속성 피해 증폭"
+        "text": "암 속성 공격 증폭"
     },
     "10184": {
         "deprecated": false,
         "Dev_Desc": "ElementDamageRate",
         "id": 10184,
         "alias": "Contents.Stat.Name.ElementDamageRate",
-        "text": "속성 피해 증폭"
+        "text": "속성 공격 증폭"
     },
     "10185": {
         "deprecated": false,
@@ -1363,5 +1363,12 @@
         "id": 10195,
         "alias": "Contents.Stat.Name.ElementDamageValueRate",
         "text": "추가 소울 친화력"
+    },
+    "10196": {
+        "deprecated": false,
+        "Dev_Desc": "SoulParryDamage",
+        "id": 10196,
+        "alias": "Contents.Stat.Name.SoulParryDamage",
+        "text": "소울 합격 공격력"
     }
 }

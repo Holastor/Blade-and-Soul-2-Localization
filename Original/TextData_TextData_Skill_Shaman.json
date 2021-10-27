@@ -265,6 +265,20 @@
         "alias": "Contents.Skill.Desc.RitualBell.7261",
         "text": "만물에 통달하여 강제적인 통제에 더욱 쉽게 저항합니다."
     },
+    "60070038": {
+        "deprecated": false,
+        "Dev_Desc": "치환",
+        "id": 60070038,
+        "alias": "Contents.Skill.Name.RitualBell.7271",
+        "text": "치환"
+    },
+    "60070039": {
+        "deprecated": false,
+        "Dev_Desc": "치환",
+        "id": 60070039,
+        "alias": "Contents.Skill.Desc.RitualBell.7271",
+        "text": "기본 공격 시 일정 확률로 치유력에 비례하여 추가 피해를 입힙니다."
+    },
     "60070100": {
         "deprecated": false,
         "Dev_Desc": "생령합일_증폭_설명",
@@ -473,7 +487,7 @@
         "Dev_Desc": "청화_돌파_설명",
         "id": 60070129,
         "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7104",
-        "text": "더욱 높은 확률로 치유력에 비례하여 대상의 내력 일부 제거"
+        "text": "내력 제거 확률 증가\n재사용 대기시간 -3초"
     },
     "60070200": {
         "deprecated": false,

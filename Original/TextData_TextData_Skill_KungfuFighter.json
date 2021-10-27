@@ -228,7 +228,7 @@
         "Dev_Desc": "다리걸기_돌파",
         "id": 60020032,
         "alias": "Contents.Skill.Desc.LightGauntlet.2063",
-        "text": "다리를 걸어 일정 확률로 적을 \"기절\" 시킵니다.\n이후 어깨로 강하게 \"밀어내 기절\"시키고 피해를 입힙니다."
+        "text": "다리를 걸어 일정 확률로 적을 \"기절\" 시킵니다.\n이후 어깨로 강하게 \"밀치기\" 후 \"기절\"시키고 피해를 입힙니다."
     },
     "60020033": {
         "deprecated": false,
@@ -564,7 +564,7 @@
         "Dev_Desc": "다리걸기_돌파_성장설명",
         "id": 60020082,
         "alias": "Contents.Skill.acquireEffectDesc.2063",
-        "text": "다리걸기 사용 후 철산고 연계"
+        "text": "\"기절\" 상태의 적에게 철산고 연계"
     },
     "60020083": {
         "deprecated": false,
@@ -585,7 +585,7 @@
         "Dev_Desc": "승천권_극한_성장설명",
         "id": 60020085,
         "alias": "Contents.Skill.acquireEffectDesc.2073",
-        "text": "승천권 사용 후 낙화각 연계"
+        "text": "\"공중\" 상태의 적에게 낙화각 연계"
     },
     "60020086": {
         "deprecated": false,
@@ -725,7 +725,7 @@
         "Dev_Desc": "패시브-뇌진탕",
         "id": 60020105,
         "alias": "Contents.Skill.Desc.LightGauntlet.2806",
-        "text": "기본공격이 적에게 명중할 경우 일정 확률로 대상을 \"경직\" 시킵니다.\n\"경직\" 효과는 5초의 재사용 대기시간을 갖습니다."
+        "text": "기본공격이 적에게 명중할 경우 일정 확률로 대상을 \"경직\" 시킵니다.\n\"경직\" 효과는 3초의 재사용 대기시간을 갖습니다."
     },
     "60020106": {
         "deprecated": false,
@@ -1349,5 +1349,12 @@
         "id": 60020194,
         "alias": "Contents.Effect.Detail.LightGauntlet.2805",
         "text": "\"무투\"는 최대 5회까지 중첩"
+    },
+    "60020195": {
+        "deprecated": false,
+        "Dev_Desc": "맹호격_돌파_설명",
+        "id": 60020195,
+        "alias": "Contents.Skill.Desc.LightGauntlet.2113",
+        "text": "뛰어올라 지면을 강타해 일정 확률로 적에게 \"공중\" 효과를 부여하고 피해를 입힙니다.\n공중에서 떨어진 후 \"기절\" 상태가 됩니다."
     }
 }

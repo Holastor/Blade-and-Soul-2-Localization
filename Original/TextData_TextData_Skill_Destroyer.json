@@ -72,7 +72,7 @@
         "Dev_Desc": "역사_불사버프_극한",
         "id": 60040010,
         "alias": "Contents.Effect.Option.GreatAxe.409301",
-        "text": "유지시간 동안 생명력 지속 회복\n통제 저항률 +20%"
+        "text": "유지시간 동안 생명력 지속 회복\n통제 저항률 +20%\n받는 피해량 감소 +30%"
     },
     "60040011": {
         "deprecated": false,
@@ -486,7 +486,7 @@
         "Dev_Desc": "불사_돌",
         "id": 60040070,
         "alias": "Contents.Skill.acquireEffect.GreatAxe.4089",
-        "text": "방어 성공 시, 활성화 확률 증가"
+        "text": "\"불사\" 중 받는 피해량 감소 +30%"
     },
     "60040071": {
         "deprecated": false,
@@ -626,7 +626,7 @@
         "Dev_Desc": "분노_돌",
         "id": 60040090,
         "alias": "Contents.Skill.acquireEffect.GreatAxe.4041_3",
-        "text": "선풍, 처단 명중 시, 일정 확률로 활성화"
+        "text": "\"분노\" 효과 지속 시간 +3초\n선풍, 처단 명중 시 활성화 확률 증가"
     },
     "60040091": {
         "deprecated": false,
@@ -942,5 +942,19 @@
         "id": 60040135,
         "alias": "Contents.Skill.Upgrade.Name.GreatAxe.ReduceTakenDamageRate",
         "text": "받는 피해량 감소 +5%"
+    },
+    "60040136": {
+        "deprecated": false,
+        "Dev_Desc": "정의",
+        "id": 60040136,
+        "alias": "Contents.Skill.Name.GreatAxe.4808",
+        "text": "정의"
+    },
+    "60040137": {
+        "deprecated": false,
+        "Dev_Desc": "정의",
+        "id": 60040137,
+        "alias": "Contents.Skill.Desc.GreatAxe.4808",
+        "text": "상태이상의 적에게 기본 공격을 강화합니다.\n\"기절\", \"공중\" 상태인 대상에게 모든 기본 공격이 추가 피해를 입힙니다."
     }
 }
