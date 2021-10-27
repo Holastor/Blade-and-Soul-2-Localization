@@ -7207,7 +7207,7 @@
         "Dev_Desc": "Province 정보 – 모험정보 – 해수 사냥",
         "id": 8001083,
         "alias": "UI.Worldmap.Province.Adventure.BeastHunt",
-        "text": "海洋狩猎"
+        "text": "深渊狩猎"
     },
     "8001084": {
         "deprecated": false,
@@ -22787,221 +22787,221 @@
         "Dev_Desc": "속성 정보",
         "id": 8003337,
         "alias": "UI.Element.None",
-        "text": "“不存在”"
+        "text": "无属性"
     },
     "8003338": {
         "deprecated": false,
         "Dev_Desc": "속성 정보",
         "id": 8003338,
         "alias": "UI.Element.Fire",
-        "text": "《火属性》"
+        "text": "火属性"
     },
     "8003339": {
         "deprecated": false,
         "Dev_Desc": "속성 정보",
         "id": 8003339,
         "alias": "UI.Element.Water",
-        "text": "“数字属性”"
+        "text": "水属性"
     },
     "8003340": {
         "deprecated": false,
         "Dev_Desc": "속성 정보",
         "id": 8003340,
         "alias": "UI.Element.Wood",
-        "text": "“颈部属性”"
+        "text": "木属性"
     },
     "8003341": {
         "deprecated": false,
         "Dev_Desc": "속성 정보",
         "id": 8003341,
         "alias": "UI.Element.Iron",
-        "text": "“黄金属性”"
+        "text": "金属性"
     },
     "8003342": {
         "deprecated": false,
         "Dev_Desc": "속성 정보",
         "id": 8003342,
         "alias": "UI.Element.Wind",
-        "text": "《风属性》"
+        "text": "风属性"
     },
     "8003343": {
         "deprecated": false,
         "Dev_Desc": "속성 정보",
         "id": 8003343,
         "alias": "UI.Element.Lightning",
-        "text": "“大脑属性”"
+        "text": "电属性"
     },
     "8003344": {
         "deprecated": false,
         "Dev_Desc": "속성 정보",
         "id": 8003344,
         "alias": "UI.Element.Light",
-        "text": "“名称属性”"
+        "text": "光属性"
     },
     "8003345": {
         "deprecated": false,
         "Dev_Desc": "속성 정보",
         "id": 8003345,
         "alias": "UI.Element.Dark",
-        "text": "“癌症属性”"
+        "text": "暗属性"
     },
     "8003346": {
         "deprecated": false,
         "Dev_Desc": "장비도감 / 탭 / 일반",
         "id": 8003346,
         "alias": "UI.EquipCollection.Tab.1",
-        "text": "“普通的”"
+        "text": "普通"
     },
     "8003347": {
         "deprecated": false,
         "Dev_Desc": "장비도감 / 탭 / 상급",
         "id": 8003347,
         "alias": "UI.EquipCollection.Tab.2",
-        "text": "“先进的”"
+        "text": "高级"
     },
     "8003348": {
         "deprecated": false,
         "Dev_Desc": "장비도감 / 탭 / 희귀",
         "id": 8003348,
         "alias": "UI.EquipCollection.Tab.3",
-        "text": "“稀有的”"
+        "text": "稀有"
     },
     "8003349": {
         "deprecated": false,
         "Dev_Desc": "장비도감 / 탭 / 영웅",
         "id": 8003349,
         "alias": "UI.EquipCollection.Tab.4",
-        "text": "“英雄”"
+        "text": "英雄"
     },
     "8003350": {
         "deprecated": false,
         "Dev_Desc": "장비도감 / 탭 / 예비",
         "id": 8003350,
         "alias": "UI.EquipCollection.Tab.5",
-        "text": "“空闲的”"
+        "text": "传奇"
     },
     "8003351": {
         "deprecated": false,
         "Dev_Desc": "장비도감 / 탭 / 이벤트",
         "id": 8003351,
-        "alias": "UI.EquipCollection.Tab.Etc",
-        "text": "“事件”"
+        "alias": "UI.EquipCollection.Tab.Event",
+        "text": "活动"
     },
     "8003352": {
         "deprecated": false,
         "id": 8003352,
         "alias": "UI.CashShop.TapName.Sub.itemCoin3",
-        "text": "“工匠印记”"
+        "text": "工匠标志"
     },
     "8003353": {
         "deprecated": false,
         "id": 8003353,
         "alias": "UI.Shop.Tittle.Name.10026",
-        "text": "《邦马印记》"
+        "text": "邦马印记"
     },
     "8003354": {
         "deprecated": false,
         "Dev_Desc": "블레이드&소울/블레이드&소울/소울 합격 피해",
         "id": 8003354,
         "alias": "UI.BladeNSoul.SoulParryDamage",
-        "text": "《魂传伤害》"
+        "text": "灵魂传递伤害"
     },
     "8003355": {
         "deprecated": false,
         "Dev_Desc": "아이템 상세정보창 / 영력",
         "id": 8003355,
         "alias": "UI.ItemInfo.BladeNSoul",
-        "text": "《精神力量》"
+        "text": "精神力量"
     },
     "8003356": {
         "deprecated": false,
         "Dev_Desc": "NPC상점 / 구매 횟수 제한 / 문파",
         "id": 8003356,
         "alias": "UI.Shop.Limit.Guild",
-        "text": "“仅限于氏族”"
+        "text": "仅限于公会"
     },
     "8003357": {
         "deprecated": false,
         "Dev_Desc": "NPC상점 / 구매 조건 / 문파 레벨",
         "id": 8003357,
         "alias": "UI.Shop.Condition.GuildLevel",
-        "text": "“班级<arg p=[1:integer]/> 或更高”"
+        "text": "等级<arg p=[1:integer]/> 或更高"
     },
     "8003358": {
         "deprecated": false,
         "Dev_Desc": "NPC상점 / 구매 조건 / 문파 직위",
         "id": 8003358,
         "alias": "UI.Shop.Condition.MemberGrade",
-        "text": "“<arg p=[1:string]/> 或更大”"
+        "text": "<arg p=[1:string]/> 或更大"
     },
     "8003359": {
         "deprecated": false,
         "Dev_Desc": "로비 / 외형 변경 팝업 – desc",
         "id": 8003359,
         "alias": "UI.Lobby.changeAppearance.Pop.Confirm.Desc",
-        "text": "“您确定要更改为当前设置的外观吗？”"
+        "text": "您确定要更改为当前设置的外观吗？"
     },
     "8003360": {
         "deprecated": false,
         "Dev_Desc": "로비 / 외형 변경 팝업 – yes",
         "id": 8003360,
         "alias": "UI.Lobby.changeAppearance.Button.Change",
-        "text": "“改变”"
+        "text": "改变"
     },
     "8003361": {
         "deprecated": false,
         "Dev_Desc": "로비 / 외형 변경권 부족 팝업 – desc",
         "id": 8003361,
         "alias": "UI.Lobby.changeAppearance.Pop.LackRes.Desc",
-        "text": "“可以在现金商店购买外观更改优惠券。”"
+        "text": "可以在现金商店购买外观更改优惠券。"
     },
     "8003362": {
         "deprecated": false,
         "Dev_Desc": "로비 / 외형 변경권 부족 팝업 – yes",
         "id": 8003362,
         "alias": "UI.Lobby.changeAppearance.Button.LogIn",
-        "text": "《开始游戏》"
+        "text": "开始游戏"
     },
     "8003363": {
         "deprecated": false,
         "Dev_Desc": "로비 / 불러오기 팝업 – desc",
         "id": 8003363,
         "alias": "UI.Lobby.changeAppearance.Pop.Load.Desc",
-        "text": "“确定要加载保存的外观吗？”"
+        "text": "确定要加载保存的外观吗？"
     },
     "8003364": {
         "deprecated": false,
         "Dev_Desc": "로비 / 불러오기 팝업– yes",
         "id": 8003364,
         "alias": "UI.Lobby.changeAppearance.Button.Load",
-        "text": "“加载”"
+        "text": "加载"
     },
     "8003365": {
         "deprecated": false,
         "Dev_Desc": "로비 / 외형 변경 진입시 불러오기 팝업 – desc",
         "id": 8003365,
         "alias": "UI.Lobby.changeAppearance.Pop.Load.Desc2",
-        "text": "“有一个保存的外观。你要加载它吗？”"
+        "text": "有一个保存的外观。你要加载它吗？"
     },
     "8003366": {
         "deprecated": false,
         "Dev_Desc": "로비 / 외형 변경 진입시 불러오기 팝업– yes",
         "id": 8003366,
         "alias": "UI.Lobby.changeAppearance.Button.Load2",
-        "text": "“加载”"
+        "text": "加载"
     },
     "8003367": {
         "deprecated": false,
         "Dev_Desc": "로비 / 커스터마이징 확정 버튼",
         "id": 8003367,
         "alias": "UI.Lobby.changeAppearance.Button.Change2",
-        "text": "“改变”"
+        "text": "改变"
     },
     "8003368": {
         "deprecated": false,
         "Dev_Desc": "NPC상점 / 수집품 상인 / 타이틀",
         "id": 8003368,
         "alias": "UI.Shop.Tittle.Name.10027",
-        "text": "“代币兑换奖”"
+        "text": "代币兑换奖"
     }
 }

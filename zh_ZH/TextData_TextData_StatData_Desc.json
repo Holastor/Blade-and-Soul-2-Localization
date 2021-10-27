@@ -550,7 +550,7 @@
         "Dev_Desc": "DamageRate",
         "id": 11079,
         "alias": "Contents.Stat.Desc.DamageRate",
-        "text": "给予的伤害量增加。"
+        "text": "造成的伤害量增加。"
     },
     "11080": {
         "deprecated": false,
@@ -564,7 +564,7 @@
         "Dev_Desc": "HealRate",
         "id": 11081,
         "alias": "Contents.Stat.Desc.HealRate",
-        "text": "给予的治疗量增加。"
+        "text": "造成的治疗量增加。"
     },
     "11082": {
         "deprecated": false,
@@ -921,7 +921,7 @@
         "Dev_Desc": "ReduceHealRate",
         "id": 11132,
         "alias": "Contents.Stat.Desc.ReduceHealRate",
-        "text": "给予的治疗量减少。"
+        "text": "造成的治疗量减少。"
     },
     "11133": {
         "deprecated": false,
@@ -935,7 +935,7 @@
         "Dev_Desc": "ReduceDamageRate",
         "id": 11134,
         "alias": "Contents.Stat.Desc.ReduceDamageRate",
-        "text": "给予的伤害量减少。"
+        "text": "造成的伤害量减少。"
     },
     "11135": {
         "deprecated": false,
@@ -1201,14 +1201,14 @@
         "Dev_Desc": "LightningDamage",
         "id": 11172,
         "alias": "Contents.Stat.Desc.LightningDamage",
-        "text": "发动脑属性灵魂时追加造成脑属性伤害。"
+        "text": "发动电属性灵魂时追加造成电属性伤害。"
     },
     "11173": {
         "deprecated": false,
         "Dev_Desc": "LightDamage",
         "id": 11173,
         "alias": "Contents.Stat.Desc.LightDamage",
-        "text": "发动名属性灵魂时追加造成名属性伤害。"
+        "text": "发动光属性灵魂时追加造成光属性伤害。"
     },
     "11174": {
         "deprecated": false,
@@ -1236,70 +1236,70 @@
         "Dev_Desc": "WaterDamageRate",
         "id": 11177,
         "alias": "Contents.Stat.Desc.WaterDamageRate",
-        "text": "给予的水属性伤害增加。"
+        "text": "造成的水属性伤害增加。"
     },
     "11178": {
         "deprecated": false,
         "Dev_Desc": "WoodDamageRate",
         "id": 11178,
         "alias": "Contents.Stat.Desc.WoodDamageRate",
-        "text": "给予的木属性伤害增加。"
+        "text": "造成的木属性伤害增加。"
     },
     "11179": {
         "deprecated": false,
         "Dev_Desc": "IronDamageRate",
         "id": 11179,
         "alias": "Contents.Stat.Desc.IronDamageRate",
-        "text": "给予的金属性伤害增加。"
+        "text": "造成的金属性伤害增加。"
     },
     "11180": {
         "deprecated": false,
         "Dev_Desc": "WindDamageRate",
         "id": 11180,
         "alias": "Contents.Stat.Desc.WindDamageRate",
-        "text": "给予的风属性伤害增加。"
+        "text": "造成的风属性伤害增加。"
     },
     "11181": {
         "deprecated": false,
         "Dev_Desc": "LightningDamageRate",
         "id": 11181,
         "alias": "Contents.Stat.Desc.LightningDamageRate",
-        "text": "给予的脑属性伤害增加。"
+        "text": "造成的电属性伤害增加。"
     },
     "11182": {
         "deprecated": false,
         "Dev_Desc": "LightDamageRate",
         "id": 11182,
         "alias": "Contents.Stat.Desc.LightDamageRate",
-        "text": "给予的名属性伤害增加。"
+        "text": "造成的光属性伤害增加。"
     },
     "11183": {
         "deprecated": false,
         "Dev_Desc": "DarkDamageRate",
         "id": 11183,
         "alias": "Contents.Stat.Desc.DarkDamageRate",
-        "text": "给予的暗属性伤害增加。"
+        "text": "造成的暗属性伤害增加。"
     },
     "11184": {
         "deprecated": false,
         "Dev_Desc": "ElementDamageRate",
         "id": 11184,
         "alias": "Contents.Stat.Desc.ElementDamageRate",
-        "text": "增加所有属性伤害增幅。"
+        "text": "造成的所有属性伤害增加。"
     },
     "11185": {
         "deprecated": false,
         "Dev_Desc": "FireDamageToleranceRate",
         "id": 11185,
         "alias": "Contents.Stat.Desc.FireDamageToleranceRate",
-        "text": "接受火属性伤害减少。"
+        "text": "受到的火属性伤害减少。"
     },
     "11186": {
         "deprecated": false,
         "Dev_Desc": "WaterDamageToleranceRate",
         "id": 11186,
         "alias": "Contents.Stat.Desc.WaterDamageToleranceRate",
-        "text": "接受数属性伤害减少。"
+        "text": "受到的水属性伤害减少。"
     },
     "11187": {
         "deprecated": false,
@@ -1327,14 +1327,14 @@
         "Dev_Desc": "LightningDamageToleranceRate",
         "id": 11190,
         "alias": "Contents.Stat.Desc.LightningDamageToleranceRate",
-        "text": "受到的脑属性伤害减少。"
+        "text": "受到的电属性伤害减少。"
     },
     "11191": {
         "deprecated": false,
         "Dev_Desc": "LightDamageToleranceRate",
         "id": 11191,
         "alias": "Contents.Stat.Desc.LightDamageToleranceRate",
-        "text": "接受的名属性伤害减少。"
+        "text": "受到的光属性伤害减少。"
     },
     "11192": {
         "deprecated": false,
@@ -1348,7 +1348,7 @@
         "Dev_Desc": "ElementDamageToleranceRate",
         "id": 11193,
         "alias": "Contents.Stat.Desc.ElementDamageToleranceRate",
-        "text": "所有属性伤害耐性增加。"
+        "text": "受到的所有属性伤害减。"
     },
     "11194": {
         "deprecated": false,
