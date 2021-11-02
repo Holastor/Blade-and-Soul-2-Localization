@@ -8497,7 +8497,7 @@
     "89003577": {
         "deprecated": false,
         "id": 89003577,
-        "alias": "Contents.Item.Name.9990001",
+        "alias": "Contents.Item.Test.Name.9990001",
         "text": "외형변경권 상자"
     },
     "89003578": {
@@ -8523,6 +8523,42 @@
         "id": 89003581,
         "alias": "Contents.Item.Name.9202070",
         "text": "영웅 시즌 패스권"
+    },
+    "89003582": {
+        "deprecated": false,
+        "id": 89003582,
+        "alias": "Contents.Item.Name.9900623",
+        "text": "낡은 천의방 기념 주화: 수행자의 기도"
+    },
+    "89003583": {
+        "deprecated": false,
+        "id": 89003583,
+        "alias": "Contents.Item.Name.9900624",
+        "text": "낡은 천의방 기념 주화: 발재도"
+    },
+    "89003584": {
+        "deprecated": false,
+        "id": 89003584,
+        "alias": "Contents.Item.Name.9900625",
+        "text": "낡은 천의방 기념 주화: 무투가의 의지"
+    },
+    "89003585": {
+        "deprecated": false,
+        "id": 89003585,
+        "alias": "Contents.Item.Name.9900626",
+        "text": "낡은 천의방 기념 주화: 사막의 추적자"
+    },
+    "89003586": {
+        "deprecated": false,
+        "id": 89003586,
+        "alias": "Contents.Item.Name.9900627",
+        "text": "낡은 천의방 기념 주화: 청야"
+    },
+    "89003587": {
+        "deprecated": false,
+        "id": 89003587,
+        "alias": "Contents.Item.Name.9900628",
+        "text": "낡은 천의방 기념 주화: 귀족의 맹신"
     },
     "89003588": {
         "deprecated": false,
@@ -8733,5 +8769,629 @@
         "id": 89003622,
         "alias": "Contents.Event.Item.Name.9900663",
         "text": "달빛의 의상 주머니"
+    },
+    "89003623": {
+        "deprecated": false,
+        "id": 89003623,
+        "alias": "Contents.Event.Item.Name.9900664",
+        "text": "소풍 의상 주머니(각인)"
+    },
+    "89003624": {
+        "deprecated": false,
+        "id": 89003624,
+        "alias": "Contents.Event.Item.Name.9900665",
+        "text": "회사원 의상 주머니(각인)"
+    },
+    "89003625": {
+        "deprecated": false,
+        "id": 89003625,
+        "alias": "Contents.Event.Item.Name.9900666",
+        "text": "기인의 의상 주머니(각인)"
+    },
+    "89003626": {
+        "deprecated": false,
+        "id": 89003626,
+        "alias": "Contents.Item.Name.9900667",
+        "text": "빈 소혼의 병풍: 홍린(이벤트)"
+    },
+    "89003627": {
+        "deprecated": false,
+        "id": 89003627,
+        "alias": "Contents.Item.Name.9900668",
+        "text": "빈 소혼의 병풍: 백화렴(이벤트)"
+    },
+    "89003628": {
+        "deprecated": false,
+        "id": 89003628,
+        "alias": "Contents.Item.Name.9900669",
+        "text": "빈 소혼의 병풍: 모순학(이벤트)"
+    },
+    "89003629": {
+        "deprecated": false,
+        "id": 89003629,
+        "alias": "Contents.Item.Name.9900670",
+        "text": "빈 소혼의 병풍: 리오리노(이벤트)"
+    },
+    "89003630": {
+        "deprecated": false,
+        "id": 89003630,
+        "alias": "Contents.Item.Name.9900671",
+        "text": "빈 소혼의 병풍: 낙원대성(이벤트)"
+    },
+    "89003631": {
+        "deprecated": false,
+        "id": 89003631,
+        "alias": "Contents.Item.Name.9900672",
+        "text": "빈 소혼의 병풍: 홍린(이벤트)"
+    },
+    "89003632": {
+        "deprecated": false,
+        "id": 89003632,
+        "alias": "Contents.Item.Name.9900673",
+        "text": "빈 소혼의 병풍: 백화렴(이벤트)"
+    },
+    "89003633": {
+        "deprecated": false,
+        "id": 89003633,
+        "alias": "Contents.Item.Name.9900674",
+        "text": "빈 소혼의 병풍: 모순학(이벤트)"
+    },
+    "89003634": {
+        "deprecated": false,
+        "id": 89003634,
+        "alias": "Contents.Item.Name.9900675",
+        "text": "빈 소혼의 병풍: 리오리노(이벤트)"
+    },
+    "89003635": {
+        "deprecated": false,
+        "id": 89003635,
+        "alias": "Contents.Item.Name.9900676",
+        "text": "빈 소혼의 병풍: 낙원대성(이벤트)"
+    },
+    "89003636": {
+        "deprecated": false,
+        "id": 89003636,
+        "alias": "Contents.Item.Name.9900677",
+        "text": "소혼의 병풍: 홍린(이벤트)"
+    },
+    "89003637": {
+        "deprecated": false,
+        "id": 89003637,
+        "alias": "Contents.Item.Name.9900678",
+        "text": "소혼의 병풍: 백화렴(이벤트)"
+    },
+    "89003638": {
+        "deprecated": false,
+        "id": 89003638,
+        "alias": "Contents.Item.Name.9900679",
+        "text": "소혼의 병풍: 모순학(이벤트)"
+    },
+    "89003639": {
+        "deprecated": false,
+        "id": 89003639,
+        "alias": "Contents.Item.Name.9900680",
+        "text": "소혼의 병풍: 리오리노(이벤트)"
+    },
+    "89003640": {
+        "deprecated": false,
+        "id": 89003640,
+        "alias": "Contents.Item.Name.9900681",
+        "text": "소혼의 병풍: 낙원대성(이벤트)"
+    },
+    "89003641": {
+        "deprecated": false,
+        "id": 89003641,
+        "alias": "Contents.Item.Name.9900682",
+        "text": "소혼의 병풍: 홍린(이벤트)"
+    },
+    "89003642": {
+        "deprecated": false,
+        "id": 89003642,
+        "alias": "Contents.Item.Name.9900683",
+        "text": "소혼의 병풍: 백화렴(이벤트)"
+    },
+    "89003643": {
+        "deprecated": false,
+        "id": 89003643,
+        "alias": "Contents.Item.Name.9900684",
+        "text": "소혼의 병풍: 모순학(이벤트)"
+    },
+    "89003644": {
+        "deprecated": false,
+        "id": 89003644,
+        "alias": "Contents.Item.Name.9900685",
+        "text": "소혼의 병풍: 리오리노(이벤트)"
+    },
+    "89003645": {
+        "deprecated": false,
+        "id": 89003645,
+        "alias": "Contents.Item.Name.9900686",
+        "text": "소혼의 병풍: 낙원대성(이벤트)"
+    },
+    "89003646": {
+        "deprecated": false,
+        "id": 89003646,
+        "alias": "Contents.Item.Name.9900687",
+        "text": "캐릭터 변경권(이벤트)"
+    },
+    "89003647": {
+        "deprecated": false,
+        "id": 89003647,
+        "alias": "Contents.Item.Name.9900688",
+        "text": "소혼의 구슬"
+    },
+    "89003648": {
+        "deprecated": false,
+        "id": 89003648,
+        "alias": "Contents.Item.Name.9900689",
+        "text": "대사형의 장비 상자"
+    },
+    "89003649": {
+        "deprecated": false,
+        "id": 89003649,
+        "alias": "Contents.Item.Name.9900690",
+        "text": "희귀 소울 소환서(1회)(각인)"
+    },
+    "89003650": {
+        "deprecated": false,
+        "id": 89003650,
+        "alias": "Contents.Item.Name.9900691",
+        "text": "희귀 소울 선택 상자(1회)(각인)"
+    },
+    "89003651": {
+        "deprecated": false,
+        "id": 89003651,
+        "alias": "Contents.Item.Name.9900692",
+        "text": "영웅 소울 파편(3개) 선택 꾸러미"
+    },
+    "89003652": {
+        "deprecated": false,
+        "id": 89003652,
+        "alias": "Contents.Item.Name.9900693",
+        "text": "희귀 수호령 확정 소환서(1회)(각인)"
+    },
+    "89003653": {
+        "deprecated": false,
+        "id": 89003653,
+        "alias": "Contents.Item.Name.9900694",
+        "text": "천의방 특별 주화"
+    },
+    "89003654": {
+        "deprecated": false,
+        "id": 89003654,
+        "alias": "Contents.Item.Name.9900695",
+        "text": "평범한 천의방 기념 주화: 짙은 밤의 청야"
+    },
+    "89003655": {
+        "deprecated": false,
+        "id": 89003655,
+        "alias": "Contents.Item.Name.9900696",
+        "text": "평범한 천의방 기념 주화: 귀족의 진노"
+    },
+    "89003656": {
+        "deprecated": false,
+        "id": 89003656,
+        "alias": "Contents.Item.Name.9900697",
+        "text": "평범한 천의방 기념 주화: 무투가의 신념"
+    },
+    "89003657": {
+        "deprecated": false,
+        "id": 89003657,
+        "alias": "Contents.Item.Name.9900698",
+        "text": "평범한 천의방 기념 주화: 수행자의 수양"
+    },
+    "89003658": {
+        "deprecated": false,
+        "id": 89003658,
+        "alias": "Contents.Item.Name.9900699",
+        "text": "평범한 천의방 기념 주화: 쾌속의 발재도"
+    },
+    "89003659": {
+        "deprecated": false,
+        "id": 89003659,
+        "alias": "Contents.Item.Name.9900700",
+        "text": "평범한 천의방 기념 주화: 바다의 추적자"
+    },
+    "89003660": {
+        "deprecated": false,
+        "id": 89003660,
+        "alias": "Contents.Item.Name.9900701",
+        "text": "평범한 천의방 기념 주화: 설원의 안식"
+    },
+    "89003661": {
+        "deprecated": false,
+        "id": 89003661,
+        "alias": "Contents.Item.Name.9900702",
+        "text": "평범한 천의방 기념 주화: 광야의 사냥꾼"
+    },
+    "89003662": {
+        "deprecated": false,
+        "id": 89003662,
+        "alias": "Contents.Item.Name.9900703",
+        "text": "평범한 천의방 기념 주화: 강적"
+    },
+    "89003664": {
+        "deprecated": false,
+        "id": 89003664,
+        "alias": "Contents.Item.Name.9900705",
+        "text": "평범한 천의방 기념 주화: 자신감"
+    },
+    "89003665": {
+        "deprecated": false,
+        "id": 89003665,
+        "alias": "Contents.Item.Name.9900706",
+        "text": "평범한 천의방 기념 주화: 천년의 서약"
+    },
+    "89003666": {
+        "deprecated": false,
+        "id": 89003666,
+        "alias": "Contents.Item.Name.9900707",
+        "text": "평범한 천의방 기념 주화: 물빛 퇴마사"
+    },
+    "89003667": {
+        "deprecated": false,
+        "id": 89003667,
+        "alias": "Contents.Item.Name.9900708",
+        "text": "빛나는 천의방 기념 주화: 심연의 강적"
+    },
+    "89003668": {
+        "deprecated": false,
+        "id": 89003668,
+        "alias": "Contents.Item.Name.9900709",
+        "text": "빛나는 천의방 기념 주화: 역천의 회귀"
+    },
+    "89003669": {
+        "deprecated": false,
+        "id": 89003669,
+        "alias": "Contents.Item.Name.9900710",
+        "text": "빛나는 천의방 기념 주화: 찬란한 긍지"
+    },
+    "89003670": {
+        "deprecated": false,
+        "id": 89003670,
+        "alias": "Contents.Item.Name.9900711",
+        "text": "빛나는 천의방 기념 주화: 백야의 안식"
+    },
+    "89003671": {
+        "deprecated": false,
+        "id": 89003671,
+        "alias": "Contents.Item.Name.9900712",
+        "text": "빛나는 천의방 기념 주화: 북극의 사냥꾼"
+    },
+    "89003672": {
+        "deprecated": false,
+        "id": 89003672,
+        "alias": "Contents.Item.Name.9900713",
+        "text": "빛나는 천의방 기념 주화: 새벽의 달"
+    },
+    "89003673": {
+        "deprecated": false,
+        "id": 89003673,
+        "alias": "Contents.Item.Name.9900714",
+        "text": "빛나는 천의방 기념 주화: 어린 왕자"
+    },
+    "89003674": {
+        "deprecated": false,
+        "id": 89003674,
+        "alias": "Contents.Item.Name.9900715",
+        "text": "빛나는 천의방 기념 주화: 숲 속의 어린왕자"
+    },
+    "89003675": {
+        "deprecated": false,
+        "id": 89003675,
+        "alias": "Contents.Item.Name.9900716",
+        "text": "빛나는 천의방 기념 주화: 학창시절"
+    },
+    "89003676": {
+        "deprecated": false,
+        "id": 89003676,
+        "alias": "Contents.Item.Name.9900717",
+        "text": "빛나는 천의방 기념 주화: 학생회"
+    },
+    "89003677": {
+        "deprecated": false,
+        "id": 89003677,
+        "alias": "Contents.Item.Name.9900718",
+        "text": "빛나는 천의방 기념 주화: 봄 나들이"
+    },
+    "89003678": {
+        "deprecated": false,
+        "id": 89003678,
+        "alias": "Contents.Item.Name.9900719",
+        "text": "빛나는 천의방 기념 주화: 여름 나들이"
+    },
+    "89003679": {
+        "deprecated": false,
+        "id": 89003679,
+        "alias": "Contents.Item.Name.9900720",
+        "text": "빛나는 천의방 기념 주화: 해변의 오후"
+    },
+    "89003680": {
+        "deprecated": false,
+        "id": 89003680,
+        "alias": "Contents.Item.Name.9900721",
+        "text": "빛나는 천의방 기념 주화: 해변의 석양"
+    },
+    "89003681": {
+        "deprecated": false,
+        "id": 89003681,
+        "alias": "Contents.Item.Name.9900722",
+        "text": "빛나는 천의방 기념 주화: 해군"
+    },
+    "89003682": {
+        "deprecated": false,
+        "id": 89003682,
+        "alias": "Contents.Item.Name.9900723",
+        "text": "빛나는 천의방 기념 주화: 회색 바다의 해군"
+    },
+    "89003683": {
+        "deprecated": false,
+        "id": 89003683,
+        "alias": "Contents.Item.Name.9900724",
+        "text": "빛나는 천의방 기념 주화: 여름 바람"
+    },
+    "89003684": {
+        "deprecated": false,
+        "id": 89003684,
+        "alias": "Contents.Item.Name.9900725",
+        "text": "빛나는 천의방 기념 주화: 별의 시간"
+    },
+    "89003685": {
+        "deprecated": false,
+        "id": 89003685,
+        "alias": "Contents.Item.Name.9900726",
+        "text": "화려한 천의방 기념 주화: 굳건한 투지"
+    },
+    "89003686": {
+        "deprecated": false,
+        "id": 89003686,
+        "alias": "Contents.Item.Name.9900727",
+        "text": "화려한 천의방 기념 주화: 전장의 폭풍"
+    },
+    "89003687": {
+        "deprecated": false,
+        "id": 89003687,
+        "alias": "Contents.Item.Name.9900728",
+        "text": "화려한 천의방 기념 주화: 새벽의 만월"
+    },
+    "89003688": {
+        "deprecated": false,
+        "id": 89003688,
+        "alias": "Contents.Item.Name.9900729",
+        "text": "화려한 천의방 기념 주화: 사랑의 어린왕자"
+    },
+    "89003689": {
+        "deprecated": false,
+        "id": 89003689,
+        "alias": "Contents.Item.Name.9900730",
+        "text": "화려한 천의방 기념 주화: 열혈의 어린왕자"
+    },
+    "89003690": {
+        "deprecated": false,
+        "id": 89003690,
+        "alias": "Contents.Item.Name.9900731",
+        "text": "화려한 천의방 기념 주화: 선도부"
+    },
+    "89003691": {
+        "deprecated": false,
+        "id": 89003691,
+        "alias": "Contents.Item.Name.9900732",
+        "text": "화려한 천의방 기념 주화: 방송부"
+    },
+    "89003692": {
+        "deprecated": false,
+        "id": 89003692,
+        "alias": "Contents.Item.Name.9900733",
+        "text": "화려한 천의방 기념 주화: 가을 나들이"
+    },
+    "89003693": {
+        "deprecated": false,
+        "id": 89003693,
+        "alias": "Contents.Item.Name.9900734",
+        "text": "화려한 천의방 기념 주화: 겨울 나들이"
+    },
+    "89003694": {
+        "deprecated": false,
+        "id": 89003694,
+        "alias": "Contents.Item.Name.9900735",
+        "text": "화려한 천의방 기념 주화: 해변의 밤"
+    },
+    "89003695": {
+        "deprecated": false,
+        "id": 89003695,
+        "alias": "Contents.Item.Name.9900736",
+        "text": "화려한 천의방 기념 주화: 해변의 아침"
+    },
+    "89003696": {
+        "deprecated": false,
+        "id": 89003696,
+        "alias": "Contents.Item.Name.9900737",
+        "text": "화려한 천의방 기념 주화: 흑해의 해군"
+    },
+    "89003697": {
+        "deprecated": false,
+        "id": 89003697,
+        "alias": "Contents.Item.Name.9900738",
+        "text": "화려한 천의방 기념 주화: 붉은 바다의 해군"
+    },
+    "89003698": {
+        "deprecated": false,
+        "id": 89003698,
+        "alias": "Contents.Item.Name.9900739",
+        "text": "화려한 천의방 기념 주화: 한 여름의 축제"
+    },
+    "89003699": {
+        "deprecated": false,
+        "id": 89003699,
+        "alias": "Contents.Item.Name.9900740",
+        "text": "화려한 천의방 기념 주화: 봄의 축제"
+    },
+    "89003700": {
+        "deprecated": false,
+        "id": 89003700,
+        "alias": "Contents.Item.Name.9900741",
+        "text": "화려한 천의방 기념 주화: 백귀혼"
+    },
+    "89003701": {
+        "deprecated": false,
+        "id": 89003701,
+        "alias": "Contents.Item.Name.9900742",
+        "text": "화려한 천의방 기념 주화: 흑귀혼"
+    },
+    "89003702": {
+        "deprecated": false,
+        "id": 89003702,
+        "alias": "Contents.Item.Name.9900743",
+        "text": "화려한 천의방 기념 주화: 무의 구도자"
+    },
+    "89003703": {
+        "deprecated": false,
+        "id": 89003703,
+        "alias": "Contents.Item.Name.9900744",
+        "text": "화려한 천의방 기념 주화: 영광의 날개"
+    },
+    "89003704": {
+        "deprecated": false,
+        "id": 89003704,
+        "alias": "Contents.Item.Name.9900745",
+        "text": "화려한 천의방 기념 주화: 고귀한 의무"
+    },
+    "89003705": {
+        "deprecated": false,
+        "id": 89003705,
+        "alias": "Contents.Item.Name.9900746",
+        "text": "영롱한 천의방 기념 주화: 잊혀진 약속"
+    },
+    "89003706": {
+        "deprecated": false,
+        "id": 89003706,
+        "alias": "Contents.Item.Name.9900747",
+        "text": "영롱한 천의방 기념 주화: 초열의 아수라"
+    },
+    "89003707": {
+        "deprecated": false,
+        "id": 89003707,
+        "alias": "Contents.Item.Name.9900748",
+        "text": "영롱한 천의방 기념 주화: 진혼의 노래"
+    },
+    "89003708": {
+        "deprecated": false,
+        "id": 89003708,
+        "alias": "Contents.Item.Name.9900749",
+        "text": "영롱한 천의방 기념 주화: 하얀 노을"
+    },
+    "89003709": {
+        "deprecated": false,
+        "id": 89003709,
+        "alias": "Contents.Item.Name.9900750",
+        "text": "영롱한 천의방 기념 주화: 겨울의 축제"
+    },
+    "89003710": {
+        "deprecated": false,
+        "id": 89003710,
+        "alias": "Contents.Item.Name.9900751",
+        "text": "영롱한 천의방 기념 주화: 가을의 축제"
+    },
+    "89003711": {
+        "deprecated": false,
+        "id": 89003711,
+        "alias": "Contents.Item.Name.9900752",
+        "text": "영롱한 천의방 기념 주화: 적귀혼"
+    },
+    "89003712": {
+        "deprecated": false,
+        "id": 89003712,
+        "alias": "Contents.Item.Name.9900753",
+        "text": "영롱한 천의방 기념 주화: 금귀혼"
+    },
+    "89003713": {
+        "deprecated": false,
+        "id": 89003713,
+        "alias": "Contents.Item.Name.9900754",
+        "text": "영롱한 천의방 기념 주화: 백야의 귀도사"
+    },
+    "89003714": {
+        "deprecated": false,
+        "id": 89003714,
+        "alias": "Contents.Item.Name.9900755",
+        "text": "찬란한 천의방 기념 주화: 긍지"
+    },
+    "89003715": {
+        "deprecated": false,
+        "id": 89003715,
+        "alias": "Contents.Item.Name.9900756",
+        "text": "찬란한 천의방 기념 주화: 투지"
+    },
+    "89003716": {
+        "deprecated": false,
+        "id": 89003716,
+        "alias": "Contents.Item.Name.9900757",
+        "text": "찬란한 천의방 기념 주화: 전장의 유성"
+    },
+    "89003717": {
+        "deprecated": false,
+        "id": 89003717,
+        "alias": "Contents.Item.Name.9900758",
+        "text": "찬란한 천의방 기념 주화: 홍염의 노래"
+    },
+    "89003718": {
+        "deprecated": false,
+        "id": 89003718,
+        "alias": "Contents.Item.Name.9900759",
+        "text": "찬란한 천의방 기념 주화: 노을"
+    },
+    "89003719": {
+        "deprecated": false,
+        "id": 89003719,
+        "alias": "Contents.Item.Name.9900760",
+        "text": "찬란한 천의방 기념 주화: 아수라"
+    },
+    "89003720": {
+        "deprecated": false,
+        "id": 89003720,
+        "alias": "Contents.Event.Item.Name.9900761",
+        "text": "문파 의상 주머니(각인)"
+    },
+    "89003721": {
+        "deprecated": false,
+        "id": 89003721,
+        "alias": "Contents.Event.Item.Name.9900762",
+        "text": "충전석 선택 상자(이벤트)"
+    },
+    "89003722": {
+        "deprecated": false,
+        "id": 89003722,
+        "alias": "Contents.Item.Name.9900763",
+        "text": "동충 소울 파편(각인)"
+    },
+    "89003723": {
+        "deprecated": false,
+        "id": 89003723,
+        "alias": "Contents.Item.Name.9900764",
+        "text": "수호병 대장 소울 파편(각인)"
+    },
+    "89003724": {
+        "deprecated": false,
+        "id": 89003724,
+        "alias": "Contents.Item.Name.9900765",
+        "text": "초령목 소울 파편(각인)"
+    },
+    "89003725": {
+        "deprecated": false,
+        "id": 89003725,
+        "alias": "Contents.Item.Name.9900766",
+        "text": "우두머리 두억시니 소울 파편(각인)"
+    },
+    "89003726": {
+        "deprecated": false,
+        "id": 89003726,
+        "alias": "Contents.Item.Name.9900767",
+        "text": "폭주 수호병 대장 소울 파편(각인)"
+    },
+    "89003727": {
+        "deprecated": false,
+        "id": 89003727,
+        "alias": "Contents.Item.Name.9900768",
+        "text": "홍돈삼 소울 파편(각인)"
     }
 }

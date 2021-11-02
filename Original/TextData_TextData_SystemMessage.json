@@ -7136,5 +7136,110 @@
         "id": 9001081,
         "alias": "SysM.Market.Sale.NoHave",
         "text": "존재하지 않는 물품입니다."
+    },
+    "9001082": {
+        "deprecated": false,
+        "Dev_Desc": "상점 / 구매 조건 / 캐릭터 레벨 / 미달성",
+        "id": 9001082,
+        "alias": "SysM.Shop.RegistFail.LackLevel",
+        "text": "캐릭터 레벨이 부족하여 구매할 수 없습니다."
+    },
+    "9001083": {
+        "deprecated": false,
+        "Dev_Desc": "상점 / 구매 조건 / 문파 레벨 / 미달성",
+        "id": 9001083,
+        "alias": "SysM.Shop.RegistFail.LackGuildLevel",
+        "text": "문파 레벨이 부족하여 구매할 수 없습니다."
+    },
+    "9001084": {
+        "deprecated": false,
+        "Dev_Desc": "상점 / 구매 조건 / 문파 직위 / 미달성",
+        "id": 9001084,
+        "alias": "SysM.Shop.RegistFail.MemberGrade",
+        "text": "문파 직위가 충족되지 않아 구매할 수 없습니다."
+    },
+    "9001085": {
+        "deprecated": false,
+        "Dev_Desc": "상점 / 구매 조건 갱신 / 미달성",
+        "id": 9001085,
+        "alias": "SysM.Shop.RegistRenew",
+        "text": "장바구니 수량이 변경되었습니다."
+    },
+    "9001086": {
+        "deprecated": false,
+        "Dev_Desc": "저장 완료 토스트 메세지",
+        "id": 9001086,
+        "alias": "SysM.Lobby.ChangeAppearance.Save",
+        "text": "편집중인 외형이 저장되었습니다."
+    },
+    "9001087": {
+        "deprecated": false,
+        "Dev_Desc": "외형 변경 토스트 메세지",
+        "id": 9001087,
+        "alias": "SysM.Lobby.ChangeAppearance.Done",
+        "text": "캐릭터 외형이 변경되었습니다."
+    },
+    "9001088": {
+        "deprecated": false,
+        "Dev_Desc": "불러오기 불가 토스트 메세지",
+        "id": 9001088,
+        "alias": "SysM.Lobby.ChangeAppearance.Load.Fail",
+        "text": "저장된 편집 내용이 없습니다."
+    },
+    "9001089": {
+        "deprecated": false,
+        "Dev_Desc": "협행 / 즉시 완료 실패 / 금화 부족",
+        "id": 9001089,
+        "alias": "SysM.BulletinQuest.ImmediatelyDoneFail.1",
+        "text": "금화가 부족하여 협행을 즉시완료 할 수 없습니다."
+    },
+    "9001090": {
+        "deprecated": false,
+        "Dev_Desc": "협행 / 즉시 완료 실패 / 아이템 부족",
+        "id": 9001090,
+        "alias": "SysM.BulletinQuest.ImmediatelyDoneFail.2",
+        "text": "<arg p=[1:string]/><ga/> 부족하여 협행을 즉시완료 할 수 없습니다."
+    },
+    "9001091": {
+        "deprecated": false,
+        "Dev_Desc": "협행 / 즉시 완료 실패 / 신석 부족",
+        "id": 9001091,
+        "alias": "SysM.BulletinQuest.ImmediatelyDoneFail.3",
+        "text": "신석이 부족하여 협행을 즉시완료 할 수 없습니다."
+    },
+    "9001092": {
+        "deprecated": false,
+        "Dev_Desc": "문파 장원 입장 불가",
+        "id": 9001092,
+        "alias": "SysM.Guild.Error.Restricted.GuildHouse",
+        "text": "문파 가입 후 수요일 오전 5시가 지나야 입장할 수 있습니다."
+    },
+    "9001093": {
+        "deprecated": false,
+        "Dev_Desc": "브로드캐스팅 / 익명의 용사",
+        "id": 9001093,
+        "alias": "SysM.Broadcasting.NameHidden",
+        "text": "익명의 용사"
+    },
+    "9001094": {
+        "deprecated": false,
+        "Dev_Desc": "환경설정 / 멀티 디바이스 푸시 온오프 불가",
+        "id": 9001094,
+        "alias": "SysM.Option.Push.MultipleDeviceError",
+        "text": "멀티 플레이 계정에서는 푸시 알림을 설정할 수 없습니다."
+    },
+    "9001095": {
+        "deprecated": false,
+        "Dev_Desc": "문파 장원 입장 불가 / 문파장",
+        "id": 9001095,
+        "alias": "SysM.Guild.Error.Restricted.GuildHouse.GuildLeader",
+        "text": "문파 창설 후 수요일 오전 5시가 지나야 입장할 수 있습니다."
+    },
+    "9001096": {
+        "deprecated": false,
+        "Dev_Desc": "외형 변경점이 없는 경우 안내 메시지",
+        "id": 9001096,
+        "alias": "SysM.Lobby.ChangeAppearance.Fail",
+        "text": "변경 사항이 없습니다."
     }
 }
