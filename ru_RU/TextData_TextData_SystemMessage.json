@@ -7136,5 +7136,110 @@
         "id": 9001081,
         "alias": "SysM.Market.Sale.NoHave",
         "text": "Этого предмета не существует."
+    },
+    "9001082": {
+        "deprecated": false,
+        "Dev_Desc": "상점 / 구매 조건 / 캐릭터 레벨 / 미달성",
+        "id": 9001082,
+        "alias": "SysM.Shop.RegistFail.LackLevel",
+        "text": "Невозможно совершить покупку из-за недостаточного уровня персонажа."
+    },
+    "9001083": {
+        "deprecated": false,
+        "Dev_Desc": "상점 / 구매 조건 / 문파 레벨 / 미달성",
+        "id": 9001083,
+        "alias": "SysM.Shop.RegistFail.LackGuildLevel",
+        "text": "Невозможно приобрести из-за недостаточного уровня клана."
+    },
+    "9001084": {
+        "deprecated": false,
+        "Dev_Desc": "상점 / 구매 조건 / 문파 직위 / 미달성",
+        "id": 9001084,
+        "alias": "SysM.Shop.RegistFail.MemberGrade",
+        "text": "Невозможно совершить покупку из-за неудовлетворенной позиции в клане."
+    },
+    "9001085": {
+        "deprecated": false,
+        "Dev_Desc": "상점 / 구매 조건 갱신 / 미달성",
+        "id": 9001085,
+        "alias": "SysM.Shop.RegistRenew",
+        "text": "Количество в вашей корзине изменилось."
+    },
+    "9001086": {
+        "deprecated": false,
+        "Dev_Desc": "저장 완료 토스트 메세지",
+        "id": 9001086,
+        "alias": "SysM.Lobby.ChangeAppearance.Save",
+        "text": "Внешний вид, который вы редактируете, сохранен."
+    },
+    "9001087": {
+        "deprecated": false,
+        "Dev_Desc": "외형 변경 토스트 메세지",
+        "id": 9001087,
+        "alias": "SysM.Lobby.ChangeAppearance.Done",
+        "text": "Внешний вид персонажа изменен."
+    },
+    "9001088": {
+        "deprecated": false,
+        "Dev_Desc": "불러오기 불가 토스트 메세지",
+        "id": 9001088,
+        "alias": "SysM.Lobby.ChangeAppearance.Load.Fail",
+        "text": "Никакие изменения не сохранены."
+    },
+    "9001089": {
+        "deprecated": false,
+        "Dev_Desc": "협행 / 즉시 완료 실패 / 금화 부족",
+        "id": 9001089,
+        "alias": "SysM.BulletinQuest.ImmediatelyDoneFail.1",
+        "text": "Вы не можете завершить кооператив сразу, потому что у вас недостаточно золотых монет."
+    },
+    "9001090": {
+        "deprecated": false,
+        "Dev_Desc": "협행 / 즉시 완료 실패 / 아이템 부족",
+        "id": 9001090,
+        "alias": "SysM.BulletinQuest.ImmediatelyDoneFail.2",
+        "text": "Недостаточно <arg p = [1: string] /> <ga /> для немедленного завершения совместной работы."
+    },
+    "9001091": {
+        "deprecated": false,
+        "Dev_Desc": "협행 / 즉시 완료 실패 / 신석 부족",
+        "id": 9001091,
+        "alias": "SysM.BulletinQuest.ImmediatelyDoneFail.3",
+        "text": "Вы не можете завершить сотрудничество немедленно, потому что не хватает камней богов."
+    },
+    "9001092": {
+        "deprecated": false,
+        "Dev_Desc": "문파 장원 입장 불가",
+        "id": 9001092,
+        "alias": "SysM.Guild.Error.Restricted.GuildHouse",
+        "text": "После присоединения к Мунпе вы можете войти только после 5 часов утра в среду."
+    },
+    "9001093": {
+        "deprecated": false,
+        "Dev_Desc": "브로드캐스팅 / 익명의 용사",
+        "id": 9001093,
+        "alias": "SysM.Broadcasting.NameHidden",
+        "text": "Анонимный чемпион"
+    },
+    "9001094": {
+        "deprecated": false,
+        "Dev_Desc": "환경설정 / 멀티 디바이스 푸시 온오프 불가",
+        "id": 9001094,
+        "alias": "SysM.Option.Push.MultipleDeviceError",
+        "text": "Вы не можете настроить push-уведомления для многопользовательских учетных записей."
+    },
+    "9001095": {
+        "deprecated": false,
+        "Dev_Desc": "문파 장원 입장 불가 / 문파장",
+        "id": 9001095,
+        "alias": "SysM.Guild.Error.Restricted.GuildHouse.GuildLeader",
+        "text": "После основания Мунпа войти можно только после 5 часов утра в среду."
+    },
+    "9001096": {
+        "deprecated": false,
+        "Dev_Desc": "외형 변경점이 없는 경우 안내 메시지",
+        "id": 9001096,
+        "alias": "SysM.Lobby.ChangeAppearance.Fail",
+        "text": "Никаких изменений не было сделано."
     }
 }

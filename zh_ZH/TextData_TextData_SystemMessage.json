@@ -7136,5 +7136,110 @@
         "id": 9001081,
         "alias": "SysM.Market.Sale.NoHave",
         "text": "“此项目不存在。”"
+    },
+    "9001082": {
+        "deprecated": false,
+        "Dev_Desc": "상점 / 구매 조건 / 캐릭터 레벨 / 미달성",
+        "id": 9001082,
+        "alias": "SysM.Shop.RegistFail.LackLevel",
+        "text": "“由于角色等级不足，您无法购买。”"
+    },
+    "9001083": {
+        "deprecated": false,
+        "Dev_Desc": "상점 / 구매 조건 / 문파 레벨 / 미달성",
+        "id": 9001083,
+        "alias": "SysM.Shop.RegistFail.LackGuildLevel",
+        "text": "“由于氏族等级不足，无法购买。”"
+    },
+    "9001084": {
+        "deprecated": false,
+        "Dev_Desc": "상점 / 구매 조건 / 문파 직위 / 미달성",
+        "id": 9001084,
+        "alias": "SysM.Shop.RegistFail.MemberGrade",
+        "text": "“由于对氏族地位不满意，无法购买。”"
+    },
+    "9001085": {
+        "deprecated": false,
+        "Dev_Desc": "상점 / 구매 조건 갱신 / 미달성",
+        "id": 9001085,
+        "alias": "SysM.Shop.RegistRenew",
+        "text": "“您的购物车数量已更改。”"
+    },
+    "9001086": {
+        "deprecated": false,
+        "Dev_Desc": "저장 완료 토스트 메세지",
+        "id": 9001086,
+        "alias": "SysM.Lobby.ChangeAppearance.Save",
+        "text": "“您正在编辑的外观已保存。”"
+    },
+    "9001087": {
+        "deprecated": false,
+        "Dev_Desc": "외형 변경 토스트 메세지",
+        "id": 9001087,
+        "alias": "SysM.Lobby.ChangeAppearance.Done",
+        "text": "“角色外观已更改。”"
+    },
+    "9001088": {
+        "deprecated": false,
+        "Dev_Desc": "불러오기 불가 토스트 메세지",
+        "id": 9001088,
+        "alias": "SysM.Lobby.ChangeAppearance.Load.Fail",
+        "text": "“没有保存任何编辑。”"
+    },
+    "9001089": {
+        "deprecated": false,
+        "Dev_Desc": "협행 / 즉시 완료 실패 / 금화 부족",
+        "id": 9001089,
+        "alias": "SysM.BulletinQuest.ImmediatelyDoneFail.1",
+        "text": "“你不能立即完成合作，因为你没有足够的金币。”"
+    },
+    "9001090": {
+        "deprecated": false,
+        "Dev_Desc": "협행 / 즉시 완료 실패 / 아이템 부족",
+        "id": 9001090,
+        "alias": "SysM.BulletinQuest.ImmediatelyDoneFail.2",
+        "text": "“没有足够的 <arg p=[1:string]/><ga/> 来立即完成合作。”"
+    },
+    "9001091": {
+        "deprecated": false,
+        "Dev_Desc": "협행 / 즉시 완료 실패 / 신석 부족",
+        "id": 9001091,
+        "alias": "SysM.BulletinQuest.ImmediatelyDoneFail.3",
+        "text": "“你不能马上完成合作，因为神石不够。”"
+    },
+    "9001092": {
+        "deprecated": false,
+        "Dev_Desc": "문파 장원 입장 불가",
+        "id": 9001092,
+        "alias": "SysM.Guild.Error.Restricted.GuildHouse",
+        "text": "“加入门派后，只能在周三凌晨5点之后进入。”"
+    },
+    "9001093": {
+        "deprecated": false,
+        "Dev_Desc": "브로드캐스팅 / 익명의 용사",
+        "id": 9001093,
+        "alias": "SysM.Broadcasting.NameHidden",
+        "text": "“匿名冠军”"
+    },
+    "9001094": {
+        "deprecated": false,
+        "Dev_Desc": "환경설정 / 멀티 디바이스 푸시 온오프 불가",
+        "id": 9001094,
+        "alias": "SysM.Option.Push.MultipleDeviceError",
+        "text": "“您不能在多人帐户上设置推送通知。”"
+    },
+    "9001095": {
+        "deprecated": false,
+        "Dev_Desc": "문파 장원 입장 불가 / 문파장",
+        "id": 9001095,
+        "alias": "SysM.Guild.Error.Restricted.GuildHouse.GuildLeader",
+        "text": "“Munpa成立后，只能在周三凌晨5点之后进入。”"
+    },
+    "9001096": {
+        "deprecated": false,
+        "Dev_Desc": "외형 변경점이 없는 경우 안내 메시지",
+        "id": 9001096,
+        "alias": "SysM.Lobby.ChangeAppearance.Fail",
+        "text": "“没有做出任何改变。”"
     }
 }

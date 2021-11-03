@@ -23031,5 +23031,481 @@
         "id": 8003372,
         "alias": "UI.Craft.LeftSubTabName.Event.MoonlightBox_01",
         "text": "Shining Moonlight Box"
+    },
+    "8003373": {
+        "deprecated": false,
+        "Dev_Desc": "소지품 / 소지품 타이틀",
+        "id": 8003373,
+        "alias": "UI.Stash.TitleName.Inventory",
+        "text": "belongings"
+    },
+    "8003374": {
+        "deprecated": false,
+        "Dev_Desc": "협행 / 즉시완료 / 즉시완료 버튼",
+        "id": 8003374,
+        "alias": "UI.Bulletin.ButtonName.ImmediatelyDone",
+        "text": "Immediate completion"
+    },
+    "8003375": {
+        "deprecated": false,
+        "Dev_Desc": "협행 / 즉시완료 / 즉시완료 팝업 설명",
+        "id": 8003375,
+        "alias": "UI.Bulletin.Popup.Desc",
+        "text": "Are you sure you want to complete the collaboration immediately?"
+    },
+    "8003376": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 횟수 정보 / 기본",
+        "id": 8003376,
+        "alias": "UI.Dungeon.BasicCount",
+        "text": "Default Count"
+    },
+    "8003377": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 횟수 정보 / 충전",
+        "id": 8003377,
+        "alias": "UI.Dungeon.ChargeCount",
+        "text": "Number of Charges"
+    },
+    "8003378": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 횟수 정보",
+        "id": 8003378,
+        "alias": "UI.Dungeon.RemainCount.1",
+        "text": "<arg p=[1:integer]/> times"
+    },
+    "8003379": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 탭 / 시간제 던전",
+        "id": 8003379,
+        "alias": "UI.Dungeon.Tap.BasicDungeon",
+        "text": "Timed Dungeon"
+    },
+    "8003380": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 탭 / 1인 던전",
+        "id": 8003380,
+        "alias": "UI.Dungeon.Tap.SoloDungeon",
+        "text": "Single Dungeon"
+    },
+    "8003381": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 횟수 충전 팝업 / 타이틀",
+        "id": 8003381,
+        "alias": "UI.Dungeon.Popup.Title.Count",
+        "text": "Charge number of times"
+    },
+    "8003382": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 횟수 충전 팝업 / 충전 횟수",
+        "id": 8003382,
+        "alias": "UI.Dungeon.Popup.ChargeCount",
+        "text": " <arg p=[1:integer]/> times"
+    },
+    "8003383": {
+        "deprecated": false,
+        "Dev_Desc": "이벤트 제작 레시피 탭 / 스타일 위크",
+        "id": 8003383,
+        "alias": "UI.Craft.LeftSubTabName.Event.StyleWeek_01",
+        "text": "Style Week"
+    },
+    "8003384": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 탭 / 미니맵 표시",
+        "id": 8003384,
+        "alias": "UI.Dungeon.RemainCountHUD.1",
+        "text": "Remaining number of uses <arg p=[1:integer]/>"
+    },
+    "8003385": {
+        "deprecated": false,
+        "Dev_Desc": "로비 외형 변경",
+        "id": 8003385,
+        "alias": "UI.Lobby.changeAppearance.Button",
+        "text": "Character Change"
+    },
+    "8003386": {
+        "deprecated": false,
+        "Dev_Desc": "캐시상점 / 메인 탭 / 서버 이전",
+        "id": 8003386,
+        "alias": "UI.CashShop.TapName.Main.HeroTransfer",
+        "text": "Server Migration"
+    },
+    "8003387": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 서버 이전 확인 / 타이틀",
+        "id": 8003387,
+        "alias": "UI.HeroTransfer.TransferCheck.Title",
+        "text": "Character Server Migration"
+    },
+    "8003388": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 서버 이전 확인 / 주의사항",
+        "id": 8003388,
+        "alias": "UI.HeroTransfer.TransferCheck.Warning",
+        "text": "caution"
+    },
+    "8003389": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 서버 이전 확인 / 설명",
+        "id": 8003389,
+        "alias": "UI.HeroTransfer.TransferCheck.Desc",
+        "text": "Check whether server migration is possible."
+    },
+    "8003390": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 서버 이전 확인 / 서버 확인 버튼",
+        "id": 8003390,
+        "alias": "UI.HeroTransfer.TransferCheck.Button",
+        "text": "Check Server Migration"
+    },
+    "8003391": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 서버 이전 확인 / 서버 이전 기간 아님",
+        "id": 8003391,
+        "alias": "UI.HeroTransfer.TransferCheck.PeriodGuide",
+        "text": "It's not a purchase period."
+    },
+    "8003392": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 서버 이전 확인 / 아웃 쿼터 만족",
+        "id": 8003392,
+        "alias": "UI.HeroTransfer.TransferCheck.Confirm.01",
+        "text": "Server transfer application has been activated."
+    },
+    "8003393": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 서버 이전 확인 / 아웃 쿼터 만족",
+        "id": 8003393,
+        "alias": "UI.HeroTransfer.TransferCheck.Confirm.02",
+        "text": "Server migration verification completed."
+    },
+    "8003394": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 서버 이전 확인 / 아웃 쿼터 불만족",
+        "id": 8003394,
+        "alias": "UI.HeroTransfer.TransferCheck.Popup.Desc.01",
+        "text": "The current server transfer is not possible."
+    },
+    "8003395": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 서버 이전 확인 / 불만족 사유",
+        "id": 8003395,
+        "alias": "UI.HeroTransfer.TransferCheck.Popup.Desc.02",
+        "text": "Exceeded transfer capacity"
+    },
+    "8003396": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 팝업 공통 / 확인",
+        "id": 8003396,
+        "alias": "UI.HeroTransfer.Popup.Button.Confirm",
+        "text": "Confirm"
+    },
+    "8003397": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 서버 선택 / 타이틀",
+        "id": 8003397,
+        "alias": "UI.HeroTransfer.ChoiceServer.Title",
+        "text": "Select Server"
+    },
+    "8003398": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 서버 선택 / 설명",
+        "id": 8003398,
+        "alias": "UI.HeroTransfer.ChoiceServer.Desc.01",
+        "text": "Please select a server to which the character will transfer."
+    },
+    "8003399": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 서버 선택 / 설명",
+        "id": 8003399,
+        "alias": "UI.HeroTransfer.ChoiceServer.Desc.02",
+        "text": "Servers that cannot be transferred are not displayed in the server list."
+    },
+    "8003400": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 서버 선택 / 기본 텍스트",
+        "id": 8003400,
+        "alias": "UI.HeroTransfer.ChoiceServer.DefaultText",
+        "text": "Please select a server."
+    },
+    "8003401": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 서버 선택 / 버튼",
+        "id": 8003401,
+        "alias": "UI.HeroTransfer.ChoiceServer.Button",
+        "text": "Select Server"
+    },
+    "8003402": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 조건 확인 / 타이틀",
+        "id": 8003402,
+        "alias": "UI.HeroTransfer.Condition.Title",
+        "text": "Server Transfer Conditions"
+    },
+    "8003403": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 조건 확인 / 슬롯",
+        "id": 8003403,
+        "alias": "UI.HeroTransfer.Condition.Slot.Condition",
+        "text": "Character remaining slots on the server to be transferred"
+    },
+    "8003404": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 조건 확인 / 서버 선택 필요",
+        "id": 8003404,
+        "alias": "UI.HeroTransfer.Condition.Slot.No.01",
+        "text": "No server has been selected to migrate."
+    },
+    "8003405": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 조건 확인 / 이전 조건 만족",
+        "id": 8003405,
+        "alias": "UI.HeroTransfer.Condition.OK",
+        "text": "Transferable"
+    },
+    "8003406": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 조건 확인 / 문파",
+        "id": 8003406,
+        "alias": "UI.HeroTransfer.Condition.Guild.Condition",
+        "text": "Join the Munpa"
+    },
+    "8003407": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 조건 확인 / 문파 탈퇴 필요",
+        "id": 8003407,
+        "alias": "UI.HeroTransfer.Condition.Guild.No.01",
+        "text": "You are a member of the Munpa."
+    },
+    "8003408": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 조건 확인 / 거래소",
+        "id": 8003408,
+        "alias": "UI.HeroTransfer.Condition.Trade.Condition",
+        "text": "exchange"
+    },
+    "8003409": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 조건 확인 / 등록 중",
+        "id": 8003409,
+        "alias": "UI.HeroTransfer.Condition.Trade.No.01",
+        "text": "There is an item being registered on the exchange."
+    },
+    "8003410": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 조건 확인 / 회수 필요",
+        "id": 8003410,
+        "alias": "UI.HeroTransfer.Condition.Trade.No.02",
+        "text": "There are uncollected items on the exchange."
+    },
+    "8003411": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 조건 확인 / 정산 필요",
+        "id": 8003411,
+        "alias": "UI.HeroTransfer.Condition.Trade.No.03",
+        "text": "There is a record that has not been settled on the exchange."
+    },
+    "8003412": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 조건 확인 / 우편함",
+        "id": 8003412,
+        "alias": "UI.HeroTransfer.Condition.Post.Condition",
+        "text": "mailbox"
+    },
+    "8003413": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 조건 확인 / 수령 필요",
+        "id": 8003413,
+        "alias": "UI.HeroTransfer.Condition.Post.No.01",
+        "text": "You have undelivered mail."
+    },
+    "8003414": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 조건 확인 / 상점",
+        "id": 8003414,
+        "alias": "UI.HeroTransfer.Condition.CashShop.Condition",
+        "text": "Shop Locker"
+    },
+    "8003415": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 조건 확인 / 수령 필요",
+        "id": 8003415,
+        "alias": "UI.HeroTransfer.Condition.CashShop.No.01",
+        "text": "There are unclaimed items in the store locker."
+    },
+    "8003416": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 조건 확인 / 현재 위치",
+        "id": 8003416,
+        "alias": "UI.HeroTransfer.Condition.SafetyTown.Condition",
+        "text": "Current location"
+    },
+    "8003417": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 조건 확인 / 마을이 아닐 때",
+        "id": 8003417,
+        "alias": "UI.HeroTransfer.Condition.SafetyTown.No.01",
+        "text": "Your current location is not a town."
+    },
+    "8003418": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 조건 확인 / 복구",
+        "id": 8003418,
+        "alias": "UI.HeroTransfer.Condition.Restore.Condition",
+        "text": "restore"
+    },
+    "8003419": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 조건 확인 / 경험치",
+        "id": 8003419,
+        "alias": "UI.HeroTransfer.Condition.Restore.No.01",
+        "text": "You have experience to recover."
+    },
+    "8003420": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 조건 확인 / 아이템",
+        "id": 8003420,
+        "alias": "UI.HeroTransfer.Condition.Restore.No.02",
+        "text": "There are items to restore."
+    },
+    "8003421": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 이전 신청 / 버튼",
+        "id": 8003421,
+        "alias": "UI.HeroTransfer.Apply.Button",
+        "text": "Application for server transfer"
+    },
+    "8003422": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 이전 신청 / 이전 불가",
+        "id": 8003422,
+        "alias": "UI.HeroTransfer.Apply.No.01",
+        "text": "You can apply after confirming the server transfer."
+    },
+    "8003423": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 이전 신청 / 이전 불가",
+        "id": 8003423,
+        "alias": "UI.HeroTransfer.Apply.No.02",
+        "text": "The current server transfer is not possible."
+    },
+    "8003424": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 이전 신청 / 이전 불가",
+        "id": 8003424,
+        "alias": "UI.HeroTransfer.Apply.No.03",
+        "text": "Please check the server transfer conditions."
+    },
+    "8003425": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 이전 신청 / 이전 불가",
+        "id": 8003425,
+        "alias": "UI.HeroTransfer.Apply.No.04",
+        "text": "Cannot apply for server transfer due to insufficient <arg p=[1:string]/><ga/>."
+    },
+    "8003426": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 서버 선택 / 타이틀",
+        "id": 8003426,
+        "alias": "UI.HeroTransfer.ChoiceServer.Popup.Title",
+        "text": "Select Server"
+    },
+    "8003427": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 서버 선택 / 탭",
+        "id": 8003427,
+        "alias": "UI.HeroTransfer.ChoiceServer.Popup.Tap.01",
+        "text": "Transferable Server"
+    },
+    "8003428": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 서버 선택 / 탭",
+        "id": 8003428,
+        "alias": "UI.HeroTransfer.ChoiceServer.Popup.Tap.02",
+        "text": "Full Server"
+    },
+    "8003429": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 서버 선택 / 탭",
+        "id": 8003429,
+        "alias": "UI.HeroTransfer.ChoiceServer.Popup.Tap.03",
+        "text": "Character holding server"
+    },
+    "8003430": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 서버 선택 / 서버 상태",
+        "id": 8003430,
+        "alias": "UI.HeroTransfer.ChoiceServer.Popup.State.Green",
+        "text": "Seamless"
+    },
+    "8003431": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 서버 선택 / 서버 상태",
+        "id": 8003431,
+        "alias": "UI.HeroTransfer.ChoiceServer.Popup.State.Yellow",
+        "text": "confusion"
+    },
+    "8003432": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 서버 선택 / 서버 상태",
+        "id": 8003432,
+        "alias": "UI.HeroTransfer.ChoiceServer.Popup.State.Red",
+        "text": "Impossible"
+    },
+    "8003433": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 서버 선택 / 현재 서버",
+        "id": 8003433,
+        "alias": "UI.HeroTransfer.ChoiceServer.Popup.MyServer",
+        "text": "Current Server"
+    },
+    "8003434": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 서버 선택 / 이전 불가 서버",
+        "id": 8003434,
+        "alias": "UI.HeroTransfer.ChoiceServer.Popup.WrongServer",
+        "text": "This is a non-transferable server."
+    },
+    "8003435": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 서버 선택 / 보유 캐릭터 수",
+        "id": 8003435,
+        "alias": "UI.HeroTransfer.ChoiceServer.Popup.MyCharacter",
+        "text": "Holding character <arg p=[1:integer]/>"
+    },
+    "8003436": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 신청 확인 / 최종 확인",
+        "id": 8003436,
+        "alias": "UI.HeroTransfer.Success.Popup.Desc.01",
+        "text": "Are you sure you want to request a server transfer? \n Once the application is complete, the connection will be terminated, and you will not be able to connect until the \n transfer is complete."
+    },
+    "8003437": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 팝업 공통 / 취소",
+        "id": 8003437,
+        "alias": "UI.HeroTransfer.Popup.Button.Cancle",
+        "text": "cancel"
+    },
+    "8003438": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 신청 확인 / 완료",
+        "id": 8003438,
+        "alias": "UI.HeroTransfer.Success.Popup.Desc.02",
+        "text": "The server transfer application has been completed.\nThe connection with the server will be disconnected."
+    },
+    "8003439": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 신청 확인 / 이전 진행 중",
+        "id": 8003439,
+        "alias": "UI.HeroTransfer.Success.Popup.Desc.03",
+        "text": "Waiting for server transfer. Terminate the connection."
+    },
+    "8003440": {
+        "deprecated": false,
+        "Dev_Desc": "이벤트 제작 레시피 탭 / 문파 보스 소환서",
+        "id": 8003440,
+        "alias": "UI.Craft.LeftSubTabName.Event.GuildRaid",
+        "text": "Moonpa Boss Summon Scroll"
     }
 }

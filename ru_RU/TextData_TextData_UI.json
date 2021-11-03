@@ -23031,5 +23031,481 @@
         "id": 8003372,
         "alias": "UI.Craft.LeftSubTabName.Event.MoonlightBox_01",
         "text": "Шкатулка сияющего лунного света"
+    },
+    "8003373": {
+        "deprecated": false,
+        "Dev_Desc": "소지품 / 소지품 타이틀",
+        "id": 8003373,
+        "alias": "UI.Stash.TitleName.Inventory",
+        "text": "вещи"
+    },
+    "8003374": {
+        "deprecated": false,
+        "Dev_Desc": "협행 / 즉시완료 / 즉시완료 버튼",
+        "id": 8003374,
+        "alias": "UI.Bulletin.ButtonName.ImmediatelyDone",
+        "text": "Немедленное завершение"
+    },
+    "8003375": {
+        "deprecated": false,
+        "Dev_Desc": "협행 / 즉시완료 / 즉시완료 팝업 설명",
+        "id": 8003375,
+        "alias": "UI.Bulletin.Popup.Desc",
+        "text": "Вы уверены, что хотите немедленно завершить сотрудничество?"
+    },
+    "8003376": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 횟수 정보 / 기본",
+        "id": 8003376,
+        "alias": "UI.Dungeon.BasicCount",
+        "text": "Счетчик по умолчанию"
+    },
+    "8003377": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 횟수 정보 / 충전",
+        "id": 8003377,
+        "alias": "UI.Dungeon.ChargeCount",
+        "text": "Количество зарядов"
+    },
+    "8003378": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 횟수 정보",
+        "id": 8003378,
+        "alias": "UI.Dungeon.RemainCount.1",
+        "text": "<arg p = [1: integer] /> раз"
+    },
+    "8003379": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 탭 / 시간제 던전",
+        "id": 8003379,
+        "alias": "UI.Dungeon.Tap.BasicDungeon",
+        "text": "Подземелье на время"
+    },
+    "8003380": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 탭 / 1인 던전",
+        "id": 8003380,
+        "alias": "UI.Dungeon.Tap.SoloDungeon",
+        "text": "Одиночное подземелье"
+    },
+    "8003381": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 횟수 충전 팝업 / 타이틀",
+        "id": 8003381,
+        "alias": "UI.Dungeon.Popup.Title.Count",
+        "text": "Подзарядить несколько раз"
+    },
+    "8003382": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 횟수 충전 팝업 / 충전 횟수",
+        "id": 8003382,
+        "alias": "UI.Dungeon.Popup.ChargeCount",
+        "text": "<arg p = [1: integer] /> раз"
+    },
+    "8003383": {
+        "deprecated": false,
+        "Dev_Desc": "이벤트 제작 레시피 탭 / 스타일 위크",
+        "id": 8003383,
+        "alias": "UI.Craft.LeftSubTabName.Event.StyleWeek_01",
+        "text": "Неделя стиля"
+    },
+    "8003384": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 탭 / 미니맵 표시",
+        "id": 8003384,
+        "alias": "UI.Dungeon.RemainCountHUD.1",
+        "text": "Оставшееся количество использований <arg p = [1: integer] />"
+    },
+    "8003385": {
+        "deprecated": false,
+        "Dev_Desc": "로비 외형 변경",
+        "id": 8003385,
+        "alias": "UI.Lobby.changeAppearance.Button",
+        "text": "Смена персонажа"
+    },
+    "8003386": {
+        "deprecated": false,
+        "Dev_Desc": "캐시상점 / 메인 탭 / 서버 이전",
+        "id": 8003386,
+        "alias": "UI.CashShop.TapName.Main.HeroTransfer",
+        "text": "Миграция сервера"
+    },
+    "8003387": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 서버 이전 확인 / 타이틀",
+        "id": 8003387,
+        "alias": "UI.HeroTransfer.TransferCheck.Title",
+        "text": "Миграция сервера персонажей"
+    },
+    "8003388": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 서버 이전 확인 / 주의사항",
+        "id": 8003388,
+        "alias": "UI.HeroTransfer.TransferCheck.Warning",
+        "text": "осторожность"
+    },
+    "8003389": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 서버 이전 확인 / 설명",
+        "id": 8003389,
+        "alias": "UI.HeroTransfer.TransferCheck.Desc",
+        "text": "Проверить, возможна ли миграция сервера."
+    },
+    "8003390": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 서버 이전 확인 / 서버 확인 버튼",
+        "id": 8003390,
+        "alias": "UI.HeroTransfer.TransferCheck.Button",
+        "text": "Проверить миграцию сервера"
+    },
+    "8003391": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 서버 이전 확인 / 서버 이전 기간 아님",
+        "id": 8003391,
+        "alias": "UI.HeroTransfer.TransferCheck.PeriodGuide",
+        "text": "Это не период покупок."
+    },
+    "8003392": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 서버 이전 확인 / 아웃 쿼터 만족",
+        "id": 8003392,
+        "alias": "UI.HeroTransfer.TransferCheck.Confirm.01",
+        "text": "Приложение переноса сервера было активировано."
+    },
+    "8003393": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 서버 이전 확인 / 아웃 쿼터 만족",
+        "id": 8003393,
+        "alias": "UI.HeroTransfer.TransferCheck.Confirm.02",
+        "text": "Проверка миграции сервера завершена."
+    },
+    "8003394": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 서버 이전 확인 / 아웃 쿼터 불만족",
+        "id": 8003394,
+        "alias": "UI.HeroTransfer.TransferCheck.Popup.Desc.01",
+        "text": "Перенос текущего сервера невозможен."
+    },
+    "8003395": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 서버 이전 확인 / 불만족 사유",
+        "id": 8003395,
+        "alias": "UI.HeroTransfer.TransferCheck.Popup.Desc.02",
+        "text": "Превышена пропускная способность"
+    },
+    "8003396": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 팝업 공통 / 확인",
+        "id": 8003396,
+        "alias": "UI.HeroTransfer.Popup.Button.Confirm",
+        "text": "Подтверждать"
+    },
+    "8003397": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 서버 선택 / 타이틀",
+        "id": 8003397,
+        "alias": "UI.HeroTransfer.ChoiceServer.Title",
+        "text": "Выбрать сервер"
+    },
+    "8003398": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 서버 선택 / 설명",
+        "id": 8003398,
+        "alias": "UI.HeroTransfer.ChoiceServer.Desc.01",
+        "text": "Пожалуйста, выберите сервер, на который будет перенесен персонаж."
+    },
+    "8003399": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 서버 선택 / 설명",
+        "id": 8003399,
+        "alias": "UI.HeroTransfer.ChoiceServer.Desc.02",
+        "text": "Серверы, которые нельзя перенести, не отображаются в списке серверов."
+    },
+    "8003400": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 서버 선택 / 기본 텍스트",
+        "id": 8003400,
+        "alias": "UI.HeroTransfer.ChoiceServer.DefaultText",
+        "text": "Пожалуйста, выберите сервер."
+    },
+    "8003401": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 서버 선택 / 버튼",
+        "id": 8003401,
+        "alias": "UI.HeroTransfer.ChoiceServer.Button",
+        "text": "Выбрать сервер"
+    },
+    "8003402": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 조건 확인 / 타이틀",
+        "id": 8003402,
+        "alias": "UI.HeroTransfer.Condition.Title",
+        "text": "Условия передачи сервера"
+    },
+    "8003403": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 조건 확인 / 슬롯",
+        "id": 8003403,
+        "alias": "UI.HeroTransfer.Condition.Slot.Condition",
+        "text": "Оставшиеся слоты персонажа на сервере, которые нужно перенести"
+    },
+    "8003404": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 조건 확인 / 서버 선택 필요",
+        "id": 8003404,
+        "alias": "UI.HeroTransfer.Condition.Slot.No.01",
+        "text": "Сервер для переноса не выбран."
+    },
+    "8003405": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 조건 확인 / 이전 조건 만족",
+        "id": 8003405,
+        "alias": "UI.HeroTransfer.Condition.OK",
+        "text": "Передаваемый"
+    },
+    "8003406": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 조건 확인 / 문파",
+        "id": 8003406,
+        "alias": "UI.HeroTransfer.Condition.Guild.Condition",
+        "text": "Присоединяйтесь к Мунпе"
+    },
+    "8003407": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 조건 확인 / 문파 탈퇴 필요",
+        "id": 8003407,
+        "alias": "UI.HeroTransfer.Condition.Guild.No.01",
+        "text": "Вы - член Мунпа."
+    },
+    "8003408": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 조건 확인 / 거래소",
+        "id": 8003408,
+        "alias": "UI.HeroTransfer.Condition.Trade.Condition",
+        "text": "обмен"
+    },
+    "8003409": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 조건 확인 / 등록 중",
+        "id": 8003409,
+        "alias": "UI.HeroTransfer.Condition.Trade.No.01",
+        "text": "На бирже регистрируется товар."
+    },
+    "8003410": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 조건 확인 / 회수 필요",
+        "id": 8003410,
+        "alias": "UI.HeroTransfer.Condition.Trade.No.02",
+        "text": "На бирже есть несобранные вещи."
+    },
+    "8003411": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 조건 확인 / 정산 필요",
+        "id": 8003411,
+        "alias": "UI.HeroTransfer.Condition.Trade.No.03",
+        "text": "Есть запись, которая не была выставлена ​​на бирже."
+    },
+    "8003412": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 조건 확인 / 우편함",
+        "id": 8003412,
+        "alias": "UI.HeroTransfer.Condition.Post.Condition",
+        "text": "почтовый ящик"
+    },
+    "8003413": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 조건 확인 / 수령 필요",
+        "id": 8003413,
+        "alias": "UI.HeroTransfer.Condition.Post.No.01",
+        "text": "У вас недоставленная почта."
+    },
+    "8003414": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 조건 확인 / 상점",
+        "id": 8003414,
+        "alias": "UI.HeroTransfer.Condition.CashShop.Condition",
+        "text": "Магазинчик раздевалки"
+    },
+    "8003415": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 조건 확인 / 수령 필요",
+        "id": 8003415,
+        "alias": "UI.HeroTransfer.Condition.CashShop.No.01",
+        "text": "В шкафчике магазина есть невостребованные вещи."
+    },
+    "8003416": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 조건 확인 / 현재 위치",
+        "id": 8003416,
+        "alias": "UI.HeroTransfer.Condition.SafetyTown.Condition",
+        "text": "Текущее местоположение"
+    },
+    "8003417": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 조건 확인 / 마을이 아닐 때",
+        "id": 8003417,
+        "alias": "UI.HeroTransfer.Condition.SafetyTown.No.01",
+        "text": "Ваше текущее местоположение - не деревня."
+    },
+    "8003418": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 조건 확인 / 복구",
+        "id": 8003418,
+        "alias": "UI.HeroTransfer.Condition.Restore.Condition",
+        "text": "восстановить"
+    },
+    "8003419": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 조건 확인 / 경험치",
+        "id": 8003419,
+        "alias": "UI.HeroTransfer.Condition.Restore.No.01",
+        "text": "У вас есть опыт, чтобы выздороветь."
+    },
+    "8003420": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 조건 확인 / 아이템",
+        "id": 8003420,
+        "alias": "UI.HeroTransfer.Condition.Restore.No.02",
+        "text": "Есть предметы, которые нужно восстановить."
+    },
+    "8003421": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 이전 신청 / 버튼",
+        "id": 8003421,
+        "alias": "UI.HeroTransfer.Apply.Button",
+        "text": "Заявка на перенос сервера"
+    },
+    "8003422": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 이전 신청 / 이전 불가",
+        "id": 8003422,
+        "alias": "UI.HeroTransfer.Apply.No.01",
+        "text": "Вы можете подать заявку после подтверждения переноса сервера."
+    },
+    "8003423": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 이전 신청 / 이전 불가",
+        "id": 8003423,
+        "alias": "UI.HeroTransfer.Apply.No.02",
+        "text": "Перенос текущего сервера невозможен."
+    },
+    "8003424": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 이전 신청 / 이전 불가",
+        "id": 8003424,
+        "alias": "UI.HeroTransfer.Apply.No.03",
+        "text": "Пожалуйста, проверьте условия передачи сервера."
+    },
+    "8003425": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 이전 신청 / 이전 불가",
+        "id": 8003425,
+        "alias": "UI.HeroTransfer.Apply.No.04",
+        "text": "Невозможно подать заявку на перенос сервера из-за недостаточного значения <arg p = [1: string] /> <ga />."
+    },
+    "8003426": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 서버 선택 / 타이틀",
+        "id": 8003426,
+        "alias": "UI.HeroTransfer.ChoiceServer.Popup.Title",
+        "text": "Выбрать сервер"
+    },
+    "8003427": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 서버 선택 / 탭",
+        "id": 8003427,
+        "alias": "UI.HeroTransfer.ChoiceServer.Popup.Tap.01",
+        "text": "Переносимый сервер"
+    },
+    "8003428": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 서버 선택 / 탭",
+        "id": 8003428,
+        "alias": "UI.HeroTransfer.ChoiceServer.Popup.Tap.02",
+        "text": "Полный сервер"
+    },
+    "8003429": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 서버 선택 / 탭",
+        "id": 8003429,
+        "alias": "UI.HeroTransfer.ChoiceServer.Popup.Tap.03",
+        "text": "Сервер хранения персонажей"
+    },
+    "8003430": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 서버 선택 / 서버 상태",
+        "id": 8003430,
+        "alias": "UI.HeroTransfer.ChoiceServer.Popup.State.Green",
+        "text": "Бесшовные"
+    },
+    "8003431": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 서버 선택 / 서버 상태",
+        "id": 8003431,
+        "alias": "UI.HeroTransfer.ChoiceServer.Popup.State.Yellow",
+        "text": "путаница"
+    },
+    "8003432": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 서버 선택 / 서버 상태",
+        "id": 8003432,
+        "alias": "UI.HeroTransfer.ChoiceServer.Popup.State.Red",
+        "text": "Невозможно"
+    },
+    "8003433": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 서버 선택 / 현재 서버",
+        "id": 8003433,
+        "alias": "UI.HeroTransfer.ChoiceServer.Popup.MyServer",
+        "text": "Текущий сервер"
+    },
+    "8003434": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 서버 선택 / 이전 불가 서버",
+        "id": 8003434,
+        "alias": "UI.HeroTransfer.ChoiceServer.Popup.WrongServer",
+        "text": "Это непередаваемый сервер."
+    },
+    "8003435": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 서버 선택 / 보유 캐릭터 수",
+        "id": 8003435,
+        "alias": "UI.HeroTransfer.ChoiceServer.Popup.MyCharacter",
+        "text": "Удерживающий символ <arg p = [1: integer] />"
+    },
+    "8003436": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 신청 확인 / 최종 확인",
+        "id": 8003436,
+        "alias": "UI.HeroTransfer.Success.Popup.Desc.01",
+        "text": "Вы хотите подать заявку на перенос сервера? \n Как только приложение будет заполнено, соединение будет прервано, и вы не сможете подключиться, пока \n передача не будет завершена."
+    },
+    "8003437": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 팝업 공통 / 취소",
+        "id": 8003437,
+        "alias": "UI.HeroTransfer.Popup.Button.Cancle",
+        "text": "Отмена"
+    },
+    "8003438": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 신청 확인 / 완료",
+        "id": 8003438,
+        "alias": "UI.HeroTransfer.Success.Popup.Desc.02",
+        "text": "Заявка на перенос сервера была завершена. \n Соединение с сервером будет прервано."
+    },
+    "8003439": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 신청 확인 / 이전 진행 중",
+        "id": 8003439,
+        "alias": "UI.HeroTransfer.Success.Popup.Desc.03",
+        "text": "Ожидание передачи сервера. Прервите соединение."
+    },
+    "8003440": {
+        "deprecated": false,
+        "Dev_Desc": "이벤트 제작 레시피 탭 / 문파 보스 소환서",
+        "id": 8003440,
+        "alias": "UI.Craft.LeftSubTabName.Event.GuildRaid",
+        "text": "Свиток призыва босса Мунпа"
     }
 }
