@@ -5687,35 +5687,35 @@
         "Dev_Desc": "채팅 시스템 메시지 / 브로드 캐스팅 / 아이템 획득",
         "id": 9000874,
         "alias": "SyM.ChatSysM.ItemDrop",
-        "text": "<<arg p=[1:string]/>>[<arg p=[2:string]/>] <arg p=[3:string]/> 님이 </><<arg p=[4:string]/>><arg p=[5:string]/></><<arg p=[1:string]/>><eul/> <arg p=[6:string]/>에서 획득했습니다.</>"
+        "text": "<<arg p=[1:string]/>><arg p=[2:string]/> <arg p=[3:string]/> 님이 </><<arg p=[4:string]/>><arg p=[5:string]/></><<arg p=[1:string]/>><eul/> <arg p=[6:string]/>에서 획득했습니다.</>"
     },
     "9000875": {
         "deprecated": false,
         "Dev_Desc": "채팅 시스템 메시지 / 브로드 캐스팅 / 강화 성공",
         "id": 9000875,
         "alias": "SyM.ChatSysM.Enchant",
-        "text": "<<arg p=[1:string]/>>[<arg p=[2:string]/>] <arg p=[3:string]/> 님이 </><<arg p=[4:string]/>>+<arg p=[5:string]/> <arg p=[6:string]/></><<arg p=[1:string]/>> 강화에 성공했습니다.</>"
+        "text": "<<arg p=[1:string]/>><arg p=[2:string]/> <arg p=[3:string]/> 님이 </><<arg p=[4:string]/>>+<arg p=[5:string]/> <arg p=[6:string]/></><<arg p=[1:string]/>> 강화에 성공했습니다.</>"
     },
     "9000876": {
         "deprecated": false,
         "Dev_Desc": "채팅 시스템 메시지 / 브로드 캐스팅 / 제작 성공",
         "id": 9000876,
         "alias": "SyM.ChatSysM.Craft",
-        "text": "<<arg p=[1:string]/>>[<arg p=[2:string]/>] <arg p=[3:string]/> 님이 </><<arg p=[4:string]/>><arg p=[5:string]/></><<arg p=[1:string]/>> 제작에 성공했습니다.</>"
+        "text": "<<arg p=[1:string]/>><arg p=[2:string]/> <arg p=[3:string]/> 님이 </><<arg p=[4:string]/>><arg p=[5:string]/></><<arg p=[1:string]/>> 제작에 성공했습니다.</>"
     },
     "9000877": {
         "deprecated": false,
         "Dev_Desc": "채팅 시스템 메시지 / 브로드 캐스팅 / 소울 획득",
         "id": 9000877,
         "alias": "SyM.ChatSysM.Soul",
-        "text": "<<arg p=[1:string]/>>[<arg p=[2:string]/>] <arg p=[3:string]/> 님이 소울 </><<arg p=[4:string]/>><arg p=[5:string]/></><<arg p=[1:string]/>><eul/> 획득했습니다.</>"
+        "text": "<<arg p=[1:string]/>><arg p=[2:string]/> <arg p=[3:string]/> 님이 소울 </><<arg p=[4:string]/>><arg p=[5:string]/></><<arg p=[1:string]/>><eul/> 획득했습니다.</>"
     },
     "9000878": {
         "deprecated": false,
         "Dev_Desc": "채팅 시스템 메시지 / 브로드 캐스팅 / 수호령 획득",
         "id": 9000878,
         "alias": "SyM.ChatSysM.Pets",
-        "text": "<<arg p=[1:string]/>>[<arg p=[2:string]/>] <arg p=[3:string]/> 님이 수호령 </><<arg p=[4:string]/>><arg p=[5:string]/></><<arg p=[1:string]/>><eul/> 획득했습니다.</>"
+        "text": "<<arg p=[1:string]/>><arg p=[2:string]/> <arg p=[3:string]/> 님이 수호령 </><<arg p=[4:string]/>><arg p=[5:string]/></><<arg p=[1:string]/>><eul/> 획득했습니다.</>"
     },
     "9000879": {
         "deprecated": false,
@@ -6583,35 +6583,35 @@
         "Dev_Desc": "브로드캐스팅 / 아이템 획득",
         "id": 9001002,
         "alias": "SysM.BroadCasting.GetItem",
-        "text": "[<arg p=[1:string]/>] <arg p=[2:string]/> 님이 <arg p=[3:string]/><eul/> <arg p=[4:string]/>에서 획득했습니다."
+        "text": "<arg p=[1:string]/> <arg p=[2:string]/> 님이 <arg p=[3:string]/><eul/> <arg p=[4:string]/>에서 획득했습니다."
     },
     "9001003": {
         "deprecated": false,
         "Dev_Desc": "브로드캐스팅 / 강화 성공",
         "id": 9001003,
         "alias": "SysM.BroadCasting.EnchantSucceed",
-        "text": "[<arg p=[1:string]/>] <arg p=[2:string]/> 님이 <arg p=[3:string]/> 강화에 성공했습니다."
+        "text": "<arg p=[1:string]/> <arg p=[2:string]/> 님이 <arg p=[3:string]/> 강화에 성공했습니다."
     },
     "9001004": {
         "deprecated": false,
         "Dev_Desc": "브로드캐스팅 / 제작 성공",
         "id": 9001004,
         "alias": "SysM.BroadCasting.CraftSucceed",
-        "text": "[<arg p=[1:string]/>] <arg p=[2:string]/> 님이 <arg p=[3:string]/> 제작에 성공했습니다."
+        "text": "<arg p=[1:string]/> <arg p=[2:string]/> 님이 <arg p=[3:string]/> 제작에 성공했습니다."
     },
     "9001005": {
         "deprecated": false,
         "Dev_Desc": "브로드캐스팅 / 소울 획득",
         "id": 9001005,
         "alias": "SysM.BroadCasting.GetSoul",
-        "text": "[<arg p=[1:string]/>] <arg p=[2:string]/> 님이 소울 <arg p=[3:string]/><eul/> 획득했습니다."
+        "text": "<arg p=[1:string]/> <arg p=[2:string]/> 님이 소울 <arg p=[3:string]/><eul/> 획득했습니다."
     },
     "9001006": {
         "deprecated": false,
         "Dev_Desc": "브로드캐스팅 / 수호령 획득",
         "id": 9001006,
         "alias": "SysM.BroadCasting.GetPets",
-        "text": "[<arg p=[1:string]/>] <arg p=[2:string]/> 님이 수호령 <arg p=[3:string]/><eul/> 획득했습니다."
+        "text": "<arg p=[1:string]/> <arg p=[2:string]/> 님이 수호령 <arg p=[3:string]/><eul/> 획득했습니다."
     },
     "9001007": {
         "deprecated": false,
@@ -7121,14 +7121,14 @@
         "Dev_Desc": "채팅 / 소울 성장 브로드캐스팅",
         "id": 9001079,
         "alias": "SysM.ChatSysM.GrowSoul",
-        "text": "<<arg p=[1:string]/>>[<arg p=[2:string]/>] <arg p=[3:string]/> 님이 소울 </><<arg p=[4:string]/>><arg p=[5:string]/></><<arg p=[1:string]/>> <arg p=[6:integer]/>성을 획득했습니다.</>"
+        "text": "<<arg p=[1:string]/>><arg p=[2:string]/> <arg p=[3:string]/> 님이 소울 </><<arg p=[4:string]/>><arg p=[5:string]/></><<arg p=[1:string]/>> <arg p=[6:integer]/>성을 획득했습니다.</>"
     },
     "9001080": {
         "deprecated": false,
         "Dev_Desc": "소울 성장 브로드캐스팅",
         "id": 9001080,
         "alias": "SysM.BroadCasting.GrowSoul",
-        "text": "[<arg p=[1:string]/>] <arg p=[2:string]/> 님이 소울 <arg p=[3:string]/> <arg p=[4:integer]/>성을 획득했습니다."
+        "text": "<arg p=[1:string]/> <arg p=[2:string]/> 님이 소울 <arg p=[3:string]/> <arg p=[4:integer]/>성을 획득했습니다."
     },
     "9001081": {
         "deprecated": false,
@@ -7216,10 +7216,10 @@
     },
     "9001093": {
         "deprecated": false,
-        "Dev_Desc": "브로드캐스팅 / 익명의 용사",
+        "Dev_Desc": "브로드캐스팅 / 익명의 무인",
         "id": 9001093,
         "alias": "SysM.Broadcasting.NameHidden",
-        "text": "익명의 용사"
+        "text": "익명의 무인"
     },
     "9001094": {
         "deprecated": false,
@@ -7241,5 +7241,40 @@
         "id": 9001096,
         "alias": "SysM.Lobby.ChangeAppearance.Fail",
         "text": "변경 사항이 없습니다."
+    },
+    "9001097": {
+        "deprecated": false,
+        "Dev_Desc": "아이템 사용 불가 / 레벨 제한 Min",
+        "id": 9001097,
+        "alias": "SysM.Item.UseFail.RequiredLevelMin",
+        "text": "레벨 <arg p=[1:integer]/> 이상만 사용할 수 있습니다."
+    },
+    "9001098": {
+        "deprecated": false,
+        "Dev_Desc": "아이템 사용 불가 / 레벨 제한 Max",
+        "id": 9001098,
+        "alias": "SysM.Item.UseFail.RequiredLevelMax",
+        "text": "레벨 <arg p=[1:integer]/> 이하만 사용할 수 있습니다."
+    },
+    "9001099": {
+        "deprecated": false,
+        "Dev_Desc": "브로드캐스팅 / 문파 정보 / 적대",
+        "id": 9001099,
+        "alias": "SysM.BroadCasting.GuildRelation.Hostile",
+        "text": "적대 문파 <<arg p=[2:string]/>>[<arg p=[1:string]/>]</>"
+    },
+    "9001100": {
+        "deprecated": false,
+        "Dev_Desc": "브로드캐스팅 / 문파 정보 / 동맹",
+        "id": 9001100,
+        "alias": "SysM.BroadCasting.GuildRelation.Friendly",
+        "text": "동맹 문파 [<arg p=[1:string]/>]"
+    },
+    "9001101": {
+        "deprecated": false,
+        "Dev_Desc": "브로드캐스팅 / 문파 정보 / 관계 없음",
+        "id": 9001101,
+        "alias": "SysM.BroadCasting.GuildRelation.NoRelation",
+        "text": "문파 [<arg p=[1:string]/>]"
     }
 }

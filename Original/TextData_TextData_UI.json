@@ -13052,7 +13052,7 @@
         "Dev_Desc": "협행 / 내 협행",
         "id": 8001938,
         "alias": "UI.Board.MyQuest",
-        "text": "내 협행"
+        "text": "내 협행(<arg p=[1:integer]/>/<arg p=[2:integer]/>)"
     },
     "8001939": {
         "deprecated": false,
@@ -23030,7 +23030,7 @@
         "Dev_Desc": "이벤트 제작 레시피 탭 / 빛나는 달빛 상자",
         "id": 8003372,
         "alias": "UI.Craft.LeftSubTabName.Event.MoonlightBox_01",
-        "text": "빛나는 달빛 상자"
+        "text": "달빛 상자"
     },
     "8003373": {
         "deprecated": false,
@@ -23121,7 +23121,7 @@
         "Dev_Desc": "로비 외형 변경",
         "id": 8003385,
         "alias": "UI.Lobby.changeAppearance.Button",
-        "text": "캐릭터 변경"
+        "text": "캐릭터 외모 변경"
     },
     "8003386": {
         "deprecated": false,
@@ -23507,5 +23507,47 @@
         "id": 8003440,
         "alias": "UI.Craft.LeftSubTabName.Event.GuildRaid",
         "text": "문파 보스 소환서"
+    },
+    "8003441": {
+        "deprecated": false,
+        "Dev_Desc": "아이템 상세정보창 / 레벨 제한 min",
+        "id": 8003441,
+        "alias": "UI.ItemInfo.RequiredLevel.Min",
+        "text": "Lv.<arg p=[1:integer]/> 이상"
+    },
+    "8003442": {
+        "deprecated": false,
+        "Dev_Desc": "아이템 상세정보창 / 레벨 제한 max",
+        "id": 8003442,
+        "alias": "UI.ItemInfo.RequiredLevel.Max",
+        "text": "Lv.<arg p=[1:integer]/> 이하"
+    },
+    "8003443": {
+        "deprecated": false,
+        "Dev_Desc": "협행 / 즉시완료 / 즉시완료 비용 설명",
+        "id": 8003443,
+        "alias": "UI.Bulletin.Popup.CostDesc",
+        "text": "즉시 완료 비용"
+    },
+    "8003444": {
+        "deprecated": false,
+        "Dev_Desc": "협행 / 즉시완료 / 갱신 비용 설명",
+        "id": 8003444,
+        "alias": "UI.Bulletin.Popup.ResetCostDesc",
+        "text": "갱신 비용"
+    },
+    "8003445": {
+        "deprecated": false,
+        "Dev_Desc": "소셜팝업 / 경계 등록",
+        "id": 8003445,
+        "alias": "UI.SocialPopUp.AddAlert",
+        "text": "경계 등록"
+    },
+    "8003446": {
+        "deprecated": false,
+        "Dev_Desc": "이벤트 제작 레시피 탭 / 천하사절 수호령",
+        "id": 8003446,
+        "alias": "UI.Craft.LeftSubTabName.Event.FourMaster_01",
+        "text": "천하사절 수호령"
     }
 }

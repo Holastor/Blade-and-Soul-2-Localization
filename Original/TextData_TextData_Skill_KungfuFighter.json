@@ -267,10 +267,10 @@
     },
     "60020038": {
         "deprecated": false,
-        "Dev_Desc": "붕권_증폭",
+        "Dev_Desc": "붕권_돌파",
         "id": 60020038,
         "alias": "Contents.Skill.Desc.LightGauntlet.2330",
-        "text": "주먹을 내질러 일정 확률로 범위 내 다수의 대상을 \"밀치기\" 후 \"기절\" 시키고 피해를 입힙니다.\n막기 중인 대상을 일정 확률로 관통해 \"기절\" 시킵니다."
+        "text": "주먹을 내질러 일정 확률로 단일 대상을 \"밀치기\" 후 \"기절\"시키고 피해를 입힙니다.\n막기 중인 대상을 일정 확률로 관통해 \"기절\" 시킵니다."
     },
     "60020039": {
         "deprecated": false,
@@ -606,7 +606,7 @@
         "Dev_Desc": "붕권_돌파_성장설명",
         "id": 60020088,
         "alias": "Contents.Skill.acquireEffectDesc.2083",
-        "text": "광역 피해로 전환\n범위 내 최대 3인까지 적중"
+        "text": "사용 거리 증가\n타격 수 증가"
     },
     "60020089": {
         "deprecated": false,
@@ -893,7 +893,7 @@
         "Dev_Desc": "맹호격_돌파_성장설명",
         "id": 60020129,
         "alias": "Contents.Skill.acquireEffectDesc.2113",
-        "text": "일정 확률로 \"공중\" 효과 적용"
+        "text": "\"기절\" 효과가 \"공중\" 효과로 변경"
     },
     "60020130": {
         "deprecated": false,
