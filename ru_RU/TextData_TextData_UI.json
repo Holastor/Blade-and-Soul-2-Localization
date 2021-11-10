@@ -23507,5 +23507,47 @@
         "id": 8003440,
         "alias": "UI.Craft.LeftSubTabName.Event.GuildRaid",
         "text": "Свиток призыва босса Мунпа"
+    },
+    "8003441": {
+        "deprecated": false,
+        "Dev_Desc": "아이템 상세정보창 / 레벨 제한 min",
+        "id": 8003441,
+        "alias": "UI.ItemInfo.RequiredLevel.Min",
+        "text": "Lv. <Arg p = [1: integer] /> или выше"
+    },
+    "8003442": {
+        "deprecated": false,
+        "Dev_Desc": "아이템 상세정보창 / 레벨 제한 max",
+        "id": 8003442,
+        "alias": "UI.ItemInfo.RequiredLevel.Max",
+        "text": "Меньше чем Lv. <Arg p = [1: integer] />"
+    },
+    "8003443": {
+        "deprecated": false,
+        "Dev_Desc": "협행 / 즉시완료 / 즉시완료 비용 설명",
+        "id": 8003443,
+        "alias": "UI.Bulletin.Popup.CostDesc",
+        "text": "Стоимость мгновенного завершения"
+    },
+    "8003444": {
+        "deprecated": false,
+        "Dev_Desc": "협행 / 즉시완료 / 갱신 비용 설명",
+        "id": 8003444,
+        "alias": "UI.Bulletin.Popup.ResetCostDesc",
+        "text": "Комиссия за продление"
+    },
+    "8003445": {
+        "deprecated": false,
+        "Dev_Desc": "소셜팝업 / 경계 등록",
+        "id": 8003445,
+        "alias": "UI.SocialPopUp.AddAlert",
+        "text": "Регистровая граница"
+    },
+    "8003446": {
+        "deprecated": false,
+        "Dev_Desc": "이벤트 제작 레시피 탭 / 천하사절 수호령",
+        "id": 8003446,
+        "alias": "UI.Craft.LeftSubTabName.Event.FourMaster_01",
+        "text": "Хранитель Посланника Небес"
     }
 }

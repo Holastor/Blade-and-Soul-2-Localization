@@ -7216,7 +7216,7 @@
     },
     "9001093": {
         "deprecated": false,
-        "Dev_Desc": "브로드캐스팅 / 익명의 용사",
+        "Dev_Desc": "브로드캐스팅 / 익명의 무인",
         "id": 9001093,
         "alias": "SysM.Broadcasting.NameHidden",
         "text": "“匿名冠军”"
@@ -7241,5 +7241,40 @@
         "id": 9001096,
         "alias": "SysM.Lobby.ChangeAppearance.Fail",
         "text": "“没有做出任何改变。”"
+    },
+    "9001097": {
+        "deprecated": false,
+        "Dev_Desc": "아이템 사용 불가 / 레벨 제한 Min",
+        "id": 9001097,
+        "alias": "SysM.Item.UseFail.RequiredLevelMin",
+        "text": "“只能在 <arg p=[1:integer]/> 或更高级别使用。”"
+    },
+    "9001098": {
+        "deprecated": false,
+        "Dev_Desc": "아이템 사용 불가 / 레벨 제한 Max",
+        "id": 9001098,
+        "alias": "SysM.Item.UseFail.RequiredLevelMax",
+        "text": "“仅在 <arg p=[1:integer]/> 级别以下可用。”"
+    },
+    "9001099": {
+        "deprecated": false,
+        "Dev_Desc": "브로드캐스팅 / 문파 정보 / 적대",
+        "id": 9001099,
+        "alias": "SysM.BroadCasting.GuildRelation.Hostile",
+        "text": "敌对派系<<arg p=[2:string]/>>[<arg p=[1:string]/>]</>"
+    },
+    "9001100": {
+        "deprecated": false,
+        "Dev_Desc": "브로드캐스팅 / 문파 정보 / 동맹",
+        "id": 9001100,
+        "alias": "SysM.BroadCasting.GuildRelation.Friendly",
+        "text": "“盟军派系 [<arg p=[1:string]/>]”"
+    },
+    "9001101": {
+        "deprecated": false,
+        "Dev_Desc": "브로드캐스팅 / 문파 정보 / 관계 없음",
+        "id": 9001101,
+        "alias": "SysM.BroadCasting.GuildRelation.NoRelation",
+        "text": "“Sunpa [<arg p=[1:string]/>]”"
     }
 }

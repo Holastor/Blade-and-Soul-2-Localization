@@ -1403,7 +1403,7 @@
     },
     "99000201": {
         "deprecated": false,
-        "Dev_Desc": "무기 선택 상자",
+        "Dev_Desc": "장신구 선택 상자",
         "id": 99000201,
         "alias": "Contents.Item.Desc.9000431",
         "text": "浅湖的人来说是一个框,您可以获取主要使用的武器."
@@ -1438,7 +1438,7 @@
     },
     "99000206": {
         "deprecated": false,
-        "Dev_Desc": "용사의 무기 상자",
+        "Dev_Desc": "용사의 장신구 상자",
         "id": 99000206,
         "alias": "Contents.Item.Desc.9000436",
         "text": "使用时可获得普通~英雄等级武器1个的箱子."
@@ -1459,7 +1459,7 @@
     },
     "99000209": {
         "deprecated": false,
-        "Dev_Desc": "비사전 무기 상자(일반)",
+        "Dev_Desc": "비사전 장신구 상자(일반)",
         "id": 99000209,
         "alias": "Contents.Item.Desc.9000439",
         "text": "秘史殿作为悬赏奖励发放的装备箱子.使用时可获得1个普通等级武器."
@@ -2818,7 +2818,7 @@
     },
     "99000405": {
         "deprecated": false,
-        "Dev_Desc": "무기 장인의 묘수",
+        "Dev_Desc": "장신구 장인의 묘수",
         "id": 99000405,
         "alias": "Contents.Item.Desc.9000635",
         "text": "包含金景哲门兵器工匠令人惊叹的坟墓.您可以获得武器增强卷轴.<br/><br/><fontStyle=[TestStyleB]>可获取的物品</><br/>武器增强卷轴<br/>祝福的武器增强卷轴"
@@ -3751,21 +3751,21 @@
     },
     "99000543": {
         "deprecated": false,
-        "Dev_Desc": "무기 강화 주문서",
+        "Dev_Desc": "장신구 강화 주문서",
         "id": 99000543,
         "alias": "Contents.Item.Desc.9200300",
         "text": "用于强化的强化卷, 强化卷品质分为3种<br/>一般：+1<br/>祝福：+1~2 (<=+6物品有30%几率+2)<br/>诅咒：-1"
     },
     "99000544": {
         "deprecated": false,
-        "Dev_Desc": "축복 무기 강화 주문서",
+        "Dev_Desc": "축복 장신구 강화 주문서",
         "id": 99000544,
         "alias": "Contents.Item.Desc.9200301",
         "text": "用于强化的材料.\n\n一般:+1\n祝福:+1~2\n诅咒:-1\n\n当强化低于或等于+6装备时使用此卷轴有30％的成功率概率直接+2."
     },
     "99000545": {
         "deprecated": false,
-        "Dev_Desc": "저주받은 무기 강화 주문서",
+        "Dev_Desc": "저주받은 장신구 강화 주문서",
         "id": 99000545,
         "alias": "Contents.Item.Desc.9200302",
         "text": "用于强化装备的卷轴, 强化卷品质分为3种<br/>一般:+1<br/>祝福:+1~2 (<=+6物品有30%几率+2) <br/>诅咒:-1"
@@ -3814,21 +3814,21 @@
     },
     "99000552": {
         "deprecated": false,
-        "Dev_Desc": "무기 강화 주문서 (각인)",
+        "Dev_Desc": "장신구 강화 주문서 (각인)",
         "id": 99000552,
         "alias": "Contents.Item.Desc.9200310",
         "text": "用于强化装备的卷轴, 强化卷品质分为3种<br/>一般:+1<br/>祝福:+1~2 (<=+6物品有30%几率+2) <br/>诅咒:-1\n\n[商店]可通过金等[hyeophaeng],[森林小径而获得."
     },
     "99000553": {
         "deprecated": false,
-        "Dev_Desc": "축복 무기 강화 주문서 (각인)",
+        "Dev_Desc": "축복 장신구 강화 주문서 (각인)",
         "id": 99000553,
         "alias": "Contents.Item.Desc.9200311",
         "text": "用于强化的材料.\n\n一般:+1\n祝福:+1~2\n诅咒:-1\n\n当强化低于或等于+6装备时使用此卷轴有30％的成功率概率直接+2."
     },
     "99000554": {
         "deprecated": false,
-        "Dev_Desc": "저주받은 무기 강화 주문서 (각인)",
+        "Dev_Desc": "저주받은 장신구 강화 주문서 (각인)",
         "id": 99000554,
         "alias": "Contents.Item.Desc.9200312",
         "text": "用于强化装备的卷轴, 强化卷品质分为3种<br/>一般:+1<br/>祝福:+1~2 (<=+6物品有30%几率+2) <br/>诅咒:-1"
@@ -3877,21 +3877,21 @@
     },
     "99000561": {
         "deprecated": false,
-        "Dev_Desc": "무기 제련석",
+        "Dev_Desc": "장신구 제련석",
         "id": 99000561,
         "alias": "Contents.Item.Desc.9200350",
         "text": "让武器拥有强大力量的神秘石头."
     },
     "99000562": {
         "deprecated": false,
-        "Dev_Desc": "축복받은 무기 제련석",
+        "Dev_Desc": "축복받은 장신구 제련석",
         "id": 99000562,
         "alias": "Contents.Item.Desc.9200351",
         "text": "让武器拥有强大力量的神秘石头."
     },
     "99000563": {
         "deprecated": false,
-        "Dev_Desc": "저주받은 무기 제련석",
+        "Dev_Desc": "저주받은 장신구 제련석",
         "id": 99000563,
         "alias": "Contents.Item.Desc.9200352",
         "text": "清除武器上的冶炼数值."
@@ -3940,21 +3940,21 @@
     },
     "99000570": {
         "deprecated": false,
-        "Dev_Desc": "무기 제련석 (각인)",
+        "Dev_Desc": "장신구 제련석 (각인)",
         "id": 99000570,
         "alias": "Contents.Item.Desc.9200360",
         "text": "让武器拥有强大力量的神秘石头."
     },
     "99000571": {
         "deprecated": false,
-        "Dev_Desc": "축복받은 무기 제련석 (각인)",
+        "Dev_Desc": "축복받은 장신구 제련석 (각인)",
         "id": 99000571,
         "alias": "Contents.Item.Desc.9200361",
         "text": "让武器拥有强大力量的神秘石头."
     },
     "99000572": {
         "deprecated": false,
-        "Dev_Desc": "저주받은 무기 제련석 (각인)",
+        "Dev_Desc": "저주받은 장신구 제련석 (각인)",
         "id": 99000572,
         "alias": "Contents.Item.Desc.9200362",
         "text": "清除武器上的冶炼数值."
@@ -4157,28 +4157,28 @@
     },
     "99000601": {
         "deprecated": false,
-        "Dev_Desc": "희귀 무기 제작 비법서",
+        "Dev_Desc": "희귀 장신구 제작 비법서",
         "id": 99000601,
         "alias": "Contents.Item.Desc.9200422",
         "text": "可以制作稀有以上等级装备的秘方."
     },
     "99000602": {
         "deprecated": false,
-        "Dev_Desc": "영웅 무기 제작 비법서",
+        "Dev_Desc": "영웅 장신구 제작 비법서",
         "id": 99000602,
         "alias": "Contents.Item.Desc.9200423",
         "text": "可以制作英雄以上等级装备的秘方."
     },
     "99000603": {
         "deprecated": false,
-        "Dev_Desc": "전설 무기 제작 비법서",
+        "Dev_Desc": "전설 장신구 제작 비법서",
         "id": 99000603,
         "alias": "Contents.Item.Desc.9200424",
         "text": "传说以上等级装备的制作方法."
     },
     "99000604": {
         "deprecated": false,
-        "Dev_Desc": "심연의 무기 제작 비법서",
+        "Dev_Desc": "심연의 장신구 제작 비법서",
         "id": 99000604,
         "alias": "Contents.Item.Desc.9200425",
         "text": "制作深渊装备所需的秘方."
@@ -4449,7 +4449,7 @@
     },
     "99000677": {
         "deprecated": false,
-        "Dev_Desc": "IAP 쿠폰 발급 테스트용 아이템 ( 무기 )",
+        "Dev_Desc": "IAP 쿠폰 발급 테스트용 아이템 ( 장신구 )",
         "id": 99000677,
         "text": "使用时根据指定几率获得守护灵."
     },
@@ -5434,28 +5434,28 @@
     },
     "99000818": {
         "deprecated": false,
-        "Dev_Desc": "희귀 무기 제작 비법서 (각인)",
+        "Dev_Desc": "희귀 장신구 제작 비법서 (각인)",
         "id": 99000818,
         "alias": "Contents.Item.Desc.9200456",
         "text": "可以制作稀有以上等级装备的秘方."
     },
     "99000819": {
         "deprecated": false,
-        "Dev_Desc": "영웅 무기 제작 비법서 (각인)",
+        "Dev_Desc": "영웅 장신구 제작 비법서 (각인)",
         "id": 99000819,
         "alias": "Contents.Item.Desc.9200457",
         "text": "可以制作英雄以上等级装备的秘方."
     },
     "99000820": {
         "deprecated": false,
-        "Dev_Desc": "전설 무기 제작 비법서 (각인)",
+        "Dev_Desc": "전설 장신구 제작 비법서 (각인)",
         "id": 99000820,
         "alias": "Contents.Item.Desc.9200458",
         "text": "传说以上等级装备的制作方法."
     },
     "99000821": {
         "deprecated": false,
-        "Dev_Desc": "심연의 무기 제작 비법서 (각인)",
+        "Dev_Desc": "심연의 장신구 제작 비법서 (각인)",
         "id": 99000821,
         "alias": "Contents.Item.Desc.9200459",
         "text": "制作深渊装备所需的秘方."
@@ -5525,7 +5525,7 @@
     },
     "99000831": {
         "deprecated": false,
-        "Dev_Desc": "희귀 무기 제작 비법서 조각 (각인)",
+        "Dev_Desc": "희귀 장신구 제작 비법서 조각 (각인)",
         "id": 99000831,
         "alias": "Contents.Item.Desc.9200469",
         "text": "可以制作稀有武器制作秘方书."
@@ -5553,7 +5553,7 @@
     },
     "99000835": {
         "deprecated": false,
-        "Dev_Desc": "영웅 무기 제작 비법서 조각 (각인)",
+        "Dev_Desc": "영웅 장신구 제작 비법서 조각 (각인)",
         "id": 99000835,
         "alias": "Contents.Item.Desc.9200473",
         "text": "可以制作英雄武器制作秘方书."
@@ -5581,7 +5581,7 @@
     },
     "99000839": {
         "deprecated": false,
-        "Dev_Desc": "전설 무기 제작 비법서 조각 (각인)",
+        "Dev_Desc": "전설 장신구 제작 비법서 조각 (각인)",
         "id": 99000839,
         "alias": "Contents.Item.Desc.9200477",
         "text": "可以制作传说武器制作秘方书."
@@ -5665,7 +5665,7 @@
     },
     "99000851": {
         "deprecated": false,
-        "Dev_Desc": "상급 무기 상자 (각인)",
+        "Dev_Desc": "상급 장신구 상자 (각인)",
         "id": 99000851,
         "alias": "Contents.Item.Desc.9200563",
         "text": "使用时可获得上级绑定武器."
@@ -6025,14 +6025,14 @@
     },
     "99000906": {
         "deprecated": false,
-        "Dev_Desc": "영웅 / 번개베기 / 무기스킬 / 각인",
+        "Dev_Desc": "영웅 / 번개베기 / 장신구스킬 / 각인",
         "id": 99000906,
         "alias": "Contents.Item.Desc.9100151",
         "text": "快速挥剑造成伤害.\n有一定几率触发 \"眩晕\" 效果."
     },
     "99000907": {
         "deprecated": false,
-        "Dev_Desc": "영웅 / 구름베기 / 무기스킬 / 각인",
+        "Dev_Desc": "영웅 / 구름베기 / 장신구스킬 / 각인",
         "id": 99000907,
         "alias": "Contents.Item.Desc.9100152",
         "text": "连续向上，造成强烈伤害..\n有一定几率触发 \"腾空\" 效果.\n从空中掉下来后触发 \"眩晕\" 效果.\n\"腾空\", \"眩晕\" 用于处于状态的目标."
@@ -7300,7 +7300,7 @@
     },
     "99001110": {
         "deprecated": false,
-        "Dev_Desc": "영웅 / 선풍 / 무기스킬 / 각인",
+        "Dev_Desc": "영웅 / 선풍 / 장신구스킬 / 각인",
         "id": 99001110,
         "alias": "Contents.Item.Desc.9100351",
         "text": "投掷斧头进行攻击.\n有一定几率赋予“眩晕”效果."
@@ -12910,7 +12910,7 @@
     },
     "99002098": {
         "deprecated": false,
-        "Dev_Desc": "영웅 무기 상자",
+        "Dev_Desc": "영웅 장신구 상자",
         "id": 99002098,
         "alias": "Contents.Item.Desc.9900013",
         "text": "使用时有几率获得一种物品.\n(等级：上级~英雄)"
@@ -13155,7 +13155,7 @@
     },
     "99002133": {
         "deprecated": false,
-        "Dev_Desc": "빛나는 무기 강화 주문서 상자",
+        "Dev_Desc": "빛나는 장신구 강화 주문서 상자",
         "id": 99002133,
         "alias": "Contents.Item.Desc.9201112",
         "text": "使用时根据指定几率可获得以下物品中的1种.\n受到祝福的武器强化卷轴(绑定)1个\n武器强化卷轴(绑定)1个\n武器强化卷轴(绑定)2个\n武器强化卷轴(绑定)3个"
@@ -13372,42 +13372,42 @@
     },
     "99002170": {
         "deprecated": false,
-        "Dev_Desc": "개척자 무기 상자: 검사",
+        "Dev_Desc": "개척자 장신구 상자: 검사",
         "id": 99002170,
         "alias": "Contents.Item.Desc.9900020",
         "text": "使用可获得上级武器,武器强化卷轴."
     },
     "99002171": {
         "deprecated": false,
-        "Dev_Desc": "개척자 무기 상자: 권사",
+        "Dev_Desc": "개척자 장신구 상자: 권사",
         "id": 99002171,
         "alias": "Contents.Item.Desc.9900021",
         "text": "使用可获得上级武器,武器强化卷轴."
     },
     "99002172": {
         "deprecated": false,
-        "Dev_Desc": "개척자 무기 상자: 역사",
+        "Dev_Desc": "개척자 장신구 상자: 역사",
         "id": 99002172,
         "alias": "Contents.Item.Desc.9900022",
         "text": "使用可获得上级武器,武器强化卷轴."
     },
     "99002173": {
         "deprecated": false,
-        "Dev_Desc": "개척자 무기 상자: 기공사",
+        "Dev_Desc": "개척자 장신구 상자: 기공사",
         "id": 99002173,
         "alias": "Contents.Item.Desc.9900023",
         "text": "使用可获得上级武器,武器强化卷轴."
     },
     "99002174": {
         "deprecated": false,
-        "Dev_Desc": "개척자 무기 상자: 궁사",
+        "Dev_Desc": "개척자 장신구 상자: 궁사",
         "id": 99002174,
         "alias": "Contents.Item.Desc.9900024",
         "text": "使用可获得上级武器,武器强化卷轴."
     },
     "99002175": {
         "deprecated": false,
-        "Dev_Desc": "개척자 무기 상자: 도사",
+        "Dev_Desc": "개척자 장신구 상자: 도사",
         "id": 99002175,
         "alias": "Contents.Item.Desc.9900025",
         "text": "使用可获得上级武器,武器强化卷轴."
@@ -13428,7 +13428,7 @@
     },
     "99002178": {
         "deprecated": false,
-        "Dev_Desc": "무림 개척자 무기 상자",
+        "Dev_Desc": "무림 개척자 장신구 상자",
         "id": 99002178,
         "alias": "Contents.Item.Desc.9900028",
         "text": "使用时可在以下物品中选择1种获得.\n[剑]+6万月剑(绑定)1个\n[权甲]+6镇月权甲(绑定)1个\n[斧头]+6个月部(绑定)1个\n[气功牌]+6秒天气功牌(绑定)1个\n[弓]+6白佑宫(绑定)1个\n[法种]+6鬼怪铃铛(绑定)1个"
@@ -15227,7 +15227,7 @@
     },
     "99002435": {
         "deprecated": false,
-        "Dev_Desc": "월광 전설 무기 상자 (각인)",
+        "Dev_Desc": "월광 전설 장신구 상자 (각인)",
         "id": 99002435,
         "alias": "Contents.Item.Desc.9900126",
         "text": "使用时有几率获得绑定武器."
@@ -15311,7 +15311,7 @@
     },
     "99002447": {
         "deprecated": false,
-        "Dev_Desc": "월광 전설 무기 상자",
+        "Dev_Desc": "월광 전설 장신구 상자",
         "id": 99002447,
         "alias": "Contents.Item.Desc.9900138",
         "text": "使用时有几率获得武器."
@@ -15423,7 +15423,7 @@
     },
     "99002464": {
         "deprecated": false,
-        "Dev_Desc": "무기 강화 주문서 (각인)",
+        "Dev_Desc": "장신구 강화 주문서 (각인)",
         "id": 99002464,
         "alias": "Contents.Item.Desc.9900155",
         "text": "用于强化的材料.可通过<br/>普通：1<br/>祝福：1~2<br/>诅咒：-1\n[证物兑换奖],[商店],[悬赏],[黄金森林路]等获得."
@@ -15702,7 +15702,7 @@
     },
     "99002504": {
         "deprecated": false,
-        "Dev_Desc": "희귀 무기 제작 비법서 조각 (각인)",
+        "Dev_Desc": "희귀 장신구 제작 비법서 조각 (각인)",
         "id": 99002504,
         "alias": "Contents.Item.Desc.9200469",
         "text": "可以制作稀有武器制作秘法书."
@@ -15729,7 +15729,7 @@
     },
     "99002508": {
         "deprecated": false,
-        "Dev_Desc": "영웅 무기 제작 비법서 조각 (각인)",
+        "Dev_Desc": "영웅 장신구 제작 비법서 조각 (각인)",
         "id": 99002508,
         "alias": "Contents.Item.Desc.9200473",
         "text": "可以制作英雄武器制作秘法书."
@@ -16212,7 +16212,7 @@
     },
     "99002577": {
         "deprecated": false,
-        "Dev_Desc": "한밤 무기 강화 주문서 상자",
+        "Dev_Desc": "한밤 장신구 강화 주문서 상자",
         "id": 99002577,
         "alias": "Contents.Item.Desc.9900184",
         "text": "使用时有几率获得以下物品中的一种.\n-受到祝福的武器强化卷轴(活动)1个\n-武器强化卷轴(活动)1个\n-武器强化卷轴(活动)2个\n-武器强化卷轴(活动)3个"
@@ -16233,7 +16233,7 @@
     },
     "99002580": {
         "deprecated": false,
-        "Dev_Desc": "희귀 무기 선택 상자(각인)",
+        "Dev_Desc": "희귀 장신구 선택 상자(각인)",
         "id": 99002580,
         "alias": "Contents.Item.Desc.9202064",
         "text": "使用时可获得稀有等级绑定武器."
@@ -16593,7 +16593,7 @@
     },
     "99002633": {
         "deprecated": false,
-        "Dev_Desc": "저주받은 무기 강화 주문서(이벤트)",
+        "Dev_Desc": "저주받은 장신구 강화 주문서(이벤트)",
         "id": 99002633,
         "alias": "Contents.Item.Desc.9900238",
         "text": "用于强化的材料.<br/>普通：1<br/>祝福：1~2<br/>诅咒：-1"
@@ -16928,21 +16928,21 @@
     },
     "99002681": {
         "deprecated": false,
-        "Dev_Desc": "대사형의 무기 상자(30레벨)",
+        "Dev_Desc": "대사형의 장신구 상자(30레벨)",
         "id": 99002681,
         "alias": "Contents.Item.Desc.9900280",
         "text": "使用时可获得稀有武器(1个)的武器箱子。"
     },
     "99002682": {
         "deprecated": false,
-        "Dev_Desc": "대사형의 무기 상자(40레벨)",
+        "Dev_Desc": "대사형의 장신구 상자(40레벨)",
         "id": 99002682,
         "alias": "Contents.Item.Desc.9900281",
         "text": "使用时可获得稀有武器(1个)的武器箱子。"
     },
     "99002683": {
         "deprecated": false,
-        "Dev_Desc": "대사형의 무기 상자(50레벨)",
+        "Dev_Desc": "대사형의 장신구 상자(50레벨)",
         "id": 99002683,
         "alias": "Contents.Item.Desc.9900282",
         "text": "使用时可获得稀有武器(1个)的武器箱子。"
@@ -17397,21 +17397,21 @@
     },
     "99002753": {
         "deprecated": false,
-        "Dev_Desc": "3주차 대사형의 무기 상자(30레벨)",
+        "Dev_Desc": "3주차 대사형의 장신구 상자(30레벨)",
         "id": 99002753,
         "alias": "Contents.Item.Desc.9900352",
         "text": "使用时可以获得一些稀有武器(1个)的武器箱."
     },
     "99002754": {
         "deprecated": false,
-        "Dev_Desc": "3주차 대사형의 무기 상자(40레벨)",
+        "Dev_Desc": "3주차 대사형의 장신구 상자(40레벨)",
         "id": 99002754,
         "alias": "Contents.Item.Desc.9900353",
         "text": "使用时可以获得一些稀有武器(1个)的武器箱."
     },
     "99002755": {
         "deprecated": false,
-        "Dev_Desc": "3주차 대사형의 무기 상자(50레벨)",
+        "Dev_Desc": "3주차 대사형의 장신구 상자(50레벨)",
         "id": 99002755,
         "alias": "Contents.Item.Desc.9900354",
         "text": "使用时可以获得一些稀有武器(1个)的武器箱."
@@ -17432,7 +17432,7 @@
     },
     "99002758": {
         "deprecated": false,
-        "Dev_Desc": "신비한 무기 상자(이벤트)",
+        "Dev_Desc": "신비한 장신구 상자(이벤트)",
         "id": 99002758,
         "alias": "Contents.Item.Desc.9900357",
         "text": "使用时可以根据规定的概率获得下列物品.\n\n——稀有武器制作秘方书碎片(绑定)\n——被遗忘的英雄武器制作秘方书碎片(绑定)\n——武器强化咒语书(绑定)\n——受到祝福的武器强化咒语书(绑定)\n——稀有武器(绑定)\n——英雄武器选择箱(绑定)"
@@ -17446,21 +17446,21 @@
     },
     "99002760": {
         "deprecated": false,
-        "Dev_Desc": "잊혀진 영웅 무기 제작 비법서(각인)",
+        "Dev_Desc": "잊혀진 영웅 장신구 제작 비법서(각인)",
         "id": 99002760,
         "alias": "Contents.Item.Desc.9900359",
         "text": "英雄以上等级装备制作的秘诀."
     },
     "99002761": {
         "deprecated": false,
-        "Dev_Desc": "잊혀진 영웅 무기 제작 비법서 조각(각인)",
+        "Dev_Desc": "잊혀진 영웅 장신구 제작 비법서 조각(각인)",
         "id": 99002761,
         "alias": "Contents.Item.Desc.9900360",
         "text": "你可以制作英雄武器秘方书."
     },
     "99002762": {
         "deprecated": false,
-        "Dev_Desc": "영웅 무기 선택 상자(각인)",
+        "Dev_Desc": "영웅 장신구 선택 상자(각인)",
         "id": 99002762,
         "alias": "Contents.Item.Desc.9900361",
         "text": "使用时可以从下列物品中选择一种获得.\n\n——被遗忘的执行者之剑\n——被遗忘的定罪之拳\n——被遗忘的罪孽之镜\n——被遗忘的狂神之斧\n——被遗忘的惩罚者之弓\n——被遗忘的八头领."
@@ -18475,21 +18475,21 @@
     },
     "99002908": {
         "deprecated": false,
-        "Dev_Desc": "대사형의 무기 상자(30레벨)",
+        "Dev_Desc": "대사형의 장신구 상자(30레벨)",
         "id": 99002908,
         "alias": "Contents.Item.Desc.9900507",
         "text": "使用时：这是一个武器箱，您可以在其中获得一些稀有武器。."
     },
     "99002909": {
         "deprecated": false,
-        "Dev_Desc": "대사형의 무기 상자(40레벨)",
+        "Dev_Desc": "대사형의 장신구 상자(40레벨)",
         "id": 99002909,
         "alias": "Contents.Item.Desc.9900508",
         "text": "使用时：这是一个武器箱，您可以在其中获得一些稀有武器。."
     },
     "99002910": {
         "deprecated": false,
-        "Dev_Desc": "대사형의 무기 상자(50레벨)",
+        "Dev_Desc": "대사형의 장신구 상자(50레벨)",
         "id": 99002910,
         "alias": "Contents.Item.Desc.9900509",
         "text": "使用时：这是一个武器箱，您可以在其中获得一些稀有武器。."
@@ -18573,7 +18573,7 @@
     },
     "99002922": {
         "deprecated": false,
-        "Dev_Desc": "데일리 패스권",
+        "Dev_Desc": "데일리 패스권3",
         "id": 99002922,
         "alias": "Contents.Item.Desc.9202069",
         "text": "此物品可以激活‘每日通行证’奖励。\n\n* 注意\n赛季结束后，您将无法继续执行通行证任务。\n赛季结束一周后，未使用的通行证积分将过期将不再使用。补偿无法交换。"
@@ -19147,7 +19147,7 @@
     },
     "99003004": {
         "deprecated": false,
-        "Dev_Desc": "잊혀진 영웅의 무기 선택 상자(각인)",
+        "Dev_Desc": "잊혀진 영웅의 장신구 선택 상자(각인)",
         "id": 99003004,
         "alias": "Contents.Item.Desc.9900646",
         "text": "“可以通过选择一种被遗忘的英雄武器获得的宝箱。”"
@@ -19529,5 +19529,208 @@
         "id": 99003058,
         "alias": "Contents.Item.Desc.9900768",
         "text": "使用后可以获得3个红参魂碎片。<br/>(等级：英雄)"
+    },
+    "99003059": {
+        "deprecated": false,
+        "Dev_Desc": "데일리 패스권4",
+        "id": 99003059,
+        "alias": "Contents.Item.Desc.9202072",
+        "text": "“此物品可以激活‘每日通行证’奖励。\n\n* 注意\n赛季结束后，您将无法继续执行通行证任务。\n赛季结束一周后，未使用的通行证积分将过期将不再使用。补偿无法交换。”"
+    },
+    "99003060": {
+        "deprecated": false,
+        "Dev_Desc": "묵화의 희귀 수호령 확정 소환서(1회)(이벤트)",
+        "id": 99003060,
+        "alias": "Contents.Item.Desc.9900770",
+        "text": "“使用后，获得稀有守护灵之一。”"
+    },
+    "99003061": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 장신구 강화 주문서 상자(이벤트)",
+        "id": 99003061,
+        "alias": "Contents.Item.Desc.9900771",
+        "text": "“使用时，您可以根据设定的概率获得以下物品之一。\n\n- 祝福饰品增强卷轴（刻印）1ea\n- 饰品增强卷轴（刻印）1\n- 饰品增强卷轴（刻印）2 狗\n-饰品强化卷轴（雕刻）3"
+    },
+    "99003062": {
+        "deprecated": false,
+        "Dev_Desc": "경국지색01연합의 소혼의 병풍 선택 상자",
+        "id": 99003062,
+        "alias": "Contents.Item.Desc.9900772",
+        "text": "此物品是为了纪念庆国基色01服务器的'Nyangnyang Corps'、'Perfect'和'Haedongmun'教派首次攻击白色金属时击败所有野战boss而创建的。\n- Old Screen of Souls: Stone Hand Dongchung （事件）\n- 旧魂之屏：破碎的守护者（事件）\n- 旧魂之屏：奇怪的哇（事件）”"
+    },
+    "99003063": {
+        "deprecated": false,
+        "Dev_Desc": "낡은 소혼의 병풍: 바위손 동충(이벤트)",
+        "id": 99003063,
+        "alias": "Contents.Item.Desc.9900773",
+        "text": "“此物品用于蒙帕Boss召唤活动。\n\n这是可以在蒙帕庄园的召唤区使用的灵魂屏幕。在这种情况下，即使在战斗中boss也会消失。”"
+    },
+    "99003064": {
+        "deprecated": false,
+        "Dev_Desc": "낡은 소혼의 병풍: 망가진 수호자(이벤트)",
+        "id": 99003064,
+        "alias": "Contents.Item.Desc.9900774",
+        "text": "“此物品用于Munpa Boss Summon Event。\n\n这是可以在Munpa庄园的召唤现场使用的灵魂屏幕。\n使用屏幕在角色面前召唤一个破碎的守护者灵魂。BOSS即使在战斗中也会消失。”"
+    },
+    "99003065": {
+        "deprecated": false,
+        "Dev_Desc": "낡은 소혼의 병풍: 이상한 우와(이벤트)",
+        "id": 99003065,
+        "alias": "Contents.Item.Desc.9900775",
+        "text": "“此道具用于门派BOSS召唤活动。\n\n这是可以在月之庄园的召唤场使用的灵魂画面。BOSS即使在战斗中也会消失。”"
+    },
+    "99003066": {
+        "deprecated": false,
+        "Dev_Desc": "평범한 소혼의 병풍: 강철손 동충(이벤트)",
+        "id": 99003066,
+        "alias": "Contents.Item.Desc.9900776",
+        "text": "“这个道具在门派BOSS召唤活动中使用。\n\n这是可以在月之庄园的召唤场使用的灵魂画面。这种情况下，BOSS即使在战斗中也会消失。”"
+    },
+    "99003067": {
+        "deprecated": false,
+        "Dev_Desc": "평범한 소혼의 병풍: 폭주한 수호자(이벤트)",
+        "id": 99003067,
+        "alias": "Contents.Item.Desc.9900777",
+        "text": "“这个道具是在门派BOSS召唤活动中使用的。\n\n这是可以在月之庄园的召唤场使用的灵魂画面。这种情况下，BOSS即使在战斗中也会消失。”"
+    },
+    "99003068": {
+        "deprecated": false,
+        "Dev_Desc": "평범한 소혼의 병풍: 괴이한 우와(이벤트)",
+        "id": 99003068,
+        "alias": "Contents.Item.Desc.9900778",
+        "text": "“这个道具是在门巴Boss召唤活动中使用的。\n\n这是可以在门巴庄园的召唤地点使用的灵魂画面。即使在战斗中boss也会消失。”"
+    },
+    "99003069": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 소혼의 병풍: 붉은손 동충(이벤트)",
+        "id": 99003069,
+        "alias": "Contents.Item.Desc.9900779",
+        "text": "『本道具在门派BOSS召唤活动中使用。\n\n这是可以在月之府邸召唤场使用的灵魂画面。在这种情况下，BOSS即使在战斗中也会消失。 ”"
+    },
+    "99003070": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 소혼의 병풍: 파괴의 수호자(이벤트)",
+        "id": 99003070,
+        "alias": "Contents.Item.Desc.9900780",
+        "text": "“此道具用于门巴BOSS召唤活动。\n\n这是可以在门巴庄园召唤场使用的灵魂画面。这种情况下，即使在战斗中BOSS也会消失。”"
+    },
+    "99003071": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 소혼의 병풍: 타락한 우와(이벤트)",
+        "id": 99003071,
+        "alias": "Contents.Item.Desc.9900781",
+        "text": "“此物品用于 Munpa Boss 召唤事件。\n\n这是一个可以在人类之家庄园的召唤场中使用的灵魂屏幕。\n一个腐化的 Uwa 被召唤到角色面前使用女术士的画面。\n如果在召唤后1小时内没有被击败，即使在战斗中boss也会消失。”"
+    },
+    "99003072": {
+        "deprecated": false,
+        "Dev_Desc": "천하사절 수호령 제작서",
+        "id": 99003072,
+        "alias": "Contents.Item.Desc.9900782",
+        "text": "“以下物品可以使用守护灵配方的制作材料制作。\n\n-守护灵召唤卷轴（11次）（刻印）\n-辉煌使者守护灵召唤卷轴（1次）（刻印）”"
+    },
+    "99003073": {
+        "deprecated": false,
+        "Dev_Desc": "천하사절 수호령 소환서(11회)(각인)",
+        "id": 99003073,
+        "alias": "Contents.Item.Desc.9900783",
+        "text": "“使用时，可以按照设定的概率获得守护灵。\n（等级：普通~英雄）”"
+    },
+    "99003074": {
+        "deprecated": false,
+        "Dev_Desc": "찬란한 천하사절 수호령 소환서(1회)(각인)",
+        "id": 99003074,
+        "alias": "Contents.Item.Desc.9900784",
+        "text": "“使用时可以按照设定的概率获得守护灵。\n（稀有~英雄）”"
+    },
+    "99003075": {
+        "deprecated": false,
+        "Dev_Desc": "심연의 빛나는 수호령 소환서(1회)",
+        "id": 99003075,
+        "alias": "Contents.Item.Desc.9900785",
+        "text": "“使用时，可以按照设定的概率获得守护灵。\n（等级：普通~英雄）”"
+    },
+    "99003076": {
+        "deprecated": false,
+        "Dev_Desc": "심연의 빛나는 수호령 소환서(11회)",
+        "id": 99003076,
+        "alias": "Contents.Item.Desc.9900786",
+        "text": "“使用时，可以按照设定的概率获得守护灵。\n（等级：普通~英雄）”"
+    },
+    "99003077": {
+        "deprecated": false,
+        "Dev_Desc": "심연의 빛나는 수호령 소환서(1회)(이벤트)",
+        "id": 99003077,
+        "alias": "Contents.Item.Desc.9900787",
+        "text": "“使用时，可以按照设定的概率获得守护灵。\n（等级：普通~英雄）”"
+    },
+    "99003078": {
+        "deprecated": false,
+        "Dev_Desc": "심연의 빛나는 수호령 소환서(11회)(이벤트)",
+        "id": 99003078,
+        "alias": "Contents.Item.Desc.9900788",
+        "text": "“使用时，可以按照设定的概率获得守护灵。\n（等级：普通~英雄）”"
+    },
+    "99003079": {
+        "deprecated": false,
+        "Dev_Desc": "충전석: 심연의 틈(30분)(각인)",
+        "id": 99003079,
+        "alias": "Contents.Item.Desc.9900789",
+        "text": "“在深渊裂谷地牢中花费的时间收费。”"
+    },
+    "99003080": {
+        "deprecated": false,
+        "Dev_Desc": "충전석: 각성의 미궁(심층)(30분)(각인)",
+        "id": 99003080,
+        "alias": "Contents.Item.Desc.9900790",
+        "text": "“在觉醒迷宫（深层）地牢中花费的时间收费。”"
+    },
+    "99003081": {
+        "deprecated": false,
+        "Dev_Desc": "푸른 수와족 수호령 소환서(1회)(각인)",
+        "id": 99003081,
+        "alias": "Contents.Item.Desc.9900791",
+        "text": "“使用后，获得蓝诹访守护灵。”"
+    },
+    "99003082": {
+        "deprecated": false,
+        "Dev_Desc": "낙엽 발발이 수호령 소환서(1회)(각인)",
+        "id": 99003082,
+        "alias": "Contents.Item.Desc.9900792",
+        "text": "“使用后，叶枯病获得守护之灵。”"
+    },
+    "99003083": {
+        "deprecated": false,
+        "Dev_Desc": "뭉게구름 수호령 소환서(1회)(각인)",
+        "id": 99003083,
+        "alias": "Contents.Item.Desc.9900793",
+        "text": "“使用后，获得浮云守护灵。”"
+    },
+    "99003084": {
+        "deprecated": false,
+        "Dev_Desc": "해무진 수호령 소환서(1회)(각인)",
+        "id": 99003084,
+        "alias": "Contents.Item.Desc.9900794",
+        "text": "“使用后，获得海木金守护之魂。”"
+    },
+    "99003085": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 영웅 재료 상자",
+        "id": 99003085,
+        "alias": "Contents.Item.Desc.9900795",
+        "text": "“使用时，可以按照设定的概率获得以下物品之一。\n\n-秘密（雕刻）500ea\n-冷熔火焰3ea\n-天体石5ea\n-千年华亭5ea\n-多年生雪5ea\n-Elixir : 1 野参 \n- 龙焰 1 \n- Jinkyung : Sammae 进化 1 \n- 英雄武器制作配方 1 \n- 英雄盔甲制作配方 1 件"
+    },
+    "99003086": {
+        "deprecated": false,
+        "Dev_Desc": "비결 상자(각인)",
+        "id": 99003086,
+        "alias": "Contents.Item.Desc.9900796",
+        "text": "“使用时，可以按照设定的概率获得以下道具之一。\n\n-Secret 100\n-Secret 200\n-Secret 300”"
+    },
+    "99003087": {
+        "deprecated": false,
+        "Dev_Desc": "찬란한 달빛 상자",
+        "id": 99003087,
+        "alias": "Contents.Item.Desc.9900797",
+        "text": "”使用时，可以按照设定的概率获得以下物品之一。\n\n-秘密（印记）100\n-突破精华碎片（印记）20\n-精华碎片（印记）50\n-月光10元素\n- Jingyeong：5 件\n- Jinkyung：Sammaejinhwa 1ea\n- 药剂：野山参1ea\n- 日月元素1ea\n- Doin's 元素1\n- Youngsu's Spirit 1\n- 月光1 个装袋"
     }
 }
