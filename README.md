@@ -27,7 +27,7 @@ BTC - bc1qpqnyfvz36u904pw60tv5ky8da38aq0wy7l7rk6
 ## Install
 
 * ONLY PC
-* [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/releases/tag/0.7.5) Latest Release (B2_Data_00002.pak);
+* [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/releases/tag/1.0.0) Latest Release (B2_Data_00002.pak);
 * Place the file B2_Data_00002.pak in the \Game Folder\B2\Content\Paks;
 * And you need to go folder C:\Users\UserName\AppData\Local\B2\Saved\Option and open file LocalOption.json;
 * Optional for Chinese you need download file B2-WindowsNoEditor_00003.pak
@@ -36,7 +36,7 @@ BTC - bc1qpqnyfvz36u904pw60tv5ky8da38aq0wy7l7rk6
 
 ## Source-Install
 * ONLY PC
-* Download Source code (zip) [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/releases/tag/0.7.5)
+* Download Source code (zip) [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/releases/tag/1.0.0)
 * You need to download the source code and unpack it
 * In the /Blade-and-Soul-2-Localization-0.7.0/ folder there is an en_US folder, its contents must be transferred in the folder \Game Folder\B2\Data\Text\
 * And You need Rename en_US to ru_RU.
