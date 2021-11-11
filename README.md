@@ -49,10 +49,10 @@ BTC - bc1qpqnyfvz36u904pw60tv5ky8da38aq0wy7l7rk6
 
 ## Mobile-Install
 * ONLY Android
-* [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/releases/tag/0.7.0_M) Latest Release (patch.32.com.ncsoft.bns219.obb);
-* patch.32.com.ncsoft.bns219_en.obb - English Language; patch.32.com.ncsoft.bns219_ru.obb - Russian Language; patch.32.com.ncsoft.bns219_zh.obb - Chinese Language;
-* Place the file patch.32.com.ncsoft.bns219_en.obb in the "Internal Memory\Android\obb\com.ncsoft.bns219";
-* Rename the file patch.32.com.ncsoft.bns219_en.obb to get patch.32.com.ncsoft.bns219.obb;
+* [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/releases/tag/1.0.0_M) Latest Release (patch.41.com.ncsoft.bns219.obb);
+* patch.41.com.ncsoft.bns219_en.obb - English Language; patch.41.com.ncsoft.bns219_ru.obb - Russian Language; patch.41.com.ncsoft.bns219_zh.obb - Chinese Language;
+* Place the file patch.41.com.ncsoft.bns219_en.obb in the "Internal Memory\Android\obb\com.ncsoft.bns219";
+* Rename the file patch.41.com.ncsoft.bns219_en.obb to get patch.41.com.ncsoft.bns219.obb;
 * And that's it you have English language or any other;
 
 ## About
