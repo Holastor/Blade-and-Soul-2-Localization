@@ -2901,7 +2901,7 @@
         "Dev_Desc": "용봉탕 / 경험치 획득량 증가 5%_옵션",
         "id": 89500442,
         "alias": "Contents.Effect.Option.9200060",
-        "text": "경험치 획득량 +10%"
+        "text": "경험치 획득량 증가 +10%"
     },
     "89500443": {
         "deprecated": false,
@@ -2928,7 +2928,7 @@
         "Dev_Desc": "빛나는 용봉탕 / 경험치 획득량 증가 10%_옵션",
         "id": 89500446,
         "alias": "Contents.Effect.Option.9200061",
-        "text": "경험치 획득량 +10%"
+        "text": "경험치 획득량 증가 +10%"
     },
     "89500447": {
         "deprecated": false,
@@ -3778,21 +3778,21 @@
         "Dev_Desc": "경험치 랭킹 1위 ~ 10위 / 설명",
         "id": 89500568,
         "alias": "Contents.Effect.Option.8101",
-        "text": "생명력 절대 재생 +10\nPVE 명중 +2\nPVE 회피 +2\n보스 명중 +2\n보스 치명률 +2%\n소울 저항률 +2%"
+        "text": "생명력 절대 재생 +10\nPVE 명중 +2\nPVE 회피 +2\n보스 명중 +2\n보스 치명률 +2%\n상대 소울 억제력 +2%"
     },
     "89500569": {
         "deprecated": false,
         "Dev_Desc": "경험치 랭킹 11위 ~ 30위 / 설명",
         "id": 89500569,
         "alias": "Contents.Effect.Option.8102",
-        "text": "생명력 절대 재생 +8\nPVE 명중 +2\nPVE 회피 +2\n보스 명중 +2\n보스 치명률 +1%\n소울 저항률 +1.5%"
+        "text": "생명력 절대 재생 +8\nPVE 명중 +2\nPVE 회피 +2\n보스 명중 +2\n보스 치명률 +1%\n상대 소울 억제력 +1.5%"
     },
     "89500570": {
         "deprecated": false,
         "Dev_Desc": "경험치 랭킹 31위 ~ 100위 / 설명",
         "id": 89500570,
         "alias": "Contents.Effect.Option.8103",
-        "text": "생명력 절대 재생 +6\nPVE 명중 +2\nPVE 회피 +2\n보스 명중 +1\n소울 저항률 +1%"
+        "text": "생명력 절대 재생 +6\nPVE 명중 +2\nPVE 회피 +2\n보스 명중 +1\n상대 소울 억제력 +1%"
     },
     "89500571": {
         "deprecated": false,
@@ -5012,49 +5012,49 @@
         "Dev_Desc": "검결 원기 2단계",
         "id": 89500747,
         "alias": "Contents.Effect.WaterBladeEffect.desc.2",
-        "text": "30% 확률로 내력 회복+1\n2초간 생명력 회복약 증가+1"
+        "text": "30% 확률로 내력 회복+1\n2초간 물약 회복량+1"
     },
     "89500748": {
         "deprecated": false,
         "Dev_Desc": "검결 원기 3단계",
         "id": 89500748,
         "alias": "Contents.Effect.WaterBladeEffect.desc.3",
-        "text": "50% 확률로 내력 회복+1\n2초간 생명력 회복약 증가+2"
+        "text": "50% 확률로 내력 회복+1\n2초간 물약 회복량+2"
     },
     "89500749": {
         "deprecated": false,
         "Dev_Desc": "검결 원기 4단계",
         "id": 89500749,
         "alias": "Contents.Effect.WaterBladeEffect.desc.4",
-        "text": "70% 확률로 내력 회복+1\n2초간 생명력 회복약 증가+2\n2초간 생명력 회복약 증가율+1%"
+        "text": "70% 확률로 내력 회복+1\n2초간 물약 회복량+2\n2초간 물약 회복률+1%"
     },
     "89500750": {
         "deprecated": false,
         "Dev_Desc": "검결 원기 5단계",
         "id": 89500750,
         "alias": "Contents.Effect.WaterBladeEffect.desc.5",
-        "text": "70% 확률로 내력 회복+1\n2초간 생명력 회복약 증가+3\n2초간 생명력 회복약 증가율+2%"
+        "text": "70% 확률로 내력 회복+1\n2초간 물약 회복량+3\n2초간 물약 회복률+2%"
     },
     "89500751": {
         "deprecated": false,
         "Dev_Desc": "검결 원기 6단계",
         "id": 89500751,
         "alias": "Contents.Effect.WaterBladeEffect.desc.6",
-        "text": "70% 확률로 내력 회복+2\n2초간 생명력 회복약 증가+4\n2초간 생명력 회복약 증가율+3%"
+        "text": "70% 확률로 내력 회복+2\n2초간 물약 회복량+4\n2초간 물약 회복률+3%"
     },
     "89500752": {
         "deprecated": false,
         "Dev_Desc": "검결 원기 7단계",
         "id": 89500752,
         "alias": "Contents.Effect.WaterBladeEffect.desc.7",
-        "text": "70% 확률로 내력 회복+2\n2초간 생명력 회복약 증가+5\n2초간 생명력 회복약 증가율+5%"
+        "text": "70% 확률로 내력 회복+2\n2초간 물약 회복량+5\n2초간 물약 회복률+5%"
     },
     "89500753": {
         "deprecated": false,
         "Dev_Desc": "검결 원기 8단계",
         "id": 89500753,
         "alias": "Contents.Effect.WaterBladeEffect.desc.8",
-        "text": "70% 확률로 내력 회복+2\n2초간 생명력 회복약 증가+5\n2초간 생명력 회복약 증가율+10%\n2초간 경험치 획득량 증가율+10%"
+        "text": "70% 확률로 내력 회복+2\n2초간 물약 회복량+5\n2초간 물약 회복률+10%\n2초간 경험치 획득량 증가율+10%"
     },
     "89500754": {
         "deprecated": false,
@@ -5254,28 +5254,28 @@
     },
     "89500782": {
         "deprecated": false,
-        "Dev_Desc": "묽은 용봉탕",
+        "Dev_Desc": "용봉탕",
         "id": 89500782,
         "alias": "Contents.Effect.Name.70101154",
-        "text": "묽은 용봉탕"
+        "text": "용봉탕"
     },
     "89500783": {
         "deprecated": false,
-        "Dev_Desc": "묽은 용봉탕",
+        "Dev_Desc": "용봉탕",
         "id": 89500783,
         "alias": "Contents.Effect.Desc.70101154",
         "text": "경험치 획득량 증가"
     },
     "89500784": {
         "deprecated": false,
-        "Dev_Desc": "묽은 용봉탕",
+        "Dev_Desc": "용봉탕",
         "id": 89500784,
         "alias": "Contents.Effect.Option.70101154",
-        "text": "경험치 획득량 +5%"
+        "text": "경험치 획득량 증가 +5%"
     },
     "89500785": {
         "deprecated": false,
-        "Dev_Desc": "묽은 용봉탕",
+        "Dev_Desc": "용봉탕",
         "id": 89500785,
         "alias": "Contents.Effect.Detail.70101154"
     },
@@ -5312,14 +5312,14 @@
         "Dev_Desc": "월광정기",
         "id": 89500790,
         "alias": "Contents.Effect.Option.70101155",
-        "text": "공격력 +3\n명중 +3\n방어력 +5\n경험치 획득량 +15%"
+        "text": "공격력 +3\n명중 +3\n방어력 +5\n경험치 획득량 증가 +15%"
     },
     "89500791": {
         "deprecated": false,
         "Dev_Desc": "찬란한 월광정기",
         "id": 89500791,
         "alias": "Contents.Effect.Option.70101156",
-        "text": "경험치 획득량 +30%\n방어력 +5\nHP +300\n힘, 솜씨, 지능 +1\n건강, 지혜, 민첩 +1\n모든 호신 +1\n모든 명중 +3"
+        "text": "경험치 획득량 증가 +30%\n방어력 +5\nHP +300\n힘, 솜씨, 지능 +1\n건강, 지혜, 민첩 +1\n모든 호신 +1\n모든 명중 +3"
     },
     "89500792": {
         "deprecated": false,
@@ -5351,7 +5351,7 @@
         "Dev_Desc": "TJ의 축복",
         "id": 89500796,
         "alias": "Contents.Effect.Option.70101157",
-        "text": "경험치 획득량 +20%\n금화 획득량 +20%"
+        "text": "경험치 획득량 증가 +20%\n금화 획득량 +20%"
     },
     "89500797": {
         "deprecated": false,
@@ -5446,5 +5446,32 @@
         "id": 89500810,
         "alias": "Contents.Effect.Name.70101167",
         "text": "양갱아범의 선물"
+    },
+    "89500811": {
+        "deprecated": false,
+        "Dev_Desc": "천상의 용봉탕 명칭",
+        "id": 89500811,
+        "alias": "Contents.Effect.Name.70101168",
+        "text": "천상의 용봉탕"
+    },
+    "89500812": {
+        "deprecated": false,
+        "Dev_Desc": "천상의 용봉탕 설명",
+        "id": 89500812,
+        "alias": "Contents.Effect.Desc.70101168",
+        "text": "경험치 획득량 증가"
+    },
+    "89500813": {
+        "deprecated": false,
+        "Dev_Desc": "천상의 용봉탕 옵션",
+        "id": 89500813,
+        "alias": "Contents.Effect.Option.70101168",
+        "text": "경험치 획득량 증가 +100%"
+    },
+    "89500814": {
+        "deprecated": false,
+        "Dev_Desc": "천상의 용봉탕 옵션설명",
+        "id": 89500814,
+        "alias": "Contents.Effect.Detail.70101168"
     }
 }

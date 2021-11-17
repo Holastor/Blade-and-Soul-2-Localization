@@ -1574,28 +1574,28 @@
         "Dev_Desc": "뇌성의 포효 / BM",
         "id": 95301001,
         "alias": "Contents.Item.Desc.5301001",
-        "text": "+3부터 호신 추가 상승\n+5부터 소울 저항률 추가 상승\n+6부터 통제 저항률 추가 상승"
+        "text": "+1부터 호신 추가 상승\n+3부터 상대 소울 억제력 추가 상승\n+5부터 통제 저항률 추가 상승\n+7부터 방어 무시 피해 감소 상승"
     },
     "95301002": {
         "deprecated": false,
         "Dev_Desc": "백화의 불꽃 / BM",
         "id": 95301002,
         "alias": "Contents.Item.Desc.5301002",
-        "text": "+3부터 공격력 추가 상승\n+5부터 치명률 추가 상승\n+6부터 무공 피해 증폭 추가 상승"
+        "text": "+1부터 공격력 추가 상승\n+3부터 치명률 추가 상승\n+5부터 무공 공격 증폭 추가 상승\n+7부터 소울 발동률 추가 상승"
     },
     "95304001": {
         "deprecated": false,
         "Dev_Desc": "질풍의 진노 / BM",
         "id": 95304001,
         "alias": "Contents.Item.Desc.5304001",
-        "text": "+3부터 무기 공격력 추가 상승\n+5부터 통제 적중률 추가 상승\n+6부터 기본 공격 속도 추가 상승"
+        "text": "+1부터 무기 공격력 추가 상승\n+3부터 통제 적중률 추가 상승\n+5부터 기본 공격 속도 추가 상승\n+7부터 방어 무시 공격력 추가 상승"
     },
     "95304002": {
         "deprecated": false,
         "Dev_Desc": "타락의 속삭임 / BM",
         "id": 95304002,
         "alias": "Contents.Item.Desc.5304002",
-        "text": "+3부터 방어력 추가 상승\n+5부터 무공 피해 내성 추가 상승\n+6부터 통제 저항률 추가 상승"
+        "text": "+1부터 방어력 추가 상승\n+3부터 무공 피해 내성 추가 상승\n+5부터 통제 저항률 추가 상승\n+7부터 치명 저항률 추가 상승"
     },
     "95307001": {
         "deprecated": false,
@@ -2729,5 +2729,107 @@
         "Dev_Desc": "번뇌의 노리개(각인)",
         "id": 95206448,
         "alias": "Contents.Item.Desc.5205410"
+    },
+    "95206449": {
+        "deprecated": false,
+        "Dev_Desc": "잊혀진 홍옥 귀걸이",
+        "id": 95206449,
+        "alias": "Contents.Item.Desc.5101601"
+    },
+    "95206450": {
+        "deprecated": false,
+        "Dev_Desc": "패왕의 귀걸이",
+        "id": 95206450,
+        "alias": "Contents.Item.Desc.5101602"
+    },
+    "95206451": {
+        "deprecated": false,
+        "Dev_Desc": "살귀의 낙인",
+        "id": 95206451,
+        "alias": "Contents.Item.Desc.5101603"
+    },
+    "95206452": {
+        "deprecated": false,
+        "Dev_Desc": "잊혀진 정심의 수주",
+        "id": 95206452,
+        "alias": "Contents.Item.Desc.5102603"
+    },
+    "95206453": {
+        "deprecated": false,
+        "Dev_Desc": "잊혀진 노림수의 팔찌",
+        "id": 95206453,
+        "alias": "Contents.Item.Desc.5104601"
+    },
+    "95206454": {
+        "deprecated": false,
+        "Dev_Desc": "화룡의 비늘",
+        "id": 95206454,
+        "alias": "Contents.Item.Desc.5104602"
+    },
+    "95206455": {
+        "deprecated": false,
+        "Dev_Desc": "대해의 분노",
+        "id": 95206455,
+        "alias": "Contents.Item.Desc.5104603"
+    },
+    "95206456": {
+        "deprecated": false,
+        "Dev_Desc": "홍안의 팔찌",
+        "id": 95206456,
+        "alias": "Contents.Item.Desc.5104604"
+    },
+    "95206457": {
+        "deprecated": false,
+        "Dev_Desc": "잊혀진 홍옥 귀걸이(각인)",
+        "id": 95206457,
+        "alias": "Contents.Item.Desc.5201601"
+    },
+    "95206458": {
+        "deprecated": false,
+        "Dev_Desc": "패왕의 귀걸이(각인)",
+        "id": 95206458,
+        "alias": "Contents.Item.Desc.5201602"
+    },
+    "95206459": {
+        "deprecated": false,
+        "Dev_Desc": "살귀의 낙인(각인)",
+        "id": 95206459,
+        "alias": "Contents.Item.Desc.5201603"
+    },
+    "95206460": {
+        "deprecated": false,
+        "Dev_Desc": "잊혀진 정심의 수주(각인)",
+        "id": 95206460,
+        "alias": "Contents.Item.Desc.5102603"
+    },
+    "95206461": {
+        "deprecated": false,
+        "Dev_Desc": "잊혀진 노림수의 팔찌(각인)",
+        "id": 95206461,
+        "alias": "Contents.Item.Desc.5204601"
+    },
+    "95206462": {
+        "deprecated": false,
+        "Dev_Desc": "화룡의 비늘(각인)",
+        "id": 95206462,
+        "alias": "Contents.Item.Desc.5204602"
+    },
+    "95206463": {
+        "deprecated": false,
+        "Dev_Desc": "대해의 분노(각인)",
+        "id": 95206463,
+        "alias": "Contents.Item.Desc.5204603"
+    },
+    "95206464": {
+        "deprecated": false,
+        "Dev_Desc": "홍안의 팔찌(각인)",
+        "id": 95206464,
+        "alias": "Contents.Item.Desc.5204604"
+    },
+    "95206465": {
+        "deprecated": false,
+        "Dev_Desc": "토벌",
+        "id": 95206465,
+        "alias": "Contents.Item.Desc.5307005"
     }
 }
