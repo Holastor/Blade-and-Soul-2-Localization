@@ -1,0 +1,1374 @@
+{
+    "10001": {
+        "Dev_Desc": "Strength",
+        "Original_Text": "힘",
+        "English_Text": "Strength",
+        "Russian_Text": "сила",
+        "Chinese_Text": "力量"
+    },
+    "10002": {
+        "Dev_Desc": "Dexterity",
+        "Original_Text": "솜씨",
+        "English_Text": "Dexterity",
+        "Russian_Text": "мастерство",
+        "Chinese_Text": "灵巧"
+    },
+    "10003": {
+        "Dev_Desc": "Intelligence",
+        "Original_Text": "지능",
+        "English_Text": "Intelligence",
+        "Russian_Text": "Интеллект",
+        "Chinese_Text": "智力"
+    },
+    "10004": {
+        "Dev_Desc": "Constitution",
+        "Original_Text": "건강",
+        "English_Text": "Health",
+        "Russian_Text": "здоровье",
+        "Chinese_Text": "体质"
+    },
+    "10005": {
+        "Dev_Desc": "Wisdom",
+        "Original_Text": "지혜",
+        "English_Text": "Wisdom",
+        "Russian_Text": "мудрость",
+        "Chinese_Text": "智慧"
+    },
+    "10006": {
+        "Dev_Desc": "Agility",
+        "Original_Text": "민첩",
+        "English_Text": "Agility",
+        "Russian_Text": "Ловкость",
+        "Chinese_Text": "敏捷"
+    },
+    "10007": {
+        "Dev_Desc": "ShortPhysicalAttack",
+        "Original_Text": "근거리 공격력",
+        "English_Text": "Melee Attack",
+        "Russian_Text": "Атака ближнего боя",
+        "Chinese_Text": "近战攻击力"
+    },
+    "10008": {
+        "Dev_Desc": "LongPhysicalAttack",
+        "Original_Text": "원거리 공격력",
+        "English_Text": "Ranged Attack",
+        "Russian_Text": "Дальняя атака",
+        "Chinese_Text": "远距离攻击力"
+    },
+    "10009": {
+        "Dev_Desc": "ForceAttack",
+        "Original_Text": "기공 공격력",
+        "English_Text": "Force Attack",
+        "Russian_Text": "Атака цигун",
+        "Chinese_Text": "气功攻击力"
+    },
+    "10010": {
+        "Dev_Desc": "Attack",
+        "Original_Text": "공격력",
+        "English_Text": "Attack",
+        "Russian_Text": "сила нападения",
+        "Chinese_Text": "攻击力"
+    },
+    "10011": {
+        "Dev_Desc": "WeaponAttack",
+        "Original_Text": "무기 공격력",
+        "English_Text": "Weapon Attack",
+        "Russian_Text": "Атака оружием",
+        "Chinese_Text": "武器攻击力"
+    },
+    "10012": {
+        "Dev_Desc": "WeaponAttackRate",
+        "Original_Text": "무기 공격력 증폭",
+        "English_Text": "Weapon Attack Rate",
+        "Russian_Text": "Усиление атаки оружием",
+        "Chinese_Text": "武器攻击力增加"
+    },
+    "10013": {
+        "Dev_Desc": "WeaponAttackToleranceRate",
+        "Original_Text": "무기 공격력 내성",
+        "English_Text": "Weapon Attack Resistance",
+        "Russian_Text": "Сопротивление атакам оружием",
+        "Chinese_Text": "武器攻击力抗性"
+    },
+    "10014": {
+        "Dev_Desc": "AttackBonus",
+        "Original_Text": "추가 공격력",
+        "English_Text": "Additional Attack Damage",
+        "Russian_Text": "Дополнительная сила атаки",
+        "Chinese_Text": "附加攻击力"
+    },
+    "10015": {
+        "Dev_Desc": "AddAttackMin",
+        "Original_Text": "정밀",
+        "English_Text": "precision",
+        "Russian_Text": "подробный",
+        "Chinese_Text": "最小攻击力增加"
+    },
+    "10016": {
+        "Dev_Desc": "healingPower",
+        "Original_Text": "치유력",
+        "English_Text": "healing power",
+        "Russian_Text": "Сила лечения",
+        "Chinese_Text": "治愈力"
+    },
+    "10017": {
+        "Dev_Desc": "healingPowerRate",
+        "Original_Text": "치유력 증가율",
+        "English_Text": "Healing Power Increase",
+        "Russian_Text": "Увеличение силы исцеления",
+        "Chinese_Text": "治愈力提升率"
+    },
+    "10018": {
+        "Dev_Desc": "SwordAttack",
+        "Original_Text": "검 공격력",
+        "English_Text": "Sword Attack",
+        "Russian_Text": "Атака мечом",
+        "Chinese_Text": "剑攻击力"
+    },
+    "10019": {
+        "Dev_Desc": "GauntletAttack",
+        "Original_Text": "권갑 공격력",
+        "English_Text": "Armor Attack",
+        "Russian_Text": "Броня Атака",
+        "Chinese_Text": "拳套攻击力"
+    },
+    "10020": {
+        "Dev_Desc": "AxeAttack",
+        "Original_Text": "도끼 공격력",
+        "English_Text": "Ax Attack",
+        "Russian_Text": "Атака топором",
+        "Chinese_Text": "斧头攻击力"
+    },
+    "10021": {
+        "Dev_Desc": "BangleAttack",
+        "Original_Text": "기공패 공격력",
+        "English_Text": "The attack power of the qigong tile",
+        "Russian_Text": "Атака гонгонгом",
+        "Chinese_Text": "气功牌攻击力"
+    },
+    "10022": {
+        "Dev_Desc": "BowAttack",
+        "Original_Text": "활 공격력",
+        "English_Text": "bow attack power",
+        "Russian_Text": "Атака луком",
+        "Chinese_Text": "弓箭攻击力"
+    },
+    "10023": {
+        "Dev_Desc": "RitualBellAttack",
+        "Original_Text": "법종 공격력",
+        "English_Text": "Defense Attack",
+        "Russian_Text": "Нападение атакой",
+        "Chinese_Text": "法钟攻击力"
+    },
+    "10024": {
+        "Dev_Desc": "ShortPhysicalPenetration",
+        "Original_Text": "근거리 관통력",
+        "English_Text": "Melee Penetration",
+        "Russian_Text": "Проникновение в ближнем бою",
+        "Chinese_Text": "近战穿透力"
+    },
+    "10025": {
+        "Dev_Desc": "LongPhysicalPenetration",
+        "Original_Text": "원거리 관통력",
+        "English_Text": "Range Penetration",
+        "Russian_Text": "Проникновение на дальность",
+        "Chinese_Text": "远距离穿透力"
+    },
+    "10026": {
+        "Dev_Desc": "ForcePenetration",
+        "Original_Text": "기공 관통력",
+        "English_Text": "pore penetration",
+        "Russian_Text": "Проникновение в желудок",
+        "Chinese_Text": "气功穿透力"
+    },
+    "10027": {
+        "Dev_Desc": "Penetration",
+        "Original_Text": "관통력",
+        "English_Text": "penetration",
+        "Russian_Text": "проникновение",
+        "Chinese_Text": "穿透力"
+    },
+    "10028": {
+        "Dev_Desc": "ShortPhysicalHit",
+        "Original_Text": "근거리 명중",
+        "English_Text": "Melee Hit",
+        "Russian_Text": "Рукопашный удар",
+        "Chinese_Text": "近战命中"
+    },
+    "10029": {
+        "Dev_Desc": "LongPhysicalHit",
+        "Original_Text": "원거리 명중",
+        "English_Text": "Ranged Hit",
+        "Russian_Text": "Range Hit",
+        "Chinese_Text": "远距离命中"
+    },
+    "10030": {
+        "Dev_Desc": "ForceHit",
+        "Original_Text": "기공 명중",
+        "English_Text": "Qigong Hit",
+        "Russian_Text": "Цигун Хит",
+        "Chinese_Text": "气功命中"
+    },
+    "10031": {
+        "Dev_Desc": "Hit",
+        "Original_Text": "명중",
+        "English_Text": "Hit",
+        "Russian_Text": "Ударять",
+        "Chinese_Text": "命中"
+    },
+    "10032": {
+        "Dev_Desc": "ShortPhysicalCriticalRate",
+        "Original_Text": "근거리 치명률",
+        "English_Text": "Melee Critical Rate",
+        "Russian_Text": "Смертоносность в ближнем бою",
+        "Chinese_Text": "近战暴击率"
+    },
+    "10033": {
+        "Dev_Desc": "LongPhysicalCriticalRate",
+        "Original_Text": "원거리 치명률",
+        "English_Text": "Ranged Critical Rate",
+        "Russian_Text": "Летальность на дальности",
+        "Chinese_Text": "远距离暴击率"
+    },
+    "10034": {
+        "Dev_Desc": "ForceCriticalRate",
+        "Original_Text": "기공 치명률",
+        "English_Text": "Qigong lethality",
+        "Russian_Text": "Смертоносность цигун",
+        "Chinese_Text": "气功暴击率"
+    },
+    "10035": {
+        "Dev_Desc": "CriticalRate",
+        "Original_Text": "치명률",
+        "English_Text": "lethal rate",
+        "Russian_Text": "смертельная ставка",
+        "Chinese_Text": "暴击率"
+    },
+    "10036": {
+        "Dev_Desc": "CriticalAttack",
+        "Original_Text": "치명타 추가 공격력",
+        "English_Text": "Additional critical strike damage",
+        "Russian_Text": "Дополнительная критическая атака",
+        "Chinese_Text": "致命一击追加伤害"
+    },
+    "10037": {
+        "Dev_Desc": "FatalAttack",
+        "Original_Text": "약점 추가 공격력",
+        "English_Text": "Additional Weak Point Attack",
+        "Russian_Text": "Дополнительная атака по слабым местам",
+        "Chinese_Text": "弱点追加伤害"
+    },
+    "10038": {
+        "Dev_Desc": "BlockpenetrationAttack",
+        "Original_Text": "막기 관통 추가 공격력",
+        "English_Text": "Block Penetration Bonus Attack",
+        "Russian_Text": "Блокировать бонусную атаку с пробитием",
+        "Chinese_Text": "格挡穿透增加攻击力"
+    },
+    "10039": {
+        "Dev_Desc": "DamagePure",
+        "Original_Text": "방어 무시 공격력",
+        "English_Text": "Damage Ignoring Defense",
+        "Russian_Text": "Защита игнорирует урон",
+        "Chinese_Text": "无视防御伤害"
+    },
+    "10040": {
+        "Dev_Desc": "ShortPhysicalAttackReduction",
+        "Original_Text": "근거리 호신",
+        "English_Text": "Short-distance self-defense",
+        "Russian_Text": "Самозащита на коротких дистанциях",
+        "Chinese_Text": "近战护甲"
+    },
+    "10041": {
+        "Dev_Desc": "LongPhysicalAttackReduction",
+        "Original_Text": "원거리 호신",
+        "English_Text": "Range Defense",
+        "Russian_Text": "Диапазон обороны",
+        "Chinese_Text": "远距离护甲"
+    },
+    "10042": {
+        "Dev_Desc": "ForceAttackReduction",
+        "Original_Text": "기공 호신",
+        "English_Text": "Qigong self-defense",
+        "Russian_Text": "Самозащита цигун",
+        "Chinese_Text": "气功护甲"
+    },
+    "10043": {
+        "Dev_Desc": "AttackReduction",
+        "Original_Text": "호신",
+        "English_Text": "self-defense",
+        "Russian_Text": "самооборона",
+        "Chinese_Text": "护甲"
+    },
+    "10044": {
+        "Dev_Desc": "ShortPhysicalDefence",
+        "Original_Text": "근거리 방어력",
+        "English_Text": "Melee Defense",
+        "Russian_Text": "Защита в ближнем бою",
+        "Chinese_Text": "近战防御力"
+    },
+    "10045": {
+        "Dev_Desc": "LongPhysicalDefence",
+        "Original_Text": "원거리 방어력",
+        "English_Text": "Ranged Defense",
+        "Russian_Text": "Дальняя защита",
+        "Chinese_Text": "远距离防御力"
+    },
+    "10046": {
+        "Dev_Desc": "ForceDefence",
+        "Original_Text": "기공 방어력",
+        "English_Text": "Qigong Defense",
+        "Russian_Text": "Цигун защита",
+        "Chinese_Text": "气功防御力"
+    },
+    "10047": {
+        "Dev_Desc": "Defence",
+        "Original_Text": "방어력",
+        "English_Text": "Defense",
+        "Russian_Text": "Защита",
+        "Chinese_Text": "防御力"
+    },
+    "10048": {
+        "Dev_Desc": "ShortPhysicalEvasion",
+        "Original_Text": "근거리 회피",
+        "English_Text": "Melee Evasion",
+        "Russian_Text": "Уклонение в ближнем бою",
+        "Chinese_Text": "近战闪避"
+    },
+    "10049": {
+        "Dev_Desc": "LongPhysicalEvasion",
+        "Original_Text": "원거리 회피",
+        "English_Text": "Ranged Dodge",
+        "Russian_Text": "Уклонение от расстояния",
+        "Chinese_Text": "远距离闪避"
+    },
+    "10050": {
+        "Dev_Desc": "ForceEvasion",
+        "Original_Text": "기공 회피",
+        "English_Text": "Avoid Qigong",
+        "Russian_Text": "Избегание цигун",
+        "Chinese_Text": "气功闪避"
+    },
+    "10051": {
+        "Dev_Desc": "Evasion",
+        "Original_Text": "회피",
+        "English_Text": "Avoid",
+        "Russian_Text": "уклонение",
+        "Chinese_Text": "闪避"
+    },
+    "10052": {
+        "Dev_Desc": "ShortPhysicalCriticalResistanceRate",
+        "Original_Text": "근거리 치명 저항률",
+        "English_Text": "Melee Critical Resistance",
+        "Russian_Text": "Сопротивление критическим ударам в ближнем бою",
+        "Chinese_Text": "近战暴击抵抗率"
+    },
+    "10053": {
+        "Dev_Desc": "LongPhysicalCriticalResistanceRate",
+        "Original_Text": "원거리 치명 저항률",
+        "English_Text": "Ranged Critical Resistance",
+        "Russian_Text": "Критическое сопротивление дальнего боя",
+        "Chinese_Text": "远距离暴击抵抗率"
+    },
+    "10054": {
+        "Dev_Desc": "ForceCriticalResistanceRate",
+        "Original_Text": "기공 치명 저항률",
+        "English_Text": "pore critical resistivity",
+        "Russian_Text": "летальное сопротивление пор",
+        "Chinese_Text": "气功暴击抵抗率"
+    },
+    "10055": {
+        "Dev_Desc": "CriticalResistanceRate",
+        "Original_Text": "치명 저항률",
+        "English_Text": "Critical Resistivity",
+        "Russian_Text": "Критическое сопротивление",
+        "Chinese_Text": "暴击抵抗率"
+    },
+    "10056": {
+        "Dev_Desc": "CriticalAttackReduction",
+        "Original_Text": "치명타 호신",
+        "English_Text": "Critical Strike Defense",
+        "Russian_Text": "Защита от критического удара",
+        "Chinese_Text": "致命一击护甲"
+    },
+    "10057": {
+        "Dev_Desc": "FatalAttackReduction",
+        "Original_Text": "약점 호신",
+        "English_Text": "Defense Weaknesses",
+        "Russian_Text": "Слабая защита",
+        "Chinese_Text": "弱点护甲"
+    },
+    "10058": {
+        "Dev_Desc": "BlockpenetrationAttackReduction",
+        "Original_Text": "막기 관통 호신",
+        "English_Text": "Block-piercing self-defense",
+        "Russian_Text": "Блочно-пробивающая самооборона",
+        "Chinese_Text": "阻挡穿刺护甲"
+    },
+    "10059": {
+        "Dev_Desc": "ReduceDamagePure",
+        "Original_Text": "방어 무시 피해 감소",
+        "English_Text": "Defense Ignore Damage Reduction",
+        "Russian_Text": "Защита игнорирует снижение урона",
+        "Chinese_Text": "防御无视伤害减少"
+    },
+    "10060": {
+        "Dev_Desc": "HP",
+        "Original_Text": "생명력",
+        "English_Text": "Life",
+        "Russian_Text": "жизнеспособность",
+        "Chinese_Text": "HP"
+    },
+    "10061": {
+        "Dev_Desc": "HPRate",
+        "Original_Text": "생명력 증가율",
+        "English_Text": "Life increase rate",
+        "Russian_Text": "Скорость увеличения живучести",
+        "Chinese_Text": "HP增加率"
+    },
+    "10062": {
+        "Dev_Desc": "Focus",
+        "Original_Text": "내력",
+        "English_Text": "history",
+        "Russian_Text": "Исторический",
+        "Chinese_Text": "内力"
+    },
+    "10063": {
+        "Dev_Desc": "Stamina",
+        "Original_Text": "기력",
+        "English_Text": "energy",
+        "Russian_Text": "энергия",
+        "Chinese_Text": "体力"
+    },
+    "10064": {
+        "Dev_Desc": "RegenerationHP",
+        "Original_Text": "생명력 재생",
+        "English_Text": "Regen Life",
+        "Russian_Text": "Возрождение жизни",
+        "Chinese_Text": "HP恢复"
+    },
+    "10065": {
+        "Dev_Desc": "FixedRegenerationHP",
+        "Original_Text": "생명력 절대 재생",
+        "English_Text": "Absolute Life Regen",
+        "Russian_Text": "Абсолютное возрождение жизни",
+        "Chinese_Text": "HP绝对恢复"
+    },
+    "10066": {
+        "Dev_Desc": "RegenerationFocus",
+        "Original_Text": "내력 재생",
+        "English_Text": "History Regeneration",
+        "Russian_Text": "Возрождение истории",
+        "Chinese_Text": "内力恢复"
+    },
+    "10067": {
+        "Dev_Desc": "FixedRegenerationFocus",
+        "Original_Text": "내력 절대 재생",
+        "English_Text": "Historical absolute regeneration",
+        "Russian_Text": "Абсолютное воспроизведение истории",
+        "Chinese_Text": "内力绝对恢复"
+    },
+    "10068": {
+        "Dev_Desc": "ControlFocus",
+        "Original_Text": "내력 조절",
+        "English_Text": "Yield load control",
+        "Russian_Text": "Контроль силы",
+        "Chinese_Text": "内力控制"
+    },
+    "10069": {
+        "Dev_Desc": "RegenerationStamina",
+        "Original_Text": "기력 재생",
+        "English_Text": "Regen Energy",
+        "Russian_Text": "Регенерация энергии",
+        "Chinese_Text": "体力恢复"
+    },
+    "10070": {
+        "Dev_Desc": "HPPotionRecovery",
+        "Original_Text": "물약 회복량",
+        "English_Text": "Potion recovery",
+        "Russian_Text": "Количество восстановления зелья",
+        "Chinese_Text": "药水恢复量"
+    },
+    "10071": {
+        "Dev_Desc": "HPPotionRecoveryRate",
+        "Original_Text": "물약 회복률",
+        "English_Text": "Potion recovery rate",
+        "Russian_Text": "Скорость восстановления зелья",
+        "Chinese_Text": "药水恢复率"
+    },
+    "10072": {
+        "Dev_Desc": "NormalAttackSpeed",
+        "Original_Text": "기본 공격 속도",
+        "English_Text": "Base Attack Speed",
+        "Russian_Text": "Базовая скорость атаки",
+        "Chinese_Text": "基础攻击速度"
+    },
+    "10073": {
+        "Dev_Desc": "ActiveAttackSpeed",
+        "Original_Text": "무공 공격 속도",
+        "English_Text": "Non-Attack Speed",
+        "Russian_Text": "Скорость без атаки",
+        "Chinese_Text": "技能攻击速度"
+    },
+    "10074": {
+        "Dev_Desc": "SkillDamage",
+        "Original_Text": "무공 공격 증폭",
+        "English_Text": "Amplify Non-Air Damage",
+        "Russian_Text": "Увеличить ущерб, нанесенный не воздухом",
+        "Chinese_Text": "技能伤害增加"
+    },
+    "10075": {
+        "Dev_Desc": "ReduceSkillDamage",
+        "Original_Text": "무공 피해 내성",
+        "English_Text": "Non-Air Damage Resistance",
+        "Russian_Text": "Устойчивый к повреждениям",
+        "Chinese_Text": "技能伤害免疫"
+    },
+    "10076": {
+        "Dev_Desc": "CutPartsDamageRate",
+        "Original_Text": "보스 부위파괴 공격 증폭",
+        "English_Text": "Boss Destruction Damage Amplified",
+        "Russian_Text": "Урон от разрушения босса увеличен",
+        "Chinese_Text": "Boss破坏部位伤害增加"
+    },
+    "10077": {
+        "Dev_Desc": "StrikePartsDamageRate",
+        "Original_Text": "보스 타격 공격 증폭",
+        "English_Text": "Boss Strike Damage Boost",
+        "Russian_Text": "Усиленный урон от удара босса",
+        "Chinese_Text": "Boss打击伤害增加"
+    },
+    "10078": {
+        "Dev_Desc": "ControlHPDamageRate",
+        "Original_Text": "보스 통제 공격 증폭",
+        "English_Text": "Boss Control Damage Boost",
+        "Russian_Text": "Усиление урона от контроля над боссом",
+        "Chinese_Text": "Boss控制伤害增加"
+    },
+    "10079": {
+        "Dev_Desc": "DamageRate",
+        "Original_Text": "주는 피해량 증폭",
+        "English_Text": "Amplifies damage dealt",
+        "Russian_Text": "Увеличивает наносимый урон",
+        "Chinese_Text": "降低伤害"
+    },
+    "10080": {
+        "Dev_Desc": "ReduceTakenDamageRate",
+        "Original_Text": "받는 피해량 감소",
+        "English_Text": "Reduce damage taken",
+        "Russian_Text": "Уменьшить получаемый урон",
+        "Chinese_Text": "增加伤害"
+    },
+    "10081": {
+        "Dev_Desc": "HealRate",
+        "Original_Text": "주는 치유량 증폭",
+        "English_Text": "Amplifies healing done",
+        "Russian_Text": "Увеличивает количество дарованного исцеления",
+        "Chinese_Text": "降低治愈量"
+    },
+    "10082": {
+        "Dev_Desc": "TakenHealRate",
+        "Original_Text": "받는 치유량 증폭",
+        "English_Text": "Amplify Healing Received",
+        "Russian_Text": "Усиливает полученное исцеление",
+        "Chinese_Text": "增加治愈量"
+    },
+    "10083": {
+        "Dev_Desc": "Block",
+        "Original_Text": "막기",
+        "English_Text": "block",
+        "Russian_Text": "корень",
+        "Chinese_Text": "格挡"
+    },
+    "10084": {
+        "Dev_Desc": "Blockpenetration",
+        "Original_Text": "막기 관통",
+        "English_Text": "Block Penetration",
+        "Russian_Text": "Блокировка проникновения",
+        "Chinese_Text": "格挡穿透"
+    },
+    "10085": {
+        "Dev_Desc": "ParryRate",
+        "Original_Text": "튕기기 발동률",
+        "English_Text": "Bounce Activation Rate",
+        "Russian_Text": "Коэффициент активации отказов",
+        "Chinese_Text": "反弹触发率"
+    },
+    "10086": {
+        "Dev_Desc": "ParryResistanceRate",
+        "Original_Text": "상대 튕기기 억제력",
+        "English_Text": "Resistance to bounce",
+        "Russian_Text": "Сопротивление отскоку",
+        "Chinese_Text": "反弹抵抗率"
+    },
+    "10087": {
+        "Dev_Desc": "SoulRate",
+        "Original_Text": "소울 발동률",
+        "English_Text": "Soul Activation Rate",
+        "Russian_Text": "Скорость активации души",
+        "Chinese_Text": "灵魂触发率"
+    },
+    "10088": {
+        "Dev_Desc": "SoulResistanceRate",
+        "Original_Text": "상대 소울 억제력",
+        "English_Text": "Soul Resistivity",
+        "Russian_Text": "Сопротивление души",
+        "Chinese_Text": "灵魂抵抗率"
+    },
+    "10089": {
+        "Dev_Desc": "IncreaseSoulRate",
+        "Original_Text": "소울 발동률 증폭",
+        "English_Text": "Increase Soul Activation Rate",
+        "Russian_Text": "Увеличьте скорость активации души",
+        "Chinese_Text": "灵魂触发率增加"
+    },
+    "10090": {
+        "Dev_Desc": "ReduceDamageRateMiss",
+        "Original_Text": "빗맞음 피해 감소율",
+        "English_Text": "missing damage reduction rate",
+        "Russian_Text": "Коэффициент снижения урона при попадании",
+        "Chinese_Text": "闪避伤害减少率"
+    },
+    "10091": {
+        "Dev_Desc": "ReduceDamageRateBlock",
+        "Original_Text": "막기 피해 감소율",
+        "English_Text": "Block Damage Reduction",
+        "Russian_Text": "Скорость снижения урона от блока",
+        "Chinese_Text": "格挡伤害减少率"
+    },
+    "10092": {
+        "Dev_Desc": "ReduceDamageRateParry",
+        "Original_Text": "튕기기 피해 감소율",
+        "English_Text": "Bounce Damage Reduction",
+        "Russian_Text": "Скорость уменьшения урона отскока",
+        "Chinese_Text": "反弹伤害减少"
+    },
+    "10093": {
+        "Dev_Desc": "Unyieldingness",
+        "Original_Text": "불굴",
+        "English_Text": "Fortitude",
+        "Russian_Text": "Неукротимый",
+        "Chinese_Text": "不屈"
+    },
+    "10094": {
+        "Dev_Desc": "CentralAttack",
+        "Original_Text": "집중공격",
+        "English_Text": "Focused Attack",
+        "Russian_Text": "Сосредоточенная атака",
+        "Chinese_Text": "集中攻击"
+    },
+    "10095": {
+        "Dev_Desc": "CentralAttackResistance",
+        "Original_Text": "집중공격 저항",
+        "English_Text": "Resisting Focused Attack",
+        "Russian_Text": "Сопротивление сфокусированной атаке",
+        "Chinese_Text": "集中攻击抵抗"
+    },
+    "10096": {
+        "Dev_Desc": "ShortPhysicalDefenceProbability",
+        "Original_Text": "근거리 절대 방어력",
+        "English_Text": "Absolute Defense at close range",
+        "Russian_Text": "Абсолютная защита рукопашного боя",
+        "Chinese_Text": "近战绝对防御力"
+    },
+    "10097": {
+        "Dev_Desc": "LongPhysicalDefenceProbability",
+        "Original_Text": "원거리 절대 방어력",
+        "English_Text": "Ranged Absolute Defense",
+        "Russian_Text": "Абсолютная защита дальнего боя",
+        "Chinese_Text": "远距离绝对防御力"
+    },
+    "10098": {
+        "Dev_Desc": "ForceDefenceProbability",
+        "Original_Text": "기공 절대 방어력",
+        "English_Text": "Qigong Absolute Defense",
+        "Russian_Text": "Абсолютная защита цигун",
+        "Chinese_Text": "气功绝对防御力"
+    },
+    "10099": {
+        "Dev_Desc": "ShortPhysicalPenetrationProbability",
+        "Original_Text": "근거리 절대 관통력",
+        "English_Text": "Absolute Penetration at close range",
+        "Russian_Text": "Почти абсолютное проникновение",
+        "Chinese_Text": "近战绝对穿透"
+    },
+    "10100": {
+        "Dev_Desc": "LongPhysicalPenetrationProbability",
+        "Original_Text": "원거리 절대 관통력",
+        "English_Text": "Range Absolute Penetration",
+        "Russian_Text": "Дальность абсолютного проникновения",
+        "Chinese_Text": "远距离绝对穿透"
+    },
+    "10101": {
+        "Dev_Desc": "ForcePenetrationProbability",
+        "Original_Text": "기공 절대 관통력",
+        "English_Text": "Absolute pore penetration",
+        "Russian_Text": "Абсолютное проникновение в поры",
+        "Chinese_Text": "气功绝对穿透"
+    },
+    "10102": {
+        "Dev_Desc": "ShortPhysicalHitProbability",
+        "Original_Text": "근거리 절대 명중",
+        "English_Text": "near absolute hit",
+        "Russian_Text": "Чистый абсолютный удар",
+        "Chinese_Text": "近战绝对命中"
+    },
+    "10103": {
+        "Dev_Desc": "LongPhysicalHitProbability",
+        "Original_Text": "원거리 절대 명중",
+        "English_Text": "Ranged Absolute Hit",
+        "Russian_Text": "Абсолютный удар дальнего боя",
+        "Chinese_Text": "远距离绝对命中"
+    },
+    "10104": {
+        "Dev_Desc": "ForceHitProbability",
+        "Original_Text": "기공 절대 명중",
+        "English_Text": "Qigong Absolute Hit",
+        "Russian_Text": "Цигун Абсолютный хит",
+        "Chinese_Text": "气功绝对命中"
+    },
+    "10105": {
+        "Dev_Desc": "ShortPhysicalEvasionProbability",
+        "Original_Text": "근거리 절대 회피",
+        "English_Text": "never dodge melee",
+        "Russian_Text": "никогда не избегайте близкого расстояния",
+        "Chinese_Text": "近战绝对闪避"
+    },
+    "10106": {
+        "Dev_Desc": "LongPhysicalEvasionProbability",
+        "Original_Text": "원거리 절대 회피",
+        "English_Text": "never dodge ranged",
+        "Russian_Text": "Абсолютное избегание на расстоянии",
+        "Chinese_Text": "远距离绝对闪避"
+    },
+    "10107": {
+        "Dev_Desc": "ForceEvasionProbability",
+        "Original_Text": "기공 절대 회피",
+        "English_Text": "Absolutely avoid qigong",
+        "Russian_Text": "Абсолютное избегание цигун",
+        "Chinese_Text": "气功绝对闪避"
+    },
+    "10108": {
+        "Dev_Desc": "ControlAttack",
+        "Original_Text": "통제 숙련",
+        "English_Text": "Mastery of Control",
+        "Russian_Text": "Навыки управления",
+        "Chinese_Text": "控制熟练"
+    },
+    "10109": {
+        "Dev_Desc": "ControlDefence",
+        "Original_Text": "통제 유연",
+        "English_Text": "control flexible",
+        "Russian_Text": "Гибкость управления",
+        "Chinese_Text": "控制抵抗"
+    },
+    "10110": {
+        "Dev_Desc": "ControlHitRate",
+        "Original_Text": "통제 적중률",
+        "English_Text": "control hit rate",
+        "Russian_Text": "Контроль скорости попаданий",
+        "Chinese_Text": "控制命中率"
+    },
+    "10111": {
+        "Dev_Desc": "ControlResistanceRate",
+        "Original_Text": "통제 저항률",
+        "English_Text": "control resistivity",
+        "Russian_Text": "Контроль удельного сопротивления",
+        "Chinese_Text": "控制抵抗率"
+    },
+    "10112": {
+        "Dev_Desc": "TauntHitRate",
+        "Original_Text": "도발 적중률",
+        "English_Text": "taunt hit rate",
+        "Russian_Text": "Скорость провокации",
+        "Chinese_Text": "挑衅命中率"
+    },
+    "10113": {
+        "Dev_Desc": "TauntResistanceRate",
+        "Original_Text": "도발 저항률",
+        "English_Text": "Resistance to Taunt",
+        "Russian_Text": "Спровоцировать сопротивление",
+        "Chinese_Text": "挑衅抵抗率"
+    },
+    "10114": {
+        "Dev_Desc": "SlowdownHitRate",
+        "Original_Text": "둔화 적중률",
+        "English_Text": "Slow Hit Rate",
+        "Russian_Text": "Медленная скорость попадания",
+        "Chinese_Text": "减速命中率"
+    },
+    "10115": {
+        "Dev_Desc": "SlowdownResistanceRate",
+        "Original_Text": "둔화 저항률",
+        "English_Text": "Slow Resistivity",
+        "Russian_Text": "Медленное сопротивление",
+        "Chinese_Text": "减速抵抗率"
+    },
+    "10116": {
+        "Dev_Desc": "FrozenHitRate",
+        "Original_Text": "빙결 적중률",
+        "English_Text": "Freeze Hit Chance",
+        "Russian_Text": "Скорость замораживания",
+        "Chinese_Text": "冻结命中率"
+    },
+    "10117": {
+        "Dev_Desc": "FrozenResistanceRate",
+        "Original_Text": "빙결 저항률",
+        "English_Text": "Freeze Resistance",
+        "Russian_Text": "Устойчивость к замерзанию",
+        "Chinese_Text": "冻结抵抗率"
+    },
+    "10118": {
+        "Dev_Desc": "FlinchHitRate",
+        "Original_Text": "경직 적중률",
+        "English_Text": "stiff hit rate",
+        "Russian_Text": "Жесткая скорость попадания",
+        "Chinese_Text": "僵硬命中率"
+    },
+    "10119": {
+        "Dev_Desc": "FlinchResistanceRate",
+        "Original_Text": "경직 저항률",
+        "English_Text": "stiff resistivity",
+        "Russian_Text": "Жесткое сопротивление",
+        "Chinese_Text": "僵硬抵抗率"
+    },
+    "10120": {
+        "Dev_Desc": "BurnHitRate",
+        "Original_Text": "화상 적중률",
+        "English_Text": "Burn hit rate",
+        "Russian_Text": "Скорость записи",
+        "Chinese_Text": "烧伤命中率"
+    },
+    "10121": {
+        "Dev_Desc": "BurnResistanceRate",
+        "Original_Text": "화상 저항률",
+        "English_Text": "Burn resistivity",
+        "Russian_Text": "Сопротивление горению",
+        "Chinese_Text": "烧伤抵抗率"
+    },
+    "10122": {
+        "Dev_Desc": "BleedingHitRate",
+        "Original_Text": "출혈 적중률",
+        "English_Text": "Bleeding hit rate",
+        "Russian_Text": "Скорость кровотечения",
+        "Chinese_Text": "出血命中率"
+    },
+    "10123": {
+        "Dev_Desc": "BleedingResistanceRate",
+        "Original_Text": "출혈 저항률",
+        "English_Text": "Bleeding resistance",
+        "Russian_Text": "Сопротивление кровотечению",
+        "Chinese_Text": "出血抵抗率"
+    },
+    "10124": {
+        "Dev_Desc": "MovementSpeed",
+        "Original_Text": "이동 속도 증가율",
+        "English_Text": "Movement speed increase",
+        "Russian_Text": "Увеличение скорости передвижения",
+        "Chinese_Text": "移动速度"
+    },
+    "10125": {
+        "Dev_Desc": "SwimSpeed",
+        "Original_Text": "수영 속도 증가율",
+        "English_Text": "Swim speed increase rate",
+        "Russian_Text": "Скорость увеличения плавания",
+        "Chinese_Text": "游泳速度"
+    },
+    "10126": {
+        "Dev_Desc": "WalkSpeed",
+        "Original_Text": "걷기 속도 증가율",
+        "English_Text": "Walk speed increase",
+        "Russian_Text": "Коэффициент увеличения скорости ходьбы",
+        "Chinese_Text": "行走速度"
+    },
+    "10127": {
+        "Dev_Desc": "WeightMax",
+        "Original_Text": "최대 소지 무게",
+        "English_Text": "Maximum carrying weight",
+        "Russian_Text": "Максимальный несущий вес",
+        "Chinese_Text": "最大承重量"
+    },
+    "10128": {
+        "Dev_Desc": "RateGold",
+        "Original_Text": "금화 획득량 증가",
+        "English_Text": "Increase the amount of gold earned",
+        "Russian_Text": "Увеличьте количество заработанного золота",
+        "Chinese_Text": "金币获得量增加"
+    },
+    "10129": {
+        "Dev_Desc": "RateExp",
+        "Original_Text": "경험치 획득량 증가",
+        "English_Text": "Increased experience gain",
+        "Russian_Text": "Увеличивайте количество получаемого опыта",
+        "Chinese_Text": "经验值获得量增加"
+    },
+    "10130": {
+        "Dev_Desc": "ReduceSEConsumption",
+        "Original_Text": "영기 소모량 감소",
+        "English_Text": "Reduce Reiki consumption",
+        "Russian_Text": "Снижение потребления Рейки",
+        "Chinese_Text": "灵气消耗量减少"
+    },
+    "10131": {
+        "Dev_Desc": "SEFillingAmount",
+        "Original_Text": "영기 충전량 증가",
+        "English_Text": "Increased aura charge",
+        "Russian_Text": "Повышенный заряд Рейки",
+        "Chinese_Text": "灵气充能增加"
+    },
+    "10132": {
+        "Dev_Desc": "ReduceHealRate",
+        "Original_Text": "주는 치유량 감소",
+        "English_Text": "Reduces healing done",
+        "Russian_Text": "Уменьшает количество получаемого исцеления",
+        "Chinese_Text": "降低治愈量"
+    },
+    "10133": {
+        "Dev_Desc": "ReduceTakenHealRate",
+        "Original_Text": "받는 치유량 감소",
+        "English_Text": "reduced healing received",
+        "Russian_Text": "Получено пониженное исцеление",
+        "Chinese_Text": "增加治愈量"
+    },
+    "10134": {
+        "Dev_Desc": "ReduceDamageRate",
+        "Original_Text": "주는 피해량 감소",
+        "English_Text": "Damage reduction",
+        "Russian_Text": "Уменьшает наносимый урон",
+        "Chinese_Text": "降低伤害"
+    },
+    "10135": {
+        "Dev_Desc": "TakenDamageRate",
+        "Original_Text": "받는 피해량 증폭",
+        "English_Text": "Amplifies damage taken",
+        "Russian_Text": "Увеличенный получаемый урон",
+        "Chinese_Text": "增加伤害"
+    },
+    "10136": {
+        "Dev_Desc": "ReduceNormalAttackSpeed",
+        "Original_Text": "기본 공격 속도 감소",
+        "English_Text": "Reduces base attack speed",
+        "Russian_Text": "Пониженная скорость базовой атаки",
+        "Chinese_Text": "基本攻击速度降低"
+    },
+    "10137": {
+        "Dev_Desc": "ReduceActiveAttackSpeed",
+        "Original_Text": "무공 공격 속도 감소",
+        "English_Text": "Non-Attack Attack Speed Reduction",
+        "Russian_Text": "Снижена скорость атаки",
+        "Chinese_Text": "技能攻击速度降低"
+    },
+    "10138": {
+        "Dev_Desc": "ReduceHpPotionRecovery",
+        "Original_Text": "물약 회복량 감소",
+        "English_Text": "reduced potion recovery",
+        "Russian_Text": "Уменьшено восстановление зелья",
+        "Chinese_Text": "药水恢复量减少"
+    },
+    "10139": {
+        "Dev_Desc": "ReduceHpPotionRecoveryRate",
+        "Original_Text": "물약 회복률 감소",
+        "English_Text": "reduced potion recovery rate",
+        "Russian_Text": "Снижена скорость восстановления зелья",
+        "Chinese_Text": "药水恢复率减少"
+    },
+    "10140": {
+        "Dev_Desc": "ReduceMovementSpeed",
+        "Original_Text": "이동 속도 감소율",
+        "English_Text": "Movement speed reduction rate",
+        "Russian_Text": "Скорость снижения скорости передвижения",
+        "Chinese_Text": "移动减速率"
+    },
+    "10141": {
+        "Dev_Desc": "ReduceSwimSpeed",
+        "Original_Text": "수영 속도 감소율",
+        "English_Text": "swimming speed reduction rate",
+        "Russian_Text": "Скорость снижения скорости плавания",
+        "Chinese_Text": "游泳减速率"
+    },
+    "10142": {
+        "Dev_Desc": "ReduceWalkSpeed",
+        "Original_Text": "걷기 속도 감소율",
+        "English_Text": "Walking speed reduction rate",
+        "Russian_Text": "Скорость снижения скорости ходьбы",
+        "Chinese_Text": "行走减速率"
+    },
+    "10143": {
+        "Dev_Desc": "PvPAttack",
+        "Original_Text": "PVP 공격력",
+        "English_Text": "PVP Attack Power",
+        "Russian_Text": "Сила атаки PVP",
+        "Chinese_Text": "PVP 攻击力"
+    },
+    "10144": {
+        "Dev_Desc": "PvPAttackReduction",
+        "Original_Text": "PVP 호신",
+        "English_Text": "PVP self-defense",
+        "Russian_Text": "Самооборона ПВП",
+        "Chinese_Text": "PVP 护甲"
+    },
+    "10145": {
+        "Dev_Desc": "PvPDefence",
+        "Original_Text": "PVP 방어력",
+        "English_Text": "PVP Defense",
+        "Russian_Text": "PVP защита",
+        "Chinese_Text": "PVP 防御力"
+    },
+    "10146": {
+        "Dev_Desc": "PvPPenetration",
+        "Original_Text": "PVP 관통력",
+        "English_Text": "PVP Penetration",
+        "Russian_Text": "Проникновение в ПВП",
+        "Chinese_Text": "PVP 穿透"
+    },
+    "10147": {
+        "Dev_Desc": "PvPHit",
+        "Original_Text": "PVP 명중",
+        "English_Text": "PVP Hit",
+        "Russian_Text": "PVP Hit",
+        "Chinese_Text": "PVP 命中"
+    },
+    "10148": {
+        "Dev_Desc": "PvPEvasion",
+        "Original_Text": "PVP 회피",
+        "English_Text": "PVP Evasion",
+        "Russian_Text": "Уклонение в PVP",
+        "Chinese_Text": "PVP 闪避"
+    },
+    "10149": {
+        "Dev_Desc": "PvPCriticalRate",
+        "Original_Text": "PVP 치명률",
+        "English_Text": "PVP Critical Rate",
+        "Russian_Text": "Критический рейтинг PVP",
+        "Chinese_Text": "PVP 暴击率"
+    },
+    "10150": {
+        "Dev_Desc": "PvPCriticalResistanceRate",
+        "Original_Text": "PVP 치명 저항률",
+        "English_Text": "PVP Critical Resistance",
+        "Russian_Text": "Критическое сопротивление ПВП",
+        "Chinese_Text": "PVP 暴击抵抗"
+    },
+    "10151": {
+        "Dev_Desc": "PvEAttack",
+        "Original_Text": "PVE 공격력",
+        "English_Text": "PVE attack power",
+        "Russian_Text": "Сила атаки в PVE",
+        "Chinese_Text": "PVE 攻击力"
+    },
+    "10152": {
+        "Dev_Desc": "PvEAttackReduction",
+        "Original_Text": "PVE 호신",
+        "English_Text": "PVE Self Defense",
+        "Russian_Text": "Самооборона ПВЕ",
+        "Chinese_Text": "PVE 护甲"
+    },
+    "10153": {
+        "Dev_Desc": "PvEDefence",
+        "Original_Text": "PVE 방어력",
+        "English_Text": "PVE Defense",
+        "Russian_Text": "PVE Defense",
+        "Chinese_Text": "PVE 防御力"
+    },
+    "10154": {
+        "Dev_Desc": "PvEPenetration",
+        "Original_Text": "PVE 관통력",
+        "English_Text": "PVE Penetration",
+        "Russian_Text": "ПВЕ Проникновение",
+        "Chinese_Text": "PVE 穿透"
+    },
+    "10155": {
+        "Dev_Desc": "PvEHit",
+        "Original_Text": "PVE 명중",
+        "English_Text": "PVE Hit",
+        "Russian_Text": "PVE Hit",
+        "Chinese_Text": "PVE 命中"
+    },
+    "10156": {
+        "Dev_Desc": "PvEEvasion",
+        "Original_Text": "PVE 회피",
+        "English_Text": "PVE Evasion",
+        "Russian_Text": "Уклонение от ПВЕ",
+        "Chinese_Text": "PVE 闪避"
+    },
+    "10157": {
+        "Dev_Desc": "PvECriticalRate",
+        "Original_Text": "PVE 치명률",
+        "English_Text": "PVE Critical Rate",
+        "Russian_Text": "Критическая скорость PVE",
+        "Chinese_Text": "PVE 暴击率"
+    },
+    "10158": {
+        "Dev_Desc": "PvECriticalResistanceRate",
+        "Original_Text": "PVE 치명 저항률",
+        "English_Text": "PVE Critical Resistivity",
+        "Russian_Text": "Критическое сопротивление PVE",
+        "Chinese_Text": "PVE 暴击抵抗"
+    },
+    "10159": {
+        "Dev_Desc": "BossAttack",
+        "Original_Text": "보스 공격력",
+        "English_Text": "Boss Attack",
+        "Russian_Text": "Атака босса",
+        "Chinese_Text": "Boss攻击力"
+    },
+    "10160": {
+        "Dev_Desc": "BossAttackReduction",
+        "Original_Text": "보스 호신",
+        "English_Text": "Boss self-defense",
+        "Russian_Text": "Самооборона босса",
+        "Chinese_Text": "Boss护甲"
+    },
+    "10161": {
+        "Dev_Desc": "BossDefence",
+        "Original_Text": "보스 방어력",
+        "English_Text": "Boss Defense",
+        "Russian_Text": "Защита босса",
+        "Chinese_Text": "Boss防御力"
+    },
+    "10162": {
+        "Dev_Desc": "BossPenetration",
+        "Original_Text": "보스 관통력",
+        "English_Text": "Boss Penetration",
+        "Russian_Text": "Проникновение босса",
+        "Chinese_Text": "Boss穿透"
+    },
+    "10163": {
+        "Dev_Desc": "BossHit",
+        "Original_Text": "보스 명중",
+        "English_Text": "Boss Hit",
+        "Russian_Text": "Босс Хит",
+        "Chinese_Text": "Boss命中"
+    },
+    "10164": {
+        "Dev_Desc": "BossEvasion",
+        "Original_Text": "보스 회피",
+        "English_Text": "Boss Evasion",
+        "Russian_Text": "Уклонение от босса",
+        "Chinese_Text": "Boss闪避"
+    },
+    "10165": {
+        "Dev_Desc": "BossCriticalRate",
+        "Original_Text": "보스 치명률",
+        "English_Text": "Boss Critical Rate",
+        "Russian_Text": "Уровень смертности боссов",
+        "Chinese_Text": "Boss暴击率"
+    },
+    "10166": {
+        "Dev_Desc": "BossCriticalResistanceRate",
+        "Original_Text": "보스 치명 저항률",
+        "English_Text": "Boss Critical Resistance",
+        "Russian_Text": "Критическое сопротивление босса",
+        "Chinese_Text": "Boss暴击抵抗率"
+    },
+    "10167": {
+        "Dev_Desc": "FireDamage",
+        "Original_Text": "화 속성 공격력",
+        "English_Text": "Fire attribute attack power",
+        "Russian_Text": "Атака огненным атрибутом",
+        "Chinese_Text": "火属性攻击力"
+    },
+    "10168": {
+        "Dev_Desc": "WaterDamage",
+        "Original_Text": "수 속성 공격력",
+        "English_Text": "Water attribute attack power",
+        "Russian_Text": "Сила атаки атрибута воды",
+        "Chinese_Text": "水属性攻击力"
+    },
+    "10169": {
+        "Dev_Desc": "WoodDamage",
+        "Original_Text": "목 속성 공격력",
+        "English_Text": "Thing attack attack",
+        "Russian_Text": "Атака атрибутом шеи",
+        "Chinese_Text": "木属性攻击力"
+    },
+    "10170": {
+        "Dev_Desc": "IronDamage",
+        "Original_Text": "금 속성 공격력",
+        "English_Text": "Gold attribute attack power",
+        "Russian_Text": "Сила атаки золотого атрибута",
+        "Chinese_Text": "金属性攻击力"
+    },
+    "10171": {
+        "Dev_Desc": "WindDamage",
+        "Original_Text": "풍 속성 공격력",
+        "English_Text": "Wind property attack power",
+        "Russian_Text": "Атака атрибутом ветра",
+        "Chinese_Text": "风属性攻击力"
+    },
+    "10172": {
+        "Dev_Desc": "LightningDamage",
+        "Original_Text": "뇌 속성 공격력",
+        "English_Text": "Brain attribute attack power",
+        "Russian_Text": "Атака атрибута мозга",
+        "Chinese_Text": "电属性攻击力"
+    },
+    "10173": {
+        "Dev_Desc": "LightDamage",
+        "Original_Text": "명 속성 공격력",
+        "English_Text": "Light attribute attack power",
+        "Russian_Text": "Назовите атрибут силы атаки",
+        "Chinese_Text": "光属性攻击力"
+    },
+    "10174": {
+        "Dev_Desc": "DarkDamage",
+        "Original_Text": "암 속성 공격력",
+        "English_Text": "dark attribute attack power",
+        "Russian_Text": "Сила атаки рака",
+        "Chinese_Text": "暗属性攻击力"
+    },
+    "10175": {
+        "Dev_Desc": "ElementDamage",
+        "Original_Text": "속성 공격력",
+        "English_Text": "Elemental attack power",
+        "Russian_Text": "Атака атрибутом",
+        "Chinese_Text": "属性攻击力"
+    },
+    "10176": {
+        "Dev_Desc": "FireDamageRate",
+        "Original_Text": "화 속성 공격 증폭",
+        "English_Text": "Amplifies fire damage",
+        "Russian_Text": "Увеличивает урон от огня",
+        "Chinese_Text": "火属性伤害増幅"
+    },
+    "10177": {
+        "Dev_Desc": "WaterDamageRate",
+        "Original_Text": "수 속성 공격 증폭",
+        "English_Text": "Amplifies water damage",
+        "Russian_Text": "Увеличить урон атрибутов воды",
+        "Chinese_Text": "水属性伤害増幅"
+    },
+    "10178": {
+        "Dev_Desc": "WoodDamageRate",
+        "Original_Text": "목 속성 공격 증폭",
+        "English_Text": "Amplifies neck damage",
+        "Russian_Text": "Усиливает повреждение шеи",
+        "Chinese_Text": "木属性伤害増幅"
+    },
+    "10179": {
+        "Dev_Desc": "IronDamageRate",
+        "Original_Text": "금 속성 공격 증폭",
+        "English_Text": "Amplifies gold damage",
+        "Russian_Text": "Увеличивает урон золотом",
+        "Chinese_Text": "金属性伤害増幅"
+    },
+    "10180": {
+        "Dev_Desc": "WindDamageRate",
+        "Original_Text": "풍 속성 공격 증폭",
+        "English_Text": "Amplifies wind damage",
+        "Russian_Text": "Усиливает материальный ущерб, нанесенный ветром",
+        "Chinese_Text": "风属性伤害増幅"
+    },
+    "10181": {
+        "Dev_Desc": "LightningDamageRate",
+        "Original_Text": "뇌 속성 공격 증폭",
+        "English_Text": "Brain damage amplification",
+        "Russian_Text": "Усиление повреждений мозга",
+        "Chinese_Text": "电属性伤害増幅"
+    },
+    "10182": {
+        "Dev_Desc": "LightDamageRate",
+        "Original_Text": "명 속성 공격 증폭",
+        "English_Text": "Amplify Light property damage",
+        "Russian_Text": "Усиливает название имущественного ущерба",
+        "Chinese_Text": "光属性伤害増幅"
+    },
+    "10183": {
+        "Dev_Desc": "DarkDamageRate",
+        "Original_Text": "암 속성 공격 증폭",
+        "English_Text": "Amplifies cancer damage",
+        "Russian_Text": "Усиливает ущерб от рака",
+        "Chinese_Text": "暗属性伤害増幅"
+    },
+    "10184": {
+        "Dev_Desc": "ElementDamageRate",
+        "Original_Text": "속성 공격 증폭",
+        "English_Text": "Amplify Elemental Damage",
+        "Russian_Text": "Увеличить урон от атрибутов",
+        "Chinese_Text": "属性伤害増幅"
+    },
+    "10185": {
+        "Dev_Desc": "FireDamageToleranceRate",
+        "Original_Text": "화 속성 피해 내성",
+        "English_Text": "Fire damage resistance",
+        "Russian_Text": "Устойчивость к ущербу имуществу от огня",
+        "Chinese_Text": "火属性伤害抗性"
+    },
+    "10186": {
+        "Dev_Desc": "WaterDamageToleranceRate",
+        "Original_Text": "수 속성 피해 내성",
+        "English_Text": "Water property damage resistance",
+        "Russian_Text": "Устойчивость к повреждению водного имущества",
+        "Chinese_Text": "水属性伤害抗性"
+    },
+    "10187": {
+        "Dev_Desc": "WoodDamageToleranceRate",
+        "Original_Text": "목 속성 피해 내성",
+        "English_Text": "Immune to neck damage",
+        "Russian_Text": "Устойчивость к повреждению шеи",
+        "Chinese_Text": "木属性伤害抗性"
+    },
+    "10188": {
+        "Dev_Desc": "IronDamageToleranceRate",
+        "Original_Text": "금 속성 피해 내성",
+        "English_Text": "Gold damage resistance",
+        "Russian_Text": "Сопротивление золотому урону",
+        "Chinese_Text": "金属性伤害抗性"
+    },
+    "10189": {
+        "Dev_Desc": "WindDamageToleranceRate",
+        "Original_Text": "풍 속성 피해 내성",
+        "English_Text": "Wind property damage resistance",
+        "Russian_Text": "Устойчивость к порче имущества ветром",
+        "Chinese_Text": "风属性伤害抗性"
+    },
+    "10190": {
+        "Dev_Desc": "LightningDamageToleranceRate",
+        "Original_Text": "뇌 속성 피해 내성",
+        "English_Text": "Brain damage resistance",
+        "Russian_Text": "Устойчивость к повреждению мозга",
+        "Chinese_Text": "电属性伤害抗性"
+    },
+    "10191": {
+        "Dev_Desc": "LightDamageToleranceRate",
+        "Original_Text": "명 속성 피해 내성",
+        "English_Text": "Light property damage resistance",
+        "Russian_Text": "Назовите сопротивление имущественному ущербу",
+        "Chinese_Text": "光属性伤害抗性"
+    },
+    "10192": {
+        "Dev_Desc": "DarkDamageToleranceRate",
+        "Original_Text": "암 속성 피해 내성",
+        "English_Text": "Damage Resistance to Cancer",
+        "Russian_Text": "Устойчивость к раку",
+        "Chinese_Text": "暗属性伤害抗性"
+    },
+    "10193": {
+        "Dev_Desc": "ElementDamageToleranceRate",
+        "Original_Text": "속성 피해 내성",
+        "English_Text": "Elemental Damage Resistance",
+        "Russian_Text": "Сопротивление стихийному урону",
+        "Chinese_Text": "属性伤害抗性"
+    },
+    "10194": {
+        "Dev_Desc": "ElementDamageValue",
+        "Original_Text": "소울 친화력",
+        "English_Text": "Soul Affinity",
+        "Russian_Text": "Сродство души",
+        "Chinese_Text": "灵魂元素伤害"
+    },
+    "10195": {
+        "Dev_Desc": "ElementDamageValueRate",
+        "Original_Text": "추가 소울 친화력",
+        "English_Text": "Additional Soul Affinity",
+        "Russian_Text": "Дополнительное сродство души",
+        "Chinese_Text": "额外的灵魂元素伤害"
+    },
+    "10196": {
+        "Dev_Desc": "SoulParryDamage",
+        "Original_Text": "소울 합격 공격력",
+        "English_Text": "Soul Passing Attack Power",
+        "Russian_Text": "Сила атаки передачи души",
+        "Chinese_Text": "灵魂传递攻击力"
+    }
+}
