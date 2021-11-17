@@ -124,7 +124,7 @@
         "deprecated": false,
         "id": 9000021,
         "alias": "SysM.HUD.NotOpen",
-        "text": "This function is being prepared."
+        "text": "This is a feature in preparation."
     },
     "9000022": {
         "deprecated": false,
@@ -287,7 +287,7 @@
         "Dev_Desc": "아이템이름, 판매/분해",
         "id": 9000046,
         "alias": "SysM.Item.RegistConfirm",
-        "text": "This item can be registered.\nDo you want to <arg p=[1:string]/><eul/> <arg p=[2:string]/>?"
+        "text": "등록 가능한 아이템입니다.\n<arg p=[1:string]/><eul/> <arg p=[2:string]/> 하시겠습니까?"
     },
     "9000047": {
         "deprecated": false,
@@ -300,7 +300,7 @@
         "deprecated": false,
         "id": 9000048,
         "alias": "SysM.Item.LackCloth",
-        "text": "We do not have enough fabric to exchange.\nCloth can be obtained by disassembling clothes."
+        "text": "보유한 옷감이 부족하여 교환할 수 없습니다.\n옷감은 의복 분해 시 획득 가능합니다."
     },
     "9000049": {
         "deprecated": false,
@@ -478,13 +478,13 @@
         "deprecated": false,
         "id": 9000077,
         "alias": "SysM.TempInventory.Reward2",
-        "text": "Some of the rewards cannot be obtained because there are items in temporary storage."
+        "text": "임시 보관 중인 물품이 있어\n보상 일부를 획득할 수 없습니다."
     },
     "9000078": {
         "deprecated": false,
         "id": 9000078,
         "alias": "SysM.Death.InstantRevival.1",
-        "text": "You have to pay when using Instant Resurrection.\n"
+        "text": "즉시 부활 사용 시 비용을 지불해야 합니다.\n"
     },
     "9000079": {
         "deprecated": false,
@@ -616,7 +616,7 @@
         "deprecated": false,
         "id": 9000100,
         "alias": "SysM.Party.Information.NoFriend",
-        "text": "There are no registered friends."
+        "text": "There are no friends"
     },
     "9000101": {
         "deprecated": false,
@@ -779,13 +779,13 @@
         "deprecated": false,
         "id": 9000127,
         "alias": "SysM.ExchangeShop.LackAchievementCoin",
-        "text": "You cannot purchase achievement coins because you do not have enough achievement coins.\nAchievement coins can be obtained by completing achievements."
+        "text": "보유 중인 업적주화가 부족하여 구매할 수 없습니다.\n업적주화는 업적 달성 시 획득 가능합니다."
     },
     "9000128": {
         "deprecated": false,
         "id": 9000128,
         "alias": "SysM.ExchangeShop.LackCloth",
-        "text": "We do not have enough fabric to exchange.\nCloth can be obtained by disassembling clothes."
+        "text": "보유한 옷감이 부족하여 교환할 수 없습니다.\n옷감은 의복 분해 시 획득 가능합니다."
     },
     "9000129": {
         "deprecated": false,
@@ -1424,7 +1424,7 @@
         "Dev_Desc": "HUD / ",
         "id": 9000236,
         "alias": "SysM.HUD.Teleport.Ing",
-        "text": "cast"
+        "text": "Cast"
     },
     "9000237": {
         "deprecated": false,
@@ -2782,7 +2782,7 @@
         "Dev_Desc": "문파 시스템 / 해금 / 타입 명",
         "id": 9000435,
         "alias": "SysM.FunctionLock.ContentsName.Guild",
-        "text": "Guild"
+        "text": "Clan"
     },
     "9000436": {
         "deprecated": false,
@@ -3090,7 +3090,7 @@
         "Dev_Desc": "강신 / 주문서 사용 / 강신 중 동일한 강신 사용",
         "id": 9000485,
         "alias": "SysM.Item.Aspect.SameAspect",
-        "text": "You cannot use 'same spirit' during the duration of the spirit."
+        "text": "강신 유지시간 중에는 '동일한 강신'을 사용할 수 없습니다."
     },
     "9000486": {
         "deprecated": false,
@@ -4189,7 +4189,7 @@
         "Dev_Desc": "채팅 / 서버",
         "id": 9000659,
         "alias": "SysM.chat.Server",
-        "text": "All"
+        "text": "Server"
     },
     "9000660": {
         "deprecated": false,
@@ -4203,7 +4203,7 @@
         "Dev_Desc": "채팅 / 문파",
         "id": 9000661,
         "alias": "SysM.chat.Guild",
-        "text": "Guild"
+        "text": "Clan"
     },
     "9000662": {
         "deprecated": false,
@@ -4336,7 +4336,7 @@
         "Dev_Desc": "채팅 / 차단 인원",
         "id": 9000680,
         "alias": "SysM.chat.BlockUserText",
-        "text": "Blocked Persons"
+        "text": "Block Users"
     },
     "9000681": {
         "deprecated": false,
@@ -5442,7 +5442,7 @@
         "Dev_Desc": "채팅 / 힌트 / 서버, 지역",
         "id": 9000839,
         "alias": "SysM.chat.PromptServerZone",
-        "text": "Leave a story"
+        "text": "Server chat"
     },
     "9000840": {
         "deprecated": false,
@@ -5463,21 +5463,21 @@
         "Dev_Desc": "채팅 / 힌트 / 문파",
         "id": 9000842,
         "alias": "SysM.chat.PromptGuild",
-        "text": "Speak with the Moonpaw"
+        "text": "Clan chat"
     },
     "9000843": {
         "deprecated": false,
         "Dev_Desc": "채팅 / 지역",
         "id": 9000843,
         "alias": "SysM.chat.Local",
-        "text": "General"
+        "text": "Local"
     },
     "9000844": {
         "deprecated": false,
         "Dev_Desc": "채팅 / 귓속말",
         "id": 9000844,
         "alias": "SysM.chat.Whisper",
-        "text": "whisper"
+        "text": "Whisper"
     },
     "9000845": {
         "deprecated": false,
@@ -5519,7 +5519,7 @@
         "Dev_Desc": "강화 / 버튼 / 주문서 등록",
         "id": 9000850,
         "alias": "SysM.Forge.Enchant.SelectScroll.Enroll",
-        "text": "Registration"
+        "text": "Enroll"
     },
     "9000851": {
         "deprecated": false,
@@ -5687,7 +5687,7 @@
         "Dev_Desc": "채팅 시스템 메시지 / 브로드 캐스팅 / 아이템 획득",
         "id": 9000874,
         "alias": "SyM.ChatSysM.ItemDrop",
-        "text": "<<arg p=[1:string]/>>[<arg p=[2:string]/>]><arg p=[3:string]/> </><<arg p=[4:string]/>><arg p=[5:string]/></><<arg p=[1:string]/>><eul/> <arg p=[6:string]>Obtained from</></>"
+        "text": "<<arg p=[1:string]/>>[<arg p=[2:string]/>]><arg p=[3:string]/> Obtained from</><<arg p=[4:string]/>><arg p=[5:string]/></><<arg p=[1:string]/>><eul/> <arg p=[6:string]></></>"
     },
     "9000875": {
         "deprecated": false,
@@ -5981,7 +5981,7 @@
         "Dev_Desc": "채팅 / 시스템",
         "id": 9000916,
         "alias": "SysM.chat.System",
-        "text": "system"
+        "text": "System"
     },
     "9000917": {
         "deprecated": false,

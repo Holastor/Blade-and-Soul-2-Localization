@@ -23549,5 +23549,40 @@
         "id": 8003446,
         "alias": "UI.Craft.LeftSubTabName.Event.FourMaster_01",
         "text": "Хранитель Посланника Небес"
+    },
+    "8003447": {
+        "deprecated": false,
+        "Dev_Desc": "아이템 상세정보창 / 레벨 제한 min & max",
+        "id": 8003447,
+        "alias": "UI.ItemInfo.RequiredLevel.MinMax",
+        "text": "Может использоваться выше <arg p = [1: integer] /> и ниже <arg p = [2: integer] />"
+    },
+    "8003448": {
+        "deprecated": false,
+        "Dev_Desc": "아이템 타입 / 용해제",
+        "id": 8003448,
+        "alias": "UI.Item.ItemType.Solvent",
+        "text": "«Солюбилизатор»"
+    },
+    "8003449": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 이전 신청 / 이전 불가",
+        "id": 8003449,
+        "alias": "UI.HeroTransfer.Fail.SysM.01",
+        "text": "«Запрос обрабатывается. Повторите попытку позже»."
+    },
+    "8003450": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 조건 확인 / 잔여 슬롯 없음",
+        "id": 8003450,
+        "alias": "UI.HeroTransfer.Condition.Slot.No.02",
+        "text": "«На сервере не осталось слотов для персонажей, которые нужно перенести»."
+    },
+    "8003451": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 서버 이전 확인 / 이전 가능 기간",
+        "id": 8003451,
+        "alias": "UI.HeroTransfer.TransferCheck.Period",
+        "text": "<arg p = [1: integer] />. <arg p = [2: integer] />. <arg p = [3: integer] />. <arg p = [4: integer] />: < arg p = [5: integer] /> ~ <arg p = [6: integer] />. <arg p = [7: integer] />. <arg p = [8: integer] />. <arg p = [9: целое число] />: <arg p = [10: целое число] /> "
     }
 }
