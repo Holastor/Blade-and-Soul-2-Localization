@@ -424,7 +424,7 @@
         "Dev_Desc": "제련/변환 / 전면 연출 / 강화/승급/제작",
         "id": 8000061,
         "alias": "UI.Enchant.FailTitle",
-        "text": "失败"
+        "text": "<arg p=[1:string]/>失败"
     },
     "8000062": {
         "deprecated": false,
@@ -1572,7 +1572,7 @@
         "Dev_Desc": "문파 / 문파원 / 가입 신청",
         "id": 8000225,
         "alias": "UI.Clan.StatusText.JoinRequestNum",
-        "text": "加入申请（<arg p=[1:integer]/>／<arg p=[2:integer]/>）"
+        "text": "加入申请（<arg p=[1:string]/>／<arg p=[2:integer]/>）"
     },
     "8000226": {
         "deprecated": false,
@@ -2671,7 +2671,7 @@
         "Dev_Desc": "HUD / ",
         "id": 8000382,
         "alias": "UI.HUD.Chat.InProgress",
-        "text": "进行中的对话(<arg p=[1:integer]/>)"
+        "text": "进行中的对话(<argp=[1:integer>)"
     },
     "8000383": {
         "deprecated": false,
@@ -3917,7 +3917,7 @@
         "Dev_Desc": "경험치 복구 / 도움말 / 설명",
         "id": 8000561,
         "alias": "UI.ExpRecorvery.GuidePopUp.Desc",
-        "text": "<arg p=[1:string]/> 存储因角色死亡而丢失的 EXP 和物品； EXP 的上限为 <arg p=[2:integer]/> ，物品的上限为 <arg p=[3:integer]/> 。 就 EXP 而言，每天最多允许免费恢复 <arg p=[4:integer]/> 次，并且每天在 <arg p=[5:string]/> 处重置。"
+        "text": "由于死亡而损失的经验值会被保管一段时间，最多能保管<arg p=[1:integer]/>个。<br/>根据恢复经验值的次数，需要支付额外费用。"
     },
     "8000562": {
         "deprecated": false,
@@ -4155,7 +4155,7 @@
         "Dev_Desc": "문파 / 문파 정보 / 관리 / 가입,해산 / 가입 제한 레벨",
         "id": 8000609,
         "alias": "UI.Guild.Management.JoinRequireLevel",
-        "text": "Lv.<arg p=[1:integer]/>以上"
+        "text": "Lv.<arg p=[1.:integer]/>以上"
     },
     "8000610": {
         "deprecated": false,
@@ -5772,21 +5772,21 @@
         "Dev_Desc": "모험가 점수 1~4단계",
         "id": 8000842,
         "alias": "UI.Worldmap.Adventure.Point",
-        "text": "<arg p=[1:integer]/>～<arg p=[2:integer]/>分"
+        "text": "<arg p=[1:integer]/>～<arg p=[2:string]/>分"
     },
     "8000843": {
         "deprecated": false,
         "Dev_Desc": "모험가 점수 5단계",
         "id": 8000843,
         "alias": "UI.Worldmap.Adventure.Point2",
-        "text": "<arg p=[1:integer]/>分以上"
+        "text": "<arg p=[1:string]/>分以上"
     },
     "8000844": {
         "deprecated": false,
         "Dev_Desc": "모험가 랭크 1~3랭크",
         "id": 8000844,
         "alias": "UI.Worldmap.Adventure.Point3",
-        "text": "<arg p=[2:string]/><arg p=[1:integer]/>分"
+        "text": "<arg p=[2:string]/><arg p=[1:string]/>分"
     },
     "8000845": {
         "deprecated": false,
@@ -7431,7 +7431,7 @@
         "Dev_Desc": "도전과제 – 점수",
         "id": 8001115,
         "alias": "UI.Worldmap.Province.Adventure.NoramlContents",
-        "text": "<arg p=[1:integer]/>分"
+        "text": "<arg p=[1:string]/>分"
     },
     "8001116": {
         "deprecated": false,
@@ -11348,7 +11348,7 @@
     },
     "8001676": {
         "deprecated": false,
-        "Dev_Desc": "거래소 / 검색열 / 제련 옵션",
+        "Dev_Desc": "거래소 / 검색열 / 제련 능력치",
         "id": 8001676,
         "alias": "UI.Trade.SearchColumn.Forge",
         "text": "提炼属性"
@@ -11474,7 +11474,7 @@
     },
     "8001697": {
         "deprecated": false,
-        "Dev_Desc": "거래소 / 필터 / 제련 옵션",
+        "Dev_Desc": "거래소 / 필터 / 제련 능력치",
         "id": 8001697,
         "alias": "UI.Trade.Filter.Forge",
         "text": "提炼属性"
@@ -11621,7 +11621,7 @@
     },
     "8001718": {
         "deprecated": false,
-        "Dev_Desc": "거래소 / 판매열 / 제련 옵션",
+        "Dev_Desc": "거래소 / 판매열 / 제련 능력치",
         "id": 8001718,
         "alias": "UI.Trade.SaleColumn.Forge",
         "text": "提炼属性"
@@ -11784,21 +11784,21 @@
         "deprecated": false,
         "Dev_Desc": "거래소 / 정산열 / 판매 금액",
         "id": 8001744,
-        "alias": "UI.Trade.CalculateColumn.Forge",
+        "alias": "UI.Trade.CalculateColumn.Price",
         "text": "出售金额"
     },
     "8001745": {
         "deprecated": false,
         "Dev_Desc": "거래소 / 정산열 / 정산 금액",
         "id": 8001745,
-        "alias": "UI.Trade.CalculateColumn.Price",
+        "alias": "UI.Trade.CalculateColumn.Price2",
         "text": "结算金额"
     },
     "8001746": {
         "deprecated": false,
         "Dev_Desc": "거래소 / 정산열 / 판매 시간",
         "id": 8001746,
-        "alias": "UI.Trade.CalculateColumn.State",
+        "alias": "UI.Trade.CalculateColumn.Time",
         "text": "出售时间"
     },
     "8001747": {
@@ -11854,21 +11854,21 @@
         "deprecated": false,
         "Dev_Desc": "거래소 / 정산 내역열 / 판매 금액",
         "id": 8001754,
-        "alias": "UI.Trade.CalculateListColumn.Forge",
+        "alias": "UI.Trade.CalculateListColumn.Price",
         "text": "出售金额"
     },
     "8001755": {
         "deprecated": false,
         "Dev_Desc": "거래소 / 정산 내역열 / 정산 금액",
         "id": 8001755,
-        "alias": "UI.Trade.CalculateListColumn.Price",
+        "alias": "UI.Trade.CalculateListColumn.Price2",
         "text": "结算金额"
     },
     "8001756": {
         "deprecated": false,
         "Dev_Desc": "거래소 / 정산 내역열 / 판매 시간",
         "id": 8001756,
-        "alias": "UI.Trade.CalculateListColumn.State",
+        "alias": "UI.Trade.CalculateListColumn.Time",
         "text": "出售时间"
     },
     "8001757": {
@@ -13976,7 +13976,7 @@
         "Dev_Desc": "[테스트]캐시상점 / 상품 / 기간",
         "id": 8002070,
         "alias": "UI.CashShop.PopUp.UntilEndSale",
-        "text": "距离销售结束还剩<arg p=[1:string]/>\n<arg p=[2:string]/>"
+        "text": "距离销售结束还剩<arg p=[1:string]/>\n<arg p=[1:string]/>"
     },
     "8002071": {
         "deprecated": false,
@@ -14487,7 +14487,7 @@
         "Dev_Desc": "캐시상점 / 구매 팝업 / 공통/ 현금 구매 자세히",
         "id": 8002145,
         "alias": "UI.CashShop.PopUp.Notice.Cash.Desc",
-        "text": "撤销购买的申请条件\n\n①购买收费商品的会员可在购买合同签订日与相关商品使用日中较晚的一日起在7日以内申请撤销购买。\n\n①虽然有第一项规定，但符合以下各条的内容时，将无法申请撤销。\n- 超出撤销的申请日期时\n- 由于会员已经使用或消耗一部分而使商品价值大幅降低时\n- 企业提供试用商品，刚开始提供数字内容的商品时。但是，合同由可分割的数字内容组成时，对于尚未开始提供的部分不适用此条规定。\n- 会员免费获得商品时（活动，礼品等）\n- 其他游戏服务使用条款规定的撤销购买事项\n\n①虽然有第一项及第二项规定，但购买的收费商品的内容与广告的内容不符或与合同内容不同时，会员可在获得该商品起3个月以内申请撤销购买。\n\n●撤销购买的效果\n\n①会员在申请撤销购买之后，必须保持企业可回收或删除该商品的状态。\n\n①企业应在会员申请撤销购买之日起3个营业日以内向会员退还已支付的费用，或向应用商店等付款企业申请取消付款。\n\n①企业在有必要时，可向会员要求退还费用所需的证明资料。若会员拒绝此要求，有可能无法获得退款。\n\n●误付款退还政策\n\n①若发生误付款的情况，企业应通过与普通付款相同的方法予以退款。不过，当无法以相同方式退款时，企业将立即通知会员。\n\n②出现误付款的责任在于企业时，企业应退还误付款全额，不计合同费，手续费等。不过，当出现误付款的责任在于会员时，企业可在合理的范围内扣除所需费用后向会员退还误付款。\n\n●申请撤销购买及申请误付款退款\n\n会员可在客服中心>1:1咨询中申请撤销购买或申请误付款退款。\n\n●在为撤销购买退款或为误付款退款的过程中出现延迟时，赔偿金支付条件及流程\n\n企业在为撤销购买退款或为误付款退款的过程中出现延迟时，将根据关于电子商务等的消费者保护相关法律规定的利率支付延迟赔偿金。关于延迟赔偿金计算，若想进行咨询或提出意见，请联系“移动客户咨询（1588-7004）”。\n\n●商品购买注意事项\n\n①对于购买或使用商品时发生的赔偿及纷争将根据公正交易委员会公告的消费者纷争解决标准予以处理。其他与商品有关的不满或异议请联系客服中心。\n\n①购买商品时，将根据商品种类立即“发送至游戏内商店的保管箱”或在游戏内生效。传送或使用购买的商品时，可能需要特殊的技术规格。请参考应用商店的游戏购买页面或plaync主页另外公告的规格信息。\n\n①当未成年人购买收费商品时，若未获得法定监护人的同意，可由未成年人本人或法定监护人取消商品购买。\n\n在plaync主页下方的使用条款菜单或https://kr.plaync.com/policy/service可查看游戏服务使用条款。\n在plaync主页下方的个人信息处理方针菜单或https://kr.plaync.com/policy/privacy可查看个人信息处理方针。\n\n株式会社NcSoft，京畿道城南市盆唐区大王板桥路644番街12，法定代表人金泽辰，事业者登录编号144-85-04244，通信销售业登记第2014-京畿城南-1268号，手机客户咨询1566-7004，传真02-2168-3499，电子邮箱地址：credit@ncsoft.com"
+        "text": "撤销购买的申请条件\n\n①购买收费商品的会员可在购买合同签订日与相关商品使用日中较晚的一日起在7日以内申请撤销购买。\n\n①虽然有第一项规定，但符合以下各条的内容时，将无法申请撤销。\n- 超出撤销的申请日期时\n- 由于会员已经使用或消耗一部分而使商品价值大幅降低时\n- 企业提供试用商品，刚开始提供数字内容的商品时。但是，合同由可分割的数字内容组成时，对于尚未开始提供的部分不适用此条规定。\n- 会员免费获得商品时（活动，礼品等）\n- 其他游戏服务使用条款规定的撤销购买事项\n\n①虽然有第一项及第二项规定，但购买的收费商品的内容与广告的内容不符或与合同内容不同时，会员可在获得该商品起3个月以内申请撤销购买。\n\n●撤销购买的效果\n\n①会员在申请撤销购买之后，必须保持企业可回收或删除该商品的状态。\n\n①企业应在会员申请撤销购买之日起3个营业日以内向会员退还已支付的费用，或向应用商店等付款企业申请取消付款。\n\n①企业在有必要时，可向会员要求退还费用所需的证明资料。若会员拒绝此要求，有可能无法获得退款。\n\n●误付款退还政策\n\n①若发生误付款的情况，企业应通过与普通付款相同的方法予以退款。不过，当无法以相同方式退款时，企业将立即通知会员。\n\n②出现误付款的责任在于企业时，企业应退还误付款全额，不计合同费，手续费等。不过，当出现误付款的责任在于会员时，企业可在合理的范围内扣除所需费用后向会员退还误付款。\n\n●申请撤销购买及申请误付款退款\n\n会员可在客服中心>1:1咨询中申请撤销购买或申请误付款退款。\n\n●在为撤销购买退款或为误付款退款的过程中出现延迟时，赔偿金支付条件及流程\n\n企业在为撤销购买退款或为误付款退款的过程中出现延迟时，将根据《关于电子商务等的消费者保护相关法律》规定的利率支付延迟赔偿金。关于延迟赔偿金计算，若想进行咨询或提出意见，请联系“移动客户咨询（1588-7004）”。\n\n●商品购买注意事项\n\n①对于购买或使用商品时发生的赔偿及纷争将根据公正交易委员会公告的《消费者纷争解决标准》予以处理。其他与商品有关的不满或异议请联系客服中心。\n\n①购买商品时，将根据商品种类立即“发送至游戏内商店的保管箱”或在游戏内生效。传送或使用购买的商品时，可能需要特殊的技术规格。请参考应用商店的游戏购买页面或plaync主页另外公告的规格信息。\n\n①当未成年人购买收费商品时，若未获得法定监护人的同意，可由未成年人本人或法定监护人取消商品购买。\n\n在plaync主页下方的使用条款菜单或https://kr.plaync.com/policy/service可查看游戏服务使用条款。\n在plaync主页下方的个人信息处理方针菜单或https://kr.plaync.com/policy/privacy可查看个人信息处理方针。\n\n株式会社NcSoft，京畿道城南市盆唐区大王板桥路644番街12，法定代表人金泽辰，事业者登录编号144-85-04244，通信销售业登记第2014-京畿城南-1268号，手机客户咨询1566-7004，传真02-2168-3499，电子邮箱地址：credit@ncsoft.com"
     },
     "8002146": {
         "deprecated": false,
@@ -14816,7 +14816,7 @@
         "Dev_Desc": "여정/임무목록/거리표시/범위",
         "id": 8002192,
         "alias": "UI.Quest.Distance.Range",
-        "text": "<arg p=[1:integer]/>米"
+        "text": "<arg p=[1:string]/>米"
     },
     "8002193": {
         "deprecated": false,
@@ -15131,7 +15131,7 @@
         "Dev_Desc": "HUD / 영기 / 영기 문구",
         "id": 8002237,
         "alias": "UI.SpiritEnergy",
-        "text": "灵气<arg p=[1:integer]/>阶段"
+        "text": "光环"
     },
     "8002238": {
         "deprecated": false,
@@ -15509,7 +15509,7 @@
         "Dev_Desc": "로그인 UI / 데이터 다운로드 / 저장 공간 부족",
         "id": 8002291,
         "alias": "UI.Login.DataDownload.LackSpace",
-        "text": "存储空间不足<arg p=[1:double]/>% <arg p=[2:integer]/>/<arg p=[3:integer]/><arg p=[4:string]/>"
+        "text": "存储空间不足<arg p=[1:integer]/>/<arg p=[2:integer]/><arg p=[3:string]/>"
     },
     "8002292": {
         "deprecated": false,
@@ -19408,7 +19408,7 @@
         "Dev_Desc": "던전 / 오픈 제한 조건 / 지역",
         "id": 8002851,
         "alias": "UI.Dungeon.CutProvince",
-        "text": "发现<arg p=[1:string]/>"
+        "text": "发现<arg p=[1:integer]/>"
     },
     "8002852": {
         "deprecated": false,
@@ -23584,5 +23584,173 @@
         "id": 8003451,
         "alias": "UI.HeroTransfer.TransferCheck.Period",
         "text": "<arg p = [1: integer] />. <arg p = [2: integer] />. <arg p = [3: integer] />. <arg p = [4: integer] />: < arg p = [5: integer] /> ~ <arg p = [6: integer] />. <arg p = [7: integer] />. <arg p = [8: integer] />. <arg p = [9: 整数] />: <arg p = [10: 整数] /> "
+    },
+    "8003452": {
+        "deprecated": false,
+        "Dev_Desc": "문파 / 문파 정보 / 문파 경험치 설명",
+        "id": 8003452,
+        "alias": "UI.Guild.GuildInfo.GuildExpDesc",
+        "text": "如果你通过狩猎获得经验，或者参与捐赠、闪电、合作活动等活动，你的氏族经验就会增加。"
+    },
+    "8003453": {
+        "deprecated": false,
+        "Dev_Desc": "거래소 / 정산열 / 제련 능력치",
+        "id": 8003453,
+        "alias": "UI.Trade.CalculateColumn.Forge",
+        "text": "「熔炼能力」"
+    },
+    "8003454": {
+        "deprecated": false,
+        "Dev_Desc": "거래소 / 정산 내역열 / 제련 능력치",
+        "id": 8003454,
+        "alias": "UI.Trade.CalculateListColumn.Forge",
+        "text": "「熔炼能力」"
+    },
+    "8003455": {
+        "deprecated": false,
+        "Dev_Desc": "소울 뽑기 / 재구매 팝업 / 미표시 옵션",
+        "id": 8003455,
+        "alias": "UI.SoulGacha.RepurchasePopup.OptionDesc",
+        "text": "下次禁止此消息"
+    },
+    "8003456": {
+        "deprecated": false,
+        "Dev_Desc": "PK / 장부 / 메인 화면 / 경계 등록",
+        "id": 8003456,
+        "alias": "UI.PK.Record.AddAlert",
+        "text": "添加边界"
+    },
+    "8003457": {
+        "deprecated": false,
+        "Dev_Desc": "PK / 장부 / 메인 화면 / 경계 삭제",
+        "id": 8003457,
+        "alias": "UI.PK.Record.DeleteAlert",
+        "text": "删除边界"
+    },
+    "8003458": {
+        "deprecated": false,
+        "Dev_Desc": "캐시상점 / 메인 탭 / 블랙 프라이데이",
+        "id": 8003458,
+        "alias": "UI.CashShop.TapName.Main.BlackF",
+        "text": "黑色星期五"
+    },
+    "8003459": {
+        "deprecated": false,
+        "Dev_Desc": "캐시상점 / 서브 탭 / 블랙 프라이데이 / 신석",
+        "id": 8003459,
+        "alias": "UI.CashShop.TapName.Sub.Bfblood",
+        "text": "新石"
+    },
+    "8003460": {
+        "deprecated": false,
+        "Dev_Desc": "캐시상점 / 서브 탭 / 블랙 프라이데이 탭 / 금화",
+        "id": 8003460,
+        "alias": "UI.CashShop.TapName.Sub.Gold",
+        "text": "金翅雀"
+    },
+    "8003461": {
+        "deprecated": false,
+        "Dev_Desc": "캐시상점 / 서브 탭 / 블랙 프라이데이 탭 / 비사전",
+        "id": 8003461,
+        "alias": "UI.CashShop.TapName.Sub.itemCoin1",
+        "text": "非字典"
+    },
+    "8003462": {
+        "deprecated": false,
+        "Dev_Desc": "캐시상점 / 서브 탭 / 블랙 프라이데이 탭 / 도화전",
+        "id": 8003462,
+        "alias": "UI.CashShop.TapName.Sub.itemCoin2",
+        "text": "道华殿"
+    },
+    "8003463": {
+        "deprecated": false,
+        "Dev_Desc": "캐시상점 / 서브 탭 / 블랙 프라이데이 탭 / 플레이포인트",
+        "id": 8003463,
+        "alias": "UI.CashShop.TapName.Sub.PlayPoint",
+        "text": "播放点"
+    },
+    "8003464": {
+        "deprecated": false,
+        "Dev_Desc": "캐시상점 / 메인탭 / 금화 & 주화",
+        "id": 8003464,
+        "alias": "UI.CashShop.TapName.Main.GC",
+        "text": "金翅雀"
+    },
+    "8003465": {
+        "deprecated": false,
+        "Dev_Desc": "이벤트 제작 레시피 탭 / 서버이전권",
+        "id": 8003465,
+        "alias": "UI.Craft.LeftSubTabName.Event.HeroTransfer.01",
+        "text": "服务器转移"
+    },
+    "8003466": {
+        "deprecated": false,
+        "Dev_Desc": "랭킹 / 탭 / 문파 랭킹 탭",
+        "id": 8003466,
+        "alias": "UI.Ranking.TabName.GuildEXP",
+        "text": "月巴"
+    },
+    "8003467": {
+        "deprecated": false,
+        "Dev_Desc": "랭킹 / 문파 / 안내문",
+        "id": 8003467,
+        "alias": "UI.GuildExp.Ranking.Season.Description",
+        "text": "氏族排名每小时更新一次。"
+    },
+    "8003468": {
+        "deprecated": false,
+        "Dev_Desc": "랭킹 / 내 순위",
+        "id": 8003468,
+        "alias": "UI.Ranking.MyInfo",
+        "text": "我的排名"
+    },
+    "8003469": {
+        "deprecated": false,
+        "Dev_Desc": "랭킹 / 내 문파",
+        "id": 8003469,
+        "alias": "UI.Ranking.MyGuildInfo",
+        "text": "我的坏蛋"
+    },
+    "8003470": {
+        "deprecated": false,
+        "Dev_Desc": "랭킹 / 컬럼 / 현재 순위",
+        "id": 8003470,
+        "alias": "UI.Ranking.Column.CurrentRank",
+        "text": "当前排名"
+    },
+    "8003471": {
+        "deprecated": false,
+        "Dev_Desc": "랭킹 / 컬럼 / 문파 레벨",
+        "id": 8003471,
+        "alias": "UI.Ranking.Column.GuildLevel",
+        "text": "门巴级"
+    },
+    "8003472": {
+        "deprecated": false,
+        "Dev_Desc": "랭킹 / 항목 없음",
+        "id": 8003472,
+        "alias": "UI.Ranking.NoRankInfo",
+        "text": "没有排名信息。"
+    },
+    "8003473": {
+        "deprecated": false,
+        "Dev_Desc": "랭킹 / 문파 랭킹 혜택 정보 버튼",
+        "id": 8003473,
+        "alias": "UI.Ranking.GuildEXPRankRewardInfoButton",
+        "text": "Clan 排名的好处"
+    },
+    "8003474": {
+        "deprecated": false,
+        "Dev_Desc": "랭킹 / 문파 랭킹 혜택 정보 팝업 / 타이틀",
+        "id": 8003474,
+        "alias": "UI.Ranking.GuildEXPRankRewardInfoPopup.Title",
+        "text": "Clan 排名的好处"
+    },
+    "8003475": {
+        "deprecated": false,
+        "Dev_Desc": "이벤트 제작 레시피 탭 / 블랙프라이데이",
+        "id": 8003475,
+        "alias": "UI.Craft.LeftSubTabName.Event.BlackTicket",
+        "text": "黑色星期五门票"
     }
 }

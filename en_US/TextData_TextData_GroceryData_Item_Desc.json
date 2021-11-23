@@ -11,14 +11,14 @@
         "Dev_Desc": "이동속도 물약 (상급)",
         "id": 99000001,
         "alias": "Contents.Item.Desc.9000023",
-        "text": "Move Speed Tonic (Greater)<br/><br/><fontStyle=[TestStyleB]>Acquired from:</><br/><img src=[Texture2D/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_011.Icon_Test_TextForm_011] width=[20] height=[20]/>Roaming Scarecrow"
+        "text": "Move Speed Tonic (Greater)<br/><br/><fontStyle=[TestStyleB]>Acquired from:</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_011.Icon_Test_TextForm_011'] width=[20] height=[20]/>Roaming Scarecrow"
     },
     "99000002": {
         "deprecated": false,
         "Dev_Desc": "이동속도 물약 (고급)",
         "id": 99000002,
         "alias": "Contents.Item.Desc.9000024",
-        "text": "Move Speed Tonic (Superior)<br/><br/><fontStyle=[TestStyleB]>Acquired from:</><br/><img src=[Texture2D/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_011.Icon_Test_TextForm_011] width=[20] height=[20]/>Roaming Scarecrow"
+        "text": "Move Speed Tonic (Superior)<br/><br/><fontStyle=[TestStyleB]>Acquired from:</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_011.Icon_Test_TextForm_011'] width=[20] height=[20]/>Roaming Scarecrow"
     },
     "99000003": {
         "deprecated": false,
@@ -151,7 +151,7 @@
         "Dev_Desc": "초급 생명력 비약",
         "id": 99000021,
         "alias": "Contents.Item.Desc.9000068",
-        "text": "Basic HP Elixir<br/><br/><fontStyle=[TestStyleB]>Acquired from:</><br/><img src=[Texture2D/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_011.Icon_Test_TextForm_011] width=[20] height=[20]/>Roaming Scarecrow"
+        "text": "Basic HP Elixir<br/><br/><fontStyle=[TestStyleB]>Acquired from:</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_011.Icon_Test_TextForm_011'] width=[20] height=[20]/>Roaming Scarecrow"
     },
     "99000022": {
         "deprecated": false,
@@ -410,42 +410,42 @@
         "Dev_Desc": "일반 탐지비급 상자",
         "id": 99000058,
         "alias": "Contents.Item.Desc.9000196",
-        "text": "The chest contains Common Scan Techniques.<br/><br/><fontStyle=[TestStyleB]>Available:</><br/><img src=[Texture2D/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Distance_001.Icon_Test_Detect_Distance_001] width=[32] height=[32]/>Scan Radius Lv.1<br/><img src=[Texture2D/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Height_001.Icon_Test_Detect_Height_001] width=[32] height=[32]/>Scan Height Lv.1<br/><img src=[Texture2D/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Target_001.Icon_Test_Detect_Target_001] width=[32] height=[32]/>Scan Target Lv.1<br/><img src=[Texture2D/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Duration_001.Icon_Test_Detect_Duration_001] width=[32] height=[32]/>Scan Time Lv.1<br/><img src=[Texture2D/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Cooltime_001.Icon_Test_Detect_Cooltime_001] width=[32] height=[32]/>Scan Cooldown Lv.1"
+        "text": "The chest contains Common Scan Techniques.<br/><br/><fontStyle=[TestStyleB]>Available:</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Distance_001.Icon_Test_Detect_Distance_001'] width=[32] height=[32]/>Scan Radius Lv.1<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Height_001.Icon_Test_Detect_Height_001'] width=[32] height=[32]/>Scan Height Lv.1<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Target_001.Icon_Test_Detect_Target_001'] width=[32] height=[32]/>Scan Target Lv.1<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Duration_001.Icon_Test_Detect_Duration_001'] width=[32] height=[32]/>Scan Time Lv.1<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Cooltime_001.Icon_Test_Detect_Cooltime_001'] width=[32] height=[32]/>Scan Cooldown Lv.1"
     },
     "99000059": {
         "deprecated": false,
         "Dev_Desc": "상급 탐지비급 상자",
         "id": 99000059,
         "alias": "Contents.Item.Desc.9000197",
-        "text": "The chest contains Greater Scan Techniques.<br/><br/><fontStyle=[TestStyleB]>Available:</><br/><img src=[Texture2D/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Distance_002.Icon_Test_Detect_Distance_002] width=[32] height=[32]/>Scan Radius Lv.2<br/><img src=[Texture2D/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Height_002.Icon_Test_Detect_Height_002] width=[32] height=[32]/>Scan Height Lv.2<br/><img src=[Texture2D/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Target_002.Icon_Test_Detect_Target_002] width=[32] height=[32]/>Scan Target Lv.2<br/><img src=[Texture2D/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Duration_002.Icon_Test_Detect_Duration_002] width=[32] height=[32]/>Scan Time Lv.2<br/><img src=[Texture2D/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Cooltime_002.Icon_Test_Detect_Cooltime_002] width=[32] height=[32]/>Scan Cooldown Lv.2"
+        "text": "The chest contains Greater Scan Techniques.<br/><br/><fontStyle=[TestStyleB]>Available:</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Distance_002.Icon_Test_Detect_Distance_002'] width=[32] height=[32]/>Scan Radius Lv.2<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Height_002.Icon_Test_Detect_Height_002'] width=[32] height=[32]/>Scan Height Lv.2<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Target_002.Icon_Test_Detect_Target_002'] width=[32] height=[32]/>Scan Target Lv.2<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Duration_002.Icon_Test_Detect_Duration_002'] width=[32] height=[32]/>Scan Time Lv.2<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Cooltime_002.Icon_Test_Detect_Cooltime_002'] width=[32] height=[32]/>Scan Cooldown Lv.2"
     },
     "99000060": {
         "deprecated": false,
         "Dev_Desc": "희귀 탐지비급 상자",
         "id": 99000060,
         "alias": "Contents.Item.Desc.9000198",
-        "text": "The chest contains Rare Scan Techniques.<br/><br/><fontStyle=[TestStyleB]>Available:</><br/><img src=[Texture2D/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Distance_003.Icon_Test_Detect_Distance_003] width=[32] height=[32]/>Scan Radius Lv.3<br/><img src=[Texture2D/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Height_003.Icon_Test_Detect_Height_003] width=[32] height=[32]/>Scan Height Lv.3<br/><img src=[Texture2D/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Target_003.Icon_Test_Detect_Target_003] width=[32] height=[32]/>Scan Target Lv.3<br/><img src=[Texture2D/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Duration_003.Icon_Test_Detect_Duration_003] width=[32] height=[32]/>Scan Time Lv.3<br/><img src=[Texture2D/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Cooltime_003.Icon_Test_Detect_Cooltime_003] width=[32] height=[32]/>Scan Cooldown Lv.3"
+        "text": "The chest contains Rare Scan Techniques.<br/><br/><fontStyle=[TestStyleB]>Available:</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Distance_003.Icon_Test_Detect_Distance_003'] width=[32] height=[32]/>Scan Radius Lv.3<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Height_003.Icon_Test_Detect_Height_003'] width=[32] height=[32]/>Scan Height Lv.3<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Target_003.Icon_Test_Detect_Target_003'] width=[32] height=[32]/>Scan Target Lv.3<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Duration_003.Icon_Test_Detect_Duration_003'] width=[32] height=[32]/>Scan Time Lv.3<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Cooltime_003.Icon_Test_Detect_Cooltime_003'] width=[32] height=[32]/>Scan Cooldown Lv.3"
     },
     "99000061": {
         "deprecated": false,
         "Dev_Desc": "영웅 탐지비급 상자",
         "id": 99000061,
         "alias": "Contents.Item.Desc.9000199",
-        "text": "The chest contains Epic Scan Techniques.<br/><br/><fontStyle=[TestStyleB]>Available:</><br/><img src=[Texture2D/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Distance_004.Icon_Test_Detect_Distance_004] width=[32] height=[32]/>Scan Radius Lv.4<br/><img src=[Texture2D/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Height_004.Icon_Test_Detect_Height_004] width=[32] height=[32]/>Scan Height Lv.4<br/><img src=[Texture2D/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Target_004.Icon_Test_Detect_Target_004] width=[32] height=[32]/>Scan Target Lv.4<br/><img src=[Texture2D/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Duration_004.Icon_Test_Detect_Duration_004] width=[32] height=[32]/>Scan Time Lv.4<br/><img src=[Texture2D/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Cooltime_004.Icon_Test_Detect_Cooltime_004] width=[32] height=[32]/>Scan Cooldown Lv.4"
+        "text": "The chest contains Epic Scan Techniques.<br/><br/><fontStyle=[TestStyleB]>Available:</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Distance_004.Icon_Test_Detect_Distance_004'] width=[32] height=[32]/>Scan Radius Lv.4<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Height_004.Icon_Test_Detect_Height_004'] width=[32] height=[32]/>Scan Height Lv.4<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Target_004.Icon_Test_Detect_Target_004'] width=[32] height=[32]/>Scan Target Lv.4<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Duration_004.Icon_Test_Detect_Duration_004'] width=[32] height=[32]/>Scan Time Lv.4<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Cooltime_004.Icon_Test_Detect_Cooltime_004'] width=[32] height=[32]/>Scan Cooldown Lv.4"
     },
     "99000062": {
         "deprecated": false,
         "Dev_Desc": "전설 탐지비급 상자",
         "id": 99000062,
         "alias": "Contents.Item.Desc.9000200",
-        "text": "The chest contains Legend Scan Techniques.<br/><br/><fontStyle=[TestStyleB]>Available:</><br/><img src=[Texture2D/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Target_005.Icon_Test_Detect_Target_005] width=[32] height=[32]/>Scan Target Lv.5<br/><img src=[Texture2D/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Duration_005.Icon_Test_Detect_Duration_005] width=[32] height=[32]/>Scan Time Lv.5<br/><img src=[Texture2D/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Cooltime_005.Icon_Test_Detect_Cooltime_005] width=[32] height=[32]/>Scan Cooldown Lv.5"
+        "text": "The chest contains Legend Scan Techniques.<br/><br/><fontStyle=[TestStyleB]>Available:</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Target_005.Icon_Test_Detect_Target_005'] width=[32] height=[32]/>Scan Target Lv.5<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Duration_005.Icon_Test_Detect_Duration_005'] width=[32] height=[32]/>Scan Time Lv.5<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Cooltime_005.Icon_Test_Detect_Cooltime_005'] width=[32] height=[32]/>Scan Cooldown Lv.5"
     },
     "99000063": {
         "deprecated": false,
         "Dev_Desc": "식별 탐지비급 상자",
         "id": 99000063,
         "alias": "Contents.Item.Desc.9000201",
-        "text": "This chest contains 1 random Vision Scan Technique.<br/><br/><fontStyle=[TestStyleB]>Available:</><br/><img src=[Texture2D/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Identify_001.Icon_Test_Detect_Identify_001] width=[32] height=[32]/>Scan Radius Vision<br/><img src=[Texture2D/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Identify_002.Icon_Test_Detect_Identify_002] width=[32] height=[32]/>Sword Vision<br/><img src=[Texture2D/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Identify_003.Icon_Test_Detect_Identify_003] width=[32] height=[32]/>Gauntlets Vision<br/><img src=[Texture2D/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Identify_004.Icon_Test_Detect_Identify_004] width=[32] height=[32]/>Axe Vision<br/><img src=[Texture2D/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Identify_005.Icon_Test_Detect_Identify_005] width=[32] height=[32]/>Bow Vision<br/><img src=[Texture2D/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Identify_006.Icon_Test_Detect_Identify_006] width=[32] height=[32]/>Bangle Vision<br/><img src=[Texture2D/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Identify_008.Icon_Test_Detect_Identify_008] width=[32] height=[32]/>Clan Leader Vision<br/><img src=[Texture2D/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Identify_009.Icon_Test_Detect_Identify_009] width=[32] height=[32]/>Boss Vision"
+        "text": "This chest contains 1 random Vision Scan Technique.<br/><br/><fontStyle=[TestStyleB]>Available:</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Identify_001.Icon_Test_Detect_Identify_001'] width=[32] height=[32]/>Scan Radius Vision<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Identify_002.Icon_Test_Detect_Identify_002'] width=[32] height=[32]/>Sword Vision<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Identify_003.Icon_Test_Detect_Identify_003'] width=[32] height=[32]/>Gauntlets Vision<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Identify_004.Icon_Test_Detect_Identify_004'] width=[32] height=[32]/>Axe Vision<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Identify_005.Icon_Test_Detect_Identify_005'] width=[32] height=[32]/>Bow Vision<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Identify_006.Icon_Test_Detect_Identify_006'] width=[32] height=[32]/>Bangle Vision<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Identify_008.Icon_Test_Detect_Identify_008'] width=[32] height=[32]/>Clan Leader Vision<br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/ItemIcon/Icon_Test_Detect_Identify_009.Icon_Test_Detect_Identify_009'] width=[32] height=[32]/>Boss Vision"
     },
     "99000064": {
         "deprecated": false,
@@ -493,7 +493,7 @@
         "Dev_Desc": "테스트용 송어조림",
         "id": 99000070,
         "alias": "Contents.Item.Desc.9000236",
-        "text": "A delicious dish particularly enjoyed by the Shipowners Society members in Damir.<br/><br/><fontStyle=[TestStyleB]>Effects:</><br/>Attack +8<br/>Physical and Force Piercing +12<br/>Accuracy +5<br/><br/><fontStyle=[TestStyleB]>Duration:</><br/>30 min."
+        "text": "A delicious dish particularly enjoyed by the Shipowner's Society members in Damir.<br/><br/><fontStyle=[TestStyleB]>Effects:</><br/>Attack +8<br/>Physical and Force Piercing +12<br/>Accuracy +5<br/><br/><fontStyle=[TestStyleB]>Duration:</><br/>30 min."
     },
     "99000071": {
         "deprecated": false,
@@ -2821,21 +2821,21 @@
         "Dev_Desc": "무기 장인의 묘수",
         "id": 99000405,
         "alias": "Contents.Item.Desc.9000635",
-        "text": "Soul Steel Weapon Artisans brilliant skill. Use this item to obtain a Weapon Enhance Scroll.<br/><br/><fontStyle=[TestStyleB]>Available:</><br/>Weapon Enhance Scroll<br/>Blessed Weapon Enhance Scroll"
+        "text": "Soul Steel Weapon Artisan's brilliant skill. Use this item to obtain a Weapon Enhance Scroll.<br/><br/><fontStyle=[TestStyleB]>Available:</><br/>Weapon Enhance Scroll<br/>Blessed Weapon Enhance Scroll"
     },
     "99000406": {
         "deprecated": false,
         "Dev_Desc": "방어구 장인의 해법",
         "id": 99000406,
         "alias": "Contents.Item.Desc.9000636",
-        "text": "Soul Steel Armor Artisans stunning solution. Use this item to obtain an Armor Enhance Scroll.<br/><br/><fontStyle=[TestStyleB]>Available:</><br/>Armor Enhance Scroll<br/>Blessed Armor Enhance Scroll"
+        "text": "Soul Steel Armor Artisan's stunning solution. Use this item to obtain an Armor Enhance Scroll.<br/><br/><fontStyle=[TestStyleB]>Available:</><br/>Armor Enhance Scroll<br/>Blessed Armor Enhance Scroll"
     },
     "99000407": {
         "deprecated": false,
         "Dev_Desc": "장신구 장인의 비기",
         "id": 99000407,
         "alias": "Contents.Item.Desc.9000637",
-        "text": "Soul Steel Accessory Artisans secret record of generations. Use this item to obtain an Accessory Enhance Scroll.<br/><br/><fontStyle=[TestStyleB]>Available:</><br/>Accessory Enhance Scroll<br/>Blessed Accessory Enhance Scroll"
+        "text": "Soul Steel Accessory Artisan's secret record of generations. Use this item to obtain an Accessory Enhance Scroll.<br/><br/><fontStyle=[TestStyleB]>Available:</><br/>Accessory Enhance Scroll<br/>Blessed Accessory Enhance Scroll"
     },
     "99000408": {
         "deprecated": false,
@@ -2856,7 +2856,7 @@
         "Dev_Desc": "대장도치의 사과",
         "id": 99000410,
         "alias": "Contents.Item.Desc.9000640",
-        "text": "A delicious apple that Chiefhog carefully carried on his back.<br/><br/><fontStyle=[TestStyleB]>Acquired from:</><br/><img src=[Texture2D/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002] width=[20] height=[20]/>Chiefhog"
+        "text": "A delicious apple that Chiefhog carefully carried on his back.<br/><br/><fontStyle=[TestStyleB]>Acquired from:</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>Chiefhog"
     },
     "99000411": {
         "deprecated": false,
@@ -2869,14 +2869,14 @@
         "Dev_Desc": "채랑랑의 투엽단 명패",
         "id": 99000412,
         "alias": "Contents.Item.Desc.9000642",
-        "text": "A nameplate that proves the holder is one of the Poacher Gang.<br/><br/><fontStyle=[TestStyleB]>Acquired from:</><br/><img src=[Texture2D/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002] width=[20] height=[20]/>Cheran"
+        "text": "A nameplate that proves the holder is one of the Poacher Gang.<br/><br/><fontStyle=[TestStyleB]>Acquired from:</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>Cheran"
     },
     "99000413": {
         "deprecated": false,
         "Dev_Desc": "대왕 거미의 독니",
         "id": 99000413,
         "alias": "Contents.Item.Desc.9000643",
-        "text": "A drop of poison acquired from King Spiders fang is lethal and used for hunting giant animals.<br/><br/><fontStyle=[TestStyleB]>Acquired from:</><br/><img src=[Texture2D/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002] width=[20] height=[20]/>King Spider"
+        "text": "A drop of poison acquired from King Spider's fang is lethal and used for hunting giant animals.<br/><br/><fontStyle=[TestStyleB]>Acquired from:</><br/><img src=[Texture2D'/Game/UI/Resource/Img/Texture/Itemicon/Icon_Test_TextForm_002.Icon_Test_TextForm_002'] width=[20] height=[20]/>King Spider"
     },
     "99000414": {
         "deprecated": false,
@@ -2895,14 +2895,14 @@
         "Dev_Desc": "눈아웅 소모품 꾸러미_1",
         "id": 99000416,
         "alias": "Contents.Item.Desc.9000646",
-        "text": "Ahwoongs bundle of consumables."
+        "text": "Ahwoong's bundle of consumables."
     },
     "99000417": {
         "deprecated": false,
         "Dev_Desc": "눈아웅 소모품 꾸러미_2",
         "id": 99000417,
         "alias": "Contents.Item.Desc.9000647",
-        "text": "Ahwoongs fancy bundle of consumables."
+        "text": "Ahwoong's fancy bundle of consumables."
     },
     "99000418": {
         "deprecated": false,
@@ -2944,7 +2944,7 @@
         "Dev_Desc": "흔들기",
         "id": 99000423,
         "alias": "Contents.Item.Desc.9000653",
-        "text": "Throws off enemys balance to increase chance to inflict CC."
+        "text": "Throws off enemy's balance to increase chance to inflict CC."
     },
     "99000424": {
         "deprecated": false,
@@ -3007,7 +3007,7 @@
         "Dev_Desc": "뇌진탕",
         "id": 99000432,
         "alias": "Contents.Item.Desc.9000662",
-        "text": "Has a chance to petrify target or stun upon landing normal attack on enemys fatal spot."
+        "text": "Has a chance to petrify target or stun upon landing normal attack on enemy's fatal spot."
     },
     "99000433": {
         "deprecated": false,
@@ -4118,7 +4118,7 @@
         "Dev_Desc": "신선루",
         "id": 99000595,
         "alias": "Contents.Item.Desc.9200416",
-        "text": "A Secret Book damaged beyond recognition. Used to craft a Complete Artisans Secret Book."
+        "text": "A Secret Book damaged beyond recognition. Used to craft a Complete Artisan's Secret Book."
     },
     "99000596": {
         "deprecated": false,
@@ -4604,28 +4604,28 @@
         "Dev_Desc": "견습 장인의 꾸러미",
         "id": 99000699,
         "alias": "Contents.Item.Desc.9200607",
-        "text": "Contains Artisans Tokens."
+        "text": "Contains Artisan's Tokens."
     },
     "99000700": {
         "deprecated": false,
         "Dev_Desc": "장인의 꾸러미",
         "id": 99000700,
         "alias": "Contents.Item.Desc.9200608",
-        "text": "Contains Artisans Tokens."
+        "text": "Contains Artisan's Tokens."
     },
     "99000701": {
         "deprecated": false,
         "Dev_Desc": "명장의 꾸러미",
         "id": 99000701,
         "alias": "Contents.Item.Desc.9200609",
-        "text": "Contains Artisans Tokens."
+        "text": "Contains Artisan's Tokens."
     },
     "99000702": {
         "deprecated": false,
         "Dev_Desc": "대가의 꾸러미",
         "id": 99000702,
         "alias": "Contents.Item.Desc.9200610",
-        "text": "Contains Artisans Tokens."
+        "text": "Contains Artisan's Tokens."
     },
     "99000703": {
         "deprecated": false,
@@ -5122,84 +5122,84 @@
         "Dev_Desc": "낡은 소혼의 병풍 (반달호수)",
         "id": 99000773,
         "alias": "Contents.Item.Desc.9200630",
-        "text": "Summons the monsters soul in the screen."
+        "text": "Summons the monster's soul in the screen."
     },
     "99000774": {
         "deprecated": false,
         "Dev_Desc": "소혼의 병풍 (반달호수)",
         "id": 99000774,
         "alias": "Contents.Item.Desc.9200631",
-        "text": "Summons the monsters soul in the screen."
+        "text": "Summons the monster's soul in the screen."
     },
     "99000775": {
         "deprecated": false,
         "Dev_Desc": "희귀한 소혼의 병풍 (반달호수)",
         "id": 99000775,
         "alias": "Contents.Item.Desc.9200632",
-        "text": "Summons the monsters soul in the screen."
+        "text": "Summons the monster's soul in the screen."
     },
     "99000776": {
         "deprecated": false,
         "Dev_Desc": "완전한 소혼의 병풍 (반달호수)",
         "id": 99000776,
         "alias": "Contents.Item.Desc.9200633",
-        "text": "Summons the monsters soul in the screen."
+        "text": "Summons the monster's soul in the screen."
     },
     "99000777": {
         "deprecated": false,
         "Dev_Desc": "낡은 소혼의 병풍 (태록림)",
         "id": 99000777,
         "alias": "Contents.Item.Desc.9200634",
-        "text": "Summons the monsters soul in the screen."
+        "text": "Summons the monster's soul in the screen."
     },
     "99000778": {
         "deprecated": false,
         "Dev_Desc": "소혼의 병풍 (태록림)",
         "id": 99000778,
         "alias": "Contents.Item.Desc.9200635",
-        "text": "Summons the monsters soul in the screen."
+        "text": "Summons the monster's soul in the screen."
     },
     "99000779": {
         "deprecated": false,
         "Dev_Desc": "희귀한 소혼의 병풍 (태록림)",
         "id": 99000779,
         "alias": "Contents.Item.Desc.9200636",
-        "text": "Summons the monsters soul in the screen."
+        "text": "Summons the monster's soul in the screen."
     },
     "99000780": {
         "deprecated": false,
         "Dev_Desc": "완전한 소혼의 병풍 (태록림)",
         "id": 99000780,
         "alias": "Contents.Item.Desc.9200637",
-        "text": "Summons the monsters soul in the screen."
+        "text": "Summons the monster's soul in the screen."
     },
     "99000781": {
         "deprecated": false,
         "Dev_Desc": "낡은 소혼의 병풍 (비옥대지)",
         "id": 99000781,
         "alias": "Contents.Item.Desc.9200638",
-        "text": "Summons the monsters soul in the screen."
+        "text": "Summons the monster's soul in the screen."
     },
     "99000782": {
         "deprecated": false,
         "Dev_Desc": "소혼의 병풍 (비옥대지)",
         "id": 99000782,
         "alias": "Contents.Item.Desc.9200639",
-        "text": "Summons the monsters soul in the screen."
+        "text": "Summons the monster's soul in the screen."
     },
     "99000783": {
         "deprecated": false,
         "Dev_Desc": "희귀한 소혼의 병풍 (비옥대지)",
         "id": 99000783,
         "alias": "Contents.Item.Desc.9200640",
-        "text": "Summons the monsters soul in the screen."
+        "text": "Summons the monster's soul in the screen."
     },
     "99000784": {
         "deprecated": false,
         "Dev_Desc": "완전한 소혼의 병풍 (비옥대지)",
         "id": 99000784,
         "alias": "Contents.Item.Desc.9200641",
-        "text": "Summons the monsters soul in the screen."
+        "text": "Summons the monster's soul in the screen."
     },
     "99000785": {
         "deprecated": false,
@@ -5395,7 +5395,7 @@
         "Dev_Desc": "훼손된 장인의 비전서 (각인)",
         "id": 99000812,
         "alias": "Contents.Item.Desc.9200450",
-        "text": "A Secret Book damaged beyond recognition. Used to craft a Complete Artisans Secret Book."
+        "text": "A Secret Book damaged beyond recognition. Used to craft a Complete Artisan's Secret Book."
     },
     "99000813": {
         "deprecated": false,
@@ -5790,9 +5790,10 @@
     },
     "99000869": {
         "deprecated": false,
-        "Dev_Desc": "일반 검 무공서 (각인)",
+        "Dev_Desc": "반격찌르기 / 일반 검 무공서 (각인)",
         "id": 99000869,
-        "alias": "Contents.Item.Desc.9100114"
+        "alias": "Contents.Item.Desc.9100114",
+        "text": "막기를 해제하고, 긴 사거리의 찌르기 공격을 합니다.\n소울 패링 성공 시 사용할 수 있습니다."
     },
     "99000870": {
         "deprecated": false,
@@ -5854,9 +5855,10 @@
     },
     "99000879": {
         "deprecated": false,
-        "Dev_Desc": "상급 검 무공서 (각인)",
+        "Dev_Desc": "발도 / 상급 검 무공서 (각인)",
         "id": 99000879,
-        "alias": "Contents.Item.Desc.9100124"
+        "alias": "Contents.Item.Desc.9100124",
+        "text": "빠른 연속 공격이 가능한 발도 공격을 합니다.\n\"기절\", \"공중\" 상태인 대상에게 사용합니다."
     },
     "99000880": {
         "deprecated": false,
@@ -5907,7 +5909,7 @@
         "Dev_Desc": "희귀 / 흔들기 / 패시브 / 각인",
         "id": 99000887,
         "alias": "Contents.Item.Desc.9100132",
-        "text": "Throws off enemys balance.\nIncrease CC Accuracy."
+        "text": "Throws off enemy's balance.\nIncrease CC Accuracy."
     },
     "99000888": {
         "deprecated": false,
@@ -6168,7 +6170,7 @@
         "Dev_Desc": "상급 / 근력 / 패시브 / 각인",
         "id": 99000928,
         "alias": "Contents.Item.Desc.9100222",
-        "text": "Trains muscles to boost the weapons destructive power.\nIncreases Gauntlets Attack."
+        "text": "Trains muscles to boost the weapon's destructive power.\nIncreases Gauntlets Attack."
     },
     "99000929": {
         "deprecated": false,
@@ -6276,7 +6278,7 @@
         "Dev_Desc": "영웅 / 붕권 / 액티브 / 각인",
         "id": 99000946,
         "alias": "Contents.Item.Desc.9100240",
-        "text": "Throws a fist at a single enemy, forces the enemy back to deal damage and has a chance to inflict Stun.\nHas a chance to pierce the targets block and inflict Stun."
+        "text": "Throws a fist at a single enemy, forces the enemy back to deal damage and has a chance to inflict Stun.\nHas a chance to pierce the target's block and inflict Stun."
     },
     "99000947": {
         "deprecated": false,
@@ -6804,7 +6806,7 @@
         "Dev_Desc": "증폭의 정수 : 비염각 (각인)",
         "id": 99001031,
         "alias": "Contents.Item.Desc.9101223",
-        "text": "Used to level up Tigers Pounce.\nIncreases its charging distance."
+        "text": "Used to level up Tiger's Pounce.\nIncreases its charging distance."
     },
     "99001032": {
         "deprecated": false,
@@ -6862,7 +6864,7 @@
         "Dev_Desc": "극한의 정수 : 비염각 (각인)",
         "id": 99001041,
         "alias": "Contents.Item.Desc.9101233",
-        "text": "Used to level up Tigers Pounce.\nIncreases its damage."
+        "text": "Used to level up Tiger's Pounce.\nIncreases its damage."
     },
     "99001042": {
         "deprecated": false,
@@ -6928,7 +6930,7 @@
         "Dev_Desc": "돌파의 정수 : 비염각 (각인)",
         "id": 99001051,
         "alias": "Contents.Item.Desc.9101243",
-        "text": "Used to level up Tigers Pounce.\nDecreases its cooldown."
+        "text": "Used to level up Tiger's Pounce.\nDecreases its cooldown."
     },
     "99001052": {
         "deprecated": false,
@@ -7065,9 +7067,10 @@
     },
     "99001073": {
         "deprecated": false,
-        "Dev_Desc": "일반 도끼 무공서 (각인)",
+        "Dev_Desc": "충격 / 일반 도끼 무공서 (각인)",
         "id": 99001073,
-        "alias": "Contents.Item.Desc.9100314"
+        "alias": "Contents.Item.Desc.9100314",
+        "text": "철벽을 해제하고, 도끼를 내려찍어 대상의 위치에 충격파를 발생시켜 공격합니다.\n소울 패링 성공 시 사용할 수 있습니다."
     },
     "99001074": {
         "deprecated": false,
@@ -7129,9 +7132,10 @@
     },
     "99001083": {
         "deprecated": false,
-        "Dev_Desc": "상급 도끼 무공서 (각인)",
+        "Dev_Desc": "진노 / 상급 도끼 무공서 (각인)",
         "id": 99001083,
-        "alias": "Contents.Item.Desc.9100324"
+        "alias": "Contents.Item.Desc.9100324",
+        "text": "도끼를 교차해 휘두르며 빠른 연속 공격을 합니다.\n\"기절\", \"공중\" 상태인 대상에게 사용합니다."
     },
     "99001084": {
         "deprecated": false,
@@ -7296,7 +7300,7 @@
         "Dev_Desc": "전설 / 불굴 / 패시브 / 각인",
         "id": 99001109,
         "alias": "Contents.Item.Desc.9100350",
-        "text": "Bears the enemys attack with undying determination.\nIncreases Incoming Damage."
+        "text": "Bears the enemy's attack with undying determination.\nIncreases Incoming Damage."
     },
     "99001110": {
         "deprecated": false,
@@ -7310,7 +7314,7 @@
         "Dev_Desc": "전설 / 장벽 / 액티브 / 각인",
         "id": 99001111,
         "alias": "Contents.Item.Desc.9100352",
-        "text": "Creates a barrier.\nDisables movement and defends the enemys attack."
+        "text": "Creates a barrier.\nDisables movement and defends the enemy's attack."
     },
     "99001112": {
         "deprecated": false,
@@ -7392,7 +7396,8 @@
         "deprecated": false,
         "Dev_Desc": "일반 불꽃기공패 무공서 (각인)",
         "id": 99001124,
-        "alias": "Contents.Item.Desc.9100414"
+        "alias": "Contents.Item.Desc.9100414",
+        "text": "결빙공을 해제하며 회전하는 얼음 칼날을 발사합니다.\n공격 버튼을 수동으로 눌러 사용 가능합니다."
     },
     "99001125": {
         "deprecated": false,
@@ -7463,7 +7468,8 @@
         "deprecated": false,
         "Dev_Desc": "상급 불꽃기공패 무공서 (각인)",
         "id": 99001135,
-        "alias": "Contents.Item.Desc.9100425"
+        "alias": "Contents.Item.Desc.9100425",
+        "text": "불과 얼음 기탄을 마구 연사합니다.\n공격 버튼을 수동으로 눌러 사용 가능합니다."
     },
     "99001136": {
         "deprecated": false,
@@ -7572,7 +7578,7 @@
         "Dev_Desc": "영웅 / 화륜 / 액티브 / 각인",
         "id": 99001152,
         "alias": "Contents.Item.Desc.9100442",
-        "text": "Inflicts Heater, which increases the party members Normal Attack Speed and Technique Attack Speed by discharging the inner flame."
+        "text": "Inflicts Heater, which increases the party members' Normal Attack Speed and Technique Attack Speed by discharging the inner flame."
     },
     "99001153": {
         "deprecated": false,
@@ -8138,7 +8144,7 @@
         "Dev_Desc": "희귀 / 청화 / 액티브 / 각인",
         "id": 99001243,
         "alias": "Contents.Item.Desc.9100631",
-        "text": "Has a chance to burn a part of the targets Focus by attacking them with the power of auspicious blue flame."
+        "text": "Has a chance to burn a part of the target's Focus by attacking them with the power of auspicious blue flame."
     },
     "99001244": {
         "deprecated": false,
@@ -9352,7 +9358,7 @@
         "Dev_Desc": "증폭의 정수 : 심기일전 (각인)",
         "id": 99001439,
         "alias": "Contents.Item.Desc.9101623",
-        "text": "Used to level up New Leaf.\nHas a chance to increase the partys Accuracy."
+        "text": "Used to level up New Leaf.\nHas a chance to increase the party's Accuracy."
     },
     "99001440": {
         "deprecated": false,
@@ -19914,5 +19920,404 @@
         "id": 99003113,
         "alias": "Contents.Item.Desc.9900832",
         "text": "When used, you can acquire a guardian spirit according to a set probability.\\n(Rank: Normal ~ Heroic)"
+    },
+    "99003114": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 선물 교환서",
+        "id": 99003114,
+        "alias": "Contents.Event.Item.Desc.9900919",
+        "text": "You can use Yaru's Gift Exchange to craft one of the following items.\\n\\n- Yaru's Gift: Advanced\\n- Yaru's Gift: Start"
+    },
+    "99003115": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 선물: 심화",
+        "id": 99003115,
+        "alias": "Contents.Event.Item.Desc.9900919",
+        "text": "You can obtain the following items when used.\\n\\n- 300000 Non-Dictionaries\\n- 2 Soother Selection Box (Imprinted)\\n- 2 Conqueror's Soul Stone Selection Box (Imprinted)\\n- Shining Soul of the Abyss Summon Scroll (11 times) "
+    },
+    "99003116": {
+        "deprecated": false,
+        "Dev_Desc": "+2 노리개 선택 상자(각인)",
+        "id": 99003116,
+        "alias": "Contents.Event.Item.Desc.9900920",
+        "text": "You can obtain one of the following items when used.\\n\\n- 2 Soother of Flame (Imprint)\\n- 2 Soother of Life (Imprint)\\n- 2 Soother of Wind (Imprint)\\n- 2 Soother of Waves (Imprint) "
+    },
+    "99003117": {
+        "deprecated": false,
+        "Dev_Desc": "+2 정복자의 영혼석 선택 상자(각인)",
+        "id": 99003117,
+        "alias": "Contents.Event.Item.Desc.9900921",
+        "text": "You can obtain one of the following items when used.\\n\\n- 2 Conqueror's Soul Stone: Fire (Imprinted)\\n- 2 Conqueror's Soul Stone: Water (Imprinted)\\n- 2 Conqueror's Soul Stone: Neck (Imprinted)\\n- "
+    },
+    "99003118": {
+        "deprecated": false,
+        "Dev_Desc": "심연의 빛나는 소울 소환서(11회)(이벤트)",
+        "id": 99003118,
+        "alias": "Contents.Event.Item.Desc.9900922",
+        "text": "When used, you can acquire a soul according to a set probability.\\n (Rank: Normal ~ Hero)"
+    },
+    "99003119": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 선물: 시작",
+        "id": 99003119,
+        "alias": "Contents.Event.Item.Desc.9900923",
+        "text": "You can obtain the following items when used.\\n\\n- 7 Rare Grade Weapon Selection Box (Event)\\n- 4 Rare Grade Armor Box (Event)\\n- Rare Weapon Crafting Secret Book (Event)\\n- 3 Thunder Roar\\n "
+    },
+    "99003120": {
+        "deprecated": false,
+        "Dev_Desc": "+7 희귀 등급 무기 선택 상자(이벤트)",
+        "id": 99003120,
+        "alias": "Contents.Event.Item.Desc.9900924",
+        "text": "You can obtain a rare grade engraved weapon when used."
+    },
+    "99003121": {
+        "deprecated": false,
+        "Dev_Desc": "+4 희귀 등급 방어구 상자(이벤트)",
+        "id": 99003121,
+        "alias": "Contents.Event.Item.Desc.9900925",
+        "text": "You can acquire rare grade engraved armor when used."
+    },
+    "99003122": {
+        "deprecated": false,
+        "Dev_Desc": "희귀 무기 제작 비법서(이벤트)",
+        "id": 99003122,
+        "alias": "Contents.Event.Item.Desc.9900926",
+        "text": "Contains the secret to crafting rare-grade weapons."
+    },
+    "99003123": {
+        "deprecated": false,
+        "Dev_Desc": "천상의 용봉탕(이벤트)",
+        "id": 99003123,
+        "alias": "Contents.Event.Item.Desc.9900927",
+        "text": "When used, more enlightenment is gained from experience. \\n 30 minutes experience gain is increased by 100%. \\n Can only be used up to level 39 or lower."
+    },
+    "99003124": {
+        "deprecated": false,
+        "Dev_Desc": "희귀 수호령 소환서(1회)(이벤트)",
+        "id": 99003124,
+        "alias": "Contents.Event.Item.Desc.9900928",
+        "text": "When used, you can acquire a guardian spirit according to a set probability.\\n (Rare)"
+    },
+    "99003125": {
+        "deprecated": false,
+        "Dev_Desc": "백일 패스권",
+        "id": 99003125,
+        "alias": "Contents.Item.Desc.9202074",
+        "text": "This item can activate the 100 Day Pass additional reward.\\n\\n* Attention\\nWhen the season ends, you can no longer proceed with the pass mission. "
+    },
+    "99003126": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 선물",
+        "id": 99003126,
+        "alias": "Contents.Event.Item.Desc.9900929",
+        "text": "You can obtain the following items when used.\\n\\n- Brilliant Yaru's Soul Summon Scroll (11 times) (Event)"
+    },
+    "99003127": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 영웅 소울 소환서(1회)(이벤트)",
+        "id": 99003127,
+        "alias": "Contents.Event.Item.Desc.9900930",
+        "text": "When used, you can acquire a soul according to a set probability.\\n (Rank: Hero)"
+    },
+    "99003128": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 빛나는 소울 소환서(11회) (이벤트)",
+        "id": 99003128,
+        "alias": "Contents.Event.Item.Desc.9900931",
+        "text": "When used, you can acquire a soul according to a set probability.\\n (Rank: Normal ~ Hero)"
+    },
+    "99003129": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 빛나는 수호령 소환서(11회) (이벤트)",
+        "id": 99003129,
+        "alias": "Contents.Event.Item.Desc.9900932",
+        "text": "When used, you can acquire a guardian spirit according to a set probability.\\n (Rank: Normal ~ Hero)"
+    },
+    "99003130": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 희귀 의상 주머니(이벤트)",
+        "id": 99003130,
+        "alias": "Contents.Event.Item.Desc.9900933",
+        "text": "When used, you can obtain 1 outfit according to a set probability. \\n (Class: Advanced ~ Rare)"
+    },
+    "99003131": {
+        "deprecated": false,
+        "Dev_Desc": "찬란한 야루의 소울 소환서(11회)(이벤트)",
+        "id": 99003131,
+        "alias": "Contents.Event.Item.Desc.9900934",
+        "text": "You can acquire a soul according to a set probability when used.\\n (Rare ~ Heroic)"
+    },
+    "99003132": {
+        "deprecated": false,
+        "Dev_Desc": "찬란한 야루의 소울 소환서(5회)(이벤트)",
+        "id": 99003132,
+        "alias": "Contents.Event.Item.Desc.9900935",
+        "text": "You can acquire a soul according to a set probability when used.\\n (Rare ~ Heroic)"
+    },
+    "99003133": {
+        "deprecated": false,
+        "Dev_Desc": "찬란한 야루의 소울 소환서(3회)(이벤트)",
+        "id": 99003133,
+        "alias": "Contents.Event.Item.Desc.9900936",
+        "text": "You can acquire a soul according to a set probability when used.\\n (Rare ~ Heroic)"
+    },
+    "99003134": {
+        "deprecated": false,
+        "Dev_Desc": "찬란한 야루의 소울 소환서(3회)(이벤트)",
+        "id": 99003134,
+        "alias": "Contents.Event.Item.Desc.9900937",
+        "text": "You can acquire a soul according to a set probability when used.\\n (Rare ~ Heroic)"
+    },
+    "99003135": {
+        "deprecated": false,
+        "Dev_Desc": "찬란한 야루의 소울 소환서(2회)(이벤트)",
+        "id": 99003135,
+        "alias": "Contents.Event.Item.Desc.9900938",
+        "text": "You can acquire a soul according to a set probability when used.\\n (Rare ~ Heroic)"
+    },
+    "99003136": {
+        "deprecated": false,
+        "Dev_Desc": "찬란한 야루의 소울 소환서(1회)(이벤트)",
+        "id": 99003136,
+        "alias": "Contents.Event.Item.Desc.9900939",
+        "text": "You can acquire a soul according to a set probability when used.\\n (Rare ~ Heroic)"
+    },
+    "99003137": {
+        "deprecated": false,
+        "Dev_Desc": "영롱한 야루의 소울 소환서(1회)(이벤트)",
+        "id": 99003137,
+        "alias": "Contents.Event.Item.Desc.9900940",
+        "text": "You can acquire souls according to a set probability when used.\\n (Rank: Heroes ~ Legends)"
+    },
+    "99003138": {
+        "deprecated": false,
+        "Dev_Desc": "찬란한 야루의 소울 소환서(1회)(이벤트)",
+        "id": 99003138,
+        "alias": "Contents.Event.Item.Desc.9900941",
+        "text": "You can acquire a soul according to a set probability when used.\\n (Rare ~ Heroic)"
+    },
+    "99003139": {
+        "deprecated": false,
+        "Dev_Desc": "영롱한 야루의 수호령 소환서(1회)",
+        "id": 99003139,
+        "alias": "Contents.Event.Item.Desc.9900942",
+        "text": "When used, you can acquire a guardian spirit according to a set probability.\\n (Rank: Heroic ~ Legendary)"
+    },
+    "99003140": {
+        "deprecated": false,
+        "Dev_Desc": "찬란한 야루의 수호령 소환서(1회)",
+        "id": 99003140,
+        "alias": "Contents.Event.Item.Desc.9900943",
+        "text": "When used, you can obtain a guardian spirit according to a set probability.\\n (Rare ~ Heroic)"
+    },
+    "99003141": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 전설 확정 의상 주머니(이벤트)",
+        "id": 99003141,
+        "alias": "Contents.Event.Item.Desc.9900944",
+        "text": "When used, you can obtain 1 outfit according to a set probability. \\n (Rank: Legendary)"
+    },
+    "99003142": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 전설 도전 의상 주머니(이벤트)",
+        "id": 99003142,
+        "alias": "Contents.Event.Item.Desc.9900945",
+        "text": "When used, you can obtain 1 outfit according to a set probability. \\n (Rating: Hero ~ Legend)"
+    },
+    "99003143": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 영웅 확정 의상 주머니(이벤트)",
+        "id": 99003143,
+        "alias": "Contents.Event.Item.Desc.9900946",
+        "text": "When used, you can obtain 1 outfit according to a set probability. \\n (Rank: Hero)"
+    },
+    "99003144": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 영웅 도전 의상 주머니(이벤트)",
+        "id": 99003144,
+        "alias": "Contents.Event.Item.Desc.9900947",
+        "text": "When used, you can obtain 1 outfit according to a set probability. \\n (Rare ~ Heroic)"
+    },
+    "99003145": {
+        "deprecated": false,
+        "Dev_Desc": "심연의 빛나는 소울 소환서(11회)",
+        "id": 99003145,
+        "alias": "Contents.Event.Item.Desc.9900948",
+        "text": "When used, you can acquire a soul according to a set probability.\\n (Rank: Normal ~ Hero)"
+    },
+    "99003146": {
+        "deprecated": false,
+        "Dev_Desc": "심연의 빛나는 수호령 소환서(11회)",
+        "id": 99003146,
+        "alias": "Contents.Event.Item.Desc.9900949",
+        "text": "When used, you can acquire a guardian spirit according to a set probability.\\n (Rank: Normal ~ Hero)"
+    },
+    "99003147": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 소울 파편(11회)",
+        "id": 99003147,
+        "alias": "Contents.Event.Item.Desc.9900950",
+        "text": "When used, you can obtain 1 to 3 Soul Fragments depending on a set probability.<br/>(Rank: Normal ~ Heroic)"
+    },
+    "99003148": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 소울 소환서(11회)",
+        "id": 99003148,
+        "alias": "Contents.Event.Item.Desc.9900951",
+        "text": "When used, you can acquire a soul according to a set probability.\\n (Rank: Normal ~ Hero)"
+    },
+    "99003149": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 수호령 소환서(11회)",
+        "id": 99003149,
+        "alias": "Contents.Event.Item.Desc.9900952",
+        "text": "When used, you can acquire a guardian spirit according to a set probability.\\n (Rank: Normal ~ Hero)"
+    },
+    "99003150": {
+        "deprecated": false,
+        "Dev_Desc": "영웅 소울 확정 소환서",
+        "id": 99003150,
+        "alias": "Contents.Event.Item.Desc.9900953",
+        "text": "When used, you can acquire a soul according to a set probability.<br/>(Rank: Hero)"
+    },
+    "99003151": {
+        "deprecated": false,
+        "Dev_Desc": "영웅 소울 파편(3개) 선택 꾸러미",
+        "id": 99003151,
+        "alias": "Contents.Item.Desc.9900954",
+        "text": "You can obtain it by selecting one of the following Soul Fragments when used.\\n(Rank - Heroic)\\n\\n- Baobao Fragments 3\\n- Biryuha Fragments 3\\n- Furlong Perong Fragments 3\\n- Moonlight Fragments 3 "
+    },
+    "99003152": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 축복: 소울 Ⅰ-찬란한 야루의 소울 소환서(11회)(이벤트)",
+        "id": 99003152,
+        "alias": "Contents.Item.Desc.9900955",
+        "text": "You can obtain the following items when used.\\n\\n- Brilliant Yaru's Soul Summon Scroll (11 times) (Event)"
+    },
+    "99003153": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 축복: 소울 Ⅰ-찬란한 야루의 소울 소환서(5회)(이벤트)",
+        "id": 99003153,
+        "alias": "Contents.Item.Desc.9900956",
+        "text": "You can obtain the following items when used.\\n\\n- Brilliant Yaru's Soul Summon Scroll (5 times) (Event)"
+    },
+    "99003154": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 축복: 소울 Ⅰ-찬란한 야루의 소울 소환서(3회)(이벤트)",
+        "id": 99003154,
+        "alias": "Contents.Item.Desc.9900957",
+        "text": "You can obtain the following items when used.\\n\\n- Brilliant Yaru's Soul Summon Scroll (3 times) (Event)"
+    },
+    "99003155": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 축복: 소울 Ⅰ-찬란한 야루의 소울 소환서(3회)(이벤트)",
+        "id": 99003155,
+        "alias": "Contents.Item.Desc.9900958",
+        "text": "You can obtain the following items when used.\\n\\n- Brilliant Yaru's Soul Summon Scroll (3 times) (Event)"
+    },
+    "99003156": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 축복: 소울 Ⅰ-찬란한 야루의 소울 소환서(2회)(이벤트)",
+        "id": 99003156,
+        "alias": "Contents.Item.Desc.9900959",
+        "text": "You can obtain the following items when used.\\n\\n- Brilliant Yaru's Soul Summon Scroll (2 times) (Event)"
+    },
+    "99003157": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 축복: 소울 Ⅰ-찬란한 야루의 소울 소환서(1회)(이벤트)",
+        "id": 99003157,
+        "alias": "Contents.Item.Desc.9900960",
+        "text": "You can obtain the following items when used.\\n\\n- Brilliant Yaru's Soul Summon Scroll (1 time) (Event)"
+    },
+    "99003158": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 축복: 소울 Ⅱ - 영롱한 야루의 소울 소환서(1회)(이벤트)",
+        "id": 99003158,
+        "alias": "Contents.Item.Desc.9900961",
+        "text": "You can obtain the following items when used.\\n\\n- Brilliant Yaru's Soul Summon Scroll (1 time) (Event)"
+    },
+    "99003159": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 축복: 소울 Ⅱ - 찬란한 야루의 소울 소환서(1회)(이벤트)",
+        "id": 99003159,
+        "alias": "Contents.Item.Desc.9900962",
+        "text": "You can obtain the following items when used.\\n\\n- Brilliant Yaru's Soul Summon Scroll (1 time) (Event)"
+    },
+    "99003160": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 축복: 수호령 - 영롱한 야루의 수호령 소환서(1회)",
+        "id": 99003160,
+        "alias": "Contents.Item.Desc.9900963",
+        "text": "You can obtain the following items when used.\\n\\n- Brilliant Yaru's Guardian Spirit Summon Scroll (1 time) (Event)"
+    },
+    "99003161": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 축복: 수호령 - 찬란한 야루의 수호령 소환서(1회)",
+        "id": 99003161,
+        "alias": "Contents.Item.Desc.9900964",
+        "text": "You can obtain the following items when used.\\n\\n- Brilliant Yaru's Guardian Spirit Summon Scroll (1 time) (Event)"
+    },
+    "99003162": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 축복: 의상 - 야루의 전설 확정 의상 주머니(이벤트)",
+        "id": 99003162,
+        "alias": "Contents.Item.Desc.9900965",
+        "text": "You can obtain the following items when used.\\n\\n- Legend of Yaru Confirmed Costume Bag (Event)"
+    },
+    "99003163": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 축복: 의상 - 야루의 전설 도전 의상 주머니(이벤트)",
+        "id": 99003163,
+        "alias": "Contents.Item.Desc.9900966",
+        "text": "You can obtain the following items when used.\\n\\n- Legendary Challenge Costume Pouch of Yaru (Event)"
+    },
+    "99003164": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 축복: 의상 - 야루의 영웅 확정 의상 주머니(이벤트)",
+        "id": 99003164,
+        "alias": "Contents.Item.Desc.9900967",
+        "text": "You can obtain the following items when used.\\n\\n- Yaru's Hero Confirmation Costume Bag (Event)"
+    },
+    "99003165": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 축복: 의상 - 야루의 영웅 도전 의상 주머니(이벤트)",
+        "id": 99003165,
+        "alias": "Contents.Item.Desc.9900968",
+        "text": "You can obtain the following items when used.\\n\\n- Yaru's Hero Challenge Costume Pouch (Event)"
+    },
+    "99003166": {
+        "deprecated": false,
+        "Dev_Desc": "희귀 소울 선택 상자(각인)",
+        "id": 99003166,
+        "alias": "Contents.Item.Desc.9900969",
+        "text": "When used, you can obtain one of the following rare Soul Summon Scrolls.\\n\\n- Poongbaekmun Combatant's Soul Summon Scroll (1 time) (engraved)\\n- Poongbaekmun Ranger Soul Summon Scroll (1 time) (engraved) "
+    },
+    "99003167": {
+        "deprecated": false,
+        "Dev_Desc": "심연의 빛나는 소울 소환서(11회) 3개",
+        "id": 99003167,
+        "alias": "Contents.Item.Desc.9900970",
+        "text": "You can obtain 3 Shining Soul Summon Scrolls from the Abyss (11 times) when used."
+    },
+    "99003168": {
+        "deprecated": false,
+        "Dev_Desc": "블랙 프라이데이 티켓",
+        "id": 99003168,
+        "alias": "Contents.Item.Desc.9900971",
+        "text": "A special material used in crafting."
+    },
+    "99003169": {
+        "deprecated": false,
+        "Dev_Desc": "비결 상자(각인)",
+        "id": 99003169,
+        "alias": "Contents.Item.Desc.9900972",
+        "text": "You can obtain the following items when used.\\n\\n- 100 Secrets"
+    },
+    "99003170": {
+        "deprecated": false,
+        "Dev_Desc": "희귀 수호령 확정 소환서(1회)",
+        "id": 99003170,
+        "alias": "Contents.Item.Desc.9900973",
+        "text": "When used, you can acquire a guardian spirit according to a set probability.\\n (Class: Rare)"
     }
 }

@@ -2762,19 +2762,19 @@
     },
     "95206454": {
         "deprecated": false,
-        "Dev_Desc": "화룡의 비늘",
+        "Dev_Desc": "격노의 팔찌",
         "id": 95206454,
         "alias": "Contents.Item.Desc.5104602"
     },
     "95206455": {
         "deprecated": false,
-        "Dev_Desc": "대해의 분노",
+        "Dev_Desc": "화산의 분노",
         "id": 95206455,
         "alias": "Contents.Item.Desc.5104603"
     },
     "95206456": {
         "deprecated": false,
-        "Dev_Desc": "홍안의 팔찌",
+        "Dev_Desc": "청안의 팔찌",
         "id": 95206456,
         "alias": "Contents.Item.Desc.5104604"
     },
@@ -2782,7 +2782,8 @@
         "deprecated": false,
         "Dev_Desc": "잊혀진 홍옥 귀걸이(각인)",
         "id": 95206457,
-        "alias": "Contents.Item.Desc.5201601"
+        "alias": "Contents.Item.Desc.5201601",
+        "text": "[제작]으로 획득할 수 있습니다."
     },
     "95206458": {
         "deprecated": false,
@@ -2800,29 +2801,31 @@
         "deprecated": false,
         "Dev_Desc": "잊혀진 정심의 수주(각인)",
         "id": 95206460,
-        "alias": "Contents.Item.Desc.5102603"
+        "alias": "Contents.Item.Desc.5202603",
+        "text": "[제작]으로 획득할 수 있습니다."
     },
     "95206461": {
         "deprecated": false,
         "Dev_Desc": "잊혀진 노림수의 팔찌(각인)",
         "id": 95206461,
-        "alias": "Contents.Item.Desc.5204601"
+        "alias": "Contents.Item.Desc.5204601",
+        "text": "[제작]으로 획득할 수 있습니다."
     },
     "95206462": {
         "deprecated": false,
-        "Dev_Desc": "화룡의 비늘(각인)",
+        "Dev_Desc": "격노의 팔찌(각인)",
         "id": 95206462,
         "alias": "Contents.Item.Desc.5204602"
     },
     "95206463": {
         "deprecated": false,
-        "Dev_Desc": "대해의 분노(각인)",
+        "Dev_Desc": "화산의 분노(각인)",
         "id": 95206463,
         "alias": "Contents.Item.Desc.5204603"
     },
     "95206464": {
         "deprecated": false,
-        "Dev_Desc": "홍안의 팔찌(각인)",
+        "Dev_Desc": "청안의 팔찌(각인)",
         "id": 95206464,
         "alias": "Contents.Item.Desc.5204604"
     },
@@ -2831,5 +2834,11 @@
         "Dev_Desc": "토벌",
         "id": 95206465,
         "alias": "Contents.Item.Desc.5307005"
+    },
+    "95206466": {
+        "deprecated": false,
+        "Dev_Desc": "축제의 증표",
+        "id": 95206466,
+        "alias": "Contents.Item.Desc.5307006"
     }
 }

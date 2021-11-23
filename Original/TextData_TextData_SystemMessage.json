@@ -5659,14 +5659,14 @@
         "Dev_Desc": "채팅 시스템 메시지 / 강화 성공",
         "id": 9000870,
         "alias": "SysM.ChatSysM.EnchantSuccess",
-        "text": "<<arg p=[1:string]/>>+<arg p=[2:string]/><arg p=[3:string]/></><<arg p=[4:string]/>> 강화에 성공했습니다.</>"
+        "text": "<<arg p=[1:string]/>>+<arg p=[2:string]/> <arg p=[3:string]/></><<arg p=[4:string]/>> 강화에 성공했습니다.</>"
     },
     "9000871": {
         "deprecated": false,
         "Dev_Desc": "채팅 시스템 메시지 / 강화 실패",
         "id": 9000871,
         "alias": "SysM.ChatSysM.EnchantFail",
-        "text": "<<arg p=[1:string]/>>+<arg p=[2:string]/><arg p=[3:string]/></><<arg p=[4:string]/>> 강화에 실패했습니다.</>"
+        "text": "<<arg p=[1:string]/>>+<arg p=[2:string]/> <arg p=[3:string]/></><<arg p=[4:string]/>> 강화에 실패했습니다.</>"
     },
     "9000872": {
         "deprecated": false,
@@ -5687,35 +5687,35 @@
         "Dev_Desc": "채팅 시스템 메시지 / 브로드 캐스팅 / 아이템 획득",
         "id": 9000874,
         "alias": "SyM.ChatSysM.ItemDrop",
-        "text": "<<arg p=[1:string]/>>[<arg p=[2:string]/>] <arg p=[3:string]/> 님이 </><<arg p=[4:string]/>><arg p=[5:string]/></><<arg p=[1:string]/>><eul/> <arg p=[6:string]/>에서 획득했습니다.</>"
+        "text": "<<arg p=[1:string]/>><arg p=[2:string]/> <arg p=[3:string]/> 님이 </><<arg p=[4:string]/>><arg p=[5:string]/></><<arg p=[1:string]/>><eul/> <arg p=[6:string]/>에서 획득했습니다.</>"
     },
     "9000875": {
         "deprecated": false,
         "Dev_Desc": "채팅 시스템 메시지 / 브로드 캐스팅 / 강화 성공",
         "id": 9000875,
         "alias": "SyM.ChatSysM.Enchant",
-        "text": "<<arg p=[1:string]/>>[<arg p=[2:string]/>] <arg p=[3:string]/> 님이 </><<arg p=[4:string]/>>+<arg p=[5:string]/> <arg p=[6:string]/></><<arg p=[1:string]/>> 강화에 성공했습니다.</>"
+        "text": "<<arg p=[1:string]/>><arg p=[2:string]/> <arg p=[3:string]/> 님이 </><<arg p=[4:string]/>>+<arg p=[5:string]/> <arg p=[6:string]/></><<arg p=[1:string]/>> 강화에 성공했습니다.</>"
     },
     "9000876": {
         "deprecated": false,
         "Dev_Desc": "채팅 시스템 메시지 / 브로드 캐스팅 / 제작 성공",
         "id": 9000876,
         "alias": "SyM.ChatSysM.Craft",
-        "text": "<<arg p=[1:string]/>>[<arg p=[2:string]/>] <arg p=[3:string]/> 님이 </><<arg p=[4:string]/>><arg p=[5:string]/></><<arg p=[1:string]/>> 제작에 성공했습니다.</>"
+        "text": "<<arg p=[1:string]/>><arg p=[2:string]/> <arg p=[3:string]/> 님이 </><<arg p=[4:string]/>><arg p=[5:string]/></><<arg p=[1:string]/>> 제작에 성공했습니다.</>"
     },
     "9000877": {
         "deprecated": false,
         "Dev_Desc": "채팅 시스템 메시지 / 브로드 캐스팅 / 소울 획득",
         "id": 9000877,
         "alias": "SyM.ChatSysM.Soul",
-        "text": "<<arg p=[1:string]/>>[<arg p=[2:string]/>] <arg p=[3:string]/> 님이 소울 </><<arg p=[4:string]/>><arg p=[5:string]/></><<arg p=[1:string]/>><eul/> 획득했습니다.</>"
+        "text": "<<arg p=[1:string]/>><arg p=[2:string]/> <arg p=[3:string]/> 님이 소울 </><<arg p=[4:string]/>><arg p=[5:string]/></><<arg p=[1:string]/>><eul/> 획득했습니다.</>"
     },
     "9000878": {
         "deprecated": false,
         "Dev_Desc": "채팅 시스템 메시지 / 브로드 캐스팅 / 수호령 획득",
         "id": 9000878,
         "alias": "SyM.ChatSysM.Pets",
-        "text": "<<arg p=[1:string]/>>[<arg p=[2:string]/>] <arg p=[3:string]/> 님이 수호령 </><<arg p=[4:string]/>><arg p=[5:string]/></><<arg p=[1:string]/>><eul/> 획득했습니다.</>"
+        "text": "<<arg p=[1:string]/>><arg p=[2:string]/> <arg p=[3:string]/> 님이 수호령 </><<arg p=[4:string]/>><arg p=[5:string]/></><<arg p=[1:string]/>><eul/> 획득했습니다.</>"
     },
     "9000879": {
         "deprecated": false,
@@ -6583,35 +6583,35 @@
         "Dev_Desc": "브로드캐스팅 / 아이템 획득",
         "id": 9001002,
         "alias": "SysM.BroadCasting.GetItem",
-        "text": "[<arg p=[1:string]/>] <arg p=[2:string]/> 님이 <arg p=[3:string]/><eul/> <arg p=[4:string]/>에서 획득했습니다."
+        "text": "<arg p=[1:string]/> <arg p=[2:string]/> 님이 <arg p=[3:string]/><eul/> <arg p=[4:string]/>에서 획득했습니다."
     },
     "9001003": {
         "deprecated": false,
         "Dev_Desc": "브로드캐스팅 / 강화 성공",
         "id": 9001003,
         "alias": "SysM.BroadCasting.EnchantSucceed",
-        "text": "[<arg p=[1:string]/>] <arg p=[2:string]/> 님이 <arg p=[3:string]/> 강화에 성공했습니다."
+        "text": "<arg p=[1:string]/> <arg p=[2:string]/> 님이 <arg p=[3:string]/> 강화에 성공했습니다."
     },
     "9001004": {
         "deprecated": false,
         "Dev_Desc": "브로드캐스팅 / 제작 성공",
         "id": 9001004,
         "alias": "SysM.BroadCasting.CraftSucceed",
-        "text": "[<arg p=[1:string]/>] <arg p=[2:string]/> 님이 <arg p=[3:string]/> 제작에 성공했습니다."
+        "text": "<arg p=[1:string]/> <arg p=[2:string]/> 님이 <arg p=[3:string]/> 제작에 성공했습니다."
     },
     "9001005": {
         "deprecated": false,
         "Dev_Desc": "브로드캐스팅 / 소울 획득",
         "id": 9001005,
         "alias": "SysM.BroadCasting.GetSoul",
-        "text": "[<arg p=[1:string]/>] <arg p=[2:string]/> 님이 소울 <arg p=[3:string]/><eul/> 획득했습니다."
+        "text": "<arg p=[1:string]/> <arg p=[2:string]/> 님이 소울 <arg p=[3:string]/><eul/> 획득했습니다."
     },
     "9001006": {
         "deprecated": false,
         "Dev_Desc": "브로드캐스팅 / 수호령 획득",
         "id": 9001006,
         "alias": "SysM.BroadCasting.GetPets",
-        "text": "[<arg p=[1:string]/>] <arg p=[2:string]/> 님이 수호령 <arg p=[3:string]/><eul/> 획득했습니다."
+        "text": "<arg p=[1:string]/> <arg p=[2:string]/> 님이 수호령 <arg p=[3:string]/><eul/> 획득했습니다."
     },
     "9001007": {
         "deprecated": false,
@@ -6877,7 +6877,7 @@
         "Dev_Desc": "강화 / 채팅메시지 / 단계하락",
         "id": 9001044,
         "alias": "SysM.ChatSys.EnchantDowngrade",
-        "text": "<<arg p=[1:string]/>>+<arg p=[2:string]/><arg p=[3:string]/></><<arg p=[4:string]/>> 저주 강화에 성공했습니다.</>"
+        "text": "<<arg p=[1:string]/>>+<arg p=[2:string]/> <arg p=[3:string]/></><<arg p=[4:string]/>> 저주 강화에 성공했습니다.</>"
     },
     "9001045": {
         "deprecated": false,
@@ -7121,14 +7121,14 @@
         "Dev_Desc": "채팅 / 소울 성장 브로드캐스팅",
         "id": 9001079,
         "alias": "SysM.ChatSysM.GrowSoul",
-        "text": "<<arg p=[1:string]/>>[<arg p=[2:string]/>] <arg p=[3:string]/> 님이 소울 </><<arg p=[4:string]/>><arg p=[5:string]/></><<arg p=[1:string]/>> <arg p=[6:integer]/>성을 획득했습니다.</>"
+        "text": "<<arg p=[1:string]/>><arg p=[2:string]/> <arg p=[3:string]/> 님이 소울 </><<arg p=[4:string]/>><arg p=[5:string]/></><<arg p=[1:string]/>> <arg p=[6:integer]/>성을 획득했습니다.</>"
     },
     "9001080": {
         "deprecated": false,
         "Dev_Desc": "소울 성장 브로드캐스팅",
         "id": 9001080,
         "alias": "SysM.BroadCasting.GrowSoul",
-        "text": "[<arg p=[1:string]/>] <arg p=[2:string]/> 님이 소울 <arg p=[3:string]/> <arg p=[4:integer]/>성을 획득했습니다."
+        "text": "<arg p=[1:string]/> <arg p=[2:string]/> 님이 소울 <arg p=[3:string]/> <arg p=[4:integer]/>성을 획득했습니다."
     },
     "9001081": {
         "deprecated": false,
@@ -7247,21 +7247,21 @@
         "Dev_Desc": "아이템 사용 불가 / 레벨 제한 Min",
         "id": 9001097,
         "alias": "SysM.Item.UseFail.RequiredLevelMin",
-        "text": "레벨 <arg p=[1:integer]/> 이상만 사용할 수 있습니다."
+        "text": "<arg p=[1:integer]/>레벨부터 사용할 수 있습니다."
     },
     "9001098": {
         "deprecated": false,
         "Dev_Desc": "아이템 사용 불가 / 레벨 제한 Max",
         "id": 9001098,
         "alias": "SysM.Item.UseFail.RequiredLevelMax",
-        "text": "레벨 <arg p=[1:integer]/> 이하만 사용할 수 있습니다."
+        "text": "<arg p=[1:integer]/>레벨을 초과하여 사용할 수 없습니다."
     },
     "9001099": {
         "deprecated": false,
         "Dev_Desc": "브로드캐스팅 / 문파 정보 / 적대",
         "id": 9001099,
         "alias": "SysM.BroadCasting.GuildRelation.Hostile",
-        "text": "적대 문파 <<arg p=[2:string]/>>[<arg p=[1:string]/>]</>"
+        "text": "적대 문파 [<arg p=[1:string]/>]"
     },
     "9001100": {
         "deprecated": false,
@@ -7276,5 +7276,96 @@
         "id": 9001101,
         "alias": "SysM.BroadCasting.GuildRelation.NoRelation",
         "text": "문파 [<arg p=[1:string]/>]"
+    },
+    "9001102": {
+        "deprecated": false,
+        "Dev_Desc": "용해제 / 용해제 부족",
+        "id": 9001102,
+        "alias": "SysM.Solvent.LackOfSolvent",
+        "text": "용해제가 부족합니다."
+    },
+    "9001103": {
+        "deprecated": false,
+        "Dev_Desc": "외형 변경/ 캐릭터 삭제 대기 중 / 사용 불가",
+        "id": 9001103,
+        "alias": "SysM.Lobby.ChangeAppearance.Fail.DeleteStanby",
+        "text": "삭제 대기중인 캐릭터는 사용할 수 없는 기능입니다."
+    },
+    "9001104": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 동일 서버 선택 /에러 메시지",
+        "id": 9001104,
+        "alias": "SysM.HeroTresfer.Error.Same",
+        "text": "현재 서버와 동일한 서버입니다."
+    },
+    "9001105": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전/ 서버 이전권 부족",
+        "id": 9001105,
+        "alias": "SysM.HeroTresfer.Error.LackTicket",
+        "text": "<arg p=[1:string]/><ga/> 부족하여 서버 이전 신청을 할 수 없습니다."
+    },
+    "9001106": {
+        "deprecated": false,
+        "Dev_Desc": "아이템 용해제 / 용해제 사용 실패",
+        "id": 9001106,
+        "alias": "SysM.Solvent.DissolutionFail",
+        "text": "분해에 실패했습니다."
+    },
+    "9001107": {
+        "deprecated": false,
+        "Dev_Desc": "지도/ 축지 / 지역발견 퀘스트 미완료",
+        "id": 9001107,
+        "alias": "SysM.Map.TeleportFail.DiscoverQuest",
+        "text": "지역발견 퀘스트를 완료 후 이동할 수 있습니다."
+    },
+    "9001108": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전/ 서버 이전권 / 데이터 동기화 에러",
+        "id": 9001108,
+        "alias": "SysM.HeroTresfer.Error.DataSync",
+        "text": "비정상적인 접근입니다."
+    },
+    "9001109": {
+        "deprecated": false,
+        "Dev_Desc": "브로드캐스팅 / 문파 정보 / 소속 문파",
+        "id": 9001109,
+        "alias": "SysM.BroadCasting.GuildRelation.MyGuild",
+        "text": "소속 문파 [<arg p=[1:string]/>]"
+    },
+    "9001110": {
+        "deprecated": false,
+        "Dev_Desc": "서버이전/ 에러 / 쿼터 없음",
+        "id": 9001110,
+        "alias": "SysM.HeroTresfer.Error.LackQuota",
+        "text": "현재 서버의 이전 가능 인원이 초과되었습니다."
+    },
+    "9001111": {
+        "deprecated": false,
+        "Dev_Desc": "조롱 실패 / 수량 초과",
+        "id": 9001111,
+        "alias": "SysM.Ridicule.Fail.Count",
+        "text": "더 이상 조롱할 수 없습니다."
+    },
+    "9001112": {
+        "deprecated": false,
+        "Dev_Desc": "조롱 실패 / 시간 초과",
+        "id": 9001112,
+        "alias": "SysM.Ridicule.Fail.Time",
+        "text": "조롱 가능 시간이 지나 조롱할 수 없습니다."
+    },
+    "9001113": {
+        "deprecated": false,
+        "Dev_Desc": "복수 실패 / 수량 초과",
+        "id": 9001113,
+        "alias": "SysM.Revenge.Fail.Count",
+        "text": "더 이상 복수할 수 없습니다."
+    },
+    "9001114": {
+        "deprecated": false,
+        "Dev_Desc": "복수 실패 / 시간 초과",
+        "id": 9001114,
+        "alias": "SysM.Revenge.Fail.Time",
+        "text": "복수 가능 시간이 지나 복수할 수 없습니다."
     }
 }

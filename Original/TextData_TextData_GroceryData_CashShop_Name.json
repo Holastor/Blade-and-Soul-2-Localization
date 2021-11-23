@@ -1110,14 +1110,14 @@
         "Dev_Desc": "잊혀진 영웅 무기 제작 비법서 조각 상자(이벤트)",
         "id": 83100160,
         "alias": "Contents.CashShop.Item.Name.5208",
-        "text": "잊혀진 영웅 무기 제작 비법서 조각 상자(이벤트)"
+        "text": "잊혀진 영웅 무기 비법서 조각 상자(이벤트)"
     },
     "83100161": {
         "deprecated": false,
         "Dev_Desc": "잊혀진 영웅 방어구 제작 비법서 조각 상자(이벤트)",
         "id": 83100161,
         "alias": "Contents.CashShop.Item.Name.5209",
-        "text": "잊혀진 영웅 방어구 제작 비법서 조각 상자(이벤트)"
+        "text": "잊혀진 영웅 방어구 비법서 조각 상자(이벤트)"
     },
     "83150000": {
         "deprecated": false,
@@ -2734,13 +2734,265 @@
         "Dev_Desc": "잊혀진 영웅 무기 제작 비법서 조각 상자(이벤트)",
         "id": 83150232,
         "alias": "Contents.CashShop.Item.Name.9850063",
-        "text": "잊혀진 영웅 무기 제작 비법서 조각 상자(이벤트)"
+        "text": "잊혀진 영웅 무기 비법서 조각 상자(이벤트)"
     },
     "83150233": {
         "deprecated": false,
         "Dev_Desc": "잊혀진 영웅 방어구 제작 비법서 조각 상자(이벤트)",
         "id": 83150233,
         "alias": "Contents.CashShop.Item.Name.9850064",
-        "text": "잊혀진 영웅 방어구 제작 비법서 조각 상자(이벤트)"
+        "text": "잊혀진 영웅 방어구 비법서 조각 상자(이벤트)"
+    },
+    "83150234": {
+        "deprecated": false,
+        "Dev_Desc": "서버이전권",
+        "id": 83150234,
+        "alias": "Contents.CashShop.Item.Name.9850065",
+        "text": "서버이전권"
+    },
+    "83150235": {
+        "deprecated": false,
+        "Dev_Desc": "IAP / 신규 패스",
+        "id": 83150235,
+        "alias": "Contents.CashShop.Item.Name.9800098",
+        "text": "시즌 패스: 백일"
+    },
+    "83150236": {
+        "deprecated": false,
+        "Dev_Desc": "100일 전야제 패키지",
+        "id": 83150236,
+        "alias": "Contents.CashShop.Item.Name.5210",
+        "text": "100일 전야제 패키지"
+    },
+    "83150237": {
+        "deprecated": false,
+        "Dev_Desc": "블랙 프라이데이 패키지 I",
+        "id": 83150237,
+        "alias": "Contents.CashShop.Item.Name.5211",
+        "text": "블랙 프라이데이 패키지 I"
+    },
+    "83150238": {
+        "deprecated": false,
+        "Dev_Desc": "블랙 프라이데이 패키지 II",
+        "id": 83150238,
+        "alias": "Contents.CashShop.Item.Name.5212",
+        "text": "블랙 프라이데이 패키지 II"
+    },
+    "83150239": {
+        "deprecated": false,
+        "Dev_Desc": "블랙 프라이데이 패키지 III",
+        "id": 83150239,
+        "alias": "Contents.CashShop.Item.Name.5213",
+        "text": "블랙 프라이데이 패키지 III"
+    },
+    "83150240": {
+        "deprecated": false,
+        "Dev_Desc": "평범한 소울 소환서",
+        "id": 83150240,
+        "alias": "Contents.CashShop.Item.Name.5214",
+        "text": "평범한 소울 소환서"
+    },
+    "83150241": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 소울 소환서 I",
+        "id": 83150241,
+        "alias": "Contents.CashShop.Item.Name.5215",
+        "text": "빛나는 소울 소환서 I"
+    },
+    "83150242": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 소울 소환서 II",
+        "id": 83150242,
+        "alias": "Contents.CashShop.Item.Name.5216",
+        "text": "빛나는 소울 소환서 II"
+    },
+    "83150243": {
+        "deprecated": false,
+        "Dev_Desc": "평범한 수호령 소환서",
+        "id": 83150243,
+        "alias": "Contents.CashShop.Item.Name.5217",
+        "text": "평범한 수호령 소환서"
+    },
+    "83150244": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 수호령 소환서 I",
+        "id": 83150244,
+        "alias": "Contents.CashShop.Item.Name.5218",
+        "text": "빛나는 수호령 소환서 I"
+    },
+    "83150245": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 수호령 소환서 II",
+        "id": 83150245,
+        "alias": "Contents.CashShop.Item.Name.5219",
+        "text": "빛나는 수호령 소환서 II"
+    },
+    "83150246": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 무기 강화 주문서 상자",
+        "id": 83150246,
+        "alias": "Contents.CashShop.Item.Name.5220",
+        "text": "빛나는 무기 강화 주문서 상자"
+    },
+    "83150247": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 방어구 강화 주문서 상자",
+        "id": 83150247,
+        "alias": "Contents.CashShop.Item.Name.5221",
+        "text": "빛나는 방어구 강화 주문서 상자"
+    },
+    "83150248": {
+        "deprecated": false,
+        "Dev_Desc": "비결 1000개",
+        "id": 83150248,
+        "alias": "Contents.CashShop.Item.Name.5222",
+        "text": "비결 1000개"
+    },
+    "83150249": {
+        "deprecated": false,
+        "Dev_Desc": "금괴 200개",
+        "id": 83150249,
+        "alias": "Contents.CashShop.Item.Name.5223",
+        "text": "금괴 200개"
+    },
+    "83150250": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 소울 파편(11회)",
+        "id": 83150250,
+        "alias": "Contents.CashShop.Item.Name.5224",
+        "text": "빛나는 소울 파편(11회)"
+    },
+    "83150251": {
+        "deprecated": false,
+        "Dev_Desc": "희귀 소울 소환서(1회)",
+        "id": 83150251,
+        "alias": "Contents.CashShop.Item.Name.5225",
+        "text": "희귀 소울 소환서(1회)"
+    },
+    "83150252": {
+        "deprecated": false,
+        "Dev_Desc": "희귀 소울 선택 상자(1회)",
+        "id": 83150252,
+        "alias": "Contents.CashShop.Item.Name.5226",
+        "text": "희귀 소울 선택 상자(1회)"
+    },
+    "83150253": {
+        "deprecated": false,
+        "Dev_Desc": "영웅 소울 파편(3개) 선택 꾸러미",
+        "id": 83150253,
+        "alias": "Contents.CashShop.Item.Name.5227",
+        "text": "영웅 소울 파편(3개) 선택 꾸러미"
+    },
+    "83150254": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 소울 소환서(11회)",
+        "id": 83150254,
+        "alias": "Contents.CashShop.Item.Name.5228",
+        "text": "빛나는 소울 소환서(11회)"
+    },
+    "83150255": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 수호령 소환서(11회)",
+        "id": 83150255,
+        "alias": "Contents.CashShop.Item.Name.5229",
+        "text": "빛나는 수호령 소환서(11회)"
+    },
+    "83150256": {
+        "deprecated": false,
+        "Dev_Desc": "백화의 불꽃 상자 11개 묶음",
+        "id": 83150256,
+        "alias": "Contents.CashShop.Item.Name.5230",
+        "text": "백화의 불꽃 상자 11개 묶음"
+    },
+    "83150257": {
+        "deprecated": false,
+        "Dev_Desc": "뇌성의 포효 상자 11개 묶음",
+        "id": 83150257,
+        "alias": "Contents.CashShop.Item.Name.5231",
+        "text": "뇌성의 포효 상자 11개 묶음"
+    },
+    "83150258": {
+        "deprecated": false,
+        "Dev_Desc": "질풍의 진노 상자 11개 묶음",
+        "id": 83150258,
+        "alias": "Contents.CashShop.Item.Name.5232",
+        "text": "질풍의 진노 상자 11개 묶음"
+    },
+    "83150259": {
+        "deprecated": false,
+        "Dev_Desc": "타락의 속삭임 상자 11개 묶음",
+        "id": 83150259,
+        "alias": "Contents.CashShop.Item.Name.5233",
+        "text": "타락의 속삭임 상자 11개 묶음"
+    },
+    "83150260": {
+        "deprecated": false,
+        "Dev_Desc": "영웅 소울 확정 소환서",
+        "id": 83150260,
+        "alias": "Contents.CashShop.Item.Name.5234",
+        "text": "영웅 소울 확정 소환서"
+    },
+    "83150261": {
+        "deprecated": false,
+        "Dev_Desc": "100일 기념 패키지",
+        "id": 83150261,
+        "alias": "Contents.CashShop.Item.Name.5235",
+        "text": "100일 기념 패키지"
+    },
+    "83150262": {
+        "deprecated": false,
+        "Dev_Desc": "축제의 증표",
+        "id": 83150262,
+        "alias": "Contents.CashShop.Item.Name.5237",
+        "text": "축제의 증표"
+    },
+    "83150263": {
+        "deprecated": false,
+        "Dev_Desc": "희귀 수호령 확정 소환서(1회)",
+        "id": 83150263,
+        "alias": "Contents.CashShop.Item.Name.5235",
+        "text": "희귀 수호령 확정 소환서(1회)"
+    },
+    "83150264": {
+        "deprecated": false,
+        "Dev_Desc": "기인의 의상 주머니",
+        "id": 83150264,
+        "alias": "Contents.CashShop.Item.Name.5241",
+        "text": "기인의 의상 주머니"
+    },
+    "83150265": {
+        "deprecated": false,
+        "Dev_Desc": "특별 소울 소환 / 오름,비류하,바오바오 / 1회",
+        "id": 83150265,
+        "alias": "Contents.CashShop.Item.Name.5242",
+        "text": "특별 소울 소환 1회"
+    },
+    "83150266": {
+        "deprecated": false,
+        "Dev_Desc": "특별 소울 소환 / 오름,비류하,바오바오 / 11회",
+        "id": 83150266,
+        "alias": "Contents.CashShop.Item.Name.5243",
+        "text": "특별 소울 소환 11회"
+    },
+    "83150267": {
+        "deprecated": false,
+        "Dev_Desc": "특별 소울 소환 / 오름,비류하,바오바오",
+        "id": 83150267,
+        "alias": "Contents.CashShop.Item.Name.1035",
+        "text": " <textColor=[172:98:223:255]>오름, 비류하, 바오바오</>\n<textColor=[255:255:255:255]> 를 포함한</>\n <textColor=[255:255:255:255]>일반 ~</> <textColor=[172:98:223:255]>영웅</> <textColor=[255:255:255:255]>등급의</>\n <textColor=[255:255:255:255]>다양한 소울 획득 가능</>"
+    },
+    "83150268": {
+        "deprecated": false,
+        "Dev_Desc": "비결 2000개",
+        "id": 83150268,
+        "alias": "Contents.CashShop.Item.Name.5239",
+        "text": "비결 2000개"
+    },
+    "83150269": {
+        "deprecated": false,
+        "Dev_Desc": "금괴 300개",
+        "id": 83150269,
+        "alias": "Contents.CashShop.Item.Name.5240",
+        "text": "금괴 300개"
     }
 }

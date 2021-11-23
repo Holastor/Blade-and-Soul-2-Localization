@@ -10098,7 +10098,7 @@
         "Dev_Desc": "랭킹 / PK / 이름",
         "id": 8001497,
         "alias": "UI.Ranking.PK.Column.Name",
-        "text": "이름"
+        "text": "이름/문파"
     },
     "8001498": {
         "deprecated": false,
@@ -10119,7 +10119,7 @@
         "Dev_Desc": "랭킹 / PK / 전적",
         "id": 8001500,
         "alias": "UI.Ranking.PK.Column.Record",
-        "text": "전적"
+        "text": "처치/사망"
     },
     "8001501": {
         "deprecated": false,
@@ -10140,7 +10140,7 @@
         "Dev_Desc": "랭킹 / 경험치 랭킹 혜택 정보 팝업 / 타이틀",
         "id": 8001503,
         "alias": "UI.Ranking.EXPRankRewardInfoPopup.Title",
-        "text": "경험치 랭킹 혜택"
+        "text": "경험치 순위 혜택"
     },
     "8001504": {
         "deprecated": false,
@@ -10161,7 +10161,7 @@
         "Dev_Desc": "랭킹 / PK 랭킹 혜택 정보 팝업 / 타이틀",
         "id": 8001506,
         "alias": "UI.Ranking.PKRankRewardInfoPopup.Title",
-        "text": "경험치 랭킹 혜택"
+        "text": "PvP 순위 혜택"
     },
     "8001507": {
         "deprecated": false,
@@ -11348,10 +11348,10 @@
     },
     "8001676": {
         "deprecated": false,
-        "Dev_Desc": "거래소 / 검색열 / 제련 옵션",
+        "Dev_Desc": "거래소 / 검색열 / 제련 능력치",
         "id": 8001676,
         "alias": "UI.Trade.SearchColumn.Forge",
-        "text": "제련 옵션"
+        "text": "제련 능력치"
     },
     "8001677": {
         "deprecated": false,
@@ -11474,10 +11474,10 @@
     },
     "8001697": {
         "deprecated": false,
-        "Dev_Desc": "거래소 / 필터 / 제련 옵션",
+        "Dev_Desc": "거래소 / 필터 / 제련 능력치",
         "id": 8001697,
         "alias": "UI.Trade.Filter.Forge",
-        "text": "제련 옵션"
+        "text": "제련 능력치"
     },
     "8001698": {
         "deprecated": false,
@@ -11621,10 +11621,10 @@
     },
     "8001718": {
         "deprecated": false,
-        "Dev_Desc": "거래소 / 판매열 / 제련 옵션",
+        "Dev_Desc": "거래소 / 판매열 / 제련 능력치",
         "id": 8001718,
         "alias": "UI.Trade.SaleColumn.Forge",
-        "text": "제련 옵션"
+        "text": "제련 능력치"
     },
     "8001719": {
         "deprecated": false,
@@ -11784,21 +11784,21 @@
         "deprecated": false,
         "Dev_Desc": "거래소 / 정산열 / 판매 금액",
         "id": 8001744,
-        "alias": "UI.Trade.CalculateColumn.Forge",
+        "alias": "UI.Trade.CalculateColumn.Price",
         "text": "판매 금액"
     },
     "8001745": {
         "deprecated": false,
         "Dev_Desc": "거래소 / 정산열 / 정산 금액",
         "id": 8001745,
-        "alias": "UI.Trade.CalculateColumn.Price",
+        "alias": "UI.Trade.CalculateColumn.Price2",
         "text": "정산 금액"
     },
     "8001746": {
         "deprecated": false,
         "Dev_Desc": "거래소 / 정산열 / 판매 시간",
         "id": 8001746,
-        "alias": "UI.Trade.CalculateColumn.State",
+        "alias": "UI.Trade.CalculateColumn.Time",
         "text": "판매 시간"
     },
     "8001747": {
@@ -11854,21 +11854,21 @@
         "deprecated": false,
         "Dev_Desc": "거래소 / 정산 내역열 / 판매 금액",
         "id": 8001754,
-        "alias": "UI.Trade.CalculateListColumn.Forge",
+        "alias": "UI.Trade.CalculateListColumn.Price",
         "text": "판매 금액"
     },
     "8001755": {
         "deprecated": false,
         "Dev_Desc": "거래소 / 정산 내역열 / 정산 금액",
         "id": 8001755,
-        "alias": "UI.Trade.CalculateListColumn.Price",
+        "alias": "UI.Trade.CalculateListColumn.Price2",
         "text": "정산 금액"
     },
     "8001756": {
         "deprecated": false,
         "Dev_Desc": "거래소 / 정산 내역열 / 판매 시간",
         "id": 8001756,
-        "alias": "UI.Trade.CalculateListColumn.State",
+        "alias": "UI.Trade.CalculateListColumn.Time",
         "text": "판매 시간"
     },
     "8001757": {
@@ -13682,7 +13682,7 @@
         "Dev_Desc": "캐시상점 / 메인 탭 / 서버이전",
         "id": 8002028,
         "alias": "UI.CashShop.TapName.Main.MoveWorld",
-        "text": "서버이전"
+        "text": "서버 이전"
     },
     "8002029": {
         "deprecated": false,
@@ -23219,7 +23219,7 @@
         "Dev_Desc": "서버 이전 / 서버 선택 / 설명",
         "id": 8003399,
         "alias": "UI.HeroTransfer.ChoiceServer.Desc.02",
-        "text": "이전이 불가능한 서버는 서버 목록에 표시되지 않습니다."
+        "text": "이전 대상이 아니면 이전 대상 서버 목록에 표시되지 않습니다."
     },
     "8003400": {
         "deprecated": false,
@@ -23415,7 +23415,7 @@
         "Dev_Desc": "서버 이전 / 서버 선택 / 탭",
         "id": 8003427,
         "alias": "UI.HeroTransfer.ChoiceServer.Popup.Tap.01",
-        "text": "이전 가능 서버"
+        "text": "이전 대상 서버"
     },
     "8003428": {
         "deprecated": false,
@@ -23464,7 +23464,7 @@
         "Dev_Desc": "서버 이전 / 서버 선택 / 이전 불가 서버",
         "id": 8003434,
         "alias": "UI.HeroTransfer.ChoiceServer.Popup.WrongServer",
-        "text": "이전이 불가능한 서버입니다."
+        "text": "이전 대상이 아니거나 이전 불가 상태의 서버입니다."
     },
     "8003435": {
         "deprecated": false,
@@ -23584,5 +23584,173 @@
         "id": 8003451,
         "alias": "UI.HeroTransfer.TransferCheck.Period",
         "text": "<arg p=[1:integer]/>.<arg p=[2:integer]/>.<arg p=[3:integer]/>. <arg p=[4:integer]/>:<arg p=[5:integer]/> ~ <arg p=[6:integer]/>.<arg p=[7:integer]/>.<arg p=[8:integer]/>. <arg p=[9:integer]/>:<arg p=[10:integer]/>"
+    },
+    "8003452": {
+        "deprecated": false,
+        "Dev_Desc": "문파 / 문파 정보 / 문파 경험치 설명",
+        "id": 8003452,
+        "alias": "UI.Guild.GuildInfo.GuildExpDesc",
+        "text": "사냥으로 경험치를 얻거나 기부, 전격, 협행 등의 활동을 하면 문파 경험치가 상승합니다."
+    },
+    "8003453": {
+        "deprecated": false,
+        "Dev_Desc": "거래소 / 정산열 / 제련 능력치",
+        "id": 8003453,
+        "alias": "UI.Trade.CalculateColumn.Forge",
+        "text": "제련 능력치"
+    },
+    "8003454": {
+        "deprecated": false,
+        "Dev_Desc": "거래소 / 정산 내역열 / 제련 능력치",
+        "id": 8003454,
+        "alias": "UI.Trade.CalculateListColumn.Forge",
+        "text": "제련 능력치"
+    },
+    "8003455": {
+        "deprecated": false,
+        "Dev_Desc": "소울 뽑기 / 재구매 팝업 / 미표시 옵션",
+        "id": 8003455,
+        "alias": "UI.SoulGacha.RepurchasePopup.OptionDesc",
+        "text": "다음부터 이 메시지를 표시하지 않기"
+    },
+    "8003456": {
+        "deprecated": false,
+        "Dev_Desc": "PK / 장부 / 메인 화면 / 경계 등록",
+        "id": 8003456,
+        "alias": "UI.PK.Record.AddAlert",
+        "text": "경계 추가"
+    },
+    "8003457": {
+        "deprecated": false,
+        "Dev_Desc": "PK / 장부 / 메인 화면 / 경계 삭제",
+        "id": 8003457,
+        "alias": "UI.PK.Record.DeleteAlert",
+        "text": "경계 삭제"
+    },
+    "8003458": {
+        "deprecated": false,
+        "Dev_Desc": "캐시상점 / 메인 탭 / 블랙 프라이데이",
+        "id": 8003458,
+        "alias": "UI.CashShop.TapName.Main.BlackF",
+        "text": "블랙 프라이데이"
+    },
+    "8003459": {
+        "deprecated": false,
+        "Dev_Desc": "캐시상점 / 서브 탭 / 블랙 프라이데이 / 신석",
+        "id": 8003459,
+        "alias": "UI.CashShop.TapName.Sub.Bfblood",
+        "text": "신석"
+    },
+    "8003460": {
+        "deprecated": false,
+        "Dev_Desc": "캐시상점 / 서브 탭 / 블랙 프라이데이 탭 / 금화",
+        "id": 8003460,
+        "alias": "UI.CashShop.TapName.Sub.Gold",
+        "text": "금화"
+    },
+    "8003461": {
+        "deprecated": false,
+        "Dev_Desc": "캐시상점 / 서브 탭 / 블랙 프라이데이 탭 / 비사전",
+        "id": 8003461,
+        "alias": "UI.CashShop.TapName.Sub.itemCoin1",
+        "text": "비사전"
+    },
+    "8003462": {
+        "deprecated": false,
+        "Dev_Desc": "캐시상점 / 서브 탭 / 블랙 프라이데이 탭 / 도화전",
+        "id": 8003462,
+        "alias": "UI.CashShop.TapName.Sub.itemCoin2",
+        "text": "도화전"
+    },
+    "8003463": {
+        "deprecated": false,
+        "Dev_Desc": "캐시상점 / 서브 탭 / 블랙 프라이데이 탭 / 플레이포인트",
+        "id": 8003463,
+        "alias": "UI.CashShop.TapName.Sub.PlayPoint",
+        "text": "플레이포인트"
+    },
+    "8003464": {
+        "deprecated": false,
+        "Dev_Desc": "캐시상점 / 메인탭 / 금화 & 주화",
+        "id": 8003464,
+        "alias": "UI.CashShop.TapName.Main.GC",
+        "text": "금화 & 주화"
+    },
+    "8003465": {
+        "deprecated": false,
+        "Dev_Desc": "이벤트 제작 레시피 탭 / 서버이전권",
+        "id": 8003465,
+        "alias": "UI.Craft.LeftSubTabName.Event.HeroTransfer.01",
+        "text": "서버 이전권"
+    },
+    "8003466": {
+        "deprecated": false,
+        "Dev_Desc": "랭킹 / 탭 / 문파 랭킹 탭",
+        "id": 8003466,
+        "alias": "UI.Ranking.TabName.GuildEXP",
+        "text": "문파"
+    },
+    "8003467": {
+        "deprecated": false,
+        "Dev_Desc": "랭킹 / 문파 / 안내문",
+        "id": 8003467,
+        "alias": "UI.GuildExp.Ranking.Season.Description",
+        "text": "문파 순위는 1시간마다 갱신됩니다."
+    },
+    "8003468": {
+        "deprecated": false,
+        "Dev_Desc": "랭킹 / 내 순위",
+        "id": 8003468,
+        "alias": "UI.Ranking.MyInfo",
+        "text": "내 순위"
+    },
+    "8003469": {
+        "deprecated": false,
+        "Dev_Desc": "랭킹 / 내 문파",
+        "id": 8003469,
+        "alias": "UI.Ranking.MyGuildInfo",
+        "text": "내 문파"
+    },
+    "8003470": {
+        "deprecated": false,
+        "Dev_Desc": "랭킹 / 컬럼 / 현재 순위",
+        "id": 8003470,
+        "alias": "UI.Ranking.Column.CurrentRank",
+        "text": "현재 순위"
+    },
+    "8003471": {
+        "deprecated": false,
+        "Dev_Desc": "랭킹 / 컬럼 / 문파 레벨",
+        "id": 8003471,
+        "alias": "UI.Ranking.Column.GuildLevel",
+        "text": "문파 레벨"
+    },
+    "8003472": {
+        "deprecated": false,
+        "Dev_Desc": "랭킹 / 항목 없음",
+        "id": 8003472,
+        "alias": "UI.Ranking.NoRankInfo",
+        "text": "순위 정보가 없습니다."
+    },
+    "8003473": {
+        "deprecated": false,
+        "Dev_Desc": "랭킹 / 문파 랭킹 혜택 정보 버튼",
+        "id": 8003473,
+        "alias": "UI.Ranking.GuildEXPRankRewardInfoButton",
+        "text": "문파 순위 혜택"
+    },
+    "8003474": {
+        "deprecated": false,
+        "Dev_Desc": "랭킹 / 문파 랭킹 혜택 정보 팝업 / 타이틀",
+        "id": 8003474,
+        "alias": "UI.Ranking.GuildEXPRankRewardInfoPopup.Title",
+        "text": "문파 순위 혜택"
+    },
+    "8003475": {
+        "deprecated": false,
+        "Dev_Desc": "이벤트 제작 레시피 탭 / 블랙프라이데이",
+        "id": 8003475,
+        "alias": "UI.Craft.LeftSubTabName.Event.BlackTicket",
+        "text": "블랙 프라이데이 티켓"
     }
 }

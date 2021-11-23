@@ -5790,9 +5790,10 @@
     },
     "99000869": {
         "deprecated": false,
-        "Dev_Desc": "일반 검 무공서 (각인)",
+        "Dev_Desc": "반격찌르기 / 일반 검 무공서 (각인)",
         "id": 99000869,
-        "alias": "Contents.Item.Desc.9100114"
+        "alias": "Contents.Item.Desc.9100114",
+        "text": "막기를 해제하고, 긴 사거리의 찌르기 공격을 합니다.\n소울 패링 성공 시 사용할 수 있습니다."
     },
     "99000870": {
         "deprecated": false,
@@ -5854,9 +5855,10 @@
     },
     "99000879": {
         "deprecated": false,
-        "Dev_Desc": "상급 검 무공서 (각인)",
+        "Dev_Desc": "발도 / 상급 검 무공서 (각인)",
         "id": 99000879,
-        "alias": "Contents.Item.Desc.9100124"
+        "alias": "Contents.Item.Desc.9100124",
+        "text": "빠른 연속 공격이 가능한 발도 공격을 합니다.\n\"기절\", \"공중\" 상태인 대상에게 사용합니다."
     },
     "99000880": {
         "deprecated": false,
@@ -7065,9 +7067,10 @@
     },
     "99001073": {
         "deprecated": false,
-        "Dev_Desc": "일반 도끼 무공서 (각인)",
+        "Dev_Desc": "충격 / 일반 도끼 무공서 (각인)",
         "id": 99001073,
-        "alias": "Contents.Item.Desc.9100314"
+        "alias": "Contents.Item.Desc.9100314",
+        "text": "철벽을 해제하고, 도끼를 내려찍어 대상의 위치에 충격파를 발생시켜 공격합니다.\n소울 패링 성공 시 사용할 수 있습니다."
     },
     "99001074": {
         "deprecated": false,
@@ -7129,9 +7132,10 @@
     },
     "99001083": {
         "deprecated": false,
-        "Dev_Desc": "상급 도끼 무공서 (각인)",
+        "Dev_Desc": "진노 / 상급 도끼 무공서 (각인)",
         "id": 99001083,
-        "alias": "Contents.Item.Desc.9100324"
+        "alias": "Contents.Item.Desc.9100324",
+        "text": "도끼를 교차해 휘두르며 빠른 연속 공격을 합니다.\n\"기절\", \"공중\" 상태인 대상에게 사용합니다."
     },
     "99001084": {
         "deprecated": false,
@@ -7392,7 +7396,8 @@
         "deprecated": false,
         "Dev_Desc": "일반 불꽃기공패 무공서 (각인)",
         "id": 99001124,
-        "alias": "Contents.Item.Desc.9100414"
+        "alias": "Contents.Item.Desc.9100414",
+        "text": "결빙공을 해제하며 회전하는 얼음 칼날을 발사합니다.\n공격 버튼을 수동으로 눌러 사용 가능합니다."
     },
     "99001125": {
         "deprecated": false,
@@ -7463,7 +7468,8 @@
         "deprecated": false,
         "Dev_Desc": "상급 불꽃기공패 무공서 (각인)",
         "id": 99001135,
-        "alias": "Contents.Item.Desc.9100425"
+        "alias": "Contents.Item.Desc.9100425",
+        "text": "불과 얼음 기탄을 마구 연사합니다.\n공격 버튼을 수동으로 눌러 사용 가능합니다."
     },
     "99001136": {
         "deprecated": false,
@@ -19914,5 +19920,404 @@
         "id": 99003113,
         "alias": "Contents.Item.Desc.9900832",
         "text": "使用时，可以按照设定的概率获得一个守护灵。\\n（等级：普通~英雄）"
+    },
+    "99003114": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 선물 교환서",
+        "id": 99003114,
+        "alias": "Contents.Event.Item.Desc.9900919",
+        "text": "您可以使用亚鲁的礼物交换来制作以下物品之一。\\n\\n- 亚鲁的礼物：高级\\n- 亚鲁的礼物：开始"
+    },
+    "99003115": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 선물: 심화",
+        "id": 99003115,
+        "alias": "Contents.Event.Item.Desc.9900919",
+        "text": "使用后可以获得以下物品。\\n\\n- 300000 非词典\\n- 2 安抚奶嘴选择箱（印记）\\n- 2 征服者的灵魂石选择箱（印记）\\n- 深渊召唤卷轴的闪耀之魂（11 次） "
+    },
+    "99003116": {
+        "deprecated": false,
+        "Dev_Desc": "+2 노리개 선택 상자(각인)",
+        "id": 99003116,
+        "alias": "Contents.Event.Item.Desc.9900920",
+        "text": "使用时可以获得以下物品之一。\\n\\n- 2 火焰安抚奶嘴（印记）\\n- 2 生命安抚奶嘴（印记）\\n- 2 风之抚慰器（印记）\\n- 2 波浪安抚奶嘴（印记）"
+    },
+    "99003117": {
+        "deprecated": false,
+        "Dev_Desc": "+2 정복자의 영혼석 선택 상자(각인)",
+        "id": 99003117,
+        "alias": "Contents.Event.Item.Desc.9900921",
+        "text": "使用时可以获得以下物品之一。\\n\\n- 2 征服者的灵魂石：火（印记）\\n- 2 征服者的灵魂石：水（印记）\\n- 2 征服者的灵魂石：脖子（印记）\\n- "
+    },
+    "99003118": {
+        "deprecated": false,
+        "Dev_Desc": "심연의 빛나는 소울 소환서(11회)(이벤트)",
+        "id": 99003118,
+        "alias": "Contents.Event.Item.Desc.9900922",
+        "text": "使用时，可以按照设定的概率获得灵魂。\\n（等级：普通~英雄）"
+    },
+    "99003119": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 선물: 시작",
+        "id": 99003119,
+        "alias": "Contents.Event.Item.Desc.9900923",
+        "text": "使用后可以获得以下道具\\n\\n- 7 稀有级武器选择箱(活动)\\n- 4 稀有级护甲箱(活动)\\n- 稀有武器制作秘籍(活动)\\n- 3 雷霆怒吼\\n"
+    },
+    "99003120": {
+        "deprecated": false,
+        "Dev_Desc": "+7 희귀 등급 무기 선택 상자(이벤트)",
+        "id": 99003120,
+        "alias": "Contents.Event.Item.Desc.9900924",
+        "text": "使用后可以获得稀有等级的刻印兵器。"
+    },
+    "99003121": {
+        "deprecated": false,
+        "Dev_Desc": "+4 희귀 등급 방어구 상자(이벤트)",
+        "id": 99003121,
+        "alias": "Contents.Event.Item.Desc.9900925",
+        "text": "使用后可以获得稀有级刻印盔甲。"
+    },
+    "99003122": {
+        "deprecated": false,
+        "Dev_Desc": "희귀 무기 제작 비법서(이벤트)",
+        "id": 99003122,
+        "alias": "Contents.Event.Item.Desc.9900926",
+        "text": "包含制作稀有级武器的秘诀。"
+    },
+    "99003123": {
+        "deprecated": false,
+        "Dev_Desc": "천상의 용봉탕(이벤트)",
+        "id": 99003123,
+        "alias": "Contents.Event.Item.Desc.9900927",
+        "text": "使用时，获得更多的经验启示。\\n30分钟经验增加100%。\\n只能使用到39级或以下。"
+    },
+    "99003124": {
+        "deprecated": false,
+        "Dev_Desc": "희귀 수호령 소환서(1회)(이벤트)",
+        "id": 99003124,
+        "alias": "Contents.Event.Item.Desc.9900928",
+        "text": "使用时，可以按照设定的概率获得一个守护灵。\\n（稀有）"
+    },
+    "99003125": {
+        "deprecated": false,
+        "Dev_Desc": "백일 패스권",
+        "id": 99003125,
+        "alias": "Contents.Item.Desc.9202074",
+        "text": "此物品可激活百日通行证额外奖励。\\n\\n* 注意\\n赛季结束后，您将无法再进行通行证任务。"
+    },
+    "99003126": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 선물",
+        "id": 99003126,
+        "alias": "Contents.Event.Item.Desc.9900929",
+        "text": "使用后可以获得以下道具。\\n\\n- 光辉雅鲁的灵魂召唤卷轴（11次）（活动）"
+    },
+    "99003127": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 영웅 소울 소환서(1회)(이벤트)",
+        "id": 99003127,
+        "alias": "Contents.Event.Item.Desc.9900930",
+        "text": "使用时，可以按照设定的概率获得灵魂。\\n（等级：英雄）"
+    },
+    "99003128": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 빛나는 소울 소환서(11회) (이벤트)",
+        "id": 99003128,
+        "alias": "Contents.Event.Item.Desc.9900931",
+        "text": "使用时，可以按照设定的概率获得灵魂。\\n（等级：普通~英雄）"
+    },
+    "99003129": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 빛나는 수호령 소환서(11회) (이벤트)",
+        "id": 99003129,
+        "alias": "Contents.Event.Item.Desc.9900932",
+        "text": "使用时，可以按照设定的概率获得一个守护灵。\\n（等级：普通~英雄）"
+    },
+    "99003130": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 희귀 의상 주머니(이벤트)",
+        "id": 99003130,
+        "alias": "Contents.Event.Item.Desc.9900933",
+        "text": "使用时，可以按照设定的概率获得1套。\\n（等级：高级~稀有）"
+    },
+    "99003131": {
+        "deprecated": false,
+        "Dev_Desc": "찬란한 야루의 소울 소환서(11회)(이벤트)",
+        "id": 99003131,
+        "alias": "Contents.Event.Item.Desc.9900934",
+        "text": "使用时可以按照设定的概率获得灵魂。\\n（稀有~英雄）"
+    },
+    "99003132": {
+        "deprecated": false,
+        "Dev_Desc": "찬란한 야루의 소울 소환서(5회)(이벤트)",
+        "id": 99003132,
+        "alias": "Contents.Event.Item.Desc.9900935",
+        "text": "使用时可以按照设定的概率获得灵魂。\\n（稀有~英雄）"
+    },
+    "99003133": {
+        "deprecated": false,
+        "Dev_Desc": "찬란한 야루의 소울 소환서(3회)(이벤트)",
+        "id": 99003133,
+        "alias": "Contents.Event.Item.Desc.9900936",
+        "text": "使用时可以按照设定的概率获得灵魂。\\n（稀有~英雄）"
+    },
+    "99003134": {
+        "deprecated": false,
+        "Dev_Desc": "찬란한 야루의 소울 소환서(3회)(이벤트)",
+        "id": 99003134,
+        "alias": "Contents.Event.Item.Desc.9900937",
+        "text": "使用时可以按照设定的概率获得灵魂。\\n（稀有~英雄）"
+    },
+    "99003135": {
+        "deprecated": false,
+        "Dev_Desc": "찬란한 야루의 소울 소환서(2회)(이벤트)",
+        "id": 99003135,
+        "alias": "Contents.Event.Item.Desc.9900938",
+        "text": "使用时可以按照设定的概率获得灵魂。\\n（稀有~英雄）"
+    },
+    "99003136": {
+        "deprecated": false,
+        "Dev_Desc": "찬란한 야루의 소울 소환서(1회)(이벤트)",
+        "id": 99003136,
+        "alias": "Contents.Event.Item.Desc.9900939",
+        "text": "使用时可以按照设定的概率获得灵魂。\\n（稀有~英雄）"
+    },
+    "99003137": {
+        "deprecated": false,
+        "Dev_Desc": "영롱한 야루의 소울 소환서(1회)(이벤트)",
+        "id": 99003137,
+        "alias": "Contents.Event.Item.Desc.9900940",
+        "text": "使用时可以按照设定的概率获得灵魂。\\n（等级：英雄~传奇）"
+    },
+    "99003138": {
+        "deprecated": false,
+        "Dev_Desc": "찬란한 야루의 소울 소환서(1회)(이벤트)",
+        "id": 99003138,
+        "alias": "Contents.Event.Item.Desc.9900941",
+        "text": "使用时可以按照设定的概率获得灵魂。\\n（稀有~英雄）"
+    },
+    "99003139": {
+        "deprecated": false,
+        "Dev_Desc": "영롱한 야루의 수호령 소환서(1회)",
+        "id": 99003139,
+        "alias": "Contents.Event.Item.Desc.9900942",
+        "text": "使用时，可以按照设定的概率获得一个守护灵。\\n（等级：英雄~传奇）"
+    },
+    "99003140": {
+        "deprecated": false,
+        "Dev_Desc": "찬란한 야루의 수호령 소환서(1회)",
+        "id": 99003140,
+        "alias": "Contents.Event.Item.Desc.9900943",
+        "text": "使用时，可以按照设定的概率获得一个守护灵。\\n（稀有~英雄）"
+    },
+    "99003141": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 전설 확정 의상 주머니(이벤트)",
+        "id": 99003141,
+        "alias": "Contents.Event.Item.Desc.9900944",
+        "text": "使用时，可以按照设定的概率获得1套装备。\\n（等级：传奇）"
+    },
+    "99003142": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 전설 도전 의상 주머니(이벤트)",
+        "id": 99003142,
+        "alias": "Contents.Event.Item.Desc.9900945",
+        "text": "使用时，可以按照设定的概率获得1套装备。\\n（等级：英雄~传奇）"
+    },
+    "99003143": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 영웅 확정 의상 주머니(이벤트)",
+        "id": 99003143,
+        "alias": "Contents.Event.Item.Desc.9900946",
+        "text": "使用时，可以按照设定的概率获得1套装备。\\n（等级：英雄）"
+    },
+    "99003144": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 영웅 도전 의상 주머니(이벤트)",
+        "id": 99003144,
+        "alias": "Contents.Event.Item.Desc.9900947",
+        "text": "使用时，可以按照设定的概率获得1套。\\n（稀有~英雄）"
+    },
+    "99003145": {
+        "deprecated": false,
+        "Dev_Desc": "심연의 빛나는 소울 소환서(11회)",
+        "id": 99003145,
+        "alias": "Contents.Event.Item.Desc.9900948",
+        "text": "使用时，可以按照设定的概率获得灵魂。\\n（等级：普通~英雄）"
+    },
+    "99003146": {
+        "deprecated": false,
+        "Dev_Desc": "심연의 빛나는 수호령 소환서(11회)",
+        "id": 99003146,
+        "alias": "Contents.Event.Item.Desc.9900949",
+        "text": "使用时，可以按照设定的概率获得一个守护灵。\\n（等级：普通~英雄）"
+    },
+    "99003147": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 소울 파편(11회)",
+        "id": 99003147,
+        "alias": "Contents.Event.Item.Desc.9900950",
+        "text": "使用时，可以根据设定的概率获得1到3个灵魂碎片。<br/>（等级：普通~英雄）"
+    },
+    "99003148": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 소울 소환서(11회)",
+        "id": 99003148,
+        "alias": "Contents.Event.Item.Desc.9900951",
+        "text": "使用时，可以按照设定的概率获得灵魂。\\n（等级：普通~英雄）"
+    },
+    "99003149": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 수호령 소환서(11회)",
+        "id": 99003149,
+        "alias": "Contents.Event.Item.Desc.9900952",
+        "text": "使用时，可以按照设定的概率获得一个守护灵。\\n（等级：普通~英雄）"
+    },
+    "99003150": {
+        "deprecated": false,
+        "Dev_Desc": "영웅 소울 확정 소환서",
+        "id": 99003150,
+        "alias": "Contents.Event.Item.Desc.9900953",
+        "text": "使用时，可以按照设定的概率获得灵魂。<br/>（等级：英雄）"
+    },
+    "99003151": {
+        "deprecated": false,
+        "Dev_Desc": "영웅 소울 파편(3개) 선택 꾸러미",
+        "id": 99003151,
+        "alias": "Contents.Item.Desc.9900954",
+        "text": "使用时选择以下灵魂碎片之一即可获得。\\n(等级-英雄)\\n\\n-宝宝碎片3\\n-比留哈碎片3\\n-弗隆佩龙碎片3\\n-月光碎片3"
+    },
+    "99003152": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 축복: 소울 Ⅰ-찬란한 야루의 소울 소환서(11회)(이벤트)",
+        "id": 99003152,
+        "alias": "Contents.Item.Desc.9900955",
+        "text": "使用后可以获得以下道具。\\n\\n- 光辉雅鲁的灵魂召唤卷轴（11次）（活动）"
+    },
+    "99003153": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 축복: 소울 Ⅰ-찬란한 야루의 소울 소환서(5회)(이벤트)",
+        "id": 99003153,
+        "alias": "Contents.Item.Desc.9900956",
+        "text": "使用后可以获得以下道具。\\n\\n- 光辉雅鲁的灵魂召唤卷轴（5次）（活动）"
+    },
+    "99003154": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 축복: 소울 Ⅰ-찬란한 야루의 소울 소환서(3회)(이벤트)",
+        "id": 99003154,
+        "alias": "Contents.Item.Desc.9900957",
+        "text": "使用后可以获得以下道具。\\n\\n- 光辉雅鲁的灵魂召唤卷轴（3次）（活动）"
+    },
+    "99003155": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 축복: 소울 Ⅰ-찬란한 야루의 소울 소환서(3회)(이벤트)",
+        "id": 99003155,
+        "alias": "Contents.Item.Desc.9900958",
+        "text": "使用后可以获得以下道具。\\n\\n- 光辉雅鲁的灵魂召唤卷轴（3次）（活动）"
+    },
+    "99003156": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 축복: 소울 Ⅰ-찬란한 야루의 소울 소환서(2회)(이벤트)",
+        "id": 99003156,
+        "alias": "Contents.Item.Desc.9900959",
+        "text": "使用后可以获得以下道具。\\n\\n- 光辉雅鲁的灵魂召唤卷轴（2次）（活动）"
+    },
+    "99003157": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 축복: 소울 Ⅰ-찬란한 야루의 소울 소환서(1회)(이벤트)",
+        "id": 99003157,
+        "alias": "Contents.Item.Desc.9900960",
+        "text": "使用后可以获得以下物品。\\n\\n- 光辉雅鲁的灵魂召唤卷轴（1次）（活动）"
+    },
+    "99003158": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 축복: 소울 Ⅱ - 영롱한 야루의 소울 소환서(1회)(이벤트)",
+        "id": 99003158,
+        "alias": "Contents.Item.Desc.9900961",
+        "text": "使用后可以获得以下物品。\\n\\n- 光辉雅鲁的灵魂召唤卷轴（1次）（活动）"
+    },
+    "99003159": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 축복: 소울 Ⅱ - 찬란한 야루의 소울 소환서(1회)(이벤트)",
+        "id": 99003159,
+        "alias": "Contents.Item.Desc.9900962",
+        "text": "使用后可以获得以下物品。\\n\\n- 光辉雅鲁的灵魂召唤卷轴（1次）（活动）"
+    },
+    "99003160": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 축복: 수호령 - 영롱한 야루의 수호령 소환서(1회)",
+        "id": 99003160,
+        "alias": "Contents.Item.Desc.9900963",
+        "text": "使用后可以获得以下道具。\\n\\n- 光辉雅鲁的守护灵召唤卷轴（1次）（活动）"
+    },
+    "99003161": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 축복: 수호령 - 찬란한 야루의 수호령 소환서(1회)",
+        "id": 99003161,
+        "alias": "Contents.Item.Desc.9900964",
+        "text": "使用后可以获得以下道具。\\n\\n- 光辉雅鲁的守护灵召唤卷轴（1次）（活动）"
+    },
+    "99003162": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 축복: 의상 - 야루의 전설 확정 의상 주머니(이벤트)",
+        "id": 99003162,
+        "alias": "Contents.Item.Desc.9900965",
+        "text": "使用后可以获得以下道具。\\n\\n- 亚鲁传奇确认服装包（活动）"
+    },
+    "99003163": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 축복: 의상 - 야루의 전설 도전 의상 주머니(이벤트)",
+        "id": 99003163,
+        "alias": "Contents.Item.Desc.9900966",
+        "text": "使用后可以获得以下道具。\\n\\n- 亚鲁传奇挑战服装袋（活动）"
+    },
+    "99003164": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 축복: 의상 - 야루의 영웅 확정 의상 주머니(이벤트)",
+        "id": 99003164,
+        "alias": "Contents.Item.Desc.9900967",
+        "text": "使用后可以获得以下道具。\\n\\n- 亚鲁的英雄确认服装包（活动）"
+    },
+    "99003165": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 축복: 의상 - 야루의 영웅 도전 의상 주머니(이벤트)",
+        "id": 99003165,
+        "alias": "Contents.Item.Desc.9900968",
+        "text": "使用后可以获得以下道具。\\n\\n- 亚鲁的英雄挑战服装袋（活动）"
+    },
+    "99003166": {
+        "deprecated": false,
+        "Dev_Desc": "희귀 소울 선택 상자(각인)",
+        "id": 99003166,
+        "alias": "Contents.Item.Desc.9900969",
+        "text": "使用时，可以获得以下稀有灵魂召唤卷轴之一。\\n\\n-丰白门争斗者的灵魂召唤卷轴（1次）（刻字）\\n-丰白门游侠灵魂召唤卷轴（1次）（刻字）"
+    },
+    "99003167": {
+        "deprecated": false,
+        "Dev_Desc": "심연의 빛나는 소울 소환서(11회) 3개",
+        "id": 99003167,
+        "alias": "Contents.Item.Desc.9900970",
+        "text": "使用时可以从深渊中获得3张光辉灵魂召唤卷轴（11次）。"
+    },
+    "99003168": {
+        "deprecated": false,
+        "Dev_Desc": "블랙 프라이데이 티켓",
+        "id": 99003168,
+        "alias": "Contents.Item.Desc.9900971",
+        "text": "一种用于制作的特殊材料。"
+    },
+    "99003169": {
+        "deprecated": false,
+        "Dev_Desc": "비결 상자(각인)",
+        "id": 99003169,
+        "alias": "Contents.Item.Desc.9900972",
+        "text": "使用后可以获得以下物品。\\n\\n- 100个秘密"
+    },
+    "99003170": {
+        "deprecated": false,
+        "Dev_Desc": "희귀 수호령 확정 소환서(1회)",
+        "id": 99003170,
+        "alias": "Contents.Item.Desc.9900973",
+        "text": "使用时，可以按照设定的概率获得一个守护灵。\\n（稀有）"
     }
 }
