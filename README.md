@@ -33,8 +33,7 @@ BTC - bc1qpqnyfvz36u904pw60tv5ky8da38aq0wy7l7rk6
 * For Chinese Localization requires B2-WindowsNoEditor_00004.pak file;
 * In LocalOption.json find "language":1" and change it to "language":2" for English Language or "language":3" for Chinese Language;
 * And that's it you have english language!;
-
-## Source-Install
+## OR Source-Install
 * ONLY PC
 * Download Source code (zip) [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/releases/tag/1.1.0)
 * You need to download the source code and unpack it
