@@ -5736,14 +5736,14 @@
         "Dev_Desc": "채팅 시스템 메시지 / 적 로긴",
         "id": 9000881,
         "alias": "SysM.ChatSysM.AlertLoggedIn",
-        "text": "<<arg p=[1:string]/>>边界</> <<arg p=[2:string]/>><arg p=[3:string]/></><<arg p= [1:string]/>> 已登录.</>"
+        "text": "<<arg p=[1:string]/>>边界</> <<arg p=[2:string]/>><arg p=[3:string]/></><<arg p=[1:string]/>> 已登录.</>"
     },
     "9000882": {
         "deprecated": false,
         "Dev_Desc": "채팅 시스템 메시지 / 적 로그아웃",
         "id": 9000882,
         "alias": "SysM.ChatSysM.AlertLoggedOut",
-        "text": "<<arg p=[1:string]/>>边界</> <<arg p=[2:string]/>><arg p=[3:string]/></><<arg p= [1:string]/>> 已断开连接.</>"
+        "text": "<<arg p=[1:string]/>>边界</> <<arg p=[2:string]/>><arg p=[3:string]/></><<arg p=[1:string]/>> 已断开连接.</>"
     },
     "9000883": {
         "deprecated": false,
@@ -7261,7 +7261,7 @@
         "Dev_Desc": "브로드캐스팅 / 문파 정보 / 적대",
         "id": 9001099,
         "alias": "SysM.BroadCasting.GuildRelation.Hostile",
-        "text": "敌对派系<<arg p=[2:string]/>>[<arg p=[1:string]/>]</>"
+        "text": "敌对派系[<arg p=[1:string]/>]"
     },
     "9001100": {
         "deprecated": false,

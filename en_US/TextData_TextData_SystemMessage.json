@@ -7261,7 +7261,7 @@
         "Dev_Desc": "브로드캐스팅 / 문파 정보 / 적대",
         "id": 9001099,
         "alias": "SysM.BroadCasting.GuildRelation.Hostile",
-        "text": "Hostile factions <<arg p=[2:string]/>>[<arg p=[1:string]/>]</>"
+        "text": "Hostile factions [<arg p=[1:string]/>]"
     },
     "9001100": {
         "deprecated": false,
