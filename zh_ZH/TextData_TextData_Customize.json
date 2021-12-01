@@ -4,7 +4,7 @@
         "Dev_Desc": "캐릭터 커스터마이징_상세 설정 창_항목 이름",
         "id": 20000,
         "alias": "UI.Customize.Parts.FaceType",
-        "text": "脸型"
+        "text": "脸部样式"
     },
     "20001": {
         "deprecated": false,
@@ -25,28 +25,28 @@
         "Dev_Desc": "캐릭터 커스터마이징_상세 설정 창_항목 이름",
         "id": 20003,
         "alias": "UI.Customize.Parts.HeadWidth",
-        "text": "脸宽"
+        "text": "脸部宽度"
     },
     "20004": {
         "deprecated": false,
         "Dev_Desc": "캐릭터 커스터마이징_상세 설정 창_항목 이름",
         "id": 20004,
         "alias": "UI.Customize.Parts.CheekWidth",
-        "text": "宽幅"
+        "text": "颧骨宽度"
     },
     "20005": {
         "deprecated": false,
         "Dev_Desc": "캐릭터 커스터마이징_상세 설정 창_항목 이름",
         "id": 20005,
         "alias": "UI.Customize.Parts.CheekJowls",
-        "text": "腮宽"
+        "text": "脸颊宽度"
     },
     "20006": {
         "deprecated": false,
         "Dev_Desc": "캐릭터 커스터마이징_상세 설정 창_항목 이름",
         "id": 20006,
         "alias": "UI.Customize.Parts.CheekHeight",
-        "text": "宽幅"
+        "text": "颧骨高度"
     },
     "20007": {
         "deprecated": false,
@@ -60,7 +60,7 @@
         "Dev_Desc": "캐릭터 커스터마이징_상세 설정 창_항목 이름",
         "id": 20008,
         "alias": "UI.Customize.Parts.ChinWidth",
-        "text": "下巴颏宽"
+        "text": "下巴尖度"
     },
     "20009": {
         "deprecated": false,
@@ -81,21 +81,21 @@
         "Dev_Desc": "캐릭터 커스터마이징_상세 설정 창_항목 이름",
         "id": 20011,
         "alias": "UI.Customize.Parts.JawWidth",
-        "text": "下巴宽"
+        "text": "下巴宽度"
     },
     "20012": {
         "deprecated": false,
         "Dev_Desc": "캐릭터 커스터마이징_상세 설정 창_항목 이름",
         "id": 20012,
         "alias": "UI.Customize.Parts.JawHeight",
-        "text": "下巴的高度"
+        "text": "下巴高度"
     },
     "20013": {
         "deprecated": false,
         "Dev_Desc": "캐릭터 커스터마이징_상세 설정 창_항목 이름",
         "id": 20013,
         "alias": "UI.Customize.Parts.EyebrowFrame",
-        "text": "眉形"
+        "text": "眉毛样式"
     },
     "20014": {
         "deprecated": false,
@@ -123,7 +123,7 @@
         "Dev_Desc": "캐릭터 커스터마이징_상세 설정 창_항목 이름",
         "id": 20017,
         "alias": "UI.Customize.Parts.EyebrowHeight",
-        "text": "眉高"
+        "text": "眉毛高度"
     },
     "20018": {
         "deprecated": false,
@@ -144,42 +144,42 @@
         "Dev_Desc": "캐릭터 커스터마이징_상세 설정 창_항목 이름",
         "id": 20020,
         "alias": "UI.Customize.Parts.EyeWidth",
-        "text": "眼界"
+        "text": "眼睛宽度"
     },
     "20021": {
         "deprecated": false,
         "Dev_Desc": "캐릭터 커스터마이징_상세 설정 창_항목 이름",
         "id": 20021,
         "alias": "UI.Customize.Parts.EyeHeight",
-        "text": "眼高"
+        "text": "眼睛高度"
     },
     "20022": {
         "deprecated": false,
         "Dev_Desc": "캐릭터 커스터마이징_상세 설정 창_항목 이름",
         "id": 20022,
         "alias": "UI.Customize.Parts.EyeDistance",
-        "text": "眼宽"
+        "text": "两眼距离"
     },
     "20023": {
         "deprecated": false,
         "Dev_Desc": "캐릭터 커스터마이징_상세 설정 창_항목 이름",
         "id": 20023,
         "alias": "UI.Customize.Parts.EyeInner",
-        "text": "眼角"
+        "text": "内眼角"
     },
     "20024": {
         "deprecated": false,
         "Dev_Desc": "캐릭터 커스터마이징_상세 설정 창_항목 이름",
         "id": 20024,
         "alias": "UI.Customize.Parts.EyeSharp",
-        "text": "眼形"
+        "text": "眼睛形状"
     },
     "20025": {
         "deprecated": false,
         "Dev_Desc": "캐릭터 커스터마이징_상세 설정 창_항목 이름",
         "id": 20025,
         "alias": "UI.Customize.Parts.EyeOutside",
-        "text": "眼尾"
+        "text": "外眼角"
     },
     "20026": {
         "deprecated": false,
@@ -193,14 +193,14 @@
         "Dev_Desc": "캐릭터 커스터마이징_상세 설정 창_항목 이름",
         "id": 20027,
         "alias": "UI.Customize.Parts.IrisType",
-        "text": "虹彩"
+        "text": "虹膜样式"
     },
     "20028": {
         "deprecated": false,
         "Dev_Desc": "캐릭터 커스터마이징_상세 설정 창_항목 이름",
         "id": 20028,
         "alias": "UI.Customize.Parts.IrisColor",
-        "text": "虹彩颜色"
+        "text": "虹膜颜色"
     },
     "20029": {
         "deprecated": false,
@@ -221,14 +221,14 @@
         "Dev_Desc": "캐릭터 커스터마이징_상세 설정 창_항목 이름",
         "id": 20031,
         "alias": "UI.Customize.Parts.IrisHeight",
-        "text": "虹膜上下位置"
+        "text": "虹膜垂直位置"
     },
     "20032": {
         "deprecated": false,
         "Dev_Desc": "캐릭터 커스터마이징_상세 설정 창_항목 이름",
         "id": 20032,
         "alias": "UI.Customize.Parts.IrisDistance",
-        "text": "虹膜左右位置"
+        "text": "虹膜水平位置"
     },
     "20033": {
         "deprecated": false,
@@ -242,7 +242,7 @@
         "Dev_Desc": "캐릭터 커스터마이징_상세 설정 창_항목 이름",
         "id": 20034,
         "alias": "UI.Customize.Parts.NoseWidth",
-        "text": "鼻子宽"
+        "text": "鼻子宽度"
     },
     "20035": {
         "deprecated": false,
@@ -263,28 +263,28 @@
         "Dev_Desc": "캐릭터 커스터마이징_상세 설정 창_항목 이름",
         "id": 20037,
         "alias": "UI.Customize.Parts.NoseLength",
-        "text": "鼻子的高度"
+        "text": "鼻子高度"
     },
     "20038": {
         "deprecated": false,
         "Dev_Desc": "캐릭터 커스터마이징_상세 설정 창_항목 이름",
         "id": 20038,
         "alias": "UI.Customize.Parts.NoseShape",
-        "text": "鼻梁"
+        "text": "鼻梁样式"
     },
     "20039": {
         "deprecated": false,
         "Dev_Desc": "캐릭터 커스터마이징_상세 설정 창_항목 이름",
         "id": 20039,
         "alias": "UI.Customize.Parts.NoseTip",
-        "text": "鼻尖"
+        "text": "鼻尖样式"
     },
     "20040": {
         "deprecated": false,
         "Dev_Desc": "캐릭터 커스터마이징_상세 설정 창_항목 이름",
         "id": 20040,
         "alias": "UI.Customize.Parts.MouthWidth",
-        "text": "唇宽"
+        "text": "嘴唇宽度"
     },
     "20041": {
         "deprecated": false,
@@ -298,14 +298,14 @@
         "Dev_Desc": "캐릭터 커스터마이징_상세 설정 창_항목 이름",
         "id": 20042,
         "alias": "UI.Customize.Parts.MouthCurve",
-        "text": "唇形"
+        "text": "嘴唇样式"
     },
     "20043": {
         "deprecated": false,
         "Dev_Desc": "캐릭터 커스터마이징_상세 설정 창_항목 이름",
         "id": 20043,
         "alias": "UI.Customize.Parts.MouthCorner",
-        "text": "嘴角"
+        "text": "嘴角样式"
     },
     "20044": {
         "deprecated": false,
@@ -319,14 +319,14 @@
         "Dev_Desc": "캐릭터 커스터마이징_상세 설정 창_항목 이름",
         "id": 20045,
         "alias": "UI.Customize.Parts.LowerLip",
-        "text": "下嘴唇厚度"
+        "text": "下唇厚度"
     },
     "20046": {
         "deprecated": false,
         "Dev_Desc": "캐릭터 커스터마이징_상세 설정 창_항목 이름",
         "id": 20046,
         "alias": "UI.Customize.Parts.MouthDepth",
-        "text": "嘴突出"
+        "text": "嘴巴突出"
     },
     "20047": {
         "deprecated": false,
@@ -368,7 +368,7 @@
         "Dev_Desc": "캐릭터 커스터마이징_상세 설정 창_항목 이름",
         "id": 20052,
         "alias": "UI.Customize.Parts.EyelineFrame",
-        "text": "眉形"
+        "text": "眼线样式"
     },
     "20053": {
         "deprecated": false,
@@ -382,14 +382,14 @@
         "Dev_Desc": "캐릭터 커스터마이징_상세 설정 창_항목 이름",
         "id": 20054,
         "alias": "UI.Customize.Parts.EyelineAlpha",
-        "text": "眼线液浓度"
+        "text": "眼线浓度"
     },
     "20055": {
         "deprecated": false,
         "Dev_Desc": "캐릭터 커스터마이징_상세 설정 창_항목 이름",
         "id": 20055,
         "alias": "UI.Customize.Parts.EyeShadowFrame",
-        "text": "眼影"
+        "text": "眼影样式"
     },
     "20056": {
         "deprecated": false,
@@ -410,28 +410,28 @@
         "Dev_Desc": "캐릭터 커스터마이징_상세 설정 창_항목 이름",
         "id": 20058,
         "alias": "UI.Customize.Parts.BlusherFrame",
-        "text": "腮红"
+        "text": "胭脂样式"
     },
     "20059": {
         "deprecated": false,
         "Dev_Desc": "캐릭터 커스터마이징_상세 설정 창_항목 이름",
         "id": 20059,
         "alias": "UI.Customize.Parts.BlusherColor",
-        "text": "胭脂色"
+        "text": "胭脂颜色"
     },
     "20060": {
         "deprecated": false,
         "Dev_Desc": "캐릭터 커스터마이징_상세 설정 창_항목 이름",
         "id": 20060,
         "alias": "UI.Customize.Parts.BlusherAlpha",
-        "text": "腮红浓度"
+        "text": "胭脂浓度"
     },
     "20061": {
         "deprecated": false,
         "Dev_Desc": "캐릭터 커스터마이징_상세 설정 창_항목 이름",
         "id": 20061,
         "alias": "UI.Customize.Parts.LipstickFrame",
-        "text": "口红"
+        "text": "口红样式"
     },
     "20062": {
         "deprecated": false,
@@ -452,7 +452,7 @@
         "Dev_Desc": "캐릭터 커스터마이징_상세 설정 창_항목 이름",
         "id": 20064,
         "alias": "UI.Customize.Parts.BeardFrame",
-        "text": "须状"
+        "text": "胡须样式"
     },
     "20065": {
         "deprecated": false,
@@ -473,35 +473,35 @@
         "Dev_Desc": "캐릭터 커스터마이징_상세 설정 창_항목 이름",
         "id": 20067,
         "alias": "UI.Customize.Parts.BlemishFrame",
-        "text": "斑痕"
+        "text": "斑点样式"
     },
     "20068": {
         "deprecated": false,
         "Dev_Desc": "캐릭터 커스터마이징_상세 설정 창_항목 이름",
         "id": 20068,
         "alias": "UI.Customize.Parts.BlemishColor",
-        "text": "杂色"
+        "text": "斑点颜色"
     },
     "20069": {
         "deprecated": false,
         "Dev_Desc": "캐릭터 커스터마이징_상세 설정 창_항목 이름",
         "id": 20069,
         "alias": "UI.Customize.Parts.BlemishAlpha",
-        "text": "杂质浓度"
+        "text": "斑点浓度"
     },
     "20070": {
         "deprecated": false,
         "Dev_Desc": "캐릭터 커스터마이징_상세 설정 창_항목 이름",
         "id": 20070,
         "alias": "UI.Customize.Parts.FaceDecalType",
-        "text": "纹样"
+        "text": "脸部装饰"
     },
     "20071": {
         "deprecated": false,
         "Dev_Desc": "캐릭터 커스터마이징_상세 설정 창_항목 이름",
         "id": 20071,
         "alias": "UI.Customize.Parts.LynEarTailType",
-        "text": "耳朵"
+        "text": "耳朵及尾巴"
     },
     "20072": {
         "deprecated": false,
@@ -515,7 +515,7 @@
         "Dev_Desc": "캐릭터 커스터마이징_상세 설정 창_항목 이름",
         "id": 20073,
         "alias": "UI.Customize.Parts.NeckLength",
-        "text": "脖子长"
+        "text": "脖子长度"
     },
     "20074": {
         "deprecated": false,
@@ -529,28 +529,28 @@
         "Dev_Desc": "캐릭터 커스터마이징_상세 설정 창_항목 이름",
         "id": 20075,
         "alias": "UI.Customize.Parts.ChestSize",
-        "text": "上半身大小"
+        "text": "上身大小"
     },
     "20076": {
         "deprecated": false,
         "Dev_Desc": "캐릭터 커스터마이징_상세 설정 창_항목 이름",
         "id": 20076,
         "alias": "UI.Customize.Parts.BreastSize",
-        "text": "胸围"
+        "text": "胸部大小"
     },
     "20077": {
         "deprecated": false,
         "Dev_Desc": "캐릭터 커스터마이징_상세 설정 창_항목 이름",
         "id": 20077,
         "alias": "UI.Customize.Parts.ArmLength",
-        "text": "胳膊的长度"
+        "text": "手臂长度"
     },
     "20078": {
         "deprecated": false,
         "Dev_Desc": "캐릭터 커스터마이징_상세 설정 창_항목 이름",
         "id": 20078,
         "alias": "UI.Customize.Parts.ArmSize",
-        "text": "胳膊粗细"
+        "text": "手臂粗细"
     },
     "20079": {
         "deprecated": false,
@@ -564,56 +564,56 @@
         "Dev_Desc": "캐릭터 커스터마이징_상세 설정 창_항목 이름",
         "id": 20080,
         "alias": "UI.Customize.Parts.WaistSize",
-        "text": "腰围"
+        "text": "腰部粗细"
     },
     "20081": {
         "deprecated": false,
         "Dev_Desc": "캐릭터 커스터마이징_상세 설정 창_항목 이름",
         "id": 20081,
         "alias": "UI.Customize.Parts.PelvisSize",
-        "text": "骨盆粗细"
+        "text": "臀部大小"
     },
     "20082": {
         "deprecated": false,
         "Dev_Desc": "캐릭터 커스터마이징_상세 설정 창_항목 이름",
         "id": 20082,
         "alias": "UI.Customize.Parts.LegLength",
-        "text": "腿长"
+        "text": "腿部长度"
     },
     "20083": {
         "deprecated": false,
         "Dev_Desc": "캐릭터 커스터마이징_상세 설정 창_항목 이름",
         "id": 20083,
         "alias": "UI.Customize.Parts.ThighSize",
-        "text": "大腿粗"
+        "text": "大腿粗细"
     },
     "20084": {
         "deprecated": false,
         "Dev_Desc": "캐릭터 커스터마이징_상세 설정 창_항목 이름",
         "id": 20084,
         "alias": "UI.Customize.Parts.CalfSize",
-        "text": "小腿粗"
+        "text": "小腿粗细"
     },
     "20085": {
         "deprecated": false,
         "Dev_Desc": "커스터마이징_카테고리 이름",
         "id": 20085,
         "alias": "UI.Customize.Part.Face",
-        "text": "脸儿"
+        "text": "脸部"
     },
     "20086": {
         "deprecated": false,
         "Dev_Desc": "커스터마이징_카테고리 이름",
         "id": 20086,
         "alias": "UI.Customize.Part.Eye",
-        "text": "眼睛"
+        "text": "眼"
     },
     "20087": {
         "deprecated": false,
         "Dev_Desc": "커스터마이징_카테고리 이름",
         "id": 20087,
         "alias": "UI.Customize.Part.Nose",
-        "text": "鼻子"
+        "text": "鼻"
     },
     "20088": {
         "deprecated": false,
@@ -634,13 +634,13 @@
         "Dev_Desc": "커스터마이징_카테고리 이름",
         "id": 20090,
         "alias": "UI.Customize.Part.Deco",
-        "text": "装饰"
+        "text": "打扮"
     },
     "20091": {
         "deprecated": false,
         "Dev_Desc": "커스터마이징_카테고리 이름",
         "id": 20091,
         "alias": "UI.Customize.Part.Body",
-        "text": "身躯"
+        "text": "身体"
     }
 }

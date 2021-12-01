@@ -137,21 +137,21 @@
         "Dev_Desc": "강화/승급",
         "id": 9000023,
         "alias": "SysM.Forge.Enchant.SubResourceRegist",
-        "text": "<DNT> Select sub materials first in order to <arg p=[1:string]/>."
+        "text": "Select sub materials first in order to <arg p=[1:string]/>."
     },
     "9000024": {
         "deprecated": false,
         "Dev_Desc": "분해/봉인 해제/획득/강화/승급/조작/진화",
         "id": 9000024,
         "alias": "SysM.TempInventory.Unable.1",
-        "text": "<DNT>"
+        "text": "There are items in storage in the temporary storage box, so <arg p=[1:string]/><eul/> cannot be performed."
     },
     "9000025": {
         "deprecated": false,
         "Dev_Desc": "분해/봉인 해제/획득/강화/승급/조작/진화",
         "id": 9000025,
         "alias": "SysM.Inventory.Full",
-        "text": "<DNT> Unable to <arg p=[1:string]/> as your Bag is full."
+        "text": "Unable to <arg p=[1:string]/> as your Bag is full."
     },
     "9000026": {
         "deprecated": false,
@@ -224,14 +224,14 @@
         "Dev_Desc": "봉인해제/판매/분해",
         "id": 9000037,
         "alias": "SysM.Item.MaxNumCheck",
-        "text": "<DNT> You can <arg p=[1:string]/> up to <arg p=[2:integer]/> items at once."
+        "text": "You can <arg p=[1:string]/> up to <arg p=[2:integer]/> items at once."
     },
     "9000038": {
         "deprecated": false,
         "Dev_Desc": "봉인해제/판매/분해/파괴",
         "id": 9000038,
         "alias": "SysM.Item.SelectItem",
-        "text": "<DNT> Select item to <arg p=[1:string]/>."
+        "text": "Select item to <arg p=[1:string]/>."
     },
     "9000039": {
         "deprecated": false,
@@ -245,21 +245,21 @@
         "Dev_Desc": "봉인해제/판매/분해/파괴",
         "id": 9000040,
         "alias": "SysM.Item.NoSelectItem",
-        "text": "<DNT> No item selected. Select item to <arg p=[1:string]/>."
+        "text": "No item selected. Select item to <arg p=[1:string]/>."
     },
     "9000041": {
         "deprecated": false,
         "Dev_Desc": "봉인해제/판매/분해/파괴",
         "id": 9000041,
         "alias": "SysM.Item.Command",
-        "text": "<DNT> <arg p=[2:string]/> <arg p=[1:integer]/> items."
+        "text": "<arg p=[2:string]/> <arg p=[1:integer]/> items."
     },
     "9000042": {
         "deprecated": false,
         "Dev_Desc": "분해/봉인 해제/획득/강화/승급/조작/진화",
         "id": 9000042,
         "alias": "SysM.TempInventory.Unable.2",
-        "text": "<DNT> Unable to <arg p=[1:string]/> as there are items in the Overflow Inventory."
+        "text": "Unable to <arg p=[1:string]/> as there are items in the Overflow Inventory."
     },
     "9000043": {
         "deprecated": false,
@@ -273,28 +273,28 @@
         "Dev_Desc": "봉인해제/분해/파괴/판매",
         "id": 9000044,
         "alias": "SysM.Item.NotAvailable",
-        "text": "<DNT> The item can't be <arg p=[1:string]/>."
+        "text": "The item can't be <arg p=[1:string]/>."
     },
     "9000045": {
         "deprecated": false,
         "Dev_Desc": "창고/소지품, 이동/구매/분해",
         "id": 9000045,
         "alias": "SysM.Item.NoSpace",
-        "text": "<DNT> Unable to <arg p=[2:string]/> as your <arg p=[1:string]/> is full."
+        "text": "Unable to <arg p=[2:string]/> as your <arg p=[1:string]/> is full."
     },
     "9000046": {
         "deprecated": false,
         "Dev_Desc": "아이템이름, 판매/분해",
         "id": 9000046,
         "alias": "SysM.Item.RegistConfirm",
-        "text": "<DNT> The item can be used.\n<arg p=[2:string]/> <arg p=[1:string]/>?"
+        "text": "The item can be used.\n<arg p=[2:string]/> <arg p=[1:string]/>?"
     },
     "9000047": {
         "deprecated": false,
         "Dev_Desc": "아이템이름, 봉인해제/판매/분해/파괴",
         "id": 9000047,
         "alias": "SysM.Item.CommandConfirm",
-        "text": "<DNT> <arg p=[2:string]/> <arg p=[1:string]/>?"
+        "text": "<arg p=[2:string]/> <arg p=[1:string]/>?"
     },
     "9000048": {
         "deprecated": false,
@@ -307,7 +307,7 @@
         "Dev_Desc": "물품 획득 개수",
         "id": 9000049,
         "alias": "SysM.Item.GetItem",
-        "text": "You obtained <arg p=[1:integer]/> [$pl_ref:1]item[@pl+s]."
+        "text": "You obtained <arg p=[1:integer]/> item[s."
     },
     "9000050": {
         "deprecated": false,
@@ -490,7 +490,7 @@
         "deprecated": false,
         "id": 9000079,
         "alias": "SysM.Death.InstantRevival.2",
-        "text": "<DNT>"
+        "text": "If you use Immediate Resurrection repeatedly within, the cost of immediate resurrection will increase."
     },
     "9000080": {
         "deprecated": false,
@@ -725,7 +725,7 @@
         "Dev_Desc": "아이템 / ",
         "id": 9000118,
         "alias": "SysM.Item.OpenBox.Confirm",
-        "text": "You used <arg p=[1:integer]/> [$pl_ref:1]chest[@pl+s] and obtained <arg p=[2:integer]/> [$pl_ref:2]item[@pl+s]."
+        "text": "You used <arg p=[1:integer]/> chest[s and obtained <arg p=[2:integer]/> item[s."
     },
     "9000119": {
         "deprecated": false,
@@ -773,7 +773,7 @@
         "deprecated": false,
         "id": 9000126,
         "alias": "SysM.ExchangeShop.AcquireItem",
-        "text": "You obtained <arg p=[1:integer]/> [$pl_ref:1]item[@pl+s] for spinning the wheel."
+        "text": "You obtained <arg p=[1:integer]/> item[s for spinning the wheel."
     },
     "9000127": {
         "deprecated": false,
@@ -1501,7 +1501,7 @@
         "Dev_Desc": "아이템 / ",
         "id": 9000247,
         "alias": "SysM.Item.Discompose.Result",
-        "text": "You obtained <arg p=[2:integer]/> [$pl_ref:2]item[@pl+s] by salvaging <arg p=[1:integer]/> [$pl_ref:1]item[@pl+s]."
+        "text": "You obtained <arg p=[2:integer]/> item[s by salvaging <arg p=[1:integer]/> item[s."
     },
     "9000248": {
         "deprecated": false,
@@ -1557,7 +1557,7 @@
         "Dev_Desc": "소지품 / ",
         "id": 9000255,
         "alias": "SysM.Inventory.EquipCompltete.Multiple",
-        "text": "You equipped <arg p=[1:string]/> and <arg p=[2:integer]/> more [$pl_ref:2]item[@pl+s]."
+        "text": "You equipped <arg p=[1:string]/> and <arg p=[2:integer]/> more item[s."
     },
     "9000256": {
         "deprecated": false,
@@ -1578,7 +1578,7 @@
         "Dev_Desc": "아이템 / ",
         "id": 9000258,
         "alias": "SysM.Item.Acquire.Result.Multiple",
-        "text": "You obtained <arg p=[1:string]/> and <arg p=[2:integer]/> more [$pl_ref:2]item[@pl+s]."
+        "text": "You obtained <arg p=[1:string]/> and <arg p=[2:integer]/> more item[s."
     },
     "9000259": {
         "deprecated": false,
@@ -1620,7 +1620,7 @@
         "Dev_Desc": "아이템 / ",
         "id": 9000264,
         "alias": "SysM.Item.GetItem.kindsNum",
-        "text": "<DNT>"
+        "text": "Other props <arg p=[1:integer]/> have been collected."
     },
     "9000265": {
         "deprecated": false,
@@ -3069,7 +3069,7 @@
         "Dev_Desc": "아이템 / 판매 및 구매 / 한정 조건 횟수를 모두 소진한 경우\n판매/매입 중 1개",
         "id": 9000482,
         "alias": "SysM.Item.SelectItem.LackCount",
-        "text": "<DNT>"
+        "text": "The item cannot continue <arg p=[1:string]/>."
     },
     "9000483": {
         "deprecated": false,
@@ -3083,7 +3083,7 @@
         "Dev_Desc": "상점 / 물품 / 판매 / 판매 결과 / 재화 종류 표시 (스택 가능)",
         "id": 9000484,
         "alias": "SysM.Shop.SellItemResult.showCostType.Stackable",
-        "text": "You sold <arg p=[1:integer]/> [$pl_ref:1]item[@pl+s] for <arg p=[2:string]/> x<arg p=[3:integer]/>."
+        "text": "You sold <arg p=[1:integer]/> item[s for <arg p=[2:string]/> x<arg p=[3:integer]/>."
     },
     "9000485": {
         "deprecated": false,

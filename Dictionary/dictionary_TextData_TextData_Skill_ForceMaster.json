@@ -2,58 +2,58 @@
     "60030001": {
         "Dev_Desc": "기공패 디버프 화상_이름",
         "Original_Text": "화상",
-        "English_Text": "burn",
+        "English_Text": "Burn",
         "Russian_Text": "",
-        "Chinese_Text": "火伤"
+        "Chinese_Text": "烧伤"
     },
     "60030002": {
         "Dev_Desc": "기공패 디버프 화상_내용",
         "Original_Text": "지속적인 피해",
-        "English_Text": "Damage over time",
+        "English_Text": "DoT",
         "Russian_Text": "",
-        "Chinese_Text": "持续的伤害"
+        "Chinese_Text": "火焰造成普通持续伤害"
     },
     "60030003": {
         "Dev_Desc": "기공패 디버프 화상_옵션",
         "Original_Text": "유지시간 동안 지속 피해",
-        "English_Text": "Damage over time",
+        "English_Text": "DoT while effective",
         "Russian_Text": "",
-        "Chinese_Text": "维持时间内持续伤害"
+        "Chinese_Text": "火焰造成普通持续伤害"
     },
     "60030004": {
         "Dev_Desc": "기공패 디버프 불씨_이름",
         "Original_Text": "불씨",
-        "English_Text": "embers",
+        "English_Text": "Ember",
         "Russian_Text": "",
-        "Chinese_Text": "火苗"
+        "Chinese_Text": "火种"
     },
     "60030005": {
         "Dev_Desc": "기공패 디버프 불씨_내용",
         "Original_Text": "화상 효과 적용 가능",
-        "English_Text": "Can apply burn effect",
+        "English_Text": "Burn available",
         "Russian_Text": "",
-        "Chinese_Text": "可适用特殊效果"
+        "Chinese_Text": "可施加烧伤效果"
     },
     "60030006": {
         "Dev_Desc": "기공패 디버프 불씨_옵션",
         "Original_Text": "지속 피해를 주는 \"화상\" 효과 적용 가능",
-        "English_Text": "Can apply \"Burn\" effect that deals damage over time",
+        "English_Text": "Burn that deals DoT available",
         "Russian_Text": "",
-        "Chinese_Text": "适用持续伤害的“火伤”效果"
+        "Chinese_Text": "可施加造成持续伤害的“烧伤”效果"
     },
     "60030007": {
         "Dev_Desc": "기공패 디버프 둔화_이름",
         "Original_Text": "둔화",
         "English_Text": "Slow",
         "Russian_Text": "",
-        "Chinese_Text": "钝化"
+        "Chinese_Text": "缓速"
     },
     "60030008": {
         "Dev_Desc": "기공패 디버프 둔화_내용",
         "Original_Text": "이동 속도 감소",
-        "English_Text": "reduce movement speed",
+        "English_Text": "Move Speed ▼",
         "Russian_Text": "",
-        "Chinese_Text": "移动速度减少"
+        "Chinese_Text": "脚部冻结，移动速度降低。"
     },
     "60030009": {
         "Dev_Desc": "기공패 디버프 둔화_옵션",
@@ -67,245 +67,245 @@
         "Original_Text": "빙결",
         "English_Text": "Freeze",
         "Russian_Text": "",
-        "Chinese_Text": "冰结"
+        "Chinese_Text": "冰冻"
     },
     "60030011": {
         "Dev_Desc": "기공패 용렬빙하 빙결_내용",
         "Original_Text": "이동 및 일부 무공 사용 불가",
-        "English_Text": "Cannot move and use some weapons",
+        "English_Text": "Unable to move or use certain techniques.",
         "Russian_Text": "",
-        "Chinese_Text": "移动及部分技能不可使用"
+        "Chinese_Text": "脚部完全冻结，无法移动。"
     },
     "60030012": {
         "Dev_Desc": "기공패 용렬빙하 빙결_옵션",
         "Original_Text": "이동 불가\\n일부 무공 사용 불가",
-        "English_Text": "Cannot move\nCannot use some weapons",
+        "English_Text": "Unable to move\nUnable to use certain techniques",
         "Russian_Text": "",
-        "Chinese_Text": "移动不可\n部分技能不可使用"
+        "Chinese_Text": "脚部完全冻结，无法移动。"
     },
     "60030013": {
         "Dev_Desc": "기공패 디버프 홍염_이름",
         "Original_Text": "홍염",
-        "English_Text": "Red flame",
+        "English_Text": "Red Flame",
         "Russian_Text": "",
         "Chinese_Text": "红焰"
     },
     "60030014": {
         "Dev_Desc": "기공패 디버프 홍염_내용",
         "Original_Text": "기공 절대 방어력 감소",
-        "English_Text": "Reduced qigong absolute defense",
+        "English_Text": "Decreases Force Defense.",
         "Russian_Text": "",
-        "Chinese_Text": "气功绝对防御力减少"
+        "Chinese_Text": "气功防御力降低"
     },
     "60030015": {
         "Dev_Desc": "기공패 디버프 홍염_옵션",
         "Original_Text": "기공 절대 방어력 -5%",
-        "English_Text": "Qigong Absolute Defense -5%",
+        "English_Text": "Force Defense -2",
         "Russian_Text": "",
-        "Chinese_Text": "气功绝对防御力-5%"
+        "Chinese_Text": "气功防御力-2"
     },
     "60030016": {
         "Dev_Desc": "기공패 디버프 홍염_옵션",
         "Original_Text": "기공 방어력 -3",
-        "English_Text": "Qigong Defense -3",
+        "English_Text": "Force Defense -3",
         "Russian_Text": "",
         "Chinese_Text": "气功防御力-3"
     },
     "60030017": {
         "Dev_Desc": "기공패 디버프 홍염_옵션",
         "Original_Text": "기공 방어력 -4",
-        "English_Text": "Qigong Defense -4",
+        "English_Text": "Force Defense -4",
         "Russian_Text": "",
         "Chinese_Text": "气功防御力-4"
     },
     "60030018": {
         "Dev_Desc": "기공패 디버프 홍염_옵션",
         "Original_Text": "기공 방어력 -5",
-        "English_Text": "Qigong Defense -5",
+        "English_Text": "Force Defense -5",
         "Russian_Text": "",
         "Chinese_Text": "气功防御力-5"
     },
     "60030019": {
         "Dev_Desc": "기공패 디버프 홍염_옵션",
         "Original_Text": "기공 방어력 -6",
-        "English_Text": "Qigong Defense -6",
+        "English_Text": "Force Defense -6",
         "Russian_Text": "",
         "Chinese_Text": "气功防御力-6"
     },
     "60030020": {
         "Dev_Desc": "기공패 디버프 홍염_옵션",
         "Original_Text": "기공 방어력 -7",
-        "English_Text": "Qigong Defense -7",
+        "English_Text": "Force Defense -7",
         "Russian_Text": "",
         "Chinese_Text": "气功防御力-7"
     },
     "60030021": {
         "Dev_Desc": "기공패 디버프 홍염_옵션",
         "Original_Text": "기공 방어력 -8",
-        "English_Text": "Qigong Defense -8",
+        "English_Text": "Force Defense -8",
         "Russian_Text": "",
         "Chinese_Text": "气功防御力-8"
     },
     "60030022": {
         "Dev_Desc": "기공패 디버프 홍염_옵션",
         "Original_Text": "기공 방어력 -9",
-        "English_Text": "Qigong Defense -9",
+        "English_Text": "Force Defense -9",
         "Russian_Text": "",
         "Chinese_Text": "气功防御力-9"
     },
     "60030023": {
         "Dev_Desc": "기공패 디버프 홍염_옵션",
         "Original_Text": "기공 방어력 -10",
-        "English_Text": "Qigong Defense -10",
+        "English_Text": "Force Defense -10",
         "Russian_Text": "",
         "Chinese_Text": "气功防御力-10"
     },
     "60030024": {
         "Dev_Desc": "기공패 디버프 홍염_옵션",
         "Original_Text": "기공 방어력 -12",
-        "English_Text": "Qigong Defense -12",
+        "English_Text": "Force Defense -12",
         "Russian_Text": "",
         "Chinese_Text": "气功防御力-12"
     },
     "60030025": {
         "Dev_Desc": "화륜 가열_평타+무공공속증가_세부",
         "Original_Text": "가열",
-        "English_Text": "Heated",
+        "English_Text": "Heater",
         "Russian_Text": "",
         "Chinese_Text": "加热"
     },
     "60030026": {
         "Dev_Desc": "화륜 가열_평타+무공공속증가_세부",
         "Original_Text": "공격 속도 관련 능력 증가",
-        "English_Text": "Increases attack speed related abilities",
+        "English_Text": "Increases all attack speed abilities",
         "Russian_Text": "",
-        "Chinese_Text": "攻击速度相关能力增加"
+        "Chinese_Text": "火之气息使基本攻击速度提升。"
     },
     "60030027": {
         "Dev_Desc": "화륜 가열_평타+무공공속증가_세부",
         "Original_Text": "기본 공격 속도 +50%",
-        "English_Text": "Base attack speed +50%",
+        "English_Text": "Normal Attack Speed +30%\nTechnique Attack Speed +2%",
         "Russian_Text": "",
-        "Chinese_Text": "基础攻击速度+50%"
+        "Chinese_Text": "火之气息使基本攻击速度提升。"
     },
     "60030028": {
         "Dev_Desc": "화륜 가열_평타+무공공속증가_세부",
         "Original_Text": "기본 공격 속도 +52%",
-        "English_Text": "Base attack speed +52%",
+        "English_Text": "Normal Attack Speed +32%\nTechnique Attack Speed +2.5%",
         "Russian_Text": "",
-        "Chinese_Text": "基础攻击速度+52%"
+        "Chinese_Text": "基本攻击速度+32%\n武功攻击速度+2.5%"
     },
     "60030029": {
         "Dev_Desc": "화륜 가열_평타+무공공속증가_세부",
         "Original_Text": "기본 공격 속도 +54%",
-        "English_Text": "Base attack speed +54%",
+        "English_Text": "Normal Attack Speed +34%\nTechnique Attack Speed +3%",
         "Russian_Text": "",
-        "Chinese_Text": "基础攻击速度+54%"
+        "Chinese_Text": "基本攻击速度+34%\n武功攻击速度+3%"
     },
     "60030030": {
         "Dev_Desc": "화륜 가열_평타+무공공속증가_세부",
         "Original_Text": "기본 공격 속도 +56%",
-        "English_Text": "Base attack speed +56%",
+        "English_Text": "Normal Attack Speed +36%\nTechnique Attack Speed +3.5%",
         "Russian_Text": "",
-        "Chinese_Text": "基础攻击速度+56%"
+        "Chinese_Text": "基本攻击速度+36%\n武功攻击速度+3.5%"
     },
     "60030031": {
         "Dev_Desc": "화륜 가열_평타+무공공속증가_세부",
         "Original_Text": "기본 공격 속도 +58%",
-        "English_Text": "Base attack speed +58%",
+        "English_Text": "Normal Attack Speed +38%\nTechnique Attack Speed +4%",
         "Russian_Text": "",
-        "Chinese_Text": "基础攻击速度+58%"
+        "Chinese_Text": "基本攻击速度+38%\n武功攻击速度+4%"
     },
     "60030032": {
         "Dev_Desc": "화륜 가열_평타+무공공속증가_세부",
         "Original_Text": "기본 공격 속도 +60%",
-        "English_Text": "Base attack speed +60%",
+        "English_Text": "Normal Attack Speed +40%\nTechnique Attack Speed +4.5%",
         "Russian_Text": "",
-        "Chinese_Text": "基础攻击速度+60%"
+        "Chinese_Text": "基本攻击速度+40%\n武功攻击速度+4.5%"
     },
     "60030033": {
         "Dev_Desc": "화륜 가열_평타+무공공속증가_세부",
         "Original_Text": "기본 공격 속도 +62%",
-        "English_Text": "Base attack speed +62%",
+        "English_Text": "Normal Attack Speed +42%\nTechnique Attack Speed +5%",
         "Russian_Text": "",
-        "Chinese_Text": "基础攻击速度+62%"
+        "Chinese_Text": "基本攻击速度+42%\n武功攻击速度+5%"
     },
     "60030034": {
         "Dev_Desc": "화륜 가열_평타+무공공속증가_세부",
         "Original_Text": "기본 공격 속도 +64%",
-        "English_Text": "Base attack speed +64%",
+        "English_Text": "Normal Attack Speed +44%\nTechnique Attack Speed +5.5%",
         "Russian_Text": "",
-        "Chinese_Text": "基础攻击速度+64%"
+        "Chinese_Text": "基本攻击速度+44%\n武功攻击速度+5.5%"
     },
     "60030035": {
         "Dev_Desc": "화륜 가열_평타+무공공속증가_세부",
         "Original_Text": "기본 공격 속도 +66%",
-        "English_Text": "Base attack speed +66%",
+        "English_Text": "Normal Attack Speed 46%\nTechnique Attack Speed +6%",
         "Russian_Text": "",
-        "Chinese_Text": "基础攻击速度+66%"
+        "Chinese_Text": "基本攻击速度+46%\n武功攻击速度+6%"
     },
     "60030036": {
         "Dev_Desc": "화륜 가열_평타+무공공속증가_세부",
         "Original_Text": "기본 공격 속도 +68%",
-        "English_Text": "Base attack speed +68%",
+        "English_Text": "Normal Attack Speed +48%\nTechnique Attack Speed +6.5%",
         "Russian_Text": "",
-        "Chinese_Text": "基础攻击速度+68%"
+        "Chinese_Text": "基本攻击速度+48%\n武功攻击速度+6.5%"
     },
     "60030037": {
         "Dev_Desc": "패시브_순환_지능 효과 표시",
         "Original_Text": "지능 +1",
         "English_Text": "INT +1",
         "Russian_Text": "",
-        "Chinese_Text": "智力+1"
+        "Chinese_Text": "提升智力"
     },
     "60030038": {
         "Dev_Desc": "패시브_냉정_기공패 피해량 효과 표시",
         "Original_Text": "기공패 공격력 +2",
-        "English_Text": "AP +2",
+        "English_Text": "Bangle Attack +5",
         "Russian_Text": "",
-        "Chinese_Text": "气功牌攻击力+2"
+        "Chinese_Text": "提升彩绫伤害量"
     },
     "60030039": {
         "Dev_Desc": "패시브_열정_기공 공격력 효과 표시",
         "Original_Text": "기공 공격력 +2",
-        "English_Text": "AP +2",
+        "English_Text": "Force Attack +4",
         "Russian_Text": "",
-        "Chinese_Text": "气功攻击力+2"
+        "Chinese_Text": "提升气功攻击力"
     },
     "60030040": {
         "Dev_Desc": "패시브_폭열_기공 관통력 효과 표시",
         "Original_Text": "기공 관통력 +5",
-        "English_Text": "Penetration +5",
+        "English_Text": "Force Piercing +7",
         "Russian_Text": "",
-        "Chinese_Text": "气功攻击力+5"
+        "Chinese_Text": "提升气功穿刺力"
     },
     "60030041": {
         "Dev_Desc": "패시브_빙백_지혜 효과 표시",
         "Original_Text": "지혜 +4",
-        "English_Text": "WIS +4",
+        "English_Text": "WIS +7",
         "Russian_Text": "",
-        "Chinese_Text": "智慧+4"
+        "Chinese_Text": "提升智力及智慧"
     },
     "60030044": {
         "Dev_Desc": "패시브_홍염_기공방어력감소",
         "Original_Text": "대상의 기공 절대 방어력 -5%",
-        "English_Text": "Target's Qigong Absolute Defense -5%",
+        "English_Text": "Force Defense on target ▼",
         "Russian_Text": "",
-        "Chinese_Text": "目标气功绝对防御力-5%"
+        "Chinese_Text": "降低目标的气功防御力"
     },
     "60030045": {
         "Dev_Desc": "패시브_빙정_둔화중빙결시빙결추가",
         "Original_Text": "\"빙결\" 상태이상 적중 확률 증가",
-        "English_Text": "Increased chance to hit with Freeze status",
+        "English_Text": "Chance of inflicting Freeze ▲",
         "Russian_Text": "",
-        "Chinese_Text": "“冻结”状态异常命中几率增加"
+        "Chinese_Text": "“冰冻”状态异常命中率提升"
     },
     "60030046": {
         "Dev_Desc": "기공패 효과 표시 화상",
         "Original_Text": "화상",
         "English_Text": "Burn",
         "Russian_Text": "",
-        "Chinese_Text": "火伤"
+        "Chinese_Text": "烧伤"
     },
     "60030047": {
         "Dev_Desc": "기공패 효과 표시 둔화",
@@ -319,7 +319,7 @@
         "Original_Text": "빙결",
         "English_Text": "Freeze",
         "Russian_Text": "",
-        "Chinese_Text": "冰结"
+        "Chinese_Text": "冰冻"
     },
     "60030049": {
         "Dev_Desc": "기공패 효과 표시 기절 해제",
@@ -333,185 +333,187 @@
         "Original_Text": "화상",
         "English_Text": "Burn",
         "Russian_Text": "",
-        "Chinese_Text": "火伤"
+        "Chinese_Text": "烧伤"
     },
     "60030051": {
         "Dev_Desc": "기공패 조건 표시 발화",
         "Original_Text": "발화",
-        "English_Text": "Fire",
+        "English_Text": "Ignition",
         "Russian_Text": "",
-        "Chinese_Text": "起火"
+        "Chinese_Text": "引火"
     },
     "60030052": {
         "Dev_Desc": "기공패 조건 표시 기절",
         "Original_Text": "기절",
         "English_Text": "Stun",
         "Russian_Text": "",
-        "Chinese_Text": "气绝"
+        "Chinese_Text": "眩晕"
     },
     "60030053": {
         "Dev_Desc": "기공패 효과 표시 연화",
         "Original_Text": "발화",
-        "English_Text": "Fire",
+        "English_Text": "Ignition",
         "Russian_Text": "",
-        "Chinese_Text": "起火"
+        "Chinese_Text": "引火"
     },
     "60030054": {
         "Dev_Desc": "기공패 효과 표시 가열_기본공속",
         "Original_Text": "기본 공격 속도 +50%",
-        "English_Text": "Base attack speed +50%",
+        "English_Text": "Heater",
         "Russian_Text": "",
-        "Chinese_Text": "基础攻击速度+50%"
+        "Chinese_Text": "加热"
     },
     "60030055": {
         "Dev_Desc": "기공패 화광소천 효과 표시",
         "Original_Text": "당기기, 밀치기, 기절, 화상",
-        "English_Text": "Pull, Knock, Stun, Burn",
+        "English_Text": "Pull, Shove, Stun, Burn",
         "Russian_Text": "",
-        "Chinese_Text": "拉、推、晕、烫伤"
+        "Chinese_Text": "拉拽，击退，眩晕，烧伤"
     },
     "60030056": {
         "Dev_Desc": "기공패 버프 발화Lv1_이름",
         "Original_Text": "발화",
-        "English_Text": "Speech",
+        "English_Text": "Ignition",
         "Russian_Text": "",
-        "Chinese_Text": "起火"
+        "Chinese_Text": "引火1阶段"
     },
     "60030057": {
         "Dev_Desc": "기공패 버프 발화_내용",
         "Original_Text": "화염 무공 활성화",
-        "English_Text": "Activate Fire Defense",
+        "English_Text": "Activates Fire techniques",
         "Russian_Text": "",
-        "Chinese_Text": "火焰技能活性化"
+        "Chinese_Text": "引火持续时间内小幅提升攻击力。\n最多叠加至5阶段。"
     },
     "60030058": {
         "Dev_Desc": "기공패 버프 발화_옵션",
         "Original_Text": "유성, 비륜연휘 사용 가능",
-        "English_Text": "Able to use meteor and flywheel",
+        "English_Text": "Meteor and Scorching Shower available",
         "Russian_Text": "",
-        "Chinese_Text": "流星,飞轮连击可用"
+        "Chinese_Text": "引火持续时间内小幅提升攻击力。\n最多叠加至5阶段。"
     },
     "60030059": {
-        "Dev_Desc": "기공패 버프 발화_세부"
+        "Dev_Desc": "기공패 버프 발화_세부",
+        "Chinese_Text": "引火持续时间内小幅提升攻击力。\n最多叠加至5阶段。",
+        "English_Text": "Slightly increases Attack while Ignition is active.\nStacks up to 5 times."
     },
     "60030060": {
         "Dev_Desc": "화련장",
         "Original_Text": "화련장",
-        "English_Text": "Blazing Palm",
+        "English_Text": "Inferno",
         "Russian_Text": "",
-        "Chinese_Text": "火球"
+        "Chinese_Text": "火莲掌"
     },
     "60030061": {
         "Dev_Desc": "기공패 무공 화련장_설명",
         "Original_Text": "적에게 화염구를 발사하여 피해를 입힙니다.",
-        "English_Text": "Shoots a fireball at an enemy, dealing damage.",
+        "English_Text": "Shoots fireballs to deal damage to enemy.",
         "Russian_Text": "",
-        "Chinese_Text": "向敌人发射火球造成伤害"
+        "Chinese_Text": "对敌人发射火焰球造成伤害。"
     },
     "60030062": {
         "Dev_Desc": "비륜연휘",
         "Original_Text": "비륜연휘",
-        "English_Text": "Skill 3271",
+        "English_Text": "Scorching Shower",
         "Russian_Text": "",
-        "Chinese_Text": "地狱火海"
+        "Chinese_Text": "飞轮连射"
     },
     "60030063": {
         "Dev_Desc": "기공패 무공 비륜연휘_설명",
         "Original_Text": "초고온의 불덩이를 난사하여 피해를 입힙니다.\\n\"발화\" 효과를 소모하여 사용 가능합니다.",
-        "English_Text": "Fires a ball of high-temperature fire, inflicting damage.\\nCan be used by consuming the \"Ignition\" effect.",
+        "English_Text": "Shoots a barrage of extremely hot fireballs to deal damage.\nCan be used when afflicted with Ignition.",
         "Russian_Text": "",
-        "Chinese_Text": "乱射超高温火球造成伤害\n可消耗“起火”效果使用"
+        "Chinese_Text": "扫射10次超高温火球造成伤害。可对“烧伤”状态的敌人使用。"
     },
     "60030064": {
         "Dev_Desc": "회진보",
         "Original_Text": "회진보",
-        "English_Text": "Dodge",
+        "English_Text": "Backstep",
         "Russian_Text": "",
-        "Chinese_Text": "精神净化"
+        "Chinese_Text": "回尘步"
     },
     "60030065": {
         "Dev_Desc": "기공패 무공 회진보_설명",
         "Original_Text": "불과 재의 모습으로 변하여 \"기절\" 효과를 해제하고 후방으로 회피 합니다. 사용 시, 5초간 통제 저항률이 증가합니다.",
-        "English_Text": "Transforms into fire and ashes, dispels the stun effect and evades backwards. When used, control resistance increases for 5 seconds",
+        "English_Text": "Transforms into fire and ashes and dodges backward.",
         "Russian_Text": "",
-        "Chinese_Text": "变成火灰的样子,解除“眩晕”效果,躲到后方使用时,5秒内控制抵抗率增加"
+        "Chinese_Text": "变身为火与灰，退至后方。"
     },
     "60030066": {
         "Dev_Desc": "연화",
         "Original_Text": "연화",
-        "English_Text": "Yona",
+        "English_Text": "Lotus",
         "Russian_Text": "",
-        "Chinese_Text": "火焰虫"
+        "Chinese_Text": "烟花"
     },
     "60030067": {
         "Dev_Desc": "기공패 무공 연화_설명",
         "Original_Text": "대상에게 즉각 화기를 주입하여 피해를 입힙니다.\\n명중 시, 특정 무공 사용을 가능하게 하는 \"발화\" 효과를 5.8초간 얻습니다.",
-        "English_Text": "Immediately infuses the target with fire, dealing damage.\\n On a hit, you gain a \"Fire\" effect for 5.8 seconds that enables the use of a specific weapon.",
+        "English_Text": "Instantly infuses fire into target to deal damage.\nAcquires Ignition for 5.5 sec., which enables Meteor and Scorching Shower upon an accurate attack.",
         "Russian_Text": "",
-        "Chinese_Text": "对目标立即注入火器造成伤害\n命中时,可使用特定技能的“起火”效果5.5秒"
+        "Chinese_Text": "立即对目标注入火气造成伤害，对目标施加“烧伤”效果。"
     },
     "60030068": {
         "Dev_Desc": "얼음창-기본",
         "Original_Text": "얼음창",
-        "English_Text": "Ice Spear",
+        "English_Text": "Frosty Spear",
         "Russian_Text": "",
-        "Chinese_Text": "冰尖柱"
+        "Chinese_Text": "环日经"
     },
     "60030069": {
         "Dev_Desc": "기공패 무공 얼음창_설명",
         "Original_Text": "다수의 얼음창을 소환하여 적에게 발사합니다.\\n일정 확률로 이동 속도를 감소시키는 \"둔화\" 효과를 적용합니다.",
-        "English_Text": "Summons a number of ice spears and fires them at enemies.\\nApplies a \"slow\" effect that reduces movement speed with a chance.",
+        "English_Text": "Shoots multiple frosty spears at enemies.\nHas a chance to inflict Slow which reduces Move Speed.",
         "Russian_Text": "",
-        "Chinese_Text": "召唤多数冰枪向敌人发射\n有一定几率降低移动速度,适用“钝化”效果"
+        "Chinese_Text": "召唤多个火球射向敌人。可用于眩晕或击飞状态中的目标。"
     },
     "60030070": {
         "Dev_Desc": "유성",
         "Original_Text": "유성",
         "English_Text": "Meteor",
         "Russian_Text": "",
-        "Chinese_Text": "流星"
+        "Chinese_Text": "流星_极"
     },
     "60030071": {
         "Dev_Desc": "기공패 무공 유성_설명",
         "Original_Text": "유성을 떨궈 피해를 입히고 일정 확률로 주기적인 피해를 주는 \"화상\" 효과를 적용합니다. \"발화\" 효과를 소모하며 범위 내 최대 3인까지 적중합니다.",
-        "English_Text": "Drops a meteor that deals damage and has a chance to apply a Fire effect that deals periodic damage. Consumes Fire and hits up to 3 people in range.",
+        "English_Text": "Rains down meteors to deal damage and has a chance to inflict Burn (DoT). Affects up to 3 enemies within ranges when afflicted by Ignition.",
         "Russian_Text": "",
-        "Chinese_Text": "降低火球造成伤害,并有一定几率造成周期性伤害的“火伤”效果“消耗“起火”效果,范围内最多命中3人"
+        "Chinese_Text": "落下火焰流星与寒冰流星造成伤害。\n火焰流星施加“烧伤”效果。\n寒冰流星施加“缓速”效果。"
     },
     "60030072": {
         "Dev_Desc": "봉황시",
         "Original_Text": "봉황시",
-        "English_Text": "Phoenix Feather",
+        "English_Text": "Phoenix",
         "Russian_Text": "",
-        "Chinese_Text": "凤凰羽"
+        "Chinese_Text": "凤凰矢"
     },
     "60030073": {
         "Dev_Desc": "기공패 무공 봉황시_설명",
         "Original_Text": "공중으로 날아올라 작열하는 봉황의 깃털을 연사합니다.",
-        "English_Text": " Fly into the air and fire burning phoenix feathers.",
+        "English_Text": "Jumps up in the air and rapidly shoots blazing feathers.\nDeals damage which increases relative to WIS.",
         "Russian_Text": "",
-        "Chinese_Text": "飞向空中,演练灼热的凤凰羽毛"
+        "Chinese_Text": "飞向空中连续发射灼热羽毛。\n与施法者智慧数值成比例造成额外伤害。"
     },
     "60030074": {
         "Dev_Desc": "용렬빙하",
         "Original_Text": "용렬빙하",
-        "English_Text": "Ice Wall",
+        "English_Text": "Frosty Gimlet",
         "Russian_Text": "",
-        "Chinese_Text": "冰域"
+        "Chinese_Text": "涌裂冰河"
     },
     "60030075": {
         "Dev_Desc": "기공패 무공 용렬빙하_설명",
         "Original_Text": "전방으로 길게 솟아오르는 빙하를 형성하여, 일정 확률로 이동을 방해하는 \"빙결\" 효과를 적용합니다.\\n범위 내 최대 3인까지 적중합니다.",
-        "English_Text": "Forms a long glacier that rises forward, with a chance to apply a freeze effect that impedes movement. \\n Hits up to 3 people within range.",
+        "English_Text": "Creates a glacier that rises forward. Has a chance to inflict Freeze which hinders movement.\nAffects up to 3 enemies within range.",
         "Russian_Text": "",
-        "Chinese_Text": "形成向前方长长的冰河,有一定几率妨碍移动的“冰结”效果\n范围内最多可命中3人"
+        "Chinese_Text": "在前方形成狭长的冰河地带。\n被击时施加“冰冻”效果\n最多可击中范围内3人。"
     },
     "60030076": {
         "Dev_Desc": "결빙공-기본",
         "Original_Text": "결빙공",
-        "English_Text": "Freezer",
+        "English_Text": "Frost Armor",
         "Russian_Text": "",
-        "Chinese_Text": "寒冰障碍"
+        "Chinese_Text": "结冰功"
     },
     "60030077": {
         "Dev_Desc": "기공패 무공 결빙공-기본_설명",
@@ -523,23 +525,23 @@
     "60030078": {
         "Dev_Desc": "무공 화륜",
         "Original_Text": "화륜",
-        "English_Text": "Hairwheel",
+        "English_Text": "Fire Circle",
         "Russian_Text": "",
-        "Chinese_Text": "花轮"
+        "Chinese_Text": "火轮_开发中"
     },
     "60030079": {
         "Dev_Desc": "무공 화륜 설명",
         "Original_Text": "내재된 화기를 방출하여 파티원들의 기본 공격 속도를 증가시키는 \"가열\" 효과를 12초간 부여합니다.",
-        "English_Text": "Gives the effect of \"Heating\" that increases the basic attack speed of party members by emitting their internal fire for 12 seconds.",
+        "English_Text": "Inflicts Heater, which increases the party members' Normal Attack Speed and Technique Attack Speed by discharging the inner flame for 12 sec.",
         "Russian_Text": "",
-        "Chinese_Text": "释放内在火器,增加队员基础攻击速度的“加热”效果12秒内赋予"
+        "Chinese_Text": "释放内在的火气，为队员施加可提升基本攻击速度的“加热”效果。"
     },
     "60030080": {
         "Dev_Desc": "화광소천",
         "Original_Text": "화광소천",
-        "English_Text": "Dragonwhorl",
+        "English_Text": "Firewhirl",
         "Russian_Text": "",
-        "Chinese_Text": "火焰风暴"
+        "Chinese_Text": "火光灼天"
     },
     "60030081": {
         "Dev_Desc": "기공패 무공 화광소천_설명",
@@ -551,72 +553,72 @@
     "60030082": {
         "Dev_Desc": "기공패 패시브 순환",
         "Original_Text": "순환",
-        "English_Text": "Cycle",
+        "English_Text": "Circulation",
         "Russian_Text": "",
-        "Chinese_Text": "元素之意"
+        "Chinese_Text": "被动_循环"
     },
     "60030083": {
         "Dev_Desc": "기공패 패시브 순환_설명",
         "Original_Text": "열기와 냉기의 순환을 이해합니다.\\n지능이 증가합니다.",
-        "English_Text": "Understands the cycle of heat and cold.\\nINT increases",
+        "English_Text": "Realizes the circulation of heat and cold.\nIncreases INT.",
         "Russian_Text": "",
-        "Chinese_Text": "了解火和冰的循环道理\n智能增加"
+        "Chinese_Text": "领悟热气与冷气的循环。提升智力。"
     },
     "60030084": {
         "Dev_Desc": "기공패 패시브 냉정",
         "Original_Text": "냉정",
-        "English_Text": "Cold",
+        "English_Text": "Coldness",
         "Russian_Text": "",
-        "Chinese_Text": "寒气"
+        "Chinese_Text": "被动_冷静"
     },
     "60030085": {
         "Dev_Desc": "기공패 패시브 냉정_설명",
         "Original_Text": "냉정을 유지하는 침착한 마음가짐을 갖습니다.\\n기공패 공격력이 증가합니다.",
-        "English_Text": "Keep a cool and calm attitude.\nThe attack power of the Qigong tile is increased.",
+        "English_Text": "Calms the mind to maintain a cold heart.\nIncreases Bangle Attack.",
         "Russian_Text": "",
-        "Chinese_Text": "保持冷静的沉着心态\n气功牌攻击力增加"
+        "Chinese_Text": "专注于彩绫的熟练度，提升彩绫攻击力。"
     },
     "60030086": {
         "Dev_Desc": "기공패 패시브 열정",
         "Original_Text": "열정",
-        "English_Text": "Passion",
+        "English_Text": "Heat",
         "Russian_Text": "",
-        "Chinese_Text": "热情"
+        "Chinese_Text": "被动_热情"
     },
     "60030087": {
         "Dev_Desc": "기공패 패시브 열정_설명",
         "Original_Text": "무공에 대한 열정으로 스스로를 연마합니다.\\n기공 공격력이 증가합니다.",
-        "English_Text": "He hones himself with his passion for martial arts.\\n AP increases.",
+        "English_Text": "Trains with a great passion for martial arts.\nIncreases Force Attack.",
         "Russian_Text": "",
-        "Chinese_Text": "用对技能的热情来磨练自己\n增加气功攻击力"
+        "Chinese_Text": "专注于锻炼身体，提升气功攻击力。"
     },
     "60030088": {
         "Dev_Desc": "기공패 패시브 폭열",
         "Original_Text": "폭열",
-        "English_Text": "Explosion",
+        "English_Text": "Extreme Heat",
         "Russian_Text": "",
-        "Chinese_Text": "灼烧之手"
+        "Chinese_Text": "被动_爆裂"
     },
     "60030089": {
         "Dev_Desc": "기공패 패시브 폭열_설명",
         "Original_Text": "불의 이치를 깨닫습니다.\\n기공 관통력이 증가합니다.",
-        "English_Text": "Recognize the principle of fire. \\n Penetration is increased.",
+        "English_Text": "Increases Force Piercing Damage by understanding the nature of fire.",
         "Russian_Text": "",
-        "Chinese_Text": "领悟火属性的奥义\n气功攻击力增加"
+        "Chinese_Text": "领悟火的原理，提升气功穿刺力。"
     },
     "60030090": {
         "Dev_Desc": "기공패 패시브 빙백",
         "Original_Text": "빙백",
-        "English_Text": "Ice Book",
+        "English_Text": "Frosty",
         "Russian_Text": "",
-        "Chinese_Text": "冰雾"
+        "Chinese_Text": "被动_冰魄"
     },
     "60030091": {
         "Dev_Desc": "기공패 패시브 빙백_설명",
         "Original_Text": "얼음의 이치를 깨닫습니다.\\n지혜가 증가합니다.",
-        "English_Text": "I understand the logic of ice.\\nIncreases WIS",
+        "English_Text": "Increases WIS by understanding the nature of ice.",
         "Russian_Text": "",
-        "Chinese_Text": "明白了冰属性的奥义\n智慧增加"
+        "Chinese_Text": "领悟冰的原理，提升智力与智慧。"
     },
     "60030096": {
         "Dev_Desc": "기공패 패시브 홍염",
@@ -628,44 +630,44 @@
     "60030097": {
         "Dev_Desc": "기공패 패시브 홍염_설명",
         "Original_Text": "더욱 맹렬하고 붉은 화염을 다루게 됩니다.\\n대상이 \"화상\" 상태가 되었을 때, 대상의 기공 절대 방어력을 감소시키는 \"홍염\" 효과를 부여합니다.",
-        "English_Text": "You'll be dealing with more intense red flames.\\nWhen the target is burned, it gives the effect of Crimson Flame that reduces the target's qi absolute defense.",
+        "English_Text": "Musters up a fiercer and more fiery flame.\nInflicts Red Flame that decreases Force Defense when the enemy is inflicted by Burn.",
         "Russian_Text": "",
-        "Chinese_Text": "使用更加猛烈的红色火焰\n目标进入“火伤”状态时,赋予减少目标气功绝对防御力的“红炎”效果"
+        "Chinese_Text": "使用更加猛烈的红色火焰。\n目标成为“烧伤”状态时，赋予降低目标气功防御力的“红焰”效果。"
     },
     "60030098": {
         "Dev_Desc": "기공패 패시브 빙정",
         "Original_Text": "빙정",
         "English_Text": "Ice Crystal",
         "Russian_Text": "",
-        "Chinese_Text": "绝对零度"
+        "Chinese_Text": "冰晶"
     },
     "60030099": {
         "Dev_Desc": "기공패 패시브 빙정_설명",
         "Original_Text": "얼음을 다루는 무공에 통달합니다.\\n\"둔화\" 효과가 적용 중인 대상을 상대로\\n\"빙결\" 상태이상의 적중 확률이 올라갑니다.",
-        "English_Text": "You have mastered the skill of handling ice. \\nSlow effect is applied to the target, the chance to hit with the Freeze status increases.",
+        "English_Text": "Masters an ice technique.\nIncreases the chance of Freeze\non the enemy afflicted with Slow.",
         "Russian_Text": "",
-        "Chinese_Text": "精通处理冰属性的技能\n以“钝化”效果适用的对象为对象,\n“冻结”状态以上的命中率上升"
+        "Chinese_Text": "精通冰之武功。\n目标被施加“缓速”效果时，\n提升“冰冻”效果的命中率。"
     },
     "60030100": {
         "Dev_Desc": "화련장_일반_증폭_성장설명",
         "Original_Text": "지능에 비례하여 피해량 증가",
-        "English_Text": "Additional damage based on INT",
+        "English_Text": "Damage ▲",
         "Russian_Text": "",
-        "Chinese_Text": "按智能比例适用追加伤害"
+        "Chinese_Text": "转换为范围伤害\n可击中范围内最多3人"
     },
     "60030101": {
         "Dev_Desc": "화련장_희귀_극한_성장설명",
         "Original_Text": "광역 피해로 전환\\n범위 내 최대 3인까지 적중",
-        "English_Text": "Converts to wide-area damage\\nHits up to 3 people in range",
+        "English_Text": "Switches to AoE damage\nApplies to up to 3 enemies within range",
         "Russian_Text": "",
-        "Chinese_Text": "广域伤害兑换\n范围内最多命中3人"
+        "Chinese_Text": "对被攻击的目标施加可造成持续伤害的“烧伤”效果"
     },
     "60030102": {
         "Dev_Desc": "화련장_영웅_돌파_성장설명",
         "Original_Text": "일정 확률로 5.8초간 자신에게 \"발화\" 효과 부여",
-        "English_Text": " Probability of inflict Fire effect to self for 5.8 seconds",
+        "English_Text": "Has a chance to inflict Ignition which activates Meteor and Scorching Shower for 5.5 sec.",
         "Russian_Text": "",
-        "Chinese_Text": "有一定几率在5.5秒内赋予自己“起火”效果"
+        "Chinese_Text": "使用后，以较低概率连射无需消耗气力且瞬发的火莲掌"
     },
     "60030103": {
         "Dev_Desc": "비륜연휘_증폭_성장설명",
@@ -677,16 +679,16 @@
     "60030104": {
         "Dev_Desc": "비륜연휘_극한_성장설명",
         "Original_Text": "일정 확률로 5.8초간 자신에게 \"발화\" 효과 부여",
-        "English_Text": "Probability of inflicting \"Fire\" effect on self for 5.8 seconds",
+        "English_Text": "Has a chance to inflict Ignition which activates Meteor and Scorching Shower for 5.5 sec.",
         "Russian_Text": "",
-        "Chinese_Text": "有一定几率在5.5秒内赋予自己“起火”效果"
+        "Chinese_Text": "降低内力消耗"
     },
     "60030105": {
         "Dev_Desc": "비륜연휘_돌파_성장설명",
         "Original_Text": "시전 시간 감소",
-        "English_Text": "Cast Time Reduction",
+        "English_Text": "Uses a combo technique that causes a massive explosion\nAffects the nearby enemies afflicted with Burn.",
         "Russian_Text": "",
-        "Chinese_Text": "引起强烈爆炸的暴饮暴食联系\n目标周围的“烧伤”状态的敌人一起被攻击"
+        "Chinese_Text": "使用后，可使用引发强力爆炸的连接武功"
     },
     "60030106": {
         "Dev_Desc": "회진보_증폭_성장설명",
@@ -733,23 +735,23 @@
     "60030112": {
         "Dev_Desc": "얼음창_상급_증폭_성장설명",
         "Original_Text": "내력 소모량 -2",
-        "English_Text": "STR Consumption -2",
+        "English_Text": "Focus cost ▼",
         "Russian_Text": "",
-        "Chinese_Text": "内力消耗量-2"
+        "Chinese_Text": "“缓速”效果的持续时间提升"
     },
     "60030113": {
         "Dev_Desc": "얼음창_희귀_극한_성장설명",
         "Original_Text": "재사용 대기시간 -2초",
-        "English_Text": "Cooldown -2 seconds",
+        "English_Text": "Cooldown ▼",
         "Russian_Text": "",
-        "Chinese_Text": "冷却时间-2秒"
+        "Chinese_Text": "冷却时间降低"
     },
     "60030114": {
         "Dev_Desc": "얼음창_영웅_돌파_성장설명",
         "Original_Text": "일정 확률로 \"빙결\" 효과 적용",
-        "English_Text": "Probability of applying freeze effect",
+        "English_Text": "Has a chance to additionally inflict Freeze on enemy which hinders movement",
         "Russian_Text": "",
-        "Chinese_Text": "有一定几率适用“冻结”效果"
+        "Chinese_Text": "对被攻击的目标施加可妨碍移动的“冰冻”效果后，施加“缓速”效果"
     },
     "60030115": {
         "Dev_Desc": "봉황시_증폭_성장설명",
@@ -789,23 +791,23 @@
     "60030120": {
         "Dev_Desc": "용렬빙하_돌파_성장설명",
         "Original_Text": "용렬빙하 범위 폭 증가\\n범위 내 최대 5인까지 적중",
-        "English_Text": "Increase the range of Melting Glacier\nHit up to 5 people within range",
+        "English_Text": "Expands Frosty Gimlet's range\nApplies to up to 5 enemies within range",
         "Russian_Text": "",
-        "Chinese_Text": "龙烈冰川范围暴增\n范围内最多命中5人"
+        "Chinese_Text": "涌裂冰河的范围提升\n可击中范围内最多5人"
     },
     "60030121": {
         "Dev_Desc": "결빙공_증폭_성장설명",
         "Original_Text": "기력 소모량 -100",
-        "English_Text": "Energy cost -100",
+        "English_Text": "Vitality cost ▼",
         "Russian_Text": "",
-        "Chinese_Text": "体力消耗量-100"
+        "Chinese_Text": "结冰功持续时间内若成功防御攻击\n将造成伤害的同时施加可妨碍移动的“缓速”效果"
     },
     "60030122": {
         "Dev_Desc": "결빙공_극한_성장설명",
         "Original_Text": "방어 성공 시, 공격한 대상에게 피해 적용",
-        "English_Text": "When the defense succeeds, damage is applied to the attacked target",
+        "English_Text": "The defended damage is applied to the attacker",
         "Russian_Text": "",
-        "Chinese_Text": "防御成功时,对攻击对象造成伤害"
+        "Chinese_Text": "使用后，对周围造成“冰冻”效果并闪避\n可击中范围内最多3人"
     },
     "60030123": {
         "Dev_Desc": "결빙공_돌파_성장설명",
@@ -817,9 +819,9 @@
     "60030124": {
         "Dev_Desc": "화륜_증폭_성장설명",
         "Original_Text": "무공 공격 속도 +30%",
-        "English_Text": "Non-Attack Attack Speed +30%",
+        "English_Text": "Duration +4 sec",
         "Russian_Text": "",
-        "Chinese_Text": "技能攻击速度+30%"
+        "Chinese_Text": "获得“加热”效果时，武功攻击速度额外提升"
     },
     "60030125": {
         "Dev_Desc": "화륜_극한_성장설명",
@@ -838,16 +840,16 @@
     "60030127": {
         "Dev_Desc": "유성_상급_증폭_성장설명",
         "Original_Text": "일정 확률로 5.8초간 자신에게 \"발화\" 효과 부여",
-        "English_Text": " Probability of inflict Fire effect to self for 5.8 seconds",
+        "English_Text": "Has a chance to inflict Ignition which activates Meteor and Scorching Shower for 5.5 sec.",
         "Russian_Text": "",
-        "Chinese_Text": "有一定几率在5.5秒内赋予自己“起火”效果"
+        "Chinese_Text": "对被攻击的目标施加可造成持续伤害的“烧伤”效果"
     },
     "60030128": {
         "Dev_Desc": "유성_희귀_극한_성장설명",
         "Original_Text": "얼음 유성을 추가 발사하여, 일정 확률로 \"둔화\" 효과 적용",
-        "English_Text": "Shoots an additional ice meteor, with a chance to apply a slow effect.",
+        "English_Text": "Additionally shoots ice meteors to inflict Slow which has a chance to reduce Move Speed",
         "Russian_Text": "",
-        "Chinese_Text": "追加发射冰流星,有一定几率适用“钝化”效果"
+        "Chinese_Text": "额外发射寒冰流星，同时施加可降低移动速度的“缓速”效果"
     },
     "60030129": {
         "Dev_Desc": "유성_영웅_돌파_성장설명",
@@ -859,70 +861,70 @@
     "60030130": {
         "Dev_Desc": "강화텍스트_지능",
         "Original_Text": "지능 증가",
-        "English_Text": "Increased Intelligence",
+        "English_Text": "INT ▲",
         "Russian_Text": "",
         "Chinese_Text": "智力增加"
     },
     "60030131": {
         "Dev_Desc": "강화텍스트_기공패 공격력",
         "Original_Text": "기공패 공격력 증가",
-        "English_Text": "Increase Qigong's attack power",
+        "English_Text": "Bangle Attack ▲",
         "Russian_Text": "",
         "Chinese_Text": "气功牌攻击力增加"
     },
     "60030132": {
         "Dev_Desc": "강화텍스트_기공 공격력",
         "Original_Text": "기공 공격력 증가",
-        "English_Text": "Increased qi attack power",
+        "English_Text": "Force Attack ▲",
         "Russian_Text": "",
         "Chinese_Text": "气功攻击力增加"
     },
     "60030133": {
         "Dev_Desc": "강화텍스트_기공 관통력",
         "Original_Text": "기공 관통력 증가",
-        "English_Text": "Increased pore penetration",
+        "English_Text": "Force Piercing Damage ▲",
         "Russian_Text": "",
         "Chinese_Text": "气功攻击力增加"
     },
     "60030134": {
         "Dev_Desc": "강화텍스트_지혜",
         "Original_Text": "지혜 증가",
-        "English_Text": "Increase Wisdom",
+        "English_Text": "WIS ▲",
         "Russian_Text": "",
         "Chinese_Text": "增加智慧"
     },
     "60030135": {
         "Dev_Desc": "강화텍스트_기공 명중",
         "Original_Text": "기공 명중 증가",
-        "English_Text": "Increased Qigong Hit",
+        "English_Text": "Force Accuracy ▲",
         "Russian_Text": "",
         "Chinese_Text": "气功命中增加"
     },
     "60030136": {
         "Dev_Desc": "강화텍스트_무공 피해 계수 증가",
         "Original_Text": "무공 피해 계수 증가",
-        "English_Text": "Increase non-air damage factor",
+        "English_Text": "Technique Damage Factor ▲",
         "Russian_Text": "",
         "Chinese_Text": "技能伤害系数增加"
     },
     "60030137": {
         "Dev_Desc": "강화텍스트_통제 저항률 증가",
         "Original_Text": "통제 저항률 증가",
-        "English_Text": "Increase control resistivity",
+        "English_Text": "Focus cost ▼",
         "Russian_Text": "",
         "Chinese_Text": "控制抵抗率增加"
     },
     "60030138": {
         "Dev_Desc": "강화텍스트_막기 중 받는 피해량 감소",
         "Original_Text": "막기 피해량 감소",
-        "English_Text": "Reduce Block Damage",
+        "English_Text": "Outgoing Damage ▼",
         "Russian_Text": "",
         "Chinese_Text": "防御伤害量减少"
     },
     "60030139": {
         "Dev_Desc": "강화텍스트_기본 공격 속도",
         "Original_Text": "기본 공격 속도 증가",
-        "English_Text": "Increased basic attack speed",
+        "English_Text": "Normal Attack Speed ▲",
         "Russian_Text": "",
         "Chinese_Text": "基础攻击速度增加"
     },

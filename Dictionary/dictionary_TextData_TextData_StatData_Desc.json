@@ -2,1367 +2,1367 @@
     "11001": {
         "Dev_Desc": "Strength",
         "Original_Text": "일정 수치마다 근거리 공격력, 근거리 관통력, 근거리 명중, 방어력이 증가합니다.",
-        "English_Text": "Increases melee attack power, melee penetration, melee hit, and defense by a certain value.",
+        "English_Text": "Increases Melee Attack and Melee Piercing Damage at every certain level.",
         "Russian_Text": "",
-        "Chinese_Text": "每一定数值增加近距离攻击力，近距离穿透力，近距离命中，防御力。"
+        "Chinese_Text": "每一定数值提升近距离攻击力，近距离穿刺力。"
     },
     "11002": {
         "Dev_Desc": "Dexterity",
         "Original_Text": "일정 수치마다 원거리 공격력, 원거리 관통력, 원거리 명중, 치명타 추가 공격력이 증가합니다.",
-        "English_Text": "Ranged Attack Power, Ranged Penetration, Ranged Accuracy, and Critical Bonus Attack Damage are increased by a certain amount.",
+        "English_Text": "Increases Ranged Attack and Ranged Piercing Damage at every certain level.",
         "Russian_Text": "",
-        "Chinese_Text": "每一个数值增加远程攻击力、远程穿透力、远程命中、暴击追加攻击力。"
+        "Chinese_Text": "每一定数值提升远距离攻击力，远距离穿刺力。"
     },
     "11003": {
         "Dev_Desc": "Intelligence",
         "Original_Text": "일정 수치마다 기공 공격력, 기공 관통력, 기공 명중, 통제 저항률이 증가합니다.",
-        "English_Text": "Increases qi attack power, qi penetration, qi hit, and control resist by a certain value.",
+        "English_Text": "Increases Force Attack and Force Piercing Damage at every certain level.",
         "Russian_Text": "",
-        "Chinese_Text": "每一个数值气功攻击力，气功穿透力，气功命中，控制抵抗率增加。"
+        "Chinese_Text": "每一定数值提升气功攻击力，气功穿刺力。"
     },
     "11004": {
         "Dev_Desc": "Constitution",
         "Original_Text": "일정 수치마다 생명력, 물약 회복률, 무공 피해 내성, 상대 소울 억제력이 증가합니다.",
-        "English_Text": "Increases health, potion recovery rate, non-attack damage resistance, and soul resistance per certain value.",
+        "English_Text": "Increases HP and HP Regen at every certain level.",
         "Russian_Text": "",
-        "Chinese_Text": "一定数值增加生命力、药水恢复率、无公害伤害耐性、灵魂抵抗率。"
+        "Chinese_Text": "每一定数值提升生命，生命再生。"
     },
     "11005": {
         "Dev_Desc": "Wisdom",
         "Original_Text": "일정 수치마다 내력, 소울 발동률, 무공 공격 증폭, 내력 조절이 증가합니다.",
-        "English_Text": "Increases strength, soul activation rate, non-attack damage amplification, and strength control by certain values.",
+        "English_Text": "Increases Focus and Focus Regen at every certain level.",
         "Russian_Text": "",
-        "Chinese_Text": "每一个数值内力、灵魂发动率、无公害伤害增幅、内力调节增加。"
+        "Chinese_Text": "每一定数值提升内力，内力再生。"
     },
     "11006": {
         "Dev_Desc": "Agility",
         "Original_Text": "일정 수치마다 치명률, 회피, 이동 속도 증가율, 기본 공격 속도가 증가합니다.",
-        "English_Text": "Critical rate, evasion, movement speed increase rate, and basic attack speed increase with each value.",
+        "English_Text": "Increases Critical Rate and Evasion at every certain level.",
         "Russian_Text": "",
-        "Chinese_Text": "每一数值增加暴击率、闪避、移动速度增加率、基本攻击速度。"
+        "Chinese_Text": "每一定数值提升暴击率，机敏。"
     },
     "11007": {
         "Dev_Desc": "ShortPhysicalAttack",
         "Original_Text": "공격 시 입히는 근거리 피해량입니다.",
-        "English_Text": "Attacks deal melee damage.",
+        "English_Text": "Melee Damage dealt when attacking an enemy.",
         "Russian_Text": "",
-        "Chinese_Text": "攻击时造成的近距离伤害量。"
+        "Chinese_Text": "生命降至0时死亡。"
     },
     "11008": {
         "Dev_Desc": "LongPhysicalAttack",
         "Original_Text": "공격 시 입히는 원거리 피해량입니다.",
-        "English_Text": "Attacks deal ranged damage.",
+        "English_Text": "Ranged damage dealt when attacking an enemy.",
         "Russian_Text": "",
-        "Chinese_Text": "攻击时造成的远距离伤害量。"
+        "Chinese_Text": "生命数值按比例提升。"
     },
     "11009": {
         "Dev_Desc": "ForceAttack",
         "Original_Text": "공격 시 입히는 기공 피해량입니다.",
-        "English_Text": "The amount of qi damage dealt by the attack.",
+        "English_Text": "Force damage dealt when attacking an enemy.",
         "Russian_Text": "",
-        "Chinese_Text": "攻击时造成的气功伤害量。"
+        "Chinese_Text": "武功资源，使用武功时减少。"
     },
     "11010": {
         "Dev_Desc": "Attack",
         "Original_Text": "모든 유형의 공격력이 증가합니다.",
-        "English_Text": "Increases all types of damage.",
+        "English_Text": "Increases Attack of all types.",
         "Russian_Text": "",
-        "Chinese_Text": "增加所有类型的攻击力。"
+        "Chinese_Text": "特殊资源，使用轻功或格挡时减少。"
     },
     "11011": {
         "Dev_Desc": "WeaponAttack",
         "Original_Text": "무기 장착 시 증가하는 피해량입니다.",
-        "English_Text": "Damage increased when equipped with a weapon.",
+        "English_Text": "Increases damage when weapon is equipped.",
         "Russian_Text": "",
-        "Chinese_Text": "装备武器时增加的伤害量。"
+        "Chinese_Text": "攻击时造成的近距离伤害量。"
     },
     "11012": {
         "Dev_Desc": "WeaponAttackRate",
         "Original_Text": "무기 공격력이 증가합니다.",
-        "English_Text": "Increases weapon damage.",
+        "English_Text": "Increases Weapon Attack.",
         "Russian_Text": "",
-        "Chinese_Text": "武器攻击力增加。"
+        "Chinese_Text": "攻击时造成的远距离伤害量。"
     },
     "11013": {
         "Dev_Desc": "WeaponAttackToleranceRate",
         "Original_Text": "무기 공격력으로 인해 받는 피해가 감소합니다.",
-        "English_Text": "You take less damage from weapon damage.",
+        "English_Text": "Decreases the Damage received by Weapon Attack.",
         "Russian_Text": "",
-        "Chinese_Text": "武器攻击力造成的伤害减少。"
+        "Chinese_Text": "攻击时造成的气功伤害量。"
     },
     "11014": {
         "Dev_Desc": "AttackBonus",
         "Original_Text": "무기 공격력이 추가로 증가합니다.",
-        "English_Text": "Additionally increases weapon damage.",
+        "English_Text": "Increases damage when weapon is enhanced.",
         "Russian_Text": "",
-        "Chinese_Text": "武器攻击力增加。"
+        "Chinese_Text": "各类攻击力全部提升。"
     },
     "11015": {
         "Dev_Desc": "AddAttackMin",
         "Original_Text": "공격 시 입히는 피해의 최소 수치가 증가합니다.",
-        "English_Text": "Increases the minimum amount of damage done when attacking.",
+        "English_Text": "Increases the minimum Weapon Attack.",
         "Russian_Text": "",
-        "Chinese_Text": "攻击时造成的伤害最小数值增加。"
+        "Chinese_Text": "所有攻击力数值按比例提升。"
     },
     "11016": {
         "Dev_Desc": "healingPower",
         "Original_Text": "치유 시 생명력 회복량의 기준값입니다.",
-        "English_Text": "Based on the amount of health restored when healing.",
+        "English_Text": "The default of HP recovery when healed.",
         "Russian_Text": "",
-        "Chinese_Text": "治愈时生命力恢复量的基准值。"
+        "Chinese_Text": "武器攻击力数值按比例提升。"
     },
     "11017": {
         "Dev_Desc": "healingPowerRate",
         "Original_Text": "치유력이 증가합니다.",
-        "English_Text": "Healing is increased.",
+        "English_Text": "Increases the amount of Heal.",
         "Russian_Text": "",
-        "Chinese_Text": "有几率增加。"
+        "Chinese_Text": "武器攻击力数值按比例降低。"
     },
     "11018": {
         "Dev_Desc": "SwordAttack",
         "Original_Text": "검 장착 시 증가하는 피해량입니다.",
-        "English_Text": "Damage increased when equipped with a sword.",
+        "English_Text": "Increases damage when Sword is equipped.",
         "Russian_Text": "",
-        "Chinese_Text": "装备剑时增加的伤害量。"
+        "Chinese_Text": "武器强化时提升的伤害量。"
     },
     "11019": {
         "Dev_Desc": "GauntletAttack",
         "Original_Text": "권갑 장착 시 증가하는 피해량입니다.",
-        "English_Text": "Increased damage when equipped with gauntlets.",
+        "English_Text": "Increases damage when Gauntlets are equipped.",
         "Russian_Text": "",
-        "Chinese_Text": "装备拳套时增加的伤害量。"
+        "Chinese_Text": "武器攻击力的最小值提升。"
     },
     "11020": {
         "Dev_Desc": "AxeAttack",
         "Original_Text": "도끼 장착 시 증가하는 피해량입니다.",
-        "English_Text": "Damage increased when equipped with an axe.",
+        "English_Text": "Increases damage when Axe is equipped.",
         "Russian_Text": "",
-        "Chinese_Text": "装备斧子时增加的伤害量。"
+        "Chinese_Text": "武器攻击力的最大值提升。"
     },
     "11021": {
         "Dev_Desc": "BangleAttack",
         "Original_Text": "기공패 장착 시 증가하는 피해량입니다.",
-        "English_Text": "Damage increases when equipped with a qigong tile.",
+        "English_Text": "Increases damage when Bangle is equipped.",
         "Russian_Text": "",
-        "Chinese_Text": "气功镶嵌时增加的伤害量。"
+        "Chinese_Text": "装备剑时提升的伤害量。"
     },
     "11022": {
         "Dev_Desc": "BowAttack",
         "Original_Text": "활 장착 시 증가하는 피해량입니다.",
-        "English_Text": "Damage increased when equipped with a bow.",
+        "English_Text": "Increases damage when Bow is equipped.",
         "Russian_Text": "",
-        "Chinese_Text": "装备弓箭时增加的伤害量。"
+        "Chinese_Text": "装备拳套时提升的伤害量。"
     },
     "11023": {
         "Dev_Desc": "RitualBellAttack",
         "Original_Text": "법종 장착 시 증가하는 피해량입니다.",
-        "English_Text": "Increased damage when equipped with a bell.",
+        "English_Text": "Increases damage when Trilbu is equipped.",
         "Russian_Text": "",
-        "Chinese_Text": "装备法种时增加的伤害量。"
+        "Chinese_Text": "装备斧时提升的伤害量。"
     },
     "11024": {
         "Dev_Desc": "ShortPhysicalPenetration",
         "Original_Text": "근거리 공격 시 대상의 근거리 방어력을 상쇄합니다.",
-        "English_Text": "Clears the target's melee defense against melee attacks.",
+        "English_Text": "Offsets the target's Melee Defense when dealing melee attacks.",
         "Russian_Text": "",
-        "Chinese_Text": "近距离攻击时抵消目标的近距离防御力。"
+        "Chinese_Text": "装备彩绫时提升的伤害量。"
     },
     "11025": {
         "Dev_Desc": "LongPhysicalPenetration",
         "Original_Text": "원거리 공격 시 대상의 원거리 방어력을 상쇄합니다.",
-        "English_Text": "Offsets the target's ranged defense when attacking from a range.",
+        "English_Text": "Offsets the target's Ranged Defense when dealing ranged attacks.",
         "Russian_Text": "",
-        "Chinese_Text": "远程攻击时抵消目标的远程防御力。"
+        "Chinese_Text": "装备弓时提升的伤害量。"
     },
     "11026": {
         "Dev_Desc": "ForcePenetration",
         "Original_Text": "기공 공격 시 대상의 기공 방어력을 상쇄합니다.",
-        "English_Text": "A qi attack offsets the target's qi defense.",
+        "English_Text": "Offsets the target's Force Defense when dealing Force attacks.",
         "Russian_Text": "",
-        "Chinese_Text": "气功攻击时抵消目标的气功防御力。"
+        "Chinese_Text": "近距离类攻击时，减少目标的近距离防御率。"
     },
     "11027": {
         "Dev_Desc": "Penetration",
         "Original_Text": "모든 유형의 관통력이 증가합니다.",
-        "English_Text": "Increases penetration of all types.",
+        "English_Text": "Increases Piercing of all types.",
         "Russian_Text": "",
-        "Chinese_Text": "所有类型的攻击力增加。"
+        "Chinese_Text": "远距离类攻击时，减少目标的远距离防御率。"
     },
     "11028": {
         "Dev_Desc": "ShortPhysicalHit",
         "Original_Text": "근거리 공격 시 명중 확률이 증가합니다.",
-        "English_Text": "Increases chance to hit with melee attacks.",
+        "English_Text": "Increases Accuracy chance for melee attacks.",
         "Russian_Text": "",
-        "Chinese_Text": "近距离攻击时命中率增加。"
+        "Chinese_Text": "气功类攻击时，减少目标的气功防御率。"
     },
     "11029": {
         "Dev_Desc": "LongPhysicalHit",
         "Original_Text": "원거리 공격 시 명중 확률이 증가합니다.",
-        "English_Text": "Increases chance to hit with ranged attacks.",
+        "English_Text": "Increases Accuracy chance for ranged attacks.",
         "Russian_Text": "",
-        "Chinese_Text": "远程攻击时命中率增加。"
+        "Chinese_Text": "各类穿刺力全部提升。"
     },
     "11030": {
         "Dev_Desc": "ForceHit",
         "Original_Text": "기공 공격 시 명중 확률이 증가합니다.",
-        "English_Text": "Increases chance to hit with qigong attacks.",
+        "English_Text": "Increases Accuracy chance for Force attacks.",
         "Russian_Text": "",
-        "Chinese_Text": "气功攻击时命中率增加。"
+        "Chinese_Text": "所有穿刺力数值按比例提升。"
     },
     "11031": {
         "Dev_Desc": "Hit",
         "Original_Text": "모든 유형의 명중이 증가합니다.",
-        "English_Text": "Increases all types of hit.",
+        "English_Text": "Increases Accuracy of all types.",
         "Russian_Text": "",
-        "Chinese_Text": "所有类型命中增加。"
+        "Chinese_Text": "攻击命中率提升。"
     },
     "11032": {
         "Dev_Desc": "ShortPhysicalCriticalRate",
         "Original_Text": "근거리 공격 시 치명타 확률이 증가합니다.",
-        "English_Text": "Increased critical strike chance with melee attacks.",
+        "English_Text": "Increases Critical chance for melee attacks.",
         "Russian_Text": "",
-        "Chinese_Text": "近距离攻击时暴击率增加。"
+        "Chinese_Text": "出现暴击的概率提升。"
     },
     "11033": {
         "Dev_Desc": "LongPhysicalCriticalRate",
         "Original_Text": "원거리 공격 시 치명타 확률이 증가합니다.",
-        "English_Text": "Critical strike chance increases with ranged attacks.",
+        "English_Text": "Increases Critical chance for ranged attacks.",
         "Russian_Text": "",
-        "Chinese_Text": "远距离攻击时暴击率增加。"
+        "Chinese_Text": "最终暴击率提升。"
     },
     "11034": {
         "Dev_Desc": "ForceCriticalRate",
         "Original_Text": "기공 공격 시 치명타 확률이 증가합니다.",
-        "English_Text": "Increases critical strike chance with qigong attacks.",
+        "English_Text": "Increases Critical Hit chance for Force attacks.",
         "Russian_Text": "",
-        "Chinese_Text": "气功攻击时暴击率增加。"
+        "Chinese_Text": "成功攻击弱点时提升的伤害量。"
     },
     "11035": {
         "Dev_Desc": "CriticalRate",
         "Original_Text": "모든 유형의 치명타 확률이 증가합니다.",
-        "English_Text": "Increases critical strike chance of all types.",
+        "English_Text": "Increases Critical Hit chance of all types.",
         "Russian_Text": "",
-        "Chinese_Text": "所有类型的暴击率增加。"
+        "Chinese_Text": "成功格挡穿刺时提升的伤害量。"
     },
     "11036": {
         "Dev_Desc": "CriticalAttack",
         "Original_Text": "치명타 공격 성공 시 입히는 추가 피해량입니다.",
-        "English_Text": "Additional damage dealt on a successful critical strike.",
+        "English_Text": "Bonus damage dealt upon a critical hit.",
         "Russian_Text": "",
-        "Chinese_Text": "暴击攻击成功时追加伤害量。"
+        "Chinese_Text": "计算后造成的伤害量按比例提升。"
     },
     "11037": {
         "Dev_Desc": "FatalAttack",
         "Original_Text": "약점 공격 성공 시 입히는 추가 피해량입니다.",
-        "English_Text": "Additional damage dealt on successful weakness attacks.",
+        "English_Text": "Bonus damage dealt upon attacking a weak spot.",
         "Russian_Text": "",
-        "Chinese_Text": "弱点攻击成功时追加伤害量。"
+        "Chinese_Text": "不计算防御率的伤害量。"
     },
     "11038": {
         "Dev_Desc": "BlockpenetrationAttack",
         "Original_Text": "막기 관통 성공 시 입히는 추가 피해량입니다.",
-        "English_Text": "Additional damage dealt on successful block penetration.",
+        "English_Text": "Bonus damage dealt upon a block piercing attack.",
         "Russian_Text": "",
-        "Chinese_Text": "阻挡穿透成功时追加伤害量。"
+        "Chinese_Text": "无视防御伤害数值按比例提升。"
     },
     "11039": {
         "Dev_Desc": "DamagePure",
         "Original_Text": "공격 시 대상의 방어력으로 감소하지 않는 피해입니다.",
-        "English_Text": "Attacking damage that does not reduce the target's armor.",
+        "English_Text": "Damage dealt regardless of the opponent's Defense stat.",
         "Russian_Text": "",
-        "Chinese_Text": "攻击时目标的防御力不会减少的伤害。"
+        "Chinese_Text": "控制命中时，控制时间提升。"
     },
     "11040": {
         "Dev_Desc": "ShortPhysicalAttackReduction",
         "Original_Text": "근거리 공격력을 상쇄합니다.",
-        "English_Text": "Offsets melee damage.",
+        "English_Text": "Offsets the target's Melee Attack.",
         "Russian_Text": "",
-        "Chinese_Text": "抵消近距离攻击力。"
+        "Chinese_Text": "熟练数值按比例提升。"
     },
     "11041": {
         "Dev_Desc": "LongPhysicalAttackReduction",
         "Original_Text": "원거리 공격력을 상쇄합니다.",
-        "English_Text": "Offsets ranged damage.",
+        "English_Text": "Offsets the target's Ranged Attack.",
         "Russian_Text": "",
-        "Chinese_Text": "抵消远程攻击力。"
+        "Chinese_Text": "控制攻击的命中率提升。"
     },
     "11042": {
         "Dev_Desc": "ForceAttackReduction",
         "Original_Text": "기공 공격력을 상쇄합니다.",
-        "English_Text": "Offsets qigong damage.",
+        "English_Text": "Offsets the target's Force Attack.",
         "Russian_Text": "",
-        "Chinese_Text": "抵消气功攻击力。"
+        "Chinese_Text": "最终控制率提升。"
     },
     "11043": {
         "Dev_Desc": "AttackReduction",
         "Original_Text": "모든 유형의 호신이 증가합니다.",
-        "English_Text": "Increases all types of self-defense.",
+        "English_Text": "Increases Protection of all types.",
         "Russian_Text": "",
-        "Chinese_Text": "所有类型的护身增加。"
+        "Chinese_Text": "使用格挡穿刺技能时，目标的格挡率减少。"
     },
     "11044": {
         "Dev_Desc": "ShortPhysicalDefence",
         "Original_Text": "근거리 공격으로 받는 피해가 감소합니다.",
-        "English_Text": "You take less damage from melee attacks.",
+        "English_Text": "Decreases damage received by melee attacks.",
         "Russian_Text": "",
-        "Chinese_Text": "近战攻击造成的伤害减少。"
+        "Chinese_Text": "受到近距离类攻击时的伤害减少量。"
     },
     "11045": {
         "Dev_Desc": "LongPhysicalDefence",
         "Original_Text": "원거리 공격으로 받는 피해가 감소합니다.",
-        "English_Text": "You take less damage from ranged attacks.",
+        "English_Text": "Decreases damage received by ranged attacks.",
         "Russian_Text": "",
-        "Chinese_Text": "远程攻击造成的伤害减少。"
+        "Chinese_Text": "受到远距离类攻击时的伤害减少量。"
     },
     "11046": {
         "Dev_Desc": "ForceDefence",
         "Original_Text": "기공 공격으로 받는 피해가 감소합니다.",
-        "English_Text": "You take less damage from qigong attacks.",
+        "English_Text": "Decreases damage received by Force attacks.",
         "Russian_Text": "",
-        "Chinese_Text": "气功攻击造成的伤害减少。"
+        "Chinese_Text": "受到气功类攻击时的伤害减少量。"
     },
     "11047": {
         "Dev_Desc": "Defence",
         "Original_Text": "모든 유형의 방어력이 증가합니다.",
-        "English_Text": "Increases all types of armor.",
+        "English_Text": "Increases Defense of all types.",
         "Russian_Text": "",
-        "Chinese_Text": "所有类型的防御力增加。"
+        "Chinese_Text": "各类护身全部提升。"
     },
     "11048": {
         "Dev_Desc": "ShortPhysicalEvasion",
         "Original_Text": "근거리 공격을 받을 시 빗맞을 확률이 증가합니다.",
-        "English_Text": "Increased chance to miss when hit by melee attacks.",
+        "English_Text": "Increases Evasion chance when receiving melee attacks.",
         "Russian_Text": "",
-        "Chinese_Text": "受到近距离攻击时出错率增加。"
+        "Chinese_Text": "最终远距离防御率提升。"
     },
     "11049": {
         "Dev_Desc": "LongPhysicalEvasion",
         "Original_Text": "원거리 공격을 받을 시 빗맞을 확률이 증가합니다.",
-        "English_Text": "Increases the chance of being hit by ranged attacks.",
+        "English_Text": "Increases Evasion chance when receiving ranged attacks.",
         "Russian_Text": "",
-        "Chinese_Text": "受到远程攻击时，被打偏的几率增加。"
+        "Chinese_Text": "受到气功类攻击时，气功防御率提升。"
     },
     "11050": {
         "Dev_Desc": "ForceEvasion",
         "Original_Text": "기공 공격을 받을 시 빗맞을 확률이 증가합니다.",
-        "English_Text": "Increased chance of being hit by a qigong attack.",
+        "English_Text": "Increases Evasion chance when receiving a Force attack.",
         "Russian_Text": "",
-        "Chinese_Text": "受到气功攻击时，被打偏的几率增加。"
+        "Chinese_Text": "最终气功防御率提升。"
     },
     "11051": {
         "Dev_Desc": "Evasion",
         "Original_Text": "모든 유형의 회피가 증가합니다.",
-        "English_Text": "Increases dodge of all types.",
+        "English_Text": "Increases Evasion of all types.",
         "Russian_Text": "",
-        "Chinese_Text": "所有类型的回避增加。"
+        "Chinese_Text": "各类防御力全部提升。"
     },
     "11052": {
         "Dev_Desc": "ShortPhysicalCriticalResistanceRate",
         "Original_Text": "근거리 공격을 받을 시 치명률을 상쇄합니다.",
-        "English_Text": "Critical damage is offset by melee attacks.",
+        "English_Text": "Offsets Critical Rate when receiving a melee attack.",
         "Russian_Text": "",
-        "Chinese_Text": "受到近距离攻击时抵消暴击率。"
+        "Chinese_Text": "所有防御力数值按比例提升。"
     },
     "11053": {
         "Dev_Desc": "LongPhysicalCriticalResistanceRate",
         "Original_Text": "원거리 공격을 받을 시 치명률을 상쇄합니다.",
-        "English_Text": "Offsets the critical rate when receiving ranged attacks.",
+        "English_Text": "Offsets Critical Rate when receiving ranged attacks.",
         "Russian_Text": "",
-        "Chinese_Text": "受到远程攻击时抵消致命率。"
+        "Chinese_Text": "受到攻击时，打偏率提升。"
     },
     "11054": {
         "Dev_Desc": "ForceCriticalResistanceRate",
         "Original_Text": "기공 공격을 받을 시 치명률을 상쇄합니다.",
-        "English_Text": "Critical rate is offset by qigong attacks.",
+        "English_Text": "Offsets Critical Rate when receiving a Force attack.",
         "Russian_Text": "",
-        "Chinese_Text": "受到气功攻击时抵消致命率。"
+        "Chinese_Text": "机敏数值按比例提升。"
     },
     "11055": {
         "Dev_Desc": "CriticalResistanceRate",
         "Original_Text": "모든 유형의 치명 저항률이 증가합니다.",
-        "English_Text": "Increases critical resistance of all types.",
+        "English_Text": "Increases Critical Resist of all types.",
         "Russian_Text": "",
-        "Chinese_Text": "所有类型的暴击抵抗率增加。"
+        "Chinese_Text": "受到暴击时，减少受到的暴击额外攻击力。"
     },
     "11056": {
         "Dev_Desc": "CriticalAttackReduction",
         "Original_Text": "치명타 공격으로 받는 추가 피해를 상쇄합니다.",
-        "English_Text": "Critical strikes offset additional damage taken.",
+        "English_Text": "Offsets the bonus damage received by a critical hit.",
         "Russian_Text": "",
-        "Chinese_Text": "抵消致命打击造成的额外伤害。"
+        "Chinese_Text": "受到攻击时，暴击率减少。"
     },
     "11057": {
         "Dev_Desc": "FatalAttackReduction",
         "Original_Text": "약점 공격으로 받는 추가 피해를 상쇄합니다.",
-        "English_Text": "Offsets additional damage taken from weakness attacks.",
+        "English_Text": "Offsets the bonus damage received when a weak spot is attacked.",
         "Russian_Text": "",
-        "Chinese_Text": "抵消因弱点攻击而受到的追加伤害。"
+        "Chinese_Text": "受到弱点攻击时，降低弱点额外攻击力。"
     },
     "11058": {
         "Dev_Desc": "BlockpenetrationAttackReduction",
         "Original_Text": "막기 관통으로 받는 추가 피해를 상쇄합니다.",
-        "English_Text": "Benefits additional damage taken from Block Penetration.",
+        "English_Text": "Offsets the bonus damage received by the opponent's Block Piercing.",
         "Russian_Text": "",
-        "Chinese_Text": "抵消被阻挡穿透造成的额外伤害。"
+        "Chinese_Text": "格挡被穿刺时，降低格挡额外攻击力。"
     },
     "11059": {
         "Dev_Desc": "ReduceDamagePure",
         "Original_Text": "방어 무시 공격으로 받는 추가 피해를 상쇄합니다.",
-        "English_Text": "Offsets additional damage taken from defense ignore attacks.",
+        "English_Text": "Offsets the bonus damage received by an attack that ignores Defense.",
         "Russian_Text": "",
-        "Chinese_Text": "抵消防御无视攻击造成的附加伤害。"
+        "Chinese_Text": "计算后受到的伤害量按比例减少。"
     },
     "11060": {
         "Dev_Desc": "HP",
         "Original_Text": "생명력이 0이 될 경우 사망합니다.",
-        "English_Text": "If you reach 0 health, you die.",
+        "English_Text": "The character dies when HP reaches 0.",
         "Russian_Text": "",
-        "Chinese_Text": "生命力为0时死亡。"
+        "Chinese_Text": "柔韧数值按比例提升。"
     },
     "11061": {
         "Dev_Desc": "HPRate",
         "Original_Text": "생명력이 증가합니다.",
-        "English_Text": "Health is increased.",
+        "English_Text": "Increases the HP.",
         "Russian_Text": "",
-        "Chinese_Text": "生命力增加。"
+        "Chinese_Text": "降低被施加控制的概率。"
     },
     "11062": {
         "Dev_Desc": "Focus",
         "Original_Text": "무공 사용 시 감소하는 자원입니다.",
-        "English_Text": "Resources that decrease when using a weapon.",
+        "English_Text": "Consumed when using techniques.",
         "Russian_Text": "",
-        "Chinese_Text": "无公害使用时减少的资源。"
+        "Chinese_Text": "使用格挡技能时，目标的格挡穿刺率减少。"
     },
     "11063": {
         "Dev_Desc": "Stamina",
         "Original_Text": "경공을 사용하거나 공격을 막을 시 감소하는 자원입니다.",
-        "English_Text": "Resources that decrease when using light air or blocking attacks.",
+        "English_Text": "Consumed when windwalking and blocking attacks.",
         "Russian_Text": "",
-        "Chinese_Text": "使用轻攻或阻止攻击时减少的资源。"
+        "Chinese_Text": "成功打偏时，伤害量按比例减少。"
     },
     "11064": {
         "Dev_Desc": "RegenerationHP",
         "Original_Text": "단위 시간 당 회복되는 생명력이 증가합니다.",
-        "English_Text": "Health recovered per unit time increases.",
+        "English_Text": "Increases the HP recovered per the unit of time.",
         "Russian_Text": "",
-        "Chinese_Text": "单位时间内恢复的生命力增加。"
+        "Chinese_Text": "成功格挡时，伤害量按比例减少。"
     },
     "11065": {
         "Dev_Desc": "FixedRegenerationHP",
         "Original_Text": "소지 무게와 무관하게, 단위 시간 당 회복되는 생명력이 증가합니다.",
-        "English_Text": "Health recovered per unit time increases regardless of the weight you possess.",
+        "English_Text": "Increases the HP recovered per unit of time regardless of the inventory weight.",
         "Russian_Text": "",
-        "Chinese_Text": "与所持重量无关，每单位时间恢复的生命力增加。"
+        "Chinese_Text": "成功招架时，伤害量按比例减少。"
     },
     "11066": {
         "Dev_Desc": "RegenerationFocus",
         "Original_Text": "단위 시간 당 회복되는 내력이 증가합니다.",
-        "English_Text": "The strength recovered per unit time increases.",
+        "English_Text": "Increases the Focus recovered per unit of time.",
         "Russian_Text": "",
-        "Chinese_Text": "每单位时间恢复的内力增加。"
+        "Chinese_Text": "提升金币获得量。"
     },
     "11067": {
         "Dev_Desc": "FixedRegenerationFocus",
         "Original_Text": "소지 무게와 무관하게, 단위 시간 당 회복되는 내력이 증가합니다.",
-        "English_Text": "Regardless of the weight possessed, the strength recovered per unit time increases.",
+        "English_Text": "Increases the Focus recovered per unit of time regardless of the inventory weight.",
         "Russian_Text": "",
-        "Chinese_Text": "与所持重量无关，每单位时间恢复的内力增加。"
+        "Chinese_Text": "提升经验值获得量。"
     },
     "11068": {
         "Dev_Desc": "ControlFocus",
         "Original_Text": "무공 사용 시 소모되는 내력이 감소합니다.",
-        "English_Text": "Strength consumed when using martial arts is reduced.",
+        "English_Text": "Decreases the Focus cost for techniques.",
         "Russian_Text": "",
-        "Chinese_Text": "使用武功时消耗的内力减少。"
+        "Chinese_Text": "提升每一跳的生命恢复值。"
     },
     "11069": {
         "Dev_Desc": "RegenerationStamina",
         "Original_Text": "단위 시간 당 회복되는 기력이 증가합니다.",
-        "English_Text": "The energy recovered per unit time increases.",
+        "English_Text": "Increases the Vitality recovered per unit of time.",
         "Russian_Text": "",
-        "Chinese_Text": "每单位时间恢复的气力增加。"
+        "Chinese_Text": "提升每一跳的内力恢复值。"
     },
     "11070": {
         "Dev_Desc": "HPPotionRecovery",
         "Original_Text": "생명력 회복 물약 사용 시 회복량이 증가합니다.",
-        "English_Text": "Healing is increased when using a potion of healing.",
+        "English_Text": "Increases HP recovery when using HP Tonics.",
         "Russian_Text": "",
-        "Chinese_Text": "使用生命力恢复药水时恢复量增加。"
+        "Chinese_Text": "提升每一跳的气力恢复值。"
     },
     "11071": {
         "Dev_Desc": "HPPotionRecoveryRate",
         "Original_Text": "생명력 회복 물약 사용 시 회복량이 일정 비율 증가합니다.",
-        "English_Text": "When using a potion that restores life, the amount of recovery is increased by a certain percentage.",
+        "English_Text": "Increases the HP recovery by a percentage when using HP Tonics.",
         "Russian_Text": "",
-        "Chinese_Text": "使用生命力恢复药水时恢复量增加一定比例。"
+        "Chinese_Text": "提升不受携带重量影响的每一跳内力恢复值。"
     },
     "11072": {
         "Dev_Desc": "NormalAttackSpeed",
         "Original_Text": "단위 시간 당 기본 공격 횟수가 증가합니다.",
-        "English_Text": "Increases the number of basic attacks per unit time.",
+        "English_Text": "Increases normal attack frequency per unit of time.",
         "Russian_Text": "",
-        "Chinese_Text": "每单位时间增加基本攻击次数。"
+        "Chinese_Text": "使用武功时消耗的内力按比例降低。"
     },
     "11073": {
         "Dev_Desc": "ActiveAttackSpeed",
         "Original_Text": "단위 시간 당 무공 공격 횟수가 증가합니다.",
-        "English_Text": "Increases the number of attacks per unit time.",
+        "English_Text": "Increases technique attack frequency per unit of time.",
         "Russian_Text": "",
-        "Chinese_Text": "每单位时间增加无公害攻击次数。"
+        "Chinese_Text": "作用于首领怪兽弱点部位的切断伤害量。"
     },
     "11074": {
         "Dev_Desc": "SkillDamage",
         "Original_Text": "무공으로 주는 피해가 증가합니다.",
-        "English_Text": "Increases damage dealt with no attacks.",
+        "English_Text": "Increases the damage dealt by technique attacks.",
         "Russian_Text": "",
-        "Chinese_Text": "无公害伤害增加。"
+        "Chinese_Text": "攻击时，对方的反弹率减少。"
     },
     "11075": {
         "Dev_Desc": "ReduceSkillDamage",
         "Original_Text": "무공으로 받는 피해가 감소합니다.",
-        "English_Text": "Damage taken with no attacks is reduced.",
+        "English_Text": "Decreases the damage received by technique attacks.",
         "Russian_Text": "",
-        "Chinese_Text": "无公害伤害减少。"
+        "Chinese_Text": "最终反弹率提升。"
     },
     "11076": {
         "Dev_Desc": "CutPartsDamageRate",
         "Original_Text": "보스의 약점 공격 시 부위파괴 게이지에 대한 피해량이 증가합니다.",
-        "English_Text": "When attacking the boss's weak points, the damage to part-breaking health is increased.",
+        "English_Text": "Increases Boss Parts damage when attacking the boss's weak spot.",
         "Russian_Text": "",
-        "Chinese_Text": "BOSS的弱点攻击时增加对部位破坏生命力的伤害量。"
+        "Chinese_Text": "游泳速度提升。"
     },
     "11077": {
         "Dev_Desc": "StrikePartsDamageRate",
         "Original_Text": "보스의 약점 공격 시 부위파괴(타격) 게이지에 대한 피해량이 증가합니다.",
-        "English_Text": "When attacking the boss's weakness, the damage to the part destruction (hit) health is increased.",
+        "English_Text": "Increases Boss Parts (Hit) damage when attacking the boss's weak spot.",
         "Russian_Text": "",
-        "Chinese_Text": "BOSS的弱点攻击时增加对部位破坏（打击）生命力的伤害量。"
+        "Chinese_Text": "行走速度提升。"
     },
     "11078": {
         "Dev_Desc": "ControlHPDamageRate",
         "Original_Text": "보스의 약점 공격 시 통제 게이지에 대한 피해량이 증가합니다.",
-        "English_Text": "Increases damage to control health when attacking the boss's weak points.",
+        "English_Text": "Increases CC damage when attacking the boss's weak spot.",
         "Russian_Text": "",
-        "Chinese_Text": "BOSS的弱点攻击时，对控制生命力的伤害量增加。"
+        "Chinese_Text": "行走，游泳速度减少。"
     },
     "11079": {
         "Dev_Desc": "DamageRate",
         "Original_Text": "주는 피해량이 증가합니다.",
-        "English_Text": "Increases damage dealt.",
+        "English_Text": "Increases the amount of outgoing Damage.",
         "Russian_Text": "",
-        "Chinese_Text": "造成的伤害量增加。"
+        "Chinese_Text": "对人战斗时生效的命中。"
     },
     "11080": {
         "Dev_Desc": "ReduceTakenDamageRate",
         "Original_Text": "받는 피해량이 감소합니다.",
-        "English_Text": "Damage taken is reduced.",
+        "English_Text": "Decreases the amount of incoming Damage.",
         "Russian_Text": "",
-        "Chinese_Text": "受到的伤害量减少。"
+        "Chinese_Text": "PvE战斗时生效的额外攻击力。"
     },
     "11081": {
         "Dev_Desc": "HealRate",
         "Original_Text": "주는 치유량이 증가합니다.",
-        "English_Text": "Increases healing done.",
+        "English_Text": "Increases the amount of outgoing Heal.",
         "Russian_Text": "",
-        "Chinese_Text": "造成的治疗量增加。"
+        "Chinese_Text": "游泳速度减少。"
     },
     "11082": {
         "Dev_Desc": "TakenHealRate",
         "Original_Text": "받는 치유량이 증가합니다.",
-        "English_Text": "Increases healing received.",
+        "English_Text": "Increases the amount of Incoming Heal.",
         "Russian_Text": "",
-        "Chinese_Text": "接受的治疗量增加。"
+        "Chinese_Text": "对人战斗时生效的额外攻击力。"
     },
     "11083": {
         "Dev_Desc": "Block",
         "Original_Text": "받은 공격을 막을 확률이 증가합니다.",
-        "English_Text": "Increases chance to block incoming attacks.",
+        "English_Text": "Increases the chance for Block.",
         "Russian_Text": "",
-        "Chinese_Text": "阻止受到攻击的几率增加。"
+        "Chinese_Text": "可携带道具的最大重量。"
     },
     "11084": {
         "Dev_Desc": "Blockpenetration",
         "Original_Text": "막기 관통이 성공할 확률이 증가합니다.",
-        "English_Text": "Increases the chance of a successful block penetration.",
+        "English_Text": "Increases the chance for Block Piercing.",
         "Russian_Text": "",
-        "Chinese_Text": "阻挡穿刺成功几率增加。"
+        "Chinese_Text": "武功的单位时间内攻击次数提升。"
     },
     "11085": {
         "Dev_Desc": "ParryRate",
         "Original_Text": "받은 공격을 튕겨낼 확률이 증가합니다.",
-        "English_Text": "Increases chance to deflect incoming attacks.",
+        "English_Text": "Increases the chance for Parry when blocking an attack.",
         "Russian_Text": "",
-        "Chinese_Text": "闪避受到的攻击的几率增加。"
+        "Chinese_Text": "基本攻击时的灵魂发动率。"
     },
     "11086": {
         "Dev_Desc": "ParryResistanceRate",
         "Original_Text": "공격 시 대상의 튕기기 발동률을 상쇄합니다.",
-        "English_Text": "Offsets the target's bounce rate when attacking.",
+        "English_Text": "Offsets Parry Chance of the defender when dealing attacks.",
         "Russian_Text": "",
-        "Chinese_Text": "攻击时抵消目标闪避的发动率。"
+        "Chinese_Text": "攻击者的灵魂发动率减少。"
     },
     "11087": {
         "Dev_Desc": "SoulRate",
         "Original_Text": "공격 시 소울이 발동할 확률이 증가합니다.",
-        "English_Text": "Your attack has an increased chance to trigger your soul.",
+        "English_Text": "Increases Soul Chance when dealing attacks.",
         "Russian_Text": "",
-        "Chinese_Text": "攻击时灵魂发动几率增加。"
+        "Chinese_Text": "最终灵魂发动率提升。"
     },
     "11088": {
         "Dev_Desc": "SoulResistanceRate",
         "Original_Text": "공격을 받을 시 공격자의 소울 발동률을 상쇄합니다.",
-        "English_Text": "Canceling the attacker's Soul Activation rate when attacked.",
+        "English_Text": "Offsets the attacker's Soul Chance when receiving attacks.",
         "Russian_Text": "",
-        "Chinese_Text": "受到攻击时抵消攻击者的灵魂发动率。"
+        "Chinese_Text": "格挡中反弹攻击的概率提升。"
     },
     "11089": {
         "Dev_Desc": "IncreaseSoulRate",
         "Original_Text": "공격 시 소울이 발동할 확률이 추가로 증가합니다.",
-        "English_Text": "Increases Soul Activation Rate.",
+        "English_Text": "Increases Soul Chance.",
         "Russian_Text": "",
-        "Chinese_Text": "灵魂发动率增加。"
+        "Chinese_Text": "提升灵魂发动率。"
     },
     "11090": {
         "Dev_Desc": "ReduceDamageRateMiss",
         "Original_Text": "받은 공격이 빗맞을 시 받는 피해가 감소합니다.",
-        "English_Text": "You take less damage when your attack misses.",
+        "English_Text": "Decreases the received damage when the incoming attack is missed.",
         "Russian_Text": "",
-        "Chinese_Text": "受到的攻击打偏时受到的伤害减少。"
+        "Chinese_Text": "不计算防御率的伤害量减少。"
     },
     "11091": {
         "Dev_Desc": "ReduceDamageRateBlock",
         "Original_Text": "받은 공격을 막을 시 받는 피해가 감소합니다.",
-        "English_Text": "When you block an attack you take, you take less damage.",
+        "English_Text": "Decreases the received damage when the incoming attack is blocked.",
         "Russian_Text": "",
-        "Chinese_Text": "受到的攻击受到的伤害减少。"
+        "Chinese_Text": "无视防御伤害减少数值按比例提升。"
     },
     "11092": {
         "Dev_Desc": "ReduceDamageRateParry",
         "Original_Text": "받은 공격을 튕겨낼 시 받는 피해가 감소합니다.",
-        "English_Text": "You take less damage when you deflect an attack you take.",
+        "English_Text": "Decreases the received damage when the incoming attack is parried.",
         "Russian_Text": "",
-        "Chinese_Text": "反弹受到的攻击时，受到的伤害减少。"
+        "Chinese_Text": "被控制时，控制时间减少。"
     },
     "11093": {
         "Dev_Desc": "Unyieldingness",
         "Original_Text": "PVP 전투 시 연속으로 받는 피해가 감소합니다.",
-        "English_Text": "Damage taken in a row in PVP battles is reduced.",
+        "English_Text": "Decreases the damage received consecutively during PvP.",
         "Russian_Text": "",
-        "Chinese_Text": "PVP战斗时连续受到的伤害减少。"
+        "Chinese_Text": "行走，游泳速度提升。"
     },
     "11094": {
         "Dev_Desc": "CentralAttack",
         "Original_Text": "PVP 전투 시 대상에게 주는 집중공격 효과가 증가합니다.",
-        "English_Text": "In PVP battles, the effect of the focused attack on the target is increased.",
+        "English_Text": "Increases the Concentrated Attack dealt during PvP matches.",
         "Russian_Text": "",
-        "Chinese_Text": "PVP战斗时对目标的集中攻击效果增加。"
+        "Chinese_Text": "武功伤害量提升。"
     },
     "11095": {
         "Dev_Desc": "CentralAttackResistance",
         "Original_Text": "PVP 전투 시 받은 집중공격 효과를 상쇄합니다.",
-        "English_Text": "It offsets the effect of the focused attack received during PVP battles.",
+        "English_Text": "Offsets the Concentrated Attack received during PvP matches.",
         "Russian_Text": "",
-        "Chinese_Text": "抵消PVP战斗时受到的集中攻击效果。"
+        "Chinese_Text": "PVP战斗时，降低受到的集中攻击效果。"
     },
     "11096": {
         "Dev_Desc": "ShortPhysicalDefenceProbability",
         "Original_Text": "근거리 공격을 받을 시 최종 방어율이 증가합니다.",
-        "English_Text": "Increases your final defense when receiving a melee attack.",
+        "English_Text": "Increases the final Defense against melee attacks.",
         "Russian_Text": "",
-        "Chinese_Text": "受到近距离攻击时最终防御率增加。"
+        "Chinese_Text": "受到近距离类攻击时，近距离防御率提升。"
     },
     "11097": {
         "Dev_Desc": "LongPhysicalDefenceProbability",
         "Original_Text": "원거리 공격을 받을 시 최종 방어율이 증가합니다.",
-        "English_Text": "Your final defense increases when receiving ranged attacks.",
+        "English_Text": "Increases the final Defense against ranged attacks.",
         "Russian_Text": "",
-        "Chinese_Text": "受到远程攻击时，最终防御率增加。"
+        "Chinese_Text": "最终近距离防御率提升。"
     },
     "11098": {
         "Dev_Desc": "ForceDefenceProbability",
         "Original_Text": "기공 공격을 받을 시 최종 방어율이 증가합니다.",
-        "English_Text": "Your final defense is increased when you receive a qigong attack.",
+        "English_Text": "Increases the final Defense against Force attacks.",
         "Russian_Text": "",
-        "Chinese_Text": "受到气功攻击时最终防御率增加。"
+        "Chinese_Text": "受到远距离类攻击时，远距离防御率提升。"
     },
     "11099": {
         "Dev_Desc": "ShortPhysicalPenetrationProbability",
         "Original_Text": "근거리 공격 시 방어자의 최종 방어율을 상쇄합니다.",
-        "English_Text": "Offsets the defender's final ERA when attacking at close range.",
+        "English_Text": "Offsets the defender's final Defense on melee attack.",
         "Russian_Text": "",
-        "Chinese_Text": "近距离攻击抵消防御者的最终防御率。"
+        "Chinese_Text": "近距离攻击时，抵消防御者的最终防御率。"
     },
     "11100": {
         "Dev_Desc": "LongPhysicalPenetrationProbability",
         "Original_Text": "원거리 공격 시 방어자의 최종 방어율을 상쇄합니다.",
-        "English_Text": "Offsets the defender's final defense rate when attacking from a distance.",
+        "English_Text": "Offsets the defender's final Defense on ranged attack.",
         "Russian_Text": "",
-        "Chinese_Text": "远程攻击抵消防御者的最终防御率。"
+        "Chinese_Text": "远距离攻击时，抵消防御者的最终防御率。"
     },
     "11101": {
         "Dev_Desc": "ForcePenetrationProbability",
         "Original_Text": "기공 공격 시 방어자의 최종 방어율을 상쇄합니다.",
-        "English_Text": "When attacking with qigong, the defender's final defense is offset.",
+        "English_Text": "Offsets the defender's final Defense on Force attack.",
         "Russian_Text": "",
-        "Chinese_Text": "气功攻击时抵消防御者的最终防御率。"
+        "Chinese_Text": "气功攻击时，抵消防御者的最终防御率。"
     },
     "11102": {
         "Dev_Desc": "ShortPhysicalHitProbability",
         "Original_Text": "근거리 공격 시 최종 명중 확률이 증가합니다.",
-        "English_Text": "Increases final hit chance with melee attacks.",
+        "English_Text": "Increases the final Accuracy chance for melee attacks.",
         "Russian_Text": "",
-        "Chinese_Text": "近距离攻击时，最终命中率增加。"
+        "Chinese_Text": "命中数值按比例提升。"
     },
     "11103": {
         "Dev_Desc": "LongPhysicalHitProbability",
         "Original_Text": "원거리 공격 시 최종 명중 확률이 증가합니다.",
-        "English_Text": "Increases final hit chance with ranged attacks.",
+        "English_Text": "Increases the final Accuracy chance for ranged attack.",
         "Russian_Text": "",
-        "Chinese_Text": "远程攻击时，最终命中率增加。"
+        "Chinese_Text": "最终命中率提升。"
     },
     "11104": {
         "Dev_Desc": "ForceHitProbability",
         "Original_Text": "기공 공격 시 최종 명중 확률이 증가합니다.",
-        "English_Text": "Increases final hit chance with qigong attacks.",
+        "English_Text": "Increases the final Accuracy chance for Force attacks.",
         "Russian_Text": "",
-        "Chinese_Text": "气功攻击时，最终命中率增加。"
+        "Chinese_Text": "成功暴击时提升的伤害量。"
     },
     "11105": {
         "Dev_Desc": "ShortPhysicalEvasionProbability",
         "Original_Text": "근거리 공격을 받을 시 공격자의 최종 명중 확률을 상쇄합니다.",
-        "English_Text": "Negotiates the attacker's final hit chance when receiving a melee attack.",
+        "English_Text": "Offsets the attacker's final Accuracy chance when receiving a melee attack.",
         "Russian_Text": "",
-        "Chinese_Text": "受到近距离攻击时抵消攻击者的最终命中率。"
+        "Chinese_Text": "受到近距离攻击时，抵消攻击者的最终命中率。"
     },
     "11106": {
         "Dev_Desc": "LongPhysicalEvasionProbability",
         "Original_Text": "원거리 공격을 받을 시 공격자의 최종 명중 확률을 상쇄합니다.",
-        "English_Text": "Offsets the attacker's final chance to hit when hit by ranged attacks.",
+        "English_Text": "Offsets the attacker's final Accuracy chance when receiving a ranged attack.",
         "Russian_Text": "",
-        "Chinese_Text": "受到远程攻击时抵消攻击者的最终命中率。"
+        "Chinese_Text": "受到远距离攻击时，抵消攻击者的最终命中率。"
     },
     "11107": {
         "Dev_Desc": "ForceEvasionProbability",
         "Original_Text": "기공 공격을 받을 시 공격자의 최종 명중 확률을 상쇄합니다.",
-        "English_Text": "Negotiates the attacker's final hit chance when receiving a qigong attack.",
+        "English_Text": "Offsets the attacker's final Accuracy chance when receiving a Force attack.",
         "Russian_Text": "",
-        "Chinese_Text": "接受气功攻击时抵消攻击者的最终命中率。"
+        "Chinese_Text": "受到气功攻击时，抵消攻击者的最终命中率。"
     },
     "11108": {
         "Dev_Desc": "ControlAttack",
         "Original_Text": "통제 공격 성공 시 통제 유지 시간이 증가합니다.",
-        "English_Text": "A successful control attack increases the duration of control.",
+        "English_Text": "Increases CC duration upon an accurate CC.",
         "Russian_Text": "",
-        "Chinese_Text": "控制攻击成功时控制维持时间增加。"
+        "Chinese_Text": "作用于首领怪兽弱点部位的打击伤害量。"
     },
     "11109": {
         "Dev_Desc": "ControlDefence",
         "Original_Text": "통제 상태에 걸릴 시 통제 유지 시간이 감소합니다.",
-        "English_Text": "When you are in control, the duration of control is reduced.",
+        "English_Text": "Decreases CC duration when afflicted with CC.",
         "Russian_Text": "",
-        "Chinese_Text": "处于控制状态时，控制维持时间减少。"
+        "Chinese_Text": "悬挂率提升。"
     },
     "11110": {
         "Dev_Desc": "ControlHitRate",
         "Original_Text": "통제의 성공 확률이 증가합니다.",
-        "English_Text": "Increases success chance of control.",
+        "English_Text": "Increases the chance for CC.",
         "Russian_Text": "",
-        "Chinese_Text": "控制成功几率增加。"
+        "Chinese_Text": "叠加伤害量减少。"
     },
     "11111": {
         "Dev_Desc": "ControlResistanceRate",
         "Original_Text": "통제 상태에 걸릴 확률이 감소합니다.",
-        "English_Text": "Your chance of getting under control is reduced.",
+        "English_Text": "Decreases the chance of being afflicted with CC.",
         "Russian_Text": "",
-        "Chinese_Text": "被控制状态的几率减少。"
+        "Chinese_Text": "普攻的单位时间内攻击次数提升。"
     },
     "11112": {
         "Dev_Desc": "TauntHitRate",
         "Original_Text": "도발의 성공 확률이 증가합니다.",
-        "English_Text": "Increases success chance of taunts.",
+        "English_Text": "Increases the chance for Provoke.",
         "Russian_Text": "",
-        "Chinese_Text": "挑衅成功几率增加。"
+        "Chinese_Text": "提升挑衅的成功率。"
     },
     "11113": {
         "Dev_Desc": "TauntResistanceRate",
         "Original_Text": "도발 상태에 걸릴 확률이 감소합니다.",
-        "English_Text": "Your chance of getting taunted is reduced.",
+        "English_Text": "Decreases the chance of being afflicted with Provoke.",
         "Russian_Text": "",
-        "Chinese_Text": "进入挑衅状态的几率减少。"
+        "Chinese_Text": "降低被挑衅的概率。"
     },
     "11114": {
         "Dev_Desc": "SlowdownHitRate",
         "Original_Text": "둔화의 성공 확률이 증가합니다.",
-        "English_Text": "Increases the success chance of slowing.",
+        "English_Text": "Increases the chance for Slow.",
         "Russian_Text": "",
-        "Chinese_Text": "钝化的成功几率增加。"
+        "Chinese_Text": "提升缓速的成功率。"
     },
     "11115": {
         "Dev_Desc": "SlowdownResistanceRate",
         "Original_Text": "둔화 상태에 걸릴 확률이 감소합니다.",
-        "English_Text": "Your chance of getting slow is reduced.",
+        "English_Text": "Decreases the chance of being afflicted with Slow.",
         "Russian_Text": "",
-        "Chinese_Text": "钝化状态的几率减少。"
+        "Chinese_Text": "降低被缓速的概率。"
     },
     "11116": {
         "Dev_Desc": "FrozenHitRate",
         "Original_Text": "빙결의 성공 확률이 증가합니다.",
-        "English_Text": "Increases the success chance of Freeze.",
+        "English_Text": "Increases the chance for Freeze.",
         "Russian_Text": "",
-        "Chinese_Text": "冰洁的成功几率增加。"
+        "Chinese_Text": "提升冰冻的成功率。"
     },
     "11117": {
         "Dev_Desc": "FrozenResistanceRate",
         "Original_Text": "빙결 상태에 걸릴 확률이 감소합니다.",
-        "English_Text": "Your chance to get frozen is reduced.",
+        "English_Text": "Decreases the chance of being afflicted with Freeze.",
         "Russian_Text": "",
-        "Chinese_Text": "结冰状态下几率减少。"
+        "Chinese_Text": "降低被冰冻的概率。"
     },
     "11118": {
         "Dev_Desc": "FlinchHitRate",
         "Original_Text": "경직의 성공 확률이 증가합니다.",
-        "English_Text": "Increases the success chance of Stiffness.",
+        "English_Text": "Increases the chance for Petrify.",
         "Russian_Text": "",
-        "Chinese_Text": "僵直的成功几率增加。"
+        "Chinese_Text": "提升僵直的成功率。"
     },
     "11119": {
         "Dev_Desc": "FlinchResistanceRate",
         "Original_Text": "경직 상태에 걸릴 확률이 감소합니다.",
-        "English_Text": "Your chance of getting stifled is reduced.",
+        "English_Text": "Decreases the chance of being afflicted with Petrify.",
         "Russian_Text": "",
-        "Chinese_Text": "僵直状态的几率减少。"
+        "Chinese_Text": "降低被僵直的概率。"
     },
     "11120": {
         "Dev_Desc": "BurnHitRate",
         "Original_Text": "화상의 성공 확률이 증가합니다.",
-        "English_Text": "Increases the success chance of burns.",
+        "English_Text": "Increases the chance for Burn.",
         "Russian_Text": "",
-        "Chinese_Text": "火伤的成功几率增加。"
+        "Chinese_Text": "提升烧伤的成功率。"
     },
     "11121": {
         "Dev_Desc": "BurnResistanceRate",
         "Original_Text": "화상 상태에 걸릴 확률이 감소합니다.",
-        "English_Text": "Your chance of getting burned is reduced.",
+        "English_Text": "Decreases the chance of being afflicted with Burn.",
         "Russian_Text": "",
-        "Chinese_Text": "烧伤几率减少。"
+        "Chinese_Text": "降低被烧伤的概率。"
     },
     "11122": {
         "Dev_Desc": "BleedingHitRate",
         "Original_Text": "출혈의 성공 확률이 증가합니다.",
-        "English_Text": "Increases success chance of bleeding.",
+        "English_Text": "Increases the chance for Bleed.",
         "Russian_Text": "",
-        "Chinese_Text": "出血成功几率增加。"
+        "Chinese_Text": "提升出血的成功率。"
     },
     "11123": {
         "Dev_Desc": "BleedingResistanceRate",
         "Original_Text": "출혈 상태에 걸릴 확률이 감소합니다.",
-        "English_Text": "Your chance of getting bleed is reduced.",
+        "English_Text": "Decreases the chance of being afflicted with Bleed.",
         "Russian_Text": "",
-        "Chinese_Text": "出血状态的几率减少。"
+        "Chinese_Text": "降低被出血的概率。"
     },
     "11124": {
         "Dev_Desc": "MovementSpeed",
         "Original_Text": "걷기 속도와 수영 속도가 증가합니다.",
-        "English_Text": "Increases walking and swimming speed.",
+        "English_Text": "Increases Walk and Swim speed.",
         "Russian_Text": "",
-        "Chinese_Text": "行走速度和游泳速度增加。"
+        "Chinese_Text": "攻击时造成的水属性伤害量。"
     },
     "11125": {
         "Dev_Desc": "SwimSpeed",
         "Original_Text": "수영 속도가 증가합니다.",
-        "English_Text": "Increases swimming speed.",
+        "English_Text": "Increases Swim speed.",
         "Russian_Text": "",
-        "Chinese_Text": "游泳速度增加。"
+        "Chinese_Text": "攻击时造成的木属性伤害量。"
     },
     "11126": {
         "Dev_Desc": "WalkSpeed",
         "Original_Text": "걷기 속도가 증가합니다.",
-        "English_Text": "Your walking speed will increase.",
+        "English_Text": "Increases Walk speed.",
         "Russian_Text": "",
-        "Chinese_Text": "行走速度增加。"
+        "Chinese_Text": "攻击时造成的金属性伤害量。"
     },
     "11127": {
         "Dev_Desc": "WeightMax",
         "Original_Text": "가방에 소지할 수 있는 물품의 최대 무게입니다.",
-        "English_Text": "Maximum weight of items you can carry in your bag.",
+        "English_Text": "Maximum Bag weight.",
         "Russian_Text": "",
-        "Chinese_Text": "包里物品的最大重量。"
+        "Chinese_Text": "攻击时造成的火属性伤害量。"
     },
     "11128": {
         "Dev_Desc": "RateGold",
         "Original_Text": "금화 획득량이 증가합니다.",
-        "English_Text": "Increases the amount of gold earned.",
+        "English_Text": "Increases the amount of acquired Gold.",
         "Russian_Text": "",
-        "Chinese_Text": "金币获得量增加。"
+        "Chinese_Text": "首领战斗时生效的额外攻击力。"
     },
     "11129": {
         "Dev_Desc": "RateExp",
         "Original_Text": "경험치 획득량이 증가합니다.",
-        "English_Text": "Experience gain is increased.",
+        "English_Text": "Increases the amount of acquired EXP.",
         "Russian_Text": "",
-        "Chinese_Text": "经验值获得量增加。"
+        "Chinese_Text": "PVE战斗时生效的护身。"
     },
     "11130": {
         "Dev_Desc": "ReduceSEConsumption",
         "Original_Text": "영기 소모량이 감소합니다.",
-        "English_Text": "Aura consumption is reduced.",
+        "English_Text": "Reduces Soul Energy cost.",
         "Russian_Text": "",
-        "Chinese_Text": "灵骑消耗量减少。"
+        "Chinese_Text": "降低灵气消耗量。"
     },
     "11131": {
         "Dev_Desc": "SEFillingAmount",
         "Original_Text": "영기 충전량이 증가합니다.",
-        "English_Text": "Increases aura charge.",
+        "English_Text": "Increases Soul Energy charge.",
         "Russian_Text": "",
-        "Chinese_Text": "灵气充能量增加。"
+        "Chinese_Text": "提升灵气恢复量。"
     },
     "11132": {
         "Dev_Desc": "ReduceHealRate",
         "Original_Text": "주는 치유량이 감소합니다.",
-        "English_Text": "Your healing is reduced.",
+        "English_Text": "Decreases the amount of outgoing Heal.",
         "Russian_Text": "",
-        "Chinese_Text": "造成的治疗量减少。"
+        "Chinese_Text": "行走速度减少。"
     },
     "11133": {
         "Dev_Desc": "ReduceTakenHealRate",
         "Original_Text": "받는 치유량이 감소합니다.",
-        "English_Text": "Healing received is reduced.",
+        "English_Text": "Decreases the amount of Incoming Heal.",
         "Russian_Text": "",
-        "Chinese_Text": "接受的治疗量减少。"
+        "Chinese_Text": "对人战斗时生效的护身。"
     },
     "11134": {
         "Dev_Desc": "ReduceDamageRate",
         "Original_Text": "주는 피해량이 감소합니다.",
-        "English_Text": "Damage is reduced.",
+        "English_Text": "Decreases the amount of outgoing Damage.",
         "Russian_Text": "",
-        "Chinese_Text": "造成的伤害量减少。"
+        "Chinese_Text": "对人战斗时生效的机敏。"
     },
     "11135": {
         "Dev_Desc": "TakenDamageRate",
         "Original_Text": "받는 피해량이 증가합니다.",
-        "English_Text": "Increases damage taken.",
+        "English_Text": "Increases the amount of incoming Damage.",
         "Russian_Text": "",
-        "Chinese_Text": "受到的伤害量增加。"
+        "Chinese_Text": "对人战斗时生效的暴击率。"
     },
     "11136": {
         "Dev_Desc": "ReduceNormalAttackSpeed",
         "Original_Text": "단위 시간 당 기본 공격 횟수가 감소합니다.",
-        "English_Text": "The number of basic attacks per unit time is reduced.",
+        "English_Text": "Decreases normal attack frequency per unit of time.",
         "Russian_Text": "",
-        "Chinese_Text": "单位时间内基本攻击次数减少。"
+        "Chinese_Text": "降低单位时间内的基本攻击次数。"
     },
     "11137": {
         "Dev_Desc": "ReduceActiveAttackSpeed",
         "Original_Text": "단위 시간 당 무공 공격 횟수가 감소합니다.",
-        "English_Text": "The number of non-air attacks per unit time is reduced.",
+        "English_Text": "Decreases technique attack frequency per unit of time.",
         "Russian_Text": "",
-        "Chinese_Text": "单位时间无功攻击次数减少。"
+        "Chinese_Text": "降低单位时间内的武功攻击次数。"
     },
     "11138": {
         "Dev_Desc": "ReduceHpPotionRecovery",
         "Original_Text": "생명력 회복 물약 사용 시 물약 회복량을 상쇄합니다.",
-        "English_Text": "Using a health potion will offset the amount of potion recovery.",
+        "English_Text": "Decreases HP recovery when using HP Tonics.",
         "Russian_Text": "",
-        "Chinese_Text": "使用HP恢复药水时抵消药水恢复量。"
+        "Chinese_Text": "使用生命恢复药时，降低恢复量。"
     },
     "11139": {
         "Dev_Desc": "ReduceHpPotionRecoveryRate",
         "Original_Text": "생명력 회복 물약 사용 시 물약 회복률을 상쇄합니다.",
-        "English_Text": "Using a health potion will offset the potion recovery rate.",
+        "English_Text": "Decreases the HP recovery by a percentage when using HP Tonics.",
         "Russian_Text": "",
-        "Chinese_Text": "使用HP恢复药水时抵消药水恢复率。"
+        "Chinese_Text": "使用生命恢复药时，按一定比例降低恢复量。"
     },
     "11140": {
         "Dev_Desc": "ReduceMovementSpeed",
         "Original_Text": "걷기 속도와 수영 속도가 감소합니다.",
-        "English_Text": "Walking speed and swimming speed are reduced.",
+        "English_Text": "Decreases Walk and Swim speed.",
         "Russian_Text": "",
-        "Chinese_Text": "行走速度和游泳速度减少。"
+        "Chinese_Text": "攻击时造成的土属性伤害量。"
     },
     "11141": {
         "Dev_Desc": "ReduceSwimSpeed",
         "Original_Text": "수영 속도가 감소합니다.",
-        "English_Text": "Your swimming speed is reduced.",
+        "English_Text": "Decreases Swim speed.",
         "Russian_Text": "",
-        "Chinese_Text": "游泳速度减少。"
+        "Chinese_Text": "火属性伤害数值按比例提升。"
     },
     "11142": {
         "Dev_Desc": "ReduceWalkSpeed",
         "Original_Text": "걷기 속도가 감소합니다.",
-        "English_Text": "Your walking speed is reduced.",
+        "English_Text": "Decreases Walk speed.",
         "Russian_Text": "",
-        "Chinese_Text": "行走速度减少。"
+        "Chinese_Text": "水属性伤害数值按比例提升。"
     },
     "11143": {
         "Dev_Desc": "PvPAttack",
         "Original_Text": "PVP 전투 시 추가로 적용되는 공격력입니다.",
-        "English_Text": "Additional attack power applied in PVP battles.",
+        "English_Text": "Bonus Attack for PvP matches.",
         "Russian_Text": "",
-        "Chinese_Text": "PVP战斗时追加适用的攻击力。"
+        "Chinese_Text": "木属性伤害数值按比例提升。"
     },
     "11144": {
         "Dev_Desc": "PvPAttackReduction",
         "Original_Text": "PVP 전투 시 추가로 적용되는 호신입니다.",
-        "English_Text": "Additional self-defense in PVP battles.",
+        "English_Text": "Bonus Protection for PvP matches.",
         "Russian_Text": "",
-        "Chinese_Text": "PVP战斗时追加适用的护身。"
+        "Chinese_Text": "金属性伤害数值按比例提升。"
     },
     "11145": {
         "Dev_Desc": "PvPDefence",
         "Original_Text": "PVP 전투 시 추가로 적용되는 방어력입니다.",
-        "English_Text": "Additional defense applied in PVP battles.",
+        "English_Text": "Bonus Defense for PvP matches.",
         "Russian_Text": "",
-        "Chinese_Text": "PVP战斗时追加使用的防御力。"
+        "Chinese_Text": "土属性伤害数值按比例提升。"
     },
     "11146": {
         "Dev_Desc": "PvPPenetration",
         "Original_Text": "PVP 전투 시 추가로 적용되는 관통력입니다.",
-        "English_Text": "Additional penetration in PVP combat.",
+        "English_Text": "Bonus Piercing for PvP matches.",
         "Russian_Text": "",
-        "Chinese_Text": "PVP战斗时追加使用的攻击力。"
+        "Chinese_Text": "火属性伤害量按比例降低。"
     },
     "11147": {
         "Dev_Desc": "PvPHit",
         "Original_Text": "PVP 전투 시 추가로 적용되는 명중입니다.",
-        "English_Text": "This is an additional hit in PVP battles.",
+        "English_Text": "Bonus Accuracy for PvP matches.",
         "Russian_Text": "",
-        "Chinese_Text": "PVP战斗时追加适用的命中。"
+        "Chinese_Text": "水属性伤害量按比例降低。"
     },
     "11148": {
         "Dev_Desc": "PvPEvasion",
         "Original_Text": "PVP 전투 시 추가로 적용되는 회피입니다.",
-        "English_Text": "An additional evasion applied in PVP combat.",
+        "English_Text": "Bonus Evasion for PvP matches.",
         "Russian_Text": "",
-        "Chinese_Text": "PVP战斗时追加使用的回避。"
+        "Chinese_Text": "木属性伤害量按比例降低。"
     },
     "11149": {
         "Dev_Desc": "PvPCriticalRate",
         "Original_Text": "PVP 전투 시 추가로 적용되는 치명률입니다.",
-        "English_Text": "This is an additional critical rate applied in PVP battles.",
+        "English_Text": "Bonus Critical Rate for PvP matches.",
         "Russian_Text": "",
-        "Chinese_Text": "PVP战斗时追加适用的暴击率。"
+        "Chinese_Text": "金属性伤害量按比例降低。"
     },
     "11150": {
         "Dev_Desc": "PvPCriticalResistanceRate",
         "Original_Text": "PVP 전투 시 추가로 적용되는 치명 저항률입니다.",
-        "English_Text": "Additional critical resistance applied in PVP combat.",
+        "English_Text": "Bonus Critical Resist for PvP matches.",
         "Russian_Text": "",
-        "Chinese_Text": "PVP战斗时追加适用的致命抵抗率。"
+        "Chinese_Text": "土属性伤害量按比例降低。"
     },
     "11151": {
         "Dev_Desc": "PvEAttack",
         "Original_Text": "PVE 전투 시 추가로 적용되는 공격력입니다.",
-        "English_Text": "Additional attack power in PVE battles.",
+        "English_Text": "Bonus Attack for PvE matches.",
         "Russian_Text": "",
-        "Chinese_Text": "PVE战斗时追加适用的攻击力。"
+        "Chinese_Text": "PVE战斗时生效的额外攻击力。"
     },
     "11152": {
         "Dev_Desc": "PvEAttackReduction",
         "Original_Text": "PVE 전투 시 추가로 적용되는 호신입니다.",
-        "English_Text": "Additional self-defense in PVE battles.",
+        "English_Text": "Bonus Protection for PvE matches.",
         "Russian_Text": "",
-        "Chinese_Text": "PVE战斗时追加适用的护身。"
+        "Chinese_Text": "PVE战斗时生效的护身。"
     },
     "11153": {
         "Dev_Desc": "PvEDefence",
         "Original_Text": "PVE 전투 시 추가로 적용되는 방어력입니다.",
-        "English_Text": "Additional defense applied in PVE combat.",
+        "English_Text": "Bonus Defense for PvE matches.",
         "Russian_Text": "",
-        "Chinese_Text": "PVE战斗时追加使用的防御力。"
+        "Chinese_Text": "PVE战斗时生效的防御力。"
     },
     "11154": {
         "Dev_Desc": "PvEPenetration",
         "Original_Text": "PVE 전투 시 추가로 적용되는 관통력입니다.",
-        "English_Text": "Additional penetration in PVE combat.",
+        "English_Text": "Bonus Piercing for PvE matches.",
         "Russian_Text": "",
-        "Chinese_Text": "PVE战斗时追加使用的攻击力。"
+        "Chinese_Text": "PVE战斗时生效的穿刺力。"
     },
     "11155": {
         "Dev_Desc": "PvEHit",
         "Original_Text": "PVE 전투 시 추가로 적용되는 명중입니다.",
-        "English_Text": "This is an additional hit in PVE combat.",
+        "English_Text": "Bonus Accuracy for PvE matches.",
         "Russian_Text": "",
-        "Chinese_Text": "PVE战斗时追加适用的命中。"
+        "Chinese_Text": "PVE战斗时生效的命中。"
     },
     "11156": {
         "Dev_Desc": "PvEEvasion",
         "Original_Text": "PVE 전투 시 추가로 적용되는 회피입니다.",
-        "English_Text": "An additional evasion applied in PVE combat.",
+        "English_Text": "Bonus Evasion for PvE matches.",
         "Russian_Text": "",
-        "Chinese_Text": "PVE战斗时追加使用的回避。"
+        "Chinese_Text": "PVE战斗时生效的闪避。"
     },
     "11157": {
         "Dev_Desc": "PvECriticalRate",
         "Original_Text": "PVE 전투 시 추가로 적용되는 치명률입니다.",
-        "English_Text": "Additional criticality in PVE combat.",
+        "English_Text": "Bonus Critical Rate for PvE matches.",
         "Russian_Text": "",
-        "Chinese_Text": "PVE战斗时追加适用的暴击率。"
+        "Chinese_Text": "PVE战斗时生效的暴击率。"
     },
     "11158": {
         "Dev_Desc": "PvECriticalResistanceRate",
         "Original_Text": "PVE 전투 시 추가로 적용되는 치명 저항률입니다.",
-        "English_Text": "Additional critical resistance applied in PVE combat.",
+        "English_Text": "Bonus Critical Resist for PvE matches.",
         "Russian_Text": "",
-        "Chinese_Text": "PVE战斗时追加适用的致命抵抗率。"
+        "Chinese_Text": "PVE战斗时生效的暴击抵抗率。"
     },
     "11159": {
         "Dev_Desc": "BossAttack",
         "Original_Text": "보스 전투 시 추가로 적용되는 공격력입니다.",
-        "English_Text": "Additional attack power applied during boss battles.",
+        "English_Text": "Bonus Attack for Boss matches.",
         "Russian_Text": "",
-        "Chinese_Text": "BOSS战斗时追加适用的攻击力。"
+        "Chinese_Text": "首领战斗时生效的额外攻击力。"
     },
     "11160": {
         "Dev_Desc": "BossAttackReduction",
         "Original_Text": "보스 전투 시 추가로 적용되는 호신입니다.",
-        "English_Text": "Additional self-defense applied during boss battles.",
+        "English_Text": "Bonus Protection for Boss matches.",
         "Russian_Text": "",
-        "Chinese_Text": "BOSS战斗时追加适用的护身。"
+        "Chinese_Text": "首领战斗时生效的护身。"
     },
     "11161": {
         "Dev_Desc": "BossDefence",
         "Original_Text": "보스 전투 시 추가로 적용되는 방어력입니다.",
-        "English_Text": "Additional defense applied during boss battles.",
+        "English_Text": "Bonus Defense for Boss matches.",
         "Russian_Text": "",
-        "Chinese_Text": "BOSS战斗时追加适用的防御力。"
+        "Chinese_Text": "首领战斗时生效的防御力。"
     },
     "11162": {
         "Dev_Desc": "BossPenetration",
         "Original_Text": "보스 전투 시 추가로 적용되는 관통력입니다.",
-        "English_Text": "Additional penetration applied during boss battles.",
+        "English_Text": "Bonus Piercing for Boss matches.",
         "Russian_Text": "",
-        "Chinese_Text": "BOSS战斗时追加适用的统帅力。"
+        "Chinese_Text": "首领战斗时生效的穿刺力。"
     },
     "11163": {
         "Dev_Desc": "BossHit",
         "Original_Text": "보스 전투 시 추가로 적용되는 명중입니다.",
-        "English_Text": "This is an additional hit during boss battles.",
+        "English_Text": "Bonus Accuracy for Boss matches.",
         "Russian_Text": "",
-        "Chinese_Text": "BOSS战斗时追加适用的命中。"
+        "Chinese_Text": "首领战斗时生效的命中。"
     },
     "11164": {
         "Dev_Desc": "BossEvasion",
         "Original_Text": "보스 전투 시 추가로 적용되는 회피입니다.",
-        "English_Text": "An additional evasion applied during boss battles.",
+        "English_Text": "Bonus Evasion for Boss matches.",
         "Russian_Text": "",
-        "Chinese_Text": "BOSS战斗时追加适用的回避。"
+        "Chinese_Text": "首领战斗时生效的闪避。"
     },
     "11165": {
         "Dev_Desc": "BossCriticalRate",
         "Original_Text": "보스 전투 시 추가로 적용되는 치명률입니다.",
-        "English_Text": "This is an additional critical rate applied during boss battles.",
+        "English_Text": "Bonus Critical Rate for Boss matches.",
         "Russian_Text": "",
-        "Chinese_Text": "BOSS战斗时追加适用的暴击率。"
+        "Chinese_Text": "首领战斗时生效的暴击率。"
     },
     "11166": {
         "Dev_Desc": "BossCriticalResistanceRate",
         "Original_Text": "보스 전투 시 추가로 적용되는 치명 저항률입니다.",
-        "English_Text": "Additional critical resistance applied during boss battles.",
+        "English_Text": "Bonus Critical Resist for Boss matches.",
         "Russian_Text": "",
-        "Chinese_Text": "BOSS战斗时追加适用的暴击抵抗率。"
+        "Chinese_Text": "首领战斗时生效的暴击抵抗率。"
     },
     "11167": {
         "Dev_Desc": "FireDamage",
         "Original_Text": "화 속성 소울 발동 시 화 속성 피해를 추가로 입힙니다.",
-        "English_Text": "Inflicts additional fire damage when Fire element Soul is activated.",
+        "English_Text": "Bonus Fire Damage when a Fire Soul is activated.",
         "Russian_Text": "",
-        "Chinese_Text": "火属性灵魂发动时会造成火属性伤害。"
+        "Chinese_Text": "攻击时额外造成火属性伤害。"
     },
     "11168": {
         "Dev_Desc": "WaterDamage",
         "Original_Text": "수 속성 소울 발동 시 수 속성 피해를 추가로 입힙니다.",
-        "English_Text": "Inflicts additional water damage when water element soul is activated.",
+        "English_Text": "Bonus Water Damage when a Water Soul is activated.",
         "Russian_Text": "",
-        "Chinese_Text": "发动水属性灵魂时追加造成水属性伤害。"
+        "Chinese_Text": "攻击时额外造成水属性伤害。"
     },
     "11169": {
         "Dev_Desc": "WoodDamage",
         "Original_Text": "목 속성 소울 발동 시 목 속성 피해를 추가로 입힙니다.",
-        "English_Text": "Inflicts additional neck damage when wood element soul is activated.",
+        "English_Text": "Bonus Wood Damage when a Wood Soul is activated.",
         "Russian_Text": "",
-        "Chinese_Text": "发动木属性灵魂时追加造成木属性伤害。"
+        "Chinese_Text": "木属性灵魂发动时，额外造成木属性伤害。"
     },
     "11170": {
         "Dev_Desc": "IronDamage",
         "Original_Text": "금 속성 소울 발동 시 금 속성 피해를 추가로 입힙니다.",
-        "English_Text": "Inflicts additional gold damage when gold element soul is activated.",
+        "English_Text": "Bonus Metal Damage when a Metal Soul is activated.",
         "Russian_Text": "",
-        "Chinese_Text": "发动金属性灵魂时追加造成金属性伤害。"
+        "Chinese_Text": "金属性灵魂发动时，额外造成金属性伤害。"
     },
     "11171": {
         "Dev_Desc": "WindDamage",
         "Original_Text": "풍 속성 소울 발동 시 풍 속성 피해를 추가로 입힙니다.",
-        "English_Text": "Inflicts additional wind property damage when wind property soul is activated.",
+        "English_Text": "Bonus Wind Damage when a Wind Soul is activated.",
         "Russian_Text": "",
-        "Chinese_Text": "发动风属性灵魂时追加造成风属性伤害。"
+        "Chinese_Text": "攻击时额外造成风属性伤害。"
     },
     "11172": {
         "Dev_Desc": "LightningDamage",
         "Original_Text": "뇌 속성 소울 발동 시 뇌 속성 피해를 추가로 입힙니다.",
-        "English_Text": "Inflicts additional brain damage when brain property soul is activated.",
+        "English_Text": "Bonus Lightning Damage when a Lightning Soul is activated.",
         "Russian_Text": "",
-        "Chinese_Text": "发动电属性灵魂时追加造成电属性伤害。"
+        "Chinese_Text": "攻击时额外造成雷属性伤害。"
     },
     "11173": {
         "Dev_Desc": "LightDamage",
         "Original_Text": "명 속성 소울 발동 시 명 속성 피해를 추가로 입힙니다.",
-        "English_Text": "Inflicts additional light property damage when light property soul is activated.",
+        "English_Text": "Bonus Light Damage when a Light Soul is activated.",
         "Russian_Text": "",
-        "Chinese_Text": "发动光属性灵魂时追加造成光属性伤害。"
+        "Chinese_Text": "攻击时额外造成明属性伤害。"
     },
     "11174": {
         "Dev_Desc": "DarkDamage",
         "Original_Text": "암 속성 소울 발동 시 암 속성 피해를 추가로 입힙니다.",
-        "English_Text": "Inflicts additional dark damage when Dark Soul is activated.",
+        "English_Text": "Bonus Darkness Damage when a Darkness Soul is activated.",
         "Russian_Text": "",
-        "Chinese_Text": "发动暗属性灵魂时追加造成暗属性伤害。"
+        "Chinese_Text": "攻击时额外造成暗属性伤害。"
     },
     "11175": {
         "Dev_Desc": "ElementDamage",
         "Original_Text": "모든 속성 공격력이 증가합니다.",
-        "English_Text": "Increases all elemental damage.",
+        "English_Text": "Increases Attack for all types.",
         "Russian_Text": "",
-        "Chinese_Text": "所有属性攻击力增加。"
+        "Chinese_Text": "提升所有属性攻击力。"
     },
     "11176": {
         "Dev_Desc": "FireDamageRate",
         "Original_Text": "주는 화 속성 피해가 증가합니다.",
-        "English_Text": "Increases fire damage done.",
+        "English_Text": "Increases the outgoing Fire Damage.",
         "Russian_Text": "",
-        "Chinese_Text": "主提升火属性伤害。"
+        "Chinese_Text": "火属性伤害按比例提升。"
     },
     "11177": {
         "Dev_Desc": "WaterDamageRate",
         "Original_Text": "주는 수 속성 피해가 증가합니다.",
-        "English_Text": "Increases water damage dealt.",
+        "English_Text": "Increases the outgoing Water Damage.",
         "Russian_Text": "",
-        "Chinese_Text": "造成的水属性伤害增加。"
+        "Chinese_Text": "水属性伤害按比例提升。"
     },
     "11178": {
         "Dev_Desc": "WoodDamageRate",
         "Original_Text": "주는 목 속성 피해가 증가합니다.",
-        "English_Text": "Increases neck damage dealt.",
+        "English_Text": "Increases the outgoing Light Damage.",
         "Russian_Text": "",
-        "Chinese_Text": "造成的木属性伤害增加。"
+        "Chinese_Text": "提升造成的木属性伤害。"
     },
     "11179": {
         "Dev_Desc": "IronDamageRate",
         "Original_Text": "주는 금 속성 피해가 증가합니다.",
-        "English_Text": "Increases gold damage dealt.",
+        "English_Text": "Increases the outgoing Metal Damage.",
         "Russian_Text": "",
-        "Chinese_Text": "造成的金属性伤害增加。"
+        "Chinese_Text": "提升造成的金属性伤害。"
     },
     "11180": {
         "Dev_Desc": "WindDamageRate",
         "Original_Text": "주는 풍 속성 피해가 증가합니다.",
-        "English_Text": "Increases wind property damage.",
+        "English_Text": "Increases the outgoing Wind Damage.",
         "Russian_Text": "",
-        "Chinese_Text": "造成的风属性伤害增加。"
+        "Chinese_Text": "风属性伤害按比例提升。"
     },
     "11181": {
         "Dev_Desc": "LightningDamageRate",
         "Original_Text": "주는 뇌 속성 피해가 증가합니다.",
-        "English_Text": "Increases brain damage dealt.",
+        "English_Text": "Increases the outgoing Lightning Damage.",
         "Russian_Text": "",
-        "Chinese_Text": "造成的电属性伤害增加。"
+        "Chinese_Text": "雷属性伤害按比例提升。"
     },
     "11182": {
         "Dev_Desc": "LightDamageRate",
         "Original_Text": "주는 명 속성 피해가 증가합니다.",
-        "English_Text": "Increases light property damage.",
+        "English_Text": "Increases the outgoing Light Damage.",
         "Russian_Text": "",
-        "Chinese_Text": "造成的光属性伤害增加。"
+        "Chinese_Text": "明属性伤害按比例提升。"
     },
     "11183": {
         "Dev_Desc": "DarkDamageRate",
         "Original_Text": "주는 암 속성 피해가 증가합니다.",
-        "English_Text": "Increases Cancer damage dealt.",
+        "English_Text": "Increases the outgoing Darkness Damage.",
         "Russian_Text": "",
-        "Chinese_Text": "造成的暗属性伤害增加。"
+        "Chinese_Text": "暗属性伤害按比例提升。"
     },
     "11184": {
         "Dev_Desc": "ElementDamageRate",
         "Original_Text": "모든 속성 피해 증폭이 증가합니다.",
-        "English_Text": "Increases all elemental damage amplification.",
+        "English_Text": "Increases Amplified Damage for all types.",
         "Russian_Text": "",
-        "Chinese_Text": "造成的所有属性伤害增加。"
+        "Chinese_Text": "提升所有属性伤害增幅。"
     },
     "11185": {
         "Dev_Desc": "FireDamageToleranceRate",
         "Original_Text": "받는 화 속성 피해가 감소합니다.",
-        "English_Text": "Reduces fire damage taken.",
+        "English_Text": "Decreases the received Fire Damage.",
         "Russian_Text": "",
-        "Chinese_Text": "受到的火属性伤害减少。"
+        "Chinese_Text": "火属性伤害按比例降低。"
     },
     "11186": {
         "Dev_Desc": "WaterDamageToleranceRate",
         "Original_Text": "받는 수 속성 피해가 감소합니다.",
-        "English_Text": "Reduces water damage taken.",
+        "English_Text": "Decreases the received Water Damage.",
         "Russian_Text": "",
-        "Chinese_Text": "受到的水属性伤害减少。"
+        "Chinese_Text": "水属性伤害按比例降低。"
     },
     "11187": {
         "Dev_Desc": "WoodDamageToleranceRate",
         "Original_Text": "받는 목 속성 피해가 감소합니다.",
-        "English_Text": "Reduces neck damage taken.",
+        "English_Text": "Decreases the received Wood Damage.",
         "Russian_Text": "",
-        "Chinese_Text": "受到的木属性伤害减少。"
+        "Chinese_Text": "降低以木属性受到的伤害。"
     },
     "11188": {
         "Dev_Desc": "IronDamageToleranceRate",
         "Original_Text": "받는 금 속성 피해가 감소합니다.",
-        "English_Text": "Reduces gold damage received.",
+        "English_Text": "Decreases the received Metal Damage.",
         "Russian_Text": "",
-        "Chinese_Text": "受到的金属性伤害减少。"
+        "Chinese_Text": "降低以金属性受到的伤害。"
     },
     "11189": {
         "Dev_Desc": "WindDamageToleranceRate",
         "Original_Text": "받는 풍 속성 피해가 감소합니다.",
-        "English_Text": "Reduces wind property damage received.",
+        "English_Text": "Decreases the received Wind Damage.",
         "Russian_Text": "",
-        "Chinese_Text": "受到的风属性伤害减少。"
+        "Chinese_Text": "风属性伤害按比例降低。"
     },
     "11190": {
         "Dev_Desc": "LightningDamageToleranceRate",
         "Original_Text": "받는 뇌 속성 피해가 감소합니다.",
-        "English_Text": "Reduces brain damage taken.",
+        "English_Text": "Decreases the received Lightning Damage.",
         "Russian_Text": "",
-        "Chinese_Text": "受到的电属性伤害减少。"
+        "Chinese_Text": "雷属性伤害按比例降低。"
     },
     "11191": {
         "Dev_Desc": "LightDamageToleranceRate",
         "Original_Text": "받는 명 속성 피해가 감소합니다.",
-        "English_Text": "Reduces light damage taken.",
+        "English_Text": "Decreases the received Light Damage.",
         "Russian_Text": "",
-        "Chinese_Text": "受到的光属性伤害减少。"
+        "Chinese_Text": "明属性伤害按比例降低。"
     },
     "11192": {
         "Dev_Desc": "DarkDamageToleranceRate",
         "Original_Text": "받는 암 속성 피해가 감소합니다.",
-        "English_Text": "Reduces cancer damage taken.",
+        "English_Text": "Decreases the received Darkness Damage.",
         "Russian_Text": "",
-        "Chinese_Text": "受到的暗属性伤害减少。"
+        "Chinese_Text": "暗属性伤害按比例降低。"
     },
     "11193": {
         "Dev_Desc": "ElementDamageToleranceRate",
         "Original_Text": "모든 속성 피해 내성이 증가합니다.",
-        "English_Text": "Increases all elemental damage resistance.",
+        "English_Text": "Increases Damage Resist for all types.",
         "Russian_Text": "",
-        "Chinese_Text": "受到的所有属性伤害减。"
+        "Chinese_Text": "提升所有属性伤害抗性。"
     },
     "11194": {
         "Dev_Desc": "ElementDamageValue",
         "Original_Text": "소울 발동 시 주는 속성 피해가 증폭됩니다.",
-        "English_Text": "The elemental damage inflicted when Soul is activated is amplified.",
+        "English_Text": "Amplifies the outgoing type damage upon Soul activation.",
         "Russian_Text": "",
-        "Chinese_Text": "灵魂发动时的属性伤害增加。"
+        "Chinese_Text": "灵魂发动时，造成的属性伤害得到增幅。"
     },
     "11195": {
         "Dev_Desc": "ElementDamageValueRate",
         "Original_Text": "소울 발동 시 주는 속성 피해가 추가로 증폭됩니다.",
-        "English_Text": "Additionally amplifies elemental damage when Soul is activated.",
+        "English_Text": "Additionally amplifies the outgoing type damage upon Soul activation.",
         "Russian_Text": "",
-        "Chinese_Text": "灵魂发动时的属性伤害追加增加。"
+        "Chinese_Text": "灵魂发动时，造成的属性伤害得到增幅。"
     },
     "11196": {
         "Dev_Desc": "SoulParryDamage",

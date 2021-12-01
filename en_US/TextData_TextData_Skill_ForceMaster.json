@@ -4,42 +4,42 @@
         "Dev_Desc": "기공패 디버프 화상_이름",
         "id": 60030001,
         "alias": "Contents.Effect.Name.FireBangle.300001",
-        "text": "burn"
+        "text": "Burn"
     },
     "60030002": {
         "deprecated": false,
         "Dev_Desc": "기공패 디버프 화상_내용",
         "id": 60030002,
         "alias": "Contents.Effect.Desc.FireBangle.300001",
-        "text": "Damage over time"
+        "text": "DoT"
     },
     "60030003": {
         "deprecated": false,
         "Dev_Desc": "기공패 디버프 화상_옵션",
         "id": 60030003,
         "alias": "Contents.Effect.Option.FireBangle.300001",
-        "text": "Damage over time"
+        "text": "DoT while effective"
     },
     "60030004": {
         "deprecated": false,
         "Dev_Desc": "기공패 디버프 불씨_이름",
         "id": 60030004,
         "alias": "Contents.Effect.Name.FireBangle.300002",
-        "text": "embers"
+        "text": "Ember"
     },
     "60030005": {
         "deprecated": false,
         "Dev_Desc": "기공패 디버프 불씨_내용",
         "id": 60030005,
         "alias": "Contents.Effect.Desc.FireBangle.300002",
-        "text": "Can apply burn effect"
+        "text": "Burn available"
     },
     "60030006": {
         "deprecated": false,
         "Dev_Desc": "기공패 디버프 불씨_옵션",
         "id": 60030006,
         "alias": "Contents.Effect.Option.FireBangle.300002",
-        "text": "Can apply \"Burn\" effect that deals damage over time"
+        "text": "Burn that deals DoT available"
     },
     "60030007": {
         "deprecated": false,
@@ -53,7 +53,7 @@
         "Dev_Desc": "기공패 디버프 둔화_내용",
         "id": 60030008,
         "alias": "Contents.Effect.Desc.FireBangle.300020",
-        "text": "reduce movement speed"
+        "text": "Move Speed ▼"
     },
     "60030009": {
         "deprecated": false,
@@ -74,182 +74,182 @@
         "Dev_Desc": "기공패 용렬빙하 빙결_내용",
         "id": 60030011,
         "alias": "Contents.Effect.Desc.FireBangle.300019",
-        "text": "Cannot move and use some weapons"
+        "text": "Unable to move or use certain techniques."
     },
     "60030012": {
         "deprecated": false,
         "Dev_Desc": "기공패 용렬빙하 빙결_옵션",
         "id": 60030012,
         "alias": "Contents.Effect.Option.FireBangle.300019",
-        "text": "Cannot move\nCannot use some weapons"
+        "text": "Unable to move\nUnable to use certain techniques"
     },
     "60030013": {
         "deprecated": false,
         "Dev_Desc": "기공패 디버프 홍염_이름",
         "id": 60030013,
         "alias": "Contents.Effect.Name.FireBangle.300040",
-        "text": "Red flame"
+        "text": "Red Flame"
     },
     "60030014": {
         "deprecated": false,
         "Dev_Desc": "기공패 디버프 홍염_내용",
         "id": 60030014,
         "alias": "Contents.Effect.Desc.FireBangle.300040",
-        "text": "Reduced qigong absolute defense"
+        "text": "Decreases Force Defense."
     },
     "60030015": {
         "deprecated": false,
         "Dev_Desc": "기공패 디버프 홍염_옵션",
         "id": 60030015,
         "alias": "Contents.Effect.Option.FireBangle.300040",
-        "text": "Qigong Absolute Defense -5%"
+        "text": "Force Defense -2"
     },
     "60030016": {
         "deprecated": false,
         "Dev_Desc": "기공패 디버프 홍염_옵션",
         "id": 60030016,
         "alias": "Contents.Effect.Option.FireBangle.300041",
-        "text": "Qigong Defense -3"
+        "text": "Force Defense -3"
     },
     "60030017": {
         "deprecated": false,
         "Dev_Desc": "기공패 디버프 홍염_옵션",
         "id": 60030017,
         "alias": "Contents.Effect.Option.FireBangle.300042",
-        "text": "Qigong Defense -4"
+        "text": "Force Defense -4"
     },
     "60030018": {
         "deprecated": false,
         "Dev_Desc": "기공패 디버프 홍염_옵션",
         "id": 60030018,
         "alias": "Contents.Effect.Option.FireBangle.300043",
-        "text": "Qigong Defense -5"
+        "text": "Force Defense -5"
     },
     "60030019": {
         "deprecated": false,
         "Dev_Desc": "기공패 디버프 홍염_옵션",
         "id": 60030019,
         "alias": "Contents.Effect.Option.FireBangle.300044",
-        "text": "Qigong Defense -6"
+        "text": "Force Defense -6"
     },
     "60030020": {
         "deprecated": false,
         "Dev_Desc": "기공패 디버프 홍염_옵션",
         "id": 60030020,
         "alias": "Contents.Effect.Option.FireBangle.300045",
-        "text": "Qigong Defense -7"
+        "text": "Force Defense -7"
     },
     "60030021": {
         "deprecated": false,
         "Dev_Desc": "기공패 디버프 홍염_옵션",
         "id": 60030021,
         "alias": "Contents.Effect.Option.FireBangle.300046",
-        "text": "Qigong Defense -8"
+        "text": "Force Defense -8"
     },
     "60030022": {
         "deprecated": false,
         "Dev_Desc": "기공패 디버프 홍염_옵션",
         "id": 60030022,
         "alias": "Contents.Effect.Option.FireBangle.300047",
-        "text": "Qigong Defense -9"
+        "text": "Force Defense -9"
     },
     "60030023": {
         "deprecated": false,
         "Dev_Desc": "기공패 디버프 홍염_옵션",
         "id": 60030023,
         "alias": "Contents.Effect.Option.FireBangle.300048",
-        "text": "Qigong Defense -10"
+        "text": "Force Defense -10"
     },
     "60030024": {
         "deprecated": false,
         "Dev_Desc": "기공패 디버프 홍염_옵션",
         "id": 60030024,
         "alias": "Contents.Effect.Option.FireBangle.300049",
-        "text": "Qigong Defense -12"
+        "text": "Force Defense -12"
     },
     "60030025": {
         "deprecated": false,
         "Dev_Desc": "화륜 가열_평타+무공공속증가_세부",
         "id": 60030025,
         "alias": "Contents.Effect.Name.FireBangle.344111",
-        "text": "Heated"
+        "text": "Heater"
     },
     "60030026": {
         "deprecated": false,
         "Dev_Desc": "화륜 가열_평타+무공공속증가_세부",
         "id": 60030026,
         "alias": "Contents.Effect.Desc.FireBangle.344111",
-        "text": "Increases attack speed related abilities"
+        "text": "Increases all attack speed abilities"
     },
     "60030027": {
         "deprecated": false,
         "Dev_Desc": "화륜 가열_평타+무공공속증가_세부",
         "id": 60030027,
         "alias": "Contents.Effect.Option.FireBangle.344111",
-        "text": "Base attack speed +50%"
+        "text": "Normal Attack Speed +30%\nTechnique Attack Speed +2%"
     },
     "60030028": {
         "deprecated": false,
         "Dev_Desc": "화륜 가열_평타+무공공속증가_세부",
         "id": 60030028,
         "alias": "Contents.Effect.Option.FireBangle.344112",
-        "text": "Base attack speed +52%"
+        "text": "Normal Attack Speed +32%\nTechnique Attack Speed +2.5%"
     },
     "60030029": {
         "deprecated": false,
         "Dev_Desc": "화륜 가열_평타+무공공속증가_세부",
         "id": 60030029,
         "alias": "Contents.Effect.Option.FireBangle.344113",
-        "text": "Base attack speed +54%"
+        "text": "Normal Attack Speed +34%\nTechnique Attack Speed +3%"
     },
     "60030030": {
         "deprecated": false,
         "Dev_Desc": "화륜 가열_평타+무공공속증가_세부",
         "id": 60030030,
         "alias": "Contents.Effect.Option.FireBangle.344114",
-        "text": "Base attack speed +56%"
+        "text": "Normal Attack Speed +36%\nTechnique Attack Speed +3.5%"
     },
     "60030031": {
         "deprecated": false,
         "Dev_Desc": "화륜 가열_평타+무공공속증가_세부",
         "id": 60030031,
         "alias": "Contents.Effect.Option.FireBangle.344115",
-        "text": "Base attack speed +58%"
+        "text": "Normal Attack Speed +38%\nTechnique Attack Speed +4%"
     },
     "60030032": {
         "deprecated": false,
         "Dev_Desc": "화륜 가열_평타+무공공속증가_세부",
         "id": 60030032,
         "alias": "Contents.Effect.Option.FireBangle.344116",
-        "text": "Base attack speed +60%"
+        "text": "Normal Attack Speed +40%\nTechnique Attack Speed +4.5%"
     },
     "60030033": {
         "deprecated": false,
         "Dev_Desc": "화륜 가열_평타+무공공속증가_세부",
         "id": 60030033,
         "alias": "Contents.Effect.Option.FireBangle.344117",
-        "text": "Base attack speed +62%"
+        "text": "Normal Attack Speed +42%\nTechnique Attack Speed +5%"
     },
     "60030034": {
         "deprecated": false,
         "Dev_Desc": "화륜 가열_평타+무공공속증가_세부",
         "id": 60030034,
         "alias": "Contents.Effect.Option.FireBangle.344118",
-        "text": "Base attack speed +64%"
+        "text": "Normal Attack Speed +44%\nTechnique Attack Speed +5.5%"
     },
     "60030035": {
         "deprecated": false,
         "Dev_Desc": "화륜 가열_평타+무공공속증가_세부",
         "id": 60030035,
         "alias": "Contents.Effect.Option.FireBangle.344119",
-        "text": "Base attack speed +66%"
+        "text": "Normal Attack Speed 46%\nTechnique Attack Speed +6%"
     },
     "60030036": {
         "deprecated": false,
         "Dev_Desc": "화륜 가열_평타+무공공속증가_세부",
         "id": 60030036,
         "alias": "Contents.Effect.Option.FireBangle.344120",
-        "text": "Base attack speed +68%"
+        "text": "Normal Attack Speed +48%\nTechnique Attack Speed +6.5%"
     },
     "60030037": {
         "deprecated": false,
@@ -263,42 +263,42 @@
         "Dev_Desc": "패시브_냉정_기공패 피해량 효과 표시",
         "id": 60030038,
         "alias": "Contents.Skill.useEffectDesc.FireBangle.3032",
-        "text": "AP +2"
+        "text": "Bangle Attack +5"
     },
     "60030039": {
         "deprecated": false,
         "Dev_Desc": "패시브_열정_기공 공격력 효과 표시",
         "id": 60030039,
         "alias": "Contents.Skill.useEffectDesc.FireBangle.3033",
-        "text": "AP +2"
+        "text": "Force Attack +4"
     },
     "60030040": {
         "deprecated": false,
         "Dev_Desc": "패시브_폭열_기공 관통력 효과 표시",
         "id": 60030040,
         "alias": "Contents.Skill.useEffectDesc.FireBangle.3034",
-        "text": "Penetration +5"
+        "text": "Force Piercing +7"
     },
     "60030041": {
         "deprecated": false,
         "Dev_Desc": "패시브_빙백_지혜 효과 표시",
         "id": 60030041,
         "alias": "Contents.Skill.useEffectDesc.FireBangle.3035",
-        "text": "WIS +4"
+        "text": "WIS +7"
     },
     "60030044": {
         "deprecated": false,
         "Dev_Desc": "패시브_홍염_기공방어력감소",
         "id": 60030044,
         "alias": "Contents.Skill.useEffectDesc.FireBangle.3038",
-        "text": "Target's Qigong Absolute Defense -5%"
+        "text": "Force Defense on target ▼"
     },
     "60030045": {
         "deprecated": false,
         "Dev_Desc": "패시브_빙정_둔화중빙결시빙결추가",
         "id": 60030045,
         "alias": "Contents.Skill.useEffectDesc.FireBangle.3039",
-        "text": "Increased chance to hit with Freeze status"
+        "text": "Chance of inflicting Freeze ▲"
     },
     "60030046": {
         "deprecated": false,
@@ -340,7 +340,7 @@
         "Dev_Desc": "기공패 조건 표시 발화",
         "id": 60030051,
         "alias": "Contents.Skill.requirementDesc.FireBangle.3271",
-        "text": "Fire"
+        "text": "Ignition"
     },
     "60030052": {
         "deprecated": false,
@@ -354,42 +354,42 @@
         "Dev_Desc": "기공패 효과 표시 연화",
         "id": 60030053,
         "alias": "Contents.Skill.useEffectDesc.FireBangle.3351",
-        "text": "Fire"
+        "text": "Ignition"
     },
     "60030054": {
         "deprecated": false,
         "Dev_Desc": "기공패 효과 표시 가열_기본공속",
         "id": 60030054,
         "alias": "Contents.Skill.useEffectDesc.FireBangle.3441",
-        "text": "Base attack speed +50%"
+        "text": "Heater"
     },
     "60030055": {
         "deprecated": false,
         "Dev_Desc": "기공패 화광소천 효과 표시",
         "id": 60030055,
         "alias": "Contents.Skill.useEffectDesc.FireBangle.3651",
-        "text": "Pull, Knock, Stun, Burn"
+        "text": "Pull, Shove, Stun, Burn"
     },
     "60030056": {
         "deprecated": false,
         "Dev_Desc": "기공패 버프 발화Lv1_이름",
         "id": 60030056,
         "alias": "Contents.Effect.Name.FireBangle.300012",
-        "text": "Speech"
+        "text": "Ignition"
     },
     "60030057": {
         "deprecated": false,
         "Dev_Desc": "기공패 버프 발화_내용",
         "id": 60030057,
         "alias": "Contents.Effect.Desc.FireBangle.300012",
-        "text": "Activate Fire Defense"
+        "text": "Activates Fire techniques"
     },
     "60030058": {
         "deprecated": false,
         "Dev_Desc": "기공패 버프 발화_옵션",
         "id": 60030058,
         "alias": "Contents.Effect.Option.FireBangle.300012",
-        "text": "Able to use meteor and flywheel"
+        "text": "Meteor and Scorching Shower available"
     },
     "60030059": {
         "deprecated": false,
@@ -402,70 +402,70 @@
         "Dev_Desc": "화련장",
         "id": 60030060,
         "alias": "Contents.Skill.Name.FireBangle.3061",
-        "text": "Blazing Palm"
+        "text": "Inferno"
     },
     "60030061": {
         "deprecated": false,
         "Dev_Desc": "기공패 무공 화련장_설명",
         "id": 60030061,
         "alias": "Contents.Skill.Desc.FireBangle.3061",
-        "text": "Shoots a fireball at an enemy, dealing damage."
+        "text": "Shoots fireballs to deal damage to enemy."
     },
     "60030062": {
         "deprecated": false,
         "Dev_Desc": "비륜연휘",
         "id": 60030062,
         "alias": "Contents.Skill.Name.FireBangle.3271",
-        "text": "Skill 3271"
+        "text": "Scorching Shower"
     },
     "60030063": {
         "deprecated": false,
         "Dev_Desc": "기공패 무공 비륜연휘_설명",
         "id": 60030063,
         "alias": "Contents.Skill.Desc.FireBangle.3271",
-        "text": "Fires a ball of high-temperature fire, inflicting damage.\\nCan be used by consuming the \"Ignition\" effect."
+        "text": "Shoots a barrage of extremely hot fireballs to deal damage.\nCan be used when afflicted with Ignition."
     },
     "60030064": {
         "deprecated": false,
         "Dev_Desc": "회진보",
         "id": 60030064,
         "alias": "Contents.Skill.Name.FireBangle.3331",
-        "text": "Dodge"
+        "text": "Backstep"
     },
     "60030065": {
         "deprecated": false,
         "Dev_Desc": "기공패 무공 회진보_설명",
         "id": 60030065,
         "alias": "Contents.Skill.Desc.FireBangle.3331",
-        "text": "Transforms into fire and ashes, dispels the stun effect and evades backwards. When used, control resistance increases for 5 seconds"
+        "text": "Transforms into fire and ashes and dodges backward."
     },
     "60030066": {
         "deprecated": false,
         "Dev_Desc": "연화",
         "id": 60030066,
         "alias": "Contents.Skill.Name.FireBangle.3351",
-        "text": "Yona"
+        "text": "Lotus"
     },
     "60030067": {
         "deprecated": false,
         "Dev_Desc": "기공패 무공 연화_설명",
         "id": 60030067,
         "alias": "Contents.Skill.Desc.FireBangle.3351",
-        "text": "Immediately infuses the target with fire, dealing damage.\\n On a hit, you gain a \"Fire\" effect for 5.8 seconds that enables the use of a specific weapon."
+        "text": "Instantly infuses fire into target to deal damage.\nAcquires Ignition for 5.5 sec., which enables Meteor and Scorching Shower upon an accurate attack."
     },
     "60030068": {
         "deprecated": false,
         "Dev_Desc": "얼음창-기본",
         "id": 60030068,
         "alias": "Contents.Skill.Name.FireBangle.3371",
-        "text": "Ice Spear"
+        "text": "Frosty Spear"
     },
     "60030069": {
         "deprecated": false,
         "Dev_Desc": "기공패 무공 얼음창_설명",
         "id": 60030069,
         "alias": "Contents.Skill.Desc.FireBangle.3371",
-        "text": "Summons a number of ice spears and fires them at enemies.\\nApplies a \"slow\" effect that reduces movement speed with a chance."
+        "text": "Shoots multiple frosty spears at enemies.\nHas a chance to inflict Slow which reduces Move Speed."
     },
     "60030070": {
         "deprecated": false,
@@ -479,42 +479,42 @@
         "Dev_Desc": "기공패 무공 유성_설명",
         "id": 60030071,
         "alias": "Contents.Skill.Desc.FireBangle.3627",
-        "text": "Drops a meteor that deals damage and has a chance to apply a Fire effect that deals periodic damage. Consumes Fire and hits up to 3 people in range."
+        "text": "Rains down meteors to deal damage and has a chance to inflict Burn (DoT). Affects up to 3 enemies within ranges when afflicted by Ignition."
     },
     "60030072": {
         "deprecated": false,
         "Dev_Desc": "봉황시",
         "id": 60030072,
         "alias": "Contents.Skill.Name.FireBangle.3381",
-        "text": "Phoenix Feather"
+        "text": "Phoenix"
     },
     "60030073": {
         "deprecated": false,
         "Dev_Desc": "기공패 무공 봉황시_설명",
         "id": 60030073,
         "alias": "Contents.Skill.Desc.FireBangle.3381",
-        "text": " Fly into the air and fire burning phoenix feathers."
+        "text": "Jumps up in the air and rapidly shoots blazing feathers.\nDeals damage which increases relative to WIS."
     },
     "60030074": {
         "deprecated": false,
         "Dev_Desc": "용렬빙하",
         "id": 60030074,
         "alias": "Contents.Skill.Name.FireBangle.3401",
-        "text": "Ice Wall"
+        "text": "Frosty Gimlet"
     },
     "60030075": {
         "deprecated": false,
         "Dev_Desc": "기공패 무공 용렬빙하_설명",
         "id": 60030075,
         "alias": "Contents.Skill.Desc.FireBangle.3401",
-        "text": "Forms a long glacier that rises forward, with a chance to apply a freeze effect that impedes movement. \\n Hits up to 3 people within range."
+        "text": "Creates a glacier that rises forward. Has a chance to inflict Freeze which hinders movement.\nAffects up to 3 enemies within range."
     },
     "60030076": {
         "deprecated": false,
         "Dev_Desc": "결빙공-기본",
         "id": 60030076,
         "alias": "Contents.Skill.Name.FireBangle.3411",
-        "text": "Freezer"
+        "text": "Frost Armor"
     },
     "60030077": {
         "deprecated": false,
@@ -528,21 +528,21 @@
         "Dev_Desc": "무공 화륜",
         "id": 60030078,
         "alias": "Contents.Skill.Name.FireBangle.3441",
-        "text": "Hairwheel"
+        "text": "Fire Circle"
     },
     "60030079": {
         "deprecated": false,
         "Dev_Desc": "무공 화륜 설명",
         "id": 60030079,
         "alias": "Contents.Skill.Desc.FireBangle.3441",
-        "text": "Gives the effect of \"Heating\" that increases the basic attack speed of party members by emitting their internal fire for 12 seconds."
+        "text": "Inflicts Heater, which increases the party members' Normal Attack Speed and Technique Attack Speed by discharging the inner flame for 12 sec."
     },
     "60030080": {
         "deprecated": false,
         "Dev_Desc": "화광소천",
         "id": 60030080,
         "alias": "Contents.Skill.Name.FireBangle.3651",
-        "text": "Dragonwhorl"
+        "text": "Firewhirl"
     },
     "60030081": {
         "deprecated": false,
@@ -556,70 +556,70 @@
         "Dev_Desc": "기공패 패시브 순환",
         "id": 60030082,
         "alias": "Contents.Skill.Name.FireBangle.3031",
-        "text": "Cycle"
+        "text": "Circulation"
     },
     "60030083": {
         "deprecated": false,
         "Dev_Desc": "기공패 패시브 순환_설명",
         "id": 60030083,
         "alias": "Contents.Skill.Desc.FireBangle.3031",
-        "text": "Understands the cycle of heat and cold.\\nINT increases"
+        "text": "Realizes the circulation of heat and cold.\nIncreases INT."
     },
     "60030084": {
         "deprecated": false,
         "Dev_Desc": "기공패 패시브 냉정",
         "id": 60030084,
         "alias": "Contents.Skill.Name.FireBangle.3032",
-        "text": "Cold"
+        "text": "Coldness"
     },
     "60030085": {
         "deprecated": false,
         "Dev_Desc": "기공패 패시브 냉정_설명",
         "id": 60030085,
         "alias": "Contents.Skill.Desc.FireBangle.3032",
-        "text": "Keep a cool and calm attitude.\nThe attack power of the Qigong tile is increased."
+        "text": "Calms the mind to maintain a cold heart.\nIncreases Bangle Attack."
     },
     "60030086": {
         "deprecated": false,
         "Dev_Desc": "기공패 패시브 열정",
         "id": 60030086,
         "alias": "Contents.Skill.Name.FireBangle.3033",
-        "text": "Passion"
+        "text": "Heat"
     },
     "60030087": {
         "deprecated": false,
         "Dev_Desc": "기공패 패시브 열정_설명",
         "id": 60030087,
         "alias": "Contents.Skill.Desc.FireBangle.3033",
-        "text": "He hones himself with his passion for martial arts.\\n AP increases."
+        "text": "Trains with a great passion for martial arts.\nIncreases Force Attack."
     },
     "60030088": {
         "deprecated": false,
         "Dev_Desc": "기공패 패시브 폭열",
         "id": 60030088,
         "alias": "Contents.Skill.Name.FireBangle.3034",
-        "text": "Explosion"
+        "text": "Extreme Heat"
     },
     "60030089": {
         "deprecated": false,
         "Dev_Desc": "기공패 패시브 폭열_설명",
         "id": 60030089,
         "alias": "Contents.Skill.Desc.FireBangle.3034",
-        "text": "Recognize the principle of fire. \\n Penetration is increased."
+        "text": "Increases Force Piercing Damage by understanding the nature of fire."
     },
     "60030090": {
         "deprecated": false,
         "Dev_Desc": "기공패 패시브 빙백",
         "id": 60030090,
         "alias": "Contents.Skill.Name.FireBangle.3035",
-        "text": "Ice Book"
+        "text": "Frosty"
     },
     "60030091": {
         "deprecated": false,
         "Dev_Desc": "기공패 패시브 빙백_설명",
         "id": 60030091,
         "alias": "Contents.Skill.Desc.FireBangle.3035",
-        "text": "I understand the logic of ice.\\nIncreases WIS"
+        "text": "Increases WIS by understanding the nature of ice."
     },
     "60030096": {
         "deprecated": false,
@@ -633,7 +633,7 @@
         "Dev_Desc": "기공패 패시브 홍염_설명",
         "id": 60030097,
         "alias": "Contents.Skill.Desc.FireBangle.3038",
-        "text": "You'll be dealing with more intense red flames.\\nWhen the target is burned, it gives the effect of Crimson Flame that reduces the target's qi absolute defense."
+        "text": "Musters up a fiercer and more fiery flame.\nInflicts Red Flame that decreases Force Defense when the enemy is inflicted by Burn."
     },
     "60030098": {
         "deprecated": false,
@@ -647,28 +647,28 @@
         "Dev_Desc": "기공패 패시브 빙정_설명",
         "id": 60030099,
         "alias": "Contents.Skill.Desc.FireBangle.3039",
-        "text": "You have mastered the skill of handling ice. \\nSlow effect is applied to the target, the chance to hit with the Freeze status increases."
+        "text": "Masters an ice technique.\nIncreases the chance of Freeze\non the enemy afflicted with Slow."
     },
     "60030100": {
         "deprecated": false,
         "Dev_Desc": "화련장_일반_증폭_성장설명",
         "id": 60030100,
         "alias": "Contents.Skill.acquireEffectDesc.3062",
-        "text": "Additional damage based on INT"
+        "text": "Damage ▲"
     },
     "60030101": {
         "deprecated": false,
         "Dev_Desc": "화련장_희귀_극한_성장설명",
         "id": 60030101,
         "alias": "Contents.Skill.acquireEffectDesc.3063",
-        "text": "Converts to wide-area damage\\nHits up to 3 people in range"
+        "text": "Switches to AoE damage\nApplies to up to 3 enemies within range"
     },
     "60030102": {
         "deprecated": false,
         "Dev_Desc": "화련장_영웅_돌파_성장설명",
         "id": 60030102,
         "alias": "Contents.Skill.acquireEffectDesc.3064",
-        "text": " Probability of inflict Fire effect to self for 5.8 seconds"
+        "text": "Has a chance to inflict Ignition which activates Meteor and Scorching Shower for 5.5 sec."
     },
     "60030103": {
         "deprecated": false,
@@ -682,14 +682,14 @@
         "Dev_Desc": "비륜연휘_극한_성장설명",
         "id": 60030104,
         "alias": "Contents.Skill.acquireEffectDesc.3291",
-        "text": "Probability of inflicting \"Fire\" effect on self for 5.8 seconds"
+        "text": "Has a chance to inflict Ignition which activates Meteor and Scorching Shower for 5.5 sec."
     },
     "60030105": {
         "deprecated": false,
         "Dev_Desc": "비륜연휘_돌파_성장설명",
         "id": 60030105,
         "alias": "Contents.Skill.acquireEffectDesc.3321",
-        "text": "Cast Time Reduction"
+        "text": "Uses a combo technique that causes a massive explosion\nAffects the nearby enemies afflicted with Burn."
     },
     "60030106": {
         "deprecated": false,
@@ -738,21 +738,21 @@
         "Dev_Desc": "얼음창_상급_증폭_성장설명",
         "id": 60030112,
         "alias": "Contents.Skill.acquireEffectDesc.3372",
-        "text": "STR Consumption -2"
+        "text": "Focus cost ▼"
     },
     "60030113": {
         "deprecated": false,
         "Dev_Desc": "얼음창_희귀_극한_성장설명",
         "id": 60030113,
         "alias": "Contents.Skill.acquireEffectDesc.3373",
-        "text": "Cooldown -2 seconds"
+        "text": "Cooldown ▼"
     },
     "60030114": {
         "deprecated": false,
         "Dev_Desc": "얼음창_영웅_돌파_성장설명",
         "id": 60030114,
         "alias": "Contents.Skill.acquireEffectDesc.3374",
-        "text": "Probability of applying freeze effect"
+        "text": "Has a chance to additionally inflict Freeze on enemy which hinders movement"
     },
     "60030115": {
         "deprecated": false,
@@ -794,21 +794,21 @@
         "Dev_Desc": "용렬빙하_돌파_성장설명",
         "id": 60030120,
         "alias": "Contents.Skill.acquireEffectDesc.3404",
-        "text": "Increase the range of Melting Glacier\nHit up to 5 people within range"
+        "text": "Expands Frosty Gimlet's range\nApplies to up to 5 enemies within range"
     },
     "60030121": {
         "deprecated": false,
         "Dev_Desc": "결빙공_증폭_성장설명",
         "id": 60030121,
         "alias": "Contents.Skill.acquireEffectDesc.3421",
-        "text": "Energy cost -100"
+        "text": "Vitality cost ▼"
     },
     "60030122": {
         "deprecated": false,
         "Dev_Desc": "결빙공_극한_성장설명",
         "id": 60030122,
         "alias": "Contents.Skill.acquireEffectDesc.3422",
-        "text": "When the defense succeeds, damage is applied to the attacked target"
+        "text": "The defended damage is applied to the attacker"
     },
     "60030123": {
         "deprecated": false,
@@ -822,7 +822,7 @@
         "Dev_Desc": "화륜_증폭_성장설명",
         "id": 60030124,
         "alias": "Contents.Skill.acquireEffectDesc.3442",
-        "text": "Non-Attack Attack Speed +30%"
+        "text": "Duration +4 sec"
     },
     "60030125": {
         "deprecated": false,
@@ -843,14 +843,14 @@
         "Dev_Desc": "유성_상급_증폭_성장설명",
         "id": 60030127,
         "alias": "Contents.Skill.acquireEffectDesc.3628",
-        "text": " Probability of inflict Fire effect to self for 5.8 seconds"
+        "text": "Has a chance to inflict Ignition which activates Meteor and Scorching Shower for 5.5 sec."
     },
     "60030128": {
         "deprecated": false,
         "Dev_Desc": "유성_희귀_극한_성장설명",
         "id": 60030128,
         "alias": "Contents.Skill.acquireEffectDesc.3629",
-        "text": "Shoots an additional ice meteor, with a chance to apply a slow effect."
+        "text": "Additionally shoots ice meteors to inflict Slow which has a chance to reduce Move Speed"
     },
     "60030129": {
         "deprecated": false,
@@ -864,70 +864,70 @@
         "Dev_Desc": "강화텍스트_지능",
         "id": 60030130,
         "alias": "Contents.Skill.Upgrade.Name.3031",
-        "text": "Increased Intelligence"
+        "text": "INT ▲"
     },
     "60030131": {
         "deprecated": false,
         "Dev_Desc": "강화텍스트_기공패 공격력",
         "id": 60030131,
         "alias": "Contents.Skill.Upgrade.Name.3032",
-        "text": "Increase Qigong's attack power"
+        "text": "Bangle Attack ▲"
     },
     "60030132": {
         "deprecated": false,
         "Dev_Desc": "강화텍스트_기공 공격력",
         "id": 60030132,
         "alias": "Contents.Skill.Upgrade.Name.3033",
-        "text": "Increased qi attack power"
+        "text": "Force Attack ▲"
     },
     "60030133": {
         "deprecated": false,
         "Dev_Desc": "강화텍스트_기공 관통력",
         "id": 60030133,
         "alias": "Contents.Skill.Upgrade.Name.3034",
-        "text": "Increased pore penetration"
+        "text": "Force Piercing Damage ▲"
     },
     "60030134": {
         "deprecated": false,
         "Dev_Desc": "강화텍스트_지혜",
         "id": 60030134,
         "alias": "Contents.Skill.Upgrade.Name.3035",
-        "text": "Increase Wisdom"
+        "text": "WIS ▲"
     },
     "60030135": {
         "deprecated": false,
         "Dev_Desc": "강화텍스트_기공 명중",
         "id": 60030135,
         "alias": "Contents.Skill.Upgrade.Name.3037",
-        "text": "Increased Qigong Hit"
+        "text": "Force Accuracy ▲"
     },
     "60030136": {
         "deprecated": false,
         "Dev_Desc": "강화텍스트_무공 피해 계수 증가",
         "id": 60030136,
         "alias": "Contents.Skill.Upgrade.Name.3000",
-        "text": "Increase non-air damage factor"
+        "text": "Technique Damage Factor ▲"
     },
     "60030137": {
         "deprecated": false,
         "Dev_Desc": "강화텍스트_통제 저항률 증가",
         "id": 60030137,
         "alias": "Contents.Skill.Upgrade.Name.3331",
-        "text": "Increase control resistivity"
+        "text": "Focus cost ▼"
     },
     "60030138": {
         "deprecated": false,
         "Dev_Desc": "강화텍스트_막기 중 받는 피해량 감소",
         "id": 60030138,
         "alias": "Contents.Skill.Upgrade.Name.3410",
-        "text": "Reduce Block Damage"
+        "text": "Outgoing Damage ▼"
     },
     "60030139": {
         "deprecated": false,
         "Dev_Desc": "강화텍스트_기본 공격 속도",
         "id": 60030139,
         "alias": "Contents.Skill.Upgrade.Name.3441",
-        "text": "Increased basic attack speed"
+        "text": "Normal Attack Speed ▲"
     },
     "60030140": {
         "deprecated": false,

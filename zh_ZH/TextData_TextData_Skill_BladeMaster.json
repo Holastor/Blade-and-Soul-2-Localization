@@ -11,182 +11,182 @@
         "Dev_Desc": "검사_막기명중률버프",
         "id": 60010001,
         "alias": "Contents.Effect.Desc.LongSword.110112",
-        "text": "增加近战命中"
+        "text": "命中率提升的状态"
     },
     "60010002": {
         "deprecated": false,
         "Dev_Desc": "검사_막기명중률버프",
         "id": 60010002,
         "alias": "Contents.Effect.Option.LongSword.110112",
-        "text": "+5 近战命中"
+        "text": "近距离命中提升（最高10阶段）"
     },
     "60010003": {
         "deprecated": false,
         "Dev_Desc": "검사_어검징표",
         "id": 60010003,
         "alias": "Contents.Effect.Name.LongSword.111112",
-        "text": "复选标记"
+        "text": "御剑缚灵"
     },
     "60010004": {
         "deprecated": false,
         "Dev_Desc": "검사_어검징표",
         "id": 60010004,
         "alias": "Contents.Effect.Desc.LongSword.111112",
-        "text": "受到的伤害增加"
+        "text": "受到的伤害率提升的状态"
     },
     "60010005": {
         "deprecated": false,
         "Dev_Desc": "검사_어검징표",
         "id": 60010005,
         "alias": "Contents.Effect.Option.LongSword.111112",
-        "text": "+10% 受到的伤害增幅"
+        "text": "受到的伤害率提升"
     },
     "60010006": {
         "deprecated": false,
         "Dev_Desc": "일섬",
         "id": 60010006,
         "alias": "Contents.Skill.Name.LongSword.1011",
-        "text": "刀光剑影"
+        "text": "一闪"
     },
     "60010010": {
         "deprecated": false,
         "Dev_Desc": "일섬",
         "id": 60010010,
         "alias": "Contents.Skill.Desc.LongSword.1011",
-        "text": "快速移动并连续造成伤害.\n以一定概率赋予“僵硬”效果."
+        "text": "快速移动至前方的同时斩击敌人。"
     },
     "60010016": {
         "deprecated": false,
         "Dev_Desc": "일섬",
         "id": 60010016,
         "alias": "Contents.Skill.useEffect.LongSword.1011",
-        "text": "刚性"
+        "text": "僵直"
     },
     "60010017": {
         "deprecated": false,
         "Dev_Desc": "일섬_증폭",
         "id": 60010017,
         "alias": "Contents.Skill.Acquire.LongSword.1013",
-        "text": "根据强度施加额外伤害"
+        "text": "降低气力消耗量"
     },
     "60010018": {
         "deprecated": false,
         "Dev_Desc": "일섬_극한",
         "id": 60010018,
         "alias": "Contents.Skill.Acquire.LongSword.1015",
-        "text": "有机会应用方块穿透效果"
+        "text": "每次命中时都可以连续使用"
     },
     "60010019": {
         "deprecated": false,
         "Dev_Desc": "일섬_돌파",
         "id": 60010019,
         "alias": "Contents.Skill.Acquire.LongSword.1016",
-        "text": "增加“剑痕”目标的射程和伤害."
+        "text": "对“御剑缚灵”的目标使用时，射程与伤害量提升"
     },
     "60010020": {
         "deprecated": false,
         "Dev_Desc": "찔러베기",
         "id": 60010020,
         "alias": "Contents.Skill.Name.LongSword.1051",
-        "text": "连斩"
+        "text": "刺斩"
     },
     "60010024": {
         "deprecated": false,
         "Dev_Desc": "찔러베기",
         "id": 60010024,
         "alias": "Contents.Skill.Desc.LongSword.1051",
-        "text": "快速刺杀,连续造成伤害."
+        "text": "快速刺击加斩击，连续造成伤害。"
     },
     "60010031": {
         "deprecated": false,
         "Dev_Desc": "찔러베기_증폭",
         "id": 60010031,
         "alias": "Contents.Skill.Acquire.LongSword.1051_2",
-        "text": "强度消耗-1"
+        "text": "伤害量提升"
     },
     "60010032": {
         "deprecated": false,
         "Dev_Desc": "찔러베기_극한",
         "id": 60010032,
         "alias": "Contents.Skill.Acquire.LongSword.1051_3",
-        "text": "冷却 -2 秒"
+        "text": "冷却时间降低"
     },
     "60010033": {
         "deprecated": false,
         "Dev_Desc": "찔러베기_돌파",
         "id": 60010033,
         "alias": "Contents.Skill.Acquire.LongSword.1051_4",
-        "text": "根据强度施加额外伤害"
+        "text": "降低内力消耗"
     },
     "60010034": {
         "deprecated": false,
         "Dev_Desc": "찌르기",
         "id": 60010034,
         "alias": "Contents.Skill.Name.LongSword.1061",
-        "text": "切骨之刺"
+        "text": "刺击"
     },
     "60010038": {
         "deprecated": false,
         "Dev_Desc": "찌르기",
         "id": 60010038,
         "alias": "Contents.Skill.Desc.LongSword.1061",
-        "text": "刺伤敌人,造成伤害.\n它可以在攻击失败后结合使用."
+        "text": "用剑刺击造成伤害。\n可在攻击武功后连接使用。"
     },
     "60010044": {
         "deprecated": false,
         "Dev_Desc": "찌르기",
         "id": 60010044,
         "alias": "Contents.Skill.Require.LongSword.1061",
-        "text": "使用攻击后"
+        "text": "使用攻击武功后"
     },
     "60010045": {
         "deprecated": false,
         "Dev_Desc": "찌르기_증폭",
         "id": 60010045,
         "alias": "Contents.Skill.Acquire.LongSword.1062",
-        "text": "强度消耗-2"
+        "text": "以一定概率攻击2次"
     },
     "60010046": {
         "deprecated": false,
         "Dev_Desc": "찌르기_극한",
         "id": 60010046,
         "alias": "Contents.Skill.Acquire.LongSword.1063",
-        "text": "改为2刺"
+        "text": "连续攻击概率提升"
     },
     "60010047": {
         "deprecated": false,
         "Dev_Desc": "찌르기_돌파",
         "id": 60010047,
         "alias": "Contents.Skill.Acquire.LongSword.1065",
-        "text": "改为3刺"
+        "text": "以一定概率攻击3次"
     },
     "60010048": {
         "deprecated": false,
         "Dev_Desc": "올려베기",
         "id": 60010048,
         "alias": "Contents.Skill.Name.LongSword.1021",
-        "text": "升龙斩"
+        "text": "挑斩"
     },
     "60010052": {
         "deprecated": false,
         "Dev_Desc": "올려베기",
         "id": 60010052,
         "alias": "Contents.Skill.Desc.LongSword.1021",
-        "text": "用力向上挥动剑进行攻击.\n有机会获得“空中”效果.\n从空中落下后,你“目瞪口呆”."
+        "text": "挑斩造成伤害并击飞敌人。\n从空中落地后陷入眩晕状态。"
     },
     "60010058": {
         "deprecated": false,
         "Dev_Desc": "올려베기",
         "id": 60010058,
         "alias": "Contents.Skill.useEffect.LongSword.1021",
-        "text": "空气,目瞪口呆"
+        "text": "浮空，眩晕"
     },
     "60010059": {
         "deprecated": false,
         "Dev_Desc": "올려베기_증폭",
         "id": 60010059,
         "alias": "Contents.Skill.Acquire.LongSword.1022",
-        "text": "冷却 -2 秒"
+        "text": "冷却时间降低"
     },
     "60010060": {
         "deprecated": false,
@@ -207,42 +207,42 @@
         "Dev_Desc": "뛰어베기",
         "id": 60010062,
         "alias": "Contents.Skill.Name.LongSword.1056",
-        "text": "刀锋之跃"
+        "text": "跳斩"
     },
     "60010066": {
         "deprecated": false,
         "Dev_Desc": "뛰어베기",
         "id": 60010066,
         "alias": "Contents.Skill.Desc.LongSword.1056",
-        "text": "跳向敌人,造成伤害.\n以一定概率赋予“僵硬”效果."
+        "text": "跳起靠近敌人，造成伤害并使敌人僵直。\n可对一定距离外的目标使用。"
     },
     "60010072": {
         "deprecated": false,
         "Dev_Desc": "뛰어베기",
         "id": 60010072,
         "alias": "Contents.Skill.useEffect.LongSword.1056",
-        "text": "刚性"
+        "text": "僵直"
     },
     "60010073": {
         "deprecated": false,
         "Dev_Desc": "뛰어베기_증폭",
         "id": 60010073,
         "alias": "Contents.Skill.Acquire.LongSword.1056_2",
-        "text": "强度消耗-1"
+        "text": "降低内力消耗"
     },
     "60010074": {
         "deprecated": false,
         "Dev_Desc": "뛰어베기_극한",
         "id": 60010074,
         "alias": "Contents.Skill.Acquire.LongSword.1056_3",
-        "text": "伤害增加"
+        "text": "伤害量提升"
     },
     "60010075": {
         "deprecated": false,
         "Dev_Desc": "뛰어베기_돌파",
         "id": 60010075,
         "alias": "Contents.Skill.Acquire.LongSword.1056_4",
-        "text": "使用距离增加"
+        "text": "射程提升"
     },
     "60010076": {
         "deprecated": false,
@@ -256,49 +256,49 @@
         "Dev_Desc": "천지가르기",
         "id": 60010079,
         "alias": "Contents.Skill.Desc.LongSword.1076",
-        "text": "聚集你的力量并挥舞你的剑,造成强大的伤害.\n用于“空中”或“眩晕”的目标."
+        "text": "蓄力斩击，造成大量伤害。\n可对眩晕，被击飞的敌人使用。"
     },
     "60010084": {
         "deprecated": false,
         "Dev_Desc": "천지가르기",
         "id": 60010084,
         "alias": "Contents.Skill.Require.LongSword.1076",
-        "text": "空气,眩晕目标"
+        "text": "浮空，眩晕的目标"
     },
     "60010085": {
         "deprecated": false,
         "Dev_Desc": "천지가르기_증폭",
         "id": 60010085,
         "alias": "Contents.Skill.Acquire.LongSword.1076_2",
-        "text": "根据强度施加额外伤害"
+        "text": "对“御剑缚灵”的目标使用时，命中率提升"
     },
     "60010086": {
         "deprecated": false,
         "Dev_Desc": "천지가르기_극한",
         "id": 60010086,
         "alias": "Contents.Skill.Acquire.LongSword.1076_3",
-        "text": "近战暴击率 +20%"
+        "text": "对“御剑缚灵”的目标使用时，造成无视防御伤害"
     },
     "60010087": {
         "deprecated": false,
         "Dev_Desc": "천지가르기_돌파",
         "id": 60010087,
         "alias": "Contents.Skill.Acquire.LongSword.1076_4",
-        "text": "在“剑痕”上近距离绝对准确度 +50%"
+        "text": "对“御剑缚灵”的目标使用时，造成无视防御伤害"
     },
     "60010088": {
         "deprecated": false,
         "Dev_Desc": "막기",
         "id": 60010088,
         "alias": "Contents.Skill.Name.LongSword.1101",
-        "text": "回避姿态"
+        "text": "格挡"
     },
     "60010091": {
         "deprecated": false,
         "Dev_Desc": "막기",
         "id": 60010091,
         "alias": "Contents.Skill.Desc.LongSword.1101",
-        "text": "格挡前方攻击3秒.\n在阻塞时重复使用时,使用旋转斜线."
+        "text": "防御前方的攻击。\n防御成功时，短时间内提升命中率。"
     },
     "60010095": {
         "deprecated": false,
@@ -312,140 +312,140 @@
         "Dev_Desc": "막기_증폭",
         "id": 60010096,
         "alias": "Contents.Skill.Acquire.LongSword.1101_2",
-        "text": "防御成功后旋转斩伤害增加"
+        "text": "防御时间提升"
     },
     "60010097": {
         "deprecated": false,
         "Dev_Desc": "막기_극한",
         "id": 60010097,
         "alias": "Contents.Skill.Acquire.LongSword.1101_3",
-        "text": "使用旋转斩击时受到的伤害 +30%"
+        "text": "防御成功时，短时间内提升控制命中率"
     },
     "60010098": {
         "deprecated": false,
         "Dev_Desc": "막기_돌파",
         "id": 60010098,
         "alias": "Contents.Skill.Acquire.LongSword.1101_4",
-        "text": "增加弹跳几率 +50%"
+        "text": "防御成功时，提升控制命中率"
     },
     "60010099": {
         "deprecated": false,
         "Dev_Desc": "어검징표",
         "id": 60010099,
         "alias": "Contents.Skill.Name.LongSword.1111",
-        "text": "七决剑气"
+        "text": "御剑缚灵"
     },
     "60010101": {
         "deprecated": false,
         "Dev_Desc": "어검징표",
         "id": 60010101,
         "alias": "Contents.Skill.Desc.LongSword.1111",
-        "text": "用剑刺向敌人,造成伤害.\n赋予“清剑”效果.\n增加“剑痕”期间受到的伤害."
+        "text": "把御剑刺入敌人，提升敌人受到的伤害量。"
     },
     "60010104": {
         "deprecated": false,
         "Dev_Desc": "어검징표",
         "id": 60010104,
         "alias": "Contents.Skill.useEffect.LongSword.1111",
-        "text": "+10% 受到的伤害增幅"
+        "text": "御剑缚灵"
     },
     "60010105": {
         "deprecated": false,
         "Dev_Desc": "어검징표_증",
         "id": 60010105,
         "alias": "Contents.Skill.useEffect.LongSword.1112",
-        "text": "受到的伤害 +10%,眩晕"
+        "text": "御剑缚灵，眩晕"
     },
     "60010107": {
         "deprecated": false,
         "Dev_Desc": "어검징표_증",
         "id": 60010107,
         "alias": "Contents.Skill.Acquire.LongSword.1112",
-        "text": "内力消耗-5"
+        "text": "添加“眩晕”效果"
     },
     "60010108": {
         "deprecated": false,
         "Dev_Desc": "어검징표_극",
         "id": 60010108,
         "alias": "Contents.Skill.Acquire.LongSword.1112_3",
-        "text": "使用距离增加"
+        "text": "添加“眩晕”效果"
     },
     "60010109": {
         "deprecated": false,
         "Dev_Desc": "어검징표_돌",
         "id": 60010109,
         "alias": "Contents.Skill.Acquire.LongSword.1112_4",
-        "text": "有机会应用“眩晕”效果"
+        "text": "添加“眩晕”效果"
     },
     "60010110": {
         "deprecated": false,
         "Dev_Desc": "구름베기",
         "id": 60010110,
         "alias": "Contents.Skill.Name.LongSword.1104",
-        "text": "虚空斩"
+        "text": "云斩"
     },
     "60010112": {
         "deprecated": false,
         "Dev_Desc": "구름베기",
         "id": 60010112,
         "alias": "Contents.Skill.Desc.LongSword.1104",
-        "text": "连续斩断,造成强力伤害.\n有机会获得“空中”效果.\n从空中落下后,你“目瞪口呆”.\n用于“空中”或“眩晕”的目标."
+        "text": "从空中落下之前再次击飞敌人。\n对被击飞的敌人造成大量伤害。\n从空中落地后陷入眩晕状态。\n可在挑斩，飞天斩之后使用。"
     },
     "60010116": {
         "deprecated": false,
         "Dev_Desc": "구름베기",
         "id": 60010116,
         "alias": "Contents.Skill.Require.LongSword.1104",
-        "text": "空气,眩晕目标"
+        "text": "浮空，眩晕的目标"
     },
     "60010117": {
         "deprecated": false,
         "Dev_Desc": "구름베기",
         "id": 60010117,
         "alias": "Contents.Skill.useEffect.LongSword.1104",
-        "text": "空气,目瞪口呆"
+        "text": "浮空，眩晕"
     },
     "60010119": {
         "deprecated": false,
         "Dev_Desc": "구름베기_증폭",
         "id": 60010119,
         "alias": "Contents.Skill.Acquire.LongSword.1104_2",
-        "text": "冷却 -3 秒"
+        "text": "冷却时间降低"
     },
     "60010120": {
         "deprecated": false,
         "Dev_Desc": "구름베기_극한",
         "id": 60010120,
         "alias": "Contents.Skill.Acquire.LongSword.1104_3",
-        "text": "使用时受到的伤害 +60%"
+        "text": "冷却时间降低"
     },
     "60010121": {
         "deprecated": false,
         "Dev_Desc": "구름베기_돌파",
         "id": 60010121,
         "alias": "Contents.Skill.Acquire.LongSword.1104_4",
-        "text": "在“剑痕”上近距离绝对准确度 +50%"
+        "text": "冷却时间降低"
     },
     "60010122": {
         "deprecated": false,
         "Dev_Desc": "하늘베기",
         "id": 60010122,
         "alias": "Contents.Skill.Name.LongSword.1041",
-        "text": "水月神舞"
+        "text": "飞天斩"
     },
     "60010123": {
         "deprecated": false,
         "Dev_Desc": "하늘베기",
         "id": 60010123,
         "alias": "Contents.Skill.Desc.LongSword.1041",
-        "text": "接近敌人并攻击最多 3 个敌人.\n使用时免疫控制状态.\n有机会获得“空中”效果.\n从空中落下后,你“目瞪口呆”."
+        "text": "接近并击飞敌人，之后发动攻击。\n从空中落地后陷入眩晕状态。\n对被击飞的敌人造成大量伤害。"
     },
     "60010125": {
         "deprecated": false,
         "Dev_Desc": "하늘베기",
         "id": 60010125,
         "alias": "Contents.Skill.useEffect.LongSword.1041",
-        "text": "空气,目瞪口呆"
+        "text": "浮空，眩晕"
     },
     "60010127": {
         "deprecated": false,
@@ -459,7 +459,7 @@
         "Dev_Desc": "번개베기",
         "id": 60010129,
         "alias": "Contents.Skill.Desc.LongSword.1102",
-        "text": "快速挥剑,造成伤害.\n有机会获得“眩晕”效果."
+        "text": "对敌人发动强大的连续攻击。\n在一段时间内转换为拔刀姿势。\n在拔刀姿势下，基本武功与特化武功得到强化。\n在拔刀姿势下，命中率与灵魂发动率得到提升。\n在拔刀姿势下，无法使用其他武功。"
     },
     "60010133": {
         "deprecated": false,
@@ -473,175 +473,175 @@
         "Dev_Desc": "번개베기_증폭",
         "id": 60010135,
         "alias": "Contents.Skill.Acquire.LongSword.1102_2",
-        "text": "有机会应用方块穿透效果"
+        "text": "在一段时间内基本攻击变为拔刀\n对御剑缚灵目标造成拔刀固定伤害"
     },
     "60010136": {
         "deprecated": false,
         "Dev_Desc": "번개베기_증폭",
         "id": 60010136,
         "alias": "Contents.Skill.Acquire.LongSword.1102_3",
-        "text": "增加被“踢标记”目标“击晕”的几率."
+        "text": "在一段时间内基本攻击变为拔刀\n对御剑缚灵目标造成拔刀固定伤害"
     },
     "60010137": {
         "deprecated": false,
         "Dev_Desc": "번개베기_증폭",
         "id": 60010137,
         "alias": "Contents.Skill.Acquire.LongSword.1102_4",
-        "text": "对“昏迷”的敌人进行额外攻击"
+        "text": "在一段时间内基本攻击变为拔刀\n对御剑缚灵目标造成拔刀固定伤害"
     },
     "60010138": {
         "deprecated": false,
         "Dev_Desc": "지속 효과",
         "id": 60010138,
         "alias": "Contents.Skill.Name.LongSword.Passive",
-        "text": "持久效果"
+        "text": "被动_握力"
     },
     "60010139": {
         "deprecated": false,
         "Dev_Desc": "악력운동",
         "id": 60010139,
         "alias": "Contents.Skill.Name.LongSword.1801",
-        "text": "长剑掌握"
+        "text": "被动_握力"
     },
     "60010140": {
         "deprecated": false,
         "Dev_Desc": "악력운동",
         "id": 60010140,
         "alias": "Contents.Skill.Desc.LongSword.1801",
-        "text": "长剑掌握使剑更坚固.\n增加剑的攻击力."
+        "text": "为了紧握剑柄，进行握力运动。\n提升剑伤害量提升。"
     },
     "60010141": {
         "deprecated": false,
         "Dev_Desc": "악력운동",
         "id": 60010141,
         "alias": "Contents.Skill.useEffect.LongSword.1801",
-        "text": "增加剑攻击力"
+        "text": "提升剑攻击力"
     },
     "60010142": {
         "deprecated": false,
         "Dev_Desc": "몸풀기",
         "id": 60010142,
         "alias": "Contents.Skill.Name.LongSword.1802",
-        "text": "热身"
+        "text": "被动_热身运动"
     },
     "60010143": {
         "deprecated": false,
         "Dev_Desc": "몸풀기",
         "id": 60010143,
         "alias": "Contents.Skill.Desc.LongSword.1802",
-        "text": "做一些简单的热身运动.\n提高移动速度和基本攻击速度."
+        "text": "进行简单的热身运动。\n提升攻击速度，移动速度。"
     },
     "60010144": {
         "deprecated": false,
         "Dev_Desc": "몸풀기",
         "id": 60010144,
         "alias": "Contents.Skill.useEffect.LongSword.1802",
-        "text": "增加移动速度和基本攻击速度"
+        "text": "提升移动速度提升率及基本攻击速度"
     },
     "60010145": {
         "deprecated": false,
         "Dev_Desc": "근력운동",
         "id": 60010145,
         "alias": "Contents.Skill.Name.LongSword.1803",
-        "text": "力量训练"
+        "text": "被动_筋力"
     },
     "60010146": {
         "deprecated": false,
         "Dev_Desc": "근력운동",
         "id": 60010146,
         "alias": "Contents.Skill.Desc.LongSword.1803",
-        "text": "定期做高强度的力量训练.\n力量增加."
+        "text": "坚持高强度筋力运动。\n提升力量。"
     },
     "60010147": {
         "deprecated": false,
         "Dev_Desc": "근력운동",
         "id": 60010147,
         "alias": "Contents.Skill.useEffect.LongSword.1803",
-        "text": "强度增加"
+        "text": "提升力量"
     },
     "60010148": {
         "deprecated": false,
         "Dev_Desc": "흔들기",
         "id": 60010148,
         "alias": "Contents.Skill.Name.LongSword.1804",
-        "text": "摇晃"
+        "text": "被动_摇动"
     },
     "60010149": {
         "deprecated": false,
         "Dev_Desc": "흔들기",
         "id": 60010149,
         "alias": "Contents.Skill.Desc.LongSword.1804",
-        "text": "破坏敌人的重心.\n控制命中率增加."
+        "text": "破坏敌人的重心。\n提升状态异常命中率。"
     },
     "60010150": {
         "deprecated": false,
         "Dev_Desc": "흔들기",
         "id": 60010150,
         "alias": "Contents.Skill.useEffect.LongSword.1804",
-        "text": "控制命中率提升"
+        "text": "提升控制命中率"
     },
     "60010151": {
         "deprecated": false,
         "Dev_Desc": "검날손질",
         "id": 60010151,
         "alias": "Contents.Skill.Name.LongSword.1805",
-        "text": "刃磨"
+        "text": "被动_剑刃"
     },
     "60010152": {
         "deprecated": false,
         "Dev_Desc": "검날손질",
         "id": 60010152,
         "alias": "Contents.Skill.Desc.LongSword.1805",
-        "text": "磨快刀片.\n增加近战穿透."
+        "text": "把剑刃打磨锋利。\n提升近距离物理穿刺。"
     },
     "60010153": {
         "deprecated": false,
         "Dev_Desc": "검날손질",
         "id": 60010153,
         "alias": "Contents.Skill.useEffect.LongSword.1805",
-        "text": "增加短程渗透"
+        "text": "提升近距离穿刺力"
     },
     "60010154": {
         "deprecated": false,
         "Dev_Desc": "신검합일",
         "id": 60010154,
         "alias": "Contents.Skill.Name.LongSword.1806",
-        "text": "人剑合一"
+        "text": "被动_神剑"
     },
     "60010155": {
         "deprecated": false,
         "Dev_Desc": "신검합일",
         "id": 60010155,
         "alias": "Contents.Skill.Desc.LongSword.1806",
-        "text": "与剑合一,提升攻击力.\n增加武器伤害增幅和精确度."
+        "text": "无意识地攻击破绽。\n提升暴击率与暴击伤害量。"
     },
     "60010156": {
         "deprecated": false,
         "Dev_Desc": "신검합일",
         "id": 60010156,
         "alias": "Contents.Skill.useEffect.LongSword.1806",
-        "text": "反弹武器伤害并提高精确度"
+        "text": "提升武器攻击力增幅及精确"
     },
     "60010157": {
         "deprecated": false,
         "Dev_Desc": "약점공략",
         "id": 60010157,
         "alias": "Contents.Skill.Name.LongSword.1807",
-        "text": "攻击弱点"
+        "text": "被动_神剑"
     },
     "60010158": {
         "deprecated": false,
         "Dev_Desc": "약점공략",
         "id": 60010158,
         "alias": "Contents.Skill.Desc.LongSword.1807",
-        "text": "攻击敌人的弱点.\n近战攻击力增加."
+        "text": "看破并攻击敌人的弱点。\n提升近距离攻击力。"
     },
     "60010159": {
         "deprecated": false,
         "Dev_Desc": "약점공략",
         "id": 60010159,
         "alias": "Contents.Skill.useEffect.LongSword.1807",
-        "text": "增加近战攻击"
+        "text": "提升近距离攻击力"
     },
     "60010160": {
         "deprecated": false,

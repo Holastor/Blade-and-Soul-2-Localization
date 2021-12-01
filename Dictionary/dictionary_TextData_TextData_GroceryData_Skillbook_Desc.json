@@ -1,0 +1,2101 @@
+{
+    "99000865": {
+        "Dev_Desc": "일반 / 막기 / 특화무공 (각인)",
+        "Original_Text": "3초간 전방의 공격을 방어합니다.\\n막기 중 재사용 시, 회전베기를 사용합니다.",
+        "English_Text": "Guards attack from the front.",
+        "Russian_Text": "",
+        "Chinese_Text": "防御前方的攻击。"
+    },
+    "99000866": {
+        "Dev_Desc": "일반 / 찔러베기 / 액티브 (각인)",
+        "Original_Text": "빠르게 찌르고 베어 연속으로 피해를 입힙니다.",
+        "English_Text": "Quickly stabs and slashes to deal multiple attacks.",
+        "Russian_Text": "",
+        "Chinese_Text": "快速刺击加斩击，连续造成伤害。"
+    },
+    "99000867": {
+        "Dev_Desc": "일반 / 찌르기 / 액티브 (각인)",
+        "Original_Text": "적을 찔러 피해를 입힙니다.\\n공격 무공 사용 후 연계하여 사용할 수 있습니다.",
+        "English_Text": "Stabs an enemy to deal damage.\nCan be used in a combo attack after an attack skill.",
+        "Russian_Text": "",
+        "Chinese_Text": "刺击敌人造成伤害。\n可在使用攻击武功后连接使用。"
+    },
+    "99000868": {
+        "Dev_Desc": "일반 / 악력운동 / 패시브 (각인)",
+        "Original_Text": "검을 강하게 잡을 수 있도록 악력운동을 합니다.\\n\\n[효과]\\n검 공격력 +1",
+        "English_Text": "Exercises to strengthen the sword grip.\nIncreases Sword Attack.",
+        "Russian_Text": "",
+        "Chinese_Text": "为了紧握剑柄，进行握力运动。\n提升剑攻击力。"
+    },
+    "99000869": {
+        "Dev_Desc": "반격찌르기 / 일반 검 무공서 (각인)",
+        "Original_Text": "막기를 해제하고, 긴 사거리의 찌르기 공격을 합니다.\\n소울 패링 성공 시 사용할 수 있습니다.",
+        "English_Text": "Removes the block and performs a long-range stab attack. Can be used when the soul parry is successful.",
+        "Russian_Text": "",
+        "Chinese_Text": "解除格挡，进行远距离刺击，灵魂招架成功时可以使用。"
+    },
+    "99000875": {
+        "Dev_Desc": "상급 / 올려베기 / 액티브 / 각인",
+        "Original_Text": "검을 위로 강하게 휘둘러 공격합니다.\\n일정 확률로 \"공중\" 효과를 부여합니다.\\n공중에서 떨어진 후 \"기절\" 상태가 됩니다.",
+        "English_Text": "Slashes upward to deal damage\nHas a chance to send the enemy airborne.\nInflicts Stun on impact with the ground.",
+        "Russian_Text": "",
+        "Chinese_Text": "奋力向上挥剑攻击敌人。\n造成伤害并以一定概率击飞敌人。\n从空中落地后陷入眩晕状态。"
+    },
+    "99000876": {
+        "Dev_Desc": "상급 / 뛰어베기 / 액티브 / 각인",
+        "Original_Text": "적에게 뛰어들어 피해를 입힙니다.\\n일정 확률로 \"경직\" 효과를 부여합니다.",
+        "English_Text": "Dashes forward and deals powerful damage.\nHas a chance to inflict Petrify.",
+        "Russian_Text": "",
+        "Chinese_Text": "跳向敌人发动强力攻击。\n造成伤害并以一定概率造成僵直。"
+    },
+    "99000877": {
+        "Dev_Desc": "상급 / 몸풀기 / 패시브 / 각인",
+        "Original_Text": "가벼운 몸풀기 운동을 합니다.\\n\\n[효과]\\n이동 속도 증가율 +1%\\n기본 공격 속도 +5%",
+        "English_Text": "Warms up the body to increase flexibility.\nIncreases Normal Attack Speed and Move Speed Rate.",
+        "Russian_Text": "",
+        "Chinese_Text": "进行简单的热身运动。\n提升基本攻击速度，移动速度提升率。"
+    },
+    "99000878": {
+        "Dev_Desc": "상급 / 근력운동 / 패시브 / 각인",
+        "Original_Text": "꾸준히 고강도 근력 운동을 합니다.\\n\\n[효과]\\n힘 +2",
+        "English_Text": "Consistently performs high-intensity muscle training.\nIncreases STR.",
+        "Russian_Text": "",
+        "Chinese_Text": "坚持高强度筋力运动。\n提升力量。"
+    },
+    "99000879": {
+        "Dev_Desc": "발도 / 상급 검 무공서 (각인)",
+        "Original_Text": "빠른 연속 공격이 가능한 발도 공격을 합니다.\\n\"기절\", \"공중\" 상태인 대상에게 사용합니다.",
+        "English_Text": "Attacks a foot that can attack in quick succession.\\nUsed on targets that are in stun or air status.",
+        "Russian_Text": "",
+        "Chinese_Text": "攻击可以快速连续攻击的脚。\\n用于昏迷或空中状态的目标。"
+    },
+    "99000885": {
+        "Dev_Desc": "희귀 / 천지가르기 / 액티브 / 각인",
+        "Original_Text": "힘을 모아 검을 내리쳐 강력한 피해를 입힙니다.\\n\"공중\", \"기절\" 상태인 대상에게 사용합니다.",
+        "English_Text": "Deals powerful damage by striking down an enemy with full force using a sword.\nCan be used on an airborne and stunned enemy.\nCan be used in combo with Airborne and Stun.",
+        "Russian_Text": "",
+        "Chinese_Text": "蓄力斩击，造成大量伤害。\n可对浮空、眩晕的目标使用。\n可在使用浮空、眩晕武功后连接使用。"
+    },
+    "99000886": {
+        "Dev_Desc": "일반 / 일섬 / 특화 / 각인",
+        "Original_Text": "빠르게 이동하며 연속으로 피해를 입힙니다.\\n일정 확률로 \"경직\" 효과를 부여합니다.",
+        "English_Text": "Dashes forward and attacks 2 times in a row.\nDeals damage and has a chance to inflict Petrify.",
+        "Russian_Text": "",
+        "Chinese_Text": "快速移动，连续攻击2次。\n造成伤害并以一定概率造成僵直。"
+    },
+    "99000887": {
+        "Dev_Desc": "희귀 / 흔들기 / 패시브 / 각인",
+        "Original_Text": "적의 무게 중심을 무너뜨립니다.\\n\\n[효과]\\n통제 적중률 +5%",
+        "English_Text": "Throws off enemy's balance.\nIncrease CC Accuracy.",
+        "Russian_Text": "",
+        "Chinese_Text": "破坏敌人的重心。\n提升控制命中率。"
+    },
+    "99000888": {
+        "Dev_Desc": "희귀 / 검날손질 / 패시브 / 각인",
+        "Original_Text": "검날을 날카롭게 연마합니다.\\n\\n[효과]\\n근거리 관통력 +5",
+        "English_Text": "Sharpens the blade.\nIncreases Melee Piercing Damage.",
+        "Russian_Text": "",
+        "Chinese_Text": "把剑刃打磨锋利。\n提升近距离穿刺力。"
+    },
+    "99000895": {
+        "Dev_Desc": "영웅 / 어검징표 / 액티브 / 각인",
+        "Original_Text": "적에게 어검을 꽂아 피해를 입힙니다.\\n\"어검징표\" 효과를 부여합니다.\\n\"어검징표\" 중 받는 피해량이 증가합니다.\\n\\n[효과]\\n받는 피해량 증폭 +10%",
+        "English_Text": "Stabs enemy with Spectral Blade to deal damage.\nDeals damage and inflicts Soul Stab.\nIncreases received damage while casting Soul Stab.",
+        "Russian_Text": "",
+        "Chinese_Text": "攻击时把御剑插进敌人身体。\n造成伤害并使敌人陷入“御剑缚灵”状态。\n“御剑缚灵”中受到的伤害量提升。"
+    },
+    "99000896": {
+        "Dev_Desc": "전설 / 하늘베기 / 액티브 / 각인",
+        "Original_Text": "적에게 접근하여 최대 3명의 적을 공격합니다.\\n사용 중 통제 상태에 면역이 됩니다.\\n일정 확률로 \"공중\" 효과를 부여합니다.\\n공중에서 떨어진 후 \"기절\" 상태가 됩니다.",
+        "English_Text": "Approaches to deal a powerful multi attack.\nDeals damage and has a chance to inflict Airborne.\nInflicts Stun on impact with the ground.\nHas a higher Accuracy chance on an enemy afflicted with Soul Stab.",
+        "Russian_Text": "",
+        "Chinese_Text": "接近敌人并发动强大的连续攻击。\n造成伤害并以一定概率击飞敌人。\n从空中落地后陷入眩晕状态。\n对“御剑缚灵”目标的命中率提升。"
+    },
+    "99000897": {
+        "Dev_Desc": "영웅 / 신검합일 / 패시브 / 각인",
+        "Original_Text": "검과 하나가 되어 공격 능력을 끌어 올립니다.\\n\\n[효과]\\n무기 공격력 증폭 +20%\\n정밀 +5",
+        "English_Text": "Boosts Attack ability by uniting with the sword.\nIncreases Amplified Weapon Attack and Precision.",
+        "Russian_Text": "",
+        "Chinese_Text": "身剑合一，提升攻击能力。\n提升武器攻击力增幅与精确。"
+    },
+    "99000898": {
+        "Dev_Desc": "영웅 / 휘몰아치기 / 패시브",
+        "Original_Text": "기세를 올려 공격을 몰아칩니다.\\n무공 명중 시, 일정 확률로 10초간 \"휘몰아치기\" 효과를 얻습니다.\\n\"휘몰아치기\" 중 무공 공격 속도가 증가합니다.\\n최대 5회까지 중첩됩니다.",
+        "English_Text": "Raises the momentum to drive the attack.\\nWhen hit with no attack, there is a chance to gain the effect of Sweeping for 10 seconds.\\nIncreasing attack speed during Sweeping.\\nStacks up to 5 times.",
+        "Russian_Text": "",
+        "Chinese_Text": "提升气势驱动攻击。\\n无攻击命中时，有一定几率获得10秒的横扫效果。\\n横扫时增加攻击速度。\\n最多叠加5次。"
+    },
+    "99000905": {
+        "Dev_Desc": "전설 / 약점공략 / 패시브 / 각인",
+        "Original_Text": "적의 약점을 간파하여 공격합니다.\\n\\n[효과]\\n근거리 공격력 +2",
+        "English_Text": "The blade pinpoints the weak spot.\nIncreases Melee Attack.",
+        "Russian_Text": "",
+        "Chinese_Text": "看破并攻击敌人的弱点。\n提升近距离攻击力。"
+    },
+    "99000906": {
+        "Dev_Desc": "영웅 / 번개베기 / 무기스킬 / 각인",
+        "Original_Text": "빠르게 검을 휘둘러 피해를 입힙니다.\\n일정 확률로 \"기절\" 효과를 부여합니다.",
+        "English_Text": "Deals powerful damage.\nHas a chance to inflict Stun.",
+        "Russian_Text": "",
+        "Chinese_Text": "对敌人发动强大攻击。\n造成伤害并以一定概率造成眩晕。"
+    },
+    "99000907": {
+        "Dev_Desc": "영웅 / 구름베기 / 무기스킬 / 각인",
+        "Original_Text": "연속으로 올려베며 강력한 피해를 입힙니다.\\n일정 확률로 \"공중\" 효과를 부여합니다.\\n공중에서 떨어진 후 \"기절\" 상태가 됩니다.\\n\"공중\", \"기절\" 상태인 대상에게 사용합니다.",
+        "English_Text": "Deals damage and has a chance to inflict Airborne.\nInflicts Stun on impact with the ground.\nCan be used on an airborne and stunned enemy.\nCan be used in combo with Airborne and Stun.",
+        "Russian_Text": "",
+        "Chinese_Text": "造成伤害并以一定概率击飞敌人。\n从空中落地后陷入眩晕状态。\n可对浮空、眩晕的目标使用。\n可在使用浮空、眩晕武功后连接使用。"
+    },
+    "99000916": {
+        "Dev_Desc": "일반 / 횡이동 / 특화 / 각인",
+        "Original_Text": "대상의 후방으로 빠르게 이동합니다.",
+        "English_Text": "Swiftly moves to the rear of the target.",
+        "Russian_Text": "",
+        "Chinese_Text": "快速移动至目标的后方。"
+    },
+    "99000917": {
+        "Dev_Desc": "일반 / 회천각 / 액티브 / 각인",
+        "Original_Text": "다리를 휘둘러 적에게 피해를 입힙니다.",
+        "English_Text": "Deals damage to an enemy by launching a wide kick.",
+        "Russian_Text": "",
+        "Chinese_Text": "扫腿对敌人造成伤害。"
+    },
+    "99000918": {
+        "Dev_Desc": "일반 / 승룡각 / 액티브 / 각인",
+        "Original_Text": "공중에서 발을 회전시켜 적에게 피해를 입힙니다.\\n무공 사용 중 이동 가능합니다.",
+        "English_Text": "Spins feet in the air to deal damage.\nCan move while casting this technique.",
+        "Russian_Text": "",
+        "Chinese_Text": "在空中使用回旋踢造成伤害。\n使用技能时也可以移动。"
+    },
+    "99000919": {
+        "Dev_Desc": "일반 / 집중 / 패시브 / 각인",
+        "Original_Text": "정신 집중을 통해 조금 더 빨라집니다\\n\\n[효과]\\n기본 공격 속도 +3%",
+        "English_Text": "Slightly increases Attack Speed through concentration.\nIncreases Normal Attack Speed.",
+        "Russian_Text": "",
+        "Chinese_Text": "通过精神集中略微提升速度，\n提升基本攻击速度。"
+    },
+    "99000920": {
+        "Dev_Desc": "일반 / 파쇄격 / EQ"
+    },
+    "99000926": {
+        "Dev_Desc": "상급 / 절명각 / 액티브 / 각인",
+        "Original_Text": "적에게 짧게 접근하여 다리를 휘둘러 피해를 입힙니다.",
+        "English_Text": "Makes a short dash toward the enemy and sweeps with a leg to deal damage.",
+        "Russian_Text": "",
+        "Chinese_Text": "靠近敌人扫腿造成伤害。"
+    },
+    "99000927": {
+        "Dev_Desc": "상급 / 비염각 / 액티브 / 각인",
+        "Original_Text": "적에게 날아가 발로 타격해 일정 확률로 \"경직\"시키고 피해를 입힙니다.",
+        "English_Text": "Flies toward enemy, kicks to deal damage, and has a chance to inflict Petrify.",
+        "Russian_Text": "",
+        "Chinese_Text": "飞向敌人脚踢造成伤害并以一定概率造成“僵直”。"
+    },
+    "99000928": {
+        "Dev_Desc": "상급 / 근력 / 패시브 / 각인",
+        "Original_Text": "근육을 단련시켜 무기의 파괴력을 끌어올립니다.\\n\\n[효과]\\n권갑 공격력 +2",
+        "English_Text": "Trains muscles to boost the weapon's destructive power.\nIncreases Gauntlets Attack.",
+        "Russian_Text": "",
+        "Chinese_Text": "锻炼肌肉，提升武器的破坏力。\n提升拳套攻击力。"
+    },
+    "99000929": {
+        "Dev_Desc": "상급 / 강기 / 패시브 / 각인",
+        "Original_Text": "기를 다스리는 법을 터득합니다.\\n\\n[효과]\\n힘 +1\\n건강 +1",
+        "English_Text": "Learns how to control chi.\nIncreases STR and CON.",
+        "Russian_Text": "",
+        "Chinese_Text": "领悟气的控制方法。\n提升力量与健康。"
+    },
+    "99000930": {
+        "Dev_Desc": "상급 / 연권 / QQ"
+    },
+    "99000936": {
+        "Dev_Desc": "희귀 / 다리걸기 / 액티브 / 각인",
+        "Original_Text": "다리를 걸어 일정 확률로 적을 \"기절\"시킵니다.",
+        "English_Text": "Has a chance to stun the enemy by tripping them.",
+        "Russian_Text": "",
+        "Chinese_Text": "拌腿使敌人以一定概率“眩晕”。"
+    },
+    "99000937": {
+        "Dev_Desc": "영웅 / 연권 / 액티브 / 각인",
+        "Original_Text": "적에게 접근하여 아주 빠르게 타격해 경직 시키고, 피해를 입힙니다.\\n마지막 타는 대상을 짧게 밀치고 기절 시킵니다.",
+        "English_Text": "Dashes toward enemy to rapidly hit them, inflicting Petrify and dealing damage.\nThe last hit shoves the enemy to inflict Stun.",
+        "Russian_Text": "",
+        "Chinese_Text": "接近敌人，发动快速打击使敌人僵直并造成伤害。\n最后一击可稍微击退目标并使其陷入眩晕状态。"
+    },
+    "99000939": {
+        "Dev_Desc": "희귀 / 날렵함 / 패시브 / 각인",
+        "Original_Text": "신체를 경량화시킵니다.\\n\\n[효과]\\n회피 +3\\n이동 속도 +1%",
+        "English_Text": "Lightens the body.\nIncrease Evasion and Move Speed.",
+        "Russian_Text": "",
+        "Chinese_Text": "使身体变得轻盈。\n提升闪避与移动速度。"
+    },
+    "99000940": {
+        "Dev_Desc": "희귀 / 맹호격 / 액티브 / 각인",
+        "Original_Text": "뛰어올라 지면을 강타해 일정 확률로 적을 \"기절\"시키고 피해를 입힙니다.",
+        "English_Text": "Leaps into the air and smashes the ground. Has a chance to stun and deal damage to enemy.",
+        "Russian_Text": "",
+        "Chinese_Text": "跳起猛击地面，造成伤害并以一定概率造成“眩晕”。"
+    },
+    "99000946": {
+        "Dev_Desc": "영웅 / 붕권 / 액티브 / 각인",
+        "Original_Text": "주먹을 내질러 일정 확률로 단일 대상을 \"밀치기\" 후 \"기절\"시키고 피해를 입힙니다.\\n막기 중인 대상을 일정 확률로 관통해 \"기절\"시킵니다.",
+        "English_Text": "Throws a fist at a single enemy, forces the enemy back to deal damage and has a chance to inflict Stun.\nHas a chance to pierce the target's block and inflict Stun.",
+        "Russian_Text": "",
+        "Chinese_Text": "出拳以一定概率“击退单一目标使其眩晕”并造成伤害。\n对格挡中的目标以一定概率穿刺格挡并使其“眩晕”。"
+    },
+    "99000947": {
+        "Dev_Desc": "희귀 / 승천권 / 액티브 / 각인",
+        "Original_Text": "적에게 짧게 접근하여 올려친 뒤, 일정 확률로 \"공중\"으로 띄웁니다.\\n공중에서 떨어진 후 \"기절\" 상태가 됩니다.",
+        "English_Text": "Makes a short dash toward an enemy. Has a chance to inflict Airborne.",
+        "Russian_Text": "",
+        "Chinese_Text": "靠近并挑击敌人，以一定概率使敌人“浮空”。"
+    },
+    "99000948": {
+        "Dev_Desc": "영웅 / 뇌진탕 / 패시브 / 각인",
+        "Original_Text": "기본공격이 적에게 명중할 경우 일정 확률로 대상을 \"경직\"시킵니다.",
+        "English_Text": "Has a chance to petrify the enemy upon landing a normal attack.",
+        "Russian_Text": "",
+        "Chinese_Text": "基本攻击命中目标时，以一定概率造成“僵直”。"
+    },
+    "99000949": {
+        "Dev_Desc": "희귀 / 무투 / 패시브 / 각인",
+        "Original_Text": "싸움에 더욱 가속이 붙습니다.\\n기본 공격 명중 시, 3초간 기본 공격 속도가 증가합니다.\\n최대 5회까지 중첩됩니다.\\n\\n[효과]\\n기본 공격 속도 +3%",
+        "English_Text": "Deals more damage with normal attack on enemy afflicted with CC.\nIncreases Normal Attack Damage.",
+        "Russian_Text": "",
+        "Chinese_Text": "基本攻击对控制状态的敌人造成额外伤害。\n提升基本攻击伤害量。"
+    },
+    "99000950": {
+        "Dev_Desc": "영웅 / 강격 / 패시브 / 각인",
+        "Original_Text": "한계를 극복해 강한 자신감이 생깁니다.\\n\\n[효과]\\n통제 적중률 +3%",
+        "English_Text": "Gains confidence by surpassing the limits.\nIncreases Block Piercing.",
+        "Russian_Text": "",
+        "Chinese_Text": "突破极限，充满自信。\n提升格挡穿刺。"
+    },
+    "99000951": {
+        "Dev_Desc": "개혈 / 액티브"
+    },
+    "99000956": {
+        "Dev_Desc": "전설 / 초월권무 / 액티브 / 각인",
+        "Original_Text": "적에게 접근하여 강력한 연계공격을 퍼붓습니다.\\n마지막 공격은 일정 확률로 적을 \"밀치고 기절\" 시킵니다.\\n사용 중 통제 상태에 면역이 됩니다.",
+        "English_Text": "Dashes toward an enemy and uses powerful combo attacks.\nThe last blow has a chance to push and stun the enemy.\nThe caster is immune to all damage while using the technique.",
+        "Russian_Text": "",
+        "Chinese_Text": "接近敌人，发动强大的连招攻击。\n最后一击有一定概率“击退并眩晕敌人”。\n在使用技能时，不会受到伤害。"
+    },
+    "99000957": {
+        "Dev_Desc": "전설 / 개혈 / 패시브 / 각인",
+        "Original_Text": "혈도를 개방시켜 신진대사를 촉진시킵니다.\\n소울 발동률이 증가합니다.",
+        "English_Text": "Accelerates metabolism by unleashing vital points.\nIncreases Soul Chance.",
+        "Russian_Text": "",
+        "Chinese_Text": "开放穴道，促进新陈代谢。\n提升灵魂发动率。"
+    },
+    "99000958": {
+        "Dev_Desc": "전설 / 급소가격 / 패시브 / 각인",
+        "Original_Text": "기본공격이 적에게 명중할 경우 일정 확률로 대상을 \"기절\"시킵니다.",
+        "English_Text": "Has a chance to stun the enemy upon landing a normal attack.",
+        "Russian_Text": "",
+        "Chinese_Text": "基本攻击命中目标时，以一定概率造成眩晕。"
+    },
+    "99000967": {
+        "Dev_Desc": "증폭의 정수 : 찔러베기 (각인)",
+        "Original_Text": "찔러베기의 진화에 사용되는 정수입니다.\\n진화 시 내력 소모량이 1 감소합니다.",
+        "English_Text": "Used to level up Dashing Slash.\nIncreases its damage.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于刺斩成长的精髓。\n技能成长后，刺斩的伤害量提升。"
+    },
+    "99000968": {
+        "Dev_Desc": "증폭의 정수 : 찌르기 (각인)",
+        "Original_Text": "찌르기의 진화에 사용되는 정수입니다.\\n진화 시 내력 소모량이 2 감소합니다.",
+        "English_Text": "Used to level up Stab.\nDecreases its Focus cost.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于刺击成长的精髓。\n技能成长后，刺击的内力消耗量降低。"
+    },
+    "99000969": {
+        "Dev_Desc": "증폭의 정수 : 일섬 (각인)",
+        "Original_Text": "막기의 진화에 사용되는 정수입니다.\\n방어 성공 시, 회전베기 피해량이 증가합니다.",
+        "English_Text": "Used to level up Block.\nIncreases Melee Accuracy upon successful Block.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于格挡成长的精髓。\n技能成长后，防御成功时可提升近距离命中。"
+    },
+    "99000977": {
+        "Dev_Desc": "극한의 정수 : 찔러베기 (각인)",
+        "Original_Text": "찔러베기의 진화에 사용되는 정수입니다.\\n진화 시 재사용 대기시간이 2초 감소합니다.",
+        "English_Text": "Used to level up Dashing Slash.\nDecreases its cooldown.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于刺斩成长的精髓。\n技能成长后，刺斩的冷却时间降低。"
+    },
+    "99000978": {
+        "Dev_Desc": "극한의 정수 : 찌르기 (각인)",
+        "Original_Text": "찌르기의 진화에 사용되는 정수입니다.\\n진화 시 2회 찌르기로 변경됩니다.",
+        "English_Text": "Used to level up Stab.\nStabs 2 times.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于刺击成长的精髓。\n技能成长后，变更为2次刺击。"
+    },
+    "99000979": {
+        "Dev_Desc": "증폭의 정수 : 뛰어베기 (각인)",
+        "Original_Text": "뛰어베기의 진화에 사용되는 정수입니다.\\n진화 시 내력 소모량이 1 감소합니다.",
+        "English_Text": "Used to level up Jumping Slash.\nDecreases its Focus cost.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于跳斩成长的精髓。\n技能成长后，跳斩的内力消耗量降低。"
+    },
+    "99000980": {
+        "Dev_Desc": "증폭의 정수 : 올려베기 (각인)",
+        "Original_Text": "올려베기의 진화에 사용되는 정수입니다.\\n진화 시 재사용 대기시간이 2초 감소합니다.",
+        "English_Text": "Used to level up Upward Thrust.\nDecreases its cooldown.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于挑斩成长的精髓。\n技能成长后，挑斩的冷却时间降低。"
+    },
+    "99000987": {
+        "Dev_Desc": "돌파의 정수 : 찔러베기 (각인)",
+        "Original_Text": "찔러베기의 진화에 사용되는 정수입니다.\\n진화 시 힘에 비례하여 피해량이 증가합니다.\\n\\n[선행 조건]\\n무공 강화 단계 +9 이상",
+        "English_Text": "Used to level up Dashing Slash.\nDecreases its Focus cost.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于刺斩成长的精髓。\n技能成长后，刺斩的内力消耗量降低。"
+    },
+    "99000988": {
+        "Dev_Desc": "돌파의 정수 : 찌르기 (각인)",
+        "Original_Text": "찌르기의 진화에 사용되는 정수입니다.\\n진화 시 3회 찌르기로 변경됩니다.\\n\\n[선행 조건]\\n무공 강화 단계 +9 이상",
+        "English_Text": "Used to level up Stab.\nStabs 3 times.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于刺击成长的精髓。\n技能成长后，变更为3次刺击。"
+    },
+    "99000989": {
+        "Dev_Desc": "극한의 정수 : 막기 (각인)",
+        "Original_Text": "막기의 진화에 사용되는 정수입니다.\\n진화 시 회전베기 사용 중 받는 피해량이 30% 감소합니다.",
+        "English_Text": "Used to level up Block.\nIncreases the duration of Defense.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于格挡成长的精髓。\n技能成长后，提升防御时间。"
+    },
+    "99000990": {
+        "Dev_Desc": "극한의 정수 : 올려베기 (각인)",
+        "Original_Text": "올려베기의 진화에 사용되는 정수입니다.\\n진화 시 \"공중\" 상태의 적에게 추가 연계 공격을 가합니다.",
+        "English_Text": "Used to level up Upward Thrust.\nDeals an extra attack to the airborne enemy.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于挑斩成长的精髓。\n技能成长后，挑斩可对“浮空”状态的敌人发动额外攻击。"
+    },
+    "99000991": {
+        "Dev_Desc": "극한의 정수 : 뛰어베기 (각인)",
+        "Original_Text": "뛰어베기의 진화에 사용되는 정수입니다.\\n진화 시 피해량이 증가합니다.",
+        "English_Text": "Used to level up Jumping Slash.\nIncreases its damage.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于跳斩成长的精髓。\n技能成长后，跳斩的伤害量提升。"
+    },
+    "99000992": {
+        "Dev_Desc": "돌파의 정수 : 천지가르기",
+        "Original_Text": "천지가르기의 진화에 사용되는 정수입니다.\\n진화 시 추가 연계 공격을 합니다.\\n\\n[선행 조건]\\n무공 강화 단계 +9 이상",
+        "English_Text": "Essence used for the evolution of Thunderstruck. \\n Performs additional combo attacks when evolving.",
+        "Russian_Text": "",
+        "Chinese_Text": "雷击进化所用的精华。\\n进化时进行额外的组合攻击。"
+    },
+    "99000993": {
+        "Dev_Desc": "돌파의 정수 : 일섬 ",
+        "Original_Text": "일섬의 진화에 사용되는 정수입니다.\\n진화 시 \"어검징표\" 대상 사용 거리, 피해량이 증가합니다.\\n\\n[선행 조건]\\n무공 강화 단계 +9 이상",
+        "English_Text": "Essence used for the evolution of one island.\\nWhen evolving, the distance and damage used by the target of Sword Sword Mark increases.",
+        "Russian_Text": "",
+        "Chinese_Text": "用于一岛进化的精华。\\n进化时，剑剑纹目标使用的距离和伤害都会增加。"
+    },
+    "99000997": {
+        "Dev_Desc": "증폭의 정수 : 천지 가르기 (각인)",
+        "Original_Text": "천지가르기의 진화에 사용되는 정수입니다.\\n진화 시 힘에 비례하여 피해량이 증가합니다.",
+        "English_Text": "Used to level up World Shaker.\nDecreases its Focus cost.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于天地斩成长的精髓。\n技能成长后，天地斩的内力消耗量降低。"
+    },
+    "99000998": {
+        "Dev_Desc": "증폭의 정수 : 일섬 (각인)",
+        "Original_Text": "일섬의 진화에 사용되는 정수입니다.\\n진화 시 힘에 비례하여 피해량이 증가합니다.",
+        "English_Text": "Used to level up First Step.\nAdditionally inflicts Block Piercing.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于一闪成长的精髓。\n技能成长后，额外造成格挡穿刺效果。"
+    },
+    "99000999": {
+        "Dev_Desc": "극한의 정수 : 번개베기",
+        "Original_Text": "번개베기의 진화에 사용되는 정수입니다.\\n진화 시 \"어검징표\" 대상 \"기절\" 확률이 증가합니다.",
+        "English_Text": "Essence used for the evolution of Lightning Slash.\\nWhen evolving, the chance of being stunned by Sword Mark is increased.",
+        "Russian_Text": "",
+        "Chinese_Text": "闪电斩进化所用的精华。\\n进化时，被剑痕眩晕的几率增加。"
+    },
+    "99001000": {
+        "Dev_Desc": "돌파의 정수 : 번개베기",
+        "Original_Text": "번개베기의 진화에 사용되는 정수입니다.\\n진화 시 \"기절\" 상태의 적에게 추가 공격을 가합니다.\\n\\n[선행 조건]\\n무공 강화 단계 +9 이상",
+        "English_Text": "Essence used to evolve Lightning Slash.\\nInflicts additional attacks on enemies in stun state when evolving.",
+        "Russian_Text": "",
+        "Chinese_Text": "用于进化闪电斩的精华。\\n进化时对处于昏迷状态的敌人造成额外攻击。"
+    },
+    "99001001": {
+        "Dev_Desc": "돌파의 정수 : 뛰어베기 (각인)",
+        "Original_Text": "뛰어베기의 진화에 사용되는 정수입니다.\\n진화 시 사용 거리가 증가하고, 일정 확률로 연속 뛰어베기를 사용합니다.\\n\\n[선행 조건]\\n무공 강화 단계 +9 이상",
+        "English_Text": "Used to level up Jumping Slash.\nIncreases the range.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于跳斩成长的精髓。\n技能成长后，跳斩的使用距离提升。"
+    },
+    "99001002": {
+        "Dev_Desc": "돌파의 정수 : 올려베기 (각인)",
+        "Original_Text": "올려베기의 진화에 사용되는 정수입니다.\\n진화 시 연계 공격 이후 추가 마무리 공격을 가합니다.\\n\\n[선행 조건]\\n무공 강화 단계 +9 이상",
+        "English_Text": "Essence used for the evolution of slash.\\nWhen evolving, an additional finishing attack is applied after a chained attack.",
+        "Russian_Text": "",
+        "Chinese_Text": "用于斜线进化的精华。\\n进化时，在连锁攻击后附加一次终结攻击。"
+    },
+    "99001003": {
+        "Dev_Desc": "극한의 정수 : 어검징표",
+        "Original_Text": "어검징표의 진화에 사용되는 정수입니다.\\n진화 시 사용 거리가 증가합니다.",
+        "English_Text": "Essence used for the evolution of the sword mark. \\nEvolution increases the range.",
+        "Russian_Text": "",
+        "Chinese_Text": "用于剑痕进化的精华。\\n进化增加了范围。"
+    },
+    "99001004": {
+        "Dev_Desc": "돌파의 정수 : 어검징표",
+        "Original_Text": "어검징표의 진화에 사용되는 정수입니다.\\n진화 시 일정확률로 \"기절\" 효과가 적용됩니다.\\n\\n[선행 조건]\\n무공 강화 단계 +9 이상",
+        "English_Text": "Essence used for the evolution of the sword mark.\\nWhen evolving, the effect of stun is applied with a certain probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "剑痕进化所用的精华。\\n进化时，有一定几率施加眩晕效果。"
+    },
+    "99001005": {
+        "Dev_Desc": "극한의 정수 : 구름베기",
+        "Original_Text": "구름베기의 진화에 사용되는 정수입니다.\\n진화 시 사용 중 받는 피해량이 60% 감소합니다.",
+        "English_Text": "Essence used to evolve Cloud Slash. \\nEvolution reduces damage received by 60%.",
+        "Russian_Text": "",
+        "Chinese_Text": "用于进化 Cloud Slash 的精华。\\nEvolution 减少 60% 受到的伤害。"
+    },
+    "99001006": {
+        "Dev_Desc": "돌파의 정수 : 구름베기",
+        "Original_Text": "구름베기의 진화에 사용되는 정수입니다.\\n진화 시 \"어검징표\" 대상에게 연속 구름베기를 사용합니다.\\n\\n[선행 조건]\\n무공 강화 단계 +9 이상",
+        "English_Text": "Essence used to evolve cloud slash.\\nWhen evolving, use continuous cloud slash on the target of Sword Sword Mark.",
+        "Russian_Text": "",
+        "Chinese_Text": "精华用来进化云斩。\\n进化时，对剑剑纹的目标连续使用云斩。"
+    },
+    "99001007": {
+        "Dev_Desc": "극한의 정수 : 천지가르기 (각인)",
+        "Original_Text": "천지가르기의 진화에 사용되는 정수입니다.\\n진화 시 근거리 치명률이 20% 증가합니다.",
+        "English_Text": "Used to level up World Shaker.\nIncreases Accuracy for enemy afflicted with Soul Stab.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于天地斩成长的精髓。\n技能成长后，对“御剑缚灵”目标的命中率提升。"
+    },
+    "99001008": {
+        "Dev_Desc": "극한의 정수 : 일섬 (각인)",
+        "Original_Text": "일섬의 진화에 사용되는 정수입니다.\\n진화 시 일정 확률로 막기 관통 효과가 적용됩니다.\\n막기 관통 시 \"기절\" 효과를 부여합니다.",
+        "English_Text": "Used to level up First Step.\nIncreases the range and damage for enemies afflicted with Soul Stab.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于一闪成长的精髓。\n提升对“御剑缚灵”目标的射程及伤害量。"
+    },
+    "99001009": {
+        "Dev_Desc": "돌파의 정수 : 막기 (각인)",
+        "Original_Text": "막기의 진화에 사용되는 정수입니다.\\n진화 시 튕기기 발동률이 50% 증가합니다.\\n\\n[선행 조건]\\n무공 강화 단계 +9 이상",
+        "English_Text": "Used to level up Block.\nIncreases Parry chance.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于格挡成长的精髓。\n技能成长后，提升反弹率。"
+    },
+    "99001010": {
+        "Dev_Desc": "증폭의 정수 : 어검징표 (각인)",
+        "Original_Text": "어검징표의 진화에 사용되는 정수입니다.\\n진화 시 내력 소모량이 5 감소합니다.",
+        "English_Text": "Used to level up Soul Stab.\nAdditionally inflicts Stun.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于御剑缚灵成长的精髓。\n技能成长后，御剑缚灵可额外造成“眩晕”效果。"
+    },
+    "99001012": {
+        "Dev_Desc": "증폭의 정수 : 구름베기 (각인)",
+        "Original_Text": "구름베기의 진화에 사용되는 정수입니다.\\n진화 시 재사용 대기시간이 3초 감소합니다.",
+        "English_Text": "Used to level up Cloud Slash.\nDecreases its cooldown.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于云斩成长的精髓。\n技能成长后，云斩的冷却时间降低。"
+    },
+    "99001013": {
+        "Dev_Desc": "증폭의 정수 : 번개베기 (각인)",
+        "Original_Text": "번개베기의 진화에 사용되는 정수입니다.\\n진화 시 일정 확률로 막기 관통 효과가 적용됩니다.\\n막기 관통 시 \"기절\" 효과를 부여합니다.",
+        "English_Text": "Used to level up Lightning Slash.\nDeals an extra attack to the stunned enemy.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于闪电斩成长的精髓。\n技能成长后，闪电斩可对“眩晕”状态的敌人发动额外攻击。"
+    },
+    "99001018": {
+        "Dev_Desc": "증폭의 정수 : 회천각 (각인)",
+        "Original_Text": "회천각의 진화에 사용되는 정수입니다.\\n진화 시 회천각의 내력 소모량이 2 감소합니다.",
+        "English_Text": "Used to level up Cyclone Kick.\nDecreases its cooldown.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于回旋脚成长的精髓。\n技能成长后，回旋脚的冷却时间降低。"
+    },
+    "99001019": {
+        "Dev_Desc": "증폭의 정수 : 승룡각 (각인)",
+        "Original_Text": "승룡각의 진화에 사용되는 정수입니다.\\n진화 시 승룡각의 재사용 대기시간이 2초 감소합니다.",
+        "English_Text": "Used to level up Rising Dragon.\nHas a chance to stack Petrify on each strike.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于升龙脚成长的精髓。\n技能成长后，每次打击都有一定概率额外造成“僵直”效果。"
+    },
+    "99001020": {
+        "Dev_Desc": "증폭의 정수 : 횡이동 (각인)",
+        "Original_Text": "횡이동의 진화에 사용되는 정수입니다.\\n진화 시 횡이동의 기력 소모량이 100 감소합니다.",
+        "English_Text": "Used to level up Traverse.\nDecreases its Vitality cost.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于横移成长的精髓。\n技能成长后，横移的气力消耗量降低。"
+    },
+    "99001028": {
+        "Dev_Desc": "극한의 정수 : 회천각 (각인)",
+        "Original_Text": "회천각의 진화에 사용되는 정수입니다.\\n진화 시 회천각의 재사용 대기시간이 2초 감소합니다.",
+        "English_Text": "Used to level up Cyclone Kick.\nDecreases its Focus cost.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于回旋脚成长的精髓。\n技能成长后，回旋脚的内力消耗量降低。"
+    },
+    "99001029": {
+        "Dev_Desc": "극한의 정수 : 승룡각 (각인)",
+        "Original_Text": "승룡각의 진화에 사용되는 정수입니다.\\n진화 시 승룡각의 타격 수가 증가합니다.",
+        "English_Text": "Used to level up Rising Dragon.\nDecreases its cooldown.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于升龙脚成长的精髓。\n技能成长后，升龙脚的冷却时间降低。"
+    },
+    "99001030": {
+        "Dev_Desc": "극한의 정수 : 횡이동 (각인)",
+        "Original_Text": "횡이동의 진화에 사용되는 정수입니다.\\n진화 시 횡이동의 사용 거리가 증가하며 횡이동 사용 시, 1초 동안 받는 피해량 감소가 10% 증가합니다.",
+        "English_Text": "Used to level up Traverse.\nIncreases its range.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于横移成长的精髓。\n技能成长后，横移的使用距离提升。"
+    },
+    "99001031": {
+        "Dev_Desc": "증폭의 정수 : 비염각 (각인)",
+        "Original_Text": "비염각의 진화에 사용되는 정수입니다.\\n진화 시 비염각의 재사용 대기시간이 2초 감소합니다.",
+        "English_Text": "Used to level up Tiger's Pounce.\nIncreases its charging distance.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于飞炎脚成长的精髓。\n技能成长后，飞炎脚的突进距离提升。"
+    },
+    "99001038": {
+        "Dev_Desc": "돌파의 정수 : 회천각 (각인)",
+        "Original_Text": "회천각의 진화에 사용되는 정수입니다.\\n진화 시 기본 공격 속도에 비례하여 피해량이 증가합니다.\\n\\n[선행 조건]\\n무공 강화 단계 +9 이상",
+        "English_Text": "Used to level up Cyclone Kick.\nDeals damage increased relative to the Normal Attack Speed.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于回旋脚成长的精髓。\n技能成长后，回旋脚可造成与基本攻击速度成比例提升的伤害。"
+    },
+    "99001039": {
+        "Dev_Desc": "돌파의 정수 : 승룡각 (각인)",
+        "Original_Text": "승룡각의 진화에 사용되는 정수입니다.\\n진화 시 매 타격마다 일정 확률로 \"경직\" 효과를 적용하며, 사용 후 확정적으로 절명각을 사용할 수 있습니다.\\n\\n[선행 조건]\\n무공 강화 단계 +9 이상",
+        "English_Text": "Used to level up Rising Dragon.\nHas a chance to additionally inflict Stun on the last hit.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于升龙脚成长的精髓。\n技能成长后，最后一击有一定概率额外造成“眩晕”效果。"
+    },
+    "99001040": {
+        "Dev_Desc": "증폭의 정수 : 절명각 (각인)",
+        "Original_Text": "절명각의 진화에 사용되는 정수입니다.\\n진화 시 절명각 사용 중 근거리 절대 관통력이 10% 증가합니다.",
+        "English_Text": "Used to level up Cutting Kick.\nDeals extra damage when attacking an enemy from behind.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于绝命脚成长的精髓。\n在背后攻击敌人时造成额外伤害。"
+    },
+    "99001041": {
+        "Dev_Desc": "극한의 정수 : 비염각 (각인)",
+        "Original_Text": "비염각의 진화에 사용되는 정수입니다.\\n진화 시 비염각의 피해량이 증가합니다.",
+        "English_Text": "Used to level up Tiger's Pounce.\nIncreases its damage.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于飞炎脚成长的精髓。\n技能成长后，飞炎脚的伤害量提升。"
+    },
+    "99001042": {
+        "Dev_Desc": "증폭의 정수 : 맹호격 (각인)",
+        "Original_Text": "맹호격의 진화에 사용되는 정수입니다.\\n진화 시 맹호격의 피해량이 증가합니다.",
+        "English_Text": "Essence used to evolve the Fury. \\nEvolution increases the damage of the Fury.",
+        "Russian_Text": "",
+        "Chinese_Text": "用于进化狂怒的精华。\\nEvolution 增加狂怒的伤害。"
+    },
+    "99001043": {
+        "Dev_Desc": "극한의 정수 : 맹호격 (각인)",
+        "Original_Text": "맹호격의 진화에 사용되는 정수입니다.\\n진화 시 \"기절\" 확률이 증가합니다.",
+        "English_Text": "Essence used to evolve Furious Strike. \\nEvolution increases the chance of Stun.",
+        "Russian_Text": "",
+        "Chinese_Text": "用于进化狂暴打击的精华。\\nEvolution 增加了眩晕的机会。"
+    },
+    "99001044": {
+        "Dev_Desc": "돌파의 정수 : 다리걸기 (각인)",
+        "Original_Text": "다리걸기의 진화에 사용되는 정수입니다.\\n진화 시 다리걸기 사용 후 \"기절\" 상태의 적에게 철산고를 연계하여 사용합니다.\\n\\n[선행 조건]\\n무공 강화 단계 +9 이상",
+        "English_Text": "Essence used for the evolution of Legging.\\nWhen evolving, after using Legging, use it in conjunction with an enemy who is stunned.",
+        "Russian_Text": "",
+        "Chinese_Text": "用于Legging进化的精华。\\n进化时，使用Legging后，与被击晕的敌人配合使用。"
+    },
+    "99001045": {
+        "Dev_Desc": "돌파의 정수 : 맹호격 (각인)",
+        "Original_Text": "맹호격의 진화에 사용되는 정수입니다.\\n진화 시 \"기절\" 효과가 \"공중\" 효과로 변경됩니다.\\n\\n[선행 조건]\\n무공 강화 단계 +9 이상",
+        "English_Text": "Essence used for the evolution of the fierce attack.\\nWhen evolving, the stun effect is changed to the air effect.\\n\\n[Prerequisite]\\nLevel 9 or higher to enhance attack power",
+        "Russian_Text": "",
+        "Chinese_Text": "用于猛烈攻击进化的精华。\\n进化时，眩晕效果变为空中效果。\\n\\n[先决条件]\\n等级9或更高以增强攻击力"
+    },
+    "99001048": {
+        "Dev_Desc": "증폭의 정수 : 다리걸기 (각인)",
+        "Original_Text": "다리걸기의 진화에 사용되는 정수입니다.\\n진화 시 다리걸기의 내력 소모량이 3 감소합니다.",
+        "English_Text": "Used to level up Leg Sweep.\nReduces its cooldown.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于扫堂腿成长的精髓。\n技能成长后，扫堂腿的冷却时间降低。"
+    },
+    "99001049": {
+        "Dev_Desc": "증폭의 정수 : 승천권 (각인)",
+        "Original_Text": "승천권의 진화에 사용되는 정수입니다.\\n진화 시 기본 공격 속도에 비례하여 피해량이 증가합니다.",
+        "English_Text": "Used to level up Rising Fist.\nDeals damage increased relative to the Normal Attack Speed.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于升天拳成长的精髓。\n技能成长后，升天拳的伤害量与基本攻击速度成比例提升。"
+    },
+    "99001050": {
+        "Dev_Desc": "돌파의 정수 : 횡이동 (각인)",
+        "Original_Text": "횡이동의 진화에 사용되는 정수입니다.\\n진화 시 횡이동 사용 시, 0.5초 동안 회피가 1000 증가합니다.\\n\\n[선행 조건]\\n무공 강화 단계 +9 이상",
+        "English_Text": "Used to level up Traverse.\nIncreases Evasion while casting Traverse.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于横移成长的精髓。\n技能成长后，使用横移的过程中闪避能力提升。"
+    },
+    "99001051": {
+        "Dev_Desc": "돌파의 정수 : 비염각 (각인)",
+        "Original_Text": "비염각의 진화에 사용되는 정수입니다.\\n진화 시 비염각의 사용 거리가 증가하며, 추가 피해를 입힙니다.\\n\\n[선행 조건]\\n무공 강화 단계 +9 이상",
+        "English_Text": "Used to level up Tiger's Pounce.\nDecreases its cooldown.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于飞炎脚成长的精髓。\n技能成长后，飞炎脚的冷却时间降低。"
+    },
+    "99001052": {
+        "Dev_Desc": "극한의 정수 : 절명각 (각인)",
+        "Original_Text": "절명각의 진화에 사용되는 정수입니다.\\n진화 시 기본 공격속도에 비례하여 피해량이 증가합니다.",
+        "English_Text": "Used to level up Cutting Kick.\nGreatly decreases its Focus cost.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于绝命脚成长的精髓。\n技能成长后，绝命脚的内力消耗量大幅降低。"
+    },
+    "99001053": {
+        "Dev_Desc": "극한의 정수 : 붕권 (각인)",
+        "Original_Text": "붕권의 진화에 사용되는 정수입니다.\\n진화 시 붕권 사용 중 막기 관통이 7 증가합니다.",
+        "English_Text": "Essence used to evolve Bungwon.\\nWhen evolving, block penetration is increased by 7 while using Bungwon.",
+        "Russian_Text": "",
+        "Chinese_Text": "用于进化 Bungwon 的精华。\\n进化时，使用 Bungwon 时，方块穿透增加 7。"
+    },
+    "99001054": {
+        "Dev_Desc": "돌파의 정수 : 붕권 (각인)",
+        "Original_Text": "붕권의 진화에 사용되는 정수입니다.\\n진화 시 범위 내에 있는 3인까지 적중합니다.",
+        "English_Text": "Essence used to evolve Bungwon.\\nWhen evolving, it will hit up to 3 people within range.",
+        "Russian_Text": "",
+        "Chinese_Text": "用于进化Bungwon的精华。\\n进化时，它最多会攻击范围内的3个人。"
+    },
+    "99001055": {
+        "Dev_Desc": "돌파의 정수 : 승천권 (각인)",
+        "Original_Text": "승천권의 진화에 사용되는 정수입니다.\\n진화 시 승천권 사용 후 \"공중\" 상태의 적에게 낙화각을 연계하여 사용합니다.",
+        "English_Text": "Essence used to evolve the Ascension Sphere. \\n When evolving, use the Ascension Sphere and link the Kakhwagak to an enemy in air state.",
+        "Russian_Text": "",
+        "Chinese_Text": "用于进化飞升球的本质。\\n进化时，使用飞升球并将Kakhwagak连接到处于空中状态的敌人。"
+    },
+    "99001058": {
+        "Dev_Desc": "극한의 정수 : 다리걸기 (각인)",
+        "Original_Text": "다리걸기의 진화에 사용되는 정수입니다.\\n진화 시 다리걸기의 재사용 대기시간이 2초 감소합니다.",
+        "English_Text": "Used to level up Leg Sweep.\nIron Shoulder is used in combination.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于扫堂腿成长的精髓。\n技能成长后，可连接使用铁山靠。"
+    },
+    "99001059": {
+        "Dev_Desc": "극한의 정수 : 승천권 (각인)",
+        "Original_Text": "승천권의 진화에 사용되는 정수입니다.\\n진화 시 승천권의 타격 수가 증가합니다.",
+        "English_Text": "Used to level up Rising Fist.\nCasts Iron Butterfly in combo.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于升天拳成长的精髓。\n技能成长后，可连接武功使用烈火脚。"
+    },
+    "99001060": {
+        "Dev_Desc": "돌파의 정수 : 절명각 (각인)",
+        "Original_Text": "절명각의 진화에 사용되는 정수입니다.\\n진화 시 약점 공격 시 추가 피해를 입힙니다.\\n\\n[선행 조건]\\n무공 강화 단계 +9 이상",
+        "English_Text": "Used to level up Cutting Kick.\nDeals damage increased relative to the Normal Attack Speed.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于绝命脚成长的精髓。\n技能成长后，绝命脚的伤害量与基本攻击速度成比例提升。"
+    },
+    "99001061": {
+        "Dev_Desc": "증폭의 정수 : 붕권 (각인)",
+        "Original_Text": "붕권의 진화에 사용되는 정수입니다.\\n진화 시 붕권의 재사용 대기시간이 3초 감소합니다.",
+        "English_Text": "Used to level up Comet Strike.\nAttacks 3 enemies within its range.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于冲拳成长的精髓。\n技能成长后，冲拳变为可攻击范围内的3个敌人。"
+    },
+    "99001069": {
+        "Dev_Desc": "일반 / 철벽 / 특화 / 각인",
+        "Original_Text": "전방의 공격을 방어합니다.\\n기본 공격이 변경 됩니다.\\n재사용 시, 철벽을 해제하며 공격합니다.\\n철벽 중 기력이 감소하고 0이 되면 해제됩니다.",
+        "English_Text": "Defends against attacks coming from ahead.\nNormal Attack is switched while Fortification is effective.\nPress once more to disable Fortification.",
+        "Russian_Text": "",
+        "Chinese_Text": "防御前方的攻击。\n金刚不坏状态下，基本攻击变更。\n金刚不坏状态下再次使用时，可解除金刚不坏状态。"
+    },
+    "99001070": {
+        "Dev_Desc": "일반 / 천벌 / 액티브 / 각인",
+        "Original_Text": "도끼를 내려찍어 피해를 입힙니다.",
+        "English_Text": "Smashes with an axe to deal damage.",
+        "Russian_Text": "",
+        "Chinese_Text": "用斧头砍击造成伤害。"
+    },
+    "99001071": {
+        "Dev_Desc": "일반 / 붕괴 / 액티브 / 각인",
+        "Original_Text": "힘을 모아 올려친 후 내려찍어 피해를 입힙니다.\\n일정 확률로 \"경직\" 효과를 부여합니다.",
+        "English_Text": "Strikes upward with full force, then smashes down to deal damage.",
+        "Russian_Text": "",
+        "Chinese_Text": "蓄力挑击后砍击造成伤害。"
+    },
+    "99001072": {
+        "Dev_Desc": "일반 / 단련 / 패시브 / 각인",
+        "Original_Text": "꾸준히 고강도 체력 단련을 합니다.\\n\\n[효과]\\n생명력 +150",
+        "English_Text": "Consistently performs high-intensity training.\nIncreases HP.",
+        "Russian_Text": "",
+        "Chinese_Text": "坚持高强度体力锻炼。\n提升生命。"
+    },
+    "99001073": {
+        "Dev_Desc": "충격 / 일반 도끼 무공서 (각인)",
+        "Original_Text": "철벽을 해제하고, 도끼를 내려찍어 대상의 위치에 충격파를 발생시켜 공격합니다.\\n소울 패링 성공 시 사용할 수 있습니다.",
+        "English_Text": "Disarms the iron wall and slams down the ax to generate a shockwave at the target's location to attack. \\nSoul Parrying can be used successfully.",
+        "Russian_Text": "",
+        "Chinese_Text": "解除铁壁武装，猛击斧头，在目标位置产生冲击波进行攻击。\\nSoul Parrying可以成功使用。"
+    },
+    "99001079": {
+        "Dev_Desc": "상급 / 광풍 / 액티브 / 각인",
+        "Original_Text": "회전하며 적에게 피해를 입힙니다.\\n사용 중 이동할 수 있습니다.\\n사용 중 받는 피해량이 감소합니다.\\n\\n[효과]\\n받는 피해량 감소 +4%",
+        "English_Text": "Spins to attack nearby enemies.\nCan move while casting Hurricane.\nDecreases incoming damage while casting Hurricane.",
+        "Russian_Text": "",
+        "Chinese_Text": "旋转的同时对周围敌人造成伤害。\n使用狂风的过程中可移动，\n且受到的伤害量降低。"
+    },
+    "99001080": {
+        "Dev_Desc": "상급 / 격돌 / 액티브 / 각인",
+        "Original_Text": "적에게 달려들어 공격해 피해를 입힙니다.\\n일정 확률로 \"경직\" 효과를 부여합니다.",
+        "English_Text": "Dashes forward and deals damage.\nHas a chance to inflict Petrify.",
+        "Russian_Text": "",
+        "Chinese_Text": "冲向敌人发动攻击。\n造成伤害并以一定概率造成僵直。"
+    },
+    "99001081": {
+        "Dev_Desc": "상급 / 기합 / 패시브 / 각인",
+        "Original_Text": "전신 근육에 강한 자극을 주는 운동을 합니다.\\n\\n[효과]\\n힘 +2",
+        "English_Text": "Strongly stimulates every muscle in the body.\nIncreases STR.",
+        "Russian_Text": "",
+        "Chinese_Text": "进行强烈刺激全身肌肉的运动。\n提升力量。"
+    },
+    "99001082": {
+        "Dev_Desc": "상급 / 활력 / 패시브 / 각인",
+        "Original_Text": "활발한 육체 활동을 지속합니다.\\n\\n[효과]\\n건강 +2",
+        "English_Text": "Performs active physical exercises.\nIncreases CON.",
+        "Russian_Text": "",
+        "Chinese_Text": "坚持活跃的身体活动。\n提升健康。"
+    },
+    "99001083": {
+        "Dev_Desc": "진노 / 상급 도끼 무공서 (각인)",
+        "Original_Text": "도끼를 교차해 휘두르며 빠른 연속 공격을 합니다.\\n\"기절\", \"공중\" 상태인 대상에게 사용합니다.",
+        "English_Text": "Crossed and swung axes to make a series of quick attacks. \\nUsed on targets that are stunned or air.",
+        "Russian_Text": "",
+        "Chinese_Text": "交叉和挥动斧头以进行一系列快速攻击。\\n用于眩晕或空中的目标。"
+    },
+    "99001089": {
+        "Dev_Desc": "희귀 / 불사 / 액티브 / 각인",
+        "Original_Text": "4초간 \"불사\" 효과를 얻습니다.\\n건강에 비례하여 생명력을 지속 회복합니다.\\n피격 시 일정 확률로 활성화 되어 사용합니다.",
+        "English_Text": "Activates innate body ability.\nHeals relative to CON over time.\nHas a chance to be activated when hit.",
+        "Russian_Text": "",
+        "Chinese_Text": "在短时间内成为不死状态。\n与健康成比例持续恢复生命。\n被击时，以一定概率激活后使用。"
+    },
+    "99001090": {
+        "Dev_Desc": "희귀 / 처단 / 액티브 / 각인",
+        "Original_Text": "전신의 힘을 끌어 모아 강력한 피해를 입힙니다.\\n일정 확률로 \"기절\" 효과를 부여합니다.\\n\"기절\", \"공중\" 상태인 대상에게 사용합니다.",
+        "English_Text": "Smashes enemy with all might.\nDeals damage and has a chance to inflict Stun.\nCan be used on a provoked and stunned enemy.\nCan be used in combo with Roar and Cyclone.",
+        "Russian_Text": "",
+        "Chinese_Text": "集聚全身力量猛劈敌人。\n造成伤害并以一定概率造成眩晕。\n可对挑衅、眩晕状态的目标使用。\n可在咆哮、旋风武功后连接使用。"
+    },
+    "99001091": {
+        "Dev_Desc": "희귀 / 체질 / 패시브 / 각인",
+        "Original_Text": "타고난 회복 능력을 강화합니다.\\n\\n[효과]\\n물약 회복률 +3%",
+        "English_Text": "Enhances Heal ability.\nIncreases HP Tonic efficiency.",
+        "Russian_Text": "",
+        "Chinese_Text": "强化与生俱来的恢复能力。\n提升生命恢复药效率。"
+    },
+    "99001092": {
+        "Dev_Desc": "희귀 / 강철 / 패시브 / 각인",
+        "Original_Text": "강철 같이 신체를 단련합니다.\\n\\n[효과]\\n방어력 +10",
+        "English_Text": "Strengthens the body as hard as iron.\nIncreases All Defense.",
+        "Russian_Text": "",
+        "Chinese_Text": "锻炼出钢铁般的身体。\n提升所有防御力。"
+    },
+    "99001099": {
+        "Dev_Desc": "영웅 / 포효 / 액티브 / 각인",
+        "Original_Text": "전방에 함성을 지릅니다.\\n일정 확률로 \"도발\" 효과를 부여합니다.",
+        "English_Text": "Roars ahead to provoke an enemy.\nIncreases the chance to activate Invincible for a certain period of time.",
+        "Russian_Text": "",
+        "Chinese_Text": "向前方发出呐喊，以一定概率挑衅敌人。\n在一定时间内提升不死激活概率。"
+    },
+    "99001100": {
+        "Dev_Desc": "영웅 / 분노 / 액티브 / 각인",
+        "Original_Text": "폭발적인 기운으로 강력한 피해를 줍니다.\\n5초간 \"분노\" 효과를 얻습니다.\\n\"분노\" 중 기본 공격이 강화됩니다.\\n공격 명중 시 일정 확률로 활성화 되어 사용합니다.",
+        "English_Text": "Deals powerful damage with blasting energy.\nBecomes enraged for a short while.\nNormal attack deals more damage while enraged.\nHas a chance to be activated when dealing attacks.",
+        "Russian_Text": "",
+        "Chinese_Text": "以爆炸性的气力造成强大的伤害。\n短时间内进入愤怒状态。\n愤怒中基本攻击得到强化。\n攻击时有一定概率激活使用。"
+    },
+    "99001101": {
+        "Dev_Desc": "영웅 / 금강 / 패시브 / 각인",
+        "Original_Text": "방어 시 참고 견디는 훈련을 합니다.\\n\\n[효과]\\n막기 +5",
+        "English_Text": "Trains for enduring attacks while in defense.\nIncreases Block.",
+        "Russian_Text": "",
+        "Chinese_Text": "进行防御训练。\n提升格挡。"
+    },
+    "99001102": {
+        "Dev_Desc": "영웅 / 정의 / 패시브",
+        "Original_Text": "상태이상의 적에게 기본 공격을 강화합니다.\\n\"기절\", \"공중\" 상태인 대상에게 모든 기본 공격이 추가 피해를 입힙니다.",
+        "English_Text": "Strengthens basic attacks against enemies with status ailments. All basic attacks deal additional damage to targets with Stun and Air status.",
+        "Russian_Text": "",
+        "Chinese_Text": "加强对状态异常的敌人的基本攻击。所有基本攻击都会对昏迷和空中状态的目标造成额外伤害。"
+    },
+    "99001109": {
+        "Dev_Desc": "전설 / 불굴 / 패시브 / 각인",
+        "Original_Text": "불굴의 의지로 적들의 공격을 받아 냅니다.\\n\\n[효과]\\n받는 피해량 감소 +5%",
+        "English_Text": "Bears the enemy's attack with undying determination.\nIncreases Incoming Damage.",
+        "Russian_Text": "",
+        "Chinese_Text": "以不屈意志抵挡敌人的攻击。\n受到的伤害量降低。"
+    },
+    "99001110": {
+        "Dev_Desc": "영웅 / 선풍 / 무기스킬 / 각인",
+        "Original_Text": "도끼를 던져 공격합니다.\\n일정 확률로 \"기절\" 효과를 부여합니다.",
+        "English_Text": "Throws the axe to attack.\nHas a chance to pull the enemy and inflicts Stun.",
+        "Russian_Text": "",
+        "Chinese_Text": "投掷斧头进行攻击。\n以一定概率拉回敌人，使其陷入眩晕。"
+    },
+    "99001111": {
+        "Dev_Desc": "전설 / 장벽 / 액티브 / 각인",
+        "Original_Text": "장벽을 생성합니다.\\n이동을 막고 적의 공격을 방해합니다.\\n사용 중 통제 상태에 면역이 됩니다.",
+        "English_Text": "Creates a barrier.\nDisables movement and defends the enemy's attack.",
+        "Russian_Text": "",
+        "Chinese_Text": "形成障壁。\n阻止敌人的移动且防御敌人的攻击。"
+    },
+    "99001120": {
+        "Dev_Desc": "일반 / 결빙공 / 특화 / 각인",
+        "Original_Text": "자신을 얼음으로 감싸 보호합니다.\\n4초간 모든 방향의 공격으로부터 방어합니다.",
+        "English_Text": "Protect yourself by enveloping yourself in ice.\\nProtects you from attacks from all directions for 4 seconds.",
+        "Russian_Text": "",
+        "Chinese_Text": "通过将自己包裹在冰中来保护自己。\\n保护您免受来自各个方向的攻击 4 秒。"
+    },
+    "99001121": {
+        "Dev_Desc": "일반 / 연화 / 액티브 / 각인",
+        "Original_Text": "대상에게 즉각 화기를 주입하여 피해를 입힙니다.\\n명중 시, 특정 무공 사용을 가능하게 하는 \"발화\" 효과를 5.8초간 얻습니다.",
+        "English_Text": "Immediately infuses the target with fire, dealing damage.\\nOn a hit, you gain a Fire effect for 5.8 seconds that enables the use of a specific weapon.",
+        "Russian_Text": "",
+        "Chinese_Text": "立即为目标注入火焰，造成伤害。\\n击中后，你会获得一个持续 5.8 秒的火焰效果，可以使用特定武器。"
+    },
+    "99001122": {
+        "Dev_Desc": "일반 / 화련장 / 액티브 / 각인",
+        "Original_Text": "적에게 화염구를 발사하여 피해를 입힙니다.",
+        "English_Text": "Shoots fireballs to deal damage to enemy.",
+        "Russian_Text": "",
+        "Chinese_Text": "对敌人发射火焰球造成伤害。"
+    },
+    "99001123": {
+        "Dev_Desc": "일반 / 순환 / 패시브 / 각인",
+        "Original_Text": "열기와 냉기의 순환을 이해합니다.\\n\\n[효과]\\n지능 +1",
+        "English_Text": "Realizes the circulation of heat and cold.\nIncreases INT.",
+        "Russian_Text": "",
+        "Chinese_Text": "领会热气与冷气的循环。\n提升智力。"
+    },
+    "99001124": {
+        "Dev_Desc": "일반 불꽃기공패 무공서 (각인)",
+        "Original_Text": "결빙공을 해제하며 회전하는 얼음 칼날을 발사합니다.\\n공격 버튼을 수동으로 눌러 사용 가능합니다.",
+        "English_Text": "Disarms the Ice Ball and fires a spinning ice blade. \\nCan be used by manually pressing the Attack button.",
+        "Russian_Text": "",
+        "Chinese_Text": "解除冰球的武装并发射旋转的冰刃。\\n可以通过手动按下攻击按钮来使用。"
+    },
+    "99001130": {
+        "Dev_Desc": "상급 / 얼음창 / 액티브 / 각인",
+        "Original_Text": "다수의 얼음창을 소환하여 적에게 발사합니다.\\n일정 확률로 이동 속도를 감소시키는 \"둔화\" 효과를 적용합니다.\\n\\n[효과]\\n이동 속도 감소율 +60%",
+        "English_Text": "Summons multiple ice spears and fires them at the enemy.\\nApplies a slow effect that reduces movement speed with a chance.\\n\\n[Effect]\\nMovement speed reduction rate 60%",
+        "Russian_Text": "",
+        "Chinese_Text": "召唤多支冰矛，向敌人发射。\\n施加减速效果，有几率降低移动速度。\\n\\n[效果]\\n移动速度降低率60%"
+    },
+    "99001131": {
+        "Dev_Desc": "상급 / 유성 / 액티브 / 각인",
+        "Original_Text": "유성을 떨궈 피해를 입히고 일정 확률로 주기적인 피해를 주는 \"화상\" 효과를 부여합니다.\\n범위 내 최대 3인까지 적중합니다.",
+        "English_Text": "Rains down meteors to deal damage and has a chance to inflict Burn.\nAffects up to 3 enemies within range.",
+        "Russian_Text": "",
+        "Chinese_Text": "对敌人发射流星造成伤害，以一定概率施加“烧伤”效果，从而造成持续伤害。\n最多可击中范围内3人。"
+    },
+    "99001132": {
+        "Dev_Desc": "상급 / 냉정 / 패시브 / 각인",
+        "Original_Text": "냉정을 유지하는 침착한 마음가짐을 갖습니다.\\n\\n[효과]\\n기공패 공격력 +2",
+        "English_Text": "Calms the mind to maintain a cold heart.\nIncreases Bangle Attack.",
+        "Russian_Text": "",
+        "Chinese_Text": "心平气和，保持冷静。\n提升彩绫攻击力。"
+    },
+    "99001133": {
+        "Dev_Desc": "상급 / 열정 / 패시브 / 각인",
+        "Original_Text": "무공에 대한 열정으로 스스로를 연마합니다.\\n\\n[효과]\\n기공 공격력 +2",
+        "English_Text": "Trains with a great passion for martial arts.\nIncreases Force Attack.",
+        "Russian_Text": "",
+        "Chinese_Text": "对武功充满热情，磨练自己。\n提升气功攻击力。"
+    },
+    "99001134": {
+        "Dev_Desc": "상급 / 홍염 / 패시브 / 각인",
+        "Original_Text": "더욱 맹렬하고 붉은 화염을 다루게 됩니다.\\n대상이 \"화상\" 상태가 되었을 때, 대상의 기공 절대 방어력을 감소시키는 \"홍염\" 효과를 부여합니다.\\n\\n[효과]\\n대상의 기공 절대 방어력 -5%",
+        "English_Text": "Musters up a fiercer and more fiery flame.\nInflicts Flame Boost that decreases Force Defense when the enemy is inflicted by Burn.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用更加猛烈的红色火焰。\n目标成为“烧伤”状态时，赋予降低目标气功防御力的“红焰”效果。"
+    },
+    "99001135": {
+        "Dev_Desc": "상급 불꽃기공패 무공서 (각인)",
+        "Original_Text": "불과 얼음 기탄을 마구 연사합니다.\\n공격 버튼을 수동으로 눌러 사용 가능합니다.",
+        "English_Text": "Fire and ice bullets are fired in a burst. \\nCan be used by manually pressing the attack button.",
+        "Russian_Text": "",
+        "Chinese_Text": "火和冰子弹是连发的。\\n可以通过手动按下攻击按钮来使用。"
+    },
+    "99001140": {
+        "Dev_Desc": "희귀 / 회진보 / 액티브 / 각인",
+        "Original_Text": "불과 재의 모습으로 변하여 \"기절\" 효과를 해제하고 후방으로 회피 합니다. 사용 시, 5초간 통제 저항률이 증가합니다.\\n\\n[효과]\\n통제 저항률 +8%",
+        "English_Text": "Transforms into fire and ashes, dispels the stun effect and evades backwards. When used, increases control resistance for 5 seconds.\\n\\n[effect]\\ncontrol resistance 8%",
+        "Russian_Text": "",
+        "Chinese_Text": "化为火与灰，驱散眩晕效果，向后闪避。使用时，增加控制抗性5秒。\\n\\n[效果]\\n控制抗性8%"
+    },
+    "99001141": {
+        "Dev_Desc": "희귀 / 비륜연휘 / 액티브 / 각인",
+        "Original_Text": "초고온의 불덩이를 난사하여 피해를 입힙니다.\\n\"발화\" 효과를 소모하여 사용 가능합니다.",
+        "English_Text": "Shoots a ball of superheated fire, dealing damage.\\nCan be used by consuming the Ignition effect.",
+        "Russian_Text": "",
+        "Chinese_Text": "射出一团过热的火球，造成伤害。\\n可以通过消耗点燃效果来使用。"
+    },
+    "99001142": {
+        "Dev_Desc": "희귀 / 빙백 / 패시브 / 각인",
+        "Original_Text": "얼음의 이치를 깨닫습니다.\\n\\n[효과]\\n지혜 +4",
+        "English_Text": "Increases WIS by understanding the nature of ice.",
+        "Russian_Text": "",
+        "Chinese_Text": "领会冰之奥义，提升智慧。"
+    },
+    "99001143": {
+        "Dev_Desc": "희귀 / 폭열 / 패시브 / 각인",
+        "Original_Text": "불의 이치를 깨닫습니다.\\n\\n[효과]\\n기공 관통력 +5",
+        "English_Text": "Increases Force Piercing Damage by understanding the nature of fire.",
+        "Russian_Text": "",
+        "Chinese_Text": "领会火之奥义，提升气功穿刺力。"
+    },
+    "99001150": {
+        "Dev_Desc": "영웅 / 봉황시 / 액티브 / 각인",
+        "Original_Text": "공중으로 날아올라 작열하는 봉황의 깃털을 연사합니다.",
+        "English_Text": "Jumps up in the air and rapidly shoots blazing feathers.\nDeals damage which increases relative to WIS.",
+        "Russian_Text": "",
+        "Chinese_Text": "飞向空中连续发射炽热羽毛。\n与智慧成比例造成额外伤害。"
+    },
+    "99001151": {
+        "Dev_Desc": "영웅 / 용렬빙하 / 액티브 / 각인",
+        "Original_Text": "전방으로 길게 솟아오르는 빙하를 형성하여, 일정 확률로 이동을 방해하는 \"빙결\" 효과를 부여합니다.\\n범위 내 최대 3인까지 적중합니다.",
+        "English_Text": "Creates a glacier that rises forward. Has a chance to inflict Freeze which hinders movement.\nAffects up to 3 enemies within range.",
+        "Russian_Text": "",
+        "Chinese_Text": "在前方形成狭长的冰河地带，以一定概率施加妨碍移动的“冰冻”效果。\n最多可击中范围内3人。"
+    },
+    "99001152": {
+        "Dev_Desc": "영웅 / 화륜 / 액티브 / 각인",
+        "Original_Text": "내재된 화기를 방출하여 파티원들에게 기본 공격 속도를 증가시키는 \"가열\" 효과를 12초간 부여합니다.\\n\\n[효과]\\n기본 공격 속도 +50%",
+        "English_Text": "Inflicts Heater, which increases the party members' Normal Attack Speed and Technique Attack Speed by discharging the inner flame.",
+        "Russian_Text": "",
+        "Chinese_Text": "释放内在的火气，为队员施加可提升基本攻击速度与武功攻击速度的“加热”效果。"
+    },
+    "99001153": {
+        "Dev_Desc": "영웅 / 천빙 / 패시브 / 각인",
+        "Original_Text": "한기로 무력화된 대상을 더욱 냉혹하게 공격합니다.\\n빙결 상태의 대상 공격 시 추가 피해를 적용합니다.\\n추가 피해는 3초의 재사용 대기시간을 갖습니다.",
+        "English_Text": "Attacks a target that is incapacitated by the chill even more mercilessly.\\nApplies additional damage when attacking a frozen target.\\nAdditional damage has a 3 second cooldown.",
+        "Russian_Text": "",
+        "Chinese_Text": "更加无情地攻击因寒冷而失去行动能力的目标。\\n攻击冰冻目标时施加额外伤害。\\n额外伤害有 3 秒冷却时间。"
+    },
+    "99001161": {
+        "Dev_Desc": "전설 / 화광소천 / 액티브 / 각인",
+        "Original_Text": "궁극의 화염폭풍을 형성하여 일정 확률로 끌어당긴 후 폭발시켜 밀어냅니다.\\n범위 내 최대 5인까지 적중합니다.\\n사용 중 통제 상태에 면역이 됩니다.",
+        "English_Text": "Forms the ultimate firestorm, pulling it in with a chance, then exploding it and knocking it back. \\n Hits up to 5 people within range.",
+        "Russian_Text": "",
+        "Chinese_Text": "形成终极火焰风暴，有机会将其拉入，然后爆炸并将其击退。\\n 击中范围内最多 5 个人。"
+    },
+    "99001162": {
+        "Dev_Desc": "전설 / 빙정 / 패시브 / 각인",
+        "Original_Text": "얼음을 다루는 무공에 통달합니다.\\n\"둔화\" 효과가 적용 중인 대상을 상대로\\n\"빙결\" 상태이상의 적중 확률이 올라갑니다.",
+        "English_Text": "Masters an ice technique.\nIncreases the chance of Freeze\non the enemy afflicted with Slow.",
+        "Russian_Text": "",
+        "Chinese_Text": "精通冰之武功。\n目标被施加“缓速”效果时，\n提升“冰冻”效果的命中率。"
+    },
+    "99001163": {
+        "Dev_Desc": "전설 / 조화 / 패시브 / 각인",
+        "Original_Text": "얼음과 불의 조화를 이뤄냅니다.\\n무공 공격 속도가 증가합니다.",
+        "English_Text": "Accomplishes the synergy of ice and fire.\nIncreases Technique Attack Speed.",
+        "Russian_Text": "",
+        "Chinese_Text": "把冰与火融会贯通。\n提升武功攻击速度。"
+    },
+    "99001171": {
+        "Dev_Desc": "일반 / 추적화살 / 액티브 / 각인",
+        "Original_Text": "적을 끝까지 쫓는 화살을 날려 피해를 입힙니다.",
+        "English_Text": "Relentlessly tracks the enemy and deals damage.",
+        "Russian_Text": "",
+        "Chinese_Text": "发射向着敌人追踪到底的箭矢造成伤害。"
+    },
+    "99001172": {
+        "Dev_Desc": "일반 / 다발화살 / 액티브 / 각인",
+        "Original_Text": "적에게 여러 발의 화살을 날려 피해를 입힙니다.",
+        "English_Text": "Shoots a bundle of arrows to deal damage.",
+        "Russian_Text": "",
+        "Chinese_Text": "向敌人射出多个箭矢造成伤害。"
+    },
+    "99001173": {
+        "Dev_Desc": "일반 / 조준 / 패시브 / 각인",
+        "Original_Text": "침착함을 유지해 목표물을 정확히 조준합니다.\\n\\n[효과]\\n원거리 공격력 +1",
+        "English_Text": "Calmly aims at the target for an accurate shot.\nIncreases Ranged Attack.",
+        "Russian_Text": "",
+        "Chinese_Text": "保持沉着冷静，精确瞄准目标。\n提升远距离攻击力。"
+    },
+    "99001174": {
+        "Dev_Desc": "일반 / 화살비 / 특화 / 각인",
+        "Original_Text": "적에게 화살을 비처럼 쏘아대어 피해를 입힙니다.",
+        "English_Text": "Pours arrows over the enemy to deal damage.",
+        "Russian_Text": "",
+        "Chinese_Text": "向敌人射下箭雨造成伤害。"
+    },
+    "99001175": {
+        "Dev_Desc": "전진사격 / EQ"
+    },
+    "99001181": {
+        "Dev_Desc": "상급 / 다중사격 / 액티브 / 각인",
+        "Original_Text": "적에게 아주 빠른 속도로 화살을 여러 번 날려 피해를 입힙니다.",
+        "English_Text": "Rapidly shoots multiple arrows to deal damage to an enemy.",
+        "Russian_Text": "",
+        "Chinese_Text": "以极快的速度多次射出箭矢造成伤害。"
+    },
+    "99001183": {
+        "Dev_Desc": "상급 / 직감 / 패시브 / 각인",
+        "Original_Text": "온 몸의 감각을 집중시켜 신체 능력을 향상시킵니다.\\n\\n[효과]\\n솜씨 +1\\n민첩 +1",
+        "English_Text": "Concentrates all senses to enhance physical ability.\nIncreases AGI and DEX.",
+        "Russian_Text": "",
+        "Chinese_Text": "集中全身的感觉，提升身体能力。\n提升敏捷与技巧。"
+    },
+    "99001184": {
+        "Dev_Desc": "일반 / 출혈화살 / 패시브 / 각인",
+        "Original_Text": "일정 확률로 대상을 3초간 \"출혈\"시키는 화살을 날립니다.",
+        "English_Text": "Shoots an arrow that has a chance to inflict Bleed on a target.",
+        "Russian_Text": "",
+        "Chinese_Text": "以一定概率射箭使目标“出血”。"
+    },
+    "99001185": {
+        "Dev_Desc": "연사 / QQ"
+    },
+    "99001191": {
+        "Dev_Desc": "희귀 / 살상명령 / 액티브 / 각인",
+        "Original_Text": "8초간 기본 공격 속도가 크게 증가합니다.\\n\\n[효과]\\n기본 공격 속도 +50%",
+        "English_Text": "Greatly increases Normal Attack Speed for a short while.",
+        "Russian_Text": "",
+        "Chinese_Text": "短时间内大幅提升基本攻击的攻击速度。"
+    },
+    "99001192": {
+        "Dev_Desc": "희귀 / 후퇴사격 / 액티브 / 각인",
+        "Original_Text": "뒤로 빠르게 이동하며 적에게 화살을 날립니다.",
+        "English_Text": "Quickly darts back and shoots an arrow at the enemy.",
+        "Russian_Text": "",
+        "Chinese_Text": "快速移动至后方，向敌人射出箭矢。"
+    },
+    "99001193": {
+        "Dev_Desc": "희귀 / 연마 / 패시브 / 각인",
+        "Original_Text": "활 시위를 강하게 당겨 목표물을 꿰뚫습니다.\\n\\n[효과]\\n원거리 관통력 +3",
+        "English_Text": "Pierces the target by tightly pulling back on the bow.\nIncreases Ranged Physical Piercing.",
+        "Russian_Text": "",
+        "Chinese_Text": "大力拉动弓弦，射穿目标。\n提升远距离物理穿刺力。"
+    },
+    "99001194": {
+        "Dev_Desc": "희귀 / 속사 / 패시브 / 각인",
+        "Original_Text": "더욱더 빠르게 활 시위를 당깁니다.\\n\\n[효과]\\n기본 공격 속도 +7%",
+        "English_Text": "Plucks the bowstring faster.\nIncreases Normal Attack Speed.",
+        "Russian_Text": "",
+        "Chinese_Text": "更加快速拉动弓弦。\n提升基本攻击速度。"
+    },
+    "99001195": {
+        "Dev_Desc": "희귀 / 깊은상처 / 패시브 / 각인",
+        "Original_Text": "날카로운 화살촉이 상처를 파고듭니다.\\n\"출혈\" 지속시간이 증가합니다.\\n\\n[효과]\\n출혈 지속시간 +1초",
+        "English_Text": "The sharp arrowhead causes a deep wound.\nIncreases the duration of Bleed.",
+        "Russian_Text": "",
+        "Chinese_Text": "锐利箭头钻进伤口。\n提升“出血”持续时间。"
+    },
+    "99001201": {
+        "Dev_Desc": "영웅 / 반마화살 / 액티브 / 각인",
+        "Original_Text": "적에게 특수한 화살을 날려 피해를 입히며 무공으로 얻은 이로운 효과 일부를 해제합니다.",
+        "English_Text": "The arrow removes all technique buffs on the target.",
+        "Russian_Text": "",
+        "Chinese_Text": "射出箭矢，消除通过武功获得的增益效果。"
+    },
+    "99001202": {
+        "Dev_Desc": "영웅 / 조준사격 / 액티브 / 각인",
+        "Original_Text": "포착한 적에게 시위를 강하게 당겨 화살을 날립니다.\\n일정 확률로 대상을 \"기절\"시킵니다.",
+        "English_Text": "Draws the bow to shoot an arrow with power.\nGreatly increases Ranged Critical Rate and has a chance to inflict Stun.",
+        "Russian_Text": "",
+        "Chinese_Text": "大力拉开弓弦，射击捕捉到的敌人。\n大幅提升远距离暴击率，以一定概率造成“眩晕”。"
+    },
+    "99001203": {
+        "Dev_Desc": "영웅 / 몰입 / 패시브 / 각인",
+        "Original_Text": "잡념으로부터 벗어나 전투에만 집중합니다.\\n\\n[효과]\\n원거리 치명률 +3%\\n치명타 추가 공격력 +7",
+        "English_Text": "Puts all distracting thoughts behind to concentrate on the battle.\nIncreases Ranged Critical Rate and Critical Bonus.",
+        "Russian_Text": "",
+        "Chinese_Text": "抛却杂念，集中精神投入战斗。\n提升远距离暴击率与暴击额外攻击力。"
+    },
+    "99001204": {
+        "Dev_Desc": "영웅 / 백발백중 / 패시브 / 각인",
+        "Original_Text": "숙련된 활솜씨로 표적을 빗나가지 않습니다.\\n\\n[효과]\\n무기 공격력 증폭 +15%",
+        "English_Text": "Increases Ranged Accuracy with infallible bow skills.",
+        "Russian_Text": "",
+        "Chinese_Text": "射击必然命中，提升远距离命中。"
+    },
+    "99001206": {
+        "Dev_Desc": "영웅 / 강사 / 패시브 / 각인",
+        "Original_Text": "기본 공격 치명타 시 일정 확률로 \"출혈\"이 적용됩니다.",
+        "English_Text": "Has a chance to inflict Bleed on normal critical hit.",
+        "Russian_Text": "",
+        "Chinese_Text": "基本攻击暴击时，以一定概率造成“出血”。"
+    },
+    "99001212": {
+        "Dev_Desc": "전설 / 혈상 / 패시브 / 각인",
+        "Original_Text": "주기적인 피해를 주는 \"출혈\"에 치유감소 효과가 추가됩니다.",
+        "English_Text": "Inflicts Bleed and reduces Heal",
+        "Russian_Text": "",
+        "Chinese_Text": "造成持续伤害的“出血”效果附带治愈降低效果。"
+    },
+    "99001213": {
+        "Dev_Desc": "살우"
+    },
+    "99001222": {
+        "Dev_Desc": "상급 / 생령치유 / 액티브 / 각인",
+        "Original_Text": "신령한 기운으로 주변 파티원을 2명까지 연속적으로 치유합니다.",
+        "English_Text": "Heals up to 2 nearby party members with divine energy in a row.",
+        "Russian_Text": "",
+        "Chinese_Text": "连续治疗附近最多 2 名队员的神圣能量。"
+    },
+    "99001223": {
+        "Dev_Desc": "일반 / 연섬뢰 / 액티브 / 각인",
+        "Original_Text": "순간적으로 여러 번의 피해를 입힙니다.",
+        "English_Text": "Deals multiple damage to the target instantly.",
+        "Russian_Text": "",
+        "Chinese_Text": "一瞬间造成多次伤害。"
+    },
+    "99001224": {
+        "Dev_Desc": "일반 / 강섬뢰 / 액티브 / 각인",
+        "Original_Text": "대상을 강하게 공격합니다.",
+        "English_Text": "Deals a strong attack to the target.",
+        "Russian_Text": "",
+        "Chinese_Text": "对目标发动强力攻击。"
+    },
+    "99001225": {
+        "Dev_Desc": "일반 / 가호 / 패시브 / 각인",
+        "Original_Text": "하늘의 가호로 내력 재생이 증가합니다.\\n\\n[효과]\\n내력 재생 +1",
+        "English_Text": "Increases Focus Regen thanks to blessings from the heavens.",
+        "Russian_Text": "",
+        "Chinese_Text": "获得苍天庇护，提升内力再生。"
+    },
+    "99001226": {
+        "Dev_Desc": "생령폭격 / EQ"
+    },
+    "99001232": {
+        "Dev_Desc": "일반 / 생령합일 / 특화 / 각인",
+        "Original_Text": "일정 시간 생령과 합일하여 대부분의 공격을 회피합니다. 합일 상태에서는 공격 및 구르기 사용이 불가능하며 이동 속도가 감소합니다.",
+        "English_Text": "United with the Spirit for a period of time to avoid most attacks. Attack and Roll cannot be used while united, and movement speed decreases.",
+        "Russian_Text": "",
+        "Chinese_Text": "在一段时间内与精神联合，可以避免大多数攻击。联合时无法使用攻击和滚动，并且移动速度降低。"
+    },
+    "99001233": {
+        "Dev_Desc": "상급 / 심기일전 / 액티브 / 각인",
+        "Original_Text": "파티원 전체의 피해량을 5초간 증가시킵니다.\\n\\n[효과]\\n주는 피해량 증폭 +4%",
+        "English_Text": "Increases Attack for the whole party for a certain time period.",
+        "Russian_Text": "",
+        "Chinese_Text": "在一段时间内提升所有队员的伤害量。"
+    },
+    "99001234": {
+        "Dev_Desc": "영웅 / 현기 / 패시브 / 각인",
+        "Original_Text": "치유에 대한 이해가 깊어져 치유력이 증가합니다.\\n\\n[효과]\\n치유력 +10",
+        "English_Text": "Heal is increased through a deeper understanding of healing.",
+        "Russian_Text": "",
+        "Chinese_Text": "更加深厚地理解治愈，从而提升治愈力。"
+    },
+    "99001235": {
+        "Dev_Desc": "상급 / 현자 / 패시브 / 각인",
+        "Original_Text": "심오한 사고로 지혜와 지능이 증가합니다.\\n\\n[효과]\\n지능 +1, 지혜 +1",
+        "English_Text": "Increases WIS and INT through deep concentration.",
+        "Russian_Text": "",
+        "Chinese_Text": "苦思冥想，提升智慧与智力。"
+    },
+    "99001236": {
+        "Dev_Desc": "굉섬뢰 / Q"
+    },
+    "99001242": {
+        "Dev_Desc": "희귀 / 치유지대 / 액티브 / 각인",
+        "Original_Text": "대상 근처에 법함을 설치하여 주변 파티원의 생명력을 7초 동안 지속적으로 치유합니다.",
+        "English_Text": "Install a totem to heal nearby party members over time.",
+        "Russian_Text": "",
+        "Chinese_Text": "放置图腾，持续治愈周围队员的生命。"
+    },
+    "99001243": {
+        "Dev_Desc": "희귀 / 청화 / 액티브 / 각인",
+        "Original_Text": "상서로운 청염의 힘으로 대상을 공격합니다.",
+        "English_Text": "Has a chance to burn a part of the target's Focus by attacking them with the power of auspicious blue flame.",
+        "Russian_Text": "",
+        "Chinese_Text": "以神圣青焰的力量攻击目标，以一定概率燃烧目标的部分内力。"
+    },
+    "99001244": {
+        "Dev_Desc": "희귀 / 득음 / 패시브 / 각인",
+        "Original_Text": "음에 대한 깨달음으로 종을 통해 더욱 강한 피해를 입힙니다.\\n\\n[효과]\\n법종 공격력 +3",
+        "English_Text": "Deals greater damage with a Bell by realizing the power of pitch.",
+        "Russian_Text": "",
+        "Chinese_Text": "领悟音律，使用钟造成更强大的伤害。"
+    },
+    "99001252": {
+        "Dev_Desc": "영웅 / 심판 / 액티브 / 각인",
+        "Original_Text": "하늘에서 내려 꽂히는 강한 일격을 가합니다.",
+        "English_Text": "Deals a powerful strike, smashing down from above.",
+        "Russian_Text": "",
+        "Chinese_Text": "发动从天而降的强大一击。"
+    },
+    "99001253": {
+        "Dev_Desc": "영웅 / 수호 / 액티브 / 각인",
+        "Original_Text": "신령한 기운으로 대상을 보호하여 받는 피해를 25초간 감소시킵니다.\\n\\n[효과]\\n받는 피해량 감소 +20%",
+        "English_Text": "Protects the target with divine energy to reduce damage taken for 25 seconds.\\n\\n[Effect]\\nReduce damage taken by 20%",
+        "Russian_Text": "",
+        "Chinese_Text": "用神圣能量保护目标，减少受到的伤害，持续25秒。\\n\\n[效果]\\n减少20%受到的伤害"
+    },
+    "99001254": {
+        "Dev_Desc": "영웅 / 구원 / 액티브 / 각인",
+        "Original_Text": "파티원 전체의 해로운 효과 일부를 해제하며 생명력을 일정량 회복시킵니다.",
+        "English_Text": "Removes Stun, Freeze, and Slow effects from the party and increases CC Resist for a certain period of time.",
+        "Russian_Text": "",
+        "Chinese_Text": "解除所有队员的眩晕、冰冻、缓速、移动速度降低，在一段时间内提升控制抵抗率。"
+    },
+    "99001255": {
+        "Dev_Desc": "영웅 / 체화 / 패시브 / 각인",
+        "Original_Text": "신령한 기운을 몸으로 체화하여 무기 공격력이 증가합니다.\\n\\n[효과]\\n무기 공격력 +2",
+        "English_Text": "Increases weapon attack power by embodied divine energy into the body.\\n\\n[effect]\\nweapon attack 2",
+        "Russian_Text": "",
+        "Chinese_Text": "通过将神力凝聚到体内来增加武器攻击力。\\n\\n[效果]\\nweapon attack 2"
+    },
+    "99001256": {
+        "Dev_Desc": "영웅 / 은총 / 패시브 / 각인",
+        "Original_Text": "하늘의 은총으로 주는 치유량이 증가합니다.\\n\\n[효과]\\n주는 치유량 +3.0%",
+        "English_Text": "Healing from Heaven's Grace is increased.\\n\\n[Effect]\\nhealing done by 3.0%",
+        "Russian_Text": "",
+        "Chinese_Text": "天恩的治疗效果提高。\\n\\n[效果]\\n治疗效果提高3.0%"
+    },
+    "99001257": {
+        "Dev_Desc": "영웅 / 치환 / 패시브",
+        "Original_Text": "기본 공격 시 일정 확률로 치유력에 비례하여 추가 피해를 입힙니다.",
+        "English_Text": "Basic attacks have a chance to deal additional damage proportional to healing power.",
+        "Russian_Text": "",
+        "Chinese_Text": "普通攻击有几率造成与治疗能力成正比的额外伤害。"
+    },
+    "99001262": {
+        "Dev_Desc": "전설 / 광명청음 / 액티브 / 각인",
+        "Original_Text": "신령한 빛과 소리로 파티원 전체를 감쌉니다. 생명력을 대량 회복시키며 5초간 피해를 입지 않도록 보호합니다.",
+        "English_Text": "Envelopes all party members with divine light and sound. Restores a large amount of HP and protects against damage for 5 seconds.",
+        "Russian_Text": "",
+        "Chinese_Text": "用神圣的光和声音包裹所有队员。恢复大量HP并保护5秒不受伤害。"
+    },
+    "99001263": {
+        "Dev_Desc": "전설 / 통달 / 패시브 / 각인",
+        "Original_Text": "만물에 통달하여 강제적인 통제에 더욱 쉽게 저항합니다.\\n\\n[효과]\\n통제 저항률 +8.0%",
+        "English_Text": "More easily resist CC by honing your skill in all things.",
+        "Russian_Text": "",
+        "Chinese_Text": "通晓万物，更轻松地抵抗强行控制。"
+    },
+    "99001273": {
+        "Dev_Desc": "증폭의 정수 : 천벌 (각인)",
+        "Original_Text": "천벌의 진화에 사용되는 정수입니다.\\n진화 시 피해량이 증가합니다.",
+        "English_Text": "Used to level up Divine Wrath.\nIncreases its damage.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于天罚成长的精髓。\n技能成长后，天罚的伤害量提升。"
+    },
+    "99001274": {
+        "Dev_Desc": "증폭의 정수 : 붕괴 (각인)",
+        "Original_Text": "붕괴의 진화에 사용되는 정수입니다.\\n진화 시 내력 소모량이 1 감소합니다.",
+        "English_Text": "Used to level up Breakdown.\nDecreases its Focus cost.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于崩溃成长的精髓。\n技能成长后，崩溃的内力消耗量降低。"
+    },
+    "99001275": {
+        "Dev_Desc": "증폭의 정수 : 철벽 (각인)",
+        "Original_Text": "철벽의 진화에 사용되는 정수입니다.\\n진화 시 \"철벽\" 중 튕기기 발동률이 15% 증가합니다.",
+        "English_Text": "Used to level up Fortification.\nIncreases its Parry Chance.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于金刚不坏成长的精髓。\n技能成长后，提升“金刚不坏”的反弹发动率。"
+    },
+    "99001283": {
+        "Dev_Desc": "극한의 정수 : 천벌 (각인)",
+        "Original_Text": "천벌의 진화에 사용되는 정수입니다.\\n진화 시 재사용 대기시간이 2초 감소합니다.",
+        "English_Text": "Used to level up Divine Wrath.\nIncreases its cooldown.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于天罚成长的精髓。\n技能成长后，天罚的冷却时间降低。"
+    },
+    "99001284": {
+        "Dev_Desc": "극한의 정수 : 붕괴 (각인)",
+        "Original_Text": "붕괴의 진화에 사용되는 정수입니다.\\n진화 시 재사용 대기시간이 2초 감소합니다.",
+        "English_Text": "Used to level up Breakdown.\nIncreases its cooldown.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于崩溃成长的精髓。\n技能成长后，崩溃的冷却时间降低。"
+    },
+    "99001285": {
+        "Dev_Desc": "증폭의 정수 : 격돌 (각인)",
+        "Original_Text": "격돌의 진화에 사용되는 정수입니다.\\n진화 시 내력 소모량이 1 감소합니다.",
+        "English_Text": "Used to level up Slam.\nDecreases its Focus cost.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于冲突成长的精髓。\n技能成长后，冲突的内力消耗量降低。"
+    },
+    "99001286": {
+        "Dev_Desc": "증폭의 정수 : 광풍 (각인)",
+        "Original_Text": "광풍의 진화에 사용되는 정수입니다.\\n진화 시 범위 내 최대 3인까지 적중하며, 사용 중 이동 속도가 50% 증가합니다.",
+        "English_Text": "Used to level up Hurricane.\nIncreases Move Speed while casting Hurricane.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于狂风成长的精髓。\n技能成长后，使用狂风过程中移动速度提升。"
+    },
+    "99001287": {
+        "Dev_Desc": "돌파의 정수 : 격돌",
+        "Original_Text": "격돌의 진화에 사용되는 정수입니다.\\n진화 시 사용 거리가 증가하고, 철벽 중 일정 확률로 \"기절\" 효과가 적용됩니다.\\n\\n[선행 조건]\\n무공 강화 단계 +9 이상",
+        "English_Text": "Essence used to evolve Clash.\\nWhen evolving, the range increases, and the stun effect is applied with a certain probability during an iron wall.",
+        "Russian_Text": "",
+        "Chinese_Text": "用于进化冲突的精华。\\n进化时，范围增加，并且在铁壁期间以一定的概率施加眩晕效果。"
+    },
+    "99001293": {
+        "Dev_Desc": "돌파의 정수 : 천벌 (각인)",
+        "Original_Text": "천벌의 진화에 사용되는 정수입니다.\\n진화 시 일정 확률로 최대 5회 가속 공격을 합니다.\\n\\n[선행 조건]\\n무공 강화 단계 +9 이상",
+        "English_Text": "Used to level up Divine Wrath.\nHas a chance to accelerate attacks up to 5 times.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于天罚成长的精髓。\n技能成长后，使用天罚过程中以一定概率发动最多5次加速攻击。"
+    },
+    "99001294": {
+        "Dev_Desc": "돌파의 정수 : 붕괴 (각인)",
+        "Original_Text": "붕괴의 진화에 사용되는 정수입니다.\\n진화 시 붕괴 사용 중 근거리 절대 명중이 30% 증가합니다.\\n\\n[선행 조건]\\n무공 강화 단계 +9 이상",
+        "English_Text": "Used to level up Breakdown.\nDeals extra damage relative to CON.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于崩溃成长的精髓。\n技能成长后，与健康成比例造成额外伤害。"
+    },
+    "99001295": {
+        "Dev_Desc": "극한의 정수 : 격돌 (각인)",
+        "Original_Text": "격돌의 진화에 사용되는 정수입니다.\\n명중 시, 일정 확률로 분노가 활성화됩니다.",
+        "English_Text": "Used to level up Slam.\nHas a chance to activate Rage upon accurate hit.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于冲突成长的精髓。\n命中时，以一定概率激活愤怒。"
+    },
+    "99001296": {
+        "Dev_Desc": "극한의 정수 : 광풍 (각인)",
+        "Original_Text": "광풍의 진화에 사용되는 정수입니다.\\n진화 시 사용 중 주변 공격을 방어합니다.",
+        "English_Text": "Used to level up Hurricane.\nDefends incoming attacks and increases the chance to activate Invincible for a certain period of time.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于狂风成长的精髓。\n使用狂风过程中可防御周围的攻击，在一段时间内提升不死激活概率。"
+    },
+    "99001297": {
+        "Dev_Desc": "증폭의 정수 : 처단 (각인)",
+        "Original_Text": "처단의 진화에 사용되는 정수입니다.\\n진화 시 내력 소모량이 3 감소합니다.",
+        "English_Text": "Used to level up Eradicate.\nIncreases its cooldown.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于处决成长的精髓。\n技能成长后，处决的冷却时间降低。"
+    },
+    "99001298": {
+        "Dev_Desc": "돌파의 정수 : 분노",
+        "Original_Text": "분노의 진화에 사용되는 정수입니다.\\n\"분노\" 효과 지속 시간이 3초 증가합니다.\\n선풍, 처단 명중 시 활성화 확률이 증가합니다.\\n\\n[선행 조건]\\n무공 강화 단계 +9 이상",
+        "English_Text": "Essence used to evolve anger.\\nRage effect duration increases by 3 seconds.\\nThe activation chance increases when you hit a whirlwind or death penalty.\\n\\n[Prerequisite]\\nEnhancement Level 9 or higher",
+        "Russian_Text": "",
+        "Chinese_Text": "用于进化愤怒的精华。\\nRage 效果持续时间增加 3 秒。\\n当你受到旋风或死亡惩罚时激活机会增加。\\n\\n[先决条件]\\nEnhancement Level 9 或更高"
+    },
+    "99001299": {
+        "Dev_Desc": "극한의 정수 : 선풍",
+        "Original_Text": "선풍의 진화에 사용되는 정수입니다.\\n진화 시 일정 확률로 \"당기기\" 효과가 적용됩니다.",
+        "English_Text": "Essence used to evolve the whirlwind. \\nWhen evolving, there is a chance to apply the pull effect.",
+        "Russian_Text": "",
+        "Chinese_Text": "精华用于进化旋风。\\n进化时，有机会施加拉动效果。"
+    },
+    "99001300": {
+        "Dev_Desc": "돌파의 정수 : 선풍",
+        "Original_Text": "선풍의 진화에 사용되는 정수입니다.\\n진화 시 당겨진 적에게 추가 공격을 가합니다.\\n\\n[선행 조건]\\n무공 강화 단계 +9 이상",
+        "English_Text": "Essence used to evolve the whirlwind.\\nInflicts an additional attack on the drawn enemy when evolving.\\n\\n[Prerequisite]\\nEnhancement Level 9 or higher",
+        "Russian_Text": "",
+        "Chinese_Text": "用于进化旋风的精华。\\n进化时对被吸引的敌人造成额外攻击。\\n\\n[先决条件]\\nEnhancement Level 9 或更高"
+    },
+    "99001303": {
+        "Dev_Desc": "증폭의 정수 : 불사 (각인)",
+        "Original_Text": "불사의 진화에 사용되는 정수입니다.\\n진화 시 \"불사\" 중 통제 저항률이 20% 증가합니다.",
+        "English_Text": "Used to level up Invincible.\nHas a higher chance to enable when HP drops to a certain level.\nA successful defense increases the chance of activation.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于不死成长的精髓。\n体力降至一定程度时，提升激活概率。\n防御成功时，提升激活概率。"
+    },
+    "99001304": {
+        "Dev_Desc": "증폭의 정수 : 분노 (각인)",
+        "Original_Text": "분노의 진화에 사용되는 정수입니다.\\n진화 시 \"분노\" 중 도끼 공격력이 5 증가합니다.",
+        "English_Text": "Used to level up Rage.\nIncreases STR when dealing attack.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于愤怒成长的精髓。\n愤怒中攻击时，提升力量。"
+    },
+    "99001305": {
+        "Dev_Desc": "극한의 정수 : 철벽 (각인)",
+        "Original_Text": "철벽의 진화에 사용되는 정수입니다.\\n진화 시 \"철벽\" 중 막기 피해 감소율이 5% 증가합니다.",
+        "English_Text": "Used to level up Fortification.\nCan use Slam, Roar, and Invincible while casting Fortification.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于金刚不坏成长的精髓。\n技能成长后，在使用金刚不坏过程中也可以使用冲突、咆哮、不死。"
+    },
+    "99001306": {
+        "Dev_Desc": "돌파의 정수 : 광풍 (각인)",
+        "Original_Text": "광풍의 진화에 사용되는 정수입니다.\\n진화 시 일정 확률로 \"경직\" 효과가 적용됩니다.\\n\\n[선행 조건]\\n무공 강화 단계 +9 이상",
+        "English_Text": "Used to level up Hurricane.\nAdditionally inflicts Petrify.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于狂风成长的精髓。\n技能成长后，额外造成“僵直”效果。"
+    },
+    "99001307": {
+        "Dev_Desc": "돌파의 정수 : 불사",
+        "Original_Text": "불사의 진화에 사용되는 정수입니다.\\n\"불사\" 중 받는 피해량 감소가 30% 증가합니다.\\n\\n[선행 조건]\\n무공 강화 단계 +9 이상",
+        "English_Text": "Used to level up Eradicate.\nAttacks up to 3 enemies within range.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于处决成长的精髓。\n技能成长后，可攻击范围内最多3个敌人。"
+    },
+    "99001308": {
+        "Dev_Desc": "극한의 정수 : 처단 ",
+        "Original_Text": "처단의 진화에 사용되는 정수입니다.\\n진화 시 건강에 비례하여 피해량이 증가합니다.",
+        "English_Text": "Essence used for the evolution of punishment. \\n When evolving, damage increases in proportion to health.",
+        "Russian_Text": "",
+        "Chinese_Text": "用于惩罚进化的精华。\\n进化时，伤害与健康成正比。"
+    },
+    "99001309": {
+        "Dev_Desc": "돌파의 정수 : 처단",
+        "Original_Text": "처단의 진화에 사용되는 정수입니다.\\n진화 시 광역 피해로 전환되며, 범위 내 최대 3인까지 적중합니다.\\n\\n[선행 조건]\\n무공 강화 단계 +9 이상",
+        "English_Text": "Essence used for the evolution of Punishment.\\nWhen evolving, it converts to wide-area damage, and hits up to 3 people within range.\\n\\n[Prerequisite]\\nEnhancement Level 9 or higher",
+        "Russian_Text": "",
+        "Chinese_Text": "用于惩罚进化的精华。\\n进化时，它会转化为广域伤害，最多可以击中范围内的3个人。\\n\\n[先决条件]\\n增强9级或更高"
+    },
+    "99001310": {
+        "Dev_Desc": "극한의 정수 : 포효",
+        "Original_Text": "포효의 진화에 사용되는 정수입니다.\\n진화 시 \"포효\" 중 받는 피해량이 8% 감소합니다.",
+        "English_Text": "Essence used to evolve Roar.\\nWhen evolving, damage taken during Roar is reduced by 8%.",
+        "Russian_Text": "",
+        "Chinese_Text": "用于进化咆哮的精华。\\n进化时，咆哮期间受到的伤害降低8%。"
+    },
+    "99001311": {
+        "Dev_Desc": "돌파의 정수 : 포효",
+        "Original_Text": "포효의 진화에 사용되는 정수입니다.\\n진화 시 광역 피해로 전환되며, 범위 내 최대 3인까지 적중합니다.\\n\\n[선행 조건]\\n무공 강화 단계 +9 이상",
+        "English_Text": "Essence used to evolve Roar.\\nConverts to wide-area damage when evolving. Hits up to 3 people within range.\\n\\n[Prerequisite]\\nEnhancement Level 9 or higher",
+        "Russian_Text": "",
+        "Chinese_Text": "用于进化咆哮的精华。\\n进化时转化为广域伤害。范围内最多可击中 3 人。\\n\\n[先决条件]\\nEnhancement Level 9 或更高"
+    },
+    "99001313": {
+        "Dev_Desc": "극한의 정수 : 불사 (각인)",
+        "Original_Text": "불사의 진화에 사용되는 정수입니다.\\n진화 시 일정 체력 이하에서 활성화 확률이 증가합니다.",
+        "English_Text": "Used to level up Invincible.\nIncreases CC Resist while casting Invincible.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于不死成长的精髓。\n技能成长后，使用不死过程中控制抵抗率提升。"
+    },
+    "99001314": {
+        "Dev_Desc": "극한의 정수 : 분노 (각인)",
+        "Original_Text": "분노의 진화에 사용되는 정수입니다.\\n진화 시 \"분노\" 중 근거리 절대 명중이 5% 증가합니다.",
+        "English_Text": "Used to level up Rage.\nHas a chance to be activated upon accurate hit of Cyclone and Eradicate.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于愤怒成长的精髓。\n旋风、处决命中时，以一定概率激活。"
+    },
+    "99001315": {
+        "Dev_Desc": "돌파의 정수 : 철벽 (각인)",
+        "Original_Text": "철벽의 진화에 사용되는 정수입니다.\\n진화 시 \"철벽\" 중에도 격돌, 불사 무공을 사용 할 수 있습니다.\\n\\n[선행 조건]\\n무공 강화 단계 +9 이상",
+        "English_Text": "Used to level up Fortification.\nIncreases Blocked Damage Down while casting Fortification.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于金刚不坏成长的精髓。\n金刚不坏状态下，提升格挡伤害降低率。"
+    },
+    "99001316": {
+        "Dev_Desc": "증폭의 정수 : 포효 (각인)",
+        "Original_Text": "포효의 진화에 사용되는 정수입니다.\\n진화 시 6초간 \"포효\" 효과를 얻습니다.\\n\"포효\" 중 불사 활성화 확률이 증가합니다.",
+        "English_Text": "Used to level up Roar.\nProvokes up to 3 enemies within range.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于咆哮成长的精髓。\n技能成长后，可“挑衅”范围内3个敌人。"
+    },
+    "99001317": {
+        "Dev_Desc": "증폭의 정수 : 선풍 (각인)",
+        "Original_Text": "선풍의 진화에 사용되는 정수입니다.\\n진화 시 재사용 대기시간이 3초 감소합니다.",
+        "English_Text": "Used to level up Cyclone.\nDeals an extra attack to the pulled enemy.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于旋风成长的精髓。\n技能成长后，可对被拉过来的敌人发动额外攻击。"
+    },
+    "99001324": {
+        "Dev_Desc": "증폭의 정수 : 결빙공 (각인)",
+        "Original_Text": "결빙공의 진화에 사용되는 정수입니다.\\n진화 시 결빙공의 기력 소모량이 100 감소합니다.",
+        "English_Text": "Essence used to evolve the Iceball. \\nEvolution reduces the Iceball's energy consumption by 100.",
+        "Russian_Text": "",
+        "Chinese_Text": "用于进化冰球的精华。\\nEvolution将冰球的能量消耗降低了100。"
+    },
+    "99001325": {
+        "Dev_Desc": "증폭의 정수 : 연화 (각인)",
+        "Original_Text": "연화의 진화에 사용되는 정수입니다.\\n진화 시 일정 확률로 \"화상\" 효과를 부여합니다.",
+        "English_Text": "Essence used for the evolution of softening.\\nEvolves with a chance to inflict Burn effect.",
+        "Russian_Text": "",
+        "Chinese_Text": "用于软化进化的精华。\\n进化有机会造成灼伤效果。"
+    },
+    "99001326": {
+        "Dev_Desc": "증폭의 정수 : 화련장 (각인)",
+        "Original_Text": "화련장의 진화에 사용되는 정수입니다.\\n진화 시 지능에 비례하여 피해량이 증가합니다.",
+        "English_Text": "Essence used for the evolution of the Hwa Ryeonjang. \\n When evolving, damage increases in proportion to intelligence.",
+        "Russian_Text": "",
+        "Chinese_Text": "用于花莲酱进化的精华。\\n进化时，伤害与智力成正比。"
+    },
+    "99001334": {
+        "Dev_Desc": "극한의 정수 : 결빙공 (각인)",
+        "Original_Text": "결빙공의 진화에 사용되는 정수입니다.\\n진화 시 방어에 성공하면 공격한 대상에게 피해를 적용합니다.",
+        "English_Text": "Essence used to evolve the Freezer.\\nIf the defense succeeds during evolution, damage is applied to the attacked target.",
+        "Russian_Text": "",
+        "Chinese_Text": "用于进化冰柜的精华。\\n如果进化中防御成功，将对被攻击的目标施加伤害。"
+    },
+    "99001335": {
+        "Dev_Desc": "극한의 정수 : 연화 (각인)",
+        "Original_Text": "연화의 진화에 사용되는 정수입니다.\\n진화 시 연화의 재사용 대기시간이 2초 감소합니다.",
+        "English_Text": "Essence used to evolve softening. \\nEvolving reduces the cooldown of softening by 2 seconds.",
+        "Russian_Text": "",
+        "Chinese_Text": "用于进化柔化的精华。\\nEvolving 将柔化的冷却时间缩短了 2 秒。"
+    },
+    "99001336": {
+        "Dev_Desc": "증폭의 정수 : 얼음창 (각인)",
+        "Original_Text": "얼음창의 진화에 사용되는 정수입니다.\\n진화 시 얼음창의 내력 소모량이 2 감소합니다.",
+        "English_Text": "Essence used to evolve Ice Lance. \\n Evolution reduces the strength consumption of Ice Lance by 2.",
+        "Russian_Text": "",
+        "Chinese_Text": "用来进化冰枪的精华。\\n进化减少冰枪2的力量消耗。"
+    },
+    "99001344": {
+        "Dev_Desc": "돌파의 정수 : 결빙공 (각인)",
+        "Original_Text": "결빙공의 진화에 사용되는 정수입니다.\\n진화 시 방어에 성공하면 일정 확률로 \"둔화\" 효과를 적용합니다.\\n\\n[선행 조건]\\n무공 강화 단계 +9 이상",
+        "English_Text": "Essence used for the evolution of the Ice Ball.\\nIf you succeed in defending during evolution, there is a chance to apply the Slow effect.",
+        "Russian_Text": "",
+        "Chinese_Text": "用于冰球进化的精华。\\n进化过程中防御成功，有几率施加减速效果。"
+    },
+    "99001345": {
+        "Dev_Desc": "극한의 정수 : 화련장 (각인)",
+        "Original_Text": "화련장의 진화에 사용되는 정수입니다.\\n진화 시 광역 피해로 전환되며, 범위 내 최대 3인까지 적중합니다.",
+        "English_Text": "Essence used for the evolution of the Hwa Ryeonjang. \\n When evolving, it will be converted into wide-area damage, and it will hit up to 3 people within range.",
+        "Russian_Text": "",
+        "Chinese_Text": "用于花莲酱进化的精华。\\n进化时，会转化为广域伤害，最多可击中3人范围内。"
+    },
+    "99001346": {
+        "Dev_Desc": "극한의 정수 : 얼음창 (각인)",
+        "Original_Text": "얼음창의 진화에 사용되는 정수입니다.\\n진화 시 얼음창의 재사용 대기시간이 2초 감소합니다.",
+        "English_Text": "Essence used to evolve Ice Lance. \\n Evolving reduces the cooldown of Ice Lance by 2 seconds.",
+        "Russian_Text": "",
+        "Chinese_Text": "用于进化冰枪术的精华。\\n进化使冰枪术的冷却时间减少2秒。"
+    },
+    "99001347": {
+        "Dev_Desc": "증폭의 정수 : 유성 (각인)",
+        "Original_Text": "유성의 진화에 사용되는 정수입니다.\\n진화 시 일정 확률로 5.8초간 자신에게 \"발화\" 효과를 부여합니다.",
+        "English_Text": "Essence used to evolve meteors.\\nWhen evolving, there is a chance to inflict Fire effect on yourself for 5.8 seconds.",
+        "Russian_Text": "",
+        "Chinese_Text": "用于进化流星的精华。\\n进化时，有几率对自己造成5.8秒的火焰效果。"
+    },
+    "99001348": {
+        "Dev_Desc": "증폭의 정수 : 회진보 (각인)",
+        "Original_Text": "회진보의 진화에 사용되는 정수입니다.\\n진화 시 회진보의 내력 소모량이 4 감소합니다.",
+        "English_Text": "Essence used to evolve Hoejinbo. \\n When evolving, the power consumption of Hoejinbo is reduced by 4.",
+        "Russian_Text": "",
+        "Chinese_Text": "用来进化Hoejinbo的精华。\\n进化时，Hoejinbo的功耗减少4。"
+    },
+    "99001349": {
+        "Dev_Desc": "극한의 정수 : 회진보 (각인)",
+        "Original_Text": "회진보의 진화에 사용되는 정수입니다.\\n진화 시 회진보의 재사용 대기시간이 5초 감소합니다.",
+        "English_Text": "Essence used to evolve the roundabout. \\nEvolution reduces the cooldown of the roundabout by 5 seconds.",
+        "Russian_Text": "",
+        "Chinese_Text": "用于进化回旋处的精华。\\nEvolution 将回旋处的冷却时间缩短了 5 秒。"
+    },
+    "99001350": {
+        "Dev_Desc": "돌파의 정수 : 회진보 (각인)",
+        "Original_Text": "회진보의 진화에 사용되는 정수입니다.\\n진화 시 회진보 사용 후 지능에 비례하여 체력을 회복합니다.\\n\\n[선행 조건]\\n무공 강화 단계 +9 이상",
+        "English_Text": "Essence used to evolve Hoejinbo.\\nWhen evolving, after using Hoejinbo, HP is restored in proportion to intelligence.",
+        "Russian_Text": "",
+        "Chinese_Text": "用来进化会津坊的精华。\\n进化时，使用会津坊后，HP会与智力成比例恢复。"
+    },
+    "99001351": {
+        "Dev_Desc": "돌파의 정수 : 비륜연휘 (각인)",
+        "Original_Text": "비륜연휘의 진화에 사용되는 정수입니다.\\n진화 시 비륜연휘의 시전 시간이 감소합니다.\\n\\n[선행 조건]\\n무공 강화 단계 +9 이상",
+        "English_Text": "Essence used for the evolution of Flying Rifle.\\nWhen evolving, the casting time of Flying Rhythm is reduced.\\n\\n[Prerequisite]\\nEnhancement Level 9 or higher",
+        "Russian_Text": "",
+        "Chinese_Text": "用于飞行步枪进化的精华。\\n进化时，飞行节奏的施法时间减少。\\n\\n[先决条件]\\n增强9级或更高"
+    },
+    "99001354": {
+        "Dev_Desc": "돌파의 정수 : 연화 (각인)",
+        "Original_Text": "연화의 진화에 사용되는 정수입니다.\\n진화 시 연화 명중이 25% 증가합니다.\\n\\n[선행 조건]\\n무공 강화 단계 +9 이상",
+        "English_Text": "Essence used to evolve softening.\\nWhen evolving, softening accuracy is increased by 25%.\\n\\n[Prerequisite]\\nLevel 9 or higher of non-gong enhancement",
+        "Russian_Text": "",
+        "Chinese_Text": "用于进化软化的精华。\\n进化时，软化精度提高25%。\\n\\n[先决条件]\\n无功增强9级或更高"
+    },
+    "99001355": {
+        "Dev_Desc": "돌파의 정수 : 화련장 (각인)",
+        "Original_Text": "화련장의 진화에 사용되는 정수입니다.\\n진화 시 일정 확률로 5.8초간 자신에게 \"발화\" 효과를 부여합니다.\\n\\n[선행 조건]\\n무공 강화 단계 +9 이상",
+        "English_Text": "Essence used for the evolution of the HwaRyeonjang.\\nWhen evolving, there is a chance to give yourself the Ignition effect for 5.8 seconds.",
+        "Russian_Text": "",
+        "Chinese_Text": "用于花莲酱进化的精华。\\n进化时，有几率赋予自己5.8秒的点燃效果。"
+    },
+    "99001356": {
+        "Dev_Desc": "돌파의 정수 : 얼음창 (각인)",
+        "Original_Text": "얼음창의 진화에 사용되는 정수입니다.\\n진화 시 일정 확률로 \"빙결\" 효과를 추가로 적용 합니다.\\n\\n[선행 조건]\\n무공 강화 단계 +9 이상",
+        "English_Text": "Essence used to evolve Ice Spear.\\nWhen evolving, additionally applies the Freeze effect with a certain probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "用于进化冰矛的精华。\\n进化时，有一定概率附加冻结效果。"
+    },
+    "99001357": {
+        "Dev_Desc": "극한의 정수 : 유성 (각인)",
+        "Original_Text": "유성의 진화에 사용되는 정수입니다.\\n진화 시 얼음 유성을 추가로 발사하여, 일정 확률로 \"둔화\" 효과를 적용합니다.",
+        "English_Text": "Essence used to evolve meteors.\\nWhen evolving, fire an additional icy meteor, with a chance to apply a slow effect.",
+        "Russian_Text": "",
+        "Chinese_Text": "精华用来进化流星。\\n进化时，再发射一颗冰冷的流星，有机会施加一个缓慢的效果。"
+    },
+    "99001358": {
+        "Dev_Desc": "증폭의 정수 : 비륜연휘 (각인)",
+        "Original_Text": "비륜연휘의 진화에 사용되는 정수입니다.\\n진화 시 비륜연휘의 관통력이 10% 증가합니다.",
+        "English_Text": "Essence used for the evolution of Flying Rifle. \\n When evolving, the Penetrating Power of Flying Rhythm is increased by 10%.",
+        "Russian_Text": "",
+        "Chinese_Text": "用于飞行步枪进化的精华。\\n进化时，飞行节奏的穿透力增加10％。"
+    },
+    "99001359": {
+        "Dev_Desc": "극한의 정수 : 용렬빙하 (각인)",
+        "Original_Text": "용렬빙하의 진화에 사용되는 정수입니다.\\n진화 시 일정 확률로 \"둔화\" 효과를 추가 적용합니다.",
+        "English_Text": "Essence used for the evolution of glacial glaciers.\\nWhen evolving, there is a chance to additionally apply a slow effect.",
+        "Russian_Text": "",
+        "Chinese_Text": "用于冰川进化的精华。\\n进化时，有机会额外施加缓慢效果。"
+    },
+    "99001360": {
+        "Dev_Desc": "돌파의 정수 : 용렬빙하 (각인)",
+        "Original_Text": "용렬빙하의 진화에 사용되는 정수입니다.\\n진화 시 용렬빙하의 범위 폭이 증가하며, 범위 내 최대 5인까지 적중합니다.\\n\\n[선행 조건]\\n무공 강화 단계 +9 이상",
+        "English_Text": "Essence used for the evolution of Dragon Ridge Glacier. \\n When evolving, the range width of Dragon Ridge Glacier increases and hits up to 5 people within the range.",
+        "Russian_Text": "",
+        "Chinese_Text": "龙岭冰川进化所用的精华。\\n进化时，龙岭冰川的范围宽度增加，范围内最多可击中5人。"
+    },
+    "99001361": {
+        "Dev_Desc": "극한의 정수 : 봉황시 (각인)",
+        "Original_Text": "봉황시의 진화에 사용되는 정수입니다.\\n진화 시 봉황시의 관통력이 20% 증가합니다.",
+        "English_Text": "Essence used to evolve the phoenix. \\n When evolving, the penetrating power of the phoenix is ​​increased by 20%.",
+        "Russian_Text": "",
+        "Chinese_Text": "用来进化凤凰的精华。\\n进化时，凤凰的穿透力提升20%。"
+    },
+    "99001362": {
+        "Dev_Desc": "돌파의 정수 : 봉황시 (각인)",
+        "Original_Text": "봉황시의 진화에 사용되는 정수입니다.\\n진화 시 피해량이 증가합니다.\\n\\n[선행 조건]\\n무공 강화 단계 +9 이상",
+        "English_Text": "Essence used to evolve the phoenix.\\nDamage increases when evolving.\\n\\n[Prerequisite]\\nEnhancement Level 9 or higher",
+        "Russian_Text": "",
+        "Chinese_Text": "用来进化凤凰的精华。\\n进化时伤害增加。\\n\\n[先决条件]\\n增强9级或更高"
+    },
+    "99001363": {
+        "Dev_Desc": "극한의 정수 : 화륜 (각인)",
+        "Original_Text": "화륜의 진화에 사용되는 정수입니다.\\n진화 시 화륜의 재사용 대기시간이 20초 감소합니다.",
+        "English_Text": "Essence used to evolve the Fire Ring. \\n Evolving reduces the cooldown of the Fire Ring by 20 seconds.",
+        "Russian_Text": "",
+        "Chinese_Text": "用于进化火环的精华。\\n进化使火环的冷却时间缩短了 20 秒。"
+    },
+    "99001364": {
+        "Dev_Desc": "돌파의 정수 : 유성 (각인)",
+        "Original_Text": "유성의 진화에 사용되는 정수입니다.\\n진화 시 유성 범위가 증가하며, 얼음 유성의 피해량이 증가합니다.\\n\\n[선행 조건]\\n무공 강화 단계 +9 이상",
+        "English_Text": "Essence used to evolve meteors.\\nWhen evolving, the meteor range increases, and the damage of the ice meteors increases.\\n\\n[Prerequisite]\\nEnhancement Level 9 or higher",
+        "Russian_Text": "",
+        "Chinese_Text": "用于进化流星的精华。\\n进化时，流星范围增加，冰流星的伤害增加。\\n\\n[先决条件]\\n增强9级或更高"
+    },
+    "99001365": {
+        "Dev_Desc": "극한의 정수 : 비륜연휘 (각인)",
+        "Original_Text": "비륜연휘의 진화에 사용되는 정수입니다.\\n진화 시 일정 확률로 5.8초간 자신에게 \"발화\" 효과를 부여합니다.",
+        "English_Text": "Used to level up Scorching Shower.\nUses a combo technique that causes a massive explosion, which also affects the nearby enemies afflicted with Burn.",
+        "Russian_Text": "",
+        "Chinese_Text": "用于升级灼热淋浴。\n使用一种组合技术，可以引起巨大的爆炸，这也会影响附近受到灼伤影响的敌人。"
+    },
+    "99001366": {
+        "Dev_Desc": "증폭의 정수 : 봉황시 (각인)",
+        "Original_Text": "봉황시의 진화에 사용되는 정수입니다.\\n진화 시 봉황시의 관통력이 10% 증가합니다.",
+        "English_Text": "Used to level up Phoenix.\nAcquires Heater which boosts Attack Speed for a short period of time.",
+        "Russian_Text": "",
+        "Chinese_Text": "用于升级凤凰。\n获得加热器，可在短时间内提高攻击速度。"
+    },
+    "99001367": {
+        "Dev_Desc": "증폭의 정수 : 용렬빙하 (각인)",
+        "Original_Text": "용렬빙하의 진화에 사용되는 정수입니다.\\n진화 시 \"빙결\" 효과 지속시간이 1초 증가합니다.",
+        "English_Text": "Used to level up Frosty Gimlet.\nIncreases its range and affects up to 5 enemies within range.",
+        "Russian_Text": "",
+        "Chinese_Text": "用于升级 Frosty Gimlet。\n增加其射程并影响射程内最多 5 个敌人。"
+    },
+    "99001368": {
+        "Dev_Desc": "증폭의 정수 : 화륜 (각인)",
+        "Original_Text": "화륜의 진화에 사용되는 정수입니다.\\n진화 시 화륜을 사용하면 무공 공격 속도가 30% 증가합니다.",
+        "English_Text": "Essence used to evolve the fire wheel. \\n When evolving, using the fire wheel increases attack speed by 30%.",
+        "Russian_Text": "",
+        "Chinese_Text": "用来进化火轮的精华。\\n进化时，使用火轮增加攻击速度30%。"
+    },
+    "99001369": {
+        "Dev_Desc": "돌파의 정수 : 화륜 (각인)",
+        "Original_Text": "화륜의 진화에 사용되는 정수입니다.\\n진화 시 화륜을 사용하면 소울 발동률이 5% 증가합니다.\\n\\n[선행 조건]\\n무공 강화 단계 +9 이상",
+        "English_Text": "Essence used to evolve the Fire Ring.\\nUse the Fire Ring during evolution to increase the Soul Activation Rate by 5%.\\n\\n[Prerequisites]\\nEnhance Skill Level 9 or higher",
+        "Russian_Text": "",
+        "Chinese_Text": "用于进化火环的精华。\\n进化过程中使用火环，灵魂激活率提高5%。\\n\\n[先决条件]\\n技能等级9或更高"
+    },
+    "99001375": {
+        "Dev_Desc": "증폭의 정수 : 추적화살 (각인)",
+        "Original_Text": "추적화살의 진화에 사용되는 정수입니다.\\n진화 시 추적화살의 피해량이 증가합니다.",
+        "English_Text": "Essence used for the evolution of tracking arrows. \\nEvolution increases the damage of tracking arrows.",
+        "Russian_Text": "",
+        "Chinese_Text": "用于追踪箭进化的精华。\\nEvolution增加追踪箭的伤害。"
+    },
+    "99001376": {
+        "Dev_Desc": "증폭의 정수 : 화살비 (각인)",
+        "Original_Text": "화살비의 진화에 사용되는 정수입니다.\\n진화 시 화살비의 피해량이 증가하며, 범위 내 최대 3인까지 적중합니다.",
+        "English_Text": "Essence used to evolve Rain of Arrows. \\n When evolving, the damage of Rain of Arrows increases and hits up to 3 people within range.",
+        "Russian_Text": "",
+        "Chinese_Text": "用于进化箭雨的精华。\\n进化时，箭雨的伤害增加，最多可以击中范围内的3个人。"
+    },
+    "99001377": {
+        "Dev_Desc": "증폭의 정수 : 출혈화살 (각인)",
+        "Original_Text": "출혈화살의 진화에 사용되는 정수입니다.\\n진화 시 출혈화살의 재사용 대기시간이 1초 감소합니다.",
+        "English_Text": "Essence used to evolve Bleeding Arrow. \\n Evolving reduces the cooldown of Bleeding Arrow by 1 second.",
+        "Russian_Text": "",
+        "Chinese_Text": "用于进化流血箭的精华。\\n进化使流血箭的冷却时间缩短1秒。"
+    },
+    "99001378": {
+        "Dev_Desc": "돌파의 정수 : 후퇴사격 (각인)",
+        "Original_Text": "후퇴사격의 진화에 사용되는 정수입니다.\\n진화 시 후퇴사격 사용 중 회피가 30 증가합니다.\\n\\n[선행 조건]\\n무공 강화 단계 +9 이상",
+        "English_Text": "Essence used to evolve Retreat Shot.\\nWhen evolving, Evasion increases by 30 while using Retreat Shot.\\n\\n[Prerequisite]\\nLevel 9 or higher for Defense Enhancement",
+        "Russian_Text": "",
+        "Chinese_Text": "用于进化撤退射击的精华。\\n进化时，使用撤退射击时闪避增加30。\\n\\n[先决条件]\\n防御增强9级或更高"
+    },
+    "99001385": {
+        "Dev_Desc": "극한의 정수 : 추적화살 (각인)",
+        "Original_Text": "추적화살의 진화에 사용되는 정수입니다.\\n진화 시 추적화살의 피해량이 증가하며 추적화살 사용 중 원거리 치명률이 10% 증가합니다.",
+        "English_Text": "Used to level up Tracker.\nIncreases its damage and Ranged Critical Rate.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于追踪箭成长的精髓。\n技能成长后，追踪箭的伤害量与远距离暴击率提升。"
+    },
+    "99001386": {
+        "Dev_Desc": "증폭의 정수 : 다발화살 (각인)",
+        "Original_Text": "다발화살의 진화에 사용되는 정수입니다.\\n진화 시 다발화살을 2번 연속 사용하며 다발화살 사용 중 원거리 치명률이 5% 증가합니다.",
+        "English_Text": "Used to level up Bundle Shot.\nInflicts Bleed on every Critical Hit.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于多发箭成长的精髓。\n每次攻击暴击时都会施加“出血”效果。"
+    },
+    "99001387": {
+        "Dev_Desc": "증폭의 정수 : 다중사격 (각인)",
+        "Original_Text": "다중사격의 진화에 사용되는 정수입니다.\\n진화 시 다중사격 사용 중 원거리 절대 명중률이 10% 증가합니다.",
+        "English_Text": "Used to level up Multi Shot.\nInflicts Bleed on every Critical Hit.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于多重射击成长的精髓。\n每次攻击暴击时都会施加“出血”效果。"
+    },
+    "99001388": {
+        "Dev_Desc": "극한의 정수 : 출혈화살 (각인)",
+        "Original_Text": "출혈화살의 진화에 사용되는 정수입니다.\\n진화 시 출혈화살의 내력 소모량이 1 감소합니다.",
+        "English_Text": "Used to level up Bleeding Arrow.\nIncreases its Focus cost.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于出血箭成长的精髓。\n技能成长后，出血箭的内力消耗量降低。"
+    },
+    "99001389": {
+        "Dev_Desc": "돌파의 정수 : 화살비 (각인)",
+        "Original_Text": "화살비의 진화에 사용되는 정수입니다.\\n진화 시 매 타격마다 일정 확률로 \"출혈\" 효과를 적용합니다.\\n\\n[선행 조건]\\n무공 강화 단계 +9 이상",
+        "English_Text": "Essence used to evolve the Rain of Arrows.\\nWhen evolving, there is a chance to apply the bleeding effect with every hit.\\n\\n[Prerequisite]\\nLevel 9 or above",
+        "Russian_Text": "",
+        "Chinese_Text": "用于进化箭雨的精华。\\n进化时，每次命中都有几率施加流血效果。\\n\\n[先决条件]\\n9级或以上"
+    },
+    "99001395": {
+        "Dev_Desc": "돌파의 정수 : 추적화살 (각인)",
+        "Original_Text": "추적화살의 진화에 사용되는 정수입니다.\\n진화 시 추적화살의 피해량이 증가하며 추적화살 사용 중 원거리 치명률이 20% 증가합니다.\\n\\n[선행 조건]\\n무공 강화 단계 +9 이상",
+        "English_Text": "Used to level up Tracker.\nGreatly increases its damage and Ranged Critical Rate.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于追踪箭成长的精髓。\n技能成长后，追踪箭的伤害量与远距离暴击率大幅提升。"
+    },
+    "99001396": {
+        "Dev_Desc": "극한의 정수 : 화살비 (각인)",
+        "Original_Text": "화살비의 진화에 사용되는 정수입니다.\\n진화 시 매 타격마다 일정 확률로 \"경직\" 효과를 적용합니다.",
+        "English_Text": "Used to level up Arrow Shower.\nInflicts Bleed on each strike.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于箭雨成长的精髓。\n技能成长后，每次打击都会造成“出血”效果。"
+    },
+    "99001397": {
+        "Dev_Desc": "극한의 정수 : 다중사격 (각인)",
+        "Original_Text": "다중사격의 진화에 사용되는 정수입니다.\\n진화 시 다중사격 사용 중 원거리 치명률이 20% 증가합니다.",
+        "English_Text": "Used to level up Multi Shot.\nIncreases its damage and Ranged Critical Rate.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于多重射击成长的精髓。\n技能成长后，多重射击的伤害量与远距离暴击率提升。"
+    },
+    "99001398": {
+        "Dev_Desc": "증폭의 정수 : 살상명령 (각인)",
+        "Original_Text": "살상명령의 진화에 사용되는 정수입니다.\\n진화 시 살상명령의 내력 소모량이 3 감소합니다.",
+        "English_Text": "Used to level up Command to Kill.\nIncreases its duration.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于杀戮命令成长的精髓。\n技能成长后，延长杀戮命令的持续时间。"
+    },
+    "99001399": {
+        "Dev_Desc": "돌파의 정수 : 출혈화살 (각인)",
+        "Original_Text": "출혈화살의 진화에 사용되는 정수입니다.\\n진화 시 출혈화살의 피해량이 증가합니다.\\n\\n[선행 조건]\\n무공 강화 단계 +9 이상",
+        "English_Text": "Used to level up Bleeding Arrow.\nIncreases its Critical Rate and stacks Bleed 2 times on Critical Hit.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于出血箭成长的精髓。\n技能成长后，武功暴击率提升，暴击时叠加2层“出血”。"
+    },
+    "99001400": {
+        "Dev_Desc": "돌파의 정수 : 살상명령 (각인)",
+        "Original_Text": "살상명령의 진화에 사용되는 정수입니다.\\n진화 시 살상명령 사용 시, 치명타 추가 공격력이 7 증가합니다.\\n\\n[선행 조건]\\n무공 강화 단계 +9 이상",
+        "English_Text": "Essence used to evolve the kill command.\\nWhen evolving, when using the kill command, additional critical attack damage increases by 7.",
+        "Russian_Text": "",
+        "Chinese_Text": "用于进化杀戮命令的精华。\\n进化时，使用杀戮命令时，额外的暴击伤害增加7。"
+    },
+    "99001401": {
+        "Dev_Desc": "돌파의 정수 : 다중사격 (각인)",
+        "Original_Text": "다중사격의 진화에 사용되는 정수입니다.\\n진화 시 매 타격마다 치명타 시 일정 확률로 \"출혈\" 효과를 적용합니다.\\n\\n[선행 조건]\\n무공 강화 단계 +9 이상",
+        "English_Text": "Essence used for the evolution of multi-shot.\\nWhen evolving, there is a certain probability of applying the bleeding effect to each critical hit.",
+        "Russian_Text": "",
+        "Chinese_Text": "用于多重射击进化的精华。\\n进化时，有一定概率对每一次暴击施加流血效果。"
+    },
+    "99001405": {
+        "Dev_Desc": "극한의 정수 : 다발화살 (각인)",
+        "Original_Text": "다발화살의 진화에 사용되는 정수입니다.\\n진화 시 다발화살을 3번 연속 사용하며 다발화살 사용 중 원거리 치명률이 10% 증가합니다.",
+        "English_Text": "Used to level up Bundle Shot.\nIncreases its Ranged Critical Rate and casts Bundle Shot 2 times in a row.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于多发箭成长的精髓。\n技能成长后，远距离暴击率提升，同时可连续使用2次多发箭。"
+    },
+    "99001406": {
+        "Dev_Desc": "극한의 정수 : 후퇴사격 (각인)",
+        "Original_Text": "후퇴사격의 진화에 사용되는 정수입니다.\\n진화 시 일정 확률로 \"경직\" 효과를 적용합니다.",
+        "English_Text": "Used to level up Back Shot.\nHas a chance to push and inflict Stun on the enemy.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于后退射击成长的精髓。\n技能成长后，以一定概率“击退目标使其眩晕”。"
+    },
+    "99001407": {
+        "Dev_Desc": "돌파의 정수 : 다중사격 (각인)",
+        "Original_Text": "다중사격의 진화에 사용되는 정수입니다.\\n진화 시 매 타격마다 치명타 시 일정 확률로 \"출혈\" 효과를 적용합니다.\\n\\n[선행 조건]\\n무공 강화 단계 +9 이상",
+        "English_Text": "Used to level up Multi Shot.\nGreatly increases its damage and Ranged Critical Rate.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于多重射击成长的精髓。\n技能成长后，伤害量与远距离暴击率大幅提升。"
+    },
+    "99001408": {
+        "Dev_Desc": "증폭의 정수 : 조준사격 (각인)",
+        "Original_Text": "조준사격의 진화에 사용되는 정수입니다.\\n진화 시 조준사격 사용 중 원거리 절대 명중률이 10% 증가합니다.",
+        "English_Text": "Used to level up Aimed Shot.\nInflicts Bleed at max stacks on Critical Hit.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于瞄准射击成长的精髓。\n暴击时施加满层的“出血”效果。"
+    },
+    "99001409": {
+        "Dev_Desc": "증폭의 정수 : 후퇴사격 (각인)",
+        "Original_Text": "후퇴사격의 진화에 사용되는 정수입니다.\\n진화 시 후퇴사격의 기력 소모량이 100 감소합니다.",
+        "English_Text": "Used to level up Back Shot.\nHas a chance to inflict Petrify on the enemy.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于后退射击成长的精髓。\n技能成长后，以一定概率使目标“僵直”。"
+    },
+    "99001410": {
+        "Dev_Desc": "극한의 정수 : 살상명령 (각인)",
+        "Original_Text": "살상명령의 진화에 사용되는 정수입니다.\\n진화 시 살상명령 사용 시, 원거리 치명률이 10% 증가합니다.",
+        "English_Text": "Used to level up Command to Kill.\nIncreases its Critical Bonus.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于杀戮命令成长的精髓。\n技能成长后，暴击额外伤害量提升。"
+    },
+    "99001411": {
+        "Dev_Desc": "극한의 정수 : 조준사격 (각인)",
+        "Original_Text": "조준사격의 진화에 사용되는 정수입니다.\\n진화 시 조준사격 사용 중 원거리 치명률이 50% 증가합니다.",
+        "English_Text": "Essence used to evolve Aimed Shot. \\n Evolving increases the ranged critical rate by 50% while using Aimed Shot.",
+        "Russian_Text": "",
+        "Chinese_Text": "用于进化瞄准射击的精华。\\n进化使使用瞄准射击时远程暴击率提高50%。"
+    },
+    "99001412": {
+        "Dev_Desc": "극한의 정수 : 반마화살 (각인)",
+        "Original_Text": "반마화살의 진화에 사용되는 정수입니다.\\n진화 시 반마화살에 명중 된 대상은 10초간 수호 [극한]까지 효과를 적용 받을 수 없습니다.",
+        "English_Text": "Essence used for the evolution of anti-magical arrows. \\n During evolution, targets hit by anti-magic arrows cannot receive effects up to [Extreme] protection for 10 seconds.",
+        "Russian_Text": "",
+        "Chinese_Text": "用于反魔法箭进化的精华。\\n进化过程中，被反魔法箭击中的目标在10秒内无法获得[极限]保护的效果。"
+    },
+    "99001413": {
+        "Dev_Desc": "돌파의 정수 : 반마화살 (각인)",
+        "Original_Text": "반마화살의 진화에 사용되는 정수입니다.\\n진화 시 수호 [돌파]까지 해제가 가능하고 반마화살에 명중 된 대상은 10초간 수호 [돌파]까지 효과를 적용 받을 수 없습니다.",
+        "English_Text": "Essence used for the evolution of Anti-Magic Arrows. \\n When evolving, up to [Breaking] protection is possible, and targets hit by Anti-Magic Arrows cannot receive the effect until [Breaking] Protection for 10 seconds.",
+        "Russian_Text": "",
+        "Chinese_Text": "用于反魔箭进化的精华。\\n进化时，最多可以[破坏]保护，被反魔箭击中的目标直到[破坏]保护10秒才能获得效果。"
+    },
+    "99001414": {
+        "Dev_Desc": "돌파의 정수 : 조준사격 (각인)",
+        "Original_Text": "조준사격의 진화에 사용되는 정수입니다.\\n진화 시 조준사격이 일정 확률로 막기를 관통하여 \"기절\" 효과를 적용합니다.",
+        "English_Text": "Essence used to evolve Aimed Shot.\\nWhen evolved, Aimed Shot has a chance to penetrate the block and apply the Stun effect.",
+        "Russian_Text": "",
+        "Chinese_Text": "用于进化瞄准射击的精华。\\n进化后，瞄准射击有机会穿透方块并施加眩晕效果。"
+    },
+    "99001415": {
+        "Dev_Desc": "돌파의 정수 : 다발화살 (각인)",
+        "Original_Text": "다발화살의 진화에 사용되는 정수입니다.\\n진화 시 매 타격마다 치명타 시 일정 확률로 \"출혈\" 효과를 적용합니다.\\n\\n[선행 조건]\\n무공 강화 단계 +9 이상",
+        "English_Text": "Used to level up Bundle Shot.\nGreatly increases its Ranged Critical Rate and casts Bundle Shot 3 times in a row.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于多发箭成长的精髓。\n技能成长后，远距离暴击率大幅提升，可连续使用3次多发箭。"
+    },
+    "99001416": {
+        "Dev_Desc": "증폭의 정수 : 반마화살 (각인)",
+        "Original_Text": "반마화살의 진화에 사용되는 정수입니다.\\n진화 시 반마화살의 재사용 대기시간이 4초 감소합니다.",
+        "English_Text": "Used to level up Magic Arrow.\nUpon an accurate hit, it disables Guardian for 10 seconds.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于反魔箭成长的精髓。\n反魔箭命中时，在10秒内无法使用守护。"
+    },
+    "99001426": {
+        "Dev_Desc": "증폭의 정수 : 연섬뢰 (각인)",
+        "Original_Text": "연섬뢰의 진화에 사용되는 정수입니다.\\n진화 시 연섬뢰의 내력 소모량이 1 감소합니다.",
+        "English_Text": "Used to level up Avenging Blow.\nDecreases its Focus cost.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于连闪雷成长的精髓。\n技能成长后，连闪雷的内力消耗量降低。"
+    },
+    "99001427": {
+        "Dev_Desc": "증폭의 정수 : 강섬뢰 (각인)",
+        "Original_Text": "강섬뢰의 진화에 사용되는 정수입니다.\\n진화 시 강섬뢰의 재사용 대기시간이 3초 감소합니다.",
+        "English_Text": "Used to level up Avenging Ray.\nDecreases its cooldown.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于强闪雷成长的精髓。\n技能成长后，强闪雷的冷却时间降低。"
+    },
+    "99001428": {
+        "Dev_Desc": "증폭의 정수 : 생령치유 (각인)",
+        "Original_Text": "생령치유의 진화에 사용되는 정수입니다.\\n진화 시 생령치유의 재사용 대기시간이 2초 감소합니다.",
+        "English_Text": "Essence used for the evolution of Spirit Healing. \\n When evolving, the cooldown of Spirit Heal is reduced by 2 seconds.",
+        "Russian_Text": "",
+        "Chinese_Text": "用于灵魂治疗进化的精华。\\n进化时，灵魂治疗的冷却时间减少2秒。"
+    },
+    "99001436": {
+        "Dev_Desc": "극한의 정수 : 연섬뢰 (각인)",
+        "Original_Text": "연섬뢰의 진화에 사용되는 정수입니다.\\n진화 시 연섬뢰의 재사용 대기시간이 2초 감소합니다.",
+        "English_Text": "Used to level up Avenging Blow.\nDecreases its cooldown.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于连闪雷成长的精髓。\n技能成长后，连闪雷的冷却时间降低。"
+    },
+    "99001437": {
+        "Dev_Desc": "극한의 정수 : 강섬뢰 (각인)",
+        "Original_Text": "강섬뢰의 진화에 사용되는 정수입니다.\\n진화 시 강섬뢰의 명중이 10% 증가합니다.",
+        "English_Text": "Used to level up Avenging Ray.\nDecreases its Accuracy Chance.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于强闪雷成长的精髓。\n技能成长后，提升强闪雷的命中率。"
+    },
+    "99001438": {
+        "Dev_Desc": "증폭의 정수 : 생령합일 (각인)",
+        "Original_Text": "생령합일의 진화에 사용되는 정수입니다.\\n진화 시 생령합일의 기력 소모량이 50 감소합니다.",
+        "English_Text": "Essence used for the evolution of Unity of Life. \\n When evolving, the energy consumption of Unity of Life is reduced by 50.",
+        "Russian_Text": "",
+        "Chinese_Text": "生命合一进化所用的精华。\\n进化时，生命合一的能量消耗减少50。"
+    },
+    "99001439": {
+        "Dev_Desc": "증폭의 정수 : 심기일전 (각인)",
+        "Original_Text": "심기일전의 진화에 사용되는 정수입니다.\\n진화 시 심기일전의 지속시간이 2초 증가합니다.",
+        "English_Text": "Used to level up New Leaf.\nHas a chance to increase the party's Accuracy.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于灵机一动成长的精髓。\n使用灵机一动时，以一定概率提升所有队员的命中。"
+    },
+    "99001446": {
+        "Dev_Desc": "돌파의 정수 : 연섬뢰 (각인)",
+        "Original_Text": "연섬뢰의 진화에 사용되는 정수입니다.\\n진화 시 연섬뢰의 치명률이 20% 증가합니다.\\n\\n[선행 조건]\\n무공 강화 단계 +9 이상",
+        "English_Text": "Essence used to evolve the Firefly.\\nWhen evolving, the fatality rate of the Firefly increases by 20%.\\n\\n[Prerequisites]\\nLevel 9 or higher to enhance the firepower",
+        "Russian_Text": "",
+        "Chinese_Text": "用于进化萤火虫的精华。\\n进化时，萤火虫的死亡率增加20%。\\n\\n[先决条件]\\n9级或更高以增强火力"
+    },
+    "99001447": {
+        "Dev_Desc": "돌파의 정수 : 강섬뢰 (각인)",
+        "Original_Text": "강섬뢰의 진화에 사용되는 정수입니다.\\n진화 시 치유력에 비례하여 피해량이 증가합니다.\\n\\n[선행 조건]\\n무공 강화 단계 +9 이상",
+        "English_Text": "Essence used to evolve the Lightning Lightning.\\nWhen evolving, the damage increases in proportion to the healing power.\\n\\n[Prerequisite]\\nLevel 9 or higher to enhance defenseless power",
+        "Russian_Text": "",
+        "Chinese_Text": "用于进化闪电闪电的精华。\\n进化时，伤害与治疗能力成比例增加。\\n\\n[先决条件]\\n9级或更高以增强无防御能力"
+    },
+    "99001448": {
+        "Dev_Desc": "극한의 정수 : 생령치유 (각인)",
+        "Original_Text": "생령치유의 진화에 사용되는 정수입니다.\\n일정 확률로 대상을 두 번 치유합니다.",
+        "English_Text": "Essence used for the evolution of Spirit Healing. \\n Chance to heal the target twice.",
+        "Russian_Text": "",
+        "Chinese_Text": "用于灵魂治疗进化的精华。\\n治疗目标两次的机会。"
+    },
+    "99001449": {
+        "Dev_Desc": "극한의 정수 : 심기일전 (각인)",
+        "Original_Text": "심기일전의 진화에 사용되는 정수입니다.\\n심기일전 사용 시 일정 확률로 정밀이 5 증가합니다.",
+        "English_Text": "Used to level up New Leaf.\nIncreases its duration.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于灵机一动成长的精髓。\n技能成长后，灵机一动的持续时间提升。"
+    },
+    "99001450": {
+        "Dev_Desc": "극한의 정수 : 생령합일 (각인)",
+        "Original_Text": "생령합일의 진화에 사용되는 정수입니다.\\n진화 시 생령합일의 재사용 대기시간이 2초 감소합니다.",
+        "English_Text": "Essence used for the evolution of Unity of Life. \\nEvolution reduces the cooldown of Unity of Life by 2 seconds.",
+        "Russian_Text": "",
+        "Chinese_Text": "用于生命合一进化的精华。\\nEvolution 将生命合一的冷却时间缩短了 2 秒。"
+    },
+    "99001451": {
+        "Dev_Desc": "극한의 정수 : 청화 (각인)",
+        "Original_Text": "청화의 진화에 사용되는 정수입니다.\\n진화 시 청화의 피해량이 증가합니다.",
+        "English_Text": "Essence used to evolve blue flowers. \\nEvolution increases the damage of blue flowers.",
+        "Russian_Text": "",
+        "Chinese_Text": "用来进化蓝色花朵的精华。\\nEvolution增加了蓝色花朵的伤害。"
+    },
+    "99001452": {
+        "Dev_Desc": "돌파의 정수 : 치유지대 (각인)",
+        "Original_Text": "치유지대의 진화에 사용되는 정수입니다.\\n진화 시 치유 대상의 치명 저항률이 20% 증가합니다.\\n\\n[선행 조건]\\n무공 강화 단계 +9 이상",
+        "English_Text": "Essence used to evolve the Healing Squad.\\nWhen evolving, the target's critical resistance is increased by 20%.\\n\\n[Prerequisite]\\nEnhancement Level 9 or higher",
+        "Russian_Text": "",
+        "Chinese_Text": "用于进化治疗小队的精华。\\n进化时，目标的暴击抗性提高20%。\\n\\n[先决条件]\\n增强9级或更高"
+    },
+    "99001453": {
+        "Dev_Desc": "돌파의 정수 : 청화 (각인)",
+        "Original_Text": "청화의 진화에 사용되는 정수입니다.\\n진화 시 내력 제거 확률이 증가하며 재사용 대기시간이 3초 감소합니다.\\n\\n[선행 조건]\\n무공 강화 단계 +9 이상",
+        "English_Text": "Essence used for the evolution of blue and white.\\nWhen evolving, the probability of removal of history is increased and the cooldown is reduced by 3 seconds.",
+        "Russian_Text": "",
+        "Chinese_Text": "用于蓝白进化的精华。\\n进化时，移除历史的概率增加，冷却时间减少3秒。"
+    },
+    "99001456": {
+        "Dev_Desc": "증폭의 정수 : 구원 (각인)",
+        "Original_Text": "구원의 진화에 사용되는 정수입니다.\\n진화 시 \"출혈\", \"화상\", \"이동 속도 감소\", \"경직\" 상태를 추가로 해제합니다.",
+        "English_Text": "Used to level up Redemption.\nDecreases its cooldown.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于拯救成长的精髓。\n技能成长后，拯救的冷却时间降低。"
+    },
+    "99001457": {
+        "Dev_Desc": "돌파의 정수 : 생령치유 (각인)",
+        "Original_Text": "생령치유의 진화에 사용되는 정수입니다.\\n진화 시 주변 파티원을 최대 4명까지 연속적으로 치유하며, 더욱 높은 확률로 대상을 두 번 치유합니다.\\n\\n[선행 조건]\\n무공 강화 단계 +9 이상",
+        "English_Text": "Essence used for the evolution of healing spirits.\\nWhen evolving, heals up to 4 nearby party members in succession, with a higher chance of healing the target twice.",
+        "Russian_Text": "",
+        "Chinese_Text": "用于治疗灵魂进化的精华。\\n进化时，连续治疗附近最多4名队员，有更高的几率治疗目标两次。"
+    },
+    "99001458": {
+        "Dev_Desc": "증폭의 정수 : 치유지대 (각인)",
+        "Original_Text": "치유지대의 진화에 사용되는 정수입니다.\\n진화 시 치유지대의 재사용 대기시간이 5초 감소합니다.",
+        "English_Text": "Essence used to evolve the healing zone. \\nEvolving reduces the cooldown of the healing zone by 5 seconds.",
+        "Russian_Text": "",
+        "Chinese_Text": "用于进化治疗区的精华。\\nEvolving 将治疗区的冷却时间缩短了 5 秒。"
+    },
+    "99001459": {
+        "Dev_Desc": "증폭의 정수 : 청화 (각인)",
+        "Original_Text": "청화의 진화에 사용되는 정수입니다.\\n진화 시 일정 확률로 치유력에 비례하여 대상의 내력 일부를 제거합니다.",
+        "English_Text": "Used to level up Cobalt Blossom.\nDecreases its damage relative to Heal.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于青花成长的精髓。\n技能成长后，与治愈力成比例提升青花的伤害量。"
+    },
+    "99001460": {
+        "Dev_Desc": "돌파의 정수 : 생령합일 (각인)",
+        "Original_Text": "생령합일의 진화에 사용되는 정수입니다.\\n진화 시 합일 상태의 이동 속도가 대폭 증가합니다.\\n\\n[선행 조건]\\n무공 강화 단계 +9 이상",
+        "English_Text": "Essence used for the evolution of unity of living spirits. \\nIn evolution, the movement speed of the united state is greatly increased.",
+        "Russian_Text": "",
+        "Chinese_Text": "用于活灵合体进化的精华。\\n进化中，合体的移动速度大幅提升。"
+    },
+    "99001461": {
+        "Dev_Desc": "극한의 정수 : 심판 (각인)",
+        "Original_Text": "심판의 진화에 사용되는 정수입니다.\\n진화 시 치유력에 비례하여 피해량이 증가합니다.",
+        "English_Text": "Essence used to evolve Judgment. When evolving, damage increases in proportion to healing power.",
+        "Russian_Text": "",
+        "Chinese_Text": "用来进化审判的精华。进化时，伤害与治疗能力成正比。"
+    },
+    "99001462": {
+        "Dev_Desc": "돌파의 정수 : 심판 (각인)",
+        "Original_Text": "심판의 진화에 사용되는 정수입니다.\\n진화 시 일정 확률로 \"기절\" 효과를 적용합니다.\\n\\n[선행 조건]\\n무공 강화 단계 +9 이상",
+        "English_Text": "Essence used to evolve Judgment.\\nWhen evolving, there is a chance to apply Stun effect.\\n\\n[Prerequisite]\\nEnhancement Level 9 or higher",
+        "Russian_Text": "",
+        "Chinese_Text": "用于进化审判的精华。\\n进化时，有几率施加眩晕效果。\\n\\n[先决条件]\\n增强9级或更高"
+    },
+    "99001463": {
+        "Dev_Desc": "극한의 정수 : 수호 (각인)",
+        "Original_Text": "수호의 진화에 사용되는 정수입니다.\\n진화 시 수호의 받는 피해량 감소 수치가 5% 증가하며, 수호의 사용 거리가 증가합니다.",
+        "English_Text": "Essence used to evolve the guardian.\\nWhen evolving, the damage reduction value of the guardian is increased by 5%, and the range of the guardian is increased.",
+        "Russian_Text": "",
+        "Chinese_Text": "用来进化守护者的精华。\\n进化时，守护者的伤害减免值增加5%，守护者的射程增加。"
+    },
+    "99001464": {
+        "Dev_Desc": "돌파의 정수 : 수호 (각인)",
+        "Original_Text": "수호의 진화에 사용되는 정수입니다.\\n진화 시 수호의 받는 피해량 감소 수치가 10% 증가하며, 반마화살[극한]까지의 해제 효과를 무효화합니다.\\n\\n[선행 조건]\\n무공 강화 단계 +9 이상",
+        "English_Text": "Used to level up Guardian.\nIncreases its Damage Down effect and nullifies the removal of Magic Arrow.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于守护成长的精髓。\n技能成长后，提升守护的伤害降低效果，无视反魔箭的解除效果。"
+    },
+    "99001465": {
+        "Dev_Desc": "극한의 정수 : 구원 (각인)",
+        "Original_Text": "구원의 진화에 사용되는 정수입니다.\\n진화 시 구원의 재사용 대기시간이 10초 감소합니다.",
+        "English_Text": "Essence used to evolve salvation. \\nEvolution reduces the cooldown of salvation by 10 seconds.",
+        "Russian_Text": "",
+        "Chinese_Text": "用于进化救赎的精华。\\nEvolution将救赎的冷却时间缩短了10秒。"
+    },
+    "99001466": {
+        "Dev_Desc": "증폭의 정수 : 심판 (각인)",
+        "Original_Text": "심판의 진화에 사용되는 정수입니다.\\n진화 시 심판의 피해량이 증가합니다.",
+        "English_Text": "Used to level up Judgment.\nUpon accurate hit, heals the allies around the target.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于审判成长的精髓。\n审判命中后，治愈目标周围的友军。"
+    },
+    "99001467": {
+        "Dev_Desc": "돌파의 정수 : 심기일전 (각인)",
+        "Original_Text": "심기일전의 진화에 사용되는 정수입니다.\\n심기일전 사용 시 일정 확률로 무기 공격력이 7 증가합니다.\\n\\n[선행 조건]\\n무공 강화 단계 +9 이상",
+        "English_Text": "Essence used for the evolution of the battlefield.\\nThere is a chance to increase weapon damage by 7 when used.\\n\\n[Prerequisite]\\nEnhancement Level 9 or higher",
+        "Russian_Text": "",
+        "Chinese_Text": "用于战场进化的精华。\\n使用时有几率增加7点武器伤害。\\n\\n[先决条件]\\n增强9级或更高"
+    },
+    "99001468": {
+        "Dev_Desc": "극한의 정수 : 치유지대 (각인)",
+        "Original_Text": "치유지대의 진화에 사용되는 정수입니다.\\n진화 시 치유지대의 유지시간이 3초 증가합니다.",
+        "English_Text": "Essence used to evolve the Healing Zone. \\n Evolving increases the duration of the Healing Zone by 3 seconds.",
+        "Russian_Text": "",
+        "Chinese_Text": "用于进化治疗区的精华。\\n进化使治疗区的持续时间增加3秒。"
+    },
+    "99001469": {
+        "Dev_Desc": "증폭의 정수 : 수호 (각인)",
+        "Original_Text": "수호의 진화에 사용되는 정수입니다.\\n진화 시 수호의 내력 소모량이 2 감소하며 수호 적용 시 호신이 5 증가합니다.",
+        "English_Text": "Used to level up Guardian.\nIncreases its Damage Down effect and nullifies the removal of Magic Arrow.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于守护成长的精髓。\n技能成长后，提升守护的伤害降低效果，无视反魔箭的解除效果。"
+    },
+    "99001470": {
+        "Dev_Desc": "돌파의 정수 : 구원 (각인)",
+        "Original_Text": "구원의 진화에 사용되는 정수입니다.\\n진화 시 \"공중\", \"도발\", 블레이드 효과를 통한 \"행동불능\" 상태를 추가로 해제합니다.\\n\\n[선행 조건]\\n무공 강화 단계 +9 이상",
+        "English_Text": "Used to level up Redemption.\nAdditionally removes Airborne, Provoke, Burn, and Bleed effects.",
+        "Russian_Text": "",
+        "Chinese_Text": "可用于拯救成长的精髓。\n可额外解除浮空、挑衅、烧伤、出血状态。"
+    },
+    "99002654": {
+        "Dev_Desc": "봉쇄화살 / 액티브"
+    }
+}

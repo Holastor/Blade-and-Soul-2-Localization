@@ -5772,7 +5772,7 @@
         "Dev_Desc": "모험가 점수 1~4단계",
         "id": 8000842,
         "alias": "UI.Worldmap.Adventure.Point",
-        "text": "<arg p=[1:integer]/>～<arg p=[2:string]/>分"
+        "text": "<arg p=[1:string]/>～<arg p=[2:string]/>分"
     },
     "8000843": {
         "deprecated": false,
@@ -6389,6 +6389,13 @@
         "id": 8000944,
         "alias": "UI.Guild.info.Notice",
         "text": "公告事项"
+    },
+    "8000945": {
+        "deprecated": false,
+        "Dev_Desc": "문파 / 문파 정보 / 정보 / 순위",
+        "id": 8000945,
+        "alias": "UI.Guild.info.Rank",
+        "text": "排行"
     },
     "8000946": {
         "deprecated": false,
@@ -8544,7 +8551,7 @@
         "Dev_Desc": "로그인 UI / 이용약관 / NC 서비스 이용 약관 디테일",
         "id": 8001275,
         "alias": "UI.Login.TermsOfService.2",
-        "text": "<DNT>"
+        "text": "PLAY NC主页包括同意接收广告信息\\n同意接收广告信息是分开的"
     },
     "8001276": {
         "deprecated": false,
@@ -15131,7 +15138,7 @@
         "Dev_Desc": "HUD / 영기 / 영기 문구",
         "id": 8002237,
         "alias": "UI.SpiritEnergy",
-        "text": "光环"
+        "text": "灵气<arg p=[1:integer]/>阶段"
     },
     "8002238": {
         "deprecated": false,
@@ -23652,14 +23659,14 @@
         "deprecated": false,
         "Dev_Desc": "캐시상점 / 서브 탭 / 블랙 프라이데이 탭 / 비사전",
         "id": 8003461,
-        "alias": "UI.CashShop.TapName.Sub.itemCoin1",
+        "alias": "UI.CashShop.TapName.Sub.itemCoin4",
         "text": "非字典"
     },
     "8003462": {
         "deprecated": false,
         "Dev_Desc": "캐시상점 / 서브 탭 / 블랙 프라이데이 탭 / 도화전",
         "id": 8003462,
-        "alias": "UI.CashShop.TapName.Sub.itemCoin2",
+        "alias": "UI.CashShop.TapName.Sub.itemCoin5",
         "text": "道华殿"
     },
     "8003463": {
@@ -23752,5 +23759,95 @@
         "id": 8003475,
         "alias": "UI.Craft.LeftSubTabName.Event.BlackTicket",
         "text": "黑色星期五门票"
+    },
+    "8003476": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 상자 (제련) / 타이틀",
+        "id": 8003476,
+        "alias": "UI.Smelting.Title",
+        "text": "雅鲁的盒子"
+    },
+    "8003477": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 조건 확인 / 문파 신청 취소 필요",
+        "id": 8003477,
+        "alias": "UI.HeroTransfer.Condition.Guild.No.02",
+        "text": "加入蒙帕的申请仍然存在。"
+    },
+    "8003478": {
+        "deprecated": false,
+        "Dev_Desc": "이벤트 제작 레시피 탭 / 블랙프라이데이",
+        "id": 8003478,
+        "alias": "UI.Craft.LeftSubTabName.Event.100Aniversary.01",
+        "text": "百日祭"
+    },
+    "8003479": {
+        "deprecated": false,
+        "Dev_Desc": "소울패링 / HUD 시스템 메시지 및 채팅 / 성공",
+        "id": 8003479,
+        "alias": "UI.SoulParry.SystemMessage.Success",
+        "text": "<arg p=[1:string]/>与<arg p=[2:string]/>的灵魂配对成功了。"
+    },
+    "8003480": {
+        "deprecated": false,
+        "Dev_Desc": "소울패링 / HUD 시스템 메시지 / 기절",
+        "id": 8003480,
+        "alias": "UI.SoulParry.SystemMessage.Stun",
+        "text": "<arg p=[1:string]/>成功勾魂，<arg p=[2:string]/>目瞪口呆。"
+    },
+    "8003481": {
+        "deprecated": false,
+        "Dev_Desc": "제련 / 재료 선택 설명",
+        "id": 8003481,
+        "alias": "UI.Smelting.MaterialRegisteredDesc",
+        "text": "请选择材料。"
+    },
+    "8003482": {
+        "deprecated": false,
+        "Dev_Desc": "제련 / 보유 장비 목록 타이틀",
+        "id": 8003482,
+        "alias": "UI.Smelting.InventoryTitle.Equipment",
+        "text": "设备"
+    },
+    "8003483": {
+        "deprecated": false,
+        "Dev_Desc": "제련 / 보유 재료 목록 타이틀",
+        "id": 8003483,
+        "alias": "UI.Smelting.InventoryTitle.Material",
+        "text": "冶炼材料"
+    },
+    "8003484": {
+        "deprecated": false,
+        "Dev_Desc": "제련 / 조합 능력치 경고 팝업 / 설명1",
+        "id": 8003484,
+        "alias": "UI.Smelting.ConfirmPopup.Desc1",
+        "text": "这就是应用组合属性的装备。"
+    },
+    "8003485": {
+        "deprecated": false,
+        "Dev_Desc": "제련 / 조합 능력치 경고 팝업 / 설명2",
+        "id": 8003485,
+        "alias": "UI.Smelting.ConfirmPopup.Desc2",
+        "text": "在熔炼过程中，重置现有的熔炼统计数据后会进行新的熔炼。\\n你要继续熔炼吗？"
+    },
+    "8003486": {
+        "deprecated": false,
+        "id": 8003486,
+        "alias": "UI.SoulParry.SystemMessage.Success.Chat",
+        "text": "<arg p=[1:string]/>与<arg p=[2:string]/>的灵魂配对成功了。"
+    },
+    "8003487": {
+        "deprecated": false,
+        "Dev_Desc": "제련 / 조합 능력치 획득 불가 설명",
+        "id": 8003487,
+        "alias": "UI.Smelting.NoCombinationStat",
+        "text": "无法获取组合统计数据"
+    },
+    "8003488": {
+        "deprecated": false,
+        "Dev_Desc": "제련 / 조합 능력치 획득 가능 설명",
+        "id": 8003488,
+        "alias": "UI.Smelting.CombinationStatDesc",
+        "text": "可以获取组合统计数据"
     }
 }

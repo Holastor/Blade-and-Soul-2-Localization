@@ -11,56 +11,56 @@
         "Dev_Desc": "굴락 둔화",
         "id": 61000002,
         "alias": "Contents.Effect.Desc.Monster.112780006",
-        "text": "Reduce movement speed"
+        "text": "Move Speed ▼"
     },
     "61000003": {
         "deprecated": false,
         "Dev_Desc": "굴락 둔화",
         "id": 61000003,
         "alias": "Contents.Effect.Option.Monster.112780006",
-        "text": "Movement speed reduction 50%"
+        "text": "Move Speed Down 50%"
     },
     "61000004": {
         "deprecated": false,
         "Dev_Desc": "백야금_Sweep2_통제_npcstate25(Stun)",
         "id": 61000004,
         "alias": "Contents.Effect.Name.Monster.120430822",
-        "text": "stun"
+        "text": "Stun"
     },
     "61000005": {
         "deprecated": false,
         "Dev_Desc": "백야금_Sweep2_통제_npcstate25(Stun)",
         "id": 61000005,
         "alias": "Contents.Effect.Desc.Monster.120430822",
-        "text": "Action Impossible"
+        "text": "Unable to Move"
     },
     "61000006": {
         "deprecated": false,
         "Dev_Desc": "백야금_Sweep2_통제_npcstate25(Stun)",
         "id": 61000006,
         "alias": "Contents.Effect.Option.Monster.120430822",
-        "text": "Cannot move\nCannot use attack power\nSome items cannot be used"
+        "text": "Unable to move\nUnable to use techniques\nUnable to use certain items"
     },
     "61000007": {
         "deprecated": false,
         "Dev_Desc": "백야금_공습_통제_npcstate26(Stun)",
         "id": 61000007,
         "alias": "Contents.Effect.Name.Monster.120431012",
-        "text": "stun"
+        "text": "Stun"
     },
     "61000008": {
         "deprecated": false,
         "Dev_Desc": "백야금_공습_통제_npcstate26(Stun)",
         "id": 61000008,
         "alias": "Contents.Effect.Desc.Monster.120431012",
-        "text": "Cannot Act"
+        "text": "Unable to Move"
     },
     "61000009": {
         "deprecated": false,
         "Dev_Desc": "백야금_공습_통제_npcstate26(Stun)",
         "id": 61000009,
         "alias": "Contents.Effect.Option.Monster.120431012",
-        "text": "Cannot move\nCannot use martial arts\nSome items cannot be used"
+        "text": "Unable to move\nUnable to use techniques\nUnable to use certain items"
     },
     "61000010": {
         "deprecated": false,
@@ -74,63 +74,63 @@
         "Dev_Desc": "백야금_장판브레스_화상",
         "id": 61000011,
         "alias": "Contents.Effect.Desc.Monster.120431712",
-        "text": "Damage over time"
+        "text": "DoT"
     },
     "61000012": {
         "deprecated": false,
         "Dev_Desc": "백야금_장판브레스_화상",
         "id": 61000012,
         "alias": "Contents.Effect.Option.Monster.120431712",
-        "text": "Damage over duration"
+        "text": "DoT while effective"
     },
     "61000013": {
         "deprecated": false,
         "Dev_Desc": "낙원대성_춤",
         "id": 61000013,
         "alias": "Contents.Effect.Name.Monster.123390112",
-        "text": "dance"
+        "text": "Dance"
     },
     "61000014": {
         "deprecated": false,
         "Dev_Desc": "낙원대성_춤",
         "id": 61000014,
         "alias": "Contents.Effect.Desc.Monster.123390112",
-        "text": "Action Impossible"
+        "text": "Unable to Move"
     },
     "61000015": {
         "deprecated": false,
         "Dev_Desc": "낙원대성_춤",
         "id": 61000015,
         "alias": "Contents.Effect.Option.Monster.123390112",
-        "text": "Cannot move\nCannot use attack power\nSome items cannot be used"
+        "text": "Unable to move\nUnable to use techniques\nUnable to use certain items"
     },
     "61000016": {
         "deprecated": false,
         "Dev_Desc": "녹력대귀_도발",
         "id": 61000016,
         "alias": "Contents.Effect.Name.Monster.123461114",
-        "text": "taunt"
+        "text": "Provoke"
     },
     "61000017": {
         "deprecated": false,
         "Dev_Desc": "녹력대귀_도발",
         "id": 61000017,
         "alias": "Contents.Effect.Desc.Monster.123461114",
-        "text": "Provoked"
+        "text": "Inflicted by Provoke."
     },
     "61000018": {
         "deprecated": false,
         "Dev_Desc": "녹력대귀_도발",
         "id": 61000018,
         "alias": "Contents.Effect.Option.Monster.123461114",
-        "text": "Movement and combat controls are not allowed"
+        "text": "Unable to move and fight"
     },
     "61000019": {
         "deprecated": false,
         "Dev_Desc": "녹력대귀_도발",
         "id": 61000019,
         "alias": "Contents.Effect.Detail.Monster.123461114",
-        "text": "Basic attack against taunted target."
+        "text": "Deals a normal attack to a provoked target."
     },
     "61000020": {
         "deprecated": false,
@@ -144,70 +144,70 @@
         "Dev_Desc": "하름_반기수_퀘스트_황혼의 장막 둔화",
         "id": 61000021,
         "alias": "Contents.Effect.Desc.Monster.112890811",
-        "text": "Movement speed reduction"
+        "text": "Move Speed ▼"
     },
     "61000022": {
         "deprecated": false,
         "Dev_Desc": "하름_반기수_퀘스트_황혼의 장막 둔화",
         "id": 61000022,
         "alias": "Contents.Effect.Option.Monster.112890811",
-        "text": "Movement speed reduction 35%"
+        "text": "Move Speed Down 35%"
     },
     "61000023": {
         "deprecated": false,
         "Dev_Desc": "창도단 돌주먹_도발_이름",
         "id": 61000023,
         "alias": "Contents.Effect.Name.Monster.231160415",
-        "text": "taunt"
+        "text": "Provoke"
     },
     "61000024": {
         "deprecated": false,
         "Dev_Desc": "창도단 돌주먹_도발_내용",
         "id": 61000024,
         "alias": "Contents.Effect.Desc.Monster.231160415",
-        "text": "Provoked"
+        "text": "Inflicted by Provoke."
     },
     "61000025": {
         "deprecated": false,
         "Dev_Desc": "창도단 돌주먹_도발_옵션",
         "id": 61000025,
         "alias": "Contents.Effect.Option.Monster.231160415",
-        "text": "Movement and combat controls are not allowed"
+        "text": "Unable to move and fight"
     },
     "61000026": {
         "deprecated": false,
         "Dev_Desc": "창도단 돌주먹_도발_세부",
         "id": 61000026,
         "alias": "Contents.Effect.Detail.Monster.231160415",
-        "text": "Basic attack against taunted target."
+        "text": "Deals a normal attack to a provoked target."
     },
     "61000027": {
         "deprecated": false,
         "Dev_Desc": "염환 소환체 거곤_도발_이름",
         "id": 61000027,
         "alias": "Contents.Effect.Name.Monster.231200611",
-        "text": "taunt"
+        "text": "Provoke"
     },
     "61000028": {
         "deprecated": false,
         "Dev_Desc": "염환 소환체 거곤_도발_내용",
         "id": 61000028,
         "alias": "Contents.Effect.Desc.Monster.231200611",
-        "text": "Provoked"
+        "text": "Inflicted by Provoke."
     },
     "61000029": {
         "deprecated": false,
         "Dev_Desc": "염환 소환체 거곤_도발_옵션",
         "id": 61000029,
         "alias": "Contents.Effect.Option.Monster.231200611",
-        "text": "Cannot control movement and combat"
+        "text": "Unable to move and fight"
     },
     "61000030": {
         "deprecated": false,
         "Dev_Desc": "염환 소환체 거곤_도발_세부",
         "id": 61000030,
         "alias": "Contents.Effect.Detail.Monster.231200611",
-        "text": "Basic attack against taunted target."
+        "text": "Deals a normal attack to a provoked target."
     },
     "61000031": {
         "deprecated": false,
@@ -221,14 +221,14 @@
         "Dev_Desc": "백화렴_둔화_내용",
         "id": 61000032,
         "alias": "Contents.Effect.Desc.Monster.230010513",
-        "text": "Reduce movement speed"
+        "text": "Move Speed ▼"
     },
     "61000033": {
         "deprecated": false,
         "Dev_Desc": "백화렴_둔화_옵션",
         "id": 61000033,
         "alias": "Contents.Effect.Option.Monster.230010513",
-        "text": "Movement speed reduction 30%"
+        "text": "Move Speed Down 30%"
     },
     "61000034": {
         "deprecated": false,
@@ -242,56 +242,56 @@
         "Dev_Desc": "팔독모_둔화_내용",
         "id": 61000035,
         "alias": "Contents.Effect.Desc.Monster.211170011",
-        "text": "Movement speed reduction"
+        "text": "Move Speed ▼"
     },
     "61000036": {
         "deprecated": false,
         "Dev_Desc": "팔독모_둔화_옵션",
         "id": 61000036,
         "alias": "Contents.Effect.Option.Monster.211170011",
-        "text": "Movement speed reduction 50%"
+        "text": "Move Speed Down 50%"
     },
     "61000037": {
         "deprecated": false,
         "Dev_Desc": "유강독모_속박_이름",
         "id": 61000037,
         "alias": "Contents.Effect.Name.Monster.211180002",
-        "text": "Bondage"
+        "text": "Bind"
     },
     "61000038": {
         "deprecated": false,
         "Dev_Desc": "유강독모_속박_내용",
         "id": 61000038,
         "alias": "Contents.Effect.Desc.Monster.211180002",
-        "text": "Action Impossible"
+        "text": "Unable to Move"
     },
     "61000039": {
         "deprecated": false,
         "Dev_Desc": "유강독모_속박_옵션",
         "id": 61000039,
         "alias": "Contents.Effect.Option.Monster.211180002",
-        "text": "Cannot move\nCannot use attack power\nSome items cannot be used"
+        "text": "Unable to move\nUnable to use techniques\nUnable to use certain items"
     },
     "61000040": {
         "deprecated": false,
         "Dev_Desc": "환영홍매화_주는피해감소_이름",
         "id": 61000040,
         "alias": "Contents.Effect.Name.Monster.211720112",
-        "text": "Reduces damage dealt"
+        "text": "Outgoing Damage Down"
     },
     "61000041": {
         "deprecated": false,
         "Dev_Desc": "환영홍매화_주는피해감소_내용",
         "id": 61000041,
         "alias": "Contents.Effect.Desc.Monster.211720112",
-        "text": "Damage reduction"
+        "text": "Outgoing Damage Down"
     },
     "61000042": {
         "deprecated": false,
         "Dev_Desc": "환영홍매화_주는피해감소_옵션",
         "id": 61000042,
         "alias": "Contents.Effect.Option.Monster.211720112",
-        "text": "Damage reduction 30%"
+        "text": "Outgoing Damage Down 30%"
     },
     "61000043": {
         "deprecated": false,
@@ -305,56 +305,56 @@
         "Dev_Desc": "환영홍매화_둔화_내용",
         "id": 61000044,
         "alias": "Contents.Effect.Desc.Monster.211720113",
-        "text": "Reduce movement speed"
+        "text": "Move Speed ▼"
     },
     "61000045": {
         "deprecated": false,
         "Dev_Desc": "환영홍매화_둔화_옵션",
         "id": 61000045,
         "alias": "Contents.Effect.Option.Monster.211720113",
-        "text": "Movement speed reduction 25%"
+        "text": "Move Speed Down 25%"
     },
     "61000046": {
         "deprecated": false,
         "Dev_Desc": "뇌신_전격 스턴",
         "id": 61000046,
         "alias": "Contents.Effect.Name.Monster.131062000",
-        "text": "stun"
+        "text": "Stun"
     },
     "61000047": {
         "deprecated": false,
         "Dev_Desc": "뇌신_전격 스턴_옵션",
         "id": 61000047,
         "alias": "Contents.Effect.Option.Monster.131062000",
-        "text": "Impossible to move\nCannot use attack power\nSome items cannot be used"
+        "text": "Unable to move\nUnable to use techniques\nUnable to use certain items"
     },
     "61000048": {
         "deprecated": false,
         "Dev_Desc": "풍신_바람 스턴",
         "id": 61000048,
         "alias": "Contents.Effect.Name.Monster.131052000",
-        "text": "stun"
+        "text": "Stun"
     },
     "61000049": {
         "deprecated": false,
         "Dev_Desc": "풍신_바람 스턴_옵션",
         "id": 61000049,
         "alias": "Contents.Effect.Option.Monster.131052000",
-        "text": "Cannot move\nCannot use martial arts\nSome items cannot be used"
+        "text": "Unable to move\nUnable to use techniques\nUnable to use certain items"
     },
     "61000050": {
         "deprecated": false,
         "Dev_Desc": "초령목_가시 스턴",
         "id": 61000050,
         "alias": "Contents.Effect.Name.Monster.133353412",
-        "text": "Bondage"
+        "text": "Bind"
     },
     "61000051": {
         "deprecated": false,
         "Dev_Desc": "초령목_가시 스턴_옵션",
         "id": 61000051,
         "alias": "Contents.Effect.Option.Monster.133353412",
-        "text": "Impossible to move\nCannot use martial arts\nSome items cannot be used"
+        "text": "Unable to move\nUnable to use techniques\nUnable to use certain items"
     },
     "61000052": {
         "deprecated": false,
@@ -368,14 +368,14 @@
         "Dev_Desc": "뇌신_이속 감소_옵션",
         "id": 61000053,
         "alias": "Contents.Effect.Option.Monster.130000017",
-        "text": "Reduce movement speed"
+        "text": "Move Speed ▼"
     },
     "61000054": {
         "deprecated": false,
         "Dev_Desc": "뇌신_이속 감소_설명",
         "id": 61000054,
         "alias": "Contents.Effect.Desc.Monster.130000017",
-        "text": "Movement speed reduction 50%"
+        "text": "Move Speed Down 50%"
     },
     "61000055": {
         "deprecated": false,
@@ -410,14 +410,14 @@
         "Dev_Desc": "낙원대성_아머_전격기절옵션",
         "id": 61000059,
         "alias": "Contents.Effect.Option.Monster.123880413",
-        "text": "Cannot move \n Cannot be used without attack \n Some items cannot be used"
+        "text": "Unable to move\nUnable to use techniques\nUnable to use certain items"
     },
     "61000060": {
         "deprecated": false,
         "Dev_Desc": "보스_타락한 우와_독액 폭탄 중독 1스택 (도트) 이름",
         "id": 61000060,
         "alias": "Contents.Effect.Name.Monster.113240912",
-        "text": "Poisoning"
+        "text": "Slow"
     },
     "61000061": {
         "deprecated": false,

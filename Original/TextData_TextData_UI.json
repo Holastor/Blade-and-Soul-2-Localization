@@ -6390,6 +6390,13 @@
         "alias": "UI.Guild.info.Notice",
         "text": "공지 사항"
     },
+    "8000945": {
+        "deprecated": false,
+        "Dev_Desc": "문파 / 문파 정보 / 정보 / 순위",
+        "id": 8000945,
+        "alias": "UI.Guild.info.Rank",
+        "text": "순위"
+    },
     "8000946": {
         "deprecated": false,
         "Dev_Desc": "문파 / 문파 정보",
@@ -13654,7 +13661,7 @@
         "Dev_Desc": "캐시상점 / 메인 탭 / 금화",
         "id": 8002024,
         "alias": "UI.CashShop.TapName.Main.GoodsByGold",
-        "text": "금화"
+        "text": "금화&주화"
     },
     "8002025": {
         "deprecated": false,
@@ -15894,14 +15901,14 @@
         "Dev_Desc": "문파 / 문파 정보 / 정보 / 문파 순위 / 경험치",
         "id": 8002348,
         "alias": "UI.Guild.info.GuildRank.Exp",
-        "text": "경험치 <arg p=[1:integer]/>위"
+        "text": "<arg p=[1:integer]/>위"
     },
     "8002349": {
         "deprecated": false,
         "Dev_Desc": "문파 / 문파 정보 / 정보 / 문파 순위 / 경험치 / 순위권 밖",
         "id": 8002349,
         "alias": "UI.Guild.info.GuildRank.Exp.Out",
-        "text": "경험치 - 위"
+        "text": "- 위"
     },
     "8002350": {
         "deprecated": false,
@@ -22634,7 +22641,7 @@
         "Dev_Desc": "증폭의 정수 상자",
         "id": 8003315,
         "alias": "UI.Craft.LeftSubTabName.Event.EssencePieces_07",
-        "text": "정수 파편 상자"
+        "text": "빛나는 정수 [기타]"
     },
     "8003316": {
         "deprecated": false,
@@ -23079,14 +23086,14 @@
         "Dev_Desc": "던전 / 탭 / 시간제 던전",
         "id": 8003379,
         "alias": "UI.Dungeon.Tap.BasicDungeon",
-        "text": "시간제 던전"
+        "text": "일반"
     },
     "8003380": {
         "deprecated": false,
         "Dev_Desc": "던전 / 탭 / 1인 던전",
         "id": 8003380,
         "alias": "UI.Dungeon.Tap.SoloDungeon",
-        "text": "1인 던전"
+        "text": "특수"
     },
     "8003381": {
         "deprecated": false,
@@ -23548,7 +23555,7 @@
         "Dev_Desc": "이벤트 제작 레시피 탭 / 천하사절 수호령",
         "id": 8003446,
         "alias": "UI.Craft.LeftSubTabName.Event.FourMaster_01",
-        "text": "천하사절 패키지"
+        "text": "소울/수호령 제작서"
     },
     "8003447": {
         "deprecated": false,
@@ -23652,14 +23659,14 @@
         "deprecated": false,
         "Dev_Desc": "캐시상점 / 서브 탭 / 블랙 프라이데이 탭 / 비사전",
         "id": 8003461,
-        "alias": "UI.CashShop.TapName.Sub.itemCoin1",
-        "text": "비사전"
+        "alias": "UI.CashShop.TapName.Sub.itemCoin4",
+        "text": "비사전 & 도화전"
     },
     "8003462": {
         "deprecated": false,
         "Dev_Desc": "캐시상점 / 서브 탭 / 블랙 프라이데이 탭 / 도화전",
         "id": 8003462,
-        "alias": "UI.CashShop.TapName.Sub.itemCoin2",
+        "alias": "UI.CashShop.TapName.Sub.itemCoin5",
         "text": "도화전"
     },
     "8003463": {
@@ -23752,5 +23759,95 @@
         "id": 8003475,
         "alias": "UI.Craft.LeftSubTabName.Event.BlackTicket",
         "text": "블랙 프라이데이 티켓"
+    },
+    "8003476": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 상자 (제련) / 타이틀",
+        "id": 8003476,
+        "alias": "UI.Smelting.Title",
+        "text": "야루의 상자"
+    },
+    "8003477": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 조건 확인 / 문파 신청 취소 필요",
+        "id": 8003477,
+        "alias": "UI.HeroTransfer.Condition.Guild.No.02",
+        "text": "문파가입 신청이 남아 있습니다."
+    },
+    "8003478": {
+        "deprecated": false,
+        "Dev_Desc": "이벤트 제작 레시피 탭 / 블랙프라이데이",
+        "id": 8003478,
+        "alias": "UI.Craft.LeftSubTabName.Event.100Aniversary.01",
+        "text": "100일 축제"
+    },
+    "8003479": {
+        "deprecated": false,
+        "Dev_Desc": "소울패링 / HUD 시스템 메시지 및 채팅 / 성공",
+        "id": 8003479,
+        "alias": "UI.SoulParry.SystemMessage.Success",
+        "text": "<arg p=[1:string]/> 님이 <arg p=[2:string]/>에게 소울패링을 성공하였습니다."
+    },
+    "8003480": {
+        "deprecated": false,
+        "Dev_Desc": "소울패링 / HUD 시스템 메시지 / 기절",
+        "id": 8003480,
+        "alias": "UI.SoulParry.SystemMessage.Stun",
+        "text": "<arg p=[1:string]/> 님이 소울패링을 성공하여 <arg p=[2:string]/>이 기절하였습니다."
+    },
+    "8003481": {
+        "deprecated": false,
+        "Dev_Desc": "제련 / 재료 선택 설명",
+        "id": 8003481,
+        "alias": "UI.Smelting.MaterialRegisteredDesc",
+        "text": "재료를 선택해 주세요."
+    },
+    "8003482": {
+        "deprecated": false,
+        "Dev_Desc": "제련 / 보유 장비 목록 타이틀",
+        "id": 8003482,
+        "alias": "UI.Smelting.InventoryTitle.Equipment",
+        "text": "장비"
+    },
+    "8003483": {
+        "deprecated": false,
+        "Dev_Desc": "제련 / 보유 재료 목록 타이틀",
+        "id": 8003483,
+        "alias": "UI.Smelting.InventoryTitle.Material",
+        "text": "제련 재료"
+    },
+    "8003484": {
+        "deprecated": false,
+        "Dev_Desc": "제련 / 조합 능력치 경고 팝업 / 설명1",
+        "id": 8003484,
+        "alias": "UI.Smelting.ConfirmPopup.Desc1",
+        "text": "조합 능력치 적용 중인 장비입니다."
+    },
+    "8003485": {
+        "deprecated": false,
+        "Dev_Desc": "제련 / 조합 능력치 경고 팝업 / 설명2",
+        "id": 8003485,
+        "alias": "UI.Smelting.ConfirmPopup.Desc2",
+        "text": "제련 진행 시 기존의 제련 능력치 초기화 후 새로운 제련이 진행됩니다.\n제련을 진행하시겠습니까?"
+    },
+    "8003486": {
+        "deprecated": false,
+        "id": 8003486,
+        "alias": "UI.SoulParry.SystemMessage.Success.Chat",
+        "text": "<arg p=[1:string]/> 님이 <arg p=[2:string]/>에게 소울패링을 성공하였습니다."
+    },
+    "8003487": {
+        "deprecated": false,
+        "Dev_Desc": "제련 / 조합 능력치 획득 불가 설명",
+        "id": 8003487,
+        "alias": "UI.Smelting.NoCombinationStat",
+        "text": "조합 능력치 획득 불가"
+    },
+    "8003488": {
+        "deprecated": false,
+        "Dev_Desc": "제련 / 조합 능력치 획득 가능 설명",
+        "id": 8003488,
+        "alias": "UI.Smelting.CombinationStatDesc",
+        "text": "조합 능력치 획득 가능"
     }
 }

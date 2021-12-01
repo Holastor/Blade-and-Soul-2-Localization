@@ -247,21 +247,21 @@
     "8000036": {
         "Dev_Desc": "제련 / 가이드메시지 / 강화/승급/제작",
         "Original_Text": "<arg p=[1:string]/> 실패 시 재료는 소멸됩니다.",
-        "English_Text": "<DNT> The materials will be lost when <arg p=[1:string]/> fails.",
+        "English_Text": "The materials will be lost when <arg p=[1:string]/> fails.",
         "Russian_Text": "",
         "Chinese_Text": "<arg p=[1:string]/>失败时，材料将消失。"
     },
     "8000037": {
         "Dev_Desc": "제련 / 가이드메시지 / 강화/승급/제작",
         "Original_Text": "금화가 부족하여 <arg p=[1:string]/>할 수 없습니다.",
-        "English_Text": "<DNT> You need more money to <arg p=[1:string]/>.",
+        "English_Text": "You need more money to <arg p=[1:string]/>.",
         "Russian_Text": "",
         "Chinese_Text": "货币不足，因此无法<arg p=[1:string]/>。"
     },
     "8000038": {
         "Dev_Desc": "제련 / 가이드메시지 / 강화/승급/제작",
         "Original_Text": "재료가 부족하여 <arg p=[1:string]/>할 수 없습니다.",
-        "English_Text": "<DNT> You need more materials to <arg p=[1:string]/>.",
+        "English_Text": "You need more materials to <arg p=[1:string]/>.",
         "Russian_Text": "",
         "Chinese_Text": "材料不足，因此无法<arg p=[1:string]/>。"
     },
@@ -317,7 +317,7 @@
     "8000046": {
         "Dev_Desc": "제련 / 팝업메시지 / 강화/승급/제작",
         "Original_Text": "<arg p=[1:string]/><eul/> 진행하시겠습니까?\\n<arg p=[2:string]/> 실패 시 장비가 파괴될 수 있습니다.",
-        "English_Text": "<DNT> If <arg p=[1:string]/> fails,\nthe item might be destroyed.\nContinue with <arg p=[2:string]/>?",
+        "English_Text": "If <arg p=[1:string]/> fails,\nthe item might be destroyed.\nContinue with <arg p=[2:string]/>?",
         "Russian_Text": "",
         "Chinese_Text": "物品<arg p=[1:string]/>失败时，\n有可能被破坏。是否继续进行\n<arg p=[2:string]/><eul/>？"
     },
@@ -597,7 +597,7 @@
     "8000086": {
         "Dev_Desc": "소지품/창고/시티즌 상점 / 판매/구매/이동",
         "Original_Text": "<arg p=[1:string]/> 수량 조절",
-        "English_Text": "<DNT> Edit <arg p=[1:string]/> Quantity",
+        "English_Text": "Edit <arg p=[1:string]/> Quantity",
         "Russian_Text": "",
         "Chinese_Text": "调整<arg p=[1:string]/>数量"
     },
@@ -1689,7 +1689,7 @@
     "8000242": {
         "Dev_Desc": "강화 / 전면 연출 / ",
         "Original_Text": "<arg p=[1:string]/>에 실패하여 물품이 파괴되었습니다.",
-        "English_Text": "<DNT> Failed to <arg p=[1:string]/>. Item has been destroyed.",
+        "English_Text": "Failed to <arg p=[1:string]/>. Item has been destroyed.",
         "Russian_Text": "",
         "Chinese_Text": "<arg p=[1:string]/>失败，物品已被破坏。"
     },
@@ -2326,7 +2326,7 @@
     "8000333": {
         "Dev_Desc": "팝업창 / 아이템 이동 확인 / ",
         "Original_Text": "<arg p=[1:string]/> <arg p=[2:integer]/>개를 이동합니다.",
-        "English_Text": "<DNT> Move <arg p=[2:integer]/> <arg p=[1:string]/>.",
+        "English_Text": "Move <arg p=[2:integer]/> <arg p=[1:string]/>.",
         "Russian_Text": "",
         "Chinese_Text": "移动<arg p=[2:integer]/>个<arg p=[1:string]/>。"
     },
@@ -2431,7 +2431,7 @@
     "8000348": {
         "Dev_Desc": "소지품 / ",
         "Original_Text": "<arg p=[1:string]/>을 봉인해제 합니다.\\n봉인해제 된 아이템은 거래할 수 없습니다.",
-        "English_Text": "<DNT> Unsealed items are untradable.\nUnseal <arg p=[1:string]/>?",
+        "English_Text": "Unsealed items are untradable.\nUnseal <arg p=[1:string]/>?",
         "Russian_Text": "",
         "Chinese_Text": "解除<arg p=[1:string]/>的封印。\n解除封印的道具无法进行交易。"
     },
@@ -2739,14 +2739,14 @@
     "8000392": {
         "Dev_Desc": "거점쟁탈전 / 사망 시 부활 창 / ",
         "Original_Text": "\"안에 부활 방식을 결정하지 않으면 쟁탈전 나가기로 처리됩니다.\"",
-        "English_Text": "<DNT>",
+        "English_Text": "If you do not decide on the internal resurrection method, you will automatically \"leave the battle\"",
         "Russian_Text": "",
         "Chinese_Text": "如不决定在内部的复活方式，将自动“离开争夺战”。"
     },
     "8000393": {
         "Dev_Desc": "거점쟁탈전 / 사망 시 부활 창 / ",
         "Original_Text": "\"안에 부활 방식을 결정하지 않으면 쟁탈전 내 부활로 처리됩니다.\"",
-        "English_Text": "<DNT>",
+        "English_Text": "If you do not decide on the internal resurrection method, it will automatically \"resurrect in the battle\".",
         "Russian_Text": "",
         "Chinese_Text": "如不决定在内部的复活方式，将自动“在争夺战内复活”。"
     },
@@ -2767,21 +2767,21 @@
     "8000396": {
         "Dev_Desc": "사망 시 부활 창 / ",
         "Original_Text": "\"안에 부활 방식을 결정하지 않으면 마을로 귀환으로 처리됩니다.\"",
-        "English_Text": "<DNT>",
+        "English_Text": "If you do not decide on the internal resurrection method, you will automatically \"return to the village\".",
         "Russian_Text": "",
         "Chinese_Text": "如不决定在内部的复活方式，将自动“返回村庄”。"
     },
     "8000397": {
         "Dev_Desc": "사망 시 부활 창 / ",
         "Original_Text": "\"안에 부활 방식을 결정하지 않으면 부활로 처리됩니다.\"",
-        "English_Text": "<DNT>",
+        "English_Text": "If you do not decide the internal resurrection method, it will automatically \"resurrect\".",
         "Russian_Text": "",
         "Chinese_Text": "如不决定在内部的复活方式，将自动“复活”。"
     },
     "8000398": {
         "Dev_Desc": "사망 시 부활 창 / ",
         "Original_Text": "\"안에 부활 방식을 결정하지 않으면 즉시부활로 처리됩니다.\"",
-        "English_Text": "<DNT>",
+        "English_Text": "If you do not decide the internal resurrection method, it will automatically \"resurrect immediately\".",
         "Russian_Text": "",
         "Chinese_Text": "如不决定在内部的复活方式，将自动“立即复活”。"
     },
@@ -4608,14 +4608,14 @@
     "8000676": {
         "Dev_Desc": "강화 / 결과 / 팝업 / 초기화 텍스트",
         "Original_Text": "<arg p=[1:string]/>에 실패하여 장비의 강화 상태가 초기화 되었습니다.",
-        "English_Text": "<DNT> [@up]<arg p=[1:string]/> has failed and its Enhance level has been reset.",
+        "English_Text": "<arg p=[1:string]/> has failed and its Enhance level has been reset.",
         "Russian_Text": "",
         "Chinese_Text": "<arg p=[1:string]/>失败，装备的强化状态已被重置。"
     },
     "8000677": {
         "Dev_Desc": "강화 / 결과 / 팝업 / 장비손상 텍스트",
         "Original_Text": "<arg p=[1:string]/>에 실패하여 장비가 손상되었습니다.",
-        "English_Text": "<DNT> [@up]<arg p=[1:string]/> has failed and the gear has been damaged.",
+        "English_Text": "<arg p=[1:string]/> has failed and the gear has been damaged.",
         "Russian_Text": "",
         "Chinese_Text": "<arg p=[1:string]/>失败，装备受损。"
     },
@@ -4685,14 +4685,14 @@
     "8000687": {
         "Dev_Desc": "강화 / 결과 / 비안전강화 / 성공 텍스트",
         "Original_Text": "강화에 성공하여",
-        "English_Text": "<DNT>",
+        "English_Text": "Strengthen success",
         "Russian_Text": "",
         "Chinese_Text": "强化成功"
     },
     "8000688": {
         "Dev_Desc": "강화 / 결과 / 비안전강화 / 대성공 텍스트",
         "Original_Text": "강화에 크게 성공하여",
-        "English_Text": "<DNT>",
+        "English_Text": "Reinforcement is a big success",
         "Russian_Text": "",
         "Chinese_Text": "强化大获成功"
     },
@@ -4713,7 +4713,7 @@
     "8000691": {
         "Dev_Desc": "강화 / 결과 / 비안전강화 / 성공 텍스트 뒷부분",
         "Original_Text": "만큼 강화단계가 상승하였습니다.",
-        "English_Text": "<DNT>",
+        "English_Text": "The strengthening phase rises.",
         "Russian_Text": "",
         "Chinese_Text": "强化阶段上升。"
     },
@@ -5770,9 +5770,9 @@
     "8000842": {
         "Dev_Desc": "모험가 점수 1~4단계",
         "Original_Text": "<arg p=[1:string]/> ~ <arg p=[2:string]/>점",
-        "English_Text": "<arg p=[1:integer]/> — <arg p=[2:string]/> points",
+        "English_Text": "<arg p=[1:string]/> — <arg p=[2:string]/> points",
         "Russian_Text": "",
-        "Chinese_Text": "<arg p=[1:integer]/>～<arg p=[2:string]/>分"
+        "Chinese_Text": "<arg p=[1:string]/>～<arg p=[2:string]/>分"
     },
     "8000843": {
         "Dev_Desc": "모험가 점수 5단계",
@@ -5784,7 +5784,7 @@
     "8000844": {
         "Dev_Desc": "모험가 랭크 1~3랭크",
         "Original_Text": "<arg p=[2:string]/> <arg p=[1:string]/>점",
-        "English_Text": "<arg p=[2:string]/> <arg p=[1:string]/>Points",
+        "English_Text": "<arg p=[2:string]/> <arg p=[1:string]/> Points",
         "Russian_Text": "",
         "Chinese_Text": "<arg p=[2:string]/><arg p=[1:string]/>分"
     },
@@ -6389,6 +6389,13 @@
         "English_Text": "Notice",
         "Russian_Text": "",
         "Chinese_Text": "公告事项"
+    },
+    "8000945": {
+        "Dev_Desc": "문파 / 문파 정보 / 정보 / 순위",
+        "Original_Text": "순위",
+        "English_Text": "ranking",
+        "Russian_Text": "",
+        "Chinese_Text": "排行"
     },
     "8000946": {
         "Dev_Desc": "문파 / 문파 정보",
@@ -7163,7 +7170,7 @@
     "8001077": {
         "Dev_Desc": "Province 정보 – 모험가 등급/점수 표시",
         "Original_Text": "<arg p=[2:string]/> <textColor=[254:204:102:255]><arg p=[1:string]/>점</>",
-        "English_Text": "<arg p=[2:string]/> <textColor=[254:204:102:255]><arg p=[1:string]/>Points</>",
+        "English_Text": "<arg p=[2:string]/> <textColor=[254:204:102:255]><arg p=[1:string]/> Points</>",
         "Russian_Text": "",
         "Chinese_Text": "<arg p=[2:string]/><textColor=[254:204:102:255]><arg p=[1:string]/>分</>"
     },
@@ -8542,9 +8549,9 @@
     "8001275": {
         "Dev_Desc": "로그인 UI / 이용약관 / NC 서비스 이용 약관 디테일",
         "Original_Text": "광고성 정보 수신 동의 포함 PLAY NC 홈페이지\\n광고성 수신 동의는 별도",
-        "English_Text": "<DNT>",
+        "English_Text": "PLAY NC homepage including consent to receive advertising information\\nConsent to receive advertising information is separate",
         "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
+        "Chinese_Text": "PLAY NC主页包括同意接收广告信息\\n同意接收广告信息是分开的"
     },
     "8001276": {
         "Dev_Desc": "로그인 UI / 이용약관 / 개인정보 수집 동의",
@@ -10095,7 +10102,7 @@
     },
     "8001497": {
         "Dev_Desc": "랭킹 / PK / 이름",
-        "Original_Text": "이름",
+        "Original_Text": "이름/문파",
         "English_Text": "Name",
         "Russian_Text": "",
         "Chinese_Text": "名称"
@@ -10116,7 +10123,7 @@
     },
     "8001500": {
         "Dev_Desc": "랭킹 / PK / 전적",
-        "Original_Text": "전적",
+        "Original_Text": "처치/사망",
         "English_Text": "Record",
         "Russian_Text": "",
         "Chinese_Text": "战绩"
@@ -10137,7 +10144,7 @@
     },
     "8001503": {
         "Dev_Desc": "랭킹 / 경험치 랭킹 혜택 정보 팝업 / 타이틀",
-        "Original_Text": "경험치 랭킹 혜택",
+        "Original_Text": "경험치 순위 혜택",
         "English_Text": "EXP Ranking Benefits",
         "Russian_Text": "",
         "Chinese_Text": "经验值排名福利"
@@ -10158,7 +10165,7 @@
     },
     "8001506": {
         "Dev_Desc": "랭킹 / PK 랭킹 혜택 정보 팝업 / 타이틀",
-        "Original_Text": "경험치 랭킹 혜택",
+        "Original_Text": "PvP 순위 혜택",
         "English_Text": "EXP Ranking Benefits",
         "Russian_Text": "",
         "Chinese_Text": "经验值排名福利"
@@ -11347,8 +11354,8 @@
         "Chinese_Text": "选择"
     },
     "8001676": {
-        "Dev_Desc": "거래소 / 검색열 / 제련 옵션",
-        "Original_Text": "제련 옵션",
+        "Dev_Desc": "거래소 / 검색열 / 제련 능력치",
+        "Original_Text": "제련 능력치",
         "English_Text": "Refine Option",
         "Russian_Text": "",
         "Chinese_Text": "提炼属性"
@@ -11473,8 +11480,8 @@
         "Chinese_Text": "强化阶段"
     },
     "8001697": {
-        "Dev_Desc": "거래소 / 필터 / 제련 옵션",
-        "Original_Text": "제련 옵션",
+        "Dev_Desc": "거래소 / 필터 / 제련 능력치",
+        "Original_Text": "제련 능력치",
         "English_Text": "Refine Option",
         "Russian_Text": "",
         "Chinese_Text": "提炼属性"
@@ -11620,8 +11627,8 @@
         "Chinese_Text": "物品"
     },
     "8001718": {
-        "Dev_Desc": "거래소 / 판매열 / 제련 옵션",
-        "Original_Text": "제련 옵션",
+        "Dev_Desc": "거래소 / 판매열 / 제련 능력치",
+        "Original_Text": "제련 능력치",
         "English_Text": "Refine Option",
         "Russian_Text": "",
         "Chinese_Text": "提炼属性"
@@ -13274,14 +13281,14 @@
     "8001970": {
         "Dev_Desc": "무공 / 무공 설명 / 단계2",
         "Original_Text": "증폭",
-        "English_Text": "Amp",
+        "English_Text": "Amplify",
         "Russian_Text": "",
         "Chinese_Text": "增幅"
     },
     "8001971": {
         "Dev_Desc": "무공 / 무공 설명 / 단계3",
         "Original_Text": "극한",
-        "English_Text": "Ext",
+        "English_Text": "Extreme",
         "Russian_Text": "",
         "Chinese_Text": "极限"
     },
@@ -13651,7 +13658,7 @@
     },
     "8002024": {
         "Dev_Desc": "캐시상점 / 메인 탭 / 금화",
-        "Original_Text": "금화",
+        "Original_Text": "금화&주화",
         "English_Text": "Gold",
         "Russian_Text": "",
         "Chinese_Text": "金币"
@@ -13679,7 +13686,7 @@
     },
     "8002028": {
         "Dev_Desc": "캐시상점 / 메인 탭 / 서버이전",
-        "Original_Text": "서버이전",
+        "Original_Text": "서버 이전",
         "English_Text": "Server Transfer",
         "Russian_Text": "",
         "Chinese_Text": "转服"
@@ -15129,9 +15136,9 @@
     "8002237": {
         "Dev_Desc": "HUD / 영기 / 영기 문구",
         "Original_Text": "영기",
-        "English_Text": "Aura",
+        "English_Text": "Soul Energy Lv.<arg p=[1:integer]/>",
         "Russian_Text": "",
-        "Chinese_Text": "光环"
+        "Chinese_Text": "灵气<arg p=[1:integer]/>阶段"
     },
     "8002238": {
         "Dev_Desc": "HUD / 영기 / 경험치 획득률",
@@ -15891,14 +15898,14 @@
     },
     "8002348": {
         "Dev_Desc": "문파 / 문파 정보 / 정보 / 문파 순위 / 경험치",
-        "Original_Text": "경험치 <arg p=[1:integer]/>위",
+        "Original_Text": "<arg p=[1:integer]/>위",
         "English_Text": "EXP Rank #<arg p=[1:integer]/>",
         "Russian_Text": "",
         "Chinese_Text": "经验值第<arg p=[1:integer]/>名"
     },
     "8002349": {
         "Dev_Desc": "문파 / 문파 정보 / 정보 / 문파 순위 / 경험치 / 순위권 밖",
-        "Original_Text": "경험치 - 위",
+        "Original_Text": "- 위",
         "English_Text": "EXP Rank # -",
         "Russian_Text": "",
         "Chinese_Text": "经验值 - 名"
@@ -19910,7 +19917,7 @@
     "8002926": {
         "Dev_Desc": "타이틀 / 계정 연동 / 설명",
         "Original_Text": "계정을 연동하시겠습니까?\\n\\n<textColor=[209:72:59:255]>계정 연동은 1회만 가능합니다.</>\\n<textColor=[209:72:59:255]>연동할 계정을 신중하게 선택하시길 바랍니다.</>",
-        "English_Text": "Blade Effect Level +1\nDo you want to link a non-account?\\n\\n<textColor=[209:72:59:255]>You can link an account only once.</>\\n<textColor=[ 209:72:59:255]>Choose the account you want to link carefully.</>Soul activates when using a ball",
+        "English_Text": "Link the account?",
         "Russian_Text": "",
         "Chinese_Text": "您确定要关联您的帐户吗？\n\n<textColor=[209:72:59:255]>您的帐户只能关联一次.</>\n<textColor=[209:72:59:255]>请谨慎选择您要关联的帐户</>\""
     },
@@ -22632,7 +22639,7 @@
     },
     "8003315": {
         "Dev_Desc": "증폭의 정수 상자",
-        "Original_Text": "정수 파편 상자",
+        "Original_Text": "빛나는 정수 [기타]",
         "English_Text": "Essence Fragment Box",
         "Russian_Text": "",
         "Chinese_Text": "精华碎片盒"
@@ -23080,14 +23087,14 @@
     },
     "8003379": {
         "Dev_Desc": "던전 / 탭 / 시간제 던전",
-        "Original_Text": "시간제 던전",
+        "Original_Text": "일반",
         "English_Text": "Timed Dungeon",
         "Russian_Text": "",
         "Chinese_Text": "限时副本"
     },
     "8003380": {
         "Dev_Desc": "던전 / 탭 / 1인 던전",
-        "Original_Text": "1인 던전",
+        "Original_Text": "특수",
         "English_Text": "Single Dungeon",
         "Russian_Text": "",
         "Chinese_Text": "单人副本"
@@ -23220,7 +23227,7 @@
     },
     "8003399": {
         "Dev_Desc": "서버 이전 / 서버 선택 / 설명",
-        "Original_Text": "이전이 불가능한 서버는 서버 목록에 표시되지 않습니다.",
+        "Original_Text": "이전 대상이 아니면 이전 대상 서버 목록에 표시되지 않습니다.",
         "English_Text": "Servers that cannot be transferred are not displayed in the server list.",
         "Russian_Text": "",
         "Chinese_Text": "无法转移的服务器不会显示在服务器列表中。"
@@ -23416,7 +23423,7 @@
     },
     "8003427": {
         "Dev_Desc": "서버 이전 / 서버 선택 / 탭",
-        "Original_Text": "이전 가능 서버",
+        "Original_Text": "이전 대상 서버",
         "English_Text": "Transferable Server",
         "Russian_Text": "",
         "Chinese_Text": "可转移服务器"
@@ -23465,7 +23472,7 @@
     },
     "8003434": {
         "Dev_Desc": "서버 이전 / 서버 선택 / 이전 불가 서버",
-        "Original_Text": "이전이 불가능한 서버입니다.",
+        "Original_Text": "이전 대상이 아니거나 이전 불가 상태의 서버입니다.",
         "English_Text": "This is a non-transferable server.",
         "Russian_Text": "",
         "Chinese_Text": "这是一个不可转移的服务器。"
@@ -23549,7 +23556,7 @@
     },
     "8003446": {
         "Dev_Desc": "이벤트 제작 레시피 탭 / 천하사절 수호령",
-        "Original_Text": "천하사절 패키지",
+        "Original_Text": "소울/수호령 제작서",
         "English_Text": "Emissary of Heaven Package",
         "Russian_Text": "",
         "Chinese_Text": "天国使者的守护者"
@@ -23585,9 +23592,9 @@
     "8003451": {
         "Dev_Desc": "서버 이전 / 서버 이전 확인 / 이전 가능 기간",
         "Original_Text": "<arg p=[1:integer]/>.<arg p=[2:integer]/>.<arg p=[3:integer]/>. <arg p=[4:integer]/>:<arg p=[5:integer]/> ~ <arg p=[6:integer]/>.<arg p=[7:integer]/>.<arg p=[8:integer]/>. <arg p=[9:integer]/>:<arg p=[10:integer]/>",
-        "English_Text": "<arg p=[1:integer]/>. <arg p=[2:integer]/>. <arg p=[3:integer]/>. <arg p=[4:integer]/>:<arg p=[5:integer]/> ~ <arg p=[6:integer]/>.<arg p=[7:integer]/>.<arg p=[8:integer]/>. <arg p=[9:integer]/>:<arg p=[10:integer]/> < ",
+        "English_Text": "<arg p=[1:integer]/>.<arg p=[2:integer]/>.<arg p=[3:integer]/>. <arg p=[4:integer]/>:<arg p=[5:integer]/> ~ <arg p=[6:integer]/>.<arg p=[7:integer]/>.<arg p=[8:integer]/>. <arg p=[9:integer]/>:<arg p=[10:integer]/>",
         "Russian_Text": "",
-        "Chinese_Text": "<arg p = [1: integer] />. <arg p = [2: integer] />. <arg p = [3: integer] />. <arg p = [4: integer] />: < arg p = [5: integer] /> ~ <arg p = [6: integer] />. <arg p = [7: integer] />. <arg p = [8: integer] />. <arg p = [9: 整数] />: <arg p = [10: 整数] /> "
+        "Chinese_Text": "<arg p=[1:integer]/>.<arg p=[2:integer]/>.<arg p=[3:integer]/>. <arg p=[4:integer]/>:<arg p=[5:integer]/> ~ <arg p=[6:integer]/>.<arg p=[7:integer]/>.<arg p=[8:integer]/>. <arg p=[9:integer]/>:<arg p=[10:integer]/>"
     },
     "8003452": {
         "Dev_Desc": "문파 / 문파 정보 / 문파 경험치 설명",
@@ -23654,7 +23661,7 @@
     },
     "8003461": {
         "Dev_Desc": "캐시상점 / 서브 탭 / 블랙 프라이데이 탭 / 비사전",
-        "Original_Text": "비사전",
+        "Original_Text": "비사전 & 도화전",
         "English_Text": "Non-Dictionary",
         "Russian_Text": "",
         "Chinese_Text": "非字典"
@@ -23756,5 +23763,96 @@
         "English_Text": "Black Friday Tickets",
         "Russian_Text": "",
         "Chinese_Text": "黑色星期五门票"
+    },
+    "8003476": {
+        "Dev_Desc": "야루의 상자 (제련) / 타이틀",
+        "Original_Text": "야루의 상자",
+        "English_Text": "Yaru's Box",
+        "Russian_Text": "",
+        "Chinese_Text": "雅鲁的盒子"
+    },
+    "8003477": {
+        "Dev_Desc": "서버 이전 / 조건 확인 / 문파 신청 취소 필요",
+        "Original_Text": "문파가입 신청이 남아 있습니다.",
+        "English_Text": "Applications to join the Munpa remain.",
+        "Russian_Text": "",
+        "Chinese_Text": "加入蒙帕的申请仍然存在。"
+    },
+    "8003478": {
+        "Dev_Desc": "이벤트 제작 레시피 탭 / 블랙프라이데이",
+        "Original_Text": "100일 축제",
+        "English_Text": "100 Days Festival",
+        "Russian_Text": "",
+        "Chinese_Text": "百日祭"
+    },
+    "8003479": {
+        "Dev_Desc": "소울패링 / HUD 시스템 메시지 및 채팅 / 성공",
+        "Original_Text": "<arg p=[1:string]/> 님이 <arg p=[2:string]/>에게 소울패링을 성공하였습니다.",
+        "English_Text": "<arg p=[1:string]/>soul-paring to <arg p=[2:string]/>was successful.",
+        "Russian_Text": "",
+        "Chinese_Text": "<arg p=[1:string]/>与<arg p=[2:string]/>的灵魂配对成功了。"
+    },
+    "8003480": {
+        "Dev_Desc": "소울패링 / HUD 시스템 메시지 / 기절",
+        "Original_Text": "<arg p=[1:string]/> 님이 소울패링을 성공하여 <arg p=[2:string]/>이 기절하였습니다.",
+        "English_Text": "<arg p=[1:string]/>has succeeded in soul parring, and <arg p=[2:string]/>is stunned.",
+        "Russian_Text": "",
+        "Chinese_Text": "<arg p=[1:string]/>成功勾魂，<arg p=[2:string]/>目瞪口呆。"
+    },
+    "8003481": {
+        "Dev_Desc": "제련 / 재료 선택 설명",
+        "Original_Text": "재료를 선택해 주세요.",
+        "English_Text": "Please select a material.",
+        "Russian_Text": "",
+        "Chinese_Text": "请选择材料。"
+    },
+    "8003482": {
+        "Dev_Desc": "제련 / 보유 장비 목록 타이틀",
+        "Original_Text": "장비",
+        "English_Text": "equipment",
+        "Russian_Text": "",
+        "Chinese_Text": "设备"
+    },
+    "8003483": {
+        "Dev_Desc": "제련 / 보유 재료 목록 타이틀",
+        "Original_Text": "제련 재료",
+        "English_Text": "Smelting Material",
+        "Russian_Text": "",
+        "Chinese_Text": "冶炼材料"
+    },
+    "8003484": {
+        "Dev_Desc": "제련 / 조합 능력치 경고 팝업 / 설명1",
+        "Original_Text": "조합 능력치 적용 중인 장비입니다.",
+        "English_Text": "This is the equipment that the combination stats are applied to.",
+        "Russian_Text": "",
+        "Chinese_Text": "这就是应用组合属性的装备。"
+    },
+    "8003485": {
+        "Dev_Desc": "제련 / 조합 능력치 경고 팝업 / 설명2",
+        "Original_Text": "제련 진행 시 기존의 제련 능력치 초기화 후 새로운 제련이 진행됩니다.\\n제련을 진행하시겠습니까?",
+        "English_Text": "When smelting is in progress, new smelting will proceed after resetting the existing smelting stats. \\nDo you want to proceed with smelting?",
+        "Russian_Text": "",
+        "Chinese_Text": "在熔炼过程中，重置现有的熔炼统计数据后会进行新的熔炼。\\n你要继续熔炼吗？"
+    },
+    "8003486": {
+        "Dev_Desc": "",
+        "Original_Text": "<arg p=[1:string]/> 님이 <arg p=[2:string]/>에게 소울패링을 성공하였습니다.",
+        "English_Text": "<arg p=[1:string]/>soul-paring to <arg p=[2:string]/>was successful.",
+        "Russian_Text": "",
+        "Chinese_Text": "<arg p=[1:string]/>与<arg p=[2:string]/>的灵魂配对成功了。"
+    },
+    "8003487": {
+        "Dev_Desc": "제련 / 조합 능력치 획득 불가 설명",
+        "Original_Text": "조합 능력치 획득 불가",
+        "English_Text": "Unable to acquire combination stats",
+        "Russian_Text": "",
+        "Chinese_Text": "无法获取组合统计数据"
+    },
+    "8003488": {
+        "Dev_Desc": "제련 / 조합 능력치 획득 가능 설명",
+        "Original_Text": "조합 능력치 획득 가능",
+        "English_Text": "Combination stats can be acquired",
+        "Russian_Text": "",
+        "Chinese_Text": "可以获取组合统计数据"
     }
 }

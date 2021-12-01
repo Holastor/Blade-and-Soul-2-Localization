@@ -81,42 +81,42 @@
         "Dev_Desc": "WeaponAttackRate",
         "id": 10012,
         "alias": "Contents.Stat.Name.WeaponAttackRate",
-        "text": "Weapon Attack Rate"
+        "text": "Amplified Weapon Attack"
     },
     "10013": {
         "deprecated": false,
         "Dev_Desc": "WeaponAttackToleranceRate",
         "id": 10013,
         "alias": "Contents.Stat.Name.WeaponAttackToleranceRate",
-        "text": "Weapon Attack Tolerance Rate"
+        "text": "Weapon Attack Resist"
     },
     "10014": {
         "deprecated": false,
         "Dev_Desc": "AttackBonus",
         "id": 10014,
         "alias": "Contents.Stat.Name.AttackBonus",
-        "text": "Attack Bonus"
+        "text": "Bonus Attack"
     },
     "10015": {
         "deprecated": false,
         "Dev_Desc": "AddAttackMin",
         "id": 10015,
         "alias": "Contents.Stat.Name.AddAttackMin",
-        "text": "Detailed"
+        "text": "Precision"
     },
     "10016": {
         "deprecated": false,
         "Dev_Desc": "healingPower",
         "id": 10016,
         "alias": "Contents.Stat.Name.healingPower",
-        "text": "Healing Power"
+        "text": "Heal"
     },
     "10017": {
         "deprecated": false,
         "Dev_Desc": "healingPowerRate",
         "id": 10017,
         "alias": "Contents.Stat.Name.healingPowerRate",
-        "text": "Healing Power Rate"
+        "text": "Heal Rate"
     },
     "10018": {
         "deprecated": false,
@@ -130,7 +130,7 @@
         "Dev_Desc": "GauntletAttack",
         "id": 10019,
         "alias": "Contents.Stat.Name.GauntletAttack",
-        "text": "Gauntlet Attack"
+        "text": "Gauntlets Attack"
     },
     "10020": {
         "deprecated": false,
@@ -158,63 +158,63 @@
         "Dev_Desc": "RitualBellAttack",
         "id": 10023,
         "alias": "Contents.Stat.Name.RitualBellAttack",
-        "text": "Ritual Bell Attack"
+        "text": "Trilbu Attack"
     },
     "10024": {
         "deprecated": false,
         "Dev_Desc": "ShortPhysicalPenetration",
         "id": 10024,
         "alias": "Contents.Stat.Name.ShortPhysicalPenetration",
-        "text": "Melee Penetration"
+        "text": "Melee Piercing"
     },
     "10025": {
         "deprecated": false,
         "Dev_Desc": "LongPhysicalPenetration",
         "id": 10025,
         "alias": "Contents.Stat.Name.LongPhysicalPenetration",
-        "text": "Ranged Penetration"
+        "text": "Ranged Piercing"
     },
     "10026": {
         "deprecated": false,
         "Dev_Desc": "ForcePenetration",
         "id": 10026,
         "alias": "Contents.Stat.Name.ForcePenetration",
-        "text": "Force Penetration"
+        "text": "Force Piercing"
     },
     "10027": {
         "deprecated": false,
         "Dev_Desc": "Penetration",
         "id": 10027,
         "alias": "Contents.Stat.Name.Penetration",
-        "text": "Penetration"
+        "text": "Piercing"
     },
     "10028": {
         "deprecated": false,
         "Dev_Desc": "ShortPhysicalHit",
         "id": 10028,
         "alias": "Contents.Stat.Name.ShortPhysicalHit",
-        "text": "Melee Hit"
+        "text": "Melee Accuracy"
     },
     "10029": {
         "deprecated": false,
         "Dev_Desc": "LongPhysicalHit",
         "id": 10029,
         "alias": "Contents.Stat.Name.LongPhysicalHit",
-        "text": "Ranged Hit"
+        "text": "Ranged Accuracy"
     },
     "10030": {
         "deprecated": false,
         "Dev_Desc": "ForceHit",
         "id": 10030,
         "alias": "Contents.Stat.Name.ForceHit",
-        "text": "Force Hit"
+        "text": "Force Accuracy"
     },
     "10031": {
         "deprecated": false,
         "Dev_Desc": "Hit",
         "id": 10031,
         "alias": "Contents.Stat.Name.Hit",
-        "text": "Hit"
+        "text": "Accuracy"
     },
     "10032": {
         "deprecated": false,
@@ -249,77 +249,77 @@
         "Dev_Desc": "CriticalAttack",
         "id": 10036,
         "alias": "Contents.Stat.Name.CriticalAttack",
-        "text": "Critical Attack"
+        "text": "Critical Bonus"
     },
     "10037": {
         "deprecated": false,
         "Dev_Desc": "FatalAttack",
         "id": 10037,
         "alias": "Contents.Stat.Name.FatalAttack",
-        "text": "Fatal Attack"
+        "text": "Fatal Attack Bonus"
     },
     "10038": {
         "deprecated": false,
         "Dev_Desc": "BlockpenetrationAttack",
         "id": 10038,
         "alias": "Contents.Stat.Name.BlockpenetrationAttack",
-        "text": "Block penetration Attack"
+        "text": "Bonus Block Piercing Attack"
     },
     "10039": {
         "deprecated": false,
         "Dev_Desc": "DamagePure",
         "id": 10039,
         "alias": "Contents.Stat.Name.DamagePure",
-        "text": "Damage Pure"
+        "text": "Ignore Damage Defense"
     },
     "10040": {
         "deprecated": false,
         "Dev_Desc": "ShortPhysicalAttackReduction",
         "id": 10040,
         "alias": "Contents.Stat.Name.ShortPhysicalAttackReduction",
-        "text": "Melee Attack Reduction"
+        "text": "Melee Protection"
     },
     "10041": {
         "deprecated": false,
         "Dev_Desc": "LongPhysicalAttackReduction",
         "id": 10041,
         "alias": "Contents.Stat.Name.LongPhysicalAttackReduction",
-        "text": "Ranged Attack Reduction"
+        "text": "Ranged Protection"
     },
     "10042": {
         "deprecated": false,
         "Dev_Desc": "ForceAttackReduction",
         "id": 10042,
         "alias": "Contents.Stat.Name.ForceAttackReduction",
-        "text": "Force Attack Reduction"
+        "text": "Force Protection"
     },
     "10043": {
         "deprecated": false,
         "Dev_Desc": "AttackReduction",
         "id": 10043,
         "alias": "Contents.Stat.Name.AttackReduction",
-        "text": "Attack Reduction"
+        "text": "Protection"
     },
     "10044": {
         "deprecated": false,
         "Dev_Desc": "ShortPhysicalDefence",
         "id": 10044,
         "alias": "Contents.Stat.Name.ShortPhysicalDefence",
-        "text": "Melee Defence"
+        "text": "Melee Defense"
     },
     "10045": {
         "deprecated": false,
         "Dev_Desc": "LongPhysicalDefence",
         "id": 10045,
         "alias": "Contents.Stat.Name.LongPhysicalDefence",
-        "text": "Ranged Defence"
+        "text": "Ranged Defense"
     },
     "10046": {
         "deprecated": false,
         "Dev_Desc": "ForceDefence",
         "id": 10046,
         "alias": "Contents.Stat.Name.ForceDefence",
-        "text": "Force Defence"
+        "text": "Force Defense"
     },
     "10047": {
         "deprecated": false,
@@ -361,56 +361,56 @@
         "Dev_Desc": "ShortPhysicalCriticalResistanceRate",
         "id": 10052,
         "alias": "Contents.Stat.Name.ShortPhysicalCriticalResistanceRate",
-        "text": "Melee Critical Resistance Rate"
+        "text": "Melee Critical Resist"
     },
     "10053": {
         "deprecated": false,
         "Dev_Desc": "LongPhysicalCriticalResistanceRate",
         "id": 10053,
         "alias": "Contents.Stat.Name.LongPhysicalCriticalResistanceRate",
-        "text": "Ranged Critical Resistance Rate"
+        "text": "Ranged Critical Resist"
     },
     "10054": {
         "deprecated": false,
         "Dev_Desc": "ForceCriticalResistanceRate",
         "id": 10054,
         "alias": "Contents.Stat.Name.ForceCriticalResistanceRate",
-        "text": "Force Critical Resistance Rate"
+        "text": "Force Critical Resist"
     },
     "10055": {
         "deprecated": false,
         "Dev_Desc": "CriticalResistanceRate",
         "id": 10055,
         "alias": "Contents.Stat.Name.CriticalResistanceRate",
-        "text": "Critical Resistance Rate"
+        "text": "Critical Resist"
     },
     "10056": {
         "deprecated": false,
         "Dev_Desc": "CriticalAttackReduction",
         "id": 10056,
         "alias": "Contents.Stat.Name.CriticalAttackReduction",
-        "text": "Critical Attack Reduction"
+        "text": "Critical Protection"
     },
     "10057": {
         "deprecated": false,
         "Dev_Desc": "FatalAttackReduction",
         "id": 10057,
         "alias": "Contents.Stat.Name.FatalAttackReduction",
-        "text": "Fatal Attack Reduction"
+        "text": "Fatal Spot Protection"
     },
     "10058": {
         "deprecated": false,
         "Dev_Desc": "BlockpenetrationAttackReduction",
         "id": 10058,
         "alias": "Contents.Stat.Name.BlockpenetrationAttackReduction",
-        "text": "Block penetration Attack Reduction"
+        "text": "Block Piercing Protection"
     },
     "10059": {
         "deprecated": false,
         "Dev_Desc": "ReduceDamagePure",
         "id": 10059,
         "alias": "Contents.Stat.Name.ReduceDamagePure",
-        "text": "Reduce Damage Pure"
+        "text": "Ignore Damage Defense Down"
     },
     "10060": {
         "deprecated": false,
@@ -438,63 +438,63 @@
         "Dev_Desc": "Stamina",
         "id": 10063,
         "alias": "Contents.Stat.Name.Stamina",
-        "text": "Stamina"
+        "text": "Vitality"
     },
     "10064": {
         "deprecated": false,
         "Dev_Desc": "RegenerationHP",
         "id": 10064,
         "alias": "Contents.Stat.Name.RegenerationHP",
-        "text": "Regeneration HP"
+        "text": "HP Regen"
     },
     "10065": {
         "deprecated": false,
         "Dev_Desc": "FixedRegenerationHP",
         "id": 10065,
         "alias": "Contents.Stat.Name.FixedRegenerationHP",
-        "text": "Fixed Regeneration HP"
+        "text": "Certain HP Regen"
     },
     "10066": {
         "deprecated": false,
         "Dev_Desc": "RegenerationFocus",
         "id": 10066,
         "alias": "Contents.Stat.Name.RegenerationFocus",
-        "text": "Regeneration Focus"
+        "text": "Focus Regen"
     },
     "10067": {
         "deprecated": false,
         "Dev_Desc": "FixedRegenerationFocus",
         "id": 10067,
         "alias": "Contents.Stat.Name.FixedRegenerationFocus",
-        "text": "Fixed Regeneration Focus"
+        "text": "Certain Focus Regen"
     },
     "10068": {
         "deprecated": false,
         "Dev_Desc": "ControlFocus",
         "id": 10068,
         "alias": "Contents.Stat.Name.ControlFocus",
-        "text": "Control Focus"
+        "text": "Focus Control"
     },
     "10069": {
         "deprecated": false,
         "Dev_Desc": "RegenerationStamina",
         "id": 10069,
         "alias": "Contents.Stat.Name.RegenerationStamina",
-        "text": "Regeneration Stamina"
+        "text": "Vitality Regen"
     },
     "10070": {
         "deprecated": false,
         "Dev_Desc": "HPPotionRecovery",
         "id": 10070,
         "alias": "Contents.Stat.Name.HPPotionRecovery",
-        "text": "HP Potion Recovery"
+        "text": "HP Tonic Boost"
     },
     "10071": {
         "deprecated": false,
         "Dev_Desc": "HPPotionRecoveryRate",
         "id": 10071,
         "alias": "Contents.Stat.Name.HPPotionRecoveryRate",
-        "text": "HP Potion Recovery Rate"
+        "text": "HP Tonic Rate"
     },
     "10072": {
         "deprecated": false,
@@ -508,70 +508,70 @@
         "Dev_Desc": "ActiveAttackSpeed",
         "id": 10073,
         "alias": "Contents.Stat.Name.ActiveAttackSpeed",
-        "text": "Active Attack Speed"
+        "text": "Technique Attack Speed"
     },
     "10074": {
         "deprecated": false,
         "Dev_Desc": "SkillDamage",
         "id": 10074,
         "alias": "Contents.Stat.Name.SkillDamage",
-        "text": "Skill Damage"
+        "text": "Amplified Technique Damage"
     },
     "10075": {
         "deprecated": false,
         "Dev_Desc": "ReduceSkillDamage",
         "id": 10075,
         "alias": "Contents.Stat.Name.ReduceSkillDamage",
-        "text": "Reduce Skill Damage"
+        "text": "Technique Damage Resist"
     },
     "10076": {
         "deprecated": false,
         "Dev_Desc": "CutPartsDamageRate",
         "id": 10076,
         "alias": "Contents.Stat.Name.CutPartsDamageRate",
-        "text": "Boss Cut Damage Rate"
+        "text": "Amplified Boss Parts Damage"
     },
     "10077": {
         "deprecated": false,
         "Dev_Desc": "StrikePartsDamageRate",
         "id": 10077,
         "alias": "Contents.Stat.Name.StrikePartsDamageRate",
-        "text": "Boss Strike Damage Rate"
+        "text": "Amplified Boss Hit Damage"
     },
     "10078": {
         "deprecated": false,
         "Dev_Desc": "ControlHPDamageRate",
         "id": 10078,
         "alias": "Contents.Stat.Name.ControlHPDamageRate",
-        "text": "Boss Control HP Damage Rate"
+        "text": "Amplified Boss CC Damage"
     },
     "10079": {
         "deprecated": false,
         "Dev_Desc": "DamageRate",
         "id": 10079,
         "alias": "Contents.Stat.Name.DamageRate",
-        "text": "Damage Rate"
+        "text": "Amplified Outgoing Damage"
     },
     "10080": {
         "deprecated": false,
         "Dev_Desc": "ReduceTakenDamageRate",
         "id": 10080,
         "alias": "Contents.Stat.Name.ReduceTakenDamageRate",
-        "text": "Reduce Taken Damage Rate"
+        "text": "Incoming Damage Down"
     },
     "10081": {
         "deprecated": false,
         "Dev_Desc": "HealRate",
         "id": 10081,
         "alias": "Contents.Stat.Name.HealRate",
-        "text": "Heal Rate"
+        "text": "Amplified Outgoing Heal"
     },
     "10082": {
         "deprecated": false,
         "Dev_Desc": "TakenHealRate",
         "id": 10082,
         "alias": "Contents.Stat.Name.TakenHealRate",
-        "text": "Taken Heal Rate"
+        "text": "Amplified Incoming Heal"
     },
     "10083": {
         "deprecated": false,
@@ -585,413 +585,413 @@
         "Dev_Desc": "Blockpenetration",
         "id": 10084,
         "alias": "Contents.Stat.Name.Blockpenetration",
-        "text": "Block penetration"
+        "text": "Block Piercing"
     },
     "10085": {
         "deprecated": false,
         "Dev_Desc": "ParryRate",
         "id": 10085,
         "alias": "Contents.Stat.Name.ParryRate",
-        "text": "Parry Rate"
+        "text": "Parry Chance"
     },
     "10086": {
         "deprecated": false,
         "Dev_Desc": "ParryResistanceRate",
         "id": 10086,
         "alias": "Contents.Stat.Name.ParryResistanceRate",
-        "text": "Parry Resistance Rate"
+        "text": "Parry Resist"
     },
     "10087": {
         "deprecated": false,
         "Dev_Desc": "SoulRate",
         "id": 10087,
         "alias": "Contents.Stat.Name.SoulRate",
-        "text": "Soul Rate"
+        "text": "Bonus Soul Chance"
     },
     "10088": {
         "deprecated": false,
         "Dev_Desc": "SoulResistanceRate",
         "id": 10088,
         "alias": "Contents.Stat.Name.SoulResistanceRate",
-        "text": "Soul Resistance Rate"
+        "text": "Soul Resist"
     },
     "10089": {
         "deprecated": false,
         "Dev_Desc": "IncreaseSoulRate",
         "id": 10089,
         "alias": "Contents.Stat.Name.IncreaseSoulRate",
-        "text": "Increase Soul Rate"
+        "text": "Amplified Soul Chance"
     },
     "10090": {
         "deprecated": false,
         "Dev_Desc": "ReduceDamageRateMiss",
         "id": 10090,
         "alias": "Contents.Stat.Name.ReduceDamageRateMiss",
-        "text": "Reduce Damage Rate Miss"
+        "text": "Evaded Damage Down"
     },
     "10091": {
         "deprecated": false,
         "Dev_Desc": "ReduceDamageRateBlock",
         "id": 10091,
         "alias": "Contents.Stat.Name.ReduceDamageRateBlock",
-        "text": "Reduce Damage Rate Block"
+        "text": "Blocked Damage Down"
     },
     "10092": {
         "deprecated": false,
         "Dev_Desc": "ReduceDamageRateParry",
         "id": 10092,
         "alias": "Contents.Stat.Name.ReduceDamageRateParry",
-        "text": "Reduce Damage Rate Parry"
+        "text": "Parried Damage Down"
     },
     "10093": {
         "deprecated": false,
         "Dev_Desc": "Unyieldingness",
         "id": 10093,
         "alias": "Contents.Stat.Name.Unyieldingness",
-        "text": "Unyieldingness"
+        "text": "Invincibility"
     },
     "10094": {
         "deprecated": false,
         "Dev_Desc": "CentralAttack",
         "id": 10094,
         "alias": "Contents.Stat.Name.CentralAttack",
-        "text": "Central Attack"
+        "text": "Concentrated Attack"
     },
     "10095": {
         "deprecated": false,
         "Dev_Desc": "CentralAttackResistance",
         "id": 10095,
         "alias": "Contents.Stat.Name.CentralAttackResistance",
-        "text": "Central Attack Resistance"
+        "text": "Concentrated Attack Resist"
     },
     "10096": {
         "deprecated": false,
         "Dev_Desc": "ShortPhysicalDefenceProbability",
         "id": 10096,
         "alias": "Contents.Stat.Name.ShortPhysicalDefenceProbability",
-        "text": "Melee Defence Probability"
+        "text": "Certain Melee Defense"
     },
     "10097": {
         "deprecated": false,
         "Dev_Desc": "LongPhysicalDefenceProbability",
         "id": 10097,
         "alias": "Contents.Stat.Name.LongPhysicalDefenceProbability",
-        "text": "Ranged Defence Probability"
+        "text": "Certain Ranged Defense"
     },
     "10098": {
         "deprecated": false,
         "Dev_Desc": "ForceDefenceProbability",
         "id": 10098,
         "alias": "Contents.Stat.Name.ForceDefenceProbability",
-        "text": "Force Defence Probability"
+        "text": "Certain Force Defense"
     },
     "10099": {
         "deprecated": false,
         "Dev_Desc": "ShortPhysicalPenetrationProbability",
         "id": 10099,
         "alias": "Contents.Stat.Name.ShortPhysicalPenetrationProbability",
-        "text": "Melee Penetration Probability"
+        "text": "Certain Melee Piercing"
     },
     "10100": {
         "deprecated": false,
         "Dev_Desc": "LongPhysicalPenetrationProbability",
         "id": 10100,
         "alias": "Contents.Stat.Name.LongPhysicalPenetrationProbability",
-        "text": "Ranged Penetration Probability"
+        "text": "Certain Ranged Piercing"
     },
     "10101": {
         "deprecated": false,
         "Dev_Desc": "ForcePenetrationProbability",
         "id": 10101,
         "alias": "Contents.Stat.Name.ForcePenetrationProbability",
-        "text": "Force Penetration Probability"
+        "text": "Certain Force Piercing"
     },
     "10102": {
         "deprecated": false,
         "Dev_Desc": "ShortPhysicalHitProbability",
         "id": 10102,
         "alias": "Contents.Stat.Name.ShortPhysicalHitProbability",
-        "text": "Melee Hit Probability"
+        "text": "Certain Melee Accuracy"
     },
     "10103": {
         "deprecated": false,
         "Dev_Desc": "LongPhysicalHitProbability",
         "id": 10103,
         "alias": "Contents.Stat.Name.LongPhysicalHitProbability",
-        "text": "Ranged Hit Probability"
+        "text": "Certain Ranged Accuracy"
     },
     "10104": {
         "deprecated": false,
         "Dev_Desc": "ForceHitProbability",
         "id": 10104,
         "alias": "Contents.Stat.Name.ForceHitProbability",
-        "text": "Force Hit Probability"
+        "text": "Certain Force Accuracy"
     },
     "10105": {
         "deprecated": false,
         "Dev_Desc": "ShortPhysicalEvasionProbability",
         "id": 10105,
         "alias": "Contents.Stat.Name.ShortPhysicalEvasionProbability",
-        "text": "Melee Evasion Probability"
+        "text": "Certain Melee Evasion"
     },
     "10106": {
         "deprecated": false,
         "Dev_Desc": "LongPhysicalEvasionProbability",
         "id": 10106,
         "alias": "Contents.Stat.Name.LongPhysicalEvasionProbability",
-        "text": "Ranged Evasion Probability"
+        "text": "Certain Ranged Evasion"
     },
     "10107": {
         "deprecated": false,
         "Dev_Desc": "ForceEvasionProbability",
         "id": 10107,
         "alias": "Contents.Stat.Name.ForceEvasionProbability",
-        "text": "Force Evasion Probability"
+        "text": "Certain Force Evasion"
     },
     "10108": {
         "deprecated": false,
         "Dev_Desc": "ControlAttack",
         "id": 10108,
         "alias": "Contents.Stat.Name.ControlAttack",
-        "text": "Control Attack"
+        "text": "CC Master"
     },
     "10109": {
         "deprecated": false,
         "Dev_Desc": "ControlDefence",
         "id": 10109,
         "alias": "Contents.Stat.Name.ControlDefence",
-        "text": "Control Defence"
+        "text": "CC Defense"
     },
     "10110": {
         "deprecated": false,
         "Dev_Desc": "ControlHitRate",
         "id": 10110,
         "alias": "Contents.Stat.Name.ControlHitRate",
-        "text": "Control Hit Rate"
+        "text": "CC Accuracy"
     },
     "10111": {
         "deprecated": false,
         "Dev_Desc": "ControlResistanceRate",
         "id": 10111,
         "alias": "Contents.Stat.Name.ControlResistanceRate",
-        "text": "Control Resistance Rate"
+        "text": "CC Resist"
     },
     "10112": {
         "deprecated": false,
         "Dev_Desc": "TauntHitRate",
         "id": 10112,
         "alias": "Contents.Stat.Name.TauntHitRate",
-        "text": "Taunt Hit Rate"
+        "text": "Provoke Accuracy"
     },
     "10113": {
         "deprecated": false,
         "Dev_Desc": "TauntResistanceRate",
         "id": 10113,
         "alias": "Contents.Stat.Name.TauntResistanceRate",
-        "text": "Taunt Resistance Rate"
+        "text": "Provoke Resist"
     },
     "10114": {
         "deprecated": false,
         "Dev_Desc": "SlowdownHitRate",
         "id": 10114,
         "alias": "Contents.Stat.Name.SlowdownHitRate",
-        "text": "Slowdown Hit Rate"
+        "text": "Slow Accuracy"
     },
     "10115": {
         "deprecated": false,
         "Dev_Desc": "SlowdownResistanceRate",
         "id": 10115,
         "alias": "Contents.Stat.Name.SlowdownResistanceRate",
-        "text": "Slowdown Resistance Rate"
+        "text": "Slow Resist"
     },
     "10116": {
         "deprecated": false,
         "Dev_Desc": "FrozenHitRate",
         "id": 10116,
         "alias": "Contents.Stat.Name.FrozenHitRate",
-        "text": "Frozen Hit Rate"
+        "text": "Freeze Accuracy"
     },
     "10117": {
         "deprecated": false,
         "Dev_Desc": "FrozenResistanceRate",
         "id": 10117,
         "alias": "Contents.Stat.Name.FrozenResistanceRate",
-        "text": "Frozen Resistance Rate"
+        "text": "Freeze Resist"
     },
     "10118": {
         "deprecated": false,
         "Dev_Desc": "FlinchHitRate",
         "id": 10118,
         "alias": "Contents.Stat.Name.FlinchHitRate",
-        "text": "Flinch Hit Rate"
+        "text": "Petrify Accuracy"
     },
     "10119": {
         "deprecated": false,
         "Dev_Desc": "FlinchResistanceRate",
         "id": 10119,
         "alias": "Contents.Stat.Name.FlinchResistanceRate",
-        "text": "Flinch Resistance Rate"
+        "text": "Petrify Resist"
     },
     "10120": {
         "deprecated": false,
         "Dev_Desc": "BurnHitRate",
         "id": 10120,
         "alias": "Contents.Stat.Name.BurnHitRate",
-        "text": "Burn Hit Rate"
+        "text": "Burn Accuracy"
     },
     "10121": {
         "deprecated": false,
         "Dev_Desc": "BurnResistanceRate",
         "id": 10121,
         "alias": "Contents.Stat.Name.BurnResistanceRate",
-        "text": "Burn Resistance Rate"
+        "text": "Burn Resist"
     },
     "10122": {
         "deprecated": false,
         "Dev_Desc": "BleedingHitRate",
         "id": 10122,
         "alias": "Contents.Stat.Name.BleedingHitRate",
-        "text": "Bleeding Hit Rate"
+        "text": "Bleed Accuracy"
     },
     "10123": {
         "deprecated": false,
         "Dev_Desc": "BleedingResistanceRate",
         "id": 10123,
         "alias": "Contents.Stat.Name.BleedingResistanceRate",
-        "text": "Bleeding Resistance Rate"
+        "text": "Bleed Resist"
     },
     "10124": {
         "deprecated": false,
         "Dev_Desc": "MovementSpeed",
         "id": 10124,
         "alias": "Contents.Stat.Name.MovementSpeed",
-        "text": "Movement Speed"
+        "text": "Move Speed Rate"
     },
     "10125": {
         "deprecated": false,
         "Dev_Desc": "SwimSpeed",
         "id": 10125,
         "alias": "Contents.Stat.Name.SwimSpeed",
-        "text": "Swim Speed"
+        "text": "Swim Speed Rate"
     },
     "10126": {
         "deprecated": false,
         "Dev_Desc": "WalkSpeed",
         "id": 10126,
         "alias": "Contents.Stat.Name.WalkSpeed",
-        "text": "Walk Speed"
+        "text": "Walking Speed Rate"
     },
     "10127": {
         "deprecated": false,
         "Dev_Desc": "WeightMax",
         "id": 10127,
         "alias": "Contents.Stat.Name.WeightMax",
-        "text": "Weight Max"
+        "text": "Max Weight"
     },
     "10128": {
         "deprecated": false,
         "Dev_Desc": "RateGold",
         "id": 10128,
         "alias": "Contents.Stat.Name.RateGold",
-        "text": "Rate Gold"
+        "text": "Gold Bonus"
     },
     "10129": {
         "deprecated": false,
         "Dev_Desc": "RateExp",
         "id": 10129,
         "alias": "Contents.Stat.Name.RateExp",
-        "text": "Rate Exp"
+        "text": "EXP Bonus"
     },
     "10130": {
         "deprecated": false,
         "Dev_Desc": "ReduceSEConsumption",
         "id": 10130,
         "alias": "Contents.Stat.Name.ReduceSEConsumption",
-        "text": "Reduce SE Consumption"
+        "text": "Soul Energy Cost Down"
     },
     "10131": {
         "deprecated": false,
         "Dev_Desc": "SEFillingAmount",
         "id": 10131,
         "alias": "Contents.Stat.Name.SEFillingAmount",
-        "text": "SE Filling Amount"
+        "text": "Soul Energy Charge Up"
     },
     "10132": {
         "deprecated": false,
         "Dev_Desc": "ReduceHealRate",
         "id": 10132,
         "alias": "Contents.Stat.Name.ReduceHealRate",
-        "text": "Reduce Heal Rate"
+        "text": "Outgoing Heal Down"
     },
     "10133": {
         "deprecated": false,
         "Dev_Desc": "ReduceTakenHealRate",
         "id": 10133,
         "alias": "Contents.Stat.Name.ReduceTakenHealRate",
-        "text": "Reduce Taken Heal Rate"
+        "text": "Incoming Heal Down"
     },
     "10134": {
         "deprecated": false,
         "Dev_Desc": "ReduceDamageRate",
         "id": 10134,
         "alias": "Contents.Stat.Name.ReduceDamageRate",
-        "text": "Reduce Damage Rate"
+        "text": "Outgoing Damage Down"
     },
     "10135": {
         "deprecated": false,
         "Dev_Desc": "TakenDamageRate",
         "id": 10135,
         "alias": "Contents.Stat.Name.TakenDamageRate",
-        "text": "Taken Damage Rate"
+        "text": "Amplified Incoming Damage"
     },
     "10136": {
         "deprecated": false,
         "Dev_Desc": "ReduceNormalAttackSpeed",
         "id": 10136,
         "alias": "Contents.Stat.Name.ReduceNormalAttackSpeed",
-        "text": "Reduce Normal Attack Speed"
+        "text": "Normal Attack Speed Down"
     },
     "10137": {
         "deprecated": false,
         "Dev_Desc": "ReduceActiveAttackSpeed",
         "id": 10137,
         "alias": "Contents.Stat.Name.ReduceActiveAttackSpeed",
-        "text": "Reduce Active Attack Speed"
+        "text": "Technique Attack Speed Down"
     },
     "10138": {
         "deprecated": false,
         "Dev_Desc": "ReduceHpPotionRecovery",
         "id": 10138,
         "alias": "Contents.Stat.Name.ReduceHpPotionRecovery",
-        "text": "Reduce HP Potion Recovery"
+        "text": "HP Tonic Down"
     },
     "10139": {
         "deprecated": false,
         "Dev_Desc": "ReduceHpPotionRecoveryRate",
         "id": 10139,
         "alias": "Contents.Stat.Name.ReduceHpPotionRecoveryRate",
-        "text": "Reduce HP Potion Recovery Rate"
+        "text": "HP Tonic Rate Down"
     },
     "10140": {
         "deprecated": false,
         "Dev_Desc": "ReduceMovementSpeed",
         "id": 10140,
         "alias": "Contents.Stat.Name.ReduceMovementSpeed",
-        "text": "Reduce Movement Speed"
+        "text": "Move Speed Down"
     },
     "10141": {
         "deprecated": false,
         "Dev_Desc": "ReduceSwimSpeed",
         "id": 10141,
         "alias": "Contents.Stat.Name.ReduceSwimSpeed",
-        "text": "Reduce Swim Speed"
+        "text": "Swim Speed Down"
     },
     "10142": {
         "deprecated": false,
         "Dev_Desc": "ReduceWalkSpeed",
         "id": 10142,
         "alias": "Contents.Stat.Name.ReduceWalkSpeed",
-        "text": "Reduce Walk Speed"
+        "text": "Walk Speed Down"
     },
     "10143": {
         "deprecated": false,
@@ -1005,28 +1005,28 @@
         "Dev_Desc": "PvPAttackReduction",
         "id": 10144,
         "alias": "Contents.Stat.Name.PvPAttackReduction",
-        "text": "PvP Attack Reduction"
+        "text": "PvP Protection"
     },
     "10145": {
         "deprecated": false,
         "Dev_Desc": "PvPDefence",
         "id": 10145,
         "alias": "Contents.Stat.Name.PvPDefence",
-        "text": "PvP Defence"
+        "text": "PvP Defense"
     },
     "10146": {
         "deprecated": false,
         "Dev_Desc": "PvPPenetration",
         "id": 10146,
         "alias": "Contents.Stat.Name.PvPPenetration",
-        "text": "PvP Penetration"
+        "text": "PvP Piercing"
     },
     "10147": {
         "deprecated": false,
         "Dev_Desc": "PvPHit",
         "id": 10147,
         "alias": "Contents.Stat.Name.PvPHit",
-        "text": "PvP Hit"
+        "text": "PvP Accuracy"
     },
     "10148": {
         "deprecated": false,
@@ -1047,7 +1047,7 @@
         "Dev_Desc": "PvPCriticalResistanceRate",
         "id": 10150,
         "alias": "Contents.Stat.Name.PvPCriticalResistanceRate",
-        "text": "PvP Critical Resistance Rate"
+        "text": "PvP Critical Resist"
     },
     "10151": {
         "deprecated": false,
@@ -1061,28 +1061,28 @@
         "Dev_Desc": "PvEAttackReduction",
         "id": 10152,
         "alias": "Contents.Stat.Name.PvEAttackReduction",
-        "text": "PvE Attack Reduction"
+        "text": "PvE Protection"
     },
     "10153": {
         "deprecated": false,
         "Dev_Desc": "PvEDefence",
         "id": 10153,
         "alias": "Contents.Stat.Name.PvEDefence",
-        "text": "PvE Defence"
+        "text": "PvE Defense"
     },
     "10154": {
         "deprecated": false,
         "Dev_Desc": "PvEPenetration",
         "id": 10154,
         "alias": "Contents.Stat.Name.PvEPenetration",
-        "text": "PvE Penetration"
+        "text": "PvE Piercing"
     },
     "10155": {
         "deprecated": false,
         "Dev_Desc": "PvEHit",
         "id": 10155,
         "alias": "Contents.Stat.Name.PvEHit",
-        "text": "PvE Hit"
+        "text": "PvE Accuracy"
     },
     "10156": {
         "deprecated": false,
@@ -1103,7 +1103,7 @@
         "Dev_Desc": "PvECriticalResistanceRate",
         "id": 10158,
         "alias": "Contents.Stat.Name.PvECriticalResistanceRate",
-        "text": "PvE Critical Resistance Rate"
+        "text": "PvE Critical Resist"
     },
     "10159": {
         "deprecated": false,
@@ -1117,28 +1117,28 @@
         "Dev_Desc": "BossAttackReduction",
         "id": 10160,
         "alias": "Contents.Stat.Name.BossAttackReduction",
-        "text": "Boss Attack Reduction"
+        "text": "Boss Protection"
     },
     "10161": {
         "deprecated": false,
         "Dev_Desc": "BossDefence",
         "id": 10161,
         "alias": "Contents.Stat.Name.BossDefence",
-        "text": "Boss Defence"
+        "text": "Boss Defense"
     },
     "10162": {
         "deprecated": false,
         "Dev_Desc": "BossPenetration",
         "id": 10162,
         "alias": "Contents.Stat.Name.BossPenetration",
-        "text": "Boss Penetration"
+        "text": "Boss Piercing"
     },
     "10163": {
         "deprecated": false,
         "Dev_Desc": "BossHit",
         "id": 10163,
         "alias": "Contents.Stat.Name.BossHit",
-        "text": "Boss Hit"
+        "text": "Boss Accuracy"
     },
     "10164": {
         "deprecated": false,
@@ -1159,210 +1159,210 @@
         "Dev_Desc": "BossCriticalResistanceRate",
         "id": 10166,
         "alias": "Contents.Stat.Name.BossCriticalResistanceRate",
-        "text": "Boss Critical Resistance Rate"
+        "text": "Boss Critical Resist"
     },
     "10167": {
         "deprecated": false,
         "Dev_Desc": "FireDamage",
         "id": 10167,
         "alias": "Contents.Stat.Name.FireDamage",
-        "text": "Fire Damage"
+        "text": "Fire Attack"
     },
     "10168": {
         "deprecated": false,
         "Dev_Desc": "WaterDamage",
         "id": 10168,
         "alias": "Contents.Stat.Name.WaterDamage",
-        "text": "Water Damage"
+        "text": "Water Attack"
     },
     "10169": {
         "deprecated": false,
         "Dev_Desc": "WoodDamage",
         "id": 10169,
         "alias": "Contents.Stat.Name.WoodDamage",
-        "text": "Wood Damage"
+        "text": "Wood Attack"
     },
     "10170": {
         "deprecated": false,
         "Dev_Desc": "IronDamage",
         "id": 10170,
         "alias": "Contents.Stat.Name.IronDamage",
-        "text": "Iron Damage"
+        "text": "Metal Attack"
     },
     "10171": {
         "deprecated": false,
         "Dev_Desc": "WindDamage",
         "id": 10171,
         "alias": "Contents.Stat.Name.WindDamage",
-        "text": "Wind Damage"
+        "text": "Wind Attack"
     },
     "10172": {
         "deprecated": false,
         "Dev_Desc": "LightningDamage",
         "id": 10172,
         "alias": "Contents.Stat.Name.LightningDamage",
-        "text": "Lightning Damage"
+        "text": "Lightning Attack"
     },
     "10173": {
         "deprecated": false,
         "Dev_Desc": "LightDamage",
         "id": 10173,
         "alias": "Contents.Stat.Name.LightDamage",
-        "text": "Light Damage"
+        "text": "Light Attack"
     },
     "10174": {
         "deprecated": false,
         "Dev_Desc": "DarkDamage",
         "id": 10174,
         "alias": "Contents.Stat.Name.DarkDamage",
-        "text": "Dark Damage"
+        "text": "Darkness Attack"
     },
     "10175": {
         "deprecated": false,
         "Dev_Desc": "ElementDamage",
         "id": 10175,
         "alias": "Contents.Stat.Name.ElementDamage",
-        "text": "Element Damage"
+        "text": "Type Attack"
     },
     "10176": {
         "deprecated": false,
         "Dev_Desc": "FireDamageRate",
         "id": 10176,
         "alias": "Contents.Stat.Name.FireDamageRate",
-        "text": "Fire Damage Rate"
+        "text": "Amplified Fire Damage"
     },
     "10177": {
         "deprecated": false,
         "Dev_Desc": "WaterDamageRate",
         "id": 10177,
         "alias": "Contents.Stat.Name.WaterDamageRate",
-        "text": "Water Damage Rate"
+        "text": "Amplified Water Damage"
     },
     "10178": {
         "deprecated": false,
         "Dev_Desc": "WoodDamageRate",
         "id": 10178,
         "alias": "Contents.Stat.Name.WoodDamageRate",
-        "text": "Wood Damage Rate"
+        "text": "Amplified Wood Damage"
     },
     "10179": {
         "deprecated": false,
         "Dev_Desc": "IronDamageRate",
         "id": 10179,
         "alias": "Contents.Stat.Name.IronDamageRate",
-        "text": "Iron Damage Rate"
+        "text": "Amplified Metal Damage"
     },
     "10180": {
         "deprecated": false,
         "Dev_Desc": "WindDamageRate",
         "id": 10180,
         "alias": "Contents.Stat.Name.WindDamageRate",
-        "text": "Wind Damage Rate"
+        "text": "Amplified Wind Damage"
     },
     "10181": {
         "deprecated": false,
         "Dev_Desc": "LightningDamageRate",
         "id": 10181,
         "alias": "Contents.Stat.Name.LightningDamageRate",
-        "text": "Lightning Damage Rate"
+        "text": "Amplified Lightning Damage"
     },
     "10182": {
         "deprecated": false,
         "Dev_Desc": "LightDamageRate",
         "id": 10182,
         "alias": "Contents.Stat.Name.LightDamageRate",
-        "text": "Light Damage Rate"
+        "text": "Amplified Light Damage"
     },
     "10183": {
         "deprecated": false,
         "Dev_Desc": "DarkDamageRate",
         "id": 10183,
         "alias": "Contents.Stat.Name.DarkDamageRate",
-        "text": "Dark Damage Rate"
+        "text": "Amplified Darkness Damage"
     },
     "10184": {
         "deprecated": false,
         "Dev_Desc": "ElementDamageRate",
         "id": 10184,
         "alias": "Contents.Stat.Name.ElementDamageRate",
-        "text": "Element Damage Rate"
+        "text": "Amplified Type Damage"
     },
     "10185": {
         "deprecated": false,
         "Dev_Desc": "FireDamageToleranceRate",
         "id": 10185,
         "alias": "Contents.Stat.Name.FireDamageToleranceRate",
-        "text": "Fire Damage Tolerance Rate"
+        "text": "Fire Damage Resist"
     },
     "10186": {
         "deprecated": false,
         "Dev_Desc": "WaterDamageToleranceRate",
         "id": 10186,
         "alias": "Contents.Stat.Name.WaterDamageToleranceRate",
-        "text": "Water Damage Tolerance Rate"
+        "text": "Water Damage Resist"
     },
     "10187": {
         "deprecated": false,
         "Dev_Desc": "WoodDamageToleranceRate",
         "id": 10187,
         "alias": "Contents.Stat.Name.WoodDamageToleranceRate",
-        "text": "Wood Damage Tolerance Rate"
+        "text": "Wood Damage Resist"
     },
     "10188": {
         "deprecated": false,
         "Dev_Desc": "IronDamageToleranceRate",
         "id": 10188,
         "alias": "Contents.Stat.Name.IronDamageToleranceRate",
-        "text": "Iron Damage Tolerance Rate"
+        "text": "Metal Damage Resist"
     },
     "10189": {
         "deprecated": false,
         "Dev_Desc": "WindDamageToleranceRate",
         "id": 10189,
         "alias": "Contents.Stat.Name.WindDamageToleranceRate",
-        "text": "Wind Damage Tolerance Rate"
+        "text": "Wind Damage Resist"
     },
     "10190": {
         "deprecated": false,
         "Dev_Desc": "LightningDamageToleranceRate",
         "id": 10190,
         "alias": "Contents.Stat.Name.LightningDamageToleranceRate",
-        "text": "Lightning Damage Tolerance Rate"
+        "text": "Lightning Damage Resist"
     },
     "10191": {
         "deprecated": false,
         "Dev_Desc": "LightDamageToleranceRate",
         "id": 10191,
         "alias": "Contents.Stat.Name.LightDamageToleranceRate",
-        "text": "Light Damage Tolerance Rate"
+        "text": "Light Damage Resist"
     },
     "10192": {
         "deprecated": false,
         "Dev_Desc": "DarkDamageToleranceRate",
         "id": 10192,
         "alias": "Contents.Stat.Name.DarkDamageToleranceRate",
-        "text": "Dark Damage Tolerance Rate"
+        "text": "Darkness Damage Resist"
     },
     "10193": {
         "deprecated": false,
         "Dev_Desc": "ElementDamageToleranceRate",
         "id": 10193,
         "alias": "Contents.Stat.Name.ElementDamageToleranceRate",
-        "text": "Element Damage Tolerance Rate"
+        "text": "Type Damage Resist"
     },
     "10194": {
         "deprecated": false,
         "Dev_Desc": "ElementDamageValue",
         "id": 10194,
         "alias": "Contents.Stat.Name.ElementDamageValue",
-        "text": "Soul Damage"
+        "text": "Soul Chemistry"
     },
     "10195": {
         "deprecated": false,
         "Dev_Desc": "ElementDamageValueRate",
         "id": 10195,
         "alias": "Contents.Stat.Name.ElementDamageValueRate",
-        "text": "Element Damage Rate"
+        "text": "Bonus Soul Chemistry"
     },
     "10196": {
         "deprecated": false,

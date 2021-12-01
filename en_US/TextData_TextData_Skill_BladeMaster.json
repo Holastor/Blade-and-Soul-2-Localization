@@ -4,189 +4,189 @@
         "Dev_Desc": "검사_막기명중률버프",
         "id": 60010000,
         "alias": "Contents.Effect.Name.LongSword.110112",
-        "text": "block"
+        "text": "Block"
     },
     "60010001": {
         "deprecated": false,
         "Dev_Desc": "검사_막기명중률버프",
         "id": 60010001,
         "alias": "Contents.Effect.Desc.LongSword.110112",
-        "text": "Increase melee hit"
+        "text": "Increases Melee Accuracy"
     },
     "60010002": {
         "deprecated": false,
         "Dev_Desc": "검사_막기명중률버프",
         "id": 60010002,
         "alias": "Contents.Effect.Option.LongSword.110112",
-        "text": "+5 melee hit"
+        "text": "Melee Accuracy +5"
     },
     "60010003": {
         "deprecated": false,
         "Dev_Desc": "검사_어검징표",
         "id": 60010003,
         "alias": "Contents.Effect.Name.LongSword.111112",
-        "text": "Sword Token"
+        "text": "Soul Stab"
     },
     "60010004": {
         "deprecated": false,
         "Dev_Desc": "검사_어검징표",
         "id": 60010004,
         "alias": "Contents.Effect.Desc.LongSword.111112",
-        "text": "Increased damage taken"
+        "text": "Increases Incoming Damage"
     },
     "60010005": {
         "deprecated": false,
         "Dev_Desc": "검사_어검징표",
         "id": 60010005,
         "alias": "Contents.Effect.Option.LongSword.111112",
-        "text": "+10% damage taken amplification"
+        "text": "Incoming Damage +10%"
     },
     "60010006": {
         "deprecated": false,
         "Dev_Desc": "일섬",
         "id": 60010006,
         "alias": "Contents.Skill.Name.LongSword.1011",
-        "text": "Il Island"
+        "text": "First Step"
     },
     "60010010": {
         "deprecated": false,
         "Dev_Desc": "일섬",
         "id": 60010010,
         "alias": "Contents.Skill.Desc.LongSword.1011",
-        "text": "Moves fast and deals damage in a row.\nThere is a chance to inflict \"stiffness\" effect."
+        "text": "Rapidly moves to deal damage consecutively.\nHas a chance to inflict Petrify."
     },
     "60010016": {
         "deprecated": false,
         "Dev_Desc": "일섬",
         "id": 60010016,
         "alias": "Contents.Skill.useEffect.LongSword.1011",
-        "text": "stiffness"
+        "text": "Petrify"
     },
     "60010017": {
         "deprecated": false,
         "Dev_Desc": "일섬_증폭",
         "id": 60010017,
         "alias": "Contents.Skill.Acquire.LongSword.1013",
-        "text": "Applies additional damage based on strength"
+        "text": "Extra Block Piercing"
     },
     "60010018": {
         "deprecated": false,
         "Dev_Desc": "일섬_극한",
         "id": 60010018,
         "alias": "Contents.Skill.Acquire.LongSword.1015",
-        "text": "Has a chance to apply blocking penetration"
+        "text": "Consecutive use on every hit"
     },
     "60010019": {
         "deprecated": false,
         "Dev_Desc": "일섬_돌파",
         "id": 60010019,
         "alias": "Contents.Skill.Acquire.LongSword.1016",
-        "text": "Increase the range and damage of \"Sword Mark\" target"
+        "text": "Increases the range and damage on an enemy afflicted with Soul Stab."
     },
     "60010020": {
         "deprecated": false,
         "Dev_Desc": "찔러베기",
         "id": 60010020,
         "alias": "Contents.Skill.Name.LongSword.1051",
-        "text": "Slash"
+        "text": "Dashing Slash"
     },
     "60010024": {
         "deprecated": false,
         "Dev_Desc": "찔러베기",
         "id": 60010024,
         "alias": "Contents.Skill.Desc.LongSword.1051",
-        "text": "Quickly stabs and slashes, dealing damage in a row."
+        "text": "Quickly stabs and slashes to deal multiple attacks."
     },
     "60010031": {
         "deprecated": false,
         "Dev_Desc": "찔러베기_증폭",
         "id": 60010031,
         "alias": "Contents.Skill.Acquire.LongSword.1051_2",
-        "text": "Strength consumption -1"
+        "text": "Damage ▲"
     },
     "60010032": {
         "deprecated": false,
         "Dev_Desc": "찔러베기_극한",
         "id": 60010032,
         "alias": "Contents.Skill.Acquire.LongSword.1051_3",
-        "text": "Cooldown -2 seconds"
+        "text": "Cooldown ▼"
     },
     "60010033": {
         "deprecated": false,
         "Dev_Desc": "찔러베기_돌파",
         "id": 60010033,
         "alias": "Contents.Skill.Acquire.LongSword.1051_4",
-        "text": "Apply additional damage based on strength"
+        "text": "Focus cost ▼"
     },
     "60010034": {
         "deprecated": false,
         "Dev_Desc": "찌르기",
         "id": 60010034,
         "alias": "Contents.Skill.Name.LongSword.1061",
-        "text": "Stick"
+        "text": "Stab"
     },
     "60010038": {
         "deprecated": false,
         "Dev_Desc": "찌르기",
         "id": 60010038,
         "alias": "Contents.Skill.Desc.LongSword.1061",
-        "text": "Pricks the enemy and inflicts damage.\nCan be used in conjunction with an attack without a hit."
+        "text": "Stabs an enemy to deal damage.\nCan be used in a combo attack after an attack technique."
     },
     "60010044": {
         "deprecated": false,
         "Dev_Desc": "찌르기",
         "id": 60010044,
         "alias": "Contents.Skill.Require.LongSword.1061",
-        "text": "After using no attack"
+        "text": "After using an offensive technique"
     },
     "60010045": {
         "deprecated": false,
         "Dev_Desc": "찌르기_증폭",
         "id": 60010045,
         "alias": "Contents.Skill.Acquire.LongSword.1062",
-        "text": "Strength consumption -2"
+        "text": "Focus cost ▼"
     },
     "60010046": {
         "deprecated": false,
         "Dev_Desc": "찌르기_극한",
         "id": 60010046,
         "alias": "Contents.Skill.Acquire.LongSword.1063",
-        "text": "Changed to double stab"
+        "text": "Switches to 2 Stabs"
     },
     "60010047": {
         "deprecated": false,
         "Dev_Desc": "찌르기_돌파",
         "id": 60010047,
         "alias": "Contents.Skill.Acquire.LongSword.1065",
-        "text": "Changed to 3 stabs"
+        "text": "Switches to 3 Stabs"
     },
     "60010048": {
         "deprecated": false,
         "Dev_Desc": "올려베기",
         "id": 60010048,
         "alias": "Contents.Skill.Name.LongSword.1021",
-        "text": "cut up"
+        "text": "Upward Thrust"
     },
     "60010052": {
         "deprecated": false,
         "Dev_Desc": "올려베기",
         "id": 60010052,
         "alias": "Contents.Skill.Desc.LongSword.1021",
-        "text": "Attacks with a strong upward swing of the sword.\nThere is a chance to inflict the \"air\" effect.\nAfter falling from the air, it becomes \"stun\"."
+        "text": "Slashes upward to deal damage\nHas a chance to send the enemy airborne.\nInflicts Stun on impact with the ground."
     },
     "60010058": {
         "deprecated": false,
         "Dev_Desc": "올려베기",
         "id": 60010058,
         "alias": "Contents.Skill.useEffect.LongSword.1021",
-        "text": "air, stunned"
+        "text": "Airborne, Stun"
     },
     "60010059": {
         "deprecated": false,
         "Dev_Desc": "올려베기_증폭",
         "id": 60010059,
         "alias": "Contents.Skill.Acquire.LongSword.1022",
-        "text": "Cooldown -2 seconds"
+        "text": "Cooldown ▼"
     },
     "60010060": {
         "deprecated": false,
@@ -207,245 +207,245 @@
         "Dev_Desc": "뛰어베기",
         "id": 60010062,
         "alias": "Contents.Skill.Name.LongSword.1056",
-        "text": "jump"
+        "text": "Jumping Slash"
     },
     "60010066": {
         "deprecated": false,
         "Dev_Desc": "뛰어베기",
         "id": 60010066,
         "alias": "Contents.Skill.Desc.LongSword.1056",
-        "text": "Jumps into an enemy, dealing damage.\nThere is a chance to inflict \"stiffness\" effect."
+        "text": "Jumps onto an enemy to deal damage.\nHas a chance to inflict Petrify."
     },
     "60010072": {
         "deprecated": false,
         "Dev_Desc": "뛰어베기",
         "id": 60010072,
         "alias": "Contents.Skill.useEffect.LongSword.1056",
-        "text": "stiffness"
+        "text": "Petrify"
     },
     "60010073": {
         "deprecated": false,
         "Dev_Desc": "뛰어베기_증폭",
         "id": 60010073,
         "alias": "Contents.Skill.Acquire.LongSword.1056_2",
-        "text": "Strength consumption -1"
+        "text": "Focus cost ▼"
     },
     "60010074": {
         "deprecated": false,
         "Dev_Desc": "뛰어베기_극한",
         "id": 60010074,
         "alias": "Contents.Skill.Acquire.LongSword.1056_3",
-        "text": "Damage increased"
+        "text": "Damage ▲"
     },
     "60010075": {
         "deprecated": false,
         "Dev_Desc": "뛰어베기_돌파",
         "id": 60010075,
         "alias": "Contents.Skill.Acquire.LongSword.1056_4",
-        "text": "Increase range"
+        "text": "Extends the range"
     },
     "60010076": {
         "deprecated": false,
         "Dev_Desc": "천지가르기",
         "id": 60010076,
         "alias": "Contents.Skill.Name.LongSword.1076",
-        "text": "Cut the sky"
+        "text": "World Shaker"
     },
     "60010079": {
         "deprecated": false,
         "Dev_Desc": "천지가르기",
         "id": 60010079,
         "alias": "Contents.Skill.Desc.LongSword.1076",
-        "text": "Collects and strikes with a sword, inflicting powerful damage.\nUse on targets that are in \"air\", \"stun\" status."
+        "text": "Deals powerful damage by striking down an enemy with a sword with full force.\nCan be used on an airborne or stunned enemy."
     },
     "60010084": {
         "deprecated": false,
         "Dev_Desc": "천지가르기",
         "id": 60010084,
         "alias": "Contents.Skill.Require.LongSword.1076",
-        "text": "air, stun target"
+        "text": "Airborne, Stunned"
     },
     "60010085": {
         "deprecated": false,
         "Dev_Desc": "천지가르기_증폭",
         "id": 60010085,
         "alias": "Contents.Skill.Acquire.LongSword.1076_2",
-        "text": "Applies additional damage based on strength"
+        "text": "Focus cost ▼"
     },
     "60010086": {
         "deprecated": false,
         "Dev_Desc": "천지가르기_극한",
         "id": 60010086,
         "alias": "Contents.Skill.Acquire.LongSword.1076_3",
-        "text": "+20% melee critical rate"
+        "text": "Increases Accuracy on an enemy afflicted with Soul Stab."
     },
     "60010087": {
         "deprecated": false,
         "Dev_Desc": "천지가르기_돌파",
         "id": 60010087,
         "alias": "Contents.Skill.Acquire.LongSword.1076_4",
-        "text": "+50% to Absolute Melee Accuracy on \"Sword Mark\" Target"
+        "text": "Increases Accuracy on an enemy afflicted with Soul Stab."
     },
     "60010088": {
         "deprecated": false,
         "Dev_Desc": "막기",
         "id": 60010088,
         "alias": "Contents.Skill.Name.LongSword.1101",
-        "text": "block"
+        "text": "Block"
     },
     "60010091": {
         "deprecated": false,
         "Dev_Desc": "막기",
         "id": 60010091,
         "alias": "Contents.Skill.Desc.LongSword.1101",
-        "text": "Defends attacks in front for 3 seconds.\nIf reused while blocking, a rotating slash is used."
+        "text": "Defends against attacks coming from ahead for 3 sec.\nPress once more to instantly cancel and use Spinning Slash."
     },
     "60010095": {
         "deprecated": false,
         "Dev_Desc": "막기",
         "id": 60010095,
         "alias": "Contents.Skill.useEffect.LongSword.1101",
-        "text": "defense"
+        "text": "Defense"
     },
     "60010096": {
         "deprecated": false,
         "Dev_Desc": "막기_증폭",
         "id": 60010096,
         "alias": "Contents.Skill.Acquire.LongSword.1101_2",
-        "text": "When the defense is successful, the damage of rotating slash increases"
+        "text": "Spinning Slash's damage ▲ upon a successful Block"
     },
     "60010097": {
         "deprecated": false,
         "Dev_Desc": "막기_극한",
         "id": 60010097,
         "alias": "Contents.Skill.Acquire.LongSword.1101_3",
-        "text": "Damage reduction +30% while using slash"
+        "text": "Incoming Damage ▼ while casting Spinning Slash"
     },
     "60010098": {
         "deprecated": false,
         "Dev_Desc": "막기_돌파",
         "id": 60010098,
         "alias": "Contents.Skill.Acquire.LongSword.1101_4",
-        "text": "Increase bounce chance +50%"
+        "text": "Stun Chance ▲"
     },
     "60010099": {
         "deprecated": false,
         "Dev_Desc": "어검징표",
         "id": 60010099,
         "alias": "Contents.Skill.Name.LongSword.1111",
-        "text": "Sword Mark"
+        "text": "Soul Stab"
     },
     "60010101": {
         "deprecated": false,
         "Dev_Desc": "어검징표",
         "id": 60010101,
         "alias": "Contents.Skill.Desc.LongSword.1111",
-        "text": "Puts a sword at an enemy to deal damage.\nApplies the effect of \"Sword Mark\".\nNumber of damage taken during \"Sword Mark\" increases."
+        "text": "Stabs the enemy with Spectral Blade.\nInflicts Soul Stab.\nIncreases damage while Soul Stab is effective."
     },
     "60010104": {
         "deprecated": false,
         "Dev_Desc": "어검징표",
         "id": 60010104,
         "alias": "Contents.Skill.useEffect.LongSword.1111",
-        "text": "Amplification of damage taken +10%"
+        "text": "Soul Stab"
     },
     "60010105": {
         "deprecated": false,
         "Dev_Desc": "어검징표_증",
         "id": 60010105,
         "alias": "Contents.Skill.useEffect.LongSword.1112",
-        "text": "Damage taken +10%, stun"
+        "text": "Soul Stab, Stun"
     },
     "60010107": {
         "deprecated": false,
         "Dev_Desc": "어검징표_증",
         "id": 60010107,
         "alias": "Contents.Skill.Acquire.LongSword.1112",
-        "text": "Strength consumption -5"
+        "text": "Extra Stun effect"
     },
     "60010108": {
         "deprecated": false,
         "Dev_Desc": "어검징표_극",
         "id": 60010108,
         "alias": "Contents.Skill.Acquire.LongSword.1112_3",
-        "text": "Increase range"
+        "text": "Extra Stun effect"
     },
     "60010109": {
         "deprecated": false,
         "Dev_Desc": "어검징표_돌",
         "id": 60010109,
         "alias": "Contents.Skill.Acquire.LongSword.1112_4",
-        "text": "Probability of applying \"stun\" effect"
+        "text": "Extra Stun effect"
     },
     "60010110": {
         "deprecated": false,
         "Dev_Desc": "구름베기",
         "id": 60010110,
         "alias": "Contents.Skill.Name.LongSword.1104",
-        "text": "Cloud Cleave"
+        "text": "Cloud Slash"
     },
     "60010112": {
         "deprecated": false,
         "Dev_Desc": "구름베기",
         "id": 60010112,
         "alias": "Contents.Skill.Desc.LongSword.1104",
-        "text": "Cuts up in a row and inflicts powerful damage.\nThere is a chance to inflict \"air\" effect.\nAfter falling from the air, you will be \"stunned\".\n\"in midair Used on targets in \", \"stun\" status."
+        "text": "Slashes upward in a row to deal powerful damage.\nHas a chance to inflict Airborne.\nInflicts Stun on impact with the ground.\nApplied to an airborne or stunned target."
     },
     "60010116": {
         "deprecated": false,
         "Dev_Desc": "구름베기",
         "id": 60010116,
         "alias": "Contents.Skill.Require.LongSword.1104",
-        "text": "air, stun target"
+        "text": "Airborne, Stunned"
     },
     "60010117": {
         "deprecated": false,
         "Dev_Desc": "구름베기",
         "id": 60010117,
         "alias": "Contents.Skill.useEffect.LongSword.1104",
-        "text": "air, stunned"
+        "text": "Airborne, Stun"
     },
     "60010119": {
         "deprecated": false,
         "Dev_Desc": "구름베기_증폭",
         "id": 60010119,
         "alias": "Contents.Skill.Acquire.LongSword.1104_2",
-        "text": "Cooldown -3 seconds"
+        "text": "Cooldown ▼"
     },
     "60010120": {
         "deprecated": false,
         "Dev_Desc": "구름베기_극한",
         "id": 60010120,
         "alias": "Contents.Skill.Acquire.LongSword.1104_3",
-        "text": "Damage reduction +60% while in use"
+        "text": "Cooldown ▼"
     },
     "60010121": {
         "deprecated": false,
         "Dev_Desc": "구름베기_돌파",
         "id": 60010121,
         "alias": "Contents.Skill.Acquire.LongSword.1104_4",
-        "text": "+50% to Absolute Melee Accuracy on \"Sword Mark\" Target"
+        "text": "Cooldown ▼"
     },
     "60010122": {
         "deprecated": false,
         "Dev_Desc": "하늘베기",
         "id": 60010122,
         "alias": "Contents.Skill.Name.LongSword.1041",
-        "text": "Sky Cleave"
+        "text": "Skyward Slash"
     },
     "60010123": {
         "deprecated": false,
         "Dev_Desc": "하늘베기",
         "id": 60010123,
         "alias": "Contents.Skill.Desc.LongSword.1041",
-        "text": "Approaches the enemy and attacks up to 3 enemies.\nImmune to control status while in use.\nThere is a chance to give \"air\" effect.\nAfter falling from the air\" You will be stunned\"."
+        "text": "Approaches the enemy to deal powerful damage.\nHas a chance to inflict Airborne.\nInflicts Stun on impact with the ground.\nHas a higher Accuracy chance on an enemy afflicted with Soul Stab."
     },
     "60010125": {
         "deprecated": false,
         "Dev_Desc": "하늘베기",
         "id": 60010125,
         "alias": "Contents.Skill.useEffect.LongSword.1041",
-        "text": "air, stunned"
+        "text": "Airborne, Stun"
     },
     "60010127": {
         "deprecated": false,
@@ -459,42 +459,42 @@
         "Dev_Desc": "번개베기",
         "id": 60010129,
         "alias": "Contents.Skill.Desc.LongSword.1102",
-        "text": "Rapidly swings a sword, dealing damage.\nThere is a chance to inflict a \"stun\" effect."
+        "text": "Swiftly slashes the sword to deal damage.\nHas a chance to inflict Stun."
     },
     "60010133": {
         "deprecated": false,
         "Dev_Desc": "번개베기",
         "id": 60010133,
         "alias": "Contents.Skill.useEffect.LongSword.1102",
-        "text": "stun"
+        "text": "Stun"
     },
     "60010135": {
         "deprecated": false,
         "Dev_Desc": "번개베기_증폭",
         "id": 60010135,
         "alias": "Contents.Skill.Acquire.LongSword.1102_2",
-        "text": "Has a chance to apply a block piercing effect"
+        "text": "Extra attack to a stunned enemy"
     },
     "60010136": {
         "deprecated": false,
         "Dev_Desc": "번개베기_증폭",
         "id": 60010136,
         "alias": "Contents.Skill.Acquire.LongSword.1102_3",
-        "text": "Increased chance of \"stun\" on \"clear mark\" target"
+        "text": "Extra attack to a stunned enemy"
     },
     "60010137": {
         "deprecated": false,
         "Dev_Desc": "번개베기_증폭",
         "id": 60010137,
         "alias": "Contents.Skill.Acquire.LongSword.1102_4",
-        "text": "Additional attack against enemies with \"stun\" status"
+        "text": "Extra attack to a stunned enemy"
     },
     "60010138": {
         "deprecated": false,
         "Dev_Desc": "지속 효과",
         "id": 60010138,
         "alias": "Contents.Skill.Name.LongSword.Passive",
-        "text": "Passive"
+        "text": "Lasting Effects"
     },
     "60010139": {
         "deprecated": false,
@@ -508,56 +508,56 @@
         "Dev_Desc": "악력운동",
         "id": 60010140,
         "alias": "Contents.Skill.Desc.LongSword.1801",
-        "text": "Grip exercise to make the sword stronger.\nThe sword's attack power is increased."
+        "text": "Exercises to strengthen the sword grip.\nIncreases Sword Attack."
     },
     "60010141": {
         "deprecated": false,
         "Dev_Desc": "악력운동",
         "id": 60010141,
         "alias": "Contents.Skill.useEffect.LongSword.1801",
-        "text": "Increase sword attack power"
+        "text": "Sword Attack ▲"
     },
     "60010142": {
         "deprecated": false,
         "Dev_Desc": "몸풀기",
         "id": 60010142,
         "alias": "Contents.Skill.Name.LongSword.1802",
-        "text": "warm up"
+        "text": "Warm-Up"
     },
     "60010143": {
         "deprecated": false,
         "Dev_Desc": "몸풀기",
         "id": 60010143,
         "alias": "Contents.Skill.Desc.LongSword.1802",
-        "text": "I do light warm-up exercises.\nMovement speed increase rate and basic attack speed increase."
+        "text": "Warms up the body to increase flexibility.\nIncreases Move Speed Rate and Normal Attack Speed."
     },
     "60010144": {
         "deprecated": false,
         "Dev_Desc": "몸풀기",
         "id": 60010144,
         "alias": "Contents.Skill.useEffect.LongSword.1802",
-        "text": "Increase movement speed and base attack speed"
+        "text": "Move Speed Rate and Normal Attack Speed ▲"
     },
     "60010145": {
         "deprecated": false,
         "Dev_Desc": "근력운동",
         "id": 60010145,
         "alias": "Contents.Skill.Name.LongSword.1803",
-        "text": "strength exercise"
+        "text": "Muscle Training"
     },
     "60010146": {
         "deprecated": false,
         "Dev_Desc": "근력운동",
         "id": 60010146,
         "alias": "Contents.Skill.Desc.LongSword.1803",
-        "text": "Constantly do high-intensity strength training.\nStrength increases."
+        "text": "Consistently performs high-intensity muscle training.\nIncreases STR."
     },
     "60010147": {
         "deprecated": false,
         "Dev_Desc": "근력운동",
         "id": 60010147,
         "alias": "Contents.Skill.useEffect.LongSword.1803",
-        "text": "Increase strength"
+        "text": "STR ▲"
     },
     "60010148": {
         "deprecated": false,
@@ -571,154 +571,154 @@
         "Dev_Desc": "흔들기",
         "id": 60010149,
         "alias": "Contents.Skill.Desc.LongSword.1804",
-        "text": "Cuts the enemy's center of gravity.\nIncreases control hit rate."
+        "text": "Throws off enemy's balance.\nIncrease CC Accuracy."
     },
     "60010150": {
         "deprecated": false,
         "Dev_Desc": "흔들기",
         "id": 60010150,
         "alias": "Contents.Skill.useEffect.LongSword.1804",
-        "text": "Increase Control Hit Rate"
+        "text": "CC Accuracy ▲"
     },
     "60010151": {
         "deprecated": false,
         "Dev_Desc": "검날손질",
         "id": 60010151,
         "alias": "Contents.Skill.Name.LongSword.1805",
-        "text": "Sword Sharpening"
+        "text": "Blade Sharpening"
     },
     "60010152": {
         "deprecated": false,
         "Dev_Desc": "검날손질",
         "id": 60010152,
         "alias": "Contents.Skill.Desc.LongSword.1805",
-        "text": "It sharpens the blade.\nIncreases melee penetration."
+        "text": "Sharpens the blade.\nIncreases Melee Piercing."
     },
     "60010153": {
         "deprecated": false,
         "Dev_Desc": "검날손질",
         "id": 60010153,
         "alias": "Contents.Skill.useEffect.LongSword.1805",
-        "text": "Increase melee penetration"
+        "text": "Melee Piercing ▲"
     },
     "60010154": {
         "deprecated": false,
         "Dev_Desc": "신검합일",
         "id": 60010154,
         "alias": "Contents.Skill.Name.LongSword.1806",
-        "text": "New Sword Union"
+        "text": "Flying Sparrow"
     },
     "60010155": {
         "deprecated": false,
         "Dev_Desc": "신검합일",
         "id": 60010155,
         "alias": "Contents.Skill.Desc.LongSword.1806",
-        "text": "Being one with the sword, raises attack power.\nIncreases weapon damage amplification and precision."
+        "text": "Boosts Attack ability by uniting with the sword.\nIncreases Amplified Weapon Attack and Precision."
     },
     "60010156": {
         "deprecated": false,
         "Dev_Desc": "신검합일",
         "id": 60010156,
         "alias": "Contents.Skill.useEffect.LongSword.1806",
-        "text": "Amplifies weapon damage and increases precision"
+        "text": "Amplified Weapon Attack and Precision ▲"
     },
     "60010157": {
         "deprecated": false,
         "Dev_Desc": "약점공략",
         "id": 60010157,
         "alias": "Contents.Skill.Name.LongSword.1807",
-        "text": "Attack Weaknesses"
+        "text": "Vulnerability"
     },
     "60010158": {
         "deprecated": false,
         "Dev_Desc": "약점공략",
         "id": 60010158,
         "alias": "Contents.Skill.Desc.LongSword.1807",
-        "text": "Attacks the enemy's weak points.\nMelee attack power increases."
+        "text": "The blade pinpoints the weak spot.\nIncreases Melee Attack."
     },
     "60010159": {
         "deprecated": false,
         "Dev_Desc": "약점공략",
         "id": 60010159,
         "alias": "Contents.Skill.useEffect.LongSword.1807",
-        "text": "Increase melee damage"
+        "text": "Melee Attack ▲"
     },
     "60010160": {
         "deprecated": false,
         "Dev_Desc": "무공 피해 계수 증가",
         "id": 60010160,
         "alias": "Contents.Skill.Upgrade.Name.LongSword.damage",
-        "text": "Increase non-air damage factor"
+        "text": "Technique Damage Factor ▲"
     },
     "60010161": {
         "deprecated": false,
         "Dev_Desc": "튕기기 발동률 증가",
         "id": 60010161,
         "alias": "Contents.Skill.Upgrade.Name.LongSword.parryrate",
-        "text": "Increased bounce rate"
+        "text": "Parry Chance ▲"
     },
     "60010162": {
         "deprecated": false,
         "Dev_Desc": "검 공격력 증가",
         "id": 60010162,
         "alias": "Contents.Skill.Upgrade.Name.LongSword.SwordAttack",
-        "text": "Sword Attack +1"
+        "text": "Sword Attack +2"
     },
     "60010163": {
         "deprecated": false,
         "Dev_Desc": "이동 속도 증가율 증가",
         "id": 60010163,
         "alias": "Contents.Skill.Upgrade.Name.LongSword.MovementSpeed",
-        "text": "+1% movement speed, +5% basic attack speed"
+        "text": "Move Speed Rate +1.3%, Normal Attack Speed +1.3%"
     },
     "60010164": {
         "deprecated": false,
         "Dev_Desc": "기본 공격 속도 증가",
         "id": 60010164,
         "alias": "Contents.Skill.Upgrade.Name.LongSword.NormalAttackSpeed",
-        "text": "Increased basic attack speed"
+        "text": "Normal Attack Speed ▲"
     },
     "60010165": {
         "deprecated": false,
         "Dev_Desc": "힘 증가",
         "id": 60010165,
         "alias": "Contents.Skill.Upgrade.Name.LongSword.Strength",
-        "text": "Strength +2"
+        "text": "STR +4"
     },
     "60010166": {
         "deprecated": false,
         "Dev_Desc": "통제 적중률 증가",
         "id": 60010166,
         "alias": "Contents.Skill.Upgrade.Name.LongSword.ControlHitRate",
-        "text": "Control hit rate +5%"
+        "text": "CC Accuracy +2.3%"
     },
     "60010167": {
         "deprecated": false,
         "Dev_Desc": "근거리 관통력 증가",
         "id": 60010167,
         "alias": "Contents.Skill.Upgrade.Name.LongSword.ShortPhysicalPenetration",
-        "text": "Melee Penetration +5"
+        "text": "Melee Piercing +7"
     },
     "60010168": {
         "deprecated": false,
         "Dev_Desc": "무기 공격력 증폭 증가",
         "id": 60010168,
         "alias": "Contents.Skill.Upgrade.Name.LongSword.WeaponAttackRate",
-        "text": "Weapon damage amplification +20%, precision +5"
+        "text": "Amplified Weapon Attack +10%, Precision +5"
     },
     "60010169": {
         "deprecated": false,
         "Dev_Desc": "정밀 증가",
         "id": 60010169,
         "alias": "Contents.Skill.Upgrade.Name.LongSword.AddAttackMin",
-        "text": "Increase Precision"
+        "text": "Precision ▲"
     },
     "60010170": {
         "deprecated": false,
         "Dev_Desc": "근거리 공격력 증가",
         "id": 60010170,
         "alias": "Contents.Skill.Upgrade.Name.LongSword.ShortPhysicalAttack",
-        "text": "Melee Attack +2"
+        "text": "Melee Attack +13"
     },
     "60010171": {
         "deprecated": false,

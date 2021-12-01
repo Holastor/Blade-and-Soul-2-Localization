@@ -249,21 +249,21 @@
         "Dev_Desc": "제련 / 가이드메시지 / 강화/승급/제작",
         "id": 8000036,
         "alias": "UI.Forge.Text.Enchant.ResultFailure",
-        "text": "<DNT> The materials will be lost when <arg p=[1:string]/> fails."
+        "text": "The materials will be lost when <arg p=[1:string]/> fails."
     },
     "8000037": {
         "deprecated": false,
         "Dev_Desc": "제련 / 가이드메시지 / 강화/승급/제작",
         "id": 8000037,
         "alias": "UI.Forge.Text.Enchant.LackMoney",
-        "text": "<DNT> You need more money to <arg p=[1:string]/>."
+        "text": "You need more money to <arg p=[1:string]/>."
     },
     "8000038": {
         "deprecated": false,
         "Dev_Desc": "제련 / 가이드메시지 / 강화/승급/제작",
         "id": 8000038,
         "alias": "UI.Forge.Text.Enchant.LackResource",
-        "text": "<DNT> You need more materials to <arg p=[1:string]/>."
+        "text": "You need more materials to <arg p=[1:string]/>."
     },
     "8000039": {
         "deprecated": false,
@@ -319,7 +319,7 @@
         "Dev_Desc": "제련 / 팝업메시지 / 강화/승급/제작",
         "id": 8000046,
         "alias": "UI.Forge.PopUpText.ConfirmDestroyItem",
-        "text": "<DNT> If <arg p=[1:string]/> fails,\nthe item might be destroyed.\nContinue with <arg p=[2:string]/>?"
+        "text": "If <arg p=[1:string]/> fails,\nthe item might be destroyed.\nContinue with <arg p=[2:string]/>?"
     },
     "8000047": {
         "deprecated": false,
@@ -599,7 +599,7 @@
         "Dev_Desc": "소지품/창고/시티즌 상점 / 판매/구매/이동",
         "id": 8000086,
         "alias": "UI.Item.PopUp.ControlNum",
-        "text": "<DNT> Edit <arg p=[1:string]/> Quantity"
+        "text": "Edit <arg p=[1:string]/> Quantity"
     },
     "8000087": {
         "deprecated": false,
@@ -1691,7 +1691,7 @@
         "Dev_Desc": "강화 / 전면 연출 / ",
         "id": 8000242,
         "alias": "UI.Forge.FullShow.Enchant.Fail",
-        "text": "<DNT> Failed to <arg p=[1:string]/>. Item has been destroyed."
+        "text": "Failed to <arg p=[1:string]/>. Item has been destroyed."
     },
     "8000243": {
         "deprecated": false,
@@ -2328,7 +2328,7 @@
         "Dev_Desc": "팝업창 / 아이템 이동 확인 / ",
         "id": 8000333,
         "alias": "UI.PopUpMsg.ItemMoveConfirm",
-        "text": "<DNT> Move <arg p=[2:integer]/> <arg p=[1:string]/>."
+        "text": "Move <arg p=[2:integer]/> <arg p=[1:string]/>."
     },
     "8000334": {
         "deprecated": false,
@@ -2433,7 +2433,7 @@
         "Dev_Desc": "소지품 / ",
         "id": 8000348,
         "alias": "UI.Item.PopUpText.Unceal",
-        "text": "<DNT> Unsealed items are untradable.\nUnseal <arg p=[1:string]/>?"
+        "text": "Unsealed items are untradable.\nUnseal <arg p=[1:string]/>?"
     },
     "8000349": {
         "deprecated": false,
@@ -2741,14 +2741,14 @@
         "Dev_Desc": "거점쟁탈전 / 사망 시 부활 창 / ",
         "id": 8000392,
         "alias": "UI.FactionConquest.Revival.AutoSelect.Exit",
-        "text": "<DNT>"
+        "text": "If you do not decide on the internal resurrection method, you will automatically \"leave the battle\""
     },
     "8000393": {
         "deprecated": false,
         "Dev_Desc": "거점쟁탈전 / 사망 시 부활 창 / ",
         "id": 8000393,
         "alias": "UI.FactionConquest.Revival.AutoSelect.Resurrection",
-        "text": "<DNT>"
+        "text": "If you do not decide on the internal resurrection method, it will automatically \"resurrect in the battle\"."
     },
     "8000394": {
         "deprecated": false,
@@ -2769,21 +2769,21 @@
         "Dev_Desc": "사망 시 부활 창 / ",
         "id": 8000396,
         "alias": "UI.Revival.AutoSelect.Return",
-        "text": "<DNT>"
+        "text": "If you do not decide on the internal resurrection method, you will automatically \"return to the village\"."
     },
     "8000397": {
         "deprecated": false,
         "Dev_Desc": "사망 시 부활 창 / ",
         "id": 8000397,
         "alias": "UI.Revival.AutoSelect.Ressurection",
-        "text": "<DNT>"
+        "text": "If you do not decide the internal resurrection method, it will automatically \"resurrect\"."
     },
     "8000398": {
         "deprecated": false,
         "Dev_Desc": "사망 시 부활 창 / ",
         "id": 8000398,
         "alias": "UI.Revival.AutoSelect.BMRessurection",
-        "text": "<DNT>"
+        "text": "If you do not decide the internal resurrection method, it will automatically \"resurrect immediately\"."
     },
     "8000399": {
         "deprecated": false,
@@ -4610,14 +4610,14 @@
         "Dev_Desc": "강화 / 결과 / 팝업 / 초기화 텍스트",
         "id": 8000676,
         "alias": "UI.Forge.FullShow.Enchant.Initialize",
-        "text": "<DNT> [@up]<arg p=[1:string]/> has failed and its Enhance level has been reset."
+        "text": "<arg p=[1:string]/> has failed and its Enhance level has been reset."
     },
     "8000677": {
         "deprecated": false,
         "Dev_Desc": "강화 / 결과 / 팝업 / 장비손상 텍스트",
         "id": 8000677,
         "alias": "UI.Forge.FullShow.Enchant.Damage",
-        "text": "<DNT> [@up]<arg p=[1:string]/> has failed and the gear has been damaged."
+        "text": "<arg p=[1:string]/> has failed and the gear has been damaged."
     },
     "8000678": {
         "deprecated": false,
@@ -4687,14 +4687,14 @@
         "Dev_Desc": "강화 / 결과 / 비안전강화 / 성공 텍스트",
         "id": 8000687,
         "alias": "UI.Enchant.NonSafety.SuccessText",
-        "text": "<DNT>"
+        "text": "Strengthen success"
     },
     "8000688": {
         "deprecated": false,
         "Dev_Desc": "강화 / 결과 / 비안전강화 / 대성공 텍스트",
         "id": 8000688,
         "alias": "UI.Enchant.NonSafety.BigSuccessText",
-        "text": "<DNT>"
+        "text": "Reinforcement is a big success"
     },
     "8000689": {
         "deprecated": false,
@@ -4715,7 +4715,7 @@
         "Dev_Desc": "강화 / 결과 / 비안전강화 / 성공 텍스트 뒷부분",
         "id": 8000691,
         "alias": "UI.Enchant.NonSafety.SuccessTextEnd",
-        "text": "<DNT>"
+        "text": "The strengthening phase rises."
     },
     "8000692": {
         "deprecated": false,
@@ -5772,7 +5772,7 @@
         "Dev_Desc": "모험가 점수 1~4단계",
         "id": 8000842,
         "alias": "UI.Worldmap.Adventure.Point",
-        "text": "<arg p=[1:integer]/> — <arg p=[2:string]/> points"
+        "text": "<arg p=[1:string]/> — <arg p=[2:string]/> points"
     },
     "8000843": {
         "deprecated": false,
@@ -5786,7 +5786,7 @@
         "Dev_Desc": "모험가 랭크 1~3랭크",
         "id": 8000844,
         "alias": "UI.Worldmap.Adventure.Point3",
-        "text": "<arg p=[2:string]/> <arg p=[1:string]/>Points"
+        "text": "<arg p=[2:string]/> <arg p=[1:string]/> Points"
     },
     "8000845": {
         "deprecated": false,
@@ -6389,6 +6389,13 @@
         "id": 8000944,
         "alias": "UI.Guild.info.Notice",
         "text": "Notice"
+    },
+    "8000945": {
+        "deprecated": false,
+        "Dev_Desc": "문파 / 문파 정보 / 정보 / 순위",
+        "id": 8000945,
+        "alias": "UI.Guild.info.Rank",
+        "text": "ranking"
     },
     "8000946": {
         "deprecated": false,
@@ -7165,7 +7172,7 @@
         "Dev_Desc": "Province 정보 – 모험가 등급/점수 표시",
         "id": 8001077,
         "alias": "UI.Worldmap.Province.Adventure.Info",
-        "text": "<arg p=[2:string]/> <textColor=[254:204:102:255]><arg p=[1:string]/>Points</>"
+        "text": "<arg p=[2:string]/> <textColor=[254:204:102:255]><arg p=[1:string]/> Points</>"
     },
     "8001078": {
         "deprecated": false,
@@ -8544,7 +8551,7 @@
         "Dev_Desc": "로그인 UI / 이용약관 / NC 서비스 이용 약관 디테일",
         "id": 8001275,
         "alias": "UI.Login.TermsOfService.2",
-        "text": "<DNT>"
+        "text": "PLAY NC homepage including consent to receive advertising information\\nConsent to receive advertising information is separate"
     },
     "8001276": {
         "deprecated": false,
@@ -13276,14 +13283,14 @@
         "Dev_Desc": "무공 / 무공 설명 / 단계2",
         "id": 8001970,
         "alias": "UI.Skill.Info.Step.2",
-        "text": "Amp"
+        "text": "Amplify"
     },
     "8001971": {
         "deprecated": false,
         "Dev_Desc": "무공 / 무공 설명 / 단계3",
         "id": 8001971,
         "alias": "UI.Skill.Info.Step.3",
-        "text": "Ext"
+        "text": "Extreme"
     },
     "8001972": {
         "deprecated": false,
@@ -15131,7 +15138,7 @@
         "Dev_Desc": "HUD / 영기 / 영기 문구",
         "id": 8002237,
         "alias": "UI.SpiritEnergy",
-        "text": "Aura"
+        "text": "Soul Energy Lv.<arg p=[1:integer]/>"
     },
     "8002238": {
         "deprecated": false,
@@ -19912,7 +19919,7 @@
         "Dev_Desc": "타이틀 / 계정 연동 / 설명",
         "id": 8002926,
         "alias": "UI.Login.Linkage.Popup.Desc",
-        "text": "Blade Effect Level +1\nDo you want to link a non-account?\\n\\n<textColor=[209:72:59:255]>You can link an account only once.</>\\n<textColor=[ 209:72:59:255]>Choose the account you want to link carefully.</>Soul activates when using a ball"
+        "text": "Link the account?"
     },
     "8002927": {
         "deprecated": false,
@@ -23652,14 +23659,14 @@
         "deprecated": false,
         "Dev_Desc": "캐시상점 / 서브 탭 / 블랙 프라이데이 탭 / 비사전",
         "id": 8003461,
-        "alias": "UI.CashShop.TapName.Sub.itemCoin1",
+        "alias": "UI.CashShop.TapName.Sub.itemCoin4",
         "text": "Non-Dictionary"
     },
     "8003462": {
         "deprecated": false,
         "Dev_Desc": "캐시상점 / 서브 탭 / 블랙 프라이데이 탭 / 도화전",
         "id": 8003462,
-        "alias": "UI.CashShop.TapName.Sub.itemCoin2",
+        "alias": "UI.CashShop.TapName.Sub.itemCoin5",
         "text": "Dohwajeon"
     },
     "8003463": {
@@ -23752,5 +23759,95 @@
         "id": 8003475,
         "alias": "UI.Craft.LeftSubTabName.Event.BlackTicket",
         "text": "Black Friday Tickets"
+    },
+    "8003476": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 상자 (제련) / 타이틀",
+        "id": 8003476,
+        "alias": "UI.Smelting.Title",
+        "text": "Yaru's Box"
+    },
+    "8003477": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 조건 확인 / 문파 신청 취소 필요",
+        "id": 8003477,
+        "alias": "UI.HeroTransfer.Condition.Guild.No.02",
+        "text": "Applications to join the Munpa remain."
+    },
+    "8003478": {
+        "deprecated": false,
+        "Dev_Desc": "이벤트 제작 레시피 탭 / 블랙프라이데이",
+        "id": 8003478,
+        "alias": "UI.Craft.LeftSubTabName.Event.100Aniversary.01",
+        "text": "100 Days Festival"
+    },
+    "8003479": {
+        "deprecated": false,
+        "Dev_Desc": "소울패링 / HUD 시스템 메시지 및 채팅 / 성공",
+        "id": 8003479,
+        "alias": "UI.SoulParry.SystemMessage.Success",
+        "text": "<arg p=[1:string]/>soul-paring to <arg p=[2:string]/>was successful."
+    },
+    "8003480": {
+        "deprecated": false,
+        "Dev_Desc": "소울패링 / HUD 시스템 메시지 / 기절",
+        "id": 8003480,
+        "alias": "UI.SoulParry.SystemMessage.Stun",
+        "text": "<arg p=[1:string]/>has succeeded in soul parring, and <arg p=[2:string]/>is stunned."
+    },
+    "8003481": {
+        "deprecated": false,
+        "Dev_Desc": "제련 / 재료 선택 설명",
+        "id": 8003481,
+        "alias": "UI.Smelting.MaterialRegisteredDesc",
+        "text": "Please select a material."
+    },
+    "8003482": {
+        "deprecated": false,
+        "Dev_Desc": "제련 / 보유 장비 목록 타이틀",
+        "id": 8003482,
+        "alias": "UI.Smelting.InventoryTitle.Equipment",
+        "text": "equipment"
+    },
+    "8003483": {
+        "deprecated": false,
+        "Dev_Desc": "제련 / 보유 재료 목록 타이틀",
+        "id": 8003483,
+        "alias": "UI.Smelting.InventoryTitle.Material",
+        "text": "Smelting Material"
+    },
+    "8003484": {
+        "deprecated": false,
+        "Dev_Desc": "제련 / 조합 능력치 경고 팝업 / 설명1",
+        "id": 8003484,
+        "alias": "UI.Smelting.ConfirmPopup.Desc1",
+        "text": "This is the equipment that the combination stats are applied to."
+    },
+    "8003485": {
+        "deprecated": false,
+        "Dev_Desc": "제련 / 조합 능력치 경고 팝업 / 설명2",
+        "id": 8003485,
+        "alias": "UI.Smelting.ConfirmPopup.Desc2",
+        "text": "When smelting is in progress, new smelting will proceed after resetting the existing smelting stats. \\nDo you want to proceed with smelting?"
+    },
+    "8003486": {
+        "deprecated": false,
+        "id": 8003486,
+        "alias": "UI.SoulParry.SystemMessage.Success.Chat",
+        "text": "<arg p=[1:string]/>soul-paring to <arg p=[2:string]/>was successful."
+    },
+    "8003487": {
+        "deprecated": false,
+        "Dev_Desc": "제련 / 조합 능력치 획득 불가 설명",
+        "id": 8003487,
+        "alias": "UI.Smelting.NoCombinationStat",
+        "text": "Unable to acquire combination stats"
+    },
+    "8003488": {
+        "deprecated": false,
+        "Dev_Desc": "제련 / 조합 능력치 획득 가능 설명",
+        "id": 8003488,
+        "alias": "UI.Smelting.CombinationStatDesc",
+        "text": "Combination stats can be acquired"
     }
 }

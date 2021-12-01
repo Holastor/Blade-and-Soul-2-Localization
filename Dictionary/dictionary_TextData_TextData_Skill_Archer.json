@@ -2,639 +2,639 @@
     "60050000": {
         "Dev_Desc": "후퇴사격_경직",
         "Original_Text": "경직",
-        "English_Text": "stiffness",
+        "English_Text": "Petrify",
         "Russian_Text": "",
-        "Chinese_Text": "僵直"
+        "Chinese_Text": "眩晕"
     },
     "60050001": {
         "Dev_Desc": "후퇴사격_밀치기, 기절",
         "Original_Text": "경직, 기절, 밀치기",
-        "English_Text": "Stiff, Stun, Knockback",
+        "English_Text": "Petrify, Stun, Shove",
         "Russian_Text": "",
         "Chinese_Text": "僵硬,晕厥,推挤"
     },
     "60050002": {
         "Dev_Desc": "반마화살_버프제거",
         "Original_Text": "수호, 불사, 심기일전, 살상명령 해제",
-        "English_Text": "Guardian, immortal, before planting, kill order cancelled",
+        "English_Text": "Removes Buff",
         "Russian_Text": "",
-        "Chinese_Text": "守护,不死,心机一战,解除杀伤命令"
+        "Chinese_Text": "消除增益"
     },
     "60050003": {
         "Dev_Desc": "다발화살_출혈적용",
         "Original_Text": "출혈",
-        "English_Text": "bleed",
+        "English_Text": "Bleed",
         "Russian_Text": "",
         "Chinese_Text": "出血"
     },
     "60050004": {
         "Dev_Desc": "반마화살_수호불가",
         "Original_Text": "수호, 불사, 심기일전, 살상명령 해제",
-        "English_Text": "Guardian, immortal, before planting, kill order cancelled",
+        "English_Text": "Disables Buff and Guardian",
         "Russian_Text": "",
-        "Chinese_Text": "守护,不死,心机一战,解除杀伤命令"
+        "Chinese_Text": "消除增益，无法守护"
     },
     "60050005": {
         "Dev_Desc": "반마화살_수호불가",
         "Original_Text": "수호, 불사, 심기일전, 살상명령 해제",
-        "English_Text": "Guardian, immortal, before planting, kill order cancelled",
+        "English_Text": "Disables Buff and Guardian",
         "Russian_Text": "",
-        "Chinese_Text": "守护,不死,心机一战,解除杀伤命令"
+        "Chinese_Text": "消除增益，无法守护"
     },
     "60050006": {
         "Dev_Desc": "혈상",
         "Original_Text": "혈상",
-        "English_Text": "Blood",
+        "English_Text": "Blood Phase",
         "Russian_Text": "",
         "Chinese_Text": "血伤"
     },
     "60050007": {
         "Dev_Desc": "강사",
         "Original_Text": "강사",
-        "English_Text": "Instructor",
+        "English_Text": "Power Shot",
         "Russian_Text": "",
-        "Chinese_Text": "鹰眼瞄准"
+        "Chinese_Text": "强射"
     },
     "60050008": {
         "Dev_Desc": "추적화살_증폭_효과",
         "Original_Text": "피해량 증가",
-        "English_Text": "Damage increased",
+        "English_Text": "Damage ▲",
         "Russian_Text": "",
-        "Chinese_Text": "伤害增加"
+        "Chinese_Text": "降低冷却时间"
     },
     "60050009": {
         "Dev_Desc": "추적화살_극한_효과",
         "Original_Text": "피해량 증가\\n사용 중 원거리 치명률 +10%",
-        "English_Text": "Damage increase\nRanged critical rate +10% while in use",
+        "English_Text": "Damage ▲ / Ranged Critical Rate ▲",
         "Russian_Text": "",
-        "Chinese_Text": "伤害增加1使用中远距离致命率+10%"
+        "Chinese_Text": "降低内力消耗"
     },
     "60050010": {
         "Dev_Desc": "추적화살_돌파_효과",
         "Original_Text": "피해량 증가\\n사용 중 원거리 치명률 +20%",
-        "English_Text": "Damage increase\nRanged critical rate +20% while in use",
+        "English_Text": "Damage ▲ / Ranged Critical Rate ▲▲",
         "Russian_Text": "",
-        "Chinese_Text": "伤害增加1使用中远距离致命率+20%"
+        "Chinese_Text": "100%暴击率且根据自身暴击率造成额外伤害"
     },
     "60050011": {
         "Dev_Desc": "다발화살_증폭_효과",
         "Original_Text": "2번 연속 사용\\n사용 중 원거리 치명률 +5%",
-        "English_Text": "Use 2 times in a row\nRanged Critical Rate +5% while using",
+        "English_Text": "2 consecutive uses / Ranged Critical Rate ▲",
         "Russian_Text": "",
-        "Chinese_Text": "连续使用2次1使用中远距离致命率+5%"
+        "Chinese_Text": "连续使用2次且以较低概率施加“出血”"
     },
     "60050012": {
         "Dev_Desc": "다발화살_극한_효과",
         "Original_Text": "3번 연속 사용\\n사용 중 원거리 치명률 +10%",
-        "English_Text": "Use 3 times in a row\nRanged Critical Rate +10% while in use",
+        "English_Text": "3 consecutive uses / Ranged Critical Rate ▲",
         "Russian_Text": "",
-        "Chinese_Text": "连续使用3次1使用中远距离致命率+10%"
+        "Chinese_Text": "连续使用3次且以较低概率施加2次“出血”"
     },
     "60050013": {
         "Dev_Desc": "다발화살_돌파_효과",
         "Original_Text": "매 타격마다 치명타 시 일정 확률로 \"출혈\" 효과 적용",
-        "English_Text": "Critical hit with each hit has a chance to apply \"bleeding\" effect",
+        "English_Text": "Inflicts Bleed on Critical Hit",
         "Russian_Text": "",
-        "Chinese_Text": "每次打击爆击时有一定概率应用“出血”效果"
+        "Chinese_Text": "较低概率发动反魔效果"
     },
     "60050014": {
         "Dev_Desc": "다중사격_증폭_효과",
         "Original_Text": "사용 중 원거리 절대 명중 +10%",
-        "English_Text": "+10% to ranged absolute accuracy while in use",
+        "English_Text": "Ranged Critical Rate ▲",
         "Russian_Text": "",
-        "Chinese_Text": "使用中远距离绝对命中+10%"
+        "Chinese_Text": "根据武功攻击速度提升伤害量"
     },
     "60050015": {
         "Dev_Desc": "다중사격_극한_효과",
         "Original_Text": "사용 중 원거리 치명률 +20%",
-        "English_Text": "Ranged Critical Rate +20% while in use",
+        "English_Text": "Inflicts Bleed on Critical Hit",
         "Russian_Text": "",
-        "Chinese_Text": "使用中远距离致命率+20%"
+        "Chinese_Text": "暴击时，以较低概率施加“出血”"
     },
     "60050016": {
         "Dev_Desc": "다중사격_돌파_효과",
         "Original_Text": "매 타격마다 치명타 시 일정 확률로 \"출혈\" 효과 적용",
-        "English_Text": "Critical hit with each hit has a chance to apply \"bleeding\" effect",
+        "English_Text": "Ranged Critical Rate ▲▲",
         "Russian_Text": "",
-        "Chinese_Text": "每次打击爆击时有一定概率应用“出血”效果"
+        "Chinese_Text": "100%暴击率且根据自身暴击率造成额外伤害"
     },
     "60050017": {
         "Dev_Desc": "살상명령_증폭_효과",
         "Original_Text": "내력 소모량 -3",
-        "English_Text": "Strength consumption -3",
+        "English_Text": "Duration +5 sec",
         "Russian_Text": "",
-        "Chinese_Text": "承重消耗-3"
+        "Chinese_Text": "提升持续时间"
     },
     "60050018": {
         "Dev_Desc": "살상명령_극한_효과",
         "Original_Text": "사용 시, 원거리 치명률 +10%",
-        "English_Text": "When used, ranged critical rate +10%",
+        "English_Text": "Duration +5 sec",
         "Russian_Text": "",
-        "Chinese_Text": "使用时,远距离致命率+10%"
+        "Chinese_Text": "提升持续时间"
     },
     "60050019": {
         "Dev_Desc": "살상명령_돌파_효과",
         "Original_Text": "사용 시, 치명타 추가 공격력 +7",
-        "English_Text": "When used, additional critical attack damage +10",
+        "English_Text": "Duration +5 sec",
         "Russian_Text": "",
-        "Chinese_Text": "使用时,+10伤害+10爆击"
+        "Chinese_Text": "提升持续时间"
     },
     "60050020": {
         "Dev_Desc": "반마화살_증폭_효과",
         "Original_Text": "재사용 대기시간 -4초",
-        "English_Text": "Cooldown -4 seconds",
+        "English_Text": "Disables Guardian for 10 sec on accurate hit",
         "Russian_Text": "",
-        "Chinese_Text": "重用等待时间-4秒"
+        "Chinese_Text": "命中时在10秒内无法守护"
     },
     "60050021": {
         "Dev_Desc": "반마화살_극한_효과",
         "Original_Text": "명중 시, 10초간 수호 [극한]까지 효과 적용 불가",
-        "English_Text": "On hit, the effect cannot be applied up to [Extreme]>protection for 10 seconds",
+        "English_Text": "Disables Guardian for 10 sec on accurate hit",
         "Russian_Text": "",
-        "Chinese_Text": "命中时,10秒守护至[极限]无法应用效果"
+        "Chinese_Text": "命中时在10秒内无法守护"
     },
     "60050022": {
         "Dev_Desc": "반마화살_돌파_효과",
         "Original_Text": "명중 시, 수호 [돌파]까지 해제\\n명중 시, 10초간 수호 [돌파]까지 효과 적용 불가",
-        "English_Text": "On hit, up to [Breakthrough]>of protection is removed\nEffect cannot be applied until Protection [Breakthrough]>for 10 seconds on hit",
+        "English_Text": "Disables Guardian for 10 sec on accurate hit",
         "Russian_Text": "",
-        "Chinese_Text": "命中时,解除至守护[突破]1人中时,10秒至守护[突破]无法应用效果"
+        "Chinese_Text": "命中时在10秒内无法守护"
     },
     "60050023": {
         "Dev_Desc": "조준사격_증폭_효과",
         "Original_Text": "사용 중 원거리 절대 명중 +10%",
-        "English_Text": "+10% to ranged absolute accuracy while in use",
+        "English_Text": "Ranged Critical Rate ▲▲",
         "Russian_Text": "",
-        "Chinese_Text": "使用中远距离绝对命中+10%"
+        "Chinese_Text": "根据武功攻击速度提升伤害量"
     },
     "60050024": {
         "Dev_Desc": "조준사격_극한_효과",
         "Original_Text": "사용 중 원거리 치명률 +50%",
-        "English_Text": "Ranged Critical Rate +50% while in use",
+        "English_Text": "Ranged Accuracy Rate ▲▲",
         "Russian_Text": "",
-        "Chinese_Text": "使用中远距离致命率+50%"
+        "Chinese_Text": "无视远距离防御伤害"
     },
     "60050025": {
         "Dev_Desc": "조준사격_돌파_효과",
         "Original_Text": "일정 확률로 막기를 관통하여 \"기절\" 효과 적용",
-        "English_Text": "Has a chance to penetrate a block to apply a \"stun\" effect",
+        "English_Text": "Inflicts the max stacks of Bleed on accurate hit",
         "Russian_Text": "",
-        "Chinese_Text": "有一定概率穿透阻击,应用“气节”效果"
+        "Chinese_Text": "无视远距离防御伤害"
     },
     "60050026": {
         "Dev_Desc": "화살비_증폭_효과",
         "Original_Text": "피해량 증가\\n범위 내 최대 3인까지 적중",
-        "English_Text": "Damage increased\nHit up to 3 people within range",
+        "English_Text": "Damage ▲",
         "Russian_Text": "",
-        "Chinese_Text": "伤害增加1范围内最多命中3人"
+        "Chinese_Text": "降低气力消耗量"
     },
     "60050027": {
         "Dev_Desc": "화살비_극한_효과",
         "Original_Text": "매 타격마다 일정 확률로 \"경직\" 효과 적용",
-        "English_Text": "There is a chance to apply the \"stiff\" effect on every hit",
+        "English_Text": "Has a chance to inflict Petrify on each hit",
         "Russian_Text": "",
-        "Chinese_Text": "每次打击都有一定概率应用“僵直”效果"
+        "Chinese_Text": "提升持续时间"
     },
     "60050028": {
         "Dev_Desc": "화살비_돌파_효과",
         "Original_Text": "매 타격마다 일정 확률로 \"출혈\" 효과 적용",
-        "English_Text": "Has a chance to apply \"bleed\" effect on every hit",
+        "English_Text": "Has a chance to inflict Bleed on each hit",
         "Russian_Text": "",
-        "Chinese_Text": "每次打击都有一定几率应用“出血”效果"
+        "Chinese_Text": "提升移速降低效果"
     },
     "60050029": {
         "Dev_Desc": "강사_설명",
         "Original_Text": "기본 공격 치명타 시 일정 확률로 \"출혈\"이 적용됩니다.",
-        "English_Text": "Critical strikes with basic attacks have a chance to apply \"bleed\".",
+        "English_Text": "Inflicts Bleed at a chance on normal critical hit.",
         "Russian_Text": "",
-        "Chinese_Text": "在主攻暴击时,有一定几率应用“出血”"
+        "Chinese_Text": "与武功攻击速度成比例造成基本攻击额外伤害。"
     },
     "60050030": {
         "Dev_Desc": "화살비_성장_기력",
         "Original_Text": "기력 소모 380 \\n대기시간 2초",
-        "English_Text": "Consumption of energy 380 \n2 seconds of standby time",
+        "English_Text": "Vitality Cost: 380\nCooldown: 2 sec",
         "Russian_Text": "",
-        "Chinese_Text": "消耗体力3801冷却时间2秒"
+        "Chinese_Text": "气力消耗380"
     },
     "60050031": {
         "Dev_Desc": "혈상_설명",
         "Original_Text": "주기적인 피해를 주는 \"출혈\"에 치유감소 효과가 추가됩니다.",
-        "English_Text": "Adds healing reduction to \"bleed\" that deals periodic damage.",
+        "English_Text": "Inflicts Bleed (DoT) and reduces Heal.",
         "Russian_Text": "",
-        "Chinese_Text": "在造成周期性伤害的“出血”中增加治疗减少效果"
+        "Chinese_Text": "造成持续伤害的“出血”效果附带治愈降低效果。"
     },
     "60050032": {
         "Dev_Desc": "화살비_이속감소_이름",
         "Original_Text": "둔화",
         "English_Text": "Slow",
         "Russian_Text": "",
-        "Chinese_Text": "放缓"
+        "Chinese_Text": "缓速"
     },
     "60050033": {
         "Dev_Desc": "화살비_이속감소_설명",
         "Original_Text": "이동속도 감소",
-        "English_Text": "Reduce movement speed",
+        "English_Text": "Move Speed ▼",
         "Russian_Text": "",
         "Chinese_Text": "移动速度降低"
     },
     "60050034": {
         "Dev_Desc": "화살비_이속감소_효과",
         "Original_Text": "이동속도 감소율 85%",
-        "English_Text": "Movement speed reduction 85%",
+        "English_Text": "Move Speed Down 85%",
         "Russian_Text": "",
         "Chinese_Text": "移动速度降低率85%"
     },
     "60050035": {
         "Dev_Desc": "살상명령_버프_이름",
         "Original_Text": "살상명령",
-        "English_Text": "kill order",
+        "English_Text": "Command to Kill",
         "Russian_Text": "",
-        "Chinese_Text": "杀伤命令"
+        "Chinese_Text": "杀戮命令"
     },
     "60050036": {
         "Dev_Desc": "살상명령_버프_설명",
         "Original_Text": "공격형 능력 증가",
-        "English_Text": "Increase Offensive Ability",
+        "English_Text": "Increases all attack speed abilities",
         "Russian_Text": "",
-        "Chinese_Text": "增加攻击型能力"
+        "Chinese_Text": "提升攻击速度"
     },
     "60050037": {
         "Dev_Desc": "살상명령_버프_효과Lv1",
         "Original_Text": "기본 공격 속도 +50%",
-        "English_Text": "Base attack speed +50%",
+        "English_Text": "Normal Attack Speed +100%",
         "Russian_Text": "",
-        "Chinese_Text": "基础攻击速度+50%"
+        "Chinese_Text": "基本攻击速度+100%\n武功攻击速度+3%"
     },
     "60050038": {
         "Dev_Desc": "살상명령_버프_효과Lv2",
         "Original_Text": "기본 공격 속도 +52%",
-        "English_Text": "Base attack speed +52%",
+        "English_Text": "Normal Attack Speed +100%\nTechnique Attack Speed +3%",
         "Russian_Text": "",
-        "Chinese_Text": "基础攻击速度+52%"
+        "Chinese_Text": "基本攻击速度+100%\n武功攻击速度+3%"
     },
     "60050039": {
         "Dev_Desc": "살상명령_버프_효과Lv3",
         "Original_Text": "기본 공격 속도 +54%",
-        "English_Text": "Base attack speed +54%",
+        "English_Text": "Normal Attack Speed +100%\nTechnique Attack Speed +3%",
         "Russian_Text": "",
-        "Chinese_Text": "基础攻击速度+54%"
+        "Chinese_Text": "基本攻击速度+100%\n武功攻击速度+3%"
     },
     "60050040": {
         "Dev_Desc": "살상명령_버프_효과Lv4",
         "Original_Text": "기본 공격 속도 +56%",
-        "English_Text": "Base attack speed +56%",
+        "English_Text": "Normal Attack Speed +100%\nTechnique Attack Speed +3%",
         "Russian_Text": "",
-        "Chinese_Text": "基础攻击速度+56%"
+        "Chinese_Text": "基本攻击速度+100%\n武功攻击速度+3%"
     },
     "60050041": {
         "Dev_Desc": "살상명령_버프_효과Lv5",
         "Original_Text": "기본 공격 속도 +58%",
-        "English_Text": "Base attack speed +58%",
+        "English_Text": "Normal Attack Speed +100%\nTechnique Attack Speed +3%",
         "Russian_Text": "",
-        "Chinese_Text": "基础攻击速度+58%"
+        "Chinese_Text": "基本攻击速度+100%\n武功攻击速度+3%"
     },
     "60050042": {
         "Dev_Desc": "살상명령_버프_효과Lv6",
         "Original_Text": "기본 공격 속도 +60%",
-        "English_Text": "Base attack speed +60%",
+        "English_Text": "Normal Attack Speed +100%\nTechnique Attack Speed +3%",
         "Russian_Text": "",
-        "Chinese_Text": "基础攻击速度+60%"
+        "Chinese_Text": "基本攻击速度+100%\n武功攻击速度+3%"
     },
     "60050043": {
         "Dev_Desc": "살상명령_버프_효과Lv7",
         "Original_Text": "기본 공격 속도 +62%",
-        "English_Text": "Base attack speed +62%",
+        "English_Text": "Normal Attack Speed +100%\nTechnique Attack Speed +3%",
         "Russian_Text": "",
-        "Chinese_Text": "基础攻击速度+62%"
+        "Chinese_Text": "基本攻击速度+100%\n武功攻击速度+3%"
     },
     "60050044": {
         "Dev_Desc": "살상명령_버프_효과Lv8",
         "Original_Text": "기본 공격 속도 +64%",
-        "English_Text": "Base attack speed +64%",
+        "English_Text": "Normal Attack Speed +100%\nTechnique Attack Speed +3%",
         "Russian_Text": "",
-        "Chinese_Text": "基础攻击速度+64%"
+        "Chinese_Text": "基本攻击速度+100%\n武功攻击速度+3%"
     },
     "60050045": {
         "Dev_Desc": "살상명령_버프_효과Lv9",
         "Original_Text": "기본 공격 속도 +66%",
-        "English_Text": "Base attack speed +66%",
+        "English_Text": "Normal Attack Speed +100%\nTechnique Attack Speed +3%",
         "Russian_Text": "",
-        "Chinese_Text": "基础攻击速度+66%"
+        "Chinese_Text": "基本攻击速度+100%\n武功攻击速度+3%"
     },
     "60050046": {
         "Dev_Desc": "살상명령_버프_효과Lv10",
         "Original_Text": "기본 공격 속도 +70%",
-        "English_Text": "Base attack speed +70%",
+        "English_Text": "Normal Attack Speed +100%\nTechnique Attack Speed +3%",
         "Russian_Text": "",
-        "Chinese_Text": "基础攻击速度+70%"
+        "Chinese_Text": "基本攻击速度+100%\n武功攻击速度+3%"
     },
     "60050047": {
         "Dev_Desc": "살상명령_극한_버프_설명",
         "Original_Text": "공격형 능력 증가",
-        "English_Text": "Increase Offensive Ability",
+        "English_Text": "Increases all attack speed abilities",
         "Russian_Text": "",
-        "Chinese_Text": "增加攻击型能力"
+        "Chinese_Text": "提升攻击速度"
     },
     "60050048": {
         "Dev_Desc": "살상명령_극한_버프_효과Lv1",
         "Original_Text": "기본 공격 속도 +50%\\n원거리 치명률 +10%",
-        "English_Text": "Base attack speed +50%\nRanged critical rate +10%",
+        "English_Text": "Normal Attack Speed +100%\nCritical Bonus +10",
         "Russian_Text": "",
-        "Chinese_Text": "基础攻击速度+50%1远距伤害率+10%"
+        "Chinese_Text": "提升攻击速度"
     },
     "60050049": {
         "Dev_Desc": "살상명령_극한_버프_효과Lv2",
         "Original_Text": "기본 공격 속도 +52%\\n원거리 치명률 +10%",
-        "English_Text": "Base attack speed +52%\nRanged critical rate +10%",
+        "English_Text": "Increases Attack Speed.",
         "Russian_Text": "",
-        "Chinese_Text": "基础攻击速度+52%1远距致命率+10%"
+        "Chinese_Text": "提升攻击速度"
     },
     "60050050": {
         "Dev_Desc": "살상명령_극한_버프_효과Lv3",
         "Original_Text": "기본 공격 속도 +54%\\n원거리 치명률 +10%",
-        "English_Text": "Base attack speed +54%\nRanged critical rate +10%",
+        "English_Text": "Increases Attack Speed.",
         "Russian_Text": "",
-        "Chinese_Text": "基础攻击速度+54%1远距致命率+10%"
+        "Chinese_Text": "提升攻击速度"
     },
     "60050051": {
         "Dev_Desc": "살상명령_극한_버프_효과Lv4",
         "Original_Text": "기본 공격 속도 +56%\\n원거리 치명률 +10%",
-        "English_Text": "Base attack speed +56%\nRanged critical rate +10%",
+        "English_Text": "Increases Attack Speed.",
         "Russian_Text": "",
-        "Chinese_Text": "基础攻击速度+56%1远距致命率+10%"
+        "Chinese_Text": "提升攻击速度"
     },
     "60050052": {
         "Dev_Desc": "살상명령_극한_버프_효과Lv5",
         "Original_Text": "기본 공격 속도 +58%\\n원거리 치명률 +10%",
-        "English_Text": "Base attack speed +58%\nRanged critical rate +10%",
+        "English_Text": "Increases Attack Speed.",
         "Russian_Text": "",
-        "Chinese_Text": "基础攻击速度+58%1远距致命率+10%"
+        "Chinese_Text": "提升攻击速度"
     },
     "60050053": {
         "Dev_Desc": "살상명령_극한_버프_효과Lv6",
         "Original_Text": "기본 공격 속도 +60%\\n원거리 치명률 +10%",
-        "English_Text": "Base attack speed +60%\nRanged critical rate +10%",
+        "English_Text": "Increases Attack Speed.",
         "Russian_Text": "",
-        "Chinese_Text": "基础攻击速度+60%1远距致命率+10%"
+        "Chinese_Text": "提升攻击速度"
     },
     "60050054": {
         "Dev_Desc": "살상명령_극한_버프_효과Lv7",
         "Original_Text": "기본 공격 속도 +62%\\n원거리 치명률 +10%",
-        "English_Text": "Base attack speed +62%\nRanged critical rate +10%",
+        "English_Text": "Increases Attack Speed.",
         "Russian_Text": "",
-        "Chinese_Text": "基础攻击速度+62%1远距致命率+10%"
+        "Chinese_Text": "提升攻击速度"
     },
     "60050055": {
         "Dev_Desc": "살상명령_극한_버프_효과Lv8",
         "Original_Text": "기본 공격 속도 +64%\\n원거리 치명률 +10%",
-        "English_Text": "Base attack speed +64%\nRanged critical rate +10%",
+        "English_Text": "Increases Attack Speed.",
         "Russian_Text": "",
-        "Chinese_Text": "基础攻击速度+64%1远距致命率+10%"
+        "Chinese_Text": "提升攻击速度"
     },
     "60050056": {
         "Dev_Desc": "살상명령_극한_버프_효과Lv9",
         "Original_Text": "기본 공격 속도 +66%\\n원거리 치명률 +10%",
-        "English_Text": "Base attack speed +66%\nRanged critical rate +10%",
+        "English_Text": "Increases Attack Speed.",
         "Russian_Text": "",
-        "Chinese_Text": "基础攻击速度+66%1远距致命率+10%"
+        "Chinese_Text": "提升攻击速度"
     },
     "60050057": {
         "Dev_Desc": "살상명령_극한_버프_효과Lv10",
         "Original_Text": "기본 공격 속도 +70%\\n원거리 치명률 +10%",
-        "English_Text": "Base attack speed +70%\nRanged critical rate +10%",
+        "English_Text": "Increases Attack Speed.",
         "Russian_Text": "",
-        "Chinese_Text": "基础攻击速度+70%1远距爆击率+10%"
+        "Chinese_Text": "提升攻击速度"
     },
     "60050058": {
         "Dev_Desc": "살상명령_돌파_버프_설명",
         "Original_Text": "공격형 능력 증가",
-        "English_Text": "Increase Offensive Ability",
+        "English_Text": "Increases Attack Speed.",
         "Russian_Text": "",
-        "Chinese_Text": "增加攻击型能力"
+        "Chinese_Text": "提升攻击速度"
     },
     "60050059": {
         "Dev_Desc": "살상명령_돌파_버프_효과Lv1",
         "Original_Text": "기본 공격 속도 +50%\\n원거리 치명률 +10%\\n치명타 추가 공격력 +7",
-        "English_Text": "Base attack speed +50%\nRanged critical rate +10%\nAdditional critical strike attack power +10",
+        "English_Text": "Increases Attack Speed.",
         "Russian_Text": "",
-        "Chinese_Text": "基础攻击速度+50%1远距伤害+10%1额外伤害+10"
+        "Chinese_Text": "提升攻击速度"
     },
     "60050060": {
         "Dev_Desc": "살상명령_돌파_버프_효과Lv2",
         "Original_Text": "기본 공격 속도 +52%\\n원거리 치명률 +10%\\n치명타 추가 공격력 +7",
-        "English_Text": "Base Attack Speed +52%\nRanged Critical Rate +10%\nCrit Bonus Attack Damage +10",
+        "English_Text": "Increases Attack Speed.",
         "Russian_Text": "",
-        "Chinese_Text": "基础攻击速度+52%1远距伤害+10%1额外伤害+10"
+        "Chinese_Text": "提升攻击速度"
     },
     "60050061": {
         "Dev_Desc": "살상명령_돌파_버프_효과Lv3",
         "Original_Text": "기본 공격 속도 +54%\\n원거리 치명률 +10%\\n치명타 추가 공격력 +7",
-        "English_Text": "Base Attack Speed +54%\nRanged Critical Rate +10%\nCrit Bonus Attack +10",
+        "English_Text": "Increases Attack Speed.",
         "Russian_Text": "",
-        "Chinese_Text": "基础攻击速度+54%1远距伤害+10%1额外伤害+10"
+        "Chinese_Text": "提升攻击速度"
     },
     "60050062": {
         "Dev_Desc": "살상명령_돌파_버프_효과Lv4",
         "Original_Text": "기본 공격 속도 +56%\\n원거리 치명률 +10%\\n치명타 추가 공격력 +7",
-        "English_Text": "Base Attack Speed +56%\nRanged Critical Rate +10%\nCrit Bonus Attack Damage +10",
+        "English_Text": "Increases Attack Speed.",
         "Russian_Text": "",
-        "Chinese_Text": "基础攻击速度+56%1远距伤害+10%1额外伤害+10"
+        "Chinese_Text": "提升攻击速度"
     },
     "60050063": {
         "Dev_Desc": "살상명령_돌파_버프_효과Lv5",
         "Original_Text": "기본 공격 속도 +58%\\n원거리 치명률 +10%\\n치명타 추가 공격력 +7",
-        "English_Text": "Base Attack Speed +58%\nRanged Critical Rate +10%\nCrit Bonus Attack Damage +10",
+        "English_Text": "Increases Attack Speed.",
         "Russian_Text": "",
-        "Chinese_Text": "基础攻击速度+58%1远距伤害+10%1额外伤害+10"
+        "Chinese_Text": "提升攻击速度"
     },
     "60050064": {
         "Dev_Desc": "살상명령_돌파_버프_효과Lv6",
         "Original_Text": "기본 공격 속도 +60%\\n원거리 치명률 +10%\\n치명타 추가 공격력 +7",
-        "English_Text": "Base attack speed +60%\nRanged critical rate +10%\nCrit bonus +10",
+        "English_Text": "Increases Attack Speed.",
         "Russian_Text": "",
-        "Chinese_Text": "基础攻击速度+60%1远距伤害+10%1伤害+10"
+        "Chinese_Text": "提升攻击速度"
     },
     "60050065": {
         "Dev_Desc": "살상명령_돌파_버프_효과Lv7",
         "Original_Text": "기본 공격 속도 +62%\\n원거리 치명률 +10%\\n치명타 추가 공격력 +7",
-        "English_Text": "Base Attack Speed +62%\nRanged Critical Rate +10%\nCrit Bonus Attack +10",
+        "English_Text": "Increases Attack Speed.",
         "Russian_Text": "",
-        "Chinese_Text": "基础攻击速度+62%1远距伤害+10%1额外伤害+10"
+        "Chinese_Text": "提升攻击速度"
     },
     "60050066": {
         "Dev_Desc": "살상명령_돌파_버프_효과Lv8",
         "Original_Text": "기본 공격 속도 +64%\\n원거리 치명률 +10%\\n치명타 추가 공격력 +7",
-        "English_Text": "Base Attack Speed +64%\nRanged Critical Rate +10%\nCrit Bonus Attack +10",
+        "English_Text": "Increases Attack Speed.",
         "Russian_Text": "",
-        "Chinese_Text": "基础攻击速度+64%1远距伤害+10%1额外伤害+10"
+        "Chinese_Text": "提升攻击速度"
     },
     "60050067": {
         "Dev_Desc": "살상명령_돌파_버프_효과Lv9",
         "Original_Text": "기본 공격 속도 +66%\\n원거리 치명률 +10%\\n치명타 추가 공격력 +7",
-        "English_Text": "Base attack speed +66%\nRanged critical rate +10%\nCrit bonus +10",
+        "English_Text": "Increases Attack Speed.",
         "Russian_Text": "",
-        "Chinese_Text": "基础攻击速度+66%1远距伤害+10%1额外伤害+10"
+        "Chinese_Text": "提升攻击速度"
     },
     "60050068": {
         "Dev_Desc": "살상명령_돌파_버프_효과Lv10",
         "Original_Text": "기본 공격 속도 +70%\\n원거리 치명률 +10%\\n치명타 추가 공격력 +7",
-        "English_Text": "Base attack speed +70%\nRanged critical rate +10%\nAdditional critical strike attack power +10",
+        "English_Text": "Increases Attack Speed.",
         "Russian_Text": "",
-        "Chinese_Text": "基础攻击速度+70%1远距伤害+10%1伤害+10"
+        "Chinese_Text": "提升攻击速度"
     },
     "60050069": {
         "Dev_Desc": "반마화살_극한_디버프_이름",
         "Original_Text": "반마화살 [극한]",
-        "English_Text": "Anti-Magic Arrow [Extreme]",
+        "English_Text": "Buff Removal",
         "Russian_Text": "",
-        "Chinese_Text": "半马箭[极限]"
+        "Chinese_Text": "反魔"
     },
     "60050070": {
         "Dev_Desc": "반마화살_극한_디버프_설명",
         "Original_Text": "버프 차단",
-        "English_Text": "Buff Block",
+        "English_Text": "Removes Technique Buff",
         "Russian_Text": "",
-        "Chinese_Text": "阻止增益"
+        "Chinese_Text": "消除武功增益"
     },
     "60050071": {
         "Dev_Desc": "반마화살_극한_디버프_효과",
         "Original_Text": "수호 [극한]까지 불가",
-        "English_Text": "Unable to protect [extreme]",
+        "English_Text": "Removes Command to Kill, Rage, Roar, Invincible, and Ignition buffs",
         "Russian_Text": "",
-        "Chinese_Text": "到苏霍[极限]不可能"
+        "Chinese_Text": "消除杀戮命令、愤怒、咆哮、不死、引火增益"
     },
     "60050072": {
         "Dev_Desc": "반마화살_돌파_디버프_이름",
         "Original_Text": "반마화살 [돌파]",
-        "English_Text": "Anti-Magic Arrow [Breaking Through]",
+        "English_Text": "Buff Removal",
         "Russian_Text": "",
-        "Chinese_Text": "半马箭[突破]"
+        "Chinese_Text": "反魔"
     },
     "60050073": {
         "Dev_Desc": "반마화살_돌파_디버프_설명",
         "Original_Text": "버프 차단",
-        "English_Text": "Buff Block",
+        "English_Text": "Removes Technique Buff",
         "Russian_Text": "",
-        "Chinese_Text": "阻止增益"
+        "Chinese_Text": "消除武功增益"
     },
     "60050074": {
         "Dev_Desc": "반마화살_돌파_디버프_효과",
         "Original_Text": "수호 [돌파]까지 불가",
-        "English_Text": "Unable to Guard [Breakthrough]",
+        "English_Text": "Removes Command to Kill, Rage, Roar, Invincible, and Ignition buffs",
         "Russian_Text": "",
-        "Chinese_Text": "到苏霍[突破]不可"
+        "Chinese_Text": "消除杀戮命令、愤怒、咆哮、不死、引火增益"
     },
     "60050075": {
         "Dev_Desc": "출혈_디버프_이름",
         "Original_Text": "출혈",
-        "English_Text": "bleed",
+        "English_Text": "Bleed Lv.1",
         "Russian_Text": "",
         "Chinese_Text": "出血"
     },
     "60050076": {
         "Dev_Desc": "출혈_디버프_설명",
         "Original_Text": "지속적인 피해",
-        "English_Text": "Damage over time",
+        "English_Text": "DoT",
         "Russian_Text": "",
         "Chinese_Text": "持续伤害"
     },
     "60050077": {
         "Dev_Desc": "출혈_디버프_효과",
         "Original_Text": "유지시간 동안 지속 피해",
-        "English_Text": "Damage over duration",
+        "English_Text": "DoT while effective",
         "Russian_Text": "",
-        "Chinese_Text": "持续伤害"
+        "Chinese_Text": "持续时间内造成持续伤害"
     },
     "60050078": {
         "Dev_Desc": "출혈_디버프_설명",
         "Original_Text": "\"출혈\"은 최대 10회까지 중첩",
-        "English_Text": "\"Bleeding\" stacks up to 10 times",
+        "English_Text": "Bleed stacks up to 10 times",
         "Russian_Text": "",
-        "Chinese_Text": "“出血”最多叠加10次"
+        "Chinese_Text": "出血最多可叠加10层。"
     },
     "60050079": {
         "Dev_Desc": "화살비_이속감소_효과",
         "Original_Text": "이동속도 감소율 95%",
-        "English_Text": "Movement speed reduction 95%",
+        "English_Text": "Move Speed Down 95%",
         "Russian_Text": "",
         "Chinese_Text": "移动速度降低率95%"
     },
     "60050080": {
         "Dev_Desc": "살상명령_발동_조건",
         "Original_Text": "치명타 시 일정 확률로 활성화",
-        "English_Text": "Critical strike chance to activate",
+        "English_Text": "Chance on Critical Hit",
         "Russian_Text": "",
-        "Chinese_Text": "暴击时有一定几率激活"
+        "Chinese_Text": "暴击时，以一定概率"
     },
     "60050081": {
         "Dev_Desc": "살상명령_극한_효과",
         "Original_Text": "치명률 증가",
-        "English_Text": "Increased fatality rate",
+        "English_Text": "Critical Rate ▲",
         "Russian_Text": "",
-        "Chinese_Text": "致命率增加"
+        "Chinese_Text": "提升武功攻击速度"
     },
     "60050082": {
         "Dev_Desc": "살상명령_돌파_효과",
         "Original_Text": "원거리 명중 및 원거리 치명률 증가",
-        "English_Text": "Increases ranged hit and ranged criticality",
+        "English_Text": "Ranged Accuracy ▲ / Ranged Critical Rate ▲",
         "Russian_Text": "",
-        "Chinese_Text": "增加远距离命中和远距离致命率"
+        "Chinese_Text": "提升命中及暴击率"
     },
     "60050083": {
         "Dev_Desc": "후퇴사격_증폭_효과",
         "Original_Text": "기력 소모량 -100",
-        "English_Text": "energy cost -100",
+        "English_Text": "Vitality cost ▼",
         "Russian_Text": "",
-        "Chinese_Text": "功率消耗-100"
+        "Chinese_Text": "以一定概率使目标“僵直”"
     },
     "60050084": {
         "Dev_Desc": "후퇴사격_극한_효과",
         "Original_Text": "일정 확률로 \"경직\" 효과 적용",
-        "English_Text": "Probability of applying \"stiff\" effect",
+        "English_Text": "Has a chance to inflict Petrify",
         "Russian_Text": "",
-        "Chinese_Text": "有一定概率应用“僵直”效果"
+        "Chinese_Text": "以一定概率使目标“被击退后眩晕”"
     },
     "60050085": {
         "Dev_Desc": "후퇴사격_돌파_효과",
         "Original_Text": "사용 중 회피 +30",
-        "English_Text": "Has a chance to apply \"Knockback\", \"Stun\" effects",
+        "English_Text": "Has a chance to shove the enemy and inflict Stun",
         "Russian_Text": "",
         "Chinese_Text": "有一定概率应用“推”、“昏”效果"
     },
     "60050086": {
         "Dev_Desc": "후퇴사격_증폭_사용옵션",
         "Original_Text": "내력 소모 36\\n대기시간 15초",
-        "English_Text": "Strength consumption 36\nWaiting time 15 seconds",
+        "English_Text": "Focus Cost: 36\nCooldown: 15 sec",
         "Russian_Text": "",
-        "Chinese_Text": "承重消耗361冷却时间15秒"
+        "Chinese_Text": "内力消耗44\n冷却时间12秒"
     },
     "60050087": {
         "Dev_Desc": "조준사격_극한_효과",
         "Original_Text": "기절, 출혈",
-        "English_Text": "stun, bleed",
+        "English_Text": "Stun, Bleed",
         "Russian_Text": "",
-        "Chinese_Text": "晕厥,出血"
+        "Chinese_Text": "眩晕、出血"
     },
     "60050088": {
         "Dev_Desc": "혈상_효과",
         "Original_Text": "치유 감소",
-        "English_Text": "Healing Reduction",
+        "English_Text": "Reduced Heal",
         "Russian_Text": "",
-        "Chinese_Text": "减少愈合"
+        "Chinese_Text": "治愈降低"
     },
     "60050089": {
         "Dev_Desc": "살우_이름",
         "Original_Text": "살우",
-        "English_Text": "Salwoo",
+        "English_Text": "Arrowfall (WIP)",
         "Russian_Text": "",
-        "Chinese_Text": "杀雨"
+        "Chinese_Text": "箭雨（开发中）"
     },
     "60050090": {
         "Dev_Desc": "살우_설명",
         "Original_Text": "하늘로 도약해 대상에게 화살 폭풍을 퍼붓습니다.\\n일정 확률로 범위 내 3인에게 \"기절\"과 \"출혈\" 효과를 적용합니다.\\n사용 중 통제 상태에 면역이 됩니다.",
-        "English_Text": "Leaps into the sky and pours a storm of arrows at the target.\nThere is a chance to apply \"stun\" and \"bleed\" effects to 3 people within range.\nIn control state while in use Immune.",
+        "English_Text": "Showers deadly rain over the enemies.",
         "Russian_Text": "",
-        "Chinese_Text": "飞跃天空,向目标发起箭风暴1有一定几率对范围内的三人应用“昏厥”和“出血”效果1在使用过程中对控制状态免疫"
+        "Chinese_Text": "对敌人落下死亡之雨。"
     },
     "60050091": {
         "Dev_Desc": "살우_효과",
@@ -653,322 +653,322 @@
     "60050093": {
         "Dev_Desc": "출혈화살_설명",
         "Original_Text": "일정 확률로 대상을 3초간 \"출혈\" 시키는 화살을 날립니다.",
-        "English_Text": "Has a chance to shoot arrows that \"bleed\" the target.",
+        "English_Text": "Shoots an arrow that inflicts Bleed on the target at a chance.",
         "Russian_Text": "",
-        "Chinese_Text": "有一定几率射出让目标“出血”的箭"
+        "Chinese_Text": "以一定概率对目标施加“出血”。"
     },
     "60050094": {
         "Dev_Desc": "출혈화살_증폭",
         "Original_Text": "재사용 대기시간 -1초",
-        "English_Text": "Cooldown -1 second",
+        "English_Text": "Cooldown ▼",
         "Russian_Text": "",
-        "Chinese_Text": "重用等待时间-1秒"
+        "Chinese_Text": "降低冷却时间"
     },
     "60050095": {
         "Dev_Desc": "출혈화살_극한",
         "Original_Text": "내력 소모량 -1",
-        "English_Text": "Strength consumption -1",
+        "English_Text": "Focus cost ▼",
         "Russian_Text": "",
-        "Chinese_Text": "承重消耗-1"
+        "Chinese_Text": "降低内力消耗"
     },
     "60050096": {
         "Dev_Desc": "출혈화살_돌파",
         "Original_Text": "피해량 증가",
-        "English_Text": "Critical hit while using \"Bleeding\" 2 stacks\nRanged critical rate +10%",
+        "English_Text": "Critical Rate ▲ / 2 stacks of Bleed on Critical Hit",
         "Russian_Text": "",
-        "Chinese_Text": "暴击时“出血”两叠1在使用中远距离致命率+10%"
+        "Chinese_Text": "提升武功暴击率，当暴击时叠加2层“出血”"
     },
     "60050101": {
         "Dev_Desc": "출혈화살_돌파_효과",
         "Original_Text": "출혈 2중첩",
-        "English_Text": "2 stacks of bleeding",
+        "English_Text": "2 Stacks of Bleed",
         "Russian_Text": "",
-        "Chinese_Text": "出血2叠"
+        "Chinese_Text": "叠加2层出血"
     },
     "60050102": {
         "Dev_Desc": "추적화살_발동_조건",
         "Original_Text": "출혈",
-        "English_Text": "bleed",
+        "English_Text": "Bleeding target",
         "Russian_Text": "",
-        "Chinese_Text": "出血"
+        "Chinese_Text": "目标进入“出血”状态"
     },
     "60050103": {
         "Dev_Desc": "후퇴사격_조건",
         "Original_Text": "대상과의 거리가 4m이내",
-        "English_Text": "The distance to the target is within 4m",
+        "English_Text": "Within 4m from the target",
         "Russian_Text": "",
         "Chinese_Text": "与目标的距离在4米以内"
     },
     "60050104": {
         "Dev_Desc": "화살비_극한_효과_desc",
         "Original_Text": "경직",
-        "English_Text": "stiffness",
+        "English_Text": "Petrify",
         "Russian_Text": "",
-        "Chinese_Text": "僵直"
+        "Chinese_Text": "出血、降低移速"
     },
     "60050105": {
         "Dev_Desc": "화살비_돌파_효과_desc",
         "Original_Text": "경직, 출혈",
-        "English_Text": "stiffness, bleeding",
+        "English_Text": "Petrify, Bleed",
         "Russian_Text": "",
-        "Chinese_Text": "僵硬,出血"
+        "Chinese_Text": "僵直、出血"
     },
     "60050106": {
         "Dev_Desc": "조준사격_효과",
         "Original_Text": "기절",
-        "English_Text": "stun",
+        "English_Text": "Stun",
         "Russian_Text": "",
-        "Chinese_Text": "昏倒"
+        "Chinese_Text": "眩晕、出血"
     },
     "60050107": {
         "Dev_Desc": "추적화살",
         "Original_Text": "추적화살",
-        "English_Text": "Tracking Arrow",
+        "English_Text": "Tracker",
         "Russian_Text": "",
-        "Chinese_Text": "跟踪箭"
+        "Chinese_Text": "追踪箭"
     },
     "60050108": {
         "Dev_Desc": "조준_효과",
         "Original_Text": "원거리 공격력 +1",
         "English_Text": "Ranged Attack +1",
         "Russian_Text": "",
-        "Chinese_Text": "+1伤害"
+        "Chinese_Text": "提升远距离攻击力"
     },
     "60050109": {
         "Dev_Desc": "직감_효과",
         "Original_Text": "솜씨 +1, 민첩 +1",
-        "English_Text": "Skill +1, Agility +1",
+        "English_Text": "DEX +4, AGI +4",
         "Russian_Text": "",
-        "Chinese_Text": "手艺+1,敏捷+1"
+        "Chinese_Text": "提升敏捷及技巧"
     },
     "60050110": {
         "Dev_Desc": "깊은상처_효과",
         "Original_Text": "출혈 지속시간 +1초",
-        "English_Text": "Increased bleeding duration",
+        "English_Text": "Bleed Duration ▲",
         "Russian_Text": "",
-        "Chinese_Text": "增加出血持续时间"
+        "Chinese_Text": "提升出血持续时间"
     },
     "60050111": {
         "Dev_Desc": "속사_효과",
         "Original_Text": "기본 공격 속도 +7%",
-        "English_Text": "Base attack speed +7%",
+        "English_Text": "Normal Attack Speed +2.3%",
         "Russian_Text": "",
-        "Chinese_Text": "基础攻击速度+7%"
+        "Chinese_Text": "提升基本攻击速度"
     },
     "60050112": {
         "Dev_Desc": "연마_효과",
         "Original_Text": "원거리 관통력 +3",
-        "English_Text": "Ranged Penetration +3",
+        "English_Text": "Ranged Piercing +7",
         "Russian_Text": "",
-        "Chinese_Text": "+3远距离穿透力"
+        "Chinese_Text": "提升远距离穿刺力"
     },
     "60050113": {
         "Dev_Desc": "몰입_효과",
         "Original_Text": "원거리 치명률 +3%, 치명타 추가 공격력 +7",
-        "English_Text": "Ranged Critical Rate +3%, Critical Damage Bonus +7",
+        "English_Text": "Ranged Critical Rate +3.3%, Critical Bonus +10",
         "Russian_Text": "",
-        "Chinese_Text": "+3%远射伤害,+7爆击伤害"
+        "Chinese_Text": "提升远距离暴击率与暴击额外攻击力"
     },
     "60050114": {
         "Dev_Desc": "강사_효과",
         "Original_Text": "출혈",
-        "English_Text": "bleed",
+        "English_Text": "Bleed",
         "Russian_Text": "",
         "Chinese_Text": "出血"
     },
     "60050115": {
         "Dev_Desc": "백발백중_효과",
         "Original_Text": "무기 공격력 증폭 +15%",
-        "English_Text": "Ranged Hit +7",
+        "English_Text": "Ranged Accuracy +13",
         "Russian_Text": "",
-        "Chinese_Text": "+7远射"
+        "Chinese_Text": "提升远距离命中"
     },
     "60050116": {
         "Dev_Desc": "조준",
         "Original_Text": "조준",
         "English_Text": "Aim",
         "Russian_Text": "",
-        "Chinese_Text": "瞄准"
+        "Chinese_Text": "被动_瞄准"
     },
     "60050117": {
         "Dev_Desc": "조준",
         "Original_Text": "침착함을 유지해 목표물을 정확히 조준합니다.\\n원거리 공격력이 증가합니다.",
-        "English_Text": "Keep your composure and aim accurately.\nRange damage is increased.",
+        "English_Text": "Calmly aims at the target for an accurate shot.\nIncreases Ranged Attack.",
         "Russian_Text": "",
-        "Chinese_Text": "保持冷静,正确瞄准目标1提高远距伤害"
+        "Chinese_Text": "精确瞄准敌人，提升物理远距离攻击力。"
     },
     "60050118": {
         "Dev_Desc": "명사수",
         "Original_Text": "명사수",
-        "English_Text": "Sharpshooter",
+        "English_Text": "Sniper",
         "Russian_Text": "",
-        "Chinese_Text": "名词数"
+        "Chinese_Text": "被动_神射手"
     },
     "60050119": {
         "Dev_Desc": "명사수",
         "Original_Text": "사수로써 이름을 날리기 시작합니다.\\n활 공격력이 증가합니다.",
-        "English_Text": "Begins making a name for himself as a shooter.\nBow attack power increases.",
+        "English_Text": "Gains notoriety as an archer.\nIncreases Bow Attack.",
         "Russian_Text": "",
-        "Chinese_Text": "以射手的身份开始扬名1弓攻击力增加"
+        "Chinese_Text": "提高射箭能力，提升弓伤害量。"
     },
     "60050120": {
         "Dev_Desc": "직감",
         "Original_Text": "직감",
-        "English_Text": "intuition",
+        "English_Text": "Intuition",
         "Russian_Text": "",
-        "Chinese_Text": "直觉"
+        "Chinese_Text": "被动_直觉"
     },
     "60050121": {
         "Dev_Desc": "직감",
         "Original_Text": "온 몸의 감각을 집중시켜 신체 능력을 향상시킵니다. \\n솜씨와 민첩이 증가합니다.",
-        "English_Text": "Increases physical abilities by concentrating the senses of the whole body. \nIncreases skill and agility.",
+        "English_Text": "Concentrates all senses to enhance physical ability.\nIncreases AGI and DEX.",
         "Russian_Text": "",
-        "Chinese_Text": "集中全身的感觉,提高身体能力"
+        "Chinese_Text": "提高锐利的眼力，提升技巧与敏捷。"
     },
     "60050122": {
         "Dev_Desc": "속사",
         "Original_Text": "속사",
         "English_Text": "Rapid Fire",
         "Russian_Text": "",
-        "Chinese_Text": "速射"
+        "Chinese_Text": "被动_速射"
     },
     "60050123": {
         "Dev_Desc": "속사",
         "Original_Text": "더욱더 빠르게 활 시위를 당깁니다.\\n기본 공격 속도가 증가합니다.",
-        "English_Text": "Pulls the bow more quickly.\nIncreases basic attack speed.",
+        "English_Text": "Plucks the bowstring faster.\nIncreases Normal Attack Speed.",
         "Russian_Text": "",
-        "Chinese_Text": "更快的拉弓"
+        "Chinese_Text": "习得快速射箭的能力，提升攻击速度。"
     },
     "60050124": {
         "Dev_Desc": "연마",
         "Original_Text": "연마",
-        "English_Text": "polishing",
+        "English_Text": "Perfection",
         "Russian_Text": "",
-        "Chinese_Text": "磨弓"
+        "Chinese_Text": "被动_磨练"
     },
     "60050125": {
         "Dev_Desc": "연마",
         "Original_Text": "활 시위를 강하게 당겨 목표물을 꿰뚫습니다.\\n원거리 관통력이 증가합니다.",
-        "English_Text": "Strongly pulls the bowstring to pierce the target.\nIncreases ranged penetration.",
+        "English_Text": "Pierces the target by tightly pulling back on the bow.\nIncreases Ranged Physical Piercing.",
         "Russian_Text": "",
-        "Chinese_Text": "磨练拉弓技巧"
+        "Chinese_Text": "磨练弓术技巧，提升远距离物理穿刺。"
     },
     "60050126": {
         "Dev_Desc": "깊은상처",
         "Original_Text": "깊은상처",
-        "English_Text": "deep wound",
+        "English_Text": "Deep Wound",
         "Russian_Text": "",
-        "Chinese_Text": "血痕"
+        "Chinese_Text": "重伤（开发中）"
     },
     "60050127": {
         "Dev_Desc": "깊은상처",
         "Original_Text": "날카로운 화살촉이 상처를 파고듭니다.\\n\"출혈\" 지속시간이 증가합니다.",
-        "English_Text": "Sharp arrowheads pierce wounds.\n\"Bleeding\" duration is increased.",
+        "English_Text": "The sharp arrowhead causes a deep wound.\nIncreases the duration of Bleed.",
         "Russian_Text": "",
-        "Chinese_Text": "锋利的箭头刺破伤口, “出血”持续时间增加"
+        "Chinese_Text": "对敌人造成重伤，提升出血持续时间。"
     },
     "60050128": {
         "Dev_Desc": "몰입",
         "Original_Text": "몰입",
-        "English_Text": "Immersive",
+        "English_Text": "Immersion",
         "Russian_Text": "",
-        "Chinese_Text": "后羿射日"
+        "Chinese_Text": "被动_专注"
     },
     "60050129": {
         "Dev_Desc": "몰입",
         "Original_Text": "잡념으로부터 벗어나 전투에만 집중합니다.\\n원거리 치명률과 치명타 추가 공격력이 증가합니다.",
-        "English_Text": "Depart from the distractions and focus only on combat.\nRange critical rate and additional critical attack damage increase.",
+        "English_Text": "Puts all distracting thoughts behind to concentrate on the battle.\nIncreases Ranged Critical Rate and Critical Bonus.",
         "Russian_Text": "",
-        "Chinese_Text": "学习后羿的能力, 对于远程对象可以百步穿杨"
+        "Chinese_Text": "集中精神，提升暴击率与暴击额外伤害量。"
     },
     "60050130": {
         "Dev_Desc": "출혈화살",
         "Original_Text": "출혈화살",
         "English_Text": "Bleeding Arrow",
         "Russian_Text": "",
-        "Chinese_Text": "摆脱杂念,只关注战斗1提高远距爆击率和暴击额外伤害"
+        "Chinese_Text": "出血箭（开发中）"
     },
     "60050131": {
         "Dev_Desc": "출혈화살",
         "Original_Text": "기본공격 시 일정 확률로 주기적인 피해를 주는 \"출혈\" 효과를 줍니다.",
-        "English_Text": "Basic attacks have a chance to inflict a \"bleed\" effect that deals periodic damage.",
+        "English_Text": "Has a chance to inflict Bleed (DoT) on normal attacks.",
         "Russian_Text": "",
-        "Chinese_Text": "出血箭"
+        "Chinese_Text": "基本攻击时，以较低概率施加可造成持续伤害的“出血”效果。"
     },
     "60050132": {
         "Dev_Desc": "백발백중",
         "Original_Text": "백발백중",
-        "English_Text": "white hair",
+        "English_Text": "Dead Shot",
         "Russian_Text": "",
-        "Chinese_Text": "造成“出血”效果,在基础攻击时有一定几率造成周期性伤害"
+        "Chinese_Text": "磨练"
     },
     "60050133": {
         "Dev_Desc": "백발백중",
         "Original_Text": "숙련된 활솜씨로 표적을 빗나가지 않습니다.\\n무기 공격력 증폭이 증가합니다.",
-        "English_Text": "Doesn't miss the target with a skilled bow.\nRange accuracy is increased.",
+        "English_Text": "Reaches absolute bow mastery to never miss a target.\nIncreases Ranged Accuracy.",
         "Russian_Text": "",
-        "Chinese_Text": "百发百中"
+        "Chinese_Text": "磨炼射箭技巧，提升远距离物理穿刺。"
     },
     "60050134": {
         "Dev_Desc": "무공 피해 계수 증가",
         "Original_Text": "무공 피해 계수 증가",
-        "English_Text": "Increase non-air damage factor",
+        "English_Text": "Technique Damage Factor ▲",
         "Russian_Text": "",
         "Chinese_Text": "熟练的弓技能不会偏离目标1远距命中增加"
     },
     "60050135": {
         "Dev_Desc": "기본 공격 속도 증가",
         "Original_Text": "기본 공격 속도 증가",
-        "English_Text": "Increased basic attack speed",
+        "English_Text": "Normal Attack Speed ▲",
         "Russian_Text": "",
         "Chinese_Text": "增加无功伤害系数"
     },
     "60050136": {
         "Dev_Desc": "원거리 공격력 증가",
         "Original_Text": "원거리 공격력 증가",
-        "English_Text": "Increased ranged damage",
+        "English_Text": "Ranged Attack ▲",
         "Russian_Text": "",
         "Chinese_Text": "提高基础攻击速度"
     },
     "60050137": {
         "Dev_Desc": "솜씨 증가",
         "Original_Text": "솜씨 증가",
-        "English_Text": "Increased skill",
+        "English_Text": "DEX ▲",
         "Russian_Text": "",
         "Chinese_Text": "增加远距离伤害"
     },
     "60050138": {
         "Dev_Desc": "민첩 증가",
         "Original_Text": "민첩 증가",
-        "English_Text": "Increase Agility",
+        "English_Text": "AGI ▲",
         "Russian_Text": "",
         "Chinese_Text": "提高技能"
     },
     "60050139": {
         "Dev_Desc": "원거리 관통력 증가",
         "Original_Text": "원거리 관통력 증가",
-        "English_Text": "Increase ranged penetration",
+        "English_Text": "Ranged Piercing ▲",
         "Russian_Text": "",
         "Chinese_Text": "提高敏捷性"
     },
     "60050140": {
         "Dev_Desc": "원거리 치명률 증가",
         "Original_Text": "원거리 치명률 증가",
-        "English_Text": "Increased ranged criticality",
+        "English_Text": "Ranged Critical Rate ▲",
         "Russian_Text": "",
         "Chinese_Text": "增加远距离穿透力"
     },
     "60050141": {
         "Dev_Desc": "치명타 추가 공격력 증가",
         "Original_Text": "치명타 추가 공격력 증가",
-        "English_Text": "Increases additional critical strike damage",
+        "English_Text": "Critical Bonus ▲",
         "Russian_Text": "",
         "Chinese_Text": "远距离致命率增加"
     },
     "60050142": {
         "Dev_Desc": "원거리 명중 증가",
         "Original_Text": "원거리 명중 증가",
-        "English_Text": "Increased ranged hit",
+        "English_Text": "Ranged Accuracy ▲",
         "Russian_Text": "",
         "Chinese_Text": "增加暴击伤害"
     },

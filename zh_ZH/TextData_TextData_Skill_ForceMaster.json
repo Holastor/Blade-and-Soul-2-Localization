@@ -4,56 +4,56 @@
         "Dev_Desc": "기공패 디버프 화상_이름",
         "id": 60030001,
         "alias": "Contents.Effect.Name.FireBangle.300001",
-        "text": "火伤"
+        "text": "烧伤"
     },
     "60030002": {
         "deprecated": false,
         "Dev_Desc": "기공패 디버프 화상_내용",
         "id": 60030002,
         "alias": "Contents.Effect.Desc.FireBangle.300001",
-        "text": "持续的伤害"
+        "text": "火焰造成普通持续伤害"
     },
     "60030003": {
         "deprecated": false,
         "Dev_Desc": "기공패 디버프 화상_옵션",
         "id": 60030003,
         "alias": "Contents.Effect.Option.FireBangle.300001",
-        "text": "维持时间内持续伤害"
+        "text": "火焰造成普通持续伤害"
     },
     "60030004": {
         "deprecated": false,
         "Dev_Desc": "기공패 디버프 불씨_이름",
         "id": 60030004,
         "alias": "Contents.Effect.Name.FireBangle.300002",
-        "text": "火苗"
+        "text": "火种"
     },
     "60030005": {
         "deprecated": false,
         "Dev_Desc": "기공패 디버프 불씨_내용",
         "id": 60030005,
         "alias": "Contents.Effect.Desc.FireBangle.300002",
-        "text": "可适用特殊效果"
+        "text": "可施加烧伤效果"
     },
     "60030006": {
         "deprecated": false,
         "Dev_Desc": "기공패 디버프 불씨_옵션",
         "id": 60030006,
         "alias": "Contents.Effect.Option.FireBangle.300002",
-        "text": "适用持续伤害的“火伤”效果"
+        "text": "可施加造成持续伤害的“烧伤”效果"
     },
     "60030007": {
         "deprecated": false,
         "Dev_Desc": "기공패 디버프 둔화_이름",
         "id": 60030007,
         "alias": "Contents.Effect.Name.FireBangle.300020",
-        "text": "钝化"
+        "text": "缓速"
     },
     "60030008": {
         "deprecated": false,
         "Dev_Desc": "기공패 디버프 둔화_내용",
         "id": 60030008,
         "alias": "Contents.Effect.Desc.FireBangle.300020",
-        "text": "移动速度减少"
+        "text": "脚部冻结，移动速度降低。"
     },
     "60030009": {
         "deprecated": false,
@@ -67,21 +67,21 @@
         "Dev_Desc": "기공패 용렬빙하 빙결_이름",
         "id": 60030010,
         "alias": "Contents.Effect.Name.FireBangle.300019",
-        "text": "冰结"
+        "text": "冰冻"
     },
     "60030011": {
         "deprecated": false,
         "Dev_Desc": "기공패 용렬빙하 빙결_내용",
         "id": 60030011,
         "alias": "Contents.Effect.Desc.FireBangle.300019",
-        "text": "移动及部分技能不可使用"
+        "text": "脚部完全冻结，无法移动。"
     },
     "60030012": {
         "deprecated": false,
         "Dev_Desc": "기공패 용렬빙하 빙결_옵션",
         "id": 60030012,
         "alias": "Contents.Effect.Option.FireBangle.300019",
-        "text": "移动不可\n部分技能不可使用"
+        "text": "脚部完全冻结，无法移动。"
     },
     "60030013": {
         "deprecated": false,
@@ -95,14 +95,14 @@
         "Dev_Desc": "기공패 디버프 홍염_내용",
         "id": 60030014,
         "alias": "Contents.Effect.Desc.FireBangle.300040",
-        "text": "气功绝对防御力减少"
+        "text": "气功防御力降低"
     },
     "60030015": {
         "deprecated": false,
         "Dev_Desc": "기공패 디버프 홍염_옵션",
         "id": 60030015,
         "alias": "Contents.Effect.Option.FireBangle.300040",
-        "text": "气功绝对防御力-5%"
+        "text": "气功防御力-2"
     },
     "60030016": {
         "deprecated": false,
@@ -179,133 +179,133 @@
         "Dev_Desc": "화륜 가열_평타+무공공속증가_세부",
         "id": 60030026,
         "alias": "Contents.Effect.Desc.FireBangle.344111",
-        "text": "攻击速度相关能力增加"
+        "text": "火之气息使基本攻击速度提升。"
     },
     "60030027": {
         "deprecated": false,
         "Dev_Desc": "화륜 가열_평타+무공공속증가_세부",
         "id": 60030027,
         "alias": "Contents.Effect.Option.FireBangle.344111",
-        "text": "基础攻击速度+50%"
+        "text": "火之气息使基本攻击速度提升。"
     },
     "60030028": {
         "deprecated": false,
         "Dev_Desc": "화륜 가열_평타+무공공속증가_세부",
         "id": 60030028,
         "alias": "Contents.Effect.Option.FireBangle.344112",
-        "text": "基础攻击速度+52%"
+        "text": "基本攻击速度+32%\n武功攻击速度+2.5%"
     },
     "60030029": {
         "deprecated": false,
         "Dev_Desc": "화륜 가열_평타+무공공속증가_세부",
         "id": 60030029,
         "alias": "Contents.Effect.Option.FireBangle.344113",
-        "text": "基础攻击速度+54%"
+        "text": "基本攻击速度+34%\n武功攻击速度+3%"
     },
     "60030030": {
         "deprecated": false,
         "Dev_Desc": "화륜 가열_평타+무공공속증가_세부",
         "id": 60030030,
         "alias": "Contents.Effect.Option.FireBangle.344114",
-        "text": "基础攻击速度+56%"
+        "text": "基本攻击速度+36%\n武功攻击速度+3.5%"
     },
     "60030031": {
         "deprecated": false,
         "Dev_Desc": "화륜 가열_평타+무공공속증가_세부",
         "id": 60030031,
         "alias": "Contents.Effect.Option.FireBangle.344115",
-        "text": "基础攻击速度+58%"
+        "text": "基本攻击速度+38%\n武功攻击速度+4%"
     },
     "60030032": {
         "deprecated": false,
         "Dev_Desc": "화륜 가열_평타+무공공속증가_세부",
         "id": 60030032,
         "alias": "Contents.Effect.Option.FireBangle.344116",
-        "text": "基础攻击速度+60%"
+        "text": "基本攻击速度+40%\n武功攻击速度+4.5%"
     },
     "60030033": {
         "deprecated": false,
         "Dev_Desc": "화륜 가열_평타+무공공속증가_세부",
         "id": 60030033,
         "alias": "Contents.Effect.Option.FireBangle.344117",
-        "text": "基础攻击速度+62%"
+        "text": "基本攻击速度+42%\n武功攻击速度+5%"
     },
     "60030034": {
         "deprecated": false,
         "Dev_Desc": "화륜 가열_평타+무공공속증가_세부",
         "id": 60030034,
         "alias": "Contents.Effect.Option.FireBangle.344118",
-        "text": "基础攻击速度+64%"
+        "text": "基本攻击速度+44%\n武功攻击速度+5.5%"
     },
     "60030035": {
         "deprecated": false,
         "Dev_Desc": "화륜 가열_평타+무공공속증가_세부",
         "id": 60030035,
         "alias": "Contents.Effect.Option.FireBangle.344119",
-        "text": "基础攻击速度+66%"
+        "text": "基本攻击速度+46%\n武功攻击速度+6%"
     },
     "60030036": {
         "deprecated": false,
         "Dev_Desc": "화륜 가열_평타+무공공속증가_세부",
         "id": 60030036,
         "alias": "Contents.Effect.Option.FireBangle.344120",
-        "text": "基础攻击速度+68%"
+        "text": "基本攻击速度+48%\n武功攻击速度+6.5%"
     },
     "60030037": {
         "deprecated": false,
         "Dev_Desc": "패시브_순환_지능 효과 표시",
         "id": 60030037,
         "alias": "Contents.Skill.useEffectDesc.FireBangle.3031",
-        "text": "智力+1"
+        "text": "提升智力"
     },
     "60030038": {
         "deprecated": false,
         "Dev_Desc": "패시브_냉정_기공패 피해량 효과 표시",
         "id": 60030038,
         "alias": "Contents.Skill.useEffectDesc.FireBangle.3032",
-        "text": "气功牌攻击力+2"
+        "text": "提升彩绫伤害量"
     },
     "60030039": {
         "deprecated": false,
         "Dev_Desc": "패시브_열정_기공 공격력 효과 표시",
         "id": 60030039,
         "alias": "Contents.Skill.useEffectDesc.FireBangle.3033",
-        "text": "气功攻击力+2"
+        "text": "提升气功攻击力"
     },
     "60030040": {
         "deprecated": false,
         "Dev_Desc": "패시브_폭열_기공 관통력 효과 표시",
         "id": 60030040,
         "alias": "Contents.Skill.useEffectDesc.FireBangle.3034",
-        "text": "气功攻击力+5"
+        "text": "提升气功穿刺力"
     },
     "60030041": {
         "deprecated": false,
         "Dev_Desc": "패시브_빙백_지혜 효과 표시",
         "id": 60030041,
         "alias": "Contents.Skill.useEffectDesc.FireBangle.3035",
-        "text": "智慧+4"
+        "text": "提升智力及智慧"
     },
     "60030044": {
         "deprecated": false,
         "Dev_Desc": "패시브_홍염_기공방어력감소",
         "id": 60030044,
         "alias": "Contents.Skill.useEffectDesc.FireBangle.3038",
-        "text": "目标气功绝对防御力-5%"
+        "text": "降低目标的气功防御力"
     },
     "60030045": {
         "deprecated": false,
         "Dev_Desc": "패시브_빙정_둔화중빙결시빙결추가",
         "id": 60030045,
         "alias": "Contents.Skill.useEffectDesc.FireBangle.3039",
-        "text": "“冻结”状态异常命中几率增加"
+        "text": "“冰冻”状态异常命中率提升"
     },
     "60030046": {
         "deprecated": false,
         "Dev_Desc": "기공패 효과 표시 화상",
         "id": 60030046,
         "alias": "Contents.Skill.useEffectDesc.FireBangle.3000",
-        "text": "火伤"
+        "text": "烧伤"
     },
     "60030047": {
         "deprecated": false,
@@ -319,7 +319,7 @@
         "Dev_Desc": "기공패 효과 표시 빙결",
         "id": 60030048,
         "alias": "Contents.Skill.useEffectDesc.FireBangle.3004",
-        "text": "冰结"
+        "text": "冰冻"
     },
     "60030049": {
         "deprecated": false,
@@ -333,63 +333,63 @@
         "Dev_Desc": "기공패 조건 표시 화상",
         "id": 60030050,
         "alias": "Contents.Skill.requirementDesc.FireBangle.3000",
-        "text": "火伤"
+        "text": "烧伤"
     },
     "60030051": {
         "deprecated": false,
         "Dev_Desc": "기공패 조건 표시 발화",
         "id": 60030051,
         "alias": "Contents.Skill.requirementDesc.FireBangle.3271",
-        "text": "起火"
+        "text": "引火"
     },
     "60030052": {
         "deprecated": false,
         "Dev_Desc": "기공패 조건 표시 기절",
         "id": 60030052,
         "alias": "Contents.Skill.requirementDesc.FireBangle.3331",
-        "text": "气绝"
+        "text": "眩晕"
     },
     "60030053": {
         "deprecated": false,
         "Dev_Desc": "기공패 효과 표시 연화",
         "id": 60030053,
         "alias": "Contents.Skill.useEffectDesc.FireBangle.3351",
-        "text": "起火"
+        "text": "引火"
     },
     "60030054": {
         "deprecated": false,
         "Dev_Desc": "기공패 효과 표시 가열_기본공속",
         "id": 60030054,
         "alias": "Contents.Skill.useEffectDesc.FireBangle.3441",
-        "text": "基础攻击速度+50%"
+        "text": "加热"
     },
     "60030055": {
         "deprecated": false,
         "Dev_Desc": "기공패 화광소천 효과 표시",
         "id": 60030055,
         "alias": "Contents.Skill.useEffectDesc.FireBangle.3651",
-        "text": "拉、推、晕、烫伤"
+        "text": "拉拽，击退，眩晕，烧伤"
     },
     "60030056": {
         "deprecated": false,
         "Dev_Desc": "기공패 버프 발화Lv1_이름",
         "id": 60030056,
         "alias": "Contents.Effect.Name.FireBangle.300012",
-        "text": "起火"
+        "text": "引火1阶段"
     },
     "60030057": {
         "deprecated": false,
         "Dev_Desc": "기공패 버프 발화_내용",
         "id": 60030057,
         "alias": "Contents.Effect.Desc.FireBangle.300012",
-        "text": "火焰技能活性化"
+        "text": "引火持续时间内小幅提升攻击力。\n最多叠加至5阶段。"
     },
     "60030058": {
         "deprecated": false,
         "Dev_Desc": "기공패 버프 발화_옵션",
         "id": 60030058,
         "alias": "Contents.Effect.Option.FireBangle.300012",
-        "text": "流星,飞轮连击可用"
+        "text": "引火持续时间内小幅提升攻击力。\n最多叠加至5阶段。"
     },
     "60030059": {
         "deprecated": false,
@@ -402,119 +402,119 @@
         "Dev_Desc": "화련장",
         "id": 60030060,
         "alias": "Contents.Skill.Name.FireBangle.3061",
-        "text": "火球"
+        "text": "火莲掌"
     },
     "60030061": {
         "deprecated": false,
         "Dev_Desc": "기공패 무공 화련장_설명",
         "id": 60030061,
         "alias": "Contents.Skill.Desc.FireBangle.3061",
-        "text": "向敌人发射火球造成伤害"
+        "text": "对敌人发射火焰球造成伤害。"
     },
     "60030062": {
         "deprecated": false,
         "Dev_Desc": "비륜연휘",
         "id": 60030062,
         "alias": "Contents.Skill.Name.FireBangle.3271",
-        "text": "地狱火海"
+        "text": "飞轮连射"
     },
     "60030063": {
         "deprecated": false,
         "Dev_Desc": "기공패 무공 비륜연휘_설명",
         "id": 60030063,
         "alias": "Contents.Skill.Desc.FireBangle.3271",
-        "text": "乱射超高温火球造成伤害\n可消耗“起火”效果使用"
+        "text": "扫射10次超高温火球造成伤害。可对“烧伤”状态的敌人使用。"
     },
     "60030064": {
         "deprecated": false,
         "Dev_Desc": "회진보",
         "id": 60030064,
         "alias": "Contents.Skill.Name.FireBangle.3331",
-        "text": "精神净化"
+        "text": "回尘步"
     },
     "60030065": {
         "deprecated": false,
         "Dev_Desc": "기공패 무공 회진보_설명",
         "id": 60030065,
         "alias": "Contents.Skill.Desc.FireBangle.3331",
-        "text": "变成火灰的样子,解除“眩晕”效果,躲到后方使用时,5秒内控制抵抗率增加"
+        "text": "变身为火与灰，退至后方。"
     },
     "60030066": {
         "deprecated": false,
         "Dev_Desc": "연화",
         "id": 60030066,
         "alias": "Contents.Skill.Name.FireBangle.3351",
-        "text": "火焰虫"
+        "text": "烟花"
     },
     "60030067": {
         "deprecated": false,
         "Dev_Desc": "기공패 무공 연화_설명",
         "id": 60030067,
         "alias": "Contents.Skill.Desc.FireBangle.3351",
-        "text": "对目标立即注入火器造成伤害\n命中时,可使用特定技能的“起火”效果5.5秒"
+        "text": "立即对目标注入火气造成伤害，对目标施加“烧伤”效果。"
     },
     "60030068": {
         "deprecated": false,
         "Dev_Desc": "얼음창-기본",
         "id": 60030068,
         "alias": "Contents.Skill.Name.FireBangle.3371",
-        "text": "冰尖柱"
+        "text": "环日经"
     },
     "60030069": {
         "deprecated": false,
         "Dev_Desc": "기공패 무공 얼음창_설명",
         "id": 60030069,
         "alias": "Contents.Skill.Desc.FireBangle.3371",
-        "text": "召唤多数冰枪向敌人发射\n有一定几率降低移动速度,适用“钝化”效果"
+        "text": "召唤多个火球射向敌人。可用于眩晕或击飞状态中的目标。"
     },
     "60030070": {
         "deprecated": false,
         "Dev_Desc": "유성",
         "id": 60030070,
         "alias": "Contents.Skill.Name.FireBangle.3627",
-        "text": "流星"
+        "text": "流星_极"
     },
     "60030071": {
         "deprecated": false,
         "Dev_Desc": "기공패 무공 유성_설명",
         "id": 60030071,
         "alias": "Contents.Skill.Desc.FireBangle.3627",
-        "text": "降低火球造成伤害,并有一定几率造成周期性伤害的“火伤”效果“消耗“起火”效果,范围内最多命中3人"
+        "text": "落下火焰流星与寒冰流星造成伤害。\n火焰流星施加“烧伤”效果。\n寒冰流星施加“缓速”效果。"
     },
     "60030072": {
         "deprecated": false,
         "Dev_Desc": "봉황시",
         "id": 60030072,
         "alias": "Contents.Skill.Name.FireBangle.3381",
-        "text": "凤凰羽"
+        "text": "凤凰矢"
     },
     "60030073": {
         "deprecated": false,
         "Dev_Desc": "기공패 무공 봉황시_설명",
         "id": 60030073,
         "alias": "Contents.Skill.Desc.FireBangle.3381",
-        "text": "飞向空中,演练灼热的凤凰羽毛"
+        "text": "飞向空中连续发射灼热羽毛。\n与施法者智慧数值成比例造成额外伤害。"
     },
     "60030074": {
         "deprecated": false,
         "Dev_Desc": "용렬빙하",
         "id": 60030074,
         "alias": "Contents.Skill.Name.FireBangle.3401",
-        "text": "冰域"
+        "text": "涌裂冰河"
     },
     "60030075": {
         "deprecated": false,
         "Dev_Desc": "기공패 무공 용렬빙하_설명",
         "id": 60030075,
         "alias": "Contents.Skill.Desc.FireBangle.3401",
-        "text": "形成向前方长长的冰河,有一定几率妨碍移动的“冰结”效果\n范围内最多可命中3人"
+        "text": "在前方形成狭长的冰河地带。\n被击时施加“冰冻”效果\n最多可击中范围内3人。"
     },
     "60030076": {
         "deprecated": false,
         "Dev_Desc": "결빙공-기본",
         "id": 60030076,
         "alias": "Contents.Skill.Name.FireBangle.3411",
-        "text": "寒冰障碍"
+        "text": "结冰功"
     },
     "60030077": {
         "deprecated": false,
@@ -528,21 +528,21 @@
         "Dev_Desc": "무공 화륜",
         "id": 60030078,
         "alias": "Contents.Skill.Name.FireBangle.3441",
-        "text": "花轮"
+        "text": "火轮_开发中"
     },
     "60030079": {
         "deprecated": false,
         "Dev_Desc": "무공 화륜 설명",
         "id": 60030079,
         "alias": "Contents.Skill.Desc.FireBangle.3441",
-        "text": "释放内在火器,增加队员基础攻击速度的“加热”效果12秒内赋予"
+        "text": "释放内在的火气，为队员施加可提升基本攻击速度的“加热”效果。"
     },
     "60030080": {
         "deprecated": false,
         "Dev_Desc": "화광소천",
         "id": 60030080,
         "alias": "Contents.Skill.Name.FireBangle.3651",
-        "text": "火焰风暴"
+        "text": "火光灼天"
     },
     "60030081": {
         "deprecated": false,
@@ -556,70 +556,70 @@
         "Dev_Desc": "기공패 패시브 순환",
         "id": 60030082,
         "alias": "Contents.Skill.Name.FireBangle.3031",
-        "text": "元素之意"
+        "text": "被动_循环"
     },
     "60030083": {
         "deprecated": false,
         "Dev_Desc": "기공패 패시브 순환_설명",
         "id": 60030083,
         "alias": "Contents.Skill.Desc.FireBangle.3031",
-        "text": "了解火和冰的循环道理\n智能增加"
+        "text": "领悟热气与冷气的循环。提升智力。"
     },
     "60030084": {
         "deprecated": false,
         "Dev_Desc": "기공패 패시브 냉정",
         "id": 60030084,
         "alias": "Contents.Skill.Name.FireBangle.3032",
-        "text": "寒气"
+        "text": "被动_冷静"
     },
     "60030085": {
         "deprecated": false,
         "Dev_Desc": "기공패 패시브 냉정_설명",
         "id": 60030085,
         "alias": "Contents.Skill.Desc.FireBangle.3032",
-        "text": "保持冷静的沉着心态\n气功牌攻击力增加"
+        "text": "专注于彩绫的熟练度，提升彩绫攻击力。"
     },
     "60030086": {
         "deprecated": false,
         "Dev_Desc": "기공패 패시브 열정",
         "id": 60030086,
         "alias": "Contents.Skill.Name.FireBangle.3033",
-        "text": "热情"
+        "text": "被动_热情"
     },
     "60030087": {
         "deprecated": false,
         "Dev_Desc": "기공패 패시브 열정_설명",
         "id": 60030087,
         "alias": "Contents.Skill.Desc.FireBangle.3033",
-        "text": "用对技能的热情来磨练自己\n增加气功攻击力"
+        "text": "专注于锻炼身体，提升气功攻击力。"
     },
     "60030088": {
         "deprecated": false,
         "Dev_Desc": "기공패 패시브 폭열",
         "id": 60030088,
         "alias": "Contents.Skill.Name.FireBangle.3034",
-        "text": "灼烧之手"
+        "text": "被动_爆裂"
     },
     "60030089": {
         "deprecated": false,
         "Dev_Desc": "기공패 패시브 폭열_설명",
         "id": 60030089,
         "alias": "Contents.Skill.Desc.FireBangle.3034",
-        "text": "领悟火属性的奥义\n气功攻击力增加"
+        "text": "领悟火的原理，提升气功穿刺力。"
     },
     "60030090": {
         "deprecated": false,
         "Dev_Desc": "기공패 패시브 빙백",
         "id": 60030090,
         "alias": "Contents.Skill.Name.FireBangle.3035",
-        "text": "冰雾"
+        "text": "被动_冰魄"
     },
     "60030091": {
         "deprecated": false,
         "Dev_Desc": "기공패 패시브 빙백_설명",
         "id": 60030091,
         "alias": "Contents.Skill.Desc.FireBangle.3035",
-        "text": "明白了冰属性的奥义\n智慧增加"
+        "text": "领悟冰的原理，提升智力与智慧。"
     },
     "60030096": {
         "deprecated": false,
@@ -633,42 +633,42 @@
         "Dev_Desc": "기공패 패시브 홍염_설명",
         "id": 60030097,
         "alias": "Contents.Skill.Desc.FireBangle.3038",
-        "text": "使用更加猛烈的红色火焰\n目标进入“火伤”状态时,赋予减少目标气功绝对防御力的“红炎”效果"
+        "text": "使用更加猛烈的红色火焰。\n目标成为“烧伤”状态时，赋予降低目标气功防御力的“红焰”效果。"
     },
     "60030098": {
         "deprecated": false,
         "Dev_Desc": "기공패 패시브 빙정",
         "id": 60030098,
         "alias": "Contents.Skill.Name.FireBangle.3039",
-        "text": "绝对零度"
+        "text": "冰晶"
     },
     "60030099": {
         "deprecated": false,
         "Dev_Desc": "기공패 패시브 빙정_설명",
         "id": 60030099,
         "alias": "Contents.Skill.Desc.FireBangle.3039",
-        "text": "精通处理冰属性的技能\n以“钝化”效果适用的对象为对象,\n“冻结”状态以上的命中率上升"
+        "text": "精通冰之武功。\n目标被施加“缓速”效果时，\n提升“冰冻”效果的命中率。"
     },
     "60030100": {
         "deprecated": false,
         "Dev_Desc": "화련장_일반_증폭_성장설명",
         "id": 60030100,
         "alias": "Contents.Skill.acquireEffectDesc.3062",
-        "text": "按智能比例适用追加伤害"
+        "text": "转换为范围伤害\n可击中范围内最多3人"
     },
     "60030101": {
         "deprecated": false,
         "Dev_Desc": "화련장_희귀_극한_성장설명",
         "id": 60030101,
         "alias": "Contents.Skill.acquireEffectDesc.3063",
-        "text": "广域伤害兑换\n范围内最多命中3人"
+        "text": "对被攻击的目标施加可造成持续伤害的“烧伤”效果"
     },
     "60030102": {
         "deprecated": false,
         "Dev_Desc": "화련장_영웅_돌파_성장설명",
         "id": 60030102,
         "alias": "Contents.Skill.acquireEffectDesc.3064",
-        "text": "有一定几率在5.5秒内赋予自己“起火”效果"
+        "text": "使用后，以较低概率连射无需消耗气力且瞬发的火莲掌"
     },
     "60030103": {
         "deprecated": false,
@@ -682,14 +682,14 @@
         "Dev_Desc": "비륜연휘_극한_성장설명",
         "id": 60030104,
         "alias": "Contents.Skill.acquireEffectDesc.3291",
-        "text": "有一定几率在5.5秒内赋予自己“起火”效果"
+        "text": "降低内力消耗"
     },
     "60030105": {
         "deprecated": false,
         "Dev_Desc": "비륜연휘_돌파_성장설명",
         "id": 60030105,
         "alias": "Contents.Skill.acquireEffectDesc.3321",
-        "text": "引起强烈爆炸的暴饮暴食联系\n目标周围的“烧伤”状态的敌人一起被攻击"
+        "text": "使用后，可使用引发强力爆炸的连接武功"
     },
     "60030106": {
         "deprecated": false,
@@ -738,21 +738,21 @@
         "Dev_Desc": "얼음창_상급_증폭_성장설명",
         "id": 60030112,
         "alias": "Contents.Skill.acquireEffectDesc.3372",
-        "text": "内力消耗量-2"
+        "text": "“缓速”效果的持续时间提升"
     },
     "60030113": {
         "deprecated": false,
         "Dev_Desc": "얼음창_희귀_극한_성장설명",
         "id": 60030113,
         "alias": "Contents.Skill.acquireEffectDesc.3373",
-        "text": "冷却时间-2秒"
+        "text": "冷却时间降低"
     },
     "60030114": {
         "deprecated": false,
         "Dev_Desc": "얼음창_영웅_돌파_성장설명",
         "id": 60030114,
         "alias": "Contents.Skill.acquireEffectDesc.3374",
-        "text": "有一定几率适用“冻结”效果"
+        "text": "对被攻击的目标施加可妨碍移动的“冰冻”效果后，施加“缓速”效果"
     },
     "60030115": {
         "deprecated": false,
@@ -794,21 +794,21 @@
         "Dev_Desc": "용렬빙하_돌파_성장설명",
         "id": 60030120,
         "alias": "Contents.Skill.acquireEffectDesc.3404",
-        "text": "龙烈冰川范围暴增\n范围内最多命中5人"
+        "text": "涌裂冰河的范围提升\n可击中范围内最多5人"
     },
     "60030121": {
         "deprecated": false,
         "Dev_Desc": "결빙공_증폭_성장설명",
         "id": 60030121,
         "alias": "Contents.Skill.acquireEffectDesc.3421",
-        "text": "体力消耗量-100"
+        "text": "结冰功持续时间内若成功防御攻击\n将造成伤害的同时施加可妨碍移动的“缓速”效果"
     },
     "60030122": {
         "deprecated": false,
         "Dev_Desc": "결빙공_극한_성장설명",
         "id": 60030122,
         "alias": "Contents.Skill.acquireEffectDesc.3422",
-        "text": "防御成功时,对攻击对象造成伤害"
+        "text": "使用后，对周围造成“冰冻”效果并闪避\n可击中范围内最多3人"
     },
     "60030123": {
         "deprecated": false,
@@ -822,7 +822,7 @@
         "Dev_Desc": "화륜_증폭_성장설명",
         "id": 60030124,
         "alias": "Contents.Skill.acquireEffectDesc.3442",
-        "text": "技能攻击速度+30%"
+        "text": "获得“加热”效果时，武功攻击速度额外提升"
     },
     "60030125": {
         "deprecated": false,
@@ -843,14 +843,14 @@
         "Dev_Desc": "유성_상급_증폭_성장설명",
         "id": 60030127,
         "alias": "Contents.Skill.acquireEffectDesc.3628",
-        "text": "有一定几率在5.5秒内赋予自己“起火”效果"
+        "text": "对被攻击的目标施加可造成持续伤害的“烧伤”效果"
     },
     "60030128": {
         "deprecated": false,
         "Dev_Desc": "유성_희귀_극한_성장설명",
         "id": 60030128,
         "alias": "Contents.Skill.acquireEffectDesc.3629",
-        "text": "追加发射冰流星,有一定几率适用“钝化”效果"
+        "text": "额外发射寒冰流星，同时施加可降低移动速度的“缓速”效果"
     },
     "60030129": {
         "deprecated": false,

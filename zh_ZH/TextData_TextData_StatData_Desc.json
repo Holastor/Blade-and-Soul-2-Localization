@@ -4,1365 +4,1365 @@
         "Dev_Desc": "Strength",
         "id": 11001,
         "alias": "Contents.Stat.Desc.Strength",
-        "text": "每一定数值增加近距离攻击力，近距离穿透力，近距离命中，防御力。"
+        "text": "每一定数值提升近距离攻击力，近距离穿刺力。"
     },
     "11002": {
         "deprecated": false,
         "Dev_Desc": "Dexterity",
         "id": 11002,
         "alias": "Contents.Stat.Desc.Dexterity",
-        "text": "每一个数值增加远程攻击力、远程穿透力、远程命中、暴击追加攻击力。"
+        "text": "每一定数值提升远距离攻击力，远距离穿刺力。"
     },
     "11003": {
         "deprecated": false,
         "Dev_Desc": "Intelligence",
         "id": 11003,
         "alias": "Contents.Stat.Desc.Intelligence",
-        "text": "每一个数值气功攻击力，气功穿透力，气功命中，控制抵抗率增加。"
+        "text": "每一定数值提升气功攻击力，气功穿刺力。"
     },
     "11004": {
         "deprecated": false,
         "Dev_Desc": "Constitution",
         "id": 11004,
         "alias": "Contents.Stat.Desc.Constitution",
-        "text": "一定数值增加生命力、药水恢复率、无公害伤害耐性、灵魂抵抗率。"
+        "text": "每一定数值提升生命，生命再生。"
     },
     "11005": {
         "deprecated": false,
         "Dev_Desc": "Wisdom",
         "id": 11005,
         "alias": "Contents.Stat.Desc.Wisdom",
-        "text": "每一个数值内力、灵魂发动率、无公害伤害增幅、内力调节增加。"
+        "text": "每一定数值提升内力，内力再生。"
     },
     "11006": {
         "deprecated": false,
         "Dev_Desc": "Agility",
         "id": 11006,
         "alias": "Contents.Stat.Desc.Agility",
-        "text": "每一数值增加暴击率、闪避、移动速度增加率、基本攻击速度。"
+        "text": "每一定数值提升暴击率，机敏。"
     },
     "11007": {
         "deprecated": false,
         "Dev_Desc": "ShortPhysicalAttack",
         "id": 11007,
         "alias": "Contents.Stat.Desc.ShortPhysicalAttack",
-        "text": "攻击时造成的近距离伤害量。"
+        "text": "生命降至0时死亡。"
     },
     "11008": {
         "deprecated": false,
         "Dev_Desc": "LongPhysicalAttack",
         "id": 11008,
         "alias": "Contents.Stat.Desc.LongPhysicalAttack",
-        "text": "攻击时造成的远距离伤害量。"
+        "text": "生命数值按比例提升。"
     },
     "11009": {
         "deprecated": false,
         "Dev_Desc": "ForceAttack",
         "id": 11009,
         "alias": "Contents.Stat.Desc.ForceAttack",
-        "text": "攻击时造成的气功伤害量。"
+        "text": "武功资源，使用武功时减少。"
     },
     "11010": {
         "deprecated": false,
         "Dev_Desc": "Attack",
         "id": 11010,
         "alias": "Contents.Stat.Desc.Attack",
-        "text": "增加所有类型的攻击力。"
+        "text": "特殊资源，使用轻功或格挡时减少。"
     },
     "11011": {
         "deprecated": false,
         "Dev_Desc": "WeaponAttack",
         "id": 11011,
         "alias": "Contents.Stat.Desc.WeaponAttack",
-        "text": "装备武器时增加的伤害量。"
+        "text": "攻击时造成的近距离伤害量。"
     },
     "11012": {
         "deprecated": false,
         "Dev_Desc": "WeaponAttackRate",
         "id": 11012,
         "alias": "Contents.Stat.Desc.WeaponAttackRate",
-        "text": "武器攻击力增加。"
+        "text": "攻击时造成的远距离伤害量。"
     },
     "11013": {
         "deprecated": false,
         "Dev_Desc": "WeaponAttackToleranceRate",
         "id": 11013,
         "alias": "Contents.Stat.Desc.WeaponAttackToleranceRate",
-        "text": "武器攻击力造成的伤害减少。"
+        "text": "攻击时造成的气功伤害量。"
     },
     "11014": {
         "deprecated": false,
         "Dev_Desc": "AttackBonus",
         "id": 11014,
         "alias": "Contents.Stat.Desc.AttackBonus",
-        "text": "武器攻击力增加。"
+        "text": "各类攻击力全部提升。"
     },
     "11015": {
         "deprecated": false,
         "Dev_Desc": "AddAttackMin",
         "id": 11015,
         "alias": "Contents.Stat.Desc.AddAttackMin",
-        "text": "攻击时造成的伤害最小数值增加。"
+        "text": "所有攻击力数值按比例提升。"
     },
     "11016": {
         "deprecated": false,
         "Dev_Desc": "healingPower",
         "id": 11016,
         "alias": "Contents.Stat.Desc.healingPower",
-        "text": "治愈时生命力恢复量的基准值。"
+        "text": "武器攻击力数值按比例提升。"
     },
     "11017": {
         "deprecated": false,
         "Dev_Desc": "healingPowerRate",
         "id": 11017,
         "alias": "Contents.Stat.Desc.healingPowerRate",
-        "text": "有几率增加。"
+        "text": "武器攻击力数值按比例降低。"
     },
     "11018": {
         "deprecated": false,
         "Dev_Desc": "SwordAttack",
         "id": 11018,
         "alias": "Contents.Stat.Desc.SwordAttack",
-        "text": "装备剑时增加的伤害量。"
+        "text": "武器强化时提升的伤害量。"
     },
     "11019": {
         "deprecated": false,
         "Dev_Desc": "GauntletAttack",
         "id": 11019,
         "alias": "Contents.Stat.Desc.GauntletAttack",
-        "text": "装备拳套时增加的伤害量。"
+        "text": "武器攻击力的最小值提升。"
     },
     "11020": {
         "deprecated": false,
         "Dev_Desc": "AxeAttack",
         "id": 11020,
         "alias": "Contents.Stat.Desc.AxeAttack",
-        "text": "装备斧子时增加的伤害量。"
+        "text": "武器攻击力的最大值提升。"
     },
     "11021": {
         "deprecated": false,
         "Dev_Desc": "BangleAttack",
         "id": 11021,
         "alias": "Contents.Stat.Desc.BangleAttack",
-        "text": "气功镶嵌时增加的伤害量。"
+        "text": "装备剑时提升的伤害量。"
     },
     "11022": {
         "deprecated": false,
         "Dev_Desc": "BowAttack",
         "id": 11022,
         "alias": "Contents.Stat.Desc.BowAttack",
-        "text": "装备弓箭时增加的伤害量。"
+        "text": "装备拳套时提升的伤害量。"
     },
     "11023": {
         "deprecated": false,
         "Dev_Desc": "RitualBellAttack",
         "id": 11023,
         "alias": "Contents.Stat.Desc.RitualBellAttack",
-        "text": "装备法种时增加的伤害量。"
+        "text": "装备斧时提升的伤害量。"
     },
     "11024": {
         "deprecated": false,
         "Dev_Desc": "ShortPhysicalPenetration",
         "id": 11024,
         "alias": "Contents.Stat.Desc.ShortPhysicalPenetration",
-        "text": "近距离攻击时抵消目标的近距离防御力。"
+        "text": "装备彩绫时提升的伤害量。"
     },
     "11025": {
         "deprecated": false,
         "Dev_Desc": "LongPhysicalPenetration",
         "id": 11025,
         "alias": "Contents.Stat.Desc.LongPhysicalPenetration",
-        "text": "远程攻击时抵消目标的远程防御力。"
+        "text": "装备弓时提升的伤害量。"
     },
     "11026": {
         "deprecated": false,
         "Dev_Desc": "ForcePenetration",
         "id": 11026,
         "alias": "Contents.Stat.Desc.ForcePenetration",
-        "text": "气功攻击时抵消目标的气功防御力。"
+        "text": "近距离类攻击时，减少目标的近距离防御率。"
     },
     "11027": {
         "deprecated": false,
         "Dev_Desc": "Penetration",
         "id": 11027,
         "alias": "Contents.Stat.Desc.Penetration",
-        "text": "所有类型的攻击力增加。"
+        "text": "远距离类攻击时，减少目标的远距离防御率。"
     },
     "11028": {
         "deprecated": false,
         "Dev_Desc": "ShortPhysicalHit",
         "id": 11028,
         "alias": "Contents.Stat.Desc.ShortPhysicalHit",
-        "text": "近距离攻击时命中率增加。"
+        "text": "气功类攻击时，减少目标的气功防御率。"
     },
     "11029": {
         "deprecated": false,
         "Dev_Desc": "LongPhysicalHit",
         "id": 11029,
         "alias": "Contents.Stat.Desc.LongPhysicalHit",
-        "text": "远程攻击时命中率增加。"
+        "text": "各类穿刺力全部提升。"
     },
     "11030": {
         "deprecated": false,
         "Dev_Desc": "ForceHit",
         "id": 11030,
         "alias": "Contents.Stat.Desc.ForceHit",
-        "text": "气功攻击时命中率增加。"
+        "text": "所有穿刺力数值按比例提升。"
     },
     "11031": {
         "deprecated": false,
         "Dev_Desc": "Hit",
         "id": 11031,
         "alias": "Contents.Stat.Desc.Hit",
-        "text": "所有类型命中增加。"
+        "text": "攻击命中率提升。"
     },
     "11032": {
         "deprecated": false,
         "Dev_Desc": "ShortPhysicalCriticalRate",
         "id": 11032,
         "alias": "Contents.Stat.Desc.ShortPhysicalCriticalRate",
-        "text": "近距离攻击时暴击率增加。"
+        "text": "出现暴击的概率提升。"
     },
     "11033": {
         "deprecated": false,
         "Dev_Desc": "LongPhysicalCriticalRate",
         "id": 11033,
         "alias": "Contents.Stat.Desc.LongPhysicalCriticalRate",
-        "text": "远距离攻击时暴击率增加。"
+        "text": "最终暴击率提升。"
     },
     "11034": {
         "deprecated": false,
         "Dev_Desc": "ForceCriticalRate",
         "id": 11034,
         "alias": "Contents.Stat.Desc.ForceCriticalRate",
-        "text": "气功攻击时暴击率增加。"
+        "text": "成功攻击弱点时提升的伤害量。"
     },
     "11035": {
         "deprecated": false,
         "Dev_Desc": "CriticalRate",
         "id": 11035,
         "alias": "Contents.Stat.Desc.CriticalRate",
-        "text": "所有类型的暴击率增加。"
+        "text": "成功格挡穿刺时提升的伤害量。"
     },
     "11036": {
         "deprecated": false,
         "Dev_Desc": "CriticalAttack",
         "id": 11036,
         "alias": "Contents.Stat.Desc.CriticalAttack",
-        "text": "暴击攻击成功时追加伤害量。"
+        "text": "计算后造成的伤害量按比例提升。"
     },
     "11037": {
         "deprecated": false,
         "Dev_Desc": "FatalAttack",
         "id": 11037,
         "alias": "Contents.Stat.Desc.FatalAttack",
-        "text": "弱点攻击成功时追加伤害量。"
+        "text": "不计算防御率的伤害量。"
     },
     "11038": {
         "deprecated": false,
         "Dev_Desc": "BlockpenetrationAttack",
         "id": 11038,
         "alias": "Contents.Stat.Desc.BlockpenetrationAttack",
-        "text": "阻挡穿透成功时追加伤害量。"
+        "text": "无视防御伤害数值按比例提升。"
     },
     "11039": {
         "deprecated": false,
         "Dev_Desc": "DamagePure",
         "id": 11039,
         "alias": "Contents.Stat.Desc.DamagePure",
-        "text": "攻击时目标的防御力不会减少的伤害。"
+        "text": "控制命中时，控制时间提升。"
     },
     "11040": {
         "deprecated": false,
         "Dev_Desc": "ShortPhysicalAttackReduction",
         "id": 11040,
         "alias": "Contents.Stat.Desc.ShortPhysicalAttackReduction",
-        "text": "抵消近距离攻击力。"
+        "text": "熟练数值按比例提升。"
     },
     "11041": {
         "deprecated": false,
         "Dev_Desc": "LongPhysicalAttackReduction",
         "id": 11041,
         "alias": "Contents.Stat.Desc.LongPhysicalAttackReduction",
-        "text": "抵消远程攻击力。"
+        "text": "控制攻击的命中率提升。"
     },
     "11042": {
         "deprecated": false,
         "Dev_Desc": "ForceAttackReduction",
         "id": 11042,
         "alias": "Contents.Stat.Desc.ForceAttackReduction",
-        "text": "抵消气功攻击力。"
+        "text": "最终控制率提升。"
     },
     "11043": {
         "deprecated": false,
         "Dev_Desc": "AttackReduction",
         "id": 11043,
         "alias": "Contents.Stat.Desc.AttackReduction",
-        "text": "所有类型的护身增加。"
+        "text": "使用格挡穿刺技能时，目标的格挡率减少。"
     },
     "11044": {
         "deprecated": false,
         "Dev_Desc": "ShortPhysicalDefence",
         "id": 11044,
         "alias": "Contents.Stat.Desc.ShortPhysicalDefence",
-        "text": "近战攻击造成的伤害减少。"
+        "text": "受到近距离类攻击时的伤害减少量。"
     },
     "11045": {
         "deprecated": false,
         "Dev_Desc": "LongPhysicalDefence",
         "id": 11045,
         "alias": "Contents.Stat.Desc.LongPhysicalDefence",
-        "text": "远程攻击造成的伤害减少。"
+        "text": "受到远距离类攻击时的伤害减少量。"
     },
     "11046": {
         "deprecated": false,
         "Dev_Desc": "ForceDefence",
         "id": 11046,
         "alias": "Contents.Stat.Desc.ForceDefence",
-        "text": "气功攻击造成的伤害减少。"
+        "text": "受到气功类攻击时的伤害减少量。"
     },
     "11047": {
         "deprecated": false,
         "Dev_Desc": "Defence",
         "id": 11047,
         "alias": "Contents.Stat.Desc.Defence",
-        "text": "所有类型的防御力增加。"
+        "text": "各类护身全部提升。"
     },
     "11048": {
         "deprecated": false,
         "Dev_Desc": "ShortPhysicalEvasion",
         "id": 11048,
         "alias": "Contents.Stat.Desc.ShortPhysicalEvasion",
-        "text": "受到近距离攻击时出错率增加。"
+        "text": "最终远距离防御率提升。"
     },
     "11049": {
         "deprecated": false,
         "Dev_Desc": "LongPhysicalEvasion",
         "id": 11049,
         "alias": "Contents.Stat.Desc.LongPhysicalEvasion",
-        "text": "受到远程攻击时，被打偏的几率增加。"
+        "text": "受到气功类攻击时，气功防御率提升。"
     },
     "11050": {
         "deprecated": false,
         "Dev_Desc": "ForceEvasion",
         "id": 11050,
         "alias": "Contents.Stat.Desc.ForceEvasion",
-        "text": "受到气功攻击时，被打偏的几率增加。"
+        "text": "最终气功防御率提升。"
     },
     "11051": {
         "deprecated": false,
         "Dev_Desc": "Evasion",
         "id": 11051,
         "alias": "Contents.Stat.Desc.Evasion",
-        "text": "所有类型的回避增加。"
+        "text": "各类防御力全部提升。"
     },
     "11052": {
         "deprecated": false,
         "Dev_Desc": "ShortPhysicalCriticalResistanceRate",
         "id": 11052,
         "alias": "Contents.Stat.Desc.ShortPhysicalCriticalResistanceRate",
-        "text": "受到近距离攻击时抵消暴击率。"
+        "text": "所有防御力数值按比例提升。"
     },
     "11053": {
         "deprecated": false,
         "Dev_Desc": "LongPhysicalCriticalResistanceRate",
         "id": 11053,
         "alias": "Contents.Stat.Desc.LongPhysicalCriticalResistanceRate",
-        "text": "受到远程攻击时抵消致命率。"
+        "text": "受到攻击时，打偏率提升。"
     },
     "11054": {
         "deprecated": false,
         "Dev_Desc": "ForceCriticalResistanceRate",
         "id": 11054,
         "alias": "Contents.Stat.Desc.ForceCriticalResistanceRate",
-        "text": "受到气功攻击时抵消致命率。"
+        "text": "机敏数值按比例提升。"
     },
     "11055": {
         "deprecated": false,
         "Dev_Desc": "CriticalResistanceRate",
         "id": 11055,
         "alias": "Contents.Stat.Desc.CriticalResistanceRate",
-        "text": "所有类型的暴击抵抗率增加。"
+        "text": "受到暴击时，减少受到的暴击额外攻击力。"
     },
     "11056": {
         "deprecated": false,
         "Dev_Desc": "CriticalAttackReduction",
         "id": 11056,
         "alias": "Contents.Stat.Desc.CriticalAttackReduction",
-        "text": "抵消致命打击造成的额外伤害。"
+        "text": "受到攻击时，暴击率减少。"
     },
     "11057": {
         "deprecated": false,
         "Dev_Desc": "FatalAttackReduction",
         "id": 11057,
         "alias": "Contents.Stat.Desc.FatalAttackReduction",
-        "text": "抵消因弱点攻击而受到的追加伤害。"
+        "text": "受到弱点攻击时，降低弱点额外攻击力。"
     },
     "11058": {
         "deprecated": false,
         "Dev_Desc": "BlockpenetrationAttackReduction",
         "id": 11058,
         "alias": "Contents.Stat.Desc.BlockpenetrationAttackReduction",
-        "text": "抵消被阻挡穿透造成的额外伤害。"
+        "text": "格挡被穿刺时，降低格挡额外攻击力。"
     },
     "11059": {
         "deprecated": false,
         "Dev_Desc": "ReduceDamagePure",
         "id": 11059,
         "alias": "Contents.Stat.Desc.ReduceDamagePure",
-        "text": "抵消防御无视攻击造成的附加伤害。"
+        "text": "计算后受到的伤害量按比例减少。"
     },
     "11060": {
         "deprecated": false,
         "Dev_Desc": "HP",
         "id": 11060,
         "alias": "Contents.Stat.Desc.HP",
-        "text": "生命力为0时死亡。"
+        "text": "柔韧数值按比例提升。"
     },
     "11061": {
         "deprecated": false,
         "Dev_Desc": "HPRate",
         "id": 11061,
         "alias": "Contents.Stat.Desc.HPRate",
-        "text": "生命力增加。"
+        "text": "降低被施加控制的概率。"
     },
     "11062": {
         "deprecated": false,
         "Dev_Desc": "Focus",
         "id": 11062,
         "alias": "Contents.Stat.Desc.Focus",
-        "text": "无公害使用时减少的资源。"
+        "text": "使用格挡技能时，目标的格挡穿刺率减少。"
     },
     "11063": {
         "deprecated": false,
         "Dev_Desc": "Stamina",
         "id": 11063,
         "alias": "Contents.Stat.Desc.Stamina",
-        "text": "使用轻攻或阻止攻击时减少的资源。"
+        "text": "成功打偏时，伤害量按比例减少。"
     },
     "11064": {
         "deprecated": false,
         "Dev_Desc": "RegenerationHP",
         "id": 11064,
         "alias": "Contents.Stat.Desc.RegenerationHP",
-        "text": "单位时间内恢复的生命力增加。"
+        "text": "成功格挡时，伤害量按比例减少。"
     },
     "11065": {
         "deprecated": false,
         "Dev_Desc": "FixedRegenerationHP",
         "id": 11065,
         "alias": "Contents.Stat.Desc.FixedRegenerationHP",
-        "text": "与所持重量无关，每单位时间恢复的生命力增加。"
+        "text": "成功招架时，伤害量按比例减少。"
     },
     "11066": {
         "deprecated": false,
         "Dev_Desc": "RegenerationFocus",
         "id": 11066,
         "alias": "Contents.Stat.Desc.RegenerationFocus",
-        "text": "每单位时间恢复的内力增加。"
+        "text": "提升金币获得量。"
     },
     "11067": {
         "deprecated": false,
         "Dev_Desc": "FixedRegenerationFocus",
         "id": 11067,
         "alias": "Contents.Stat.Desc.FixedRegenerationFocus",
-        "text": "与所持重量无关，每单位时间恢复的内力增加。"
+        "text": "提升经验值获得量。"
     },
     "11068": {
         "deprecated": false,
         "Dev_Desc": "ControlFocus",
         "id": 11068,
         "alias": "Contents.Stat.Desc.ControlFocus",
-        "text": "使用武功时消耗的内力减少。"
+        "text": "提升每一跳的生命恢复值。"
     },
     "11069": {
         "deprecated": false,
         "Dev_Desc": "RegenerationStamina",
         "id": 11069,
         "alias": "Contents.Stat.Desc.RegenerationStamina",
-        "text": "每单位时间恢复的气力增加。"
+        "text": "提升每一跳的内力恢复值。"
     },
     "11070": {
         "deprecated": false,
         "Dev_Desc": "HPPotionRecovery",
         "id": 11070,
         "alias": "Contents.Stat.Desc.HPPotionRecovery",
-        "text": "使用生命力恢复药水时恢复量增加。"
+        "text": "提升每一跳的气力恢复值。"
     },
     "11071": {
         "deprecated": false,
         "Dev_Desc": "HPPotionRecoveryRate",
         "id": 11071,
         "alias": "Contents.Stat.Desc.HPPotionRecoveryRate",
-        "text": "使用生命力恢复药水时恢复量增加一定比例。"
+        "text": "提升不受携带重量影响的每一跳内力恢复值。"
     },
     "11072": {
         "deprecated": false,
         "Dev_Desc": "NormalAttackSpeed",
         "id": 11072,
         "alias": "Contents.Stat.Desc.NormalAttackSpeed",
-        "text": "每单位时间增加基本攻击次数。"
+        "text": "使用武功时消耗的内力按比例降低。"
     },
     "11073": {
         "deprecated": false,
         "Dev_Desc": "ActiveAttackSpeed",
         "id": 11073,
         "alias": "Contents.Stat.Desc.ActiveAttackSpeed",
-        "text": "每单位时间增加无公害攻击次数。"
+        "text": "作用于首领怪兽弱点部位的切断伤害量。"
     },
     "11074": {
         "deprecated": false,
         "Dev_Desc": "SkillDamage",
         "id": 11074,
         "alias": "Contents.Stat.Desc.SkillDamage",
-        "text": "无公害伤害增加。"
+        "text": "攻击时，对方的反弹率减少。"
     },
     "11075": {
         "deprecated": false,
         "Dev_Desc": "ReduceSkillDamage",
         "id": 11075,
         "alias": "Contents.Stat.Desc.ReduceSkillDamage",
-        "text": "无公害伤害减少。"
+        "text": "最终反弹率提升。"
     },
     "11076": {
         "deprecated": false,
         "Dev_Desc": "CutPartsDamageRate",
         "id": 11076,
         "alias": "Contents.Stat.Desc.CutPartsDamageRate",
-        "text": "BOSS的弱点攻击时增加对部位破坏生命力的伤害量。"
+        "text": "游泳速度提升。"
     },
     "11077": {
         "deprecated": false,
         "Dev_Desc": "StrikePartsDamageRate",
         "id": 11077,
         "alias": "Contents.Stat.Desc.StrikePartsDamageRate",
-        "text": "BOSS的弱点攻击时增加对部位破坏（打击）生命力的伤害量。"
+        "text": "行走速度提升。"
     },
     "11078": {
         "deprecated": false,
         "Dev_Desc": "ControlHPDamageRate",
         "id": 11078,
         "alias": "Contents.Stat.Desc.ControlHPDamageRate",
-        "text": "BOSS的弱点攻击时，对控制生命力的伤害量增加。"
+        "text": "行走，游泳速度减少。"
     },
     "11079": {
         "deprecated": false,
         "Dev_Desc": "DamageRate",
         "id": 11079,
         "alias": "Contents.Stat.Desc.DamageRate",
-        "text": "造成的伤害量增加。"
+        "text": "对人战斗时生效的命中。"
     },
     "11080": {
         "deprecated": false,
         "Dev_Desc": "ReduceTakenDamageRate",
         "id": 11080,
         "alias": "Contents.Stat.Desc.ReduceTakenDamageRate",
-        "text": "受到的伤害量减少。"
+        "text": "PvE战斗时生效的额外攻击力。"
     },
     "11081": {
         "deprecated": false,
         "Dev_Desc": "HealRate",
         "id": 11081,
         "alias": "Contents.Stat.Desc.HealRate",
-        "text": "造成的治疗量增加。"
+        "text": "游泳速度减少。"
     },
     "11082": {
         "deprecated": false,
         "Dev_Desc": "TakenHealRate",
         "id": 11082,
         "alias": "Contents.Stat.Desc.TakenHealRate",
-        "text": "接受的治疗量增加。"
+        "text": "对人战斗时生效的额外攻击力。"
     },
     "11083": {
         "deprecated": false,
         "Dev_Desc": "Block",
         "id": 11083,
         "alias": "Contents.Stat.Desc.Block",
-        "text": "阻止受到攻击的几率增加。"
+        "text": "可携带道具的最大重量。"
     },
     "11084": {
         "deprecated": false,
         "Dev_Desc": "Blockpenetration",
         "id": 11084,
         "alias": "Contents.Stat.Desc.Blockpenetration",
-        "text": "阻挡穿刺成功几率增加。"
+        "text": "武功的单位时间内攻击次数提升。"
     },
     "11085": {
         "deprecated": false,
         "Dev_Desc": "ParryRate",
         "id": 11085,
         "alias": "Contents.Stat.Desc.ParryRate",
-        "text": "闪避受到的攻击的几率增加。"
+        "text": "基本攻击时的灵魂发动率。"
     },
     "11086": {
         "deprecated": false,
         "Dev_Desc": "ParryResistanceRate",
         "id": 11086,
         "alias": "Contents.Stat.Desc.ParryResistanceRate",
-        "text": "攻击时抵消目标闪避的发动率。"
+        "text": "攻击者的灵魂发动率减少。"
     },
     "11087": {
         "deprecated": false,
         "Dev_Desc": "SoulRate",
         "id": 11087,
         "alias": "Contents.Stat.Desc.SoulRate",
-        "text": "攻击时灵魂发动几率增加。"
+        "text": "最终灵魂发动率提升。"
     },
     "11088": {
         "deprecated": false,
         "Dev_Desc": "SoulResistanceRate",
         "id": 11088,
         "alias": "Contents.Stat.Desc.SoulResistanceRate",
-        "text": "受到攻击时抵消攻击者的灵魂发动率。"
+        "text": "格挡中反弹攻击的概率提升。"
     },
     "11089": {
         "deprecated": false,
         "Dev_Desc": "IncreaseSoulRate",
         "id": 11089,
         "alias": "Contents.Stat.Desc.IncreaseSoulRate",
-        "text": "灵魂发动率增加。"
+        "text": "提升灵魂发动率。"
     },
     "11090": {
         "deprecated": false,
         "Dev_Desc": "ReduceDamageRateMiss",
         "id": 11090,
         "alias": "Contents.Stat.Desc.ReduceDamageRateMiss",
-        "text": "受到的攻击打偏时受到的伤害减少。"
+        "text": "不计算防御率的伤害量减少。"
     },
     "11091": {
         "deprecated": false,
         "Dev_Desc": "ReduceDamageRateBlock",
         "id": 11091,
         "alias": "Contents.Stat.Desc.ReduceDamageRateBlock",
-        "text": "受到的攻击受到的伤害减少。"
+        "text": "无视防御伤害减少数值按比例提升。"
     },
     "11092": {
         "deprecated": false,
         "Dev_Desc": "ReduceDamageRateParry",
         "id": 11092,
         "alias": "Contents.Stat.Desc.ReduceDamageRateParry",
-        "text": "反弹受到的攻击时，受到的伤害减少。"
+        "text": "被控制时，控制时间减少。"
     },
     "11093": {
         "deprecated": false,
         "Dev_Desc": "Unyieldingness",
         "id": 11093,
         "alias": "Contents.Stat.Desc.Unyieldingness",
-        "text": "PVP战斗时连续受到的伤害减少。"
+        "text": "行走，游泳速度提升。"
     },
     "11094": {
         "deprecated": false,
         "Dev_Desc": "CentralAttack",
         "id": 11094,
         "alias": "Contents.Stat.Desc.CentralAttack",
-        "text": "PVP战斗时对目标的集中攻击效果增加。"
+        "text": "武功伤害量提升。"
     },
     "11095": {
         "deprecated": false,
         "Dev_Desc": "CentralAttackResistance",
         "id": 11095,
         "alias": "Contents.Stat.Desc.CentralAttackResistance",
-        "text": "抵消PVP战斗时受到的集中攻击效果。"
+        "text": "PVP战斗时，降低受到的集中攻击效果。"
     },
     "11096": {
         "deprecated": false,
         "Dev_Desc": "ShortPhysicalDefenceProbability",
         "id": 11096,
         "alias": "Contents.Stat.Desc.ShortPhysicalDefenceProbability",
-        "text": "受到近距离攻击时最终防御率增加。"
+        "text": "受到近距离类攻击时，近距离防御率提升。"
     },
     "11097": {
         "deprecated": false,
         "Dev_Desc": "LongPhysicalDefenceProbability",
         "id": 11097,
         "alias": "Contents.Stat.Desc.LongPhysicalDefenceProbability",
-        "text": "受到远程攻击时，最终防御率增加。"
+        "text": "最终近距离防御率提升。"
     },
     "11098": {
         "deprecated": false,
         "Dev_Desc": "ForceDefenceProbability",
         "id": 11098,
         "alias": "Contents.Stat.Desc.ForceDefenceProbability",
-        "text": "受到气功攻击时最终防御率增加。"
+        "text": "受到远距离类攻击时，远距离防御率提升。"
     },
     "11099": {
         "deprecated": false,
         "Dev_Desc": "ShortPhysicalPenetrationProbability",
         "id": 11099,
         "alias": "Contents.Stat.Desc.ShortPhysicalPenetrationProbability",
-        "text": "近距离攻击抵消防御者的最终防御率。"
+        "text": "近距离攻击时，抵消防御者的最终防御率。"
     },
     "11100": {
         "deprecated": false,
         "Dev_Desc": "LongPhysicalPenetrationProbability",
         "id": 11100,
         "alias": "Contents.Stat.Desc.LongPhysicalPenetrationProbability",
-        "text": "远程攻击抵消防御者的最终防御率。"
+        "text": "远距离攻击时，抵消防御者的最终防御率。"
     },
     "11101": {
         "deprecated": false,
         "Dev_Desc": "ForcePenetrationProbability",
         "id": 11101,
         "alias": "Contents.Stat.Desc.ForcePenetrationProbability",
-        "text": "气功攻击时抵消防御者的最终防御率。"
+        "text": "气功攻击时，抵消防御者的最终防御率。"
     },
     "11102": {
         "deprecated": false,
         "Dev_Desc": "ShortPhysicalHitProbability",
         "id": 11102,
         "alias": "Contents.Stat.Desc.ShortPhysicalHitProbability",
-        "text": "近距离攻击时，最终命中率增加。"
+        "text": "命中数值按比例提升。"
     },
     "11103": {
         "deprecated": false,
         "Dev_Desc": "LongPhysicalHitProbability",
         "id": 11103,
         "alias": "Contents.Stat.Desc.LongPhysicalHitProbability",
-        "text": "远程攻击时，最终命中率增加。"
+        "text": "最终命中率提升。"
     },
     "11104": {
         "deprecated": false,
         "Dev_Desc": "ForceHitProbability",
         "id": 11104,
         "alias": "Contents.Stat.Desc.ForceHitProbability",
-        "text": "气功攻击时，最终命中率增加。"
+        "text": "成功暴击时提升的伤害量。"
     },
     "11105": {
         "deprecated": false,
         "Dev_Desc": "ShortPhysicalEvasionProbability",
         "id": 11105,
         "alias": "Contents.Stat.Desc.ShortPhysicalEvasionProbability",
-        "text": "受到近距离攻击时抵消攻击者的最终命中率。"
+        "text": "受到近距离攻击时，抵消攻击者的最终命中率。"
     },
     "11106": {
         "deprecated": false,
         "Dev_Desc": "LongPhysicalEvasionProbability",
         "id": 11106,
         "alias": "Contents.Stat.Desc.LongPhysicalEvasionProbability",
-        "text": "受到远程攻击时抵消攻击者的最终命中率。"
+        "text": "受到远距离攻击时，抵消攻击者的最终命中率。"
     },
     "11107": {
         "deprecated": false,
         "Dev_Desc": "ForceEvasionProbability",
         "id": 11107,
         "alias": "Contents.Stat.Desc.ForceEvasionProbability",
-        "text": "接受气功攻击时抵消攻击者的最终命中率。"
+        "text": "受到气功攻击时，抵消攻击者的最终命中率。"
     },
     "11108": {
         "deprecated": false,
         "Dev_Desc": "ControlAttack",
         "id": 11108,
         "alias": "Contents.Stat.Desc.ControlAttack",
-        "text": "控制攻击成功时控制维持时间增加。"
+        "text": "作用于首领怪兽弱点部位的打击伤害量。"
     },
     "11109": {
         "deprecated": false,
         "Dev_Desc": "ControlDefence",
         "id": 11109,
         "alias": "Contents.Stat.Desc.ControlDefence",
-        "text": "处于控制状态时，控制维持时间减少。"
+        "text": "悬挂率提升。"
     },
     "11110": {
         "deprecated": false,
         "Dev_Desc": "ControlHitRate",
         "id": 11110,
         "alias": "Contents.Stat.Desc.ControlHitRate",
-        "text": "控制成功几率增加。"
+        "text": "叠加伤害量减少。"
     },
     "11111": {
         "deprecated": false,
         "Dev_Desc": "ControlResistanceRate",
         "id": 11111,
         "alias": "Contents.Stat.Desc.ControlResistanceRate",
-        "text": "被控制状态的几率减少。"
+        "text": "普攻的单位时间内攻击次数提升。"
     },
     "11112": {
         "deprecated": false,
         "Dev_Desc": "TauntHitRate",
         "id": 11112,
         "alias": "Contents.Stat.Desc.TauntHitRate",
-        "text": "挑衅成功几率增加。"
+        "text": "提升挑衅的成功率。"
     },
     "11113": {
         "deprecated": false,
         "Dev_Desc": "TauntResistanceRate",
         "id": 11113,
         "alias": "Contents.Stat.Desc.TauntResistanceRate",
-        "text": "进入挑衅状态的几率减少。"
+        "text": "降低被挑衅的概率。"
     },
     "11114": {
         "deprecated": false,
         "Dev_Desc": "SlowdownHitRate",
         "id": 11114,
         "alias": "Contents.Stat.Desc.SlowdownHitRate",
-        "text": "钝化的成功几率增加。"
+        "text": "提升缓速的成功率。"
     },
     "11115": {
         "deprecated": false,
         "Dev_Desc": "SlowdownResistanceRate",
         "id": 11115,
         "alias": "Contents.Stat.Desc.SlowdownResistanceRate",
-        "text": "钝化状态的几率减少。"
+        "text": "降低被缓速的概率。"
     },
     "11116": {
         "deprecated": false,
         "Dev_Desc": "FrozenHitRate",
         "id": 11116,
         "alias": "Contents.Stat.Desc.FrozenHitRate",
-        "text": "冰洁的成功几率增加。"
+        "text": "提升冰冻的成功率。"
     },
     "11117": {
         "deprecated": false,
         "Dev_Desc": "FrozenResistanceRate",
         "id": 11117,
         "alias": "Contents.Stat.Desc.FrozenResistanceRate",
-        "text": "结冰状态下几率减少。"
+        "text": "降低被冰冻的概率。"
     },
     "11118": {
         "deprecated": false,
         "Dev_Desc": "FlinchHitRate",
         "id": 11118,
         "alias": "Contents.Stat.Desc.FlinchHitRate",
-        "text": "僵直的成功几率增加。"
+        "text": "提升僵直的成功率。"
     },
     "11119": {
         "deprecated": false,
         "Dev_Desc": "FlinchResistanceRate",
         "id": 11119,
         "alias": "Contents.Stat.Desc.FlinchResistanceRate",
-        "text": "僵直状态的几率减少。"
+        "text": "降低被僵直的概率。"
     },
     "11120": {
         "deprecated": false,
         "Dev_Desc": "BurnHitRate",
         "id": 11120,
         "alias": "Contents.Stat.Desc.BurnHitRate",
-        "text": "火伤的成功几率增加。"
+        "text": "提升烧伤的成功率。"
     },
     "11121": {
         "deprecated": false,
         "Dev_Desc": "BurnResistanceRate",
         "id": 11121,
         "alias": "Contents.Stat.Desc.BurnResistanceRate",
-        "text": "烧伤几率减少。"
+        "text": "降低被烧伤的概率。"
     },
     "11122": {
         "deprecated": false,
         "Dev_Desc": "BleedingHitRate",
         "id": 11122,
         "alias": "Contents.Stat.Desc.BleedingHitRate",
-        "text": "出血成功几率增加。"
+        "text": "提升出血的成功率。"
     },
     "11123": {
         "deprecated": false,
         "Dev_Desc": "BleedingResistanceRate",
         "id": 11123,
         "alias": "Contents.Stat.Desc.BleedingResistanceRate",
-        "text": "出血状态的几率减少。"
+        "text": "降低被出血的概率。"
     },
     "11124": {
         "deprecated": false,
         "Dev_Desc": "MovementSpeed",
         "id": 11124,
         "alias": "Contents.Stat.Desc.MovementSpeed",
-        "text": "行走速度和游泳速度增加。"
+        "text": "攻击时造成的水属性伤害量。"
     },
     "11125": {
         "deprecated": false,
         "Dev_Desc": "SwimSpeed",
         "id": 11125,
         "alias": "Contents.Stat.Desc.SwimSpeed",
-        "text": "游泳速度增加。"
+        "text": "攻击时造成的木属性伤害量。"
     },
     "11126": {
         "deprecated": false,
         "Dev_Desc": "WalkSpeed",
         "id": 11126,
         "alias": "Contents.Stat.Desc.WalkSpeed",
-        "text": "行走速度增加。"
+        "text": "攻击时造成的金属性伤害量。"
     },
     "11127": {
         "deprecated": false,
         "Dev_Desc": "WeightMax",
         "id": 11127,
         "alias": "Contents.Stat.Desc.WeightMax",
-        "text": "包里物品的最大重量。"
+        "text": "攻击时造成的火属性伤害量。"
     },
     "11128": {
         "deprecated": false,
         "Dev_Desc": "RateGold",
         "id": 11128,
         "alias": "Contents.Stat.Desc.RateGold",
-        "text": "金币获得量增加。"
+        "text": "首领战斗时生效的额外攻击力。"
     },
     "11129": {
         "deprecated": false,
         "Dev_Desc": "RateExp",
         "id": 11129,
         "alias": "Contents.Stat.Desc.RateExp",
-        "text": "经验值获得量增加。"
+        "text": "PVE战斗时生效的护身。"
     },
     "11130": {
         "deprecated": false,
         "Dev_Desc": "ReduceSEConsumption",
         "id": 11130,
         "alias": "Contents.Stat.Desc.ReduceSEConsumption",
-        "text": "灵骑消耗量减少。"
+        "text": "降低灵气消耗量。"
     },
     "11131": {
         "deprecated": false,
         "Dev_Desc": "SEFillingAmount",
         "id": 11131,
         "alias": "Contents.Stat.Desc.SEFillingAmount",
-        "text": "灵气充能量增加。"
+        "text": "提升灵气恢复量。"
     },
     "11132": {
         "deprecated": false,
         "Dev_Desc": "ReduceHealRate",
         "id": 11132,
         "alias": "Contents.Stat.Desc.ReduceHealRate",
-        "text": "造成的治疗量减少。"
+        "text": "行走速度减少。"
     },
     "11133": {
         "deprecated": false,
         "Dev_Desc": "ReduceTakenHealRate",
         "id": 11133,
         "alias": "Contents.Stat.Desc.ReduceTakenHealRate",
-        "text": "接受的治疗量减少。"
+        "text": "对人战斗时生效的护身。"
     },
     "11134": {
         "deprecated": false,
         "Dev_Desc": "ReduceDamageRate",
         "id": 11134,
         "alias": "Contents.Stat.Desc.ReduceDamageRate",
-        "text": "造成的伤害量减少。"
+        "text": "对人战斗时生效的机敏。"
     },
     "11135": {
         "deprecated": false,
         "Dev_Desc": "TakenDamageRate",
         "id": 11135,
         "alias": "Contents.Stat.Desc.TakenDamageRate",
-        "text": "受到的伤害量增加。"
+        "text": "对人战斗时生效的暴击率。"
     },
     "11136": {
         "deprecated": false,
         "Dev_Desc": "ReduceNormalAttackSpeed",
         "id": 11136,
         "alias": "Contents.Stat.Desc.ReduceNormalAttackSpeed",
-        "text": "单位时间内基本攻击次数减少。"
+        "text": "降低单位时间内的基本攻击次数。"
     },
     "11137": {
         "deprecated": false,
         "Dev_Desc": "ReduceActiveAttackSpeed",
         "id": 11137,
         "alias": "Contents.Stat.Desc.ReduceActiveAttackSpeed",
-        "text": "单位时间无功攻击次数减少。"
+        "text": "降低单位时间内的武功攻击次数。"
     },
     "11138": {
         "deprecated": false,
         "Dev_Desc": "ReduceHpPotionRecovery",
         "id": 11138,
         "alias": "Contents.Stat.Desc.ReduceHpPotionRecovery",
-        "text": "使用HP恢复药水时抵消药水恢复量。"
+        "text": "使用生命恢复药时，降低恢复量。"
     },
     "11139": {
         "deprecated": false,
         "Dev_Desc": "ReduceHpPotionRecoveryRate",
         "id": 11139,
         "alias": "Contents.Stat.Desc.ReduceHpPotionRecoveryRate",
-        "text": "使用HP恢复药水时抵消药水恢复率。"
+        "text": "使用生命恢复药时，按一定比例降低恢复量。"
     },
     "11140": {
         "deprecated": false,
         "Dev_Desc": "ReduceMovementSpeed",
         "id": 11140,
         "alias": "Contents.Stat.Desc.ReduceMovementSpeed",
-        "text": "行走速度和游泳速度减少。"
+        "text": "攻击时造成的土属性伤害量。"
     },
     "11141": {
         "deprecated": false,
         "Dev_Desc": "ReduceSwimSpeed",
         "id": 11141,
         "alias": "Contents.Stat.Desc.ReduceSwimSpeed",
-        "text": "游泳速度减少。"
+        "text": "火属性伤害数值按比例提升。"
     },
     "11142": {
         "deprecated": false,
         "Dev_Desc": "ReduceWalkSpeed",
         "id": 11142,
         "alias": "Contents.Stat.Desc.ReduceWalkSpeed",
-        "text": "行走速度减少。"
+        "text": "水属性伤害数值按比例提升。"
     },
     "11143": {
         "deprecated": false,
         "Dev_Desc": "PvPAttack",
         "id": 11143,
         "alias": "Contents.Stat.Desc.PvPAttack",
-        "text": "PVP战斗时追加适用的攻击力。"
+        "text": "木属性伤害数值按比例提升。"
     },
     "11144": {
         "deprecated": false,
         "Dev_Desc": "PvPAttackReduction",
         "id": 11144,
         "alias": "Contents.Stat.Desc.PvPAttackReduction",
-        "text": "PVP战斗时追加适用的护身。"
+        "text": "金属性伤害数值按比例提升。"
     },
     "11145": {
         "deprecated": false,
         "Dev_Desc": "PvPDefence",
         "id": 11145,
         "alias": "Contents.Stat.Desc.PvPDefence",
-        "text": "PVP战斗时追加使用的防御力。"
+        "text": "土属性伤害数值按比例提升。"
     },
     "11146": {
         "deprecated": false,
         "Dev_Desc": "PvPPenetration",
         "id": 11146,
         "alias": "Contents.Stat.Desc.PvPPenetration",
-        "text": "PVP战斗时追加使用的攻击力。"
+        "text": "火属性伤害量按比例降低。"
     },
     "11147": {
         "deprecated": false,
         "Dev_Desc": "PvPHit",
         "id": 11147,
         "alias": "Contents.Stat.Desc.PvPHit",
-        "text": "PVP战斗时追加适用的命中。"
+        "text": "水属性伤害量按比例降低。"
     },
     "11148": {
         "deprecated": false,
         "Dev_Desc": "PvPEvasion",
         "id": 11148,
         "alias": "Contents.Stat.Desc.PvPEvasion",
-        "text": "PVP战斗时追加使用的回避。"
+        "text": "木属性伤害量按比例降低。"
     },
     "11149": {
         "deprecated": false,
         "Dev_Desc": "PvPCriticalRate",
         "id": 11149,
         "alias": "Contents.Stat.Desc.PvPCriticalRate",
-        "text": "PVP战斗时追加适用的暴击率。"
+        "text": "金属性伤害量按比例降低。"
     },
     "11150": {
         "deprecated": false,
         "Dev_Desc": "PvPCriticalResistanceRate",
         "id": 11150,
         "alias": "Contents.Stat.Desc.PvPCriticalResistanceRate",
-        "text": "PVP战斗时追加适用的致命抵抗率。"
+        "text": "土属性伤害量按比例降低。"
     },
     "11151": {
         "deprecated": false,
         "Dev_Desc": "PvEAttack",
         "id": 11151,
         "alias": "Contents.Stat.Desc.PvEAttack",
-        "text": "PVE战斗时追加适用的攻击力。"
+        "text": "PVE战斗时生效的额外攻击力。"
     },
     "11152": {
         "deprecated": false,
         "Dev_Desc": "PvEAttackReduction",
         "id": 11152,
         "alias": "Contents.Stat.Desc.PvEAttackReduction",
-        "text": "PVE战斗时追加适用的护身。"
+        "text": "PVE战斗时生效的护身。"
     },
     "11153": {
         "deprecated": false,
         "Dev_Desc": "PvEDefence",
         "id": 11153,
         "alias": "Contents.Stat.Desc.PvEDefence",
-        "text": "PVE战斗时追加使用的防御力。"
+        "text": "PVE战斗时生效的防御力。"
     },
     "11154": {
         "deprecated": false,
         "Dev_Desc": "PvEPenetration",
         "id": 11154,
         "alias": "Contents.Stat.Desc.PvEPenetration",
-        "text": "PVE战斗时追加使用的攻击力。"
+        "text": "PVE战斗时生效的穿刺力。"
     },
     "11155": {
         "deprecated": false,
         "Dev_Desc": "PvEHit",
         "id": 11155,
         "alias": "Contents.Stat.Desc.PvEHit",
-        "text": "PVE战斗时追加适用的命中。"
+        "text": "PVE战斗时生效的命中。"
     },
     "11156": {
         "deprecated": false,
         "Dev_Desc": "PvEEvasion",
         "id": 11156,
         "alias": "Contents.Stat.Desc.PvEEvasion",
-        "text": "PVE战斗时追加使用的回避。"
+        "text": "PVE战斗时生效的闪避。"
     },
     "11157": {
         "deprecated": false,
         "Dev_Desc": "PvECriticalRate",
         "id": 11157,
         "alias": "Contents.Stat.Desc.PvECriticalRate",
-        "text": "PVE战斗时追加适用的暴击率。"
+        "text": "PVE战斗时生效的暴击率。"
     },
     "11158": {
         "deprecated": false,
         "Dev_Desc": "PvECriticalResistanceRate",
         "id": 11158,
         "alias": "Contents.Stat.Desc.PvECriticalResistanceRate",
-        "text": "PVE战斗时追加适用的致命抵抗率。"
+        "text": "PVE战斗时生效的暴击抵抗率。"
     },
     "11159": {
         "deprecated": false,
         "Dev_Desc": "BossAttack",
         "id": 11159,
         "alias": "Contents.Stat.Desc.BossAttack",
-        "text": "BOSS战斗时追加适用的攻击力。"
+        "text": "首领战斗时生效的额外攻击力。"
     },
     "11160": {
         "deprecated": false,
         "Dev_Desc": "BossAttackReduction",
         "id": 11160,
         "alias": "Contents.Stat.Desc.BossAttackReduction",
-        "text": "BOSS战斗时追加适用的护身。"
+        "text": "首领战斗时生效的护身。"
     },
     "11161": {
         "deprecated": false,
         "Dev_Desc": "BossDefence",
         "id": 11161,
         "alias": "Contents.Stat.Desc.BossDefence",
-        "text": "BOSS战斗时追加适用的防御力。"
+        "text": "首领战斗时生效的防御力。"
     },
     "11162": {
         "deprecated": false,
         "Dev_Desc": "BossPenetration",
         "id": 11162,
         "alias": "Contents.Stat.Desc.BossPenetration",
-        "text": "BOSS战斗时追加适用的统帅力。"
+        "text": "首领战斗时生效的穿刺力。"
     },
     "11163": {
         "deprecated": false,
         "Dev_Desc": "BossHit",
         "id": 11163,
         "alias": "Contents.Stat.Desc.BossHit",
-        "text": "BOSS战斗时追加适用的命中。"
+        "text": "首领战斗时生效的命中。"
     },
     "11164": {
         "deprecated": false,
         "Dev_Desc": "BossEvasion",
         "id": 11164,
         "alias": "Contents.Stat.Desc.BossEvasion",
-        "text": "BOSS战斗时追加适用的回避。"
+        "text": "首领战斗时生效的闪避。"
     },
     "11165": {
         "deprecated": false,
         "Dev_Desc": "BossCriticalRate",
         "id": 11165,
         "alias": "Contents.Stat.Desc.BossCriticalRate",
-        "text": "BOSS战斗时追加适用的暴击率。"
+        "text": "首领战斗时生效的暴击率。"
     },
     "11166": {
         "deprecated": false,
         "Dev_Desc": "BossCriticalResistanceRate",
         "id": 11166,
         "alias": "Contents.Stat.Desc.BossCriticalResistanceRate",
-        "text": "BOSS战斗时追加适用的暴击抵抗率。"
+        "text": "首领战斗时生效的暴击抵抗率。"
     },
     "11167": {
         "deprecated": false,
         "Dev_Desc": "FireDamage",
         "id": 11167,
         "alias": "Contents.Stat.Desc.FireDamage",
-        "text": "火属性灵魂发动时会造成火属性伤害。"
+        "text": "攻击时额外造成火属性伤害。"
     },
     "11168": {
         "deprecated": false,
         "Dev_Desc": "WaterDamage",
         "id": 11168,
         "alias": "Contents.Stat.Desc.WaterDamage",
-        "text": "发动水属性灵魂时追加造成水属性伤害。"
+        "text": "攻击时额外造成水属性伤害。"
     },
     "11169": {
         "deprecated": false,
         "Dev_Desc": "WoodDamage",
         "id": 11169,
         "alias": "Contents.Stat.Desc.WoodDamage",
-        "text": "发动木属性灵魂时追加造成木属性伤害。"
+        "text": "木属性灵魂发动时，额外造成木属性伤害。"
     },
     "11170": {
         "deprecated": false,
         "Dev_Desc": "IronDamage",
         "id": 11170,
         "alias": "Contents.Stat.Desc.IronDamage",
-        "text": "发动金属性灵魂时追加造成金属性伤害。"
+        "text": "金属性灵魂发动时，额外造成金属性伤害。"
     },
     "11171": {
         "deprecated": false,
         "Dev_Desc": "WindDamage",
         "id": 11171,
         "alias": "Contents.Stat.Desc.WindDamage",
-        "text": "发动风属性灵魂时追加造成风属性伤害。"
+        "text": "攻击时额外造成风属性伤害。"
     },
     "11172": {
         "deprecated": false,
         "Dev_Desc": "LightningDamage",
         "id": 11172,
         "alias": "Contents.Stat.Desc.LightningDamage",
-        "text": "发动电属性灵魂时追加造成电属性伤害。"
+        "text": "攻击时额外造成雷属性伤害。"
     },
     "11173": {
         "deprecated": false,
         "Dev_Desc": "LightDamage",
         "id": 11173,
         "alias": "Contents.Stat.Desc.LightDamage",
-        "text": "发动光属性灵魂时追加造成光属性伤害。"
+        "text": "攻击时额外造成明属性伤害。"
     },
     "11174": {
         "deprecated": false,
         "Dev_Desc": "DarkDamage",
         "id": 11174,
         "alias": "Contents.Stat.Desc.DarkDamage",
-        "text": "发动暗属性灵魂时追加造成暗属性伤害。"
+        "text": "攻击时额外造成暗属性伤害。"
     },
     "11175": {
         "deprecated": false,
         "Dev_Desc": "ElementDamage",
         "id": 11175,
         "alias": "Contents.Stat.Desc.ElementDamage",
-        "text": "所有属性攻击力增加。"
+        "text": "提升所有属性攻击力。"
     },
     "11176": {
         "deprecated": false,
         "Dev_Desc": "FireDamageRate",
         "id": 11176,
         "alias": "Contents.Stat.Desc.FireDamageRate",
-        "text": "主提升火属性伤害。"
+        "text": "火属性伤害按比例提升。"
     },
     "11177": {
         "deprecated": false,
         "Dev_Desc": "WaterDamageRate",
         "id": 11177,
         "alias": "Contents.Stat.Desc.WaterDamageRate",
-        "text": "造成的水属性伤害增加。"
+        "text": "水属性伤害按比例提升。"
     },
     "11178": {
         "deprecated": false,
         "Dev_Desc": "WoodDamageRate",
         "id": 11178,
         "alias": "Contents.Stat.Desc.WoodDamageRate",
-        "text": "造成的木属性伤害增加。"
+        "text": "提升造成的木属性伤害。"
     },
     "11179": {
         "deprecated": false,
         "Dev_Desc": "IronDamageRate",
         "id": 11179,
         "alias": "Contents.Stat.Desc.IronDamageRate",
-        "text": "造成的金属性伤害增加。"
+        "text": "提升造成的金属性伤害。"
     },
     "11180": {
         "deprecated": false,
         "Dev_Desc": "WindDamageRate",
         "id": 11180,
         "alias": "Contents.Stat.Desc.WindDamageRate",
-        "text": "造成的风属性伤害增加。"
+        "text": "风属性伤害按比例提升。"
     },
     "11181": {
         "deprecated": false,
         "Dev_Desc": "LightningDamageRate",
         "id": 11181,
         "alias": "Contents.Stat.Desc.LightningDamageRate",
-        "text": "造成的电属性伤害增加。"
+        "text": "雷属性伤害按比例提升。"
     },
     "11182": {
         "deprecated": false,
         "Dev_Desc": "LightDamageRate",
         "id": 11182,
         "alias": "Contents.Stat.Desc.LightDamageRate",
-        "text": "造成的光属性伤害增加。"
+        "text": "明属性伤害按比例提升。"
     },
     "11183": {
         "deprecated": false,
         "Dev_Desc": "DarkDamageRate",
         "id": 11183,
         "alias": "Contents.Stat.Desc.DarkDamageRate",
-        "text": "造成的暗属性伤害增加。"
+        "text": "暗属性伤害按比例提升。"
     },
     "11184": {
         "deprecated": false,
         "Dev_Desc": "ElementDamageRate",
         "id": 11184,
         "alias": "Contents.Stat.Desc.ElementDamageRate",
-        "text": "造成的所有属性伤害增加。"
+        "text": "提升所有属性伤害增幅。"
     },
     "11185": {
         "deprecated": false,
         "Dev_Desc": "FireDamageToleranceRate",
         "id": 11185,
         "alias": "Contents.Stat.Desc.FireDamageToleranceRate",
-        "text": "受到的火属性伤害减少。"
+        "text": "火属性伤害按比例降低。"
     },
     "11186": {
         "deprecated": false,
         "Dev_Desc": "WaterDamageToleranceRate",
         "id": 11186,
         "alias": "Contents.Stat.Desc.WaterDamageToleranceRate",
-        "text": "受到的水属性伤害减少。"
+        "text": "水属性伤害按比例降低。"
     },
     "11187": {
         "deprecated": false,
         "Dev_Desc": "WoodDamageToleranceRate",
         "id": 11187,
         "alias": "Contents.Stat.Desc.WoodDamageToleranceRate",
-        "text": "受到的木属性伤害减少。"
+        "text": "降低以木属性受到的伤害。"
     },
     "11188": {
         "deprecated": false,
         "Dev_Desc": "IronDamageToleranceRate",
         "id": 11188,
         "alias": "Contents.Stat.Desc.IronDamageToleranceRate",
-        "text": "受到的金属性伤害减少。"
+        "text": "降低以金属性受到的伤害。"
     },
     "11189": {
         "deprecated": false,
         "Dev_Desc": "WindDamageToleranceRate",
         "id": 11189,
         "alias": "Contents.Stat.Desc.WindDamageToleranceRate",
-        "text": "受到的风属性伤害减少。"
+        "text": "风属性伤害按比例降低。"
     },
     "11190": {
         "deprecated": false,
         "Dev_Desc": "LightningDamageToleranceRate",
         "id": 11190,
         "alias": "Contents.Stat.Desc.LightningDamageToleranceRate",
-        "text": "受到的电属性伤害减少。"
+        "text": "雷属性伤害按比例降低。"
     },
     "11191": {
         "deprecated": false,
         "Dev_Desc": "LightDamageToleranceRate",
         "id": 11191,
         "alias": "Contents.Stat.Desc.LightDamageToleranceRate",
-        "text": "受到的光属性伤害减少。"
+        "text": "明属性伤害按比例降低。"
     },
     "11192": {
         "deprecated": false,
         "Dev_Desc": "DarkDamageToleranceRate",
         "id": 11192,
         "alias": "Contents.Stat.Desc.DarkDamageToleranceRate",
-        "text": "受到的暗属性伤害减少。"
+        "text": "暗属性伤害按比例降低。"
     },
     "11193": {
         "deprecated": false,
         "Dev_Desc": "ElementDamageToleranceRate",
         "id": 11193,
         "alias": "Contents.Stat.Desc.ElementDamageToleranceRate",
-        "text": "受到的所有属性伤害减。"
+        "text": "提升所有属性伤害抗性。"
     },
     "11194": {
         "deprecated": false,
         "Dev_Desc": "ElementDamageValue",
         "id": 11194,
         "alias": "Contents.Stat.Desc.ElementDamageValue",
-        "text": "灵魂发动时的属性伤害增加。"
+        "text": "灵魂发动时，造成的属性伤害得到增幅。"
     },
     "11195": {
         "deprecated": false,
         "Dev_Desc": "ElementDamageValueRate",
         "id": 11195,
         "alias": "Contents.Stat.Desc.ElementDamageValueRate",
-        "text": "灵魂发动时的属性伤害追加增加。"
+        "text": "灵魂发动时，造成的属性伤害得到增幅。"
     },
     "11196": {
         "deprecated": false,

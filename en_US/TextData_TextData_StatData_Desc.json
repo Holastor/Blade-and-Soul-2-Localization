@@ -4,1365 +4,1365 @@
         "Dev_Desc": "Strength",
         "id": 11001,
         "alias": "Contents.Stat.Desc.Strength",
-        "text": "Increases melee attack power, melee penetration, melee hit, and defense by a certain value."
+        "text": "Increases Melee Attack and Melee Piercing Damage at every certain level."
     },
     "11002": {
         "deprecated": false,
         "Dev_Desc": "Dexterity",
         "id": 11002,
         "alias": "Contents.Stat.Desc.Dexterity",
-        "text": "Ranged Attack Power, Ranged Penetration, Ranged Accuracy, and Critical Bonus Attack Damage are increased by a certain amount."
+        "text": "Increases Ranged Attack and Ranged Piercing Damage at every certain level."
     },
     "11003": {
         "deprecated": false,
         "Dev_Desc": "Intelligence",
         "id": 11003,
         "alias": "Contents.Stat.Desc.Intelligence",
-        "text": "Increases qi attack power, qi penetration, qi hit, and control resist by a certain value."
+        "text": "Increases Force Attack and Force Piercing Damage at every certain level."
     },
     "11004": {
         "deprecated": false,
         "Dev_Desc": "Constitution",
         "id": 11004,
         "alias": "Contents.Stat.Desc.Constitution",
-        "text": "Increases health, potion recovery rate, non-attack damage resistance, and soul resistance per certain value."
+        "text": "Increases HP and HP Regen at every certain level."
     },
     "11005": {
         "deprecated": false,
         "Dev_Desc": "Wisdom",
         "id": 11005,
         "alias": "Contents.Stat.Desc.Wisdom",
-        "text": "Increases strength, soul activation rate, non-attack damage amplification, and strength control by certain values."
+        "text": "Increases Focus and Focus Regen at every certain level."
     },
     "11006": {
         "deprecated": false,
         "Dev_Desc": "Agility",
         "id": 11006,
         "alias": "Contents.Stat.Desc.Agility",
-        "text": "Critical rate, evasion, movement speed increase rate, and basic attack speed increase with each value."
+        "text": "Increases Critical Rate and Evasion at every certain level."
     },
     "11007": {
         "deprecated": false,
         "Dev_Desc": "ShortPhysicalAttack",
         "id": 11007,
         "alias": "Contents.Stat.Desc.ShortPhysicalAttack",
-        "text": "Attacks deal melee damage."
+        "text": "Melee Damage dealt when attacking an enemy."
     },
     "11008": {
         "deprecated": false,
         "Dev_Desc": "LongPhysicalAttack",
         "id": 11008,
         "alias": "Contents.Stat.Desc.LongPhysicalAttack",
-        "text": "Attacks deal ranged damage."
+        "text": "Ranged damage dealt when attacking an enemy."
     },
     "11009": {
         "deprecated": false,
         "Dev_Desc": "ForceAttack",
         "id": 11009,
         "alias": "Contents.Stat.Desc.ForceAttack",
-        "text": "The amount of qi damage dealt by the attack."
+        "text": "Force damage dealt when attacking an enemy."
     },
     "11010": {
         "deprecated": false,
         "Dev_Desc": "Attack",
         "id": 11010,
         "alias": "Contents.Stat.Desc.Attack",
-        "text": "Increases all types of damage."
+        "text": "Increases Attack of all types."
     },
     "11011": {
         "deprecated": false,
         "Dev_Desc": "WeaponAttack",
         "id": 11011,
         "alias": "Contents.Stat.Desc.WeaponAttack",
-        "text": "Damage increased when equipped with a weapon."
+        "text": "Increases damage when weapon is equipped."
     },
     "11012": {
         "deprecated": false,
         "Dev_Desc": "WeaponAttackRate",
         "id": 11012,
         "alias": "Contents.Stat.Desc.WeaponAttackRate",
-        "text": "Increases weapon damage."
+        "text": "Increases Weapon Attack."
     },
     "11013": {
         "deprecated": false,
         "Dev_Desc": "WeaponAttackToleranceRate",
         "id": 11013,
         "alias": "Contents.Stat.Desc.WeaponAttackToleranceRate",
-        "text": "You take less damage from weapon damage."
+        "text": "Decreases the Damage received by Weapon Attack."
     },
     "11014": {
         "deprecated": false,
         "Dev_Desc": "AttackBonus",
         "id": 11014,
         "alias": "Contents.Stat.Desc.AttackBonus",
-        "text": "Additionally increases weapon damage."
+        "text": "Increases damage when weapon is enhanced."
     },
     "11015": {
         "deprecated": false,
         "Dev_Desc": "AddAttackMin",
         "id": 11015,
         "alias": "Contents.Stat.Desc.AddAttackMin",
-        "text": "Increases the minimum amount of damage done when attacking."
+        "text": "Increases the minimum Weapon Attack."
     },
     "11016": {
         "deprecated": false,
         "Dev_Desc": "healingPower",
         "id": 11016,
         "alias": "Contents.Stat.Desc.healingPower",
-        "text": "Based on the amount of health restored when healing."
+        "text": "The default of HP recovery when healed."
     },
     "11017": {
         "deprecated": false,
         "Dev_Desc": "healingPowerRate",
         "id": 11017,
         "alias": "Contents.Stat.Desc.healingPowerRate",
-        "text": "Healing is increased."
+        "text": "Increases the amount of Heal."
     },
     "11018": {
         "deprecated": false,
         "Dev_Desc": "SwordAttack",
         "id": 11018,
         "alias": "Contents.Stat.Desc.SwordAttack",
-        "text": "Damage increased when equipped with a sword."
+        "text": "Increases damage when Sword is equipped."
     },
     "11019": {
         "deprecated": false,
         "Dev_Desc": "GauntletAttack",
         "id": 11019,
         "alias": "Contents.Stat.Desc.GauntletAttack",
-        "text": "Increased damage when equipped with gauntlets."
+        "text": "Increases damage when Gauntlets are equipped."
     },
     "11020": {
         "deprecated": false,
         "Dev_Desc": "AxeAttack",
         "id": 11020,
         "alias": "Contents.Stat.Desc.AxeAttack",
-        "text": "Damage increased when equipped with an axe."
+        "text": "Increases damage when Axe is equipped."
     },
     "11021": {
         "deprecated": false,
         "Dev_Desc": "BangleAttack",
         "id": 11021,
         "alias": "Contents.Stat.Desc.BangleAttack",
-        "text": "Damage increases when equipped with a qigong tile."
+        "text": "Increases damage when Bangle is equipped."
     },
     "11022": {
         "deprecated": false,
         "Dev_Desc": "BowAttack",
         "id": 11022,
         "alias": "Contents.Stat.Desc.BowAttack",
-        "text": "Damage increased when equipped with a bow."
+        "text": "Increases damage when Bow is equipped."
     },
     "11023": {
         "deprecated": false,
         "Dev_Desc": "RitualBellAttack",
         "id": 11023,
         "alias": "Contents.Stat.Desc.RitualBellAttack",
-        "text": "Increased damage when equipped with a bell."
+        "text": "Increases damage when Trilbu is equipped."
     },
     "11024": {
         "deprecated": false,
         "Dev_Desc": "ShortPhysicalPenetration",
         "id": 11024,
         "alias": "Contents.Stat.Desc.ShortPhysicalPenetration",
-        "text": "Clears the target's melee defense against melee attacks."
+        "text": "Offsets the target's Melee Defense when dealing melee attacks."
     },
     "11025": {
         "deprecated": false,
         "Dev_Desc": "LongPhysicalPenetration",
         "id": 11025,
         "alias": "Contents.Stat.Desc.LongPhysicalPenetration",
-        "text": "Offsets the target's ranged defense when attacking from a range."
+        "text": "Offsets the target's Ranged Defense when dealing ranged attacks."
     },
     "11026": {
         "deprecated": false,
         "Dev_Desc": "ForcePenetration",
         "id": 11026,
         "alias": "Contents.Stat.Desc.ForcePenetration",
-        "text": "A qi attack offsets the target's qi defense."
+        "text": "Offsets the target's Force Defense when dealing Force attacks."
     },
     "11027": {
         "deprecated": false,
         "Dev_Desc": "Penetration",
         "id": 11027,
         "alias": "Contents.Stat.Desc.Penetration",
-        "text": "Increases penetration of all types."
+        "text": "Increases Piercing of all types."
     },
     "11028": {
         "deprecated": false,
         "Dev_Desc": "ShortPhysicalHit",
         "id": 11028,
         "alias": "Contents.Stat.Desc.ShortPhysicalHit",
-        "text": "Increases chance to hit with melee attacks."
+        "text": "Increases Accuracy chance for melee attacks."
     },
     "11029": {
         "deprecated": false,
         "Dev_Desc": "LongPhysicalHit",
         "id": 11029,
         "alias": "Contents.Stat.Desc.LongPhysicalHit",
-        "text": "Increases chance to hit with ranged attacks."
+        "text": "Increases Accuracy chance for ranged attacks."
     },
     "11030": {
         "deprecated": false,
         "Dev_Desc": "ForceHit",
         "id": 11030,
         "alias": "Contents.Stat.Desc.ForceHit",
-        "text": "Increases chance to hit with qigong attacks."
+        "text": "Increases Accuracy chance for Force attacks."
     },
     "11031": {
         "deprecated": false,
         "Dev_Desc": "Hit",
         "id": 11031,
         "alias": "Contents.Stat.Desc.Hit",
-        "text": "Increases all types of hit."
+        "text": "Increases Accuracy of all types."
     },
     "11032": {
         "deprecated": false,
         "Dev_Desc": "ShortPhysicalCriticalRate",
         "id": 11032,
         "alias": "Contents.Stat.Desc.ShortPhysicalCriticalRate",
-        "text": "Increased critical strike chance with melee attacks."
+        "text": "Increases Critical chance for melee attacks."
     },
     "11033": {
         "deprecated": false,
         "Dev_Desc": "LongPhysicalCriticalRate",
         "id": 11033,
         "alias": "Contents.Stat.Desc.LongPhysicalCriticalRate",
-        "text": "Critical strike chance increases with ranged attacks."
+        "text": "Increases Critical chance for ranged attacks."
     },
     "11034": {
         "deprecated": false,
         "Dev_Desc": "ForceCriticalRate",
         "id": 11034,
         "alias": "Contents.Stat.Desc.ForceCriticalRate",
-        "text": "Increases critical strike chance with qigong attacks."
+        "text": "Increases Critical Hit chance for Force attacks."
     },
     "11035": {
         "deprecated": false,
         "Dev_Desc": "CriticalRate",
         "id": 11035,
         "alias": "Contents.Stat.Desc.CriticalRate",
-        "text": "Increases critical strike chance of all types."
+        "text": "Increases Critical Hit chance of all types."
     },
     "11036": {
         "deprecated": false,
         "Dev_Desc": "CriticalAttack",
         "id": 11036,
         "alias": "Contents.Stat.Desc.CriticalAttack",
-        "text": "Additional damage dealt on a successful critical strike."
+        "text": "Bonus damage dealt upon a critical hit."
     },
     "11037": {
         "deprecated": false,
         "Dev_Desc": "FatalAttack",
         "id": 11037,
         "alias": "Contents.Stat.Desc.FatalAttack",
-        "text": "Additional damage dealt on successful weakness attacks."
+        "text": "Bonus damage dealt upon attacking a weak spot."
     },
     "11038": {
         "deprecated": false,
         "Dev_Desc": "BlockpenetrationAttack",
         "id": 11038,
         "alias": "Contents.Stat.Desc.BlockpenetrationAttack",
-        "text": "Additional damage dealt on successful block penetration."
+        "text": "Bonus damage dealt upon a block piercing attack."
     },
     "11039": {
         "deprecated": false,
         "Dev_Desc": "DamagePure",
         "id": 11039,
         "alias": "Contents.Stat.Desc.DamagePure",
-        "text": "Attacking damage that does not reduce the target's armor."
+        "text": "Damage dealt regardless of the opponent's Defense stat."
     },
     "11040": {
         "deprecated": false,
         "Dev_Desc": "ShortPhysicalAttackReduction",
         "id": 11040,
         "alias": "Contents.Stat.Desc.ShortPhysicalAttackReduction",
-        "text": "Offsets melee damage."
+        "text": "Offsets the target's Melee Attack."
     },
     "11041": {
         "deprecated": false,
         "Dev_Desc": "LongPhysicalAttackReduction",
         "id": 11041,
         "alias": "Contents.Stat.Desc.LongPhysicalAttackReduction",
-        "text": "Offsets ranged damage."
+        "text": "Offsets the target's Ranged Attack."
     },
     "11042": {
         "deprecated": false,
         "Dev_Desc": "ForceAttackReduction",
         "id": 11042,
         "alias": "Contents.Stat.Desc.ForceAttackReduction",
-        "text": "Offsets qigong damage."
+        "text": "Offsets the target's Force Attack."
     },
     "11043": {
         "deprecated": false,
         "Dev_Desc": "AttackReduction",
         "id": 11043,
         "alias": "Contents.Stat.Desc.AttackReduction",
-        "text": "Increases all types of self-defense."
+        "text": "Increases Protection of all types."
     },
     "11044": {
         "deprecated": false,
         "Dev_Desc": "ShortPhysicalDefence",
         "id": 11044,
         "alias": "Contents.Stat.Desc.ShortPhysicalDefence",
-        "text": "You take less damage from melee attacks."
+        "text": "Decreases damage received by melee attacks."
     },
     "11045": {
         "deprecated": false,
         "Dev_Desc": "LongPhysicalDefence",
         "id": 11045,
         "alias": "Contents.Stat.Desc.LongPhysicalDefence",
-        "text": "You take less damage from ranged attacks."
+        "text": "Decreases damage received by ranged attacks."
     },
     "11046": {
         "deprecated": false,
         "Dev_Desc": "ForceDefence",
         "id": 11046,
         "alias": "Contents.Stat.Desc.ForceDefence",
-        "text": "You take less damage from qigong attacks."
+        "text": "Decreases damage received by Force attacks."
     },
     "11047": {
         "deprecated": false,
         "Dev_Desc": "Defence",
         "id": 11047,
         "alias": "Contents.Stat.Desc.Defence",
-        "text": "Increases all types of armor."
+        "text": "Increases Defense of all types."
     },
     "11048": {
         "deprecated": false,
         "Dev_Desc": "ShortPhysicalEvasion",
         "id": 11048,
         "alias": "Contents.Stat.Desc.ShortPhysicalEvasion",
-        "text": "Increased chance to miss when hit by melee attacks."
+        "text": "Increases Evasion chance when receiving melee attacks."
     },
     "11049": {
         "deprecated": false,
         "Dev_Desc": "LongPhysicalEvasion",
         "id": 11049,
         "alias": "Contents.Stat.Desc.LongPhysicalEvasion",
-        "text": "Increases the chance of being hit by ranged attacks."
+        "text": "Increases Evasion chance when receiving ranged attacks."
     },
     "11050": {
         "deprecated": false,
         "Dev_Desc": "ForceEvasion",
         "id": 11050,
         "alias": "Contents.Stat.Desc.ForceEvasion",
-        "text": "Increased chance of being hit by a qigong attack."
+        "text": "Increases Evasion chance when receiving a Force attack."
     },
     "11051": {
         "deprecated": false,
         "Dev_Desc": "Evasion",
         "id": 11051,
         "alias": "Contents.Stat.Desc.Evasion",
-        "text": "Increases dodge of all types."
+        "text": "Increases Evasion of all types."
     },
     "11052": {
         "deprecated": false,
         "Dev_Desc": "ShortPhysicalCriticalResistanceRate",
         "id": 11052,
         "alias": "Contents.Stat.Desc.ShortPhysicalCriticalResistanceRate",
-        "text": "Critical damage is offset by melee attacks."
+        "text": "Offsets Critical Rate when receiving a melee attack."
     },
     "11053": {
         "deprecated": false,
         "Dev_Desc": "LongPhysicalCriticalResistanceRate",
         "id": 11053,
         "alias": "Contents.Stat.Desc.LongPhysicalCriticalResistanceRate",
-        "text": "Offsets the critical rate when receiving ranged attacks."
+        "text": "Offsets Critical Rate when receiving ranged attacks."
     },
     "11054": {
         "deprecated": false,
         "Dev_Desc": "ForceCriticalResistanceRate",
         "id": 11054,
         "alias": "Contents.Stat.Desc.ForceCriticalResistanceRate",
-        "text": "Critical rate is offset by qigong attacks."
+        "text": "Offsets Critical Rate when receiving a Force attack."
     },
     "11055": {
         "deprecated": false,
         "Dev_Desc": "CriticalResistanceRate",
         "id": 11055,
         "alias": "Contents.Stat.Desc.CriticalResistanceRate",
-        "text": "Increases critical resistance of all types."
+        "text": "Increases Critical Resist of all types."
     },
     "11056": {
         "deprecated": false,
         "Dev_Desc": "CriticalAttackReduction",
         "id": 11056,
         "alias": "Contents.Stat.Desc.CriticalAttackReduction",
-        "text": "Critical strikes offset additional damage taken."
+        "text": "Offsets the bonus damage received by a critical hit."
     },
     "11057": {
         "deprecated": false,
         "Dev_Desc": "FatalAttackReduction",
         "id": 11057,
         "alias": "Contents.Stat.Desc.FatalAttackReduction",
-        "text": "Offsets additional damage taken from weakness attacks."
+        "text": "Offsets the bonus damage received when a weak spot is attacked."
     },
     "11058": {
         "deprecated": false,
         "Dev_Desc": "BlockpenetrationAttackReduction",
         "id": 11058,
         "alias": "Contents.Stat.Desc.BlockpenetrationAttackReduction",
-        "text": "Benefits additional damage taken from Block Penetration."
+        "text": "Offsets the bonus damage received by the opponent's Block Piercing."
     },
     "11059": {
         "deprecated": false,
         "Dev_Desc": "ReduceDamagePure",
         "id": 11059,
         "alias": "Contents.Stat.Desc.ReduceDamagePure",
-        "text": "Offsets additional damage taken from defense ignore attacks."
+        "text": "Offsets the bonus damage received by an attack that ignores Defense."
     },
     "11060": {
         "deprecated": false,
         "Dev_Desc": "HP",
         "id": 11060,
         "alias": "Contents.Stat.Desc.HP",
-        "text": "If you reach 0 health, you die."
+        "text": "The character dies when HP reaches 0."
     },
     "11061": {
         "deprecated": false,
         "Dev_Desc": "HPRate",
         "id": 11061,
         "alias": "Contents.Stat.Desc.HPRate",
-        "text": "Health is increased."
+        "text": "Increases the HP."
     },
     "11062": {
         "deprecated": false,
         "Dev_Desc": "Focus",
         "id": 11062,
         "alias": "Contents.Stat.Desc.Focus",
-        "text": "Resources that decrease when using a weapon."
+        "text": "Consumed when using techniques."
     },
     "11063": {
         "deprecated": false,
         "Dev_Desc": "Stamina",
         "id": 11063,
         "alias": "Contents.Stat.Desc.Stamina",
-        "text": "Resources that decrease when using light air or blocking attacks."
+        "text": "Consumed when windwalking and blocking attacks."
     },
     "11064": {
         "deprecated": false,
         "Dev_Desc": "RegenerationHP",
         "id": 11064,
         "alias": "Contents.Stat.Desc.RegenerationHP",
-        "text": "Health recovered per unit time increases."
+        "text": "Increases the HP recovered per the unit of time."
     },
     "11065": {
         "deprecated": false,
         "Dev_Desc": "FixedRegenerationHP",
         "id": 11065,
         "alias": "Contents.Stat.Desc.FixedRegenerationHP",
-        "text": "Health recovered per unit time increases regardless of the weight you possess."
+        "text": "Increases the HP recovered per unit of time regardless of the inventory weight."
     },
     "11066": {
         "deprecated": false,
         "Dev_Desc": "RegenerationFocus",
         "id": 11066,
         "alias": "Contents.Stat.Desc.RegenerationFocus",
-        "text": "The strength recovered per unit time increases."
+        "text": "Increases the Focus recovered per unit of time."
     },
     "11067": {
         "deprecated": false,
         "Dev_Desc": "FixedRegenerationFocus",
         "id": 11067,
         "alias": "Contents.Stat.Desc.FixedRegenerationFocus",
-        "text": "Regardless of the weight possessed, the strength recovered per unit time increases."
+        "text": "Increases the Focus recovered per unit of time regardless of the inventory weight."
     },
     "11068": {
         "deprecated": false,
         "Dev_Desc": "ControlFocus",
         "id": 11068,
         "alias": "Contents.Stat.Desc.ControlFocus",
-        "text": "Strength consumed when using martial arts is reduced."
+        "text": "Decreases the Focus cost for techniques."
     },
     "11069": {
         "deprecated": false,
         "Dev_Desc": "RegenerationStamina",
         "id": 11069,
         "alias": "Contents.Stat.Desc.RegenerationStamina",
-        "text": "The energy recovered per unit time increases."
+        "text": "Increases the Vitality recovered per unit of time."
     },
     "11070": {
         "deprecated": false,
         "Dev_Desc": "HPPotionRecovery",
         "id": 11070,
         "alias": "Contents.Stat.Desc.HPPotionRecovery",
-        "text": "Healing is increased when using a potion of healing."
+        "text": "Increases HP recovery when using HP Tonics."
     },
     "11071": {
         "deprecated": false,
         "Dev_Desc": "HPPotionRecoveryRate",
         "id": 11071,
         "alias": "Contents.Stat.Desc.HPPotionRecoveryRate",
-        "text": "When using a potion that restores life, the amount of recovery is increased by a certain percentage."
+        "text": "Increases the HP recovery by a percentage when using HP Tonics."
     },
     "11072": {
         "deprecated": false,
         "Dev_Desc": "NormalAttackSpeed",
         "id": 11072,
         "alias": "Contents.Stat.Desc.NormalAttackSpeed",
-        "text": "Increases the number of basic attacks per unit time."
+        "text": "Increases normal attack frequency per unit of time."
     },
     "11073": {
         "deprecated": false,
         "Dev_Desc": "ActiveAttackSpeed",
         "id": 11073,
         "alias": "Contents.Stat.Desc.ActiveAttackSpeed",
-        "text": "Increases the number of attacks per unit time."
+        "text": "Increases technique attack frequency per unit of time."
     },
     "11074": {
         "deprecated": false,
         "Dev_Desc": "SkillDamage",
         "id": 11074,
         "alias": "Contents.Stat.Desc.SkillDamage",
-        "text": "Increases damage dealt with no attacks."
+        "text": "Increases the damage dealt by technique attacks."
     },
     "11075": {
         "deprecated": false,
         "Dev_Desc": "ReduceSkillDamage",
         "id": 11075,
         "alias": "Contents.Stat.Desc.ReduceSkillDamage",
-        "text": "Damage taken with no attacks is reduced."
+        "text": "Decreases the damage received by technique attacks."
     },
     "11076": {
         "deprecated": false,
         "Dev_Desc": "CutPartsDamageRate",
         "id": 11076,
         "alias": "Contents.Stat.Desc.CutPartsDamageRate",
-        "text": "When attacking the boss's weak points, the damage to part-breaking health is increased."
+        "text": "Increases Boss Parts damage when attacking the boss's weak spot."
     },
     "11077": {
         "deprecated": false,
         "Dev_Desc": "StrikePartsDamageRate",
         "id": 11077,
         "alias": "Contents.Stat.Desc.StrikePartsDamageRate",
-        "text": "When attacking the boss's weakness, the damage to the part destruction (hit) health is increased."
+        "text": "Increases Boss Parts (Hit) damage when attacking the boss's weak spot."
     },
     "11078": {
         "deprecated": false,
         "Dev_Desc": "ControlHPDamageRate",
         "id": 11078,
         "alias": "Contents.Stat.Desc.ControlHPDamageRate",
-        "text": "Increases damage to control health when attacking the boss's weak points."
+        "text": "Increases CC damage when attacking the boss's weak spot."
     },
     "11079": {
         "deprecated": false,
         "Dev_Desc": "DamageRate",
         "id": 11079,
         "alias": "Contents.Stat.Desc.DamageRate",
-        "text": "Increases damage dealt."
+        "text": "Increases the amount of outgoing Damage."
     },
     "11080": {
         "deprecated": false,
         "Dev_Desc": "ReduceTakenDamageRate",
         "id": 11080,
         "alias": "Contents.Stat.Desc.ReduceTakenDamageRate",
-        "text": "Damage taken is reduced."
+        "text": "Decreases the amount of incoming Damage."
     },
     "11081": {
         "deprecated": false,
         "Dev_Desc": "HealRate",
         "id": 11081,
         "alias": "Contents.Stat.Desc.HealRate",
-        "text": "Increases healing done."
+        "text": "Increases the amount of outgoing Heal."
     },
     "11082": {
         "deprecated": false,
         "Dev_Desc": "TakenHealRate",
         "id": 11082,
         "alias": "Contents.Stat.Desc.TakenHealRate",
-        "text": "Increases healing received."
+        "text": "Increases the amount of Incoming Heal."
     },
     "11083": {
         "deprecated": false,
         "Dev_Desc": "Block",
         "id": 11083,
         "alias": "Contents.Stat.Desc.Block",
-        "text": "Increases chance to block incoming attacks."
+        "text": "Increases the chance for Block."
     },
     "11084": {
         "deprecated": false,
         "Dev_Desc": "Blockpenetration",
         "id": 11084,
         "alias": "Contents.Stat.Desc.Blockpenetration",
-        "text": "Increases the chance of a successful block penetration."
+        "text": "Increases the chance for Block Piercing."
     },
     "11085": {
         "deprecated": false,
         "Dev_Desc": "ParryRate",
         "id": 11085,
         "alias": "Contents.Stat.Desc.ParryRate",
-        "text": "Increases chance to deflect incoming attacks."
+        "text": "Increases the chance for Parry when blocking an attack."
     },
     "11086": {
         "deprecated": false,
         "Dev_Desc": "ParryResistanceRate",
         "id": 11086,
         "alias": "Contents.Stat.Desc.ParryResistanceRate",
-        "text": "Offsets the target's bounce rate when attacking."
+        "text": "Offsets Parry Chance of the defender when dealing attacks."
     },
     "11087": {
         "deprecated": false,
         "Dev_Desc": "SoulRate",
         "id": 11087,
         "alias": "Contents.Stat.Desc.SoulRate",
-        "text": "Your attack has an increased chance to trigger your soul."
+        "text": "Increases Soul Chance when dealing attacks."
     },
     "11088": {
         "deprecated": false,
         "Dev_Desc": "SoulResistanceRate",
         "id": 11088,
         "alias": "Contents.Stat.Desc.SoulResistanceRate",
-        "text": "Canceling the attacker's Soul Activation rate when attacked."
+        "text": "Offsets the attacker's Soul Chance when receiving attacks."
     },
     "11089": {
         "deprecated": false,
         "Dev_Desc": "IncreaseSoulRate",
         "id": 11089,
         "alias": "Contents.Stat.Desc.IncreaseSoulRate",
-        "text": "Increases Soul Activation Rate."
+        "text": "Increases Soul Chance."
     },
     "11090": {
         "deprecated": false,
         "Dev_Desc": "ReduceDamageRateMiss",
         "id": 11090,
         "alias": "Contents.Stat.Desc.ReduceDamageRateMiss",
-        "text": "You take less damage when your attack misses."
+        "text": "Decreases the received damage when the incoming attack is missed."
     },
     "11091": {
         "deprecated": false,
         "Dev_Desc": "ReduceDamageRateBlock",
         "id": 11091,
         "alias": "Contents.Stat.Desc.ReduceDamageRateBlock",
-        "text": "When you block an attack you take, you take less damage."
+        "text": "Decreases the received damage when the incoming attack is blocked."
     },
     "11092": {
         "deprecated": false,
         "Dev_Desc": "ReduceDamageRateParry",
         "id": 11092,
         "alias": "Contents.Stat.Desc.ReduceDamageRateParry",
-        "text": "You take less damage when you deflect an attack you take."
+        "text": "Decreases the received damage when the incoming attack is parried."
     },
     "11093": {
         "deprecated": false,
         "Dev_Desc": "Unyieldingness",
         "id": 11093,
         "alias": "Contents.Stat.Desc.Unyieldingness",
-        "text": "Damage taken in a row in PVP battles is reduced."
+        "text": "Decreases the damage received consecutively during PvP."
     },
     "11094": {
         "deprecated": false,
         "Dev_Desc": "CentralAttack",
         "id": 11094,
         "alias": "Contents.Stat.Desc.CentralAttack",
-        "text": "In PVP battles, the effect of the focused attack on the target is increased."
+        "text": "Increases the Concentrated Attack dealt during PvP matches."
     },
     "11095": {
         "deprecated": false,
         "Dev_Desc": "CentralAttackResistance",
         "id": 11095,
         "alias": "Contents.Stat.Desc.CentralAttackResistance",
-        "text": "It offsets the effect of the focused attack received during PVP battles."
+        "text": "Offsets the Concentrated Attack received during PvP matches."
     },
     "11096": {
         "deprecated": false,
         "Dev_Desc": "ShortPhysicalDefenceProbability",
         "id": 11096,
         "alias": "Contents.Stat.Desc.ShortPhysicalDefenceProbability",
-        "text": "Increases your final defense when receiving a melee attack."
+        "text": "Increases the final Defense against melee attacks."
     },
     "11097": {
         "deprecated": false,
         "Dev_Desc": "LongPhysicalDefenceProbability",
         "id": 11097,
         "alias": "Contents.Stat.Desc.LongPhysicalDefenceProbability",
-        "text": "Your final defense increases when receiving ranged attacks."
+        "text": "Increases the final Defense against ranged attacks."
     },
     "11098": {
         "deprecated": false,
         "Dev_Desc": "ForceDefenceProbability",
         "id": 11098,
         "alias": "Contents.Stat.Desc.ForceDefenceProbability",
-        "text": "Your final defense is increased when you receive a qigong attack."
+        "text": "Increases the final Defense against Force attacks."
     },
     "11099": {
         "deprecated": false,
         "Dev_Desc": "ShortPhysicalPenetrationProbability",
         "id": 11099,
         "alias": "Contents.Stat.Desc.ShortPhysicalPenetrationProbability",
-        "text": "Offsets the defender's final ERA when attacking at close range."
+        "text": "Offsets the defender's final Defense on melee attack."
     },
     "11100": {
         "deprecated": false,
         "Dev_Desc": "LongPhysicalPenetrationProbability",
         "id": 11100,
         "alias": "Contents.Stat.Desc.LongPhysicalPenetrationProbability",
-        "text": "Offsets the defender's final defense rate when attacking from a distance."
+        "text": "Offsets the defender's final Defense on ranged attack."
     },
     "11101": {
         "deprecated": false,
         "Dev_Desc": "ForcePenetrationProbability",
         "id": 11101,
         "alias": "Contents.Stat.Desc.ForcePenetrationProbability",
-        "text": "When attacking with qigong, the defender's final defense is offset."
+        "text": "Offsets the defender's final Defense on Force attack."
     },
     "11102": {
         "deprecated": false,
         "Dev_Desc": "ShortPhysicalHitProbability",
         "id": 11102,
         "alias": "Contents.Stat.Desc.ShortPhysicalHitProbability",
-        "text": "Increases final hit chance with melee attacks."
+        "text": "Increases the final Accuracy chance for melee attacks."
     },
     "11103": {
         "deprecated": false,
         "Dev_Desc": "LongPhysicalHitProbability",
         "id": 11103,
         "alias": "Contents.Stat.Desc.LongPhysicalHitProbability",
-        "text": "Increases final hit chance with ranged attacks."
+        "text": "Increases the final Accuracy chance for ranged attack."
     },
     "11104": {
         "deprecated": false,
         "Dev_Desc": "ForceHitProbability",
         "id": 11104,
         "alias": "Contents.Stat.Desc.ForceHitProbability",
-        "text": "Increases final hit chance with qigong attacks."
+        "text": "Increases the final Accuracy chance for Force attacks."
     },
     "11105": {
         "deprecated": false,
         "Dev_Desc": "ShortPhysicalEvasionProbability",
         "id": 11105,
         "alias": "Contents.Stat.Desc.ShortPhysicalEvasionProbability",
-        "text": "Negotiates the attacker's final hit chance when receiving a melee attack."
+        "text": "Offsets the attacker's final Accuracy chance when receiving a melee attack."
     },
     "11106": {
         "deprecated": false,
         "Dev_Desc": "LongPhysicalEvasionProbability",
         "id": 11106,
         "alias": "Contents.Stat.Desc.LongPhysicalEvasionProbability",
-        "text": "Offsets the attacker's final chance to hit when hit by ranged attacks."
+        "text": "Offsets the attacker's final Accuracy chance when receiving a ranged attack."
     },
     "11107": {
         "deprecated": false,
         "Dev_Desc": "ForceEvasionProbability",
         "id": 11107,
         "alias": "Contents.Stat.Desc.ForceEvasionProbability",
-        "text": "Negotiates the attacker's final hit chance when receiving a qigong attack."
+        "text": "Offsets the attacker's final Accuracy chance when receiving a Force attack."
     },
     "11108": {
         "deprecated": false,
         "Dev_Desc": "ControlAttack",
         "id": 11108,
         "alias": "Contents.Stat.Desc.ControlAttack",
-        "text": "A successful control attack increases the duration of control."
+        "text": "Increases CC duration upon an accurate CC."
     },
     "11109": {
         "deprecated": false,
         "Dev_Desc": "ControlDefence",
         "id": 11109,
         "alias": "Contents.Stat.Desc.ControlDefence",
-        "text": "When you are in control, the duration of control is reduced."
+        "text": "Decreases CC duration when afflicted with CC."
     },
     "11110": {
         "deprecated": false,
         "Dev_Desc": "ControlHitRate",
         "id": 11110,
         "alias": "Contents.Stat.Desc.ControlHitRate",
-        "text": "Increases success chance of control."
+        "text": "Increases the chance for CC."
     },
     "11111": {
         "deprecated": false,
         "Dev_Desc": "ControlResistanceRate",
         "id": 11111,
         "alias": "Contents.Stat.Desc.ControlResistanceRate",
-        "text": "Your chance of getting under control is reduced."
+        "text": "Decreases the chance of being afflicted with CC."
     },
     "11112": {
         "deprecated": false,
         "Dev_Desc": "TauntHitRate",
         "id": 11112,
         "alias": "Contents.Stat.Desc.TauntHitRate",
-        "text": "Increases success chance of taunts."
+        "text": "Increases the chance for Provoke."
     },
     "11113": {
         "deprecated": false,
         "Dev_Desc": "TauntResistanceRate",
         "id": 11113,
         "alias": "Contents.Stat.Desc.TauntResistanceRate",
-        "text": "Your chance of getting taunted is reduced."
+        "text": "Decreases the chance of being afflicted with Provoke."
     },
     "11114": {
         "deprecated": false,
         "Dev_Desc": "SlowdownHitRate",
         "id": 11114,
         "alias": "Contents.Stat.Desc.SlowdownHitRate",
-        "text": "Increases the success chance of slowing."
+        "text": "Increases the chance for Slow."
     },
     "11115": {
         "deprecated": false,
         "Dev_Desc": "SlowdownResistanceRate",
         "id": 11115,
         "alias": "Contents.Stat.Desc.SlowdownResistanceRate",
-        "text": "Your chance of getting slow is reduced."
+        "text": "Decreases the chance of being afflicted with Slow."
     },
     "11116": {
         "deprecated": false,
         "Dev_Desc": "FrozenHitRate",
         "id": 11116,
         "alias": "Contents.Stat.Desc.FrozenHitRate",
-        "text": "Increases the success chance of Freeze."
+        "text": "Increases the chance for Freeze."
     },
     "11117": {
         "deprecated": false,
         "Dev_Desc": "FrozenResistanceRate",
         "id": 11117,
         "alias": "Contents.Stat.Desc.FrozenResistanceRate",
-        "text": "Your chance to get frozen is reduced."
+        "text": "Decreases the chance of being afflicted with Freeze."
     },
     "11118": {
         "deprecated": false,
         "Dev_Desc": "FlinchHitRate",
         "id": 11118,
         "alias": "Contents.Stat.Desc.FlinchHitRate",
-        "text": "Increases the success chance of Stiffness."
+        "text": "Increases the chance for Petrify."
     },
     "11119": {
         "deprecated": false,
         "Dev_Desc": "FlinchResistanceRate",
         "id": 11119,
         "alias": "Contents.Stat.Desc.FlinchResistanceRate",
-        "text": "Your chance of getting stifled is reduced."
+        "text": "Decreases the chance of being afflicted with Petrify."
     },
     "11120": {
         "deprecated": false,
         "Dev_Desc": "BurnHitRate",
         "id": 11120,
         "alias": "Contents.Stat.Desc.BurnHitRate",
-        "text": "Increases the success chance of burns."
+        "text": "Increases the chance for Burn."
     },
     "11121": {
         "deprecated": false,
         "Dev_Desc": "BurnResistanceRate",
         "id": 11121,
         "alias": "Contents.Stat.Desc.BurnResistanceRate",
-        "text": "Your chance of getting burned is reduced."
+        "text": "Decreases the chance of being afflicted with Burn."
     },
     "11122": {
         "deprecated": false,
         "Dev_Desc": "BleedingHitRate",
         "id": 11122,
         "alias": "Contents.Stat.Desc.BleedingHitRate",
-        "text": "Increases success chance of bleeding."
+        "text": "Increases the chance for Bleed."
     },
     "11123": {
         "deprecated": false,
         "Dev_Desc": "BleedingResistanceRate",
         "id": 11123,
         "alias": "Contents.Stat.Desc.BleedingResistanceRate",
-        "text": "Your chance of getting bleed is reduced."
+        "text": "Decreases the chance of being afflicted with Bleed."
     },
     "11124": {
         "deprecated": false,
         "Dev_Desc": "MovementSpeed",
         "id": 11124,
         "alias": "Contents.Stat.Desc.MovementSpeed",
-        "text": "Increases walking and swimming speed."
+        "text": "Increases Walk and Swim speed."
     },
     "11125": {
         "deprecated": false,
         "Dev_Desc": "SwimSpeed",
         "id": 11125,
         "alias": "Contents.Stat.Desc.SwimSpeed",
-        "text": "Increases swimming speed."
+        "text": "Increases Swim speed."
     },
     "11126": {
         "deprecated": false,
         "Dev_Desc": "WalkSpeed",
         "id": 11126,
         "alias": "Contents.Stat.Desc.WalkSpeed",
-        "text": "Your walking speed will increase."
+        "text": "Increases Walk speed."
     },
     "11127": {
         "deprecated": false,
         "Dev_Desc": "WeightMax",
         "id": 11127,
         "alias": "Contents.Stat.Desc.WeightMax",
-        "text": "Maximum weight of items you can carry in your bag."
+        "text": "Maximum Bag weight."
     },
     "11128": {
         "deprecated": false,
         "Dev_Desc": "RateGold",
         "id": 11128,
         "alias": "Contents.Stat.Desc.RateGold",
-        "text": "Increases the amount of gold earned."
+        "text": "Increases the amount of acquired Gold."
     },
     "11129": {
         "deprecated": false,
         "Dev_Desc": "RateExp",
         "id": 11129,
         "alias": "Contents.Stat.Desc.RateExp",
-        "text": "Experience gain is increased."
+        "text": "Increases the amount of acquired EXP."
     },
     "11130": {
         "deprecated": false,
         "Dev_Desc": "ReduceSEConsumption",
         "id": 11130,
         "alias": "Contents.Stat.Desc.ReduceSEConsumption",
-        "text": "Aura consumption is reduced."
+        "text": "Reduces Soul Energy cost."
     },
     "11131": {
         "deprecated": false,
         "Dev_Desc": "SEFillingAmount",
         "id": 11131,
         "alias": "Contents.Stat.Desc.SEFillingAmount",
-        "text": "Increases aura charge."
+        "text": "Increases Soul Energy charge."
     },
     "11132": {
         "deprecated": false,
         "Dev_Desc": "ReduceHealRate",
         "id": 11132,
         "alias": "Contents.Stat.Desc.ReduceHealRate",
-        "text": "Your healing is reduced."
+        "text": "Decreases the amount of outgoing Heal."
     },
     "11133": {
         "deprecated": false,
         "Dev_Desc": "ReduceTakenHealRate",
         "id": 11133,
         "alias": "Contents.Stat.Desc.ReduceTakenHealRate",
-        "text": "Healing received is reduced."
+        "text": "Decreases the amount of Incoming Heal."
     },
     "11134": {
         "deprecated": false,
         "Dev_Desc": "ReduceDamageRate",
         "id": 11134,
         "alias": "Contents.Stat.Desc.ReduceDamageRate",
-        "text": "Damage is reduced."
+        "text": "Decreases the amount of outgoing Damage."
     },
     "11135": {
         "deprecated": false,
         "Dev_Desc": "TakenDamageRate",
         "id": 11135,
         "alias": "Contents.Stat.Desc.TakenDamageRate",
-        "text": "Increases damage taken."
+        "text": "Increases the amount of incoming Damage."
     },
     "11136": {
         "deprecated": false,
         "Dev_Desc": "ReduceNormalAttackSpeed",
         "id": 11136,
         "alias": "Contents.Stat.Desc.ReduceNormalAttackSpeed",
-        "text": "The number of basic attacks per unit time is reduced."
+        "text": "Decreases normal attack frequency per unit of time."
     },
     "11137": {
         "deprecated": false,
         "Dev_Desc": "ReduceActiveAttackSpeed",
         "id": 11137,
         "alias": "Contents.Stat.Desc.ReduceActiveAttackSpeed",
-        "text": "The number of non-air attacks per unit time is reduced."
+        "text": "Decreases technique attack frequency per unit of time."
     },
     "11138": {
         "deprecated": false,
         "Dev_Desc": "ReduceHpPotionRecovery",
         "id": 11138,
         "alias": "Contents.Stat.Desc.ReduceHpPotionRecovery",
-        "text": "Using a health potion will offset the amount of potion recovery."
+        "text": "Decreases HP recovery when using HP Tonics."
     },
     "11139": {
         "deprecated": false,
         "Dev_Desc": "ReduceHpPotionRecoveryRate",
         "id": 11139,
         "alias": "Contents.Stat.Desc.ReduceHpPotionRecoveryRate",
-        "text": "Using a health potion will offset the potion recovery rate."
+        "text": "Decreases the HP recovery by a percentage when using HP Tonics."
     },
     "11140": {
         "deprecated": false,
         "Dev_Desc": "ReduceMovementSpeed",
         "id": 11140,
         "alias": "Contents.Stat.Desc.ReduceMovementSpeed",
-        "text": "Walking speed and swimming speed are reduced."
+        "text": "Decreases Walk and Swim speed."
     },
     "11141": {
         "deprecated": false,
         "Dev_Desc": "ReduceSwimSpeed",
         "id": 11141,
         "alias": "Contents.Stat.Desc.ReduceSwimSpeed",
-        "text": "Your swimming speed is reduced."
+        "text": "Decreases Swim speed."
     },
     "11142": {
         "deprecated": false,
         "Dev_Desc": "ReduceWalkSpeed",
         "id": 11142,
         "alias": "Contents.Stat.Desc.ReduceWalkSpeed",
-        "text": "Your walking speed is reduced."
+        "text": "Decreases Walk speed."
     },
     "11143": {
         "deprecated": false,
         "Dev_Desc": "PvPAttack",
         "id": 11143,
         "alias": "Contents.Stat.Desc.PvPAttack",
-        "text": "Additional attack power applied in PVP battles."
+        "text": "Bonus Attack for PvP matches."
     },
     "11144": {
         "deprecated": false,
         "Dev_Desc": "PvPAttackReduction",
         "id": 11144,
         "alias": "Contents.Stat.Desc.PvPAttackReduction",
-        "text": "Additional self-defense in PVP battles."
+        "text": "Bonus Protection for PvP matches."
     },
     "11145": {
         "deprecated": false,
         "Dev_Desc": "PvPDefence",
         "id": 11145,
         "alias": "Contents.Stat.Desc.PvPDefence",
-        "text": "Additional defense applied in PVP battles."
+        "text": "Bonus Defense for PvP matches."
     },
     "11146": {
         "deprecated": false,
         "Dev_Desc": "PvPPenetration",
         "id": 11146,
         "alias": "Contents.Stat.Desc.PvPPenetration",
-        "text": "Additional penetration in PVP combat."
+        "text": "Bonus Piercing for PvP matches."
     },
     "11147": {
         "deprecated": false,
         "Dev_Desc": "PvPHit",
         "id": 11147,
         "alias": "Contents.Stat.Desc.PvPHit",
-        "text": "This is an additional hit in PVP battles."
+        "text": "Bonus Accuracy for PvP matches."
     },
     "11148": {
         "deprecated": false,
         "Dev_Desc": "PvPEvasion",
         "id": 11148,
         "alias": "Contents.Stat.Desc.PvPEvasion",
-        "text": "An additional evasion applied in PVP combat."
+        "text": "Bonus Evasion for PvP matches."
     },
     "11149": {
         "deprecated": false,
         "Dev_Desc": "PvPCriticalRate",
         "id": 11149,
         "alias": "Contents.Stat.Desc.PvPCriticalRate",
-        "text": "This is an additional critical rate applied in PVP battles."
+        "text": "Bonus Critical Rate for PvP matches."
     },
     "11150": {
         "deprecated": false,
         "Dev_Desc": "PvPCriticalResistanceRate",
         "id": 11150,
         "alias": "Contents.Stat.Desc.PvPCriticalResistanceRate",
-        "text": "Additional critical resistance applied in PVP combat."
+        "text": "Bonus Critical Resist for PvP matches."
     },
     "11151": {
         "deprecated": false,
         "Dev_Desc": "PvEAttack",
         "id": 11151,
         "alias": "Contents.Stat.Desc.PvEAttack",
-        "text": "Additional attack power in PVE battles."
+        "text": "Bonus Attack for PvE matches."
     },
     "11152": {
         "deprecated": false,
         "Dev_Desc": "PvEAttackReduction",
         "id": 11152,
         "alias": "Contents.Stat.Desc.PvEAttackReduction",
-        "text": "Additional self-defense in PVE battles."
+        "text": "Bonus Protection for PvE matches."
     },
     "11153": {
         "deprecated": false,
         "Dev_Desc": "PvEDefence",
         "id": 11153,
         "alias": "Contents.Stat.Desc.PvEDefence",
-        "text": "Additional defense applied in PVE combat."
+        "text": "Bonus Defense for PvE matches."
     },
     "11154": {
         "deprecated": false,
         "Dev_Desc": "PvEPenetration",
         "id": 11154,
         "alias": "Contents.Stat.Desc.PvEPenetration",
-        "text": "Additional penetration in PVE combat."
+        "text": "Bonus Piercing for PvE matches."
     },
     "11155": {
         "deprecated": false,
         "Dev_Desc": "PvEHit",
         "id": 11155,
         "alias": "Contents.Stat.Desc.PvEHit",
-        "text": "This is an additional hit in PVE combat."
+        "text": "Bonus Accuracy for PvE matches."
     },
     "11156": {
         "deprecated": false,
         "Dev_Desc": "PvEEvasion",
         "id": 11156,
         "alias": "Contents.Stat.Desc.PvEEvasion",
-        "text": "An additional evasion applied in PVE combat."
+        "text": "Bonus Evasion for PvE matches."
     },
     "11157": {
         "deprecated": false,
         "Dev_Desc": "PvECriticalRate",
         "id": 11157,
         "alias": "Contents.Stat.Desc.PvECriticalRate",
-        "text": "Additional criticality in PVE combat."
+        "text": "Bonus Critical Rate for PvE matches."
     },
     "11158": {
         "deprecated": false,
         "Dev_Desc": "PvECriticalResistanceRate",
         "id": 11158,
         "alias": "Contents.Stat.Desc.PvECriticalResistanceRate",
-        "text": "Additional critical resistance applied in PVE combat."
+        "text": "Bonus Critical Resist for PvE matches."
     },
     "11159": {
         "deprecated": false,
         "Dev_Desc": "BossAttack",
         "id": 11159,
         "alias": "Contents.Stat.Desc.BossAttack",
-        "text": "Additional attack power applied during boss battles."
+        "text": "Bonus Attack for Boss matches."
     },
     "11160": {
         "deprecated": false,
         "Dev_Desc": "BossAttackReduction",
         "id": 11160,
         "alias": "Contents.Stat.Desc.BossAttackReduction",
-        "text": "Additional self-defense applied during boss battles."
+        "text": "Bonus Protection for Boss matches."
     },
     "11161": {
         "deprecated": false,
         "Dev_Desc": "BossDefence",
         "id": 11161,
         "alias": "Contents.Stat.Desc.BossDefence",
-        "text": "Additional defense applied during boss battles."
+        "text": "Bonus Defense for Boss matches."
     },
     "11162": {
         "deprecated": false,
         "Dev_Desc": "BossPenetration",
         "id": 11162,
         "alias": "Contents.Stat.Desc.BossPenetration",
-        "text": "Additional penetration applied during boss battles."
+        "text": "Bonus Piercing for Boss matches."
     },
     "11163": {
         "deprecated": false,
         "Dev_Desc": "BossHit",
         "id": 11163,
         "alias": "Contents.Stat.Desc.BossHit",
-        "text": "This is an additional hit during boss battles."
+        "text": "Bonus Accuracy for Boss matches."
     },
     "11164": {
         "deprecated": false,
         "Dev_Desc": "BossEvasion",
         "id": 11164,
         "alias": "Contents.Stat.Desc.BossEvasion",
-        "text": "An additional evasion applied during boss battles."
+        "text": "Bonus Evasion for Boss matches."
     },
     "11165": {
         "deprecated": false,
         "Dev_Desc": "BossCriticalRate",
         "id": 11165,
         "alias": "Contents.Stat.Desc.BossCriticalRate",
-        "text": "This is an additional critical rate applied during boss battles."
+        "text": "Bonus Critical Rate for Boss matches."
     },
     "11166": {
         "deprecated": false,
         "Dev_Desc": "BossCriticalResistanceRate",
         "id": 11166,
         "alias": "Contents.Stat.Desc.BossCriticalResistanceRate",
-        "text": "Additional critical resistance applied during boss battles."
+        "text": "Bonus Critical Resist for Boss matches."
     },
     "11167": {
         "deprecated": false,
         "Dev_Desc": "FireDamage",
         "id": 11167,
         "alias": "Contents.Stat.Desc.FireDamage",
-        "text": "Inflicts additional fire damage when Fire element Soul is activated."
+        "text": "Bonus Fire Damage when a Fire Soul is activated."
     },
     "11168": {
         "deprecated": false,
         "Dev_Desc": "WaterDamage",
         "id": 11168,
         "alias": "Contents.Stat.Desc.WaterDamage",
-        "text": "Inflicts additional water damage when water element soul is activated."
+        "text": "Bonus Water Damage when a Water Soul is activated."
     },
     "11169": {
         "deprecated": false,
         "Dev_Desc": "WoodDamage",
         "id": 11169,
         "alias": "Contents.Stat.Desc.WoodDamage",
-        "text": "Inflicts additional neck damage when wood element soul is activated."
+        "text": "Bonus Wood Damage when a Wood Soul is activated."
     },
     "11170": {
         "deprecated": false,
         "Dev_Desc": "IronDamage",
         "id": 11170,
         "alias": "Contents.Stat.Desc.IronDamage",
-        "text": "Inflicts additional gold damage when gold element soul is activated."
+        "text": "Bonus Metal Damage when a Metal Soul is activated."
     },
     "11171": {
         "deprecated": false,
         "Dev_Desc": "WindDamage",
         "id": 11171,
         "alias": "Contents.Stat.Desc.WindDamage",
-        "text": "Inflicts additional wind property damage when wind property soul is activated."
+        "text": "Bonus Wind Damage when a Wind Soul is activated."
     },
     "11172": {
         "deprecated": false,
         "Dev_Desc": "LightningDamage",
         "id": 11172,
         "alias": "Contents.Stat.Desc.LightningDamage",
-        "text": "Inflicts additional brain damage when brain property soul is activated."
+        "text": "Bonus Lightning Damage when a Lightning Soul is activated."
     },
     "11173": {
         "deprecated": false,
         "Dev_Desc": "LightDamage",
         "id": 11173,
         "alias": "Contents.Stat.Desc.LightDamage",
-        "text": "Inflicts additional light property damage when light property soul is activated."
+        "text": "Bonus Light Damage when a Light Soul is activated."
     },
     "11174": {
         "deprecated": false,
         "Dev_Desc": "DarkDamage",
         "id": 11174,
         "alias": "Contents.Stat.Desc.DarkDamage",
-        "text": "Inflicts additional dark damage when Dark Soul is activated."
+        "text": "Bonus Darkness Damage when a Darkness Soul is activated."
     },
     "11175": {
         "deprecated": false,
         "Dev_Desc": "ElementDamage",
         "id": 11175,
         "alias": "Contents.Stat.Desc.ElementDamage",
-        "text": "Increases all elemental damage."
+        "text": "Increases Attack for all types."
     },
     "11176": {
         "deprecated": false,
         "Dev_Desc": "FireDamageRate",
         "id": 11176,
         "alias": "Contents.Stat.Desc.FireDamageRate",
-        "text": "Increases fire damage done."
+        "text": "Increases the outgoing Fire Damage."
     },
     "11177": {
         "deprecated": false,
         "Dev_Desc": "WaterDamageRate",
         "id": 11177,
         "alias": "Contents.Stat.Desc.WaterDamageRate",
-        "text": "Increases water damage dealt."
+        "text": "Increases the outgoing Water Damage."
     },
     "11178": {
         "deprecated": false,
         "Dev_Desc": "WoodDamageRate",
         "id": 11178,
         "alias": "Contents.Stat.Desc.WoodDamageRate",
-        "text": "Increases neck damage dealt."
+        "text": "Increases the outgoing Light Damage."
     },
     "11179": {
         "deprecated": false,
         "Dev_Desc": "IronDamageRate",
         "id": 11179,
         "alias": "Contents.Stat.Desc.IronDamageRate",
-        "text": "Increases gold damage dealt."
+        "text": "Increases the outgoing Metal Damage."
     },
     "11180": {
         "deprecated": false,
         "Dev_Desc": "WindDamageRate",
         "id": 11180,
         "alias": "Contents.Stat.Desc.WindDamageRate",
-        "text": "Increases wind property damage."
+        "text": "Increases the outgoing Wind Damage."
     },
     "11181": {
         "deprecated": false,
         "Dev_Desc": "LightningDamageRate",
         "id": 11181,
         "alias": "Contents.Stat.Desc.LightningDamageRate",
-        "text": "Increases brain damage dealt."
+        "text": "Increases the outgoing Lightning Damage."
     },
     "11182": {
         "deprecated": false,
         "Dev_Desc": "LightDamageRate",
         "id": 11182,
         "alias": "Contents.Stat.Desc.LightDamageRate",
-        "text": "Increases light property damage."
+        "text": "Increases the outgoing Light Damage."
     },
     "11183": {
         "deprecated": false,
         "Dev_Desc": "DarkDamageRate",
         "id": 11183,
         "alias": "Contents.Stat.Desc.DarkDamageRate",
-        "text": "Increases Cancer damage dealt."
+        "text": "Increases the outgoing Darkness Damage."
     },
     "11184": {
         "deprecated": false,
         "Dev_Desc": "ElementDamageRate",
         "id": 11184,
         "alias": "Contents.Stat.Desc.ElementDamageRate",
-        "text": "Increases all elemental damage amplification."
+        "text": "Increases Amplified Damage for all types."
     },
     "11185": {
         "deprecated": false,
         "Dev_Desc": "FireDamageToleranceRate",
         "id": 11185,
         "alias": "Contents.Stat.Desc.FireDamageToleranceRate",
-        "text": "Reduces fire damage taken."
+        "text": "Decreases the received Fire Damage."
     },
     "11186": {
         "deprecated": false,
         "Dev_Desc": "WaterDamageToleranceRate",
         "id": 11186,
         "alias": "Contents.Stat.Desc.WaterDamageToleranceRate",
-        "text": "Reduces water damage taken."
+        "text": "Decreases the received Water Damage."
     },
     "11187": {
         "deprecated": false,
         "Dev_Desc": "WoodDamageToleranceRate",
         "id": 11187,
         "alias": "Contents.Stat.Desc.WoodDamageToleranceRate",
-        "text": "Reduces neck damage taken."
+        "text": "Decreases the received Wood Damage."
     },
     "11188": {
         "deprecated": false,
         "Dev_Desc": "IronDamageToleranceRate",
         "id": 11188,
         "alias": "Contents.Stat.Desc.IronDamageToleranceRate",
-        "text": "Reduces gold damage received."
+        "text": "Decreases the received Metal Damage."
     },
     "11189": {
         "deprecated": false,
         "Dev_Desc": "WindDamageToleranceRate",
         "id": 11189,
         "alias": "Contents.Stat.Desc.WindDamageToleranceRate",
-        "text": "Reduces wind property damage received."
+        "text": "Decreases the received Wind Damage."
     },
     "11190": {
         "deprecated": false,
         "Dev_Desc": "LightningDamageToleranceRate",
         "id": 11190,
         "alias": "Contents.Stat.Desc.LightningDamageToleranceRate",
-        "text": "Reduces brain damage taken."
+        "text": "Decreases the received Lightning Damage."
     },
     "11191": {
         "deprecated": false,
         "Dev_Desc": "LightDamageToleranceRate",
         "id": 11191,
         "alias": "Contents.Stat.Desc.LightDamageToleranceRate",
-        "text": "Reduces light damage taken."
+        "text": "Decreases the received Light Damage."
     },
     "11192": {
         "deprecated": false,
         "Dev_Desc": "DarkDamageToleranceRate",
         "id": 11192,
         "alias": "Contents.Stat.Desc.DarkDamageToleranceRate",
-        "text": "Reduces cancer damage taken."
+        "text": "Decreases the received Darkness Damage."
     },
     "11193": {
         "deprecated": false,
         "Dev_Desc": "ElementDamageToleranceRate",
         "id": 11193,
         "alias": "Contents.Stat.Desc.ElementDamageToleranceRate",
-        "text": "Increases all elemental damage resistance."
+        "text": "Increases Damage Resist for all types."
     },
     "11194": {
         "deprecated": false,
         "Dev_Desc": "ElementDamageValue",
         "id": 11194,
         "alias": "Contents.Stat.Desc.ElementDamageValue",
-        "text": "The elemental damage inflicted when Soul is activated is amplified."
+        "text": "Amplifies the outgoing type damage upon Soul activation."
     },
     "11195": {
         "deprecated": false,
         "Dev_Desc": "ElementDamageValueRate",
         "id": 11195,
         "alias": "Contents.Stat.Desc.ElementDamageValueRate",
-        "text": "Additionally amplifies elemental damage when Soul is activated."
+        "text": "Additionally amplifies the outgoing type damage upon Soul activation."
     },
     "11196": {
         "deprecated": false,
