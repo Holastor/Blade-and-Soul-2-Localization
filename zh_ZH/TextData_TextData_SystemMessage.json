@@ -4466,7 +4466,7 @@
     },
     "9000699": {
         "deprecated": false,
-        "Dev_Desc": "거래소 / 필터 / 제련 옵션 / 6개 이상 선택 시",
+        "Dev_Desc": "거래소 / 필터 / 재련 옵션 / 6개 이상 선택 시",
         "id": 9000699,
         "alias": "SysM.Market.Filter.Forge.MaxSelect",
         "text": "最多可选择5个提炼属性。"
@@ -7367,5 +7367,68 @@
         "id": 9001114,
         "alias": "SysM.Revenge.Fail.Time",
         "text": "在可用的时间过去之后，你无法报复。"
+    },
+    "9001115": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 최대 충전 횟수 초과 시도 시 알림",
+        "id": 9001115,
+        "alias": "SysM.Dungeon.OverCount",
+        "text": "您的收费不能超过最大收费次数。"
+    },
+    "9001116": {
+        "deprecated": false,
+        "Dev_Desc": "재련 / 장비 등록",
+        "id": 9001116,
+        "alias": "SysM.Smelting.Msg.Registered",
+        "text": "<arg p=[1:string]/><eul/> 已注册。"
+    },
+    "9001117": {
+        "deprecated": false,
+        "Dev_Desc": "재련 / 장비 해제",
+        "id": 9001117,
+        "alias": "SysM.Smelting.Msg.UnRegistered",
+        "text": "未注册<arg p=[1:string]/><eul/>。"
+    },
+    "9001118": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 횟수 만료된 던전 입장 시도 시 알림",
+        "id": 9001118,
+        "alias": "SysM.Dungeon.CountOver",
+        "text": "地下城使用次数已用完，充值次数后即可进入。"
+    },
+    "9001119": {
+        "deprecated": false,
+        "Dev_Desc": "재련 / 재료 등록 실패",
+        "id": 9001119,
+        "alias": "SysM.Smelting.SmeltingFail.1",
+        "text": "同一种材料不能注册。"
+    },
+    "9001120": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 충전 횟수 오버",
+        "id": 9001120,
+        "alias": "SysM.Dungeon.OverCharge2",
+        "text": "您的收费不能超过最大收费次数。"
+    },
+    "9001121": {
+        "deprecated": false,
+        "Dev_Desc": "재련 / 재화 부족",
+        "id": 9001121,
+        "alias": "SysM.Smelting.SmeltingFail.LackOfGold",
+        "text": "你无法炼化它，因为你没有足够的金币。"
+    },
+    "9001122": {
+        "deprecated": false,
+        "Dev_Desc": "이름 변경으로 발생하는 에러 메시지 / PvP북",
+        "id": 9001122,
+        "alias": "SysM.ChangeName.Error.PvPBook",
+        "text": "无法验证用户信息。"
+    },
+    "9001123": {
+        "deprecated": false,
+        "Dev_Desc": "제작 / 제작 기간 미도래 또는 만료",
+        "id": 9001123,
+        "alias": "SysM.Craft.WrongPeriod",
+        "text": "这不是一个可以制作的时期。"
     }
 }

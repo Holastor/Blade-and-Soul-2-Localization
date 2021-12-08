@@ -1021,13 +1021,6 @@
         "alias": "Contents.Skill.Name.LongBow.5007",
         "text": "화살비"
     },
-    "60000150": {
-        "deprecated": false,
-        "Dev_Desc": "관통사격",
-        "id": 60000150,
-        "alias": "Contents.Skill.Name.LongBow.5110",
-        "text": "관통사격"
-    },
     "60000151": {
         "deprecated": false,
         "Dev_Desc": "후퇴사격",
@@ -1075,7 +1068,7 @@
         "Dev_Desc": "조준사격",
         "id": 60000157,
         "alias": "Contents.Skill.Desc.LongBow.5053",
-        "text": "포착한 적에게 시위를 강하게 당겨 화살을 날립니다.\n일정 확률로 대상을 \"기절\"시킵니다."
+        "text": "포착한 적에게 시위를 강하게 당겨 화살을 날립니다.\n일정 확률로 대상을 <textColor=[248:99:99:255]>기절</>시킵니다."
     },
     "60000158": {
         "deprecated": false,
@@ -1097,13 +1090,6 @@
         "id": 60000160,
         "alias": "Contents.Skill.Desc.LongBow.5100",
         "text": "공중에서 화살비가 떨어지며 더 적은 기력으로 사용이 가능합니다."
-    },
-    "60000161": {
-        "deprecated": false,
-        "Dev_Desc": "관통사격",
-        "id": 60000161,
-        "alias": "Contents.Skill.Desc.LongBow.5110",
-        "text": "적을 관통하는 화살을 날려 피해를 주고 경직시킵니다.\n사용하는 동안 원거리 물리 관통이 증가합니다."
     },
     "60000162": {
         "deprecated": false,
@@ -1174,13 +1160,6 @@
         "id": 60000171,
         "alias": "Contents.Skill.Option.LongBow.5100",
         "text": "기력 소모 480\n대기 시간 2초"
-    },
-    "60000172": {
-        "deprecated": false,
-        "Dev_Desc": "관통사격",
-        "id": 60000172,
-        "alias": "Contents.Skill.Option.LongBow.5110",
-        "text": "내력 소모 30\n대기 시간 20초"
     },
     "60000173": {
         "deprecated": false,
@@ -1485,14 +1464,14 @@
         "Dev_Desc": "반마화살",
         "id": 60000216,
         "alias": "Contents.Skill.Desc.LongBow.5080",
-        "text": "적에게 특수한 화살을 날려 피해를 입히며 무공으로 얻은 이로운 효과 일부를 해제합니다."
+        "text": "적에게 특수한 화살을 날려 피해를 입히며 무공으로 얻은 이로운 효과 일부를 해제합니다.\n\"수호 [극한]\"까지 해제합니다.\n\"화륜\", \"불사\", \"심기일전\", \"살상명령\", \"분노\", \"개혈\"을 해제합니다."
     },
     "60000217": {
         "deprecated": false,
         "Dev_Desc": "반마화살_돌파",
         "id": 60000217,
         "alias": "Contents.Skill.Desc.LongBow.5083",
-        "text": "적에게 특수한 화살을 날려 피해를 입히며 무공으로 얻은 이로운 효과 일부를 해제합니다.\n모든 무공들의 [돌파]까지 해제합니다."
+        "text": "적에게 특수한 화살을 날려 피해를 입히며 무공으로 얻은 이로운 효과 일부를 해제합니다.\n\"수호\", \"화륜\", \"불사\", \"심기일전\", \"살상명령\", \"분노\", \"개혈\"을 해제합니다."
     },
     "60000218": {
         "deprecated": false,
@@ -1528,20 +1507,6 @@
         "id": 60000222,
         "alias": "Contents.Skill.Desc.LongBow.5006",
         "text": "적에게 화살을 비처럼 쏘아대어 피해를 입힙니다."
-    },
-    "60000223": {
-        "deprecated": false,
-        "Dev_Desc": "추적화살_데미지추가",
-        "id": 60000223,
-        "alias": "Contents.Skill.Name.LongBow.5920",
-        "text": "추적화살_데미지추가_테스트"
-    },
-    "60000224": {
-        "deprecated": false,
-        "Dev_Desc": "추적화살_데미지추가",
-        "id": 60000224,
-        "alias": "Contents.Skill.Desc.LongBow.5920",
-        "text": "추적화살_데미지추가_테스트_기존 213에서 500 데미지를 추가"
     },
     "60000225": {
         "deprecated": false,
@@ -1703,13 +1668,6 @@
         "id": 60000247,
         "alias": "Contents.Skill.Option.LightGauntlet.2008",
         "text": "기력소모 300\n대기시간 1초"
-    },
-    "60000248": {
-        "deprecated": false,
-        "Dev_Desc": "회천각adddmage테스트",
-        "id": 60000248,
-        "alias": "Contents.Skill.Name.LightGauntlet.2990",
-        "text": "회천각테스트"
     },
     "60000249": {
         "deprecated": false,
@@ -2409,7 +2367,7 @@
         "Dev_Desc": "공용패시브_상세설명_31",
         "id": 60000348,
         "alias": "Contents.Skill.Desc.Common.9030",
-        "text": "인정 없는 태도로 무자비하게 무기를 휘두릅니다.\n무기 공격력 증폭이 증가합니다."
+        "text": "인정 없는 태도로 무자비하게 무기를 휘두릅니다.\n무기 공격력 증폭과 무기 공격력이 증가합니다."
     },
     "60000349": {
         "deprecated": false,
@@ -2430,7 +2388,7 @@
         "Dev_Desc": "공용패시브_상세설명_34",
         "id": 60000351,
         "alias": "Contents.Skill.Desc.Common.9033",
-        "text": "몸의 점혈을 보호하여 급소를 막아냅니다.\n치명타 호신이 증가합니다."
+        "text": "몸의 점혈을 보호하여 급소를 막아냅니다.\n치명 저항률과 치명타 호신이 증가합니다."
     },
     "60000352": {
         "deprecated": false,
@@ -2689,7 +2647,7 @@
         "Dev_Desc": "공용패시브_효과_31",
         "id": 60000388,
         "alias": "Contents.Skill.useEffectDesc.Common.9030",
-        "text": "무기 공격력 증폭 +3%"
+        "text": "무기 공격력 증폭 +3% 무기 공격력 +1"
     },
     "60000389": {
         "deprecated": false,
@@ -2710,7 +2668,7 @@
         "Dev_Desc": "공용패시브_효과_34",
         "id": 60000391,
         "alias": "Contents.Skill.useEffectDesc.Common.9033",
-        "text": "치명타 호신 +5"
+        "text": "치명 저항률 +3% 치명타 호신 +5"
     },
     "60000392": {
         "deprecated": false,

@@ -453,5 +453,68 @@
         "id": 61000065,
         "alias": "Contents.Effect.Option.Monster.113240913",
         "text": "중독 2단계"
+    },
+    "61000066": {
+        "deprecated": false,
+        "Dev_Desc": "보스_연오_디버프_침식_이름",
+        "id": 61000066,
+        "alias": "Contents.Effect.Name.Monster.212430005",
+        "text": "침식"
+    },
+    "61000067": {
+        "deprecated": false,
+        "Dev_Desc": "보스_연오_디버프_침식_설명",
+        "id": 61000067,
+        "alias": "Contents.Effect.Desc.Monster.212430005",
+        "text": "받는 치유량 감소, 물약 회복률 감소"
+    },
+    "61000068": {
+        "deprecated": false,
+        "Dev_Desc": "보스_연오_디버프_침식_옵션",
+        "id": 61000068,
+        "alias": "Contents.Effect.Option.Monster.212430005",
+        "text": "받는 치유량 감소 +30%\n물약 회복률 감소 +30%"
+    },
+    "61000069": {
+        "deprecated": false,
+        "Dev_Desc": "보스_연오_디버프_석화_이름",
+        "id": 61000069,
+        "alias": "Contents.Effect.Name.Monster.212430007",
+        "text": "석화"
+    },
+    "61000070": {
+        "deprecated": false,
+        "Dev_Desc": "보스_연오_디버프_석화_설명",
+        "id": 61000070,
+        "alias": "Contents.Effect.Desc.Monster.212430007",
+        "text": "석화 상태"
+    },
+    "61000071": {
+        "deprecated": false,
+        "Dev_Desc": "보스_연오_디버프_석화_옵션",
+        "id": 61000071,
+        "alias": "Contents.Effect.Option.Monster.212430007",
+        "text": "이동 불가\n무공 사용 불가\n일부 아이템 사용 불가"
+    },
+    "61000072": {
+        "deprecated": false,
+        "Dev_Desc": "보스_연오_디버프_이속감소_이름",
+        "id": 61000072,
+        "alias": "Contents.Effect.Name.Monster.212430008",
+        "text": "둔화"
+    },
+    "61000073": {
+        "deprecated": false,
+        "Dev_Desc": "보스_연오_디버프_이속감소_설명",
+        "id": 61000073,
+        "alias": "Contents.Effect.Desc.Monster.212430008",
+        "text": "이동속도 감소"
+    },
+    "61000074": {
+        "deprecated": false,
+        "Dev_Desc": "보스_연오_디버프_이속감소_옵션",
+        "id": 61000074,
+        "alias": "Contents.Effect.Option.Monster.212430008",
+        "text": "이동속도 감소율 +50%"
     }
 }

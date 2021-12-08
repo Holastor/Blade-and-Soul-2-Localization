@@ -1,0 +1,664 @@
+{
+    "40060000": {
+        "deprecated": false,
+        "id": 40060000,
+        "alias": "Contents.Quest.Guide.60000",
+        "text": "（嗯，我觉得它需要一些维护……）"
+    },
+    "40060001": {
+        "deprecated": false,
+        "id": 40060001,
+        "alias": "Contents.Quest.Guide.60001",
+        "text": "（你现在要去<textColor=[110:216:175:255]>Big Point</>吗？）"
+    },
+    "40060002": {
+        "deprecated": false,
+        "id": 40060002,
+        "alias": "Contents.Quest.Guide.60002",
+        "text": "（让我们看看......我们该从哪里开始？）"
+    },
+    "40060003": {
+        "deprecated": false,
+        "id": 40060003,
+        "alias": "Contents.Quest.Guide.60003",
+        "text": "你不是<textColor=[255:204:102:255]><myHero.name/></>吗？！"
+    },
+    "40060004": {
+        "deprecated": false,
+        "id": 40060004,
+        "alias": "Contents.Quest.Guide.60004",
+        "text": "总之，要不要先听证词？"
+    },
+    "40060005": {
+        "deprecated": false,
+        "id": 40060005,
+        "alias": "Contents.Quest.Guide.60005",
+        "text": "月珠……！"
+    },
+    "40060006": {
+        "deprecated": false,
+        "id": 40060006,
+        "alias": "Contents.Quest.Guide.60006",
+        "text": "请寻找失踪的刽子手\\n呵呵……"
+    },
+    "40060007": {
+        "deprecated": false,
+        "id": 40060007,
+        "alias": "Contents.Quest.Guide.60007",
+        "text": "……是承诺还是什么？"
+    },
+    "40060008": {
+        "deprecated": false,
+        "id": 40060008,
+        "alias": "Contents.Quest.Guide.60008",
+        "text": "（啊……阿朗走了。\\nNara，我得和<textColor=[78:148:215:255]>战斗领袖</>\\n交谈）"
+    },
+    "40060009": {
+        "deprecated": false,
+        "id": 40060009,
+        "alias": "Contents.Quest.Guide.60009",
+        "text": "先走！"
+    },
+    "40060010": {
+        "deprecated": false,
+        "id": 40060010,
+        "alias": "Contents.Quest.Guide.60010",
+        "text": "（目前看来与 <textColor=[215:94:94:255]>Black Dawn</> 有点不同）"
+    },
+    "40060011": {
+        "deprecated": false,
+        "id": 40060011,
+        "alias": "Contents.Quest.Guide.60011",
+        "text": "（等等，那边，你穿着\\n<textColor=[78:148:215:255]>Pungbaekmun</>，对吧？）"
+    },
+    "40060012": {
+        "deprecated": false,
+        "id": 40060012,
+        "alias": "Contents.Quest.Guide.60012",
+        "text": "（让我们靠近一些检查一下）"
+    },
+    "40060013": {
+        "deprecated": false,
+        "id": 40060013,
+        "alias": "Contents.Quest.Guide.60013",
+        "text": "「（啊？你刚刚说什么……？）」"
+    },
+    "40060014": {
+        "deprecated": false,
+        "id": 40060014,
+        "alias": "Contents.Quest.Guide.60014",
+        "text": "伟大的！"
+    },
+    "40060015": {
+        "deprecated": false,
+        "id": 40060015,
+        "alias": "Contents.Quest.Guide.60015",
+        "text": "<textColor=[255:204:102:255]><myHero.name/></>，好吗？！"
+    },
+    "40060016": {
+        "deprecated": false,
+        "id": 40060016,
+        "alias": "Contents.Quest.Guide.60016",
+        "text": "(<textColor=[110:216:175:255]>前往灰空森林</>，遇见\\n<textColor=[78:148:215:255]>蔡诺允</>)"
+    },
+    "40060017": {
+        "deprecated": false,
+        "id": 40060017,
+        "alias": "Contents.Quest.Guide.60017",
+        "text": "（你可以在那边看到 <textColor=[78:148:215:255]>Chae Nok-yun</>）"
+    },
+    "40060018": {
+        "deprecated": false,
+        "id": 40060018,
+        "alias": "Contents.Quest.Guide.60018",
+        "text": "（关注蔡诺允\\n我们一起检查尸体）"
+    },
+    "40060019": {
+        "deprecated": false,
+        "id": 40060019,
+        "alias": "Contents.Quest.Guide.60019",
+        "text": "……注意不要耽误太多时间。"
+    },
+    "40060020": {
+        "deprecated": false,
+        "id": 40060020,
+        "alias": "Contents.Quest.Guide.60020",
+        "text": "呃！你要帮忙吗？"
+    },
+    "40060021": {
+        "deprecated": false,
+        "id": 40060021,
+        "alias": "Contents.Quest.Guide.60021",
+        "text": "（哦，在那边！）"
+    },
+    "40060022": {
+        "deprecated": false,
+        "id": 40060022,
+        "alias": "Contents.Quest.Guide.60022",
+        "text": "（似乎效果很好。\\n现在让我们回到<textColor=[255:204:102:255]>剩余材料</>）"
+    },
+    "40060023": {
+        "deprecated": false,
+        "id": 40060023,
+        "alias": "Contents.Quest.Guide.60023",
+        "text": "嗯，看来你的补给几乎都拿回来了？"
+    },
+    "40060024": {
+        "deprecated": false,
+        "id": 40060024,
+        "alias": "Contents.Quest.Guide.60024",
+        "text": "（等一下！）"
+    },
+    "40060025": {
+        "deprecated": false,
+        "id": 40060025,
+        "alias": "Contents.Quest.Guide.60025",
+        "text": "（我再也看不到了。让我们回到\\n<textColor=[78:148:215:255]>Chae Nok-yun</>）"
+    },
+    "40060026": {
+        "deprecated": false,
+        "id": 40060026,
+        "alias": "Contents.Quest.Guide.60026",
+        "text": "（<textColor=[78:148:215:255]>Arang</> 似乎发现了什么）"
+    },
+    "40060027": {
+        "deprecated": false,
+        "id": 40060027,
+        "alias": "Contents.Quest.Guide.60027",
+        "text": "<textColor=[255:204:102:255]>人类足迹</>。\\n旁边……"
+    },
+    "40060028": {
+        "deprecated": false,
+        "id": 40060028,
+        "alias": "Contents.Quest.Guide.60028",
+        "text": "是什么东西的痕迹。"
+    },
+    "40060029": {
+        "deprecated": false,
+        "id": 40060029,
+        "alias": "Contents.Quest.Guide.60029",
+        "text": "（等等……那个……是什么？）"
+    },
+    "40060030": {
+        "deprecated": false,
+        "id": 40060030,
+        "alias": "Contents.Quest.Guide.60030",
+        "text": "等待！！！"
+    },
+    "40060031": {
+        "deprecated": false,
+        "id": 40060031,
+        "alias": "Contents.Quest.Guide.60031",
+        "text": "（快点<textColor=[110:216:175:255]>搜索帖子</>）"
+    },
+    "40060032": {
+        "deprecated": false,
+        "id": 40060032,
+        "alias": "Contents.Quest.Guide.60032",
+        "text": "这到底是怎么回事……这是怎么回事……！"
+    },
+    "40060033": {
+        "deprecated": false,
+        "id": 40060033,
+        "alias": "Contents.Quest.Guide.60033",
+        "text": "（在回收的物资中有治愈方法！）"
+    },
+    "40060034": {
+        "deprecated": false,
+        "id": 40060034,
+        "alias": "Contents.Quest.Guide.60034",
+        "text": "哇……我想我会买一些。谢谢。"
+    },
+    "40060035": {
+        "deprecated": false,
+        "id": 40060035,
+        "alias": "Contents.Quest.Guide.60035",
+        "text": "走吧，我们去拿吗？！"
+    },
+    "40060036": {
+        "deprecated": false,
+        "id": 40060036,
+        "alias": "Contents.Quest.Guide.60036",
+        "text": "好的，那里有合适的\\npreys 吗？"
+    },
+    "40060037": {
+        "deprecated": false,
+        "id": 40060037,
+        "alias": "Contents.Quest.Guide.60037",
+        "text": "这个怎么样？你觉得这样就够了吗？"
+    },
+    "40060038": {
+        "deprecated": false,
+        "id": 40060038,
+        "alias": "Contents.Quest.Guide.60038",
+        "text": "（要求将猎物散布在正确的地方）"
+    },
+    "40060039": {
+        "deprecated": false,
+        "id": 40060039,
+        "alias": "Contents.Quest.Guide.60039",
+        "text": "（现在，让我们摆脱那些看不见猎物的人）"
+    },
+    "40060040": {
+        "deprecated": false,
+        "id": 40060040,
+        "alias": "Contents.Quest.Guide.60040",
+        "text": "哦，看来你跟着我很安全？"
+    },
+    "40060041": {
+        "deprecated": false,
+        "id": 40060041,
+        "alias": "Contents.Quest.Guide.60041",
+        "text": "嗯……我不认为只有\\n人会被<textColor=[78:148:215:255]>哭泣</>堵塞。"
+    },
+    "40060042": {
+        "deprecated": false,
+        "id": 40060042,
+        "alias": "Contents.Quest.Guide.60042",
+        "text": "（他说合作很好，以后一起努力吧）"
+    },
+    "40060043": {
+        "deprecated": false,
+        "id": 40060043,
+        "alias": "Contents.Quest.Guide.60043",
+        "text": "我去那边！"
+    },
+    "40060044": {
+        "deprecated": false,
+        "id": 40060044,
+        "alias": "Contents.Quest.Guide.60044",
+        "text": "「（嗯……？是人声吗？）」"
+    },
+    "40060045": {
+        "deprecated": false,
+        "id": 40060045,
+        "alias": "Contents.Quest.Guide.60045",
+        "text": "来，等等……！你是什么东西？！"
+    },
+    "40060046": {
+        "deprecated": false,
+        "id": 40060046,
+        "alias": "Contents.Quest.Guide.60046",
+        "text": "投降，投降！！"
+    },
+    "40060047": {
+        "deprecated": false,
+        "id": 40060047,
+        "alias": "Contents.Quest.Guide.60047",
+        "text": "哦！我已经在跟踪你了！！！"
+    },
+    "40060048": {
+        "deprecated": false,
+        "id": 40060048,
+        "alias": "Contents.Quest.Guide.60048",
+        "text": "喂，像以前一样把它打下来！"
+    },
+    "40060049": {
+        "deprecated": false,
+        "id": 40060049,
+        "alias": "Contents.Quest.Guide.60049",
+        "text": "（结束了吗……？）"
+    },
+    "40060050": {
+        "deprecated": false,
+        "id": 40060050,
+        "alias": "Contents.Quest.Guide.60050",
+        "text": "小心！\\n<textColor=[255:204:102:255]>这些人拥有黑暗力量</>。"
+    },
+    "40060051": {
+        "deprecated": false,
+        "id": 40060051,
+        "alias": "Contents.Quest.Guide.60051",
+        "text": "还没结束！"
+    },
+    "40060052": {
+        "deprecated": false,
+        "id": 40060052,
+        "alias": "Contents.Quest.Guide.60052",
+        "text": "库库克……这又是什么？"
+    },
+    "40060053": {
+        "deprecated": false,
+        "id": 40060053,
+        "alias": "Contents.Quest.Guide.60053",
+        "text": "嘘……！"
+    },
+    "40060054": {
+        "deprecated": false,
+        "id": 40060054,
+        "alias": "Contents.Quest.Guide.60054",
+        "text": "这是不可能的！"
+    },
+    "40060055": {
+        "deprecated": false,
+        "id": 40060055,
+        "alias": "Contents.Quest.Guide.60055",
+        "text": "欢迎来到我们的 <textColor=[110:216:175:255]>避难所</>\\nwelcome。"
+    },
+    "40060056": {
+        "deprecated": false,
+        "id": 40060056,
+        "alias": "Contents.Quest.Guide.60056",
+        "text": "我去采疗草。"
+    },
+    "40060057": {
+        "deprecated": false,
+        "id": 40060057,
+        "alias": "Contents.Quest.Guide.60057",
+        "text": "对不起，请解决您的要求。"
+    },
+    "40060058": {
+        "deprecated": false,
+        "id": 40060058,
+        "alias": "Contents.Quest.Guide.60058",
+        "text": "（接下来……我们要不要让<textColor=[215:94:94:255]>发光</>？）"
+    },
+    "40060059": {
+        "deprecated": false,
+        "id": 40060059,
+        "alias": "Contents.Quest.Guide.60059",
+        "text": "完成后，让我们回到\\n<textColor=[110:216:175:255]>避难所</>！"
+    },
+    "40060060": {
+        "deprecated": false,
+        "id": 40060060,
+        "alias": "Contents.Quest.Guide.60060",
+        "text": "（不……？发生什么事了？！）"
+    },
+    "40060061": {
+        "deprecated": false,
+        "id": 40060061,
+        "alias": "Contents.Quest.Guide.60061",
+        "text": "这些老鼠……！！！"
+    },
+    "40060062": {
+        "deprecated": false,
+        "id": 40060062,
+        "alias": "Contents.Quest.Guide.60062",
+        "text": "你藏在哪里？\\n这里只有你一个人吗？"
+    },
+    "40060063": {
+        "deprecated": false,
+        "id": 40060063,
+        "alias": "Contents.Quest.Guide.60063",
+        "text": "咳咳……！这才刚刚开始！！"
+    },
+    "40060064": {
+        "deprecated": false,
+        "id": 40060064,
+        "alias": "Contents.Quest.Guide.60064",
+        "text": "各位，准备好，跟我来！！"
+    },
+    "40060065": {
+        "deprecated": false,
+        "id": 40060065,
+        "alias": "Contents.Quest.Guide.60065",
+        "text": "（道路已经固定了，我们看看坡道）"
+    },
+    "40060066": {
+        "deprecated": false,
+        "id": 40060066,
+        "alias": "Contents.Quest.Guide.60066",
+        "text": "（当来自安全区\\n难民的信号紧随其后）"
+    },
+    "40060067": {
+        "deprecated": false,
+        "id": 40060067,
+        "alias": "Contents.Quest.Guide.60067",
+        "text": "那么，请！"
+    },
+    "40060068": {
+        "deprecated": false,
+        "id": 40060068,
+        "alias": "Contents.Quest.Guide.60068",
+        "text": "我摔倒了……！！\\n这边！！"
+    },
+    "40060069": {
+        "deprecated": false,
+        "id": 40060069,
+        "alias": "Contents.Quest.Guide.60069",
+        "text": "跟着我。"
+    },
+    "40060070": {
+        "deprecated": false,
+        "id": 40060070,
+        "alias": "Contents.Quest.Guide.60070",
+        "text": "(<textColor=[255:204:102:255]>Bulma's Core</>\\n这个好像就够了)"
+    },
+    "40060071": {
+        "deprecated": false,
+        "id": 40060071,
+        "alias": "Contents.Quest.Guide.60071",
+        "text": "（我不知道我要在哪里使用它......但我开采了\\n<textColor=[255:204:102:255]>Tericite</>）"
+    },
+    "40060072": {
+        "deprecated": false,
+        "id": 40060072,
+        "alias": "Contents.Quest.Guide.60072",
+        "text": "（好的。准备好了。\\n<textColor=[78:148:215:255]>我们和霍恩去集合点</>）"
+    },
+    "40060073": {
+        "deprecated": false,
+        "id": 40060073,
+        "alias": "Contents.Quest.Guide.60073",
+        "text": "你一定要藏好。"
+    },
+    "40060074": {
+        "deprecated": false,
+        "id": 40060074,
+        "alias": "Contents.Quest.Guide.60074",
+        "text": "这里……！我想，敏赫！"
+    },
+    "40060075": {
+        "deprecated": false,
+        "id": 40060075,
+        "alias": "Contents.Quest.Guide.60075",
+        "text": "嘘！它来了。"
+    },
+    "40060076": {
+        "deprecated": false,
+        "id": 40060076,
+        "alias": "Contents.Quest.Guide.60076",
+        "text": "那就请吧！"
+    },
+    "40060077": {
+        "deprecated": false,
+        "id": 40060077,
+        "alias": "Contents.Quest.Guide.60077",
+        "text": "你是谁！！啊，\\n不。你的！！"
+    },
+    "40060078": {
+        "deprecated": false,
+        "id": 40060078,
+        "alias": "Contents.Quest.Guide.60078",
+        "text": "哇...现在。\\n来吧人们！！"
+    },
+    "40060079": {
+        "deprecated": false,
+        "id": 40060079,
+        "alias": "Contents.Quest.Guide.60079",
+        "text": "大家，跟我来！"
+    },
+    "40060080": {
+        "deprecated": false,
+        "id": 40060080,
+        "alias": "Contents.Quest.Guide.60080",
+        "text": "（我们先找到<textColor=[78:148:215:255]>Houn</>\\n<textColor=[110:216:175:255]>腐化的陨石坑</>）"
+    },
+    "40060081": {
+        "deprecated": false,
+        "id": 40060081,
+        "alias": "Contents.Quest.Guide.60081",
+        "text": "（最好先清理一下周围的环境）"
+    },
+    "40060082": {
+        "deprecated": false,
+        "id": 40060082,
+        "alias": "Contents.Quest.Guide.60082",
+        "text": "（可能 <textColor=[78:148:215:255]>Biryuha</> 似乎也发生了变异）"
+    },
+    "40060083": {
+        "deprecated": false,
+        "id": 40060083,
+        "alias": "Contents.Quest.Guide.60083",
+        "text": "(<textColor=[78:148:215:255]>我们去向蔡诺允汇报</>)"
+    },
+    "40060084": {
+        "deprecated": false,
+        "id": 40060084,
+        "alias": "Contents.Quest.Guide.60084",
+        "text": "嘿<textColor=[255:204:102:255]><myHero.name/></>！"
+    },
+    "40060085": {
+        "deprecated": false,
+        "id": 40060085,
+        "alias": "Contents.Quest.Guide.60085",
+        "text": "谢谢你的帮助。\\n再见！"
+    },
+    "40060086": {
+        "deprecated": false,
+        "id": 40060086,
+        "alias": "Contents.Quest.Guide.60086",
+        "text": "（让我们带着重新开始的心关注\\nwaterlily）"
+    },
+    "40060087": {
+        "deprecated": false,
+        "id": 40060087,
+        "alias": "Contents.Quest.Guide.60087",
+        "text": "（<textColor=[78:148:215:255]>Howoon Jang</> 在下面！）"
+    },
+    "40060088": {
+        "deprecated": false,
+        "id": 40060088,
+        "alias": "Contents.Quest.Guide.60088",
+        "text": "（那是...！）"
+    },
+    "40060089": {
+        "deprecated": false,
+        "id": 40060089,
+        "alias": "Contents.Quest.Guide.60089",
+        "text": "（嗯……？<textColor=[215:94:94:255]>黑色黎明</>脱掉衣服，一个普通人出现了）"
+    },
+    "40060090": {
+        "deprecated": false,
+        "Dev_Desc": "NPC 이름",
+        "id": 40060090,
+        "alias": "Contents.Quest.Guide.60090",
+        "text": "风白门战将韩素民"
+    },
+    "40060091": {
+        "deprecated": false,
+        "Dev_Desc": "NPC 이름",
+        "id": 40060091,
+        "alias": "Contents.Quest.Guide.60091",
+        "text": "风白门幸存者"
+    },
+    "40060092": {
+        "deprecated": false,
+        "Dev_Desc": "NPC 이름",
+        "id": 40060092,
+        "alias": "Contents.Quest.Guide.60092",
+        "text": "变异的风白门战斗领袖"
+    },
+    "40060093": {
+        "deprecated": false,
+        "Dev_Desc": "NPC 이름",
+        "id": 40060093,
+        "alias": "Contents.Quest.Guide.60093",
+        "text": "苏阳连队长蔡诺允"
+    },
+    "40060094": {
+        "deprecated": false,
+        "Dev_Desc": "NPC 이름",
+        "id": 40060094,
+        "alias": "Contents.Quest.Guide.60094",
+        "text": "纪律侦察队"
+    },
+    "40060095": {
+        "deprecated": false,
+        "Dev_Desc": "NPC 이름",
+        "id": 40060095,
+        "alias": "Contents.Quest.Guide.60095",
+        "text": "笨拙的黑色黎明"
+    },
+    "40060096": {
+        "deprecated": false,
+        "Dev_Desc": "NPC 이름",
+        "id": 40060096,
+        "alias": "Contents.Quest.Guide.60096",
+        "text": "张浩云"
+    },
+    "40060097": {
+        "deprecated": false,
+        "Dev_Desc": "NPC 이름",
+        "id": 40060097,
+        "alias": "Contents.Quest.Guide.60097",
+        "text": "黑色黎明追逐纳塔克船长"
+    },
+    "40060098": {
+        "deprecated": false,
+        "Dev_Desc": "NPC 이름",
+        "id": 40060098,
+        "alias": "Contents.Quest.Guide.60098",
+        "text": "伪装的张浩云"
+    },
+    "40060099": {
+        "deprecated": false,
+        "Dev_Desc": "NPC 이름",
+        "id": 40060099,
+        "alias": "Contents.Quest.Guide.60099",
+        "text": "黑色黎明营地主管"
+    },
+    "40060100": {
+        "deprecated": false,
+        "Dev_Desc": "NPC 이름",
+        "id": 40060100,
+        "alias": "Contents.Quest.Guide.60100",
+        "text": "阿让"
+    },
+    "40060101": {
+        "deprecated": false,
+        "id": 40060101,
+        "alias": "Contents.Quest.Guide.60101",
+        "text": "嗯？等一下。\\n你认为那是什么？"
+    },
+    "40060102": {
+        "deprecated": false,
+        "id": 40060102,
+        "alias": "Contents.Quest.Guide.60102",
+        "text": "（让我们快速浏览一下<textColor=[78:148:215:255]>Biryuha</>）"
+    },
+    "40060103": {
+        "deprecated": false,
+        "id": 40060103,
+        "alias": "Contents.Quest.Guide.60103",
+        "text": "（这样的话，就算压制，我也只能带你\\n\\n！）"
+    },
+    "40060104": {
+        "deprecated": false,
+        "Dev_Desc": "사용안함",
+        "id": 40060104,
+        "alias": "Contents.Quest.Guide.60104",
+        "text": "（强敌很多，小心点）"
+    },
+    "40060105": {
+        "deprecated": false,
+        "id": 40060105,
+        "alias": "Contents.Quest.Guide.60105",
+        "text": "「（好像过了很久……）」"
+    },
+    "40060106": {
+        "deprecated": false,
+        "Dev_Desc": "NPC 이름",
+        "id": 40060106,
+        "alias": "Contents.Quest.Guide.60106",
+        "text": "笨拙的黑色黎明"
+    },
+    "40060107": {
+        "deprecated": false,
+        "Dev_Desc": "NPC 이름",
+        "id": 40060107,
+        "alias": "Contents.Quest.Guide.60107",
+        "text": "神秘人"
+    }
+}

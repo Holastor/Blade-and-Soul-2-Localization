@@ -125,6 +125,13 @@
         "alias": "Contents.Item.Desc.9100143",
         "text": "Raises the momentum to drive the attack.\\nWhen hit with no attack, there is a chance to gain the effect of Sweeping for 10 seconds.\\nIncreasing attack speed during Sweeping.\\nStacks up to 5 times."
     },
+    "99000899": {
+        "deprecated": false,
+        "Dev_Desc": "검술연계Ⅰ",
+        "id": 99000899,
+        "alias": "Contents.Item.Desc.9100144",
+        "text": "보스 몬스터 공격 시 일정 확률로 \"천지가르기\", \"구름베기\"가 활성화됩니다.\n(사용 무공 활성화 대기시간 15초)"
+    },
     "99000905": {
         "deprecated": false,
         "Dev_Desc": "전설 / 약점공략 / 패시브 / 각인",
@@ -212,7 +219,8 @@
         "deprecated": false,
         "Dev_Desc": "상급 / 연권 / QQ",
         "id": 99000930,
-        "alias": "Contents.Item.Desc.9100224"
+        "alias": "Contents.Item.Desc.9100224",
+        "text": "대상에게 좌우로 주먹을 빠르게 날립니다.\n소울 패링 기절 대상에게 공격 버튼을 수동으로 눌러 사용 가능합니다."
     },
     "99000936": {
         "deprecated": false,
@@ -281,7 +289,15 @@
         "deprecated": false,
         "Dev_Desc": "개혈 / 액티브",
         "id": 99000951,
-        "alias": "Contents.Item.Desc.9100245"
+        "alias": "Contents.Item.Desc.9100245",
+        "text": "혈도를 개방시켜 6초간 근거리 공격력이 증가하고 대상에게 공격 적중 시 일정 확률로 생명력을 회복합니다."
+    },
+    "99000952": {
+        "deprecated": false,
+        "Dev_Desc": "영웅 / 권법연계Ⅰ / 패시브 / 각인",
+        "id": 99000952,
+        "alias": "Contents.Item.Desc.9100246",
+        "text": "보스 몬스터 공격 시 일정 확률로 \"절명각\", \"맹호격\", \"승천권\"이 활성화됩니다.\n(사용 무공 활성화 대기시간 15초)"
     },
     "99000956": {
         "deprecated": false,
@@ -675,6 +691,20 @@
         "alias": "Contents.Item.Desc.9101247",
         "text": "Essence used to evolve the Ascension Sphere. \\n When evolving, use the Ascension Sphere and link the Kakhwagak to an enemy in air state."
     },
+    "99001056": {
+        "deprecated": false,
+        "Dev_Desc": "증폭의 정수: 개혈",
+        "id": 99001056,
+        "alias": "Contents.Item.Desc.9101248",
+        "text": "\"개혈\"의 진화에 사용되는 정수입니다.\n진화 시 \"개혈\"의 지속시간이 2초 증가합니다."
+    },
+    "99001057": {
+        "deprecated": false,
+        "Dev_Desc": "극한의 정수: 개혈",
+        "id": 99001057,
+        "alias": "Contents.Item.Desc.9101249",
+        "text": "\"개혈\"의 진화에 사용되는 정수입니다.\n진화 시 2초간 모든 이동 속도 감소 효과를 해제하고 면역 상태가 됩니다."
+    },
     "99001058": {
         "deprecated": false,
         "Dev_Desc": "극한의 정수 : 다리걸기 (각인)",
@@ -702,6 +732,13 @@
         "id": 99001061,
         "alias": "Contents.Item.Desc.9101253",
         "text": "Used to level up Comet Strike.\nAttacks 3 enemies within its range."
+    },
+    "99001062": {
+        "deprecated": false,
+        "Dev_Desc": "돌파의 정수: 개혈",
+        "id": 99001062,
+        "alias": "Contents.Item.Desc.9101254",
+        "text": "\"개혈\"의 진화에 사용되는 정수입니다.\n진화 시 8초간 모든 이동 속도 감소 효과를 해제하고 면역 상태가 되며, 통제 저항률이 15% 증가합니다.\n\n[선행 조건]\n무공 강화 단계 +9 이상"
     },
     "99001069": {
         "deprecated": false,
@@ -829,6 +866,13 @@
         "alias": "Contents.Item.Desc.9100343",
         "text": "Strengthens basic attacks against enemies with status ailments. All basic attacks deal additional damage to targets with Stun and Air status."
     },
+    "99001103": {
+        "deprecated": false,
+        "Dev_Desc": "부술연계Ⅰ",
+        "id": 99001103,
+        "alias": "Contents.Item.Desc.9100344",
+        "text": "보스 몬스터 공격 시 일정 확률로 \"처단\"이 활성화됩니다.\n(사용 무공 활성화 대기시간 15초)"
+    },
     "99001109": {
         "deprecated": false,
         "Dev_Desc": "전설 / 불굴 / 패시브 / 각인",
@@ -880,7 +924,7 @@
     },
     "99001124": {
         "deprecated": false,
-        "Dev_Desc": "일반 불꽃기공패 무공서 (각인)",
+        "Dev_Desc": "일반 / 빙륜참 / 액션 (각인)",
         "id": 99001124,
         "alias": "Contents.Item.Desc.9100414",
         "text": "Disarms the Ice Ball and fires a spinning ice blade. \\nCan be used by manually pressing the Attack button."
@@ -922,7 +966,7 @@
     },
     "99001135": {
         "deprecated": false,
-        "Dev_Desc": "상급 불꽃기공패 무공서 (각인)",
+        "Dev_Desc": "희귀 / 화빙연포 / 액션 (각인)",
         "id": 99001135,
         "alias": "Contents.Item.Desc.9100425",
         "text": "Fire and ice bullets are fired in a burst. \\nCan be used by manually pressing the attack button."
@@ -982,6 +1026,13 @@
         "id": 99001153,
         "alias": "Contents.Item.Desc.9100443",
         "text": "Attacks a target that is incapacitated by the chill even more mercilessly.\\nApplies additional damage when attacking a frozen target.\\nAdditional damage has a 3 second cooldown."
+    },
+    "99001154": {
+        "deprecated": false,
+        "Dev_Desc": "영웅 / 염제 / 패시브 / 각인",
+        "id": 99001154,
+        "alias": "Contents.Item.Desc.9100444",
+        "text": "만물이 띠는 기운에 통달합니다.\n모든 속성 공격 증폭이 증가합니다.\n\n[효과]\n모든 속성 공격 증폭 +7%"
     },
     "99001161": {
         "deprecated": false,
@@ -1063,7 +1114,8 @@
         "deprecated": false,
         "Dev_Desc": "연사 / QQ",
         "id": 99001185,
-        "alias": "Contents.Item.Desc.9100524"
+        "alias": "Contents.Item.Desc.9100524",
+        "text": "빠르게 시위를 당겨 대상에게 화살을 날립니다. 소울 패링 기절 대상에게 공격 버튼을 수동으로 눌러 사용 가능합니다."
     },
     "99001191": {
         "deprecated": false,
@@ -1135,6 +1187,13 @@
         "alias": "Contents.Item.Desc.9100545",
         "text": "Has a chance to inflict Bleed on normal critical hit."
     },
+    "99001207": {
+        "deprecated": false,
+        "Dev_Desc": "신궁",
+        "id": 99001207,
+        "alias": "Contents.Item.Desc.9100546",
+        "text": "귀신같은 실력으로 활을 자유자재로 다룹니다.\n\n[효과]\nPVP 공격력 +3\nPVP 관통력 +5"
+    },
     "99001212": {
         "deprecated": false,
         "Dev_Desc": "전설 / 혈상 / 패시브 / 각인",
@@ -1180,7 +1239,8 @@
         "deprecated": false,
         "Dev_Desc": "생령폭격 / EQ",
         "id": 99001226,
-        "alias": "Contents.Item.Desc.9100614"
+        "alias": "Contents.Item.Desc.9100614",
+        "text": "소울 패링 성공 시 강력한 공격으로 반격합니다."
     },
     "99001232": {
         "deprecated": false,
@@ -1214,7 +1274,8 @@
         "deprecated": false,
         "Dev_Desc": "굉섬뢰 / Q",
         "id": 99001236,
-        "alias": "Contents.Item.Desc.9100624"
+        "alias": "Contents.Item.Desc.9100624",
+        "text": "소울 패링 기절 상태의 대상에게 강력한 공격을 가합니다."
     },
     "99001242": {
         "deprecated": false,
@@ -1278,6 +1339,13 @@
         "id": 99001257,
         "alias": "Contents.Item.Desc.9100645",
         "text": "Basic attacks have a chance to deal additional damage proportional to healing power."
+    },
+    "99001258": {
+        "deprecated": false,
+        "Dev_Desc": "항음",
+        "id": 99001258,
+        "alias": "Contents.Item.Desc.9100646",
+        "text": "항마의 기운을 음에 담아냅니다.\n\n[효과]\nPVE 공격력 +10, 보스 공격력 +5"
     },
     "99001262": {
         "deprecated": false,
@@ -1909,6 +1977,27 @@
         "alias": "Contents.Item.Desc.9101551",
         "text": "Used to level up Magic Arrow.\nUpon an accurate hit, it disables Guardian for 10 seconds."
     },
+    "99001417": {
+        "deprecated": false,
+        "Dev_Desc": "증폭의 정수: 봉쇄화살",
+        "id": 99001417,
+        "alias": "Contents.Item.Desc.9101552",
+        "text": "\"봉쇄화살\"의 진화에 사용되는 정수입니다.\n진화 시 \"봉쇄화살\" 범위 내 대상의 회피가 10 감소합니다."
+    },
+    "99001418": {
+        "deprecated": false,
+        "Dev_Desc": "극한의 정수: 봉쇄화살",
+        "id": 99001418,
+        "alias": "Contents.Item.Desc.9101553",
+        "text": "\"봉쇄화살\"의 진화에 사용되는 정수입니다.\n진화 시 \"봉쇄화살\" 범위 내 대상의 통제 저항률이 5% 감소합니다."
+    },
+    "99001419": {
+        "deprecated": false,
+        "Dev_Desc": "돌파의 정수: 봉쇄화살",
+        "id": 99001419,
+        "alias": "Contents.Item.Desc.9101554",
+        "text": "\"봉쇄화살\"의 진화에 사용되는 정수입니다.\n진화 시 대상을 중심으로 당기기 효과가 적용되며, 이동 속도 감소율이 추가로 증가합니다.\n\n[선행 조건]\n무공 강화 단계 +9 이상"
+    },
     "99001426": {
         "deprecated": false,
         "Dev_Desc": "증폭의 정수 : 연섬뢰 (각인)",
@@ -2123,6 +2212,7 @@
         "deprecated": false,
         "Dev_Desc": "봉쇄화살 / 액티브",
         "id": 99002654,
-        "alias": "Contents.Item.Desc.9100544"
+        "alias": "Contents.Item.Desc.9100544",
+        "text": "특수한 화살을 날려 대상을 포함한 최대 3인에게 피해를 입히고, 일정 확률로 막기를 관통하여 기절시킵니다.\n범위 내 무공에 적중당한 대상은 구르기를 포함한 지면에서 발이 떨어지는 무공을 사용할 수 없으며, 귀환이 불가하고 이동 속도가 감소합니다."
     }
 }

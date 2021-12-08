@@ -734,13 +734,6 @@
         "alias": "Contents.Skill.Desc.LightGauntlet.2807",
         "text": "突破肉体极限，提升集中。"
     },
-    "60020107": {
-        "deprecated": false,
-        "Dev_Desc": "패시브-개혈",
-        "id": 60020107,
-        "alias": "Contents.Skill.Desc.LightGauntlet.2808",
-        "text": "开放穴道，提升灵魂发动率。"
-    },
     "60020108": {
         "deprecated": false,
         "Dev_Desc": "패시브-급소가격",
@@ -803,13 +796,6 @@
         "id": 60020116,
         "alias": "Contents.Skill.Option.LightGauntlet.2807",
         "text": "内力消耗30"
-    },
-    "60020117": {
-        "deprecated": false,
-        "Dev_Desc": "패시브-개혈",
-        "id": 60020117,
-        "alias": "Contents.Skill.Option.LightGauntlet.2808",
-        "text": "持续效果"
     },
     "60020118": {
         "deprecated": false,
@@ -967,268 +953,268 @@
     },
     "60020140": {
         "deprecated": false,
-        "Dev_Desc": "경직, 통제, 도발 저항률 증가",
+        "Dev_Desc": "근거리 공격력 증가",
         "id": 60020140,
         "alias": "Contents.Skill.Upgrade.LightGauntlet.11",
         "text": "刚性，控制，卖淫率增加"
     },
     "60020141": {
         "deprecated": false,
-        "Dev_Desc": "빙결 저항률 증가",
+        "Dev_Desc": "경직, 통제, 도발 저항률 증가",
         "id": 60020141,
-        "alias": "Contents.Skill.Upgrade.LightGauntlet.12",
+        "alias": "Contents.Skill.Upgrade.LightGauntlet.11",
         "text": "增加冰电电阻率"
     },
     "60020142": {
         "deprecated": false,
-        "Dev_Desc": "개혈_이름",
+        "Dev_Desc": "빙결 저항률 증가",
         "id": 60020142,
-        "alias": "Contents.Skill.Name.LightGauntlet.2120",
+        "alias": "Contents.Skill.Upgrade.LightGauntlet.12",
         "text": "Gemo血"
     },
     "60020143": {
         "deprecated": false,
-        "Dev_Desc": "개혈_설명",
+        "Dev_Desc": "개혈_이름",
         "id": 60020143,
-        "alias": "Contents.Skill.Desc.LightGauntlet.2121",
+        "alias": "Contents.Skill.Name.LightGauntlet.2120",
         "text": "打开血液以打开抵抗力的能力20秒急剧增加。"
     },
     "60020144": {
         "deprecated": false,
-        "Dev_Desc": "개혈_효과",
+        "Dev_Desc": "개혈_설명",
         "id": 60020144,
-        "alias": "Contents.Skill.useEffectDesc.LightGauntlet.2120",
+        "alias": "Contents.Skill.Desc.LightGauntlet.2121",
         "text": "刚性，控制，挑衅电阻率+ 50％"
     },
     "60020145": {
         "deprecated": false,
-        "Dev_Desc": "개혈_증폭_이름",
+        "Dev_Desc": "개혈_효과",
         "id": 60020145,
-        "alias": "Contents.Skill.Name.LightGauntlet.2121",
+        "alias": "Contents.Skill.useEffectDesc.LightGauntlet.2120",
         "text": "Gemolar_扩增"
     },
     "60020146": {
         "deprecated": false,
-        "Dev_Desc": "개혈_극한_이름",
+        "Dev_Desc": "개혈_증폭_이름",
         "id": 60020146,
-        "alias": "Contents.Skill.Name.LightGauntlet.2122",
+        "alias": "Contents.Skill.Name.LightGauntlet.2121",
         "text": "guexia _extreme"
     },
     "60020147": {
         "deprecated": false,
-        "Dev_Desc": "개혈_극한_설명",
+        "Dev_Desc": "개혈_극한_이름",
         "id": 60020147,
-        "alias": "Contents.Skill.Desc.LightGauntlet.2122",
+        "alias": "Contents.Skill.Name.LightGauntlet.2122",
         "text": "打开血液以打开阻力20秒。\n四个关闭效果。"
     },
     "60020148": {
         "deprecated": false,
-        "Dev_Desc": "개혈_극한_효과",
+        "Dev_Desc": "개혈_증폭,극한_설명",
         "id": 60020148,
-        "alias": "Contents.Skill.useEffectDesc.LightGauntlet.2122",
+        "alias": "Contents.Skill.Desc.LightGauntlet.2122",
         "text": "释放和刚性，控制，挑衅，冰电阻率+ 50％"
     },
     "60020149": {
         "deprecated": false,
-        "Dev_Desc": "개혈_돌파_이름",
+        "Dev_Desc": "개혈_극한_설명",
         "id": 60020149,
-        "alias": "Contents.Skill.Name.LightGauntlet.2123",
+        "alias": "Contents.Skill.Desc.LightGauntlet.2122",
         "text": "血液_打破"
     },
     "60020150": {
         "deprecated": false,
-        "Dev_Desc": "개혈_돌파_효과",
+        "Dev_Desc": "개혈_돌파_이름",
         "id": 60020150,
-        "alias": "Contents.Skill.useEffectDesc.LightGauntlet.2123",
+        "alias": "Contents.Skill.Name.LightGauntlet.2123",
         "text": "所有移动速度相关的Debuff效果和刚性，控制，挑衅，冰电阻率+ 50％"
     },
     "60020151": {
         "deprecated": false,
-        "Dev_Desc": "개혈_돌파_설명",
+        "Dev_Desc": "개혈_돌파_효과",
         "id": 60020151,
-        "alias": "Contents.Skill.Desc.LightGauntlet.2123",
+        "alias": "Contents.Skill.useEffectDesc.LightGauntlet.2123",
         "text": "打开血液以打开阻力20秒。\n禁用所有移动速度相关的Debuff效果。"
     },
     "60020152": {
         "deprecated": false,
-        "Dev_Desc": "개혈_증폭_성장설명",
+        "Dev_Desc": "개혈_돌파_설명",
         "id": 60020152,
-        "alias": "Contents.Skill.acquireEffectDesc.2121",
+        "alias": "Contents.Skill.Desc.LightGauntlet.2123",
         "text": "增加持续时间5秒"
     },
     "60020153": {
         "deprecated": false,
-        "Dev_Desc": "개혈_극한_성장설명",
+        "Dev_Desc": "개혈_증폭_성장설명",
         "id": 60020153,
-        "alias": "Contents.Skill.acquireEffectDesc.2122",
+        "alias": "Contents.Skill.acquireEffectDesc.2121",
         "text": "铃声\n抗抗抗率+ 50％"
     },
     "60020154": {
         "deprecated": false,
-        "Dev_Desc": "개혈_돌파_성장설명",
+        "Dev_Desc": "개혈_극한_성장설명",
         "id": 60020154,
-        "alias": "Contents.Skill.acquireEffectDesc.2123",
+        "alias": "Contents.Skill.acquireEffectDesc.2122",
         "text": "所有与调试效果和免疫相关的移动速度"
     },
     "60020155": {
         "deprecated": false,
-        "Dev_Desc": "개혈_경직/통제/도발 저항률증가_이름",
+        "Dev_Desc": "개혈_돌파_성장설명",
         "id": 60020155,
-        "alias": "Contents.Effect.Name.LightGauntlet.2120",
+        "alias": "Contents.Skill.acquireEffectDesc.2123",
         "text": "Gemo血"
     },
     "60020156": {
         "deprecated": false,
-        "Dev_Desc": "개혈_경직/통제/도발 저항률증가_설명",
+        "Dev_Desc": "개혈_경직/통제/도발 저항률증가_이름",
         "id": 60020156,
-        "alias": "Contents.Effect.Desc.LightGauntlet.2120",
+        "alias": "Contents.Effect.Name.LightGauntlet.2120",
         "text": "增加抵抗力相关能力"
     },
     "60020157": {
         "deprecated": false,
-        "Dev_Desc": "개혈_경직/통제/도발 저항률증가_효과",
+        "Dev_Desc": "개혈_경직/통제/도발 저항률증가_설명",
         "id": 60020157,
-        "alias": "Contents.Effect.Option.LightGauntlet.212010",
+        "alias": "Contents.Effect.Desc.LightGauntlet.2120",
         "text": "刚性，控制，挑衅电阻率+ 50％"
     },
     "60020158": {
         "deprecated": false,
         "Dev_Desc": "개혈_경직/통제/도발 저항률증가_효과",
         "id": 60020158,
-        "alias": "Contents.Effect.Option.LightGauntlet.212011",
+        "alias": "Contents.Effect.Option.LightGauntlet.212010",
         "text": "刚性，控制，挑衅电阻率+ 52％"
     },
     "60020159": {
         "deprecated": false,
         "Dev_Desc": "개혈_경직/통제/도발 저항률증가_효과",
         "id": 60020159,
-        "alias": "Contents.Effect.Option.LightGauntlet.212012",
+        "alias": "Contents.Effect.Option.LightGauntlet.212011",
         "text": "刚性，控制，挑衅电阻率+ 54％"
     },
     "60020160": {
         "deprecated": false,
         "Dev_Desc": "개혈_경직/통제/도발 저항률증가_효과",
         "id": 60020160,
-        "alias": "Contents.Effect.Option.LightGauntlet.212013",
+        "alias": "Contents.Effect.Option.LightGauntlet.212012",
         "text": "刚性，控制，挑衅电阻率+ 56％"
     },
     "60020161": {
         "deprecated": false,
         "Dev_Desc": "개혈_경직/통제/도발 저항률증가_효과",
         "id": 60020161,
-        "alias": "Contents.Effect.Option.LightGauntlet.212014",
+        "alias": "Contents.Effect.Option.LightGauntlet.212013",
         "text": "刚性，控制，挑衅电阻率+ 58％"
     },
     "60020162": {
         "deprecated": false,
         "Dev_Desc": "개혈_경직/통제/도발 저항률증가_효과",
         "id": 60020162,
-        "alias": "Contents.Effect.Option.LightGauntlet.212015",
+        "alias": "Contents.Effect.Option.LightGauntlet.212014",
         "text": "刚性，控制，挑衅电阻率+ 60％"
     },
     "60020163": {
         "deprecated": false,
         "Dev_Desc": "개혈_경직/통제/도발 저항률증가_효과",
         "id": 60020163,
-        "alias": "Contents.Effect.Option.LightGauntlet.212016",
+        "alias": "Contents.Effect.Option.LightGauntlet.212015",
         "text": "刚性，控制，挑衅电阻率+ 62％"
     },
     "60020164": {
         "deprecated": false,
         "Dev_Desc": "개혈_경직/통제/도발 저항률증가_효과",
         "id": 60020164,
-        "alias": "Contents.Effect.Option.LightGauntlet.212017",
+        "alias": "Contents.Effect.Option.LightGauntlet.212016",
         "text": "刚性，控制，挑衅电阻率+ 64％"
     },
     "60020165": {
         "deprecated": false,
         "Dev_Desc": "개혈_경직/통제/도발 저항률증가_효과",
         "id": 60020165,
-        "alias": "Contents.Effect.Option.LightGauntlet.212018",
+        "alias": "Contents.Effect.Option.LightGauntlet.212017",
         "text": "刚性，控制，挑衅电阻率+ 66％"
     },
     "60020166": {
         "deprecated": false,
         "Dev_Desc": "개혈_경직/통제/도발 저항률증가_효과",
         "id": 60020166,
-        "alias": "Contents.Effect.Option.LightGauntlet.212019",
+        "alias": "Contents.Effect.Option.LightGauntlet.212018",
         "text": "刚性，控制，挑衅电阻率+ 70％"
     },
     "60020167": {
         "deprecated": false,
-        "Dev_Desc": "개혈_극한_경직/통제/도발/빙결 저항률증가_효과",
+        "Dev_Desc": "개혈_경직/통제/도발 저항률증가_효과",
         "id": 60020167,
-        "alias": "Contents.Effect.Option.LightGauntlet.212210",
+        "alias": "Contents.Effect.Option.LightGauntlet.212019",
         "text": "刚性，控制，挑衅，冰电阻率+ 50％"
     },
     "60020168": {
         "deprecated": false,
         "Dev_Desc": "개혈_극한_경직/통제/도발/빙결 저항률증가_효과",
         "id": 60020168,
-        "alias": "Contents.Effect.Option.LightGauntlet.212211",
+        "alias": "Contents.Effect.Option.LightGauntlet.212210",
         "text": "刚性，控制，挑衅，冰电阻率+ 52％"
     },
     "60020169": {
         "deprecated": false,
         "Dev_Desc": "개혈_극한_경직/통제/도발/빙결 저항률증가_효과",
         "id": 60020169,
-        "alias": "Contents.Effect.Option.LightGauntlet.212212",
+        "alias": "Contents.Effect.Option.LightGauntlet.212211",
         "text": "刚性，控制，挑衅，冰抵抗+ 54％"
     },
     "60020170": {
         "deprecated": false,
         "Dev_Desc": "개혈_극한_경직/통제/도발/빙결 저항률증가_효과",
         "id": 60020170,
-        "alias": "Contents.Effect.Option.LightGauntlet.212213",
+        "alias": "Contents.Effect.Option.LightGauntlet.212212",
         "text": "刚性，控制，挑衅，冰电阻率+ 56％"
     },
     "60020171": {
         "deprecated": false,
         "Dev_Desc": "개혈_극한_경직/통제/도발/빙결 저항률증가_효과",
         "id": 60020171,
-        "alias": "Contents.Effect.Option.LightGauntlet.212214",
+        "alias": "Contents.Effect.Option.LightGauntlet.212213",
         "text": "刚性，控制，挑衅，冰电阻率+ 58％"
     },
     "60020172": {
         "deprecated": false,
         "Dev_Desc": "개혈_극한_경직/통제/도발/빙결 저항률증가_효과",
         "id": 60020172,
-        "alias": "Contents.Effect.Option.LightGauntlet.212215",
+        "alias": "Contents.Effect.Option.LightGauntlet.212214",
         "text": "刚性，控制，挑衅，冰电阻率+ 60％"
     },
     "60020173": {
         "deprecated": false,
         "Dev_Desc": "개혈_극한_경직/통제/도발/빙결 저항률증가_효과",
         "id": 60020173,
-        "alias": "Contents.Effect.Option.LightGauntlet.212216",
+        "alias": "Contents.Effect.Option.LightGauntlet.212215",
         "text": "刚性，控制，挑衅，冰电阻率+ 62％"
     },
     "60020174": {
         "deprecated": false,
         "Dev_Desc": "개혈_극한_경직/통제/도발/빙결 저항률증가_효과",
         "id": 60020174,
-        "alias": "Contents.Effect.Option.LightGauntlet.212217",
+        "alias": "Contents.Effect.Option.LightGauntlet.212216",
         "text": "刚性，控制，挑衅，冰电阻率+ 64％"
     },
     "60020175": {
         "deprecated": false,
         "Dev_Desc": "개혈_극한_경직/통제/도발/빙결 저항률증가_효과",
         "id": 60020175,
-        "alias": "Contents.Effect.Option.LightGauntlet.212218",
+        "alias": "Contents.Effect.Option.LightGauntlet.212217",
         "text": "刚性，控制，挑衅，冰电阻率+ 66％"
     },
     "60020176": {
         "deprecated": false,
         "Dev_Desc": "개혈_극한_경직/통제/도발/빙결 저항률증가_효과",
         "id": 60020176,
-        "alias": "Contents.Effect.Option.LightGauntlet.212219",
+        "alias": "Contents.Effect.Option.LightGauntlet.212218",
         "text": "刚性，控制，挑衅，冰电阻率+ 70％"
     },
     "60020177": {
         "deprecated": false,
-        "Dev_Desc": "개혈_돌파_경직/통제/도발/빙결 저항률증가, 이속 디버프 면역_효과",
+        "Dev_Desc": "개혈_극한_경직/통제/도발/빙결 저항률증가_효과",
         "id": 60020177,
-        "alias": "Contents.Effect.Option.LightGauntlet.212310",
+        "alias": "Contents.Effect.Option.LightGauntlet.212219",
         "text": "刚性，控制，挑衅，床上用品抵抗+ 50％\n所有运动速度相关的Debuff效果"
     },
     "60020178": {
@@ -1242,119 +1228,168 @@
         "deprecated": false,
         "Dev_Desc": "개혈_돌파_경직/통제/도발/빙결 저항률증가, 이속 디버프 면역_효과",
         "id": 60020179,
-        "alias": "Contents.Effect.Option.LightGauntlet.212310",
+        "alias": "Contents.Effect.Option.LightGauntlet.212311",
         "text": "刚性，控制，挑衅，第四阻力+ 54％\n所有运动速度相关的Debuff效果"
     },
     "60020180": {
         "deprecated": false,
         "Dev_Desc": "개혈_돌파_경직/통제/도발/빙결 저항률증가, 이속 디버프 면역_효과",
         "id": 60020180,
-        "alias": "Contents.Effect.Option.LightGauntlet.212310",
+        "alias": "Contents.Effect.Option.LightGauntlet.212312",
         "text": "刚性，控制，挑衅，冰电电阻率+ 56％\n所有运动速度相关的Debuff效果"
     },
     "60020181": {
         "deprecated": false,
         "Dev_Desc": "개혈_돌파_경직/통제/도발/빙결 저항률증가, 이속 디버프 면역_효과",
         "id": 60020181,
-        "alias": "Contents.Effect.Option.LightGauntlet.212310",
+        "alias": "Contents.Effect.Option.LightGauntlet.212313",
         "text": "刚性，控制，挑衅，冰电阻率+ 58％\n所有运动速度相关的Debuff效果"
     },
     "60020182": {
         "deprecated": false,
         "Dev_Desc": "개혈_돌파_경직/통제/도발/빙결 저항률증가, 이속 디버프 면역_효과",
         "id": 60020182,
-        "alias": "Contents.Effect.Option.LightGauntlet.212310",
+        "alias": "Contents.Effect.Option.LightGauntlet.212314",
         "text": "刚性，控制，挑衅，冰电阻率+ 60％\n所有运动速度相关的Debuff效果"
     },
     "60020183": {
         "deprecated": false,
         "Dev_Desc": "개혈_돌파_경직/통제/도발/빙결 저항률증가, 이속 디버프 면역_효과",
         "id": 60020183,
-        "alias": "Contents.Effect.Option.LightGauntlet.212310",
+        "alias": "Contents.Effect.Option.LightGauntlet.212315",
         "text": "刚性，控制，挑衅，床上用品+ 62％\n所有运动速度相关的Debuff效果"
     },
     "60020184": {
         "deprecated": false,
         "Dev_Desc": "개혈_돌파_경직/통제/도발/빙결 저항률증가, 이속 디버프 면역_효과",
         "id": 60020184,
-        "alias": "Contents.Effect.Option.LightGauntlet.212310",
+        "alias": "Contents.Effect.Option.LightGauntlet.212316",
         "text": "刚性，控制，挑衅，床上用品抵抗+ 64％\n所有运动速度相关的Debuff效果"
     },
     "60020185": {
         "deprecated": false,
         "Dev_Desc": "개혈_돌파_경직/통제/도발/빙결 저항률증가, 이속 디버프 면역_효과",
         "id": 60020185,
-        "alias": "Contents.Effect.Option.LightGauntlet.212310",
+        "alias": "Contents.Effect.Option.LightGauntlet.212317",
         "text": "刚性，控制，挑衅，第四阻力+ 66％\n所有运动速度相关的Debuff效果"
     },
     "60020186": {
         "deprecated": false,
         "Dev_Desc": "개혈_돌파_경직/통제/도발/빙결 저항률증가, 이속 디버프 면역_효과",
         "id": 60020186,
-        "alias": "Contents.Effect.Option.LightGauntlet.212310",
+        "alias": "Contents.Effect.Option.LightGauntlet.212318",
         "text": "刚性，控制，挑衅，冰电阻率+ 70％\n所有运动速度相关的Debuff效果"
     },
     "60020187": {
         "deprecated": false,
-        "Dev_Desc": "무투_이름",
+        "Dev_Desc": "개혈_돌파_경직/통제/도발/빙결 저항률증가, 이속 디버프 면역_효과",
         "id": 60020187,
-        "alias": "Contents.Effect.Name.LightGauntlet.2805",
+        "alias": "Contents.Effect.Option.LightGauntlet.212319",
         "text": "“穆图”"
     },
     "60020188": {
         "deprecated": false,
-        "Dev_Desc": "무투_설명",
+        "Dev_Desc": "무투_이름",
         "id": 60020188,
-        "alias": "Contents.Effect.Desc.LightGauntlet.2805",
+        "alias": "Contents.Effect.Name.LightGauntlet.2805",
         "text": "“提高基本攻击速度”"
     },
     "60020189": {
         "deprecated": false,
-        "Dev_Desc": "무투_효과_Lv1",
+        "Dev_Desc": "무투_설명",
         "id": 60020189,
-        "alias": "Contents.Effect.Option.LightGauntlet.280500",
+        "alias": "Contents.Effect.Desc.LightGauntlet.2805",
         "text": "“3% 基础攻击速度”"
     },
     "60020190": {
         "deprecated": false,
-        "Dev_Desc": "무투_효과_Lv2",
+        "Dev_Desc": "무투_효과_Lv1",
         "id": 60020190,
-        "alias": "Contents.Effect.Option.LightGauntlet.280501",
+        "alias": "Contents.Effect.Option.LightGauntlet.280500",
         "text": "“6% 基本攻击速度”"
     },
     "60020191": {
         "deprecated": false,
-        "Dev_Desc": "무투_효과_Lv3",
+        "Dev_Desc": "무투_효과_Lv2",
         "id": 60020191,
-        "alias": "Contents.Effect.Option.LightGauntlet.280502",
+        "alias": "Contents.Effect.Option.LightGauntlet.280501",
         "text": "“9% 基本攻击速度”"
     },
     "60020192": {
         "deprecated": false,
-        "Dev_Desc": "무투_효과_Lv4",
+        "Dev_Desc": "무투_효과_Lv3",
         "id": 60020192,
-        "alias": "Contents.Effect.Option.LightGauntlet.280503",
+        "alias": "Contents.Effect.Option.LightGauntlet.280502",
         "text": "“12% 基础攻击速度”"
     },
     "60020193": {
         "deprecated": false,
-        "Dev_Desc": "무투_효과_Lv5",
+        "Dev_Desc": "무투_효과_Lv4",
         "id": 60020193,
-        "alias": "Contents.Effect.Option.LightGauntlet.280504",
+        "alias": "Contents.Effect.Option.LightGauntlet.280503",
         "text": "“15% 基础攻击速度”"
     },
     "60020194": {
         "deprecated": false,
-        "Dev_Desc": "무투_상세",
+        "Dev_Desc": "무투_효과_Lv5",
         "id": 60020194,
-        "alias": "Contents.Effect.Detail.LightGauntlet.2805",
+        "alias": "Contents.Effect.Option.LightGauntlet.280504",
         "text": "“‘穆图’最多可叠加5次。”"
     },
     "60020195": {
         "deprecated": false,
-        "Dev_Desc": "맹호격_돌파_설명",
+        "Dev_Desc": "무투_상세",
         "id": 60020195,
-        "alias": "Contents.Skill.Desc.LightGauntlet.2113",
+        "alias": "Contents.Effect.Detail.LightGauntlet.2805",
         "text": "“跳跃并猛击地面，有几率对敌人造成‘空气’效果并造成伤害。\n从空中坠落后，他们被‘眩晕’。”"
+    },
+    "60020196": {
+        "deprecated": false,
+        "Dev_Desc": "맹호격_돌파_설명",
+        "id": 60020196,
+        "alias": "Contents.Skill.Desc.LightGauntlet.2113",
+        "text": "跳跃并猛击地面，有几率对敌人造成<textColor=[248:99:99:255]>空气</>>空气</>>并造成伤害。\\n从空中坠落后，< textColor=[248: 99:99:255]>震惊</>。"
+    },
+    "60020197": {
+        "deprecated": false,
+        "Dev_Desc": "연권",
+        "id": 60020197,
+        "alias": "Contents.Skill.Name.LightGauntlet.2200",
+        "text": "龙权"
+    },
+    "60020198": {
+        "deprecated": false,
+        "Dev_Desc": "연권_설명",
+        "id": 60020198,
+        "alias": "Contents.Skill.Desc.LightGauntlet.2201",
+        "text": "快速向左右射出拳头。\\n<textColor=[248:99:99:255]>灵魂招架眩晕</> 可以通过手动按下目标的攻击按钮来使用。"
+    },
+    "60020199": {
+        "deprecated": false,
+        "Dev_Desc": "연권_사용조건",
+        "id": 60020199,
+        "alias": "Contents.Skill.requirementDesc.LightGauntlet.2201",
+        "text": "魂传眩晕目标"
+    },
+    "60020200": {
+        "deprecated": false,
+        "Dev_Desc": "패시브_권법연계Ⅰ_이름",
+        "id": 60020200,
+        "alias": "Contents.Skill.Name.LightGauntlet.2810",
+        "text": "Kwonbeop 连接 I"
+    },
+    "60020201": {
+        "deprecated": false,
+        "Dev_Desc": "패시브_권법연계Ⅰ_설명",
+        "id": 60020201,
+        "alias": "Contents.Skill.Desc.LightGauntlet.2810",
+        "text": "攻击boss怪物时，有一定概率会触发毁灭者、富翁、飞升。"
+    },
+    "60020202": {
+        "deprecated": false,
+        "Dev_Desc": "패시브_권법연계Ⅰ_효과",
+        "id": 60020202,
+        "alias": "Contents.Skill.useEffectDesc.LightGauntlet.2810",
+        "text": "有条件的非枪激活"
     }
 }

@@ -80,33 +80,6 @@
         "id": 89500011,
         "alias": "Contents.Effect.Detail.9200024"
     },
-    "89500012": {
-        "deprecated": false,
-        "Dev_Desc": "전투의 부적",
-        "id": 89500012,
-        "alias": "Contents.Effect.Name.9230106",
-        "text": "전투의 부적"
-    },
-    "89500013": {
-        "deprecated": false,
-        "Dev_Desc": "전투의 부적",
-        "id": 89500013,
-        "alias": "Contents.Effect.Desc.9230106",
-        "text": "공격 관련 능력 증가"
-    },
-    "89500014": {
-        "deprecated": false,
-        "Dev_Desc": "전투의 부적",
-        "id": 89500014,
-        "alias": "Contents.Effect.Option.9230106",
-        "text": "공격력 +3\n명중 +3\n관통 +2"
-    },
-    "89500015": {
-        "deprecated": false,
-        "Dev_Desc": "전투의 부적",
-        "id": 89500015,
-        "alias": "Contents.Effect.Detail.9230106"
-    },
     "89500016": {
         "deprecated": false,
         "Dev_Desc": "전통주",
@@ -133,60 +106,6 @@
         "Dev_Desc": "전통주",
         "id": 89500019,
         "alias": "Contents.Effect.Detail.9200105"
-    },
-    "89500020": {
-        "deprecated": false,
-        "Dev_Desc": "인내 주문서 / 호신",
-        "id": 89500020,
-        "alias": "Contents.Effect.Name.9230108",
-        "text": "인내의 부적"
-    },
-    "89500021": {
-        "deprecated": false,
-        "Dev_Desc": "인내 주문서 / 호신",
-        "id": 89500021,
-        "alias": "Contents.Effect.Desc.9230108",
-        "text": "재생 및 방어 관련 능력 증가"
-    },
-    "89500022": {
-        "deprecated": false,
-        "Dev_Desc": "인내 주문서 / 호신",
-        "id": 89500022,
-        "alias": "Contents.Effect.Option.9230108",
-        "text": "체력 재생 +5<br/>내력 재성 +5<br/>활력 재생 +5<br/>호신 +2"
-    },
-    "89500023": {
-        "deprecated": false,
-        "Dev_Desc": "인내 주문서 / 호신",
-        "id": 89500023,
-        "alias": "Contents.Effect.Detail.9230108"
-    },
-    "89500024": {
-        "deprecated": false,
-        "Dev_Desc": "경신의 부적",
-        "id": 89500024,
-        "alias": "Contents.Effect.Name.9230112",
-        "text": "경량의 비약"
-    },
-    "89500025": {
-        "deprecated": false,
-        "Dev_Desc": "경신의 부적",
-        "id": 89500025,
-        "alias": "Contents.Effect.Desc.9230112",
-        "text": "최대 소지 무게 증가"
-    },
-    "89500026": {
-        "deprecated": false,
-        "Dev_Desc": "경신의 부적",
-        "id": 89500026,
-        "alias": "Contents.Effect.Option.9230112",
-        "text": "최대 소지 무게 +500"
-    },
-    "89500027": {
-        "deprecated": false,
-        "Dev_Desc": "경신의 부적",
-        "id": 89500027,
-        "alias": "Contents.Effect.Detail.9230112"
     },
     "89500028": {
         "deprecated": false,
@@ -2914,7 +2833,7 @@
         "Dev_Desc": "빛나는 용봉탕 / 경험치 획득량 증가 10%_명칭",
         "id": 89500444,
         "alias": "Contents.Effect.Name.9200061",
-        "text": "용봉탕"
+        "text": "빛나는 용봉탕"
     },
     "89500445": {
         "deprecated": false,
@@ -4641,21 +4560,21 @@
         "Dev_Desc": "악인 1단계 / 설명",
         "id": 89500693,
         "alias": "Contents.Effect.Desc.8114",
-        "text": "회피 능력 감소"
+        "text": "회피, 물약 회복량 감소"
     },
     "89500694": {
         "deprecated": false,
         "Dev_Desc": "악인 2단계 / 설명",
         "id": 89500694,
         "alias": "Contents.Effect.Desc.8115",
-        "text": "회피 능력 감소"
+        "text": "회피, 방어, 물약 회복량 감소"
     },
     "89500695": {
         "deprecated": false,
         "Dev_Desc": "악인 3단계 / 설명",
         "id": 89500695,
         "alias": "Contents.Effect.Desc.8116",
-        "text": "회피 능력 감소"
+        "text": "회피, 방어, 물약 회복량, 명중 감소"
     },
     "89500696": {
         "deprecated": false,
@@ -4689,21 +4608,21 @@
         "Dev_Desc": "악인 1단계 / 버프 효과",
         "id": 89500700,
         "alias": "Contents.Effect.Option.8114",
-        "text": "회피 -2"
+        "text": "회피 -10\n물약 회복량 -8"
     },
     "89500701": {
         "deprecated": false,
         "Dev_Desc": "악인 2단계 / 버프 효과",
         "id": 89500701,
         "alias": "Contents.Effect.Option.8115",
-        "text": "회피 -3"
+        "text": "회피 -15\n방어력 -5\n물약 회복량 -12"
     },
     "89500702": {
         "deprecated": false,
         "Dev_Desc": "악인 3단계 / 버프 효과",
         "id": 89500702,
         "alias": "Contents.Effect.Option.8116",
-        "text": "회피 -5"
+        "text": "회피 -20\n방어력 -10\n물약 회복량 -20\n명중 -5"
     },
     "89500703": {
         "deprecated": false,
@@ -5473,5 +5392,730 @@
         "Dev_Desc": "천상의 용봉탕 옵션설명",
         "id": 89500814,
         "alias": "Contents.Effect.Detail.70101168"
+    },
+    "89500815": {
+        "deprecated": false,
+        "Dev_Desc": "문파 랭킹 1위 버프",
+        "id": 89500815,
+        "alias": "Contents.Effect.Name.8117",
+        "text": "문파 랭킹 1위"
+    },
+    "89500816": {
+        "deprecated": false,
+        "Dev_Desc": "문파 랭킹 1위 버프",
+        "id": 89500816,
+        "alias": "Contents.Effect.Desc.8117",
+        "text": "능력치 증가"
+    },
+    "89500817": {
+        "deprecated": false,
+        "Dev_Desc": "문파 랭킹 1위 버프",
+        "id": 89500817,
+        "alias": "Contents.Effect.Option.8117",
+        "text": "경험치 획득량 증가 3%\n속성 피해 내성 3%\nPvP방어력 3\n명중 1"
+    },
+    "89500818": {
+        "deprecated": false,
+        "Dev_Desc": "문파 랭킹 1위 버프",
+        "id": 89500818,
+        "alias": "Contents.Effect.Detail.8117",
+        "text": "문파 랭킹 1위 혜택"
+    },
+    "89500819": {
+        "deprecated": false,
+        "Dev_Desc": "문파 랭킹 2위 버프",
+        "id": 89500819,
+        "alias": "Contents.Effect.Name.8118",
+        "text": "문파 랭킹 2위"
+    },
+    "89500820": {
+        "deprecated": false,
+        "Dev_Desc": "문파 랭킹 2위 버프",
+        "id": 89500820,
+        "alias": "Contents.Effect.Desc.8118",
+        "text": "능력치 증가"
+    },
+    "89500821": {
+        "deprecated": false,
+        "Dev_Desc": "문파 랭킹 2위 버프",
+        "id": 89500821,
+        "alias": "Contents.Effect.Option.8118",
+        "text": "경험치 획득량 증가 2%\n속성 피해 내성 2%\nPvP방어력 1"
+    },
+    "89500822": {
+        "deprecated": false,
+        "Dev_Desc": "문파 랭킹 2위 버프",
+        "id": 89500822,
+        "alias": "Contents.Effect.Detail.8118",
+        "text": "문파 랭킹 2위 혜택"
+    },
+    "89500823": {
+        "deprecated": false,
+        "Dev_Desc": "문파 랭킹 3위 버프",
+        "id": 89500823,
+        "alias": "Contents.Effect.Name.8119",
+        "text": "문파 랭킹 3위"
+    },
+    "89500824": {
+        "deprecated": false,
+        "Dev_Desc": "문파 랭킹 3위 버프",
+        "id": 89500824,
+        "alias": "Contents.Effect.Desc.8119",
+        "text": "능력치 증가"
+    },
+    "89500825": {
+        "deprecated": false,
+        "Dev_Desc": "문파 랭킹 3위 버프",
+        "id": 89500825,
+        "alias": "Contents.Effect.Option.8119",
+        "text": "경험치 획득량 증가 2%\n속성 피해 내성 1%"
+    },
+    "89500826": {
+        "deprecated": false,
+        "Dev_Desc": "문파 랭킹 3위 버프",
+        "id": 89500826,
+        "alias": "Contents.Effect.Detail.8119",
+        "text": "문파 랭킹 3위 혜택"
+    },
+    "89500827": {
+        "deprecated": false,
+        "Dev_Desc": "문파 랭킹 4~5위 버프",
+        "id": 89500827,
+        "alias": "Contents.Effect.Name.8120",
+        "text": "문파 랭킹 4위"
+    },
+    "89500828": {
+        "deprecated": false,
+        "Dev_Desc": "문파 랭킹 4~5위 버프",
+        "id": 89500828,
+        "alias": "Contents.Effect.Desc.8120",
+        "text": "능력치 증가"
+    },
+    "89500829": {
+        "deprecated": false,
+        "Dev_Desc": "문파 랭킹 4~5위 버프",
+        "id": 89500829,
+        "alias": "Contents.Effect.Option.8120",
+        "text": "경험치 획득량 증가 1%\n속성 피해 내성 1%"
+    },
+    "89500830": {
+        "deprecated": false,
+        "Dev_Desc": "문파 랭킹 4~5위 버프",
+        "id": 89500830,
+        "alias": "Contents.Effect.Detail.8120",
+        "text": "문파 랭킹 4위 혜택"
+    },
+    "89500831": {
+        "deprecated": false,
+        "Dev_Desc": "문파 랭킹 6~10위 버프",
+        "id": 89500831,
+        "alias": "Contents.Effect.Name.8121",
+        "text": "문파 랭킹 5위"
+    },
+    "89500832": {
+        "deprecated": false,
+        "Dev_Desc": "문파 랭킹 6~10위 버프",
+        "id": 89500832,
+        "alias": "Contents.Effect.Desc.8121",
+        "text": "능력치 증가"
+    },
+    "89500833": {
+        "deprecated": false,
+        "Dev_Desc": "문파 랭킹 6~10위 버프",
+        "id": 89500833,
+        "alias": "Contents.Effect.Option.8121",
+        "text": "경험치 획득량 증가 1%"
+    },
+    "89500834": {
+        "deprecated": false,
+        "Dev_Desc": "문파 랭킹 6~10위 버프",
+        "id": 89500834,
+        "alias": "Contents.Effect.Detail.8121",
+        "text": "문파 랭킹 5위 혜택"
+    },
+    "89500835": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 도전가 효과1",
+        "id": 89500835,
+        "alias": "Contents.Effect.ProvinceGradeEffect.name.6105",
+        "text": "해룡산맥 도전가"
+    },
+    "89500836": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 도전가 효과2",
+        "id": 89500836,
+        "alias": "Contents.Effect.ProvinceGradeEffect.name.6106",
+        "text": "해룡산맥 도전가"
+    },
+    "89500837": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 도전가 효과3",
+        "id": 89500837,
+        "alias": "Contents.Effect.ProvinceGradeEffect.name.6107",
+        "text": "해룡산맥 도전가"
+    },
+    "89500838": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 모험가 효과1",
+        "id": 89500838,
+        "alias": "Contents.Effect.ProvinceGradeEffect.name.6108",
+        "text": "해룡산맥 모험가"
+    },
+    "89500839": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 모험가 효과2",
+        "id": 89500839,
+        "alias": "Contents.Effect.ProvinceGradeEffect.name.6109",
+        "text": "해룡산맥 모험가"
+    },
+    "89500840": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 모험가 효과3",
+        "id": 89500840,
+        "alias": "Contents.Effect.ProvinceGradeEffect.name.6110",
+        "text": "해룡산맥 모험가"
+    },
+    "89500841": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 숙련가 효과1",
+        "id": 89500841,
+        "alias": "Contents.Effect.ProvinceGradeEffect.name.6111",
+        "text": "해룡산맥 숙련가"
+    },
+    "89500842": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 숙련가 효과2",
+        "id": 89500842,
+        "alias": "Contents.Effect.ProvinceGradeEffect.name.6112",
+        "text": "해룡산맥 숙련가"
+    },
+    "89500843": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 숙련가 효과3",
+        "id": 89500843,
+        "alias": "Contents.Effect.ProvinceGradeEffect.name.6113",
+        "text": "해룡산맥 숙련가"
+    },
+    "89500844": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 전문가 효과1",
+        "id": 89500844,
+        "alias": "Contents.Effect.ProvinceGradeEffect.name.6114",
+        "text": "해룡산맥 전문가"
+    },
+    "89500845": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 전문가 효과2",
+        "id": 89500845,
+        "alias": "Contents.Effect.ProvinceGradeEffect.name.6115",
+        "text": "해룡산맥 전문가"
+    },
+    "89500846": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 전문가 효과3",
+        "id": 89500846,
+        "alias": "Contents.Effect.ProvinceGradeEffect.name.6116",
+        "text": "해룡산맥 전문가"
+    },
+    "89500847": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 영웅 효과1",
+        "id": 89500847,
+        "alias": "Contents.Effect.ProvinceGradeEffect.name.6117",
+        "text": "해룡산맥 영웅"
+    },
+    "89500848": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 영웅 효과2",
+        "id": 89500848,
+        "alias": "Contents.Effect.ProvinceGradeEffect.name.6118",
+        "text": "해룡산맥 영웅"
+    },
+    "89500849": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 영웅 효과3",
+        "id": 89500849,
+        "alias": "Contents.Effect.ProvinceGradeEffect.name.6119",
+        "text": "해룡산맥 영웅"
+    },
+    "89500850": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 수호자 효과1",
+        "id": 89500850,
+        "alias": "Contents.Effect.ProvinceGradeEffect.name.6120",
+        "text": "해룡산맥 수호자"
+    },
+    "89500851": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 수호자 효과2",
+        "id": 89500851,
+        "alias": "Contents.Effect.ProvinceGradeEffect.name.6121",
+        "text": "해룡산맥 수호자"
+    },
+    "89500852": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 수호자 효과3",
+        "id": 89500852,
+        "alias": "Contents.Effect.ProvinceGradeEffect.name.6122",
+        "text": "해룡산맥 수호자"
+    },
+    "89500853": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 지배자 효과1",
+        "id": 89500853,
+        "alias": "Contents.Effect.ProvinceGradeEffect.name.6123",
+        "text": "해룡산맥 지배자"
+    },
+    "89500854": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 지배자 효과2",
+        "id": 89500854,
+        "alias": "Contents.Effect.ProvinceGradeEffect.name.6124",
+        "text": "해룡산맥 지배자"
+    },
+    "89500855": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 지배자 효과3",
+        "id": 89500855,
+        "alias": "Contents.Effect.ProvinceGradeEffect.name.6125",
+        "text": "해룡산맥 지배자"
+    },
+    "89500856": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 도전가 효과 설명1",
+        "id": 89500856,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Desc.6105",
+        "text": "물약 회복량 증가"
+    },
+    "89500857": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 도전가 효과 설명2",
+        "id": 89500857,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Desc.6106",
+        "text": "PVE 방어력 증가"
+    },
+    "89500858": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 도전가 효과 설명3",
+        "id": 89500858,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Desc.6107",
+        "text": "PVE 치명률 증가"
+    },
+    "89500859": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 모험가 효과 설명1",
+        "id": 89500859,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Desc.6108",
+        "text": "물약 회복량 증가"
+    },
+    "89500860": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 모험가 효과 설명2",
+        "id": 89500860,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Desc.6109",
+        "text": "PVE 방어력 증가"
+    },
+    "89500861": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 모험가 효과 설명3",
+        "id": 89500861,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Desc.6110",
+        "text": "PVE 치명률 증가"
+    },
+    "89500862": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 숙련가 효과 설명1",
+        "id": 89500862,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Desc.6111",
+        "text": "물약 회복량 증가"
+    },
+    "89500863": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 숙련가 효과 설명2",
+        "id": 89500863,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Desc.6112",
+        "text": "PVE 방어력 증가"
+    },
+    "89500864": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 숙련가 효과 설명3",
+        "id": 89500864,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Desc.6113",
+        "text": "PVE 치명률 증가"
+    },
+    "89500865": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 전문가 효과 설명1",
+        "id": 89500865,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Desc.6114",
+        "text": "물약 회복량 증가"
+    },
+    "89500866": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 전문가 효과 설명2",
+        "id": 89500866,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Desc.6115",
+        "text": "PVE 방어력 증가"
+    },
+    "89500867": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 전문가 효과 설명3",
+        "id": 89500867,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Desc.6116",
+        "text": "PVE 치명률 증가"
+    },
+    "89500868": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 영웅 효과 설명1",
+        "id": 89500868,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Desc.6117",
+        "text": "물약 회복량 증가"
+    },
+    "89500869": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 영웅 효과 설명2",
+        "id": 89500869,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Desc.6118",
+        "text": "PVE 방어력 증가"
+    },
+    "89500870": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 영웅 효과 설명3",
+        "id": 89500870,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Desc.6119",
+        "text": "PVE 치명률 증가"
+    },
+    "89500871": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 수호자 효과 설명1",
+        "id": 89500871,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Desc.6120",
+        "text": "물약 회복량 증가"
+    },
+    "89500872": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 수호자 효과 설명2",
+        "id": 89500872,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Desc.6121",
+        "text": "PVE 방어력 증가"
+    },
+    "89500873": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 수호자 효과 설명3",
+        "id": 89500873,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Desc.6122",
+        "text": "PVE 치명률 증가"
+    },
+    "89500874": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 지배자 효과 설명1",
+        "id": 89500874,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Desc.6123",
+        "text": "물약 회복량 증가"
+    },
+    "89500875": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 지배자 효과 설명2",
+        "id": 89500875,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Desc.6124",
+        "text": "PVE 방어력 증가"
+    },
+    "89500876": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 지배자 효과 설명3",
+        "id": 89500876,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Desc.6125",
+        "text": "PVE 치명률 증가"
+    },
+    "89500877": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 도전가 효과 옵션1",
+        "id": 89500877,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Option.6105",
+        "text": "물약 회복량 +1"
+    },
+    "89500878": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 도전가 효과 옵션2",
+        "id": 89500878,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Option.6106"
+    },
+    "89500879": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 도전가 효과 옵션3",
+        "id": 89500879,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Option.6107"
+    },
+    "89500880": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 모험가 효과 옵션1",
+        "id": 89500880,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Option.6108",
+        "text": "물약 회복량 +2"
+    },
+    "89500881": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 모험가 효과 옵션2",
+        "id": 89500881,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Option.6109",
+        "text": "PVE 방어력 +1"
+    },
+    "89500882": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 모험가 효과 옵션3",
+        "id": 89500882,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Option.6110"
+    },
+    "89500883": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 숙련가 효과 옵션1",
+        "id": 89500883,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Option.6111",
+        "text": "물약 회복량 +3"
+    },
+    "89500884": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 숙련가 효과 옵션2",
+        "id": 89500884,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Option.6112",
+        "text": "PVE 방어력 +2"
+    },
+    "89500885": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 숙련가 효과 옵션3",
+        "id": 89500885,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Option.6113",
+        "text": "PVE 치명률 +1%"
+    },
+    "89500886": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 전문가 효과 옵션1",
+        "id": 89500886,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Option.6114",
+        "text": "물약 회복량 +3"
+    },
+    "89500887": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 전문가 효과 옵션2",
+        "id": 89500887,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Option.6115",
+        "text": "PVE 방어력 +3"
+    },
+    "89500888": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 전문가 효과 옵션3",
+        "id": 89500888,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Option.6116",
+        "text": "PVE 치명률 +1.5%"
+    },
+    "89500889": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 영웅 효과 옵션1",
+        "id": 89500889,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Option.6117",
+        "text": "물약 회복량 +4"
+    },
+    "89500890": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 영웅 효과 옵션2",
+        "id": 89500890,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Option.6118",
+        "text": "PVE 방어력 +4"
+    },
+    "89500891": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 영웅 효과 옵션3",
+        "id": 89500891,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Option.6119",
+        "text": "PVE 치명률 +2%"
+    },
+    "89500892": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 수호자 효과 옵션1",
+        "id": 89500892,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Option.6120",
+        "text": "물약 회복량 +4"
+    },
+    "89500893": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 수호자 효과 옵션2",
+        "id": 89500893,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Option.6121",
+        "text": "PVE 방어력 +5"
+    },
+    "89500894": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 수호자 효과 옵션3",
+        "id": 89500894,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Option.6122",
+        "text": "PVE 치명률 +2.5%"
+    },
+    "89500895": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 지배자 효과 옵션1",
+        "id": 89500895,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Option.6123",
+        "text": "물약 회복량 +5"
+    },
+    "89500896": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 지배자 효과 옵션2",
+        "id": 89500896,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Option.6124",
+        "text": "PVE 방어력 +6"
+    },
+    "89500897": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 지배자 효과 옵션3",
+        "id": 89500897,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Option.6125",
+        "text": "PVE 치명률 +3%"
+    },
+    "89500898": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 도전가 효과1",
+        "id": 89500898,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Detail.6105",
+        "text": "해룡산맥에서 도전가 등급 달성 시 받는 효과입니다."
+    },
+    "89500899": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 도전가 효과2",
+        "id": 89500899,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Detail.6106",
+        "text": "해룡산맥에서 도전가 등급 달성 시 받는 효과입니다."
+    },
+    "89500900": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 도전가 효과3",
+        "id": 89500900,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Detail.6107",
+        "text": "해룡산맥에서 도전가 등급 달성 시 받는 효과입니다."
+    },
+    "89500901": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 모험가 효과1",
+        "id": 89500901,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Detail.6108",
+        "text": "해룡산맥에서 모험가 등급 달성 시 받는 효과입니다."
+    },
+    "89500902": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 모험가 효과2",
+        "id": 89500902,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Detail.6109",
+        "text": "해룡산맥에서 모험가 등급 달성 시 받는 효과입니다."
+    },
+    "89500903": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 모험가 효과3",
+        "id": 89500903,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Detail.6110",
+        "text": "해룡산맥에서 모험가 등급 달성 시 받는 효과입니다."
+    },
+    "89500904": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 숙련가 효과1",
+        "id": 89500904,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Detail.6111",
+        "text": "해룡산맥에서 숙련가 등급 달성 시 받는 효과입니다."
+    },
+    "89500905": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 숙련가 효과2",
+        "id": 89500905,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Detail.6112",
+        "text": "해룡산맥에서 숙련가 등급 달성 시 받는 효과입니다."
+    },
+    "89500906": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 숙련가 효과3",
+        "id": 89500906,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Detail.6113",
+        "text": "해룡산맥에서 숙련가 등급 달성 시 받는 효과입니다."
+    },
+    "89500907": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 전문가 효과1",
+        "id": 89500907,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Detail.6114",
+        "text": "해룡산맥에서 전문가 등급 달성 시 받는 효과입니다."
+    },
+    "89500908": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 전문가 효과2",
+        "id": 89500908,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Detail.6115",
+        "text": "해룡산맥에서 전문가 등급 달성 시 받는 효과입니다."
+    },
+    "89500909": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 전문가 효과3",
+        "id": 89500909,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Detail.6116",
+        "text": "해룡산맥에서 전문가 등급 달성 시 받는 효과입니다."
+    },
+    "89500910": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 영웅 효과1",
+        "id": 89500910,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Detail.6117",
+        "text": "해룡산맥에서 영웅 등급 달성 시 받는 효과입니다."
+    },
+    "89500911": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 영웅 효과2",
+        "id": 89500911,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Detail.6118",
+        "text": "해룡산맥에서 영웅 등급 달성 시 받는 효과입니다."
+    },
+    "89500912": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 영웅 효과3",
+        "id": 89500912,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Detail.6119",
+        "text": "해룡산맥에서 영웅 등급 달성 시 받는 효과입니다."
+    },
+    "89500913": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 수호자 효과1",
+        "id": 89500913,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Detail.6120",
+        "text": "해룡산맥에서 수호자 등급 달성 시 받는 효과입니다."
+    },
+    "89500914": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 수호자 효과2",
+        "id": 89500914,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Detail.6121",
+        "text": "해룡산맥에서 수호자 등급 달성 시 받는 효과입니다."
+    },
+    "89500915": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 수호자 효과3",
+        "id": 89500915,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Detail.6122",
+        "text": "해룡산맥에서 수호자 등급 달성 시 받는 효과입니다."
+    },
+    "89500916": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 지배자 효과1",
+        "id": 89500916,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Detail.6123",
+        "text": "해룡산맥에서 지배자 등급 달성 시 받는 효과입니다."
+    },
+    "89500917": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 지배자 효과2",
+        "id": 89500917,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Detail.6124",
+        "text": "해룡산맥에서 지배자 등급 달성 시 받는 효과입니다."
+    },
+    "89500918": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 지배자 효과3",
+        "id": 89500918,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Detail.6125",
+        "text": "해룡산맥에서 지배자 등급 달성 시 받는 효과입니다."
     }
 }

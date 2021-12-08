@@ -1373,7 +1373,7 @@
     },
     "18203002": {
         "deprecated": false,
-        "Dev_Desc": "[Lv. XX] 침식된 수색견 제거",
+        "Dev_Desc": "[Lv. XX] 경비견 제거",
         "id": 18203002,
         "alias": "Contents.Quest.Mission.2003002",
         "text": "消灭被侵蚀的搜查犬"
@@ -1534,7 +1534,7 @@
     },
     "18203025": {
         "deprecated": false,
-        "Dev_Desc": "[Lv. XX] 정예를 마주 하긴 힘들어",
+        "Dev_Desc": "[Lv.63] 야금의 피",
         "id": 18203025,
         "alias": "Contents.Quest.Mission.2003025",
         "text": "歼灭精英冶金"
@@ -1597,14 +1597,14 @@
     },
     "18203034": {
         "deprecated": false,
-        "Dev_Desc": "[Lv. XX] 인간 개조 거미",
+        "Dev_Desc": "[Lv.63] 버림받은 자 처치",
         "id": 18203034,
         "alias": "Contents.Quest.Mission.2003034",
         "text": "消灭变异蜘蛛"
     },
     "18203035": {
         "deprecated": false,
-        "Dev_Desc": "[Lv. XX] 변종 거미줄의 가치",
+        "Dev_Desc": "[Lv.63] 특수 섬유의 가치",
         "id": 18203035,
         "alias": "Contents.Quest.Mission.2003035",
         "text": "收集蜘蛛网"
@@ -1674,7 +1674,7 @@
     },
     "18203045": {
         "deprecated": false,
-        "Dev_Desc": "[Lv. XX] 불마자들의 벽",
+        "Dev_Desc": "[Lv.64] 불마자들의 공격성",
         "id": 18203045,
         "alias": "Contents.Quest.Mission.2003045",
         "text": "击败屠夫、战士和矛兵"
@@ -1716,7 +1716,7 @@
     },
     "18203051": {
         "deprecated": false,
-        "Dev_Desc": "[Lv. XX] 독액을 구해주세요",
+        "Dev_Desc": "[Lv.73] 무기고의 검은새벽단",
         "id": 18203051,
         "alias": "Contents.Quest.Mission.2003051",
         "text": "毒师的毒药合集"
@@ -1790,5 +1790,117 @@
         "id": 18203061,
         "alias": "Contents.Quest.Mission.2003061",
         "text": "完成与海龙山碧沙门的合作"
+    },
+    "18203062": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.62] 수목정령의 껍질",
+        "id": 18203062,
+        "alias": "Contents.Quest.Mission.2003062",
+        "text": "收集树精之壳"
+    },
+    "18203063": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.64] 묘면족의 위협",
+        "id": 18203063,
+        "alias": "Contents.Quest.Mission.2003063",
+        "text": "打败Myomyeon人"
+    },
+    "18203064": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.64] 만다라화의 서식처",
+        "id": 18203064,
+        "alias": "Contents.Quest.Mission.2003064",
+        "text": "打败曼陀罗花"
+    },
+    "18203065": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.67] 포식귀의 피부",
+        "id": 18203065,
+        "alias": "Contents.Quest.Mission.2003065",
+        "text": "捕食者皮肤集锦"
+    },
+    "18203066": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.67] 발발이 풀로 응급처치",
+        "id": 18203066,
+        "alias": "Contents.Quest.Mission.2003066",
+        "text": "收集哈巴狗草"
+    },
+    "18203067": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.70] 돈이 되는 외눈박이",
+        "id": 18203067,
+        "alias": "Contents.Quest.Mission.2003067",
+        "text": "单眼视网膜的集合"
+    },
+    "18203068": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.72] 담인초 실험 재료",
+        "id": 18203068,
+        "alias": "Contents.Quest.Mission.2003068",
+        "text": "收集肉桂种子"
+    },
+    "18203069": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.72] 악어는 위험하니까",
+        "id": 18203069,
+        "alias": "Contents.Quest.Mission.2003069",
+        "text": "击败腐化的鳄鱼"
+    },
+    "18203070": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.72] 투연초의 투사체",
+        "id": 18203070,
+        "alias": "Contents.Quest.Mission.2003070",
+        "text": "收集烟草弹丸"
+    },
+    "18203071": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.73] 무기고 잠입을 위해",
+        "id": 18203071,
+        "alias": "Contents.Quest.Mission.2003071",
+        "text": "阿森纳警卫犬杀戮"
+    },
+    "18203072": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.73] 빼앗으면 더 큰 이익",
+        "id": 18203072,
+        "alias": "Contents.Quest.Mission.2003072",
+        "text": "阿森纳，黑色黎明武器收藏"
+    },
+    "18203073": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.75] 너무 커져 버린 개들",
+        "id": 18203073,
+        "alias": "Contents.Quest.Mission.2003073",
+        "text": "移除补给站的看门狗"
+    },
+    "18203074": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.75] 효조의 지방 성분",
+        "id": 18203074,
+        "alias": "Contents.Quest.Mission.2003074",
+        "text": "得到孝城胖子"
+    },
+    "18203075": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.75] 검은새벽단의 의상 연구",
+        "id": 18203075,
+        "alias": "Contents.Quest.Mission.2003075",
+        "text": "陨石坑黑色黎明服装合集"
+    },
+    "18203076": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.65] 인면충 피부의 가능성",
+        "id": 18203076,
+        "alias": "Contents.Quest.Mission.2003076",
+        "text": "肺虫皮集"
+    },
+    "18203077": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.66] 구릉지 확보",
+        "id": 18203077,
+        "alias": "Contents.Quest.Mission.2003077",
+        "text": "击败兵城和老虎"
     }
 }

@@ -288,7 +288,7 @@
     },
     "60030044": {
         "deprecated": false,
-        "Dev_Desc": "패시브_홍염_기공방어력감소",
+        "Dev_Desc": "패시브_홍염_방어력감소",
         "id": 60030044,
         "alias": "Contents.Skill.useEffectDesc.FireBangle.3038",
         "text": "降低目标的气功防御力"
@@ -1173,5 +1173,68 @@
         "id": 60030174,
         "alias": "Contents.Skill.Desc.FireBangle.3037",
         "text": "“对被寒意禁用的目标进行更无情的攻击。\n攻击被冻结的目标造成额外伤害。\n额外伤害有 3 秒的冷却时间。”"
+    },
+    "60030175": {
+        "deprecated": false,
+        "Dev_Desc": "빙륜참 이름",
+        "id": 60030175,
+        "alias": "Contents.Skill.Name.FireBangle.3801",
+        "text": "冰冷"
+    },
+    "60030176": {
+        "deprecated": false,
+        "Dev_Desc": "빙륜참 조건",
+        "id": 60030176,
+        "alias": "Contents.Skill.requirementDesc.FireBangle.3801",
+        "text": "当灵魂配对成功时"
+    },
+    "60030177": {
+        "deprecated": false,
+        "Dev_Desc": "빙륜참 설명",
+        "id": 60030177,
+        "alias": "Contents.Skill.Desc.FireBangle.3801",
+        "text": "驱散冰球并发射旋转的冰刃。\\n可以通过手动按下攻击按钮使用。"
+    },
+    "60030178": {
+        "deprecated": false,
+        "Dev_Desc": "화빙연포 이름",
+        "id": 60030178,
+        "alias": "Contents.Skill.Name.FireBangle.3811",
+        "text": "华冰延浦"
+    },
+    "60030179": {
+        "deprecated": false,
+        "Dev_Desc": "화빙연포 조건",
+        "id": 60030179,
+        "alias": "Contents.Skill.requirementDesc.FireBangle.3811",
+        "text": "魂传眩晕目标"
+    },
+    "60030180": {
+        "deprecated": false,
+        "Dev_Desc": "화빙연포 설명",
+        "id": 60030180,
+        "alias": "Contents.Skill.Desc.FireBangle.3811",
+        "text": "发射火和冰爆。\\n<textColor=[248:99:99:255]>灵魂法术眩晕</> 可以通过手动按下目标上的攻击按钮来使用。"
+    },
+    "60030181": {
+        "deprecated": false,
+        "Dev_Desc": "기공패 패시브 천빙",
+        "id": 60030181,
+        "alias": "Contents.Skill.Name.FireBangle.3036",
+        "text": "盐"
+    },
+    "60030182": {
+        "deprecated": false,
+        "Dev_Desc": "패시브_천빙_둔화 빙결 추피",
+        "id": 60030182,
+        "alias": "Contents.Skill.useEffectDesc.FireBangle.3036",
+        "text": "所有元素攻击增幅增加7%"
+    },
+    "60030183": {
+        "deprecated": false,
+        "Dev_Desc": "기공패 패시브 천빙_설명",
+        "id": 60030183,
+        "alias": "Contents.Skill.Desc.FireBangle.3036",
+        "text": "掌握万物的灵气。\\n增加所有元素攻击增幅。"
     }
 }

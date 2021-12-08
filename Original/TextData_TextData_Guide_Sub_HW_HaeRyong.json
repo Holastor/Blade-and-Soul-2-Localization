@@ -1,0 +1,653 @@
+{
+    "40070000": {
+        "deprecated": false,
+        "Dev_Desc": "매화단원 유애린_가라앉은묘지1",
+        "id": 40070000,
+        "alias": "Contents.Quest.Guide.70000",
+        "text": "<textColor=[255:204:102:255]>수와족의 비석</>이 \n이렇게 많이 있다니!"
+    },
+    "40070001": {
+        "deprecated": false,
+        "Dev_Desc": "매화단원 유애린_가라앉은묘지1",
+        "id": 40070001,
+        "alias": "Contents.Quest.Guide.70001",
+        "text": "다 보려면 한참 걸릴 것 같으니 \n소협께서도 함께 읽어봐요!"
+    },
+    "40070002": {
+        "deprecated": false,
+        "Dev_Desc": "PC",
+        "id": 40070002,
+        "alias": "Contents.Quest.Guide.70002",
+        "text": "(어느 정도 정리된 것 같으니, \n나도 <textColor=[255:204:102:255]>비석</>을 조사해볼까?)"
+    },
+    "40070003": {
+        "deprecated": false,
+        "Dev_Desc": "매화단원 유애린_가라앉은묘지1",
+        "id": 40070003,
+        "alias": "Contents.Quest.Guide.70003",
+        "text": "대발견! 대발견이에요 소협!\n제 근처로 한번 와보세요!"
+    },
+    "40070004": {
+        "deprecated": false,
+        "Dev_Desc": "PC",
+        "id": 40070004,
+        "alias": "Contents.Quest.Guide.70004",
+        "text": "(이곳만 조사하려던 게 \n아니었구나... <textColor=[78:148:215:255]>홍매화</>에게 \n한마디 해야겠어)"
+    },
+    "40070005": {
+        "deprecated": false,
+        "Dev_Desc": "매화단원 유애린_버림받은자들의늪",
+        "id": 40070005,
+        "alias": "Contents.Quest.Guide.70005",
+        "text": "다시 <textColor=[215:94:94:255]>거미</>들이 몰려오기 전에 \n가 있을게요! \n<textColor=[110:216:175:255]>어둠 숲</>에서 만나요. 소협!"
+    },
+    "40070006": {
+        "deprecated": false,
+        "Dev_Desc": "매화단원 유애린_어둠 숲1",
+        "id": 40070006,
+        "alias": "Contents.Quest.Guide.70006",
+        "text": "<textColor=[110:216:175:255]>어둠 숲</>은 넓으니까\n쪼개져서 조사하도록 해요!\n그러면 탐사 시작!"
+    },
+    "40070007": {
+        "deprecated": false,
+        "Dev_Desc": "매화단원 유애린_어둠 숲1",
+        "id": 40070007,
+        "alias": "Contents.Quest.Guide.70007",
+        "text": "이 곳의 <textColor=[215:94:94:255]>야금</>들은 \n다른 곳의 <textColor=[215:94:94:255]>야금</>들과 \n조금 다른 것 같은데요? 흠..."
+    },
+    "40070008": {
+        "deprecated": false,
+        "Dev_Desc": "PC",
+        "id": 40070008,
+        "alias": "Contents.Quest.Guide.70008",
+        "text": "(이 <textColor=[255:204:102:255]>오염된 흔적</>은 어디서 \n본 적이 있는 것 같은데...)"
+    },
+    "40070009": {
+        "deprecated": false,
+        "Dev_Desc": "PC",
+        "id": 40070009,
+        "alias": "Contents.Quest.Guide.70009",
+        "text": "(이 정도면 <textColor=[78:148:215:255]>유애린</>이 \n조사하기 수월하겠지)"
+    },
+    "40070010": {
+        "deprecated": false,
+        "Dev_Desc": "PC",
+        "id": 40070010,
+        "alias": "Contents.Quest.Guide.70010",
+        "text": "(이 야금 시체에 남아있는 검상... \n<textColor=[255:204:102:255]>검은새벽단의 무기</>랑 똑같아)"
+    },
+    "40070011": {
+        "deprecated": false,
+        "Dev_Desc": "PC",
+        "id": 40070011,
+        "alias": "Contents.Quest.Guide.70011",
+        "text": "(<textColor=[215:94:94:255]>검은새벽단</>의 죄가 깊군...)"
+    },
+    "40070012": {
+        "deprecated": false,
+        "Dev_Desc": "PC",
+        "id": 40070012,
+        "alias": "Contents.Quest.Guide.70012",
+        "text": "(<textColor=[78:148:215:255]>강철주먹</>이 의외로 \n소심한 면이 있구나...)"
+    },
+    "40070013": {
+        "deprecated": false,
+        "Dev_Desc": "PC",
+        "id": 40070013,
+        "alias": "Contents.Quest.Guide.70013",
+        "text": "(<textColor=[78:148:215:255]>수양</> 쪽은 <textColor=[255:204:102:255]>침구</>가 필요하구나)"
+    },
+    "40070014": {
+        "deprecated": false,
+        "Dev_Desc": "PC",
+        "id": 40070014,
+        "alias": "Contents.Quest.Guide.70014",
+        "text": "(<textColor=[78:148:215:255]>풍백문</>은 <textColor=[255:204:102:255]>검</>이 부족한듯해)"
+    },
+    "40070015": {
+        "deprecated": false,
+        "Dev_Desc": "강철주먹_합동초소",
+        "id": 40070015,
+        "alias": "Contents.Quest.Guide.70015",
+        "text": "저 녀석, 생각보다\n털털한 구석이 있네...\n깜짝 놀라라."
+    },
+    "40070016": {
+        "deprecated": false,
+        "Dev_Desc": "PC",
+        "id": 40070016,
+        "alias": "Contents.Quest.Guide.70016",
+        "text": "(이 정도면 <textColor=[255:204:102:255]>피</>를 \n모을 만큼 모은 것 같은데...)"
+    },
+    "40070017": {
+        "deprecated": false,
+        "Dev_Desc": "PC",
+        "id": 40070017,
+        "alias": "Contents.Quest.Guide.70017",
+        "text": "(<textColor=[255:204:102:255]>독에 미친...?</>\n의약방에 문제라도 있는 걸까?)"
+    },
+    "40070018": {
+        "deprecated": false,
+        "Dev_Desc": "사길미_합동 초소",
+        "id": 40070018,
+        "alias": "Contents.Quest.Guide.70018",
+        "text": "흠... 이만하면 실력은\n충분한 것 같군요."
+    },
+    "40070019": {
+        "deprecated": false,
+        "Dev_Desc": "사길미_오염된 대지",
+        "id": 40070019,
+        "alias": "Contents.Quest.Guide.70019",
+        "text": "소협, \n<textColor=[255:204:102:255]>불마자의 혈액</>을 쪽쪽 빨아\n가져와 주세요!"
+    },
+    "40070020": {
+        "deprecated": false,
+        "Dev_Desc": "PC",
+        "id": 40070020,
+        "alias": "Contents.Quest.Guide.70020",
+        "text": "(<textColor=[255:204:102:255]>불마자의 혈액</>을 \n어디다 쓰려고 그러는 거지?)"
+    },
+    "40070021": {
+        "deprecated": false,
+        "Dev_Desc": "사길미_오염된 대지",
+        "id": 40070021,
+        "alias": "Contents.Quest.Guide.70021",
+        "text": "<textColor=[255:204:102:255]>불마자의 혈액</>을\n이렇게나 많이...!\n이 정도면 충분할 것 같아요!"
+    },
+    "40070022": {
+        "deprecated": false,
+        "Dev_Desc": "PC",
+        "id": 40070022,
+        "alias": "Contents.Quest.Guide.70022",
+        "text": "(...나중에 <textColor=[78:148:215:255]>아랑</>에게 <textColor=[255:204:102:255]>환단</>을 \n먹지 말라고 말해야겠어)"
+    },
+    "40070023": {
+        "deprecated": false,
+        "Dev_Desc": "PC",
+        "id": 40070023,
+        "alias": "Contents.Quest.Guide.70023",
+        "text": "(힘든 부탁을 받았구나...)"
+    },
+    "40070024": {
+        "deprecated": false,
+        "Dev_Desc": "PC",
+        "id": 40070024,
+        "alias": "Contents.Quest.Guide.70024",
+        "text": "(주변 <textColor=[215:94:94:255]>마물</>들은 처치했으니, \n천천히 <textColor=[255:204:102:255]>유품</>을 찾아볼 수 있겠어)"
+    },
+    "40070025": {
+        "deprecated": false,
+        "Dev_Desc": "PC",
+        "id": 40070025,
+        "alias": "Contents.Quest.Guide.70025",
+        "text": "(어라? <textColor=[255:204:102:255]>이 사람의 유품</>에는 \n<textColor=[78:148:215:255]>태수정</>의 이름이 적혀있는데?)"
+    },
+    "40070026": {
+        "deprecated": false,
+        "Dev_Desc": "PC",
+        "id": 40070026,
+        "alias": "Contents.Quest.Guide.70026",
+        "text": "(이곳에는 정말 다양한 사정을 \n가진 사람들이 있구나)"
+    },
+    "40070036": {
+        "deprecated": false,
+        "Dev_Desc": "PC",
+        "id": 40070036,
+        "alias": "Contents.Quest.Guide.70036",
+        "text": "(완전히 이성을 잃은 듯 한데... \n<textColor=[215:94:94:255]>갈라진 대지의 불마자</>를 \n처치해주면 진정할까?)"
+    },
+    "40070037": {
+        "deprecated": false,
+        "Dev_Desc": "PC",
+        "id": 40070037,
+        "alias": "Contents.Quest.Guide.70037",
+        "text": "(이 정도면 수도 꽤 줄었으니... \n돌아가서 한 번 달래보자)"
+    },
+    "40070038": {
+        "deprecated": false,
+        "Dev_Desc": "PC",
+        "id": 40070038,
+        "alias": "Contents.Quest.Guide.70038",
+        "text": "(이건 <textColor=[255:204:102:255]>그 사람이 입고 있던</>\n<textColor=[255:204:102:255]>옷조각</>인 것 같네. \n피가 묻은 걸 보니 이미...)"
+    },
+    "40070039": {
+        "deprecated": false,
+        "Dev_Desc": "PC",
+        "id": 40070039,
+        "alias": "Contents.Quest.Guide.70039",
+        "text": "(복수가 두려웠어도 \n이렇게 목숨을 버릴 것까지는...)"
+    },
+    "40070040": {
+        "deprecated": false,
+        "Dev_Desc": "PC",
+        "id": 40070040,
+        "alias": "Contents.Quest.Guide.70040",
+        "text": "(이 정도면 될 것 같다. \n<textColor=[110:216:175:255]>피난처</>로 돌아갈까...)"
+    },
+    "40070041": {
+        "deprecated": false,
+        "Dev_Desc": "PC",
+        "id": 40070041,
+        "alias": "Contents.Quest.Guide.70041",
+        "text": "(이것으로 마무리가 \n된 것 같아 다행이군...)"
+    },
+    "40070042": {
+        "deprecated": false,
+        "Dev_Desc": "PC",
+        "id": 40070042,
+        "alias": "Contents.Quest.Guide.70042",
+        "text": "(이 정도면 <textColor=[255:204:102:255]>도끼</>는 \n어느 정도 모은 것 같은데...)"
+    },
+    "40070043": {
+        "deprecated": false,
+        "Dev_Desc": "PC",
+        "id": 40070043,
+        "alias": "Contents.Quest.Guide.70043",
+        "text": "(음? 어디선가 \n<textColor=[255:204:102:255]>익숙한 목소리</>가 들린다)"
+    },
+    "40070044": {
+        "deprecated": false,
+        "Dev_Desc": "PC",
+        "id": 40070044,
+        "alias": "Contents.Quest.Guide.70044",
+        "text": "(<textColor=[78:148:215:255]>달빛바람</>이 단단히 \n화가 난 듯하네...)"
+    },
+    "40070045": {
+        "deprecated": false,
+        "Dev_Desc": "PC",
+        "id": 40070045,
+        "alias": "Contents.Quest.Guide.70045",
+        "text": "(일단 문제는 해결된 것 같으니 \n다행이야)"
+    },
+    "40070046": {
+        "deprecated": false,
+        "Dev_Desc": "PC",
+        "id": 40070046,
+        "alias": "Contents.Quest.Guide.70046",
+        "text": "(<textColor=[255:204:102:255]>사람이 이동한 흔적</>... \n이걸 따라가면 되겠어)"
+    },
+    "40070047": {
+        "deprecated": false,
+        "Dev_Desc": "PC",
+        "id": 40070047,
+        "alias": "Contents.Quest.Guide.70047",
+        "text": "(겁을 제대로 줬으니 \n또 줄행랑을 치지는 않겠지...)"
+    },
+    "40070048": {
+        "deprecated": false,
+        "Dev_Desc": "PC",
+        "id": 40070048,
+        "alias": "Contents.Quest.Guide.70048",
+        "text": "(적당히 <textColor=[255:204:102:255]>표본</>을 모은 것 같으니 \n슬슬 돌아갈까)"
+    },
+    "40070049": {
+        "deprecated": false,
+        "Dev_Desc": "PC",
+        "id": 40070049,
+        "alias": "Contents.Quest.Guide.70049",
+        "text": "(정말 이상한 사람이다... \n일단 <textColor=[255:204:102:255]>식재</>를 구하기 위해 \n<textColor=[110:216:175:255]>야수의 소굴</>로 가자)"
+    },
+    "40070050": {
+        "deprecated": false,
+        "Dev_Desc": "PC",
+        "id": 40070050,
+        "alias": "Contents.Quest.Guide.70050",
+        "text": "(주변의 위협은 정리했으니, \n이제 <textColor=[255:204:102:255]>육포 재료</>를 모아보자)"
+    },
+    "40070051": {
+        "deprecated": false,
+        "Dev_Desc": "PC",
+        "id": 40070051,
+        "alias": "Contents.Quest.Guide.70051",
+        "text": "(큰 수고를 한 것 같지도 않은데 \n지친 기분이다... \n가서 저녁이나 먹자)"
+    },
+    "40070052": {
+        "deprecated": false,
+        "Dev_Desc": "PC",
+        "id": 40070052,
+        "alias": "Contents.Quest.Guide.70052",
+        "text": "(어디선가 왁자지껄한 \n소리가 들리는데... \n무슨 일이지?)"
+    },
+    "40070053": {
+        "deprecated": false,
+        "Dev_Desc": "PC",
+        "id": 40070053,
+        "alias": "Contents.Quest.Guide.70053",
+        "text": "(정말로 번개를 맞았을까? \n으으, 궁금증을 참을 수 없다!)"
+    },
+    "40070054": {
+        "deprecated": false,
+        "Dev_Desc": "PC",
+        "id": 40070054,
+        "alias": "Contents.Quest.Guide.70054",
+        "text": "(이제 <textColor=[215:94:94:255]>살수</>도 정리가 \n된 것 같으니 <textColor=[255:204:102:255]>나무 동이</>를 \n확인하러 가볼까...)"
+    },
+    "40070055": {
+        "deprecated": false,
+        "Dev_Desc": "PC",
+        "id": 40070055,
+        "alias": "Contents.Quest.Guide.70055",
+        "text": "(나무 동이는 맞지만 <textColor=[255:204:102:255]>번개 맞은</> \n<textColor=[255:204:102:255]>흔적</>은 보이지 않는데...)"
+    },
+    "40070056": {
+        "deprecated": false,
+        "Dev_Desc": "PC",
+        "id": 40070056,
+        "alias": "Contents.Quest.Guide.70056",
+        "text": "(가만, 저건 <textColor=[78:148:215:255]>호운</>이잖아?)"
+    },
+    "40070057": {
+        "deprecated": false,
+        "Dev_Desc": "PC",
+        "id": 40070057,
+        "alias": "Contents.Quest.Guide.70057",
+        "text": "(좋은 뜻이었지만 속은 것 같은 \n기분은 뭘까...)"
+    },
+    "40070058": {
+        "deprecated": false,
+        "Dev_Desc": "PC",
+        "id": 40070058,
+        "alias": "Contents.Quest.Guide.70058",
+        "text": "(아이가 습격당할 수 있으니까 \n일단 주변을 정리해야겠어)"
+    },
+    "40070059": {
+        "deprecated": false,
+        "Dev_Desc": "홍매화",
+        "id": 40070059,
+        "alias": "Contents.Quest.Guide.70059",
+        "text": "소협, 여기입니다!\n<textColor=[255:204:102:255]>아이</>를 찾았습니다!"
+    },
+    "40070060": {
+        "deprecated": false,
+        "Dev_Desc": "PC",
+        "id": 40070060,
+        "alias": "Contents.Quest.Guide.70060",
+        "text": "(<textColor=[78:148:215:255]>심하연</>에게 그런 \n과거가 있었다니...)"
+    },
+    "40070061": {
+        "deprecated": false,
+        "Dev_Desc": "자수정_가라앉은 묘지",
+        "id": 40070061,
+        "alias": "Contents.Quest.Guide.70061",
+        "text": "저는 이 부근을 돌아보고 \n있을 테니, 소협께서는 주변을 \n정리해주시겠어요?"
+    },
+    "40070062": {
+        "deprecated": false,
+        "Dev_Desc": "PC",
+        "id": 40070062,
+        "alias": "Contents.Quest.Guide.70062",
+        "text": "(이번에도 조사하는 동안 \n주변을 정리해주면 되겠지)"
+    },
+    "40070063": {
+        "deprecated": false,
+        "Dev_Desc": "PC",
+        "id": 40070063,
+        "alias": "Contents.Quest.Guide.70063",
+        "text": "(주변을 탐색해본다고 했으니, \n<textColor=[215:94:94:255]>수색병</>을 먼저 처리하자)"
+    },
+    "40070064": {
+        "deprecated": false,
+        "Dev_Desc": "자수정_가라앉은 묘지",
+        "id": 40070064,
+        "alias": "Contents.Quest.Guide.70064",
+        "text": "헉, 저기서\n덮쳐오는 건 <textColor=[215:94:94:255]>사, 살수</>?"
+    },
+    "40070065": {
+        "deprecated": false,
+        "Dev_Desc": "PC",
+        "id": 40070065,
+        "alias": "Contents.Quest.Guide.70065",
+        "text": "(이런! <textColor=[215:94:94:255]>살수</>에게 들켰나 보다. \n내가 도와야겠어!)"
+    },
+    "40070066": {
+        "deprecated": false,
+        "Dev_Desc": "PC",
+        "id": 40070066,
+        "alias": "Contents.Quest.Guide.70066",
+        "text": "(왠지 <textColor=[255:204:102:255]>하면 안 되는 약속</>을 \n한 것만 같은데)"
+    },
+    "40070067": {
+        "deprecated": false,
+        "Dev_Desc": "PC",
+        "id": 40070067,
+        "alias": "Contents.Quest.Guide.70067",
+        "text": "(말릴 새도 없이 가버렸다... \n위험할지도 모르니 \n살펴보러 갈까....)"
+    },
+    "40070068": {
+        "deprecated": false,
+        "Dev_Desc": "PC",
+        "id": 40070068,
+        "alias": "Contents.Quest.Guide.70068",
+        "text": "(저기 <textColor=[78:148:215:255]>하은소</>잖아? \n역시 위험할 뻔했군)"
+    },
+    "40070069": {
+        "deprecated": false,
+        "Dev_Desc": "PC",
+        "id": 40070069,
+        "alias": "Contents.Quest.Guide.70069",
+        "text": "(<textColor=[78:148:215:255]>비류하</>도 <textColor=[78:148:215:255]>아랑</>도 고생이 많겠어... \n이렇게 천방지축일 줄이야...)"
+    },
+    "40070070": {
+        "deprecated": false,
+        "Dev_Desc": "PC",
+        "id": 40070070,
+        "alias": "Contents.Quest.Guide.70070",
+        "text": "(...<textColor=[78:148:215:255]>강철주먹</>도 어지간히 \n알려주고 싶었나 보다)"
+    },
+    "40070071": {
+        "deprecated": false,
+        "Dev_Desc": "강철주먹_잿빛하늘숲1",
+        "id": 40070071,
+        "alias": "Contents.Quest.Guide.70071",
+        "text": "어때?! 슉슉 빨라지는\n주먹이 느껴지지?"
+    },
+    "40070072": {
+        "deprecated": false,
+        "Dev_Desc": "강철주먹_잿빛하늘숲1",
+        "id": 40070072,
+        "alias": "Contents.Quest.Guide.70072",
+        "text": "다음으로는 그 주먹에\n묵직함을 담아보는 거야!"
+    },
+    "40070073": {
+        "deprecated": false,
+        "Dev_Desc": "강철주먹_잿빛하늘숲1",
+        "id": 40070073,
+        "alias": "Contents.Quest.Guide.70073",
+        "text": "무거운 마물을 쳐올리기 위해\n담아야 하는 무게를 느껴!"
+    },
+    "40070074": {
+        "deprecated": false,
+        "Dev_Desc": "강철주먹_잿빛하늘숲1",
+        "id": 40070074,
+        "alias": "Contents.Quest.Guide.70074",
+        "text": "마지막으로는 그 주먹을\n두 시진이고 세 시진이고\n쳐보는 거야!"
+    },
+    "40070075": {
+        "deprecated": false,
+        "Dev_Desc": "PC",
+        "id": 40070075,
+        "alias": "Contents.Quest.Guide.70075",
+        "text": "(완전히 녹초가 됐어... \n다시는 하나 봐라)"
+    },
+    "40070076": {
+        "deprecated": false,
+        "Dev_Desc": "PC",
+        "id": 40070076,
+        "alias": "Contents.Quest.Guide.70076",
+        "text": "(결국 또 <textColor=[78:148:215:255]>달빛바람</> 때문이었나... \n다시 또 이런 짓을 하나 봐라.)"
+    },
+    "40070077": {
+        "deprecated": false,
+        "Dev_Desc": "매화단원 유애린_가라앉은묘지1",
+        "id": 40070077,
+        "alias": "Contents.Quest.Guide.70077",
+        "text": "매화단원 유애린"
+    },
+    "40070078": {
+        "deprecated": false,
+        "Dev_Desc": "매화단원 유애린_가라앉은묘지1",
+        "id": 40070078,
+        "alias": "Contents.Quest.Guide.70078",
+        "text": "매화단원 유애린"
+    },
+    "40070079": {
+        "deprecated": false,
+        "Dev_Desc": "매화단원 유애린_가라앉은묘지1",
+        "id": 40070079,
+        "alias": "Contents.Quest.Guide.70079",
+        "text": "매화단원 유애린"
+    },
+    "40070080": {
+        "deprecated": false,
+        "Dev_Desc": "매화단원 유애린_버림받은자들의늪",
+        "id": 40070080,
+        "alias": "Contents.Quest.Guide.70080",
+        "text": "매화단원 유애린"
+    },
+    "40070081": {
+        "deprecated": false,
+        "Dev_Desc": "매화단원 유애린_어둠 숲1",
+        "id": 40070081,
+        "alias": "Contents.Quest.Guide.70081",
+        "text": "매화단원 유애린"
+    },
+    "40070082": {
+        "deprecated": false,
+        "Dev_Desc": "매화단원 유애린_어둠 숲1",
+        "id": 40070082,
+        "alias": "Contents.Quest.Guide.70082",
+        "text": "매화단원 유애린"
+    },
+    "40070083": {
+        "deprecated": false,
+        "Dev_Desc": "강철주먹_합동초소1",
+        "id": 40070083,
+        "alias": "Contents.Quest.Guide.70083",
+        "text": "강철주먹"
+    },
+    "40070084": {
+        "deprecated": false,
+        "Dev_Desc": "사길미_합동 초소",
+        "id": 40070084,
+        "alias": "Contents.Quest.Guide.70084",
+        "text": "풍백문 사길미"
+    },
+    "40070085": {
+        "deprecated": false,
+        "Dev_Desc": "사길미_오염된 대지",
+        "id": 40070085,
+        "alias": "Contents.Quest.Guide.70085",
+        "text": "풍백문 사길미"
+    },
+    "40070086": {
+        "deprecated": false,
+        "Dev_Desc": "사길미_오염된 대지",
+        "id": 40070086,
+        "alias": "Contents.Quest.Guide.70086",
+        "text": "풍백문 사길미"
+    },
+    "40070088": {
+        "deprecated": false,
+        "Dev_Desc": "홍매화_어둠 숲",
+        "id": 40070088,
+        "alias": "Contents.Quest.Guide.70088",
+        "text": "매화단 단장 홍매화"
+    },
+    "40070089": {
+        "deprecated": false,
+        "Dev_Desc": "자수정_가라앉은 묘지",
+        "id": 40070089,
+        "alias": "Contents.Quest.Guide.70089",
+        "text": "풍백문 자수정"
+    },
+    "40070090": {
+        "deprecated": false,
+        "Dev_Desc": "자수정_가라앉은 묘지",
+        "id": 40070090,
+        "alias": "Contents.Quest.Guide.70090",
+        "text": "풍백문 자수정"
+    },
+    "40070091": {
+        "deprecated": false,
+        "Dev_Desc": "강철주먹_잿빛하늘숲1",
+        "id": 40070091,
+        "alias": "Contents.Quest.Guide.70091",
+        "text": "금경철문 강철주먹"
+    },
+    "40070092": {
+        "deprecated": false,
+        "Dev_Desc": "강철주먹_잿빛하늘숲1",
+        "id": 40070092,
+        "alias": "Contents.Quest.Guide.70092",
+        "text": "금경철문 강철주먹"
+    },
+    "40070093": {
+        "deprecated": false,
+        "Dev_Desc": "강철주먹_잿빛하늘숲1",
+        "id": 40070093,
+        "alias": "Contents.Quest.Guide.70093",
+        "text": "금경철문 강철주먹"
+    },
+    "40070094": {
+        "deprecated": false,
+        "Dev_Desc": "강철주먹_잿빛하늘숲1",
+        "id": 40070094,
+        "alias": "Contents.Quest.Guide.70094",
+        "text": "금경철문 강철주먹"
+    },
+    "40070095": {
+        "deprecated": false,
+        "Dev_Desc": "PC",
+        "id": 40070095,
+        "alias": "Contents.Quest.Guide.70095",
+        "text": "(어느 정도 정리했군.\n이젠 <textColor=[255:204:102:255]>물자 보급</>에 지장 없겠지?)"
+    },
+    "40070097": {
+        "deprecated": false,
+        "Dev_Desc": "PC",
+        "id": 40070097,
+        "alias": "Contents.Quest.Guide.70097",
+        "text": "(어디선가 피 냄새가... <textColor=[78:148:215:255]>모서훈</>에게\n무슨 일이 생긴 건가?)"
+    },
+    "40070098": {
+        "deprecated": false,
+        "Dev_Desc": "PC",
+        "id": 40070098,
+        "alias": "Contents.Quest.Guide.70098",
+        "text": "(이제 <textColor=[255:204:102:255]>재료</>를 수거해 볼까?)"
+    },
+    "40070099": {
+        "deprecated": false,
+        "Dev_Desc": "PC",
+        "id": 40070099,
+        "alias": "Contents.Quest.Guide.70099",
+        "text": "(<textColor=[255:204:102:255]>재료</>를 다 모았다. \n<textColor=[78:148:215:255]>풍백문</>에게 가져다주도록 하자)"
+    },
+    "40070100": {
+        "deprecated": false,
+        "Dev_Desc": "PC",
+        "id": 40070100,
+        "alias": "Contents.Quest.Guide.70100",
+        "text": "(한숨 돌렸다... \n<textColor=[78:148:215:255]>자수정</>도 무사한지 확인해보자)"
+    },
+    "40070101": {
+        "deprecated": false,
+        "Dev_Desc": "PC",
+        "id": 40070101,
+        "alias": "Contents.Quest.Guide.70101",
+        "text": "(<textColor=[78:148:215:255]>자수정</>도 이제 주변을 \n다 돌아봤을까? 확인해보자)"
+    },
+    "40070102": {
+        "deprecated": false,
+        "Dev_Desc": "PC",
+        "id": 40070102,
+        "alias": "Contents.Quest.Guide.70102",
+        "text": "(저기 있는 건 분명히...! 잡았다!)"
+    },
+    "40070103": {
+        "deprecated": false,
+        "Dev_Desc": "PC",
+        "id": 40070103,
+        "alias": "Contents.Quest.Guide.70103",
+        "text": "(<textColor=[78:148:215:255]>유애린</>의 조사를 돕기 위해 \n주변을 정리해볼까!)"
+    }
+}

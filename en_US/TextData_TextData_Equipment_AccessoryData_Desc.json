@@ -2730,18 +2730,6 @@
         "id": 95206448,
         "alias": "Contents.Item.Desc.5205410"
     },
-    "95206449": {
-        "deprecated": false,
-        "Dev_Desc": "잊혀진 홍옥 귀걸이",
-        "id": 95206449,
-        "alias": "Contents.Item.Desc.5101601"
-    },
-    "95206450": {
-        "deprecated": false,
-        "Dev_Desc": "패왕의 귀걸이",
-        "id": 95206450,
-        "alias": "Contents.Item.Desc.5101602"
-    },
     "95206451": {
         "deprecated": false,
         "Dev_Desc": "살귀의 낙인",
@@ -2840,5 +2828,43 @@
         "Dev_Desc": "축제의 증표",
         "id": 95206466,
         "alias": "Contents.Item.Desc.5307006"
+    },
+    "95106601": {
+        "deprecated": false,
+        "Dev_Desc": "잊혀진 영웅의 영혼석",
+        "id": 95106601,
+        "alias": "Contents.Item.Desc.5106603",
+        "text": "Additional Soul Activation Rate when reinforced by 3\\n Additional increase in Soul Activation Rate when reinforced by 5\\n Additional increase in Soul Activation Rate when reinforced by 6"
+    },
+    "95105603": {
+        "deprecated": false,
+        "Dev_Desc": "잊혀진 영웅의 노리개",
+        "id": 95105603,
+        "alias": "Contents.Item.Desc.5105603"
+    },
+    "95206601": {
+        "deprecated": false,
+        "Dev_Desc": "잊혀진 영웅의 영혼석(각인)",
+        "id": 95206601,
+        "alias": "Contents.Item.Desc.5206603",
+        "text": "Additional Soul Activation Rate when reinforced by 3\\n Additional increase in Soul Activation Rate when reinforced by 5\\n Additional increase in Soul Activation Rate when reinforced by 6"
+    },
+    "95205603": {
+        "deprecated": false,
+        "Dev_Desc": "잊혀진 영웅의 노리개(각인)",
+        "id": 95205603,
+        "alias": "Contents.Item.Desc.5205603"
+    },
+    "95206468": {
+        "deprecated": false,
+        "Dev_Desc": "해룡의 증표",
+        "id": 95206468,
+        "alias": "Contents.Item.Desc.5307007"
+    },
+    "95206469": {
+        "deprecated": false,
+        "Dev_Desc": "시간의 증표",
+        "id": 95206469,
+        "alias": "Contents.Item.Desc.5307008"
     }
 }

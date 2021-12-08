@@ -80,33 +80,6 @@
         "id": 89500011,
         "alias": "Contents.Effect.Detail.9200024"
     },
-    "89500012": {
-        "deprecated": false,
-        "Dev_Desc": "전투의 부적",
-        "id": 89500012,
-        "alias": "Contents.Effect.Name.9230106",
-        "text": "Charm of Battle"
-    },
-    "89500013": {
-        "deprecated": false,
-        "Dev_Desc": "전투의 부적",
-        "id": 89500013,
-        "alias": "Contents.Effect.Desc.9230106",
-        "text": "Increases offensive abilities"
-    },
-    "89500014": {
-        "deprecated": false,
-        "Dev_Desc": "전투의 부적",
-        "id": 89500014,
-        "alias": "Contents.Effect.Option.9230106",
-        "text": "Attack +3\nAccuracy +3\nPiercing +2"
-    },
-    "89500015": {
-        "deprecated": false,
-        "Dev_Desc": "전투의 부적",
-        "id": 89500015,
-        "alias": "Contents.Effect.Detail.9230106"
-    },
     "89500016": {
         "deprecated": false,
         "Dev_Desc": "전통주",
@@ -133,60 +106,6 @@
         "Dev_Desc": "전통주",
         "id": 89500019,
         "alias": "Contents.Effect.Detail.9200105"
-    },
-    "89500020": {
-        "deprecated": false,
-        "Dev_Desc": "인내 주문서 / 호신",
-        "id": 89500020,
-        "alias": "Contents.Effect.Name.9230108",
-        "text": "Charm of Endurance"
-    },
-    "89500021": {
-        "deprecated": false,
-        "Dev_Desc": "인내 주문서 / 호신",
-        "id": 89500021,
-        "alias": "Contents.Effect.Desc.9230108",
-        "text": "Increases Regeneration and Defense abilities"
-    },
-    "89500022": {
-        "deprecated": false,
-        "Dev_Desc": "인내 주문서 / 호신",
-        "id": 89500022,
-        "alias": "Contents.Effect.Option.9230108",
-        "text": "HP Regen +5<br/>Focus Regen +5<br/>Vitality Regen +5<br/>Protection +2"
-    },
-    "89500023": {
-        "deprecated": false,
-        "Dev_Desc": "인내 주문서 / 호신",
-        "id": 89500023,
-        "alias": "Contents.Effect.Detail.9230108"
-    },
-    "89500024": {
-        "deprecated": false,
-        "Dev_Desc": "경신의 부적",
-        "id": 89500024,
-        "alias": "Contents.Effect.Name.9230112",
-        "text": "Lightweight Elixir"
-    },
-    "89500025": {
-        "deprecated": false,
-        "Dev_Desc": "경신의 부적",
-        "id": 89500025,
-        "alias": "Contents.Effect.Desc.9230112",
-        "text": "Increases the max weight"
-    },
-    "89500026": {
-        "deprecated": false,
-        "Dev_Desc": "경신의 부적",
-        "id": 89500026,
-        "alias": "Contents.Effect.Option.9230112",
-        "text": "Max Weight +500"
-    },
-    "89500027": {
-        "deprecated": false,
-        "Dev_Desc": "경신의 부적",
-        "id": 89500027,
-        "alias": "Contents.Effect.Detail.9230112"
     },
     "89500028": {
         "deprecated": false,
@@ -5473,5 +5392,730 @@
         "Dev_Desc": "천상의 용봉탕 옵션설명",
         "id": 89500814,
         "alias": "Contents.Effect.Detail.70101168"
+    },
+    "89500815": {
+        "deprecated": false,
+        "Dev_Desc": "문파 랭킹 1위 버프",
+        "id": 89500815,
+        "alias": "Contents.Effect.Name.8117",
+        "text": "No. 1 in the Munpa Ranking"
+    },
+    "89500816": {
+        "deprecated": false,
+        "Dev_Desc": "문파 랭킹 1위 버프",
+        "id": 89500816,
+        "alias": "Contents.Effect.Desc.8117",
+        "text": "Increased ability"
+    },
+    "89500817": {
+        "deprecated": false,
+        "Dev_Desc": "문파 랭킹 1위 버프",
+        "id": 89500817,
+        "alias": "Contents.Effect.Option.8117",
+        "text": "Experience gain increase 3%\\nAttribute damage resistance 3%\\nPvP defense 3\\nAccuracy 1"
+    },
+    "89500818": {
+        "deprecated": false,
+        "Dev_Desc": "문파 랭킹 1위 버프",
+        "id": 89500818,
+        "alias": "Contents.Effect.Detail.8117",
+        "text": "Benefits of being ranked 1st in the Munpa Ranking"
+    },
+    "89500819": {
+        "deprecated": false,
+        "Dev_Desc": "문파 랭킹 2위 버프",
+        "id": 89500819,
+        "alias": "Contents.Effect.Name.8118",
+        "text": "2nd place in the Munpa ranking"
+    },
+    "89500820": {
+        "deprecated": false,
+        "Dev_Desc": "문파 랭킹 2위 버프",
+        "id": 89500820,
+        "alias": "Contents.Effect.Desc.8118",
+        "text": "Increased ability"
+    },
+    "89500821": {
+        "deprecated": false,
+        "Dev_Desc": "문파 랭킹 2위 버프",
+        "id": 89500821,
+        "alias": "Contents.Effect.Option.8118",
+        "text": "Experience gain increase by 2%\\nAttribute damage resistance 2%\\nPvP defense 1"
+    },
+    "89500822": {
+        "deprecated": false,
+        "Dev_Desc": "문파 랭킹 2위 버프",
+        "id": 89500822,
+        "alias": "Contents.Effect.Detail.8118",
+        "text": "Benefits of 2nd place in the Munpa ranking"
+    },
+    "89500823": {
+        "deprecated": false,
+        "Dev_Desc": "문파 랭킹 3위 버프",
+        "id": 89500823,
+        "alias": "Contents.Effect.Name.8119",
+        "text": "3rd place in the Munpa ranking"
+    },
+    "89500824": {
+        "deprecated": false,
+        "Dev_Desc": "문파 랭킹 3위 버프",
+        "id": 89500824,
+        "alias": "Contents.Effect.Desc.8119",
+        "text": "Increased ability"
+    },
+    "89500825": {
+        "deprecated": false,
+        "Dev_Desc": "문파 랭킹 3위 버프",
+        "id": 89500825,
+        "alias": "Contents.Effect.Option.8119",
+        "text": "Experience gain increase by 2% \\n Attribute damage resistance by 1%"
+    },
+    "89500826": {
+        "deprecated": false,
+        "Dev_Desc": "문파 랭킹 3위 버프",
+        "id": 89500826,
+        "alias": "Contents.Effect.Detail.8119",
+        "text": "Benefits of 3rd place in the Munpa ranking"
+    },
+    "89500827": {
+        "deprecated": false,
+        "Dev_Desc": "문파 랭킹 4~5위 버프",
+        "id": 89500827,
+        "alias": "Contents.Effect.Name.8120",
+        "text": "4th place in the Munpa ranking"
+    },
+    "89500828": {
+        "deprecated": false,
+        "Dev_Desc": "문파 랭킹 4~5위 버프",
+        "id": 89500828,
+        "alias": "Contents.Effect.Desc.8120",
+        "text": "Increased ability"
+    },
+    "89500829": {
+        "deprecated": false,
+        "Dev_Desc": "문파 랭킹 4~5위 버프",
+        "id": 89500829,
+        "alias": "Contents.Effect.Option.8120",
+        "text": "Experience gain increase by 1% \\n Attribute damage resistance by 1%"
+    },
+    "89500830": {
+        "deprecated": false,
+        "Dev_Desc": "문파 랭킹 4~5위 버프",
+        "id": 89500830,
+        "alias": "Contents.Effect.Detail.8120",
+        "text": "Benefits of 4th place in the Munpa ranking"
+    },
+    "89500831": {
+        "deprecated": false,
+        "Dev_Desc": "문파 랭킹 6~10위 버프",
+        "id": 89500831,
+        "alias": "Contents.Effect.Name.8121",
+        "text": "5th place in the Munpa ranking"
+    },
+    "89500832": {
+        "deprecated": false,
+        "Dev_Desc": "문파 랭킹 6~10위 버프",
+        "id": 89500832,
+        "alias": "Contents.Effect.Desc.8121",
+        "text": "Increased ability"
+    },
+    "89500833": {
+        "deprecated": false,
+        "Dev_Desc": "문파 랭킹 6~10위 버프",
+        "id": 89500833,
+        "alias": "Contents.Effect.Option.8121",
+        "text": "Experience gain increase by 1%"
+    },
+    "89500834": {
+        "deprecated": false,
+        "Dev_Desc": "문파 랭킹 6~10위 버프",
+        "id": 89500834,
+        "alias": "Contents.Effect.Detail.8121",
+        "text": "Benefits of 5th place in the Munpa ranking"
+    },
+    "89500835": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 도전가 효과1",
+        "id": 89500835,
+        "alias": "Contents.Effect.ProvinceGradeEffect.name.6105",
+        "text": "Haeryong Mountain Challenger"
+    },
+    "89500836": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 도전가 효과2",
+        "id": 89500836,
+        "alias": "Contents.Effect.ProvinceGradeEffect.name.6106",
+        "text": "Haeryong Mountain Challenger"
+    },
+    "89500837": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 도전가 효과3",
+        "id": 89500837,
+        "alias": "Contents.Effect.ProvinceGradeEffect.name.6107",
+        "text": "Haeryong Mountain Challenger"
+    },
+    "89500838": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 모험가 효과1",
+        "id": 89500838,
+        "alias": "Contents.Effect.ProvinceGradeEffect.name.6108",
+        "text": "Haeryong Mountain Adventurer"
+    },
+    "89500839": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 모험가 효과2",
+        "id": 89500839,
+        "alias": "Contents.Effect.ProvinceGradeEffect.name.6109",
+        "text": "Haeryong Mountain Adventurer"
+    },
+    "89500840": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 모험가 효과3",
+        "id": 89500840,
+        "alias": "Contents.Effect.ProvinceGradeEffect.name.6110",
+        "text": "Haeryong Mountain Adventurer"
+    },
+    "89500841": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 숙련가 효과1",
+        "id": 89500841,
+        "alias": "Contents.Effect.ProvinceGradeEffect.name.6111",
+        "text": "Master of the Haeryong Mountains"
+    },
+    "89500842": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 숙련가 효과2",
+        "id": 89500842,
+        "alias": "Contents.Effect.ProvinceGradeEffect.name.6112",
+        "text": "Master of the Haeryong Mountains"
+    },
+    "89500843": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 숙련가 효과3",
+        "id": 89500843,
+        "alias": "Contents.Effect.ProvinceGradeEffect.name.6113",
+        "text": "Master of the Haeryong Mountains"
+    },
+    "89500844": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 전문가 효과1",
+        "id": 89500844,
+        "alias": "Contents.Effect.ProvinceGradeEffect.name.6114",
+        "text": "The Haeryong Mountains Expert"
+    },
+    "89500845": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 전문가 효과2",
+        "id": 89500845,
+        "alias": "Contents.Effect.ProvinceGradeEffect.name.6115",
+        "text": "The Haeryong Mountains Expert"
+    },
+    "89500846": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 전문가 효과3",
+        "id": 89500846,
+        "alias": "Contents.Effect.ProvinceGradeEffect.name.6116",
+        "text": "The Haeryong Mountains Expert"
+    },
+    "89500847": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 영웅 효과1",
+        "id": 89500847,
+        "alias": "Contents.Effect.ProvinceGradeEffect.name.6117",
+        "text": "Heroes of the Haeryong Mountains"
+    },
+    "89500848": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 영웅 효과2",
+        "id": 89500848,
+        "alias": "Contents.Effect.ProvinceGradeEffect.name.6118",
+        "text": "Heroes of the Haeryong Mountains"
+    },
+    "89500849": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 영웅 효과3",
+        "id": 89500849,
+        "alias": "Contents.Effect.ProvinceGradeEffect.name.6119",
+        "text": "Heroes of the Haeryong Mountains"
+    },
+    "89500850": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 수호자 효과1",
+        "id": 89500850,
+        "alias": "Contents.Effect.ProvinceGradeEffect.name.6120",
+        "text": "Guardian of the Haeryong Mountains"
+    },
+    "89500851": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 수호자 효과2",
+        "id": 89500851,
+        "alias": "Contents.Effect.ProvinceGradeEffect.name.6121",
+        "text": "Guardian of the Haeryong Mountains"
+    },
+    "89500852": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 수호자 효과3",
+        "id": 89500852,
+        "alias": "Contents.Effect.ProvinceGradeEffect.name.6122",
+        "text": "Guardian of the Haeryong Mountains"
+    },
+    "89500853": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 지배자 효과1",
+        "id": 89500853,
+        "alias": "Contents.Effect.ProvinceGradeEffect.name.6123",
+        "text": "The Ruler of the Haeryong Mountains"
+    },
+    "89500854": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 지배자 효과2",
+        "id": 89500854,
+        "alias": "Contents.Effect.ProvinceGradeEffect.name.6124",
+        "text": "The Ruler of the Haeryong Mountains"
+    },
+    "89500855": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 지배자 효과3",
+        "id": 89500855,
+        "alias": "Contents.Effect.ProvinceGradeEffect.name.6125",
+        "text": "The Ruler of the Haeryong Mountains"
+    },
+    "89500856": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 도전가 효과 설명1",
+        "id": 89500856,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Desc.6105",
+        "text": "Increased potion recovery amount"
+    },
+    "89500857": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 도전가 효과 설명2",
+        "id": 89500857,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Desc.6106",
+        "text": "Increase PVE Defense"
+    },
+    "89500858": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 도전가 효과 설명3",
+        "id": 89500858,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Desc.6107",
+        "text": "Increased PVE Critical Rate"
+    },
+    "89500859": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 모험가 효과 설명1",
+        "id": 89500859,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Desc.6108",
+        "text": "Increased potion recovery amount"
+    },
+    "89500860": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 모험가 효과 설명2",
+        "id": 89500860,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Desc.6109",
+        "text": "Increase PVE Defense"
+    },
+    "89500861": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 모험가 효과 설명3",
+        "id": 89500861,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Desc.6110",
+        "text": "Increased PVE Critical Rate"
+    },
+    "89500862": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 숙련가 효과 설명1",
+        "id": 89500862,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Desc.6111",
+        "text": "Increased potion recovery amount"
+    },
+    "89500863": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 숙련가 효과 설명2",
+        "id": 89500863,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Desc.6112",
+        "text": "Increase PVE Defense"
+    },
+    "89500864": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 숙련가 효과 설명3",
+        "id": 89500864,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Desc.6113",
+        "text": "Increased PVE Critical Rate"
+    },
+    "89500865": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 전문가 효과 설명1",
+        "id": 89500865,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Desc.6114",
+        "text": "Increased potion recovery amount"
+    },
+    "89500866": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 전문가 효과 설명2",
+        "id": 89500866,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Desc.6115",
+        "text": "Increase PVE Defense"
+    },
+    "89500867": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 전문가 효과 설명3",
+        "id": 89500867,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Desc.6116",
+        "text": "Increased PVE Critical Rate"
+    },
+    "89500868": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 영웅 효과 설명1",
+        "id": 89500868,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Desc.6117",
+        "text": "Increased potion recovery amount"
+    },
+    "89500869": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 영웅 효과 설명2",
+        "id": 89500869,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Desc.6118",
+        "text": "Increase PVE Defense"
+    },
+    "89500870": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 영웅 효과 설명3",
+        "id": 89500870,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Desc.6119",
+        "text": "Increased PVE Critical Rate"
+    },
+    "89500871": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 수호자 효과 설명1",
+        "id": 89500871,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Desc.6120",
+        "text": "Increased potion recovery amount"
+    },
+    "89500872": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 수호자 효과 설명2",
+        "id": 89500872,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Desc.6121",
+        "text": "Increase PVE Defense"
+    },
+    "89500873": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 수호자 효과 설명3",
+        "id": 89500873,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Desc.6122",
+        "text": "Increased PVE Critical Rate"
+    },
+    "89500874": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 지배자 효과 설명1",
+        "id": 89500874,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Desc.6123",
+        "text": "Increased potion recovery amount"
+    },
+    "89500875": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 지배자 효과 설명2",
+        "id": 89500875,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Desc.6124",
+        "text": "Increase PVE Defense"
+    },
+    "89500876": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 지배자 효과 설명3",
+        "id": 89500876,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Desc.6125",
+        "text": "Increased PVE Critical Rate"
+    },
+    "89500877": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 도전가 효과 옵션1",
+        "id": 89500877,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Option.6105",
+        "text": "Potion recovery 1"
+    },
+    "89500878": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 도전가 효과 옵션2",
+        "id": 89500878,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Option.6106"
+    },
+    "89500879": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 도전가 효과 옵션3",
+        "id": 89500879,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Option.6107"
+    },
+    "89500880": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 모험가 효과 옵션1",
+        "id": 89500880,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Option.6108",
+        "text": "Potion recovery 2"
+    },
+    "89500881": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 모험가 효과 옵션2",
+        "id": 89500881,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Option.6109",
+        "text": "PVE Defense 1"
+    },
+    "89500882": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 모험가 효과 옵션3",
+        "id": 89500882,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Option.6110"
+    },
+    "89500883": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 숙련가 효과 옵션1",
+        "id": 89500883,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Option.6111",
+        "text": "Potion recovery 3"
+    },
+    "89500884": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 숙련가 효과 옵션2",
+        "id": 89500884,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Option.6112",
+        "text": "PVE Defense 2"
+    },
+    "89500885": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 숙련가 효과 옵션3",
+        "id": 89500885,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Option.6113",
+        "text": "PVE Critical Rate 1%"
+    },
+    "89500886": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 전문가 효과 옵션1",
+        "id": 89500886,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Option.6114",
+        "text": "Potion recovery 3"
+    },
+    "89500887": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 전문가 효과 옵션2",
+        "id": 89500887,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Option.6115",
+        "text": "PVE Defense 3"
+    },
+    "89500888": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 전문가 효과 옵션3",
+        "id": 89500888,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Option.6116",
+        "text": "PVE Critical Rate 1.5%"
+    },
+    "89500889": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 영웅 효과 옵션1",
+        "id": 89500889,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Option.6117",
+        "text": "Potion recovery 4"
+    },
+    "89500890": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 영웅 효과 옵션2",
+        "id": 89500890,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Option.6118",
+        "text": "PVE Defense 4"
+    },
+    "89500891": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 영웅 효과 옵션3",
+        "id": 89500891,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Option.6119",
+        "text": "PVE Critical Rate 2%"
+    },
+    "89500892": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 수호자 효과 옵션1",
+        "id": 89500892,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Option.6120",
+        "text": "Potion recovery 4"
+    },
+    "89500893": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 수호자 효과 옵션2",
+        "id": 89500893,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Option.6121",
+        "text": "PVE Defense 5"
+    },
+    "89500894": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 수호자 효과 옵션3",
+        "id": 89500894,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Option.6122",
+        "text": "PVE Critical Rate 2.5%"
+    },
+    "89500895": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 지배자 효과 옵션1",
+        "id": 89500895,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Option.6123",
+        "text": "Potion recovery 5"
+    },
+    "89500896": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 지배자 효과 옵션2",
+        "id": 89500896,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Option.6124",
+        "text": "PVE Defense 6"
+    },
+    "89500897": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 지배자 효과 옵션3",
+        "id": 89500897,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Option.6125",
+        "text": "PVE Critical Rate 3%"
+    },
+    "89500898": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 도전가 효과1",
+        "id": 89500898,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Detail.6105",
+        "text": "This is the effect you get when you reach the Challenger level in the Haeryong Mountains."
+    },
+    "89500899": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 도전가 효과2",
+        "id": 89500899,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Detail.6106",
+        "text": "This is the effect you get when you reach the Challenger level in the Haeryong Mountains."
+    },
+    "89500900": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 도전가 효과3",
+        "id": 89500900,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Detail.6107",
+        "text": "This is the effect you get when you reach the Challenger level in the Haeryong Mountains."
+    },
+    "89500901": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 모험가 효과1",
+        "id": 89500901,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Detail.6108",
+        "text": "This is the effect you get when you achieve the Adventurer level in the Haeryong Mountains."
+    },
+    "89500902": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 모험가 효과2",
+        "id": 89500902,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Detail.6109",
+        "text": "This is the effect you get when you achieve the Adventurer level in the Haeryong Mountains."
+    },
+    "89500903": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 모험가 효과3",
+        "id": 89500903,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Detail.6110",
+        "text": "This is the effect you get when you achieve the Adventurer level in the Haeryong Mountains."
+    },
+    "89500904": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 숙련가 효과1",
+        "id": 89500904,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Detail.6111",
+        "text": "This is the effect you get when you reach the Expert level in the Haeryong Mountains."
+    },
+    "89500905": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 숙련가 효과2",
+        "id": 89500905,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Detail.6112",
+        "text": "This is the effect you get when you reach the Expert level in the Haeryong Mountains."
+    },
+    "89500906": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 숙련가 효과3",
+        "id": 89500906,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Detail.6113",
+        "text": "This is the effect you get when you reach the Expert level in the Haeryong Mountains."
+    },
+    "89500907": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 전문가 효과1",
+        "id": 89500907,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Detail.6114",
+        "text": "This is the effect you get when you achieve expert level in the Haeryong Mountains."
+    },
+    "89500908": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 전문가 효과2",
+        "id": 89500908,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Detail.6115",
+        "text": "This is the effect you get when you achieve expert level in the Haeryong Mountains."
+    },
+    "89500909": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 전문가 효과3",
+        "id": 89500909,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Detail.6116",
+        "text": "This is the effect you get when you achieve expert level in the Haeryong Mountains."
+    },
+    "89500910": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 영웅 효과1",
+        "id": 89500910,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Detail.6117",
+        "text": "This is the effect you get when you reach the Hero level in the Haeryong Mountains."
+    },
+    "89500911": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 영웅 효과2",
+        "id": 89500911,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Detail.6118",
+        "text": "This is the effect you get when you reach the Hero level in the Haeryong Mountains."
+    },
+    "89500912": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 영웅 효과3",
+        "id": 89500912,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Detail.6119",
+        "text": "This is the effect you get when you reach the Hero level in the Haeryong Mountains."
+    },
+    "89500913": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 수호자 효과1",
+        "id": 89500913,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Detail.6120",
+        "text": "This is the effect you get when you reach the Guardian rank in the Haelong Mountains."
+    },
+    "89500914": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 수호자 효과2",
+        "id": 89500914,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Detail.6121",
+        "text": "This is the effect you get when you reach the Guardian rank in the Haelong Mountains."
+    },
+    "89500915": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 수호자 효과3",
+        "id": 89500915,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Detail.6122",
+        "text": "This is the effect you get when you reach the Guardian rank in the Haelong Mountains."
+    },
+    "89500916": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 지배자 효과1",
+        "id": 89500916,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Detail.6123",
+        "text": "This is the effect you receive when you achieve the ruler rank in the Haeryong Mountains."
+    },
+    "89500917": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 지배자 효과2",
+        "id": 89500917,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Detail.6124",
+        "text": "This is the effect you receive when you achieve the ruler rank in the Haeryong Mountains."
+    },
+    "89500918": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 지배자 효과3",
+        "id": 89500918,
+        "alias": "Contents.Effect.ProvinceGradeEffect.Detail.6125",
+        "text": "This is the effect you receive when you achieve the ruler rank in the Haeryong Mountains."
     }
 }

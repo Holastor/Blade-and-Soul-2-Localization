@@ -1,0 +1,664 @@
+{
+    "40060000": {
+        "deprecated": false,
+        "id": 40060000,
+        "alias": "Contents.Quest.Guide.60000",
+        "text": "(음, 정비가 좀 필요할 것 같은데...)"
+    },
+    "40060001": {
+        "deprecated": false,
+        "id": 40060001,
+        "alias": "Contents.Quest.Guide.60001",
+        "text": "(일단 <textColor=[110:216:175:255]>큰 거점</>으로 갈까?)"
+    },
+    "40060002": {
+        "deprecated": false,
+        "id": 40060002,
+        "alias": "Contents.Quest.Guide.60002",
+        "text": "(어디 보자... 어디부터 가볼까?)"
+    },
+    "40060003": {
+        "deprecated": false,
+        "id": 40060003,
+        "alias": "Contents.Quest.Guide.60003",
+        "text": "<textColor=[255:204:102:255]><myHero.name/></>님 아니십니까?!"
+    },
+    "40060004": {
+        "deprecated": false,
+        "id": 40060004,
+        "alias": "Contents.Quest.Guide.60004",
+        "text": "어쨌든 증언부터 들어볼까?"
+    },
+    "40060005": {
+        "deprecated": false,
+        "id": 40060005,
+        "alias": "Contents.Quest.Guide.60005",
+        "text": "문주님...!"
+    },
+    "40060006": {
+        "deprecated": false,
+        "id": 40060006,
+        "alias": "Contents.Quest.Guide.60006",
+        "text": "사라진 사형들을\n꼭 찾아주십시오, 흐흑..."
+    },
+    "40060007": {
+        "deprecated": false,
+        "id": 40060007,
+        "alias": "Contents.Quest.Guide.60007",
+        "text": "... 약속이고 뭐고 그냥\n확 맘대로 해버릴까?"
+    },
+    "40060008": {
+        "deprecated": false,
+        "id": 40060008,
+        "alias": "Contents.Quest.Guide.60008",
+        "text": "(앗... 아랑이 가버렸다.\n나라도 <textColor=[78:148:215:255]>전투조장</>과\n이야기해봐야겠다)"
+    },
+    "40060009": {
+        "deprecated": false,
+        "id": 40060009,
+        "alias": "Contents.Quest.Guide.60009",
+        "text": "먼저 간다!"
+    },
+    "40060010": {
+        "deprecated": false,
+        "id": 40060010,
+        "alias": "Contents.Quest.Guide.60010",
+        "text": "(지금까지의 <textColor=[215:94:94:255]>검은새벽단</>과는\n뭔가 좀 다른 것 같다)"
+    },
+    "40060011": {
+        "deprecated": false,
+        "id": 40060011,
+        "alias": "Contents.Quest.Guide.60011",
+        "text": "(잠깐, 저쪽은 <textColor=[78:148:215:255]>풍백문</>의\n옷을 입고 있잖아?)"
+    },
+    "40060012": {
+        "deprecated": false,
+        "id": 40060012,
+        "alias": "Contents.Quest.Guide.60012",
+        "text": "(가까이 가서 확인해 보자)"
+    },
+    "40060013": {
+        "deprecated": false,
+        "id": 40060013,
+        "alias": "Contents.Quest.Guide.60013",
+        "text": "(응? 방금 무슨 소리가...?)"
+    },
+    "40060014": {
+        "deprecated": false,
+        "id": 40060014,
+        "alias": "Contents.Quest.Guide.60014",
+        "text": "크으으으악!!!"
+    },
+    "40060015": {
+        "deprecated": false,
+        "id": 40060015,
+        "alias": "Contents.Quest.Guide.60015",
+        "text": "<textColor=[255:204:102:255]><myHero.name/></>, 괜찮아?!"
+    },
+    "40060016": {
+        "deprecated": false,
+        "id": 40060016,
+        "alias": "Contents.Quest.Guide.60016",
+        "text": "(<textColor=[110:216:175:255]>잿빛 하늘 숲</>으로 가서\n<textColor=[78:148:215:255]>채녹윤</>을 만나자)"
+    },
+    "40060017": {
+        "deprecated": false,
+        "id": 40060017,
+        "alias": "Contents.Quest.Guide.60017",
+        "text": "(저기 <textColor=[78:148:215:255]>채녹윤</>이 보인다)"
+    },
+    "40060018": {
+        "deprecated": false,
+        "id": 40060018,
+        "alias": "Contents.Quest.Guide.60018",
+        "text": "(채녹윤을 따라가\n함께 사체를 살펴보자)"
+    },
+    "40060019": {
+        "deprecated": false,
+        "id": 40060019,
+        "alias": "Contents.Quest.Guide.60019",
+        "text": "... 너무 지체되지 않도록\n주의해주십시오."
+    },
+    "40060020": {
+        "deprecated": false,
+        "id": 40060020,
+        "alias": "Contents.Quest.Guide.60020",
+        "text": "으유! 저러니 도와주고 싶겠냐고."
+    },
+    "40060021": {
+        "deprecated": false,
+        "id": 40060021,
+        "alias": "Contents.Quest.Guide.60021",
+        "text": "(앗, 저쪽에!)"
+    },
+    "40060022": {
+        "deprecated": false,
+        "id": 40060022,
+        "alias": "Contents.Quest.Guide.60022",
+        "text": "(잘 수습한 것 같다.\n이제 <textColor=[255:204:102:255]>남은 물자</>를 되찾자)"
+    },
+    "40060023": {
+        "deprecated": false,
+        "id": 40060023,
+        "alias": "Contents.Quest.Guide.60023",
+        "text": "뭐, 물자는 거의 다\n되찾은 것 같은데?"
+    },
+    "40060024": {
+        "deprecated": false,
+        "id": 40060024,
+        "alias": "Contents.Quest.Guide.60024",
+        "text": "(앗, 잠깐만!)"
+    },
+    "40060025": {
+        "deprecated": false,
+        "id": 40060025,
+        "alias": "Contents.Quest.Guide.60025",
+        "text": "(더 이상은 보이지 않는다.\n<textColor=[78:148:215:255]>채녹윤</>에게 돌아가자)"
+    },
+    "40060026": {
+        "deprecated": false,
+        "id": 40060026,
+        "alias": "Contents.Quest.Guide.60026",
+        "text": "(<textColor=[78:148:215:255]>아랑</>이 무언가 발견한 것 같다)"
+    },
+    "40060027": {
+        "deprecated": false,
+        "id": 40060027,
+        "alias": "Contents.Quest.Guide.60027",
+        "text": "<textColor=[255:204:102:255]>사람의 발자국</>이야.\n그리고 그 옆은..."
+    },
+    "40060028": {
+        "deprecated": false,
+        "id": 40060028,
+        "alias": "Contents.Quest.Guide.60028",
+        "text": "뭔가에 당한 흔적입니다.\n저쪽으로 간 것 같습니다."
+    },
+    "40060029": {
+        "deprecated": false,
+        "id": 40060029,
+        "alias": "Contents.Quest.Guide.60029",
+        "text": "(잠깐... 저게.... 뭐지?)"
+    },
+    "40060030": {
+        "deprecated": false,
+        "id": 40060030,
+        "alias": "Contents.Quest.Guide.60030",
+        "text": "기다려!!!"
+    },
+    "40060031": {
+        "deprecated": false,
+        "id": 40060031,
+        "alias": "Contents.Quest.Guide.60031",
+        "text": "(서둘러 <textColor=[110:216:175:255]>수색 초소</>까지 이동하자)"
+    },
+    "40060032": {
+        "deprecated": false,
+        "id": 40060032,
+        "alias": "Contents.Quest.Guide.60032",
+        "text": "대체... 무슨 일이...!"
+    },
+    "40060033": {
+        "deprecated": false,
+        "id": 40060033,
+        "alias": "Contents.Quest.Guide.60033",
+        "text": "(회수한 보급품에\n치료제가 있었지!)"
+    },
+    "40060034": {
+        "deprecated": false,
+        "id": 40060034,
+        "alias": "Contents.Quest.Guide.60034",
+        "text": "휴우... 좀 살 것 같습니다.\n고맙습니다."
+    },
+    "40060035": {
+        "deprecated": false,
+        "id": 40060035,
+        "alias": "Contents.Quest.Guide.60035",
+        "text": "자~ 해치우러 가볼까?!"
+    },
+    "40060036": {
+        "deprecated": false,
+        "id": 40060036,
+        "alias": "Contents.Quest.Guide.60036",
+        "text": "좋아, 저기 적절한\n먹잇감들이 있는데?"
+    },
+    "40060037": {
+        "deprecated": false,
+        "id": 40060037,
+        "alias": "Contents.Quest.Guide.60037",
+        "text": "어때? 이정도면 될 것 같지?"
+    },
+    "40060038": {
+        "deprecated": false,
+        "id": 40060038,
+        "alias": "Contents.Quest.Guide.60038",
+        "text": "(적당한 곳에 먹잇감을\n뿌려두자고 한다)"
+    },
+    "40060039": {
+        "deprecated": false,
+        "id": 40060039,
+        "alias": "Contents.Quest.Guide.60039",
+        "text": "(이제 먹잇감에 한눈 팔린\n놈들을 처치하자)"
+    },
+    "40060040": {
+        "deprecated": false,
+        "id": 40060040,
+        "alias": "Contents.Quest.Guide.60040",
+        "text": "오, 무사히 뒤따라 온 모양인데?"
+    },
+    "40060041": {
+        "deprecated": false,
+        "id": 40060041,
+        "alias": "Contents.Quest.Guide.60041",
+        "text": "뭐... <textColor=[78:148:215:255]>수양</>이라고 꽉 막힌\n사람만 있는 건 아닌가봐."
+    },
+    "40060042": {
+        "deprecated": false,
+        "id": 40060042,
+        "alias": "Contents.Quest.Guide.60042",
+        "text": "(좋은 공조였다고 말하며\n이제부턴 둘이서 힘내자고 한다)"
+    },
+    "40060043": {
+        "deprecated": false,
+        "id": 40060043,
+        "alias": "Contents.Quest.Guide.60043",
+        "text": "나는 저쪽으로 가볼게!"
+    },
+    "40060044": {
+        "deprecated": false,
+        "id": 40060044,
+        "alias": "Contents.Quest.Guide.60044",
+        "text": "(음...? 사람 소리인가?)"
+    },
+    "40060045": {
+        "deprecated": false,
+        "id": 40060045,
+        "alias": "Contents.Quest.Guide.60045",
+        "text": "자, 잠깐...! 너 뭐야?!"
+    },
+    "40060046": {
+        "deprecated": false,
+        "id": 40060046,
+        "alias": "Contents.Quest.Guide.60046",
+        "text": "항복, 항복!!"
+    },
+    "40060047": {
+        "deprecated": false,
+        "id": 40060047,
+        "alias": "Contents.Quest.Guide.60047",
+        "text": "아오! 벌써 뒤따라왔네!!!"
+    },
+    "40060048": {
+        "deprecated": false,
+        "id": 40060048,
+        "alias": "Contents.Quest.Guide.60048",
+        "text": "이봐, 아까처럼 때려눕혀봐!"
+    },
+    "40060049": {
+        "deprecated": false,
+        "id": 40060049,
+        "alias": "Contents.Quest.Guide.60049",
+        "text": "(끝난 건가...?)"
+    },
+    "40060050": {
+        "deprecated": false,
+        "id": 40060050,
+        "alias": "Contents.Quest.Guide.60050",
+        "text": "조심하십시오!\n<textColor=[255:204:102:255]>검은 힘</>을 다루는 놈들입니다."
+    },
+    "40060051": {
+        "deprecated": false,
+        "id": 40060051,
+        "alias": "Contents.Quest.Guide.60051",
+        "text": "아직 안끝났습니다!"
+    },
+    "40060052": {
+        "deprecated": false,
+        "id": 40060052,
+        "alias": "Contents.Quest.Guide.60052",
+        "text": "크크큭... 이건 또 뭐야?"
+    },
+    "40060053": {
+        "deprecated": false,
+        "id": 40060053,
+        "alias": "Contents.Quest.Guide.60053",
+        "text": "칫...!"
+    },
+    "40060054": {
+        "deprecated": false,
+        "id": 40060054,
+        "alias": "Contents.Quest.Guide.60054",
+        "text": "안됩니다!"
+    },
+    "40060055": {
+        "deprecated": false,
+        "id": 40060055,
+        "alias": "Contents.Quest.Guide.60055",
+        "text": "저희 <textColor=[110:216:175:255]>피난처</>에 오신 것을\n환영합니다."
+    },
+    "40060056": {
+        "deprecated": false,
+        "id": 40060056,
+        "alias": "Contents.Quest.Guide.60056",
+        "text": "저는 치료용 풀을\n채집하겠습니다."
+    },
+    "40060057": {
+        "deprecated": false,
+        "id": 40060057,
+        "alias": "Contents.Quest.Guide.60057",
+        "text": "소협께서는 부탁을\n해결해 주십시오."
+    },
+    "40060058": {
+        "deprecated": false,
+        "id": 40060058,
+        "alias": "Contents.Quest.Guide.60058",
+        "text": "(다음은... <textColor=[215:94:94:255]>빛나는 것</>들을\n좀 구해볼까?)"
+    },
+    "40060059": {
+        "deprecated": false,
+        "id": 40060059,
+        "alias": "Contents.Quest.Guide.60059",
+        "text": "다 되셨으면 이제\n<textColor=[110:216:175:255]>피난처</>로 돌아갑시다!"
+    },
+    "40060060": {
+        "deprecated": false,
+        "id": 40060060,
+        "alias": "Contents.Quest.Guide.60060",
+        "text": "(아니...? 무슨 일이?!!)"
+    },
+    "40060061": {
+        "deprecated": false,
+        "id": 40060061,
+        "alias": "Contents.Quest.Guide.60061",
+        "text": "이 쥐새끼 같은 놈들...!!!"
+    },
+    "40060062": {
+        "deprecated": false,
+        "id": 40060062,
+        "alias": "Contents.Quest.Guide.60062",
+        "text": "어디로 숨었나 했더니\n겨우 여기냐? 크크큭!!"
+    },
+    "40060063": {
+        "deprecated": false,
+        "id": 40060063,
+        "alias": "Contents.Quest.Guide.60063",
+        "text": "크큭....! 겨우 시작일 뿐이다!!"
+    },
+    "40060064": {
+        "deprecated": false,
+        "id": 40060064,
+        "alias": "Contents.Quest.Guide.60064",
+        "text": "모두 채비를 하고\n따라오십시오!!"
+    },
+    "40060065": {
+        "deprecated": false,
+        "id": 40060065,
+        "alias": "Contents.Quest.Guide.60065",
+        "text": "(길이 확보되었으니\n진입로를 살펴보자)"
+    },
+    "40060066": {
+        "deprecated": false,
+        "id": 40060066,
+        "alias": "Contents.Quest.Guide.60066",
+        "text": "(안전지대에서 신호하자\n난민들이 뒤따라왔다)"
+    },
+    "40060067": {
+        "deprecated": false,
+        "id": 40060067,
+        "alias": "Contents.Quest.Guide.60067",
+        "text": "그럼, 부탁드리겠습니다!!"
+    },
+    "40060068": {
+        "deprecated": false,
+        "id": 40060068,
+        "alias": "Contents.Quest.Guide.60068",
+        "text": "쓰러졌다...!!\n이쪽으로!!"
+    },
+    "40060069": {
+        "deprecated": false,
+        "id": 40060069,
+        "alias": "Contents.Quest.Guide.60069",
+        "text": "따라오시죠."
+    },
+    "40060070": {
+        "deprecated": false,
+        "id": 40060070,
+        "alias": "Contents.Quest.Guide.60070",
+        "text": "(<textColor=[255:204:102:255]>불마자의 핵</>은\n이정도면 충분할 것 같다)"
+    },
+    "40060071": {
+        "deprecated": false,
+        "id": 40060071,
+        "alias": "Contents.Quest.Guide.60071",
+        "text": "(어디에 쓸 생각인지는 모르겠지만...\n<textColor=[255:204:102:255]>탁회암</>을 채굴했다)"
+    },
+    "40060072": {
+        "deprecated": false,
+        "id": 40060072,
+        "alias": "Contents.Quest.Guide.60072",
+        "text": "(좋아. 준비됐다.\n<textColor=[78:148:215:255]>호운</>과 접선 장소로 가자)"
+    },
+    "40060073": {
+        "deprecated": false,
+        "id": 40060073,
+        "alias": "Contents.Quest.Guide.60073",
+        "text": "잘 숨어 계셔야 합니다."
+    },
+    "40060074": {
+        "deprecated": false,
+        "id": 40060074,
+        "alias": "Contents.Quest.Guide.60074",
+        "text": "여기...! 여깁니다, 소협!"
+    },
+    "40060075": {
+        "deprecated": false,
+        "id": 40060075,
+        "alias": "Contents.Quest.Guide.60075",
+        "text": "쉿! 여기입니다."
+    },
+    "40060076": {
+        "deprecated": false,
+        "id": 40060076,
+        "alias": "Contents.Quest.Guide.60076",
+        "text": "그럼 부탁드리겠습니다!"
+    },
+    "40060077": {
+        "deprecated": false,
+        "id": 40060077,
+        "alias": "Contents.Quest.Guide.60077",
+        "text": "누구냐!! 아, \n아니. 네 놈은!!"
+    },
+    "40060078": {
+        "deprecated": false,
+        "id": 40060078,
+        "alias": "Contents.Quest.Guide.60078",
+        "text": "휴우... 지금입니다. \n어서 사람들을!!"
+    },
+    "40060079": {
+        "deprecated": false,
+        "id": 40060079,
+        "alias": "Contents.Quest.Guide.60079",
+        "text": "여러분은 저를 따라오십시오!"
+    },
+    "40060080": {
+        "deprecated": false,
+        "id": 40060080,
+        "alias": "Contents.Quest.Guide.60080",
+        "text": "(<textColor=[78:148:215:255]>호운</>이 말한\n<textColor=[110:216:175:255]>오염된 분화구</>를 먼저 찾자)"
+    },
+    "40060081": {
+        "deprecated": false,
+        "id": 40060081,
+        "alias": "Contents.Quest.Guide.60081",
+        "text": "(먼저 주변부터\n정리하는 게 좋겠다)"
+    },
+    "40060082": {
+        "deprecated": false,
+        "id": 40060082,
+        "alias": "Contents.Quest.Guide.60082",
+        "text": "(아무래도 <textColor=[78:148:215:255]>비류하</> 역시\n변이되어 버린 것 같다)"
+    },
+    "40060083": {
+        "deprecated": false,
+        "id": 40060083,
+        "alias": "Contents.Quest.Guide.60083",
+        "text": "(<textColor=[78:148:215:255]>채녹윤</>에게 보고하러 가자)"
+    },
+    "40060084": {
+        "deprecated": false,
+        "id": 40060084,
+        "alias": "Contents.Quest.Guide.60084",
+        "text": "이봐, <textColor=[255:204:102:255]><myHero.name/></>!"
+    },
+    "40060085": {
+        "deprecated": false,
+        "id": 40060085,
+        "alias": "Contents.Quest.Guide.60085",
+        "text": "도와줘서 고마웠어.\n곧 다시 만나자!"
+    },
+    "40060086": {
+        "deprecated": false,
+        "id": 40060086,
+        "alias": "Contents.Quest.Guide.60086",
+        "text": "(다시 시작하는 마음으로 \n수련에 매진하자)"
+    },
+    "40060087": {
+        "deprecated": false,
+        "id": 40060087,
+        "alias": "Contents.Quest.Guide.60087",
+        "text": "(<textColor=[78:148:215:255]>장호운</>이 저기 쓰러져 있다!)"
+    },
+    "40060088": {
+        "deprecated": false,
+        "id": 40060088,
+        "alias": "Contents.Quest.Guide.60088",
+        "text": "(저건...!)"
+    },
+    "40060089": {
+        "deprecated": false,
+        "id": 40060089,
+        "alias": "Contents.Quest.Guide.60089",
+        "text": "(음...? <textColor=[215:94:94:255]>검은새벽단</>의 옷을 벗자\n평범한 사람이 나타났다)"
+    },
+    "40060090": {
+        "deprecated": false,
+        "Dev_Desc": "NPC 이름",
+        "id": 40060090,
+        "alias": "Contents.Quest.Guide.60090",
+        "text": "풍백문 전투조장 한수민"
+    },
+    "40060091": {
+        "deprecated": false,
+        "Dev_Desc": "NPC 이름",
+        "id": 40060091,
+        "alias": "Contents.Quest.Guide.60091",
+        "text": "풍백문 생존자"
+    },
+    "40060092": {
+        "deprecated": false,
+        "Dev_Desc": "NPC 이름",
+        "id": 40060092,
+        "alias": "Contents.Quest.Guide.60092",
+        "text": "변이된 풍백문 전투조장"
+    },
+    "40060093": {
+        "deprecated": false,
+        "Dev_Desc": "NPC 이름",
+        "id": 40060093,
+        "alias": "Contents.Quest.Guide.60093",
+        "text": "수양 중대장 채녹윤"
+    },
+    "40060094": {
+        "deprecated": false,
+        "Dev_Desc": "NPC 이름",
+        "id": 40060094,
+        "alias": "Contents.Quest.Guide.60094",
+        "text": "수양 수색 대원"
+    },
+    "40060095": {
+        "deprecated": false,
+        "Dev_Desc": "NPC 이름",
+        "id": 40060095,
+        "alias": "Contents.Quest.Guide.60095",
+        "text": "어설픈 검은새벽단"
+    },
+    "40060096": {
+        "deprecated": false,
+        "Dev_Desc": "NPC 이름",
+        "id": 40060096,
+        "alias": "Contents.Quest.Guide.60096",
+        "text": "장호운"
+    },
+    "40060097": {
+        "deprecated": false,
+        "Dev_Desc": "NPC 이름",
+        "id": 40060097,
+        "alias": "Contents.Quest.Guide.60097",
+        "text": "검은새벽단 추적대장 나탁"
+    },
+    "40060098": {
+        "deprecated": false,
+        "Dev_Desc": "NPC 이름",
+        "id": 40060098,
+        "alias": "Contents.Quest.Guide.60098",
+        "text": "위장한 장호운"
+    },
+    "40060099": {
+        "deprecated": false,
+        "Dev_Desc": "NPC 이름",
+        "id": 40060099,
+        "alias": "Contents.Quest.Guide.60099",
+        "text": "검은새벽단 수용소 감독관"
+    },
+    "40060100": {
+        "deprecated": false,
+        "Dev_Desc": "NPC 이름",
+        "id": 40060100,
+        "alias": "Contents.Quest.Guide.60100",
+        "text": "아랑"
+    },
+    "40060101": {
+        "deprecated": false,
+        "id": 40060101,
+        "alias": "Contents.Quest.Guide.60101",
+        "text": "어라? 잠깐만.\n저게 뭔 것 같아?"
+    },
+    "40060102": {
+        "deprecated": false,
+        "id": 40060102,
+        "alias": "Contents.Quest.Guide.60102",
+        "text": "(서둘러 <textColor=[78:148:215:255]>비류하</>를 살펴보자)"
+    },
+    "40060103": {
+        "deprecated": false,
+        "id": 40060103,
+        "alias": "Contents.Quest.Guide.60103",
+        "text": "(이렇게 된 이상 제압해서라도\n데려가는 수 밖에...!)"
+    },
+    "40060104": {
+        "deprecated": false,
+        "Dev_Desc": "사용안함",
+        "id": 40060104,
+        "alias": "Contents.Quest.Guide.60104",
+        "text": "(강해보이는 적들이 많으니\n주의하는 것이 좋겠어)"
+    },
+    "40060105": {
+        "deprecated": false,
+        "id": 40060105,
+        "alias": "Contents.Quest.Guide.60105",
+        "text": "(시간이 제법 흐른 것 같은데...)"
+    },
+    "40060106": {
+        "deprecated": false,
+        "Dev_Desc": "NPC 이름",
+        "id": 40060106,
+        "alias": "Contents.Quest.Guide.60106",
+        "text": "어설픈 검은새벽단"
+    },
+    "40060107": {
+        "deprecated": false,
+        "Dev_Desc": "NPC 이름",
+        "id": 40060107,
+        "alias": "Contents.Quest.Guide.60107",
+        "text": "의문의 남자"
+    }
+}

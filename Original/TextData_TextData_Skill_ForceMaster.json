@@ -39,7 +39,7 @@
         "Dev_Desc": "기공패 디버프 불씨_옵션",
         "id": 60030006,
         "alias": "Contents.Effect.Option.FireBangle.300002",
-        "text": "지속 피해를 주는 \"화상\" 효과 적용 가능"
+        "text": "지속 피해를 주는 <textColor=[248:99:99:255]>화상</> 효과 적용 가능"
     },
     "60030007": {
         "deprecated": false,
@@ -95,77 +95,77 @@
         "Dev_Desc": "기공패 디버프 홍염_내용",
         "id": 60030014,
         "alias": "Contents.Effect.Desc.FireBangle.300040",
-        "text": "기공 절대 방어력 감소"
+        "text": "방어력 감소"
     },
     "60030015": {
         "deprecated": false,
         "Dev_Desc": "기공패 디버프 홍염_옵션",
         "id": 60030015,
         "alias": "Contents.Effect.Option.FireBangle.300040",
-        "text": "기공 절대 방어력 -5%"
+        "text": "방어력 -7"
     },
     "60030016": {
         "deprecated": false,
         "Dev_Desc": "기공패 디버프 홍염_옵션",
         "id": 60030016,
         "alias": "Contents.Effect.Option.FireBangle.300041",
-        "text": "기공 방어력 -3"
+        "text": "방어력 -3"
     },
     "60030017": {
         "deprecated": false,
         "Dev_Desc": "기공패 디버프 홍염_옵션",
         "id": 60030017,
         "alias": "Contents.Effect.Option.FireBangle.300042",
-        "text": "기공 방어력 -4"
+        "text": "방어력 -4"
     },
     "60030018": {
         "deprecated": false,
         "Dev_Desc": "기공패 디버프 홍염_옵션",
         "id": 60030018,
         "alias": "Contents.Effect.Option.FireBangle.300043",
-        "text": "기공 방어력 -5"
+        "text": "방어력 -5"
     },
     "60030019": {
         "deprecated": false,
         "Dev_Desc": "기공패 디버프 홍염_옵션",
         "id": 60030019,
         "alias": "Contents.Effect.Option.FireBangle.300044",
-        "text": "기공 방어력 -6"
+        "text": "방어력 -6"
     },
     "60030020": {
         "deprecated": false,
         "Dev_Desc": "기공패 디버프 홍염_옵션",
         "id": 60030020,
         "alias": "Contents.Effect.Option.FireBangle.300045",
-        "text": "기공 방어력 -7"
+        "text": "방어력 -7"
     },
     "60030021": {
         "deprecated": false,
         "Dev_Desc": "기공패 디버프 홍염_옵션",
         "id": 60030021,
         "alias": "Contents.Effect.Option.FireBangle.300046",
-        "text": "기공 방어력 -8"
+        "text": "방어력 -8"
     },
     "60030022": {
         "deprecated": false,
         "Dev_Desc": "기공패 디버프 홍염_옵션",
         "id": 60030022,
         "alias": "Contents.Effect.Option.FireBangle.300047",
-        "text": "기공 방어력 -9"
+        "text": "방어력 -9"
     },
     "60030023": {
         "deprecated": false,
         "Dev_Desc": "기공패 디버프 홍염_옵션",
         "id": 60030023,
         "alias": "Contents.Effect.Option.FireBangle.300048",
-        "text": "기공 방어력 -10"
+        "text": "방어력 -10"
     },
     "60030024": {
         "deprecated": false,
         "Dev_Desc": "기공패 디버프 홍염_옵션",
         "id": 60030024,
         "alias": "Contents.Effect.Option.FireBangle.300049",
-        "text": "기공 방어력 -12"
+        "text": "방어력 -12"
     },
     "60030025": {
         "deprecated": false,
@@ -288,17 +288,17 @@
     },
     "60030044": {
         "deprecated": false,
-        "Dev_Desc": "패시브_홍염_기공방어력감소",
+        "Dev_Desc": "패시브_홍염_방어력감소",
         "id": 60030044,
         "alias": "Contents.Skill.useEffectDesc.FireBangle.3038",
-        "text": "대상의 기공 절대 방어력 -5%"
+        "text": "대상의 방어력 -7"
     },
     "60030045": {
         "deprecated": false,
         "Dev_Desc": "패시브_빙정_둔화중빙결시빙결추가",
         "id": 60030045,
         "alias": "Contents.Skill.useEffectDesc.FireBangle.3039",
-        "text": "\"빙결\" 상태이상 적중 확률 증가"
+        "text": "빙결 상태이상 적중 확률 증가"
     },
     "60030046": {
         "deprecated": false,
@@ -423,7 +423,7 @@
         "Dev_Desc": "기공패 무공 비륜연휘_설명",
         "id": 60030063,
         "alias": "Contents.Skill.Desc.FireBangle.3271",
-        "text": "초고온의 불덩이를 난사하여 피해를 입힙니다.\n\"발화\" 효과를 소모하여 사용 가능합니다."
+        "text": "초고온의 불덩이를 난사하여 피해를 입힙니다.\n<textColor=[136:161:235:255]>발화</> 효과를 소모하여 사용 가능합니다."
     },
     "60030064": {
         "deprecated": false,
@@ -437,7 +437,7 @@
         "Dev_Desc": "기공패 무공 회진보_설명",
         "id": 60030065,
         "alias": "Contents.Skill.Desc.FireBangle.3331",
-        "text": "불과 재의 모습으로 변하여 \"기절\" 효과를 해제하고 후방으로 회피 합니다. 사용 시, 5초간 통제 저항률이 증가합니다."
+        "text": "불과 재의 모습으로 변하여 <textColor=[248:99:99:255]>기절</> 효과를 해제하고 후방으로 회피 합니다. 사용 시, 5초간 통제 저항률이 증가합니다."
     },
     "60030066": {
         "deprecated": false,
@@ -451,7 +451,7 @@
         "Dev_Desc": "기공패 무공 연화_설명",
         "id": 60030067,
         "alias": "Contents.Skill.Desc.FireBangle.3351",
-        "text": "대상에게 즉각 화기를 주입하여 피해를 입힙니다.\n명중 시, 특정 무공 사용을 가능하게 하는 \"발화\" 효과를 5.8초간 얻습니다."
+        "text": "대상에게 즉각 화기를 주입하여 피해를 입힙니다.\n명중 시, 특정 무공 사용을 가능하게 하는 <textColor=[136:161:235:255]>발화</> 효과를 5.8초간 얻습니다."
     },
     "60030068": {
         "deprecated": false,
@@ -465,7 +465,7 @@
         "Dev_Desc": "기공패 무공 얼음창_설명",
         "id": 60030069,
         "alias": "Contents.Skill.Desc.FireBangle.3371",
-        "text": "다수의 얼음창을 소환하여 적에게 발사합니다.\n일정 확률로 이동 속도를 감소시키는 \"둔화\" 효과를 적용합니다."
+        "text": "다수의 얼음창을 소환하여 적에게 발사합니다.\n일정 확률로 이동 속도를 감소시키는 <textColor=[248:99:99:255]>둔화</> 효과를 적용합니다."
     },
     "60030070": {
         "deprecated": false,
@@ -479,7 +479,7 @@
         "Dev_Desc": "기공패 무공 유성_설명",
         "id": 60030071,
         "alias": "Contents.Skill.Desc.FireBangle.3627",
-        "text": "유성을 떨궈 피해를 입히고 일정 확률로 주기적인 피해를 주는 \"화상\" 효과를 적용합니다. \"발화\" 효과를 소모하며 범위 내 최대 3인까지 적중합니다."
+        "text": "유성을 떨궈 피해를 입히고 일정 확률로 주기적인 피해를 주는 <textColor=[248:99:99:255]>화상</> 효과를 적용합니다. <textColor=[136:161:235:255]>발화</> 효과를 소모하며 범위 내 최대 3인까지 적중합니다."
     },
     "60030072": {
         "deprecated": false,
@@ -507,7 +507,7 @@
         "Dev_Desc": "기공패 무공 용렬빙하_설명",
         "id": 60030075,
         "alias": "Contents.Skill.Desc.FireBangle.3401",
-        "text": "전방으로 길게 솟아오르는 빙하를 형성하여, 일정 확률로 이동을 방해하는 \"빙결\" 효과를 적용합니다.\n범위 내 최대 3인까지 적중합니다."
+        "text": "전방으로 길게 솟아오르는 빙하를 형성하여, 일정 확률로 이동을 방해하는 <textColor=[248:99:99:255]>빙결</> 효과를 적용합니다.\n범위 내 최대 3인까지 적중합니다."
     },
     "60030076": {
         "deprecated": false,
@@ -535,7 +535,7 @@
         "Dev_Desc": "무공 화륜 설명",
         "id": 60030079,
         "alias": "Contents.Skill.Desc.FireBangle.3441",
-        "text": "내재된 화기를 방출하여 파티원들의 기본 공격 속도를 증가시키는 \"가열\" 효과를 12초간 부여합니다."
+        "text": "내재된 화기를 방출하여 파티원들의 기본 공격 속도를 증가시키는 <textColor=[136:161:235:255]>가열</> 효과를 12초간 부여합니다."
     },
     "60030080": {
         "deprecated": false,
@@ -633,7 +633,7 @@
         "Dev_Desc": "기공패 패시브 홍염_설명",
         "id": 60030097,
         "alias": "Contents.Skill.Desc.FireBangle.3038",
-        "text": "더욱 맹렬하고 붉은 화염을 다루게 됩니다.\n대상이 \"화상\" 상태가 되었을 때, 대상의 기공 절대 방어력을 감소시키는 \"홍염\" 효과를 부여합니다."
+        "text": "더욱 맹렬하고 붉은 화염을 다루게 됩니다.\n대상이 <textColor=[248:99:99:255]>화상</> 상태가 되었을 때, 대상의 방어력을 감소시키는 <textColor=[248:99:99:255]>홍염</> 효과를 부여합니다."
     },
     "60030098": {
         "deprecated": false,
@@ -647,14 +647,14 @@
         "Dev_Desc": "기공패 패시브 빙정_설명",
         "id": 60030099,
         "alias": "Contents.Skill.Desc.FireBangle.3039",
-        "text": "얼음을 다루는 무공에 통달합니다.\n\"둔화\" 효과가 적용 중인 대상을 상대로\n\"빙결\" 상태이상의 적중 확률이 올라갑니다."
+        "text": "얼음을 다루는 무공에 통달합니다.\n<textColor=[248:99:99:255]>둔화</> 효과가 적용 중인 대상을 상대로\n<textColor=[248:99:99:255]>빙결</> 상태이상의 적중 확률이 올라갑니다."
     },
     "60030100": {
         "deprecated": false,
         "Dev_Desc": "화련장_일반_증폭_성장설명",
         "id": 60030100,
         "alias": "Contents.Skill.acquireEffectDesc.3062",
-        "text": "지능에 비례하여 피해량 증가"
+        "text": "피해량 증가"
     },
     "60030101": {
         "deprecated": false,
@@ -668,21 +668,21 @@
         "Dev_Desc": "화련장_영웅_돌파_성장설명",
         "id": 60030102,
         "alias": "Contents.Skill.acquireEffectDesc.3064",
-        "text": "일정 확률로 5.8초간 자신에게 \"발화\" 효과 부여"
+        "text": "일정 확률로 5.8초간 <textColor=[136:161:235:255]>발화</> 효과 부여\n일정 확률로 막기를 관통하여 <textColor=[248:99:99:255]>기절</> 효과 적용"
     },
     "60030103": {
         "deprecated": false,
         "Dev_Desc": "비륜연휘_증폭_성장설명",
         "id": 60030103,
         "alias": "Contents.Skill.acquireEffectDesc.3281",
-        "text": "사용 중 기공 절대 관통력 +10%"
+        "text": "\"비륜연휘\" 관통력 +10%"
     },
     "60030104": {
         "deprecated": false,
         "Dev_Desc": "비륜연휘_극한_성장설명",
         "id": 60030104,
         "alias": "Contents.Skill.acquireEffectDesc.3291",
-        "text": "일정 확률로 5.8초간 자신에게 \"발화\" 효과 부여"
+        "text": "일정 확률로 5.8초간 <textColor=[136:161:235:255]>발화</> 효과 부여"
     },
     "60030105": {
         "deprecated": false,
@@ -696,28 +696,28 @@
         "Dev_Desc": "회진보_증폭_성장설명",
         "id": 60030106,
         "alias": "Contents.Skill.acquireEffectDesc.3332",
-        "text": "내력 소모량 -5"
+        "text": "재사용 대기시간 -2초"
     },
     "60030107": {
         "deprecated": false,
         "Dev_Desc": "회진보 극한_성장설명",
         "id": 60030107,
         "alias": "Contents.Skill.acquireEffectDesc.3333",
-        "text": "재사용 대기시간 -5초"
+        "text": "재사용 대기시간 -7초"
     },
     "60030108": {
         "deprecated": false,
         "Dev_Desc": "회진보_돌파_성장설명",
         "id": 60030108,
         "alias": "Contents.Skill.acquireEffectDesc.3334",
-        "text": "시전 시, 지능에 비례하여 체력 회복"
+        "text": "시전 시 체력 회복"
     },
     "60030109": {
         "deprecated": false,
         "Dev_Desc": "연화_일반_증폭_성장설명",
         "id": 60030109,
         "alias": "Contents.Skill.acquireEffectDesc.3352",
-        "text": "일정 확률로 \"화상\" 효과 적용"
+        "text": "일정 확률로 <textColor=[248:99:99:255]>화상</> 효과 적용"
     },
     "60030110": {
         "deprecated": false,
@@ -731,7 +731,7 @@
         "Dev_Desc": "연화_영웅_돌파_성장설명",
         "id": 60030111,
         "alias": "Contents.Skill.acquireEffectDesc.3354",
-        "text": "사용 중 기공 절대 명중 +25%"
+        "text": "\"연화\" 명중 +35%"
     },
     "60030112": {
         "deprecated": false,
@@ -752,49 +752,49 @@
         "Dev_Desc": "얼음창_영웅_돌파_성장설명",
         "id": 60030114,
         "alias": "Contents.Skill.acquireEffectDesc.3374",
-        "text": "일정 확률로 \"빙결\" 효과 적용"
+        "text": "일정 확률로 <textColor=[248:99:99:255]>빙결</> 효과 적용"
     },
     "60030115": {
         "deprecated": false,
         "Dev_Desc": "봉황시_증폭_성장설명",
         "id": 60030115,
         "alias": "Contents.Skill.acquireEffectDesc.3382",
-        "text": "사용 중 기공 절대 관통력 +10%"
+        "text": "\"봉황시\" 관통력 +12%"
     },
     "60030116": {
         "deprecated": false,
         "Dev_Desc": "봉황시_극한_성장설명",
         "id": 60030116,
         "alias": "Contents.Skill.acquireEffectDesc.3383",
-        "text": "사용 중 기공 절대 관통력 +20%"
+        "text": "\"봉황시\" 관통력 +25%"
     },
     "60030117": {
         "deprecated": false,
         "Dev_Desc": "봉황시_돌파_성장설명",
         "id": 60030117,
         "alias": "Contents.Skill.acquireEffectDesc.3384",
-        "text": "지능에 비례하여 피해량 증가"
+        "text": "피해량 증가"
     },
     "60030118": {
         "deprecated": false,
         "Dev_Desc": "용렬빙하_증폭_성장설명",
         "id": 60030118,
         "alias": "Contents.Skill.acquireEffectDesc.3402",
-        "text": "지속시간 +1초"
+        "text": "<textColor=[248:99:99:255]>빙결</> 지속시간 +1초"
     },
     "60030119": {
         "deprecated": false,
         "Dev_Desc": "용렬빙하_극한_성장설명",
         "id": 60030119,
         "alias": "Contents.Skill.acquireEffectDesc.3403",
-        "text": "일정 확률로 \"둔화\" 효과 적용"
+        "text": "일정 확률로 추가 <textColor=[248:99:99:255]>둔화</> 효과 적용"
     },
     "60030120": {
         "deprecated": false,
         "Dev_Desc": "용렬빙하_돌파_성장설명",
         "id": 60030120,
         "alias": "Contents.Skill.acquireEffectDesc.3404",
-        "text": "용렬빙하 범위 폭 증가\n범위 내 최대 5인까지 적중"
+        "text": "\"용렬빙하\" 범위 폭 증가\n<textColor=[248:99:99:255]>빙결</> 상태이상 적중 확률 증가"
     },
     "60030121": {
         "deprecated": false,
@@ -815,7 +815,7 @@
         "Dev_Desc": "결빙공_돌파_성장설명",
         "id": 60030123,
         "alias": "Contents.Skill.acquireEffectDesc.3431",
-        "text": "방어 성공 시, 일정 확률로 \"둔화\" 효과 적용"
+        "text": "방어 성공 시, 일정 확률로 <textColor=[248:99:99:255]>둔화</> 효과 적용\n결빙공 유지 중 내력 회복"
     },
     "60030124": {
         "deprecated": false,
@@ -843,21 +843,21 @@
         "Dev_Desc": "유성_상급_증폭_성장설명",
         "id": 60030127,
         "alias": "Contents.Skill.acquireEffectDesc.3628",
-        "text": "일정 확률로 5.8초간 자신에게 \"발화\" 효과 부여"
+        "text": "일정 확률로 5.8초간 <textColor=[136:161:235:255]>발화</> 효과 부여"
     },
     "60030128": {
         "deprecated": false,
         "Dev_Desc": "유성_희귀_극한_성장설명",
         "id": 60030128,
         "alias": "Contents.Skill.acquireEffectDesc.3629",
-        "text": "얼음 유성을 추가 발사하여, 일정 확률로 \"둔화\" 효과 적용"
+        "text": "얼음 유성을 추가 발사하여, 일정 확률로 <textColor=[248:99:99:255]>둔화</> 효과 적용"
     },
     "60030129": {
         "deprecated": false,
         "Dev_Desc": "유성_영웅_돌파_성장설명",
         "id": 60030129,
         "alias": "Contents.Skill.acquireEffectDesc.3630",
-        "text": "유성 범위 증가\n얼음 유성의 피해량 증가"
+        "text": "\"유성\" 범위 증가 및 얼음 유성의 피해량 증가\n일정 확률로 추가 <textColor=[248:99:99:255]>빙결</> 효과 적용"
     },
     "60030130": {
         "deprecated": false,
@@ -1172,6 +1172,69 @@
         "Dev_Desc": "기공패 패시브 천빙_설명",
         "id": 60030174,
         "alias": "Contents.Skill.Desc.FireBangle.3037",
-        "text": "한기로 무력화된 대상을 더욱 냉혹하게 공격합니다.\n빙결 상태의 대상 공격 시 추가 피해를 적용합니다.\n추가 피해는 3초의 재사용 대기시간을 갖습니다."
+        "text": "한기로 무력화된 대상을 더욱 냉혹하게 공격합니다.\n<textColor=[248:99:99:255]>빙결</> 상태의 대상 공격 시 추가 피해를 적용합니다.\n추가 피해는 3초의 재사용 대기시간을 갖습니다."
+    },
+    "60030175": {
+        "deprecated": false,
+        "Dev_Desc": "빙륜참 이름",
+        "id": 60030175,
+        "alias": "Contents.Skill.Name.FireBangle.3801",
+        "text": "빙륜참"
+    },
+    "60030176": {
+        "deprecated": false,
+        "Dev_Desc": "빙륜참 조건",
+        "id": 60030176,
+        "alias": "Contents.Skill.requirementDesc.FireBangle.3801",
+        "text": "소울 패링 성공 시"
+    },
+    "60030177": {
+        "deprecated": false,
+        "Dev_Desc": "빙륜참 설명",
+        "id": 60030177,
+        "alias": "Contents.Skill.Desc.FireBangle.3801",
+        "text": "결빙공을 해제하며 회전하는 얼음 칼날을 발사합니다.\n공격 버튼을 수동으로 눌러 사용 가능합니다."
+    },
+    "60030178": {
+        "deprecated": false,
+        "Dev_Desc": "화빙연포 이름",
+        "id": 60030178,
+        "alias": "Contents.Skill.Name.FireBangle.3811",
+        "text": "화빙연포"
+    },
+    "60030179": {
+        "deprecated": false,
+        "Dev_Desc": "화빙연포 조건",
+        "id": 60030179,
+        "alias": "Contents.Skill.requirementDesc.FireBangle.3811",
+        "text": "소울 패링 기절 대상"
+    },
+    "60030180": {
+        "deprecated": false,
+        "Dev_Desc": "화빙연포 설명",
+        "id": 60030180,
+        "alias": "Contents.Skill.Desc.FireBangle.3811",
+        "text": "불과 얼음 기탄을 마구 연사합니다.\n<textColor=[248:99:99:255]>소울 패링 기절</> 대상에게 공격 버튼을 수동으로 눌러 사용 가능합니다."
+    },
+    "60030181": {
+        "deprecated": false,
+        "Dev_Desc": "기공패 패시브 천빙",
+        "id": 60030181,
+        "alias": "Contents.Skill.Name.FireBangle.3036",
+        "text": "염제"
+    },
+    "60030182": {
+        "deprecated": false,
+        "Dev_Desc": "패시브_천빙_둔화 빙결 추피",
+        "id": 60030182,
+        "alias": "Contents.Skill.useEffectDesc.FireBangle.3036",
+        "text": "모든 속성 공격 증폭 증가 +7%"
+    },
+    "60030183": {
+        "deprecated": false,
+        "Dev_Desc": "기공패 패시브 천빙_설명",
+        "id": 60030183,
+        "alias": "Contents.Skill.Desc.FireBangle.3036",
+        "text": "만물이 띠는 기운에 통달합니다.\n모든 속성 공격 증폭이 증가합니다."
     }
 }

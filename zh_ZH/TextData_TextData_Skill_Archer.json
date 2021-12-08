@@ -526,499 +526,576 @@
     },
     "60050075": {
         "deprecated": false,
-        "Dev_Desc": "출혈_디버프_이름",
+        "Dev_Desc": "반마화살_돌파_디버프2_이름",
         "id": 60050075,
-        "alias": "Contents.Effect.Name.LongBow.590300",
+        "alias": "Contents.Effect.Name.LongBow.508399",
         "text": "出血"
     },
     "60050076": {
         "deprecated": false,
-        "Dev_Desc": "출혈_디버프_설명",
+        "Dev_Desc": "반마화살_돌파_디버프2_설명",
         "id": 60050076,
-        "alias": "Contents.Effect.Desc.LongBow.500040",
+        "alias": "Contents.Effect.Desc.LongBow.508399",
         "text": "持续伤害"
     },
     "60050077": {
         "deprecated": false,
-        "Dev_Desc": "출혈_디버프_효과",
+        "Dev_Desc": "반마화살_돌파_디버프2_효과",
         "id": 60050077,
-        "alias": "Contents.Effect.Option.LongBow.500040",
+        "alias": "Contents.Effect.Option.LongBow.508399",
         "text": "持续时间内造成持续伤害"
     },
     "60050078": {
         "deprecated": false,
-        "Dev_Desc": "출혈_디버프_설명",
+        "Dev_Desc": "출혈_디버프_이름",
         "id": 60050078,
-        "alias": "Contents.Effect.Detail.LongBow.500040",
+        "alias": "Contents.Effect.Name.LongBow.590300",
         "text": "出血最多可叠加10层。"
     },
     "60050079": {
         "deprecated": false,
-        "Dev_Desc": "화살비_이속감소_효과",
+        "Dev_Desc": "출혈_디버프_설명",
         "id": 60050079,
-        "alias": "Contents.Effect.Option.LongBow.500011",
+        "alias": "Contents.Effect.Desc.LongBow.500040",
         "text": "移动速度降低率95%"
     },
     "60050080": {
         "deprecated": false,
-        "Dev_Desc": "살상명령_발동_조건",
+        "Dev_Desc": "출혈_디버프_효과",
         "id": 60050080,
-        "alias": "Contents.Effect.requirementDesc.LongBow.5040",
+        "alias": "Contents.Effect.Option.LongBow.500040",
         "text": "暴击时，以一定概率"
     },
     "60050081": {
         "deprecated": false,
-        "Dev_Desc": "살상명령_극한_효과",
+        "Dev_Desc": "출혈_디버프_설명",
         "id": 60050081,
-        "alias": "Contents.Effect.acquireEffectDesc.LongBow.5041",
+        "alias": "Contents.Effect.Detail.LongBow.500040",
         "text": "提升武功攻击速度"
     },
     "60050082": {
         "deprecated": false,
-        "Dev_Desc": "살상명령_돌파_효과",
+        "Dev_Desc": "화살비_이속감소_효과",
         "id": 60050082,
-        "alias": "Contents.Effect.acquireEffectDesc.LongBow.5042",
+        "alias": "Contents.Effect.Option.LongBow.500011",
         "text": "提升命中及暴击率"
     },
     "60050083": {
         "deprecated": false,
-        "Dev_Desc": "후퇴사격_증폭_효과",
+        "Dev_Desc": "살상명령_발동_조건",
         "id": 60050083,
-        "alias": "Contents.Skill.acquireEffectDesc.LongBow.5053",
+        "alias": "Contents.Effect.requirementDesc.LongBow.5040",
         "text": "以一定概率使目标“僵直”"
     },
     "60050084": {
         "deprecated": false,
-        "Dev_Desc": "후퇴사격_극한_효과",
+        "Dev_Desc": "살상명령_극한_효과",
         "id": 60050084,
-        "alias": "Contents.Skill.acquireEffectDesc.LongBow.5056",
+        "alias": "Contents.Effect.acquireEffectDesc.LongBow.5041",
         "text": "以一定概率使目标“被击退后眩晕”"
     },
     "60050085": {
         "deprecated": false,
-        "Dev_Desc": "후퇴사격_돌파_효과",
+        "Dev_Desc": "살상명령_돌파_효과",
         "id": 60050085,
-        "alias": "Contents.Skill.acquireEffectDesc.LongBow.5100",
+        "alias": "Contents.Effect.acquireEffectDesc.LongBow.5042",
         "text": "有一定概率应用“推”、“昏”效果"
     },
     "60050086": {
         "deprecated": false,
-        "Dev_Desc": "후퇴사격_증폭_사용옵션",
+        "Dev_Desc": "후퇴사격_증폭_효과",
         "id": 60050086,
-        "alias": "Contents.Skill.Option.LongBow.5051",
+        "alias": "Contents.Skill.acquireEffectDesc.LongBow.5053",
         "text": "内力消耗44\n冷却时间12秒"
     },
     "60050087": {
         "deprecated": false,
-        "Dev_Desc": "조준사격_극한_효과",
+        "Dev_Desc": "후퇴사격_극한_효과",
         "id": 60050087,
-        "alias": "Contents.Skill.UseEffect.LongBow.5071",
+        "alias": "Contents.Skill.acquireEffectDesc.LongBow.5056",
         "text": "眩晕、出血"
     },
     "60050088": {
         "deprecated": false,
-        "Dev_Desc": "혈상_효과",
+        "Dev_Desc": "후퇴사격_돌파_효과",
         "id": 60050088,
-        "alias": "Contents.Skill.UseEffect.LongBow.5900",
+        "alias": "Contents.Skill.acquireEffectDesc.LongBow.5100",
         "text": "治愈降低"
     },
     "60050089": {
         "deprecated": false,
-        "Dev_Desc": "살우_이름",
+        "Dev_Desc": "후퇴사격_증폭_사용옵션",
         "id": 60050089,
-        "alias": "Contents.Skill.Name.LongBow.5090",
+        "alias": "Contents.Skill.Option.LongBow.5051",
         "text": "箭雨（开发中）"
     },
     "60050090": {
         "deprecated": false,
-        "Dev_Desc": "살우_설명",
+        "Dev_Desc": "조준사격_극한_효과",
         "id": 60050090,
-        "alias": "Contents.Skill.Desc.LongBow.5090",
+        "alias": "Contents.Skill.UseEffect.LongBow.5071",
         "text": "对敌人落下死亡之雨。"
     },
     "60050091": {
         "deprecated": false,
-        "Dev_Desc": "살우_효과",
+        "Dev_Desc": "혈상_효과",
         "id": 60050091,
-        "alias": "Contents.Skill.UseEffect.LongBow.5090",
+        "alias": "Contents.Skill.UseEffect.LongBow.5900",
         "text": "晕厥,出血"
     },
     "60050092": {
         "deprecated": false,
-        "Dev_Desc": "출혈화살_이름",
+        "Dev_Desc": "살우_이름",
         "id": 60050092,
-        "alias": "Contents.Skill.Name.LongBow.5010",
+        "alias": "Contents.Skill.Name.LongBow.5090",
         "text": "出血箭"
     },
     "60050093": {
         "deprecated": false,
-        "Dev_Desc": "출혈화살_설명",
+        "Dev_Desc": "살우_설명",
         "id": 60050093,
-        "alias": "Contents.Skill.Desc.LongBow.5010",
+        "alias": "Contents.Skill.Desc.LongBow.5090",
         "text": "以一定概率对目标施加“出血”。"
     },
     "60050094": {
         "deprecated": false,
-        "Dev_Desc": "출혈화살_증폭",
+        "Dev_Desc": "살우_효과",
         "id": 60050094,
-        "alias": "Contents.Skill.acquireEffectDesc.LongBow.5061",
+        "alias": "Contents.Skill.UseEffect.LongBow.5090",
         "text": "降低冷却时间"
     },
     "60050095": {
         "deprecated": false,
-        "Dev_Desc": "출혈화살_극한",
+        "Dev_Desc": "출혈화살_이름",
         "id": 60050095,
-        "alias": "Contents.Skill.acquireEffectDesc.LongBow.5062",
+        "alias": "Contents.Skill.Name.LongBow.5010",
         "text": "降低内力消耗"
     },
     "60050096": {
         "deprecated": false,
-        "Dev_Desc": "출혈화살_돌파",
+        "Dev_Desc": "출혈화살_설명",
         "id": 60050096,
-        "alias": "Contents.Skill.acquireEffectDesc.LongBow.5063",
+        "alias": "Contents.Skill.Desc.LongBow.5010",
         "text": "提升武功暴击率，当暴击时叠加2层“出血”"
+    },
+    "60050097": {
+        "deprecated": false,
+        "Dev_Desc": "출혈화살_증폭",
+        "id": 60050097,
+        "alias": "Contents.Skill.acquireEffectDesc.LongBow.5061",
+        "text": "冷却-1秒"
+    },
+    "60050098": {
+        "deprecated": false,
+        "Dev_Desc": "출혈화살_극한",
+        "id": 60050098,
+        "alias": "Contents.Skill.acquireEffectDesc.LongBow.5062",
+        "text": "力量消耗-1"
+    },
+    "60050099": {
+        "deprecated": false,
+        "Dev_Desc": "출혈화살_돌파",
+        "id": 60050099,
+        "alias": "Contents.Skill.acquireEffectDesc.LongBow.5063",
+        "text": "增加伤害"
+    },
+    "60050100": {
+        "deprecated": false,
+        "Dev_Desc": "출혈화살_돌파_효과",
+        "id": 60050100,
+        "alias": "Contents.Effect.Name.LongBow.5013",
+        "text": "2 层流血"
     },
     "60050101": {
         "deprecated": false,
-        "Dev_Desc": "출혈화살_돌파_효과",
+        "Dev_Desc": "추적화살_발동_조건",
         "id": 60050101,
-        "alias": "Contents.Effect.Name.LongBow.5013",
+        "alias": "Contents.Effect.requirementDesc.LongBow.5060",
         "text": "叠加2层出血"
     },
     "60050102": {
         "deprecated": false,
-        "Dev_Desc": "추적화살_발동_조건",
+        "Dev_Desc": "후퇴사격_조건",
         "id": 60050102,
-        "alias": "Contents.Effect.requirementDesc.LongBow.5060",
+        "alias": "Contents.Effect.requirementDesc.LongBow.5050",
         "text": "目标进入“出血”状态"
     },
     "60050103": {
         "deprecated": false,
-        "Dev_Desc": "후퇴사격_조건",
+        "Dev_Desc": "화살비_극한_효과_desc",
         "id": 60050103,
-        "alias": "Contents.Effect.requirementDesc.LongBow.5050",
+        "alias": "Contents.Skill.UseEffect.LongBow.5008",
         "text": "与目标的距离在4米以内"
     },
     "60050104": {
         "deprecated": false,
-        "Dev_Desc": "화살비_극한_효과_desc",
+        "Dev_Desc": "화살비_돌파_효과_desc",
         "id": 60050104,
-        "alias": "Contents.Skill.UseEffect.LongBow.5008",
+        "alias": "Contents.Skill.UseEffect.LongBow.5009",
         "text": "出血、降低移速"
     },
     "60050105": {
         "deprecated": false,
-        "Dev_Desc": "화살비_돌파_효과_desc",
+        "Dev_Desc": "조준사격_효과",
         "id": 60050105,
-        "alias": "Contents.Skill.UseEffect.LongBow.5009",
+        "alias": "Contents.Skill.UseEffect.LongBow.5070",
         "text": "僵直、出血"
     },
     "60050106": {
         "deprecated": false,
-        "Dev_Desc": "조준사격_효과",
+        "Dev_Desc": "추적화살",
         "id": 60050106,
-        "alias": "Contents.Skill.UseEffect.LongBow.5070",
+        "alias": "Contents.Skill.Name.LongBow.5060",
         "text": "眩晕、出血"
     },
     "60050107": {
         "deprecated": false,
-        "Dev_Desc": "추적화살",
+        "Dev_Desc": "조준_효과",
         "id": 60050107,
-        "alias": "Contents.Skill.Name.LongBow.5060",
+        "alias": "Contents.Skill.UseEffect.LongBow.5800",
         "text": "追踪箭"
     },
     "60050108": {
         "deprecated": false,
-        "Dev_Desc": "조준_효과",
+        "Dev_Desc": "직감_효과",
         "id": 60050108,
-        "alias": "Contents.Skill.UseEffect.LongBow.5800",
+        "alias": "Contents.Skill.UseEffect.LongBow.5820",
         "text": "提升远距离攻击力"
     },
     "60050109": {
         "deprecated": false,
-        "Dev_Desc": "직감_효과",
+        "Dev_Desc": "깊은상처_효과",
         "id": 60050109,
-        "alias": "Contents.Skill.UseEffect.LongBow.5820",
+        "alias": "Contents.Skill.UseEffect.LongBow.5890",
         "text": "提升敏捷及技巧"
     },
     "60050110": {
         "deprecated": false,
-        "Dev_Desc": "깊은상처_효과",
+        "Dev_Desc": "속사_효과",
         "id": 60050110,
-        "alias": "Contents.Skill.UseEffect.LongBow.5890",
+        "alias": "Contents.Skill.UseEffect.LongBow.5830",
         "text": "提升出血持续时间"
     },
     "60050111": {
         "deprecated": false,
-        "Dev_Desc": "속사_효과",
+        "Dev_Desc": "연마_효과",
         "id": 60050111,
-        "alias": "Contents.Skill.UseEffect.LongBow.5830",
+        "alias": "Contents.Skill.UseEffect.LongBow.5840",
         "text": "提升基本攻击速度"
     },
     "60050112": {
         "deprecated": false,
-        "Dev_Desc": "연마_효과",
+        "Dev_Desc": "몰입_효과",
         "id": 60050112,
-        "alias": "Contents.Skill.UseEffect.LongBow.5840",
+        "alias": "Contents.Skill.UseEffect.LongBow.5860",
         "text": "提升远距离穿刺力"
     },
     "60050113": {
         "deprecated": false,
-        "Dev_Desc": "몰입_효과",
+        "Dev_Desc": "강사_효과",
         "id": 60050113,
-        "alias": "Contents.Skill.UseEffect.LongBow.5860",
+        "alias": "Contents.Skill.UseEffect.LongBow.5910",
         "text": "提升远距离暴击率与暴击额外攻击力"
     },
     "60050114": {
         "deprecated": false,
-        "Dev_Desc": "강사_효과",
+        "Dev_Desc": "백발백중_효과",
         "id": 60050114,
-        "alias": "Contents.Skill.UseEffect.LongBow.5910",
+        "alias": "Contents.Skill.UseEffect.LongBow.5880",
         "text": "出血"
     },
     "60050115": {
         "deprecated": false,
-        "Dev_Desc": "백발백중_효과",
+        "Dev_Desc": "조준",
         "id": 60050115,
-        "alias": "Contents.Skill.UseEffect.LongBow.5880",
+        "alias": "Contents.Skill.Name.LongBow.5800",
         "text": "提升远距离命中"
     },
     "60050116": {
         "deprecated": false,
         "Dev_Desc": "조준",
         "id": 60050116,
-        "alias": "Contents.Skill.Name.LongBow.5800",
+        "alias": "Contents.Skill.Desc.LongBow.5800",
         "text": "被动_瞄准"
     },
     "60050117": {
         "deprecated": false,
-        "Dev_Desc": "조준",
+        "Dev_Desc": "명사수",
         "id": 60050117,
-        "alias": "Contents.Skill.Desc.LongBow.5800",
+        "alias": "Contents.Skill.Name.LongBow.5810",
         "text": "精确瞄准敌人，提升物理远距离攻击力。"
     },
     "60050118": {
         "deprecated": false,
         "Dev_Desc": "명사수",
         "id": 60050118,
-        "alias": "Contents.Skill.Name.LongBow.5810",
+        "alias": "Contents.Skill.Desc.LongBow.5810",
         "text": "被动_神射手"
     },
     "60050119": {
         "deprecated": false,
-        "Dev_Desc": "명사수",
+        "Dev_Desc": "직감",
         "id": 60050119,
-        "alias": "Contents.Skill.Desc.LongBow.5810",
+        "alias": "Contents.Skill.Name.LongBow.5820",
         "text": "提高射箭能力，提升弓伤害量。"
     },
     "60050120": {
         "deprecated": false,
         "Dev_Desc": "직감",
         "id": 60050120,
-        "alias": "Contents.Skill.Name.LongBow.5820",
+        "alias": "Contents.Skill.Desc.LongBow.5820",
         "text": "被动_直觉"
     },
     "60050121": {
         "deprecated": false,
-        "Dev_Desc": "직감",
+        "Dev_Desc": "속사",
         "id": 60050121,
-        "alias": "Contents.Skill.Desc.LongBow.5820",
+        "alias": "Contents.Skill.Name.LongBow.5830",
         "text": "提高锐利的眼力，提升技巧与敏捷。"
     },
     "60050122": {
         "deprecated": false,
         "Dev_Desc": "속사",
         "id": 60050122,
-        "alias": "Contents.Skill.Name.LongBow.5830",
+        "alias": "Contents.Skill.Desc.LongBow.5830",
         "text": "被动_速射"
     },
     "60050123": {
         "deprecated": false,
-        "Dev_Desc": "속사",
+        "Dev_Desc": "연마",
         "id": 60050123,
-        "alias": "Contents.Skill.Desc.LongBow.5830",
+        "alias": "Contents.Skill.Name.LongBow.5840",
         "text": "习得快速射箭的能力，提升攻击速度。"
     },
     "60050124": {
         "deprecated": false,
         "Dev_Desc": "연마",
         "id": 60050124,
-        "alias": "Contents.Skill.Name.LongBow.5840",
+        "alias": "Contents.Skill.Desc.LongBow.5840",
         "text": "被动_磨练"
     },
     "60050125": {
         "deprecated": false,
-        "Dev_Desc": "연마",
+        "Dev_Desc": "깊은상처",
         "id": 60050125,
-        "alias": "Contents.Skill.Desc.LongBow.5840",
+        "alias": "Contents.Skill.Name.LongBow.5850",
         "text": "磨练弓术技巧，提升远距离物理穿刺。"
     },
     "60050126": {
         "deprecated": false,
         "Dev_Desc": "깊은상처",
         "id": 60050126,
-        "alias": "Contents.Skill.Name.LongBow.5850",
+        "alias": "Contents.Skill.Desc.LongBow.5890",
         "text": "重伤（开发中）"
     },
     "60050127": {
         "deprecated": false,
-        "Dev_Desc": "깊은상처",
+        "Dev_Desc": "몰입",
         "id": 60050127,
-        "alias": "Contents.Skill.Desc.LongBow.5890",
+        "alias": "Contents.Skill.Name.LongBow.5860",
         "text": "对敌人造成重伤，提升出血持续时间。"
     },
     "60050128": {
         "deprecated": false,
         "Dev_Desc": "몰입",
         "id": 60050128,
-        "alias": "Contents.Skill.Name.LongBow.5860",
+        "alias": "Contents.Skill.Desc.LongBow.5860",
         "text": "被动_专注"
     },
     "60050129": {
         "deprecated": false,
-        "Dev_Desc": "몰입",
+        "Dev_Desc": "출혈화살",
         "id": 60050129,
-        "alias": "Contents.Skill.Desc.LongBow.5860",
+        "alias": "Contents.Skill.Name.LongBow.5870",
         "text": "集中精神，提升暴击率与暴击额外伤害量。"
     },
     "60050130": {
         "deprecated": false,
         "Dev_Desc": "출혈화살",
         "id": 60050130,
-        "alias": "Contents.Skill.Name.LongBow.5870",
+        "alias": "Contents.Skill.Desc.LongBow.5870",
         "text": "出血箭（开发中）"
     },
     "60050131": {
         "deprecated": false,
-        "Dev_Desc": "출혈화살",
+        "Dev_Desc": "백발백중",
         "id": 60050131,
-        "alias": "Contents.Skill.Desc.LongBow.5870",
+        "alias": "Contents.Skill.Name.LongBow.5880",
         "text": "基本攻击时，以较低概率施加可造成持续伤害的“出血”效果。"
     },
     "60050132": {
         "deprecated": false,
         "Dev_Desc": "백발백중",
         "id": 60050132,
-        "alias": "Contents.Skill.Name.LongBow.5880",
+        "alias": "Contents.Skill.Desc.LongBow.5880",
         "text": "磨练"
     },
     "60050133": {
         "deprecated": false,
-        "Dev_Desc": "백발백중",
+        "Dev_Desc": "무공 피해 계수 증가",
         "id": 60050133,
-        "alias": "Contents.Skill.Desc.LongBow.5880",
+        "alias": "Contents.Skill.Upgrade.LongBow.1",
         "text": "磨炼射箭技巧，提升远距离物理穿刺。"
     },
     "60050134": {
         "deprecated": false,
-        "Dev_Desc": "무공 피해 계수 증가",
+        "Dev_Desc": "기본 공격 속도 증가",
         "id": 60050134,
-        "alias": "Contents.Skill.Upgrade.LongBow.1",
+        "alias": "Contents.Skill.Upgrade.LongBow.2",
         "text": "熟练的弓技能不会偏离目标1远距命中增加"
     },
     "60050135": {
         "deprecated": false,
-        "Dev_Desc": "기본 공격 속도 증가",
+        "Dev_Desc": "원거리 공격력 증가",
         "id": 60050135,
-        "alias": "Contents.Skill.Upgrade.LongBow.2",
+        "alias": "Contents.Skill.Upgrade.LongBow.3",
         "text": "增加无功伤害系数"
     },
     "60050136": {
         "deprecated": false,
-        "Dev_Desc": "원거리 공격력 증가",
+        "Dev_Desc": "솜씨 증가",
         "id": 60050136,
-        "alias": "Contents.Skill.Upgrade.LongBow.3",
+        "alias": "Contents.Skill.Upgrade.LongBow.4",
         "text": "提高基础攻击速度"
     },
     "60050137": {
         "deprecated": false,
-        "Dev_Desc": "솜씨 증가",
+        "Dev_Desc": "민첩 증가",
         "id": 60050137,
-        "alias": "Contents.Skill.Upgrade.LongBow.4",
+        "alias": "Contents.Skill.Upgrade.LongBow.5",
         "text": "增加远距离伤害"
     },
     "60050138": {
         "deprecated": false,
-        "Dev_Desc": "민첩 증가",
+        "Dev_Desc": "원거리 관통력 증가",
         "id": 60050138,
-        "alias": "Contents.Skill.Upgrade.LongBow.5",
+        "alias": "Contents.Skill.Upgrade.LongBow.6",
         "text": "提高技能"
     },
     "60050139": {
         "deprecated": false,
-        "Dev_Desc": "원거리 관통력 증가",
+        "Dev_Desc": "원거리 치명률 증가",
         "id": 60050139,
-        "alias": "Contents.Skill.Upgrade.LongBow.6",
+        "alias": "Contents.Skill.Upgrade.LongBow.7",
         "text": "提高敏捷性"
     },
     "60050140": {
         "deprecated": false,
-        "Dev_Desc": "원거리 치명률 증가",
+        "Dev_Desc": "치명타 추가 공격력 증가",
         "id": 60050140,
-        "alias": "Contents.Skill.Upgrade.LongBow.7",
+        "alias": "Contents.Skill.Upgrade.LongBow.8",
         "text": "增加远距离穿透力"
     },
     "60050141": {
         "deprecated": false,
-        "Dev_Desc": "치명타 추가 공격력 증가",
+        "Dev_Desc": "원거리 명중 증가",
         "id": 60050141,
-        "alias": "Contents.Skill.Upgrade.LongBow.8",
+        "alias": "Contents.Skill.Upgrade.LongBow.9",
         "text": "远距离致命率增加"
     },
     "60050142": {
         "deprecated": false,
-        "Dev_Desc": "원거리 명중 증가",
+        "Dev_Desc": "봉쇄화살",
         "id": 60050142,
-        "alias": "Contents.Skill.Upgrade.LongBow.9",
+        "alias": "Contents.Skill.Name.LongBow.5110",
         "text": "增加暴击伤害"
     },
     "60050143": {
         "deprecated": false,
-        "Dev_Desc": "봉쇄화살",
+        "Dev_Desc": "봉쇄화살_설명",
         "id": 60050143,
-        "alias": "Contents.Skill.Name.LongBow.5110",
+        "alias": "Contents.Skill.Desc.LongBow.5110",
         "text": "《挡箭牌》"
     },
     "60050144": {
         "deprecated": false,
-        "Dev_Desc": "봉쇄화살_설명",
+        "Dev_Desc": "봉쇄화살_효과",
         "id": 60050144,
-        "alias": "Contents.Skill.Desc.LongBow.5110",
+        "alias": "Contents.Skill.UseEffect.LongBow.5110",
         "text": "“射出束缚目标双脚的特殊箭矢，对包括目标在内的最多 3 人造成伤害。"
     },
     "60050145": {
         "deprecated": false,
-        "Dev_Desc": "봉쇄화살_효과",
+        "Dev_Desc": "봉쇄화살_돌파_설명",
         "id": 60050145,
-        "alias": "Contents.Skill.UseEffect.LongBow.5110",
+        "alias": "Contents.Skill.Desc.LongBow.5113",
         "text": "“封锁”"
     },
     "60050146": {
         "deprecated": false,
-        "Dev_Desc": "봉쇄화살_돌파_설명",
+        "Dev_Desc": "봉쇄화살_증폭_성장효과",
         "id": 60050146,
-        "alias": "Contents.Skill.Desc.LongBow.5113",
+        "alias": "Contents.Skill.acquireEffectDesc.LongBow.5111",
         "text": "射出束缚目标双脚的特殊箭矢，对包括目标在内的最多 3 人造成伤害。你不能，并且你的移动速度会降低。"
     },
     "60050147": {
         "deprecated": false,
-        "Dev_Desc": "봉쇄화살_증폭_성장효과",
+        "Dev_Desc": "봉쇄화살_극한_성장효과",
         "id": 60050147,
-        "alias": "Contents.Skill.acquireEffectDesc.LongBow.5111",
+        "alias": "Contents.Skill.acquireEffectDesc.LongBow.5112",
         "text": "“力量消耗——”"
     },
     "60050148": {
         "deprecated": false,
-        "Dev_Desc": "봉쇄화살_극한_성장효과",
+        "Dev_Desc": "봉쇄화살_돌파_성장효과",
         "id": 60050148,
-        "alias": "Contents.Skill.acquireEffectDesc.LongBow.5112",
+        "alias": "Contents.Skill.acquireEffectDesc.LongBow.5113",
         "text": "“逃避——”"
     },
     "60050149": {
         "deprecated": false,
-        "Dev_Desc": "봉쇄화살_돌파_성장효과",
+        "Dev_Desc": "봉쇄화살_돌파_효과",
         "id": 60050149,
-        "alias": "Contents.Skill.acquireEffectDesc.LongBow.5113",
+        "alias": "Contents.Skill.UseEffect.LongBow.5113",
         "text": "“对目标中心施加“拉”效果\n增强移动速度降低效果”"
+    },
+    "60050150": {
+        "deprecated": false,
+        "Dev_Desc": "연사_스킬이름",
+        "id": 60050150,
+        "alias": "Contents.Skill.name.LongBow.5200",
+        "text": "扬声器"
+    },
+    "60050151": {
+        "deprecated": false,
+        "Dev_Desc": "연사_설명",
+        "id": 60050151,
+        "alias": "Contents.Skill.Desc.LongBow.5200",
+        "text": "快速拉出一根绳子，向目标射出一支箭。\\n<textColor=[248:99:99:255]>灵魂法术眩晕</> 可以通过手动按下目标的攻击按钮来使用。"
+    },
+    "60050152": {
+        "deprecated": false,
+        "Dev_Desc": "연사_사용조건",
+        "id": 60050152,
+        "alias": "Contents.Skill.requirementDesc.LongBow.5200",
+        "text": "魂传眩晕目标"
+    },
+    "60050153": {
+        "deprecated": false,
+        "Dev_Desc": "신궁_스킬이름",
+        "id": 60050153,
+        "alias": "Contents.Skill.name.LongBow.5920",
+        "text": "神社"
+    },
+    "60050154": {
+        "deprecated": false,
+        "Dev_Desc": "신궁_설명",
+        "id": 60050154,
+        "alias": "Contents.Skill.Desc.LongBow.5920",
+        "text": "用恶魔般的技能自由地拉弓。\\nPVP攻击力和PVP穿透增加。"
+    },
+    "60050155": {
+        "deprecated": false,
+        "Dev_Desc": "신궁_효과",
+        "id": 60050155,
+        "alias": "Contents.Skill.UseEffect.LongBow.5920",
+        "text": "PVP攻击3，PVP穿透5"
+    },
+    "60050156": {
+        "deprecated": false,
+        "Dev_Desc": "연사_사용조건",
+        "id": 60050156,
+        "alias": "Contents.Skill.requirementDesc.LongBow.5200",
+        "text": "魂传眩晕目标"
     }
 }

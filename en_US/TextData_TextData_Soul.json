@@ -11181,6 +11181,90 @@
         "alias": "Contents.Soul.skillDescAlias.100",
         "text": "When Soul is activated, the target's item is blocked for 8 seconds.\n(Cooldown time 30 seconds)"
     },
+    "63101": {
+        "deprecated": false,
+        "Dev_Desc": "생명 가호_설명Lv.6",
+        "id": 63101,
+        "alias": "Contents.Soul.skillDescAlias.101",
+        "text": "생명력이 15% 이하로 내려가면 생명력 30%를 회복하고 10초간 물약 회복률과 받는 치유량이 100%, 불굴이 1 증가합니다.\n(재사용 대기시간 120초)"
+    },
+    "63102": {
+        "deprecated": false,
+        "Dev_Desc": "생명 가호_설명Lv.7",
+        "id": 63102,
+        "alias": "Contents.Soul.skillDescAlias.102",
+        "text": "생명력이 15% 이하로 내려가면 생명력 35%를 회복하고 10초간 물약 회복률과 받는 치유량이 100%, 불굴이 2 증가합니다.\n(재사용 대기시간 120초)"
+    },
+    "63103": {
+        "deprecated": false,
+        "Dev_Desc": "생명 가호_설명Lv.8",
+        "id": 63103,
+        "alias": "Contents.Soul.skillDescAlias.103",
+        "text": "생명력이 20% 이하로 내려가면 생명력 40%를 회복하고 10초간 물약 회복률과 받는 치유량이 100%, 불굴이 3 증가합니다.\n(재사용 대기시간 120초)"
+    },
+    "63104": {
+        "deprecated": false,
+        "Dev_Desc": "염화지체_설명Lv.6",
+        "id": 63104,
+        "alias": "Contents.Soul.skillDescAlias.104",
+        "text": "소울 발동 시 일정 확률로 7초간 소울 친화력 18, 치명률 20%, 이동 속도 15%, 치명타 추가 공격력 10, pvp 공격력 8이 증가합니다.\n(재사용 대기시간 7초)"
+    },
+    "63105": {
+        "deprecated": false,
+        "Dev_Desc": "염화지체_설명Lv.7",
+        "id": 63105,
+        "alias": "Contents.Soul.skillDescAlias.105",
+        "text": "소울 발동 시 일정 확률로 7초간 소울 친화력 21, 치명률 20%, 이동 속도 15%, 치명타 추가 공격력 11, pvp 공격력 10이 증가합니다.\n(재사용 대기시간 7초)"
+    },
+    "63106": {
+        "deprecated": false,
+        "Dev_Desc": "염화지체_설명Lv.8",
+        "id": 63106,
+        "alias": "Contents.Soul.skillDescAlias.106",
+        "text": "소울 발동 시 일정 확률로 7초간 소울 친화력 25, 치명률 20%, 이동 속도 15%, 치명타 추가 공격력 12, pvp 공격력 12이 증가합니다.\n(재사용 대기시간 7초)"
+    },
+    "63107": {
+        "deprecated": false,
+        "Dev_Desc": "폭설난비_설명Lv.6",
+        "id": 63107,
+        "alias": "Contents.Soul.skillDescAlias.107",
+        "text": "소울 발동 시 4초간 대상을 빙결 상태로 만들며 대상의 방어력 20, 호신 5, 통제 저항률 5%를 감소시키고, 6초간 대상의 공격속도를 10% 감소 시킵니다. 보스 몬스터에게는 빙결 효과가 적용되지 않습니다.\n(재사용 대기시간 25초)"
+    },
+    "63108": {
+        "deprecated": false,
+        "Dev_Desc": "폭설난비_설명Lv.7",
+        "id": 63108,
+        "alias": "Contents.Soul.skillDescAlias.108",
+        "text": "소울 발동 시 4초간 대상을 빙결 상태로 만들며 대상의 방어력 20, 호신 5, 통제 저항률 5%를 감소시키고, 6초간 대상의 공격속도를 12% 감소 시킵니다. 보스 몬스터에게는 빙결 효과가 적용되지 않습니다.\n(재사용 대기시간 25초)"
+    },
+    "63109": {
+        "deprecated": false,
+        "Dev_Desc": "폭설난비_설명Lv.8",
+        "id": 63109,
+        "alias": "Contents.Soul.skillDescAlias.109",
+        "text": "소울 발동 시 4초간 대상을 빙결 상태로 만들며 대상의 방어력 20, 호신 5, 통제 저항률 5%를 감소시키고, 8초간 대상의 공격속도를 15% 감소 시킵니다. 보스 몬스터에게는 빙결 효과가 적용되지 않습니다.\n(재사용 대기시간 25초)"
+    },
+    "63110": {
+        "deprecated": false,
+        "Dev_Desc": "심연의 눈_설명Lv.6",
+        "id": 63110,
+        "alias": "Contents.Soul.skillDescAlias.110",
+        "text": "소울 발동 시 일정 확률로 최대 생명력의 10% 피해를 주고 10초간 상대 소울 억제력을 2% 감소 시킵니다. 네임드 등급 이상의 몬스터에게 적용되지 않습니다.\n(재사용 대기시간 10초)"
+    },
+    "63111": {
+        "deprecated": false,
+        "Dev_Desc": "심연의 눈_설명Lv.7",
+        "id": 63111,
+        "alias": "Contents.Soul.skillDescAlias.111",
+        "text": "소울 발동 시 일정 확률로 최대 생명력의 10% 피해를 주고 10초간 상대 소울 억제력을 3% 감소 시킵니다. 네임드 등급 이상의 몬스터에게 적용되지 않습니다.\n(재사용 대기시간 10초)"
+    },
+    "63112": {
+        "deprecated": false,
+        "Dev_Desc": "심연의 눈_설명Lv.8",
+        "id": 63112,
+        "alias": "Contents.Soul.skillDescAlias.112",
+        "text": "소울 발동 시 일정 확률로 최대 생명력의 10% 피해를 주고 10초간 상대 소울 억제력을 4% 감소 시킵니다. 네임드 등급 이상의 몬스터에게 적용되지 않습니다.\n(재사용 대기시간 9초)"
+    },
     "64000": {
         "deprecated": false,
         "Dev_Desc": "성급 제한_툴팁",

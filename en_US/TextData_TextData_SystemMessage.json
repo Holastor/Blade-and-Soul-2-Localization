@@ -4466,7 +4466,7 @@
     },
     "9000699": {
         "deprecated": false,
-        "Dev_Desc": "거래소 / 필터 / 제련 옵션 / 6개 이상 선택 시",
+        "Dev_Desc": "거래소 / 필터 / 재련 옵션 / 6개 이상 선택 시",
         "id": 9000699,
         "alias": "SysM.Market.Filter.Forge.MaxSelect",
         "text": "You can select up to 5 Refine options."
@@ -7367,5 +7367,68 @@
         "id": 9001114,
         "alias": "SysM.Revenge.Fail.Time",
         "text": "You cannot take revenge after the available time has passed."
+    },
+    "9001115": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 최대 충전 횟수 초과 시도 시 알림",
+        "id": 9001115,
+        "alias": "SysM.Dungeon.OverCount",
+        "text": "You cannot charge more than the maximum number of charges."
+    },
+    "9001116": {
+        "deprecated": false,
+        "Dev_Desc": "재련 / 장비 등록",
+        "id": 9001116,
+        "alias": "SysM.Smelting.Msg.Registered",
+        "text": "<arg p=[1:string]/><eul/> registered."
+    },
+    "9001117": {
+        "deprecated": false,
+        "Dev_Desc": "재련 / 장비 해제",
+        "id": 9001117,
+        "alias": "SysM.Smelting.Msg.UnRegistered",
+        "text": "Unregistered <arg p=[1:string]/><eul/>."
+    },
+    "9001118": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 횟수 만료된 던전 입장 시도 시 알림",
+        "id": 9001118,
+        "alias": "SysM.Dungeon.CountOver",
+        "text": "The number of dungeon uses has been exhausted. You can enter after charging the number of times."
+    },
+    "9001119": {
+        "deprecated": false,
+        "Dev_Desc": "재련 / 재료 등록 실패",
+        "id": 9001119,
+        "alias": "SysM.Smelting.SmeltingFail.1",
+        "text": "The same kind of material cannot be registered."
+    },
+    "9001120": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 충전 횟수 오버",
+        "id": 9001120,
+        "alias": "SysM.Dungeon.OverCharge2",
+        "text": "You cannot charge more than the maximum number of charges."
+    },
+    "9001121": {
+        "deprecated": false,
+        "Dev_Desc": "재련 / 재화 부족",
+        "id": 9001121,
+        "alias": "SysM.Smelting.SmeltingFail.LackOfGold",
+        "text": "You can't refine it because you don't have enough gold coins."
+    },
+    "9001122": {
+        "deprecated": false,
+        "Dev_Desc": "이름 변경으로 발생하는 에러 메시지 / PvP북",
+        "id": 9001122,
+        "alias": "SysM.ChangeName.Error.PvPBook",
+        "text": "Unable to verify user information."
+    },
+    "9001123": {
+        "deprecated": false,
+        "Dev_Desc": "제작 / 제작 기간 미도래 또는 만료",
+        "id": 9001123,
+        "alias": "SysM.Craft.WrongPeriod",
+        "text": "This is not a craftable period."
     }
 }

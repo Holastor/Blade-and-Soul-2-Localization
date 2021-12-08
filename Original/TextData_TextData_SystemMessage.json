@@ -4466,10 +4466,10 @@
     },
     "9000699": {
         "deprecated": false,
-        "Dev_Desc": "거래소 / 필터 / 제련 옵션 / 6개 이상 선택 시",
+        "Dev_Desc": "거래소 / 필터 / 재련 옵션 / 6개 이상 선택 시",
         "id": 9000699,
         "alias": "SysM.Market.Filter.Forge.MaxSelect",
-        "text": "제련옵션 선택은 최대 5개까지 가능합니다."
+        "text": "재련옵션 선택은 최대 5개까지 가능합니다."
     },
     "9000700": {
         "deprecated": false,
@@ -7317,7 +7317,7 @@
         "Dev_Desc": "지도/ 축지 / 지역발견 퀘스트 미완료",
         "id": 9001107,
         "alias": "SysM.Map.TeleportFail.DiscoverQuest",
-        "text": "지역발견 퀘스트를 완료 후 이동할 수 있습니다."
+        "text": "개척 임무를 완료 후 이동할 수 있습니다."
     },
     "9001108": {
         "deprecated": false,
@@ -7367,5 +7367,68 @@
         "id": 9001114,
         "alias": "SysM.Revenge.Fail.Time",
         "text": "복수 가능 시간이 지나 복수할 수 없습니다."
+    },
+    "9001115": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 최대 충전 횟수 초과 시도 시 알림",
+        "id": 9001115,
+        "alias": "SysM.Dungeon.OverCount",
+        "text": "최대 충전 횟수를 초과하여 충전할 수 없습니다."
+    },
+    "9001116": {
+        "deprecated": false,
+        "Dev_Desc": "재련 / 장비 등록",
+        "id": 9001116,
+        "alias": "SysM.Smelting.Msg.Registered",
+        "text": "<arg p=[1:string]/><eul/> 등록했습니다."
+    },
+    "9001117": {
+        "deprecated": false,
+        "Dev_Desc": "재련 / 장비 해제",
+        "id": 9001117,
+        "alias": "SysM.Smelting.Msg.UnRegistered",
+        "text": "<arg p=[1:string]/><eul/> 등록 해제했습니다."
+    },
+    "9001118": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 횟수 만료된 던전 입장 시도 시 알림",
+        "id": 9001118,
+        "alias": "SysM.Dungeon.CountOver",
+        "text": "던전 이용 횟수를 모두 소진했습니다. 횟수 충전 후 입장할 수 있습니다."
+    },
+    "9001119": {
+        "deprecated": false,
+        "Dev_Desc": "재련 / 재료 등록 실패",
+        "id": 9001119,
+        "alias": "SysM.Smelting.SmeltingFail.1",
+        "text": "같은 종류의 재료는 등록할 수 없습니다."
+    },
+    "9001120": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 충전 횟수 오버",
+        "id": 9001120,
+        "alias": "SysM.Dungeon.OverCharge2",
+        "text": "최대 충전 횟수를 초과하여 충전할 수 없습니다."
+    },
+    "9001121": {
+        "deprecated": false,
+        "Dev_Desc": "재련 / 재화 부족",
+        "id": 9001121,
+        "alias": "SysM.Smelting.SmeltingFail.LackOfGold",
+        "text": "금화가 부족하여 재련할 수 없습니다."
+    },
+    "9001122": {
+        "deprecated": false,
+        "Dev_Desc": "이름 변경으로 발생하는 에러 메시지 / PvP북",
+        "id": 9001122,
+        "alias": "SysM.ChangeName.Error.PvPBook",
+        "text": "유저 정보를 확인할 수 없습니다."
+    },
+    "9001123": {
+        "deprecated": false,
+        "Dev_Desc": "제작 / 제작 기간 미도래 또는 만료",
+        "id": 9001123,
+        "alias": "SysM.Craft.WrongPeriod",
+        "text": "제작 가능한 기간이 아닙니다."
     }
 }

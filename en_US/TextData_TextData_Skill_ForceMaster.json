@@ -288,7 +288,7 @@
     },
     "60030044": {
         "deprecated": false,
-        "Dev_Desc": "패시브_홍염_기공방어력감소",
+        "Dev_Desc": "패시브_홍염_방어력감소",
         "id": 60030044,
         "alias": "Contents.Skill.useEffectDesc.FireBangle.3038",
         "text": "Force Defense on target ▼"
@@ -1173,5 +1173,68 @@
         "id": 60030174,
         "alias": "Contents.Skill.Desc.FireBangle.3037",
         "text": "Attacks a target that has been disabled by the chill even more mercilessly.\nAttacks a frozen target for additional damage.\nAdditional damage has a 3 second cooldown."
+    },
+    "60030175": {
+        "deprecated": false,
+        "Dev_Desc": "빙륜참 이름",
+        "id": 60030175,
+        "alias": "Contents.Skill.Name.FireBangle.3801",
+        "text": "Bingryuncham"
+    },
+    "60030176": {
+        "deprecated": false,
+        "Dev_Desc": "빙륜참 조건",
+        "id": 60030176,
+        "alias": "Contents.Skill.requirementDesc.FireBangle.3801",
+        "text": "When soul paring is successful"
+    },
+    "60030177": {
+        "deprecated": false,
+        "Dev_Desc": "빙륜참 설명",
+        "id": 60030177,
+        "alias": "Contents.Skill.Desc.FireBangle.3801",
+        "text": "Dispels the Ice Ball and fires a spinning ice blade. \\nCan be used by manually pressing the attack button."
+    },
+    "60030178": {
+        "deprecated": false,
+        "Dev_Desc": "화빙연포 이름",
+        "id": 60030178,
+        "alias": "Contents.Skill.Name.FireBangle.3811",
+        "text": "Hwa-Bing-Yeonpo"
+    },
+    "60030179": {
+        "deprecated": false,
+        "Dev_Desc": "화빙연포 조건",
+        "id": 60030179,
+        "alias": "Contents.Skill.requirementDesc.FireBangle.3811",
+        "text": "Soul Farring Stun Target"
+    },
+    "60030180": {
+        "deprecated": false,
+        "Dev_Desc": "화빙연포 설명",
+        "id": 60030180,
+        "alias": "Contents.Skill.Desc.FireBangle.3811",
+        "text": "Fire and ice bursts are fired.\\n<textColor=[248:99:99:255]>Soul Farring Stun</> Can be used by manually pressing the attack button on the target."
+    },
+    "60030181": {
+        "deprecated": false,
+        "Dev_Desc": "기공패 패시브 천빙",
+        "id": 60030181,
+        "alias": "Contents.Skill.Name.FireBangle.3036",
+        "text": "Salt"
+    },
+    "60030182": {
+        "deprecated": false,
+        "Dev_Desc": "패시브_천빙_둔화 빙결 추피",
+        "id": 60030182,
+        "alias": "Contents.Skill.useEffectDesc.FireBangle.3036",
+        "text": "All elemental attack amplification increase by 7%"
+    },
+    "60030183": {
+        "deprecated": false,
+        "Dev_Desc": "기공패 패시브 천빙_설명",
+        "id": 60030183,
+        "alias": "Contents.Skill.Desc.FireBangle.3036",
+        "text": "Masters the aura of all things.\\nIncreases all elemental attack amplification."
     }
 }
