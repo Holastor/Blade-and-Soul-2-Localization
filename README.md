@@ -27,7 +27,7 @@ BTC - bc1qpqnyfvz36u904pw60tv5ky8da38aq0wy7l7rk6
 ## Install
 
 * ONLY PC
-* [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/releases/tag/1.5.0) Latest Release (B2-WindowsNoEditor_00003.pak);
+* [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/releases/tag/1.5.5) Latest Release (B2-WindowsNoEditor_00003.pak);
 * Place the file B2-WindowsNoEditor_00003.pak in the \Game Folder\B2\Content\Paks;
 * And you need to go folder C:\Users\UserName\AppData\Local\B2\Saved\Option and open file LocalOption.json;
 * For Chinese Localization requires B2-WindowsNoEditor_00004.pak file;
