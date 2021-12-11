@@ -7509,5 +7509,68 @@
         "English_Text": "You cannot take revenge after the available time has passed.",
         "Russian_Text": "",
         "Chinese_Text": "在可用的时间过去之后，你无法报复。"
+    },
+    "9001115": {
+        "Dev_Desc": "던전 / 최대 충전 횟수 초과 시도 시 알림",
+        "Original_Text": "최대 충전 횟수를 초과하여 충전할 수 없습니다.",
+        "English_Text": "You cannot charge more than the maximum number of charges.",
+        "Russian_Text": "",
+        "Chinese_Text": "您的收费不能超过最大收费次数。"
+    },
+    "9001116": {
+        "Dev_Desc": "재련 / 장비 등록",
+        "Original_Text": "<arg p=[1:string]/><eul/> 등록했습니다.",
+        "English_Text": "<arg p=[1:string]/><eul/> registered.",
+        "Russian_Text": "",
+        "Chinese_Text": "<arg p=[1:string]/><eul/> 已注册。"
+    },
+    "9001117": {
+        "Dev_Desc": "재련 / 장비 해제",
+        "Original_Text": "<arg p=[1:string]/><eul/> 등록 해제했습니다.",
+        "English_Text": "Unregistered <arg p=[1:string]/><eul/>.",
+        "Russian_Text": "",
+        "Chinese_Text": "未注册<arg p=[1:string]/><eul/>。"
+    },
+    "9001118": {
+        "Dev_Desc": "던전 / 횟수 만료된 던전 입장 시도 시 알림",
+        "Original_Text": "던전 이용 횟수를 모두 소진했습니다. 횟수 충전 후 입장할 수 있습니다.",
+        "English_Text": "The number of dungeon uses has been exhausted. You can enter after charging the number of times.",
+        "Russian_Text": "",
+        "Chinese_Text": "地下城使用次数已用完，充值次数后即可进入。"
+    },
+    "9001119": {
+        "Dev_Desc": "재련 / 재료 등록 실패",
+        "Original_Text": "같은 종류의 재료는 등록할 수 없습니다.",
+        "English_Text": "The same kind of material cannot be registered.",
+        "Russian_Text": "",
+        "Chinese_Text": "同一种材料不能注册。"
+    },
+    "9001120": {
+        "Dev_Desc": "던전 / 충전 횟수 오버",
+        "Original_Text": "최대 충전 횟수를 초과하여 충전할 수 없습니다.",
+        "English_Text": "You cannot charge more than the maximum number of charges.",
+        "Russian_Text": "",
+        "Chinese_Text": "您的收费不能超过最大收费次数。"
+    },
+    "9001121": {
+        "Dev_Desc": "재련 / 재화 부족",
+        "Original_Text": "금화가 부족하여 재련할 수 없습니다.",
+        "English_Text": "You can't refine it because you don't have enough gold coins.",
+        "Russian_Text": "",
+        "Chinese_Text": "你无法炼化它，因为你没有足够的金币。"
+    },
+    "9001122": {
+        "Dev_Desc": "이름 변경으로 발생하는 에러 메시지 / PvP북",
+        "Original_Text": "유저 정보를 확인할 수 없습니다.",
+        "English_Text": "Unable to verify user information.",
+        "Russian_Text": "",
+        "Chinese_Text": "无法验证用户信息。"
+    },
+    "9001123": {
+        "Dev_Desc": "제작 / 제작 기간 미도래 또는 만료",
+        "Original_Text": "제작 가능한 기간이 아닙니다.",
+        "English_Text": "This is not a craftable period.",
+        "Russian_Text": "",
+        "Chinese_Text": "这不是一个可以制作的时期。"
     }
 }

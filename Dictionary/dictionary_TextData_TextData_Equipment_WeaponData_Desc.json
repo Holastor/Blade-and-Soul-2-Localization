@@ -3068,5 +3068,726 @@
         "English_Text": "16% chance to shoot explosive arrows to deal AoE on normal attack hit.",
         "Russian_Text": "",
         "Chinese_Text": "基本攻击命中时以16%概率对敌人发射爆炸箭造成范围伤害。"
+    },
+    "92900008": {
+        "Dev_Desc": "",
+        "Original_Text": "낮은 확률로 대상의 공격속도를 5초동안 -50% 감소시킵니다.",
+        "English_Text": "There is a low chance to reduce the target's attack speed by -50% for 5 seconds.",
+        "Russian_Text": "",
+        "Chinese_Text": "有低概率降低目标的攻击速度-50%，持续5秒。"
+    },
+    "92900009": {
+        "Dev_Desc": "",
+        "Original_Text": "낮은 확률로 대상의 공격속도를 5초동안 -50% 감소시킵니다.",
+        "English_Text": "There is a low chance to reduce the target's attack speed by -50% for 5 seconds.",
+        "Russian_Text": "",
+        "Chinese_Text": "有低概率降低目标的攻击速度-50%，持续5秒。"
+    },
+    "92900010": {
+        "Dev_Desc": "",
+        "Original_Text": "역행\\n낮은 확률로 대상의 공격속도를 5초간 50% 감소시킵니다 (재사용 대기시간 5초)",
+        "English_Text": "Retrograde\\nLow chance to decrease the target's attack speed by 50% for 5 seconds (Cooldown 5 seconds)",
+        "Russian_Text": "",
+        "Chinese_Text": "逆行\\n低几率使目标攻击速度降低50%，持续5秒（冷却5秒）"
+    },
+    "92900011": {
+        "Dev_Desc": "",
+        "Original_Text": "실명\\n높은 확률로 10초간 대상의 명중을 100 감소시킵니다 (재사용 대기시간 20초)",
+        "English_Text": "Blindness\\nHigh chance to reduce the target's accuracy by 100 for 10 seconds (20 seconds cooldown)",
+        "Russian_Text": "",
+        "Chinese_Text": "失明\\n高几率使目标的准确度降低 100，持续 10 秒（20 秒冷却时间）"
+    },
+    "92900012": {
+        "Dev_Desc": "",
+        "Original_Text": "쇠락\\n낮은 확률로 7초간 대상의 물약회복률을 50% 감소시킵니다 (재사용 대기시간 15초)",
+        "English_Text": "Fall\\nLow chance to reduce the target's potion recovery rate by 50% for 7 seconds (15 seconds cooldown)",
+        "Russian_Text": "",
+        "Chinese_Text": "Fall\\nLow 几率使目标的药水恢复率降低 50%，持续 7 秒（15 秒冷却时间）"
+    },
+    "92900013": {
+        "Dev_Desc": "",
+        "Original_Text": "제령\\n낮은 확률로 10초간 대상의 소울발동률을 5% 감소시킵니다 (재사용 대기시간 10초)",
+        "English_Text": "Spirit\\nLow chance to decrease the target's Soul Activation Rate by 5% for 10 seconds (Cooldown 10 seconds)",
+        "Russian_Text": "",
+        "Chinese_Text": "灵\\n低几率使目标的灵魂激活率降低5%，持续10秒（冷却10秒）"
+    },
+    "92900014": {
+        "Dev_Desc": "",
+        "Original_Text": "무방비\\n낮은 확률로 3초간 대상의 통제저항률을 100% 감소시킵니다",
+        "English_Text": "Unprotected\\nLow chance to reduce the target's Control Resistance by 100% for 3 seconds",
+        "Russian_Text": "",
+        "Chinese_Text": "无保护\\n低几率使目标的控制抗性降低 100%，持续 3 秒"
+    },
+    "92101011": {
+        "Dev_Desc": "사환검",
+        "Original_Text": "",
+        "English_Text": "",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "92101012": {
+        "Dev_Desc": "낭인검",
+        "Original_Text": "",
+        "English_Text": "",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "92101206": {
+        "Dev_Desc": "혜월장검",
+        "Original_Text": "",
+        "English_Text": "",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "92101207": {
+        "Dev_Desc": "청랑장검",
+        "Original_Text": "",
+        "English_Text": "",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "92101411": {
+        "Dev_Desc": "검은 바람의 파도",
+        "Original_Text": "",
+        "English_Text": "",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "92101412": {
+        "Dev_Desc": "혈화의 붓",
+        "Original_Text": "",
+        "English_Text": "",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "92101608": {
+        "Dev_Desc": "멸혼의 장검",
+        "Original_Text": "공격 시 일정 확률로 적에게 [무방비: 1단계]를 시전합니다.\\n\\n[무방비: 1단계]\\n6초간 통제 저항률 4% 감소\\n(30초간 같은 대상에 동일한 효과 적용 불가)",
+        "English_Text": "When attacking, has a chance to cast [Unprotected: Level 1] on the enemy.\\n\\n[Unprotected: Level 1]\\nReduces control resistance by 4% for 6 seconds\\n (Same effect cannot be applied to the same target for 30 seconds)",
+        "Russian_Text": "",
+        "Chinese_Text": "攻击时，有一定几率对敌人施放[无保护：1级]。\\n\\n[无保护：1级]\\n控制抗性降低4%，持续6秒\\n（相同效果不能作用于同一目标30"
+    },
+    "92101609": {
+        "Dev_Desc": "검은 새벽의 검",
+        "Original_Text": "공격 시 일정 확률로 적에게 [무방비: 3단계]를 시전합니다.\\n\\n[무방비: 3단계]\\n8초간 통제 저항률 8% 감소\\n(30초간 같은 대상에 동일한 효과 적용 불가)",
+        "English_Text": "When attacking, has a chance to cast [Unprotected: Level 3] on the enemy.\\n\\n[Unprotected: Level 3]\\nReduces control resistance by 8% for 8 seconds\\n (Same effect cannot be applied to the same target for 30 seconds)",
+        "Russian_Text": "",
+        "Chinese_Text": "攻击时，有一定几率对敌人施放[无保护：3级]。\\n\\n[无保护：3级]\\n控制抗性降低8%，持续8秒\\n（同一个目标不能作用30"
+    },
+    "92201011": {
+        "Dev_Desc": "사환검(각인)",
+        "Original_Text": "[시련던전], [협행]에서 획득할 수 있습니다.",
+        "English_Text": "Can be obtained from [Trial Dungeon] and [Collaboration].",
+        "Russian_Text": "",
+        "Chinese_Text": "可以从【试炼地下城】和【协作】中获得。"
+    },
+    "92201012": {
+        "Dev_Desc": "낭인검(각인)",
+        "Original_Text": "[시련던전]에서 획득할 수 있습니다.",
+        "English_Text": "Can be obtained from [Trial Dungeon].",
+        "Russian_Text": "",
+        "Chinese_Text": "可以从【试炼地下城】获得。"
+    },
+    "92201206": {
+        "Dev_Desc": "혜월장검(각인)",
+        "Original_Text": "[시련던전], [협행]에서 획득할 수 있습니다.",
+        "English_Text": "Can be obtained from [Trial Dungeon] and [Collaboration].",
+        "Russian_Text": "",
+        "Chinese_Text": "可以从【试炼地下城】和【协作】中获得。"
+    },
+    "92201207": {
+        "Dev_Desc": "청랑장검(각인)",
+        "Original_Text": "[시련던전]에서 획득할 수 있습니다.",
+        "English_Text": "Can be obtained from [Trial Dungeon].",
+        "Russian_Text": "",
+        "Chinese_Text": "可以从【试炼地下城】获得。"
+    },
+    "92201411": {
+        "Dev_Desc": "검은 바람의 파도(각인)",
+        "Original_Text": "[시련던전], [협행]에서 획득할 수 있습니다.",
+        "English_Text": "Can be obtained from [Trial Dungeon] and [Collaboration].",
+        "Russian_Text": "",
+        "Chinese_Text": "可以从【试炼地下城】和【协作】中获得。"
+    },
+    "92201412": {
+        "Dev_Desc": "혈화의 붓(각인)",
+        "Original_Text": "",
+        "English_Text": "",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "92201608": {
+        "Dev_Desc": "멸혼의 장검(각인)",
+        "Original_Text": "공격 시 일정 확률로 적에게 [무방비: 1단계]를 시전합니다.\\n\\n[무방비: 1단계]\\n6초간 통제 저항률 4% 감소\\n(30초간 같은 대상에 동일한 효과 적용 불가)\\n\\n[시련던전]에서 획득할 수 있습니다.",
+        "English_Text": "When attacking, has a chance to cast [Unprotected: Level 1] on the enemy.\\n\\n[Unprotected: Level 1]\\nReduces control resistance by 4% for 6 seconds\\n(Same effect cannot be applied to the same target for 30 seconds)\\n\\n[Trial ",
+        "Russian_Text": "",
+        "Chinese_Text": "攻击时，有一定几率对敌人施放[无保护：1级]。\\n\\n[无保护：1级]\\n控制抗性降低4%，持续6秒\\n(相同效果不能作用于同一目标30"
+    },
+    "92201609": {
+        "Dev_Desc": "검은 새벽의 검(각인)",
+        "Original_Text": "공격 시 일정 확률로 적에게 [무방비: 3단계]를 시전합니다.\\n\\n[무방비: 3단계]\\n8초간 통제 저항률 8% 감소\\n(30초간 같은 대상에 동일한 효과 적용 불가)",
+        "English_Text": "When attacking, has a chance to cast [Unprotected: Level 3] on the enemy.\\n\\n[Unprotected: Level 3]\\nReduces control resistance by 8% for 8 seconds\\n (Same effect cannot be applied to the same target for 30 seconds)",
+        "Russian_Text": "",
+        "Chinese_Text": "攻击时，有一定几率对敌人施放[无保护：3级]。\\n\\n[无保护：3级]\\n控制抗性降低8%，持续8秒\\n（同一个目标不能作用30"
+    },
+    "92102011": {
+        "Dev_Desc": "박투권갑",
+        "Original_Text": "",
+        "English_Text": "",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "92102012": {
+        "Dev_Desc": "낭인권갑",
+        "Original_Text": "",
+        "English_Text": "",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "92102206": {
+        "Dev_Desc": "혜월권갑",
+        "Original_Text": "",
+        "English_Text": "",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "92102207": {
+        "Dev_Desc": "청랑권갑",
+        "Original_Text": "",
+        "English_Text": "",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "92102411": {
+        "Dev_Desc": "검은 바람의 사슬",
+        "Original_Text": "",
+        "English_Text": "",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "92102412": {
+        "Dev_Desc": "혈귀의 발톱",
+        "Original_Text": "",
+        "English_Text": "",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "92102608": {
+        "Dev_Desc": "무신의 춤",
+        "Original_Text": "공격 시 일정 확률로 적에게 [쇠락: 1단계]를 시전합니다.\\n\\n[쇠락: 1단계]\\n기력 400 제거\\n(30초간 같은 대상에 동일한 효과 적용 불가)",
+        "English_Text": "When attacking, has a chance to cast [Degradation: Stage 1] on the enemy.\\n\\n[Degradation: Stage 1]\\nRemove 400 Energy\\n (Same effect cannot be applied to the same target for 30 seconds)",
+        "Russian_Text": "",
+        "Chinese_Text": "攻击时，有几率对敌人施放[堕落：第一阶段]。\\n\\n[堕落：第一阶段]\\n去除400能量\\n（30秒内不能对同一目标施加相同效果）"
+    },
+    "92102609": {
+        "Dev_Desc": "검은 새벽의 권갑",
+        "Original_Text": "공격 시 일정 확률로 적에게 [쇠락: 3단계]를 시전합니다.\\n\\n[쇠락: 3단계]\\n기력 500 제거\\n(20초간 같은 대상에 동일한 효과 적용 불가)",
+        "English_Text": "When attacking, has a chance to cast [Degradation: Stage 3] on the enemy.\\n\\n[Degradation: Stage 3]\\nRemove 500 Energy\\n (Same effect cannot be applied to the same target for 20 seconds)",
+        "Russian_Text": "",
+        "Chinese_Text": "攻击时，有几率对敌人施放[堕落：第三阶段]。\\n\\n[堕落：第三阶段]\\n去除500能量\\n（20秒内不能对同一目标施加相同效果）"
+    },
+    "92202011": {
+        "Dev_Desc": "박투권갑(각인)",
+        "Original_Text": "[시련던전], [협행]에서 획득할 수 있습니다.",
+        "English_Text": "Can be obtained from [Trial Dungeon] and [Collaboration].",
+        "Russian_Text": "",
+        "Chinese_Text": "可以从【试炼地下城】和【协作】中获得。"
+    },
+    "92202012": {
+        "Dev_Desc": "낭인권갑(각인)",
+        "Original_Text": "[시련던전]에서 획득할 수 있습니다.",
+        "English_Text": "Can be obtained from [Trial Dungeon].",
+        "Russian_Text": "",
+        "Chinese_Text": "可以从【试炼地下城】获得。"
+    },
+    "92202206": {
+        "Dev_Desc": "혜월권갑(각인)",
+        "Original_Text": "[시련던전], [협행]에서 획득할 수 있습니다.",
+        "English_Text": "Can be obtained from [Trial Dungeon] and [Collaboration].",
+        "Russian_Text": "",
+        "Chinese_Text": "可以从【试炼地下城】和【协作】中获得。"
+    },
+    "92202207": {
+        "Dev_Desc": "청랑권갑(각인)",
+        "Original_Text": "[시련던전]에서 획득할 수 있습니다.",
+        "English_Text": "Can be obtained from [Trial Dungeon].",
+        "Russian_Text": "",
+        "Chinese_Text": "可以从【试炼地下城】获得。"
+    },
+    "92202411": {
+        "Dev_Desc": "검은 바람의 사슬(각인)",
+        "Original_Text": "[시련던전], [협행]에서 획득할 수 있습니다.",
+        "English_Text": "Can be obtained from [Trial Dungeon] and [Collaboration].",
+        "Russian_Text": "",
+        "Chinese_Text": "可以从【试炼地下城】和【协作】中获得。"
+    },
+    "92202412": {
+        "Dev_Desc": "혈귀의 발톱(각인)",
+        "Original_Text": "",
+        "English_Text": "",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "92202608": {
+        "Dev_Desc": "무신의 춤(각인)",
+        "Original_Text": "공격 시 일정 확률로 적에게 [쇠락: 1단계]를 시전합니다.\\n\\n[쇠락: 1단계]\\n기력 400 제거\\n(30초간 같은 대상에 동일한 효과 적용 불가)\\n\\n[시련던전]에서 획득할 수 있습니다.",
+        "English_Text": "When attacking, has a chance to cast [Degradation: Stage 1] on the enemy.\\n\\n[Degradation: Stage 1]\\nRemove 400 Energy\\n(Same effect cannot be applied to the same target for 30 seconds)\\n\\n[Trial Dungeon] ",
+        "Russian_Text": "",
+        "Chinese_Text": "攻击时，有几率对敌人施放[堕落：第一阶段]。\\n\\n[堕落：第一阶段]\\n去除400能量\\n(30秒内不能对同一目标施加相同效果)\\n\\n[试炼"
+    },
+    "92202609": {
+        "Dev_Desc": "검은 새벽의 권갑(각인)",
+        "Original_Text": "공격 시 일정 확률로 적에게 [쇠락: 3단계]를 시전합니다.\\n\\n[쇠락: 3단계]\\n기력 500 제거\\n(20초간 같은 대상에 동일한 효과 적용 불가)",
+        "English_Text": "When attacking, has a chance to cast [Degradation: Stage 3] on the enemy.\\n\\n[Degradation: Stage 3]\\nRemove 500 Energy\\n (Same effect cannot be applied to the same target for 20 seconds)",
+        "Russian_Text": "",
+        "Chinese_Text": "攻击时，有几率对敌人施放[堕落：第三阶段]。\\n\\n[堕落：第三阶段]\\n去除500能量\\n（20秒内不能对同一目标施加相同效果）"
+    },
+    "92103011": {
+        "Dev_Desc": "파도기공패",
+        "Original_Text": "",
+        "English_Text": "",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "92103012": {
+        "Dev_Desc": "낭인기공패",
+        "Original_Text": "",
+        "English_Text": "",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "92103206": {
+        "Dev_Desc": "혜월기공패",
+        "Original_Text": "",
+        "English_Text": "",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "92103207": {
+        "Dev_Desc": "청랑기공패",
+        "Original_Text": "",
+        "English_Text": "",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "92103411": {
+        "Dev_Desc": "검은 바람의 혼",
+        "Original_Text": "",
+        "English_Text": "",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "92103412": {
+        "Dev_Desc": "붉은 달의 줄기",
+        "Original_Text": "",
+        "English_Text": "",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "92103608": {
+        "Dev_Desc": "신령의 유지",
+        "Original_Text": "공격 시 일정 확률로 적에게 [역행: 1단계]를 시전합니다.\\n\\n[역행: 1단계]\\n6초간 공격속도 10% 감소\\n(30초간 같은 대상에 동일한 효과 적용 불가)",
+        "English_Text": "When attacking, there is a chance to cast [Retrograde: Step 1] on the enemy.\\n\\n[Regressive: Step 1]\\nReduces attack speed by 10% for 6 seconds\\n (Same effect cannot be applied to the same target for 30 seconds)",
+        "Russian_Text": "",
+        "Chinese_Text": "攻击时有几率对敌人施放[逆行：第1步]。\\n\\n[逆行：第1步]\\n攻击速度降低10%，持续6秒\\n(对同一目标不能施加相同效果) "
+    },
+    "92103609": {
+        "Dev_Desc": "검은 새벽의 기공패",
+        "Original_Text": "공격 시 일정 확률로 적에게 [역행: 3단계]를 시전합니다.\\n\\n[역행: 3단계]\\n8초간 공격속도 15% 감소\\n(30초간 같은 대상에 동일한 효과 적용 불가)",
+        "English_Text": "When attacking, has a chance to cast [Retrograde: Step 3] on the enemy.\\n\\n[Retro: Step 3]\\nReduces attack speed by 15% for 8 seconds\\n (Same effect cannot be applied to the same target for 30 seconds)",
+        "Russian_Text": "",
+        "Chinese_Text": "攻击时，有一定几率对敌人施放【逆行：第3步】。\\n\\n[逆行：第3步]\\n攻击速度降低15%，持续8秒\\n（同一个目标不能作用30"
+    },
+    "92203011": {
+        "Dev_Desc": "파도기공패(각인)",
+        "Original_Text": "[시련던전], [협행]에서 획득할 수 있습니다.",
+        "English_Text": "Can be obtained from [Trial Dungeon] and [Collaboration].",
+        "Russian_Text": "",
+        "Chinese_Text": "可以从【试炼地下城】和【协作】中获得。"
+    },
+    "92203012": {
+        "Dev_Desc": "낭인기공패(각인)",
+        "Original_Text": "[시련던전]에서 획득할 수 있습니다.",
+        "English_Text": "Can be obtained from [Trial Dungeon].",
+        "Russian_Text": "",
+        "Chinese_Text": "可以从【试炼地下城】获得。"
+    },
+    "92203206": {
+        "Dev_Desc": "혜월기공패(각인)",
+        "Original_Text": "[시련던전], [협행]에서 획득할 수 있습니다.",
+        "English_Text": "Can be obtained from [Trial Dungeon] and [Collaboration].",
+        "Russian_Text": "",
+        "Chinese_Text": "可以从【试炼地下城】和【协作】中获得。"
+    },
+    "92203207": {
+        "Dev_Desc": "청랑기공패(각인)",
+        "Original_Text": "[시련던전]에서 획득할 수 있습니다.",
+        "English_Text": "Can be obtained from [Trial Dungeon].",
+        "Russian_Text": "",
+        "Chinese_Text": "可以从【试炼地下城】获得。"
+    },
+    "92203411": {
+        "Dev_Desc": "검은 바람의 혼(각인)",
+        "Original_Text": "[시련던전], [협행]에서 획득할 수 있습니다.",
+        "English_Text": "Can be obtained from [Trial Dungeon] and [Collaboration].",
+        "Russian_Text": "",
+        "Chinese_Text": "可以从【试炼地下城】和【协作】中获得。"
+    },
+    "92203412": {
+        "Dev_Desc": "붉은 달의 줄기(각인)",
+        "Original_Text": "",
+        "English_Text": "",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "92203608": {
+        "Dev_Desc": "신령의 유지(각인)",
+        "Original_Text": "공격 시 일정 확률로 적에게 [역행: 1단계]를 시전합니다.\\n\\n[역행: 1단계]\\n6초간 공격속도 10% 감소\\n(30초간 같은 대상에 동일한 효과 적용 불가)\\n\\n[시련던전]에서 획득할 수 있습니다.",
+        "English_Text": "When attacking, has a chance to cast [Retrograde: Step 1] on the enemy.\\n\\n[Regressive: Step 1]\\nReduces attack speed by 10% for 6 seconds\\n(Same effect cannot be applied to the same target for 30 seconds)\\n\\n[Trial ",
+        "Russian_Text": "",
+        "Chinese_Text": "攻击时，有几率对敌人施放[逆行：第1步]。\\n\\n[逆行：第1步]\\n攻击速度降低10%，持续6秒\\n(同一个目标不能作用30"
+    },
+    "92203609": {
+        "Dev_Desc": "검은 새벽의 기공패(각인)",
+        "Original_Text": "공격 시 일정 확률로 적에게 [역행: 3단계]를 시전합니다.\\n\\n[역행: 3단계]\\n8초간 공격속도 15% 감소\\n(30초간 같은 대상에 동일한 효과 적용 불가)",
+        "English_Text": "When attacking, has a chance to cast [Retrograde: Step 3] on the enemy.\\n\\n[Retro: Step 3]\\nReduces attack speed by 15% for 8 seconds\\n (Same effect cannot be applied to the same target for 30 seconds)",
+        "Russian_Text": "",
+        "Chinese_Text": "攻击时，有一定几率对敌人施放【逆行：第3步】。\\n\\n[逆行：第3步]\\n攻击速度降低15%，持续8秒\\n（同一个目标不能作用30"
+    },
+    "92104011": {
+        "Dev_Desc": "전투도끼",
+        "Original_Text": "",
+        "English_Text": "",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "92104012": {
+        "Dev_Desc": "낭인도끼",
+        "Original_Text": "",
+        "English_Text": "",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "92104206": {
+        "Dev_Desc": "혜월부",
+        "Original_Text": "",
+        "English_Text": "",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "92104207": {
+        "Dev_Desc": "청랑부",
+        "Original_Text": "",
+        "English_Text": "",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "92104411": {
+        "Dev_Desc": "검은 바람의 장벽",
+        "Original_Text": "",
+        "English_Text": "",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "92104412": {
+        "Dev_Desc": "혈풍의 눈",
+        "Original_Text": "",
+        "English_Text": "",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "92104608": {
+        "Dev_Desc": "파천대부",
+        "Original_Text": "공격 시 일정 확률로 적에게 [방파: 1단계]를 시전합니다.\\n\\n[방파: 1단계]\\n6초간 호신 5 감소\\n(30초간 같은 대상에 동일한 효과 적용 불가)",
+        "English_Text": "When attacking, has a chance to cast [Break: Step 1] on the enemy.\\n\\n[Break: Step 1]\\nReduces self-defense by 5 for 6 seconds\\n (Same effect cannot be applied to the same target for 30 seconds)",
+        "Russian_Text": "",
+        "Chinese_Text": "攻击时，有一定几率对敌人施放[破坏：第1步]。\\n\\n[破坏：第1步]\\n自防降低5，持续6秒\\n(同一个目标不能施加30"
+    },
+    "92104609": {
+        "Dev_Desc": "검은 새벽의 도끼",
+        "Original_Text": "공격 시 일정 확률로 적에게 [방파: 3단계]를 시전합니다.\\n\\n[방파: 3단계]\\n8초간 호신 10 감소\\n(30초간 같은 대상에 동일한 효과 적용 불가)",
+        "English_Text": "When attacking, has a chance to cast [Breakdown: Step 3] on the enemy.\\n\\n[Break: Step 3]\\nReduces self-defense by 10 for 8 seconds\\n (Same effect cannot be applied to the same target for 30 seconds)",
+        "Russian_Text": "",
+        "Chinese_Text": "攻击时，有一定几率对敌人施放[击破：第3步]。\\n\\n[破击：第3步]\\n自防降低10点，持续8秒\\n(同一个目标不能作用30"
+    },
+    "92204011": {
+        "Dev_Desc": "전투도끼(각인)",
+        "Original_Text": "[시련던전], [협행]에서 획득할 수 있습니다.",
+        "English_Text": "Can be obtained from [Trial Dungeon] and [Collaboration].",
+        "Russian_Text": "",
+        "Chinese_Text": "可以从【试炼地下城】和【协作】中获得。"
+    },
+    "92204012": {
+        "Dev_Desc": "낭인도끼(각인)",
+        "Original_Text": "[시련던전]에서 획득할 수 있습니다.",
+        "English_Text": "Can be obtained from [Trial Dungeon].",
+        "Russian_Text": "",
+        "Chinese_Text": "可以从【试炼地下城】获得。"
+    },
+    "92204206": {
+        "Dev_Desc": "혜월부(각인)",
+        "Original_Text": "[시련던전], [협행]에서 획득할 수 있습니다.",
+        "English_Text": "Can be obtained from [Trial Dungeon] and [Collaboration].",
+        "Russian_Text": "",
+        "Chinese_Text": "可以从【试炼地下城】和【协作】中获得。"
+    },
+    "92204207": {
+        "Dev_Desc": "청랑부(각인)",
+        "Original_Text": "[시련던전]에서 획득할 수 있습니다.",
+        "English_Text": "Can be obtained from [Trial Dungeon].",
+        "Russian_Text": "",
+        "Chinese_Text": "可以从【试炼地下城】获得。"
+    },
+    "92204411": {
+        "Dev_Desc": "검은 바람의 장벽(각인)",
+        "Original_Text": "[시련던전], [협행]에서 획득할 수 있습니다.",
+        "English_Text": "Can be obtained from [Trial Dungeon] and [Collaboration].",
+        "Russian_Text": "",
+        "Chinese_Text": "可以从【试炼地下城】和【协作】中获得。"
+    },
+    "92204412": {
+        "Dev_Desc": "혈풍의 눈(각인)",
+        "Original_Text": "",
+        "English_Text": "",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "92204608": {
+        "Dev_Desc": "파천대부(각인)",
+        "Original_Text": "공격 시 일정 확률로 적에게 [방파: 1단계]를 시전합니다.\\n\\n[방파: 1단계]\\n6초간 호신 5 감소\\n(30초간 같은 대상에 동일한 효과 적용 불가)\\n\\n[시련던전]에서 획득할 수 있습니다.",
+        "English_Text": "When attacking, has a chance to cast [Breakdown: Step 1] on the enemy.\\n\\n[Breakdown: Step 1]\\nReduces self-defense by 5 for 6 seconds\\n(Same effect cannot be applied to the same target for 30 seconds)\\n\\n[Trial Dungeon] ",
+        "Russian_Text": "",
+        "Chinese_Text": "攻击时，有一定几率对敌人施放[击破：第1步]。\\n\\n[击破：第1步]\\n自防降低5点，持续6秒\\n(同一个目标不能施加30"
+    },
+    "92204609": {
+        "Dev_Desc": "검은 새벽의 도끼(각인)",
+        "Original_Text": "공격 시 일정 확률로 적에게 [방파: 3단계]를 시전합니다.\\n\\n[방파: 3단계]\\n8초간 호신 10 감소\\n(30초간 같은 대상에 동일한 효과 적용 불가)",
+        "English_Text": "When attacking, has a chance to cast [Breakdown: Step 3] on the enemy.\\n\\n[Break: Step 3]\\nReduces self-defense by 10 for 8 seconds\\n (Same effect cannot be applied to the same target for 30 seconds)",
+        "Russian_Text": "",
+        "Chinese_Text": "攻击时，有一定几率对敌人施放[击破：第3步]。\\n\\n[破击：第3步]\\n自防降低10点，持续8秒\\n(同一个目标不能作用30"
+    },
+    "92105011": {
+        "Dev_Desc": "병사의 활",
+        "Original_Text": "",
+        "English_Text": "",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "92105012": {
+        "Dev_Desc": "낭인궁",
+        "Original_Text": "",
+        "English_Text": "",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "92105206": {
+        "Dev_Desc": "혜월궁",
+        "Original_Text": "",
+        "English_Text": "",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "92105207": {
+        "Dev_Desc": "청랑궁",
+        "Original_Text": "",
+        "English_Text": "",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "92105411": {
+        "Dev_Desc": "검은 바람의 질주",
+        "Original_Text": "",
+        "English_Text": "",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "92105412": {
+        "Dev_Desc": "붉은 밤의 폭우",
+        "Original_Text": "",
+        "English_Text": "",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "92105608": {
+        "Dev_Desc": "바람의 노래",
+        "Original_Text": "공격 시 일정 확률로 적에게 [열상: 1단계]를 시전합니다.\\n\\n[열상: 1단계]\\n6초간 물약 회복량 15 감소\\n(30초간 같은 대상에 동일한 효과 적용 불가)",
+        "English_Text": "When attacking, there is a chance to cast [Fracture: Stage 1] on the enemy.\\n\\n[Fracture: Stage 1]\\nReduces potion recovery by 15 for 6 seconds\\n (Same effect cannot be applied to the same target for 30 seconds)",
+        "Russian_Text": "",
+        "Chinese_Text": "攻击时，有一定几率对敌人施放[骨折：第一阶段]。\\n\\n[骨折：第一阶段]\\n减少药水恢复15，持续6秒\\n（同一个目标不能施加30"
+    },
+    "92105609": {
+        "Dev_Desc": "검은 새벽의 활",
+        "Original_Text": "공격 시 일정 확률로 적에게 [열상: 3단계]를 시전합니다.\\n\\n[열상: 3단계]\\n8초간 물약 회복량 25 감소\\n(30초간 같은 대상에 동일한 효과 적용 불가)",
+        "English_Text": "When attacking, has a chance to cast [Fracture: Stage 3] on the enemy.\\n\\n[Fracture: Stage 3]\\nReduces potion recovery by 25 for 8 seconds\\n (Same effect cannot be applied to the same target for 30 seconds)",
+        "Russian_Text": "",
+        "Chinese_Text": "攻击时，有一定几率对敌人施放[骨折：第三阶段]。\\n\\n[骨折：第三阶段]\\n减少药水回复25，持续8秒\\n（30秒内不能对同一目标施加相同效果） "
+    },
+    "92205011": {
+        "Dev_Desc": "병사의 활(각인)",
+        "Original_Text": "[시련던전], [협행]에서 획득할 수 있습니다.",
+        "English_Text": "Can be obtained from [Trial Dungeon] and [Collaboration].",
+        "Russian_Text": "",
+        "Chinese_Text": "可以从【试炼地下城】和【协作】中获得。"
+    },
+    "92205012": {
+        "Dev_Desc": "낭인궁(각인)",
+        "Original_Text": "[시련던전]에서 획득할 수 있습니다.",
+        "English_Text": "Can be obtained from [Trial Dungeon].",
+        "Russian_Text": "",
+        "Chinese_Text": "可以从【试炼地下城】获得。"
+    },
+    "92205206": {
+        "Dev_Desc": "혜월궁(각인)",
+        "Original_Text": "[시련던전], [협행]에서 획득할 수 있습니다.",
+        "English_Text": "Can be obtained from [Trial Dungeon] and [Collaboration].",
+        "Russian_Text": "",
+        "Chinese_Text": "可以从【试炼地下城】和【协作】中获得。"
+    },
+    "92205207": {
+        "Dev_Desc": "청랑궁(각인)",
+        "Original_Text": "[시련던전]에서 획득할 수 있습니다.",
+        "English_Text": "Can be obtained from [Trial Dungeon].",
+        "Russian_Text": "",
+        "Chinese_Text": "可以从【试炼地下城】获得。"
+    },
+    "92205411": {
+        "Dev_Desc": "검은 바람의 질주(각인)",
+        "Original_Text": "[시련던전], [협행]에서 획득할 수 있습니다.",
+        "English_Text": "Can be obtained from [Trial Dungeon] and [Collaboration].",
+        "Russian_Text": "",
+        "Chinese_Text": "可以从【试炼地下城】和【协作】中获得。"
+    },
+    "92205412": {
+        "Dev_Desc": "붉은 밤의 폭우(각인)",
+        "Original_Text": "",
+        "English_Text": "",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "92205608": {
+        "Dev_Desc": "바람의 노래(각인)",
+        "Original_Text": "공격 시 일정 확률로 적에게 [열상: 1단계]를 시전합니다.\\n\\n[열상: 1단계]\\n6초간 물약 회복량 15 감소\\n(30초간 같은 대상에 동일한 효과 적용 불가)\\n\\n[시련던전]에서 획득할 수 있습니다.",
+        "English_Text": "When attacking, there is a chance to cast [Fracture: Stage 1] on the enemy.\\n\\n[Fracture: Stage 1]\\nReduces potion recovery by 15 for 6 seconds\\n(Same effect cannot be applied to the same target for 30 seconds)\\n\\n[Trial ",
+        "Russian_Text": "",
+        "Chinese_Text": "攻击时，有一定几率对敌人施放[骨折：第一阶段]。\\n\\n[骨折：第一阶段]\\n减少药水回复15，持续6秒\\n(同一效果不能对同一目标施加30"
+    },
+    "92205609": {
+        "Dev_Desc": "검은 새벽의 활(각인)",
+        "Original_Text": "공격 시 일정 확률로 적에게 [열상: 3단계]를 시전합니다.\\n\\n[열상: 3단계]\\n8초간 물약 회복량 25 감소\\n(30초간 같은 대상에 동일한 효과 적용 불가)",
+        "English_Text": "When attacking, has a chance to cast [Fracture: Stage 3] on the enemy.\\n\\n[Fracture: Stage 3]\\nReduces potion recovery by 25 for 8 seconds\\n (Same effect cannot be applied to the same target for 30 seconds)",
+        "Russian_Text": "",
+        "Chinese_Text": "攻击时，有一定几率对敌人施放[骨折：第三阶段]。\\n\\n[骨折：第三阶段]\\n减少药水回复25，持续8秒\\n（30秒内不能对同一目标施加相同效果） "
+    },
+    "92106011": {
+        "Dev_Desc": "진혜법종",
+        "Original_Text": "",
+        "English_Text": "",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "92106012": {
+        "Dev_Desc": "낭인법종",
+        "Original_Text": "",
+        "English_Text": "",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "92106206": {
+        "Dev_Desc": "혜월법종",
+        "Original_Text": "",
+        "English_Text": "",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "92106207": {
+        "Dev_Desc": "청랑법종",
+        "Original_Text": "",
+        "English_Text": "",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "92106411": {
+        "Dev_Desc": "검은 바람의 의지",
+        "Original_Text": "",
+        "English_Text": "",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "92106412": {
+        "Dev_Desc": "핏빛의 전달자",
+        "Original_Text": "",
+        "English_Text": "",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "92106608": {
+        "Dev_Desc": "인형의 비원",
+        "Original_Text": "공격 시 일정 확률로 적에게 [제령: 1단계]를 시전합니다.\\n\\n[제령: 1단계]\\n6초간 소울 발동률 2% 감소\\n(30초간 같은 대상에 동일한 효과 적용 불가)",
+        "English_Text": "When attacking, has a chance to cast [Order: Step 1] on the enemy.\\n\\n[Order: Step 1]\\nReduces Soul Activation Rate by 2% for 6 seconds\\n (Same effect cannot be applied to the same target for 30 seconds)",
+        "Russian_Text": "",
+        "Chinese_Text": "攻击时，有一定几率对敌人施放[命令：第1步]。\\n\\n[命令：第1步]\\n降低灵魂激活率2%，持续6秒\\n（对同一目标不能施加相同效果"
+    },
+    "92106609": {
+        "Dev_Desc": "검은 새벽의 법종",
+        "Original_Text": "공격 시 일정 확률로 적에게 [제령: 3단계]를 시전합니다.\\n\\n[제령: 3단계]\\n8초간 소울 발동률 4% 감소\\n(30초간 같은 대상에 동일한 효과 적용 불가)",
+        "English_Text": "When attacking, there is a chance to cast [Order: Step 3] on the enemy.\\n\\n[Order: Step 3]\\nReduces Soul Activation Rate by 4% for 8 seconds\\n (Same effect cannot be applied to the same target for 30 seconds)",
+        "Russian_Text": "",
+        "Chinese_Text": "攻击时，有一定几率对敌人施放[命令：第3步]。\\n\\n[命令：第3步]\\n降低灵魂激活率4%，持续8秒\\n（不能对同一目标施加相同效果"
+    },
+    "92206011": {
+        "Dev_Desc": "진혜법종(각인)",
+        "Original_Text": "[시련던전], [협행]에서 획득할 수 있습니다.",
+        "English_Text": "Can be obtained from [Trial Dungeon] and [Collaboration].",
+        "Russian_Text": "",
+        "Chinese_Text": "可以从【试炼地下城】和【协作】中获得。"
+    },
+    "92206012": {
+        "Dev_Desc": "낭인법종(각인)",
+        "Original_Text": "[시련던전]에서 획득할 수 있습니다.",
+        "English_Text": "Can be obtained from [Trial Dungeon].",
+        "Russian_Text": "",
+        "Chinese_Text": "可以从【试炼地下城】获得。"
+    },
+    "92206206": {
+        "Dev_Desc": "혜월법종(각인)",
+        "Original_Text": "[시련던전], [협행]에서 획득할 수 있습니다.",
+        "English_Text": "Can be obtained from [Trial Dungeon] and [Collaboration].",
+        "Russian_Text": "",
+        "Chinese_Text": "可以从【试炼地下城】和【协作】中获得。"
+    },
+    "92206207": {
+        "Dev_Desc": "청랑법종(각인)",
+        "Original_Text": "[시련던전]에서 획득할 수 있습니다.",
+        "English_Text": "Can be obtained from [Trial Dungeon].",
+        "Russian_Text": "",
+        "Chinese_Text": "可以从【试炼地下城】获得。"
+    },
+    "92206411": {
+        "Dev_Desc": "검은 바람의 의지(각인)",
+        "Original_Text": "[시련던전], [협행]에서 획득할 수 있습니다.",
+        "English_Text": "Can be obtained from [Trial Dungeon] and [Collaboration].",
+        "Russian_Text": "",
+        "Chinese_Text": "可以从【试炼地下城】和【协作】中获得。"
+    },
+    "92206412": {
+        "Dev_Desc": "핏빛의 전달자(각인)",
+        "Original_Text": "",
+        "English_Text": "",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "92206608": {
+        "Dev_Desc": "인형의 비원(각인)",
+        "Original_Text": "공격 시 일정 확률로 적에게 [제령: 1단계]를 시전합니다.\\n\\n[제령: 1단계]\\n6초간 소울 발동률 2% 감소\\n(30초간 같은 대상에 동일한 효과 적용 불가)\\n\\n[시련던전]에서 획득할 수 있습니다.",
+        "English_Text": "When attacking, has a chance to cast [Order: Step 1] on the enemy.\\n\\n[Order: Step 1]\\nReduces Soul Activation Rate by 2% for 6 seconds\\n(Same effect cannot be applied to the same target for 30 seconds)\\n\\n[Trial ",
+        "Russian_Text": "",
+        "Chinese_Text": "攻击时，有一定几率对敌人施放[命令：第1步]。\\n\\n[命令：第1步]\\n降低灵魂激活率2%，持续6秒\\n(同一效果不能对同一目标施加"
+    },
+    "92206609": {
+        "Dev_Desc": "검은 새벽의 법종(각인)",
+        "Original_Text": "공격 시 일정 확률로 적에게 [제령: 3단계]를 시전합니다.\\n\\n[제령: 3단계]\\n8초간 소울 발동률 4% 감소\\n(30초간 같은 대상에 동일한 효과 적용 불가)",
+        "English_Text": "When attacking, there is a chance to cast [Order: Step 3] on the enemy.\\n\\n[Order: Step 3]\\nReduces Soul Activation Rate by 4% for 8 seconds\\n (Same effect cannot be applied to the same target for 30 seconds)",
+        "Russian_Text": "",
+        "Chinese_Text": "攻击时，有一定几率对敌人施放[命令：第3步]。\\n\\n[命令：第3步]\\n降低灵魂激活率4%，持续8秒\\n（不能对同一目标施加相同效果"
     }
 }

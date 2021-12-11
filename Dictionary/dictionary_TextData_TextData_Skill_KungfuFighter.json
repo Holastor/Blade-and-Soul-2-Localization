@@ -1356,5 +1356,54 @@
         "English_Text": "Jumps and slams the ground, with a chance to inflict Air effects on enemies and deal damage.\nAfter falling from the air, they are stunned.",
         "Russian_Text": "",
         "Chinese_Text": "“跳跃并猛击地面，有几率对敌人造成‘空气’效果并造成伤害。\n从空中坠落后，他们被‘眩晕’。”"
+    },
+    "60020196": {
+        "Dev_Desc": "맹호격_돌파_설명",
+        "Original_Text": "뛰어올라 지면을 강타해 일정 확률로 적에게 <textColor=[248:99:99:255]>공중</> 효과를 부여하고 피해를 입힙니다.\\n공중에서 떨어진 후 <textColor=[248:99:99:255]>기절</> 상태가 됩니다.",
+        "English_Text": "Leaps and slams the ground, with a chance to inflict <textColor=[248:99:99:255]>Air</>>Air</>> to an enemy and deal damage.\\nAfter falling from the air, <textColor=[248: 99:99:255]>Stunned</>.",
+        "Russian_Text": "",
+        "Chinese_Text": "跳跃并猛击地面，有几率对敌人造成<textColor=[248:99:99:255]>空气</>>空气</>>并造成伤害。\\n从空中坠落后，< textColor=[248: 99:99:255]>震惊</>。"
+    },
+    "60020197": {
+        "Dev_Desc": "연권",
+        "Original_Text": "연권",
+        "English_Text": "Long-Kwon",
+        "Russian_Text": "",
+        "Chinese_Text": "龙权"
+    },
+    "60020198": {
+        "Dev_Desc": "연권_설명",
+        "Original_Text": "대상에게 좌우로 주먹을 빠르게 날립니다.\\n<textColor=[248:99:99:255]>소울 패링 기절</> 대상에게 공격 버튼을 수동으로 눌러 사용 가능합니다.",
+        "English_Text": "Quickly shoots fists left and right at the target.\\n<textColor=[248:99:99:255]>Soul Parry Stun</> Can be used by manually pressing the attack button at the target.",
+        "Russian_Text": "",
+        "Chinese_Text": "快速向左右射出拳头。\\n<textColor=[248:99:99:255]>灵魂招架眩晕</> 可以通过手动按下目标的攻击按钮来使用。"
+    },
+    "60020199": {
+        "Dev_Desc": "연권_사용조건",
+        "Original_Text": "소울 패링 기절 대상",
+        "English_Text": "Soul Farring Stun Target",
+        "Russian_Text": "",
+        "Chinese_Text": "魂传眩晕目标"
+    },
+    "60020200": {
+        "Dev_Desc": "패시브_권법연계Ⅰ_이름",
+        "Original_Text": "권법연계Ⅰ",
+        "English_Text": "Kwonbeop Connection I",
+        "Russian_Text": "",
+        "Chinese_Text": "Kwonbeop 连接 I"
+    },
+    "60020201": {
+        "Dev_Desc": "패시브_권법연계Ⅰ_설명",
+        "Original_Text": "보스 몬스터 공격 시 일정 확률로 \"절명각\", \"맹호격\", \"승천권\"이 활성화됩니다.\\n(사용 무공 활성화 대기시간 15초)",
+        "English_Text": "When attacking a boss monster, there is a certain probability that Destroyer, Rich Tiger, and Ascension will be activated.",
+        "Russian_Text": "",
+        "Chinese_Text": "攻击boss怪物时，有一定概率会触发毁灭者、富翁、飞升。"
+    },
+    "60020202": {
+        "Dev_Desc": "패시브_권법연계Ⅰ_효과",
+        "Original_Text": "조건부 무공 활성화",
+        "English_Text": "Conditional Non-Gun Activation",
+        "Russian_Text": "",
+        "Chinese_Text": "有条件的非枪激活"
     }
 }
