@@ -27,11 +27,11 @@ BTC - bc1qpqnyfvz36u904pw60tv5ky8da38aq0wy7l7rk6
 ## Install
 
 * ONLY PC
-* [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/releases/tag/1.5.0) Latest Release (B2-WindowsNoEditor_00003.pak);
+* [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/releases/tag/1.5.5) Latest Release (B2-WindowsNoEditor_00003.pak);
 * Place the file B2-WindowsNoEditor_00003.pak in the \Game Folder\B2\Content\Paks;
 * And you need to go folder C:\Users\UserName\AppData\Local\B2\Saved\Option and open file LocalOption.json;
 * For Chinese Localization requires B2-WindowsNoEditor_00004.pak file;
-* In LocalOption.json find "language":1" and change it to "language":2" for English Language or "language":3" for Chinese Language;
+* In LocalOption.json find "language":1" and change it to "language":2" for English Language or "language":4" for Chinese Language;
 * And that's it you have english language!;
 ## OR Source-Install
 * ONLY PC
@@ -48,10 +48,10 @@ BTC - bc1qpqnyfvz36u904pw60tv5ky8da38aq0wy7l7rk6
 
 ## Mobile-Install
 * ONLY Android
-* [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/releases/tag/1.1.1_M) Latest Release (patch.41.com.ncsoft.bns219.obb);
-* patch.41.com.ncsoft.bns219_en.obb - English Language; patch.41.com.ncsoft.bns219_ru.obb - Russian Language; patch.41.com.ncsoft.bns219_zh.obb - Chinese Language;
-* Place the file patch.41.com.ncsoft.bns219_en.obb in the "Internal Memory\Android\obb\com.ncsoft.bns219";
-* Rename the file patch.41.com.ncsoft.bns219_en.obb to get patch.41.com.ncsoft.bns219.obb;
+* [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/releases/tag/1.5.5_M) Latest Release (patch.51.com.ncsoft.bns219.obb);
+* patch.51.com.ncsoft.bns219_en.obb - English Language; patch.51.com.ncsoft.bns219_ru.obb - Russian Language; patch.51.com.ncsoft.bns219_zh.obb - Chinese Language;
+* Place the file patch.51.com.ncsoft.bns219_en.obb in the "Internal Memory\Android\obb\com.ncsoft.bns219";
+* Rename the file patch.51.com.ncsoft.bns219_en.obb to get patch.51.com.ncsoft.bns219.obb;
 * And that's it you have English language or any other;
 
 ## About
