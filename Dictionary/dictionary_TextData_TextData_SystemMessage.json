@@ -7572,5 +7572,82 @@
         "English_Text": "This is not a craftable period.",
         "Russian_Text": "",
         "Chinese_Text": "这不是一个可以制作的时期。"
+    },
+    "9001124": {
+        "Dev_Desc": "잠금 / 용해 시도",
+        "Original_Text": "잠겨있는 물품은 용해할 수 없습니다.",
+        "English_Text": "Items that are locked cannot be melted.",
+        "Russian_Text": "",
+        "Chinese_Text": "被锁定的物品无法融化。"
+    },
+    "9001125": {
+        "Dev_Desc": "채팅 시스템 메시지 / 조롱",
+        "Original_Text": "<<arg p=[1:string]/>><arg p=[2:string]/> 님이 <arg p=[3:string]/> 님을 처치 했습니다.</>",
+        "English_Text": "<<arg p=[1:string]/>><arg p=[2:string]/>killed <arg p=[3:string]/></>",
+        "Russian_Text": "",
+        "Chinese_Text": "<<arg p=[1:string]/>><arg p=[2:string]/>杀死了<arg p=[3:string]/></>"
+    },
+    "9001126": {
+        "Dev_Desc": "상점 / 장바구니 등록 / 장바구니 부족",
+        "Original_Text": "장바구니가 모두 차 있습니다. 정리 후 다시 시도해주세요.",
+        "English_Text": "Your shopping cart is full. Please clean up and try again.",
+        "Russian_Text": "",
+        "Chinese_Text": "您的购物车已满，请清理干净再试一次。"
+    },
+    "9001127": {
+        "Dev_Desc": "상점 / 장바구니 등록 / 무게 초과",
+        "Original_Text": "소지 가능 무게를 초과하여 등록할 수 없습니다.",
+        "English_Text": "You cannot register because you exceed the carry-on weight.",
+        "Russian_Text": "",
+        "Chinese_Text": "你不能登记，因为你超过了随身携带的重量。"
+    },
+    "9001128": {
+        "Dev_Desc": "상점 / 장바구니 등록 / 소지품창 부족",
+        "Original_Text": "소지품 여유 공간이 없어 등록할 수 없습니다.",
+        "English_Text": "Cannot register because there is not enough space in your belongings.",
+        "Russian_Text": "",
+        "Chinese_Text": "无法注册，因为您的物品空间不足。"
+    },
+    "9001129": {
+        "Dev_Desc": "다중 강화 / 강화 실패 / 강화 목표 설정 안됨",
+        "Original_Text": "강화 목표 설정 후 강화할 수 있습니다.",
+        "English_Text": "After setting a reinforcement target, you can strengthen it.",
+        "Russian_Text": "",
+        "Chinese_Text": "设定强化目标后，就可以强化了。"
+    },
+    "9001130": {
+        "Dev_Desc": "다중 강화 / 강화 실패 / 주문서 부족",
+        "Original_Text": "주문서가 부족하여 강화할 수 없습니다.",
+        "English_Text": "There are not enough spells to enhance.",
+        "Russian_Text": "",
+        "Chinese_Text": "没有足够的法术可以增强。"
+    },
+    "9001131": {
+        "Dev_Desc": "다중 강화 / 재화 부족",
+        "Original_Text": "금화가 부족하여 강화할 수 없습니다.",
+        "English_Text": "Cannot be strengthened due to lack of gold coins.",
+        "Russian_Text": "",
+        "Chinese_Text": "金币不足，无法强化。"
+    },
+    "9001132": {
+        "Dev_Desc": "다중 강화 / 장비 없음",
+        "Original_Text": "강화 가능한 장비가 없습니다. 강화 목표 설정 후 다시 시도해주세요.",
+        "English_Text": "There is no equipment that can be upgraded. Please try again after setting an enhancement target.",
+        "Russian_Text": "",
+        "Chinese_Text": "没有可以升级的装备，请设定强化目标后再试。"
+    },
+    "9001133": {
+        "Dev_Desc": "다중 강화 / 장비 등록 실패 / 꽉참",
+        "Original_Text": "더 이상 장비를 등록할 수 없습니다.",
+        "English_Text": "You can no longer register your device.",
+        "Russian_Text": "",
+        "Chinese_Text": "您无法再注册您的设备。"
+    },
+    "9001134": {
+        "Dev_Desc": "다중 강화 / 강화 단계 초과",
+        "Original_Text": "해당 단계까지 강화할 수 없습니다.",
+        "English_Text": "You cannot upgrade to that level.",
+        "Russian_Text": "",
+        "Chinese_Text": "你不能升级到那个级别。"
     }
 }

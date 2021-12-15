@@ -23961,5 +23961,67 @@
         "id": 8003504,
         "alias": "UI.Craft.LeftSubTabName.Event.Box",
         "text": "闪亮的齿轮箱"
+    },
+    "8003505": {
+        "deprecated": false,
+        "Dev_Desc": "다중 강화 / 다중 강화 버튼",
+        "id": 8003505,
+        "alias": "UI.MultiEnchant.MultiEnchantButton",
+        "text": "多重强化"
+    },
+    "8003506": {
+        "deprecated": false,
+        "Dev_Desc": "다중 강화 / 강화 중지 버튼",
+        "id": 8003506,
+        "alias": "UI.MultiEnchant.EnchantCancleButton",
+        "text": "停止强化"
+    },
+    "8003507": {
+        "deprecated": false,
+        "Dev_Desc": "다중 강화 / 비안전 강화 안내",
+        "id": 8003507,
+        "alias": "UI.MultiEnchant.NonSafetyDesc",
+        "text": "部分设备已经设置到非安全增强级别。"
+    },
+    "8003508": {
+        "deprecated": false,
+        "Dev_Desc": "다중 강화 / 팝업 / 설명1",
+        "id": 8003508,
+        "alias": "UI.MultiEnchant.Popup.Desc.1",
+        "text": "要进行多项强化吗？"
+    },
+    "8003509": {
+        "deprecated": false,
+        "Dev_Desc": "다중 강화 / 팝업 / 설명2",
+        "id": 8003509,
+        "alias": "UI.MultiEnchant.Popup.Desc.2",
+        "text": "部分装备被设置为不安全强化等级。<br/>如果强化失败，装备将被销毁。"
+    },
+    "8003510": {
+        "deprecated": false,
+        "Dev_Desc": "GNB / 야루의 상자 / 재련 정보 URL 연결 버튼",
+        "id": 8003510,
+        "alias": "UI.Smelting.UrlButton",
+        "text": "精炼信息"
+    },
+    "8003511": {
+        "deprecated": false,
+        "Dev_Desc": "GNB / 공용 / 확률 정보 버튼",
+        "id": 8003511,
+        "alias": "UI.GNB.ProbabiltiyURLButton",
+        "text": "概率信息"
+    },
+    "8003512": {
+        "deprecated": false,
+        "id": 8003512,
+        "alias": "UI.Setting.Convenience.RepurchasePopUpSkip",
+        "text": "跳过灵魂/守护者回购弹出窗口"
+    },
+    "8003513": {
+        "deprecated": false,
+        "Dev_Desc": "랭킹 / 문파 랭킹 혜택 팝업 / 순위 표시",
+        "id": 8003513,
+        "alias": "UI.Ranking.GuildEXPRankRewardInfoPopup.Rank",
+        "text": "<arg p=[1:integer]/>以上"
     }
 }

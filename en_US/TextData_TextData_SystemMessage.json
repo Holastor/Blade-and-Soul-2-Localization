@@ -7430,5 +7430,82 @@
         "id": 9001123,
         "alias": "SysM.Craft.WrongPeriod",
         "text": "This is not a craftable period."
+    },
+    "9001124": {
+        "deprecated": false,
+        "Dev_Desc": "잠금 / 용해 시도",
+        "id": 9001124,
+        "alias": "SysM.ItemLock.Fail.9",
+        "text": "Items that are locked cannot be melted."
+    },
+    "9001125": {
+        "deprecated": false,
+        "Dev_Desc": "채팅 시스템 메시지 / 조롱",
+        "id": 9001125,
+        "alias": "SyM.ChatSysM.Rididule.Desc",
+        "text": "<<arg p=[1:string]/>><arg p=[2:string]/>killed <arg p=[3:string]/></>"
+    },
+    "9001126": {
+        "deprecated": false,
+        "Dev_Desc": "상점 / 장바구니 등록 / 장바구니 부족",
+        "id": 9001126,
+        "alias": "SysM.Shop.Regist.TempSlotFull",
+        "text": "Your shopping cart is full. Please clean up and try again."
+    },
+    "9001127": {
+        "deprecated": false,
+        "Dev_Desc": "상점 / 장바구니 등록 / 무게 초과",
+        "id": 9001127,
+        "alias": "SysM.Stash.Regist.WeightOver",
+        "text": "You cannot register because you exceed the carry-on weight."
+    },
+    "9001128": {
+        "deprecated": false,
+        "Dev_Desc": "상점 / 장바구니 등록 / 소지품창 부족",
+        "id": 9001128,
+        "alias": "SysM.Shop.Purchase.InventorySpace",
+        "text": "Cannot register because there is not enough space in your belongings."
+    },
+    "9001129": {
+        "deprecated": false,
+        "Dev_Desc": "다중 강화 / 강화 실패 / 강화 목표 설정 안됨",
+        "id": 9001129,
+        "alias": "SysM.MultiEnchant.EnchantFail.NoEnchantTarget",
+        "text": "After setting a reinforcement target, you can strengthen it."
+    },
+    "9001130": {
+        "deprecated": false,
+        "Dev_Desc": "다중 강화 / 강화 실패 / 주문서 부족",
+        "id": 9001130,
+        "alias": "SysM.MultiEnchant.EnchantFail.LackOfScroll",
+        "text": "There are not enough spells to enhance."
+    },
+    "9001131": {
+        "deprecated": false,
+        "Dev_Desc": "다중 강화 / 재화 부족",
+        "id": 9001131,
+        "alias": "SysM.MultiEnchant.EnchantFail.LackOfMoney",
+        "text": "Cannot be strengthened due to lack of gold coins."
+    },
+    "9001132": {
+        "deprecated": false,
+        "Dev_Desc": "다중 강화 / 장비 없음",
+        "id": 9001132,
+        "alias": "SysM.MultiEnchant.EnchantFail.NoEquipment",
+        "text": "There is no equipment that can be upgraded. Please try again after setting an enhancement target."
+    },
+    "9001133": {
+        "deprecated": false,
+        "Dev_Desc": "다중 강화 / 장비 등록 실패 / 꽉참",
+        "id": 9001133,
+        "alias": "SysM.MultiEnchant.RegistFail.Full",
+        "text": "You can no longer register your device."
+    },
+    "9001134": {
+        "deprecated": false,
+        "Dev_Desc": "다중 강화 / 강화 단계 초과",
+        "id": 9001134,
+        "alias": "SysM.MultiEnchant.EnchantFail.ExceedLevel",
+        "text": "You cannot upgrade to that level."
     }
 }

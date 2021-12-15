@@ -46,7 +46,7 @@
         "Dev_Desc": "ShortPhysicalAttack",
         "id": 10007,
         "alias": "Contents.Stat.Name.ShortPhysicalAttack",
-        "text": "生命"
+        "text": "武器攻击力提升率"
     },
     "10008": {
         "deprecated": false,
@@ -109,7 +109,7 @@
         "Dev_Desc": "healingPower",
         "id": 10016,
         "alias": "Contents.Stat.Name.healingPower",
-        "text": "武器攻击力提升率"
+        "text": "生命"
     },
     "10017": {
         "deprecated": false,
@@ -368,7 +368,7 @@
         "Dev_Desc": "LongPhysicalCriticalResistanceRate",
         "id": 10053,
         "alias": "Contents.Stat.Name.LongPhysicalCriticalResistanceRate",
-        "text": "机敏"
+        "text": "对人额外攻击力"
     },
     "10054": {
         "deprecated": false,
@@ -571,7 +571,7 @@
         "Dev_Desc": "TakenHealRate",
         "id": 10082,
         "alias": "Contents.Stat.Name.TakenHealRate",
-        "text": "对人额外攻击力"
+        "text": "放大的传入治疗"
     },
     "10083": {
         "deprecated": false,

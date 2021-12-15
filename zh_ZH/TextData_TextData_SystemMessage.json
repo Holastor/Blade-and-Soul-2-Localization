@@ -7430,5 +7430,82 @@
         "id": 9001123,
         "alias": "SysM.Craft.WrongPeriod",
         "text": "这不是一个可以制作的时期。"
+    },
+    "9001124": {
+        "deprecated": false,
+        "Dev_Desc": "잠금 / 용해 시도",
+        "id": 9001124,
+        "alias": "SysM.ItemLock.Fail.9",
+        "text": "被锁定的物品无法融化。"
+    },
+    "9001125": {
+        "deprecated": false,
+        "Dev_Desc": "채팅 시스템 메시지 / 조롱",
+        "id": 9001125,
+        "alias": "SyM.ChatSysM.Rididule.Desc",
+        "text": "<<arg p=[1:string]/>><arg p=[2:string]/>杀死了<arg p=[3:string]/></>"
+    },
+    "9001126": {
+        "deprecated": false,
+        "Dev_Desc": "상점 / 장바구니 등록 / 장바구니 부족",
+        "id": 9001126,
+        "alias": "SysM.Shop.Regist.TempSlotFull",
+        "text": "您的购物车已满，请清理干净再试一次。"
+    },
+    "9001127": {
+        "deprecated": false,
+        "Dev_Desc": "상점 / 장바구니 등록 / 무게 초과",
+        "id": 9001127,
+        "alias": "SysM.Stash.Regist.WeightOver",
+        "text": "你不能登记，因为你超过了随身携带的重量。"
+    },
+    "9001128": {
+        "deprecated": false,
+        "Dev_Desc": "상점 / 장바구니 등록 / 소지품창 부족",
+        "id": 9001128,
+        "alias": "SysM.Shop.Purchase.InventorySpace",
+        "text": "无法注册，因为您的物品空间不足。"
+    },
+    "9001129": {
+        "deprecated": false,
+        "Dev_Desc": "다중 강화 / 강화 실패 / 강화 목표 설정 안됨",
+        "id": 9001129,
+        "alias": "SysM.MultiEnchant.EnchantFail.NoEnchantTarget",
+        "text": "设定强化目标后，就可以强化了。"
+    },
+    "9001130": {
+        "deprecated": false,
+        "Dev_Desc": "다중 강화 / 강화 실패 / 주문서 부족",
+        "id": 9001130,
+        "alias": "SysM.MultiEnchant.EnchantFail.LackOfScroll",
+        "text": "没有足够的法术可以增强。"
+    },
+    "9001131": {
+        "deprecated": false,
+        "Dev_Desc": "다중 강화 / 재화 부족",
+        "id": 9001131,
+        "alias": "SysM.MultiEnchant.EnchantFail.LackOfMoney",
+        "text": "金币不足，无法强化。"
+    },
+    "9001132": {
+        "deprecated": false,
+        "Dev_Desc": "다중 강화 / 장비 없음",
+        "id": 9001132,
+        "alias": "SysM.MultiEnchant.EnchantFail.NoEquipment",
+        "text": "没有可以升级的装备，请设定强化目标后再试。"
+    },
+    "9001133": {
+        "deprecated": false,
+        "Dev_Desc": "다중 강화 / 장비 등록 실패 / 꽉참",
+        "id": 9001133,
+        "alias": "SysM.MultiEnchant.RegistFail.Full",
+        "text": "您无法再注册您的设备。"
+    },
+    "9001134": {
+        "deprecated": false,
+        "Dev_Desc": "다중 강화 / 강화 단계 초과",
+        "id": 9001134,
+        "alias": "SysM.MultiEnchant.EnchantFail.ExceedLevel",
+        "text": "你不能升级到那个级别。"
     }
 }

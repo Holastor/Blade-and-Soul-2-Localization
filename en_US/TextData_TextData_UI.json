@@ -23961,5 +23961,67 @@
         "id": 8003504,
         "alias": "UI.Craft.LeftSubTabName.Event.Box",
         "text": "Shining Gear Box"
+    },
+    "8003505": {
+        "deprecated": false,
+        "Dev_Desc": "다중 강화 / 다중 강화 버튼",
+        "id": 8003505,
+        "alias": "UI.MultiEnchant.MultiEnchantButton",
+        "text": "Multiple reinforcement"
+    },
+    "8003506": {
+        "deprecated": false,
+        "Dev_Desc": "다중 강화 / 강화 중지 버튼",
+        "id": 8003506,
+        "alias": "UI.MultiEnchant.EnchantCancleButton",
+        "text": "Stop strengthening"
+    },
+    "8003507": {
+        "deprecated": false,
+        "Dev_Desc": "다중 강화 / 비안전 강화 안내",
+        "id": 8003507,
+        "alias": "UI.MultiEnchant.NonSafetyDesc",
+        "text": "Some equipment has been set up to the level of non-safety enhancement."
+    },
+    "8003508": {
+        "deprecated": false,
+        "Dev_Desc": "다중 강화 / 팝업 / 설명1",
+        "id": 8003508,
+        "alias": "UI.MultiEnchant.Popup.Desc.1",
+        "text": "Do you want to proceed with multiple enhancements?"
+    },
+    "8003509": {
+        "deprecated": false,
+        "Dev_Desc": "다중 강화 / 팝업 / 설명2",
+        "id": 8003509,
+        "alias": "UI.MultiEnchant.Popup.Desc.2",
+        "text": "Some equipment has been set up to the level of unsafe enhancement.<br/>If enhancement fails, equipment will be destroyed."
+    },
+    "8003510": {
+        "deprecated": false,
+        "Dev_Desc": "GNB / 야루의 상자 / 재련 정보 URL 연결 버튼",
+        "id": 8003510,
+        "alias": "UI.Smelting.UrlButton",
+        "text": "Refining Information"
+    },
+    "8003511": {
+        "deprecated": false,
+        "Dev_Desc": "GNB / 공용 / 확률 정보 버튼",
+        "id": 8003511,
+        "alias": "UI.GNB.ProbabiltiyURLButton",
+        "text": "Probability Information"
+    },
+    "8003512": {
+        "deprecated": false,
+        "id": 8003512,
+        "alias": "UI.Setting.Convenience.RepurchasePopUpSkip",
+        "text": "Skip the Soul/Guardian Repurchase Popup"
+    },
+    "8003513": {
+        "deprecated": false,
+        "Dev_Desc": "랭킹 / 문파 랭킹 혜택 팝업 / 순위 표시",
+        "id": 8003513,
+        "alias": "UI.Ranking.GuildEXPRankRewardInfoPopup.Rank",
+        "text": "<arg p=[1:integer]/>above"
     }
 }
