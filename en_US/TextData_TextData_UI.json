@@ -24023,5 +24023,131 @@
         "id": 8003513,
         "alias": "UI.Ranking.GuildEXPRankRewardInfoPopup.Rank",
         "text": "<arg p=[1:integer]/>above"
+    },
+    "8003514": {
+        "deprecated": false,
+        "Dev_Desc": "소셜팝업 / 적대 문파 등록",
+        "id": 8003514,
+        "alias": "UI.SocialPopUp.AddGuildEnemy",
+        "text": "Historical Faction"
+    },
+    "8003515": {
+        "deprecated": false,
+        "Dev_Desc": "탐지 리스트 / 정예",
+        "id": 8003515,
+        "alias": "UI.Scan.List.Elite",
+        "text": "<textColor=[255:179:85:204]>[Elite]</> <arg p=[1:string]/>"
+    },
+    "8003516": {
+        "deprecated": false,
+        "Dev_Desc": "복수하기 팝업 / 설명",
+        "id": 8003516,
+        "alias": "UI.PopUp.Revenge.Desc2",
+        "text": "Are you sure you want to take revenge on <arg p=[1:string]/>?\\nGo immediately to a location close to the target."
+    },
+    "8003517": {
+        "deprecated": false,
+        "Dev_Desc": "복수하기 팝업 / 상세 설명",
+        "id": 8003517,
+        "alias": "UI.PopUp.Revenge.SubDesc2",
+        "text": "Remaining counts <arg p=[1:integer]/>times"
+    },
+    "8003518": {
+        "deprecated": false,
+        "Dev_Desc": "탐지 리스트 / 안내",
+        "id": 8003518,
+        "alias": "UI.Scan.Message.Fail",
+        "text": "This is currently an unverified target."
+    },
+    "8003519": {
+        "deprecated": false,
+        "Dev_Desc": "이벤트 제작 레시피 탭 / 크리스마스 이벤트",
+        "id": 8003519,
+        "alias": "UI.Craft.LeftSubTabName.Event.MerryChristmas_01",
+        "text": "Soulful Christmas!"
+    },
+    "8003520": {
+        "deprecated": false,
+        "Dev_Desc": "이벤트 제작 레시피 탭 /눈꽃 증표",
+        "id": 8003520,
+        "alias": "UI.Craft.LeftSubTabName.Event.SnowFlake_01",
+        "text": "Snowflake Token"
+    },
+    "8003521": {
+        "deprecated": false,
+        "Dev_Desc": "아이템 타입 / 재련 능력치 제거",
+        "id": 8003521,
+        "alias": "UI.Item.ItemType.Grocery.RemoveSmeltStone",
+        "text": "Spirit Stone"
+    },
+    "8003522": {
+        "deprecated": false,
+        "Dev_Desc": "로비 / 이름 변경 버튼",
+        "id": 8003522,
+        "alias": "UI.Lobby.changeName.Button",
+        "text": "Rename"
+    },
+    "8003523": {
+        "deprecated": false,
+        "Dev_Desc": "시스템 설정 / 자동 분해 / 타이틀",
+        "id": 8003523,
+        "alias": "UI.Option.Control.GetItem.AutoDiscompose",
+        "text": "Auto Disassemble"
+    },
+    "8003524": {
+        "deprecated": false,
+        "Dev_Desc": "시스템 설정 / 자동 분해 / 타이틀",
+        "id": 8003524,
+        "alias": "UI.Option.Control.GetItem.AutoDiscompose.Title",
+        "text": "Auto Disassemble"
+    },
+    "8003525": {
+        "deprecated": false,
+        "Dev_Desc": "시스템 설정 / 자동 분해 / 대상 등급",
+        "id": 8003525,
+        "alias": "UI.Option.Control.GetItem.AutoDiscompose.Grade",
+        "text": "Target Rating"
+    },
+    "8003526": {
+        "deprecated": false,
+        "Dev_Desc": "시스템 설정 / 자동 분해 / 획득처",
+        "id": 8003526,
+        "alias": "UI.Option.Control.GetItem.AutoDiscompose.Get",
+        "text": "Where to get it"
+    },
+    "8003527": {
+        "deprecated": false,
+        "Dev_Desc": "시스템 설정 / 자동 분해 / 몬스터",
+        "id": 8003527,
+        "alias": "UI.Option.Control.GetItem.AutoDiscompose.Get.Monster",
+        "text": "monster"
+    },
+    "8003528": {
+        "deprecated": false,
+        "Dev_Desc": "시스템 설정 / 자동 분해 / 상자",
+        "id": 8003528,
+        "alias": "UI.Option.Control.GetItem.AutoDiscompose.Get.Box",
+        "text": "Box"
+    },
+    "8003529": {
+        "deprecated": false,
+        "Dev_Desc": "시스템 설정 / 자동 분해 / 무게 제한",
+        "id": 8003529,
+        "alias": "UI.Option.Control.GetItem.AutoDiscompose.LimitWeight",
+        "text": "Automatic disassembly progress weight limit"
+    },
+    "8003530": {
+        "deprecated": false,
+        "Dev_Desc": "재련 능력치 제거 / 재련 능력치 제거 설명",
+        "id": 8003530,
+        "alias": "UI.Inventory.RemoveSmelting.Desc",
+        "text": "Please select an item from which to remove the refinement stat."
+    },
+    "8003531": {
+        "deprecated": false,
+        "Dev_Desc": "재련 능력치 제거 / 팝업 / 재련 능력치 제거 설명",
+        "id": 8003531,
+        "alias": "UI.Inventory.RemoveSmelting.PopUp.Desc",
+        "text": "Are you sure you want to remove <arg p=[1:integer]/>reforge stats from <br/><textColor=[209:72:59:255]>remove scour stats are irreversible</>"
     }
 }

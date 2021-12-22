@@ -24023,5 +24023,131 @@
         "id": 8003513,
         "alias": "UI.Ranking.GuildEXPRankRewardInfoPopup.Rank",
         "text": "<arg p=[1:integer]/>以上"
+    },
+    "8003514": {
+        "deprecated": false,
+        "Dev_Desc": "소셜팝업 / 적대 문파 등록",
+        "id": 8003514,
+        "alias": "UI.SocialPopUp.AddGuildEnemy",
+        "text": "历史派系"
+    },
+    "8003515": {
+        "deprecated": false,
+        "Dev_Desc": "탐지 리스트 / 정예",
+        "id": 8003515,
+        "alias": "UI.Scan.List.Elite",
+        "text": "<textColor=[255:179:85:204]>[Elite]</> <arg p=[1:string]/>"
+    },
+    "8003516": {
+        "deprecated": false,
+        "Dev_Desc": "복수하기 팝업 / 설명",
+        "id": 8003516,
+        "alias": "UI.PopUp.Revenge.Desc2",
+        "text": "你确定要报复<arg p=[1:string]/>？\\n立即前往目标附近的地方。"
+    },
+    "8003517": {
+        "deprecated": false,
+        "Dev_Desc": "복수하기 팝업 / 상세 설명",
+        "id": 8003517,
+        "alias": "UI.PopUp.Revenge.SubDesc2",
+        "text": "剩余计数 <arg p=[1:integer]/>次"
+    },
+    "8003518": {
+        "deprecated": false,
+        "Dev_Desc": "탐지 리스트 / 안내",
+        "id": 8003518,
+        "alias": "UI.Scan.Message.Fail",
+        "text": "这是目前未经证实的目标。"
+    },
+    "8003519": {
+        "deprecated": false,
+        "Dev_Desc": "이벤트 제작 레시피 탭 / 크리스마스 이벤트",
+        "id": 8003519,
+        "alias": "UI.Craft.LeftSubTabName.Event.MerryChristmas_01",
+        "text": "深情的圣诞节！"
+    },
+    "8003520": {
+        "deprecated": false,
+        "Dev_Desc": "이벤트 제작 레시피 탭 /눈꽃 증표",
+        "id": 8003520,
+        "alias": "UI.Craft.LeftSubTabName.Event.SnowFlake_01",
+        "text": "雪花令牌"
+    },
+    "8003521": {
+        "deprecated": false,
+        "Dev_Desc": "아이템 타입 / 재련 능력치 제거",
+        "id": 8003521,
+        "alias": "UI.Item.ItemType.Grocery.RemoveSmeltStone",
+        "text": "灵石"
+    },
+    "8003522": {
+        "deprecated": false,
+        "Dev_Desc": "로비 / 이름 변경 버튼",
+        "id": 8003522,
+        "alias": "UI.Lobby.changeName.Button",
+        "text": "改名"
+    },
+    "8003523": {
+        "deprecated": false,
+        "Dev_Desc": "시스템 설정 / 자동 분해 / 타이틀",
+        "id": 8003523,
+        "alias": "UI.Option.Control.GetItem.AutoDiscompose",
+        "text": "自动拆解"
+    },
+    "8003524": {
+        "deprecated": false,
+        "Dev_Desc": "시스템 설정 / 자동 분해 / 타이틀",
+        "id": 8003524,
+        "alias": "UI.Option.Control.GetItem.AutoDiscompose.Title",
+        "text": "自动拆解"
+    },
+    "8003525": {
+        "deprecated": false,
+        "Dev_Desc": "시스템 설정 / 자동 분해 / 대상 등급",
+        "id": 8003525,
+        "alias": "UI.Option.Control.GetItem.AutoDiscompose.Grade",
+        "text": "目标评分"
+    },
+    "8003526": {
+        "deprecated": false,
+        "Dev_Desc": "시스템 설정 / 자동 분해 / 획득처",
+        "id": 8003526,
+        "alias": "UI.Option.Control.GetItem.AutoDiscompose.Get",
+        "text": "从哪里得到它"
+    },
+    "8003527": {
+        "deprecated": false,
+        "Dev_Desc": "시스템 설정 / 자동 분해 / 몬스터",
+        "id": 8003527,
+        "alias": "UI.Option.Control.GetItem.AutoDiscompose.Get.Monster",
+        "text": "怪物"
+    },
+    "8003528": {
+        "deprecated": false,
+        "Dev_Desc": "시스템 설정 / 자동 분해 / 상자",
+        "id": 8003528,
+        "alias": "UI.Option.Control.GetItem.AutoDiscompose.Get.Box",
+        "text": "盒子"
+    },
+    "8003529": {
+        "deprecated": false,
+        "Dev_Desc": "시스템 설정 / 자동 분해 / 무게 제한",
+        "id": 8003529,
+        "alias": "UI.Option.Control.GetItem.AutoDiscompose.LimitWeight",
+        "text": "自动拆卸进度限重"
+    },
+    "8003530": {
+        "deprecated": false,
+        "Dev_Desc": "재련 능력치 제거 / 재련 능력치 제거 설명",
+        "id": 8003530,
+        "alias": "UI.Inventory.RemoveSmelting.Desc",
+        "text": "请选择一个项目，从中删除细化统计。"
+    },
+    "8003531": {
+        "deprecated": false,
+        "Dev_Desc": "재련 능력치 제거 / 팝업 / 재련 능력치 제거 설명",
+        "id": 8003531,
+        "alias": "UI.Inventory.RemoveSmelting.PopUp.Desc",
+        "text": "您确定要从 <br/><textColor=[209:72:59:255]>reforge stats 中删除 <arg p=[1:integer]/>reforge stats>remove scour stats are unreversible</>"
     }
 }

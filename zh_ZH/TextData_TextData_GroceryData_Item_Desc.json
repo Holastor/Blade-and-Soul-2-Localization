@@ -5070,7 +5070,7 @@
     },
     "99000766": {
         "deprecated": false,
-        "Dev_Desc": "용봉탕",
+        "Dev_Desc": "빛나는 용봉탕",
         "id": 99000766,
         "alias": "Contents.Item.Desc.9200119",
         "text": "使用后，变得更加聪明，可获得更多经验值。<br/>经验值获得量提升10%，持续30分钟。"
@@ -18897,21 +18897,21 @@
     },
     "99003282": {
         "deprecated": false,
-        "Dev_Desc": "윤회자 사루비 소울 소환서(1회)(각인)",
+        "Dev_Desc": "회귀자 사루비 소울 소환서(1회)(각인)",
         "id": 99003282,
         "alias": "Contents.Item.Desc.9901089",
         "text": "使用后，你将获得一个轮回萨鲁比之魂。"
     },
     "99003283": {
         "deprecated": false,
-        "Dev_Desc": "윤회자 파사 소울 소환서(1회)(각인)",
+        "Dev_Desc": "회귀자 파사 소울 소환서(1회)(각인)",
         "id": 99003283,
         "alias": "Contents.Item.Desc.9901090",
         "text": "使用后，将获得轮回轮回之魂。"
     },
     "99003284": {
         "deprecated": false,
-        "Dev_Desc": "윤회자 아랑 소울 소환서(1회)(각인)",
+        "Dev_Desc": "회귀자 아랑 소울 소환서(1회)(각인)",
         "id": 99003284,
         "alias": "Contents.Item.Desc.9901091",
         "text": "使用后，获得轮回阿郎魂。"
@@ -19592,5 +19592,264 @@
         "id": 99003382,
         "alias": "Contents.Item.Desc.9901191",
         "text": "使用时，可以按照设定的概率获得以下道具之一。"
+    },
+    "99003383": {
+        "deprecated": false,
+        "Dev_Desc": "상급 의상 주머니(이벤트)",
+        "id": 99003383,
+        "alias": "Contents.Event.Item.Desc.9300028",
+        "text": "使用时，可以按照设定的概率获得1套。\\n（职业：高级）"
+    },
+    "99003384": {
+        "deprecated": false,
+        "Dev_Desc": "튜토리얼 언령석",
+        "id": 99003384,
+        "alias": "Contents.Item.Desc.9901192",
+        "text": "能量微弱的石头，在雅茹的胸膛中，作为炼制材料使用。"
+    },
+    "99003385": {
+        "deprecated": false,
+        "Dev_Desc": "튜토리얼 언령석",
+        "id": 99003385,
+        "alias": "Contents.Item.Desc.9901193",
+        "text": "能量微弱的石头，在雅茹的胸膛中，作为炼制材料使用。"
+    },
+    "99003386": {
+        "deprecated": false,
+        "Dev_Desc": "튜토리얼 언령석",
+        "id": 99003386,
+        "alias": "Contents.Item.Desc.9901194",
+        "text": "能量微弱的石头，在雅茹的胸膛中，作为炼制材料使用。"
+    },
+    "99003387": {
+        "deprecated": false,
+        "Dev_Desc": "충전석: 굴락의 시련 던전(1회)(이벤트)",
+        "id": 99003387,
+        "alias": "Contents.Item.Desc.9300057",
+        "text": "根据古拉克的试炼地牢可以使用的次数收费。"
+    },
+    "99003388": {
+        "deprecated": false,
+        "Dev_Desc": "충전석: 홍매화의 시련 던전(1회)(이벤트)",
+        "id": 99003388,
+        "alias": "Contents.Item.Desc.9300058",
+        "text": "使用红梅试炼副本的次数。"
+    },
+    "99003389": {
+        "deprecated": false,
+        "Dev_Desc": "충전석: 가면동충의 시련 던전(1회)(이벤트)",
+        "id": 99003389,
+        "alias": "Contents.Item.Desc.9300059",
+        "text": "收取东冲地牢试炼中使用的次数。"
+    },
+    "99003390": {
+        "deprecated": false,
+        "Dev_Desc": "충전석: 풍신의 시련 던전(1회)(이벤트)",
+        "id": 99003390,
+        "alias": "Contents.Item.Desc.9300060",
+        "text": "收取风神试炼副本使用次数。"
+    },
+    "99003391": {
+        "deprecated": false,
+        "Dev_Desc": "축복의 플러스 패스권",
+        "id": 99003391,
+        "alias": "Contents.Event.Item.Desc.9202102",
+        "text": "此物品可以激活祝福加通行证额外奖励。\\n\\n* 注意\\n赛季结束后，您将无法再进行通行证任务。"
+    },
+    "99003392": {
+        "deprecated": false,
+        "Dev_Desc": "2022 시즌 패스권",
+        "id": 99003392,
+        "alias": "Contents.Event.Item.Desc.9202103",
+        "text": "季票：可以激活2022额外奖励的物品。\\n\\n* 注意\\n当赛季结束后，您将无法继续进行季票任务。"
+    },
+    "99003393": {
+        "deprecated": false,
+        "Dev_Desc": "데일리 패스권",
+        "id": 99003393,
+        "alias": "Contents.Event.Item.Desc.9202104",
+        "text": "此物品可以激活额外的每日通行证奖励。\\n\\n* 注意\\n赛季结束后，您将无法再进行通行证任务。"
+    },
+    "99003394": {
+        "deprecated": false,
+        "Dev_Desc": "행운 교환권",
+        "id": 99003394,
+        "alias": "Contents.Item.Desc.9901195",
+        "text": "您可以使用幸运券制作以下物品之一。"
+    },
+    "99003395": {
+        "deprecated": false,
+        "Dev_Desc": "시간의 빛나는 수호령 소환서(11회)",
+        "id": 99003395,
+        "alias": "Contents.Item.Desc.9901196",
+        "text": "使用时，可以按照设定的概率获得一个守护灵。\\n（等级：普通~英雄）"
+    },
+    "99003396": {
+        "deprecated": false,
+        "Dev_Desc": "금괴: 100만금(각인)",
+        "id": 99003396,
+        "alias": "Contents.Item.Desc.9901197",
+        "text": "卖给商人可以获得100万金币。"
+    },
+    "99003397": {
+        "deprecated": false,
+        "Dev_Desc": "심연의 찬란한 소울 소환서(5회)",
+        "id": 99003397,
+        "alias": "Contents.Item.Desc.9901198",
+        "text": "使用时可以按照设定的概率获得灵魂。\\n（稀有~英雄）"
+    },
+    "99003398": {
+        "deprecated": false,
+        "Dev_Desc": "눈꽃 증표",
+        "id": 99003398,
+        "alias": "Contents.Item.Desc.9901199",
+        "text": "装备百科中使用的一种特殊材料。"
+    },
+    "99003399": {
+        "deprecated": false,
+        "Dev_Desc": "크리스마스 전구",
+        "id": 99003399,
+        "alias": "Contents.Item.Desc.9300071",
+        "text": "这是一个可以为圣诞节增添光彩的灯泡。\\n你可以用灯泡制作各种物品。\\n\\n[制作 > 活动 > 深情的圣诞节]"
+    },
+    "99003400": {
+        "deprecated": false,
+        "Dev_Desc": "충전석: 백화렴의 시련 던전(연습)(1회)(각인)",
+        "id": 99003400,
+        "alias": "Contents.Item.Desc.9901204",
+        "text": "按白花莲的试炼地下城（练习）中使用的次数收费。"
+    },
+    "99003401": {
+        "deprecated": false,
+        "Dev_Desc": "충전석: 동충의 시련 던전(연습)(1회)(각인)",
+        "id": 99003401,
+        "alias": "Contents.Item.Desc.9901205",
+        "text": "收取石拳试炼地下城的使用次数（练习）。"
+    },
+    "99003402": {
+        "deprecated": false,
+        "Dev_Desc": "충전석: 굴락의 시련 던전(연습)(1회)(각인)",
+        "id": 99003402,
+        "alias": "Contents.Item.Desc.9901206",
+        "text": "根据古拉克的试炼地牢（练习）的使用次数收费。"
+    },
+    "99003403": {
+        "deprecated": false,
+        "Dev_Desc": "충전석: 홍매화의 시련 던전(연습)(1회)(각인)",
+        "id": 99003403,
+        "alias": "Contents.Item.Desc.9901207",
+        "text": "收取使用次数的红梅试炼副本（练习）。"
+    },
+    "99003404": {
+        "deprecated": false,
+        "Dev_Desc": "충전석: 가면동충의 시련 던전(연습)(1회)(각인)",
+        "id": 99003404,
+        "alias": "Contents.Item.Desc.9901208",
+        "text": "根据你使用假面舞会的试炼地牢（练习）的次数收费。"
+    },
+    "99003405": {
+        "deprecated": false,
+        "Dev_Desc": "충전석: 풍신의 시련 던전(연습)(1회)(각인)",
+        "id": 99003405,
+        "alias": "Contents.Item.Desc.9901209",
+        "text": "收取风神试炼副本的使用次数（练习）。"
+    },
+    "99003408": {
+        "deprecated": false,
+        "Dev_Desc": "굴락 소울 파편 3개",
+        "id": 99003408,
+        "alias": "Contents.Item.Desc.9901212",
+        "text": "使用时可以获得 3 个古拉克灵魂碎片。<br/>(稀有)"
+    },
+    "99003409": {
+        "deprecated": false,
+        "Dev_Desc": "고요하고 거룩한 장비 상자(이벤트)",
+        "id": 99003409,
+        "alias": "Contents.Item.Desc.9300072",
+        "text": "使用时，可以按照设定的概率获得以下道具之一。"
+    },
+    "99003410": {
+        "deprecated": false,
+        "Dev_Desc": "크리스마스 의상 선택 상자(이벤트)",
+        "id": 99003410,
+        "alias": "Contents.Item.Desc.9300073",
+        "text": "使用时可以获得以下物品之一。\\n\\n- 1个温暖的圣诞节\\n- 1个白色圣诞节\\n- 1个华丽的圣诞节\\n- 1个圣诞快乐"
+    },
+    "99003411": {
+        "deprecated": false,
+        "Dev_Desc": "크리스마스 선물 상자 (이벤트)",
+        "id": 99003411,
+        "alias": "Contents.Item.Desc.9300074",
+        "text": "使用时可以获得以下道具之一。\\n\\n- 祝福武器强化卷轴（事件）1\\n- 祝福护甲强化卷轴（事件）1 件\\n- 诅咒武器强化卷轴（事件）"
+    },
+    "99003412": {
+        "deprecated": false,
+        "Dev_Desc": "잊혀진 영웅의 크리스마스 주머니(이벤트)",
+        "id": 99003412,
+        "alias": "Contents.Item.Desc.9300075",
+        "text": "使用时，您可以选择以下物品之一获得。\\n\\n-遗忘英雄武器制作秘密碎片（印记）1\\n-遗忘英雄的盔甲制作秘密碎片（雕刻）1 ea\\n-遗忘英雄的配饰"
+    },
+    "99003413": {
+        "deprecated": false,
+        "Dev_Desc": "대사형의 크리스마스 선물(이벤트)",
+        "id": 99003413,
+        "alias": "Contents.Item.Desc.9300076",
+        "text": "你可以在使用时获得武器或盔甲。\\n（稀有）"
+    },
+    "99003414": {
+        "deprecated": false,
+        "Dev_Desc": "잊혀진 비법서 상자(이벤트)",
+        "id": 99003414,
+        "alias": "Contents.Item.Desc.9300077",
+        "text": "使用时，使用时可以按照设定的概率获得以下物品之一。\\n\\n-稀有武器制作配方片段（雕刻）5ea\\n-稀有盔甲制作配方片段（雕刻）5ea\\n-稀有配饰制作"
+    },
+    "99003415": {
+        "deprecated": false,
+        "Dev_Desc": "잊혀진 무기 선택 상자(이벤트)",
+        "id": 99003415,
+        "alias": "Contents.Item.Desc.9300078",
+        "text": "使用时可以获得以下物品之一。\\n\\n-遗忘刽子手之剑（印记）x1\\n-遗忘定罪之拳（印记）x1\\n-遗忘狂热之斧（印记）x1"
+    },
+    "99003416": {
+        "deprecated": false,
+        "Dev_Desc": "잊혀진 방어구 상자(이벤트)",
+        "id": 99003416,
+        "alias": "Contents.Item.Desc.9300079",
+        "text": "使用时，可以根据设定的概率获得以下物品之一。\\n\\n- 遗忘深渊胸甲(印记)) 1\\n- 遗忘深渊手套(印记) 1\\n- 遗忘深渊腰带(印记) "
+    },
+    "99003417": {
+        "deprecated": false,
+        "Dev_Desc": "크리스마스 봉마함(이벤트)",
+        "id": 99003417,
+        "alias": "Contents.Item.Desc.9300080",
+        "text": "使用时，可以按照设定的概率获得以下道具之一。"
+    },
+    "99003418": {
+        "deprecated": false,
+        "Dev_Desc": "충전석: 빛나는 반달호수(30분)(이벤트)",
+        "id": 99003418,
+        "alias": "Contents.Item.Desc.9300081",
+        "text": "使用半月湖地牢的时间充值。"
+    },
+    "99003419": {
+        "deprecated": false,
+        "Dev_Desc": "도화전 상자(이벤트)",
+        "id": 99003419,
+        "alias": "Contents.Item.Desc.9300082",
+        "text": "使用时，可以按照设定的概率获得以下道具之一。"
+    },
+    "99003420": {
+        "deprecated": false,
+        "Dev_Desc": "크리스마스 전구 상자(이벤트)",
+        "id": 99003420,
+        "alias": "Contents.Item.Desc.9300083",
+        "text": "使用时可以根据设定的概率获得以下道具之一。\\n\\n-圣诞灯泡（事件）10ea\\n-圣诞灯泡（事件）15ea\\n-圣诞灯泡（事件）20ea\\n-圣诞灯泡"
+    },
+    "99003421": {
+        "deprecated": false,
+        "Dev_Desc": "시간의 찬란한 소울 소환서(5회)",
+        "id": 99003421,
+        "alias": "Contents.Item.Desc.9901213",
+        "text": "使用时可以按照设定的概率获得灵魂。\\n（稀有~英雄）"
     }
 }

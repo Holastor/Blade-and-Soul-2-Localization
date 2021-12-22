@@ -5070,7 +5070,7 @@
     },
     "99000766": {
         "deprecated": false,
-        "Dev_Desc": "용봉탕",
+        "Dev_Desc": "빛나는 용봉탕",
         "id": 99000766,
         "alias": "Contents.Item.Desc.9200119",
         "text": "Increases your intelligence to gain more experience.<br/>EXP +10% for 30 min"
@@ -18897,21 +18897,21 @@
     },
     "99003282": {
         "deprecated": false,
-        "Dev_Desc": "윤회자 사루비 소울 소환서(1회)(각인)",
+        "Dev_Desc": "회귀자 사루비 소울 소환서(1회)(각인)",
         "id": 99003282,
         "alias": "Contents.Item.Desc.9901089",
         "text": "When used, you will obtain a Reincarnation Sarubi Soul."
     },
     "99003283": {
         "deprecated": false,
-        "Dev_Desc": "윤회자 파사 소울 소환서(1회)(각인)",
+        "Dev_Desc": "회귀자 파사 소울 소환서(1회)(각인)",
         "id": 99003283,
         "alias": "Contents.Item.Desc.9901090",
         "text": "When used, you will acquire Reincarnation Passa Soul."
     },
     "99003284": {
         "deprecated": false,
-        "Dev_Desc": "윤회자 아랑 소울 소환서(1회)(각인)",
+        "Dev_Desc": "회귀자 아랑 소울 소환서(1회)(각인)",
         "id": 99003284,
         "alias": "Contents.Item.Desc.9901091",
         "text": "When used, you will acquire Reincarnation Arang Soul."
@@ -19592,5 +19592,264 @@
         "id": 99003382,
         "alias": "Contents.Item.Desc.9901191",
         "text": "When used, one of the following items can be obtained according to a set probability. "
+    },
+    "99003383": {
+        "deprecated": false,
+        "Dev_Desc": "상급 의상 주머니(이벤트)",
+        "id": 99003383,
+        "alias": "Contents.Event.Item.Desc.9300028",
+        "text": "When used, you can obtain 1 outfit according to a set probability. \\n (Class: Advanced)"
+    },
+    "99003384": {
+        "deprecated": false,
+        "Dev_Desc": "튜토리얼 언령석",
+        "id": 99003384,
+        "alias": "Contents.Item.Desc.9901192",
+        "text": "A stone with weak energy. It is used as a refining material in Yaru's chest."
+    },
+    "99003385": {
+        "deprecated": false,
+        "Dev_Desc": "튜토리얼 언령석",
+        "id": 99003385,
+        "alias": "Contents.Item.Desc.9901193",
+        "text": "A stone with weak energy. It is used as a refining material in Yaru's chest."
+    },
+    "99003386": {
+        "deprecated": false,
+        "Dev_Desc": "튜토리얼 언령석",
+        "id": 99003386,
+        "alias": "Contents.Item.Desc.9901194",
+        "text": "A stone with weak energy. It is used as a refining material in Yaru's chest."
+    },
+    "99003387": {
+        "deprecated": false,
+        "Dev_Desc": "충전석: 굴락의 시련 던전(1회)(이벤트)",
+        "id": 99003387,
+        "alias": "Contents.Item.Desc.9300057",
+        "text": "Charges the number of times Gulak's Trial dungeon can be used."
+    },
+    "99003388": {
+        "deprecated": false,
+        "Dev_Desc": "충전석: 홍매화의 시련 던전(1회)(이벤트)",
+        "id": 99003388,
+        "alias": "Contents.Item.Desc.9300058",
+        "text": "Charges the number of times to use the Red Plum Blossom's Trial dungeon."
+    },
+    "99003389": {
+        "deprecated": false,
+        "Dev_Desc": "충전석: 가면동충의 시련 던전(1회)(이벤트)",
+        "id": 99003389,
+        "alias": "Contents.Item.Desc.9300059",
+        "text": "Charges the number of times used in the Trial of Dongchong dungeon."
+    },
+    "99003390": {
+        "deprecated": false,
+        "Dev_Desc": "충전석: 풍신의 시련 던전(1회)(이벤트)",
+        "id": 99003390,
+        "alias": "Contents.Item.Desc.9300060",
+        "text": "Charges the number of times used in the Trial of the Wind God dungeon."
+    },
+    "99003391": {
+        "deprecated": false,
+        "Dev_Desc": "축복의 플러스 패스권",
+        "id": 99003391,
+        "alias": "Contents.Event.Item.Desc.9202102",
+        "text": "This item can activate the Blessing Plus Pass additional reward.\\n\\n* Attention\\nWhen the season ends, you can no longer proceed with the Pass mission. "
+    },
+    "99003392": {
+        "deprecated": false,
+        "Dev_Desc": "2022 시즌 패스권",
+        "id": 99003392,
+        "alias": "Contents.Event.Item.Desc.9202103",
+        "text": "Season Pass: An item that can activate the 2022 additional rewards.\\n\\n* Attention\\nWhen the season is over, you can no longer proceed with the pass mission. "
+    },
+    "99003393": {
+        "deprecated": false,
+        "Dev_Desc": "데일리 패스권",
+        "id": 99003393,
+        "alias": "Contents.Event.Item.Desc.9202104",
+        "text": "This item can activate additional Daily Pass rewards.\\n\\n* Attention\\nWhen the season is over, you can no longer proceed with the Pass mission. "
+    },
+    "99003394": {
+        "deprecated": false,
+        "Dev_Desc": "행운 교환권",
+        "id": 99003394,
+        "alias": "Contents.Item.Desc.9901195",
+        "text": "You can use the Lucky Voucher to craft one of the following items."
+    },
+    "99003395": {
+        "deprecated": false,
+        "Dev_Desc": "시간의 빛나는 수호령 소환서(11회)",
+        "id": 99003395,
+        "alias": "Contents.Item.Desc.9901196",
+        "text": "When used, you can acquire a guardian spirit according to a set probability.\\n (Rank: Normal ~ Heroic)"
+    },
+    "99003396": {
+        "deprecated": false,
+        "Dev_Desc": "금괴: 100만금(각인)",
+        "id": 99003396,
+        "alias": "Contents.Item.Desc.9901197",
+        "text": "You can get 1 million gold coins by selling to a merchant."
+    },
+    "99003397": {
+        "deprecated": false,
+        "Dev_Desc": "심연의 찬란한 소울 소환서(5회)",
+        "id": 99003397,
+        "alias": "Contents.Item.Desc.9901198",
+        "text": "You can acquire a soul according to a set probability when used.\\n (Rare ~ Heroic)"
+    },
+    "99003398": {
+        "deprecated": false,
+        "Dev_Desc": "눈꽃 증표",
+        "id": 99003398,
+        "alias": "Contents.Item.Desc.9901199",
+        "text": "A special material used in the Equipment Encyclopedia."
+    },
+    "99003399": {
+        "deprecated": false,
+        "Dev_Desc": "크리스마스 전구",
+        "id": 99003399,
+        "alias": "Contents.Item.Desc.9300071",
+        "text": "This is a light bulb that will brighten up Christmas beautifully.\\nYou can make various items with the light bulb.\\n\\n[Production > Event > Soulful Christmas]"
+    },
+    "99003400": {
+        "deprecated": false,
+        "Dev_Desc": "충전석: 백화렴의 시련 던전(연습)(1회)(각인)",
+        "id": 99003400,
+        "alias": "Contents.Item.Desc.9901204",
+        "text": "Charges the number of times used in Baekhwaryeom's Trial dungeon (practice)."
+    },
+    "99003401": {
+        "deprecated": false,
+        "Dev_Desc": "충전석: 동충의 시련 던전(연습)(1회)(각인)",
+        "id": 99003401,
+        "alias": "Contents.Item.Desc.9901205",
+        "text": "Charges the number of uses of Stone Fist's Trial dungeon (practice)."
+    },
+    "99003402": {
+        "deprecated": false,
+        "Dev_Desc": "충전석: 굴락의 시련 던전(연습)(1회)(각인)",
+        "id": 99003402,
+        "alias": "Contents.Item.Desc.9901206",
+        "text": "Charges the number of uses of Gulak's Trial dungeon (practice)."
+    },
+    "99003403": {
+        "deprecated": false,
+        "Dev_Desc": "충전석: 홍매화의 시련 던전(연습)(1회)(각인)",
+        "id": 99003403,
+        "alias": "Contents.Item.Desc.9901207",
+        "text": "Charges the number of uses of the Red Plum Blossom's Trial dungeon (practice)."
+    },
+    "99003404": {
+        "deprecated": false,
+        "Dev_Desc": "충전석: 가면동충의 시련 던전(연습)(1회)(각인)",
+        "id": 99003404,
+        "alias": "Contents.Item.Desc.9901208",
+        "text": "Charges the number of times you use the Masquerade's Trial dungeon (practice)."
+    },
+    "99003405": {
+        "deprecated": false,
+        "Dev_Desc": "충전석: 풍신의 시련 던전(연습)(1회)(각인)",
+        "id": 99003405,
+        "alias": "Contents.Item.Desc.9901209",
+        "text": "Charges the number of uses of the Wind God's Trial dungeon (practice)."
+    },
+    "99003408": {
+        "deprecated": false,
+        "Dev_Desc": "굴락 소울 파편 3개",
+        "id": 99003408,
+        "alias": "Contents.Item.Desc.9901212",
+        "text": "You can obtain 3 Gulak Soul Shards when used.<br/>(Rare)"
+    },
+    "99003409": {
+        "deprecated": false,
+        "Dev_Desc": "고요하고 거룩한 장비 상자(이벤트)",
+        "id": 99003409,
+        "alias": "Contents.Item.Desc.9300072",
+        "text": "When used, you can obtain one of the following items according to a set probability."
+    },
+    "99003410": {
+        "deprecated": false,
+        "Dev_Desc": "크리스마스 의상 선택 상자(이벤트)",
+        "id": 99003410,
+        "alias": "Contents.Item.Desc.9300073",
+        "text": "You can obtain one of the following items when used.\\n\\n- 1 Warm Christmas\\n- 1 White Christmas\\n- 1 Gorgeous Christmas\\n- 1 Happy Christmas"
+    },
+    "99003411": {
+        "deprecated": false,
+        "Dev_Desc": "크리스마스 선물 상자 (이벤트)",
+        "id": 99003411,
+        "alias": "Contents.Item.Desc.9300074",
+        "text": "You can obtain one of the following items when used.\\n\\n- Blessed Weapon Enhancement Scroll (Event) 1\\n- Blessed Armor Enhancement Scroll (Event) 1 piece\\n- Cursed Weapon Enhancement Scroll (Event) "
+    },
+    "99003412": {
+        "deprecated": false,
+        "Dev_Desc": "잊혀진 영웅의 크리스마스 주머니(이벤트)",
+        "id": 99003412,
+        "alias": "Contents.Item.Desc.9300075",
+        "text": "When used, you can select one of the following items to obtain.\\n\\n- Forgotten Hero Weapon Crafting Secret Fragment (Imprint) 1\\n- Forgotten Hero's Armor Crafting Secret Fragment (Engraving) 1 ea\\n- Forgotten Hero's Accessories "
+    },
+    "99003413": {
+        "deprecated": false,
+        "Dev_Desc": "대사형의 크리스마스 선물(이벤트)",
+        "id": 99003413,
+        "alias": "Contents.Item.Desc.9300076",
+        "text": "You can acquire a weapon or armor when used.\\n (Rare)"
+    },
+    "99003414": {
+        "deprecated": false,
+        "Dev_Desc": "잊혀진 비법서 상자(이벤트)",
+        "id": 99003414,
+        "alias": "Contents.Item.Desc.9300077",
+        "text": "When used, one of the following items can be obtained according to a set probability when used.\\n\\n- Rare weapon crafting recipe fragment (engraving) 5ea\\n- Rare armor crafting recipe recipe fragment (engraving) 5ea\\n- Rare accessory crafting "
+    },
+    "99003415": {
+        "deprecated": false,
+        "Dev_Desc": "잊혀진 무기 선택 상자(이벤트)",
+        "id": 99003415,
+        "alias": "Contents.Item.Desc.9300078",
+        "text": "You can obtain one of the following items when using it.\\n\\n- Forgotten Executioner's Sword (Imprint) x1\\n- Forgotten Fist of Condemnation (Imprint) x1\\n- Forgotten Fanatic's Ax (Imprint) x1 "
+    },
+    "99003416": {
+        "deprecated": false,
+        "Dev_Desc": "잊혀진 방어구 상자(이벤트)",
+        "id": 99003416,
+        "alias": "Contents.Item.Desc.9300079",
+        "text": "You can obtain one of the following items according to a set probability when used.\\n\\n- Breastplate of the Forgotten Abyss (Imprint)) 1\\n- Gloves of the Forgotten Abyss (Imprint) 1\\n- Belt of the Forgotten Abyss (Imprint) "
+    },
+    "99003417": {
+        "deprecated": false,
+        "Dev_Desc": "크리스마스 봉마함(이벤트)",
+        "id": 99003417,
+        "alias": "Contents.Item.Desc.9300080",
+        "text": "When used, one of the following items can be obtained according to a set probability. "
+    },
+    "99003418": {
+        "deprecated": false,
+        "Dev_Desc": "충전석: 빛나는 반달호수(30분)(이벤트)",
+        "id": 99003418,
+        "alias": "Contents.Item.Desc.9300081",
+        "text": "Charges the time to use the Blessed Half Moon Lake dungeon."
+    },
+    "99003419": {
+        "deprecated": false,
+        "Dev_Desc": "도화전 상자(이벤트)",
+        "id": 99003419,
+        "alias": "Contents.Item.Desc.9300082",
+        "text": "When used, one of the following items can be obtained according to a set probability."
+    },
+    "99003420": {
+        "deprecated": false,
+        "Dev_Desc": "크리스마스 전구 상자(이벤트)",
+        "id": 99003420,
+        "alias": "Contents.Item.Desc.9300083",
+        "text": "You can obtain one of the following items according to a set probability when used.\\n\\n- Christmas Bulb (Event) 10ea\\n- Christmas Bulb (Event) 15ea\\n- Christmas Bulb (Event) 20ea\\n- Christmas Bulb "
+    },
+    "99003421": {
+        "deprecated": false,
+        "Dev_Desc": "시간의 찬란한 소울 소환서(5회)",
+        "id": 99003421,
+        "alias": "Contents.Item.Desc.9901213",
+        "text": "You can acquire a soul according to a set probability when used.\\n (Rare ~ Heroic)"
     }
 }

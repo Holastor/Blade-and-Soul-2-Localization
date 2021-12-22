@@ -7003,7 +7003,7 @@
         "Dev_Desc": "캐시상점 / 임시 보관함 생성 이후 안내 메시지",
         "id": 9001062,
         "alias": "SysM.CashShop.TempInven",
-        "text": "임시 보관함에 보관 중인 물품이 있어 구매 할 수 없습니다."
+        "text": "임시 보관함에 보관 중인 물품이 있어 구매할 수 없습니다."
     },
     "9001063": {
         "deprecated": false,
@@ -7507,5 +7507,54 @@
         "id": 9001134,
         "alias": "SysM.MultiEnchant.EnchantFail.ExceedLevel",
         "text": "해당 단계까지 강화할 수 없습니다."
+    },
+    "9001135": {
+        "deprecated": false,
+        "Dev_Desc": "상점 / 임시보관함 에러 메시지",
+        "id": 9001135,
+        "alias": "SysM.Shop.TempInven",
+        "text": "임시 보관함에 보관 중인 물품이 있어 구매할 수 없습니다."
+    },
+    "9001136": {
+        "deprecated": false,
+        "Dev_Desc": "귀환의 돌 / 기절, 다운 상태",
+        "id": 9001136,
+        "alias": "SysM.ReturnScroll.Fail",
+        "text": "귀환의 돌을 사용할 수 없는 상태입니다."
+    },
+    "9001137": {
+        "deprecated": false,
+        "Dev_Desc": "문파 장원 귀환의 돌 / 기절, 다운 상태",
+        "id": 9001137,
+        "alias": "SysM.GuildReturnScroll.Fail",
+        "text": "문파 장원 귀환의 돌을 사용할 수 없는 상태입니다."
+    },
+    "9001138": {
+        "deprecated": false,
+        "Dev_Desc": "문파 시스템 / 문파 장원 입장 / 기절, 다운 상태",
+        "id": 9001138,
+        "alias": "SysM.GuildHouse.EnterFail",
+        "text": "문파 장원에 입장할 수 없는 상태입니다."
+    },
+    "9001139": {
+        "deprecated": false,
+        "Dev_Desc": "문파 시스템 / 문파 장원 퇴장 / 기절, 다운 상태",
+        "id": 9001139,
+        "alias": "SysM.GuildHouse.OutFail",
+        "text": "문파 장원에 나갈 수 없는 상태입니다."
+    },
+    "9001140": {
+        "deprecated": false,
+        "Dev_Desc": "우편 / 수락 불가 메시지 / 소지품 무게 부족",
+        "id": 9001140,
+        "alias": "SysM.Post.CantReceive.3",
+        "text": "소지 가능 무게를 초과하여 받을 수 없습니다."
+    },
+    "9001141": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 횟수 충전 성공 알림",
+        "id": 9001141,
+        "alias": "SysM.Dungeon.ChargeCountComplete",
+        "text": "<arg p=[1:string]/> 이용 횟수를 충전했습니다."
     }
 }

@@ -7507,5 +7507,54 @@
         "id": 9001134,
         "alias": "SysM.MultiEnchant.EnchantFail.ExceedLevel",
         "text": "You cannot upgrade to that level."
+    },
+    "9001135": {
+        "deprecated": false,
+        "Dev_Desc": "상점 / 임시보관함 에러 메시지",
+        "id": 9001135,
+        "alias": "SysM.Shop.TempInven",
+        "text": "You have items in your Drafts and cannot be purchased."
+    },
+    "9001136": {
+        "deprecated": false,
+        "Dev_Desc": "귀환의 돌 / 기절, 다운 상태",
+        "id": 9001136,
+        "alias": "SysM.ReturnScroll.Fail",
+        "text": "You cannot use the Return Stone."
+    },
+    "9001137": {
+        "deprecated": false,
+        "Dev_Desc": "문파 장원 귀환의 돌 / 기절, 다운 상태",
+        "id": 9001137,
+        "alias": "SysM.GuildReturnScroll.Fail",
+        "text": "You cannot use the Menor Manor Return Stone."
+    },
+    "9001138": {
+        "deprecated": false,
+        "Dev_Desc": "문파 시스템 / 문파 장원 입장 / 기절, 다운 상태",
+        "id": 9001138,
+        "alias": "SysM.GuildHouse.EnterFail",
+        "text": "You cannot enter the Munpa Manor."
+    },
+    "9001139": {
+        "deprecated": false,
+        "Dev_Desc": "문파 시스템 / 문파 장원 퇴장 / 기절, 다운 상태",
+        "id": 9001139,
+        "alias": "SysM.GuildHouse.OutFail",
+        "text": "You cannot go to the Munpa Manor."
+    },
+    "9001140": {
+        "deprecated": false,
+        "Dev_Desc": "우편 / 수락 불가 메시지 / 소지품 무게 부족",
+        "id": 9001140,
+        "alias": "SysM.Post.CantReceive.3",
+        "text": "You cannot receive more than your carry-on weight."
+    },
+    "9001141": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 횟수 충전 성공 알림",
+        "id": 9001141,
+        "alias": "SysM.Dungeon.ChargeCountComplete",
+        "text": "<arg p=[1:string]/>recharged number of uses."
     }
 }
