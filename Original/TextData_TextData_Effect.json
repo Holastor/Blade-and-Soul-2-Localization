@@ -4567,14 +4567,14 @@
         "Dev_Desc": "악인 2단계 / 설명",
         "id": 89500694,
         "alias": "Contents.Effect.Desc.8115",
-        "text": "회피, 방어, 물약 회복량 감소"
+        "text": "회피, 물약 회복량 감소"
     },
     "89500695": {
         "deprecated": false,
         "Dev_Desc": "악인 3단계 / 설명",
         "id": 89500695,
         "alias": "Contents.Effect.Desc.8116",
-        "text": "회피, 방어, 물약 회복량, 명중 감소"
+        "text": "회피, 방어, 물약 회복량 감소"
     },
     "89500696": {
         "deprecated": false,
@@ -4608,21 +4608,21 @@
         "Dev_Desc": "악인 1단계 / 버프 효과",
         "id": 89500700,
         "alias": "Contents.Effect.Option.8114",
-        "text": "회피 -10\n물약 회복량 -8"
+        "text": "회피 -2\n물약 회복량 -5"
     },
     "89500701": {
         "deprecated": false,
         "Dev_Desc": "악인 2단계 / 버프 효과",
         "id": 89500701,
         "alias": "Contents.Effect.Option.8115",
-        "text": "회피 -15\n방어력 -5\n물약 회복량 -12"
+        "text": "회피 -3\n물약 회복량 -8"
     },
     "89500702": {
         "deprecated": false,
         "Dev_Desc": "악인 3단계 / 버프 효과",
         "id": 89500702,
         "alias": "Contents.Effect.Option.8116",
-        "text": "회피 -20\n방어력 -10\n물약 회복량 -20\n명중 -5"
+        "text": "회피 -5\n방어력 -3\n물약 회복량 -10"
     },
     "89500703": {
         "deprecated": false,
@@ -6117,5 +6117,59 @@
         "id": 89500918,
         "alias": "Contents.Effect.ProvinceGradeEffect.Detail.6125",
         "text": "해룡산맥에서 지배자 등급 달성 시 받는 효과입니다."
+    },
+    "89500919": {
+        "deprecated": false,
+        "Dev_Desc": "시간의 화수분(이벤트)",
+        "id": 89500919,
+        "alias": "Contents.Effect.Name.70101136",
+        "text": "시간의 화수분(이벤트)"
+    },
+    "89500920": {
+        "deprecated": false,
+        "Dev_Desc": "시간의 화수분(이벤트)",
+        "id": 89500920,
+        "alias": "Contents.Effect.Desc.70101136",
+        "text": "화수분 사용 효과"
+    },
+    "89500921": {
+        "deprecated": false,
+        "Dev_Desc": "시간의 화수분(이벤트)",
+        "id": 89500921,
+        "alias": "Contents.Effect.Option.70101136",
+        "text": "생성시간동안 재사용 불가"
+    },
+    "89500922": {
+        "deprecated": false,
+        "Dev_Desc": "시간의 화수분(이벤트)",
+        "id": 89500922,
+        "alias": "Contents.Effect.Detail.70101136"
+    },
+    "89500923": {
+        "deprecated": false,
+        "Dev_Desc": "황금의 비약",
+        "id": 89500923,
+        "alias": "Contents.Effect.Name.70101170",
+        "text": "황금의 비약"
+    },
+    "89500924": {
+        "deprecated": false,
+        "Dev_Desc": "황금의 비약",
+        "id": 89500924,
+        "alias": "Contents.Effect.Desc.70101170",
+        "text": "전투 능력 증가"
+    },
+    "89500925": {
+        "deprecated": false,
+        "Dev_Desc": "황금의 비약",
+        "id": 89500925,
+        "alias": "Contents.Effect.Option.70101170",
+        "text": "PVE 명중 +3\n기본 공격 속도 +10%\n금화 획득량 증가 +100%"
+    },
+    "89500926": {
+        "deprecated": false,
+        "Dev_Desc": "황금의 비약",
+        "id": 89500926,
+        "alias": "Contents.Effect.Detail.70101170"
     }
 }

@@ -1746,7 +1746,7 @@
         "Dev_Desc": "아이템 / ",
         "id": 9000282,
         "alias": "SysM.Item.MultiDestroy.EquippedItem",
-        "text": "장착 중인 아이템입니다."
+        "text": "장착 중인 물품입니다."
     },
     "9000283": {
         "deprecated": false,
@@ -7282,7 +7282,7 @@
         "Dev_Desc": "용해제 / 용해제 부족",
         "id": 9001102,
         "alias": "SysM.Solvent.LackOfSolvent",
-        "text": "용해제가 부족합니다."
+        "text": "소지 중인 용해제 개수를 초과하여 선택할 수 없습니다."
     },
     "9001103": {
         "deprecated": false,
@@ -7422,7 +7422,7 @@
         "Dev_Desc": "이름 변경으로 발생하는 에러 메시지 / PvP북",
         "id": 9001122,
         "alias": "SysM.ChangeName.Error.PvPBook",
-        "text": "유저 정보를 확인할 수 없습니다."
+        "text": "대상이 오프라인입니다."
     },
     "9001123": {
         "deprecated": false,
@@ -7430,5 +7430,82 @@
         "id": 9001123,
         "alias": "SysM.Craft.WrongPeriod",
         "text": "제작 가능한 기간이 아닙니다."
+    },
+    "9001124": {
+        "deprecated": false,
+        "Dev_Desc": "잠금 / 용해 시도",
+        "id": 9001124,
+        "alias": "SysM.ItemLock.Fail.9",
+        "text": "잠겨있는 물품은 용해할 수 없습니다."
+    },
+    "9001125": {
+        "deprecated": false,
+        "Dev_Desc": "채팅 시스템 메시지 / 조롱",
+        "id": 9001125,
+        "alias": "SyM.ChatSysM.Rididule.Desc",
+        "text": "<<arg p=[1:string]/>><arg p=[2:string]/> 님이 <arg p=[3:string]/> 님을 처치 했습니다.</>"
+    },
+    "9001126": {
+        "deprecated": false,
+        "Dev_Desc": "상점 / 장바구니 등록 / 장바구니 부족",
+        "id": 9001126,
+        "alias": "SysM.Shop.Regist.TempSlotFull",
+        "text": "장바구니가 모두 차 있습니다. 정리 후 다시 시도해주세요."
+    },
+    "9001127": {
+        "deprecated": false,
+        "Dev_Desc": "상점 / 장바구니 등록 / 무게 초과",
+        "id": 9001127,
+        "alias": "SysM.Stash.Regist.WeightOver",
+        "text": "소지 가능 무게를 초과하여 등록할 수 없습니다."
+    },
+    "9001128": {
+        "deprecated": false,
+        "Dev_Desc": "상점 / 장바구니 등록 / 소지품창 부족",
+        "id": 9001128,
+        "alias": "SysM.Shop.Purchase.InventorySpace",
+        "text": "소지품 여유 공간이 없어 등록할 수 없습니다."
+    },
+    "9001129": {
+        "deprecated": false,
+        "Dev_Desc": "다중 강화 / 강화 실패 / 강화 목표 설정 안됨",
+        "id": 9001129,
+        "alias": "SysM.MultiEnchant.EnchantFail.NoEnchantTarget",
+        "text": "강화 목표 설정 후 강화할 수 있습니다."
+    },
+    "9001130": {
+        "deprecated": false,
+        "Dev_Desc": "다중 강화 / 강화 실패 / 주문서 부족",
+        "id": 9001130,
+        "alias": "SysM.MultiEnchant.EnchantFail.LackOfScroll",
+        "text": "주문서가 부족하여 강화할 수 없습니다."
+    },
+    "9001131": {
+        "deprecated": false,
+        "Dev_Desc": "다중 강화 / 재화 부족",
+        "id": 9001131,
+        "alias": "SysM.MultiEnchant.EnchantFail.LackOfMoney",
+        "text": "금화가 부족하여 강화할 수 없습니다."
+    },
+    "9001132": {
+        "deprecated": false,
+        "Dev_Desc": "다중 강화 / 장비 없음",
+        "id": 9001132,
+        "alias": "SysM.MultiEnchant.EnchantFail.NoEquipment",
+        "text": "강화 가능한 장비가 없습니다. 강화 목표 설정 후 다시 시도해주세요."
+    },
+    "9001133": {
+        "deprecated": false,
+        "Dev_Desc": "다중 강화 / 장비 등록 실패 / 꽉참",
+        "id": 9001133,
+        "alias": "SysM.MultiEnchant.RegistFail.Full",
+        "text": "더 이상 장비를 등록할 수 없습니다."
+    },
+    "9001134": {
+        "deprecated": false,
+        "Dev_Desc": "다중 강화 / 강화 단계 초과",
+        "id": 9001134,
+        "alias": "SysM.MultiEnchant.EnchantFail.ExceedLevel",
+        "text": "해당 단계까지 강화할 수 없습니다."
     }
 }
