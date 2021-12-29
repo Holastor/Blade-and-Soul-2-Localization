@@ -24149,5 +24149,33 @@
         "id": 8003531,
         "alias": "UI.Inventory.RemoveSmelting.PopUp.Desc",
         "text": "물품 <arg p=[1:integer]/>개의 재련 능력치를 제거하시겠습니까?<br/><textColor=[209:72:59:255]>제거된 재련 능력치는 되돌릴 수 없습니다.</>"
+    },
+    "8003532": {
+        "deprecated": false,
+        "Dev_Desc": "수량 조절 팝업 / 소울 파편 사용 시 설명",
+        "id": 8003532,
+        "alias": "UI.Item.PopUp.SoulPieceMultiOpenDesc",
+        "text": "사용할 소울 파편의 수량을 선택해주세요."
+    },
+    "8003533": {
+        "deprecated": false,
+        "Dev_Desc": "소울 파편 획득 결과 팝업 / 획득물 설명",
+        "id": 8003533,
+        "alias": "UI.SoulPiecePopUp.AcquireDesc",
+        "text": "<arg p=[1:string]/> 외 <arg p=[2:integer]/>종의 소울 파편을 획득했습니다."
+    },
+    "8003534": {
+        "deprecated": false,
+        "Dev_Desc": "이벤트 제작 레시피 탭 /행운 교환권",
+        "id": 8003534,
+        "alias": "UI.Craft.LeftSubTabName.Event.LuckyTicket_01",
+        "text": "행운 교환권"
+    },
+    "8003535": {
+        "deprecated": false,
+        "Dev_Desc": "NPC상점 / 수집품 상인 / 타이틀",
+        "id": 8003535,
+        "alias": "UI.Shop.Tittle.Name.10028",
+        "text": "달걀 교환상"
     }
 }

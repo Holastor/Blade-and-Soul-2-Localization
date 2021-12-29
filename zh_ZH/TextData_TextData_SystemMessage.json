@@ -7556,5 +7556,33 @@
         "id": 9001141,
         "alias": "SysM.Dungeon.ChargeCountComplete",
         "text": "<arg p=[1:string]/>充值次数。"
+    },
+    "9001142": {
+        "deprecated": false,
+        "Dev_Desc": "운영 상 제재 메시지",
+        "id": 9001142,
+        "alias": "SysM.Lobby.Sanction",
+        "text": "您的账户因操作原因暂时受到保护。\\n我们对给您带来的不便深表歉意。请通过社区通知或\\n[客户支持>联系我们]查看更详细措施的进展情况。"
+    },
+    "9001143": {
+        "deprecated": false,
+        "Dev_Desc": "잠금 / 재련 능력치 제거 시도",
+        "id": 9001143,
+        "alias": "SysM.ItemLock.Fail.10",
+        "text": "锁定的物品无法删除其精炼统计数据。"
+    },
+    "9001144": {
+        "deprecated": false,
+        "Dev_Desc": "재련 능력치 제거 / 재련되지 않은 아이템 선택",
+        "id": 9001144,
+        "alias": "SysM.Item.RemoveSmeltingFail.UnSmelting",
+        "text": "不是具有炼化能力的物品。"
+    },
+    "9001145": {
+        "deprecated": false,
+        "Dev_Desc": "문파 적대 시 대상 유저의 문파 가입 정보가 변경되었을 경우",
+        "id": 9001145,
+        "alias": "SysM.Guild.GuildEnemy.Add.InfoChangeError",
+        "text": "用户的氏族成员信息已被更改，因此氏族敌意无法进行。"
     }
 }

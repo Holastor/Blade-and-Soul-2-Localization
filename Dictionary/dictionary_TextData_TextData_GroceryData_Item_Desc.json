@@ -17882,5 +17882,502 @@
         "English_Text": "When used, one of the following items can be obtained according to a set probability. ",
         "Russian_Text": "",
         "Chinese_Text": "使用时，可以按照设定的概率获得以下道具之一。"
+    },
+    "99003383": {
+        "Dev_Desc": "상급 의상 주머니(이벤트)",
+        "Original_Text": "사용 시 정해진 확률에 따라 의상 1종을 획득할 수 있습니다. \\n(등급: 상급)",
+        "English_Text": "When used, you can obtain 1 outfit according to a set probability. \\n (Class: Advanced)",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，可以按照设定的概率获得1套。\\n（职业：高级）"
+    },
+    "99003384": {
+        "Dev_Desc": "튜토리얼 언령석",
+        "Original_Text": "미약한 기운이 담긴 돌입니다. 야루의 상자에서 재련 재료로 사용됩니다.",
+        "English_Text": "A stone with weak energy. It is used as a refining material in Yaru's chest.",
+        "Russian_Text": "",
+        "Chinese_Text": "能量微弱的石头，在雅茹的胸膛中，作为炼制材料使用。"
+    },
+    "99003385": {
+        "Dev_Desc": "튜토리얼 언령석",
+        "Original_Text": "미약한 기운이 담긴 돌입니다. 야루의 상자에서 재련 재료로 사용됩니다.",
+        "English_Text": "A stone with weak energy. It is used as a refining material in Yaru's chest.",
+        "Russian_Text": "",
+        "Chinese_Text": "能量微弱的石头，在雅茹的胸膛中，作为炼制材料使用。"
+    },
+    "99003386": {
+        "Dev_Desc": "튜토리얼 언령석",
+        "Original_Text": "미약한 기운이 담긴 돌입니다. 야루의 상자에서 재련 재료로 사용됩니다.",
+        "English_Text": "A stone with weak energy. It is used as a refining material in Yaru's chest.",
+        "Russian_Text": "",
+        "Chinese_Text": "能量微弱的石头，在雅茹的胸膛中，作为炼制材料使用。"
+    },
+    "99003387": {
+        "Dev_Desc": "충전석: 굴락의 시련 던전(1회)(이벤트)",
+        "Original_Text": "굴락의 시련 던전 이용 횟수를 충전합니다.",
+        "English_Text": "Charges the number of times Gulak's Trial dungeon can be used.",
+        "Russian_Text": "",
+        "Chinese_Text": "根据古拉克的试炼地牢可以使用的次数收费。"
+    },
+    "99003388": {
+        "Dev_Desc": "충전석: 홍매화의 시련 던전(1회)(이벤트)",
+        "Original_Text": "홍매화의 시련 던전 이용 횟수를 충전합니다.",
+        "English_Text": "Charges the number of times to use the Red Plum Blossom's Trial dungeon.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用红梅试炼副本的次数。"
+    },
+    "99003389": {
+        "Dev_Desc": "충전석: 가면동충의 시련 던전(1회)(이벤트)",
+        "Original_Text": "동충의 시련 던전 이용 횟수를 충전합니다.",
+        "English_Text": "Charges the number of times used in the Trial of Dongchong dungeon.",
+        "Russian_Text": "",
+        "Chinese_Text": "收取东冲地牢试炼中使用的次数。"
+    },
+    "99003390": {
+        "Dev_Desc": "충전석: 풍신의 시련 던전(1회)(이벤트)",
+        "Original_Text": "풍신의 시련 던전 이용 횟수를 충전합니다.",
+        "English_Text": "Charges the number of times used in the Trial of the Wind God dungeon.",
+        "Russian_Text": "",
+        "Chinese_Text": "收取风神试炼副本使用次数。"
+    },
+    "99003391": {
+        "Dev_Desc": "축복의 플러스 패스권",
+        "Original_Text": "\"축복의 플러스 패스 추가 보상을 활성화할 수 있는 아이템입니다.\\n\\n* 주의\\n시즌이 종료되면 패스 미션을 더 이상 진행할 수 없습니다.\\n시즌 종료 후 일주일이 지나면 사용하지 못한 패스 포인트는 소멸되며 더 이상 보상 교환이 불가합니다.\"",
+        "English_Text": "This item can activate the Blessing Plus Pass additional reward.\\n\\n* Attention\\nWhen the season ends, you can no longer proceed with the Pass mission. ",
+        "Russian_Text": "",
+        "Chinese_Text": "此物品可以激活祝福加通行证额外奖励。\\n\\n* 注意\\n赛季结束后，您将无法再进行通行证任务。"
+    },
+    "99003392": {
+        "Dev_Desc": "2022 시즌 패스권",
+        "Original_Text": "\"시즌 패스 : 2022 추가 보상을 활성화할 수 있는 아이템입니다.\\n\\n* 주의\\n시즌이 종료되면 패스 미션을 더 이상 진행할 수 없습니다.\\n시즌 종료 후 일주일이 지나면 사용하지 못한 패스 포인트는 소멸되며 더 이상 보상 교환이 불가합니다.\"",
+        "English_Text": "Season Pass: An item that can activate the 2022 additional rewards.\\n\\n* Attention\\nWhen the season is over, you can no longer proceed with the pass mission. ",
+        "Russian_Text": "",
+        "Chinese_Text": "季票：可以激活2022额外奖励的物品。\\n\\n* 注意\\n当赛季结束后，您将无法继续进行季票任务。"
+    },
+    "99003393": {
+        "Dev_Desc": "데일리 패스권",
+        "Original_Text": "\"데일리 패스 추가 보상을 활성화할 수 있는 아이템입니다.\\n\\n* 주의\\n시즌이 종료되면 패스 미션을 더 이상 진행할 수 없습니다.\\n시즌 종료 후 일주일이 지나면 사용하지 못한 패스 포인트는 소멸되며 더 이상 보상 교환이 불가합니다.\"",
+        "English_Text": "This item can activate additional Daily Pass rewards.\\n\\n* Attention\\nWhen the season is over, you can no longer proceed with the Pass mission. ",
+        "Russian_Text": "",
+        "Chinese_Text": "此物品可以激活额外的每日通行证奖励。\\n\\n* 注意\\n赛季结束后，您将无法再进行通行证任务。"
+    },
+    "99003394": {
+        "Dev_Desc": "행운 교환권",
+        "Original_Text": "행운 교환권을 사용하여 다음 물품 중 1종을 제작할 수 있습니다.",
+        "English_Text": "You can use the Lucky Voucher to craft one of the following items.",
+        "Russian_Text": "",
+        "Chinese_Text": "您可以使用幸运券制作以下物品之一。"
+    },
+    "99003395": {
+        "Dev_Desc": "시간의 빛나는 수호령 소환서(11회)",
+        "Original_Text": "사용 시 정해진 확률에 따라 수호령을 획득할 수 있습니다.\\n(등급: 일반 ~ 영웅)",
+        "English_Text": "When used, you can acquire a guardian spirit according to a set probability.\\n (Rank: Normal ~ Heroic)",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，可以按照设定的概率获得一个守护灵。\\n（等级：普通~英雄）"
+    },
+    "99003396": {
+        "Dev_Desc": "금괴: 100만금(각인)",
+        "Original_Text": "상인에게 판매 시 100만 금화를 획득할 수 있습니다.",
+        "English_Text": "You can get 1 million gold coins by selling to a merchant.",
+        "Russian_Text": "",
+        "Chinese_Text": "卖给商人可以获得100万金币。"
+    },
+    "99003397": {
+        "Dev_Desc": "심연의 찬란한 소울 소환서(5회)",
+        "Original_Text": "사용 시 정해진 확률에 따라 소울을 획득할 수 있습니다.\\n(등급: 희귀 ~ 영웅)",
+        "English_Text": "You can acquire a soul according to a set probability when used.\\n (Rare ~ Heroic)",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时可以按照设定的概率获得灵魂。\\n（稀有~英雄）"
+    },
+    "99003398": {
+        "Dev_Desc": "눈꽃 증표",
+        "Original_Text": "장비 도감에 사용되는 특별한 재료입니다.",
+        "English_Text": "A special material used in the Equipment Encyclopedia.",
+        "Russian_Text": "",
+        "Chinese_Text": "装备百科中使用的一种特殊材料。"
+    },
+    "99003399": {
+        "Dev_Desc": "크리스마스 전구",
+        "Original_Text": "크리스마스를 아름답게 밝혀줄 전구입니다.\\n전구로 다양한 물품을 제작할 수 있습니다.\\n\\n[제작 > 이벤트 > 소울풀 크리스마스]",
+        "English_Text": "This is a light bulb that will brighten up Christmas beautifully.\\nYou can make various items with the light bulb.\\n\\n[Production > Event > Soulful Christmas]",
+        "Russian_Text": "",
+        "Chinese_Text": "这是一个可以为圣诞节增添光彩的灯泡。\\n你可以用灯泡制作各种物品。\\n\\n[制作 > 活动 > 深情的圣诞节]"
+    },
+    "99003400": {
+        "Dev_Desc": "충전석: 백화렴의 시련 던전(연습)(1회)(각인)",
+        "Original_Text": "백화렴의 시련 던전(연습) 이용 횟수를 충전합니다.",
+        "English_Text": "Charges the number of times used in Baekhwaryeom's Trial dungeon (practice).",
+        "Russian_Text": "",
+        "Chinese_Text": "按白花莲的试炼地下城（练习）中使用的次数收费。"
+    },
+    "99003401": {
+        "Dev_Desc": "충전석: 동충의 시련 던전(연습)(1회)(각인)",
+        "Original_Text": "돌주먹의 시련 던전(연습) 이용 횟수를 충전합니다.",
+        "English_Text": "Charges the number of uses of Stone Fist's Trial dungeon (practice).",
+        "Russian_Text": "",
+        "Chinese_Text": "收取石拳试炼地下城的使用次数（练习）。"
+    },
+    "99003402": {
+        "Dev_Desc": "충전석: 굴락의 시련 던전(연습)(1회)(각인)",
+        "Original_Text": "굴락의 시련 던전(연습) 이용 횟수를 충전합니다.",
+        "English_Text": "Charges the number of uses of Gulak's Trial dungeon (practice).",
+        "Russian_Text": "",
+        "Chinese_Text": "根据古拉克的试炼地牢（练习）的使用次数收费。"
+    },
+    "99003403": {
+        "Dev_Desc": "충전석: 홍매화의 시련 던전(연습)(1회)(각인)",
+        "Original_Text": "홍매화의 시련 던전(연습) 이용 횟수를 충전합니다.",
+        "English_Text": "Charges the number of uses of the Red Plum Blossom's Trial dungeon (practice).",
+        "Russian_Text": "",
+        "Chinese_Text": "收取使用次数的红梅试炼副本（练习）。"
+    },
+    "99003404": {
+        "Dev_Desc": "충전석: 가면동충의 시련 던전(연습)(1회)(각인)",
+        "Original_Text": "가면동충의 시련 던전(연습) 이용 횟수를 충전합니다.",
+        "English_Text": "Charges the number of times you use the Masquerade's Trial dungeon (practice).",
+        "Russian_Text": "",
+        "Chinese_Text": "根据你使用假面舞会的试炼地牢（练习）的次数收费。"
+    },
+    "99003405": {
+        "Dev_Desc": "충전석: 풍신의 시련 던전(연습)(1회)(각인)",
+        "Original_Text": "풍신의 시련 던전(연습) 이용 횟수를 충전합니다.",
+        "English_Text": "Charges the number of uses of the Wind God's Trial dungeon (practice).",
+        "Russian_Text": "",
+        "Chinese_Text": "收取风神试炼副本的使用次数（练习）。"
+    },
+    "99003408": {
+        "Dev_Desc": "굴락 소울 파편 3개",
+        "Original_Text": "사용 시 굴락 소울 파편을 3개 획득할 수 있습니다.<br/>(등급: 희귀)",
+        "English_Text": "You can obtain 3 Gulak Soul Shards when used.<br/>(Rare)",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时可以获得 3 个古拉克灵魂碎片。<br/>(稀有)"
+    },
+    "99003409": {
+        "Dev_Desc": "고요하고 거룩한 장비 상자(이벤트)",
+        "Original_Text": "사용 시 정해진 확률에 따라 다음 물품 중 1종을 획득할 수 있습니다.\\n\\n- 고요한 법종(이벤트) 1개\\n- 거룩한 흉갑(이벤트) 1개",
+        "English_Text": "When used, you can obtain one of the following items according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，可以按照设定的概率获得以下道具之一。"
+    },
+    "99003410": {
+        "Dev_Desc": "크리스마스 의상 선택 상자(이벤트)",
+        "Original_Text": "사용 시 다음 물품 중 1종을 선택하여 획득할 수 있습니다.\\n\\n- 따뜻한 크리스마스 1개\\n- 화이트 크리스마스 1개\\n- 화려한 크리스마스 1개\\n- 행복한 크리스마스 1개",
+        "English_Text": "You can obtain one of the following items when used.\\n\\n- 1 Warm Christmas\\n- 1 White Christmas\\n- 1 Gorgeous Christmas\\n- 1 Happy Christmas",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时可以获得以下物品之一。\\n\\n- 1个温暖的圣诞节\\n- 1个白色圣诞节\\n- 1个华丽的圣诞节\\n- 1个圣诞快乐"
+    },
+    "99003411": {
+        "Dev_Desc": "크리스마스 선물 상자 (이벤트)",
+        "Original_Text": "사용 시 다음 물품 중 1종을 선택하여 획득할 수 있습니다.\\n\\n- 축복받은 무기 강화 주문서(이벤트) 1개\\n- 축복받은 방어구 강화 주문서(이벤트) 1개\\n- 저주받은 무기 강화 주문서(이벤트) 1개\\n- 저주받은 방어구 강화 주문서(이벤트) 1개",
+        "English_Text": "You can obtain one of the following items when used.\\n\\n- Blessed Weapon Enhancement Scroll (Event) 1\\n- Blessed Armor Enhancement Scroll (Event) 1 piece\\n- Cursed Weapon Enhancement Scroll (Event) ",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时可以获得以下道具之一。\\n\\n- 祝福武器强化卷轴（事件）1\\n- 祝福护甲强化卷轴（事件）1 件\\n- 诅咒武器强化卷轴（事件）"
+    },
+    "99003412": {
+        "Dev_Desc": "잊혀진 영웅의 크리스마스 주머니(이벤트)",
+        "Original_Text": "사용 시 다음 물품 중 1종을 선택하여 획득할 수 있습니다.\\n\\n- 잊혀진 영웅 무기 제작 비법서 조각(각인) 1개\\n- 잊혀진 영웅 방어구 제작 비법서 조각(각인) 1개\\n- 잊혀진 영웅 장신구 제작 비법서 조각(각인) 1개",
+        "English_Text": "When used, you can select one of the following items to obtain.\\n\\n- Forgotten Hero Weapon Crafting Secret Fragment (Imprint) 1\\n- Forgotten Hero's Armor Crafting Secret Fragment (Engraving) 1 ea\\n- Forgotten Hero's Accessories ",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，您可以选择以下物品之一获得。\\n\\n-遗忘英雄武器制作秘密碎片（印记）1\\n-遗忘英雄的盔甲制作秘密碎片（雕刻）1 ea\\n-遗忘英雄的配饰"
+    },
+    "99003413": {
+        "Dev_Desc": "대사형의 크리스마스 선물(이벤트)",
+        "Original_Text": "사용 시 무기 또는 방어구를 획득할 수 있습니다.\\n(등급: 희귀)",
+        "English_Text": "You can acquire a weapon or armor when used.\\n (Rare)",
+        "Russian_Text": "",
+        "Chinese_Text": "你可以在使用时获得武器或盔甲。\\n（稀有）"
+    },
+    "99003414": {
+        "Dev_Desc": "잊혀진 비법서 상자(이벤트)",
+        "Original_Text": "사용 시 정해진 확률에 따라 다음 물품 중 1종을 획득할 수 있습니다.\\n\\n- 희귀 무기 제작 비법서 조각(각인) 5개\\n- 희귀 방어구 제작 비법서 조각(각인) 5개\\n- 희귀 장신구 제작 비법서 조각(각인) 5개\\n- 희귀 무기 제작 비법서(각인) 1개\\n- 희귀 방어구 제작 비법서(각인) 1개\\n- 희귀 장신구 제작 비법서(각인) 1개\\n- 잊혀진 영웅 무기 제작 비법서 조각(각인) 5개\\n- 잊혀진 영웅 방어구 제작 비법서 조각(각인) 5개\\n- 잊혀진 영웅 장신구 제작 비법서 조각(각인) 5개\\n- 잊혀진 영웅 무기 제작 비법서(각인) 1개\\n- 잊혀진 영웅 방어구 제작 비법서(각인) 1개\\n- 잊혀진 영웅 장신구 제작 비법서(각인) 1개",
+        "English_Text": "When used, one of the following items can be obtained according to a set probability when used.\\n\\n- Rare weapon crafting recipe fragment (engraving) 5ea\\n- Rare armor crafting recipe recipe fragment (engraving) 5ea\\n- Rare accessory crafting ",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，使用时可以按照设定的概率获得以下物品之一。\\n\\n-稀有武器制作配方片段（雕刻）5ea\\n-稀有盔甲制作配方片段（雕刻）5ea\\n-稀有配饰制作"
+    },
+    "99003415": {
+        "Dev_Desc": "잊혀진 무기 선택 상자(이벤트)",
+        "Original_Text": "사용 시 다음 물품 중 1종을 선택하여 획득할 수 있습니다.\\n\\n- 잊혀진 집행자의 검(각인) 1개\\n- 잊혀진 단죄의 주먹(각인) 1개\\n- 잊혀진 광신의 도끼(각인) 1개\\n- 잊혀진 징벌자의 활(각인) 1개\\n- 잊혀진 죄업의 거울(각인) 1개\\n- 잊혀진 팔두령(각인) 1개",
+        "English_Text": "You can obtain one of the following items when using it.\\n\\n- Forgotten Executioner's Sword (Imprint) x1\\n- Forgotten Fist of Condemnation (Imprint) x1\\n- Forgotten Fanatic's Ax (Imprint) x1 ",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时可以获得以下物品之一。\\n\\n-遗忘刽子手之剑（印记）x1\\n-遗忘定罪之拳（印记）x1\\n-遗忘狂热之斧（印记）x1"
+    },
+    "99003416": {
+        "Dev_Desc": "잊혀진 방어구 상자(이벤트)",
+        "Original_Text": "사용 시 정해진 확률에 따라 다음 물품 중 1종을 획득할 수 있습니다.\\n\\n- 잊혀진 심연의 흉갑(각인)) 1개\\n- 잊혀진 심연의 장갑(각인) 1개\\n- 잊혀진 심연의 허리띠(각인) 1개\\n- 잊혀진 심연의 각반(각인) 1개\\n- 잊혀진 심연의 장화(각인) 1개\\n- 잊혀진 심연의 견갑(각인) 1개",
+        "English_Text": "You can obtain one of the following items according to a set probability when used.\\n\\n- Breastplate of the Forgotten Abyss (Imprint)) 1\\n- Gloves of the Forgotten Abyss (Imprint) 1\\n- Belt of the Forgotten Abyss (Imprint) ",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，可以根据设定的概率获得以下物品之一。\\n\\n- 遗忘深渊胸甲(印记)) 1\\n- 遗忘深渊手套(印记) 1\\n- 遗忘深渊腰带(印记) "
+    },
+    "99003417": {
+        "Dev_Desc": "크리스마스 봉마함(이벤트)",
+        "Original_Text": "사용 시 정해진 확률에 따라 다음 물품 중 1종을 획득할 수 있습니다.\\n\\n- 도화전 상자(이벤트) 1개\\n- 크리스마스 전구 상자(이벤트) 1개\\n- 무기 강화 주문서(이벤트) 1개\\n- 방어구 강화 주문서(이벤트) 1개\\n- 장신구 강화 주문서(이벤트) 1개\\n- 축복받은 무기 강화 주문서(이벤트) 1개\\n- 축복받은 방어구 강화 주문서(이벤트) 1개\\n- 축복받은 장신구 강화 주문서(이벤트) 1개\\n- 크리스마스 의상 선택 상자(이벤트) 1개\\n- 희귀 의상 주머니(각인) 1개\\n- 영웅 의상 주머니(각인) 1개\\n- 잊혀진 비법서 상자(이벤트) 1개\\n- 잊혀진 무기 선택 상자(이벤트) 1개\\n- 잊혀진 방어구 상자(이벤트) 1개",
+        "English_Text": "When used, one of the following items can be obtained according to a set probability. ",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，可以按照设定的概率获得以下道具之一。"
+    },
+    "99003418": {
+        "Dev_Desc": "충전석: 빛나는 반달호수(30분)(이벤트)",
+        "Original_Text": "축복의 반달호수 던전 이용 시간을 충전합니다.",
+        "English_Text": "Charges the time to use the Blessed Half Moon Lake dungeon.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用半月湖地牢的时间充值。"
+    },
+    "99003419": {
+        "Dev_Desc": "도화전 상자(이벤트)",
+        "Original_Text": "사용 시 정해진 확률에 따라 다음 물품 중 1종을 획득할 수 있습니다.\\n\\n- 도화전 1000개\\n- 도화전 1500개\\n- 도화전 2000개\\n- 도화전 2500개\\n- 도화전 3000개",
+        "English_Text": "When used, one of the following items can be obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，可以按照设定的概率获得以下道具之一。"
+    },
+    "99003420": {
+        "Dev_Desc": "크리스마스 전구 상자(이벤트)",
+        "Original_Text": "사용 시 정해진 확률에 따라 다음 물품 중 1종을 획득할 수 있습니다.\\n\\n- 크리스마스 전구(이벤트) 10개\\n- 크리스마스 전구(이벤트) 15개\\n- 크리스마스 전구(이벤트) 20개\\n- 크리스마스 전구(이벤트) 30개\\n- 크리스마스 전구(이벤트) 50개",
+        "English_Text": "You can obtain one of the following items according to a set probability when used.\\n\\n- Christmas Bulb (Event) 10ea\\n- Christmas Bulb (Event) 15ea\\n- Christmas Bulb (Event) 20ea\\n- Christmas Bulb ",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时可以根据设定的概率获得以下道具之一。\\n\\n-圣诞灯泡（事件）10ea\\n-圣诞灯泡（事件）15ea\\n-圣诞灯泡（事件）20ea\\n-圣诞灯泡"
+    },
+    "99003421": {
+        "Dev_Desc": "시간의 찬란한 소울 소환서(5회)",
+        "Original_Text": "사용 시 정해진 확률에 따라 소울을 획득할 수 있습니다.\\n(등급: 희귀 ~ 영웅)",
+        "English_Text": "You can acquire a soul according to a set probability when used.\\n (Rare ~ Heroic)",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时可以按照设定的概率获得灵魂。\\n（稀有~英雄）"
+    },
+    "99003422": {
+        "Dev_Desc": "시간의 영웅 소울 파편(7개) 선택 꾸러미",
+        "Original_Text": "사용 시 다음 소울 파편 중 하나를 선택하여 획득할 수 있습니다.\\n(등급 - 영웅)\\n\\n- 회귀자 아랑 소울 파편(각인) 7개\\n- 회귀자 파사 소울 파편(각인) 7개\\n- 회귀자 사루비 소울 파편(각인) 7개\\n- 방랑자 유기 소울 파편(각인) 7개\\n- 오름 소울 파편(각인) 7개\\n- 송시국 소울 파편(각인) 7개\\n- 하름 소울 파편(각인) 7개\\n- 서중문 소울 파편(각인) 7개",
+        "English_Text": "When used, it can be obtained by selecting one of the following Soul Fragments.\\n(Rank - Heroic)\\n\\n- Returner Arang Soul Fragment (Imprint) 7ea\\n- Regressor Pasa Soul Fragment (Imprint) 7ea\\n- Regression ",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，可以通过选择以下灵魂碎片之一获得。\\n（等级-英雄）\\n\\n-回归者阿朗灵魂碎片（印记）7ea\\n-回归者帕萨灵魂碎片（印记）7ea\\n-回归"
+    },
+    "99003423": {
+        "Dev_Desc": "회귀자 아랑 소울 파편(각인)",
+        "Original_Text": "사용 시 회귀자 아랑 소울 파편을 1개 획득할 수 있습니다.<br/>(등급: 영웅)",
+        "English_Text": "You can get 1 Returner Arang Soul Fragment when used.<br/>(Rank: Heroic)",
+        "Russian_Text": "",
+        "Chinese_Text": "使用后可以获得1个归来者阿朗灵魂碎片。<br/>（等级：英雄）"
+    },
+    "99003424": {
+        "Dev_Desc": "회귀자 파사 소울 파편(각인)",
+        "Original_Text": "사용 시 회귀자 파사 소울 파편을 1개 획득할 수 있습니다.<br/>(등급: 영웅)",
+        "English_Text": "When used, you can obtain 1 Regressor Passa Soul Fragment.<br/>(Rank: Heroic)",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，可以获得1个回归者帕萨灵魂碎片。<br/>（等级：英雄）"
+    },
+    "99003425": {
+        "Dev_Desc": "회귀자 사루비 파편(각인)",
+        "Original_Text": "사용 시 회귀자 사루비 소울 파편을 1개 획득할 수 있습니다.<br/>(등급: 영웅)",
+        "English_Text": "You can get 1 Returner Sarubi Soul Fragment when used.<br/>(Rank: Heroic)",
+        "Russian_Text": "",
+        "Chinese_Text": "使用后可以获得1个归来者萨鲁比灵魂碎片。<br/>（等级：英雄）"
+    },
+    "99003426": {
+        "Dev_Desc": "방랑자 유기 소울 파편(각인)",
+        "Original_Text": "사용 시 방랑자 유기 소울 파편을 1개 획득할 수 있습니다.<br/>(등급: 영웅)",
+        "English_Text": "You can get 1 Drifter Organic Soul Fragment when used.<br/>(Rank: Heroic)",
+        "Russian_Text": "",
+        "Chinese_Text": "使用后可以获得1个漂流者有机灵魂碎片。<br/>（等级：英雄）"
+    },
+    "99003427": {
+        "Dev_Desc": "오름 소울 파편(각인)",
+        "Original_Text": "사용 시 오름 소울 파편을 1개 획득할 수 있습니다.<br/>(등급: 영웅)",
+        "English_Text": "When used, you can obtain 1 Oreum Soul Fragment.<br/>(Rank: Heroic)",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，可以获得1个奥雷姆灵魂碎片。<br/>（等级：英雄）"
+    },
+    "99003428": {
+        "Dev_Desc": "송시국 소울 파편(각인)",
+        "Original_Text": "사용 시 송시국 소울 파편을 1개 획득할 수 있습니다.<br/>(등급: 영웅)",
+        "English_Text": "When used, you can obtain 1 Song Song Guk Soul Fragment.<br/>(Rank: Heroic)",
+        "Russian_Text": "",
+        "Chinese_Text": "使用后，可以获得1个宋宋国灵魂碎片。<br/>（等级：英雄）"
+    },
+    "99003429": {
+        "Dev_Desc": "하름 소울 파편(각인)",
+        "Original_Text": "사용 시 하름 소울 파편을 1개 획득할 수 있습니다.<br/>(등급: 영웅)",
+        "English_Text": "You can obtain 1 Harem Soul Fragment when used.<br/>(Rank: Heroic)",
+        "Russian_Text": "",
+        "Chinese_Text": "使用后可以获得1个后宫灵魂碎片。<br/>（等级：英雄）"
+    },
+    "99003430": {
+        "Dev_Desc": "서중문 소울 파편(각인)",
+        "Original_Text": "사용 시 서중문 소울 파편을 1개 획득할 수 있습니다.<br/>(등급: 영웅)",
+        "English_Text": "You can obtain 1 Seojungmun Soul Fragment when used.<br/>(Rank: Heroic)",
+        "Russian_Text": "",
+        "Chinese_Text": "使用后可以获得1个西政门灵魂碎片。<br/>（等级：英雄）"
+    },
+    "99003431": {
+        "Dev_Desc": "신년맞이 재료 상자(이벤트)",
+        "Original_Text": "사용 시 정해진 확률에 따라 다음 물품 중 1종을 획득할 수 있습니다.\\n\\n- 비결(각인) 1000개\\n- 진경: 합일(각인) 20개\\n- 영약: 하수오(각인) 20개\\n- 차가운 용염(각인) 10개\\n- 영약: 산삼(각인) 1개",
+        "English_Text": "When used, one of the following items can be obtained according to a set probability.\\n\\n- Secret (Imprint) 1000 pieces\\n- Jinkyung: Unity (Imprint) 20 pieces\\n- Flask: Hasuo (Imprint) 20 pieces\\n- Cold ",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，可以按照设定的概率获得以下道具之一。\\n\\n-Secret（印记）1000枚\\n- Jinkyung：团结（印记）20枚\\n-烧瓶：哈索（印记）20枚\\n- Cold "
+    },
+    "99003432": {
+        "Dev_Desc": "2022 임인년 기념 선물함(이벤트)",
+        "Original_Text": "사용 시 정해진 확률에 따라 다음 물품 중 1종을 획득할 수 있습니다.\\n\\n- 돌파의 정수 파편(각인) 1개\\n- 무기 강화 주문서(이벤트) 10개\\n- 방어구 강화 주문서(이벤트) 10개\\n- 장신구 강화 주문서(이벤트) 10개\\n- 축복받은 무기 강화 주문서(이벤트) 1개\\n- 축복받은 방어구 강화 주문서(이벤트) 1개\\n- 축복받은 장신구 강화 주문서(이벤트) 1개",
+        "English_Text": "When used, you can obtain one of the following items according to a set probability.\\n\\n- Essence of Breakthrough Fragment (Engraving) 1 x \\n- Weapon Enhancement Scroll (Event) 10\\n- Armor Enhancement Scroll (Event) 10 ",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，可以按照设定的概率获得以下物品之一。\\n\\n-突破精华碎片（雕刻）1×\\n-武器强化卷轴（事件）10\\n-护甲强化卷轴（事件）10"
+    },
+    "99003433": {
+        "Dev_Desc": "시간의 찬란한 소울 소환서(3회)",
+        "Original_Text": "사용 시 정해진 확률에 따라 소울을 획득할 수 있습니다.\\n(등급: 희귀 ~ 영웅)",
+        "English_Text": "You can acquire a soul according to a set probability when used.\\n (Rare ~ Heroic)",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时可以按照设定的概率获得灵魂。\\n（稀有~英雄）"
+    },
+    "99003434": {
+        "Dev_Desc": "시간의 영웅 소울 소환서(3회)",
+        "Original_Text": "사용 시 정해진 확률에 따라 소울을 획득할 수 있습니다.<br/>(등급: 영웅)",
+        "English_Text": "You can acquire a soul according to a set probability when used.<br/>(Rank: Hero)",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时可以按照设定的概率获得灵魂。<br/>（等级：英雄）"
+    },
+    "99003435": {
+        "Dev_Desc": "심연의 영웅 수호령 소환서(1회)",
+        "Original_Text": "사용 시 정해진 확률에 따라 수호령을 획득할 수 있습니다.<br/>(등급: 영웅)",
+        "English_Text": "You can acquire a guardian spirit according to a set probability when used.<br/>(Rank: Hero)",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时可以按照设定的概率获得守护灵。<br/>（等级：英雄）"
+    },
+    "99003436": {
+        "Dev_Desc": "심연의 찬란한 수호령 소환서(1회)",
+        "Original_Text": "사용 시 정해진 확률에 따라 수호령을 획득할 수 있습니다.<br/>(등급: 희귀 ~ 영웅)",
+        "English_Text": "You can acquire a guardian spirit according to a set probability when used.<br/>(Rare ~ Heroic)",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时可以按照设定的概率获得一个守护灵。<br/>（稀有~英雄）"
+    },
+    "99003437": {
+        "Dev_Desc": "심연의 찬란한 수호령 소환서(3회)",
+        "Original_Text": "사용 시 정해진 확률에 따라 수호령을 획득할 수 있습니다.<br/>(등급: 희귀 ~ 영웅)",
+        "English_Text": "You can acquire a guardian spirit according to a set probability when used.<br/>(Rare ~ Heroic)",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时可以按照设定的概率获得一个守护灵。<br/>（稀有~英雄）"
+    },
+    "99003438": {
+        "Dev_Desc": "아듀 2021 소울 행운 상자",
+        "Original_Text": "사용 시 정해진 확률에 따라 다음 물품 중 1종을 획득할 수 있습니다.\\n\\n- 시간의 찬란한 소울 소환서(1회) 1개\\n- 시간의 찬란한 소울 소환서(3회) 1개\\n- 시간의 찬란한 소울 소환서(5회) 1개\\n- 시간의 영웅 소울 소환서(3회) 1개",
+        "English_Text": "When used, one of the following items can be obtained according to a set probability.\\n\\n- Brilliant Soul of Time Summon Scroll (1 time) 1 ",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，可以按照设定的概率获得以下物品之一。\\n\\n- 光辉之魂召唤卷轴（1次）1"
+    },
+    "99003439": {
+        "Dev_Desc": "아듀 2021 수호령 행운 상자",
+        "Original_Text": "사용 시 정해진 확률에 따라 다음 물품 중 1종을 획득할 수 있습니다.\\n\\n- 심연의 빛나는 수호령 소환서(11회) 1개\\n- 심연의 찬란한 수호령 소환서(1회) 1개\\n- 심연의 찬란한 수호령 소환서(3회) 1개\\n- 심연의 영웅 수호령 소환서(1회) 1개",
+        "English_Text": "When used, you can obtain one of the following items according to a set probability.\\n\\n- 1x Summon Scroll of the Shining Guardian Spirit of the Abyss (11 times)\\n- 1x Summon Scroll of the Brilliant Guardian Spirit of the Abyss (1 time)\\n- Abyss ",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，您可以按照设定的概率获得以下物品之一。\\n\\n- 1x 深渊闪耀守护之魂的召唤卷轴（11次）\\n- 1x 深渊光辉守护之魂的召唤卷轴（ "
+    },
+    "99003440": {
+        "Dev_Desc": "아듀 2021 뇌성 행운 상자",
+        "Original_Text": "사용 시 정해진 확률에 따라 다음 물품 중 1종을 획득할 수 있습니다.\\n\\n- +3 뇌성의 포효 1개\\n- +4 뇌성의 포효 1개\\n- +5 뇌성의 포효 1개\\n- +6 뇌성의 포효 1개\\n- +7 뇌성의 포효 1개\\n- +8 뇌성의 포효 1개\\n- +9 뇌성의 포효 1개",
+        "English_Text": "When used, one of the following items can be obtained according to a set probability. ",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，可以按照设定的概率获得以下道具之一。"
+    },
+    "99003441": {
+        "Dev_Desc": "아듀 2021 백화 행운 상자",
+        "Original_Text": "사용 시 정해진 확률에 따라 다음 물품 중 1종을 획득할 수 있습니다.\\n\\n- +3 백화의 불꽃 1개\\n- +4 백화의 불꽃 1개\\n- +5 백화의 불꽃 1개\\n- +6 백화의 불꽃 1개\\n- +7 백화의 불꽃 1개\\n- +8 백화의 불꽃 1개\\n- +9 백화의 불꽃 1개",
+        "English_Text": "When used, one of the following items can be obtained according to a set probability. ",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，可以按照设定的概率获得以下道具之一。"
+    },
+    "99003442": {
+        "Dev_Desc": "아듀 2021 타락 행운 상자",
+        "Original_Text": "사용 시 정해진 확률에 따라 다음 물품 중 1종을 획득할 수 있습니다.\\n\\n- +3 타락의 속삭임 1개\\n- +4 타락의 속삭임 1개\\n- +5 타락의 속삭임 1개\\n- +6 타락의 속삭임 1개\\n- +7 타락의 속삭임 1개\\n- +8 타락의 속삭임 1개\\n- +9 타락의 속삭임 1개",
+        "English_Text": "When used, you can obtain one of the following items according to a set probability.\\n\\n- 3 Whispers of Corruption 1 x\\n- 4 Whispers of Corruption x 1\\n- 5 Whispers of Corruption 1 x\\n- 6 Whispers of Corruption 1 ",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，可以按照设定的概率获得以下物品之一。\\n\\n- 3 腐化低语 1 x\\n- 4 腐化低语 x 1\\n- 5 腐化低语 1 x\\n- 6 腐化低语 1 "
+    },
+    "99003443": {
+        "Dev_Desc": "아듀 2021 질풍 행운 상자",
+        "Original_Text": "사용 시 정해진 확률에 따라 다음 물품 중 1종을 획득할 수 있습니다.\\n\\n- +3 질풍의 진노 1개\\n- +4 질풍의 진노 1개\\n- +5 질풍의 진노 1개\\n- +6 질풍의 진노 1개\\n- +7 질풍의 진노 1개\\n- +8 질풍의 진노 1개\\n- +9 질풍의 진노 1개",
+        "English_Text": "When used, one of the following items can be obtained according to a set probability. ",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，可以按照设定的概率获得以下道具之一。"
+    },
+    "99003444": {
+        "Dev_Desc": "아듀 2021 전설 의상 선택 주머니",
+        "Original_Text": "사용 시 다음 물품 중 1종을 선택하여 획득할 수 있습니다.\\n\\n- 초열의 아수라 1개\\n- 진혼의 노래 1개\\n- 하얀 노을 1개\\n- 겨울의 축제 1개\\n- 적귀혼 1개\\n- 가을의 축제 1개\\n- 금귀혼 1개\\n- 잊혀진 약속 1개",
+        "English_Text": "When used, it can be obtained by selecting one of the following items.\\n\\n- 1 Asura of Fever\\n- 1 Requiem song\\n- 1 White Sunset\\n- 1 Winter Festival\\n- 1 Red Ghost ",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，可以通过选择以下物品之一获得。\\n\\n- 1 发烧阿修罗\\n- 1 安魂曲\\n- 1 白色日落\\n- 1 冬季节日\\n- 1 红色幽灵"
+    },
+    "99003445": {
+        "Dev_Desc": "홍린 문파 공로함(이벤트)",
+        "Original_Text": "사용 시 도화전, 언령석 상자 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items, such as a bonfire and a spirit stone box, are acquired according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，可以按照设定的概率获得篝火、灵石盒等各种道具。"
+    },
+    "99003446": {
+        "Dev_Desc": "빛나는 리오리노 문파 공로함(이벤트)",
+        "Original_Text": "사용 시 도화전, 언령석 상자 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items, such as a bonfire and a spirit stone box, are acquired according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，可以按照设定的概率获得篝火、灵石盒等各种道具。"
+    },
+    "99003447": {
+        "Dev_Desc": "아듀 2021 영웅 소울 선택 상자",
+        "Original_Text": "사용 시 영웅 소울 소환서를 획득할 수 있습니다.",
+        "English_Text": "You can obtain a Hero Soul Summon Scroll when used.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用后可以获得英雄魂召唤卷轴。"
+    },
+    "99003448": {
+        "Dev_Desc": "백화렴 문파 공로함(이벤트)",
+        "Original_Text": "사용 시 도화전, 언령석 상자 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items, such as a bonfire and a spirit stone box, are acquired according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，可以按照设定的概率获得篝火、灵石盒等各种道具。"
+    },
+    "99003449": {
+        "Dev_Desc": "모순학 문파 공로함(이벤트)",
+        "Original_Text": "사용 시 도화전, 언령석 상자 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items, such as a bonfire and a spirit stone box, are acquired according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，可以按照设定的概率获得篝火、灵石盒等各种道具。"
+    },
+    "99003450": {
+        "Dev_Desc": "빛나는 낙원대성 문파 공로함(이벤트)",
+        "Original_Text": "사용 시 도화전, 언령석 상자 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items, such as a bonfire and a spirit stone box, are acquired according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，可以按照设定的概率获得篝火、灵石盒等各种道具。"
+    },
+    "99003451": {
+        "Dev_Desc": "고급 내력의 단환(이벤트)",
+        "Original_Text": "사용 시 내력을 많이 회복합니다.",
+        "English_Text": "Recovers a lot of strength when used.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时恢复大量力量。"
+    },
+    "99003452": {
+        "Dev_Desc": "영웅 소울 선택 상자(각인)",
+        "Original_Text": "사용 시 다음 희귀 소울 소환서 중 1종을 획득할 수 있습니다.\\n\\n- 서중문 소울 소환서(1회)(각인)\\n- 하름 소울 소환서(1회)(각인)\\n- 송시국 덩치 소울 소환서(1회)(각인)\\n",
+        "English_Text": "When used, you can obtain one of the following rare Soul Summon Scrolls.\\n\\n- Seojungmun Soul Summon Scroll (1 time) (Imprinted)\\n- Harem Soul Summon Scroll (1 time) (Imprinted)\\n- Song Si-guk's size ",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，可以获得以下稀有灵魂召唤卷轴之一。\\n\\n- 西政门灵魂召唤卷轴(1次)(印记)\\n-后宫灵魂召唤卷轴(1次)(印记)\\n-宋时国大小"
+    },
+    "99003453": {
+        "Dev_Desc": "속성 내성의 도감 장비 상자(이벤트) ",
+        "Original_Text": "사용 시 정해진 확률에 따라 장비를 획득할 수 있습니다.",
+        "English_Text": "When used, equipment can be obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，可以按照设定的概率获得装备。"
+    },
+    "99003454": {
+        "Dev_Desc": "공격의 도감 장비 상자(이벤트)",
+        "Original_Text": "사용 시 정해진 확률에 따라 장비를 획득할 수 있습니다.",
+        "English_Text": "When used, equipment can be obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，可以按照设定的概率获得装备。"
+    },
+    "99003455": {
+        "Dev_Desc": "소울 소환서 상자",
+        "Original_Text": "사용 시 시간의 빛나는 소울 소환서(11회) 2개를 획득할 수 있습니다.",
+        "English_Text": "You can obtain 2 Shining Soul Summon Scrolls of Time (11 times) when used.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时可以获得2个光辉灵魂召唤时间卷轴（11次）。"
     }
 }

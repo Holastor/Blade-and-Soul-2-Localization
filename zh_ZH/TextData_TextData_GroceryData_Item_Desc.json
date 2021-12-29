@@ -3450,7 +3450,7 @@
     },
     "99000500": {
         "deprecated": false,
-        "Dev_Desc": "내력 재생 물약 / 틱당 내력 ?? 회복",
+        "Dev_Desc": "용정차(각인)_사용",
         "id": 99000500,
         "alias": "Contents.Item.Desc.9200104",
         "text": "使用时，可提升绝对内力再生。"
@@ -19851,5 +19851,243 @@
         "id": 99003421,
         "alias": "Contents.Item.Desc.9901213",
         "text": "使用时可以按照设定的概率获得灵魂。\\n（稀有~英雄）"
+    },
+    "99003422": {
+        "deprecated": false,
+        "Dev_Desc": "시간의 영웅 소울 파편(7개) 선택 꾸러미",
+        "id": 99003422,
+        "alias": "Contents.Item.Desc.9901214",
+        "text": "使用时，可以通过选择以下灵魂碎片之一获得。\\n（等级-英雄）\\n\\n-回归者阿朗灵魂碎片（印记）7ea\\n-回归者帕萨灵魂碎片（印记）7ea\\n-回归"
+    },
+    "99003423": {
+        "deprecated": false,
+        "Dev_Desc": "회귀자 아랑 소울 파편(각인)",
+        "id": 99003423,
+        "alias": "Contents.Item.Desc.9901215",
+        "text": "使用后可以获得1个归来者阿朗灵魂碎片。<br/>（等级：英雄）"
+    },
+    "99003424": {
+        "deprecated": false,
+        "Dev_Desc": "회귀자 파사 소울 파편(각인)",
+        "id": 99003424,
+        "alias": "Contents.Item.Desc.9901216",
+        "text": "使用时，可以获得1个回归者帕萨灵魂碎片。<br/>（等级：英雄）"
+    },
+    "99003425": {
+        "deprecated": false,
+        "Dev_Desc": "회귀자 사루비 파편(각인)",
+        "id": 99003425,
+        "alias": "Contents.Item.Desc.9901217",
+        "text": "使用后可以获得1个归来者萨鲁比灵魂碎片。<br/>（等级：英雄）"
+    },
+    "99003426": {
+        "deprecated": false,
+        "Dev_Desc": "방랑자 유기 소울 파편(각인)",
+        "id": 99003426,
+        "alias": "Contents.Item.Desc.9901218",
+        "text": "使用后可以获得1个漂流者有机灵魂碎片。<br/>（等级：英雄）"
+    },
+    "99003427": {
+        "deprecated": false,
+        "Dev_Desc": "오름 소울 파편(각인)",
+        "id": 99003427,
+        "alias": "Contents.Item.Desc.9901219",
+        "text": "使用时，可以获得1个奥雷姆灵魂碎片。<br/>（等级：英雄）"
+    },
+    "99003428": {
+        "deprecated": false,
+        "Dev_Desc": "송시국 소울 파편(각인)",
+        "id": 99003428,
+        "alias": "Contents.Item.Desc.9901220",
+        "text": "使用后，可以获得1个宋宋国灵魂碎片。<br/>（等级：英雄）"
+    },
+    "99003429": {
+        "deprecated": false,
+        "Dev_Desc": "하름 소울 파편(각인)",
+        "id": 99003429,
+        "alias": "Contents.Item.Desc.9901221",
+        "text": "使用后可以获得1个后宫灵魂碎片。<br/>（等级：英雄）"
+    },
+    "99003430": {
+        "deprecated": false,
+        "Dev_Desc": "서중문 소울 파편(각인)",
+        "id": 99003430,
+        "alias": "Contents.Item.Desc.9901222",
+        "text": "使用后可以获得1个西政门灵魂碎片。<br/>（等级：英雄）"
+    },
+    "99003431": {
+        "deprecated": false,
+        "Dev_Desc": "신년맞이 재료 상자(이벤트)",
+        "id": 99003431,
+        "alias": "Contents.Item.Desc.9300093",
+        "text": "使用时，可以按照设定的概率获得以下道具之一。\\n\\n-Secret（印记）1000枚\\n- Jinkyung：团结（印记）20枚\\n-烧瓶：哈索（印记）20枚\\n- Cold "
+    },
+    "99003432": {
+        "deprecated": false,
+        "Dev_Desc": "2022 임인년 기념 선물함(이벤트)",
+        "id": 99003432,
+        "alias": "Contents.Item.Desc.9300094",
+        "text": "使用时，可以按照设定的概率获得以下物品之一。\\n\\n-突破精华碎片（雕刻）1×\\n-武器强化卷轴（事件）10\\n-护甲强化卷轴（事件）10"
+    },
+    "99003433": {
+        "deprecated": false,
+        "Dev_Desc": "시간의 찬란한 소울 소환서(3회)",
+        "id": 99003433,
+        "alias": "Contents.Item.Desc.9901223",
+        "text": "使用时可以按照设定的概率获得灵魂。\\n（稀有~英雄）"
+    },
+    "99003434": {
+        "deprecated": false,
+        "Dev_Desc": "시간의 영웅 소울 소환서(3회)",
+        "id": 99003434,
+        "alias": "Contents.Item.Desc.9901228",
+        "text": "使用时可以按照设定的概率获得灵魂。<br/>（等级：英雄）"
+    },
+    "99003435": {
+        "deprecated": false,
+        "Dev_Desc": "심연의 영웅 수호령 소환서(1회)",
+        "id": 99003435,
+        "alias": "Contents.Item.Desc.9901229",
+        "text": "使用时可以按照设定的概率获得守护灵。<br/>（等级：英雄）"
+    },
+    "99003436": {
+        "deprecated": false,
+        "Dev_Desc": "심연의 찬란한 수호령 소환서(1회)",
+        "id": 99003436,
+        "alias": "Contents.Item.Desc.9901230",
+        "text": "使用时可以按照设定的概率获得一个守护灵。<br/>（稀有~英雄）"
+    },
+    "99003437": {
+        "deprecated": false,
+        "Dev_Desc": "심연의 찬란한 수호령 소환서(3회)",
+        "id": 99003437,
+        "alias": "Contents.Item.Desc.9901231",
+        "text": "使用时可以按照设定的概率获得一个守护灵。<br/>（稀有~英雄）"
+    },
+    "99003438": {
+        "deprecated": false,
+        "Dev_Desc": "아듀 2021 소울 행운 상자",
+        "id": 99003438,
+        "alias": "Contents.Item.Desc.9901232",
+        "text": "使用时，可以按照设定的概率获得以下物品之一。\\n\\n- 光辉之魂召唤卷轴（1次）1"
+    },
+    "99003439": {
+        "deprecated": false,
+        "Dev_Desc": "아듀 2021 수호령 행운 상자",
+        "id": 99003439,
+        "alias": "Contents.Item.Desc.9901233",
+        "text": "使用时，您可以按照设定的概率获得以下物品之一。\\n\\n- 1x 深渊闪耀守护之魂的召唤卷轴（11次）\\n- 1x 深渊光辉守护之魂的召唤卷轴（ "
+    },
+    "99003440": {
+        "deprecated": false,
+        "Dev_Desc": "아듀 2021 뇌성 행운 상자",
+        "id": 99003440,
+        "alias": "Contents.Item.Desc.9901234",
+        "text": "使用时，可以按照设定的概率获得以下道具之一。"
+    },
+    "99003441": {
+        "deprecated": false,
+        "Dev_Desc": "아듀 2021 백화 행운 상자",
+        "id": 99003441,
+        "alias": "Contents.Item.Desc.9901235",
+        "text": "使用时，可以按照设定的概率获得以下道具之一。"
+    },
+    "99003442": {
+        "deprecated": false,
+        "Dev_Desc": "아듀 2021 타락 행운 상자",
+        "id": 99003442,
+        "alias": "Contents.Item.Desc.9901236",
+        "text": "使用时，可以按照设定的概率获得以下物品之一。\\n\\n- 3 腐化低语 1 x\\n- 4 腐化低语 x 1\\n- 5 腐化低语 1 x\\n- 6 腐化低语 1 "
+    },
+    "99003443": {
+        "deprecated": false,
+        "Dev_Desc": "아듀 2021 질풍 행운 상자",
+        "id": 99003443,
+        "alias": "Contents.Item.Desc.9901237",
+        "text": "使用时，可以按照设定的概率获得以下道具之一。"
+    },
+    "99003444": {
+        "deprecated": false,
+        "Dev_Desc": "아듀 2021 전설 의상 선택 주머니",
+        "id": 99003444,
+        "alias": "Contents.Item.Desc.9901238",
+        "text": "使用时，可以通过选择以下物品之一获得。\\n\\n- 1 发烧阿修罗\\n- 1 安魂曲\\n- 1 白色日落\\n- 1 冬季节日\\n- 1 红色幽灵"
+    },
+    "99003445": {
+        "deprecated": false,
+        "Dev_Desc": "홍린 문파 공로함(이벤트)",
+        "id": 99003445,
+        "alias": "Contents.Item.Desc.9300099",
+        "text": "使用时，可以按照设定的概率获得篝火、灵石盒等各种道具。"
+    },
+    "99003446": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 리오리노 문파 공로함(이벤트)",
+        "id": 99003446,
+        "alias": "Contents.Item.Desc.9300100",
+        "text": "使用时，可以按照设定的概率获得篝火、灵石盒等各种道具。"
+    },
+    "99003447": {
+        "deprecated": false,
+        "Dev_Desc": "아듀 2021 영웅 소울 선택 상자",
+        "id": 99003447,
+        "alias": "Contents.Item.Desc.9901239",
+        "text": "使用后可以获得英雄魂召唤卷轴。"
+    },
+    "99003448": {
+        "deprecated": false,
+        "Dev_Desc": "백화렴 문파 공로함(이벤트)",
+        "id": 99003448,
+        "alias": "Contents.Item.Desc.9300102",
+        "text": "使用时，可以按照设定的概率获得篝火、灵石盒等各种道具。"
+    },
+    "99003449": {
+        "deprecated": false,
+        "Dev_Desc": "모순학 문파 공로함(이벤트)",
+        "id": 99003449,
+        "alias": "Contents.Item.Desc.9300103",
+        "text": "使用时，可以按照设定的概率获得篝火、灵石盒等各种道具。"
+    },
+    "99003450": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 낙원대성 문파 공로함(이벤트)",
+        "id": 99003450,
+        "alias": "Contents.Item.Desc.9300104",
+        "text": "使用时，可以按照设定的概率获得篝火、灵石盒等各种道具。"
+    },
+    "99003451": {
+        "deprecated": false,
+        "Dev_Desc": "고급 내력의 단환(이벤트)",
+        "id": 99003451,
+        "alias": "Contents.Item.Desc.9300105",
+        "text": "使用时恢复大量力量。"
+    },
+    "99003452": {
+        "deprecated": false,
+        "Dev_Desc": "영웅 소울 선택 상자(각인)",
+        "id": 99003452,
+        "alias": "Contents.Item.Desc.9901240",
+        "text": "使用时，可以获得以下稀有灵魂召唤卷轴之一。\\n\\n- 西政门灵魂召唤卷轴(1次)(印记)\\n-后宫灵魂召唤卷轴(1次)(印记)\\n-宋时国大小"
+    },
+    "99003453": {
+        "deprecated": false,
+        "Dev_Desc": "속성 내성의 도감 장비 상자(이벤트) ",
+        "id": 99003453,
+        "alias": "Contents.Item.Desc.9300107",
+        "text": "使用时，可以按照设定的概率获得装备。"
+    },
+    "99003454": {
+        "deprecated": false,
+        "Dev_Desc": "공격의 도감 장비 상자(이벤트)",
+        "id": 99003454,
+        "alias": "Contents.Item.Desc.9300108",
+        "text": "使用时，可以按照设定的概率获得装备。"
+    },
+    "99003455": {
+        "deprecated": false,
+        "Dev_Desc": "소울 소환서 상자",
+        "id": 99003455,
+        "alias": "Contents.Item.Desc.9901241",
+        "text": "使用时可以获得2个光辉灵魂召唤时间卷轴（11次）。"
     }
 }
