@@ -27,7 +27,7 @@ BTC - bc1qpqnyfvz36u904pw60tv5ky8da38aq0wy7l7rk6
 ## Install
 
 * ONLY PC
-* [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/releases/tag/1.8.0) Latest Release (B2-WindowsNoEditor_00003.pak);
+* [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/releases/tag/1.9.0) Latest Release (B2-WindowsNoEditor_00003.pak);
 * Place the file B2-WindowsNoEditor_00003.pak in the \Game Folder\B2\Content\Paks;
 * And you need to go folder C:\Users\UserName\AppData\Local\B2\Saved\Option and open file LocalOption.json;
 * For Chinese Localization requires B2-WindowsNoEditor_00004.pak file;
@@ -48,10 +48,10 @@ BTC - bc1qpqnyfvz36u904pw60tv5ky8da38aq0wy7l7rk6
 
 ## Mobile-Install
 * ONLY Android
-* [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/releases/tag/1.8.0_M) Latest Release (patch.57.com.ncsoft.bns219.obb);
-* patch.57.com.ncsoft.bns219_en.obb - English Language; patch.57.com.ncsoft.bns219_ru.obb - Russian Language; patch.57.com.ncsoft.bns219_zh.obb - Chinese Language;
-* Place the file patch.57.com.ncsoft.bns219_en.obb in the "Internal Memory\Android\obb\com.ncsoft.bns219";
-* Rename the file patch.57.com.ncsoft.bns219_en.obb to get patch.57.com.ncsoft.bns219.obb;
+* [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/releases/tag/1.9.0_M) Latest Release (patch.60.com.ncsoft.bns219.obb);
+* patch.60.com.ncsoft.bns219_en.obb - English Language; patch.60.com.ncsoft.bns219_ru.obb - Russian Language; patch.60.com.ncsoft.bns219_zh.obb - Chinese Language;
+* Place the file patch.60.com.ncsoft.bns219_en.obb in the "Internal Memory\Android\obb\com.ncsoft.bns219";
+* Rename the file patch.60.com.ncsoft.bns219_en.obb to get patch.60.com.ncsoft.bns219.obb;
 * And that's it you have English language or any other;
 
 ## About
