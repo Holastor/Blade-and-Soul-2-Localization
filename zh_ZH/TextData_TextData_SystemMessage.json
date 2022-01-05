@@ -7584,5 +7584,12 @@
         "id": 9001145,
         "alias": "SysM.Guild.GuildEnemy.Add.InfoChangeError",
         "text": "用户的氏族成员信息已被更改，因此氏族敌意无法进行。"
+    },
+    "9001146": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 상자 /  잠김 물품 등록 에러 메시지",
+        "id": 9001146,
+        "alias": "SysM.Smelting.RegisterFail.Locked",
+        "text": "解锁后即可注册。"
     }
 }

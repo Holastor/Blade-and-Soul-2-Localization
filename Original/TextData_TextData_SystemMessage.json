@@ -7584,5 +7584,12 @@
         "id": 9001145,
         "alias": "SysM.Guild.GuildEnemy.Add.InfoChangeError",
         "text": "해당 유저의 문파 가입 정보가 변경되어, 문파 적대를 진행할 수 없습니다."
+    },
+    "9001146": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 상자 /  잠김 물품 등록 에러 메시지",
+        "id": 9001146,
+        "alias": "SysM.Smelting.RegisterFail.Locked",
+        "text": "잠금 해제 후 등록할 수 있습니다."
     }
 }

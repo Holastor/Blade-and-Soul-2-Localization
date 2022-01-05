@@ -24177,5 +24177,40 @@
         "id": 8003535,
         "alias": "UI.Shop.Tittle.Name.10028",
         "text": "鸡蛋商人"
+    },
+    "8003536": {
+        "deprecated": false,
+        "Dev_Desc": "로비 & 커스터마이징 / ",
+        "id": 8003536,
+        "alias": "UI.Lobby.Text.CompleteChange",
+        "text": "变更完成"
+    },
+    "8003537": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 상자 / 등록 가능 아이템 / 없음",
+        "id": 8003537,
+        "alias": "UI.Smelting.Registrable.Nothing",
+        "text": "没有物品可以注册。"
+    },
+    "8003538": {
+        "deprecated": false,
+        "Dev_Desc": "시스템 설정 / 자동 분해 / 도움말",
+        "id": 8003538,
+        "alias": "UI.Option.Control.GetItem.AutoDiscompose.Tip.01",
+        "text": "怪物 - 获得装备时自动拆卸作为击败怪物的奖励。\\nBox - 仅在通过打开区域合作奖励箱和设备箱（雕刻）箱获得设备时适用。"
+    },
+    "8003539": {
+        "deprecated": false,
+        "Dev_Desc": "시스템 설정 / 자동 분해 / 도움말",
+        "id": 8003539,
+        "alias": "UI.Option.Control.GetItem.AutoDiscompose.Tip.02",
+        "text": "如果物品的重量大于或等于所选值，则物品将不会自动拆卸。"
+    },
+    "8003540": {
+        "deprecated": false,
+        "Dev_Desc": "이벤트 제작 레시피 탭 / 침식된 영웅 장비",
+        "id": 8003540,
+        "alias": "UI.Craft.LeftSubTabName.Event.Erosion_01",
+        "text": "侵蚀英雄装备"
     }
 }

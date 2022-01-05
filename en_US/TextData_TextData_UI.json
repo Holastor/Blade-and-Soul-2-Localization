@@ -24177,5 +24177,40 @@
         "id": 8003535,
         "alias": "UI.Shop.Tittle.Name.10028",
         "text": "Egg Trader"
+    },
+    "8003536": {
+        "deprecated": false,
+        "Dev_Desc": "로비 & 커스터마이징 / ",
+        "id": 8003536,
+        "alias": "UI.Lobby.Text.CompleteChange",
+        "text": "Change Complete"
+    },
+    "8003537": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 상자 / 등록 가능 아이템 / 없음",
+        "id": 8003537,
+        "alias": "UI.Smelting.Registrable.Nothing",
+        "text": "No items can be registered."
+    },
+    "8003538": {
+        "deprecated": false,
+        "Dev_Desc": "시스템 설정 / 자동 분해 / 도움말",
+        "id": 8003538,
+        "alias": "UI.Option.Control.GetItem.AutoDiscompose.Tip.01",
+        "text": "Monster - Automatically disassembles when acquiring equipment as a reward for defeating monsters.\\nBox - Applies only when acquiring equipment by opening the regional cooperative reward box and equipment box (engraving) box."
+    },
+    "8003539": {
+        "deprecated": false,
+        "Dev_Desc": "시스템 설정 / 자동 분해 / 도움말",
+        "id": 8003539,
+        "alias": "UI.Option.Control.GetItem.AutoDiscompose.Tip.02",
+        "text": "Items will not be automatically disassembled if their weight is greater than or equal to the selected value."
+    },
+    "8003540": {
+        "deprecated": false,
+        "Dev_Desc": "이벤트 제작 레시피 탭 / 침식된 영웅 장비",
+        "id": 8003540,
+        "alias": "UI.Craft.LeftSubTabName.Event.Erosion_01",
+        "text": "Erosioned Hero Equipment"
     }
 }

@@ -516,5 +516,47 @@
         "id": 61000074,
         "alias": "Contents.Effect.Option.Monster.212430008",
         "text": "Movement speed reduction by 50%"
+    },
+    "61000075": {
+        "deprecated": false,
+        "Dev_Desc": "보스_야차_디버프_이속감소_이름",
+        "id": 61000075,
+        "alias": "Contents.Effect.Name.Monster.124302712",
+        "text": "\"slow down\""
+    },
+    "61000076": {
+        "deprecated": false,
+        "Dev_Desc": "보스_야차_디버프_이속감소_설명",
+        "id": 61000076,
+        "alias": "Contents.Effect.Desc.Monster.124302712",
+        "text": "\"Decreased movement speed\""
+    },
+    "61000077": {
+        "deprecated": false,
+        "Dev_Desc": "보스_야차_디버프_이속감소_옵션",
+        "id": 61000077,
+        "alias": "Contents.Effect.Option.Monster.124302712",
+        "text": "\"Movement speed reduction by 30%\""
+    },
+    "61000078": {
+        "deprecated": false,
+        "Dev_Desc": "이벤트_검은호랑이_버프_전투능력증가_이름",
+        "id": 61000078,
+        "alias": "Contents.Effect.Name.Monster.212490111",
+        "text": "\"The energy of the black tiger\""
+    },
+    "61000079": {
+        "deprecated": false,
+        "Dev_Desc": "이벤트_검은호랑이_버프_전투능력증가_설명",
+        "id": 61000079,
+        "alias": "Contents.Effect.Desc.Monster.212490111",
+        "text": "\"Increased Combat Ability\""
+    },
+    "61000080": {
+        "deprecated": false,
+        "Dev_Desc": "이벤트_검은호랑이_버프_전투능력증가_옵션",
+        "id": 61000080,
+        "alias": "Contents.Effect.Option.Monster.212490111",
+        "text": "\"Attack 2\\nDefense 2\\nHit 2\""
     }
 }
