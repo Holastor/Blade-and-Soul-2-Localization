@@ -404,19 +404,19 @@
     "89000594": {
         "deprecated": false,
         "id": 89000594,
-        "alias": "Contents.Item.Name.9200418",
+        "alias": "Contents.Event.Item.Name.9200418",
         "text": "희귀 제작 비법서"
     },
     "89000595": {
         "deprecated": false,
         "id": 89000595,
-        "alias": "Contents.Item.Name.9200419",
+        "alias": "Contents.Event.Item.Name.9200419",
         "text": "영웅 제작 비법서"
     },
     "89000596": {
         "deprecated": false,
         "id": 89000596,
-        "alias": "Contents.Item.Name.9200420",
+        "alias": "Contents.Event.Item.Name.9200420",
         "text": "전설 제작 비법서"
     },
     "89000598": {
@@ -440,7 +440,7 @@
     "89000601": {
         "deprecated": false,
         "id": 89000601,
-        "alias": "Contents.Item.Name.9200425",
+        "alias": "Contents.Event.Item.Name.9200425",
         "text": "심연의 무기 제작 비법서"
     },
     "89000602": {
@@ -464,7 +464,7 @@
     "89000605": {
         "deprecated": false,
         "id": 89000605,
-        "alias": "Contents.Item.Name.9200429",
+        "alias": "Contents.Event.Item.Name.9200429",
         "text": "심연의 방어구 제작 비법서"
     },
     "89000606": {
@@ -488,7 +488,7 @@
     "89000609": {
         "deprecated": false,
         "id": 89000609,
-        "alias": "Contents.Item.Name.9200433",
+        "alias": "Contents.Event.Item.Name.9200433",
         "text": "심연의 장신구 제작 비법서"
     },
     "89000610": {
@@ -6639,19 +6639,19 @@
         "deprecated": false,
         "id": 89003900,
         "alias": "Contents.Item.Name.9202095",
-        "text": "찬란한 언령석 파편(각인)"
+        "text": "찬란한 언령석 가루(각인)"
     },
     "89003901": {
         "deprecated": false,
         "id": 89003901,
         "alias": "Contents.Item.Name.9202096",
-        "text": "빛나는 언령석 파편(각인)"
+        "text": "빛나는 언령석 가루(각인)"
     },
     "89003902": {
         "deprecated": false,
         "id": 89003902,
         "alias": "Contents.Item.Name.9202097",
-        "text": "언령석 파편(각인)"
+        "text": "언령석 가루(각인)"
     },
     "89003903": {
         "deprecated": false,
@@ -7946,127 +7946,283 @@
     "89004121": {
         "deprecated": false,
         "id": 89004121,
-        "alias": "Contents.Item.Name.9202101",
-        "text": "빛나는 언령석 [충]"
+        "alias": "Contents.Item.Name.9901243",
+        "text": "시간의 화려한 소울 소환서(11회)"
     },
     "89004122": {
         "deprecated": false,
         "id": 89004122,
-        "alias": "Contents.Item.Name.9202102",
-        "text": "빛나는 언령석 [약]"
+        "alias": "Contents.Item.Name.9901244",
+        "text": "영롱한 소울 소환서(1회)"
     },
     "89004123": {
         "deprecated": false,
         "id": 89004123,
-        "alias": "Contents.Item.Name.9202103",
-        "text": "낡은 언령석"
+        "alias": "Contents.Item.Name.9901245",
+        "text": "침식된 영웅 무기 선택 상자"
     },
     "89004124": {
         "deprecated": false,
         "id": 89004124,
-        "alias": "Contents.Item.Name.9202104",
-        "text": "갈라진 언령석"
+        "alias": "Contents.TEST.Item.Name.9901246",
+        "text": "침식된 영웅 방어구 상자"
     },
     "89004125": {
         "deprecated": false,
         "id": 89004125,
-        "alias": "Contents.Item.Name.9202105",
-        "text": "빛나는 언령석 [충](각인)"
+        "alias": "Contents.Event.Item.Name.9901247",
+        "text": "수라의 핵"
     },
     "89004126": {
         "deprecated": false,
         "id": 89004126,
-        "alias": "Contents.Item.Name.9202106",
-        "text": "빛나는 언령석 [약](각인)"
+        "alias": "Contents.Item.Name.9901248",
+        "text": "초일류의 시련 장비함(각인)"
     },
     "89004127": {
         "deprecated": false,
         "id": 89004127,
-        "alias": "Contents.Item.Name.9202107",
-        "text": "낡은 언령석(각인)"
+        "alias": "Contents.Item.Name.9901249",
+        "text": "절정의 시련 장비함(각인)"
     },
     "89004128": {
         "deprecated": false,
         "id": 89004128,
-        "alias": "Contents.Item.Name.9202108",
-        "text": "갈라진 언령석(각인)"
+        "alias": "Contents.Item.Name.9901250",
+        "text": "백화렴의 언령석 상자(각인)"
     },
     "89004129": {
         "deprecated": false,
         "id": 89004129,
-        "alias": "Contents.Item.Name.9901243",
-        "text": "시간의 화려한 소울 소환서(11회)"
+        "alias": "Contents.Item.Name.9901251",
+        "text": "돌주먹의 언령석 상자(각인)"
     },
     "89004130": {
         "deprecated": false,
         "id": 89004130,
-        "alias": "Contents.Item.Name.9901244",
-        "text": "영롱한 소울 소환서(1회)"
+        "alias": "Contents.Item.Name.9901252",
+        "text": "동충의 언령석 상자(각인)"
     },
     "89004131": {
         "deprecated": false,
         "id": 89004131,
-        "alias": "Contents.Item.Name.9901245",
-        "text": "침식된 영웅 무기 선택 상자"
+        "alias": "Contents.Item.Name.9901253",
+        "text": "굴락의 언령석 상자(각인)"
     },
     "89004132": {
         "deprecated": false,
         "id": 89004132,
-        "alias": "Contents.TEST.Item.Name.9901246",
-        "text": "침식된 영웅 방어구 상자"
+        "alias": "Contents.Item.Name.9901254",
+        "text": "풍신의 언령석 상자(각인)"
     },
     "89004133": {
         "deprecated": false,
         "id": 89004133,
-        "alias": "Contents.Event.Item.Name.9901247",
-        "text": "수라의 핵"
+        "alias": "Contents.Item.Name.9901255",
+        "text": "홍매화의 언령석 상자(각인)"
     },
     "89004134": {
         "deprecated": false,
         "id": 89004134,
-        "alias": "Contents.Item.Name.9901248",
-        "text": "초일류의 시련 장비함(각인)"
+        "alias": "Contents.Item.Name.9901288",
+        "text": "대사형의 주화(각인)"
     },
     "89004135": {
         "deprecated": false,
         "id": 89004135,
-        "alias": "Contents.Item.Name.9901249",
-        "text": "절정의 시련 장비함(각인)"
+        "alias": "Contents.Item.Name.9901289",
+        "text": "봉마함Ⅰ(각인)"
     },
     "89004136": {
         "deprecated": false,
         "id": 89004136,
-        "alias": "Contents.Item.Name.9901250",
-        "text": "백화렴의 언령석 상자(각인)"
+        "alias": "Contents.Item.Name.9901290",
+        "text": "봉마함Ⅱ(각인)"
     },
     "89004137": {
         "deprecated": false,
         "id": 89004137,
-        "alias": "Contents.Item.Name.9901251",
-        "text": "돌주먹의 언령석 상자(각인)"
+        "alias": "Contents.Item.Name.9901291",
+        "text": "봉마함Ⅲ(각인)"
     },
     "89004138": {
         "deprecated": false,
         "id": 89004138,
-        "alias": "Contents.Item.Name.9901252",
-        "text": "동충의 언령석 상자(각인)"
+        "alias": "Contents.Item.Name.9901292",
+        "text": "봉마함Ⅳ(각인)"
     },
     "89004139": {
         "deprecated": false,
         "id": 89004139,
-        "alias": "Contents.Item.Name.9901253",
-        "text": "굴락의 언령석 상자(각인)"
+        "alias": "Contents.Item.Name.9202105",
+        "text": "낡은 언령석"
     },
     "89004140": {
         "deprecated": false,
         "id": 89004140,
-        "alias": "Contents.Item.Name.9901254",
-        "text": "풍신의 언령석 상자(각인)"
+        "alias": "Contents.Item.Name.9202106",
+        "text": "갈라진 언령석"
     },
     "89004141": {
         "deprecated": false,
         "id": 89004141,
-        "alias": "Contents.Item.Name.9901255",
-        "text": "홍매화의 언령석 상자(각인)"
+        "alias": "Contents.Item.Name.9202107",
+        "text": "빛나는 언령석 [충]"
+    },
+    "89004142": {
+        "deprecated": false,
+        "id": 89004142,
+        "alias": "Contents.Item.Name.9202108",
+        "text": "빛나는 언령석 [약]"
+    },
+    "89004143": {
+        "deprecated": false,
+        "id": 89004143,
+        "alias": "Contents.Item.Name.9202109",
+        "text": "빛나는 언령석 [무]"
+    },
+    "89004144": {
+        "deprecated": false,
+        "id": 89004144,
+        "alias": "Contents.Item.Name.9202110",
+        "text": "빛나는 언령석 [엽]"
+    },
+    "89004145": {
+        "deprecated": false,
+        "id": 89004145,
+        "alias": "Contents.Item.Name.9202111",
+        "text": "찬란한 언령석 [제]"
+    },
+    "89004146": {
+        "deprecated": false,
+        "id": 89004146,
+        "alias": "Contents.Item.Name.9202112",
+        "text": "찬란한 언령석 [통]"
+    },
+    "89004147": {
+        "deprecated": false,
+        "id": 89004147,
+        "alias": "Contents.Item.Name.9202113",
+        "text": "찬란한 언령석 [혼]"
+    },
+    "89004148": {
+        "deprecated": false,
+        "id": 89004148,
+        "alias": "Contents.Item.Name.9202114",
+        "text": "낡은 언령석(각인)"
+    },
+    "89004149": {
+        "deprecated": false,
+        "id": 89004149,
+        "alias": "Contents.Item.Name.9202115",
+        "text": "갈라진 언령석(각인)"
+    },
+    "89004150": {
+        "deprecated": false,
+        "id": 89004150,
+        "alias": "Contents.Item.Name.9202116",
+        "text": "빛나는 언령석 [충](각인)"
+    },
+    "89004151": {
+        "deprecated": false,
+        "id": 89004151,
+        "alias": "Contents.Item.Name.9202117",
+        "text": "빛나는 언령석 [약](각인)"
+    },
+    "89004152": {
+        "deprecated": false,
+        "id": 89004152,
+        "alias": "Contents.Item.Name.9202118",
+        "text": "빛나는 언령석 [무](각인)"
+    },
+    "89004153": {
+        "deprecated": false,
+        "id": 89004153,
+        "alias": "Contents.Item.Name.9202119",
+        "text": "빛나는 언령석 [엽](각인)"
+    },
+    "89004154": {
+        "deprecated": false,
+        "id": 89004154,
+        "alias": "Contents.Item.Name.9202120",
+        "text": "찬란한 언령석 [제](각인)"
+    },
+    "89004155": {
+        "deprecated": false,
+        "id": 89004155,
+        "alias": "Contents.Item.Name.9202121",
+        "text": "찬란한 언령석 [통](각인)"
+    },
+    "89004156": {
+        "deprecated": false,
+        "id": 89004156,
+        "alias": "Contents.Item.Name.9202122",
+        "text": "찬란한 언령석 [혼](각인)"
+    },
+    "89004157": {
+        "deprecated": false,
+        "id": 89004157,
+        "alias": "Contents.Item.Name.9901293",
+        "text": "대사형의 수련 지원 상자(각인)"
+    },
+    "89004158": {
+        "deprecated": false,
+        "id": 89004158,
+        "alias": "Contents.Item.Name.9901294",
+        "text": "찬란한 침식된 리오리노 공로함(각인)"
+    },
+    "89004159": {
+        "deprecated": false,
+        "id": 89004159,
+        "alias": "Contents.Item.Name.9901295",
+        "text": "빛나는 침식된 리오리노 공로함(각인)"
+    },
+    "89004160": {
+        "deprecated": false,
+        "id": 89004160,
+        "alias": "Contents.Item.Name.9901296",
+        "text": "평범한 침식된 리오리노 공로함(각인)"
+    },
+    "89004161": {
+        "deprecated": false,
+        "id": 89004161,
+        "alias": "Contents.Item.Name.9901297",
+        "text": "낡은 침식된 리오리노 공로함(각인)"
+    },
+    "89004162": {
+        "deprecated": false,
+        "id": 89004162,
+        "alias": "Contents.Item.Name.9901298",
+        "text": "찬란한 침식된 백화렴 공로함(각인)"
+    },
+    "89004163": {
+        "deprecated": false,
+        "id": 89004163,
+        "alias": "Contents.Item.Name.9901299",
+        "text": "빛나는 침식된 백화렴 공로함(각인)"
+    },
+    "89004164": {
+        "deprecated": false,
+        "id": 89004164,
+        "alias": "Contents.Item.Name.9901300",
+        "text": "평범한 침식된 백화렴 공로함(각인)"
+    },
+    "89004165": {
+        "deprecated": false,
+        "id": 89004165,
+        "alias": "Contents.Item.Name.9901301",
+        "text": "낡은 침식된 백화렴 공로함(각인)"
+    },
+    "89004166": {
+        "deprecated": false,
+        "id": 89004166,
+        "alias": "Contents.Item.Name.9901302",
+        "text": "해룡의 정기"
+    },
+    "89004167": {
+        "deprecated": false,
+        "id": 89004167,
+        "alias": "Contents.Item.Name.9901303",
+        "text": "해룡의 정기 4개 묶음"
     }
 }

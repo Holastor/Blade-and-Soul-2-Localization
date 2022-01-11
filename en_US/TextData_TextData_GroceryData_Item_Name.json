@@ -404,19 +404,19 @@
     "89000594": {
         "deprecated": false,
         "id": 89000594,
-        "alias": "Contents.Item.Name.9200418",
+        "alias": "Contents.Event.Item.Name.9200418",
         "text": "Rare Craft Book"
     },
     "89000595": {
         "deprecated": false,
         "id": 89000595,
-        "alias": "Contents.Item.Name.9200419",
+        "alias": "Contents.Event.Item.Name.9200419",
         "text": "Epic Craft Book"
     },
     "89000596": {
         "deprecated": false,
         "id": 89000596,
-        "alias": "Contents.Item.Name.9200420",
+        "alias": "Contents.Event.Item.Name.9200420",
         "text": "Legend Craft Book"
     },
     "89000598": {
@@ -440,7 +440,7 @@
     "89000601": {
         "deprecated": false,
         "id": 89000601,
-        "alias": "Contents.Item.Name.9200425",
+        "alias": "Contents.Event.Item.Name.9200425",
         "text": "Abyssal Weapon Craft Book"
     },
     "89000602": {
@@ -464,7 +464,7 @@
     "89000605": {
         "deprecated": false,
         "id": 89000605,
-        "alias": "Contents.Item.Name.9200429",
+        "alias": "Contents.Event.Item.Name.9200429",
         "text": "Abyssal Armor Craft Book"
     },
     "89000606": {
@@ -488,7 +488,7 @@
     "89000609": {
         "deprecated": false,
         "id": 89000609,
-        "alias": "Contents.Item.Name.9200433",
+        "alias": "Contents.Event.Item.Name.9200433",
         "text": "Abyssal Accessory Craft Book"
     },
     "89000610": {
@@ -7946,127 +7946,283 @@
     "89004121": {
         "deprecated": false,
         "id": 89004121,
-        "alias": "Contents.Item.Name.9202101",
+        "alias": "Contents.Item.Name.9901243",
         "text": "\"Shining Spirit Stone [Chung]\""
     },
     "89004122": {
         "deprecated": false,
         "id": 89004122,
-        "alias": "Contents.Item.Name.9202102",
+        "alias": "Contents.Item.Name.9901244",
         "text": "\"Shining Spirit Stone [Medicine]\""
     },
     "89004123": {
         "deprecated": false,
         "id": 89004123,
-        "alias": "Contents.Item.Name.9202103",
+        "alias": "Contents.Item.Name.9901245",
         "text": "\"Old Spirit Stone\""
     },
     "89004124": {
         "deprecated": false,
         "id": 89004124,
-        "alias": "Contents.Item.Name.9202104",
+        "alias": "Contents.TEST.Item.Name.9901246",
         "text": "\"Cleft Spirit Stone\""
     },
     "89004125": {
         "deprecated": false,
         "id": 89004125,
-        "alias": "Contents.Item.Name.9202105",
+        "alias": "Contents.Event.Item.Name.9901247",
         "text": "\"Shining Spirit Stone [Chung] (Engraving)\""
     },
     "89004126": {
         "deprecated": false,
         "id": 89004126,
-        "alias": "Contents.Item.Name.9202106",
+        "alias": "Contents.Item.Name.9901248",
         "text": "\"Shining Spirit Stone [Medicine] (Imprinted)\""
     },
     "89004127": {
         "deprecated": false,
         "id": 89004127,
-        "alias": "Contents.Item.Name.9202107",
+        "alias": "Contents.Item.Name.9901249",
         "text": "\"Old Spirit Stone (Engraved)\""
     },
     "89004128": {
         "deprecated": false,
         "id": 89004128,
-        "alias": "Contents.Item.Name.9202108",
+        "alias": "Contents.Item.Name.9901250",
         "text": "\"Corn Spirit Stone (Engraved)\""
     },
     "89004129": {
         "deprecated": false,
         "id": 89004129,
-        "alias": "Contents.Item.Name.9901243",
+        "alias": "Contents.Item.Name.9901251",
         "text": "\"The Brilliant Soul Summon Scroll of Time (11 times)\""
     },
     "89004130": {
         "deprecated": false,
         "id": 89004130,
-        "alias": "Contents.Item.Name.9901244",
+        "alias": "Contents.Item.Name.9901252",
         "text": "\"Brilliant Soul Summon Scroll (1 time)\""
     },
     "89004131": {
         "deprecated": false,
         "id": 89004131,
-        "alias": "Contents.Item.Name.9901245",
+        "alias": "Contents.Item.Name.9901253",
         "text": "\"Corroded Heroic Weapon Selection Box\""
     },
     "89004132": {
         "deprecated": false,
         "id": 89004132,
-        "alias": "Contents.TEST.Item.Name.9901246",
+        "alias": "Contents.Item.Name.9901254",
         "text": "\"Corroded Heroic Armor Box\""
     },
     "89004133": {
         "deprecated": false,
         "id": 89004133,
-        "alias": "Contents.Event.Item.Name.9901247",
+        "alias": "Contents.Item.Name.9901255",
         "text": "\"Sura's Core\""
     },
     "89004134": {
         "deprecated": false,
         "id": 89004134,
-        "alias": "Contents.Item.Name.9901248",
+        "alias": "Contents.Item.Name.9901288",
         "text": "\"First-class ordeal equipment box (engraved)\""
     },
     "89004135": {
         "deprecated": false,
         "id": 89004135,
-        "alias": "Contents.Item.Name.9901249",
+        "alias": "Contents.Item.Name.9901289",
         "text": "\"The Ultimate Trial Equipment Box (Engraved)\""
     },
     "89004136": {
         "deprecated": false,
         "id": 89004136,
-        "alias": "Contents.Item.Name.9901250",
+        "alias": "Contents.Item.Name.9901290",
         "text": "\"Baekhwaryeom's Spirit Stone Box (Engraved)\""
     },
     "89004137": {
         "deprecated": false,
         "id": 89004137,
-        "alias": "Contents.Item.Name.9901251",
+        "alias": "Contents.Item.Name.9901291",
         "text": "\"Stone Fist Spirit Stone Box (Engraved)\""
     },
     "89004138": {
         "deprecated": false,
         "id": 89004138,
-        "alias": "Contents.Item.Name.9901252",
+        "alias": "Contents.Item.Name.9901292",
         "text": "\"Chungchung's Spirit Stone Box (Engraved)\""
     },
     "89004139": {
         "deprecated": false,
         "id": 89004139,
-        "alias": "Contents.Item.Name.9901253",
+        "alias": "Contents.Item.Name.9202105",
         "text": "\"Gulak's Spirit Stone Box (Engraved)\""
     },
     "89004140": {
         "deprecated": false,
         "id": 89004140,
-        "alias": "Contents.Item.Name.9901254",
+        "alias": "Contents.Item.Name.9202106",
         "text": "\"Wind God's Spirit Stone Box (Engraved)\""
     },
     "89004141": {
         "deprecated": false,
         "id": 89004141,
-        "alias": "Contents.Item.Name.9901255",
+        "alias": "Contents.Item.Name.9202107",
         "text": "\"Red Plum Blossom Spirit Stone Box (Engraved)\""
+    },
+    "89004142": {
+        "deprecated": false,
+        "id": 89004142,
+        "alias": "Contents.Item.Name.9202108",
+        "text": "Shining Spirit Stone [Medicine]"
+    },
+    "89004143": {
+        "deprecated": false,
+        "id": 89004143,
+        "alias": "Contents.Item.Name.9202109",
+        "text": "Shining Spirit Stone [None]"
+    },
+    "89004144": {
+        "deprecated": false,
+        "id": 89004144,
+        "alias": "Contents.Item.Name.9202110",
+        "text": "Shining Spirit Stone [Leaf]"
+    },
+    "89004145": {
+        "deprecated": false,
+        "id": 89004145,
+        "alias": "Contents.Item.Name.9202111",
+        "text": "Brilliant Spirit Stone [Secondary]"
+    },
+    "89004146": {
+        "deprecated": false,
+        "id": 89004146,
+        "alias": "Contents.Item.Name.9202112",
+        "text": "Brilliant Spirit Stone [Barrel]"
+    },
+    "89004147": {
+        "deprecated": false,
+        "id": 89004147,
+        "alias": "Contents.Item.Name.9202113",
+        "text": "Brilliant Spirit Stone [Soul]"
+    },
+    "89004148": {
+        "deprecated": false,
+        "id": 89004148,
+        "alias": "Contents.Item.Name.9202114",
+        "text": "Old Spirit Stone (Engraved)"
+    },
+    "89004149": {
+        "deprecated": false,
+        "id": 89004149,
+        "alias": "Contents.Item.Name.9202115",
+        "text": "Corn Spirit Stone (Engraved)"
+    },
+    "89004150": {
+        "deprecated": false,
+        "id": 89004150,
+        "alias": "Contents.Item.Name.9202116",
+        "text": "Shining Spirit Stone [Chung] (Engraving)"
+    },
+    "89004151": {
+        "deprecated": false,
+        "id": 89004151,
+        "alias": "Contents.Item.Name.9202117",
+        "text": "Shining Spirit Stone [Medicine] (Imprinted)"
+    },
+    "89004152": {
+        "deprecated": false,
+        "id": 89004152,
+        "alias": "Contents.Item.Name.9202118",
+        "text": "Shining Spirit Stone [None] (Engraved)"
+    },
+    "89004153": {
+        "deprecated": false,
+        "id": 89004153,
+        "alias": "Contents.Item.Name.9202119",
+        "text": "Shining Spirit Stone [Leaf] (Engraving)"
+    },
+    "89004154": {
+        "deprecated": false,
+        "id": 89004154,
+        "alias": "Contents.Item.Name.9202120",
+        "text": "Brilliant Spirit Stone [Secondary] (Engraving)"
+    },
+    "89004155": {
+        "deprecated": false,
+        "id": 89004155,
+        "alias": "Contents.Item.Name.9202121",
+        "text": "Brilliant Spirit Stone [Barrel] (Engraved)"
+    },
+    "89004156": {
+        "deprecated": false,
+        "id": 89004156,
+        "alias": "Contents.Item.Name.9202122",
+        "text": "Brilliant Spirit Stone [Soul] (Engraving)"
+    },
+    "89004157": {
+        "deprecated": false,
+        "id": 89004157,
+        "alias": "Contents.Item.Name.9901293",
+        "text": "Great training support box (engraved)"
+    },
+    "89004158": {
+        "deprecated": false,
+        "id": 89004158,
+        "alias": "Contents.Item.Name.9901294",
+        "text": "Brilliant Erosion of Riorino Merit (Imprinted)"
+    },
+    "89004159": {
+        "deprecated": false,
+        "id": 89004159,
+        "alias": "Contents.Item.Name.9901295",
+        "text": "Shining Erosioned Rioorino Merit (Imprinted)"
+    },
+    "89004160": {
+        "deprecated": false,
+        "id": 89004160,
+        "alias": "Contents.Item.Name.9901296",
+        "text": "Ordinary eroded Riorio of Merit (imprinted)"
+    },
+    "89004161": {
+        "deprecated": false,
+        "id": 89004161,
+        "alias": "Contents.Item.Name.9901297",
+        "text": "Old eroded Riorio Merit (engraved)"
+    },
+    "89004162": {
+        "deprecated": false,
+        "id": 89004162,
+        "alias": "Contents.Item.Name.9901298",
+        "text": "Brilliantly eroded Baekhwaryeom merit (engraving)"
+    },
+    "89004163": {
+        "deprecated": false,
+        "id": 89004163,
+        "alias": "Contents.Item.Name.9901299",
+        "text": "Shining eroded Baekhwaryeom merit (engraved)"
+    },
+    "89004164": {
+        "deprecated": false,
+        "id": 89004164,
+        "alias": "Contents.Item.Name.9901300",
+        "text": "Ordinary eroded Baekhwaryeom merit (engraved)"
+    },
+    "89004165": {
+        "deprecated": false,
+        "id": 89004165,
+        "alias": "Contents.Item.Name.9901301",
+        "text": "Old eroded Baekhwaryeom merit (engraving)"
+    },
+    "89004166": {
+        "deprecated": false,
+        "id": 89004166,
+        "alias": "Contents.Item.Name.9901302",
+        "text": "The Spirit of the Sea Dragon"
+    },
+    "89004167": {
+        "deprecated": false,
+        "id": 89004167,
+        "alias": "Contents.Item.Name.9901303",
+        "text": "Sea Dragon's Spirit 4 Pack"
     }
 }

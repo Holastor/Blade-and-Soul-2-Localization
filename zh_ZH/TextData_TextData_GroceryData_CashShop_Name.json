@@ -1849,24 +1849,31 @@
     },
     "83200223": {
         "deprecated": false,
-        "Dev_Desc": "해룡의 정기 상자",
+        "Dev_Desc": "해룡의 상자",
         "id": 83200223,
         "alias": "Contents.CashShop.Item.Name.5308",
         "text": "海龙的元素盒"
     },
     "83200224": {
         "deprecated": false,
-        "Dev_Desc": "해룡의 정기 상자 11개 묶음",
+        "Dev_Desc": "해룡의 상자 11개",
         "id": 83200224,
         "alias": "Contents.CashShop.Item.Name.5309",
         "text": "海龙之元素盒包11个"
     },
     "83200225": {
         "deprecated": false,
-        "Dev_Desc": "해룡의 소환 패키지",
+        "Dev_Desc": "화려한 해룡의 상자 패키지",
         "id": 83200225,
         "alias": "Contents.CashShop.Item.Name.5310",
         "text": "海龙召唤礼包"
+    },
+    "83200226": {
+        "deprecated": false,
+        "Dev_Desc": "이름 변경권",
+        "id": 83200226,
+        "alias": "Contents.CashShop.Item.Name.5318",
+        "text": "角色名称更改权"
     },
     "83350000": {
         "deprecated": false,
@@ -4012,21 +4019,21 @@
     },
     "83350316": {
         "deprecated": false,
-        "Dev_Desc": "해룡의 정기 상자",
+        "Dev_Desc": "해룡의 상자",
         "id": 83350316,
         "alias": "Contents.CashShop.Item.Name.9710243",
         "text": "海龙必买票"
     },
     "83350317": {
         "deprecated": false,
-        "Dev_Desc": "해룡의 정기 상자 11개 묶음",
+        "Dev_Desc": "해룡의 상자 11개",
         "id": 83350317,
         "alias": "Contents.CashShop.Item.Name.9710244",
         "text": "海龙之元素盒11包"
     },
     "83350318": {
         "deprecated": false,
-        "Dev_Desc": "해룡의 소환 패키지",
+        "Dev_Desc": "화려한 해룡의 상자 패키지",
         "id": 83350318,
         "alias": "Contents.CashShop.Item.Name.9710245",
         "text": "「海龙召唤套票」"
@@ -4093,5 +4100,54 @@
         "id": 83350327,
         "alias": "Contents.CashShop.Item.Name.1043",
         "text": "华丽时光之魂4步套餐"
+    },
+    "83350328": {
+        "deprecated": false,
+        "Dev_Desc": "이름 변경권",
+        "id": 83350328,
+        "alias": "Contents.CashShop.Item.Name.9850124",
+        "text": "角色名称更改权"
+    },
+    "83350329": {
+        "deprecated": false,
+        "Dev_Desc": "해룡의 상자",
+        "id": 83350329,
+        "alias": "Contents.CashShop.Item.Name.9850125",
+        "text": "海龙之盒"
+    },
+    "83350330": {
+        "deprecated": false,
+        "Dev_Desc": "해룡의 상자 11개",
+        "id": 83350330,
+        "alias": "Contents.CashShop.Item.Name.9850126",
+        "text": "11个海龙的盒子"
+    },
+    "83350331": {
+        "deprecated": false,
+        "Dev_Desc": "해룡의 정기",
+        "id": 83350331,
+        "alias": "Contents.CashShop.Item.Name.9850127",
+        "text": "海龙之魂"
+    },
+    "83350332": {
+        "deprecated": false,
+        "Dev_Desc": "화려한 해룡의 상자 패키지",
+        "id": 83350332,
+        "alias": "Contents.CashShop.Item.Name.9850128",
+        "text": "七彩海龙礼盒包"
+    },
+    "83350333": {
+        "deprecated": false,
+        "Dev_Desc": "해룡의 상자 [실지급품]",
+        "id": 83350333,
+        "alias": "Contents.CashShop.Item.Name.9850129",
+        "text": "海龙之盒"
+    },
+    "83350334": {
+        "deprecated": false,
+        "Dev_Desc": "해룡의 상자 보너스(확률)",
+        "id": 83350334,
+        "alias": "Contents.CashShop.Item.Name.9850130",
+        "text": "海龙之盒加成（概率）"
     }
 }

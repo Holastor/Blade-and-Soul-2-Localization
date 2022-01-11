@@ -24212,5 +24212,96 @@
         "id": 8003540,
         "alias": "UI.Craft.LeftSubTabName.Event.Erosion_01",
         "text": "침식된 영웅 장비"
+    },
+    "8003541": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 정보 / 전투 / 전투 집중 모드",
+        "id": 8003541,
+        "alias": "UI.Option.Information.Battle.BattleMode.Reset",
+        "text": "초기화"
+    },
+    "8003542": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 정보 / 전투 / 전투 집중 모드",
+        "id": 8003542,
+        "alias": "UI.Option.Information.Battle.BattleMode.ViewValue",
+        "text": "전투 결과 수치 표시"
+    },
+    "8003543": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 정보 / 전투 / 전투 집중 모드",
+        "id": 8003543,
+        "alias": "UI.Option.Information.Battle.BattleMode.ViewText",
+        "text": "전투 결과 텍스트 표시"
+    },
+    "8003544": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 정보 / 전투 / 전투 집중 모드",
+        "id": 8003544,
+        "alias": "UI.Option.Information.Battle.BattleMode.Normal",
+        "text": "일반 모드"
+    },
+    "8003545": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 정보 / 전투 / 전투 집중 모드",
+        "id": 8003545,
+        "alias": "UI.Option.Information.Battle.BattleMode.Focus",
+        "text": "전투 집중 모드"
+    },
+    "8003546": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 정보 / 전투 / 전투 집중 모드",
+        "id": 8003546,
+        "alias": "UI.Option.Information.Battle.BattleMode.Tip",
+        "text": "전투 모드를 자유롭게 커스텀하여 더욱 몰입할 수 있는 전투 환경을 조성합니다."
+    },
+    "8003547": {
+        "deprecated": false,
+        "Dev_Desc": "로비 / 이름 변경 확인 팝업",
+        "id": 8003547,
+        "alias": "UI.Lobby.changeName.PopupDesc",
+        "text": "캐릭터 이름을 변경하시겠습니까?\n이름 변경권이 소비됩니다."
+    },
+    "8003548": {
+        "deprecated": false,
+        "Dev_Desc": "로비 / 이름 변경 화면 타이틀",
+        "id": 8003548,
+        "alias": "UI.Lobby.changeName.Title",
+        "text": "이름 변경"
+    },
+    "8003549": {
+        "deprecated": false,
+        "Dev_Desc": "로비 / 이름 입력 화면 타이틀",
+        "id": 8003549,
+        "alias": "UI.Lobby.InputName.Title",
+        "text": "이름 입력"
+    },
+    "8003550": {
+        "deprecated": false,
+        "Dev_Desc": "프로모션 제작 레시피 탭 / 해룡의 정기",
+        "id": 8003550,
+        "alias": "UI.Craft.LeftSubTabName.Limited.SeaSerpent_01",
+        "text": "특별 제작"
+    },
+    "8003551": {
+        "deprecated": false,
+        "Dev_Desc": "프로모션 제작 레시피 탭 / 해룡의 정기",
+        "id": 8003551,
+        "alias": "UI.Craft.LeftSubTabName.Limited.SeaSerpent_02",
+        "text": "무공"
+    },
+    "8003552": {
+        "deprecated": false,
+        "Dev_Desc": "프로모션 제작 레시피 탭 / 해룡의 정기",
+        "id": 8003552,
+        "alias": "UI.Craft.LeftSubTabName.Limited.SeaSerpent_03",
+        "text": "기타"
+    },
+    "8003553": {
+        "deprecated": false,
+        "Dev_Desc": "대사형의 주화 상인",
+        "id": 8003553,
+        "alias": "UI.Shop.Tittle.Name.10029",
+        "text": "대사형의 주화 상인"
     }
 }

@@ -24212,5 +24212,96 @@
         "id": 8003540,
         "alias": "UI.Craft.LeftSubTabName.Event.Erosion_01",
         "text": "Erosioned Hero Equipment"
+    },
+    "8003541": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 정보 / 전투 / 전투 집중 모드",
+        "id": 8003541,
+        "alias": "UI.Option.Information.Battle.BattleMode.Reset",
+        "text": "initialization"
+    },
+    "8003542": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 정보 / 전투 / 전투 집중 모드",
+        "id": 8003542,
+        "alias": "UI.Option.Information.Battle.BattleMode.ViewValue",
+        "text": "Display of battle result figures"
+    },
+    "8003543": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 정보 / 전투 / 전투 집중 모드",
+        "id": 8003543,
+        "alias": "UI.Option.Information.Battle.BattleMode.ViewText",
+        "text": "Show battle result text"
+    },
+    "8003544": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 정보 / 전투 / 전투 집중 모드",
+        "id": 8003544,
+        "alias": "UI.Option.Information.Battle.BattleMode.Normal",
+        "text": "Normal Mode"
+    },
+    "8003545": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 정보 / 전투 / 전투 집중 모드",
+        "id": 8003545,
+        "alias": "UI.Option.Information.Battle.BattleMode.Focus",
+        "text": "Battle Focused Mode"
+    },
+    "8003546": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 정보 / 전투 / 전투 집중 모드",
+        "id": 8003546,
+        "alias": "UI.Option.Information.Battle.BattleMode.Tip",
+        "text": "Freely customize the battle mode to create a more immersive combat environment."
+    },
+    "8003547": {
+        "deprecated": false,
+        "Dev_Desc": "로비 / 이름 변경 확인 팝업",
+        "id": 8003547,
+        "alias": "UI.Lobby.changeName.PopupDesc",
+        "text": "Are you sure you want to change the character name? \\nName change ticket is consumed."
+    },
+    "8003548": {
+        "deprecated": false,
+        "Dev_Desc": "로비 / 이름 변경 화면 타이틀",
+        "id": 8003548,
+        "alias": "UI.Lobby.changeName.Title",
+        "text": "Rename"
+    },
+    "8003549": {
+        "deprecated": false,
+        "Dev_Desc": "로비 / 이름 입력 화면 타이틀",
+        "id": 8003549,
+        "alias": "UI.Lobby.InputName.Title",
+        "text": "Enter name"
+    },
+    "8003550": {
+        "deprecated": false,
+        "Dev_Desc": "프로모션 제작 레시피 탭 / 해룡의 정기",
+        "id": 8003550,
+        "alias": "UI.Craft.LeftSubTabName.Limited.SeaSerpent_01",
+        "text": "Special Made"
+    },
+    "8003551": {
+        "deprecated": false,
+        "Dev_Desc": "프로모션 제작 레시피 탭 / 해룡의 정기",
+        "id": 8003551,
+        "alias": "UI.Craft.LeftSubTabName.Limited.SeaSerpent_02",
+        "text": "None"
+    },
+    "8003552": {
+        "deprecated": false,
+        "Dev_Desc": "프로모션 제작 레시피 탭 / 해룡의 정기",
+        "id": 8003552,
+        "alias": "UI.Craft.LeftSubTabName.Limited.SeaSerpent_03",
+        "text": "Etc"
+    },
+    "8003553": {
+        "deprecated": false,
+        "Dev_Desc": "대사형의 주화 상인",
+        "id": 8003553,
+        "alias": "UI.Shop.Tittle.Name.10029",
+        "text": "Great Coin Merchant"
     }
 }

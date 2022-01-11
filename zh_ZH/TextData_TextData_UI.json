@@ -24212,5 +24212,96 @@
         "id": 8003540,
         "alias": "UI.Craft.LeftSubTabName.Event.Erosion_01",
         "text": "侵蚀英雄装备"
+    },
+    "8003541": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 정보 / 전투 / 전투 집중 모드",
+        "id": 8003541,
+        "alias": "UI.Option.Information.Battle.BattleMode.Reset",
+        "text": "初始化"
+    },
+    "8003542": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 정보 / 전투 / 전투 집중 모드",
+        "id": 8003542,
+        "alias": "UI.Option.Information.Battle.BattleMode.ViewValue",
+        "text": "显示战斗结果数字"
+    },
+    "8003543": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 정보 / 전투 / 전투 집중 모드",
+        "id": 8003543,
+        "alias": "UI.Option.Information.Battle.BattleMode.ViewText",
+        "text": "显示战斗结果文本"
+    },
+    "8003544": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 정보 / 전투 / 전투 집중 모드",
+        "id": 8003544,
+        "alias": "UI.Option.Information.Battle.BattleMode.Normal",
+        "text": "正常模式"
+    },
+    "8003545": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 정보 / 전투 / 전투 집중 모드",
+        "id": 8003545,
+        "alias": "UI.Option.Information.Battle.BattleMode.Focus",
+        "text": "战斗专注模式"
+    },
+    "8003546": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 정보 / 전투 / 전투 집중 모드",
+        "id": 8003546,
+        "alias": "UI.Option.Information.Battle.BattleMode.Tip",
+        "text": "自由定制战斗模式，打造更加身临其境的战斗环境。"
+    },
+    "8003547": {
+        "deprecated": false,
+        "Dev_Desc": "로비 / 이름 변경 확인 팝업",
+        "id": 8003547,
+        "alias": "UI.Lobby.changeName.PopupDesc",
+        "text": "确定要改角色名吗？\\n改名票已经用完了。"
+    },
+    "8003548": {
+        "deprecated": false,
+        "Dev_Desc": "로비 / 이름 변경 화면 타이틀",
+        "id": 8003548,
+        "alias": "UI.Lobby.changeName.Title",
+        "text": "改名"
+    },
+    "8003549": {
+        "deprecated": false,
+        "Dev_Desc": "로비 / 이름 입력 화면 타이틀",
+        "id": 8003549,
+        "alias": "UI.Lobby.InputName.Title",
+        "text": "输入名字"
+    },
+    "8003550": {
+        "deprecated": false,
+        "Dev_Desc": "프로모션 제작 레시피 탭 / 해룡의 정기",
+        "id": 8003550,
+        "alias": "UI.Craft.LeftSubTabName.Limited.SeaSerpent_01",
+        "text": "特制"
+    },
+    "8003551": {
+        "deprecated": false,
+        "Dev_Desc": "프로모션 제작 레시피 탭 / 해룡의 정기",
+        "id": 8003551,
+        "alias": "UI.Craft.LeftSubTabName.Limited.SeaSerpent_02",
+        "text": "没有任何"
+    },
+    "8003552": {
+        "deprecated": false,
+        "Dev_Desc": "프로모션 제작 레시피 탭 / 해룡의 정기",
+        "id": 8003552,
+        "alias": "UI.Craft.LeftSubTabName.Limited.SeaSerpent_03",
+        "text": "等等"
+    },
+    "8003553": {
+        "deprecated": false,
+        "Dev_Desc": "대사형의 주화 상인",
+        "id": 8003553,
+        "alias": "UI.Shop.Tittle.Name.10029",
+        "text": "大钱商"
     }
 }

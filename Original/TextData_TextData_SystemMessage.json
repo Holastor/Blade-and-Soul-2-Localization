@@ -7591,5 +7591,33 @@
         "id": 9001146,
         "alias": "SysM.Smelting.RegisterFail.Locked",
         "text": "잠금 해제 후 등록할 수 있습니다."
+    },
+    "9001147": {
+        "deprecated": false,
+        "Dev_Desc": "이름 변경권 / 아이템 없음",
+        "id": 9001147,
+        "alias": "SysM.Lobby.ChangeName.NoTicket",
+        "text": "보유한 이름 변경권이 없습니다. 이름변경권은 상점에서 구매할 수 있습니다."
+    },
+    "9001148": {
+        "deprecated": false,
+        "Dev_Desc": "이름 변경권 / 이름 안 바뀜",
+        "id": 9001148,
+        "alias": "SysM.Lobby.ChangeName.NoChange",
+        "text": "변경 사항이 없습니다. 이름 변경후 다시 시도해주세요."
+    },
+    "9001149": {
+        "deprecated": false,
+        "Dev_Desc": "자동 분해 옵션 켜졌을 때 상자 열기",
+        "id": 9001149,
+        "alias": "SysM.Item.OpenBox.AutoDiscomposeOn",
+        "text": "자동 분해 대상 상자는 남은 소지품 공간만큼만 열 수 있습니다."
+    },
+    "9001150": {
+        "deprecated": false,
+        "Dev_Desc": "캐릭터 생성/ 에러 추가 / 숫자로만 생성 시 에러 메시지",
+        "id": 9001150,
+        "alias": "SysM.Lobby.NotIncludeChar",
+        "text": "영어 혹은 한글이 반드시 1자 이상 포함되어야 합니다."
     }
 }

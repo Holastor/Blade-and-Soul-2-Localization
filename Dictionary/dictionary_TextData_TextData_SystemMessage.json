@@ -7726,5 +7726,40 @@
         "English_Text": "The user's clan membership information has been changed, so clan hostility cannot proceed.",
         "Russian_Text": "",
         "Chinese_Text": "用户的氏族成员信息已被更改，因此氏族敌意无法进行。"
+    },
+    "9001146": {
+        "Dev_Desc": "야루의 상자 /  잠김 물품 등록 에러 메시지",
+        "Original_Text": "잠금 해제 후 등록할 수 있습니다.",
+        "English_Text": "\"You can register after unlocking.\"",
+        "Russian_Text": "",
+        "Chinese_Text": "解锁后即可注册。"
+    },
+    "9001147": {
+        "Dev_Desc": "이름 변경권 / 아이템 없음",
+        "Original_Text": "보유한 이름 변경권이 없습니다. 이름변경권은 상점에서 구매할 수 있습니다.",
+        "English_Text": "You do not have a name change right. You can purchase a name change right in the store.",
+        "Russian_Text": "",
+        "Chinese_Text": "你没有改名权。你可以在商店购买改名权。"
+    },
+    "9001148": {
+        "Dev_Desc": "이름 변경권 / 이름 안 바뀜",
+        "Original_Text": "변경 사항이 없습니다. 이름 변경후 다시 시도해주세요.",
+        "English_Text": "No change. Please try again after changing the name.",
+        "Russian_Text": "",
+        "Chinese_Text": "没有改变，请改名后再试。"
+    },
+    "9001149": {
+        "Dev_Desc": "자동 분해 옵션 켜졌을 때 상자 열기",
+        "Original_Text": "자동 분해 대상 상자는 남은 소지품 공간만큼만 열 수 있습니다.",
+        "English_Text": "Auto-disassemble chests can only be opened with the amount of inventory space remaining.",
+        "Russian_Text": "",
+        "Chinese_Text": "自动分解宝箱只能在剩余库存空间的情况下打开。"
+    },
+    "9001150": {
+        "Dev_Desc": "캐릭터 생성/ 에러 추가 / 숫자로만 생성 시 에러 메시지",
+        "Original_Text": "영어 혹은 한글이 반드시 1자 이상 포함되어야 합니다.",
+        "English_Text": "It must contain at least one English or Korean character.",
+        "Russian_Text": "",
+        "Chinese_Text": "它必须包含至少一个英文或韩文字符。"
     }
 }

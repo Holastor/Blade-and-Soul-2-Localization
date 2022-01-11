@@ -1849,24 +1849,31 @@
     },
     "83200223": {
         "deprecated": false,
-        "Dev_Desc": "해룡의 정기 상자",
+        "Dev_Desc": "해룡의 상자",
         "id": 83200223,
         "alias": "Contents.CashShop.Item.Name.5308",
         "text": "Sea Dragon's Elemental Box"
     },
     "83200224": {
         "deprecated": false,
-        "Dev_Desc": "해룡의 정기 상자 11개 묶음",
+        "Dev_Desc": "해룡의 상자 11개",
         "id": 83200224,
         "alias": "Contents.CashShop.Item.Name.5309",
         "text": "Sea Dragon's Elemental Box Pack of 11"
     },
     "83200225": {
         "deprecated": false,
-        "Dev_Desc": "해룡의 소환 패키지",
+        "Dev_Desc": "화려한 해룡의 상자 패키지",
         "id": 83200225,
         "alias": "Contents.CashShop.Item.Name.5310",
         "text": "Sea Dragon's Summon Package"
+    },
+    "83200226": {
+        "deprecated": false,
+        "Dev_Desc": "이름 변경권",
+        "id": 83200226,
+        "alias": "Contents.CashShop.Item.Name.5318",
+        "text": "Character Name Change Right"
     },
     "83350000": {
         "deprecated": false,
@@ -4012,21 +4019,21 @@
     },
     "83350316": {
         "deprecated": false,
-        "Dev_Desc": "해룡의 정기 상자",
+        "Dev_Desc": "해룡의 상자",
         "id": 83350316,
         "alias": "Contents.CashShop.Item.Name.9710243",
         "text": "Sea Dragon's Compulsory Box Ticket"
     },
     "83350317": {
         "deprecated": false,
-        "Dev_Desc": "해룡의 정기 상자 11개 묶음",
+        "Dev_Desc": "해룡의 상자 11개",
         "id": 83350317,
         "alias": "Contents.CashShop.Item.Name.9710244",
         "text": "Sea Dragon's Elemental Box 11 Pack"
     },
     "83350318": {
         "deprecated": false,
-        "Dev_Desc": "해룡의 소환 패키지",
+        "Dev_Desc": "화려한 해룡의 상자 패키지",
         "id": 83350318,
         "alias": "Contents.CashShop.Item.Name.9710245",
         "text": "Sea Dragon's Summon Package Ticket"
@@ -4093,5 +4100,54 @@
         "id": 83350327,
         "alias": "Contents.CashShop.Item.Name.1043",
         "text": "The Gorgeous Soul of Time 4-STEP Package"
+    },
+    "83350328": {
+        "deprecated": false,
+        "Dev_Desc": "이름 변경권",
+        "id": 83350328,
+        "alias": "Contents.CashShop.Item.Name.9850124",
+        "text": "Character Name Change Right"
+    },
+    "83350329": {
+        "deprecated": false,
+        "Dev_Desc": "해룡의 상자",
+        "id": 83350329,
+        "alias": "Contents.CashShop.Item.Name.9850125",
+        "text": "Sea Dragon's Box"
+    },
+    "83350330": {
+        "deprecated": false,
+        "Dev_Desc": "해룡의 상자 11개",
+        "id": 83350330,
+        "alias": "Contents.CashShop.Item.Name.9850126",
+        "text": "11 Sea Dragon's Boxes"
+    },
+    "83350331": {
+        "deprecated": false,
+        "Dev_Desc": "해룡의 정기",
+        "id": 83350331,
+        "alias": "Contents.CashShop.Item.Name.9850127",
+        "text": "The Spirit of the Sea Dragon"
+    },
+    "83350332": {
+        "deprecated": false,
+        "Dev_Desc": "화려한 해룡의 상자 패키지",
+        "id": 83350332,
+        "alias": "Contents.CashShop.Item.Name.9850128",
+        "text": "Colorful Sea Dragon's Box Package"
+    },
+    "83350333": {
+        "deprecated": false,
+        "Dev_Desc": "해룡의 상자 [실지급품]",
+        "id": 83350333,
+        "alias": "Contents.CashShop.Item.Name.9850129",
+        "text": "Sea Dragon's Box"
+    },
+    "83350334": {
+        "deprecated": false,
+        "Dev_Desc": "해룡의 상자 보너스(확률)",
+        "id": 83350334,
+        "alias": "Contents.CashShop.Item.Name.9850130",
+        "text": "Sea Dragon's Box Bonus (Probability)"
     }
 }

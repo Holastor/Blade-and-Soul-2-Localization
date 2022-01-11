@@ -1218,23 +1218,44 @@
     },
     "60030181": {
         "deprecated": false,
-        "Dev_Desc": "기공패 패시브 천빙",
+        "Dev_Desc": "기공패 패시브 염제",
         "id": 60030181,
         "alias": "Contents.Skill.Name.FireBangle.3036",
         "text": "Salt"
     },
     "60030182": {
         "deprecated": false,
-        "Dev_Desc": "패시브_천빙_둔화 빙결 추피",
+        "Dev_Desc": "패시브_염제_효과",
         "id": 60030182,
         "alias": "Contents.Skill.useEffectDesc.FireBangle.3036",
         "text": "All elemental attack amplification increase by 7%"
     },
     "60030183": {
         "deprecated": false,
-        "Dev_Desc": "기공패 패시브 천빙_설명",
+        "Dev_Desc": "기공패 패시브 염제_설명",
         "id": 60030183,
         "alias": "Contents.Skill.Desc.FireBangle.3036",
         "text": "Masters the aura of all things.\\nIncreases all elemental attack amplification."
+    },
+    "60030184": {
+        "deprecated": false,
+        "Dev_Desc": "기공패 패시브 멸소",
+        "id": 60030184,
+        "alias": "Contents.Skill.Name.FireBangle.3041",
+        "text": "Extinction"
+    },
+    "60030185": {
+        "deprecated": false,
+        "Dev_Desc": "기공패 패시브 멸소",
+        "id": 60030185,
+        "alias": "Contents.Skill.Desc.FireBangle.3041",
+        "text": "Attacks powerful enemies with more ruthless flames.\\nBoss damage is increased."
+    },
+    "60030186": {
+        "deprecated": false,
+        "Dev_Desc": "기공패 패시브 멸소",
+        "id": 60030186,
+        "alias": "Contents.Skill.useEffectDesc.FireBangle.3041",
+        "text": "Boss Attack 4"
     }
 }

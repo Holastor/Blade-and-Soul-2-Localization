@@ -137,7 +137,7 @@
         "Dev_Desc": "패스 포인트",
         "id": 80000020,
         "alias": "Contents.Money.Name.20",
-        "text": "패스 포인트15"
+        "text": "소울 메이트 패스 포인트"
     },
     "80000021": {
         "deprecated": false,
@@ -180,5 +180,12 @@
         "id": 80000026,
         "alias": "Contents.Money.Name.26",
         "text": "캐릭터 외모 변경권"
+    },
+    "80000027": {
+        "deprecated": false,
+        "Dev_Desc": "이름 변경권",
+        "id": 80000027,
+        "alias": "Contents.Money.Name.27",
+        "text": "캐릭터 이름 변경권"
     }
 }

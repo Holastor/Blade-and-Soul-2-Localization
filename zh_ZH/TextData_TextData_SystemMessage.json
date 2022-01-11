@@ -7591,5 +7591,33 @@
         "id": 9001146,
         "alias": "SysM.Smelting.RegisterFail.Locked",
         "text": "解锁后即可注册。"
+    },
+    "9001147": {
+        "deprecated": false,
+        "Dev_Desc": "이름 변경권 / 아이템 없음",
+        "id": 9001147,
+        "alias": "SysM.Lobby.ChangeName.NoTicket",
+        "text": "你没有改名权。你可以在商店购买改名权。"
+    },
+    "9001148": {
+        "deprecated": false,
+        "Dev_Desc": "이름 변경권 / 이름 안 바뀜",
+        "id": 9001148,
+        "alias": "SysM.Lobby.ChangeName.NoChange",
+        "text": "没有改变，请改名后再试。"
+    },
+    "9001149": {
+        "deprecated": false,
+        "Dev_Desc": "자동 분해 옵션 켜졌을 때 상자 열기",
+        "id": 9001149,
+        "alias": "SysM.Item.OpenBox.AutoDiscomposeOn",
+        "text": "自动分解宝箱只能在剩余库存空间的情况下打开。"
+    },
+    "9001150": {
+        "deprecated": false,
+        "Dev_Desc": "캐릭터 생성/ 에러 추가 / 숫자로만 생성 시 에러 메시지",
+        "id": 9001150,
+        "alias": "SysM.Lobby.NotIncludeChar",
+        "text": "它必须包含至少一个英文或韩文字符。"
     }
 }

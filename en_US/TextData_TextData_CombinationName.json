@@ -1,198 +1,338 @@
 {
     "96000": {
         "deprecated": false,
-        "Dev_Desc": "근거리 탱커 조합식",
+        "Dev_Desc": "무기 / 영웅 [강/교/총] + 영웅 [건] + 희귀 [철]",
         "id": 96000,
         "alias": "Contents.CombinationName.1",
         "text": "Guardian"
     },
     "96001": {
         "deprecated": false,
-        "Dev_Desc": "근거리 스킬 딜러 조합식",
+        "Dev_Desc": "무기 / 영웅 [강/교/총] + 영웅 [현] + 희귀 [철]",
         "id": 96001,
         "alias": "Contents.CombinationName.2",
         "text": "Godless"
     },
     "96002": {
         "deprecated": false,
-        "Dev_Desc": "근거리 평타 딜러 조합식",
+        "Dev_Desc": "무기 / 영웅 [강/교/총] + 영웅 [속] + 희귀 [예]",
         "id": 96002,
         "alias": "Contents.CombinationName.3",
         "text": "whole body"
     },
     "96003": {
         "deprecated": false,
-        "Dev_Desc": "원거리 탱커 조합식",
+        "Dev_Desc": "무기 / 영웅 [총] + 영웅 [현] + 희귀 [생]",
         "id": 96003,
-        "alias": "Contents.CombinationName.4",
+        "alias": "Contents.CombinationName.10",
         "text": "Guardian"
     },
     "96004": {
         "deprecated": false,
-        "Dev_Desc": "원거리 스킬 딜러 조합식",
+        "Dev_Desc": "무기 / 영웅 [강] + 희귀 [철] + 희귀 [예]",
         "id": 96004,
-        "alias": "Contents.CombinationName.5",
+        "alias": "Contents.CombinationName.11",
         "text": "Godless"
     },
     "96005": {
         "deprecated": false,
-        "Dev_Desc": "원거리 평타 딜러 조합식",
+        "Dev_Desc": "무기 / 영웅 [교] + 희귀 [철] + 희귀 [예]",
         "id": 96005,
-        "alias": "Contents.CombinationName.6",
+        "alias": "Contents.CombinationName.12",
         "text": "whole body"
     },
     "96006": {
         "deprecated": false,
-        "Dev_Desc": "기공 탱커 조합식",
+        "Dev_Desc": "무기 / 영웅 [총] + 희귀 [철] + 희귀 [예]",
         "id": 96006,
-        "alias": "Contents.CombinationName.7",
+        "alias": "Contents.CombinationName.13",
         "text": "Guardian"
     },
     "96007": {
         "deprecated": false,
-        "Dev_Desc": "기공 스킬 딜러 조합식",
+        "Dev_Desc": "무기 / 희귀 [철] + 희귀 [예] + 희귀 [투]",
         "id": 96007,
-        "alias": "Contents.CombinationName.8",
+        "alias": "Contents.CombinationName.14",
         "text": "Godless"
     },
     "96008": {
         "deprecated": false,
-        "Dev_Desc": "기공 평타 딜러 조합식",
+        "Dev_Desc": "무기 / 희귀 [철] + 희귀 [예] + 희귀 [생]",
         "id": 96008,
-        "alias": "Contents.CombinationName.9",
+        "alias": "Contents.CombinationName.15",
         "text": "whole body"
     },
     "96009": {
         "deprecated": false,
-        "Dev_Desc": "기공 힐러 조합식",
+        "Dev_Desc": "무기 / 마모된 + 빛바랜 + 희미한",
         "id": 96009,
-        "alias": "Contents.CombinationName.10",
+        "alias": "Contents.CombinationName.16",
         "text": "of life"
     },
     "96010": {
         "deprecated": false,
-        "Dev_Desc": "근거리 조합식",
+        "Dev_Desc": "무기 / 빛바랜 + 희미한 + 흐릿한",
         "id": 96010,
-        "alias": "Contents.CombinationName.11",
+        "alias": "Contents.CombinationName.17",
         "text": "firm"
     },
     "96011": {
         "deprecated": false,
-        "Dev_Desc": "원거리 조합식",
+        "Dev_Desc": "무기 / 희미한 + 흐릿한 + 마모된",
         "id": 96011,
-        "alias": "Contents.CombinationName.12",
+        "alias": "Contents.CombinationName.18",
         "text": "fierce"
     },
     "96012": {
         "deprecated": false,
-        "Dev_Desc": "기공 조합식",
+        "Dev_Desc": "무기 / 흐릿한 + 마모된 + 빛바랜",
         "id": 96012,
-        "alias": "Contents.CombinationName.13",
+        "alias": "Contents.CombinationName.19",
         "text": "broad"
     },
     "96013": {
         "deprecated": false,
-        "Dev_Desc": "PVP용 조합식",
+        "Dev_Desc": "방어구 / 영웅 [강] + 영웅 [교] + 영웅 [총]",
         "id": 96013,
-        "alias": "Contents.CombinationName.14",
+        "alias": "Contents.CombinationName.20",
         "text": "valiant"
     },
     "96014": {
         "deprecated": false,
-        "Dev_Desc": "힐러용 조합식",
+        "Dev_Desc": "방어구 / 영웅 [건] + 영웅 [현] + 영웅 [속]",
         "id": 96014,
-        "alias": "Contents.CombinationName.15",
+        "alias": "Contents.CombinationName.21",
         "text": "of harmony"
     },
     "96015": {
         "deprecated": false,
-        "Dev_Desc": "보스에만 강한 컨셉",
+        "Dev_Desc": "방어구 / 영웅 [건] + 희귀 [철] + 희귀 [예]",
         "id": 96015,
-        "alias": "Contents.CombinationName.16",
+        "alias": "Contents.CombinationName.22",
         "text": "giant's"
     },
     "96016": {
         "deprecated": false,
-        "Dev_Desc": "소울이 잘터져 화려한 컨셉",
+        "Dev_Desc": "방어구 / 영웅 [현] + 희귀 [철] + 희귀 [예]",
         "id": 96016,
-        "alias": "Contents.CombinationName.17",
+        "alias": "Contents.CombinationName.23",
         "text": "of soul"
     },
     "96017": {
         "deprecated": false,
-        "Dev_Desc": "공속이 빨라 시원한 컨셉",
+        "Dev_Desc": "방어구 / 영웅 [속] + 희귀 [철] + 희귀 [예]",
         "id": 96017,
-        "alias": "Contents.CombinationName.18",
+        "alias": "Contents.CombinationName.24",
         "text": "Crushing"
     },
     "96018": {
         "deprecated": false,
-        "Dev_Desc": "상위 사냥터 진입용 컨셉",
+        "Dev_Desc": "방어구 / 마모된 + 빛바랜 + 희미한",
         "id": 96018,
-        "alias": "Contents.CombinationName.19",
+        "alias": "Contents.CombinationName.25",
         "text": "The Prophet"
     },
     "96019": {
         "deprecated": false,
-        "Dev_Desc": "최상위 범용 조합식",
+        "Dev_Desc": "방어구 / 빛바랜 + 희미한 + 흐릿한",
         "id": 96019,
-        "alias": "Contents.CombinationName.20",
+        "alias": "Contents.CombinationName.26",
         "text": "Geumgang Ingot"
     },
     "96020": {
         "deprecated": false,
-        "Dev_Desc": "최상위 PVP용 조합식",
+        "Dev_Desc": "방어구 / 희미한 + 흐릿한 + 마모된",
         "id": 96020,
-        "alias": "Contents.CombinationName.21",
+        "alias": "Contents.CombinationName.27",
         "text": "of commitment"
     },
     "96021": {
         "deprecated": false,
-        "Dev_Desc": "방어용 조합식",
+        "Dev_Desc": "방어구 / 흐릿한 + 마모된 + 빛바랜",
         "id": 96021,
-        "alias": "Contents.CombinationName.22",
+        "alias": "Contents.CombinationName.28",
         "text": "Hard"
     },
     "96022": {
         "deprecated": false,
-        "Dev_Desc": "호신용 조합식",
+        "Dev_Desc": "무기 / 희귀 [철] + 희귀 [예] + 희귀 [충]",
         "id": 96022,
-        "alias": "Contents.CombinationName.23",
+        "alias": "Contents.CombinationName.29",
         "text": "of the iron wall"
     },
     "96023": {
         "deprecated": false,
-        "Dev_Desc": "회피용 조합식",
+        "Dev_Desc": "무기 / 희귀 [철] + 희귀 [충] + 희귀 [약]",
         "id": 96023,
-        "alias": "Contents.CombinationName.24",
+        "alias": "Contents.CombinationName.32",
         "text": "quick"
     },
     "96024": {
         "deprecated": false,
-        "Dev_Desc": "빨리 걷기 컨셉",
+        "Dev_Desc": "무기 / 영웅 [강/교/총] + 영웅 [제] + 희귀 [충]",
         "id": 96024,
-        "alias": "Contents.CombinationName.25",
+        "alias": "Contents.CombinationName.44301",
         "text": "super-fast"
     },
     "96025": {
         "deprecated": false,
-        "Dev_Desc": "빨리 일어나기 컨셉",
+        "Dev_Desc": "무기 / 영웅 [강/교/총] + 영웅 [통] + 희귀 [무]",
         "id": 96025,
-        "alias": "Contents.CombinationName.26",
+        "alias": "Contents.CombinationName.44304",
         "text": "flexible"
     },
     "96026": {
         "deprecated": false,
-        "Dev_Desc": "피통 돼지 컨셉",
+        "Dev_Desc": "무기 / 영웅 [강/교/총] + 영웅 [혼] + 희귀 [엽]",
         "id": 96026,
-        "alias": "Contents.CombinationName.27",
+        "alias": "Contents.CombinationName.44307",
         "text": "firm"
     },
     "96027": {
         "deprecated": false,
-        "Dev_Desc": "물약 좀비 컨셉",
+        "Dev_Desc": "무기 / 영웅 [제] + 희귀 [생] + 희귀 [투]",
         "id": 96027,
-        "alias": "Contents.CombinationName.28",
+        "alias": "Contents.CombinationName.43301",
         "text": "of recovery"
+    },
+    "96028": {
+        "deprecated": false,
+        "Dev_Desc": "무기 / 영웅 [통] + 희귀 [충] + 희귀 [약]",
+        "id": 96028,
+        "alias": "Contents.CombinationName.43302",
+        "text": "Captain"
+    },
+    "96029": {
+        "deprecated": false,
+        "Dev_Desc": "무기 / 영웅 [혼] + 희귀 [무] + 희귀 [엽]",
+        "id": 96029,
+        "alias": "Contents.CombinationName.43303",
+        "text": "incisive"
+    },
+    "96030": {
+        "deprecated": false,
+        "Dev_Desc": "무기 / 희귀 [예] + 희귀 [충] + 희귀 [무]",
+        "id": 96030,
+        "alias": "Contents.CombinationName.33301",
+        "text": "Invincible"
+    },
+    "96031": {
+        "deprecated": false,
+        "Dev_Desc": "무기 / 희귀 [생] + 희귀 [약] + 희귀 [엽]",
+        "id": 96031,
+        "alias": "Contents.CombinationName.33302",
+        "text": "escort's"
+    },
+    "96032": {
+        "deprecated": false,
+        "Dev_Desc": "무기 / 희귀 [투] + 희귀 [무] + 희귀 [엽]",
+        "id": 96032,
+        "alias": "Contents.CombinationName.33303",
+        "text": "of struggle"
+    },
+    "96033": {
+        "deprecated": false,
+        "Dev_Desc": "무기 / 낡은 + 갈라진 + 마모된",
+        "id": 96033,
+        "alias": "Contents.CombinationName.22201",
+        "text": "fatal"
+    },
+    "96034": {
+        "deprecated": false,
+        "Dev_Desc": "무기 / 낡은 + 갈라진 + 빛바랜",
+        "id": 96034,
+        "alias": "Contents.CombinationName.22210",
+        "text": "to track"
+    },
+    "96035": {
+        "deprecated": false,
+        "Dev_Desc": "무기 / 낡은 + 갈라진 + 희미한",
+        "id": 96035,
+        "alias": "Contents.CombinationName.22219",
+        "text": "piercing"
+    },
+    "96036": {
+        "deprecated": false,
+        "Dev_Desc": "무기 / 낡은 + 갈라진 + 흐릿한",
+        "id": 96036,
+        "alias": "Contents.CombinationName.22228",
+        "text": "sharp"
+    },
+    "96037": {
+        "deprecated": false,
+        "Dev_Desc": "방어구 / 영웅 [강] + 영웅 [건] + 영웅 [제]",
+        "id": 96037,
+        "alias": "Contents.CombinationName.144401",
+        "text": "Magnificent"
+    },
+    "96038": {
+        "deprecated": false,
+        "Dev_Desc": "방어구 / 영웅 [교] + 영웅 [현] + 영웅 [통]",
+        "id": 96038,
+        "alias": "Contents.CombinationName.144402",
+        "text": "sleek"
+    },
+    "96039": {
+        "deprecated": false,
+        "Dev_Desc": "방어구 / 영웅 [총] + 영웅 [속] + 영웅 [혼]",
+        "id": 96039,
+        "alias": "Contents.CombinationName.144403",
+        "text": "doldrums"
+    },
+    "96040": {
+        "deprecated": false,
+        "Dev_Desc": "방어구 / 영웅 [제] + 영웅 [통] + 영웅 [혼]",
+        "id": 96040,
+        "alias": "Contents.CombinationName.144404",
+        "text": "tolerant"
+    },
+    "96041": {
+        "deprecated": false,
+        "Dev_Desc": "방어구 / 영웅 [제] + 희귀 [투] + 희귀 [충]",
+        "id": 96041,
+        "alias": "Contents.CombinationName.143301",
+        "text": "Hotu's"
+    },
+    "96042": {
+        "deprecated": false,
+        "Dev_Desc": "방어구 / 영웅 [통] + 희귀 [생] + 희귀 [약]",
+        "id": 96042,
+        "alias": "Contents.CombinationName.143302",
+        "text": "lively"
+    },
+    "96043": {
+        "deprecated": false,
+        "Dev_Desc": "방어구 / 영웅 [혼] + 희귀 [무] + 희귀 [엽]",
+        "id": 96043,
+        "alias": "Contents.CombinationName.143303",
+        "text": "internal"
+    },
+    "96044": {
+        "deprecated": false,
+        "Dev_Desc": "방어구 / 낡은 + 갈라진 + 마모된",
+        "id": 96044,
+        "alias": "Contents.CombinationName.122201",
+        "text": "protective"
+    },
+    "96045": {
+        "deprecated": false,
+        "Dev_Desc": "방어구 / 낡은 + 갈라진 + 빛바랜",
+        "id": 96045,
+        "alias": "Contents.CombinationName.122202",
+        "text": "solid"
+    },
+    "96046": {
+        "deprecated": false,
+        "Dev_Desc": "방어구 / 낡은 + 갈라진 + 희미한",
+        "id": 96046,
+        "alias": "Contents.CombinationName.122203",
+        "text": "Resisting"
+    },
+    "96047": {
+        "deprecated": false,
+        "Dev_Desc": "방어구 / 낡은 + 갈라진 + 흐릿한",
+        "id": 96047,
+        "alias": "Contents.CombinationName.122204",
+        "text": "dexterous"
     }
 }

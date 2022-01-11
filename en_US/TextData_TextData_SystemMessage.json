@@ -7591,5 +7591,33 @@
         "id": 9001146,
         "alias": "SysM.Smelting.RegisterFail.Locked",
         "text": "\"You can register after unlocking.\""
+    },
+    "9001147": {
+        "deprecated": false,
+        "Dev_Desc": "이름 변경권 / 아이템 없음",
+        "id": 9001147,
+        "alias": "SysM.Lobby.ChangeName.NoTicket",
+        "text": "You do not have a name change right. You can purchase a name change right in the store."
+    },
+    "9001148": {
+        "deprecated": false,
+        "Dev_Desc": "이름 변경권 / 이름 안 바뀜",
+        "id": 9001148,
+        "alias": "SysM.Lobby.ChangeName.NoChange",
+        "text": "No change. Please try again after changing the name."
+    },
+    "9001149": {
+        "deprecated": false,
+        "Dev_Desc": "자동 분해 옵션 켜졌을 때 상자 열기",
+        "id": 9001149,
+        "alias": "SysM.Item.OpenBox.AutoDiscomposeOn",
+        "text": "Auto-disassemble chests can only be opened with the amount of inventory space remaining."
+    },
+    "9001150": {
+        "deprecated": false,
+        "Dev_Desc": "캐릭터 생성/ 에러 추가 / 숫자로만 생성 시 에러 메시지",
+        "id": 9001150,
+        "alias": "SysM.Lobby.NotIncludeChar",
+        "text": "It must contain at least one English or Korean character."
     }
 }
