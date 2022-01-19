@@ -95,7 +95,7 @@
         "Dev_Desc": "다발화살_돌파_효과",
         "id": 60050013,
         "alias": "Contents.Skill.acquireEffectDesc.LongBow.5023",
-        "text": "치명타 시 일정 확률로 <textColor=[248:99:99:255]>출혈</> 효과 적용 및 \"다중사격\" 대기시간 -1초"
+        "text": "치명타 시 일정 확률로 \"다중사격\" 대기시간 -1초 및 \"다발화살\" 치명률 +15%"
     },
     "60050014": {
         "deprecated": false,
@@ -116,7 +116,7 @@
         "Dev_Desc": "다중사격_돌파_효과",
         "id": 60050016,
         "alias": "Contents.Skill.acquireEffectDesc.LongBow.5033",
-        "text": "치명타 시 일정 확률로 <textColor=[248:99:99:255]>출혈</> 효과 적용\n피해량 증가"
+        "text": "피해량 증가\n무공 사용 중 이동 가능"
     },
     "60050017": {
         "deprecated": false,
@@ -200,14 +200,14 @@
         "Dev_Desc": "화살비_돌파_효과",
         "id": 60050028,
         "alias": "Contents.Skill.acquireEffectDesc.LongBow.5009",
-        "text": "일정 확률로 <textColor=[248:99:99:255]>출혈</> 효과 적용"
+        "text": "치명타 시 활 공격력을 증가시키는 <textColor=[136:161:235:255]>명사수</> 효과 2초간 적용"
     },
     "60050029": {
         "deprecated": false,
         "Dev_Desc": "강사_설명",
         "id": 60050029,
         "alias": "Contents.Skill.Desc.LongBow.5910",
-        "text": "기본 공격 치명타 시 일정 확률로 <textColor=[248:99:99:255]>출혈</>이 적용됩니다."
+        "text": "기본 공격 치명타 시 활 공격력을 증가시키는 <textColor=[136:161:235:255]>명사수</> 효과를 2초간 적용받습니다.\n최대 12회까지 중첩됩니다."
     },
     "60050030": {
         "deprecated": false,
@@ -655,56 +655,49 @@
         "Dev_Desc": "살우_설명",
         "id": 60050093,
         "alias": "Contents.Skill.Desc.LongBow.5090",
-        "text": "하늘로 도약해 대상에게 화살 폭풍을 퍼붓습니다.\n일정 확률로 범위 내 3인에게 <textColor=[248:99:99:255]>기절</>과 <textColor=[248:99:99:255]>출혈</> 효과를 적용합니다.\n사용 중 통제 상태에 면역이 됩니다."
+        "text": "하늘로 도약해 대상에게 화살 폭풍을 퍼붓습니다.\n일정 확률로 범위 내 3인에게 <textColor=[248:99:99:255]>기절</> 효과를 적용합니다.\n사용 중 통제 상태에 면역이 됩니다."
     },
     "60050094": {
         "deprecated": false,
         "Dev_Desc": "살우_효과",
         "id": 60050094,
         "alias": "Contents.Skill.UseEffect.LongBow.5090",
-        "text": "기절, 출혈"
+        "text": "기절"
     },
     "60050095": {
         "deprecated": false,
-        "Dev_Desc": "출혈화살_이름",
+        "Dev_Desc": "단일사격_이름",
         "id": 60050095,
         "alias": "Contents.Skill.Name.LongBow.5010",
-        "text": "출혈화살"
+        "text": "단일사격"
     },
     "60050096": {
         "deprecated": false,
-        "Dev_Desc": "출혈화살_설명",
+        "Dev_Desc": "단일사격_설명",
         "id": 60050096,
         "alias": "Contents.Skill.Desc.LongBow.5010",
-        "text": "일정 확률로 대상을 3초간 <textColor=[248:99:99:255]>출혈</>시키는 화살을 날립니다."
+        "text": "적에게 화살 한 발을 날려 피해를 입힙니다."
     },
     "60050097": {
         "deprecated": false,
-        "Dev_Desc": "출혈화살_증폭",
+        "Dev_Desc": "단일사격_증폭",
         "id": 60050097,
         "alias": "Contents.Skill.acquireEffectDesc.LongBow.5061",
         "text": "재사용 대기시간 -1초"
     },
     "60050098": {
         "deprecated": false,
-        "Dev_Desc": "출혈화살_극한",
+        "Dev_Desc": "단일사격_극한",
         "id": 60050098,
         "alias": "Contents.Skill.acquireEffectDesc.LongBow.5062",
         "text": "내력 소모량 -1"
     },
     "60050099": {
         "deprecated": false,
-        "Dev_Desc": "출혈화살_돌파",
+        "Dev_Desc": "단일사격_돌파",
         "id": 60050099,
         "alias": "Contents.Skill.acquireEffectDesc.LongBow.5063",
         "text": "피해량 증가"
-    },
-    "60050100": {
-        "deprecated": false,
-        "Dev_Desc": "출혈화살_돌파_효과",
-        "id": 60050100,
-        "alias": "Contents.Effect.Name.LongBow.5013",
-        "text": "출혈 2중첩"
     },
     "60050101": {
         "deprecated": false,
@@ -767,7 +760,7 @@
         "Dev_Desc": "깊은상처_효과",
         "id": 60050109,
         "alias": "Contents.Skill.UseEffect.LongBow.5890",
-        "text": "출혈 지속시간 +1초"
+        "text": "치명률 +3%"
     },
     "60050110": {
         "deprecated": false,
@@ -795,14 +788,14 @@
         "Dev_Desc": "강사_효과",
         "id": 60050113,
         "alias": "Contents.Skill.UseEffect.LongBow.5910",
-        "text": "출혈"
+        "text": "활 공격력 +1"
     },
     "60050114": {
         "deprecated": false,
         "Dev_Desc": "백발백중_효과",
         "id": 60050114,
         "alias": "Contents.Skill.UseEffect.LongBow.5880",
-        "text": "무기 공격력 증폭 +15%"
+        "text": "무기 공격력 증폭 +25%"
     },
     "60050115": {
         "deprecated": false,
@@ -886,7 +879,7 @@
         "Dev_Desc": "깊은상처",
         "id": 60050126,
         "alias": "Contents.Skill.Desc.LongBow.5890",
-        "text": "날카로운 화살촉이 상처를 파고듭니다.\n<textColor=[248:99:99:255]>출혈</> 지속시간이 증가합니다."
+        "text": "날카로운 화살촉이 상처를 파고듭니다.\n치명률이 증가합니다."
     },
     "60050127": {
         "deprecated": false,
@@ -904,17 +897,17 @@
     },
     "60050129": {
         "deprecated": false,
-        "Dev_Desc": "출혈화살",
+        "Dev_Desc": "단일사격",
         "id": 60050129,
         "alias": "Contents.Skill.Name.LongBow.5870",
-        "text": "출혈화살"
+        "text": "단일사격"
     },
     "60050130": {
         "deprecated": false,
-        "Dev_Desc": "출혈화살",
+        "Dev_Desc": "단일사격",
         "id": 60050130,
         "alias": "Contents.Skill.Desc.LongBow.5870",
-        "text": "기본공격 시 일정 확률로 주기적인 피해를 주는 <textColor=[248:99:99:255]>출혈</> 효과를 줍니다."
+        "text": "적에게 화살 한 발을 날려 피해를 입힙니다."
     },
     "60050131": {
         "deprecated": false,
@@ -1097,5 +1090,131 @@
         "id": 60050156,
         "alias": "Contents.Skill.requirementDesc.LongBow.5200",
         "text": "소울 패링 기절 대상"
+    },
+    "60050157": {
+        "deprecated": false,
+        "Dev_Desc": "명사수_버프_이름",
+        "id": 60050157,
+        "alias": "Contents.Effect.Name.LongBow.591000",
+        "text": "명사수"
+    },
+    "60050158": {
+        "deprecated": false,
+        "Dev_Desc": "명사수_버프_설명",
+        "id": 60050158,
+        "alias": "Contents.Effect.Desc.LongBow.591000",
+        "text": "활 공격력 증가"
+    },
+    "60050159": {
+        "deprecated": false,
+        "Dev_Desc": "명사수_버프_효과",
+        "id": 60050159,
+        "alias": "Contents.Effect.Option.LongBow.591000",
+        "text": "활 공격력 +1"
+    },
+    "60050160": {
+        "deprecated": false,
+        "Dev_Desc": "명사수_버프_효과",
+        "id": 60050160,
+        "alias": "Contents.Effect.Option.LongBow.591001",
+        "text": "활 공격력 +2"
+    },
+    "60050161": {
+        "deprecated": false,
+        "Dev_Desc": "명사수_버프_효과",
+        "id": 60050161,
+        "alias": "Contents.Effect.Option.LongBow.591002",
+        "text": "활 공격력 +3"
+    },
+    "60050162": {
+        "deprecated": false,
+        "Dev_Desc": "명사수_버프_효과",
+        "id": 60050162,
+        "alias": "Contents.Effect.Option.LongBow.591003",
+        "text": "활 공격력 +4"
+    },
+    "60050163": {
+        "deprecated": false,
+        "Dev_Desc": "명사수_버프_효과",
+        "id": 60050163,
+        "alias": "Contents.Effect.Option.LongBow.591004",
+        "text": "활 공격력 +5"
+    },
+    "60050164": {
+        "deprecated": false,
+        "Dev_Desc": "명사수_버프_효과",
+        "id": 60050164,
+        "alias": "Contents.Effect.Option.LongBow.591005",
+        "text": "활 공격력 +6"
+    },
+    "60050165": {
+        "deprecated": false,
+        "Dev_Desc": "명사수_버프_효과",
+        "id": 60050165,
+        "alias": "Contents.Effect.Option.LongBow.591006",
+        "text": "활 공격력 +7"
+    },
+    "60050166": {
+        "deprecated": false,
+        "Dev_Desc": "명사수_버프_효과",
+        "id": 60050166,
+        "alias": "Contents.Effect.Option.LongBow.591007",
+        "text": "활 공격력 +8"
+    },
+    "60050167": {
+        "deprecated": false,
+        "Dev_Desc": "명사수_버프_효과",
+        "id": 60050167,
+        "alias": "Contents.Effect.Option.LongBow.591008",
+        "text": "활 공격력 +9"
+    },
+    "60050168": {
+        "deprecated": false,
+        "Dev_Desc": "명사수_버프_효과",
+        "id": 60050168,
+        "alias": "Contents.Effect.Option.LongBow.591009",
+        "text": "활 공격력 +10"
+    },
+    "60050169": {
+        "deprecated": false,
+        "Dev_Desc": "명사수_버프_효과",
+        "id": 60050169,
+        "alias": "Contents.Effect.Option.LongBow.591010",
+        "text": "활 공격력 +11"
+    },
+    "60050170": {
+        "deprecated": false,
+        "Dev_Desc": "명사수_버프_효과",
+        "id": 60050170,
+        "alias": "Contents.Effect.Option.LongBow.591011",
+        "text": "활 공격력 +12"
+    },
+    "60050171": {
+        "deprecated": false,
+        "Dev_Desc": "명사수_버프_설명",
+        "id": 60050171,
+        "alias": "Contents.Effect.Detail.LongBow.590100",
+        "text": "\"명사수\"는 최대 12회까지 중첩"
+    },
+    "60050172": {
+        "deprecated": false,
+        "Dev_Desc": "신규패시브_스킬이름",
+        "id": 60050172,
+        "alias": "Contents.Skill.name.LongBow.5930",
+        "text": "궁술운용"
+    },
+    "60050173": {
+        "deprecated": false,
+        "Dev_Desc": "신규패시브_설명",
+        "id": 60050173,
+        "alias": "Contents.Skill.Desc.LongBow.5930",
+        "text": "다중사격 치명타 시 활 공격력을 증가시키는 <textColor=[136:161:235:255]>명사수</> 효과를 2초간 적용받습니다.\n최대 12회까지 중첩됩니다."
+    },
+    "60050174": {
+        "deprecated": false,
+        "Dev_Desc": "신규패시브_효과",
+        "id": 60050174,
+        "alias": "Contents.Skill.UseEffect.LongBow.5930",
+        "text": "활 공격력 +1"
     }
 }

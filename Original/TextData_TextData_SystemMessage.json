@@ -7619,5 +7619,54 @@
         "id": 9001150,
         "alias": "SysM.Lobby.NotIncludeChar",
         "text": "영어 혹은 한글이 반드시 1자 이상 포함되어야 합니다."
+    },
+    "9001151": {
+        "deprecated": false,
+        "Dev_Desc": "루팅 / 권한포기 / 토스트메시지 / 포기성공",
+        "id": 9001151,
+        "alias": "SysM.Looting.MsgT.Yield.Position",
+        "text": "우선 습득 권한을 포기하였습니다. "
+    },
+    "9001152": {
+        "deprecated": false,
+        "Dev_Desc": "루팅 / 권한포기 / 토스트메시지 / 거리실패",
+        "id": 9001152,
+        "alias": "SysM.Looting.MsgT.Fail.Distance",
+        "text": "너무 멀리 떨어져 있습니다."
+    },
+    "9001153": {
+        "deprecated": false,
+        "Dev_Desc": "루팅 / 권한포기 / 토스트메시지 / 이미 포기한 후 재포기",
+        "id": 9001153,
+        "alias": "SysM.Looting.MsgT.Error.Retry",
+        "text": "포기할 권한이 남아있지 않습니다."
+    },
+    "9001154": {
+        "deprecated": false,
+        "Dev_Desc": "귀환의 돌 / 캐스팅 도중 다시 사용",
+        "id": 9001154,
+        "alias": "SysM.HUD.Teleport.Already",
+        "text": "이미 사용 중입니다."
+    },
+    "9001155": {
+        "deprecated": false,
+        "Dev_Desc": "귀환의 돌 / 이동 중 사용",
+        "id": 9001155,
+        "alias": "SysM.HUD.Teleport.CantUse",
+        "text": "이동 중에는 사용할 수 없습니다."
+    },
+    "9001156": {
+        "deprecated": false,
+        "Dev_Desc": "귀환의 돌 / 캐스팅 도중 아이템 파괴",
+        "id": 9001156,
+        "alias": "SysM.HUD.Teleport.LackItem",
+        "text": "귀환에 실패하였습니다."
+    },
+    "9001157": {
+        "deprecated": false,
+        "Dev_Desc": "소울 패스 / 활성화 / 아이템 부족",
+        "id": 9001157,
+        "alias": "SysM.SoulPass.Activate.LackItem",
+        "text": "<arg p=[1:string]/><ga/> 부족하여 활성화할 수 없습니다."
     }
 }

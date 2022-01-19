@@ -307,6 +307,20 @@
         "alias": "Contents.Skill.Desc.RitualBell.7281",
         "text": "항마의 기운을 음에 담아냅니다."
     },
+    "60070044": {
+        "deprecated": false,
+        "Dev_Desc": "예음",
+        "id": 60070044,
+        "alias": "Contents.Skill.Name.RitualBell.7291",
+        "text": "예음"
+    },
+    "60070045": {
+        "deprecated": false,
+        "Dev_Desc": "예음",
+        "id": 60070045,
+        "alias": "Contents.Skill.Desc.RitualBell.7291",
+        "text": "예리한 기운을 음에 담아냅니다."
+    },
     "60070100": {
         "deprecated": false,
         "Dev_Desc": "생령합일_증폭_설명",
@@ -702,6 +716,13 @@
         "id": 60070227,
         "alias": "Contents.Skill.UseEffect.RitualBell.7281",
         "text": "PVE 공격력 +10, 보스 공격력 +5"
+    },
+    "60070228": {
+        "deprecated": false,
+        "Dev_Desc": "예음_효과",
+        "id": 60070228,
+        "alias": "Contents.Skill.UseEffect.RitualBell.7291",
+        "text": "PVE 관통력 +5, 보스 관통력 +5"
     },
     "60070300": {
         "deprecated": false,

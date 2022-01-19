@@ -43,451 +43,472 @@
     },
     "60010006": {
         "deprecated": false,
-        "Dev_Desc": "일섬",
+        "Dev_Desc": "검사_어검버프",
         "id": 60010006,
-        "alias": "Contents.Skill.Name.LongSword.1011",
+        "alias": "Contents.Effect.Name.LongSword.111201",
         "text": "First Step"
     },
     "60010007": {
         "deprecated": false,
-        "Dev_Desc": "일섬",
+        "Dev_Desc": "검사_어검버프",
         "id": 60010007,
-        "alias": "Contents.Skill.Desc.LongSword.1011",
-        "text": "빠르게 이동하며 연속으로 피해를 입힙니다.\n일정 확률로 <textColor=[248:99:99:255]>경직</> 효과를 부여합니다."
+        "alias": "Contents.Effect.Desc.LongSword.111201",
+        "text": "보스 공격력 증가"
     },
     "60010008": {
         "deprecated": false,
-        "Dev_Desc": "일섬",
+        "Dev_Desc": "검사_어검버프",
         "id": 60010008,
-        "alias": "Contents.Skill.useEffect.LongSword.1011",
-        "text": "경직"
+        "alias": "Contents.Effect.Option.LongSword.111201",
+        "text": "보스 공격력 +5"
     },
     "60010009": {
         "deprecated": false,
-        "Dev_Desc": "일섬_증폭",
+        "Dev_Desc": "일섬",
         "id": 60010009,
-        "alias": "Contents.Skill.Acquire.LongSword.1013",
-        "text": "피해량 증가"
+        "alias": "Contents.Skill.Name.LongSword.1011",
+        "text": "일섬"
     },
     "60010010": {
         "deprecated": false,
-        "Dev_Desc": "일섬_극한",
+        "Dev_Desc": "일섬",
         "id": 60010010,
-        "alias": "Contents.Skill.Acquire.LongSword.1015",
+        "alias": "Contents.Skill.Desc.LongSword.1011",
         "text": "Rapidly moves to deal damage consecutively.\nHas a chance to inflict Petrify."
     },
     "60010011": {
         "deprecated": false,
-        "Dev_Desc": "일섬_돌파",
+        "Dev_Desc": "일섬",
         "id": 60010011,
-        "alias": "Contents.Skill.Acquire.LongSword.1016",
-        "text": "<textColor=[248:99:99:255]>어검징표</> 대상 사용 거리, 피해량 증가"
+        "alias": "Contents.Skill.useEffect.LongSword.1011",
+        "text": "경직"
     },
     "60010012": {
         "deprecated": false,
-        "Dev_Desc": "찔러베기",
+        "Dev_Desc": "일섬_증폭",
         "id": 60010012,
-        "alias": "Contents.Skill.Name.LongSword.1051",
-        "text": "찔러베기"
+        "alias": "Contents.Skill.Acquire.LongSword.1013",
+        "text": "피해량 증가"
     },
     "60010013": {
         "deprecated": false,
-        "Dev_Desc": "찔러베기",
+        "Dev_Desc": "일섬_극한",
         "id": 60010013,
-        "alias": "Contents.Skill.Desc.LongSword.1051",
-        "text": "빠르게 찌르고 베어 연속으로 피해를 입힙니다."
+        "alias": "Contents.Skill.Acquire.LongSword.1015",
+        "text": "일정 확률로 막기를 관통하여 <textColor=[248:99:99:255]>기절</> 효과 적용"
     },
     "60010014": {
         "deprecated": false,
-        "Dev_Desc": "찔러베기_증폭",
+        "Dev_Desc": "일섬_돌파",
         "id": 60010014,
-        "alias": "Contents.Skill.Acquire.LongSword.1051_2",
-        "text": "내력 소모량 -1"
+        "alias": "Contents.Skill.Acquire.LongSword.1016",
+        "text": "<textColor=[248:99:99:255]>어검징표</> 대상 사용 거리, 피해량 증가"
     },
     "60010015": {
         "deprecated": false,
-        "Dev_Desc": "찔러베기_극한",
+        "Dev_Desc": "찔러베기",
         "id": 60010015,
-        "alias": "Contents.Skill.Acquire.LongSword.1051_3",
-        "text": "재사용 대기시간 -2초"
+        "alias": "Contents.Skill.Name.LongSword.1051",
+        "text": "찔러베기"
     },
     "60010016": {
         "deprecated": false,
-        "Dev_Desc": "찔러베기_돌파",
+        "Dev_Desc": "찔러베기",
         "id": 60010016,
-        "alias": "Contents.Skill.Acquire.LongSword.1051_4",
+        "alias": "Contents.Skill.Desc.LongSword.1051",
         "text": "Petrify"
     },
     "60010017": {
         "deprecated": false,
-        "Dev_Desc": "찌르기",
+        "Dev_Desc": "찔러베기_증폭",
         "id": 60010017,
-        "alias": "Contents.Skill.Name.LongSword.1061",
+        "alias": "Contents.Skill.Acquire.LongSword.1051_2",
         "text": "Extra Block Piercing"
     },
     "60010018": {
         "deprecated": false,
-        "Dev_Desc": "찌르기",
+        "Dev_Desc": "찔러베기_극한",
         "id": 60010018,
-        "alias": "Contents.Skill.Desc.LongSword.1061",
+        "alias": "Contents.Skill.Acquire.LongSword.1051_3",
         "text": "Consecutive use on every hit"
     },
     "60010019": {
         "deprecated": false,
-        "Dev_Desc": "찌르기",
+        "Dev_Desc": "찔러베기_돌파",
         "id": 60010019,
-        "alias": "Contents.Skill.Require.LongSword.1061",
+        "alias": "Contents.Skill.Acquire.LongSword.1051_4",
         "text": "Increases the range and damage on an enemy afflicted with Soul Stab."
     },
     "60010020": {
         "deprecated": false,
-        "Dev_Desc": "찌르기_증폭",
+        "Dev_Desc": "찌르기",
         "id": 60010020,
-        "alias": "Contents.Skill.Acquire.LongSword.1062",
+        "alias": "Contents.Skill.Name.LongSword.1061",
         "text": "Dashing Slash"
     },
     "60010021": {
         "deprecated": false,
-        "Dev_Desc": "찌르기_극한",
+        "Dev_Desc": "찌르기",
         "id": 60010021,
-        "alias": "Contents.Skill.Acquire.LongSword.1063",
-        "text": "\"2회 찌르기\"로 변경"
+        "alias": "Contents.Skill.Desc.LongSword.1061",
+        "text": "적을 찔러 피해를 입힙니다.\n공격 무공 후 연계하여 사용할 수 있습니다."
     },
     "60010022": {
         "deprecated": false,
-        "Dev_Desc": "찌르기_돌파",
+        "Dev_Desc": "찌르기",
         "id": 60010022,
-        "alias": "Contents.Skill.Acquire.LongSword.1065",
-        "text": "\"3회 찌르기\"로 변경"
+        "alias": "Contents.Skill.Require.LongSword.1061",
+        "text": "공격 무공 사용 후"
     },
     "60010023": {
         "deprecated": false,
-        "Dev_Desc": "올려베기",
+        "Dev_Desc": "찌르기_증폭",
         "id": 60010023,
-        "alias": "Contents.Skill.Name.LongSword.1021",
-        "text": "올려베기"
+        "alias": "Contents.Skill.Acquire.LongSword.1062",
+        "text": "내력 소모량 -2"
     },
     "60010024": {
         "deprecated": false,
-        "Dev_Desc": "올려베기",
+        "Dev_Desc": "찌르기_극한",
         "id": 60010024,
-        "alias": "Contents.Skill.Desc.LongSword.1021",
+        "alias": "Contents.Skill.Acquire.LongSword.1063",
         "text": "Quickly stabs and slashes to deal multiple attacks."
     },
     "60010025": {
         "deprecated": false,
-        "Dev_Desc": "올려베기",
+        "Dev_Desc": "찌르기_돌파",
         "id": 60010025,
-        "alias": "Contents.Skill.useEffect.LongSword.1021",
-        "text": "공중, 기절"
+        "alias": "Contents.Skill.Acquire.LongSword.1065",
+        "text": "\"3회 찌르기\"로 변경"
     },
     "60010026": {
         "deprecated": false,
-        "Dev_Desc": "올려베기_증폭",
+        "Dev_Desc": "올려베기",
         "id": 60010026,
-        "alias": "Contents.Skill.Acquire.LongSword.1022",
-        "text": "재사용 대기시간 -2초"
+        "alias": "Contents.Skill.Name.LongSword.1021",
+        "text": "올려베기"
     },
     "60010027": {
         "deprecated": false,
-        "Dev_Desc": "올려베기_극한",
+        "Dev_Desc": "올려베기",
         "id": 60010027,
-        "alias": "Contents.Skill.Acquire.LongSword.1031",
-        "text": "<textColor=[248:99:99:255]>공중</> 상태의 적에게 추가 연계 공격"
+        "alias": "Contents.Skill.Desc.LongSword.1021",
+        "text": "검을 위로 강하게 휘둘러 공격합니다.\n일정 확률로 <textColor=[248:99:99:255]>공중</> 효과를 부여합니다."
     },
     "60010028": {
         "deprecated": false,
-        "Dev_Desc": "올려베기_돌파",
+        "Dev_Desc": "올려베기",
         "id": 60010028,
-        "alias": "Contents.Skill.Acquire.LongSword.1034",
-        "text": "연계 공격 이후 추가 마무리 공격"
+        "alias": "Contents.Skill.useEffect.LongSword.1021",
+        "text": "공중"
     },
     "60010029": {
         "deprecated": false,
-        "Dev_Desc": "뛰어베기",
+        "Dev_Desc": "올려베기_증폭",
         "id": 60010029,
-        "alias": "Contents.Skill.Name.LongSword.1056",
-        "text": "뛰어베기"
+        "alias": "Contents.Skill.Acquire.LongSword.1022",
+        "text": "재사용 대기시간 -2초"
     },
     "60010030": {
         "deprecated": false,
-        "Dev_Desc": "뛰어베기",
+        "Dev_Desc": "올려베기_극한",
         "id": 60010030,
-        "alias": "Contents.Skill.Desc.LongSword.1056",
-        "text": "적에게 뛰어들어 피해를 입힙니다.\n일정 확률로 <textColor=[248:99:99:255]>경직</> 효과를 부여합니다."
+        "alias": "Contents.Skill.Acquire.LongSword.1031",
+        "text": "<textColor=[248:99:99:255]>공중</> 상태의 적에게 추가 연계 공격"
     },
     "60010031": {
         "deprecated": false,
-        "Dev_Desc": "뛰어베기",
+        "Dev_Desc": "올려베기_돌파",
         "id": 60010031,
-        "alias": "Contents.Skill.useEffect.LongSword.1056",
+        "alias": "Contents.Skill.Acquire.LongSword.1034",
         "text": "Damage ▲"
     },
     "60010032": {
         "deprecated": false,
-        "Dev_Desc": "뛰어베기_증폭",
+        "Dev_Desc": "뛰어베기",
         "id": 60010032,
-        "alias": "Contents.Skill.Acquire.LongSword.1056_2",
+        "alias": "Contents.Skill.Name.LongSword.1056",
         "text": "Cooldown ▼"
     },
     "60010033": {
         "deprecated": false,
-        "Dev_Desc": "뛰어베기_극한",
+        "Dev_Desc": "뛰어베기",
         "id": 60010033,
-        "alias": "Contents.Skill.Acquire.LongSword.1056_3",
+        "alias": "Contents.Skill.Desc.LongSword.1056",
         "text": "Focus cost ▼"
     },
     "60010034": {
         "deprecated": false,
-        "Dev_Desc": "뛰어베기_돌파",
+        "Dev_Desc": "뛰어베기",
         "id": 60010034,
-        "alias": "Contents.Skill.Acquire.LongSword.1056_4",
+        "alias": "Contents.Skill.useEffect.LongSword.1056",
         "text": "Stab"
     },
     "60010035": {
         "deprecated": false,
-        "Dev_Desc": "천지가르기",
+        "Dev_Desc": "뛰어베기_증폭",
         "id": 60010035,
-        "alias": "Contents.Skill.Name.LongSword.1076",
-        "text": "천지가르기"
+        "alias": "Contents.Skill.Acquire.LongSword.1056_2",
+        "text": "내력 소모량 -1"
     },
     "60010036": {
         "deprecated": false,
-        "Dev_Desc": "천지가르기",
+        "Dev_Desc": "뛰어베기_극한",
         "id": 60010036,
-        "alias": "Contents.Skill.Desc.LongSword.1076",
-        "text": "힘을 모아 검을 내리쳐 강력한 피해를 입힙니다.\n<textColor=[248:99:99:255]>공중</>, <textColor=[248:99:99:255]>기절</> 상태인 대상에게 사용합니다."
+        "alias": "Contents.Skill.Acquire.LongSword.1056_3",
+        "text": "피해량 증가\n사용 거리 증가"
     },
     "60010037": {
         "deprecated": false,
-        "Dev_Desc": "천지가르기",
+        "Dev_Desc": "뛰어베기_돌파",
         "id": 60010037,
-        "alias": "Contents.Skill.Require.LongSword.1076",
-        "text": "공중, 기절 대상"
+        "alias": "Contents.Skill.Acquire.LongSword.1056_4",
+        "text": "일정 확률로 \"연속 뛰어베기\" 사용\n몬스터 처치 시 일정 확률로 대기시간 초기화"
     },
     "60010038": {
         "deprecated": false,
-        "Dev_Desc": "천지가르기_증폭",
+        "Dev_Desc": "천지가르기",
         "id": 60010038,
-        "alias": "Contents.Skill.Acquire.LongSword.1076_2",
+        "alias": "Contents.Skill.Name.LongSword.1076",
         "text": "Stabs an enemy to deal damage.\nCan be used in a combo attack after an attack technique."
     },
     "60010039": {
         "deprecated": false,
-        "Dev_Desc": "천지가르기_극한",
+        "Dev_Desc": "천지가르기",
         "id": 60010039,
-        "alias": "Contents.Skill.Acquire.LongSword.1076_3",
-        "text": "\"천지가르기\" 치명률 +30%"
+        "alias": "Contents.Skill.Desc.LongSword.1076",
+        "text": "힘을 모아 검을 내리쳐 강력한 피해를 입힙니다.\n<textColor=[248:99:99:255]>공중</>, <textColor=[248:99:99:255]>기절</> 상태인 대상에게 사용합니다."
     },
     "60010040": {
         "deprecated": false,
-        "Dev_Desc": "천지가르기_돌파",
+        "Dev_Desc": "천지가르기",
         "id": 60010040,
-        "alias": "Contents.Skill.Acquire.LongSword.1076_4",
-        "text": "추가 연계 공격"
+        "alias": "Contents.Skill.Require.LongSword.1076",
+        "text": "공중, 기절 대상"
     },
     "60010041": {
         "deprecated": false,
-        "Dev_Desc": "막기",
+        "Dev_Desc": "천지가르기_증폭",
         "id": 60010041,
-        "alias": "Contents.Skill.Name.LongSword.1101",
-        "text": "막기"
+        "alias": "Contents.Skill.Acquire.LongSword.1076_2",
+        "text": "피해량 증가"
     },
     "60010042": {
         "deprecated": false,
-        "Dev_Desc": "막기",
+        "Dev_Desc": "천지가르기_극한",
         "id": 60010042,
-        "alias": "Contents.Skill.Desc.LongSword.1101",
-        "text": "3초간 전방의 공격을 방어합니다.\n\"막기\" 중 재사용 시, \"회전베기\"를 사용합니다."
+        "alias": "Contents.Skill.Acquire.LongSword.1076_3",
+        "text": "\"천지가르기\" 치명률 +30%"
     },
     "60010043": {
         "deprecated": false,
-        "Dev_Desc": "막기",
+        "Dev_Desc": "천지가르기_돌파",
         "id": 60010043,
-        "alias": "Contents.Skill.useEffect.LongSword.1101",
-        "text": "방어"
+        "alias": "Contents.Skill.Acquire.LongSword.1076_4",
+        "text": "추가 연계 공격"
     },
     "60010044": {
         "deprecated": false,
-        "Dev_Desc": "막기_증폭",
+        "Dev_Desc": "막기",
         "id": 60010044,
-        "alias": "Contents.Skill.Acquire.LongSword.1101_2",
+        "alias": "Contents.Skill.Name.LongSword.1101",
         "text": "After using an offensive technique"
     },
     "60010045": {
         "deprecated": false,
-        "Dev_Desc": "막기_극한",
+        "Dev_Desc": "막기",
         "id": 60010045,
-        "alias": "Contents.Skill.Acquire.LongSword.1101_3",
+        "alias": "Contents.Skill.Desc.LongSword.1101",
         "text": "Focus cost ▼"
     },
     "60010046": {
         "deprecated": false,
-        "Dev_Desc": "막기_돌파",
+        "Dev_Desc": "막기",
         "id": 60010046,
-        "alias": "Contents.Skill.Acquire.LongSword.1101_4",
+        "alias": "Contents.Skill.useEffect.LongSword.1101",
         "text": "Switches to 2 Stabs"
     },
     "60010047": {
         "deprecated": false,
-        "Dev_Desc": "어검징표",
+        "Dev_Desc": "막기_증폭",
         "id": 60010047,
-        "alias": "Contents.Skill.Name.LongSword.1111",
+        "alias": "Contents.Skill.Acquire.LongSword.1101_2",
         "text": "Switches to 3 Stabs"
     },
     "60010048": {
         "deprecated": false,
-        "Dev_Desc": "어검징표",
+        "Dev_Desc": "막기_극한",
         "id": 60010048,
-        "alias": "Contents.Skill.Desc.LongSword.1111",
+        "alias": "Contents.Skill.Acquire.LongSword.1101_3",
         "text": "Upward Thrust"
     },
     "60010049": {
         "deprecated": false,
-        "Dev_Desc": "어검징표",
+        "Dev_Desc": "막기_돌파",
         "id": 60010049,
-        "alias": "Contents.Skill.useEffect.LongSword.1111",
-        "text": "받는 피해량 증폭 +10%"
+        "alias": "Contents.Skill.Acquire.LongSword.1101_4",
+        "text": "튕기기 발동률 +50%\n튕기기 성공 시, 5초간 통제 적중률 +5%"
     },
     "60010050": {
         "deprecated": false,
-        "Dev_Desc": "어검징표_증",
+        "Dev_Desc": "어검징표",
         "id": 60010050,
-        "alias": "Contents.Skill.useEffect.LongSword.1112",
-        "text": "받는 피해량 증폭 +10%, 기절"
+        "alias": "Contents.Skill.Name.LongSword.1111",
+        "text": "어검징표"
     },
     "60010051": {
         "deprecated": false,
-        "Dev_Desc": "어검징표_증",
+        "Dev_Desc": "어검징표",
         "id": 60010051,
-        "alias": "Contents.Skill.Acquire.LongSword.1112",
-        "text": "내력 소모량 -5"
+        "alias": "Contents.Skill.Desc.LongSword.1111",
+        "text": "적에게 어검을 꽂아 피해를 입힙니다.\n<textColor=[248:99:99:255]>어검징표</> 효과를 부여합니다.\n<textColor=[248:99:99:255]>어검징표</> 중 받는 피해량이 증가합니다."
     },
     "60010052": {
         "deprecated": false,
-        "Dev_Desc": "어검징표_극",
+        "Dev_Desc": "어검징표",
         "id": 60010052,
-        "alias": "Contents.Skill.Acquire.LongSword.1112_3",
+        "alias": "Contents.Skill.useEffect.LongSword.1111",
         "text": "Slashes upward to deal damage\nHas a chance to send the enemy airborne.\nInflicts Stun on impact with the ground."
     },
     "60010053": {
         "deprecated": false,
-        "Dev_Desc": "어검징표_돌",
+        "Dev_Desc": "어검징표_증",
         "id": 60010053,
-        "alias": "Contents.Skill.Acquire.LongSword.1112_4",
-        "text": "일정 확률로 <textColor=[248:99:99:255]>기절</> 효과 적용"
+        "alias": "Contents.Skill.useEffect.LongSword.1112",
+        "text": "받는 피해량 증폭 +10%, 기절"
     },
     "60010054": {
         "deprecated": false,
-        "Dev_Desc": "구름베기",
+        "Dev_Desc": "어검징표_증",
         "id": 60010054,
-        "alias": "Contents.Skill.Name.LongSword.1104",
-        "text": "구름베기"
+        "alias": "Contents.Skill.Acquire.LongSword.1112",
+        "text": "30초간 <textColor=[136:161:235:255]>어검</> 효과\n<textColor=[136:161:235:255]>어검</> 효과 중 보스 공격력 +5"
     },
     "60010055": {
         "deprecated": false,
-        "Dev_Desc": "구름베기",
+        "Dev_Desc": "어검징표_극",
         "id": 60010055,
-        "alias": "Contents.Skill.Desc.LongSword.1104",
-        "text": "연속으로 올려베며 강력한 피해를 입힙니다.\n일정 확률로 <textColor=[248:99:99:255]>공중</> 효과를 부여합니다.\n공중에서 떨어진 후 <textColor=[248:99:99:255]>기절</> 상태가 됩니다.\n<textColor=[248:99:99:255]>공중</>, <textColor=[248:99:99:255]>기절</> 상태인 대상에게 사용합니다."
+        "alias": "Contents.Skill.Acquire.LongSword.1112_3",
+        "text": "사용 거리 증가"
     },
     "60010056": {
         "deprecated": false,
-        "Dev_Desc": "구름베기",
+        "Dev_Desc": "어검징표_돌",
         "id": 60010056,
-        "alias": "Contents.Skill.Require.LongSword.1104",
-        "text": "공중, 기절 대상"
+        "alias": "Contents.Skill.Acquire.LongSword.1112_4",
+        "text": "일정 확률로 <textColor=[248:99:99:255]>기절</> 효과 적용"
     },
     "60010057": {
         "deprecated": false,
         "Dev_Desc": "구름베기",
         "id": 60010057,
-        "alias": "Contents.Skill.useEffect.LongSword.1104",
-        "text": "공중, 기절"
+        "alias": "Contents.Skill.Name.LongSword.1104",
+        "text": "구름베기"
     },
     "60010058": {
         "deprecated": false,
-        "Dev_Desc": "구름베기_증폭",
+        "Dev_Desc": "구름베기",
         "id": 60010058,
-        "alias": "Contents.Skill.Acquire.LongSword.1104_2",
+        "alias": "Contents.Skill.Desc.LongSword.1104",
         "text": "Airborne, Stun"
     },
     "60010059": {
         "deprecated": false,
-        "Dev_Desc": "구름베기_극한",
+        "Dev_Desc": "구름베기",
         "id": 60010059,
-        "alias": "Contents.Skill.Acquire.LongSword.1104_3",
+        "alias": "Contents.Skill.Require.LongSword.1104",
         "text": "Cooldown ▼"
     },
     "60010060": {
         "deprecated": false,
-        "Dev_Desc": "구름베기_돌파",
+        "Dev_Desc": "구름베기",
         "id": 60010060,
-        "alias": "Contents.Skill.Acquire.LongSword.1104_4",
+        "alias": "Contents.Skill.useEffect.LongSword.1104",
         "text": "Additional attack against enemies in \"air\" status"
     },
     "60010061": {
         "deprecated": false,
-        "Dev_Desc": "하늘베기",
+        "Dev_Desc": "구름베기_증폭",
         "id": 60010061,
-        "alias": "Contents.Skill.Name.LongSword.1041",
+        "alias": "Contents.Skill.Acquire.LongSword.1104_2",
         "text": "Additional attack against enemies in \"air\" status"
     },
     "60010062": {
         "deprecated": false,
-        "Dev_Desc": "하늘베기",
+        "Dev_Desc": "구름베기_극한",
         "id": 60010062,
-        "alias": "Contents.Skill.Desc.LongSword.1041",
+        "alias": "Contents.Skill.Acquire.LongSword.1104_3",
         "text": "Jumping Slash"
     },
     "60010063": {
         "deprecated": false,
-        "Dev_Desc": "하늘베기",
+        "Dev_Desc": "구름베기_돌파",
         "id": 60010063,
-        "alias": "Contents.Skill.useEffect.LongSword.1041",
-        "text": "공중, 기절"
+        "alias": "Contents.Skill.Acquire.LongSword.1104_4",
+        "text": "일정 확률로 \"천지가르기\" 대기시간 초기화"
     },
     "60010064": {
         "deprecated": false,
-        "Dev_Desc": "번개베기",
+        "Dev_Desc": "하늘베기",
         "id": 60010064,
-        "alias": "Contents.Skill.Name.LongSword.1102",
-        "text": "번개베기"
+        "alias": "Contents.Skill.Name.LongSword.1041",
+        "text": "하늘베기"
     },
     "60010065": {
         "deprecated": false,
-        "Dev_Desc": "번개베기",
+        "Dev_Desc": "하늘베기",
         "id": 60010065,
-        "alias": "Contents.Skill.Desc.LongSword.1102",
-        "text": "빠르게 검을 휘둘러 피해를 입힙니다.\n일정 확률로 <textColor=[248:99:99:255]>기절</> 효과를 부여합니다."
+        "alias": "Contents.Skill.Desc.LongSword.1041",
+        "text": "적에게 접근하여 최대 3명의 적을 공격합니다.\n사용 중 통제 상태에 면역이 됩니다.\n일정 확률로 <textColor=[248:99:99:255]>공중</> 효과를 부여합니다."
     },
     "60010066": {
         "deprecated": false,
-        "Dev_Desc": "번개베기",
+        "Dev_Desc": "하늘베기",
         "id": 60010066,
-        "alias": "Contents.Skill.useEffect.LongSword.1102",
+        "alias": "Contents.Skill.useEffect.LongSword.1041",
         "text": "Jumps onto an enemy to deal damage.\nHas a chance to inflict Petrify."
     },
     "60010067": {
         "deprecated": false,
-        "Dev_Desc": "번개베기_증폭",
+        "Dev_Desc": "번개베기",
         "id": 60010067,
-        "alias": "Contents.Skill.Acquire.LongSword.1102_2",
-        "text": "피해량 증가"
+        "alias": "Contents.Skill.Name.LongSword.1102",
+        "text": "번개베기"
     },
     "60010068": {
         "deprecated": false,
-        "Dev_Desc": "번개베기_증폭",
+        "Dev_Desc": "번개베기",
         "id": 60010068,
-        "alias": "Contents.Skill.Acquire.LongSword.1102_3",
-        "text": "일정 확률로 \"일섬\" 대기시간 초기화"
+        "alias": "Contents.Skill.Desc.LongSword.1102",
+        "text": "빠르게 검을 휘둘러 피해를 입힙니다.\n일정 확률로 <textColor=[248:99:99:255]>기절</> 효과를 부여합니다."
     },
     "60010069": {
         "deprecated": false,
-        "Dev_Desc": "번개베기_증폭",
+        "Dev_Desc": "번개베기",
         "id": 60010069,
+        "alias": "Contents.Skill.useEffect.LongSword.1102",
+        "text": "기절"
+    },
+    "60010070": {
+        "deprecated": false,
+        "Dev_Desc": "번개베기_증폭",
+        "id": 60010070,
+        "alias": "Contents.Skill.Acquire.LongSword.1102_2",
+        "text": "피해량 증가"
+    },
+    "60010071": {
+        "deprecated": false,
+        "Dev_Desc": "번개베기_증폭",
+        "id": 60010071,
+        "alias": "Contents.Skill.Acquire.LongSword.1102_3",
+        "text": "일정 확률로 \"일섬\" 대기시간 초기화"
+    },
+    "60010072": {
+        "deprecated": false,
+        "Dev_Desc": "번개베기_증폭",
+        "id": 60010072,
         "alias": "Contents.Skill.Acquire.LongSword.1102_4",
-        "text": "<textColor=[248:99:99:255]>기절</> 상태의 적에게 추가 공격"
+        "text": "Petrify"
     },
     "60010073": {
         "deprecated": false,
@@ -803,5 +824,19 @@
         "id": 60010117,
         "alias": "Contents.Skill.Desc.LongSword.1809",
         "text": "Airborne, Stun"
+    },
+    "60010118": {
+        "deprecated": false,
+        "Dev_Desc": "연계강화II",
+        "id": 60010118,
+        "alias": "Contents.Skill.Name.LongSword.1810",
+        "text": "검술연계Ⅱ"
+    },
+    "60010119": {
+        "deprecated": false,
+        "Dev_Desc": "연계강화II",
+        "id": 60010119,
+        "alias": "Contents.Skill.Desc.LongSword.1810",
+        "text": "Cooldown ▼"
     }
 }

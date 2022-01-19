@@ -1183,16 +1183,30 @@
     },
     "60040173": {
         "deprecated": false,
-        "Dev_Desc": "강공",
+        "Dev_Desc": "부술연계1",
         "id": 60040173,
         "alias": "Contents.Skill.Name.GreatAxe.4809",
         "text": "Association with Smite I"
     },
     "60040174": {
         "deprecated": false,
-        "Dev_Desc": "강공",
+        "Dev_Desc": "부술연계1",
         "id": 60040174,
         "alias": "Contents.Skill.Desc.GreatAxe.4809",
         "text": "When attacking boss monsters, there is a chance to activate Extermination."
+    },
+    "60040175": {
+        "deprecated": false,
+        "Dev_Desc": "부술연계2",
+        "id": 60040175,
+        "alias": "Contents.Skill.Name.GreatAxe.4810",
+        "text": "Cunning Link II"
+    },
+    "60040176": {
+        "deprecated": false,
+        "Dev_Desc": "부술연계2",
+        "id": 60040176,
+        "alias": "Contents.Skill.Desc.GreatAxe.4810",
+        "text": "When attacking a boss monster with a Flame [Breakthrough] attack, it will perform a confirmed combo attack."
     }
 }

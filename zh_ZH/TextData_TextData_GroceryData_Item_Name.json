@@ -716,7 +716,7 @@
     "89002245": {
         "deprecated": false,
         "id": 89002245,
-        "alias": "Contents.Item.Name.9200468",
+        "alias": "Contents.Event.Item.Name.9200468",
         "text": "稀有制作秘法书碎片（刻印）"
     },
     "89002246": {
@@ -740,7 +740,7 @@
     "89002249": {
         "deprecated": false,
         "id": 89002249,
-        "alias": "Contents.Item.Name.9200472",
+        "alias": "Contents.Event.Item.Name.9200472",
         "text": "英雄制作秘法书碎片（刻印）"
     },
     "89002250": {
@@ -764,7 +764,7 @@
     "89002253": {
         "deprecated": false,
         "id": 89002253,
-        "alias": "Contents.Item.Name.9200476",
+        "alias": "Contents.Event.Item.Name.9200476",
         "text": "传说制作秘法书碎片（刻印）"
     },
     "89002254": {
@@ -788,7 +788,7 @@
     "89002257": {
         "deprecated": false,
         "id": 89002257,
-        "alias": "Contents.Item.Name.9200480",
+        "alias": "Contents.Event.Item.Name.9200480",
         "text": "深渊制作秘法书碎片（刻印）"
     },
     "89002258": {
@@ -824,19 +824,19 @@
     "89002283": {
         "deprecated": false,
         "id": 89002283,
-        "alias": "Contents.Item.Name.9200452",
+        "alias": "Contents.Event.Item.Name.9200452",
         "text": "稀有制作秘法书（刻印）"
     },
     "89002284": {
         "deprecated": false,
         "id": 89002284,
-        "alias": "Contents.Item.Name.9200453",
+        "alias": "Contents.Event.Item.Name.9200453",
         "text": "英雄制作秘法书（刻印）"
     },
     "89002285": {
         "deprecated": false,
         "id": 89002285,
-        "alias": "Contents.Item.Name.9200454",
+        "alias": "Contents.Event.Item.Name.9200454",
         "text": "传说制作秘法书（刻印）"
     },
     "89002287": {
@@ -860,7 +860,7 @@
     "89002290": {
         "deprecated": false,
         "id": 89002290,
-        "alias": "Contents.Item.Name.9200459",
+        "alias": "Contents.Event.Item.Name.9200459",
         "text": "深渊武器制作秘法书（刻印）"
     },
     "89002291": {
@@ -884,7 +884,7 @@
     "89002294": {
         "deprecated": false,
         "id": 89002294,
-        "alias": "Contents.Item.Name.9200463",
+        "alias": "Contents.Event.Item.Name.9200463",
         "text": "深渊防具制作秘法书（刻印）"
     },
     "89002295": {
@@ -908,7 +908,7 @@
     "89002298": {
         "deprecated": false,
         "id": 89002298,
-        "alias": "Contents.Item.Name.9200467",
+        "alias": "Contents.Event.Item.Name.9200467",
         "text": "深渊饰品制作秘法书（刻印）"
     },
     "89002299": {
@@ -6638,7 +6638,7 @@
     "89003900": {
         "deprecated": false,
         "id": 89003900,
-        "alias": "Contents.Item.Name.9202095",
+        "alias": "Contents.Event.Item.Name.9202095",
         "text": "光辉灵石碎片（刻印）"
     },
     "89003901": {
@@ -8224,5 +8224,149 @@
         "id": 89004167,
         "alias": "Contents.Item.Name.9901303",
         "text": "海龙之魂4包"
+    },
+    "89004168": {
+        "deprecated": false,
+        "id": 89004168,
+        "alias": "Contents.Item.Name.9901304",
+        "text": "充电石：天堂地牢（1次）（刻版）"
+    },
+    "89004169": {
+        "deprecated": false,
+        "id": 89004169,
+        "alias": "Contents.Item.Name.9901305",
+        "text": "充电石：Konyacha的试炼地下城（1次）（雕刻）"
+    },
+    "89004170": {
+        "deprecated": false,
+        "id": 89004170,
+        "alias": "Contents.Item.Name.9901306",
+        "text": "充电石：天堂地牢的试炼地牢（练习）（1次）（雕刻）"
+    },
+    "89004171": {
+        "deprecated": false,
+        "id": 89004171,
+        "alias": "Contents.Item.Name.9901307",
+        "text": "冲锋之石：蒟蒻的试炼地下城（练习）（1次）（雕刻）"
+    },
+    "89004172": {
+        "deprecated": false,
+        "id": 89004172,
+        "alias": "Contents.Item.Name.9901308",
+        "text": "合作完成牌匾（刻）"
+    },
+    "89004173": {
+        "deprecated": false,
+        "id": 89004173,
+        "alias": "Contents.Item.Name.9901309",
+        "text": "高级合作完成牌匾（刻）"
+    },
+    "89004174": {
+        "deprecated": false,
+        "id": 89004174,
+        "alias": "Contents.Item.Name.9901310",
+        "text": "Gonyacha 的灵石盒（刻）"
+    },
+    "89004175": {
+        "deprecated": false,
+        "id": 89004175,
+        "alias": "Contents.Item.Name.9901311",
+        "text": "洛源大城的灵石盒（刻）"
+    },
+    "89004176": {
+        "deprecated": false,
+        "id": 89004176,
+        "alias": "Contents.Item.Name.9901312",
+        "text": "试炼地下城充电石盒（刻）"
+    },
+    "89004177": {
+        "deprecated": false,
+        "id": 89004177,
+        "alias": "Contents.Item.Name.9901313",
+        "text": "试炼副本充能石选择箱（刻）"
+    },
+    "89004178": {
+        "deprecated": false,
+        "id": 89004178,
+        "alias": "Contents.Item.Name.9901314",
+        "text": "高级试炼地下城充电石选择箱（刻）"
+    },
+    "89004179": {
+        "deprecated": false,
+        "id": 89004179,
+        "alias": "Contents.Item.Name.9901315",
+        "text": "高级历史单环（刻）"
+    },
+    "89004180": {
+        "deprecated": false,
+        "id": 89004180,
+        "alias": "Contents.Item.Name.9901316",
+        "text": "Vandal Lake Co-op 支持箱（雕刻）"
+    },
+    "89004181": {
+        "deprecated": false,
+        "id": 89004181,
+        "alias": "Contents.Item.Name.9901317",
+        "text": "Taerokrim 合作支持箱（刻）"
+    },
+    "89004182": {
+        "deprecated": false,
+        "id": 89004182,
+        "alias": "Contents.Item.Name.9901318",
+        "text": "沃土合作支持箱（刻）"
+    },
+    "89004183": {
+        "deprecated": false,
+        "id": 89004183,
+        "alias": "Contents.Item.Name.9901319",
+        "text": "海龙山合作支援箱（刻）"
+    },
+    "89004184": {
+        "deprecated": false,
+        "id": 89004184,
+        "alias": "Contents.Event.Item.Name.9901327",
+        "text": "小魂屏：幽灵"
+    },
+    "89004185": {
+        "deprecated": false,
+        "id": 89004185,
+        "alias": "Contents.Item.Name.9901320",
+        "text": "华丽的水墨画灵魂召唤卷轴（1次）"
+    },
+    "89004186": {
+        "deprecated": false,
+        "id": 89004186,
+        "alias": "Contents.Item.Name.9901321",
+        "text": "华美水墨招魂书（11次）"
+    },
+    "89004187": {
+        "deprecated": false,
+        "id": 89004187,
+        "alias": "Contents.Item.Name.9901322",
+        "text": "闪耀水墨魂召唤卷轴（11次）"
+    },
+    "89004188": {
+        "deprecated": false,
+        "id": 89004188,
+        "alias": "Contents.Item.Name.9901323",
+        "text": "光彩画魂卷（1次）"
+    },
+    "89004189": {
+        "deprecated": false,
+        "id": 89004189,
+        "alias": "Contents.Item.Name.9901324",
+        "text": "水墨英雄魂选箱"
+    },
+    "89004190": {
+        "deprecated": false,
+        "id": 89004190,
+        "alias": "Contents.Item.Name.9901325",
+        "text": "玉然魂召唤卷（1次）（刻）"
+    },
+    "89004191": {
+        "deprecated": false,
+        "id": 89004191,
+        "alias": "Contents.Item.Name.9901326",
+        "text": "巨地风魂召唤卷轴（1次）（刻）"
     }
 }

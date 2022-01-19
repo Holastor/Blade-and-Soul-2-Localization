@@ -1183,16 +1183,30 @@
     },
     "60040173": {
         "deprecated": false,
-        "Dev_Desc": "강공",
+        "Dev_Desc": "부술연계1",
         "id": 60040173,
         "alias": "Contents.Skill.Name.GreatAxe.4809",
         "text": "부술연계Ⅰ"
     },
     "60040174": {
         "deprecated": false,
-        "Dev_Desc": "강공",
+        "Dev_Desc": "부술연계1",
         "id": 60040174,
         "alias": "Contents.Skill.Desc.GreatAxe.4809",
-        "text": "보스 몬스터 공격 시 일정 확률로 \"처단\"이 활성화됩니다.\n(사용 무공 활성화 대기시간 15초)"
+        "text": "보스 몬스터 공격 시 \"처단\"이 활성화됩니다.\n(사용 무공 활성화 대기시간 18초)"
+    },
+    "60040175": {
+        "deprecated": false,
+        "Dev_Desc": "부술연계2",
+        "id": 60040175,
+        "alias": "Contents.Skill.Name.GreatAxe.4810",
+        "text": "부술연계Ⅱ"
+    },
+    "60040176": {
+        "deprecated": false,
+        "Dev_Desc": "부술연계2",
+        "id": 60040176,
+        "alias": "Contents.Skill.Desc.GreatAxe.4810",
+        "text": "보스 몬스터에게 \"선풍[돌파]\" 공격 시 확정 연계 공격을 합니다."
     }
 }

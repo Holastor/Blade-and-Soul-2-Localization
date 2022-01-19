@@ -7619,5 +7619,54 @@
         "id": 9001150,
         "alias": "SysM.Lobby.NotIncludeChar",
         "text": "It must contain at least one English or Korean character."
+    },
+    "9001151": {
+        "deprecated": false,
+        "Dev_Desc": "루팅 / 권한포기 / 토스트메시지 / 포기성공",
+        "id": 9001151,
+        "alias": "SysM.Looting.MsgT.Yield.Position",
+        "text": "First of all, I have given up the right to acquire."
+    },
+    "9001152": {
+        "deprecated": false,
+        "Dev_Desc": "루팅 / 권한포기 / 토스트메시지 / 거리실패",
+        "id": 9001152,
+        "alias": "SysM.Looting.MsgT.Fail.Distance",
+        "text": "It's too far away."
+    },
+    "9001153": {
+        "deprecated": false,
+        "Dev_Desc": "루팅 / 권한포기 / 토스트메시지 / 이미 포기한 후 재포기",
+        "id": 9001153,
+        "alias": "SysM.Looting.MsgT.Error.Retry",
+        "text": "No rights left to give up."
+    },
+    "9001154": {
+        "deprecated": false,
+        "Dev_Desc": "귀환의 돌 / 캐스팅 도중 다시 사용",
+        "id": 9001154,
+        "alias": "SysM.HUD.Teleport.Already",
+        "text": "Already in use."
+    },
+    "9001155": {
+        "deprecated": false,
+        "Dev_Desc": "귀환의 돌 / 이동 중 사용",
+        "id": 9001155,
+        "alias": "SysM.HUD.Teleport.CantUse",
+        "text": "Cannot be used while on the move."
+    },
+    "9001156": {
+        "deprecated": false,
+        "Dev_Desc": "귀환의 돌 / 캐스팅 도중 아이템 파괴",
+        "id": 9001156,
+        "alias": "SysM.HUD.Teleport.LackItem",
+        "text": "Return failed."
+    },
+    "9001157": {
+        "deprecated": false,
+        "Dev_Desc": "소울 패스 / 활성화 / 아이템 부족",
+        "id": 9001157,
+        "alias": "SysM.SoulPass.Activate.LackItem",
+        "text": "Not enough <arg p=[1:string]/><ga/> to activate."
     }
 }

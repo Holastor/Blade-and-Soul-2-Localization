@@ -14228,7 +14228,7 @@
         "Dev_Desc": "캐시상점 / 미션 상품/ 갱신 시간 텍스트",
         "id": 8002107,
         "alias": "UI.CashShop.SerialGoods.RefreshTime",
-        "text": "판매 종료까지 <arg p=[1:string]/>\n[서버 당 1회 구매 제한]"
+        "text": "판매 종료까지 <arg p=[1:string]/>\n[서버당 1회 구매 제한]"
     },
     "8002108": {
         "deprecated": false,
@@ -23681,7 +23681,7 @@
         "Dev_Desc": "캐시상점 / 메인탭 / 금화 & 주화",
         "id": 8003464,
         "alias": "UI.CashShop.TapName.Main.GC",
-        "text": "금화 & 주화"
+        "text": "금화&주화"
     },
     "8003465": {
         "deprecated": false,
@@ -24281,7 +24281,7 @@
         "Dev_Desc": "프로모션 제작 레시피 탭 / 해룡의 정기",
         "id": 8003550,
         "alias": "UI.Craft.LeftSubTabName.Limited.SeaSerpent_01",
-        "text": "특별 제작"
+        "text": "2주차 특별 제작"
     },
     "8003551": {
         "deprecated": false,
@@ -24303,5 +24303,1419 @@
         "id": 8003553,
         "alias": "UI.Shop.Tittle.Name.10029",
         "text": "대사형의 주화 상인"
+    },
+    "8003554": {
+        "deprecated": false,
+        "Dev_Desc": "루팅 / 권한포기 / 팝업 / 확인 메시지1",
+        "id": 8003554,
+        "alias": "UI.Looting.Popup.MsgConfirm.Get",
+        "text": "보상을 갈무리하시겠습니까?\n포기 시, 누구나 갈무리 할 수 있습니다."
+    },
+    "8003555": {
+        "deprecated": false,
+        "Dev_Desc": "루팅 / 권한포기 / 팝업 / 확인 메시지2(경고)",
+        "id": 8003555,
+        "alias": "UI.Looting.Popup.MsgConfirm.Expire",
+        "text": "처치 후 3분 경과 시, 자동으로 권한이 포기됩니다."
+    },
+    "8003556": {
+        "deprecated": false,
+        "Dev_Desc": "루팅 / 권한포기 / 팝업 / 획득 버튼",
+        "id": 8003556,
+        "alias": "UI.Looting.Popup.BtnConfirm.Get",
+        "text": "획득"
+    },
+    "8003557": {
+        "deprecated": false,
+        "Dev_Desc": "루팅 / 권한포기 / 팝업 / 권한포기 버튼",
+        "id": 8003557,
+        "alias": "UI.Looting.Popup.BtnConfirm.Yield",
+        "text": "권한 포기"
+    },
+    "8003558": {
+        "deprecated": false,
+        "Dev_Desc": "NPC 상점 타이틀 / 교환상",
+        "id": 8003558,
+        "alias": "UI.Shop.Tittle.Name.10002",
+        "text": "교환상"
+    },
+    "8003559": {
+        "deprecated": false,
+        "Dev_Desc": "NPC 상점 / 교환상 / 비사전 / 공용",
+        "id": 8003559,
+        "alias": "UI.Shop.Tittle.Name.10002.1.1",
+        "text": "공용"
+    },
+    "8003560": {
+        "deprecated": false,
+        "Dev_Desc": "NPC 상점 / 교환상 / 비사전 / 근거리",
+        "id": 8003560,
+        "alias": "UI.Shop.Tittle.Name.10002.1.2",
+        "text": "근거리"
+    },
+    "8003561": {
+        "deprecated": false,
+        "Dev_Desc": "NPC 상점 / 교환상 / 비사전 / 원거리",
+        "id": 8003561,
+        "alias": "UI.Shop.Tittle.Name.10002.1.3",
+        "text": "원거리"
+    },
+    "8003562": {
+        "deprecated": false,
+        "Dev_Desc": "NPC 상점 / 교환상 / 비사전 / 기공",
+        "id": 8003562,
+        "alias": "UI.Shop.Tittle.Name.10002.1.4",
+        "text": "기공"
+    },
+    "8003563": {
+        "deprecated": false,
+        "Dev_Desc": "NPC 상점 / 교환상 / 장인의 증표 / 일반 무기",
+        "id": 8003563,
+        "alias": "UI.Shop.Tittle.Name.10002.2.1",
+        "text": "일반 무기"
+    },
+    "8003564": {
+        "deprecated": false,
+        "Dev_Desc": "NPC 상점 / 교환상 / 장인의 증표 / 상급 무기",
+        "id": 8003564,
+        "alias": "UI.Shop.Tittle.Name.10002.2.2",
+        "text": "상급 무기"
+    },
+    "8003565": {
+        "deprecated": false,
+        "Dev_Desc": "NPC 상점 / 교환상 / 장인의 증표 / 희귀 무기",
+        "id": 8003565,
+        "alias": "UI.Shop.Tittle.Name.10002.2.3",
+        "text": "희귀 무기"
+    },
+    "8003566": {
+        "deprecated": false,
+        "Dev_Desc": "NPC 상점 / 교환상 / 장인의 증표 / 일반 방어구",
+        "id": 8003566,
+        "alias": "UI.Shop.Tittle.Name.10002.2.4",
+        "text": "일반 방어구"
+    },
+    "8003567": {
+        "deprecated": false,
+        "Dev_Desc": "NPC 상점 / 교환상 / 장인의 증표 / 상급 방어구",
+        "id": 8003567,
+        "alias": "UI.Shop.Tittle.Name.10002.2.5",
+        "text": "상급 방어구"
+    },
+    "8003568": {
+        "deprecated": false,
+        "Dev_Desc": "NPC 상점 / 교환상 / 장인의 증표 / 희귀 방어구",
+        "id": 8003568,
+        "alias": "UI.Shop.Tittle.Name.10002.2.6",
+        "text": "희귀 방어구"
+    },
+    "8003569": {
+        "deprecated": false,
+        "Dev_Desc": "NPC 상점 타이틀 / 무공서 상인",
+        "id": 8003569,
+        "alias": "UI.Shop.Tittle.Name.10005",
+        "text": "무공서 상인"
+    },
+    "8003570": {
+        "deprecated": false,
+        "Dev_Desc": "NPC 상점 / 무공서 상인 / 검 / 액티브",
+        "id": 8003570,
+        "alias": "UI.Shop.Tittle.Name.10005.1.1",
+        "text": "액티브"
+    },
+    "8003571": {
+        "deprecated": false,
+        "Dev_Desc": "NPC 상점 / 무공서 상인 / 검 / 패시브",
+        "id": 8003571,
+        "alias": "UI.Shop.Tittle.Name.10005.1.2",
+        "text": "패시브"
+    },
+    "8003572": {
+        "deprecated": false,
+        "Dev_Desc": "NPC 상점 서브탭 전체",
+        "id": 8003572,
+        "alias": "UI.Shop.SubTab.All",
+        "text": "전체"
+    },
+    "8003573": {
+        "deprecated": false,
+        "Dev_Desc": "프로모션 제작 레시피 탭 / 해룡의 정기",
+        "id": 8003573,
+        "alias": "UI.Craft.LeftSubTabName.Limited.SeaSerpent_04",
+        "text": "소환"
+    },
+    "8003574": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003574,
+        "alias": "UI.MissingText.8003574",
+        "text": "무공습득"
+    },
+    "8003575": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003575,
+        "alias": "UI.MissingText.8003575",
+        "text": "사가 구매 실패"
+    },
+    "8003576": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003576,
+        "alias": "UI.MissingText.8003576",
+        "text": "네임플레이트 UI의 문파 경험치 디버깅 정보 표시\\n"
+    },
+    "8003577": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003577,
+        "alias": "UI.MissingText.8003577",
+        "text": "알 수 없는 에러가 발생했습니다(err:<arg p=[1:integer]/>)"
+    },
+    "8003578": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003578,
+        "alias": "UI.MissingText.8003578",
+        "text": "다른 샤드 서버 유저와 파티를 맺을 수 없습니다."
+    },
+    "8003579": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003579,
+        "alias": "UI.MissingText.8003579",
+        "text": "잘못된 zone id 요청입니다."
+    },
+    "8003580": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003580,
+        "alias": "UI.MissingText.8003580",
+        "text": "이미 문파에 가입되어 있습니다"
+    },
+    "8003581": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003581,
+        "alias": "UI.MissingText.8003581",
+        "text": "이미 문파에 소속되어 있습니다."
+    },
+    "8003582": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003582,
+        "alias": "UI.MissingText.8003582",
+        "text": "문파에 가입되지 않은 유저입니다."
+    },
+    "8003583": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003583,
+        "alias": "UI.MissingText.8003583",
+        "text": "제한 글자수를 초과했습니다."
+    },
+    "8003584": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003584,
+        "alias": "UI.MissingText.8003584",
+        "text": "문파자금이 부족합니다."
+    },
+    "8003585": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003585,
+        "alias": "UI.MissingText.8003585",
+        "text": "문파 단기버프 누가 구매함"
+    },
+    "8003586": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003586,
+        "alias": "UI.MissingText.8003586",
+        "text": "문파 단기버프 구매실패(<arg p=[1:integer]/>)"
+    },
+    "8003587": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003587,
+        "alias": "UI.MissingText.8003587",
+        "text": "문파 단기버프 구매성공"
+    },
+    "8003588": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003588,
+        "alias": "UI.MissingText.8003588",
+        "text": "문파 기부 기능이 잠겨있습니다."
+    },
+    "8003589": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003589,
+        "alias": "UI.MissingText.8003589",
+        "text": "칙령이 남아있어 해산할 수 없습니다."
+    },
+    "8003590": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003590,
+        "alias": "UI.MissingText.8003590",
+        "text": "현재보다 높은 레벨로만 변경 가능합니다"
+    },
+    "8003591": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003591,
+        "alias": "UI.MissingText.8003591",
+        "text": "이미 습득한 경공입니다."
+    },
+    "8003592": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003592,
+        "alias": "UI.MissingText.8003592",
+        "text": "환경변화 실패 : invalid geometry id"
+    },
+    "8003593": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003593,
+        "alias": "UI.MissingText.8003593",
+        "text": "경공 획득 실패!"
+    },
+    "8003594": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003594,
+        "alias": "UI.MissingText.8003594",
+        "text": "경공 성장 실패!"
+    },
+    "8003595": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003595,
+        "alias": "UI.MissingText.8003595",
+        "text": "경공 성장 완료!"
+    },
+    "8003596": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003596,
+        "alias": "UI.MissingText.8003596",
+        "text": "모험컨텐츠 저장 요청에 실패했습니다."
+    },
+    "8003597": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003597,
+        "alias": "UI.MissingText.8003597",
+        "text": "맵 오픈에 실패했습니다."
+    },
+    "8003598": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003598,
+        "alias": "UI.MissingText.8003598",
+        "text": "이미 지도가 오픈되어 있습니다."
+    },
+    "8003599": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003599,
+        "alias": "UI.MissingText.8003599",
+        "text": "로비로 이동하시겠습니까."
+    },
+    "8003600": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003600,
+        "alias": "UI.MissingText.8003600",
+        "text": "게임을 종료 하시겠습니까?\\n확인 버튼을 누르면 게임을 종료 합니다."
+    },
+    "8003601": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003601,
+        "alias": "UI.MissingText.8003601",
+        "text": "경계대상 삭제 실패(<arg p=[1:integer]/>)"
+    },
+    "8003602": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003602,
+        "alias": "UI.MissingText.8003602",
+        "text": "경계대상 정보 로드 실패(<arg p=[1:integer]/>)"
+    },
+    "8003603": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003603,
+        "alias": "UI.MissingText.8003603",
+        "text": "초기화할 경공이 없습니다."
+    },
+    "8003604": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003604,
+        "alias": "UI.MissingText.8003604",
+        "text": "경공을 사용중에는 사용할 수 없습니다."
+    },
+    "8003605": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003605,
+        "alias": "UI.MissingText.8003605",
+        "text": "획득할 경공이 없습니다."
+    },
+    "8003606": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003606,
+        "alias": "UI.MissingText.8003606",
+        "text": "테스트 sub 메시지"
+    },
+    "8003607": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003607,
+        "alias": "UI.MissingText.8003607",
+        "text": "Tomo UpdateDiscoveryNotify 요청"
+    },
+    "8003608": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003608,
+        "alias": "UI.MissingText.8003608",
+        "text": "잘못된 discoveryType 입니다."
+    },
+    "8003609": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003609,
+        "alias": "UI.MissingText.8003609",
+        "text": "이미 발견한 dataId 입니다."
+    },
+    "8003610": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003610,
+        "alias": "UI.MissingText.8003610",
+        "text": "잘못된 dataId 입니다."
+    },
+    "8003611": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003611,
+        "alias": "UI.MissingText.8003611",
+        "text": "KickGuildMemberAll 실패, 추방할 문파원이 없습니다."
+    },
+    "8003612": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003612,
+        "alias": "UI.MissingText.8003612",
+        "text": "질주 레벨 변경"
+    },
+    "8003613": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003613,
+        "alias": "UI.MissingText.8003613",
+        "text": "경공 성장 초기화 성공"
+    },
+    "8003614": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003614,
+        "alias": "UI.MissingText.8003614",
+        "text": "모든 경공 획득 성공"
+    },
+    "8003615": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003615,
+        "alias": "UI.MissingText.8003615",
+        "text": "제단코인"
+    },
+    "8003616": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003616,
+        "alias": "UI.MissingText.8003616",
+        "text": "비무코인"
+    },
+    "8003617": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003617,
+        "alias": "UI.MissingText.8003617",
+        "text": "리소스 다운로드중"
+    },
+    "8003618": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003618,
+        "alias": "UI.MissingText.8003618",
+        "text": "블레이드&소울2 실행은 퍼플을 통해서 실행해주세요."
+    },
+    "8003619": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003619,
+        "alias": "UI.MissingText.8003619",
+        "text": "해당 플레이어를 공격하려면 공격 버튼을 누르세요."
+    },
+    "8003620": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003620,
+        "alias": "UI.MissingText.8003620",
+        "text": "공격을 할 수 없습니다."
+    },
+    "8003621": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003621,
+        "alias": "UI.MissingText.8003621",
+        "text": "스킬을 사용할 수 없습니다."
+    },
+    "8003622": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003622,
+        "alias": "UI.MissingText.8003622",
+        "text": "네임플레이트 디버프 테스트 정보 표시\\n"
+    },
+    "8003623": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003623,
+        "alias": "UI.MissingText.8003623",
+        "text": "거래가능 아이템 획득 불가"
+    },
+    "8003624": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003624,
+        "alias": "UI.MissingText.8003624",
+        "text": "초"
+    },
+    "8003625": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003625,
+        "alias": "UI.MissingText.8003625",
+        "text": "이름:"
+    },
+    "8003626": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003626,
+        "alias": "UI.MissingText.8003626",
+        "text": "현재 채널 인원 "
+    },
+    "8003627": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003627,
+        "alias": "UI.MissingText.8003627",
+        "text": "내 히어로의 pkPoint "
+    },
+    "8003628": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003628,
+        "alias": "UI.MissingText.8003628",
+        "text": "내 "
+    },
+    "8003629": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003629,
+        "alias": "UI.MissingText.8003629",
+        "text": "내 stamina "
+    },
+    "8003630": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003630,
+        "alias": "UI.MissingText.8003630",
+        "text": "내 Focus "
+    },
+    "8003631": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003631,
+        "alias": "UI.MissingText.8003631",
+        "text": "내 히어로의 Hp "
+    },
+    "8003632": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003632,
+        "alias": "UI.MissingText.8003632",
+        "text": "현재 AI Sequence: "
+    },
+    "8003633": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003633,
+        "alias": "UI.MissingText.8003633",
+        "text": "현재 AI Stance: "
+    },
+    "8003634": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003634,
+        "alias": "UI.MissingText.8003634",
+        "text": "현재 어그로 대상자: "
+    },
+    "8003635": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003635,
+        "alias": "UI.MissingText.8003635",
+        "text": "레벨: "
+    },
+    "8003636": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003636,
+        "alias": "UI.MissingText.8003636",
+        "text": "이름: "
+    },
+    "8003637": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003637,
+        "alias": "UI.MissingText.8003637",
+        "text": "종 무공"
+    },
+    "8003638": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003638,
+        "alias": "UI.MissingText.8003638",
+        "text": "종 무공입니다."
+    },
+    "8003639": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003639,
+        "alias": "UI.MissingText.8003639",
+        "text": "기공패 무공"
+    },
+    "8003640": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003640,
+        "alias": "UI.MissingText.8003640",
+        "text": "기공패 무공입니다."
+    },
+    "8003641": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003641,
+        "alias": "UI.MissingText.8003641",
+        "text": "활 무공"
+    },
+    "8003642": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003642,
+        "alias": "UI.MissingText.8003642",
+        "text": "활 무공입니다."
+    },
+    "8003643": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003643,
+        "alias": "UI.MissingText.8003643",
+        "text": "도끼 무공"
+    },
+    "8003644": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003644,
+        "alias": "UI.MissingText.8003644",
+        "text": "도끼 무공입니다."
+    },
+    "8003645": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003645,
+        "alias": "UI.MissingText.8003645",
+        "text": "권갑 무공"
+    },
+    "8003646": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003646,
+        "alias": "UI.MissingText.8003646",
+        "text": "권갑 무공입니다."
+    },
+    "8003647": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003647,
+        "alias": "UI.MissingText.8003647",
+        "text": "검 무공"
+    },
+    "8003648": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003648,
+        "alias": "UI.MissingText.8003648",
+        "text": "검 무공입니다."
+    },
+    "8003649": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003649,
+        "alias": "UI.MissingText.8003649",
+        "text": "공용 무공"
+    },
+    "8003650": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003650,
+        "alias": "UI.MissingText.8003650",
+        "text": "공용 무공입니다."
+    },
+    "8003651": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003651,
+        "alias": "UI.MissingText.8003651",
+        "text": "잠시 후 다시 사용해 주시길 바랍니다."
+    },
+    "8003652": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003652,
+        "alias": "UI.MissingText.8003652",
+        "text": "전체 효과"
+    },
+    "8003653": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003653,
+        "alias": "UI.MissingText.8003653",
+        "text": "파티,문파예외"
+    },
+    "8003654": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003654,
+        "alias": "UI.MissingText.8003654",
+        "text": "절전모드 <arg p=[1:string]/>"
+    },
+    "8003655": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003655,
+        "alias": "UI.MissingText.8003655",
+        "text": "사가 스토리를 모두 진행해주세요."
+    },
+    "8003656": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003656,
+        "alias": "UI.MissingText.8003656",
+        "text": "임무를 공유할 캐릭터 닉네임을 입력하세요."
+    },
+    "8003657": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003657,
+        "alias": "UI.MissingText.8003657",
+        "text": "접속중인 캐릭터가 아닙니다."
+    },
+    "8003658": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003658,
+        "alias": "UI.MissingText.8003658",
+        "text": "대상은 이미 같은 파티에 있습니다."
+    },
+    "8003659": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003659,
+        "alias": "UI.MissingText.8003659",
+        "text": "타겟팅"
+    },
+    "8003660": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003660,
+        "alias": "UI.MissingText.8003660",
+        "text": "항목을 하나 이상 선택해주세요."
+    },
+    "8003661": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003661,
+        "alias": "UI.MissingText.8003661",
+        "text": "효과음1"
+    },
+    "8003662": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003662,
+        "alias": "UI.MissingText.8003662",
+        "text": "효과음2"
+    },
+    "8003663": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003663,
+        "alias": "UI.MissingText.8003663",
+        "text": "대사1"
+    },
+    "8003664": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003664,
+        "alias": "UI.MissingText.8003664",
+        "text": "대사2"
+    },
+    "8003665": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003665,
+        "alias": "UI.MissingText.8003665",
+        "text": "대사3"
+    },
+    "8003666": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003666,
+        "alias": "UI.MissingText.8003666",
+        "text": "전체보기"
+    },
+    "8003667": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003667,
+        "alias": "UI.MissingText.8003667",
+        "text": "나만 보기"
+    },
+    "8003668": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003668,
+        "alias": "UI.MissingText.8003668",
+        "text": "공격,이동 시"
+    },
+    "8003669": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003669,
+        "alias": "UI.MissingText.8003669",
+        "text": "5분"
+    },
+    "8003670": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003670,
+        "alias": "UI.MissingText.8003670",
+        "text": "30분"
+    },
+    "8003671": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003671,
+        "alias": "UI.MissingText.8003671",
+        "text": "60분"
+    },
+    "8003672": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003672,
+        "alias": "UI.MissingText.8003672",
+        "text": "20m"
+    },
+    "8003673": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003673,
+        "alias": "UI.MissingText.8003673",
+        "text": "30m"
+    },
+    "8003674": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003674,
+        "alias": "UI.MissingText.8003674",
+        "text": "40m"
+    },
+    "8003675": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003675,
+        "alias": "UI.MissingText.8003675",
+        "text": "파티,문파예외"
+    },
+    "8003676": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003676,
+        "alias": "UI.MissingText.8003676",
+        "text": "70% 미만"
+    },
+    "8003677": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003677,
+        "alias": "UI.MissingText.8003677",
+        "text": "85% 미만"
+    },
+    "8003678": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003678,
+        "alias": "UI.MissingText.8003678",
+        "text": "90% 미만"
+    },
+    "8003679": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003679,
+        "alias": "UI.MissingText.8003679",
+        "text": "95% 미만"
+    },
+    "8003680": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003680,
+        "alias": "UI.MissingText.8003680",
+        "text": "addImageIcon : 실패, 이미지 리소스 데이터 (frameName) 가 없습니다."
+    },
+    "8003681": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003681,
+        "alias": "UI.MissingText.8003681",
+        "text": "addImageIcon : 실패, 이미지 리소스 데이터 (iconAtlasPath) 가 없습니다."
+    },
+    "8003682": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003682,
+        "alias": "UI.MissingText.8003682",
+        "text": "MapContinet 데이터가 없습니다."
+    },
+    "8003683": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003683,
+        "alias": "UI.MissingText.8003683",
+        "text": "MapProvinceIcon 데이터가 없습니다."
+    },
+    "8003684": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003684,
+        "alias": "UI.MissingText.8003684",
+        "text": "로비 서버 목록을 못 찾았습니다."
+    },
+    "8003685": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003685,
+        "alias": "UI.MissingText.8003685",
+        "text": "화면을 터치해서 선택한 Web에 접속 하세요"
+    },
+    "8003686": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003686,
+        "alias": "UI.MissingText.8003686",
+        "text": "남은 시간 : <arg p=[1:string]/>"
+    },
+    "8003687": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003687,
+        "alias": "UI.MissingText.8003687",
+        "text": "전투력이 가장 높은 무기, 방어구, 장신구를 자동 장착합니다.\\n일부 장비는 장착 시 귀속되어 거래소 판매 등록이 불가합니다."
+    },
+    "8003688": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003688,
+        "alias": "UI.MissingText.8003688",
+        "text": "임시보관함에 보관 중인 물품이 있어 열 수 없습니다"
+    },
+    "8003689": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003689,
+        "alias": "UI.MissingText.8003689",
+        "text": "판매 가능 수량을 초과하였습니다"
+    },
+    "8003690": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003690,
+        "alias": "UI.MissingText.8003690",
+        "text": "[속도계] 감소시 효과 비활성화"
+    },
+    "8003691": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003691,
+        "alias": "UI.MissingText.8003691",
+        "text": "[속도계] 감소시 효과 사용"
+    },
+    "8003692": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003692,
+        "alias": "UI.MissingText.8003692",
+        "text": "[속도계] 게이지 흔들림 효과 비활성화"
+    },
+    "8003693": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003693,
+        "alias": "UI.MissingText.8003693",
+        "text": "[속도계] 게이지 흔들림 효과 사용 : <arg p=[1:integer]/>"
+    },
+    "8003694": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003694,
+        "alias": "UI.MissingText.8003694",
+        "text": "[속도계] 승천비 게이지 증가 속도값 변경 : <arg p=[1:integer]/>"
+    },
+    "8003695": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003695,
+        "alias": "UI.MissingText.8003695",
+        "text": "[속도계] 공중 게이지 증가 속도값 변경 : <arg p=[1:integer]/>"
+    },
+    "8003696": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003696,
+        "alias": "UI.MissingText.8003696",
+        "text": "[속도계] 공중/승천비 게이지 증가 속도값 변경 : <arg p=[1:integer]/>"
+    },
+    "8003697": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003697,
+        "alias": "UI.MissingText.8003697",
+        "text": "산개"
+    },
+    "8003698": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003698,
+        "alias": "UI.MissingText.8003698",
+        "text": "소집"
+    },
+    "8003699": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003699,
+        "alias": "UI.MissingText.8003699",
+        "text": "문파 창설/가입하고 테스트해주세요"
+    },
+    "8003700": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003700,
+        "alias": "UI.MissingText.8003700",
+        "text": "/탈출"
+    },
+    "8003701": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003701,
+        "alias": "UI.MissingText.8003701",
+        "text": "네임플레이트 UI의 말풍선 표시\\n"
+    },
+    "8003702": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003702,
+        "alias": "UI.MissingText.8003702",
+        "text": "캐릭터명: <arg p=[1:string]/>"
+    },
+    "8003703": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003703,
+        "alias": "UI.MissingText.8003703",
+        "text": "<arg p=[1:integer]/> 장"
+    },
+    "8003704": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003704,
+        "alias": "UI.MissingText.8003704",
+        "text": "<arg p=[1:integer]/> 막"
+    },
+    "8003705": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003705,
+        "alias": "UI.MissingText.8003705",
+        "text": "뇌"
+    },
+    "8003706": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003706,
+        "alias": "UI.MissingText.8003706",
+        "text": "풍"
+    },
+    "8003707": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003707,
+        "alias": "UI.MissingText.8003707",
+        "text": "확인 되지 않은 영웅"
+    },
+    "8003708": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003708,
+        "alias": "UI.MissingText.8003708",
+        "text": "삭제 중 아닌 영웅"
+    },
+    "8003709": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003709,
+        "alias": "UI.MissingText.8003709",
+        "text": "삭제 대기 중"
+    },
+    "8003710": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003710,
+        "alias": "UI.MissingText.8003710",
+        "text": "생성이 제한된 월드"
+    },
+    "8003711": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003711,
+        "alias": "UI.MissingText.8003711",
+        "text": "재결재 성공 - 남은 재결제 : <arg p=[1:integer]/>"
+    },
+    "8003712": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003712,
+        "alias": "UI.MissingText.8003712",
+        "text": "동료"
+    },
+    "8003713": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003713,
+        "alias": "UI.MissingText.8003713",
+        "text": "기운 부여 및 충전"
+    },
+    "8003714": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003714,
+        "alias": "UI.MissingText.8003714",
+        "text": "평타공격"
+    },
+    "8003715": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003715,
+        "alias": "UI.MissingText.8003715",
+        "text": "소환의 제단"
+    },
+    "8003716": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003716,
+        "alias": "UI.MissingText.8003716",
+        "text": "문파 상점"
+    },
+    "8003717": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003717,
+        "alias": "UI.MissingText.8003717",
+        "text": "문파 가택"
+    },
+    "8003718": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003718,
+        "alias": "UI.MissingText.8003718",
+        "text": "거점 쟁탈전"
+    },
+    "8003719": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003719,
+        "alias": "UI.MissingText.8003719",
+        "text": "퀵슬롯"
+    },
+    "8003720": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003720,
+        "alias": "UI.MissingText.8003720",
+        "text": "특화무공"
+    },
+    "8003721": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003721,
+        "alias": "UI.MissingText.8003721",
+        "text": "점프"
+    },
+    "8003722": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003722,
+        "alias": "UI.MissingText.8003722",
+        "text": "구르기"
+    },
+    "8003723": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003723,
+        "alias": "UI.MissingText.8003723",
+        "text": "자동 물약"
+    },
+    "8003724": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003724,
+        "alias": "UI.MissingText.8003724",
+        "text": "감정 표현"
+    },
+    "8003725": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003725,
+        "alias": "UI.MissingText.8003725",
+        "text": "블레이드"
+    },
+    "8003726": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003726,
+        "alias": "UI.MissingText.8003726",
+        "text": "수집"
+    },
+    "8003727": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003727,
+        "alias": "UI.MissingText.8003727",
+        "text": "대장간"
+    },
+    "8003728": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 / UI 좌상단 GNB영역에 표시되는 콘텐츠 이름",
+        "id": 8003728,
+        "alias": "UI.Galaxy.Gnb.Name",
+        "text": "별자리"
+    },
+    "8003729": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 / 각인준비 상태에서 표시",
+        "id": 8003729,
+        "alias": "UI.Galaxy.Imprint.SuccessRate",
+        "text": "성공 확률"
+    },
+    "8003730": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 / 각인 버튼 이름",
+        "id": 8003730,
+        "alias": "UI.Galaxy.Imprint.Btn.Imprint",
+        "text": "각인"
+    },
+    "8003731": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 / 재각인 버튼 이름",
+        "id": 8003731,
+        "alias": "UI.Galaxy.Imprint.Btn.Imprint.Retry",
+        "text": "재각인"
+    },
+    "8003732": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 / 결과상태에서 표시",
+        "id": 8003732,
+        "alias": "UI.Galaxy.Imprint.Finish",
+        "text": "각인완료"
+    },
+    "8003733": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003733,
+        "alias": "UI.MissingText.8003733",
+        "text": "미발견"
+    },
+    "8003734": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003734,
+        "alias": "UI.MissingText.8003734",
+        "text": "달성 정보"
+    },
+    "8003735": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003735,
+        "alias": "UI.MissingText.8003735",
+        "text": "달성 정보"
+    },
+    "8003736": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003736,
+        "alias": "UI.MissingText.8003736",
+        "text": "지역 지도"
+    },
+    "8003737": {
+        "deprecated": false,
+        "Dev_Desc": "블레이드 효과 묵화Lv.3",
+        "id": 8003737,
+        "alias": "UI.Soul.BladeEffect.59",
+        "text": "블레이드 효과 묵화 Lv.3"
+    },
+    "8003738": {
+        "deprecated": false,
+        "Dev_Desc": "전설 3성/블레이드 효과 묵화Lv.4",
+        "id": 8003738,
+        "alias": "UI.Soul.BladeEffect.59.Legendary.3",
+        "text": "블레이드 효과 묵화 Lv.4\n무공 사용 시 소울 발동"
+    },
+    "8003739": {
+        "deprecated": false,
+        "Dev_Desc": "전설 5성/블레이드 효과 묵화Lv.5",
+        "id": 8003739,
+        "alias": "UI.Soul.BladeEffect.59.Legendary.5",
+        "text": "블레이드 효과 묵화 Lv.5\n무공 공격 속도 증가"
+    },
+    "8003740": {
+        "deprecated": false,
+        "Dev_Desc": "블레이드 효과 위압Lv.1",
+        "id": 8003740,
+        "alias": "UI.Soul.BladeEffect.60",
+        "text": "블레이드 효과 위압 Lv.1"
+    },
+    "8003741": {
+        "deprecated": false,
+        "Dev_Desc": "블레이드 효과 위압Lv.2",
+        "id": 8003741,
+        "alias": "UI.Soul.BladeEffect.61",
+        "text": "블레이드 효과 위압 Lv.2"
+    },
+    "8003742": {
+        "deprecated": false,
+        "Dev_Desc": "블레이드 효과 위압Lv.3",
+        "id": 8003742,
+        "alias": "UI.Soul.BladeEffect.62",
+        "text": "블레이드 효과 위압 Lv.3"
+    },
+    "8003743": {
+        "deprecated": false,
+        "Dev_Desc": "영웅 3성/블레이드 효과 위압Lv.2",
+        "id": 8003743,
+        "alias": "UI.Soul.BladeEffect.61.Heroic.3",
+        "text": "블레이드 효과 위압 Lv.2"
+    },
+    "8003744": {
+        "deprecated": false,
+        "Dev_Desc": "영웅 5성/블레이드 효과 위압Lv.3",
+        "id": 8003744,
+        "alias": "UI.Soul.BladeEffect.62.Heroic.5",
+        "text": "블레이드 효과 위압 Lv.3\n무공 사용 시 소울 발동"
+    },
+    "8003745": {
+        "deprecated": false,
+        "Dev_Desc": "황금 달걀 상인",
+        "id": 8003745,
+        "alias": "UI.Shop.Tittle.Name.10030",
+        "text": "황금 달걀 상인"
+    },
+    "8003746": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 환경 / 조작",
+        "id": 8003746,
+        "alias": "UI.Option.Environment.Control.PopupTitle",
+        "text": "조작키 상세"
+    },
+    "8003747": {
+        "deprecated": false,
+        "Dev_Desc": "1인 던전 / 최초 클리어 보상 / 보상 설명",
+        "id": 8003747,
+        "alias": "UI.Dungeon.Popup.FirstClear.Title",
+        "text": "<arg p=[1:integer]/>층 최초 달성 보상"
+    },
+    "8003748": {
+        "deprecated": false,
+        "Dev_Desc": "1인 던전 / 최초 클리어 보상 / 수령 버튼",
+        "id": 8003748,
+        "alias": "UI.Dungeon.Popup.FirstClear.GetReward",
+        "text": "보상 수령"
+    },
+    "8003749": {
+        "deprecated": false,
+        "Dev_Desc": "1인 던전 / 최초 클리어 보상 / 수령 완료",
+        "id": 8003749,
+        "alias": "UI.Dungeon.Popup.FirstClear.Complete",
+        "text": "달성 완료"
+    },
+    "8003750": {
+        "deprecated": false,
+        "Dev_Desc": "소울 파편 획득 / 토스트 메시지",
+        "id": 8003750,
+        "alias": "UI.SoulPiecePopUp.AcquireDesc",
+        "text": "<arg p=[1:string]/> 외 <arg p=[2:integer]/>종의 소울 파편을 획득했습니다."
+    },
+    "8003751": {
+        "deprecated": false,
+        "Dev_Desc": "소울 파편 획득 / 토스트 메시지(1종만 획득)",
+        "id": 8003751,
+        "alias": "UI.SoulPiecePopUp.AcquireDesc.Single",
+        "text": "소울 파편을 획득했습니다."
+    },
+    "8003752": {
+        "deprecated": false,
+        "Dev_Desc": "이벤트 제작 레시피 탭 / 협행 완료권",
+        "id": 8003752,
+        "alias": "UI.Craft.LeftSubTabName.Event.PassTicket_01",
+        "text": "협행 완료패"
+    },
+    "8003753": {
+        "deprecated": false,
+        "Dev_Desc": "재련 제거 아이템 서브타입명",
+        "id": 8003753,
+        "alias": "UI.Item.ItemType.RemoveSmeltStone",
+        "text": "언령석"
+    },
+    "8003754": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003754,
+        "alias": "UI.MissingText.8003754",
+        "text": "화"
+    },
+    "8003755": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003755,
+        "alias": "UI.MissingText.8003755",
+        "text": "수"
     }
 }

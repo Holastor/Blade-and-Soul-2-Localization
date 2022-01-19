@@ -24303,5 +24303,1419 @@
         "id": 8003553,
         "alias": "UI.Shop.Tittle.Name.10029",
         "text": "大钱商"
+    },
+    "8003554": {
+        "deprecated": false,
+        "Dev_Desc": "루팅 / 권한포기 / 팝업 / 확인 메시지1",
+        "id": 8003554,
+        "alias": "UI.Looting.Popup.MsgConfirm.Get",
+        "text": "你想夺取奖励吗？\\n放弃的时候，任何人都可以夺取。"
+    },
+    "8003555": {
+        "deprecated": false,
+        "Dev_Desc": "루팅 / 권한포기 / 팝업 / 확인 메시지2(경고)",
+        "id": 8003555,
+        "alias": "UI.Looting.Popup.MsgConfirm.Expire",
+        "text": "被杀后3分钟后自动放弃特权。"
+    },
+    "8003556": {
+        "deprecated": false,
+        "Dev_Desc": "루팅 / 권한포기 / 팝업 / 획득 버튼",
+        "id": 8003556,
+        "alias": "UI.Looting.Popup.BtnConfirm.Get",
+        "text": "获得"
+    },
+    "8003557": {
+        "deprecated": false,
+        "Dev_Desc": "루팅 / 권한포기 / 팝업 / 권한포기 버튼",
+        "id": 8003557,
+        "alias": "UI.Looting.Popup.BtnConfirm.Yield",
+        "text": "放弃特权"
+    },
+    "8003558": {
+        "deprecated": false,
+        "Dev_Desc": "NPC 상점 타이틀 / 교환상",
+        "id": 8003558,
+        "alias": "UI.Shop.Tittle.Name.10002",
+        "text": "交换器"
+    },
+    "8003559": {
+        "deprecated": false,
+        "Dev_Desc": "NPC 상점 / 교환상 / 비사전 / 공용",
+        "id": 8003559,
+        "alias": "UI.Shop.Tittle.Name.10002.1.1",
+        "text": "上市"
+    },
+    "8003560": {
+        "deprecated": false,
+        "Dev_Desc": "NPC 상점 / 교환상 / 비사전 / 근거리",
+        "id": 8003560,
+        "alias": "UI.Shop.Tittle.Name.10002.1.2",
+        "text": "靠近"
+    },
+    "8003561": {
+        "deprecated": false,
+        "Dev_Desc": "NPC 상점 / 교환상 / 비사전 / 원거리",
+        "id": 8003561,
+        "alias": "UI.Shop.Tittle.Name.10002.1.3",
+        "text": "远的"
+    },
+    "8003562": {
+        "deprecated": false,
+        "Dev_Desc": "NPC 상점 / 교환상 / 비사전 / 기공",
+        "id": 8003562,
+        "alias": "UI.Shop.Tittle.Name.10002.1.4",
+        "text": "毛孔"
+    },
+    "8003563": {
+        "deprecated": false,
+        "Dev_Desc": "NPC 상점 / 교환상 / 장인의 증표 / 일반 무기",
+        "id": 8003563,
+        "alias": "UI.Shop.Tittle.Name.10002.2.1",
+        "text": "普通武器"
+    },
+    "8003564": {
+        "deprecated": false,
+        "Dev_Desc": "NPC 상점 / 교환상 / 장인의 증표 / 상급 무기",
+        "id": 8003564,
+        "alias": "UI.Shop.Tittle.Name.10002.2.2",
+        "text": "高级武器"
+    },
+    "8003565": {
+        "deprecated": false,
+        "Dev_Desc": "NPC 상점 / 교환상 / 장인의 증표 / 희귀 무기",
+        "id": 8003565,
+        "alias": "UI.Shop.Tittle.Name.10002.2.3",
+        "text": "稀有武器"
+    },
+    "8003566": {
+        "deprecated": false,
+        "Dev_Desc": "NPC 상점 / 교환상 / 장인의 증표 / 일반 방어구",
+        "id": 8003566,
+        "alias": "UI.Shop.Tittle.Name.10002.2.4",
+        "text": "普通铠甲"
+    },
+    "8003567": {
+        "deprecated": false,
+        "Dev_Desc": "NPC 상점 / 교환상 / 장인의 증표 / 상급 방어구",
+        "id": 8003567,
+        "alias": "UI.Shop.Tittle.Name.10002.2.5",
+        "text": "高级装甲"
+    },
+    "8003568": {
+        "deprecated": false,
+        "Dev_Desc": "NPC 상점 / 교환상 / 장인의 증표 / 희귀 방어구",
+        "id": 8003568,
+        "alias": "UI.Shop.Tittle.Name.10002.2.6",
+        "text": "稀有盔甲"
+    },
+    "8003569": {
+        "deprecated": false,
+        "Dev_Desc": "NPC 상점 타이틀 / 무공서 상인",
+        "id": 8003569,
+        "alias": "UI.Shop.Tittle.Name.10005",
+        "text": "非官方商人"
+    },
+    "8003570": {
+        "deprecated": false,
+        "Dev_Desc": "NPC 상점 / 무공서 상인 / 검 / 액티브",
+        "id": 8003570,
+        "alias": "UI.Shop.Tittle.Name.10005.1.1",
+        "text": "积极的"
+    },
+    "8003571": {
+        "deprecated": false,
+        "Dev_Desc": "NPC 상점 / 무공서 상인 / 검 / 패시브",
+        "id": 8003571,
+        "alias": "UI.Shop.Tittle.Name.10005.1.2",
+        "text": "被动的"
+    },
+    "8003572": {
+        "deprecated": false,
+        "Dev_Desc": "NPC 상점 서브탭 전체",
+        "id": 8003572,
+        "alias": "UI.Shop.SubTab.All",
+        "text": "全部"
+    },
+    "8003573": {
+        "deprecated": false,
+        "Dev_Desc": "프로모션 제작 레시피 탭 / 해룡의 정기",
+        "id": 8003573,
+        "alias": "UI.Craft.LeftSubTabName.Limited.SeaSerpent_04",
+        "text": "传票"
+    },
+    "8003574": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003574,
+        "alias": "UI.MissingText.8003574",
+        "text": "无攻击收购"
+    },
+    "8003575": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003575,
+        "alias": "UI.MissingText.8003575",
+        "text": "佐贺购买失败"
+    },
+    "8003576": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003576,
+        "alias": "UI.MissingText.8003576",
+        "text": "在铭牌UI中显示战队经验调试信息\\\\n"
+    },
+    "8003577": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003577,
+        "alias": "UI.MissingText.8003577",
+        "text": "发生未知错误 (err:<arg p=[1:integer]/>)"
+    },
+    "8003578": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003578,
+        "alias": "UI.MissingText.8003578",
+        "text": "你不能与其他分片服务器用户聚会。"
+    },
+    "8003579": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003579,
+        "alias": "UI.MissingText.8003579",
+        "text": "无效的区域 ID 请求。"
+    },
+    "8003580": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003580,
+        "alias": "UI.MissingText.8003580",
+        "text": "我已经是氏族的一员了。"
+    },
+    "8003581": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003581,
+        "alias": "UI.MissingText.8003581",
+        "text": "我已经是族人了。"
+    },
+    "8003582": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003582,
+        "alias": "UI.MissingText.8003582",
+        "text": "你不是Munpa的成员。"
+    },
+    "8003583": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003583,
+        "alias": "UI.MissingText.8003583",
+        "text": "超出字数限制。"
+    },
+    "8003584": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003584,
+        "alias": "UI.MissingText.8003584",
+        "text": "家族的钱不够用。"
+    },
+    "8003585": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003585,
+        "alias": "UI.MissingText.8003585",
+        "text": "谁买了短期的Munpa buff？"
+    },
+    "8003586": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003586,
+        "alias": "UI.MissingText.8003586",
+        "text": "购买短期月霸增益失败 (<arg p=[1:integer]/>)"
+    },
+    "8003587": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003587,
+        "alias": "UI.MissingText.8003587",
+        "text": "成功购买了一个短期的Munpa buff"
+    },
+    "8003588": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003588,
+        "alias": "UI.MissingText.8003588",
+        "text": "文巴捐赠功能已锁定。"
+    },
+    "8003589": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003589,
+        "alias": "UI.MissingText.8003589",
+        "text": "诏书存留，不能解散。"
+    },
+    "8003590": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003590,
+        "alias": "UI.MissingText.8003590",
+        "text": "你只能改到比现在更高的级别"
+    },
+    "8003591": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003591,
+        "alias": "UI.MissingText.8003591",
+        "text": "这是一个你已经学会的轻松的工作。"
+    },
+    "8003592": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003592,
+        "alias": "UI.MissingText.8003592",
+        "text": "环境更改失败：几何 ID 无效"
+    },
+    "8003593": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003593,
+        "alias": "UI.MissingText.8003593",
+        "text": "获得轻功失败！"
+    },
+    "8003594": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003594,
+        "alias": "UI.MissingText.8003594",
+        "text": "轻工业发展失败！"
+    },
+    "8003595": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003595,
+        "alias": "UI.MissingText.8003595",
+        "text": "完成轻工业的成长！"
+    },
+    "8003596": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003596,
+        "alias": "UI.MissingText.8003596",
+        "text": "保存冒险内容请求失败。"
+    },
+    "8003597": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003597,
+        "alias": "UI.MissingText.8003597",
+        "text": "打开地图失败。"
+    },
+    "8003598": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003598,
+        "alias": "UI.MissingText.8003598",
+        "text": "地图已经打开了。"
+    },
+    "8003599": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003599,
+        "alias": "UI.MissingText.8003599",
+        "text": "你确定要去大堂吗？"
+    },
+    "8003600": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003600,
+        "alias": "UI.MissingText.8003600",
+        "text": "你要退出游戏吗？\\\\n点击确定按钮结束游戏。"
+    },
+    "8003601": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003601,
+        "alias": "UI.MissingText.8003601",
+        "text": "无法删除有界目标 (<arg p=[1:integer]/>)"
+    },
+    "8003602": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003602,
+        "alias": "UI.MissingText.8003602",
+        "text": "加载有限信息失败 (<arg p=[1:integer]/>)"
+    },
+    "8003603": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003603,
+        "alias": "UI.MissingText.8003603",
+        "text": "没有轻量的工作要初始化。"
+    },
+    "8003604": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003604,
+        "alias": "UI.MissingText.8003604",
+        "text": "使用光功时不能使用。"
+    },
+    "8003605": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003605,
+        "alias": "UI.MissingText.8003605",
+        "text": "没有轻功可得。"
+    },
+    "8003606": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003606,
+        "alias": "UI.MissingText.8003606",
+        "text": "测试子消息"
+    },
+    "8003607": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003607,
+        "alias": "UI.MissingText.8003607",
+        "text": "请求 Tomo 更新发现通知"
+    },
+    "8003608": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003608,
+        "alias": "UI.MissingText.8003608",
+        "text": "无效的发现类型。"
+    },
+    "8003609": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003609,
+        "alias": "UI.MissingText.8003609",
+        "text": "已找到 dataId。"
+    },
+    "8003610": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003610,
+        "alias": "UI.MissingText.8003610",
+        "text": "无效的数据 ID。"
+    },
+    "8003611": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003611,
+        "alias": "UI.MissingText.8003611",
+        "text": "KickGuildMember 全部失败，没有神职人员可以驱逐。"
+    },
+    "8003612": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003612,
+        "alias": "UI.MissingText.8003612",
+        "text": "更改冲刺级别"
+    },
+    "8003613": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003613,
+        "alias": "UI.MissingText.8003613",
+        "text": "成功启动光工程增长"
+    },
+    "8003614": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003614,
+        "alias": "UI.MissingText.8003614",
+        "text": "成功获得所有光成就"
+    },
+    "8003615": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003615,
+        "alias": "UI.MissingText.8003615",
+        "text": "祭坛币"
+    },
+    "8003616": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003616,
+        "alias": "UI.MissingText.8003616",
+        "text": "比姆币"
+    },
+    "8003617": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003617,
+        "alias": "UI.MissingText.8003617",
+        "text": "下载资源"
+    },
+    "8003618": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003618,
+        "alias": "UI.MissingText.8003618",
+        "text": "刀刃"
+    },
+    "8003619": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003619,
+        "alias": "UI.MissingText.8003619",
+        "text": "按下攻击键攻击该玩家。"
+    },
+    "8003620": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003620,
+        "alias": "UI.MissingText.8003620",
+        "text": "你不能攻击。"
+    },
+    "8003621": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003621,
+        "alias": "UI.MissingText.8003621",
+        "text": "技能无法使用。"
+    },
+    "8003622": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003622,
+        "alias": "UI.MissingText.8003622",
+        "text": "显示铭牌debuff测试信息\\\\n"
+    },
+    "8003623": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003623,
+        "alias": "UI.MissingText.8003623",
+        "text": "无法获得可交易物品"
+    },
+    "8003624": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003624,
+        "alias": "UI.MissingText.8003624",
+        "text": "蜡烛"
+    },
+    "8003625": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003625,
+        "alias": "UI.MissingText.8003625",
+        "text": "名称："
+    },
+    "8003626": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003626,
+        "alias": "UI.MissingText.8003626",
+        "text": "当前频道数"
+    },
+    "8003627": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003627,
+        "alias": "UI.MissingText.8003627",
+        "text": "我的英雄的pkPoint"
+    },
+    "8003628": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003628,
+        "alias": "UI.MissingText.8003628",
+        "text": "我的 "
+    },
+    "8003629": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003629,
+        "alias": "UI.MissingText.8003629",
+        "text": "我的体力"
+    },
+    "8003630": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003630,
+        "alias": "UI.MissingText.8003630",
+        "text": "我的焦点"
+    },
+    "8003631": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003631,
+        "alias": "UI.MissingText.8003631",
+        "text": "我的英雄的HP"
+    },
+    "8003632": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003632,
+        "alias": "UI.MissingText.8003632",
+        "text": "当前 AI 序列："
+    },
+    "8003633": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003633,
+        "alias": "UI.MissingText.8003633",
+        "text": "当前的 AI 姿态："
+    },
+    "8003634": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003634,
+        "alias": "UI.MissingText.8003634",
+        "text": "当前仇恨目标："
+    },
+    "8003635": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003635,
+        "alias": "UI.MissingText.8003635",
+        "text": "等级： "
+    },
+    "8003636": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003636,
+        "alias": "UI.MissingText.8003636",
+        "text": "名称： "
+    },
+    "8003637": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003637,
+        "alias": "UI.MissingText.8003637",
+        "text": "自贡"
+    },
+    "8003638": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003638,
+        "alias": "UI.MissingText.8003638",
+        "text": "这不费吹灰之力。"
+    },
+    "8003639": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003639,
+        "alias": "UI.MissingText.8003639",
+        "text": "无气功牌"
+    },
+    "8003640": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003640,
+        "alias": "UI.MissingText.8003640",
+        "text": "气功牌无敌。"
+    },
+    "8003641": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003641,
+        "alias": "UI.MissingText.8003641",
+        "text": "无弓"
+    },
+    "8003642": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003642,
+        "alias": "UI.MissingText.8003642",
+        "text": "弓是不败的。"
+    },
+    "8003643": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003643,
+        "alias": "UI.MissingText.8003643",
+        "text": "斧头是免费的"
+    },
+    "8003644": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003644,
+        "alias": "UI.MissingText.8003644",
+        "text": "斧头无敌。"
+    },
+    "8003645": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003645,
+        "alias": "UI.MissingText.8003645",
+        "text": "束腰盔甲"
+    },
+    "8003646": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003646,
+        "alias": "UI.MissingText.8003646",
+        "text": "这是一种护手武器。"
+    },
+    "8003647": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003647,
+        "alias": "UI.MissingText.8003647",
+        "text": "剑道防御"
+    },
+    "8003648": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003648,
+        "alias": "UI.MissingText.8003648",
+        "text": "剑无敌。"
+    },
+    "8003649": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003649,
+        "alias": "UI.MissingText.8003649",
+        "text": "普通武术"
+    },
+    "8003650": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003650,
+        "alias": "UI.MissingText.8003650",
+        "text": "这是一种普通的武器。"
+    },
+    "8003651": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003651,
+        "alias": "UI.MissingText.8003651",
+        "text": "请稍后再试。"
+    },
+    "8003652": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003652,
+        "alias": "UI.MissingText.8003652",
+        "text": "宽度"
+    },
+    "8003653": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003653,
+        "alias": "UI.MissingText.8003653",
+        "text": "派对，文巴例外"
+    },
+    "8003654": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003654,
+        "alias": "UI.MissingText.8003654",
+        "text": "睡眠 <arg p=[1:string]/>"
+    },
+    "8003655": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003655,
+        "alias": "UI.MissingText.8003655",
+        "text": "请继续讲所有的传奇故事。"
+    },
+    "8003656": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003656,
+        "alias": "UI.MissingText.8003656",
+        "text": "输入你想分享任务的角色昵称。"
+    },
+    "8003657": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003657,
+        "alias": "UI.MissingText.8003657",
+        "text": "你不是网络角色。"
+    },
+    "8003658": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003658,
+        "alias": "UI.MissingText.8003658",
+        "text": "对象已经在同一方了。"
+    },
+    "8003659": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003659,
+        "alias": "UI.MissingText.8003659",
+        "text": "瞄准"
+    },
+    "8003660": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003660,
+        "alias": "UI.MissingText.8003660",
+        "text": "请选择一项或多项。"
+    },
+    "8003661": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003661,
+        "alias": "UI.MissingText.8003661",
+        "text": "声音1"
+    },
+    "8003662": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003662,
+        "alias": "UI.MissingText.8003662",
+        "text": "音效2"
+    },
+    "8003663": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003663,
+        "alias": "UI.MissingText.8003663",
+        "text": "对话一"
+    },
+    "8003664": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003664,
+        "alias": "UI.MissingText.8003664",
+        "text": "对话2"
+    },
+    "8003665": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003665,
+        "alias": "UI.MissingText.8003665",
+        "text": "对话3"
+    },
+    "8003666": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003666,
+        "alias": "UI.MissingText.8003666",
+        "text": "查看全部"
+    },
+    "8003667": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003667,
+        "alias": "UI.MissingText.8003667",
+        "text": "只见我"
+    },
+    "8003668": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003668,
+        "alias": "UI.MissingText.8003668",
+        "text": "攻击和移动时"
+    },
+    "8003669": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003669,
+        "alias": "UI.MissingText.8003669",
+        "text": "5分钟"
+    },
+    "8003670": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003670,
+        "alias": "UI.MissingText.8003670",
+        "text": "30分钟"
+    },
+    "8003671": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003671,
+        "alias": "UI.MissingText.8003671",
+        "text": "60 分钟"
+    },
+    "8003672": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003672,
+        "alias": "UI.MissingText.8003672",
+        "text": "20米"
+    },
+    "8003673": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003673,
+        "alias": "UI.MissingText.8003673",
+        "text": "30米"
+    },
+    "8003674": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003674,
+        "alias": "UI.MissingText.8003674",
+        "text": "40米"
+    },
+    "8003675": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003675,
+        "alias": "UI.MissingText.8003675",
+        "text": "派对，文巴例外"
+    },
+    "8003676": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003676,
+        "alias": "UI.MissingText.8003676",
+        "text": "低于 70%"
+    },
+    "8003677": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003677,
+        "alias": "UI.MissingText.8003677",
+        "text": "低于 85%"
+    },
+    "8003678": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003678,
+        "alias": "UI.MissingText.8003678",
+        "text": "低于 90%"
+    },
+    "8003679": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003679,
+        "alias": "UI.MissingText.8003679",
+        "text": "低于 95%"
+    },
+    "8003680": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003680,
+        "alias": "UI.MissingText.8003680",
+        "text": "addImageIcon：失败，没有图像资源数据（frameName）。"
+    },
+    "8003681": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003681,
+        "alias": "UI.MissingText.8003681",
+        "text": "addImageIcon：失败，没有图像资源数据（iconAtlasPath）。"
+    },
+    "8003682": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003682,
+        "alias": "UI.MissingText.8003682",
+        "text": "没有 MapContinet 数据。"
+    },
+    "8003683": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003683,
+        "alias": "UI.MissingText.8003683",
+        "text": "没有 MapProvinceIcon 数据。"
+    },
+    "8003684": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003684,
+        "alias": "UI.MissingText.8003684",
+        "text": "没有找到大厅服务器列表。"
+    },
+    "8003685": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003685,
+        "alias": "UI.MissingText.8003685",
+        "text": "触摸屏幕以访问选定的网页"
+    },
+    "8003686": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003686,
+        "alias": "UI.MissingText.8003686",
+        "text": "剩余时间：<arg p=[1:string]/>"
+    },
+    "8003687": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003687,
+        "alias": "UI.MissingText.8003687",
+        "text": "战斗力最高的武器、盔甲、饰品会自动安装。\\\\n部分装备装备时绑定，无法在交易所注册销售。"
+    },
+    "8003688": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003688,
+        "alias": "UI.MissingText.8003688",
+        "text": "草稿中有项目，无法打开"
+    },
+    "8003689": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003689,
+        "alias": "UI.MissingText.8003689",
+        "text": "超过销售数量"
+    },
+    "8003690": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003690,
+        "alias": "UI.MissingText.8003690",
+        "text": "[速度计]减少时禁用效果"
+    },
+    "8003691": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003691,
+        "alias": "UI.MissingText.8003691",
+        "text": "减少[速度计]时的使用效果"
+    },
+    "8003692": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003692,
+        "alias": "UI.MissingText.8003692",
+        "text": "禁用 [车速表] 仪表抖动效果"
+    },
+    "8003693": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003693,
+        "alias": "UI.MissingText.8003693",
+        "text": "[速度计] 使用仪表抖动效果：<arg p=[1:integer]/>"
+    },
+    "8003694": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003694,
+        "alias": "UI.MissingText.8003694",
+        "text": "[Speedometer] 上升比表增加速度值变化：<arg p=[1:integer]/>"
+    },
+    "8003695": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003695,
+        "alias": "UI.MissingText.8003695",
+        "text": "[Speedometer] 改变气压表增加速度值：<arg p=[1:integer]/>"
+    },
+    "8003696": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003696,
+        "alias": "UI.MissingText.8003696",
+        "text": "[Speedometer] Air/Ascension Gauge 增加速度值变化：<arg p=[1:integer]/>"
+    },
+    "8003697": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003697,
+        "alias": "UI.MissingText.8003697",
+        "text": "开放的狗"
+    },
+    "8003698": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003698,
+        "alias": "UI.MissingText.8003698",
+        "text": "鼓起"
+    },
+    "8003699": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003699,
+        "alias": "UI.MissingText.8003699",
+        "text": "请创建/加入一个氏族并进行测试"
+    },
+    "8003700": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003700,
+        "alias": "UI.MissingText.8003700",
+        "text": "/逃脱"
+    },
+    "8003701": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003701,
+        "alias": "UI.MissingText.8003701",
+        "text": "在铭牌 UI 中显示对话气泡\\\\n"
+    },
+    "8003702": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003702,
+        "alias": "UI.MissingText.8003702",
+        "text": "字符名称：<arg p=[1:string]/>"
+    },
+    "8003703": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003703,
+        "alias": "UI.MissingText.8003703",
+        "text": "章节 <arg p=[1:integer]/>"
+    },
+    "8003704": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003704,
+        "alias": "UI.MissingText.8003704",
+        "text": "<arg p=[1:integer]/>只是"
+    },
+    "8003705": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003705,
+        "alias": "UI.MissingText.8003705",
+        "text": "脑"
+    },
+    "8003706": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003706,
+        "alias": "UI.MissingText.8003706",
+        "text": "风"
+    },
+    "8003707": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003707,
+        "alias": "UI.MissingText.8003707",
+        "text": "无名英雄"
+    },
+    "8003708": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003708,
+        "alias": "UI.MissingText.8003708",
+        "text": "英雄不被删除"
+    },
+    "8003709": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003709,
+        "alias": "UI.MissingText.8003709",
+        "text": "等待删除"
+    },
+    "8003710": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003710,
+        "alias": "UI.MissingText.8003710",
+        "text": "创造有限的世界"
+    },
+    "8003711": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003711,
+        "alias": "UI.MissingText.8003711",
+        "text": "重置成功 - 剩余还款：<arg p=[1:integer]/>"
+    },
+    "8003712": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003712,
+        "alias": "UI.MissingText.8003712",
+        "text": "同事"
+    },
+    "8003713": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003713,
+        "alias": "UI.MissingText.8003713",
+        "text": "赋能和充电"
+    },
+    "8003714": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003714,
+        "alias": "UI.MissingText.8003714",
+        "text": "平台攻击"
+    },
+    "8003715": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003715,
+        "alias": "UI.MissingText.8003715",
+        "text": "召唤祭坛"
+    },
+    "8003716": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003716,
+        "alias": "UI.MissingText.8003716",
+        "text": "文巴店"
+    },
+    "8003717": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003717,
+        "alias": "UI.MissingText.8003717",
+        "text": "蒙帕之家"
+    },
+    "8003718": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003718,
+        "alias": "UI.MissingText.8003718",
+        "text": "节点之战"
+    },
+    "8003719": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003719,
+        "alias": "UI.MissingText.8003719",
+        "text": "快速插槽"
+    },
+    "8003720": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003720,
+        "alias": "UI.MissingText.8003720",
+        "text": "特殊武术"
+    },
+    "8003721": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003721,
+        "alias": "UI.MissingText.8003721",
+        "text": "跳"
+    },
+    "8003722": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003722,
+        "alias": "UI.MissingText.8003722",
+        "text": "卷"
+    },
+    "8003723": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003723,
+        "alias": "UI.MissingText.8003723",
+        "text": "自动药水"
+    },
+    "8003724": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003724,
+        "alias": "UI.MissingText.8003724",
+        "text": "表达情感"
+    },
+    "8003725": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003725,
+        "alias": "UI.MissingText.8003725",
+        "text": "刀刃"
+    },
+    "8003726": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003726,
+        "alias": "UI.MissingText.8003726",
+        "text": "收藏"
+    },
+    "8003727": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003727,
+        "alias": "UI.MissingText.8003727",
+        "text": "铁匠铺"
+    },
+    "8003728": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 / UI 좌상단 GNB영역에 표시되는 콘텐츠 이름",
+        "id": 8003728,
+        "alias": "UI.Galaxy.Gnb.Name",
+        "text": "星座"
+    },
+    "8003729": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 / 각인준비 상태에서 표시",
+        "id": 8003729,
+        "alias": "UI.Galaxy.Imprint.SuccessRate",
+        "text": "成功概率"
+    },
+    "8003730": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 / 각인 버튼 이름",
+        "id": 8003730,
+        "alias": "UI.Galaxy.Imprint.Btn.Imprint",
+        "text": "雕刻"
+    },
+    "8003731": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 / 재각인 버튼 이름",
+        "id": 8003731,
+        "alias": "UI.Galaxy.Imprint.Btn.Imprint.Retry",
+        "text": "复刻"
+    },
+    "8003732": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 / 결과상태에서 표시",
+        "id": 8003732,
+        "alias": "UI.Galaxy.Imprint.Finish",
+        "text": "雕刻完成"
+    },
+    "8003733": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003733,
+        "alias": "UI.MissingText.8003733",
+        "text": "未被发现"
+    },
+    "8003734": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003734,
+        "alias": "UI.MissingText.8003734",
+        "text": "成绩信息"
+    },
+    "8003735": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003735,
+        "alias": "UI.MissingText.8003735",
+        "text": "成绩信息"
+    },
+    "8003736": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003736,
+        "alias": "UI.MissingText.8003736",
+        "text": "区域地图"
+    },
+    "8003737": {
+        "deprecated": false,
+        "Dev_Desc": "블레이드 효과 묵화Lv.3",
+        "id": 8003737,
+        "alias": "UI.Soul.BladeEffect.59",
+        "text": "刀刃效果水墨画Lv.3"
+    },
+    "8003738": {
+        "deprecated": false,
+        "Dev_Desc": "전설 3성/블레이드 효과 묵화Lv.4",
+        "id": 8003738,
+        "alias": "UI.Soul.BladeEffect.59.Legendary.3",
+        "text": "使用剑刃效果沉默Lv.4\\n无功时灵魂激活"
+    },
+    "8003739": {
+        "deprecated": false,
+        "Dev_Desc": "전설 5성/블레이드 효과 묵화Lv.5",
+        "id": 8003739,
+        "alias": "UI.Soul.BladeEffect.59.Legendary.5",
+        "text": "刀刃效果沉默Lv.5\\n攻击速度增加"
+    },
+    "8003740": {
+        "deprecated": false,
+        "Dev_Desc": "블레이드 효과 위압Lv.1",
+        "id": 8003740,
+        "alias": "UI.Soul.BladeEffect.60",
+        "text": "刀刃效果压倒Lv.1"
+    },
+    "8003741": {
+        "deprecated": false,
+        "Dev_Desc": "블레이드 효과 위압Lv.2",
+        "id": 8003741,
+        "alias": "UI.Soul.BladeEffect.61",
+        "text": "刀刃效果压倒Lv.2"
+    },
+    "8003742": {
+        "deprecated": false,
+        "Dev_Desc": "블레이드 효과 위압Lv.3",
+        "id": 8003742,
+        "alias": "UI.Soul.BladeEffect.62",
+        "text": "刀刃效果压倒Lv.3"
+    },
+    "8003743": {
+        "deprecated": false,
+        "Dev_Desc": "영웅 3성/블레이드 효과 위압Lv.2",
+        "id": 8003743,
+        "alias": "UI.Soul.BladeEffect.61.Heroic.3",
+        "text": "刀刃效果压倒Lv.2"
+    },
+    "8003744": {
+        "deprecated": false,
+        "Dev_Desc": "영웅 5성/블레이드 효과 위압Lv.3",
+        "id": 8003744,
+        "alias": "UI.Soul.BladeEffect.62.Heroic.5",
+        "text": "使用剑刃效果压制Lv.3\\n无攻击时激活灵魂"
+    },
+    "8003745": {
+        "deprecated": false,
+        "Dev_Desc": "황금 달걀 상인",
+        "id": 8003745,
+        "alias": "UI.Shop.Tittle.Name.10030",
+        "text": "金蛋商人"
+    },
+    "8003746": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 환경 / 조작",
+        "id": 8003746,
+        "alias": "UI.Option.Environment.Control.PopupTitle",
+        "text": "操作密钥详细信息"
+    },
+    "8003747": {
+        "deprecated": false,
+        "Dev_Desc": "1인 던전 / 최초 클리어 보상 / 보상 설명",
+        "id": 8003747,
+        "alias": "UI.Dungeon.Popup.FirstClear.Title",
+        "text": "<arg p=[1:integer]/>到达一楼的奖励"
+    },
+    "8003748": {
+        "deprecated": false,
+        "Dev_Desc": "1인 던전 / 최초 클리어 보상 / 수령 버튼",
+        "id": 8003748,
+        "alias": "UI.Dungeon.Popup.FirstClear.GetReward",
+        "text": "领取奖励"
+    },
+    "8003749": {
+        "deprecated": false,
+        "Dev_Desc": "1인 던전 / 최초 클리어 보상 / 수령 완료",
+        "id": 8003749,
+        "alias": "UI.Dungeon.Popup.FirstClear.Complete",
+        "text": "达到"
+    },
+    "8003750": {
+        "deprecated": false,
+        "Dev_Desc": "소울 파편 획득 / 토스트 메시지",
+        "id": 8003750,
+        "alias": "UI.SoulPiecePopUp.AcquireDesc",
+        "text": "你获得了<arg p=[2:integer]/>的灵魂碎片，而不是<arg p=[1:string]/>。"
+    },
+    "8003751": {
+        "deprecated": false,
+        "Dev_Desc": "소울 파편 획득 / 토스트 메시지(1종만 획득)",
+        "id": 8003751,
+        "alias": "UI.SoulPiecePopUp.AcquireDesc.Single",
+        "text": "你获得了一块灵魂碎片。"
+    },
+    "8003752": {
+        "deprecated": false,
+        "Dev_Desc": "이벤트 제작 레시피 탭 / 협행 완료권",
+        "id": 8003752,
+        "alias": "UI.Craft.LeftSubTabName.Event.PassTicket_01",
+        "text": "协作完成损失"
+    },
+    "8003753": {
+        "deprecated": false,
+        "Dev_Desc": "재련 제거 아이템 서브타입명",
+        "id": 8003753,
+        "alias": "UI.Item.ItemType.RemoveSmeltStone",
+        "text": "灵石"
+    },
+    "8003754": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003754,
+        "alias": "UI.MissingText.8003754",
+        "text": "愤怒"
+    },
+    "8003755": {
+        "deprecated": false,
+        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "id": 8003755,
+        "alias": "UI.MissingText.8003755",
+        "text": "数字"
     }
 }

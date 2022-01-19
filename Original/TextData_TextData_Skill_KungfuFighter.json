@@ -235,28 +235,28 @@
         "Dev_Desc": "승천권",
         "id": 60020033,
         "alias": "Contents.Skill.Desc.LightGauntlet.2070",
-        "text": "적에게 짧게 접근하여 올려친 뒤, 일정 확률로 <textColor=[248:99:99:255]>공중</>으로 띄웁니다.\n공중에서 떨어진 후 <textColor=[248:99:99:255]>기절</> 상태가 됩니다."
+        "text": "적에게 짧게 접근하여 올려친 뒤, 일정 확률로 <textColor=[248:99:99:255]>공중</>으로 띄웁니다."
     },
     "60020034": {
         "deprecated": false,
         "Dev_Desc": "승천권_증폭",
         "id": 60020034,
         "alias": "Contents.Skill.Desc.LightGauntlet.2071",
-        "text": "적에게 짧게 접근하여 올려친 뒤, 일정 확률로 <textColor=[248:99:99:255]>공중</>으로 띄웁니다.\n공중에서 떨어진 후 <textColor=[248:99:99:255]>기절</> 상태가 됩니다."
+        "text": "적에게 짧게 접근하여 올려친 뒤, 일정 확률로 <textColor=[248:99:99:255]>공중</>으로 띄웁니다."
     },
     "60020035": {
         "deprecated": false,
         "Dev_Desc": "승천권_극한",
         "id": 60020035,
         "alias": "Contents.Skill.Desc.LightGauntlet.2072",
-        "text": "적에게 짧게 접근하여 올려친 뒤, 일정 확률로 <textColor=[248:99:99:255]>공중</>으로 띄웁니다.\n공중에서 떨어진 후 <textColor=[248:99:99:255]>기절</> 상태가 됩니다."
+        "text": "적에게 짧게 접근하여 올려친 뒤, 일정 확률로 <textColor=[248:99:99:255]>공중</>으로 띄웁니다."
     },
     "60020036": {
         "deprecated": false,
         "Dev_Desc": "승천권_돌파",
         "id": 60020036,
         "alias": "Contents.Skill.Desc.LightGauntlet.2073",
-        "text": "적에게 짧게 접근하여 올려친 뒤, 일정 확률로 <textColor=[248:99:99:255]>공중</>으로 띄웁니다.\n이후 발로 내려쳐 피해를 입히고 <textColor=[248:99:99:255]>기절</> 시킵니다."
+        "text": "적에게 짧게 접근하여 올려친 뒤, 일정 확률로 <textColor=[248:99:99:255]>공중</>으로 띄웁니다."
     },
     "60020037": {
         "deprecated": false,
@@ -1341,7 +1341,7 @@
         "Dev_Desc": "맹호격_돌파_설명",
         "id": 60020196,
         "alias": "Contents.Skill.Desc.LightGauntlet.2113",
-        "text": "뛰어올라 지면을 강타해 일정 확률로 적에게 <textColor=[248:99:99:255]>공중</> 효과를 부여하고 피해를 입힙니다.\n공중에서 떨어진 후 <textColor=[248:99:99:255]>기절</> 상태가 됩니다."
+        "text": "뛰어올라 지면을 강타해 일정 확률로 적에게 <textColor=[248:99:99:255]>공중</> 효과를 부여하고 피해를 입힙니다."
     },
     "60020197": {
         "deprecated": false,
@@ -1376,7 +1376,7 @@
         "Dev_Desc": "패시브_권법연계Ⅰ_설명",
         "id": 60020201,
         "alias": "Contents.Skill.Desc.LightGauntlet.2810",
-        "text": "보스 몬스터 공격 시 일정 확률로 \"절명각\", \"맹호격\", \"승천권\"이 활성화됩니다.\n(사용 무공 활성화 대기시간 15초)"
+        "text": "보스 몬스터 공격 시 \"절명각\", \"맹호격\", \"승천권\"이 활성화됩니다.\n(사용 무공 활성화 대기시간 18초)"
     },
     "60020202": {
         "deprecated": false,
@@ -1384,5 +1384,19 @@
         "id": 60020202,
         "alias": "Contents.Skill.useEffectDesc.LightGauntlet.2810",
         "text": "조건부 무공 활성화"
+    },
+    "60020203": {
+        "deprecated": false,
+        "Dev_Desc": "패시브_권법연계Ⅱ_이름",
+        "id": 60020203,
+        "alias": "Contents.Skill.Name.LightGauntlet.2811",
+        "text": "권법연계Ⅱ"
+    },
+    "60020204": {
+        "deprecated": false,
+        "Dev_Desc": "패시브_권법연계Ⅰ_설명",
+        "id": 60020204,
+        "alias": "Contents.Skill.Desc.LightGauntlet.2811",
+        "text": "보스 몬스터에게 \"다리걸기[돌파]\" 공격 시 확정 연계 공격을 합니다."
     }
 }

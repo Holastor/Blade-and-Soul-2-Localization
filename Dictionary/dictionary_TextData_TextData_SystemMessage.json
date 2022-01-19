@@ -7761,5 +7761,54 @@
         "English_Text": "It must contain at least one English or Korean character.",
         "Russian_Text": "",
         "Chinese_Text": "它必须包含至少一个英文或韩文字符。"
+    },
+    "9001151": {
+        "Dev_Desc": "루팅 / 권한포기 / 토스트메시지 / 포기성공",
+        "Original_Text": "우선 습득 권한을 포기하였습니다. ",
+        "English_Text": "First of all, I have given up the right to acquire.",
+        "Russian_Text": "",
+        "Chinese_Text": "首先，我已经放弃了获取权。"
+    },
+    "9001152": {
+        "Dev_Desc": "루팅 / 권한포기 / 토스트메시지 / 거리실패",
+        "Original_Text": "너무 멀리 떨어져 있습니다.",
+        "English_Text": "It's too far away.",
+        "Russian_Text": "",
+        "Chinese_Text": "太远了。"
+    },
+    "9001153": {
+        "Dev_Desc": "루팅 / 권한포기 / 토스트메시지 / 이미 포기한 후 재포기",
+        "Original_Text": "포기할 권한이 남아있지 않습니다.",
+        "English_Text": "No rights left to give up.",
+        "Russian_Text": "",
+        "Chinese_Text": "没有权利放弃。"
+    },
+    "9001154": {
+        "Dev_Desc": "귀환의 돌 / 캐스팅 도중 다시 사용",
+        "Original_Text": "이미 사용 중입니다.",
+        "English_Text": "Already in use.",
+        "Russian_Text": "",
+        "Chinese_Text": "已在使用中。"
+    },
+    "9001155": {
+        "Dev_Desc": "귀환의 돌 / 이동 중 사용",
+        "Original_Text": "이동 중에는 사용할 수 없습니다.",
+        "English_Text": "Cannot be used while on the move.",
+        "Russian_Text": "",
+        "Chinese_Text": "不能在移动中使用。"
+    },
+    "9001156": {
+        "Dev_Desc": "귀환의 돌 / 캐스팅 도중 아이템 파괴",
+        "Original_Text": "귀환에 실패하였습니다.",
+        "English_Text": "Return failed.",
+        "Russian_Text": "",
+        "Chinese_Text": "返回失败。"
+    },
+    "9001157": {
+        "Dev_Desc": "소울 패스 / 활성화 / 아이템 부족",
+        "Original_Text": "<arg p=[1:string]/><ga/> 부족하여 활성화할 수 없습니다.",
+        "English_Text": "Not enough <arg p=[1:string]/><ga/> to activate.",
+        "Russian_Text": "",
+        "Chinese_Text": "<arg p=[1:string]/><ga/> 不足以激活。"
     }
 }

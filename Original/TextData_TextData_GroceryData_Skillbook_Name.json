@@ -85,6 +85,12 @@
         "alias": "Contents.Item.Name.9100133",
         "text": "[검] 검날손질(각인)"
     },
+    "89000682": {
+        "deprecated": false,
+        "id": 89000682,
+        "alias": "Contents.Item.Name.9100134",
+        "text": "[검] 검술연계Ⅱ(각인)"
+    },
     "89000688": {
         "deprecated": false,
         "id": 89000688,
@@ -203,6 +209,13 @@
         "id": 89000733,
         "alias": "Contents.Item.Name.9100234",
         "text": "[권갑] 맹호격(각인)"
+    },
+    "89000734": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89000734,
+        "alias": "Contents.Item.Name.9100235",
+        "text": "[권갑] 권법연계Ⅱ(각인)"
     },
     "89000739": {
         "deprecated": false,
@@ -333,6 +346,13 @@
         "id": 89000783,
         "alias": "Contents.Item.Name.9100333",
         "text": "[도끼] 강철(각인)"
+    },
+    "89000784": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89000784,
+        "alias": "Contents.Item.Name.9100334",
+        "text": "[도끼] 부술연계Ⅱ(각인)"
     },
     "89000790": {
         "deprecated": false,
@@ -465,6 +485,13 @@
         "alias": "Contents.Item.Name.9100433",
         "text": "[기공패] 폭열(각인)"
     },
+    "89000835": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89000835,
+        "alias": "Contents.Item.Name.9100434",
+        "text": "[기공패] 멸소(각인)"
+    },
     "89000841": {
         "deprecated": false,
         "id": 89000841,
@@ -545,7 +572,7 @@
         "deprecated": false,
         "id": 89000875,
         "alias": "Contents.Item.Name.9100523",
-        "text": "[활] 출혈화살(각인)"
+        "text": "[활] 단일사격(각인)"
     },
     "89000876": {
         "deprecated": false,
@@ -583,6 +610,13 @@
         "id": 89000886,
         "alias": "Contents.Item.Name.9100534",
         "text": "[활] 깊은상처(각인)"
+    },
+    "89000887": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89000887,
+        "alias": "Contents.Item.Name.9100535",
+        "text": "[활] 궁술운용(각인)"
     },
     "89000892": {
         "deprecated": false,
@@ -698,6 +732,13 @@
         "id": 89000935,
         "alias": "Contents.Item.Name.9100632",
         "text": "[법종] 득음(각인)"
+    },
+    "89000936": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89000936,
+        "alias": "Contents.Item.Name.9100633",
+        "text": "[법종] 예음(각인)"
     },
     "89000943": {
         "deprecated": false,
@@ -1016,6 +1057,13 @@
         "alias": "Contents.Item.Name.9110133",
         "text": "[검] 검날손질"
     },
+    "89001090": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89001090,
+        "alias": "Contents.Item.Name.9110134",
+        "text": "[검] 검술연계Ⅱ"
+    },
     "89001096": {
         "deprecated": false,
         "id": 89001096,
@@ -1134,6 +1182,13 @@
         "id": 89001141,
         "alias": "Contents.Item.Name.9110234",
         "text": "[권갑] 맹호격"
+    },
+    "89001142": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89001142,
+        "alias": "Contents.Item.Name.9110235",
+        "text": "[권갑] 권법연계Ⅱ"
     },
     "89001147": {
         "deprecated": false,
@@ -1266,6 +1321,13 @@
         "alias": "Contents.Item.Name.9110333",
         "text": "[도끼] 강철"
     },
+    "89001192": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89001192,
+        "alias": "Contents.Item.Name.9110334",
+        "text": "[도끼] 부술연계Ⅱ"
+    },
     "89001198": {
         "deprecated": false,
         "Dev_Desc": "GroceryData_Item",
@@ -1397,6 +1459,13 @@
         "alias": "Contents.Item.Name.9110433",
         "text": "[기공패] 폭열"
     },
+    "89001243": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89001243,
+        "alias": "Contents.Item.Name.9110434",
+        "text": "[기공패] 멸소"
+    },
     "89001249": {
         "deprecated": false,
         "id": 89001249,
@@ -1477,7 +1546,7 @@
         "deprecated": false,
         "id": 89001283,
         "alias": "Contents.Item.Name.9110523",
-        "text": "[활] 출혈화살"
+        "text": "[활] 단일사격"
     },
     "89001284": {
         "deprecated": false,
@@ -1515,6 +1584,13 @@
         "id": 89001294,
         "alias": "Contents.Item.Name.9110534",
         "text": "[활] 깊은상처"
+    },
+    "89001295": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89001295,
+        "alias": "Contents.Item.Name.9110535",
+        "text": "[활] 궁술운용"
     },
     "89001300": {
         "deprecated": false,
@@ -1634,6 +1710,13 @@
         "id": 89001343,
         "alias": "Contents.Item.Name.9110632",
         "text": "[법종] 득음"
+    },
+    "89001344": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89001344,
+        "alias": "Contents.Item.Name.9110633",
+        "text": "[법종] 예음"
     },
     "89001351": {
         "deprecated": false,
@@ -2436,7 +2519,7 @@
         "deprecated": false,
         "id": 89001640,
         "alias": "Contents.Item.Name.9101512",
-        "text": "[활] 증폭의 정수: 출혈화살(각인)"
+        "text": "[활] 증폭의 정수: 단일사격(각인)"
     },
     "89001641": {
         "deprecated": false,
@@ -2467,7 +2550,7 @@
         "deprecated": false,
         "id": 89001651,
         "alias": "Contents.Item.Name.9101523",
-        "text": "[활] 극한의 정수: 출혈화살(각인)"
+        "text": "[활] 극한의 정수: 단일사격(각인)"
     },
     "89001652": {
         "deprecated": false,
@@ -2506,7 +2589,7 @@
         "Dev_Desc": "GroceryData_Item",
         "id": 89001662,
         "alias": "Contents.Item.Name.9101534",
-        "text": "[활] 돌파의 정수: 출혈화살(각인)"
+        "text": "[활] 돌파의 정수: 단일사격(각인)"
     },
     "89001663": {
         "deprecated": false,
@@ -3522,7 +3605,7 @@
         "deprecated": false,
         "id": 89001997,
         "alias": "Contents.Item.Name.9111512",
-        "text": "[활] 증폭의 정수: 출혈화살"
+        "text": "[활] 증폭의 정수: 단일사격"
     },
     "89001998": {
         "deprecated": false,
@@ -3553,7 +3636,7 @@
         "deprecated": false,
         "id": 89002008,
         "alias": "Contents.Item.Name.9111523",
-        "text": "[활] 극한의 정수: 출혈화살"
+        "text": "[활] 극한의 정수: 단일사격"
     },
     "89002009": {
         "deprecated": false,
@@ -3592,7 +3675,7 @@
         "Dev_Desc": "GroceryData_Item",
         "id": 89002019,
         "alias": "Contents.Item.Name.9111534",
-        "text": "[활] 돌파의 정수: 출혈화살"
+        "text": "[활] 돌파의 정수: 단일사격"
     },
     "89002020": {
         "deprecated": false,
@@ -3950,6 +4033,13 @@
         "alias": "Contents.Item.Name.9120133",
         "text": "[검] 검날손질(상점)"
     },
+    "89002384": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89002384,
+        "alias": "Contents.Item.Name.9120134",
+        "text": "[검] 검술연계Ⅱ(상점)"
+    },
     "89002390": {
         "deprecated": false,
         "id": 89002390,
@@ -4068,6 +4158,13 @@
         "id": 89002435,
         "alias": "Contents.Item.Name.9120234",
         "text": "[권갑] 맹호격(상점)"
+    },
+    "89002436": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89002436,
+        "alias": "Contents.Item.Name.9120235",
+        "text": "[권갑] 권법연계Ⅱ(상점)"
     },
     "89002441": {
         "deprecated": false,
@@ -4202,6 +4299,13 @@
         "alias": "Contents.Item.Name.9120333",
         "text": "[도끼] 강철(상점)"
     },
+    "89002486": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89002486,
+        "alias": "Contents.Item.Name.9120334",
+        "text": "[도끼] 부술연계Ⅱ(상점)"
+    },
     "89002492": {
         "deprecated": false,
         "Dev_Desc": "GroceryData_Item",
@@ -4333,6 +4437,13 @@
         "alias": "Contents.Item.Name.9120433",
         "text": "[기공패] 폭열(상점)"
     },
+    "89002537": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89002537,
+        "alias": "Contents.Item.Name.9120434",
+        "text": "[기공패] 멸소(상점)"
+    },
     "89002543": {
         "deprecated": false,
         "id": 89002543,
@@ -4412,7 +4523,7 @@
         "deprecated": false,
         "id": 89002577,
         "alias": "Contents.Item.Name.9120523",
-        "text": "[활] 출혈화살(상점)"
+        "text": "[활] 단일사격(상점)"
     },
     "89002578": {
         "deprecated": false,
@@ -4450,6 +4561,13 @@
         "id": 89002588,
         "alias": "Contents.Item.Name.9120534",
         "text": "[활] 깊은상처(상점)"
+    },
+    "89002589": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89002589,
+        "alias": "Contents.Item.Name.9120535",
+        "text": "[활] 궁술운용(상점)"
     },
     "89002594": {
         "deprecated": false,
@@ -4569,6 +4687,13 @@
         "id": 89002637,
         "alias": "Contents.Item.Name.9120632",
         "text": "[법종] 득음(상점)"
+    },
+    "89002638": {
+        "deprecated": false,
+        "Dev_Desc": "GroceryData_Item",
+        "id": 89002638,
+        "alias": "Contents.Item.Name.9120633",
+        "text": "[법종] 예음(상점)"
     },
     "89002645": {
         "deprecated": false,

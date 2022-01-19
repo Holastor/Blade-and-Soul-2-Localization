@@ -1228,14 +1228,14 @@
         "Dev_Desc": "패시브_염제_효과",
         "id": 60030182,
         "alias": "Contents.Skill.useEffectDesc.FireBangle.3036",
-        "text": "모든 속성 공격 증폭 +7%"
+        "text": "모든 속성 공격 증폭 +10%, 무공 공격 증폭 +3%"
     },
     "60030183": {
         "deprecated": false,
         "Dev_Desc": "기공패 패시브 염제_설명",
         "id": 60030183,
         "alias": "Contents.Skill.Desc.FireBangle.3036",
-        "text": "만물이 띠는 기운에 통달합니다.\n모든 속성 공격 증폭이 증가합니다."
+        "text": "만물이 띠는 기운에 통달합니다.\n모든 속성 공격 증폭과 무공 공격 증폭이 증가합니다."
     },
     "60030184": {
         "deprecated": false,
@@ -1256,6 +1256,6 @@
         "Dev_Desc": "기공패 패시브 멸소",
         "id": 60030186,
         "alias": "Contents.Skill.useEffectDesc.FireBangle.3041",
-        "text": "보스 공격력 +4"
+        "text": "보스 공격력 +6"
     }
 }

@@ -716,7 +716,7 @@
     "89002245": {
         "deprecated": false,
         "id": 89002245,
-        "alias": "Contents.Item.Name.9200468",
+        "alias": "Contents.Event.Item.Name.9200468",
         "text": "희귀 제작 비법서 조각(각인)"
     },
     "89002246": {
@@ -740,7 +740,7 @@
     "89002249": {
         "deprecated": false,
         "id": 89002249,
-        "alias": "Contents.Item.Name.9200472",
+        "alias": "Contents.Event.Item.Name.9200472",
         "text": "영웅 제작 비법서 조각(각인)"
     },
     "89002250": {
@@ -764,7 +764,7 @@
     "89002253": {
         "deprecated": false,
         "id": 89002253,
-        "alias": "Contents.Item.Name.9200476",
+        "alias": "Contents.Event.Item.Name.9200476",
         "text": "전설 제작 비법서 조각(각인)"
     },
     "89002254": {
@@ -788,7 +788,7 @@
     "89002257": {
         "deprecated": false,
         "id": 89002257,
-        "alias": "Contents.Item.Name.9200480",
+        "alias": "Contents.Event.Item.Name.9200480",
         "text": "심연의 제작 비법서 조각(각인)"
     },
     "89002258": {
@@ -824,19 +824,19 @@
     "89002283": {
         "deprecated": false,
         "id": 89002283,
-        "alias": "Contents.Item.Name.9200452",
+        "alias": "Contents.Event.Item.Name.9200452",
         "text": "희귀 제작 비법서(각인)"
     },
     "89002284": {
         "deprecated": false,
         "id": 89002284,
-        "alias": "Contents.Item.Name.9200453",
+        "alias": "Contents.Event.Item.Name.9200453",
         "text": "영웅 제작 비법서(각인)"
     },
     "89002285": {
         "deprecated": false,
         "id": 89002285,
-        "alias": "Contents.Item.Name.9200454",
+        "alias": "Contents.Event.Item.Name.9200454",
         "text": "전설 제작 비법서(각인)"
     },
     "89002287": {
@@ -860,7 +860,7 @@
     "89002290": {
         "deprecated": false,
         "id": 89002290,
-        "alias": "Contents.Item.Name.9200459",
+        "alias": "Contents.Event.Item.Name.9200459",
         "text": "심연의 무기 제작 비법서(각인)"
     },
     "89002291": {
@@ -884,7 +884,7 @@
     "89002294": {
         "deprecated": false,
         "id": 89002294,
-        "alias": "Contents.Item.Name.9200463",
+        "alias": "Contents.Event.Item.Name.9200463",
         "text": "심연의 방어구 제작 비법서(각인)"
     },
     "89002295": {
@@ -908,7 +908,7 @@
     "89002298": {
         "deprecated": false,
         "id": 89002298,
-        "alias": "Contents.Item.Name.9200467",
+        "alias": "Contents.Event.Item.Name.9200467",
         "text": "심연의 장신구 제작 비법서(각인)"
     },
     "89002299": {
@@ -6638,7 +6638,7 @@
     "89003900": {
         "deprecated": false,
         "id": 89003900,
-        "alias": "Contents.Item.Name.9202095",
+        "alias": "Contents.Event.Item.Name.9202095",
         "text": "찬란한 언령석 가루(각인)"
     },
     "89003901": {
@@ -8025,7 +8025,7 @@
         "deprecated": false,
         "id": 89004134,
         "alias": "Contents.Item.Name.9901288",
-        "text": "대사형의 주화(각인)"
+        "text": "대사형의 주화"
     },
     "89004135": {
         "deprecated": false,
@@ -8224,5 +8224,149 @@
         "id": 89004167,
         "alias": "Contents.Item.Name.9901303",
         "text": "해룡의 정기 4개 묶음"
+    },
+    "89004168": {
+        "deprecated": false,
+        "id": 89004168,
+        "alias": "Contents.Item.Name.9901304",
+        "text": "충전석: 낙원대성의 시련 던전(1회)(각인)"
+    },
+    "89004169": {
+        "deprecated": false,
+        "id": 89004169,
+        "alias": "Contents.Item.Name.9901305",
+        "text": "충전석: 곤야차의 시련 던전(1회)(각인)"
+    },
+    "89004170": {
+        "deprecated": false,
+        "id": 89004170,
+        "alias": "Contents.Item.Name.9901306",
+        "text": "충전석: 낙원대성의 시련 던전(연습)(1회)(각인)"
+    },
+    "89004171": {
+        "deprecated": false,
+        "id": 89004171,
+        "alias": "Contents.Item.Name.9901307",
+        "text": "충전석: 곤야차의 시련 던전(연습)(1회)(각인)"
+    },
+    "89004172": {
+        "deprecated": false,
+        "id": 89004172,
+        "alias": "Contents.Item.Name.9901308",
+        "text": "협행 완료패(각인)"
+    },
+    "89004173": {
+        "deprecated": false,
+        "id": 89004173,
+        "alias": "Contents.Item.Name.9901309",
+        "text": "고급 협행 완료패(각인)"
+    },
+    "89004174": {
+        "deprecated": false,
+        "id": 89004174,
+        "alias": "Contents.Item.Name.9901310",
+        "text": "곤야차의 언령석 상자(각인)"
+    },
+    "89004175": {
+        "deprecated": false,
+        "id": 89004175,
+        "alias": "Contents.Item.Name.9901311",
+        "text": "낙원대성의 언령석 상자(각인)"
+    },
+    "89004176": {
+        "deprecated": false,
+        "id": 89004176,
+        "alias": "Contents.Item.Name.9901312",
+        "text": "시련 던전 충전석 상자(각인)"
+    },
+    "89004177": {
+        "deprecated": false,
+        "id": 89004177,
+        "alias": "Contents.Item.Name.9901313",
+        "text": "시련 던전 충전석 선택 상자(각인)"
+    },
+    "89004178": {
+        "deprecated": false,
+        "id": 89004178,
+        "alias": "Contents.Item.Name.9901314",
+        "text": "상급 시련 던전 충전석 선택 상자(각인)"
+    },
+    "89004179": {
+        "deprecated": false,
+        "id": 89004179,
+        "alias": "Contents.Item.Name.9901315",
+        "text": "고급 내력의 단환(각인)"
+    },
+    "89004180": {
+        "deprecated": false,
+        "id": 89004180,
+        "alias": "Contents.Item.Name.9901316",
+        "text": "반달호수 협행 지원 상자(각인)"
+    },
+    "89004181": {
+        "deprecated": false,
+        "id": 89004181,
+        "alias": "Contents.Item.Name.9901317",
+        "text": "태록림 협행 지원 상자(각인)"
+    },
+    "89004182": {
+        "deprecated": false,
+        "id": 89004182,
+        "alias": "Contents.Item.Name.9901318",
+        "text": "비옥 대지 협행 지원 상자(각인)"
+    },
+    "89004183": {
+        "deprecated": false,
+        "id": 89004183,
+        "alias": "Contents.Item.Name.9901319",
+        "text": "해룡 산맥 협행 지원 상자(각인)"
+    },
+    "89004184": {
+        "deprecated": false,
+        "id": 89004184,
+        "alias": "Contents.Event.Item.Name.9901327",
+        "text": "소혼의 병풍: 귀혼"
+    },
+    "89004185": {
+        "deprecated": false,
+        "id": 89004185,
+        "alias": "Contents.Item.Name.9901320",
+        "text": "화려한 묵화 소울 소환서(1회)"
+    },
+    "89004186": {
+        "deprecated": false,
+        "id": 89004186,
+        "alias": "Contents.Item.Name.9901321",
+        "text": "화려한 묵화 소울 소환서(11회)"
+    },
+    "89004187": {
+        "deprecated": false,
+        "id": 89004187,
+        "alias": "Contents.Item.Name.9901322",
+        "text": "빛나는 묵화 소울 소환서(11회)"
+    },
+    "89004188": {
+        "deprecated": false,
+        "id": 89004188,
+        "alias": "Contents.Item.Name.9901323",
+        "text": "영롱한 묵화 소울 소환서(1회)"
+    },
+    "89004189": {
+        "deprecated": false,
+        "id": 89004189,
+        "alias": "Contents.Item.Name.9901324",
+        "text": "묵화 영웅 소울 선택 상자"
+    },
+    "89004190": {
+        "deprecated": false,
+        "id": 89004190,
+        "alias": "Contents.Item.Name.9901325",
+        "text": "유란 소울 소환서(1회)(각인)"
+    },
+    "89004191": {
+        "deprecated": false,
+        "id": 89004191,
+        "alias": "Contents.Item.Name.9901326",
+        "text": "거거붕 소울 소환서(1회)(각인)"
     }
 }

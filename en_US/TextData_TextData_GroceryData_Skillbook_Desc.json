@@ -97,6 +97,13 @@
         "alias": "Contents.Item.Desc.9100133",
         "text": "Sharpens the blade.\nIncreases Melee Piercing Damage."
     },
+    "99000889": {
+        "deprecated": false,
+        "Dev_Desc": "희귀 / 검술연계Ⅱ / 패시브",
+        "id": 99000889,
+        "alias": "Contents.Item.Desc.9100134",
+        "text": "보스 몬스터에게 \"올려베기[극한]\", \"올려베기[돌파]\" 공격 시 확정 연계 공격을 합니다."
+    },
     "99000895": {
         "deprecated": false,
         "Dev_Desc": "영웅 / 어검징표 / 액티브 / 각인",
@@ -130,7 +137,7 @@
         "Dev_Desc": "검술연계Ⅰ",
         "id": 99000899,
         "alias": "Contents.Item.Desc.9100144",
-        "text": "보스 몬스터 공격 시 일정 확률로 \"천지가르기\", \"구름베기\"가 활성화됩니다.\n(사용 무공 활성화 대기시간 15초)"
+        "text": "보스 몬스터 공격 시 \"천지가르기\", \"구름베기\"가 활성화됩니다.\n(사용 무공 활성화 대기시간 18초)"
     },
     "99000905": {
         "deprecated": false,
@@ -250,6 +257,13 @@
         "alias": "Contents.Item.Desc.9100234",
         "text": "Leaps into the air and smashes the ground. Has a chance to stun and deal damage to enemy."
     },
+    "99000941": {
+        "deprecated": false,
+        "Dev_Desc": "희귀 / 권법연계Ⅱ / 패시브 / 각인",
+        "id": 99000941,
+        "alias": "Contents.Item.Desc.9100235",
+        "text": "보스 몬스터에게 \"다리걸기[돌파]\" 공격 시 확정 연계 공격을 합니다."
+    },
     "99000946": {
         "deprecated": false,
         "Dev_Desc": "영웅 / 붕권 / 액티브 / 각인",
@@ -297,7 +311,7 @@
         "Dev_Desc": "영웅 / 권법연계Ⅰ / 패시브 / 각인",
         "id": 99000952,
         "alias": "Contents.Item.Desc.9100246",
-        "text": "보스 몬스터 공격 시 일정 확률로 \"절명각\", \"맹호격\", \"승천권\"이 활성화됩니다.\n(사용 무공 활성화 대기시간 15초)"
+        "text": "보스 몬스터 공격 시 \"절명각\", \"맹호격\", \"승천권\"이 활성화됩니다.\n(사용 무공 활성화 대기시간 18초)"
     },
     "99000956": {
         "deprecated": false,
@@ -838,6 +852,13 @@
         "alias": "Contents.Item.Desc.9100333",
         "text": "Strengthens the body as hard as iron.\nIncreases All Defense."
     },
+    "99001093": {
+        "deprecated": false,
+        "Dev_Desc": "희귀 / 부술연계Ⅱ / 패시브",
+        "id": 99001093,
+        "alias": "Contents.Item.Desc.9100334",
+        "text": "보스 몬스터에게 \"선풍[돌파]\" 공격 시 확정 연계 공격을 합니다."
+    },
     "99001099": {
         "deprecated": false,
         "Dev_Desc": "영웅 / 포효 / 액티브 / 각인",
@@ -871,7 +892,7 @@
         "Dev_Desc": "부술연계Ⅰ",
         "id": 99001103,
         "alias": "Contents.Item.Desc.9100344",
-        "text": "보스 몬스터 공격 시 일정 확률로 \"처단\"이 활성화됩니다.\n(사용 무공 활성화 대기시간 15초)"
+        "text": "보스 몬스터 공격 시 \"처단\"이 활성화됩니다.\n(사용 무공 활성화 대기시간 18초)"
     },
     "99001109": {
         "deprecated": false,
@@ -999,6 +1020,13 @@
         "alias": "Contents.Item.Desc.9100433",
         "text": "Increases Force Piercing Damage by understanding the nature of fire."
     },
+    "99001144": {
+        "deprecated": false,
+        "Dev_Desc": "희귀 / 멸소 / 패시브 / 각인",
+        "id": 99001144,
+        "alias": "Contents.Item.Desc.9100434",
+        "text": "강력한 적에게 더욱 무자비한 화염으로 공격합니다.\n보스 공격력이 증가합니다.\n\n[효과]\n보스 공격력 +6"
+    },
     "99001150": {
         "deprecated": false,
         "Dev_Desc": "영웅 / 봉황시 / 액티브 / 각인",
@@ -1032,7 +1060,7 @@
         "Dev_Desc": "영웅 / 염제 / 패시브 / 각인",
         "id": 99001154,
         "alias": "Contents.Item.Desc.9100444",
-        "text": "만물이 띠는 기운에 통달합니다.\n모든 속성 공격 증폭이 증가합니다.\n\n[효과]\n모든 속성 공격 증폭 +7%"
+        "text": "만물이 띠는 기운에 통달합니다.\n모든 속성 공격 증폭과 무공 공격 증폭이 증가합니다.\n\n[효과]\n모든 속성 공격 증폭 +10%\n무공 공격 증폭 +3%"
     },
     "99001161": {
         "deprecated": false,
@@ -1105,7 +1133,7 @@
     },
     "99001184": {
         "deprecated": false,
-        "Dev_Desc": "일반 / 출혈화살 / 패시브 / 각인",
+        "Dev_Desc": "일반 / 단일사격 / 액티브 / 각인",
         "id": 99001184,
         "alias": "Contents.Item.Desc.9100523",
         "text": "Shoots an arrow that has a chance to inflict Bleed on a target."
@@ -1151,6 +1179,13 @@
         "id": 99001195,
         "alias": "Contents.Item.Desc.9100534",
         "text": "The sharp arrowhead causes a deep wound.\nIncreases the duration of Bleed."
+    },
+    "99001196": {
+        "deprecated": false,
+        "Dev_Desc": "희귀 / 궁술운용 / 패시브 / 각인",
+        "id": 99001196,
+        "alias": "Contents.Item.Desc.9100535",
+        "text": "다중사격 치명타 시 활 공격력을 증가시키는 명사수 효과를 2초간 적용받습니다.\n최대 12회까지 중첩됩니다.\n\n[효과]\n활 공격력 +1"
     },
     "99001201": {
         "deprecated": false,
@@ -1297,6 +1332,13 @@
         "id": 99001244,
         "alias": "Contents.Item.Desc.9100632",
         "text": "Deals greater damage with a Bell by realizing the power of pitch."
+    },
+    "99001245": {
+        "deprecated": false,
+        "Dev_Desc": "희귀 / 예음",
+        "id": 99001245,
+        "alias": "Contents.Item.Desc.9100633",
+        "text": "예리한 기운을 음에 담아냅니다.\n\n[효과]\nPVE 관통력 +5, 보스 관통력 +5"
     },
     "99001252": {
         "deprecated": false,
@@ -1797,7 +1839,7 @@
     },
     "99001377": {
         "deprecated": false,
-        "Dev_Desc": "증폭의 정수 : 출혈화살 (각인)",
+        "Dev_Desc": "증폭의 정수 : 단일사격 (각인)",
         "id": 99001377,
         "alias": "Contents.Item.Desc.9101512",
         "text": "Essence used to evolve Bleeding Arrow. \\n Evolving reduces the cooldown of Bleeding Arrow by 1 second."
@@ -1832,7 +1874,7 @@
     },
     "99001388": {
         "deprecated": false,
-        "Dev_Desc": "극한의 정수 : 출혈화살 (각인)",
+        "Dev_Desc": "극한의 정수 : 단일사격 (각인)",
         "id": 99001388,
         "alias": "Contents.Item.Desc.9101523",
         "text": "Used to level up Bleeding Arrow.\nIncreases its Focus cost."
@@ -1874,7 +1916,7 @@
     },
     "99001399": {
         "deprecated": false,
-        "Dev_Desc": "돌파의 정수 : 출혈화살 (각인)",
+        "Dev_Desc": "돌파의 정수 : 단일사격 (각인)",
         "id": 99001399,
         "alias": "Contents.Item.Desc.9101534",
         "text": "Used to level up Bleeding Arrow.\nIncreases its Critical Rate and stacks Bleed 2 times on Critical Hit."
@@ -2213,6 +2255,6 @@
         "Dev_Desc": "봉쇄화살 / 액티브",
         "id": 99002654,
         "alias": "Contents.Item.Desc.9100544",
-        "text": "특수한 화살을 날려 대상을 포함한 최대 3인에게 피해를 입히고, 일정 확률로 막기를 관통하여 기절시킵니다.\n범위 내 무공에 적중당한 대상은 구르기를 포함한 지면에서 발이 떨어지는 무공을 사용할 수 없으며, 귀환이 불가하고 이동 속도가 감소합니다."
+        "text": "특수한 화살을 날려 대상을 포함한 최대 3인에게 피해를 입히고, 일정 확률로 막기를 관통하여 기절시킵니다.\n무공에 적중당한 범위 내 대상에게 이동을 방해하고 일부 무공 사용을 막는 봉쇄 효과를 적용합니다. "
     }
 }

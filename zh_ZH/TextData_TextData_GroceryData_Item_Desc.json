@@ -18116,12 +18116,14 @@
     },
     "99003183": {
         "deprecated": false,
+        "Dev_Desc": "충전석: 백화렴의 시련 던전(1회)(각인)",
         "id": 99003183,
         "alias": "Contents.Item.Desc.9900988",
         "text": "按你使用白花莲试炼地下城的次数收费。"
     },
     "99003184": {
         "deprecated": false,
+        "Dev_Desc": "충전석: 돌주먹의 시련 던전(1회)(각인)",
         "id": 99003184,
         "alias": "Contents.Item.Desc.9900989",
         "text": "收取东冲地牢试炼使用次数。"
@@ -20503,5 +20505,159 @@
         "id": 99003530,
         "alias": "Contents.Item.Desc.9901303",
         "text": "使用时可以获得4个海龙之魂。"
+    },
+    "99003531": {
+        "deprecated": false,
+        "Dev_Desc": "충전석: 낙원대성의 시련 던전(1회)(각인)",
+        "id": 99003531,
+        "alias": "Contents.Item.Desc.9901304",
+        "text": "收取天堂大城试炼副本的使用次数。"
+    },
+    "99003532": {
+        "deprecated": false,
+        "Dev_Desc": "충전석: 곤야차의 시련 던전(1회)(각인)",
+        "id": 99003532,
+        "alias": "Contents.Item.Desc.9901305",
+        "text": "充能在Gonyacha的试炼地牢中使用的次数。"
+    },
+    "99003533": {
+        "deprecated": false,
+        "Dev_Desc": "협행 완료패(각인)",
+        "id": 99003533,
+        "alias": "Contents.Item.Desc.9901308",
+        "text": "此项目需要立即完成。\\n所需数量因合作地区而异。"
+    },
+    "99003534": {
+        "deprecated": false,
+        "Dev_Desc": "고급 협행 완료패(각인)",
+        "id": 99003534,
+        "alias": "Contents.Item.Desc.9901309",
+        "text": "此项目需要立即完成协作专家。\\n所需数量因协作区域而异。"
+    },
+    "99003535": {
+        "deprecated": false,
+        "Dev_Desc": "곤야차의 언령석 상자(각인)",
+        "id": 99003535,
+        "alias": "Contents.Item.Desc.9901310",
+        "text": "使用时，可以按照设定的概率获得以下物品之一。"
+    },
+    "99003536": {
+        "deprecated": false,
+        "Dev_Desc": "낙원대성의 언령석 상자(각인)",
+        "id": 99003536,
+        "alias": "Contents.Item.Desc.9901311",
+        "text": "使用时，可以按照设定的概率获得以下物品之一。"
+    },
+    "99003537": {
+        "deprecated": false,
+        "Dev_Desc": "시련 던전 충전석 상자(각인)",
+        "id": 99003537,
+        "alias": "Contents.Item.Desc.9901312",
+        "text": "使用时，有一定概率获得1枚魔狱充能石。"
+    },
+    "99003538": {
+        "deprecated": false,
+        "Dev_Desc": "시련 던전 충전석 선택 상자(각인)",
+        "id": 99003538,
+        "alias": "Contents.Item.Desc.9901313",
+        "text": "使用时，可以选择以下物品之一获得。\\n\\n- 充电石：石拳地牢的试炼（1次）（印记）1ea\\n- 充电石：古拉克的试炼地牢（1次）（"
+    },
+    "99003539": {
+        "deprecated": false,
+        "Dev_Desc": "상급 시련 던전 충전석 선택 상자(각인)",
+        "id": 99003539,
+        "alias": "Contents.Item.Desc.9901314",
+        "text": "使用时，可以选择以下物品之一获得。\\n\\n- 充电石：白和炅的试炼地牢（1次）（印记）1ea\\n- 充电石：东忠的试炼地牢（1次）("
+    },
+    "99003540": {
+        "deprecated": false,
+        "Dev_Desc": "고급 내력의 단환(각인)",
+        "id": 99003540,
+        "alias": "Contents.Item.Desc.9901315",
+        "text": "使用时恢复很多力量。"
+    },
+    "99003541": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 협행 지원 상자(각인)",
+        "id": 99003541,
+        "alias": "Contents.Item.Desc.9901316",
+        "text": "使用时，可以按照设定的概率获得一个汪达尔湖同伴奖励。"
+    },
+    "99003542": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 지원 상자(각인)",
+        "id": 99003542,
+        "alias": "Contents.Item.Desc.9901317",
+        "text": "使用时，可以按照设定的概率，获得一份太极拳补偿奖励。"
+    },
+    "99003543": {
+        "deprecated": false,
+        "Dev_Desc": "비옥 대지 협행 지원 상자(각인)",
+        "id": 99003543,
+        "alias": "Contents.Item.Desc.9901318",
+        "text": "使用后，有一定概率获得1个沃土战报。"
+    },
+    "99003544": {
+        "deprecated": false,
+        "Dev_Desc": "해룡 산맥 협행 지원 상자(각인)",
+        "id": 99003544,
+        "alias": "Contents.Item.Desc.9901319",
+        "text": "使用时，可以以一定的概率获得海龙山合作奖励之一。"
+    },
+    "99003545": {
+        "deprecated": false,
+        "Dev_Desc": "소혼의 병풍: 귀혼",
+        "id": 99003545,
+        "alias": "Contents.Item.Desc.9901327",
+        "text": "这个道具是用来召唤boss的，在使用灵魂画面的角色面前召唤了一个鬼魂。"
+    },
+    "99003546": {
+        "deprecated": false,
+        "Dev_Desc": "화려한 묵화 소울 소환서(1회)",
+        "id": 99003546,
+        "alias": "Contents.Item.Desc.9901320",
+        "text": "使用时，可以按照设定的概率获得灵魂。\\n（等级：高级～传奇）"
+    },
+    "99003547": {
+        "deprecated": false,
+        "Dev_Desc": "화려한 묵화 소울 소환서(11회)",
+        "id": 99003547,
+        "alias": "Contents.Item.Desc.9901321",
+        "text": "使用时，可以按照设定的概率获得灵魂。\\n（等级：高级～传奇）"
+    },
+    "99003548": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 묵화 소울 소환서(11회)",
+        "id": 99003548,
+        "alias": "Contents.Item.Desc.9901322",
+        "text": "使用时，可以按照设定的概率获得灵魂。\\n（等级：普通~英雄）"
+    },
+    "99003549": {
+        "deprecated": false,
+        "Dev_Desc": "영롱한 묵화 소울 소환서(1회)",
+        "id": 99003549,
+        "alias": "Contents.Item.Desc.9901323",
+        "text": "使用时，可以按照设定的概率获得灵魂。\\n（等级：英雄~传奇）"
+    },
+    "99003550": {
+        "deprecated": false,
+        "Dev_Desc": "묵화 영웅 소울 선택 상자",
+        "id": 99003550,
+        "alias": "Contents.Item.Desc.9901324",
+        "text": "使用时，可以获得以下英雄魂卷之一。\\n\\n- 玉兰魂卷（1次）（刻）\\n- Geogeobung魂卷（1次）（刻）"
+    },
+    "99003551": {
+        "deprecated": false,
+        "Dev_Desc": "유란 소울 소환서(1회)(각인)",
+        "id": 99003551,
+        "alias": "Contents.Item.Desc.9901325",
+        "text": "使用后，可以获得玉然之魂。"
+    },
+    "99003552": {
+        "deprecated": false,
+        "Dev_Desc": "거거붕 소울 소환서(1회)(각인)",
+        "id": 99003552,
+        "alias": "Contents.Item.Desc.9901326",
+        "text": "使用后，你将获得一个地质沼泽之魂。"
     }
 }

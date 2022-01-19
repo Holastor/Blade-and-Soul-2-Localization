@@ -666,45 +666,38 @@
     },
     "60050095": {
         "deprecated": false,
-        "Dev_Desc": "출혈화살_이름",
+        "Dev_Desc": "단일사격_이름",
         "id": 60050095,
         "alias": "Contents.Skill.Name.LongBow.5010",
         "text": "Focus cost ▼"
     },
     "60050096": {
         "deprecated": false,
-        "Dev_Desc": "출혈화살_설명",
+        "Dev_Desc": "단일사격_설명",
         "id": 60050096,
         "alias": "Contents.Skill.Desc.LongBow.5010",
         "text": "Critical Rate ▲ / 2 stacks of Bleed on Critical Hit"
     },
     "60050097": {
         "deprecated": false,
-        "Dev_Desc": "출혈화살_증폭",
+        "Dev_Desc": "단일사격_증폭",
         "id": 60050097,
         "alias": "Contents.Skill.acquireEffectDesc.LongBow.5061",
         "text": "Cooldown -1 second"
     },
     "60050098": {
         "deprecated": false,
-        "Dev_Desc": "출혈화살_극한",
+        "Dev_Desc": "단일사격_극한",
         "id": 60050098,
         "alias": "Contents.Skill.acquireEffectDesc.LongBow.5062",
         "text": "Strength consumption -1"
     },
     "60050099": {
         "deprecated": false,
-        "Dev_Desc": "출혈화살_돌파",
+        "Dev_Desc": "단일사격_돌파",
         "id": 60050099,
         "alias": "Contents.Skill.acquireEffectDesc.LongBow.5063",
         "text": "Increased Damage"
-    },
-    "60050100": {
-        "deprecated": false,
-        "Dev_Desc": "출혈화살_돌파_효과",
-        "id": 60050100,
-        "alias": "Contents.Effect.Name.LongBow.5013",
-        "text": "2 stacks of bleeding"
     },
     "60050101": {
         "deprecated": false,
@@ -904,14 +897,14 @@
     },
     "60050129": {
         "deprecated": false,
-        "Dev_Desc": "출혈화살",
+        "Dev_Desc": "단일사격",
         "id": 60050129,
         "alias": "Contents.Skill.Name.LongBow.5870",
         "text": "Puts all distracting thoughts behind to concentrate on the battle.\nIncreases Ranged Critical Rate and Critical Bonus."
     },
     "60050130": {
         "deprecated": false,
-        "Dev_Desc": "출혈화살",
+        "Dev_Desc": "단일사격",
         "id": 60050130,
         "alias": "Contents.Skill.Desc.LongBow.5870",
         "text": "Bleeding Arrow"
@@ -1097,5 +1090,131 @@
         "id": 60050156,
         "alias": "Contents.Skill.requirementDesc.LongBow.5200",
         "text": "Soul Farring Stun Target"
+    },
+    "60050157": {
+        "deprecated": false,
+        "Dev_Desc": "명사수_버프_이름",
+        "id": 60050157,
+        "alias": "Contents.Effect.Name.LongBow.591000",
+        "text": "Sharpshooter"
+    },
+    "60050158": {
+        "deprecated": false,
+        "Dev_Desc": "명사수_버프_설명",
+        "id": 60050158,
+        "alias": "Contents.Effect.Desc.LongBow.591000",
+        "text": "Increase bow attack power"
+    },
+    "60050159": {
+        "deprecated": false,
+        "Dev_Desc": "명사수_버프_효과",
+        "id": 60050159,
+        "alias": "Contents.Effect.Option.LongBow.591000",
+        "text": "Bow Attack 1"
+    },
+    "60050160": {
+        "deprecated": false,
+        "Dev_Desc": "명사수_버프_효과",
+        "id": 60050160,
+        "alias": "Contents.Effect.Option.LongBow.591001",
+        "text": "Bow Attack 2"
+    },
+    "60050161": {
+        "deprecated": false,
+        "Dev_Desc": "명사수_버프_효과",
+        "id": 60050161,
+        "alias": "Contents.Effect.Option.LongBow.591002",
+        "text": "Bow Attack 3"
+    },
+    "60050162": {
+        "deprecated": false,
+        "Dev_Desc": "명사수_버프_효과",
+        "id": 60050162,
+        "alias": "Contents.Effect.Option.LongBow.591003",
+        "text": "Bow Attack 4"
+    },
+    "60050163": {
+        "deprecated": false,
+        "Dev_Desc": "명사수_버프_효과",
+        "id": 60050163,
+        "alias": "Contents.Effect.Option.LongBow.591004",
+        "text": "Bow Attack 5"
+    },
+    "60050164": {
+        "deprecated": false,
+        "Dev_Desc": "명사수_버프_효과",
+        "id": 60050164,
+        "alias": "Contents.Effect.Option.LongBow.591005",
+        "text": "Bow Attack 6"
+    },
+    "60050165": {
+        "deprecated": false,
+        "Dev_Desc": "명사수_버프_효과",
+        "id": 60050165,
+        "alias": "Contents.Effect.Option.LongBow.591006",
+        "text": "Bow Attack 7"
+    },
+    "60050166": {
+        "deprecated": false,
+        "Dev_Desc": "명사수_버프_효과",
+        "id": 60050166,
+        "alias": "Contents.Effect.Option.LongBow.591007",
+        "text": "bow attack power 8"
+    },
+    "60050167": {
+        "deprecated": false,
+        "Dev_Desc": "명사수_버프_효과",
+        "id": 60050167,
+        "alias": "Contents.Effect.Option.LongBow.591008",
+        "text": "Bow Attack 9"
+    },
+    "60050168": {
+        "deprecated": false,
+        "Dev_Desc": "명사수_버프_효과",
+        "id": 60050168,
+        "alias": "Contents.Effect.Option.LongBow.591009",
+        "text": "Bow Attack 10"
+    },
+    "60050169": {
+        "deprecated": false,
+        "Dev_Desc": "명사수_버프_효과",
+        "id": 60050169,
+        "alias": "Contents.Effect.Option.LongBow.591010",
+        "text": "Bow Attack 11"
+    },
+    "60050170": {
+        "deprecated": false,
+        "Dev_Desc": "명사수_버프_효과",
+        "id": 60050170,
+        "alias": "Contents.Effect.Option.LongBow.591011",
+        "text": "bow attack power 12"
+    },
+    "60050171": {
+        "deprecated": false,
+        "Dev_Desc": "명사수_버프_설명",
+        "id": 60050171,
+        "alias": "Contents.Effect.Detail.LongBow.590100",
+        "text": "Sharpshooter stacks up to 12 times"
+    },
+    "60050172": {
+        "deprecated": false,
+        "Dev_Desc": "신규패시브_스킬이름",
+        "id": 60050172,
+        "alias": "Contents.Skill.name.LongBow.5930",
+        "text": "Archery Management"
+    },
+    "60050173": {
+        "deprecated": false,
+        "Dev_Desc": "신규패시브_설명",
+        "id": 60050173,
+        "alias": "Contents.Skill.Desc.LongBow.5930",
+        "text": "When multi-shot critical strikes, <textColor=[136:161:235:255]>Sharpshooter</> that increases bow damage is applied for 2 seconds.\\nstacks up to 12 times."
+    },
+    "60050174": {
+        "deprecated": false,
+        "Dev_Desc": "신규패시브_효과",
+        "id": 60050174,
+        "alias": "Contents.Skill.UseEffect.LongBow.5930",
+        "text": "Bow Attack 1"
     }
 }

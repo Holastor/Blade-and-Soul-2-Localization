@@ -18116,12 +18116,14 @@
     },
     "99003183": {
         "deprecated": false,
+        "Dev_Desc": "충전석: 백화렴의 시련 던전(1회)(각인)",
         "id": 99003183,
         "alias": "Contents.Item.Desc.9900988",
         "text": "Charges the number of times you use the Trial Dungeon of Baekhwaryeom."
     },
     "99003184": {
         "deprecated": false,
+        "Dev_Desc": "충전석: 돌주먹의 시련 던전(1회)(각인)",
         "id": 99003184,
         "alias": "Contents.Item.Desc.9900989",
         "text": "Charges the number of times used in the Trial of Dongchong dungeon."
@@ -20503,5 +20505,159 @@
         "id": 99003530,
         "alias": "Contents.Item.Desc.9901303",
         "text": "You can acquire 4 Sea Dragon's Spirits when used."
+    },
+    "99003531": {
+        "deprecated": false,
+        "Dev_Desc": "충전석: 낙원대성의 시련 던전(1회)(각인)",
+        "id": 99003531,
+        "alias": "Contents.Item.Desc.9901304",
+        "text": "Charges the number of uses of the trial dungeon of Paradise Grand Castle."
+    },
+    "99003532": {
+        "deprecated": false,
+        "Dev_Desc": "충전석: 곤야차의 시련 던전(1회)(각인)",
+        "id": 99003532,
+        "alias": "Contents.Item.Desc.9901305",
+        "text": "Charges the number of times used in Gonyacha's Trial dungeon."
+    },
+    "99003533": {
+        "deprecated": false,
+        "Dev_Desc": "협행 완료패(각인)",
+        "id": 99003533,
+        "alias": "Contents.Item.Desc.9901308",
+        "text": "This item is required for immediate completion.\\nThe number required varies depending on the cooperative region."
+    },
+    "99003534": {
+        "deprecated": false,
+        "Dev_Desc": "고급 협행 완료패(각인)",
+        "id": 99003534,
+        "alias": "Contents.Item.Desc.9901309",
+        "text": "This item is required to complete the Collaboration Specialist immediately.\\nThe number required varies depending on the cooperative area."
+    },
+    "99003535": {
+        "deprecated": false,
+        "Dev_Desc": "곤야차의 언령석 상자(각인)",
+        "id": 99003535,
+        "alias": "Contents.Item.Desc.9901310",
+        "text": "When used, one of the following items can be obtained according to a set probability. "
+    },
+    "99003536": {
+        "deprecated": false,
+        "Dev_Desc": "낙원대성의 언령석 상자(각인)",
+        "id": 99003536,
+        "alias": "Contents.Item.Desc.9901311",
+        "text": "When used, one of the following items can be obtained according to a set probability. "
+    },
+    "99003537": {
+        "deprecated": false,
+        "Dev_Desc": "시련 던전 충전석 상자(각인)",
+        "id": 99003537,
+        "alias": "Contents.Item.Desc.9901312",
+        "text": "When used, you can obtain one of the ordeal dungeon charging stones with a certain probability."
+    },
+    "99003538": {
+        "deprecated": false,
+        "Dev_Desc": "시련 던전 충전석 선택 상자(각인)",
+        "id": 99003538,
+        "alias": "Contents.Item.Desc.9901313",
+        "text": "When used, you can select one of the following items to obtain.\\n\\n- Charging Stone: Trial of Stone Fist Dungeon (1 time) (Imprinted) 1ea\\n- Charging Stone: Gulak's Trial Dungeon (1 time) ( "
+    },
+    "99003539": {
+        "deprecated": false,
+        "Dev_Desc": "상급 시련 던전 충전석 선택 상자(각인)",
+        "id": 99003539,
+        "alias": "Contents.Item.Desc.9901314",
+        "text": "When used, you can select one of the following items to obtain.\\n\\n- Charging Stone: Baekhwaryeom's Trial Dungeon (1 time) (Imprinted) 1ea\\n- Charging Stone: Dongchung's Trial Dungeon (1 time)( "
+    },
+    "99003540": {
+        "deprecated": false,
+        "Dev_Desc": "고급 내력의 단환(각인)",
+        "id": 99003540,
+        "alias": "Contents.Item.Desc.9901315",
+        "text": "Recovers a lot of strength when used."
+    },
+    "99003541": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 협행 지원 상자(각인)",
+        "id": 99003541,
+        "alias": "Contents.Item.Desc.9901316",
+        "text": "When used, you can obtain one of the Vandal Lake companion rewards according to a set probability."
+    },
+    "99003542": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 협행 지원 상자(각인)",
+        "id": 99003542,
+        "alias": "Contents.Item.Desc.9901317",
+        "text": "When used, one of the Taerokrim Compensation Rewards can be obtained according to a set probability."
+    },
+    "99003543": {
+        "deprecated": false,
+        "Dev_Desc": "비옥 대지 협행 지원 상자(각인)",
+        "id": 99003543,
+        "alias": "Contents.Item.Desc.9901318",
+        "text": "When used, you can obtain 1 of the Fertile Earth Combat Rewards with a certain probability."
+    },
+    "99003544": {
+        "deprecated": false,
+        "Dev_Desc": "해룡 산맥 협행 지원 상자(각인)",
+        "id": 99003544,
+        "alias": "Contents.Item.Desc.9901319",
+        "text": "When used, one of the Sea Dragon Mountain Co-op rewards can be obtained with a set probability."
+    },
+    "99003545": {
+        "deprecated": false,
+        "Dev_Desc": "소혼의 병풍: 귀혼",
+        "id": 99003545,
+        "alias": "Contents.Item.Desc.9901327",
+        "text": "This item is used for boss summoning. A ghost is summoned in front of the character who uses the screen of the soul."
+    },
+    "99003546": {
+        "deprecated": false,
+        "Dev_Desc": "화려한 묵화 소울 소환서(1회)",
+        "id": 99003546,
+        "alias": "Contents.Item.Desc.9901320",
+        "text": "When used, you can acquire a soul according to a set probability.\\n (Rank: Advanced ~ Legendary)"
+    },
+    "99003547": {
+        "deprecated": false,
+        "Dev_Desc": "화려한 묵화 소울 소환서(11회)",
+        "id": 99003547,
+        "alias": "Contents.Item.Desc.9901321",
+        "text": "When used, you can acquire a soul according to a set probability.\\n (Rank: Advanced ~ Legendary)"
+    },
+    "99003548": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 묵화 소울 소환서(11회)",
+        "id": 99003548,
+        "alias": "Contents.Item.Desc.9901322",
+        "text": "When used, you can acquire a soul according to a set probability.\\n (Rank: Normal ~ Hero)"
+    },
+    "99003549": {
+        "deprecated": false,
+        "Dev_Desc": "영롱한 묵화 소울 소환서(1회)",
+        "id": 99003549,
+        "alias": "Contents.Item.Desc.9901323",
+        "text": "When used, you can acquire souls according to a set probability.\\n (Rank: Heroes ~ Legends)"
+    },
+    "99003550": {
+        "deprecated": false,
+        "Dev_Desc": "묵화 영웅 소울 선택 상자",
+        "id": 99003550,
+        "alias": "Contents.Item.Desc.9901324",
+        "text": "When used, you can obtain one of the following Hero Soul Summon Scrolls.\\n\\n- Yuran Soul Summon Scroll (1 time) (engraved)\\n- Geogeobung Soul Summon Scroll (1 time) (engraved)"
+    },
+    "99003551": {
+        "deprecated": false,
+        "Dev_Desc": "유란 소울 소환서(1회)(각인)",
+        "id": 99003551,
+        "alias": "Contents.Item.Desc.9901325",
+        "text": "When used, you will acquire Yuran Soul."
+    },
+    "99003552": {
+        "deprecated": false,
+        "Dev_Desc": "거거붕 소울 소환서(1회)(각인)",
+        "id": 99003552,
+        "alias": "Contents.Item.Desc.9901326",
+        "text": "When used, you will acquire a Geobog Soul."
     }
 }
