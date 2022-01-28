@@ -7668,5 +7668,124 @@
         "id": 9001157,
         "alias": "SysM.SoulPass.Activate.LackItem",
         "text": "<arg p=[1:string]/><ga/> 不足以激活。"
+    },
+    "9001158": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 / 각인 성공 메시지 (각인 기능)",
+        "id": 9001158,
+        "alias": "SysM.Galaxy.MsgT.Imprint.Success",
+        "text": "你成功雕刻了星座。"
+    },
+    "9001159": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 / 각인 대성공(랜덤 중 최고 능력치) 메시지 (각인 기능)",
+        "id": 9001159,
+        "alias": "SysM.Galaxy.MsgT.Imprint.BigSuccess",
+        "text": "你已经彻底成功雕刻了星座。"
+    },
+    "9001160": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 / 각인 실패 메시지 (각인 기능)",
+        "id": 9001160,
+        "alias": "SysM.Galaxy.MsgT.Imprint.Fail",
+        "text": "刻星座失败。"
+    },
+    "9001161": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 / 재각인 완료 메시지 (재각인 기능)",
+        "id": 9001161,
+        "alias": "SysM.Galaxy.MsgT.Imprint.Retry",
+        "text": "通过重新雕刻，我获得了新的力量。"
+    },
+    "9001162": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 / 성공 확률 조정 한계 메시지 (프로그레시브 성장 기능)",
+        "id": 9001162,
+        "alias": "SysM.Galaxy.MsgT.MinMax",
+        "text": "可调整的最小值或最大值。"
+    },
+    "9001163": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 / 재료 부족 상태에서 각인 진행 버튼을 누른 경우",
+        "id": 9001163,
+        "alias": "SysM.Galaxy.MsgT.Imprint.ResourceLack",
+        "text": "原料不够。"
+    },
+    "9001164": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 / 이전 단계 각인이 완료되지 않은 점을 선택하여 각인 시도",
+        "id": 9001164,
+        "alias": "SysM.Galaxy.MsgT.Select.ReqPrev",
+        "text": "那是一颗还不能雕刻的星辰。"
+    },
+    "9001165": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 / 구간을 이루는 점을 모두 각인하였을 때 표시되는 메시지",
+        "id": 9001165,
+        "alias": "SysM.Galaxy.MsgT.ZoneBonus.Achieved",
+        "text": "刻下所有【节名】，接受【节名】的加持。"
+    },
+    "9001166": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 시간 충전석 없을 때 에러 메시지",
+        "id": 9001166,
+        "alias": "SysM.Dungeon.LackTimeStone",
+        "text": "你没有时间为库存座位充电。"
+    },
+    "9001167": {
+        "deprecated": false,
+        "Dev_Desc": "채팅 시스템 메시지 / 아이템 획득 / 강화 단계 포함",
+        "id": 9001167,
+        "alias": "SysM.ChatSysM.GetItem.Enchanted",
+        "text": "<<arg p=[1:string]/>>+<arg p=[2:string]/><arg p=[3:string]/></><<arg p=[4:string]/>> <arg p=[5:string]/> 获得</>"
+    },
+    "9001168": {
+        "deprecated": false,
+        "Dev_Desc": "비무 입장 불가 / 파티 상태",
+        "id": 9001168,
+        "alias": "SysM.Battle.Error1",
+        "text": "你不能在派对状态下进入。"
+    },
+    "9001169": {
+        "deprecated": false,
+        "Dev_Desc": "비무 입장 불가 / 파티 추가 불가",
+        "id": 9001169,
+        "alias": "SysM.Battle.Error2",
+        "text": "下雨的时候不能开派对。"
+    },
+    "9001170": {
+        "deprecated": false,
+        "Dev_Desc": "비무 입장 불가 / 채팅 불가",
+        "id": 9001170,
+        "alias": "SysM.Battle.Error3",
+        "text": "下雨的时候不能聊天。"
+    },
+    "9001171": {
+        "deprecated": false,
+        "Dev_Desc": "재련 제거 완료 메시지",
+        "id": 9001171,
+        "alias": "SysM.RemoveSmelting.complet",
+        "text": "<arg p=[1:string]/>移除了种族的精炼属性。"
+    },
+    "9001172": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 최초 클리어 안 했는데 보상 수령 시도 시",
+        "id": 9001172,
+        "alias": "SysM.Dungeon.RewardCond",
+        "text": "第一次通关即可获得奖励。"
+    },
+    "9001173": {
+        "deprecated": false,
+        "Dev_Desc": "계정 삭제 / 삭제 대기 중 서드 파티 로그인 시도 / 타이틀",
+        "id": 9001173,
+        "alias": "SysM.DeleteAcount.Popup.Title",
+        "text": "注意"
+    },
+    "9001174": {
+        "deprecated": false,
+        "Dev_Desc": "계정 삭제 / 삭제 대기 중 서드 파티 로그인 시도 / 내용",
+        "id": 9001174,
+        "alias": "SysM.DeleteAcount.Popup.Desc",
+        "text": "这个账号正在申请取消会员资格。"
     }
 }

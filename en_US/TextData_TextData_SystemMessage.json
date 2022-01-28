@@ -7668,5 +7668,124 @@
         "id": 9001157,
         "alias": "SysM.SoulPass.Activate.LackItem",
         "text": "Not enough <arg p=[1:string]/><ga/> to activate."
+    },
+    "9001158": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 / 각인 성공 메시지 (각인 기능)",
+        "id": 9001158,
+        "alias": "SysM.Galaxy.MsgT.Imprint.Success",
+        "text": "You have succeeded in engraving the constellation."
+    },
+    "9001159": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 / 각인 대성공(랜덤 중 최고 능력치) 메시지 (각인 기능)",
+        "id": 9001159,
+        "alias": "SysM.Galaxy.MsgT.Imprint.BigSuccess",
+        "text": "You have completely succeeded in engraving the constellation."
+    },
+    "9001160": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 / 각인 실패 메시지 (각인 기능)",
+        "id": 9001160,
+        "alias": "SysM.Galaxy.MsgT.Imprint.Fail",
+        "text": "Failed to engrave the constellation."
+    },
+    "9001161": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 / 재각인 완료 메시지 (재각인 기능)",
+        "id": 9001161,
+        "alias": "SysM.Galaxy.MsgT.Imprint.Retry",
+        "text": "I have been given new powers through re-engraving."
+    },
+    "9001162": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 / 성공 확률 조정 한계 메시지 (프로그레시브 성장 기능)",
+        "id": 9001162,
+        "alias": "SysM.Galaxy.MsgT.MinMax",
+        "text": "Adjustable minimum or maximum."
+    },
+    "9001163": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 / 재료 부족 상태에서 각인 진행 버튼을 누른 경우",
+        "id": 9001163,
+        "alias": "SysM.Galaxy.MsgT.Imprint.ResourceLack",
+        "text": "Not enough ingredients."
+    },
+    "9001164": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 / 이전 단계 각인이 완료되지 않은 점을 선택하여 각인 시도",
+        "id": 9001164,
+        "alias": "SysM.Galaxy.MsgT.Select.ReqPrev",
+        "text": "It's a star that can't be engraved yet."
+    },
+    "9001165": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 / 구간을 이루는 점을 모두 각인하였을 때 표시되는 메시지",
+        "id": 9001165,
+        "alias": "SysM.Galaxy.MsgT.ZoneBonus.Achieved",
+        "text": "Engrave all [section name] to receive the blessing of [section name]."
+    },
+    "9001166": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 시간 충전석 없을 때 에러 메시지",
+        "id": 9001166,
+        "alias": "SysM.Dungeon.LackTimeStone",
+        "text": "You don't have time charging seats in stock."
+    },
+    "9001167": {
+        "deprecated": false,
+        "Dev_Desc": "채팅 시스템 메시지 / 아이템 획득 / 강화 단계 포함",
+        "id": 9001167,
+        "alias": "SysM.ChatSysM.GetItem.Enchanted",
+        "text": "<<arg p=[1:string]/>>+<arg p=[2:string]/><arg p=[3:string]/></><<arg p=[4:string]/>> <arg p=[5:string]/> obtained</>"
+    },
+    "9001168": {
+        "deprecated": false,
+        "Dev_Desc": "비무 입장 불가 / 파티 상태",
+        "id": 9001168,
+        "alias": "SysM.Battle.Error1",
+        "text": "You cannot enter while in a party state."
+    },
+    "9001169": {
+        "deprecated": false,
+        "Dev_Desc": "비무 입장 불가 / 파티 추가 불가",
+        "id": 9001169,
+        "alias": "SysM.Battle.Error2",
+        "text": "You can't have a party while it's raining."
+    },
+    "9001170": {
+        "deprecated": false,
+        "Dev_Desc": "비무 입장 불가 / 채팅 불가",
+        "id": 9001170,
+        "alias": "SysM.Battle.Error3",
+        "text": "You can't chat while it's raining."
+    },
+    "9001171": {
+        "deprecated": false,
+        "Dev_Desc": "재련 제거 완료 메시지",
+        "id": 9001171,
+        "alias": "SysM.RemoveSmelting.complet",
+        "text": "<arg p=[1:string]/>The refining stats of the species have been removed."
+    },
+    "9001172": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 최초 클리어 안 했는데 보상 수령 시도 시",
+        "id": 9001172,
+        "alias": "SysM.Dungeon.RewardCond",
+        "text": "You can obtain a reward after clearing the dungeon for the first time."
+    },
+    "9001173": {
+        "deprecated": false,
+        "Dev_Desc": "계정 삭제 / 삭제 대기 중 서드 파티 로그인 시도 / 타이틀",
+        "id": 9001173,
+        "alias": "SysM.DeleteAcount.Popup.Title",
+        "text": "notice"
+    },
+    "9001174": {
+        "deprecated": false,
+        "Dev_Desc": "계정 삭제 / 삭제 대기 중 서드 파티 로그인 시도 / 내용",
+        "id": 9001174,
+        "alias": "SysM.DeleteAcount.Popup.Desc",
+        "text": "This account is applying for membership cancellation."
     }
 }

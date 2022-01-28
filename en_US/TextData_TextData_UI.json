@@ -14449,7 +14449,7 @@
     },
     "8002139": {
         "deprecated": false,
-        "Dev_Desc": "여정 / 임무포기 팝업창",
+        "Dev_Desc": "여정 / 임무포기 팝업창&여정UI",
         "id": 8002139,
         "alias": "UI.Quest.GiveUpQuest.Button",
         "text": "Abandon"
@@ -24157,13 +24157,6 @@
         "alias": "UI.Item.PopUp.SoulPieceMultiOpenDesc",
         "text": "Please select the amount of soul shards to use."
     },
-    "8003533": {
-        "deprecated": false,
-        "Dev_Desc": "소울 파편 획득 결과 팝업 / 획득물 설명",
-        "id": 8003533,
-        "alias": "UI.SoulPiecePopUp.AcquireDesc",
-        "text": "You have obtained soul shards of <arg p=[2:integer]/>other than <arg p=[1:string]/>."
-    },
     "8003534": {
         "deprecated": false,
         "Dev_Desc": "이벤트 제작 레시피 탭 /행운 교환권",
@@ -25706,16 +25699,240 @@
     },
     "8003754": {
         "deprecated": false,
-        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "Dev_Desc": "TX빌드용 / 지도 보스 안전 표시 / 안전",
         "id": 8003754,
-        "alias": "UI.MissingText.8003754",
+        "alias": "UI.Map.TX.Safety",
         "text": "fury"
     },
     "8003755": {
         "deprecated": false,
-        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "Dev_Desc": "TX빌드용 / 지도 보스 안전 표시 / 경쟁",
         "id": 8003755,
-        "alias": "UI.MissingText.8003755",
+        "alias": "UI.Map.TX.Competition",
         "text": "Number"
+    },
+    "8003756": {
+        "deprecated": false,
+        "Dev_Desc": "퀘스트 / HUD / 보유 퀘스트 없음",
+        "id": 8003756,
+        "alias": "UI.HUD.Text.NonQuest",
+        "text": "No missions in progress."
+    },
+    "8003757": {
+        "deprecated": false,
+        "Dev_Desc": "퀘스트 / 팝업창 / 수락 팝업 / 수행가능 횟수",
+        "id": 8003757,
+        "alias": "UI.Quest.AcceptPopup.PossibleCount",
+        "text": "Number of executions possible"
+    },
+    "8003758": {
+        "deprecated": false,
+        "Dev_Desc": "퀘스트 / 팝업창 / 수락 팝업 / 횟수",
+        "id": 8003758,
+        "alias": "UI.Quest.AcceptPopup.Count",
+        "text": "<arg p=[1:integer]/>/<arg p=[2:integer]/>"
+    },
+    "8003759": {
+        "deprecated": false,
+        "Dev_Desc": "퀘스트 / 팝업창 / 수락 팝업 / 수락가능 시간",
+        "id": 8003759,
+        "alias": "UI.Quest.AcceptPopup.Time",
+        "text": "Time remaining <arg p=[1:integer]/>seconds"
+    },
+    "8003760": {
+        "deprecated": false,
+        "Dev_Desc": "퀘스트 / 여정 / 필드 / 지역필터 / 완료",
+        "id": 8003760,
+        "alias": "UI.Quest.Province.Filter.Complete",
+        "text": "(complete)"
+    },
+    "8003761": {
+        "deprecated": false,
+        "Dev_Desc": "퀘스트 / 여정 / 임무탭 / 내 임무",
+        "id": 8003761,
+        "alias": "UI.Quest.TabName.MyQuest",
+        "text": "My Mission"
+    },
+    "8003762": {
+        "deprecated": false,
+        "Dev_Desc": "퀘스트 / 여정 / 하단 버튼 / 지도에서 보기",
+        "id": 8003762,
+        "alias": "UI.Quest.Button.GoToMap",
+        "text": "View on map"
+    },
+    "8003763": {
+        "deprecated": false,
+        "Dev_Desc": "무기거치대 / 암살검 / 사용",
+        "id": 8003763,
+        "alias": "UI.WeaponStand.DualDagger",
+        "text": "Let's use the assassination sword"
+    },
+    "8003764": {
+        "deprecated": false,
+        "Dev_Desc": "사가 / 완료율",
+        "id": 8003764,
+        "alias": "UI.Saga.progress",
+        "text": "Percent Complete"
+    },
+    "8003765": {
+        "deprecated": false,
+        "Dev_Desc": "사가 / 사가 효과",
+        "id": 8003765,
+        "alias": "UI.Saga.effect",
+        "text": "Saga Effect"
+    },
+    "8003766": {
+        "deprecated": false,
+        "Dev_Desc": "사가 / 사가 스토리",
+        "id": 8003766,
+        "alias": "UI.Saga.Story",
+        "text": "Saga Story"
+    },
+    "8003767": {
+        "deprecated": false,
+        "Dev_Desc": "사가 / 기억의 조각 사용 안내",
+        "id": 8003767,
+        "alias": "UI.Saga.PopupMessage.Open",
+        "text": "Would you like to use the pieces of memory to advance the saga's story?"
+    },
+    "8003768": {
+        "deprecated": false,
+        "Dev_Desc": "사가 / 사용",
+        "id": 8003768,
+        "alias": "UI.Saga.Use",
+        "text": "use"
+    },
+    "8003769": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 계정 / 계정 삭제",
+        "id": 8003769,
+        "alias": "UI.Option.Acount.DeleteAcount",
+        "text": "Delete account"
+    },
+    "8003770": {
+        "deprecated": false,
+        "Dev_Desc": "프로모션 제작 레시피 탭 / 해룡의 정기",
+        "id": 8003770,
+        "alias": "UI.Craft.LeftSubTabName.Limited.SeaSerpent_05",
+        "text": "Week 3 Special Production"
+    },
+    "8003771": {
+        "deprecated": false,
+        "Dev_Desc": "이벤트 제작 레시피 탭 / 설날의 만두 제작 레시피",
+        "id": 8003771,
+        "alias": "UI.Craft.LeftSubTabName.Event.Pulmuone_01",
+        "text": "Recipe for making dumplings for Lunar New Year"
+    },
+    "8003772": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 조건 확인 / 던전 최초 보상",
+        "id": 8003772,
+        "alias": "UI.HeroTransfer.Condition.Dungeon.Condition",
+        "text": "Dungeon First Achievement Reward"
+    },
+    "8003773": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 조건 확인 / 던전 최초 보상 미수령",
+        "id": 8003773,
+        "alias": "UI.HeroTransfer.Condition.Dungeon.No.01",
+        "text": "There is a reward for completing the first dungeon that has not been received."
+    },
+    "8003774": {
+        "deprecated": false,
+        "Dev_Desc": "제작 테스트 탭",
+        "id": 8003774,
+        "alias": "UI.Craft.LeftSubTabName.Event.TestOnly",
+        "text": "Production Test"
+    },
+    "8003775": {
+        "deprecated": false,
+        "Dev_Desc": "커뮤니티 / 타이틀",
+        "id": 8003775,
+        "alias": "UI.Community.Title",
+        "text": "community"
+    },
+    "8003776": {
+        "deprecated": false,
+        "Dev_Desc": "영기 효과 / 추가 경험치 획득률",
+        "id": 8003776,
+        "alias": "UI.HUD.SpiritEnergy.EXP",
+        "text": "Additional Experience Point Acquisition Rate"
+    },
+    "8003777": {
+        "deprecated": false,
+        "Dev_Desc": "영기 효과 / 추가 금화 획득률",
+        "id": 8003777,
+        "alias": "UI.HUD.SpiritEnergy.Gold",
+        "text": "Additional Gold Coin Acquisition Rate"
+    },
+    "8003778": {
+        "deprecated": false,
+        "Dev_Desc": "파티 관리 / 타이틀",
+        "id": 8003778,
+        "alias": "UI.PartyManagement.Title",
+        "text": "Party Management"
+    },
+    "8003779": {
+        "deprecated": false,
+        "Dev_Desc": "파티 관리 / 분배 방식",
+        "id": 8003779,
+        "alias": "UI.PartyManagement.DistributionMethod",
+        "text": "Distribution Method"
+    },
+    "8003780": {
+        "deprecated": false,
+        "Dev_Desc": "파티 관리 / 무작위 분배",
+        "id": 8003780,
+        "alias": "UI.PartyManagement.RandomDistribution",
+        "text": "Random"
+    },
+    "8003781": {
+        "deprecated": false,
+        "Dev_Desc": "파티 관리 / 순차 분배",
+        "id": 8003781,
+        "alias": "UI.PartyManagement.SequentialDistribution",
+        "text": "sequential"
+    },
+    "8003782": {
+        "deprecated": false,
+        "Dev_Desc": "파티 관리 / 개별 분배",
+        "id": 8003782,
+        "alias": "UI.PartyManagement.IndividualDistribution",
+        "text": "Individual"
+    },
+    "8003783": {
+        "deprecated": false,
+        "Dev_Desc": "블레이드앤소울 / 강화슬롯 / 미적용 메시지",
+        "id": 8003783,
+        "alias": "UI.BNS.EnhanceBlade.Msg.CannottApply",
+        "text": "Unapplied"
+    },
+    "8003784": {
+        "deprecated": false,
+        "Dev_Desc": "분해 결과 화면 / 분해 완료 타이틀",
+        "id": 8003784,
+        "alias": "UI.Discomposed.Title",
+        "text": "Disassembly Complete"
+    },
+    "8003785": {
+        "deprecated": false,
+        "Dev_Desc": "강화 결과 화면 / 강화 실패 보상 타이틀",
+        "id": 8003785,
+        "alias": "UI.EnchantResult.FailureReward.Title",
+        "text": "Reinforcement Failure Compensation"
+    },
+    "8003786": {
+        "deprecated": false,
+        "Dev_Desc": "지도/ 보스 등장시간",
+        "id": 8003786,
+        "alias": "UI.Map.BossTime",
+        "text": "Time remaining :"
+    },
+    "8003787": {
+        "deprecated": false,
+        "Dev_Desc": "지도/ 보스등장시간",
+        "id": 8003787,
+        "alias": "UI.Map.BossTime.Text",
+        "text": "Time remaining: <arg p=[1:string]/><arg p=[2:integer]/>hours <arg p=[2:integer]/>minutes"
     }
 }

@@ -20659,5 +20659,180 @@
         "id": 99003552,
         "alias": "Contents.Item.Desc.9901326",
         "text": "使用后，你将获得一个地质沼泽之魂。"
+    },
+    "99003553": {
+        "deprecated": false,
+        "Dev_Desc": "얇은 만두피(이벤트)",
+        "id": 99003553,
+        "alias": "Contents.Item.Desc.9300164",
+        "text": "你可以用薄薄的饺子皮制作各种物品（活动）。\\n\\n[制作>活动>新年饺子制作食谱]"
+    },
+    "99003554": {
+        "deprecated": false,
+        "Dev_Desc": "풀무원 얄피만두(이벤트)",
+        "id": 99003554,
+        "alias": "Contents.Item.Desc.9300165",
+        "text": "吃雅尔皮饺子要坚强~！\\n效果持续30分钟。\\n\\n[主动]\\n生命回复+5\\n绝对生命回复+3\\n药水回复量+3"
+    },
+    "99003555": {
+        "deprecated": false,
+        "Dev_Desc": "바오바오의 세뱃돈 상자(이벤트)",
+        "id": 99003555,
+        "alias": "Contents.Item.Desc.9300166",
+        "text": "使用时，可以根据设定的概率获得以下物品之一。20"
+    },
+    "99003556": {
+        "deprecated": false,
+        "Dev_Desc": "잊혀진 영웅의 복주머니 선택 상자(이벤트)",
+        "id": 99003556,
+        "alias": "Contents.Item.Desc.9300167",
+        "text": "使用时，您可以选择以下物品之一获得。\\n\\n- 被遗忘的英雄武器制作秘籍（雕刻）1\\n- 被遗忘的英雄盔甲制作秘籍（雕刻）1 ea\\n- 被遗忘的英雄饰品制作秘籍 1 本书（雕刻） )"
+    },
+    "99003557": {
+        "deprecated": false,
+        "Dev_Desc": "설날 의상 선택 상자(이벤트)",
+        "id": 99003557,
+        "alias": "Contents.Item.Desc.9300168",
+        "text": "使用时可以获得以下物品之一\\n\\n- 华丽虎\\n- 黑虎\\n- 冬虎\\n- 顽皮虎"
+    },
+    "99003558": {
+        "deprecated": false,
+        "Dev_Desc": "설맞이 봉마함(이벤트)",
+        "id": 99003558,
+        "alias": "Contents.Item.Desc.9300169",
+        "text": "使用时，根据设定的概率获得各种道具。) 1\\n- 祝福饰品强化卷轴(活动) 1\\n- 农历新年服饰选择盒(活动) 1\\n- 闪耀灵石盒(印记) 1ea\\n-进阶灵石盒（印记）1ea\\n- 英雄服装袋（印记）1\\n- 被遗忘的英雄武器制作秘诀（印记）1\\n- 被遗忘英雄的盔甲制作秘诀（印记）1\\n- 被遗忘的英雄饰品制作秘诀（印记）1 X"
+    },
+    "99003559": {
+        "deprecated": false,
+        "Dev_Desc": "설맞이 떡만둣국(이벤트)",
+        "id": 99003559,
+        "alias": "Contents.Item.Desc.9300170",
+        "text": "这是一道美味的年糕汤。\\n效果持续30分钟。\\n\\n[使用效果]\\n经验增益+100%"
+    },
+    "99003560": {
+        "deprecated": false,
+        "Dev_Desc": "충전석: 설날의 반달호수(30분)",
+        "id": 99003560,
+        "alias": "Contents.Item.Desc.9300207",
+        "text": "收取大年初一使用半月湖副本的时间。"
+    },
+    "99003561": {
+        "deprecated": false,
+        "Dev_Desc": "저주받은 언령석(각인)",
+        "id": 99003561,
+        "alias": "Contents.Item.Desc.9901328",
+        "text": "使用时，附在装备上的炼化属性会被移除。"
+    },
+    "99003562": {
+        "deprecated": false,
+        "Dev_Desc": "새해 복 시즌 패스권",
+        "id": 99003562,
+        "alias": "Contents.Event.Item.Desc.9300180",
+        "text": "季票：此物品可以激活额外的新年快乐奖励。\\n\\n*注意\\n一旦赛季结束，您将无法继续进行通票任务，奖励无法再兑换。"
+    },
+    "99003563": {
+        "deprecated": false,
+        "Dev_Desc": "고기만두 소울 파편(25회)(각인)",
+        "id": 99003563,
+        "alias": "Contents.Item.Desc.9901331",
+        "text": "使用时可以获得25个肉饺魂碎片。<br/>（职业：普通）"
+    },
+    "99003564": {
+        "deprecated": false,
+        "Dev_Desc": "새우만두 소울 파편(25회)(각인)",
+        "id": 99003564,
+        "alias": "Contents.Item.Desc.9901332",
+        "text": "使用时可以获得25个虾饺灵魂碎片。<br/>（职业：高级）"
+    },
+    "99003565": {
+        "deprecated": false,
+        "Dev_Desc": "김치만두 소울 파편(25회)(각인)",
+        "id": 99003565,
+        "alias": "Contents.Item.Desc.9901333",
+        "text": "使用时可以获得25个泡菜饺子灵魂碎片。<br/>（稀有）"
+    },
+    "99003566": {
+        "deprecated": false,
+        "Dev_Desc": "설맞이 김치 떡만둣국(이벤트)",
+        "id": 99003566,
+        "alias": "Contents.Item.Desc.9300181",
+        "text": "这是一道美味的泡菜汤圆。\\n效果持续30分钟。\\n\\n[使用效果]\\n增加金币增益+100%"
+    },
+    "99003567": {
+        "deprecated": false,
+        "Dev_Desc": "설맞이 영웅 소울 파편(1회)(이벤트)",
+        "id": 99003567,
+        "alias": "Contents.Event.Item.Desc.9300193",
+        "text": "使用时，可以获得1个灵魂碎片。<br/>（等级：英雄）"
+    },
+    "99003568": {
+        "deprecated": false,
+        "Dev_Desc": "설맞이 언령석 상자(이벤트)",
+        "id": 99003568,
+        "alias": "Contents.Event.Item.Desc.9300194",
+        "text": "使用时，可以按照设定的概率获得以下物品之一。- 1个闪耀灵石盒（印记）"
+    },
+    "99003569": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 천뢰석(각인)",
+        "id": 99003569,
+        "alias": "Contents.Item.Desc.9901334",
+        "text": "一种用于制作装备的稀有材料。"
+    },
+    "99003570": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 만년설(각인)",
+        "id": 99003570,
+        "alias": "Contents.Item.Desc.9901335",
+        "text": "一种用于制作装备的稀有材料。"
+    },
+    "99003571": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 천년화정(각인)",
+        "id": 99003571,
+        "alias": "Contents.Item.Desc.9901336",
+        "text": "一种用于制作装备的稀有材料。"
+    },
+    "99003572": {
+        "deprecated": false,
+        "Dev_Desc": "흑호 수호령 소환서(1회)",
+        "id": 99003572,
+        "alias": "Contents.Item.Desc.9901337",
+        "text": "使用时，获得黑虎守护灵。"
+    },
+    "99003573": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 특별 협행 지원 상자(각인)",
+        "id": 99003573,
+        "alias": "Contents.Item.Desc.9901338",
+        "text": "使用时，可以一定概率获得3个武器强化法术和1个汪达尔湖同伴奖励。"
+    },
+    "99003574": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 특별 협행 지원 상자(각인)",
+        "id": 99003574,
+        "alias": "Contents.Item.Desc.9901339",
+        "text": "使用时，可以以一定的概率获得3个武器强化法术和1个泰罗克林补偿。"
+    },
+    "99003575": {
+        "deprecated": false,
+        "Dev_Desc": "비옥 대지 특별 협행 지원 상자(각인)",
+        "id": 99003575,
+        "alias": "Contents.Item.Desc.9901340",
+        "text": "使用时，可以设定概率获得3个护甲强化卷轴和1个沃土补偿。"
+    },
+    "99003576": {
+        "deprecated": false,
+        "Dev_Desc": "해룡 산맥 특별 협행 지원 상자(각인)",
+        "id": 99003576,
+        "alias": "Contents.Item.Desc.9901341",
+        "text": "使用时，可以一定概率获得3个护甲强化法术和1个海龙山合作奖励。"
+    },
+    "99003577": {
+        "deprecated": false,
+        "Dev_Desc": "경지의 주화",
+        "id": 99003577,
+        "alias": "Contents.Item.Desc.9901342",
+        "text": "给达到启蒙境界的人的硬币。\\n可以在装备百科全书中使用。"
     }
 }

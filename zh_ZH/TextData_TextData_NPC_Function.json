@@ -403,14 +403,28 @@
         "Dev_Desc": "기능_상점_이름",
         "id": 1099088,
         "alias": "Contents.Citizen.Name.199105",
-        "text": "황금 달걀 상인"
+        "text": "金蛋商人"
     },
     "1099089": {
         "deprecated": false,
         "Dev_Desc": "기능_상점_이름",
         "id": 1099089,
         "alias": "Contents.Citizen.Name.199106",
-        "text": "대사형의 주화 상인"
+        "text": "新陈代谢币商"
+    },
+    "1099090": {
+        "deprecated": false,
+        "Dev_Desc": "기능_상점_이름",
+        "id": 1099090,
+        "alias": "Contents.Citizen.Name.199107",
+        "text": "交换商人"
+    },
+    "1099091": {
+        "deprecated": false,
+        "Dev_Desc": "기능_상점_이름",
+        "id": 1099091,
+        "alias": "Contents.Citizen.Name.199108",
+        "text": "非官方商人"
     },
     "1099255": {
         "deprecated": false,
@@ -579,5 +593,12 @@
         "id": 1099283,
         "alias": "Contents.Citizen.Title.199099",
         "text": "桃花商廛"
+    },
+    "1099284": {
+        "deprecated": false,
+        "Dev_Desc": "비무 테스트 NPC",
+        "id": 1099284,
+        "alias": "Contents.Citizen.Name.100977",
+        "text": "比木测试NPC"
     }
 }

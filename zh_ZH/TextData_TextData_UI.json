@@ -14449,7 +14449,7 @@
     },
     "8002139": {
         "deprecated": false,
-        "Dev_Desc": "여정 / 임무포기 팝업창",
+        "Dev_Desc": "여정 / 임무포기 팝업창&여정UI",
         "id": 8002139,
         "alias": "UI.Quest.GiveUpQuest.Button",
         "text": "放弃"
@@ -24157,13 +24157,6 @@
         "alias": "UI.Item.PopUp.SoulPieceMultiOpenDesc",
         "text": "请选择使用的灵魂碎片数量。"
     },
-    "8003533": {
-        "deprecated": false,
-        "Dev_Desc": "소울 파편 획득 결과 팝업 / 획득물 설명",
-        "id": 8003533,
-        "alias": "UI.SoulPiecePopUp.AcquireDesc",
-        "text": "你获得了<arg p=[2:integer]/>的灵魂碎片，除了<arg p=[1:string]/>。"
-    },
     "8003534": {
         "deprecated": false,
         "Dev_Desc": "이벤트 제작 레시피 탭 /행운 교환권",
@@ -25706,16 +25699,240 @@
     },
     "8003754": {
         "deprecated": false,
-        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "Dev_Desc": "TX빌드용 / 지도 보스 안전 표시 / 안전",
         "id": 8003754,
-        "alias": "UI.MissingText.8003754",
+        "alias": "UI.Map.TX.Safety",
         "text": "愤怒"
     },
     "8003755": {
         "deprecated": false,
-        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "Dev_Desc": "TX빌드용 / 지도 보스 안전 표시 / 경쟁",
         "id": 8003755,
-        "alias": "UI.MissingText.8003755",
+        "alias": "UI.Map.TX.Competition",
         "text": "数字"
+    },
+    "8003756": {
+        "deprecated": false,
+        "Dev_Desc": "퀘스트 / HUD / 보유 퀘스트 없음",
+        "id": 8003756,
+        "alias": "UI.HUD.Text.NonQuest",
+        "text": "没有正在进行的任务。"
+    },
+    "8003757": {
+        "deprecated": false,
+        "Dev_Desc": "퀘스트 / 팝업창 / 수락 팝업 / 수행가능 횟수",
+        "id": 8003757,
+        "alias": "UI.Quest.AcceptPopup.PossibleCount",
+        "text": "可能的执行次数"
+    },
+    "8003758": {
+        "deprecated": false,
+        "Dev_Desc": "퀘스트 / 팝업창 / 수락 팝업 / 횟수",
+        "id": 8003758,
+        "alias": "UI.Quest.AcceptPopup.Count",
+        "text": "<arg p=[1:integer]/>/<arg p=[2:integer]/>"
+    },
+    "8003759": {
+        "deprecated": false,
+        "Dev_Desc": "퀘스트 / 팝업창 / 수락 팝업 / 수락가능 시간",
+        "id": 8003759,
+        "alias": "UI.Quest.AcceptPopup.Time",
+        "text": "剩余时间 <arg p=[1:integer]/>秒"
+    },
+    "8003760": {
+        "deprecated": false,
+        "Dev_Desc": "퀘스트 / 여정 / 필드 / 지역필터 / 완료",
+        "id": 8003760,
+        "alias": "UI.Quest.Province.Filter.Complete",
+        "text": "（完全的）"
+    },
+    "8003761": {
+        "deprecated": false,
+        "Dev_Desc": "퀘스트 / 여정 / 임무탭 / 내 임무",
+        "id": 8003761,
+        "alias": "UI.Quest.TabName.MyQuest",
+        "text": "我的使命"
+    },
+    "8003762": {
+        "deprecated": false,
+        "Dev_Desc": "퀘스트 / 여정 / 하단 버튼 / 지도에서 보기",
+        "id": 8003762,
+        "alias": "UI.Quest.Button.GoToMap",
+        "text": "在地图上查看"
+    },
+    "8003763": {
+        "deprecated": false,
+        "Dev_Desc": "무기거치대 / 암살검 / 사용",
+        "id": 8003763,
+        "alias": "UI.WeaponStand.DualDagger",
+        "text": "让我们使用暗杀剑吧"
+    },
+    "8003764": {
+        "deprecated": false,
+        "Dev_Desc": "사가 / 완료율",
+        "id": 8003764,
+        "alias": "UI.Saga.progress",
+        "text": "完成百分比"
+    },
+    "8003765": {
+        "deprecated": false,
+        "Dev_Desc": "사가 / 사가 효과",
+        "id": 8003765,
+        "alias": "UI.Saga.effect",
+        "text": "传奇效应"
+    },
+    "8003766": {
+        "deprecated": false,
+        "Dev_Desc": "사가 / 사가 스토리",
+        "id": 8003766,
+        "alias": "UI.Saga.Story",
+        "text": "传奇故事"
+    },
+    "8003767": {
+        "deprecated": false,
+        "Dev_Desc": "사가 / 기억의 조각 사용 안내",
+        "id": 8003767,
+        "alias": "UI.Saga.PopupMessage.Open",
+        "text": "你想用这些记忆碎片来推进传奇的故事吗？"
+    },
+    "8003768": {
+        "deprecated": false,
+        "Dev_Desc": "사가 / 사용",
+        "id": 8003768,
+        "alias": "UI.Saga.Use",
+        "text": "利用"
+    },
+    "8003769": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 계정 / 계정 삭제",
+        "id": 8003769,
+        "alias": "UI.Option.Acount.DeleteAcount",
+        "text": "删除帐户"
+    },
+    "8003770": {
+        "deprecated": false,
+        "Dev_Desc": "프로모션 제작 레시피 탭 / 해룡의 정기",
+        "id": 8003770,
+        "alias": "UI.Craft.LeftSubTabName.Limited.SeaSerpent_05",
+        "text": "第三周特别制作"
+    },
+    "8003771": {
+        "deprecated": false,
+        "Dev_Desc": "이벤트 제작 레시피 탭 / 설날의 만두 제작 레시피",
+        "id": 8003771,
+        "alias": "UI.Craft.LeftSubTabName.Event.Pulmuone_01",
+        "text": "过年包饺子的食谱"
+    },
+    "8003772": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 조건 확인 / 던전 최초 보상",
+        "id": 8003772,
+        "alias": "UI.HeroTransfer.Condition.Dungeon.Condition",
+        "text": "地牢第一成就奖励"
+    },
+    "8003773": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 조건 확인 / 던전 최초 보상 미수령",
+        "id": 8003773,
+        "alias": "UI.HeroTransfer.Condition.Dungeon.No.01",
+        "text": "完成第一个未领取的副本，有奖励。"
+    },
+    "8003774": {
+        "deprecated": false,
+        "Dev_Desc": "제작 테스트 탭",
+        "id": 8003774,
+        "alias": "UI.Craft.LeftSubTabName.Event.TestOnly",
+        "text": "生产测试"
+    },
+    "8003775": {
+        "deprecated": false,
+        "Dev_Desc": "커뮤니티 / 타이틀",
+        "id": 8003775,
+        "alias": "UI.Community.Title",
+        "text": "社区"
+    },
+    "8003776": {
+        "deprecated": false,
+        "Dev_Desc": "영기 효과 / 추가 경험치 획득률",
+        "id": 8003776,
+        "alias": "UI.HUD.SpiritEnergy.EXP",
+        "text": "额外经验值获得率"
+    },
+    "8003777": {
+        "deprecated": false,
+        "Dev_Desc": "영기 효과 / 추가 금화 획득률",
+        "id": 8003777,
+        "alias": "UI.HUD.SpiritEnergy.Gold",
+        "text": "额外金币获取率"
+    },
+    "8003778": {
+        "deprecated": false,
+        "Dev_Desc": "파티 관리 / 타이틀",
+        "id": 8003778,
+        "alias": "UI.PartyManagement.Title",
+        "text": "党政"
+    },
+    "8003779": {
+        "deprecated": false,
+        "Dev_Desc": "파티 관리 / 분배 방식",
+        "id": 8003779,
+        "alias": "UI.PartyManagement.DistributionMethod",
+        "text": "分配方式"
+    },
+    "8003780": {
+        "deprecated": false,
+        "Dev_Desc": "파티 관리 / 무작위 분배",
+        "id": 8003780,
+        "alias": "UI.PartyManagement.RandomDistribution",
+        "text": "随机的"
+    },
+    "8003781": {
+        "deprecated": false,
+        "Dev_Desc": "파티 관리 / 순차 분배",
+        "id": 8003781,
+        "alias": "UI.PartyManagement.SequentialDistribution",
+        "text": "顺序"
+    },
+    "8003782": {
+        "deprecated": false,
+        "Dev_Desc": "파티 관리 / 개별 분배",
+        "id": 8003782,
+        "alias": "UI.PartyManagement.IndividualDistribution",
+        "text": "个人"
+    },
+    "8003783": {
+        "deprecated": false,
+        "Dev_Desc": "블레이드앤소울 / 강화슬롯 / 미적용 메시지",
+        "id": 8003783,
+        "alias": "UI.BNS.EnhanceBlade.Msg.CannottApply",
+        "text": "未申请"
+    },
+    "8003784": {
+        "deprecated": false,
+        "Dev_Desc": "분해 결과 화면 / 분해 완료 타이틀",
+        "id": 8003784,
+        "alias": "UI.Discomposed.Title",
+        "text": "拆解完毕"
+    },
+    "8003785": {
+        "deprecated": false,
+        "Dev_Desc": "강화 결과 화면 / 강화 실패 보상 타이틀",
+        "id": 8003785,
+        "alias": "UI.EnchantResult.FailureReward.Title",
+        "text": "加固失效补偿"
+    },
+    "8003786": {
+        "deprecated": false,
+        "Dev_Desc": "지도/ 보스 등장시간",
+        "id": 8003786,
+        "alias": "UI.Map.BossTime",
+        "text": "剩余时间 ："
+    },
+    "8003787": {
+        "deprecated": false,
+        "Dev_Desc": "지도/ 보스등장시간",
+        "id": 8003787,
+        "alias": "UI.Map.BossTime.Text",
+        "text": "剩余时间：<arg p=[1:string]/><arg p=[2:integer]/>小时<arg p=[2:integer]/>分钟"
     }
 }
