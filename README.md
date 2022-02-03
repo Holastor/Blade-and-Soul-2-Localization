@@ -27,24 +27,23 @@ BTC - bc1qpqnyfvz36u904pw60tv5ky8da38aq0wy7l7rk6
 ## Install
 
 * ONLY PC
-* [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/releases/tag/2.1.0) Latest Release (B2-WindowsNoEditor_00003.pak);
-* Place the file B2-WindowsNoEditor_00003.pak in the \Game Folder\B2\Content\Paks;
-* And you need to go folder C:\Users\UserName\AppData\Local\B2\Saved\Option and open file LocalOption.json;
-* For Chinese Localization requires B2-WindowsNoEditor_00004.pak file;
-* In LocalOption.json find "language":1" and change it to "language":2" for English Language or "language":4" for Chinese Language;
-* And that's it you have english language!;
+* [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/releases/tag/2.2.0) Latest Release;
+* Place the file B2_ko-KR_TextData_00001_en.pak(B2_ko-KR_TextData_00001_ch.pak) in the \GameFolder\B2\Content\TextPaks\ko-KR;
+* Delete file B2_ko-KR_TextData_00001.pak in folder
+* Rename the file B2_ko-KR_TextData_00001_en.pak(B2_ko-KR_TextData_00001_ch.pak) to get B2_ko-KR_TextData_00001.pak;
+* For Chinese Localization requires B2-WindowsNoEditor_00003.pak file; Place the file B2-WindowsNoEditor_00003.pak in the \Game Folder\B2\Content\Paks;
+* That's all folks!
 ## OR Source-Install
 * ONLY PC
 * Download Source code (zip) [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/archive/refs/heads/main.zip)
 * You need to download the source code and unpack it
 * In the /Blade-and-Soul-2-Localization-0.7.0/ folder there is an en_US folder, its contents must be transferred in the folder \Game Folder\B2\Data\Text\
-* And You need Rename en_US to ru_RU.
+* And You need Rename en_US to ko-KR.
 * If you don't have these folders, just create them.
 * You should get something like this:
  ![Screenshot 2021-09-03 085020](https://user-images.githubusercontent.com/77208679/131947968-630a7edd-d2e2-4754-80e1-769d07ffa34a.png)
-* And you need to go folder C:\Users\UserName\AppData\Local\B2\Saved\Option and open file LocalOption.json;
-* In LocalOption.json find "language":1" and change it to "language":6" for English Language;
-* And that's it you have english language;
+* And you need to go folder \GameFolder\B2\Content and delete folder TextPaks;
+* That's all folks!
 
 ## Mobile-Install
 * ONLY Android
