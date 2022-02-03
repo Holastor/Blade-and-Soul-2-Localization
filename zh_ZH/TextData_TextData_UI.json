@@ -25934,5 +25934,985 @@
         "id": 8003787,
         "alias": "UI.Map.BossTime.Text",
         "text": "剩余时间：<arg p=[1:string]/><arg p=[2:integer]/>小时<arg p=[2:integer]/>分钟"
+    },
+    "8003788": {
+        "deprecated": false,
+        "Dev_Desc": " 탐지 / 탐지",
+        "id": 8003788,
+        "alias": "UI.ScanOption.Title",
+        "text": "检测"
+    },
+    "8003789": {
+        "deprecated": false,
+        "Dev_Desc": " 탐지 /  전투 탐지",
+        "id": 8003789,
+        "alias": "UI.ScanOption.CombatScan",
+        "text": "战斗检测"
+    },
+    "8003790": {
+        "deprecated": false,
+        "Dev_Desc": " 탐지 /  탐지리스트 정렬 순서",
+        "id": 8003790,
+        "alias": "UI.ScanOption.ListSort",
+        "text": "检测列表排序顺序"
+    },
+    "8003791": {
+        "deprecated": false,
+        "Dev_Desc": " 탐지 /  자동 탐지",
+        "id": 8003791,
+        "alias": "UI.ScanOption.AutoScan",
+        "text": "自动检测"
+    },
+    "8003792": {
+        "deprecated": false,
+        "Dev_Desc": " 탐지 /  자동 탐지 시간",
+        "id": 8003792,
+        "alias": "UI.ScanOption.ScanTime",
+        "text": "自动检测时间"
+    },
+    "8003793": {
+        "deprecated": false,
+        "Dev_Desc": " 탐지 /  사용자 지정",
+        "id": 8003793,
+        "alias": "UI.ScanOption.ScanTime_Target",
+        "text": "定制"
+    },
+    "8003794": {
+        "deprecated": false,
+        "Dev_Desc": " 탐지 /  전투 탐지 대상",
+        "id": 8003794,
+        "alias": "UI.ScanOption.Combat",
+        "text": "战斗检测目标"
+    },
+    "8003795": {
+        "deprecated": false,
+        "Dev_Desc": " 탐지 /  플레이어",
+        "id": 8003795,
+        "alias": "UI.ScanOption.Combat_PC",
+        "text": "播放器"
+    },
+    "8003796": {
+        "deprecated": false,
+        "Dev_Desc": " 탐지 /  상세",
+        "id": 8003796,
+        "alias": "UI.ScanOption.Combat_PC_Detail",
+        "text": "细节"
+    },
+    "8003797": {
+        "deprecated": false,
+        "Dev_Desc": " 탐지 /  상위 몬스터",
+        "id": 8003797,
+        "alias": "UI.ScanOption.Combat_Boss",
+        "text": "顶级怪物"
+    },
+    "8003798": {
+        "deprecated": false,
+        "Dev_Desc": " 탐지 /  상세",
+        "id": 8003798,
+        "alias": "UI.ScanOption.Combat_Boss_Detail",
+        "text": "细节"
+    },
+    "8003799": {
+        "deprecated": false,
+        "Dev_Desc": " 탐지 /  일반 몬스터",
+        "id": 8003799,
+        "alias": "UI.ScanOption.Combat_NPC",
+        "text": "普通怪物"
+    },
+    "8003800": {
+        "deprecated": false,
+        "Dev_Desc": " 탐지 /  상세",
+        "id": 8003800,
+        "alias": "UI.ScanOption.Combat_NPC_Detail",
+        "text": "细节"
+    },
+    "8003801": {
+        "deprecated": false,
+        "Dev_Desc": " 탐지 /  마을 탐지 대상",
+        "id": 8003801,
+        "alias": "UI.ScanOption.Village",
+        "text": "村庄检测目标"
+    },
+    "8003802": {
+        "deprecated": false,
+        "Dev_Desc": " 탐지 /  NPC",
+        "id": 8003802,
+        "alias": "UI.ScanOption.Village_NPC",
+        "text": "NPC."
+    },
+    "8003803": {
+        "deprecated": false,
+        "Dev_Desc": "무공 / 무공등록 / 등록가능",
+        "id": 8003803,
+        "alias": "UI.Skill.ItemSkillSlot.RegistAvailable",
+        "text": "注册"
+    },
+    "8003804": {
+        "deprecated": false,
+        "Dev_Desc": "무공 / 무공등록 / 등록",
+        "id": 8003804,
+        "alias": "UI.Skill.ItemSkillSlot.Regist",
+        "text": "注册"
+    },
+    "8003805": {
+        "deprecated": false,
+        "Dev_Desc": "무공 / 무공등록 / 사용",
+        "id": 8003805,
+        "alias": "UI.Skill.ItemSkillSlot.Use",
+        "text": "利用"
+    },
+    "8003806": {
+        "deprecated": false,
+        "Dev_Desc": "무공 / 무공탭 / 액티브",
+        "id": 8003806,
+        "alias": "UI.Skill.Category.Active",
+        "text": "积极的"
+    },
+    "8003807": {
+        "deprecated": false,
+        "Dev_Desc": "무공 / 무공탭 / 패시브",
+        "id": 8003807,
+        "alias": "UI.Skill.Category.Passive",
+        "text": "被动的"
+    },
+    "8003808": {
+        "deprecated": false,
+        "Dev_Desc": "무공 / 무공탭 / 액션",
+        "id": 8003808,
+        "alias": "UI.Skill.Category.Action",
+        "text": "行动"
+    },
+    "8003809": {
+        "deprecated": false,
+        "Dev_Desc": "무공 / 무공없음",
+        "id": 8003809,
+        "alias": "UI.Skill.NoSkill",
+        "text": "没有相应的不可禁止。"
+    },
+    "8003810": {
+        "deprecated": false,
+        "Dev_Desc": "무공 / 진화",
+        "id": 8003810,
+        "alias": "UI.Skill.Evolve",
+        "text": "进化"
+    },
+    "8003811": {
+        "deprecated": false,
+        "Dev_Desc": "무공 / 강화 / 단계MAX",
+        "id": 8003811,
+        "alias": "UI.Skill.MaxLevel",
+        "text": "达到最高水平"
+    },
+    "8003812": {
+        "deprecated": false,
+        "Dev_Desc": "무공 / 강화 / 강화없음",
+        "id": 8003812,
+        "alias": "UI.Skill.NoLevel",
+        "text": "没有增强选项。"
+    },
+    "8003813": {
+        "deprecated": false,
+        "Dev_Desc": "무공 / 팝업 / 거래가능",
+        "id": 8003813,
+        "alias": "UI.Skill.PopUp.Tradeable",
+        "text": "它是一个可交易的项目。"
+    },
+    "8003814": {
+        "deprecated": false,
+        "Dev_Desc": "무공 / 팝업 / 취소",
+        "id": 8003814,
+        "alias": "UI.Skill.PopUp.cancel",
+        "text": "消除"
+    },
+    "8003815": {
+        "deprecated": false,
+        "Dev_Desc": "무공 / 팝업 / 등록",
+        "id": 8003815,
+        "alias": "UI.Skill.PopUp.Regist",
+        "text": "注册"
+    },
+    "8003816": {
+        "deprecated": false,
+        "Dev_Desc": "무공 / 강화 / 비결주입",
+        "id": 8003816,
+        "alias": "UI.Skill.Enhance.GaugeInject",
+        "text": "秘密"
+    },
+    "8003817": {
+        "deprecated": false,
+        "Dev_Desc": "무공 / 강화 / 최고단계",
+        "id": 8003817,
+        "alias": "UI.Skill.Enhance.MAx",
+        "text": "实现最佳加固步骤"
+    },
+    "8003818": {
+        "deprecated": false,
+        "Dev_Desc": "무공 / 강화 / 재료 부족",
+        "id": 8003818,
+        "alias": "UI.Skill.Enhance.Itemlack",
+        "text": "材料不能不足。"
+    },
+    "8003819": {
+        "deprecated": false,
+        "Dev_Desc": "무공 / 강화 / 비결게이지 초기화",
+        "id": 8003819,
+        "alias": "UI.Skill.Enhance.GaugeWarning",
+        "text": "未经授权的仪表初始化故障。"
+    },
+    "8003820": {
+        "deprecated": false,
+        "Dev_Desc": "무공 / 강화 / 상세정보",
+        "id": 8003820,
+        "alias": "UI.Skill.Enhance.Info",
+        "text": "加强细节"
+    },
+    "8003821": {
+        "deprecated": false,
+        "Dev_Desc": "무공 / 강화 / 효과",
+        "id": 8003821,
+        "alias": "UI.Skill.Enhance.Info.Effect",
+        "text": "加强步进效果"
+    },
+    "8003822": {
+        "deprecated": false,
+        "Dev_Desc": "무공 / 강화 / 무공 강화",
+        "id": 8003822,
+        "alias": "UI.Skill.Enhance.SkillEnhance",
+        "text": "公共加强"
+    },
+    "8003823": {
+        "deprecated": false,
+        "Dev_Desc": "사망 UI / 아이템, 경험치 손실 없음",
+        "id": 8003823,
+        "alias": "UI.Dead.NoLoss",
+        "text": "无损失信息"
+    },
+    "8003824": {
+        "deprecated": false,
+        "Dev_Desc": "사망 UI / 버튼 이름 / 즉시 부활",
+        "id": 8003824,
+        "alias": "UI.Dead.ButtonName.ImmediatelyResurrection",
+        "text": "立即复活"
+    },
+    "8003825": {
+        "deprecated": false,
+        "Dev_Desc": "HUD / 시스템 메시지 / 장비 컬렉션 달성",
+        "id": 8003825,
+        "alias": "UI.HUD.SystemMessage.CollectionComplete",
+        "text": "收集实现"
+    },
+    "8003826": {
+        "deprecated": false,
+        "Dev_Desc": "HUD / 시스템 메시지 / 야화 완성",
+        "id": 8003826,
+        "alias": "UI.HUD.SystemMessage.YahwaComplete",
+        "text": "有趣的"
+    },
+    "8003827": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 조작 / 편의 / 카메라 거리 자동 보정",
+        "id": 8003827,
+        "alias": "UI.Option.Control.Convenience.Convenience.AutoCamera.DistanceCurrection",
+        "text": "相机距离自动校准"
+    },
+    "8003828": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 조작 / 편의 / 협행 연속 자동 수행",
+        "id": 8003828,
+        "alias": "UI.Option.Control.Convenience.Convenience.AutoBulletinQuest",
+        "text": "自动程序连续"
+    },
+    "8003829": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 정보 / 캐릭터 / 말풍선",
+        "id": 8003829,
+        "alias": "UI.Option.Information.Character.SpeechBubble",
+        "text": "会话框"
+    },
+    "8003830": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 정보 / 캐릭터 / 말풍선 / 상세",
+        "id": 8003830,
+        "alias": "UI.Option.Information.Character.SpeechBubble.Detail",
+        "text": "细节"
+    },
+    "8003831": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 정보 / 전투 / 전투모드 / 타이틀",
+        "id": 8003831,
+        "alias": "UI.Option.Information.Battle.BattleMode",
+        "text": "战斗模式"
+    },
+    "8003832": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 정보 / 전투 / 전투모드 / 대미지 플로터 표시",
+        "id": 8003832,
+        "alias": "UI.Option.Information.Battle.DamageFloater",
+        "text": "损坏绘图仪显示"
+    },
+    "8003833": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 정보 / 전투 / 전투모드 / 대미지 플로터 표시 / 상세",
+        "id": 8003833,
+        "alias": "UI.Option.Information.Battle.DamageFloater.Detail",
+        "text": "细节"
+    },
+    "8003834": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 정보 / 전투 / 전투모드 / 다른 플레이어의 소울 발동 연출 표시",
+        "id": 8003834,
+        "alias": "UI.Option.Information.Battle.SoulEffectDisplay",
+        "text": "其他球员的避难镜"
+    },
+    "8003835": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 정보 / 전투 / 전투모드 / 다른 플레이어의 전투 이펙트 표시",
+        "id": 8003835,
+        "alias": "UI.Option.Information.Battle.BattleEffectDisplay",
+        "text": "显示其他玩家的战斗效果"
+    },
+    "8003836": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 알림 / 전투 / 알림음 종류",
+        "id": 8003836,
+        "alias": "UI.Option.Notice.Battle.Channel.SoundType",
+        "text": "通知类型"
+    },
+    "8003837": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 알림 / 전투 / 자동 사냥 중 사망",
+        "id": 8003837,
+        "alias": "UI.Option.Notice.Battle.DeathDuringAuto",
+        "text": "自动狩猎期间死亡通知"
+    },
+    "8003838": {
+        "deprecated": false,
+        "Dev_Desc": "탐지 / 설정 / 우선 순위",
+        "id": 8003838,
+        "alias": "UI.ScanOption.Priority",
+        "text": "优先事项"
+    },
+    "8003839": {
+        "deprecated": false,
+        "Dev_Desc": "탐지 / 설정 / 자동 전투 우선 순위",
+        "id": 8003839,
+        "alias": "UI.ScanOption.AutoCombatPriority",
+        "text": "自动战胜优先"
+    },
+    "8003840": {
+        "deprecated": false,
+        "Dev_Desc": "탐지 / 설정 / 수동 전투 우선 순위",
+        "id": 8003840,
+        "alias": "UI.ScanOption.ManualCombatPriority",
+        "text": "手动战斗优先权"
+    },
+    "8003841": {
+        "deprecated": false,
+        "Dev_Desc": "탐지 / 설정 / 자동 사냥",
+        "id": 8003841,
+        "alias": "UI.ScanOption.AutoCombat",
+        "text": "自动狩猎"
+    },
+    "8003842": {
+        "deprecated": false,
+        "Dev_Desc": "환경설정 / 전투 / 매너모드",
+        "id": 8003842,
+        "alias": "UI.Option.Combat.MannerMode",
+        "text": "庄园模式"
+    },
+    "8003843": {
+        "deprecated": false,
+        "Dev_Desc": "환경설정 / 전투 / 매너모드 / 정보",
+        "id": 8003843,
+        "alias": "UI.Option.Combat.Info.MannerMode",
+        "text": "排除其他玩家中的怪物并将它们排除在自动狩猎目的地之外。"
+    },
+    "8003844": {
+        "deprecated": false,
+        "Dev_Desc": "환경설정 / 전투 / 자동사냥 범위",
+        "id": 8003844,
+        "alias": "UI.Option.Combat.Range",
+        "text": "范围"
+    },
+    "8003845": {
+        "deprecated": false,
+        "Dev_Desc": "환경설정 / 전투 / 전투 조작",
+        "id": 8003845,
+        "alias": "UI.Option.Combat.Operation",
+        "text": "战斗操纵"
+    },
+    "8003846": {
+        "deprecated": false,
+        "Dev_Desc": "환경설정 / 전투 / 전투 조작 옵션",
+        "id": 8003846,
+        "alias": "UI.Option.Combat.Operation.OptionA",
+        "text": "移动地面时保持瞄准"
+    },
+    "8003847": {
+        "deprecated": false,
+        "Dev_Desc": "환경설정 / 전투 / 전투 조작 옵션",
+        "id": 8003847,
+        "alias": "UI.Option.Combat.Operation.OptionB",
+        "text": "移动到键盘、虚拟操纵杆时保持瞄准"
+    },
+    "8003848": {
+        "deprecated": false,
+        "Dev_Desc": "환경설정 / 전투 / 전투 조작 옵션",
+        "id": 8003848,
+        "alias": "UI.Option.Combat.Operation.OptionC",
+        "text": "移动时保持自动狩猎"
+    },
+    "8003849": {
+        "deprecated": false,
+        "Dev_Desc": "환경설정 / 전투 / 전투 조작 옵션",
+        "id": 8003849,
+        "alias": "UI.Option.Combat.Operation.OptionD",
+        "text": "移动时保持基本攻击"
+    },
+    "8003850": {
+        "deprecated": false,
+        "Dev_Desc": "환경설정 / 탐지 / 대상 강조",
+        "id": 8003850,
+        "alias": "UI.Target.NearestEnemy",
+        "text": "检测列表的最近目标"
+    },
+    "8003851": {
+        "deprecated": false,
+        "Dev_Desc": "“별자리 각인효과” 타이틀 텍스트 (=탭 이름)",
+        "id": 8003851,
+        "alias": "UI.BladeImprint.EffectInfo.Title",
+        "text": "帕萨的订单（别租）"
+    },
+    "8003852": {
+        "deprecated": false,
+        "Dev_Desc": "하단 버튼 내 텍스트 ",
+        "id": 8003852,
+        "alias": "UI.BladeImprint.EffectInfo.Btn.ShowAll",
+        "text": "宽度"
+    },
+    "8003853": {
+        "deprecated": false,
+        "Dev_Desc": "타이틀 텍스트",
+        "id": 8003853,
+        "alias": "UI.BladeImprint.ShowAll.Title",
+        "text": "星座总体效果（暂定名称）"
+    },
+    "8003854": {
+        "deprecated": false,
+        "Dev_Desc": "1구간 이름",
+        "id": 8003854,
+        "alias": "UI.BladeImprint.ShowAll.Name.Stage1",
+        "text": "外部群集"
+    },
+    "8003855": {
+        "deprecated": false,
+        "Dev_Desc": "2구간 이름",
+        "id": 8003855,
+        "alias": "UI.BladeImprint.ShowAll.Name.Stage2",
+        "text": "内部集群"
+    },
+    "8003856": {
+        "deprecated": false,
+        "Dev_Desc": "3구간 이름",
+        "id": 8003856,
+        "alias": "UI.BladeImprint.ShowAll.Name.Stage3",
+        "text": "中央"
+    },
+    "8003857": {
+        "deprecated": false,
+        "Dev_Desc": "지점 달성 효과 텍스트",
+        "id": 8003857,
+        "alias": "UI.BladeImprint.ShowAll.Name.Single",
+        "text": "个人雕刻效果（临时名称）"
+    },
+    "8003858": {
+        "deprecated": false,
+        "Dev_Desc": "확인 텍스트",
+        "id": 8003858,
+        "alias": "UI.BladeImprint.ShowAll.Btn.Confirm",
+        "text": "确认"
+    },
+    "8003859": {
+        "deprecated": false,
+        "Dev_Desc": "성공확률 텍스트",
+        "id": 8003859,
+        "alias": "UI.BladeImprint.Popup.Engrave.RateSuccess",
+        "text": "成功概率"
+    },
+    "8003860": {
+        "deprecated": false,
+        "Dev_Desc": "“이전단계 달성 후 확인가능” 텍스트 ",
+        "id": 8003860,
+        "alias": "UI.BladeImprint.Popup.Engrave.DescPre",
+        "text": "可以在实现前一阶段后检查"
+    },
+    "8003861": {
+        "deprecated": false,
+        "Dev_Desc": "각인 버튼 이름 텍스트",
+        "id": 8003861,
+        "alias": "UI.BladeImprint.Popup.Engrave.Btn.Name",
+        "text": "雕刻"
+    },
+    "8003862": {
+        "deprecated": false,
+        "Dev_Desc": "재료 선택 설명 텍스트",
+        "id": 8003862,
+        "alias": "UI.BladeImprint.Resource.Select.DescSub",
+        "text": "按照您选择的顺序使用材质。"
+    },
+    "8003863": {
+        "deprecated": false,
+        "Dev_Desc": "환경설정 / 환경 / 그래픽 / 소울 대기 연출 보기",
+        "id": 8003863,
+        "alias": "UI.Option.Environment.Graphic.SoulIdleDisplay.Switch",
+        "text": "查看灵魂等待方向"
+    },
+    "8003864": {
+        "deprecated": false,
+        "Dev_Desc": "환경설정 / 환경 / 그래픽 / 수호령 보기",
+        "id": 8003864,
+        "alias": "UI.Option.Environment.Graphic.PetDisplay.Switch",
+        "text": "看看守护精神"
+    },
+    "8003865": {
+        "deprecated": false,
+        "Dev_Desc": "환경설정 / 환경 / 그래픽 / 대상",
+        "id": 8003865,
+        "alias": "UI.Option.Environment.Graphic.Target",
+        "text": "目标"
+    },
+    "8003866": {
+        "deprecated": false,
+        "Dev_Desc": "환경설정 / 환경 / 그래픽 / 그림자",
+        "id": 8003866,
+        "alias": "UI.Option.Environment.Graphic.Shadow.Switch",
+        "text": "阴影"
+    },
+    "8003867": {
+        "deprecated": false,
+        "Dev_Desc": "환경설정 / 환경 / 그래픽 / 그래픽 품질 자동 관리",
+        "id": 8003867,
+        "alias": "UI.Option.Environment.Graphic.AutoGraphic",
+        "text": "自动图形质量自动管理"
+    },
+    "8003868": {
+        "deprecated": false,
+        "Dev_Desc": "환경설정 / 환경 / 그래픽 / 그래픽 품질 자동 관리 / 툴팁 내용",
+        "id": 8003868,
+        "alias": "UI.Option.Environment.Graphic.AutoGraphic.Tooltip",
+        "text": "在大规模战斗情况下自动优化性能。"
+    },
+    "8003869": {
+        "deprecated": false,
+        "Dev_Desc": "환경설정 / 환경 / 그래픽 / 안티 에일리어싱",
+        "id": 8003869,
+        "alias": "UI.Option.Environment.Graphic.AntiAliasing",
+        "text": "抗锯齿"
+    },
+    "8003870": {
+        "deprecated": false,
+        "Dev_Desc": "환경설정 / 환경 / 그래픽 / 안티 에일리어싱 툴팁",
+        "id": 8003870,
+        "alias": "UI.Option.Environment.Graphic.AntiAliasing.ToolTip",
+        "text": "防止别名解决楼梯现象。"
+    },
+    "8003871": {
+        "deprecated": false,
+        "Dev_Desc": "환경설정 / 환경 / 사운드 / 소울 사운드",
+        "id": 8003871,
+        "alias": "UI.Option.Environment.Sound.SoulSound.Switch",
+        "text": "灵魂声音"
+    },
+    "8003872": {
+        "deprecated": false,
+        "Dev_Desc": "환경설정 / 환경 / 사운드 / 세부 설정 / 내 음량",
+        "id": 8003872,
+        "alias": "UI.Option.Environment.Sound.DetailSetting.MyVolume",
+        "text": "我的卷"
+    },
+    "8003873": {
+        "deprecated": false,
+        "Dev_Desc": "환경설정 / 환경 / 사운드 / 세부 설정 / 내 음량 / 툴팁",
+        "id": 8003873,
+        "alias": "UI.Option.Environment.Sound.DetailSetting.MyVolume.Tooltip",
+        "text": "您可以调整所有声音的音量，例如语音，移动和打击我的角色。"
+    },
+    "8003874": {
+        "deprecated": false,
+        "Dev_Desc": "환경설정 / 환경 / 사운드 / 세부 설정 / 다른 플레이어",
+        "id": 8003874,
+        "alias": "UI.Option.Environment.Sound.DetailSetting.OtherPlayerVolume",
+        "text": "其他球员"
+    },
+    "8003875": {
+        "deprecated": false,
+        "Dev_Desc": "환경설정 / 환경 / 사운드 / 세부 설정 / 다른 플레이어 / 툴팁",
+        "id": 8003875,
+        "alias": "UI.Option.Environment.Sound.DetailSetting.OtherPlayerVolume.Tooltip",
+        "text": "您可以调整所有声音的音量，例如语音，移动和其他字符的战斗。"
+    },
+    "8003876": {
+        "deprecated": false,
+        "Dev_Desc": "환경설정 / 환경 / 사운드 / 세부 설정 / 몬스터",
+        "id": 8003876,
+        "alias": "UI.Option.Environment.Sound.DetailSetting.MonsterVolume",
+        "text": "怪物"
+    },
+    "8003877": {
+        "deprecated": false,
+        "Dev_Desc": "환경설정 / 환경 / 사운드 / 세부 설정 / 몬스터 / 툴팁",
+        "id": 8003877,
+        "alias": "UI.Option.Environment.Sound.DetailSetting.MonsterVolume.Tooltip",
+        "text": "您可以调整所有声音的音量，例如怪物的语音，运动和战斗。"
+    },
+    "8003878": {
+        "deprecated": false,
+        "Dev_Desc": "환경설정 / 환경 / 사운드 / 시네마",
+        "id": 8003878,
+        "alias": "UI.Option.Environment.Sound.Cinema.Switch",
+        "text": "电影"
+    },
+    "8003879": {
+        "deprecated": false,
+        "Dev_Desc": "환경설정 / 환경 / 조작 / 키마",
+        "id": 8003879,
+        "alias": "UI.Option.Environment.Control.KeyboardMouse.Switch",
+        "text": "键盘/鼠标"
+    },
+    "8003880": {
+        "deprecated": false,
+        "Dev_Desc": "환경설정 / 계정 / 결제 계정 정보",
+        "id": 8003880,
+        "alias": "UI.Option.Account.GooglePaidAccountChangeButton",
+        "text": "更改Google付款帐户"
+    },
+    "8003881": {
+        "deprecated": false,
+        "Dev_Desc": "재료선택 팝업 / 확인버튼 이름",
+        "id": 8003881,
+        "alias": "UI.Common.Popup.Btn.Confirm.Resource.Name",
+        "text": "确认"
+    },
+    "8003882": {
+        "deprecated": false,
+        "Dev_Desc": "로그인 플로우 / 보안 설정",
+        "id": 8003882,
+        "alias": "UI.Login.SecuritySetting",
+        "text": "安全设定"
+    },
+    "8003883": {
+        "deprecated": false,
+        "Dev_Desc": "로그인 플로우 / 서버 팝업 / 탭1",
+        "id": 8003883,
+        "alias": "UI.Login.ServerPopup.Tab.1",
+        "text": "推荐服务器"
+    },
+    "8003884": {
+        "deprecated": false,
+        "Dev_Desc": "로그인 플로우 / 서버 팝업 / 탭2",
+        "id": 8003884,
+        "alias": "UI.Login.ServerPopup.Tab.2",
+        "text": "完整的服务器"
+    },
+    "8003885": {
+        "deprecated": false,
+        "Dev_Desc": "로그인 플로우 / 서버 팝업 / 탭3",
+        "id": 8003885,
+        "alias": "UI.Login.ServerPopup.Tab.3",
+        "text": "字符保留服务器"
+    },
+    "8003886": {
+        "deprecated": false,
+        "Dev_Desc": "로그인 플로우 / 서버 팝업 / 서버 타입1",
+        "id": 8003886,
+        "alias": "UI.Login.ServerPopup.ServerType.1",
+        "text": "新服务器"
+    },
+    "8003887": {
+        "deprecated": false,
+        "Dev_Desc": "로그인 플로우 / 서버 팝업 / 서버 타입2",
+        "id": 8003887,
+        "alias": "UI.Login.ServerPopup.ServerType.2",
+        "text": "事件服务器"
+    },
+    "8003888": {
+        "deprecated": false,
+        "Dev_Desc": "로그인 플로우 / 서버 팝업 / 서버 타입3",
+        "id": 8003888,
+        "alias": "UI.Login.ServerPopup.ServerType.3",
+        "text": "不可能创作角色创作"
+    },
+    "8003889": {
+        "deprecated": false,
+        "Dev_Desc": "로그인 플로우 / 서버 팝업 / 서버 타입4",
+        "id": 8003889,
+        "alias": "UI.Login.ServerPopup.ServerType.4",
+        "text": "设备注册需要服务器"
+    },
+    "8003890": {
+        "deprecated": false,
+        "Dev_Desc": "로그인 플로우 / 서버 팝업 / 조건에 맞는 서버 없음",
+        "id": 8003890,
+        "alias": "UI.Login.ServerPopup.NoServer",
+        "text": "没有符合标准的列表。"
+    },
+    "8003891": {
+        "deprecated": false,
+        "Dev_Desc": "로그인 플로우 / 캐릭터 찾기 팝업 / 캐릭터 없음",
+        "id": 8003891,
+        "alias": "UI.Login.FindCharacter.NoCharacter",
+        "text": "没有生成的字符。"
+    },
+    "8003892": {
+        "deprecated": false,
+        "Dev_Desc": "로그인 플로우 / 보안 설정 / 인증 번호 재발송",
+        "id": 8003892,
+        "alias": "UI.Login.Security.Accreditation.Resend",
+        "text": "重发"
+    },
+    "8003893": {
+        "deprecated": false,
+        "Dev_Desc": "채팅 / 채팅 타입 / 시스템",
+        "id": 8003893,
+        "alias": "UI.Chat.ChatType.System",
+        "text": "系统"
+    },
+    "8003894": {
+        "deprecated": false,
+        "Dev_Desc": "채팅 / 채팅 타입 / 월드",
+        "id": 8003894,
+        "alias": "UI.Chat.ChatType.World",
+        "text": "世界"
+    },
+    "8003895": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 탭 / 파티 던전",
+        "id": 8003895,
+        "alias": "UI.Dungeon.Tap.PartyDungeon",
+        "text": "派对"
+    },
+    "8003896": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전",
+        "id": 8003896,
+        "alias": "UI.PartyDungeon.Text.PartyMember",
+        "text": "党的领导人可以根据要求进入地牢。"
+    },
+    "8003897": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전",
+        "id": 8003897,
+        "alias": "UI.PartyDungeon.Text.RewardCountRemain",
+        "text": "赔偿数量"
+    },
+    "8003898": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전",
+        "id": 8003898,
+        "alias": "UI.PartyDungeon.Text.WeeklyReset",
+        "text": "如果超过次数，则无法接收地牢完成赔偿。周三凌晨5点初始化次数。"
+    },
+    "8003899": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전 / 매칭 중 [난이도 층]",
+        "id": 8003899,
+        "alias": "UI.PartyDungeon.Text.MatchMaking",
+        "text": "匹配[<arg p=[1:string]/><arg p=[2:string]/>]"
+    },
+    "8003900": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전 / [퀘스트이름] 완료",
+        "id": 8003900,
+        "alias": "UI.PartyDungeon.Lock.Quest",
+        "text": "[<arg p=[1:string]/>]完成"
+    },
+    "8003901": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전 / 보상 획득 가능 횟수 만료",
+        "id": 8003901,
+        "alias": "UI.PartyDungeon.Text.RewardCountlack",
+        "text": "赔偿收购届满"
+    },
+    "8003902": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전",
+        "id": 8003902,
+        "alias": "UI.PartyDungeon.Text.DungeonInfo",
+        "text": "地牢信息"
+    },
+    "8003903": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전",
+        "id": 8003903,
+        "alias": "UI.PartyDungeon.Text.BossInfo",
+        "text": "老板信息"
+    },
+    "8003904": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전",
+        "id": 8003904,
+        "alias": "UI.PartyDungeon.Text.BossElementInfo",
+        "text": "物业信息"
+    },
+    "8003905": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전",
+        "id": 8003905,
+        "alias": "UI.PartyDungeon.Text.BossSkillInfo",
+        "text": "主要技术"
+    },
+    "8003906": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전",
+        "id": 8003906,
+        "alias": "UI.PartyDungeon.Text.Enter.Direct",
+        "text": "立即地"
+    },
+    "8003907": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전",
+        "id": 8003907,
+        "alias": "UI.PartyDungeon.Text.MatchMaking.Start",
+        "text": "匹配应用程序"
+    },
+    "8003908": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전",
+        "id": 8003908,
+        "alias": "UI.PartyDungeon.Text.MatchMaking.Cancel",
+        "text": "匹配取消"
+    },
+    "8003909": {
+        "deprecated": false,
+        "Dev_Desc": "이벤트 제작 레시피 탭 / 소울수호령제작서",
+        "id": 8003909,
+        "alias": "UI.Craft.LeftSubTabName.Event.SoulAndPet_01",
+        "text": "灵魂/守护食谱"
+    },
+    "8003910": {
+        "deprecated": false,
+        "Dev_Desc": "마을 탐지 / 버튼 Alias",
+        "id": 8003910,
+        "alias": "UI.Detection.Buy",
+        "text": "购买商家"
+    },
+    "8003911": {
+        "deprecated": false,
+        "Dev_Desc": "마을 탐지 / 버튼 Alias",
+        "id": 8003911,
+        "alias": "UI.Detection.Closet",
+        "text": "服装商人"
+    },
+    "8003912": {
+        "deprecated": false,
+        "Dev_Desc": "마을 탐지 / 버튼 Alias",
+        "id": 8003912,
+        "alias": "UI.Detection.Distribution",
+        "text": "贮存"
+    },
+    "8003913": {
+        "deprecated": false,
+        "Dev_Desc": "마을 탐지 / 버튼 Alias",
+        "id": 8003913,
+        "alias": "UI.Detection.Event",
+        "text": "活动交易员"
+    },
+    "8003914": {
+        "deprecated": false,
+        "Dev_Desc": "마을 탐지 / 버튼 Alias",
+        "id": 8003914,
+        "alias": "UI.Detection.Merchant",
+        "text": "商人"
+    },
+    "8003915": {
+        "deprecated": false,
+        "Dev_Desc": "마을 탐지 / 버튼 Alias",
+        "id": 8003915,
+        "alias": "UI.Detection.Skill",
+        "text": "自由贸易商"
+    },
+    "8003916": {
+        "deprecated": false,
+        "Dev_Desc": "마을 탐지 / 버튼 Alias",
+        "id": 8003916,
+        "alias": "UI.Detection.Weapon",
+        "text": "武器"
+    },
+    "8003917": {
+        "deprecated": false,
+        "Dev_Desc": "강화 / 최고강화단계 설명",
+        "id": 8003917,
+        "alias": "UI.Encahnt.MaxEnchantLevelDesc",
+        "text": "您无法增强\\n不再达到最佳的加强步骤。"
+    },
+    "8003918": {
+        "deprecated": false,
+        "Dev_Desc": "장비도감 / 장비도감 달성효과 팝업 / 달성률",
+        "id": 8003918,
+        "alias": "UI.Collection.CompleteEffectPopup.CompleteRate",
+        "text": "成就率"
+    },
+    "8003919": {
+        "deprecated": false,
+        "Dev_Desc": "커스터마이징 / 사전 생성 ID",
+        "id": 8003919,
+        "alias": "UI.Custom.PreCreation.ID",
+        "text": "预生成的ID"
+    },
+    "8003920": {
+        "deprecated": false,
+        "Dev_Desc": "커스터마이징 / 의상 표시 버튼",
+        "id": 8003920,
+        "alias": "UI.Custom.DressDisplayButton",
+        "text": "服装展示"
+    },
+    "8003921": {
+        "deprecated": false,
+        "Dev_Desc": "커스터마이징 / 임시저장 버튼",
+        "id": 8003921,
+        "alias": "UI.Custom.TempSaveButton",
+        "text": "临时存储"
+    },
+    "8003922": {
+        "deprecated": false,
+        "Dev_Desc": "커스터마이징 / 불러오기 버튼",
+        "id": 8003922,
+        "alias": "UI.Custom.LoadButton",
+        "text": "加载"
+    },
+    "8003923": {
+        "deprecated": false,
+        "Dev_Desc": "커스터마이징 / 캐릭터 삭제 팝업 / 삭제 안내 텍스트 4",
+        "id": 8003923,
+        "alias": "UI.Lobby.CharacterSelect.DeleteCountDown.4",
+        "text": "剩下"
+    },
+    "8003924": {
+        "deprecated": false,
+        "Dev_Desc": "로비 / 캐릭터 선택화면 / 무기 아이콘 / 무기없음",
+        "id": 8003924,
+        "alias": "UI.Lobby.CharacterSelect.NoWeapon",
+        "text": "没有武器"
+    },
+    "8003925": {
+        "deprecated": false,
+        "Dev_Desc": "시스템 설정 / 자동 분해 / 상자 설명",
+        "id": 8003925,
+        "alias": "UI.Option.Control.GetItem.AutoDiscompose.OpenBoxDesc",
+        "text": "自动分解框可以被释放，直到\\nsole 空间。"
+    },
+    "8003926": {
+        "deprecated": false,
+        "Dev_Desc": "타이틀 / 로그인 실패 / B2 미지원 국가 / 타이틀",
+        "id": 8003926,
+        "alias": "UI.Login.Fail.NotSupportedCountry.Title",
+        "text": "服务限制"
+    },
+    "8003927": {
+        "deprecated": false,
+        "Dev_Desc": "타이틀 / 로그인 실패 / B2 미지원 국가 / 설명",
+        "id": 8003927,
+        "alias": "UI.Login.Fail.NotSupportedCountry.Desc",
+        "text": "不支持该服务的国家/地区的帐户尚未登录。"
     }
 }

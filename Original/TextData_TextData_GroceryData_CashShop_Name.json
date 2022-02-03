@@ -342,6 +342,20 @@
         "alias": "Contents.CashShop.Item.Name.1047",
         "text": "화려한 묵화 소울 4-STEP 패키지"
     },
+    "83100051": {
+        "deprecated": false,
+        "Dev_Desc": "특별 소울 소환 / 이름없는자, 홍매화, 달빛바람,퍼롱퍼롱",
+        "id": 83100051,
+        "alias": "Contents.CashShop.Item.Name.1048",
+        "text": "<textColor=[206:120:78:255]>이름 없는 자,</> <textColor=[172:98:223:255]>곽호룡, 홍매화</>\n<textColor=[172:98:223:255]>퍼롱퍼롱, 달빛바람</><textColor=[255:255:255:255]> 등 을 포함한</>\n<textColor=[92:163:105:255]>상급 </><textColor=[255:255:255:255]>~ </><textColor=[206:120:78:255]>전설</> <textColor=[255:255:255:255]>등급의</>\n<textColor=[255:255:255:255]>다양한 소울 획득 가능</>"
+    },
+    "83100052": {
+        "deprecated": false,
+        "Dev_Desc": "특별 소울 소환 / 이름없는자, 홍매화, 달빛바람,퍼롱퍼롱",
+        "id": 83100052,
+        "alias": "Contents.CashShop.Item.Name.1049",
+        "text": "[<textColor=[172:98:223:255]>영웅</>/<textColor=[206:120:78:255]>전설</> 소울 픽업]"
+    },
     "83200001": {
         "deprecated": false,
         "Dev_Desc": "비사전 / 정수 파편",
@@ -1958,6 +1972,97 @@
         "id": 83200234,
         "alias": "Contents.CashShop.Item.Name.5328",
         "text": "영롱한 묵화 소울 소환서(1회)"
+    },
+    "83200235": {
+        "deprecated": false,
+        "Dev_Desc": "도화전 / 흑호 수호령 소환서",
+        "id": 83200235,
+        "alias": "Contents.CashShop.Item.Name.5330",
+        "text": "흑호 수호령 소환서(1회)"
+    },
+    "83200236": {
+        "deprecated": false,
+        "Dev_Desc": "시간의 소울 패키지",
+        "id": 83200236,
+        "alias": "Contents.CashShop.Item.Name.5331",
+        "text": "시간의 소울 패키지"
+    },
+    "83200237": {
+        "deprecated": false,
+        "Dev_Desc": "시간의 수호령 패키지",
+        "id": 83200237,
+        "alias": "Contents.CashShop.Item.Name.5332",
+        "text": "시간의 수호령 패키지"
+    },
+    "83200238": {
+        "deprecated": false,
+        "Dev_Desc": "특별 수호령 소환 / 이름 없는 자 , 홍매화 , 달빛바람, 퍼롱퍼롱 / 1회",
+        "id": 83200238,
+        "alias": "Contents.CashShop.Item.Name.5333",
+        "text": "특별 소울 소환 1회"
+    },
+    "83200239": {
+        "deprecated": false,
+        "Dev_Desc": "특별 수호령 소환 / 이름 없는 자 , 홍매화 , 달빛바람, 퍼롱퍼롱 / 11회",
+        "id": 83200239,
+        "alias": "Contents.CashShop.Item.Name.5334",
+        "text": "특별 소울 소환 11회"
+    },
+    "83200240": {
+        "deprecated": false,
+        "Dev_Desc": "소울 소환서 1회 뽑기권",
+        "id": 83200240,
+        "alias": "Contents.CashShop.Item.Name.5335",
+        "text": "소울 소환서 1회 뽑기권"
+    },
+    "83200241": {
+        "deprecated": false,
+        "Dev_Desc": "소울 소환서 10회 뽑기권",
+        "id": 83200241,
+        "alias": "Contents.CashShop.Item.Name.5336",
+        "text": "소울 소환서 10회 뽑기권"
+    },
+    "83200242": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 소환서 1회 뽑기권",
+        "id": 83200242,
+        "alias": "Contents.CashShop.Item.Name.5337",
+        "text": "수호령 소환서 1회 뽑기권"
+    },
+    "83200243": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 소환서 10회 뽑기권",
+        "id": 83200243,
+        "alias": "Contents.CashShop.Item.Name.5338",
+        "text": "수호령 소환서 10회 뽑기권"
+    },
+    "83200244": {
+        "deprecated": false,
+        "Dev_Desc": "소울 소환서 1회",
+        "id": 83200244,
+        "alias": "Contents.CashShop.Item.Name.5339",
+        "text": "소울 소환서 1회"
+    },
+    "83200245": {
+        "deprecated": false,
+        "Dev_Desc": "소울 소환서 10회",
+        "id": 83200245,
+        "alias": "Contents.CashShop.Item.Name.5340",
+        "text": "소울 소환서 10회"
+    },
+    "83200246": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 소환서 1회",
+        "id": 83200246,
+        "alias": "Contents.CashShop.Item.Name.5341",
+        "text": "수호령 소환서 1회"
+    },
+    "83200247": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 소환서 10회",
+        "id": 83200247,
+        "alias": "Contents.CashShop.Item.Name.5342",
+        "text": "수호령 소환서 10회"
     },
     "83350000": {
         "deprecated": false,
@@ -4310,5 +4415,103 @@
         "id": 83350345,
         "alias": "Contents.CashShop.Item.Name.5329",
         "text": "협행 완료패(각인)"
+    },
+    "83350346": {
+        "deprecated": false,
+        "Dev_Desc": "시즌패스: 새해 복",
+        "id": 83350346,
+        "alias": "Contents.CashShop.Item.Name.9800108",
+        "text": "시즌 패스: 새해 복"
+    },
+    "83350347": {
+        "deprecated": false,
+        "Dev_Desc": "도화전 / 흑호 수호령 소환서",
+        "id": 83350347,
+        "alias": "Contents.CashShop.Item.Name.9710255",
+        "text": "흑호 수호령 소환서(1회)"
+    },
+    "83350348": {
+        "deprecated": false,
+        "Dev_Desc": "시간의 소울 패키지",
+        "id": 83350348,
+        "alias": "Contents.CashShop.Item.Name.9710256",
+        "text": "시간의 소울 패키지"
+    },
+    "83350349": {
+        "deprecated": false,
+        "Dev_Desc": "시간의 수호령 패키지",
+        "id": 83350349,
+        "alias": "Contents.CashShop.Item.Name.9710257",
+        "text": "시간의 수호령 패키지"
+    },
+    "83350350": {
+        "deprecated": false,
+        "Dev_Desc": "특별 수호령 소환 / 이름 없는 자 , 홍매화 , 달빛바람, 퍼롱퍼롱 / 1회",
+        "id": 83350350,
+        "alias": "Contents.CashShop.Item.Name.9710258",
+        "text": "특별 소울 소환 1회"
+    },
+    "83350351": {
+        "deprecated": false,
+        "Dev_Desc": "특별 수호령 소환 / 이름 없는 자 , 홍매화 , 달빛바람, 퍼롱퍼롱 / 11회",
+        "id": 83350351,
+        "alias": "Contents.CashShop.Item.Name.9710259",
+        "text": "특별 소울 소환 11회"
+    },
+    "83350352": {
+        "deprecated": false,
+        "Dev_Desc": "소울 소환서 1회 뽑기권",
+        "id": 83350352,
+        "alias": "Contents.CashShop.Item.Name.9850133",
+        "text": "소울 소환서 1회 뽑기권"
+    },
+    "83350353": {
+        "deprecated": false,
+        "Dev_Desc": "소울 소환서 10회 뽑기권",
+        "id": 83350353,
+        "alias": "Contents.CashShop.Item.Name.9850134",
+        "text": "소울 소환서 10회 뽑기권"
+    },
+    "83350354": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 소환서 1회 뽑기권",
+        "id": 83350354,
+        "alias": "Contents.CashShop.Item.Name.9850135",
+        "text": "수호령 소환서 1회 뽑기권"
+    },
+    "83350355": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 소환서 10회 뽑기권",
+        "id": 83350355,
+        "alias": "Contents.CashShop.Item.Name.9850136",
+        "text": "수호령 소환서 10회 뽑기권"
+    },
+    "83350356": {
+        "deprecated": false,
+        "Dev_Desc": "소울 소환서 1회",
+        "id": 83350356,
+        "alias": "Contents.CashShop.Item.Name.9850137",
+        "text": "소울 소환서 1회"
+    },
+    "83350357": {
+        "deprecated": false,
+        "Dev_Desc": "소울 소환서 10회",
+        "id": 83350357,
+        "alias": "Contents.CashShop.Item.Name.9850138",
+        "text": "소울 소환서 10회"
+    },
+    "83350358": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 소환서 1회",
+        "id": 83350358,
+        "alias": "Contents.CashShop.Item.Name.9850139",
+        "text": "수호령 소환서 1회"
+    },
+    "83350359": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 소환서 10회",
+        "id": 83350359,
+        "alias": "Contents.CashShop.Item.Name.9850140",
+        "text": "수호령 소환서 10회"
     }
 }

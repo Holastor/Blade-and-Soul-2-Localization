@@ -25947,5 +25947,985 @@
         "English_Text": "Time remaining: <arg p=[1:string]/><arg p=[2:integer]/>hours <arg p=[2:integer]/>minutes",
         "Russian_Text": "",
         "Chinese_Text": "剩余时间：<arg p=[1:string]/><arg p=[2:integer]/>小时<arg p=[2:integer]/>分钟"
+    },
+    "8003788": {
+        "Dev_Desc": " 탐지 / 탐지",
+        "Original_Text": "탐지",
+        "English_Text": "Detection",
+        "Russian_Text": "",
+        "Chinese_Text": "检测"
+    },
+    "8003789": {
+        "Dev_Desc": " 탐지 /  전투 탐지",
+        "Original_Text": "전투 탐지",
+        "English_Text": "battle detection",
+        "Russian_Text": "",
+        "Chinese_Text": "战斗检测"
+    },
+    "8003790": {
+        "Dev_Desc": " 탐지 /  탐지리스트 정렬 순서",
+        "Original_Text": "탐지리스트 정렬 순서",
+        "English_Text": "Detection list sort order",
+        "Russian_Text": "",
+        "Chinese_Text": "检测列表排序顺序"
+    },
+    "8003791": {
+        "Dev_Desc": " 탐지 /  자동 탐지",
+        "Original_Text": "자동 탐지",
+        "English_Text": "automatic detection",
+        "Russian_Text": "",
+        "Chinese_Text": "自动检测"
+    },
+    "8003792": {
+        "Dev_Desc": " 탐지 /  자동 탐지 시간",
+        "Original_Text": "자동 탐지 시간",
+        "English_Text": "Automatic detection time",
+        "Russian_Text": "",
+        "Chinese_Text": "自动检测时间"
+    },
+    "8003793": {
+        "Dev_Desc": " 탐지 /  사용자 지정",
+        "Original_Text": "사용자 지정",
+        "English_Text": "Customize",
+        "Russian_Text": "",
+        "Chinese_Text": "定制"
+    },
+    "8003794": {
+        "Dev_Desc": " 탐지 /  전투 탐지 대상",
+        "Original_Text": "전투 탐지 대상",
+        "English_Text": "Battle detection target",
+        "Russian_Text": "",
+        "Chinese_Text": "战斗检测目标"
+    },
+    "8003795": {
+        "Dev_Desc": " 탐지 /  플레이어",
+        "Original_Text": "플레이어",
+        "English_Text": "player",
+        "Russian_Text": "",
+        "Chinese_Text": "播放器"
+    },
+    "8003796": {
+        "Dev_Desc": " 탐지 /  상세",
+        "Original_Text": "상세",
+        "English_Text": "Detail",
+        "Russian_Text": "",
+        "Chinese_Text": "细节"
+    },
+    "8003797": {
+        "Dev_Desc": " 탐지 /  상위 몬스터",
+        "Original_Text": "상위 몬스터",
+        "English_Text": "top monster",
+        "Russian_Text": "",
+        "Chinese_Text": "顶级怪物"
+    },
+    "8003798": {
+        "Dev_Desc": " 탐지 /  상세",
+        "Original_Text": "상세",
+        "English_Text": "Detail",
+        "Russian_Text": "",
+        "Chinese_Text": "细节"
+    },
+    "8003799": {
+        "Dev_Desc": " 탐지 /  일반 몬스터",
+        "Original_Text": "일반 몬스터",
+        "English_Text": "normal monster",
+        "Russian_Text": "",
+        "Chinese_Text": "普通怪物"
+    },
+    "8003800": {
+        "Dev_Desc": " 탐지 /  상세",
+        "Original_Text": "상세",
+        "English_Text": "Detail",
+        "Russian_Text": "",
+        "Chinese_Text": "细节"
+    },
+    "8003801": {
+        "Dev_Desc": " 탐지 /  마을 탐지 대상",
+        "Original_Text": "마을 탐지 대상",
+        "English_Text": "Village detection target",
+        "Russian_Text": "",
+        "Chinese_Text": "村庄检测目标"
+    },
+    "8003802": {
+        "Dev_Desc": " 탐지 /  NPC",
+        "Original_Text": "NPC",
+        "English_Text": "NPC",
+        "Russian_Text": "",
+        "Chinese_Text": "NPC."
+    },
+    "8003803": {
+        "Dev_Desc": "무공 / 무공등록 / 등록가능",
+        "Original_Text": "등록가능",
+        "English_Text": "Enrollment",
+        "Russian_Text": "",
+        "Chinese_Text": "注册"
+    },
+    "8003804": {
+        "Dev_Desc": "무공 / 무공등록 / 등록",
+        "Original_Text": "등록",
+        "English_Text": "Enrollment",
+        "Russian_Text": "",
+        "Chinese_Text": "注册"
+    },
+    "8003805": {
+        "Dev_Desc": "무공 / 무공등록 / 사용",
+        "Original_Text": "사용",
+        "English_Text": "use",
+        "Russian_Text": "",
+        "Chinese_Text": "利用"
+    },
+    "8003806": {
+        "Dev_Desc": "무공 / 무공탭 / 액티브",
+        "Original_Text": "액티브",
+        "English_Text": "active",
+        "Russian_Text": "",
+        "Chinese_Text": "积极的"
+    },
+    "8003807": {
+        "Dev_Desc": "무공 / 무공탭 / 패시브",
+        "Original_Text": "패시브",
+        "English_Text": "Passive",
+        "Russian_Text": "",
+        "Chinese_Text": "被动的"
+    },
+    "8003808": {
+        "Dev_Desc": "무공 / 무공탭 / 액션",
+        "Original_Text": "액션",
+        "English_Text": "action",
+        "Russian_Text": "",
+        "Chinese_Text": "行动"
+    },
+    "8003809": {
+        "Dev_Desc": "무공 / 무공없음",
+        "Original_Text": "해당하는 무공이 없습니다.",
+        "English_Text": "There is no corresponding unbuspable.",
+        "Russian_Text": "",
+        "Chinese_Text": "没有相应的不可禁止。"
+    },
+    "8003810": {
+        "Dev_Desc": "무공 / 진화",
+        "Original_Text": "진화",
+        "English_Text": "Evolution",
+        "Russian_Text": "",
+        "Chinese_Text": "进化"
+    },
+    "8003811": {
+        "Dev_Desc": "무공 / 강화 / 단계MAX",
+        "Original_Text": "최고 단계 달성",
+        "English_Text": "Achieve the highest level",
+        "Russian_Text": "",
+        "Chinese_Text": "达到最高水平"
+    },
+    "8003812": {
+        "Dev_Desc": "무공 / 강화 / 강화없음",
+        "Original_Text": "강화 옵션이 없습니다.",
+        "English_Text": "There is no enhancement option.",
+        "Russian_Text": "",
+        "Chinese_Text": "没有增强选项。"
+    },
+    "8003813": {
+        "Dev_Desc": "무공 / 팝업 / 거래가능",
+        "Original_Text": "거래 가능한 물품입니다.",
+        "English_Text": "It is a tradable item.",
+        "Russian_Text": "",
+        "Chinese_Text": "它是一个可交易的项目。"
+    },
+    "8003814": {
+        "Dev_Desc": "무공 / 팝업 / 취소",
+        "Original_Text": "취소",
+        "English_Text": "cancellation",
+        "Russian_Text": "",
+        "Chinese_Text": "消除"
+    },
+    "8003815": {
+        "Dev_Desc": "무공 / 팝업 / 등록",
+        "Original_Text": "등록",
+        "English_Text": "Enrollment",
+        "Russian_Text": "",
+        "Chinese_Text": "注册"
+    },
+    "8003816": {
+        "Dev_Desc": "무공 / 강화 / 비결주입",
+        "Original_Text": "비결 주입",
+        "English_Text": "Secret",
+        "Russian_Text": "",
+        "Chinese_Text": "秘密"
+    },
+    "8003817": {
+        "Dev_Desc": "무공 / 강화 / 최고단계",
+        "Original_Text": "최고 강화단계 달성",
+        "English_Text": "Achieve the best reinforcement steps",
+        "Russian_Text": "",
+        "Chinese_Text": "实现最佳加固步骤"
+    },
+    "8003818": {
+        "Dev_Desc": "무공 / 강화 / 재료 부족",
+        "Original_Text": "재료가 부족하여 강화할 수 없습니다.",
+        "English_Text": "The material can not be insufficient.",
+        "Russian_Text": "",
+        "Chinese_Text": "材料不能不足。"
+    },
+    "8003819": {
+        "Dev_Desc": "무공 / 강화 / 비결게이지 초기화",
+        "Original_Text": "실패 시 무공 비결 게이지가 초기화 됩니다.",
+        "English_Text": "The unauthorized gauge is initialized in failure.",
+        "Russian_Text": "",
+        "Chinese_Text": "未经授权的仪表初始化故障。"
+    },
+    "8003820": {
+        "Dev_Desc": "무공 / 강화 / 상세정보",
+        "Original_Text": "강화 상세정보",
+        "English_Text": "Strengthen details",
+        "Russian_Text": "",
+        "Chinese_Text": "加强细节"
+    },
+    "8003821": {
+        "Dev_Desc": "무공 / 강화 / 효과",
+        "Original_Text": "강화단계 효과",
+        "English_Text": "Strengthening step effect",
+        "Russian_Text": "",
+        "Chinese_Text": "加强步进效果"
+    },
+    "8003822": {
+        "Dev_Desc": "무공 / 강화 / 무공 강화",
+        "Original_Text": "무공 강화",
+        "English_Text": "Public strengthening",
+        "Russian_Text": "",
+        "Chinese_Text": "公共加强"
+    },
+    "8003823": {
+        "Dev_Desc": "사망 UI / 아이템, 경험치 손실 없음",
+        "Original_Text": "손실 정보 없음",
+        "English_Text": "No loss information",
+        "Russian_Text": "",
+        "Chinese_Text": "无损失信息"
+    },
+    "8003824": {
+        "Dev_Desc": "사망 UI / 버튼 이름 / 즉시 부활",
+        "Original_Text": "즉시부활",
+        "English_Text": "Immediate resurrection",
+        "Russian_Text": "",
+        "Chinese_Text": "立即复活"
+    },
+    "8003825": {
+        "Dev_Desc": "HUD / 시스템 메시지 / 장비 컬렉션 달성",
+        "Original_Text": "컬렉션 달성",
+        "English_Text": "Collection achieve",
+        "Russian_Text": "",
+        "Chinese_Text": "收集实现"
+    },
+    "8003826": {
+        "Dev_Desc": "HUD / 시스템 메시지 / 야화 완성",
+        "Original_Text": "야화 완성",
+        "English_Text": "Funny",
+        "Russian_Text": "",
+        "Chinese_Text": "有趣的"
+    },
+    "8003827": {
+        "Dev_Desc": "설정 / 조작 / 편의 / 카메라 거리 자동 보정",
+        "Original_Text": "카메라 거리 자동 보정",
+        "English_Text": "Camera Distance Automatic Calibration",
+        "Russian_Text": "",
+        "Chinese_Text": "相机距离自动校准"
+    },
+    "8003828": {
+        "Dev_Desc": "설정 / 조작 / 편의 / 협행 연속 자동 수행",
+        "Original_Text": "협행 연속 자동 수행",
+        "English_Text": "Automatic procedural continuous",
+        "Russian_Text": "",
+        "Chinese_Text": "自动程序连续"
+    },
+    "8003829": {
+        "Dev_Desc": "설정 / 정보 / 캐릭터 / 말풍선",
+        "Original_Text": "말풍선",
+        "English_Text": "speech bubble",
+        "Russian_Text": "",
+        "Chinese_Text": "会话框"
+    },
+    "8003830": {
+        "Dev_Desc": "설정 / 정보 / 캐릭터 / 말풍선 / 상세",
+        "Original_Text": "상세",
+        "English_Text": "Detail",
+        "Russian_Text": "",
+        "Chinese_Text": "细节"
+    },
+    "8003831": {
+        "Dev_Desc": "설정 / 정보 / 전투 / 전투모드 / 타이틀",
+        "Original_Text": "전투 모드",
+        "English_Text": "Combat mode",
+        "Russian_Text": "",
+        "Chinese_Text": "战斗模式"
+    },
+    "8003832": {
+        "Dev_Desc": "설정 / 정보 / 전투 / 전투모드 / 대미지 플로터 표시",
+        "Original_Text": "대미지 플로터 표시",
+        "English_Text": "Damage Plotter Display",
+        "Russian_Text": "",
+        "Chinese_Text": "损坏绘图仪显示"
+    },
+    "8003833": {
+        "Dev_Desc": "설정 / 정보 / 전투 / 전투모드 / 대미지 플로터 표시 / 상세",
+        "Original_Text": "상세",
+        "English_Text": "Detail",
+        "Russian_Text": "",
+        "Chinese_Text": "细节"
+    },
+    "8003834": {
+        "Dev_Desc": "설정 / 정보 / 전투 / 전투모드 / 다른 플레이어의 소울 발동 연출 표시",
+        "Original_Text": "다른 플레이어의 소울 발동 연출 표시",
+        "English_Text": "SOOLTOR of other players",
+        "Russian_Text": "",
+        "Chinese_Text": "其他球员的避难镜"
+    },
+    "8003835": {
+        "Dev_Desc": "설정 / 정보 / 전투 / 전투모드 / 다른 플레이어의 전투 이펙트 표시",
+        "Original_Text": "다른 플레이어의 전투 이펙트 표시",
+        "English_Text": "Display the combat effect of other players",
+        "Russian_Text": "",
+        "Chinese_Text": "显示其他玩家的战斗效果"
+    },
+    "8003836": {
+        "Dev_Desc": "설정 / 알림 / 전투 / 알림음 종류",
+        "Original_Text": "알림음 종류",
+        "English_Text": "Types of notifications",
+        "Russian_Text": "",
+        "Chinese_Text": "通知类型"
+    },
+    "8003837": {
+        "Dev_Desc": "설정 / 알림 / 전투 / 자동 사냥 중 사망",
+        "Original_Text": "자동 사냥 중 사망 시 알림",
+        "English_Text": "Notification of death during automatic hunting",
+        "Russian_Text": "",
+        "Chinese_Text": "自动狩猎期间死亡通知"
+    },
+    "8003838": {
+        "Dev_Desc": "탐지 / 설정 / 우선 순위",
+        "Original_Text": "우선 순위",
+        "English_Text": "Priority",
+        "Russian_Text": "",
+        "Chinese_Text": "优先事项"
+    },
+    "8003839": {
+        "Dev_Desc": "탐지 / 설정 / 자동 전투 우선 순위",
+        "Original_Text": "자동 전투 우선 순위",
+        "English_Text": "Auto Battle Priority",
+        "Russian_Text": "",
+        "Chinese_Text": "自动战胜优先"
+    },
+    "8003840": {
+        "Dev_Desc": "탐지 / 설정 / 수동 전투 우선 순위",
+        "Original_Text": "수동 전투 우선 순위",
+        "English_Text": "Manual Combat Priority",
+        "Russian_Text": "",
+        "Chinese_Text": "手动战斗优先权"
+    },
+    "8003841": {
+        "Dev_Desc": "탐지 / 설정 / 자동 사냥",
+        "Original_Text": "자동 사냥",
+        "English_Text": "Automatic hunting",
+        "Russian_Text": "",
+        "Chinese_Text": "自动狩猎"
+    },
+    "8003842": {
+        "Dev_Desc": "환경설정 / 전투 / 매너모드",
+        "Original_Text": "매너 모드",
+        "English_Text": "Manor mode",
+        "Russian_Text": "",
+        "Chinese_Text": "庄园模式"
+    },
+    "8003843": {
+        "Dev_Desc": "환경설정 / 전투 / 매너모드 / 정보",
+        "Original_Text": "다른 플레이어와 전투 중인 몬스터를 자동 사냥 대상에서 제외합니다.",
+        "English_Text": "Exclude monsters in other players and exclude them from automatic hunting destinations.",
+        "Russian_Text": "",
+        "Chinese_Text": "排除其他玩家中的怪物并将它们排除在自动狩猎目的地之外。"
+    },
+    "8003844": {
+        "Dev_Desc": "환경설정 / 전투 / 자동사냥 범위",
+        "Original_Text": "범위",
+        "English_Text": "range",
+        "Russian_Text": "",
+        "Chinese_Text": "范围"
+    },
+    "8003845": {
+        "Dev_Desc": "환경설정 / 전투 / 전투 조작",
+        "Original_Text": "전투 조작",
+        "English_Text": "Battle manipulation",
+        "Russian_Text": "",
+        "Chinese_Text": "战斗操纵"
+    },
+    "8003846": {
+        "Dev_Desc": "환경설정 / 전투 / 전투 조작 옵션",
+        "Original_Text": "지면 선택 이동 시 타겟팅 유지",
+        "English_Text": "Maintaining targeting when moving ground",
+        "Russian_Text": "",
+        "Chinese_Text": "移动地面时保持瞄准"
+    },
+    "8003847": {
+        "Dev_Desc": "환경설정 / 전투 / 전투 조작 옵션",
+        "Original_Text": "키보드, 가상 조이스틱으로 이동 시 타겟팅 유지",
+        "English_Text": "Maintain targeting when moving to keyboard, virtual joystick",
+        "Russian_Text": "",
+        "Chinese_Text": "移动到键盘、虚拟操纵杆时保持瞄准"
+    },
+    "8003848": {
+        "Dev_Desc": "환경설정 / 전투 / 전투 조작 옵션",
+        "Original_Text": "이동 시 자동 사냥 유지",
+        "English_Text": "Maintain automatic hunting when moving",
+        "Russian_Text": "",
+        "Chinese_Text": "移动时保持自动狩猎"
+    },
+    "8003849": {
+        "Dev_Desc": "환경설정 / 전투 / 전투 조작 옵션",
+        "Original_Text": "이동 시 기본 공격 유지",
+        "English_Text": "Maintain basic attack while moving",
+        "Russian_Text": "",
+        "Chinese_Text": "移动时保持基本攻击"
+    },
+    "8003850": {
+        "Dev_Desc": "환경설정 / 탐지 / 대상 강조",
+        "Original_Text": "탐지 리스트에서 가장 가까운 대상 강조",
+        "English_Text": "The closest target of the detection list",
+        "Russian_Text": "",
+        "Chinese_Text": "检测列表的最近目标"
+    },
+    "8003851": {
+        "Dev_Desc": "“별자리 각인효과” 타이틀 텍스트 (=탭 이름)",
+        "Original_Text": "파사의 질서(가칭)",
+        "English_Text": "Pasa's order (tentation)",
+        "Russian_Text": "",
+        "Chinese_Text": "帕萨的订单（别租）"
+    },
+    "8003852": {
+        "Dev_Desc": "하단 버튼 내 텍스트 ",
+        "Original_Text": "전체 효과",
+        "English_Text": "breadth",
+        "Russian_Text": "",
+        "Chinese_Text": "宽度"
+    },
+    "8003853": {
+        "Dev_Desc": "타이틀 텍스트",
+        "Original_Text": "별자리 전체 효과(가칭)",
+        "English_Text": "Constellation overall effect (tentative name)",
+        "Russian_Text": "",
+        "Chinese_Text": "星座总体效果（暂定名称）"
+    },
+    "8003854": {
+        "Dev_Desc": "1구간 이름",
+        "Original_Text": "외부 성단",
+        "English_Text": "External cluster",
+        "Russian_Text": "",
+        "Chinese_Text": "外部群集"
+    },
+    "8003855": {
+        "Dev_Desc": "2구간 이름",
+        "Original_Text": "내부 성단",
+        "English_Text": "Internal cluster",
+        "Russian_Text": "",
+        "Chinese_Text": "内部集群"
+    },
+    "8003856": {
+        "Dev_Desc": "3구간 이름",
+        "Original_Text": "중심 성단",
+        "English_Text": "Central",
+        "Russian_Text": "",
+        "Chinese_Text": "中央"
+    },
+    "8003857": {
+        "Dev_Desc": "지점 달성 효과 텍스트",
+        "Original_Text": "개별 각인 효과(가칭)",
+        "English_Text": "Individual engraving effect (tentative name)",
+        "Russian_Text": "",
+        "Chinese_Text": "个人雕刻效果（临时名称）"
+    },
+    "8003858": {
+        "Dev_Desc": "확인 텍스트",
+        "Original_Text": "확인",
+        "English_Text": "Confirm",
+        "Russian_Text": "",
+        "Chinese_Text": "确认"
+    },
+    "8003859": {
+        "Dev_Desc": "성공확률 텍스트",
+        "Original_Text": "성공 확률",
+        "English_Text": "Success probability",
+        "Russian_Text": "",
+        "Chinese_Text": "成功概率"
+    },
+    "8003860": {
+        "Dev_Desc": "“이전단계 달성 후 확인가능” 텍스트 ",
+        "Original_Text": "이전단계 달성 후 확인 가능",
+        "English_Text": "Can be checked after achieving the previous stage",
+        "Russian_Text": "",
+        "Chinese_Text": "可以在实现前一阶段后检查"
+    },
+    "8003861": {
+        "Dev_Desc": "각인 버튼 이름 텍스트",
+        "Original_Text": "각인",
+        "English_Text": "engrave",
+        "Russian_Text": "",
+        "Chinese_Text": "雕刻"
+    },
+    "8003862": {
+        "Dev_Desc": "재료 선택 설명 텍스트",
+        "Original_Text": "선택한 순서대로 재료를 사용합니다.",
+        "English_Text": "Use the material in the order you selected.",
+        "Russian_Text": "",
+        "Chinese_Text": "按照您选择的顺序使用材质。"
+    },
+    "8003863": {
+        "Dev_Desc": "환경설정 / 환경 / 그래픽 / 소울 대기 연출 보기",
+        "Original_Text": "소울 대기 연출 보기",
+        "English_Text": "View Soul Waiting Direction",
+        "Russian_Text": "",
+        "Chinese_Text": "查看灵魂等待方向"
+    },
+    "8003864": {
+        "Dev_Desc": "환경설정 / 환경 / 그래픽 / 수호령 보기",
+        "Original_Text": "수호령 보기",
+        "English_Text": "watch the guardian spirit",
+        "Russian_Text": "",
+        "Chinese_Text": "看看守护精神"
+    },
+    "8003865": {
+        "Dev_Desc": "환경설정 / 환경 / 그래픽 / 대상",
+        "Original_Text": "대상",
+        "English_Text": "Target",
+        "Russian_Text": "",
+        "Chinese_Text": "目标"
+    },
+    "8003866": {
+        "Dev_Desc": "환경설정 / 환경 / 그래픽 / 그림자",
+        "Original_Text": "그림자",
+        "English_Text": "shadow",
+        "Russian_Text": "",
+        "Chinese_Text": "阴影"
+    },
+    "8003867": {
+        "Dev_Desc": "환경설정 / 환경 / 그래픽 / 그래픽 품질 자동 관리",
+        "Original_Text": "그래픽 품질 자동 관리",
+        "English_Text": "Automatic graphics quality automatic management",
+        "Russian_Text": "",
+        "Chinese_Text": "自动图形质量自动管理"
+    },
+    "8003868": {
+        "Dev_Desc": "환경설정 / 환경 / 그래픽 / 그래픽 품질 자동 관리 / 툴팁 내용",
+        "Original_Text": "대규모 전투 상황에서 성능을 자동으로 최적화합니다.",
+        "English_Text": "Automatically optimizes performance in large-scale combat situations.",
+        "Russian_Text": "",
+        "Chinese_Text": "在大规模战斗情况下自动优化性能。"
+    },
+    "8003869": {
+        "Dev_Desc": "환경설정 / 환경 / 그래픽 / 안티 에일리어싱",
+        "Original_Text": "안티 에일리어싱",
+        "English_Text": "anti-aliasing",
+        "Russian_Text": "",
+        "Chinese_Text": "抗锯齿"
+    },
+    "8003870": {
+        "Dev_Desc": "환경설정 / 환경 / 그래픽 / 안티 에일리어싱 툴팁",
+        "Original_Text": "Aliasing을 방지하여 계단 현상을 해소합니다.",
+        "English_Text": "Prevent Aliasing to solve stairs phenomena.",
+        "Russian_Text": "",
+        "Chinese_Text": "防止别名解决楼梯现象。"
+    },
+    "8003871": {
+        "Dev_Desc": "환경설정 / 환경 / 사운드 / 소울 사운드",
+        "Original_Text": "소울 사운드",
+        "English_Text": "Soul Sound",
+        "Russian_Text": "",
+        "Chinese_Text": "灵魂声音"
+    },
+    "8003872": {
+        "Dev_Desc": "환경설정 / 환경 / 사운드 / 세부 설정 / 내 음량",
+        "Original_Text": "내 음량",
+        "English_Text": "My volume",
+        "Russian_Text": "",
+        "Chinese_Text": "我的卷"
+    },
+    "8003873": {
+        "Dev_Desc": "환경설정 / 환경 / 사운드 / 세부 설정 / 내 음량 / 툴팁",
+        "Original_Text": "내 캐릭터의 음성, 이동, 전투 등 모든 사운드의 음량을 조절할 수 있습니다.",
+        "English_Text": "You can adjust the volume of all sounds, such as voice, moving, and combat my character.",
+        "Russian_Text": "",
+        "Chinese_Text": "您可以调整所有声音的音量，例如语音，移动和打击我的角色。"
+    },
+    "8003874": {
+        "Dev_Desc": "환경설정 / 환경 / 사운드 / 세부 설정 / 다른 플레이어",
+        "Original_Text": "다른 플레이어",
+        "English_Text": "other players",
+        "Russian_Text": "",
+        "Chinese_Text": "其他球员"
+    },
+    "8003875": {
+        "Dev_Desc": "환경설정 / 환경 / 사운드 / 세부 설정 / 다른 플레이어 / 툴팁",
+        "Original_Text": "다른 캐릭터의 음성, 이동, 전투 등 모든 사운드의 음량을 조절할 수 있습니다.",
+        "English_Text": "You can adjust the volume of all sounds, such as voice, moving, and combat of other characters.",
+        "Russian_Text": "",
+        "Chinese_Text": "您可以调整所有声音的音量，例如语音，移动和其他字符的战斗。"
+    },
+    "8003876": {
+        "Dev_Desc": "환경설정 / 환경 / 사운드 / 세부 설정 / 몬스터",
+        "Original_Text": "몬스터",
+        "English_Text": "monster",
+        "Russian_Text": "",
+        "Chinese_Text": "怪物"
+    },
+    "8003877": {
+        "Dev_Desc": "환경설정 / 환경 / 사운드 / 세부 설정 / 몬스터 / 툴팁",
+        "Original_Text": "몬스터의 음성, 이동, 전투 등 모든 사운드의 음량을 조절할 수 있습니다.",
+        "English_Text": "You can adjust the volume of all sounds, such as the monster's voice, movement, and battle.",
+        "Russian_Text": "",
+        "Chinese_Text": "您可以调整所有声音的音量，例如怪物的语音，运动和战斗。"
+    },
+    "8003878": {
+        "Dev_Desc": "환경설정 / 환경 / 사운드 / 시네마",
+        "Original_Text": "시네마",
+        "English_Text": "Cinema",
+        "Russian_Text": "",
+        "Chinese_Text": "电影"
+    },
+    "8003879": {
+        "Dev_Desc": "환경설정 / 환경 / 조작 / 키마",
+        "Original_Text": "키보드/마우스",
+        "English_Text": "Keyboard / Mouse",
+        "Russian_Text": "",
+        "Chinese_Text": "键盘/鼠标"
+    },
+    "8003880": {
+        "Dev_Desc": "환경설정 / 계정 / 결제 계정 정보",
+        "Original_Text": "GOOGLE 결제 계정 변경",
+        "English_Text": "Change Google Payment account",
+        "Russian_Text": "",
+        "Chinese_Text": "更改Google付款帐户"
+    },
+    "8003881": {
+        "Dev_Desc": "재료선택 팝업 / 확인버튼 이름",
+        "Original_Text": "확인",
+        "English_Text": "Confirm",
+        "Russian_Text": "",
+        "Chinese_Text": "确认"
+    },
+    "8003882": {
+        "Dev_Desc": "로그인 플로우 / 보안 설정",
+        "Original_Text": "보안 설정",
+        "English_Text": "Security settings",
+        "Russian_Text": "",
+        "Chinese_Text": "安全设定"
+    },
+    "8003883": {
+        "Dev_Desc": "로그인 플로우 / 서버 팝업 / 탭1",
+        "Original_Text": "추천 서버",
+        "English_Text": "Recommended server",
+        "Russian_Text": "",
+        "Chinese_Text": "推荐服务器"
+    },
+    "8003884": {
+        "Dev_Desc": "로그인 플로우 / 서버 팝업 / 탭2",
+        "Original_Text": "전체 서버",
+        "English_Text": "Full server",
+        "Russian_Text": "",
+        "Chinese_Text": "完整的服务器"
+    },
+    "8003885": {
+        "Dev_Desc": "로그인 플로우 / 서버 팝업 / 탭3",
+        "Original_Text": "캐릭터 보유 서버",
+        "English_Text": "Character retention server",
+        "Russian_Text": "",
+        "Chinese_Text": "字符保留服务器"
+    },
+    "8003886": {
+        "Dev_Desc": "로그인 플로우 / 서버 팝업 / 서버 타입1",
+        "Original_Text": "신규 서버",
+        "English_Text": "new server",
+        "Russian_Text": "",
+        "Chinese_Text": "新服务器"
+    },
+    "8003887": {
+        "Dev_Desc": "로그인 플로우 / 서버 팝업 / 서버 타입2",
+        "Original_Text": "이벤트 서버",
+        "English_Text": "Event server",
+        "Russian_Text": "",
+        "Chinese_Text": "事件服务器"
+    },
+    "8003888": {
+        "Dev_Desc": "로그인 플로우 / 서버 팝업 / 서버 타입3",
+        "Original_Text": "캐릭터 생성 불가 서버",
+        "English_Text": "Character creation is not possible",
+        "Russian_Text": "",
+        "Chinese_Text": "不可能创作角色创作"
+    },
+    "8003889": {
+        "Dev_Desc": "로그인 플로우 / 서버 팝업 / 서버 타입4",
+        "Original_Text": "기기 등록 필요 서버",
+        "English_Text": "Device registration required server",
+        "Russian_Text": "",
+        "Chinese_Text": "设备注册需要服务器"
+    },
+    "8003890": {
+        "Dev_Desc": "로그인 플로우 / 서버 팝업 / 조건에 맞는 서버 없음",
+        "Original_Text": "조건에 맞는 리스트가 없습니다.",
+        "English_Text": "There is no list that meets the criteria.",
+        "Russian_Text": "",
+        "Chinese_Text": "没有符合标准的列表。"
+    },
+    "8003891": {
+        "Dev_Desc": "로그인 플로우 / 캐릭터 찾기 팝업 / 캐릭터 없음",
+        "Original_Text": "생성된 캐릭터가 없습니다.",
+        "English_Text": "There is no generated character.",
+        "Russian_Text": "",
+        "Chinese_Text": "没有生成的字符。"
+    },
+    "8003892": {
+        "Dev_Desc": "로그인 플로우 / 보안 설정 / 인증 번호 재발송",
+        "Original_Text": "재발송",
+        "English_Text": "resend",
+        "Russian_Text": "",
+        "Chinese_Text": "重发"
+    },
+    "8003893": {
+        "Dev_Desc": "채팅 / 채팅 타입 / 시스템",
+        "Original_Text": "시스템",
+        "English_Text": "system",
+        "Russian_Text": "",
+        "Chinese_Text": "系统"
+    },
+    "8003894": {
+        "Dev_Desc": "채팅 / 채팅 타입 / 월드",
+        "Original_Text": "월드",
+        "English_Text": "world",
+        "Russian_Text": "",
+        "Chinese_Text": "世界"
+    },
+    "8003895": {
+        "Dev_Desc": "던전 / 탭 / 파티 던전",
+        "Original_Text": "파티",
+        "English_Text": "party",
+        "Russian_Text": "",
+        "Chinese_Text": "派对"
+    },
+    "8003896": {
+        "Dev_Desc": "던전 / 파티던전",
+        "Original_Text": "파티장이 입장 신청 시 던전에 입장할 수 있습니다.",
+        "English_Text": "The party leader can enter the dungeon upon request.",
+        "Russian_Text": "",
+        "Chinese_Text": "党的领导人可以根据要求进入地牢。"
+    },
+    "8003897": {
+        "Dev_Desc": "던전 / 파티던전",
+        "Original_Text": "보상 획득 가능 횟수",
+        "English_Text": "Number of compensation",
+        "Russian_Text": "",
+        "Chinese_Text": "赔偿数量"
+    },
+    "8003898": {
+        "Dev_Desc": "던전 / 파티던전",
+        "Original_Text": "이용 횟수를 초과하면 던전 완료보상을 받을 수 없습니다. 이용 횟수는 매주 수요일 오전 5시에 초기화 됩니다.",
+        "English_Text": "If you exceed the number of times, you can not receive dungeon completion compensation. The number of times is initialized at 5 am every Wednesday.",
+        "Russian_Text": "",
+        "Chinese_Text": "如果超过次数，则无法接收地牢完成赔偿。周三凌晨5点初始化次数。"
+    },
+    "8003899": {
+        "Dev_Desc": "던전 / 파티던전 / 매칭 중 [난이도 층]",
+        "Original_Text": "매칭 중 [<arg p=[1:string]/> <arg p=[2:string]/>]",
+        "English_Text": "Matching [<arg p=[1:string]/><arg p=[2:string]/>]",
+        "Russian_Text": "",
+        "Chinese_Text": "匹配[<arg p=[1:string]/><arg p=[2:string]/>]"
+    },
+    "8003900": {
+        "Dev_Desc": "던전 / 파티던전 / [퀘스트이름] 완료",
+        "Original_Text": "[<arg p=[1:string]/>] 완료",
+        "English_Text": "[<arg p=[1:string]/>] Completed",
+        "Russian_Text": "",
+        "Chinese_Text": "[<arg p=[1:string]/>]完成"
+    },
+    "8003901": {
+        "Dev_Desc": "던전 / 파티던전 / 보상 획득 가능 횟수 만료",
+        "Original_Text": "보상 획득 가능 횟수 만료",
+        "English_Text": "Expiration of compensation acquisition",
+        "Russian_Text": "",
+        "Chinese_Text": "赔偿收购届满"
+    },
+    "8003902": {
+        "Dev_Desc": "던전 / 파티던전",
+        "Original_Text": "던전 정보",
+        "English_Text": "Dungeon Information",
+        "Russian_Text": "",
+        "Chinese_Text": "地牢信息"
+    },
+    "8003903": {
+        "Dev_Desc": "던전 / 파티던전",
+        "Original_Text": "보스 정보",
+        "English_Text": "Boss Information",
+        "Russian_Text": "",
+        "Chinese_Text": "老板信息"
+    },
+    "8003904": {
+        "Dev_Desc": "던전 / 파티던전",
+        "Original_Text": "속성 정보",
+        "English_Text": "Property information",
+        "Russian_Text": "",
+        "Chinese_Text": "物业信息"
+    },
+    "8003905": {
+        "Dev_Desc": "던전 / 파티던전",
+        "Original_Text": "주요 기술",
+        "English_Text": "Main technology",
+        "Russian_Text": "",
+        "Chinese_Text": "主要技术"
+    },
+    "8003906": {
+        "Dev_Desc": "던전 / 파티던전",
+        "Original_Text": "즉시 입장",
+        "English_Text": "Immediately",
+        "Russian_Text": "",
+        "Chinese_Text": "立即地"
+    },
+    "8003907": {
+        "Dev_Desc": "던전 / 파티던전",
+        "Original_Text": "매칭 신청",
+        "English_Text": "Matching Application",
+        "Russian_Text": "",
+        "Chinese_Text": "匹配应用程序"
+    },
+    "8003908": {
+        "Dev_Desc": "던전 / 파티던전",
+        "Original_Text": "매칭 취소",
+        "English_Text": "Matching Cancel",
+        "Russian_Text": "",
+        "Chinese_Text": "匹配取消"
+    },
+    "8003909": {
+        "Dev_Desc": "이벤트 제작 레시피 탭 / 소울수호령제작서",
+        "Original_Text": "소울/수호령 제작서",
+        "English_Text": "Soul/Guardian Recipe",
+        "Russian_Text": "",
+        "Chinese_Text": "灵魂/守护食谱"
+    },
+    "8003910": {
+        "Dev_Desc": "마을 탐지 / 버튼 Alias",
+        "Original_Text": "매입 상인",
+        "English_Text": "Purchase merchant",
+        "Russian_Text": "",
+        "Chinese_Text": "购买商家"
+    },
+    "8003911": {
+        "Dev_Desc": "마을 탐지 / 버튼 Alias",
+        "Original_Text": "의상 상인",
+        "English_Text": "costume merchant",
+        "Russian_Text": "",
+        "Chinese_Text": "服装商人"
+    },
+    "8003912": {
+        "Dev_Desc": "마을 탐지 / 버튼 Alias",
+        "Original_Text": "창고",
+        "English_Text": "storage",
+        "Russian_Text": "",
+        "Chinese_Text": "贮存"
+    },
+    "8003913": {
+        "Dev_Desc": "마을 탐지 / 버튼 Alias",
+        "Original_Text": "이벤트 상인",
+        "English_Text": "Event trader",
+        "Russian_Text": "",
+        "Chinese_Text": "活动交易员"
+    },
+    "8003914": {
+        "Dev_Desc": "마을 탐지 / 버튼 Alias",
+        "Original_Text": "상인",
+        "English_Text": "merchant",
+        "Russian_Text": "",
+        "Chinese_Text": "商人"
+    },
+    "8003915": {
+        "Dev_Desc": "마을 탐지 / 버튼 Alias",
+        "Original_Text": "무공서 상인",
+        "English_Text": "free trader",
+        "Russian_Text": "",
+        "Chinese_Text": "自由贸易商"
+    },
+    "8003916": {
+        "Dev_Desc": "마을 탐지 / 버튼 Alias",
+        "Original_Text": "무기 상인",
+        "English_Text": "Weapon",
+        "Russian_Text": "",
+        "Chinese_Text": "武器"
+    },
+    "8003917": {
+        "Dev_Desc": "강화 / 최고강화단계 설명",
+        "Original_Text": "최고 강화단계를 달성해서\\n더 이상 강화할 수 없습니다.",
+        "English_Text": "You can not enhance \\n no longer achieving the best reinforcement steps.",
+        "Russian_Text": "",
+        "Chinese_Text": "您无法增强\\n不再达到最佳的加强步骤。"
+    },
+    "8003918": {
+        "Dev_Desc": "장비도감 / 장비도감 달성효과 팝업 / 달성률",
+        "Original_Text": "달성률",
+        "English_Text": "Achievement rate",
+        "Russian_Text": "",
+        "Chinese_Text": "成就率"
+    },
+    "8003919": {
+        "Dev_Desc": "커스터마이징 / 사전 생성 ID",
+        "Original_Text": "사전 생성 ID",
+        "English_Text": "pre-generated ID",
+        "Russian_Text": "",
+        "Chinese_Text": "预生成的ID"
+    },
+    "8003920": {
+        "Dev_Desc": "커스터마이징 / 의상 표시 버튼",
+        "Original_Text": "의상 표시",
+        "English_Text": "Costume display",
+        "Russian_Text": "",
+        "Chinese_Text": "服装展示"
+    },
+    "8003921": {
+        "Dev_Desc": "커스터마이징 / 임시저장 버튼",
+        "Original_Text": "임시저장",
+        "English_Text": "temporary storage",
+        "Russian_Text": "",
+        "Chinese_Text": "临时存储"
+    },
+    "8003922": {
+        "Dev_Desc": "커스터마이징 / 불러오기 버튼",
+        "Original_Text": "불러오기",
+        "English_Text": "Load",
+        "Russian_Text": "",
+        "Chinese_Text": "加载"
+    },
+    "8003923": {
+        "Dev_Desc": "커스터마이징 / 캐릭터 삭제 팝업 / 삭제 안내 텍스트 4",
+        "Original_Text": "남았습니다.",
+        "English_Text": "left",
+        "Russian_Text": "",
+        "Chinese_Text": "剩下"
+    },
+    "8003924": {
+        "Dev_Desc": "로비 / 캐릭터 선택화면 / 무기 아이콘 / 무기없음",
+        "Original_Text": "무기없음",
+        "English_Text": "no weapons",
+        "Russian_Text": "",
+        "Chinese_Text": "没有武器"
+    },
+    "8003925": {
+        "Dev_Desc": "시스템 설정 / 자동 분해 / 상자 설명",
+        "Original_Text": "자동 분해가 설정된 상자는\\n소지품 여유 공간까지 개봉할 수 있습니다.",
+        "English_Text": "Auto decomposition boxes can be released until the \\n sole space.",
+        "Russian_Text": "",
+        "Chinese_Text": "自动分解框可以被释放，直到\\nsole 空间。"
+    },
+    "8003926": {
+        "Dev_Desc": "타이틀 / 로그인 실패 / B2 미지원 국가 / 타이틀",
+        "Original_Text": "서비스 국가 제한",
+        "English_Text": "Services Restrictions",
+        "Russian_Text": "",
+        "Chinese_Text": "服务限制"
+    },
+    "8003927": {
+        "Dev_Desc": "타이틀 / 로그인 실패 / B2 미지원 국가 / 설명",
+        "Original_Text": "서비스를 지원하지 않는 국가의 계정으로는 로그인이 불가능 합니다.",
+        "English_Text": "The account in the country that does not support the service is not logged in.",
+        "Russian_Text": "",
+        "Chinese_Text": "不支持该服务的国家/地区的帐户尚未登录。"
     }
 }

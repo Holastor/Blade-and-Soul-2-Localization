@@ -6219,7 +6219,7 @@
         "Dev_Desc": "거래소 / 구매 / 구매 시도 / 자기 자신",
         "id": 9000950,
         "alias": "SysM.Market.Purchase.RegisterByMe",
-        "text": "자기 자신이 등록한 아이템입니다."
+        "text": "자기 자신이 판매 중인 물품은 구매할 수 없습니다."
     },
     "9000951": {
         "deprecated": false,
@@ -7668,5 +7668,131 @@
         "id": 9001157,
         "alias": "SysM.SoulPass.Activate.LackItem",
         "text": "<arg p=[1:string]/><ga/> 부족하여 활성화할 수 없습니다."
+    },
+    "9001158": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 / 각인 성공 메시지 (각인 기능)",
+        "id": 9001158,
+        "alias": "SysM.Galaxy.MsgT.Imprint.Success",
+        "text": "별자리 각인에 성공하였습니다."
+    },
+    "9001159": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 / 각인 대성공(랜덤 중 최고 능력치) 메시지 (각인 기능)",
+        "id": 9001159,
+        "alias": "SysM.Galaxy.MsgT.Imprint.BigSuccess",
+        "text": "별자리 각인에 완벽히 성공하였습니다."
+    },
+    "9001160": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 / 각인 실패 메시지 (각인 기능)",
+        "id": 9001160,
+        "alias": "SysM.Galaxy.MsgT.Imprint.Fail",
+        "text": "별자리 각인에 실패하였습니다."
+    },
+    "9001161": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 / 재각인 완료 메시지 (재각인 기능)",
+        "id": 9001161,
+        "alias": "SysM.Galaxy.MsgT.Imprint.Retry",
+        "text": "재각인을 통해 새로운 힘을 부여 받았습니다."
+    },
+    "9001162": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 / 성공 확률 조정 한계 메시지 (프로그레시브 성장 기능)",
+        "id": 9001162,
+        "alias": "SysM.Galaxy.MsgT.MinMax",
+        "text": "조정 가능한 최소 또는 최대값입니다."
+    },
+    "9001163": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 / 재료 부족 상태에서 각인 진행 버튼을 누른 경우",
+        "id": 9001163,
+        "alias": "SysM.Galaxy.MsgT.Imprint.ResourceLack",
+        "text": "재료가 충분하지 않습니다."
+    },
+    "9001164": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 / 이전 단계 각인이 완료되지 않은 점을 선택하여 각인 시도",
+        "id": 9001164,
+        "alias": "SysM.Galaxy.MsgT.Select.ReqPrev",
+        "text": "아직 각인할 수 없는 별입니다."
+    },
+    "9001165": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 / 구간을 이루는 점을 모두 각인하였을 때 표시되는 메시지",
+        "id": 9001165,
+        "alias": "SysM.Galaxy.MsgT.ZoneBonus.Achieved",
+        "text": "[구간이름]을/를 모두 각인하여 [구간이름]의 가호를 받습니다."
+    },
+    "9001166": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 시간 충전석 없을 때 에러 메시지",
+        "id": 9001166,
+        "alias": "SysM.Dungeon.LackTimeStone",
+        "text": "보유 중인 시간 충전석이 없습니다."
+    },
+    "9001167": {
+        "deprecated": false,
+        "Dev_Desc": "채팅 시스템 메시지 / 아이템 획득 / 강화 단계 포함",
+        "id": 9001167,
+        "alias": "SysM.ChatSysM.GetItem.Enchanted",
+        "text": "<<arg p=[1:string]/>>+<arg p=[2:string]/> <arg p=[3:string]/></><<arg p=[4:string]/>> <arg p=[5:string]/>개를 획득했습니다.</>"
+    },
+    "9001168": {
+        "deprecated": false,
+        "Dev_Desc": "비무 입장 불가 / 파티 상태",
+        "id": 9001168,
+        "alias": "SysM.Battle.Error1",
+        "text": "파티 상태에서는 입장할 수 없습니다."
+    },
+    "9001169": {
+        "deprecated": false,
+        "Dev_Desc": "비무 입장 불가 / 파티 추가 불가",
+        "id": 9001169,
+        "alias": "SysM.Battle.Error2",
+        "text": "비무 중에는 파티를 할 수 없습니다."
+    },
+    "9001170": {
+        "deprecated": false,
+        "Dev_Desc": "비무 입장 불가 / 채팅 불가",
+        "id": 9001170,
+        "alias": "SysM.Battle.Error3",
+        "text": "비무 중에는 채팅을 할 수 없습니다."
+    },
+    "9001171": {
+        "deprecated": false,
+        "Dev_Desc": "재련 제거 완료 메시지",
+        "id": 9001171,
+        "alias": "SysM.RemoveSmelting.complet",
+        "text": "<arg p=[1:string]/>종의 물품의 재련 능력치가 제거되었습니다."
+    },
+    "9001172": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 최초 클리어 안 했는데 보상 수령 시도 시",
+        "id": 9001172,
+        "alias": "SysM.Dungeon.RewardCond",
+        "text": "던전 최초 클리어 후에 보상을 획득할 수 있습니다."
+    },
+    "9001173": {
+        "deprecated": false,
+        "Dev_Desc": "계정 삭제 / 삭제 대기 중 서드 파티 로그인 시도 / 타이틀",
+        "id": 9001173,
+        "alias": "SysM.DeleteAcount.Popup.Title",
+        "text": "알림"
+    },
+    "9001174": {
+        "deprecated": false,
+        "Dev_Desc": "계정 삭제 / 삭제 대기 중 서드 파티 로그인 시도 / 내용",
+        "id": 9001174,
+        "alias": "SysM.DeleteAcount.Popup.Desc",
+        "text": "회원 탈퇴 신청 중인 계정입니다."
+    },
+    "9001175": {
+        "deprecated": false,
+        "Dev_Desc": "거래소 조회 실패 에러 메시지",
+        "id": 9001175,
+        "alias": "SysM.Market.Fail.Error",
+        "text": "거래소 물품 조회를 실패하였습니다."
     }
 }

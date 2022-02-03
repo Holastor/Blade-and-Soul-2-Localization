@@ -7787,5 +7787,12 @@
         "id": 9001174,
         "alias": "SysM.DeleteAcount.Popup.Desc",
         "text": "这个账号正在申请取消会员资格。"
+    },
+    "9001175": {
+        "deprecated": false,
+        "Dev_Desc": "거래소 조회 실패 에러 메시지",
+        "id": 9001175,
+        "alias": "SysM.Market.Fail.Error",
+        "text": "无法搜索Exchange项目。"
     }
 }

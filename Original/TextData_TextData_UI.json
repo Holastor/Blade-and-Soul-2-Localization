@@ -2839,7 +2839,7 @@
         "Dev_Desc": "퀘스트 / ",
         "id": 8000406,
         "alias": "UI.Quest.TypeName.Sub",
-        "text": "서브"
+        "text": "테일"
     },
     "8000407": {
         "deprecated": false,
@@ -6745,14 +6745,14 @@
         "Dev_Desc": "퀘스트 / ",
         "id": 8001016,
         "alias": "UI.Quest.TypeName.Special",
-        "text": "메인"
+        "text": "에피소드"
     },
     "8001017": {
         "deprecated": false,
         "Dev_Desc": "퀘스트 / ",
         "id": 8001017,
         "alias": "UI.Quest.TypeName.Support",
-        "text": "서포트"
+        "text": "탐사"
     },
     "8001018": {
         "deprecated": false,
@@ -10287,7 +10287,7 @@
         "Dev_Desc": "퀘스트 / 완료 팝업 / (아래 보상 중 1종 획득)",
         "id": 8001523,
         "alias": "UI.Quest.FinishPopup.RandomReward.2",
-        "text": "(아래 보상 중 1종 획득)"
+        "text": "아래 보상 중 1종 획득"
     },
     "8001524": {
         "deprecated": false,
@@ -10322,7 +10322,7 @@
         "Dev_Desc": "퀘스트 / 수락 팝업 / 무작위 보상 안내 문구",
         "id": 8001528,
         "alias": "UI.Quest.AcceptPopup.RandomReward.2",
-        "text": "(아래 보상 중 1종 획득)"
+        "text": "아래 보상 중 1종 획득"
     },
     "8001529": {
         "deprecated": false,
@@ -14449,7 +14449,7 @@
     },
     "8002139": {
         "deprecated": false,
-        "Dev_Desc": "여정 / 임무포기 팝업창",
+        "Dev_Desc": "여정 / 임무포기 팝업창&여정UI",
         "id": 8002139,
         "alias": "UI.Quest.GiveUpQuest.Button",
         "text": "포기"
@@ -17756,7 +17756,7 @@
         "Dev_Desc": "설정 / 조작 / 획득 / 무게 제한 설명",
         "id": 8002614,
         "alias": "UI.Option.Control.GetItem.LimitWeight.Info",
-        "text": "소지품 무게에 따른 디버프\n50% 이상 ~ 65% 미만: 자동 회복 불가\n65% 이상 ~ 80% 미만: 이동 속도 감소\n80% 이상 ~ 90% 미만: 자동 회복 불가\n90% 이상: 스킬 사용 불가"
+        "text": "70% 미만: 페널티 없음\n70% 이상: 체력/내력 자동 회복 불가\n85% 이상: 이동 속도 감소\n90% 이상: 질주 불가\n95% 이상: 행동 불가"
     },
     "8002615": {
         "deprecated": false,
@@ -17819,14 +17819,14 @@
         "Dev_Desc": "설정 / 조작 / 편의 / 자동 사용",
         "id": 8002623,
         "alias": "UI.Option.Control.Convenience.AutoUse",
-        "text": "자동사용"
+        "text": "자동 사용"
     },
     "8002624": {
         "deprecated": false,
         "Dev_Desc": "설정 / 조작 / 편의 / 회복약 자동 사용",
         "id": 8002624,
         "alias": "UI.Option.Control.Convenience.AutoUse.HealingPotion.Switch.",
-        "text": "회복 물약 자동 사용"
+        "text": "회복약 자동 사용"
     },
     "8002625": {
         "deprecated": false,
@@ -17959,7 +17959,7 @@
         "Dev_Desc": "설정 / 조작 / 편의 / PvP 시 초령옥 자동 사용",
         "id": 8002643,
         "alias": "UI.Option.Control.Convenience.Convenience.AutoOrb.Switch.",
-        "text": "PvP 시 초령옥 자동 사용"
+        "text": "PvP 시 공령옥 자동 사용"
     },
     "8002644": {
         "deprecated": false,
@@ -17973,7 +17973,7 @@
         "Dev_Desc": "설정 / 정보 / 캐릭터 / 플레이어 이름 출력",
         "id": 8002645,
         "alias": "UI.Option.Information.Character.PlayerName.Switch",
-        "text": "플레이어 이름 출력"
+        "text": "플레이어 이름 표시"
     },
     "8002646": {
         "deprecated": false,
@@ -18218,7 +18218,7 @@
         "Dev_Desc": "설정 / 환경 / 그래픽 / 특수 효과",
         "id": 8002680,
         "alias": "UI.Option.Environment.Graphic.SpecialEffect",
-        "text": "특수 효과"
+        "text": "파티클"
     },
     "8002681": {
         "deprecated": false,
@@ -18253,7 +18253,7 @@
         "Dev_Desc": "설정 / 환경 / 사운드 / 음량 간편 설정 설명",
         "id": 8002685,
         "alias": "UI.Option.Environment.Sound.QuickVolume.Info",
-        "text": "사용자의 플레이 패턴과 기호에 따라 선택할 수 있는 그룹 별 음량 설정 프리셋입니다."
+        "text": "사용자의 플레이 패턴과 기호에 따라 선택할 수 있는 그룹 별 음량 설정 프리셋입니다.\n멀티 플레이 : 기본 설정. 일반적인 플레이 패턴에 적합한 프리셋입니다.\n싱글 플레이 : 타 캐릭터의 효과음에 방해받지 않기 위한 프리셋입니다.\n효과음 중심 : 전투 사운드 중심의 청취를 위한 프리셋입니다.\n음악 중심 : 배경 음악 감상에 적합한 프리셋입니다.\n알림/대화 중심 : 알림과 대화를 듣는 데 적합한 프리셋입니다."
     },
     "8002686": {
         "deprecated": false,
@@ -18386,7 +18386,7 @@
         "Dev_Desc": "설정 / 환경 / 사운드 / 전투 음향 보정 설명",
         "id": 8002704,
         "alias": "UI.Option.Environment.Sound.Deepening.BattleSound.Info.",
-        "text": "장시간 플레이 시, 청각 피로도를 고려한 음색 보정입니다."
+        "text": "장시간 플레이 시, 청각 피로도를 고려한 음색 보정입니다.\n선명하게: 보정을 거치지 않은 기본 음색\n부드럽게: 특정 음역대가 일정 음량 이상 커지지 않도록 제어한 버전\n더 부드럽게: 제어 음역대와 제어량을 더 늘린 버전"
     },
     "8002705": {
         "deprecated": false,
@@ -18421,7 +18421,7 @@
         "Dev_Desc": "설정 / 환경 / 사운드 / 다이나믹 레인지 설명",
         "id": 8002709,
         "alias": "UI.Option.Environment.Sound.Deepening.DynamicRange.Info.",
-        "text": "사운드 청취 환경과 출력 장치에 따라 최적화된 소리의 세기를 제공합니다. "
+        "text": "사운드 청취 환경과 출력 장치에 따라 최적화 된 소리의 세기를 제공합니다.\nWIDE: Hi-Fi 오디오 환경에 맞는 풍부한 다이나믹 레인지를 즐길 수 있습니다.\nMEDIUM: 고출력의 사운드 기기로 일반적인 환경에서 잘 들릴 수 있는 설정입니다.\nNARROW: 저출력의 사운드 기기로 시끄러운 환경에서도 잘 들을 수 있는 설정입니다."
     },
     "8002710": {
         "deprecated": false,
@@ -18533,14 +18533,14 @@
         "Dev_Desc": "설정 / 계정 / 쿠폰 번호 입력",
         "id": 8002725,
         "alias": "UI.Option.Acount.RegistCoupon.Input",
-        "text": "보유하고 계신 쿠폰 번호를 입력해주세요"
+        "text": "보유한 쿠폰 번호를 입력하세요."
     },
     "8002726": {
         "deprecated": false,
         "Dev_Desc": "설정 / 계정 / 쿠폰 사용 설명",
         "id": 8002726,
         "alias": "UI.Option.Acount.RegistCoupon.Info",
-        "text": "쿠폰 등록 시 현재 캐릭터로 물품이 지급됩니다"
+        "text": "쿠폰 등록 시 현재 캐릭터의 소지품으로 물품이 바로 지급됩니다."
     },
     "8002727": {
         "deprecated": false,
@@ -18603,7 +18603,7 @@
         "Dev_Desc": "빠른 설정 모드 / 절전 모드 시작 버튼",
         "id": 8002735,
         "alias": "UI.SaveMode.StartSaveMode",
-        "text": "절전모드 시작"
+        "text": "절전 모드 시작"
     },
     "8002736": {
         "deprecated": false,
@@ -19443,7 +19443,7 @@
         "Dev_Desc": "던전 / 이용 안내",
         "id": 8002855,
         "alias": "UI.Dungeon.Info",
-        "text": "이용시간이 만료된 던전은 더 이상 입장할 수 없습니다. 시간 충전석을 이용하여 던전 이용 시간을 충전할 수 있습니다."
+        "text": "만료된 던전은 입장할 수 없습니다. 충전석을 사용하여 던전 이용 시간 또는 입장 횟수를 충전할 수 있습니다."
     },
     "8002856": {
         "deprecated": false,
@@ -24106,14 +24106,14 @@
         "Dev_Desc": "시스템 설정 / 자동 분해 / 대상 등급",
         "id": 8003525,
         "alias": "UI.Option.Control.GetItem.AutoDiscompose.Grade",
-        "text": "대상 등급"
+        "text": "대상 장비 등급"
     },
     "8003526": {
         "deprecated": false,
         "Dev_Desc": "시스템 설정 / 자동 분해 / 획득처",
         "id": 8003526,
         "alias": "UI.Option.Control.GetItem.AutoDiscompose.Get",
-        "text": "획득처"
+        "text": "획득 경로"
     },
     "8003527": {
         "deprecated": false,
@@ -24141,7 +24141,7 @@
         "Dev_Desc": "재련 능력치 제거 / 재련 능력치 제거 설명",
         "id": 8003530,
         "alias": "UI.Inventory.RemoveSmelting.Desc",
-        "text": "재련 능력치를 제거할<br/>물품을 선택해주세요."
+        "text": "재련을 제거할 물품을 선택해주세요."
     },
     "8003531": {
         "deprecated": false,
@@ -24156,13 +24156,6 @@
         "id": 8003532,
         "alias": "UI.Item.PopUp.SoulPieceMultiOpenDesc",
         "text": "사용할 소울 파편의 수량을 선택해주세요."
-    },
-    "8003533": {
-        "deprecated": false,
-        "Dev_Desc": "소울 파편 획득 결과 팝업 / 획득물 설명",
-        "id": 8003533,
-        "alias": "UI.SoulPiecePopUp.AcquireDesc",
-        "text": "<arg p=[1:string]/> 외 <arg p=[2:integer]/>종의 소울 파편을 획득했습니다."
     },
     "8003534": {
         "deprecated": false,
@@ -24197,7 +24190,7 @@
         "Dev_Desc": "시스템 설정 / 자동 분해 / 도움말",
         "id": 8003538,
         "alias": "UI.Option.Control.GetItem.AutoDiscompose.Tip.01",
-        "text": "몬스터 - 몬스터 처치 보상으로 장비를 획득하는 경우 자동으로 분해합니다.\n상자 - 지역 별 협행 보상 상자와 장비함(각인) 상자를 열어 장비를 획득하는 경우에만 적용됩니다."
+        "text": "몬스터 - 몬스터 처치 보상으로 장비를 획득하는 경우 자동으로 분해합니다.\n상자 - 지역 별 협행 보상 상자 및 협행 지원 상자와 장비함(각인) 상자를 열어 장비를 획득하는 경우에만 적용됩니다."
     },
     "8003539": {
         "deprecated": false,
@@ -25681,7 +25674,7 @@
         "Dev_Desc": "소울 파편 획득 / 토스트 메시지",
         "id": 8003750,
         "alias": "UI.SoulPiecePopUp.AcquireDesc",
-        "text": "<arg p=[1:string]/> 외 <arg p=[2:integer]/>종의 소울 파편을 획득했습니다."
+        "text": "외 <arg p=[1:string]/>종의 소울 파편을 획득했습니다."
     },
     "8003751": {
         "deprecated": false,
@@ -25706,16 +25699,1220 @@
     },
     "8003754": {
         "deprecated": false,
-        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "Dev_Desc": "TX빌드용 / 지도 보스 안전 표시 / 안전",
         "id": 8003754,
-        "alias": "UI.MissingText.8003754",
-        "text": "화"
+        "alias": "UI.Map.TX.Safety",
+        "text": "안전"
     },
     "8003755": {
         "deprecated": false,
-        "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
+        "Dev_Desc": "TX빌드용 / 지도 보스 안전 표시 / 경쟁",
         "id": 8003755,
-        "alias": "UI.MissingText.8003755",
-        "text": "수"
+        "alias": "UI.Map.TX.Competition",
+        "text": "경쟁"
+    },
+    "8003756": {
+        "deprecated": false,
+        "Dev_Desc": "퀘스트 / HUD / 보유 퀘스트 없음",
+        "id": 8003756,
+        "alias": "UI.HUD.Text.NonQuest",
+        "text": "진행 중인 임무가 없습니다."
+    },
+    "8003757": {
+        "deprecated": false,
+        "Dev_Desc": "퀘스트 / 팝업창 / 수락 팝업 / 수행가능 횟수",
+        "id": 8003757,
+        "alias": "UI.Quest.AcceptPopup.PossibleCount",
+        "text": "수행가능 횟수"
+    },
+    "8003758": {
+        "deprecated": false,
+        "Dev_Desc": "퀘스트 / 팝업창 / 수락 팝업 / 횟수",
+        "id": 8003758,
+        "alias": "UI.Quest.AcceptPopup.Count",
+        "text": "<arg p=[1:integer]/>/<arg p=[2:integer]/>"
+    },
+    "8003759": {
+        "deprecated": false,
+        "Dev_Desc": "퀘스트 / 팝업창 / 수락 팝업 / 수락가능 시간",
+        "id": 8003759,
+        "alias": "UI.Quest.AcceptPopup.Time",
+        "text": "남은시간 <arg p=[1:integer]/>초"
+    },
+    "8003760": {
+        "deprecated": false,
+        "Dev_Desc": "퀘스트 / 여정 / 필드 / 지역필터 / 완료",
+        "id": 8003760,
+        "alias": "UI.Quest.Province.Filter.Complete",
+        "text": "(완료)"
+    },
+    "8003761": {
+        "deprecated": false,
+        "Dev_Desc": "퀘스트 / 여정 / 임무탭 / 내 임무",
+        "id": 8003761,
+        "alias": "UI.Quest.TabName.MyQuest",
+        "text": "내 임무"
+    },
+    "8003762": {
+        "deprecated": false,
+        "Dev_Desc": "퀘스트 / 여정 / 하단 버튼 / 지도에서 보기",
+        "id": 8003762,
+        "alias": "UI.Quest.Button.GoToMap",
+        "text": "지도에서 보기"
+    },
+    "8003763": {
+        "deprecated": false,
+        "Dev_Desc": "무기거치대 / 암살검 / 사용",
+        "id": 8003763,
+        "alias": "UI.WeaponStand.DualDagger",
+        "text": "암살검을 사용해보자"
+    },
+    "8003764": {
+        "deprecated": false,
+        "Dev_Desc": "사가 / 완료율",
+        "id": 8003764,
+        "alias": "UI.Saga.progress",
+        "text": "완료율"
+    },
+    "8003765": {
+        "deprecated": false,
+        "Dev_Desc": "사가 / 사가 효과",
+        "id": 8003765,
+        "alias": "UI.Saga.effect",
+        "text": "사가 효과"
+    },
+    "8003766": {
+        "deprecated": false,
+        "Dev_Desc": "사가 / 사가 스토리",
+        "id": 8003766,
+        "alias": "UI.Saga.Story",
+        "text": "사가 스토리"
+    },
+    "8003767": {
+        "deprecated": false,
+        "Dev_Desc": "사가 / 기억의 조각 사용 안내",
+        "id": 8003767,
+        "alias": "UI.Saga.PopupMessage.Open",
+        "text": "사가 스토리 진행을 위해 기억의 조각을 사용하시겠습니까?"
+    },
+    "8003768": {
+        "deprecated": false,
+        "Dev_Desc": "사가 / 사용",
+        "id": 8003768,
+        "alias": "UI.Saga.Use",
+        "text": "사용"
+    },
+    "8003769": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 계정 / 계정 삭제",
+        "id": 8003769,
+        "alias": "UI.Option.Acount.DeleteAcount",
+        "text": "계정 삭제"
+    },
+    "8003770": {
+        "deprecated": false,
+        "Dev_Desc": "프로모션 제작 레시피 탭 / 해룡의 정기",
+        "id": 8003770,
+        "alias": "UI.Craft.LeftSubTabName.Limited.SeaSerpent_05",
+        "text": "3주차 특별 제작"
+    },
+    "8003771": {
+        "deprecated": false,
+        "Dev_Desc": "이벤트 제작 레시피 탭 / 설날의 만두 제작 레시피",
+        "id": 8003771,
+        "alias": "UI.Craft.LeftSubTabName.Event.Pulmuone_01",
+        "text": "설날의 만두 제작 레시피"
+    },
+    "8003772": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 조건 확인 / 던전 최초 보상",
+        "id": 8003772,
+        "alias": "UI.HeroTransfer.Condition.Dungeon.Condition",
+        "text": "던전 최초 달성 보상"
+    },
+    "8003773": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전 / 조건 확인 / 던전 최초 보상 미수령",
+        "id": 8003773,
+        "alias": "UI.HeroTransfer.Condition.Dungeon.No.01",
+        "text": "수령하지 않은 던전 최초 달성 보상이 있습니다."
+    },
+    "8003774": {
+        "deprecated": false,
+        "Dev_Desc": "제작 테스트 탭",
+        "id": 8003774,
+        "alias": "UI.Craft.LeftSubTabName.Event.TestOnly",
+        "text": "제작 테스트"
+    },
+    "8003775": {
+        "deprecated": false,
+        "Dev_Desc": "커뮤니티 / 타이틀",
+        "id": 8003775,
+        "alias": "UI.Community.Title",
+        "text": "커뮤니티"
+    },
+    "8003776": {
+        "deprecated": false,
+        "Dev_Desc": "영기 효과 / 추가 경험치 획득률",
+        "id": 8003776,
+        "alias": "UI.HUD.SpiritEnergy.EXP",
+        "text": "추가 경험치 획득률"
+    },
+    "8003777": {
+        "deprecated": false,
+        "Dev_Desc": "영기 효과 / 추가 금화 획득률",
+        "id": 8003777,
+        "alias": "UI.HUD.SpiritEnergy.Gold",
+        "text": "추가 금화 획득률"
+    },
+    "8003778": {
+        "deprecated": false,
+        "Dev_Desc": "파티 관리 / 타이틀",
+        "id": 8003778,
+        "alias": "UI.PartyManagement.Title",
+        "text": "파티 관리"
+    },
+    "8003779": {
+        "deprecated": false,
+        "Dev_Desc": "파티 관리 / 분배 방식",
+        "id": 8003779,
+        "alias": "UI.PartyManagement.DistributionMethod",
+        "text": "분배 방식"
+    },
+    "8003780": {
+        "deprecated": false,
+        "Dev_Desc": "파티 관리 / 무작위 분배",
+        "id": 8003780,
+        "alias": "UI.PartyManagement.RandomDistribution",
+        "text": "무작위"
+    },
+    "8003781": {
+        "deprecated": false,
+        "Dev_Desc": "파티 관리 / 순차 분배",
+        "id": 8003781,
+        "alias": "UI.PartyManagement.SequentialDistribution",
+        "text": "순차"
+    },
+    "8003782": {
+        "deprecated": false,
+        "Dev_Desc": "파티 관리 / 개별 분배",
+        "id": 8003782,
+        "alias": "UI.PartyManagement.IndividualDistribution",
+        "text": "개별"
+    },
+    "8003783": {
+        "deprecated": false,
+        "Dev_Desc": "블레이드앤소울 / 강화슬롯 / 미적용 메시지",
+        "id": 8003783,
+        "alias": "UI.BNS.EnhanceBlade.Msg.CannottApply",
+        "text": "미적용"
+    },
+    "8003784": {
+        "deprecated": false,
+        "Dev_Desc": "분해 결과 화면 / 분해 완료 타이틀",
+        "id": 8003784,
+        "alias": "UI.Discomposed.Title",
+        "text": "분해 완료"
+    },
+    "8003785": {
+        "deprecated": false,
+        "Dev_Desc": "강화 결과 화면 / 강화 실패 보상 타이틀",
+        "id": 8003785,
+        "alias": "UI.EnchantResult.FailureReward.Title",
+        "text": "강화 실패 보상"
+    },
+    "8003786": {
+        "deprecated": false,
+        "Dev_Desc": "지도/ 보스 등장시간",
+        "id": 8003786,
+        "alias": "UI.Map.BossTime",
+        "text": "남은 시간 :"
+    },
+    "8003787": {
+        "deprecated": false,
+        "Dev_Desc": "지도/ 보스등장시간",
+        "id": 8003787,
+        "alias": "UI.Map.BossTime.Text",
+        "text": "남은 시간 : <arg p=[1:string]/>"
+    },
+    "8003788": {
+        "deprecated": false,
+        "Dev_Desc": " 탐지 / 탐지",
+        "id": 8003788,
+        "alias": "UI.ScanOption.Title",
+        "text": "탐지"
+    },
+    "8003789": {
+        "deprecated": false,
+        "Dev_Desc": " 탐지 /  전투 탐지",
+        "id": 8003789,
+        "alias": "UI.ScanOption.CombatScan",
+        "text": "전투 탐지"
+    },
+    "8003790": {
+        "deprecated": false,
+        "Dev_Desc": " 탐지 /  탐지리스트 정렬 순서",
+        "id": 8003790,
+        "alias": "UI.ScanOption.ListSort",
+        "text": "탐지리스트 정렬 순서"
+    },
+    "8003791": {
+        "deprecated": false,
+        "Dev_Desc": " 탐지 /  자동 탐지",
+        "id": 8003791,
+        "alias": "UI.ScanOption.AutoScan",
+        "text": "자동 탐지"
+    },
+    "8003792": {
+        "deprecated": false,
+        "Dev_Desc": " 탐지 /  자동 탐지 시간",
+        "id": 8003792,
+        "alias": "UI.ScanOption.ScanTime",
+        "text": "자동 탐지 시간"
+    },
+    "8003793": {
+        "deprecated": false,
+        "Dev_Desc": " 탐지 /  사용자 지정",
+        "id": 8003793,
+        "alias": "UI.ScanOption.ScanTime_Target",
+        "text": "사용자 지정"
+    },
+    "8003794": {
+        "deprecated": false,
+        "Dev_Desc": " 탐지 /  전투 탐지 대상",
+        "id": 8003794,
+        "alias": "UI.ScanOption.Combat",
+        "text": "전투 탐지 대상"
+    },
+    "8003795": {
+        "deprecated": false,
+        "Dev_Desc": " 탐지 /  플레이어",
+        "id": 8003795,
+        "alias": "UI.ScanOption.Combat_PC",
+        "text": "플레이어"
+    },
+    "8003796": {
+        "deprecated": false,
+        "Dev_Desc": " 탐지 /  상세",
+        "id": 8003796,
+        "alias": "UI.ScanOption.Combat_PC_Detail",
+        "text": "상세"
+    },
+    "8003797": {
+        "deprecated": false,
+        "Dev_Desc": " 탐지 /  상위 몬스터",
+        "id": 8003797,
+        "alias": "UI.ScanOption.Combat_Boss",
+        "text": "상위 몬스터"
+    },
+    "8003798": {
+        "deprecated": false,
+        "Dev_Desc": " 탐지 /  상세",
+        "id": 8003798,
+        "alias": "UI.ScanOption.Combat_Boss_Detail",
+        "text": "상세"
+    },
+    "8003799": {
+        "deprecated": false,
+        "Dev_Desc": " 탐지 /  일반 몬스터",
+        "id": 8003799,
+        "alias": "UI.ScanOption.Combat_NPC",
+        "text": "일반 몬스터"
+    },
+    "8003800": {
+        "deprecated": false,
+        "Dev_Desc": " 탐지 /  상세",
+        "id": 8003800,
+        "alias": "UI.ScanOption.Combat_NPC_Detail",
+        "text": "상세"
+    },
+    "8003801": {
+        "deprecated": false,
+        "Dev_Desc": " 탐지 /  마을 탐지 대상",
+        "id": 8003801,
+        "alias": "UI.ScanOption.Village",
+        "text": "마을 탐지 대상"
+    },
+    "8003802": {
+        "deprecated": false,
+        "Dev_Desc": " 탐지 /  NPC",
+        "id": 8003802,
+        "alias": "UI.ScanOption.Village_NPC",
+        "text": "NPC"
+    },
+    "8003803": {
+        "deprecated": false,
+        "Dev_Desc": "무공 / 무공등록 / 등록가능",
+        "id": 8003803,
+        "alias": "UI.Skill.ItemSkillSlot.RegistAvailable",
+        "text": "등록가능"
+    },
+    "8003804": {
+        "deprecated": false,
+        "Dev_Desc": "무공 / 무공등록 / 등록",
+        "id": 8003804,
+        "alias": "UI.Skill.ItemSkillSlot.Regist",
+        "text": "등록"
+    },
+    "8003805": {
+        "deprecated": false,
+        "Dev_Desc": "무공 / 무공등록 / 사용",
+        "id": 8003805,
+        "alias": "UI.Skill.ItemSkillSlot.Use",
+        "text": "사용"
+    },
+    "8003806": {
+        "deprecated": false,
+        "Dev_Desc": "무공 / 무공탭 / 액티브",
+        "id": 8003806,
+        "alias": "UI.Skill.Category.Active",
+        "text": "액티브"
+    },
+    "8003807": {
+        "deprecated": false,
+        "Dev_Desc": "무공 / 무공탭 / 패시브",
+        "id": 8003807,
+        "alias": "UI.Skill.Category.Passive",
+        "text": "패시브"
+    },
+    "8003808": {
+        "deprecated": false,
+        "Dev_Desc": "무공 / 무공탭 / 액션",
+        "id": 8003808,
+        "alias": "UI.Skill.Category.Action",
+        "text": "액션"
+    },
+    "8003809": {
+        "deprecated": false,
+        "Dev_Desc": "무공 / 무공없음",
+        "id": 8003809,
+        "alias": "UI.Skill.NoSkill",
+        "text": "해당하는 무공이 없습니다."
+    },
+    "8003810": {
+        "deprecated": false,
+        "Dev_Desc": "무공 / 진화",
+        "id": 8003810,
+        "alias": "UI.Skill.Evolve",
+        "text": "진화"
+    },
+    "8003811": {
+        "deprecated": false,
+        "Dev_Desc": "무공 / 강화 / 단계MAX",
+        "id": 8003811,
+        "alias": "UI.Skill.MaxLevel",
+        "text": "최고 단계 달성"
+    },
+    "8003812": {
+        "deprecated": false,
+        "Dev_Desc": "무공 / 강화 / 강화없음",
+        "id": 8003812,
+        "alias": "UI.Skill.NoLevel",
+        "text": "강화 옵션이 없습니다."
+    },
+    "8003813": {
+        "deprecated": false,
+        "Dev_Desc": "무공 / 팝업 / 거래가능",
+        "id": 8003813,
+        "alias": "UI.Skill.PopUp.Tradeable",
+        "text": "거래 가능한 물품입니다."
+    },
+    "8003814": {
+        "deprecated": false,
+        "Dev_Desc": "무공 / 팝업 / 취소",
+        "id": 8003814,
+        "alias": "UI.Skill.PopUp.cancel",
+        "text": "취소"
+    },
+    "8003815": {
+        "deprecated": false,
+        "Dev_Desc": "무공 / 팝업 / 등록",
+        "id": 8003815,
+        "alias": "UI.Skill.PopUp.Regist",
+        "text": "등록"
+    },
+    "8003816": {
+        "deprecated": false,
+        "Dev_Desc": "무공 / 강화 / 비결주입",
+        "id": 8003816,
+        "alias": "UI.Skill.Enhance.GaugeInject",
+        "text": "비결 주입"
+    },
+    "8003817": {
+        "deprecated": false,
+        "Dev_Desc": "무공 / 강화 / 최고단계",
+        "id": 8003817,
+        "alias": "UI.Skill.Enhance.MAx",
+        "text": "최고 강화단계 달성"
+    },
+    "8003818": {
+        "deprecated": false,
+        "Dev_Desc": "무공 / 강화 / 재료 부족",
+        "id": 8003818,
+        "alias": "UI.Skill.Enhance.Itemlack",
+        "text": "재료가 부족하여 강화할 수 없습니다."
+    },
+    "8003819": {
+        "deprecated": false,
+        "Dev_Desc": "무공 / 강화 / 비결게이지 초기화",
+        "id": 8003819,
+        "alias": "UI.Skill.Enhance.GaugeWarning",
+        "text": "실패 시 무공 비결 게이지가 초기화 됩니다."
+    },
+    "8003820": {
+        "deprecated": false,
+        "Dev_Desc": "무공 / 강화 / 상세정보",
+        "id": 8003820,
+        "alias": "UI.Skill.Enhance.Info",
+        "text": "강화 상세정보"
+    },
+    "8003821": {
+        "deprecated": false,
+        "Dev_Desc": "무공 / 강화 / 효과",
+        "id": 8003821,
+        "alias": "UI.Skill.Enhance.Info.Effect",
+        "text": "강화단계 효과"
+    },
+    "8003822": {
+        "deprecated": false,
+        "Dev_Desc": "무공 / 강화 / 무공 강화",
+        "id": 8003822,
+        "alias": "UI.Skill.Enhance.SkillEnhance",
+        "text": "무공 강화"
+    },
+    "8003823": {
+        "deprecated": false,
+        "Dev_Desc": "사망 UI / 아이템, 경험치 손실 없음",
+        "id": 8003823,
+        "alias": "UI.Dead.NoLoss",
+        "text": "손실 정보 없음"
+    },
+    "8003824": {
+        "deprecated": false,
+        "Dev_Desc": "사망 UI / 버튼 이름 / 즉시 부활",
+        "id": 8003824,
+        "alias": "UI.Dead.ButtonName.ImmediatelyResurrection",
+        "text": "즉시부활"
+    },
+    "8003825": {
+        "deprecated": false,
+        "Dev_Desc": "HUD / 시스템 메시지 / 장비 컬렉션 달성",
+        "id": 8003825,
+        "alias": "UI.HUD.SystemMessage.CollectionComplete",
+        "text": "컬렉션 달성"
+    },
+    "8003826": {
+        "deprecated": false,
+        "Dev_Desc": "HUD / 시스템 메시지 / 야화 완성",
+        "id": 8003826,
+        "alias": "UI.HUD.SystemMessage.YahwaComplete",
+        "text": "야화 완성"
+    },
+    "8003827": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 조작 / 편의 / 카메라 거리 자동 보정",
+        "id": 8003827,
+        "alias": "UI.Option.Control.Convenience.Convenience.AutoCamera.DistanceCurrection",
+        "text": "카메라 거리 자동 보정"
+    },
+    "8003828": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 조작 / 편의 / 협행 연속 자동 수행",
+        "id": 8003828,
+        "alias": "UI.Option.Control.Convenience.Convenience.AutoBulletinQuest",
+        "text": "협행 연속 자동 수행"
+    },
+    "8003829": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 정보 / 캐릭터 / 말풍선",
+        "id": 8003829,
+        "alias": "UI.Option.Information.Character.SpeechBubble",
+        "text": "말풍선"
+    },
+    "8003830": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 정보 / 캐릭터 / 말풍선 / 상세",
+        "id": 8003830,
+        "alias": "UI.Option.Information.Character.SpeechBubble.Detail",
+        "text": "상세"
+    },
+    "8003831": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 정보 / 전투 / 전투모드 / 타이틀",
+        "id": 8003831,
+        "alias": "UI.Option.Information.Battle.BattleMode",
+        "text": "전투 모드"
+    },
+    "8003832": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 정보 / 전투 / 전투모드 / 대미지 플로터 표시",
+        "id": 8003832,
+        "alias": "UI.Option.Information.Battle.DamageFloater",
+        "text": "대미지 플로터 표시"
+    },
+    "8003833": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 정보 / 전투 / 전투모드 / 대미지 플로터 표시 / 상세",
+        "id": 8003833,
+        "alias": "UI.Option.Information.Battle.DamageFloater.Detail",
+        "text": "상세"
+    },
+    "8003834": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 정보 / 전투 / 전투모드 / 다른 플레이어의 소울 발동 연출 표시",
+        "id": 8003834,
+        "alias": "UI.Option.Information.Battle.SoulEffectDisplay",
+        "text": "다른 플레이어의 소울 발동 연출 표시"
+    },
+    "8003835": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 정보 / 전투 / 전투모드 / 다른 플레이어의 전투 이펙트 표시",
+        "id": 8003835,
+        "alias": "UI.Option.Information.Battle.BattleEffectDisplay",
+        "text": "다른 플레이어의 전투 이펙트 표시"
+    },
+    "8003836": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 알림 / 전투 / 알림음 종류",
+        "id": 8003836,
+        "alias": "UI.Option.Notice.Battle.Channel.SoundType",
+        "text": "알림음 종류"
+    },
+    "8003837": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 알림 / 전투 / 자동 사냥 중 사망",
+        "id": 8003837,
+        "alias": "UI.Option.Notice.Battle.DeathDuringAuto",
+        "text": "자동 사냥 중 사망 시 알림"
+    },
+    "8003838": {
+        "deprecated": false,
+        "Dev_Desc": "탐지 / 설정 / 우선 순위",
+        "id": 8003838,
+        "alias": "UI.ScanOption.Priority",
+        "text": "우선 순위"
+    },
+    "8003839": {
+        "deprecated": false,
+        "Dev_Desc": "탐지 / 설정 / 자동 전투 우선 순위",
+        "id": 8003839,
+        "alias": "UI.ScanOption.AutoCombatPriority",
+        "text": "자동 전투 우선 순위"
+    },
+    "8003840": {
+        "deprecated": false,
+        "Dev_Desc": "탐지 / 설정 / 수동 전투 우선 순위",
+        "id": 8003840,
+        "alias": "UI.ScanOption.ManualCombatPriority",
+        "text": "수동 전투 우선 순위"
+    },
+    "8003841": {
+        "deprecated": false,
+        "Dev_Desc": "탐지 / 설정 / 자동 사냥",
+        "id": 8003841,
+        "alias": "UI.ScanOption.AutoCombat",
+        "text": "자동 사냥"
+    },
+    "8003842": {
+        "deprecated": false,
+        "Dev_Desc": "환경설정 / 전투 / 매너모드",
+        "id": 8003842,
+        "alias": "UI.Option.Combat.MannerMode",
+        "text": "매너 모드"
+    },
+    "8003843": {
+        "deprecated": false,
+        "Dev_Desc": "환경설정 / 전투 / 매너모드 / 정보",
+        "id": 8003843,
+        "alias": "UI.Option.Combat.Info.MannerMode",
+        "text": "다른 플레이어와 전투 중인 몬스터를 자동 사냥 대상에서 제외합니다."
+    },
+    "8003844": {
+        "deprecated": false,
+        "Dev_Desc": "환경설정 / 전투 / 자동사냥 범위",
+        "id": 8003844,
+        "alias": "UI.Option.Combat.Range",
+        "text": "범위"
+    },
+    "8003845": {
+        "deprecated": false,
+        "Dev_Desc": "환경설정 / 전투 / 전투 조작",
+        "id": 8003845,
+        "alias": "UI.Option.Combat.Operation",
+        "text": "전투 조작"
+    },
+    "8003846": {
+        "deprecated": false,
+        "Dev_Desc": "환경설정 / 전투 / 전투 조작 옵션",
+        "id": 8003846,
+        "alias": "UI.Option.Combat.Operation.OptionA",
+        "text": "지면 선택 이동 시 타겟팅 유지"
+    },
+    "8003847": {
+        "deprecated": false,
+        "Dev_Desc": "환경설정 / 전투 / 전투 조작 옵션",
+        "id": 8003847,
+        "alias": "UI.Option.Combat.Operation.OptionB",
+        "text": "키보드, 가상 조이스틱으로 이동 시 타겟팅 유지"
+    },
+    "8003848": {
+        "deprecated": false,
+        "Dev_Desc": "환경설정 / 전투 / 전투 조작 옵션",
+        "id": 8003848,
+        "alias": "UI.Option.Combat.Operation.OptionC",
+        "text": "이동 시 자동 사냥 유지"
+    },
+    "8003849": {
+        "deprecated": false,
+        "Dev_Desc": "환경설정 / 전투 / 전투 조작 옵션",
+        "id": 8003849,
+        "alias": "UI.Option.Combat.Operation.OptionD",
+        "text": "이동 시 기본 공격 유지"
+    },
+    "8003850": {
+        "deprecated": false,
+        "Dev_Desc": "환경설정 / 탐지 / 대상 강조",
+        "id": 8003850,
+        "alias": "UI.Target.NearestEnemy",
+        "text": "탐지 리스트에서 가장 가까운 대상 강조"
+    },
+    "8003851": {
+        "deprecated": false,
+        "Dev_Desc": "“별자리 각인효과” 타이틀 텍스트 (=탭 이름)",
+        "id": 8003851,
+        "alias": "UI.BladeImprint.EffectInfo.Title",
+        "text": "파사의 질서(가칭)"
+    },
+    "8003852": {
+        "deprecated": false,
+        "Dev_Desc": "하단 버튼 내 텍스트 ",
+        "id": 8003852,
+        "alias": "UI.BladeImprint.EffectInfo.Btn.ShowAll",
+        "text": "전체 효과"
+    },
+    "8003853": {
+        "deprecated": false,
+        "Dev_Desc": "타이틀 텍스트",
+        "id": 8003853,
+        "alias": "UI.BladeImprint.ShowAll.Title",
+        "text": "별자리 전체 효과(가칭)"
+    },
+    "8003854": {
+        "deprecated": false,
+        "Dev_Desc": "1구간 이름",
+        "id": 8003854,
+        "alias": "UI.BladeImprint.ShowAll.Name.Stage1",
+        "text": "외부 성단"
+    },
+    "8003855": {
+        "deprecated": false,
+        "Dev_Desc": "2구간 이름",
+        "id": 8003855,
+        "alias": "UI.BladeImprint.ShowAll.Name.Stage2",
+        "text": "내부 성단"
+    },
+    "8003856": {
+        "deprecated": false,
+        "Dev_Desc": "3구간 이름",
+        "id": 8003856,
+        "alias": "UI.BladeImprint.ShowAll.Name.Stage3",
+        "text": "중심 성단"
+    },
+    "8003857": {
+        "deprecated": false,
+        "Dev_Desc": "지점 달성 효과 텍스트",
+        "id": 8003857,
+        "alias": "UI.BladeImprint.ShowAll.Name.Single",
+        "text": "개별 각인 효과(가칭)"
+    },
+    "8003858": {
+        "deprecated": false,
+        "Dev_Desc": "확인 텍스트",
+        "id": 8003858,
+        "alias": "UI.BladeImprint.ShowAll.Btn.Confirm",
+        "text": "확인"
+    },
+    "8003859": {
+        "deprecated": false,
+        "Dev_Desc": "성공확률 텍스트",
+        "id": 8003859,
+        "alias": "UI.BladeImprint.Popup.Engrave.RateSuccess",
+        "text": "성공 확률"
+    },
+    "8003860": {
+        "deprecated": false,
+        "Dev_Desc": "“이전단계 달성 후 확인가능” 텍스트 ",
+        "id": 8003860,
+        "alias": "UI.BladeImprint.Popup.Engrave.DescPre",
+        "text": "이전단계 달성 후 확인 가능"
+    },
+    "8003861": {
+        "deprecated": false,
+        "Dev_Desc": "각인 버튼 이름 텍스트",
+        "id": 8003861,
+        "alias": "UI.BladeImprint.Popup.Engrave.Btn.Name",
+        "text": "각인"
+    },
+    "8003862": {
+        "deprecated": false,
+        "Dev_Desc": "재료 선택 설명 텍스트",
+        "id": 8003862,
+        "alias": "UI.BladeImprint.Resource.Select.DescSub",
+        "text": "선택한 순서대로 재료를 사용합니다."
+    },
+    "8003863": {
+        "deprecated": false,
+        "Dev_Desc": "환경설정 / 환경 / 그래픽 / 소울 대기 연출 보기",
+        "id": 8003863,
+        "alias": "UI.Option.Environment.Graphic.SoulIdleDisplay.Switch",
+        "text": "소울 대기 연출 보기"
+    },
+    "8003864": {
+        "deprecated": false,
+        "Dev_Desc": "환경설정 / 환경 / 그래픽 / 수호령 보기",
+        "id": 8003864,
+        "alias": "UI.Option.Environment.Graphic.PetDisplay.Switch",
+        "text": "수호령 보기"
+    },
+    "8003865": {
+        "deprecated": false,
+        "Dev_Desc": "환경설정 / 환경 / 그래픽 / 대상",
+        "id": 8003865,
+        "alias": "UI.Option.Environment.Graphic.Target",
+        "text": "대상"
+    },
+    "8003866": {
+        "deprecated": false,
+        "Dev_Desc": "환경설정 / 환경 / 그래픽 / 그림자",
+        "id": 8003866,
+        "alias": "UI.Option.Environment.Graphic.Shadow.Switch",
+        "text": "그림자"
+    },
+    "8003867": {
+        "deprecated": false,
+        "Dev_Desc": "환경설정 / 환경 / 그래픽 / 그래픽 품질 자동 관리",
+        "id": 8003867,
+        "alias": "UI.Option.Environment.Graphic.AutoGraphic",
+        "text": "그래픽 품질 자동 관리"
+    },
+    "8003868": {
+        "deprecated": false,
+        "Dev_Desc": "환경설정 / 환경 / 그래픽 / 그래픽 품질 자동 관리 / 툴팁 내용",
+        "id": 8003868,
+        "alias": "UI.Option.Environment.Graphic.AutoGraphic.Tooltip",
+        "text": "대규모 전투 상황에서 성능을 자동으로 최적화합니다."
+    },
+    "8003869": {
+        "deprecated": false,
+        "Dev_Desc": "환경설정 / 환경 / 그래픽 / 안티 에일리어싱",
+        "id": 8003869,
+        "alias": "UI.Option.Environment.Graphic.AntiAliasing",
+        "text": "안티 에일리어싱"
+    },
+    "8003870": {
+        "deprecated": false,
+        "Dev_Desc": "환경설정 / 환경 / 그래픽 / 안티 에일리어싱 툴팁",
+        "id": 8003870,
+        "alias": "UI.Option.Environment.Graphic.AntiAliasing.ToolTip",
+        "text": "Aliasing을 방지하여 계단 현상을 해소합니다."
+    },
+    "8003871": {
+        "deprecated": false,
+        "Dev_Desc": "환경설정 / 환경 / 사운드 / 소울 사운드",
+        "id": 8003871,
+        "alias": "UI.Option.Environment.Sound.SoulSound.Switch",
+        "text": "소울 사운드"
+    },
+    "8003872": {
+        "deprecated": false,
+        "Dev_Desc": "환경설정 / 환경 / 사운드 / 세부 설정 / 내 음량",
+        "id": 8003872,
+        "alias": "UI.Option.Environment.Sound.DetailSetting.MyVolume",
+        "text": "내 음량"
+    },
+    "8003873": {
+        "deprecated": false,
+        "Dev_Desc": "환경설정 / 환경 / 사운드 / 세부 설정 / 내 음량 / 툴팁",
+        "id": 8003873,
+        "alias": "UI.Option.Environment.Sound.DetailSetting.MyVolume.Tooltip",
+        "text": "내 캐릭터의 음성, 이동, 전투 등 모든 사운드의 음량을 조절할 수 있습니다."
+    },
+    "8003874": {
+        "deprecated": false,
+        "Dev_Desc": "환경설정 / 환경 / 사운드 / 세부 설정 / 다른 플레이어",
+        "id": 8003874,
+        "alias": "UI.Option.Environment.Sound.DetailSetting.OtherPlayerVolume",
+        "text": "다른 플레이어"
+    },
+    "8003875": {
+        "deprecated": false,
+        "Dev_Desc": "환경설정 / 환경 / 사운드 / 세부 설정 / 다른 플레이어 / 툴팁",
+        "id": 8003875,
+        "alias": "UI.Option.Environment.Sound.DetailSetting.OtherPlayerVolume.Tooltip",
+        "text": "다른 캐릭터의 음성, 이동, 전투 등 모든 사운드의 음량을 조절할 수 있습니다."
+    },
+    "8003876": {
+        "deprecated": false,
+        "Dev_Desc": "환경설정 / 환경 / 사운드 / 세부 설정 / 몬스터",
+        "id": 8003876,
+        "alias": "UI.Option.Environment.Sound.DetailSetting.MonsterVolume",
+        "text": "몬스터"
+    },
+    "8003877": {
+        "deprecated": false,
+        "Dev_Desc": "환경설정 / 환경 / 사운드 / 세부 설정 / 몬스터 / 툴팁",
+        "id": 8003877,
+        "alias": "UI.Option.Environment.Sound.DetailSetting.MonsterVolume.Tooltip",
+        "text": "몬스터의 음성, 이동, 전투 등 모든 사운드의 음량을 조절할 수 있습니다."
+    },
+    "8003878": {
+        "deprecated": false,
+        "Dev_Desc": "환경설정 / 환경 / 사운드 / 시네마",
+        "id": 8003878,
+        "alias": "UI.Option.Environment.Sound.Cinema.Switch",
+        "text": "시네마"
+    },
+    "8003879": {
+        "deprecated": false,
+        "Dev_Desc": "환경설정 / 환경 / 조작 / 키마",
+        "id": 8003879,
+        "alias": "UI.Option.Environment.Control.KeyboardMouse.Switch",
+        "text": "키보드/마우스"
+    },
+    "8003880": {
+        "deprecated": false,
+        "Dev_Desc": "환경설정 / 계정 / 결제 계정 정보",
+        "id": 8003880,
+        "alias": "UI.Option.Account.GooglePaidAccountChangeButton",
+        "text": "GOOGLE 결제 계정 변경"
+    },
+    "8003881": {
+        "deprecated": false,
+        "Dev_Desc": "재료선택 팝업 / 확인버튼 이름",
+        "id": 8003881,
+        "alias": "UI.Common.Popup.Btn.Confirm.Resource.Name",
+        "text": "확인"
+    },
+    "8003882": {
+        "deprecated": false,
+        "Dev_Desc": "로그인 플로우 / 보안 설정",
+        "id": 8003882,
+        "alias": "UI.Login.SecuritySetting",
+        "text": "보안 설정"
+    },
+    "8003883": {
+        "deprecated": false,
+        "Dev_Desc": "로그인 플로우 / 서버 팝업 / 탭1",
+        "id": 8003883,
+        "alias": "UI.Login.ServerPopup.Tab.1",
+        "text": "추천 서버"
+    },
+    "8003884": {
+        "deprecated": false,
+        "Dev_Desc": "로그인 플로우 / 서버 팝업 / 탭2",
+        "id": 8003884,
+        "alias": "UI.Login.ServerPopup.Tab.2",
+        "text": "전체 서버"
+    },
+    "8003885": {
+        "deprecated": false,
+        "Dev_Desc": "로그인 플로우 / 서버 팝업 / 탭3",
+        "id": 8003885,
+        "alias": "UI.Login.ServerPopup.Tab.3",
+        "text": "캐릭터 보유 서버"
+    },
+    "8003886": {
+        "deprecated": false,
+        "Dev_Desc": "로그인 플로우 / 서버 팝업 / 서버 타입1",
+        "id": 8003886,
+        "alias": "UI.Login.ServerPopup.ServerType.1",
+        "text": "신규 서버"
+    },
+    "8003887": {
+        "deprecated": false,
+        "Dev_Desc": "로그인 플로우 / 서버 팝업 / 서버 타입2",
+        "id": 8003887,
+        "alias": "UI.Login.ServerPopup.ServerType.2",
+        "text": "이벤트 서버"
+    },
+    "8003888": {
+        "deprecated": false,
+        "Dev_Desc": "로그인 플로우 / 서버 팝업 / 서버 타입3",
+        "id": 8003888,
+        "alias": "UI.Login.ServerPopup.ServerType.3",
+        "text": "캐릭터 생성 불가 서버"
+    },
+    "8003889": {
+        "deprecated": false,
+        "Dev_Desc": "로그인 플로우 / 서버 팝업 / 서버 타입4",
+        "id": 8003889,
+        "alias": "UI.Login.ServerPopup.ServerType.4",
+        "text": "기기 등록 필요 서버"
+    },
+    "8003890": {
+        "deprecated": false,
+        "Dev_Desc": "로그인 플로우 / 서버 팝업 / 조건에 맞는 서버 없음",
+        "id": 8003890,
+        "alias": "UI.Login.ServerPopup.NoServer",
+        "text": "조건에 맞는 리스트가 없습니다."
+    },
+    "8003891": {
+        "deprecated": false,
+        "Dev_Desc": "로그인 플로우 / 캐릭터 찾기 팝업 / 캐릭터 없음",
+        "id": 8003891,
+        "alias": "UI.Login.FindCharacter.NoCharacter",
+        "text": "생성된 캐릭터가 없습니다."
+    },
+    "8003892": {
+        "deprecated": false,
+        "Dev_Desc": "로그인 플로우 / 보안 설정 / 인증 번호 재발송",
+        "id": 8003892,
+        "alias": "UI.Login.Security.Accreditation.Resend",
+        "text": "재발송"
+    },
+    "8003893": {
+        "deprecated": false,
+        "Dev_Desc": "채팅 / 채팅 타입 / 시스템",
+        "id": 8003893,
+        "alias": "UI.Chat.ChatType.System",
+        "text": "시스템"
+    },
+    "8003894": {
+        "deprecated": false,
+        "Dev_Desc": "채팅 / 채팅 타입 / 월드",
+        "id": 8003894,
+        "alias": "UI.Chat.ChatType.World",
+        "text": "월드"
+    },
+    "8003895": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 탭 / 파티 던전",
+        "id": 8003895,
+        "alias": "UI.Dungeon.Tap.PartyDungeon",
+        "text": "파티"
+    },
+    "8003896": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전",
+        "id": 8003896,
+        "alias": "UI.PartyDungeon.Text.PartyMember",
+        "text": "파티장이 입장 신청 시 던전에 입장할 수 있습니다."
+    },
+    "8003897": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전",
+        "id": 8003897,
+        "alias": "UI.PartyDungeon.Text.RewardCountRemain",
+        "text": "보상 획득 가능 횟수"
+    },
+    "8003898": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전",
+        "id": 8003898,
+        "alias": "UI.PartyDungeon.Text.WeeklyReset",
+        "text": "이용 횟수를 초과하면 던전 완료보상을 받을 수 없습니다. 이용 횟수는 매주 수요일 오전 5시에 초기화 됩니다."
+    },
+    "8003899": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전 / 매칭 중 [난이도 층]",
+        "id": 8003899,
+        "alias": "UI.PartyDungeon.Text.MatchMaking",
+        "text": "매칭 중 [<arg p=[1:string]/> <arg p=[2:string]/>]"
+    },
+    "8003900": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전 / [퀘스트이름] 완료",
+        "id": 8003900,
+        "alias": "UI.PartyDungeon.Lock.Quest",
+        "text": "[<arg p=[1:string]/>] 완료"
+    },
+    "8003901": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전 / 보상 획득 가능 횟수 만료",
+        "id": 8003901,
+        "alias": "UI.PartyDungeon.Text.RewardCountlack",
+        "text": "보상 획득 가능 횟수 만료"
+    },
+    "8003902": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전",
+        "id": 8003902,
+        "alias": "UI.PartyDungeon.Text.DungeonInfo",
+        "text": "던전 정보"
+    },
+    "8003903": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전",
+        "id": 8003903,
+        "alias": "UI.PartyDungeon.Text.BossInfo",
+        "text": "보스 정보"
+    },
+    "8003904": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전",
+        "id": 8003904,
+        "alias": "UI.PartyDungeon.Text.BossElementInfo",
+        "text": "속성 정보"
+    },
+    "8003905": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전",
+        "id": 8003905,
+        "alias": "UI.PartyDungeon.Text.BossSkillInfo",
+        "text": "주요 기술"
+    },
+    "8003906": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전",
+        "id": 8003906,
+        "alias": "UI.PartyDungeon.Text.Enter.Direct",
+        "text": "즉시 입장"
+    },
+    "8003907": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전",
+        "id": 8003907,
+        "alias": "UI.PartyDungeon.Text.MatchMaking.Start",
+        "text": "매칭 신청"
+    },
+    "8003908": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전",
+        "id": 8003908,
+        "alias": "UI.PartyDungeon.Text.MatchMaking.Cancel",
+        "text": "매칭 취소"
+    },
+    "8003909": {
+        "deprecated": false,
+        "Dev_Desc": "이벤트 제작 레시피 탭 / 소울수호령제작서",
+        "id": 8003909,
+        "alias": "UI.Craft.LeftSubTabName.Event.SoulAndPet_01",
+        "text": "소울/수호령 제작서"
+    },
+    "8003910": {
+        "deprecated": false,
+        "Dev_Desc": "마을 탐지 / 버튼 Alias",
+        "id": 8003910,
+        "alias": "UI.Detection.Buy",
+        "text": "매입 상인"
+    },
+    "8003911": {
+        "deprecated": false,
+        "Dev_Desc": "마을 탐지 / 버튼 Alias",
+        "id": 8003911,
+        "alias": "UI.Detection.Closet",
+        "text": "의상 상인"
+    },
+    "8003912": {
+        "deprecated": false,
+        "Dev_Desc": "마을 탐지 / 버튼 Alias",
+        "id": 8003912,
+        "alias": "UI.Detection.Distribution",
+        "text": "창고"
+    },
+    "8003913": {
+        "deprecated": false,
+        "Dev_Desc": "마을 탐지 / 버튼 Alias",
+        "id": 8003913,
+        "alias": "UI.Detection.Event",
+        "text": "이벤트 상인"
+    },
+    "8003914": {
+        "deprecated": false,
+        "Dev_Desc": "마을 탐지 / 버튼 Alias",
+        "id": 8003914,
+        "alias": "UI.Detection.Merchant",
+        "text": "상인"
+    },
+    "8003915": {
+        "deprecated": false,
+        "Dev_Desc": "마을 탐지 / 버튼 Alias",
+        "id": 8003915,
+        "alias": "UI.Detection.Skill",
+        "text": "무공서 상인"
+    },
+    "8003916": {
+        "deprecated": false,
+        "Dev_Desc": "마을 탐지 / 버튼 Alias",
+        "id": 8003916,
+        "alias": "UI.Detection.Weapon",
+        "text": "무기 상인"
+    },
+    "8003917": {
+        "deprecated": false,
+        "Dev_Desc": "강화 / 최고강화단계 설명",
+        "id": 8003917,
+        "alias": "UI.Encahnt.MaxEnchantLevelDesc",
+        "text": "최고 강화단계를 달성해서\n더 이상 강화할 수 없습니다."
+    },
+    "8003918": {
+        "deprecated": false,
+        "Dev_Desc": "장비도감 / 장비도감 달성효과 팝업 / 달성률",
+        "id": 8003918,
+        "alias": "UI.Collection.CompleteEffectPopup.CompleteRate",
+        "text": "달성률"
+    },
+    "8003919": {
+        "deprecated": false,
+        "Dev_Desc": "커스터마이징 / 사전 생성 ID",
+        "id": 8003919,
+        "alias": "UI.Custom.PreCreation.ID",
+        "text": "사전 생성 ID"
+    },
+    "8003920": {
+        "deprecated": false,
+        "Dev_Desc": "커스터마이징 / 의상 표시 버튼",
+        "id": 8003920,
+        "alias": "UI.Custom.DressDisplayButton",
+        "text": "의상 표시"
+    },
+    "8003921": {
+        "deprecated": false,
+        "Dev_Desc": "커스터마이징 / 임시저장 버튼",
+        "id": 8003921,
+        "alias": "UI.Custom.TempSaveButton",
+        "text": "임시저장"
+    },
+    "8003922": {
+        "deprecated": false,
+        "Dev_Desc": "커스터마이징 / 불러오기 버튼",
+        "id": 8003922,
+        "alias": "UI.Custom.LoadButton",
+        "text": "불러오기"
+    },
+    "8003923": {
+        "deprecated": false,
+        "Dev_Desc": "커스터마이징 / 캐릭터 삭제 팝업 / 삭제 안내 텍스트 4",
+        "id": 8003923,
+        "alias": "UI.Lobby.CharacterSelect.DeleteCountDown.4",
+        "text": "남았습니다."
+    },
+    "8003924": {
+        "deprecated": false,
+        "Dev_Desc": "로비 / 캐릭터 선택화면 / 무기 아이콘 / 무기없음",
+        "id": 8003924,
+        "alias": "UI.Lobby.CharacterSelect.NoWeapon",
+        "text": "무기없음"
+    },
+    "8003925": {
+        "deprecated": false,
+        "Dev_Desc": "시스템 설정 / 자동 분해 / 상자 설명",
+        "id": 8003925,
+        "alias": "UI.Option.Control.GetItem.AutoDiscompose.OpenBoxDesc",
+        "text": "자동 분해가 설정된 상자는\n소지품 여유 공간까지 개봉할 수 있습니다."
+    },
+    "8003926": {
+        "deprecated": false,
+        "Dev_Desc": "타이틀 / 로그인 실패 / B2 미지원 국가 / 타이틀",
+        "id": 8003926,
+        "alias": "UI.Login.Fail.NotSupportedCountry.Title",
+        "text": "서비스 국가 제한"
+    },
+    "8003927": {
+        "deprecated": false,
+        "Dev_Desc": "타이틀 / 로그인 실패 / B2 미지원 국가 / 설명",
+        "id": 8003927,
+        "alias": "UI.Login.Fail.NotSupportedCountry.Desc",
+        "text": "서비스를 지원하지 않는 국가의 계정으로는 로그인이 불가능 합니다."
     }
 }

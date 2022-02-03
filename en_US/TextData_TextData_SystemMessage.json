@@ -7787,5 +7787,12 @@
         "id": 9001174,
         "alias": "SysM.DeleteAcount.Popup.Desc",
         "text": "This account is applying for membership cancellation."
+    },
+    "9001175": {
+        "deprecated": false,
+        "Dev_Desc": "거래소 조회 실패 에러 메시지",
+        "id": 9001175,
+        "alias": "SysM.Market.Fail.Error",
+        "text": "Failed to search for exchange items."
     }
 }
