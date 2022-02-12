@@ -558,5 +558,68 @@
         "id": 61000080,
         "alias": "Contents.Effect.Option.Monster.212490111",
         "text": "\"Attack 2\\nDefense 2\\nHit 2\""
+    },
+    "61000081": {
+        "deprecated": false,
+        "Dev_Desc": "이벤트_금빛상_버프_전투능력증가_이름",
+        "id": 61000081,
+        "alias": "Contents.Effect.Name.Monster.212630111",
+        "text": "Golden cheering"
+    },
+    "61000082": {
+        "deprecated": false,
+        "Dev_Desc": "이벤트_금빛상_버프_전투능력증가_설명",
+        "id": 61000082,
+        "alias": "Contents.Effect.Desc.Monster.212630111",
+        "text": "Increase combat ability"
+    },
+    "61000083": {
+        "deprecated": false,
+        "Dev_Desc": "이벤트_금빛상_버프_전투능력증가_옵션",
+        "id": 61000083,
+        "alias": "Contents.Effect.Option.Monster.212630111",
+        "text": "Damage 2 \\n Defense 2 \\n Hits 2"
+    },
+    "61000084": {
+        "deprecated": false,
+        "Dev_Desc": "이벤트_은빛상_버프_추가경험치획득률_이름",
+        "id": 61000084,
+        "alias": "Contents.Effect.Name.Monster.212630211",
+        "text": "Eunhye cheering"
+    },
+    "61000085": {
+        "deprecated": false,
+        "Dev_Desc": "이벤트_은빛상_버프_추가경험치획득률_설명",
+        "id": 61000085,
+        "alias": "Contents.Effect.Desc.Monster.212630211",
+        "text": "Increase in experiencing acquisition"
+    },
+    "61000086": {
+        "deprecated": false,
+        "Dev_Desc": "이벤트_은빛상_버프_추가경험치획득률_옵션",
+        "id": 61000086,
+        "alias": "Contents.Effect.Option.Monster.212630211",
+        "text": "Experience acquisition amount increased 30%"
+    },
+    "61000087": {
+        "deprecated": false,
+        "Dev_Desc": "이벤트_동빛상_버프_추가금화획득률_이름",
+        "id": 61000087,
+        "alias": "Contents.Effect.Name.Monster.212630311",
+        "text": "Eastern cheering"
+    },
+    "61000088": {
+        "deprecated": false,
+        "Dev_Desc": "이벤트_동빛상_버프_추가금화획득률_설명",
+        "id": 61000088,
+        "alias": "Contents.Effect.Desc.Monster.212630311",
+        "text": "Increase in gold coin acquisition"
+    },
+    "61000089": {
+        "deprecated": false,
+        "Dev_Desc": "이벤트_동빛상_버프_추가금화획득률_옵션",
+        "id": 61000089,
+        "alias": "Contents.Effect.Option.Monster.212630311",
+        "text": "30% increase in gold coin acquisition"
     }
 }

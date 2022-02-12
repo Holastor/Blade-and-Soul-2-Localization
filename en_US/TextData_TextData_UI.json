@@ -26914,5 +26914,215 @@
         "id": 8003927,
         "alias": "UI.Login.Fail.NotSupportedCountry.Desc",
         "text": "The account in the country that does not support the service is not logged in."
+    },
+    "8003928": {
+        "deprecated": false,
+        "Dev_Desc": "TX용 - 거래소 / 수수료 / 타이틀",
+        "id": 8003928,
+        "alias": "UI.Trade.SalesTax.Title",
+        "text": "Sales fee"
+    },
+    "8003929": {
+        "deprecated": false,
+        "Dev_Desc": "TX용 - 거래소 / 수수료 / 판매 금액 탭",
+        "id": 8003929,
+        "alias": "UI.Trade.SalesTax.PriceRangeTab",
+        "text": "sale price"
+    },
+    "8003930": {
+        "deprecated": false,
+        "Dev_Desc": "TX용 - 거래소 / 수수료 / 수수료 탭",
+        "id": 8003930,
+        "alias": "UI.Trade.SalesTax.TaxTab",
+        "text": "fees"
+    },
+    "8003931": {
+        "deprecated": false,
+        "Dev_Desc": "TX용 - 거래소 / 수수료 / 판매 금액1",
+        "id": 8003931,
+        "alias": "UI.Trade.SalesTax.PriceRange1",
+        "text": "1 ~ 100"
+    },
+    "8003932": {
+        "deprecated": false,
+        "Dev_Desc": "TX용 - 거래소 / 수수료 / 수수료1",
+        "id": 8003932,
+        "alias": "UI.Trade.SalesTax.Tax1",
+        "text": "One"
+    },
+    "8003933": {
+        "deprecated": false,
+        "Dev_Desc": "TX용 - 거래소 / 수수료 / 판매 금액2",
+        "id": 8003933,
+        "alias": "UI.Trade.SalesTax.PriceRange2",
+        "text": "101 ~ 1,000"
+    },
+    "8003934": {
+        "deprecated": false,
+        "Dev_Desc": "TX용 - 거래소 / 수수료 / 수수료2",
+        "id": 8003934,
+        "alias": "UI.Trade.SalesTax.Tax2",
+        "text": "10"
+    },
+    "8003935": {
+        "deprecated": false,
+        "Dev_Desc": "TX용 - 거래소 / 수수료 / 판매 금액3",
+        "id": 8003935,
+        "alias": "UI.Trade.SalesTax.PriceRange3",
+        "text": "1,001 ~ 10,000"
+    },
+    "8003936": {
+        "deprecated": false,
+        "Dev_Desc": "TX용 - 거래소 / 수수료 / 수수료3",
+        "id": 8003936,
+        "alias": "UI.Trade.SalesTax.Tax3",
+        "text": "100"
+    },
+    "8003937": {
+        "deprecated": false,
+        "Dev_Desc": "TX용 - 거래소 / 수수료 / 판매 금액4",
+        "id": 8003937,
+        "alias": "UI.Trade.SalesTax.PriceRange4",
+        "text": "10,001 ~ 100,000"
+    },
+    "8003938": {
+        "deprecated": false,
+        "Dev_Desc": "TX용 - 거래소 / 수수료 / 수수료4",
+        "id": 8003938,
+        "alias": "UI.Trade.SalesTax.Tax4",
+        "text": "1000"
+    },
+    "8003939": {
+        "deprecated": false,
+        "Dev_Desc": "TX용 - 서브 탭 / 신석탭 / 소환권",
+        "id": 8003939,
+        "alias": "UI.CashShop.TapName.Sub.PurchaseGacha",
+        "text": "Summoner"
+    },
+    "8003940": {
+        "deprecated": false,
+        "Dev_Desc": "TX용 - 서브 탭 / 소환 탭 / 소환",
+        "id": 8003940,
+        "alias": "UI.CashShop.TapName.Sub.Gacha",
+        "text": "Summons"
+    },
+    "8003941": {
+        "deprecated": false,
+        "Dev_Desc": "문파 / 문파원 목록 / 내 정보",
+        "id": 8003941,
+        "alias": "UI.Clan.ClanMemberList.MyInfo",
+        "text": "My Info"
+    },
+    "8003942": {
+        "deprecated": false,
+        "Dev_Desc": "문파 / 문파자금",
+        "id": 8003942,
+        "alias": "UI.Clan.ClanInfo.ClanMoney",
+        "text": "The door is lacking."
+    },
+    "8003943": {
+        "deprecated": false,
+        "Dev_Desc": "TX용 - 캐시상점 / 메인 탭 / 소환",
+        "id": 8003943,
+        "alias": "UI.CashShop.TapName.Main.Gacha",
+        "text": "Summons"
+    },
+    "8003944": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전",
+        "id": 8003944,
+        "alias": "UI.PartyDungeon.Text.RewardCharge.None",
+        "text": "There is no compensation right to hold."
+    },
+    "8003945": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전",
+        "id": 8003945,
+        "alias": "UI.PartyDungeon.Text.PartyMember.Enroll",
+        "text": "Patermis can not apply for position."
+    },
+    "8003946": {
+        "deprecated": false,
+        "Dev_Desc": "제작 / 제작 결과",
+        "id": 8003946,
+        "alias": "UI.Craft.CraftResult.Title",
+        "text": "Production result"
+    },
+    "8003947": {
+        "deprecated": false,
+        "Dev_Desc": "제작 / 제작 결과",
+        "id": 8003947,
+        "alias": "UI.Craft.CraftResult.FailReward",
+        "text": "Failure compensation"
+    },
+    "8003948": {
+        "deprecated": false,
+        "Dev_Desc": "지도 / 지역 정보 / 미발견 상태",
+        "id": 8003948,
+        "alias": "UI.Map.AreaInfo.Undiscovered",
+        "text": "Unpacking"
+    },
+    "8003949": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전",
+        "id": 8003949,
+        "alias": "UI.PartyDungeon.Text.RewardCharge.Complete",
+        "text": "We have charged the number of parties dungeon compensation."
+    },
+    "8003950": {
+        "deprecated": false,
+        "Dev_Desc": "재련 / 획득 가능 능력치",
+        "id": 8003950,
+        "alias": "UI.Smelting.AcquirableAbilities",
+        "text": "Acquired ability"
+    },
+    "8003951": {
+        "deprecated": false,
+        "Dev_Desc": "재련 / 확률 정보 팝업 / 타이틀",
+        "id": 8003951,
+        "alias": "UI.Smelting.ProbPopup.Title",
+        "text": "Breaking probability information"
+    },
+    "8003952": {
+        "deprecated": false,
+        "Dev_Desc": "캐시샵 / 플레이등급 / 플레이등급 안내 버튼",
+        "id": 8003952,
+        "alias": "UI.CashShop.Mileage.MileageInfoButton",
+        "text": "Play Rating Guide"
+    },
+    "8003953": {
+        "deprecated": false,
+        "Dev_Desc": "공용 / 태그 뱃지 / New",
+        "id": 8003953,
+        "alias": "UI.Common.TagBadge.New",
+        "text": "NEW"
+    },
+    "8003954": {
+        "deprecated": false,
+        "Dev_Desc": "공용 / 태그 뱃지 / NEW",
+        "id": 8003954,
+        "alias": "UI.Common.TagBadge.UpperCaseNew",
+        "text": "NEW"
+    },
+    "8003955": {
+        "deprecated": false,
+        "Dev_Desc": "공용 / 태그 뱃지 / STEP",
+        "id": 8003955,
+        "alias": "UI.Common.TagBadge.UpperCaseStep",
+        "text": "Step"
+    },
+    "8003956": {
+        "deprecated": false,
+        "Dev_Desc": "캐시샵 / 메인 패키지 / 받기 가능",
+        "id": 8003956,
+        "alias": "UI.CashShop.MainPackage.PickUpAvailable",
+        "text": "Can be received"
+    },
+    "8003957": {
+        "deprecated": false,
+        "Dev_Desc": "발렌타인 이벤트 제작탭 이름",
+        "id": 8003957,
+        "alias": "UI.Craft.LeftSubTabName.Event.Valentine",
+        "text": "Sweet recipe"
     }
 }
