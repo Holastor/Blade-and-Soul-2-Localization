@@ -3580,7 +3580,7 @@
     },
     "92202608": {
         "deprecated": false,
-        "Dev_Desc": "무신의 춤(각인)",
+        "Dev_Desc": "옅은 새벽의 권갑(각인)",
         "id": 92202608,
         "alias": "Contents.Item.Desc.2202608",
         "text": "攻击时，有几率对敌人施放[堕落：第一阶段]。\\n\\n[堕落：第一阶段]\\n去除400能量\\n(30秒内不能对同一目标施加相同效果)\\n\\n[试炼"
@@ -3685,7 +3685,7 @@
     },
     "92203608": {
         "deprecated": false,
-        "Dev_Desc": "신령의 유지(각인)",
+        "Dev_Desc": "옅은 새벽의 기공패(각인)",
         "id": 92203608,
         "alias": "Contents.Item.Desc.2203608",
         "text": "攻击时，有几率对敌人施放[逆行：第1步]。\\n\\n[逆行：第1步]\\n攻击速度降低10%，持续6秒\\n(同一个目标不能作用30"
@@ -3790,7 +3790,7 @@
     },
     "92204608": {
         "deprecated": false,
-        "Dev_Desc": "파천대부(각인)",
+        "Dev_Desc": "옅은 새벽의 도끼(각인)",
         "id": 92204608,
         "alias": "Contents.Item.Desc.2204608",
         "text": "攻击时，有一定几率对敌人施放[击破：第1步]。\\n\\n[击破：第1步]\\n自防降低5点，持续6秒\\n(同一个目标不能施加30"
@@ -3895,7 +3895,7 @@
     },
     "92205608": {
         "deprecated": false,
-        "Dev_Desc": "바람의 노래(각인)",
+        "Dev_Desc": "옅은 새벽의 활(각인)",
         "id": 92205608,
         "alias": "Contents.Item.Desc.2205608",
         "text": "攻击时，有一定几率对敌人施放[骨折：第一阶段]。\\n\\n[骨折：第一阶段]\\n减少药水回复15，持续6秒\\n(同一效果不能对同一目标施加30"
@@ -4000,7 +4000,7 @@
     },
     "92206608": {
         "deprecated": false,
-        "Dev_Desc": "인형의 비원(각인)",
+        "Dev_Desc": "옅은 새벽의 법종(각인)",
         "id": 92206608,
         "alias": "Contents.Item.Desc.2206608",
         "text": "攻击时，有一定几率对敌人施放[命令：第1步]。\\n\\n[命令：第1步]\\n降低灵魂激活率2%，持续6秒\\n(同一效果不能对同一目标施加"
@@ -4019,39 +4019,111 @@
         "alias": "Contents.Item.Desc.2206610",
         "text": "可以从【半月福湖】中获得。"
     },
+    "92301606": {
+        "deprecated": false,
+        "Dev_Desc": "침식된 잊혀진 집행자의 검",
+        "id": 92301606,
+        "alias": "Contents.Item.Desc.2301606"
+    },
+    "92302606": {
+        "deprecated": false,
+        "Dev_Desc": "침식된 잊혀진 단죄의 주먹",
+        "id": 92302606,
+        "alias": "Contents.Item.Desc.2302606"
+    },
+    "92304606": {
+        "deprecated": false,
+        "Dev_Desc": "침식된 잊혀진 광신의 도끼",
+        "id": 92304606,
+        "alias": "Contents.Item.Desc.2304606"
+    },
+    "92303606": {
+        "deprecated": false,
+        "Dev_Desc": "침식된 잊혀진 죄업의 거울",
+        "id": 92303606,
+        "alias": "Contents.Item.Desc.2303606"
+    },
+    "92305606": {
+        "deprecated": false,
+        "Dev_Desc": "침식된 잊혀진 징벌자의 활",
+        "id": 92305606,
+        "alias": "Contents.Item.Desc.2305606"
+    },
+    "92306606": {
+        "deprecated": false,
+        "Dev_Desc": "침식된 잊혀진 팔두령",
+        "id": 92306606,
+        "alias": "Contents.Item.Desc.2306606"
+    },
+    "92301604": {
+        "deprecated": false,
+        "Dev_Desc": "침식된 설화추적자",
+        "id": 92301604,
+        "alias": "Contents.Item.Desc.2301604"
+    },
+    "92302604": {
+        "deprecated": false,
+        "Dev_Desc": "침식된 요괴사냥꾼",
+        "id": 92302604,
+        "alias": "Contents.Item.Desc.2302604"
+    },
+    "92304603": {
+        "deprecated": false,
+        "Dev_Desc": "침식된 돌풍의 쇄도",
+        "id": 92304603,
+        "alias": "Contents.Item.Desc.2304603"
+    },
+    "92303602": {
+        "deprecated": false,
+        "Dev_Desc": "침식된 고대의 잔흔",
+        "id": 92303602,
+        "alias": "Contents.Item.Desc.2303602"
+    },
+    "92305604": {
+        "deprecated": false,
+        "Dev_Desc": "침식된 구전의 줄기",
+        "id": 92305604,
+        "alias": "Contents.Item.Desc.2305604"
+    },
+    "92306603": {
+        "deprecated": false,
+        "Dev_Desc": "침식된 산들바람",
+        "id": 92306603,
+        "alias": "Contents.Item.Desc.2306603"
+    },
     "92206611": {
         "deprecated": false,
-        "Dev_Desc": "잠식된 바람의 조율자",
+        "Dev_Desc": "침식된 바람의 조율자",
         "id": 92206611,
         "alias": "Contents.Item.Desc.2301603"
     },
     "92206612": {
         "deprecated": false,
-        "Dev_Desc": "잠식된 질풍의 족쇄",
+        "Dev_Desc": "침식된 질풍의 족쇄",
         "id": 92206612,
         "alias": "Contents.Item.Desc.2302603"
     },
     "92206613": {
         "deprecated": false,
-        "Dev_Desc": "잠식된 심해의 격노",
+        "Dev_Desc": "침식된 심해의 격노",
         "id": 92206613,
         "alias": "Contents.Item.Desc.2304602"
     },
     "92206614": {
         "deprecated": false,
-        "Dev_Desc": "잠식된 폭풍의 전율",
+        "Dev_Desc": "침식된 폭풍의 전율",
         "id": 92206614,
         "alias": "Contents.Item.Desc.2303603"
     },
     "92206615": {
         "deprecated": false,
-        "Dev_Desc": "잠식된 불꽃의 소나기",
+        "Dev_Desc": "침식된 불꽃의 소나기",
         "id": 92206615,
         "alias": "Contents.Item.Desc.2305605"
     },
     "92206616": {
         "deprecated": false,
-        "Dev_Desc": "잠식된 영원의 이야기꾼",
+        "Dev_Desc": "침식된 영원의 이야기꾼",
         "id": 92206616,
         "alias": "Contents.Item.Desc.2306604"
     }

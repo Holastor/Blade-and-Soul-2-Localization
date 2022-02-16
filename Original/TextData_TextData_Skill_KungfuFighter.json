@@ -582,10 +582,10 @@
     },
     "60020085": {
         "deprecated": false,
-        "Dev_Desc": "승천권_극한_성장설명",
+        "Dev_Desc": "승천권_돌파_성장설명",
         "id": 60020085,
         "alias": "Contents.Skill.acquireEffectDesc.2073",
-        "text": "\"승천권\" 사용 후 \"낙화각\" 연계"
+        "text": "<textColor=[248:99:99:255]>공중</> 상태의 적에게 \"낙화각\" 연계"
     },
     "60020086": {
         "deprecated": false,
@@ -1005,14 +1005,14 @@
         "Dev_Desc": "개혈_증폭,극한_설명",
         "id": 60020148,
         "alias": "Contents.Skill.Desc.LightGauntlet.2122",
-        "text": "혈도를 개방시켜 8초간 근거리 공격력이 증가하고 대상에게 공격 적중 시 일정 확률로 생명력을 회복합니다."
+        "text": "근거리 공격력이 영구적으로 증가합니다.\n혈도를 개방시켜 8초간 대상에게 공격 적중 시 일정 확률로 생명력을 회복합니다."
     },
     "60020149": {
         "deprecated": false,
         "Dev_Desc": "개혈_극한_설명",
         "id": 60020149,
         "alias": "Contents.Skill.Desc.LightGauntlet.2122",
-        "text": "혈도를 개방시켜 8초간 근거리 공격력이 증가하고 대상에게 공격 적중 시 일정 확률로 생명력을 회복합니다."
+        "text": "근거리 공격력이 영구적으로 증가합니다.\n혈도를 개방시켜 8초간 대상에게 공격 적중 시 일정 확률로 생명력을 회복합니다."
     },
     "60020150": {
         "deprecated": false,
@@ -1033,7 +1033,7 @@
         "Dev_Desc": "개혈_돌파_설명",
         "id": 60020152,
         "alias": "Contents.Skill.Desc.LightGauntlet.2123",
-        "text": "혈도를 개방시켜 8초간 근거리 공격력이 증가하고 대상에게 공격 적중 시 일정 확률로 생명력을 회복합니다."
+        "text": "근거리 공격력이 영구적으로 증가합니다.\n혈도를 개방시켜 8초간 대상에게 공격 적중 시 일정 확률로 생명력을 회복합니다."
     },
     "60020153": {
         "deprecated": false,
@@ -1145,140 +1145,140 @@
         "Dev_Desc": "개혈_극한_경직/통제/도발/빙결 저항률증가_효과",
         "id": 60020168,
         "alias": "Contents.Effect.Option.LightGauntlet.212210",
-        "text": "근거리 공격력 +2\n공격 적중 시 생명력 회복\n2초간 모든 이동 속도 감소 효과 면역"
+        "text": "공격 적중 시 생명력 회복\n2초간 모든 이동 속도 감소 효과 면역"
     },
     "60020169": {
         "deprecated": false,
         "Dev_Desc": "개혈_극한_경직/통제/도발/빙결 저항률증가_효과",
         "id": 60020169,
         "alias": "Contents.Effect.Option.LightGauntlet.212211",
-        "text": "근거리 공격력 +4\n공격 적중 시 생명력 회복\n2초간 모든 이동 속도 감소 효과 면역"
+        "text": "공격 적중 시 생명력 회복\n2초간 모든 이동 속도 감소 효과 면역"
     },
     "60020170": {
         "deprecated": false,
         "Dev_Desc": "개혈_극한_경직/통제/도발/빙결 저항률증가_효과",
         "id": 60020170,
         "alias": "Contents.Effect.Option.LightGauntlet.212212",
-        "text": "근거리 공격력 +6\n공격 적중 시 생명력 회복\n2초간 모든 이동 속도 감소 효과 면역"
+        "text": "공격 적중 시 생명력 회복\n2초간 모든 이동 속도 감소 효과 면역"
     },
     "60020171": {
         "deprecated": false,
         "Dev_Desc": "개혈_극한_경직/통제/도발/빙결 저항률증가_효과",
         "id": 60020171,
         "alias": "Contents.Effect.Option.LightGauntlet.212213",
-        "text": "근거리 공격력 +8\n공격 적중 시 생명력 회복\n2초간 모든 이동 속도 감소 효과 면역"
+        "text": "공격 적중 시 생명력 회복\n2초간 모든 이동 속도 감소 효과 면역"
     },
     "60020172": {
         "deprecated": false,
         "Dev_Desc": "개혈_극한_경직/통제/도발/빙결 저항률증가_효과",
         "id": 60020172,
         "alias": "Contents.Effect.Option.LightGauntlet.212214",
-        "text": "근거리 공격력 +10\n공격 적중 시 생명력 회복\n2초간 모든 이동 속도 감소 효과 면역"
+        "text": "공격 적중 시 생명력 회복\n2초간 모든 이동 속도 감소 효과 면역"
     },
     "60020173": {
         "deprecated": false,
         "Dev_Desc": "개혈_극한_경직/통제/도발/빙결 저항률증가_효과",
         "id": 60020173,
         "alias": "Contents.Effect.Option.LightGauntlet.212215",
-        "text": "근거리 공격력 +12\n공격 적중 시 생명력 회복\n2초간 모든 이동 속도 감소 효과 면역"
+        "text": "공격 적중 시 생명력 회복\n2초간 모든 이동 속도 감소 효과 면역"
     },
     "60020174": {
         "deprecated": false,
         "Dev_Desc": "개혈_극한_경직/통제/도발/빙결 저항률증가_효과",
         "id": 60020174,
         "alias": "Contents.Effect.Option.LightGauntlet.212216",
-        "text": "근거리 공격력 +14\n공격 적중 시 생명력 회복\n2초간 모든 이동 속도 감소 효과 면역"
+        "text": "공격 적중 시 생명력 회복\n2초간 모든 이동 속도 감소 효과 면역"
     },
     "60020175": {
         "deprecated": false,
         "Dev_Desc": "개혈_극한_경직/통제/도발/빙결 저항률증가_효과",
         "id": 60020175,
         "alias": "Contents.Effect.Option.LightGauntlet.212217",
-        "text": "근거리 공격력 +16\n공격 적중 시 생명력 회복\n2초간 모든 이동 속도 감소 효과 면역"
+        "text": "공격 적중 시 생명력 회복\n2초간 모든 이동 속도 감소 효과 면역"
     },
     "60020176": {
         "deprecated": false,
         "Dev_Desc": "개혈_극한_경직/통제/도발/빙결 저항률증가_효과",
         "id": 60020176,
         "alias": "Contents.Effect.Option.LightGauntlet.212218",
-        "text": "근거리 공격력 +18\n공격 적중 시 생명력 회복\n2초간 모든 이동 속도 감소 효과 면역"
+        "text": "공격 적중 시 생명력 회복\n2초간 모든 이동 속도 감소 효과 면역"
     },
     "60020177": {
         "deprecated": false,
         "Dev_Desc": "개혈_극한_경직/통제/도발/빙결 저항률증가_효과",
         "id": 60020177,
         "alias": "Contents.Effect.Option.LightGauntlet.212219",
-        "text": "근거리 공격력 +20\n공격 적중 시 생명력 회복\n2초간 모든 이동 속도 감소 효과 면역"
+        "text": "공격 적중 시 생명력 회복\n2초간 모든 이동 속도 감소 효과 면역"
     },
     "60020178": {
         "deprecated": false,
         "Dev_Desc": "개혈_돌파_경직/통제/도발/빙결 저항률증가, 이속 디버프 면역_효과",
         "id": 60020178,
         "alias": "Contents.Effect.Option.LightGauntlet.212310",
-        "text": "근거리 공격력 +2\n공격 적중 시 생명력 회복\n통제 저항률 +15%\n8초간 모든 이동 속도 감소 효과 면역"
+        "text": "공격 적중 시 생명력 회복\n통제 저항률 +15%\n8초간 모든 이동 속도 감소 효과 면역"
     },
     "60020179": {
         "deprecated": false,
         "Dev_Desc": "개혈_돌파_경직/통제/도발/빙결 저항률증가, 이속 디버프 면역_효과",
         "id": 60020179,
         "alias": "Contents.Effect.Option.LightGauntlet.212311",
-        "text": "근거리 공격력 +4\n공격 적중 시 생명력 회복\n통제 저항률 +15%\n8초간 모든 이동 속도 감소 효과 면역"
+        "text": "공격 적중 시 생명력 회복\n통제 저항률 +15%\n8초간 모든 이동 속도 감소 효과 면역"
     },
     "60020180": {
         "deprecated": false,
         "Dev_Desc": "개혈_돌파_경직/통제/도발/빙결 저항률증가, 이속 디버프 면역_효과",
         "id": 60020180,
         "alias": "Contents.Effect.Option.LightGauntlet.212312",
-        "text": "근거리 공격력 +6\n공격 적중 시 생명력 회복\n통제 저항률 +15%\n8초간 모든 이동 속도 감소 효과 면역"
+        "text": "공격 적중 시 생명력 회복\n통제 저항률 +15%\n8초간 모든 이동 속도 감소 효과 면역"
     },
     "60020181": {
         "deprecated": false,
         "Dev_Desc": "개혈_돌파_경직/통제/도발/빙결 저항률증가, 이속 디버프 면역_효과",
         "id": 60020181,
         "alias": "Contents.Effect.Option.LightGauntlet.212313",
-        "text": "근거리 공격력 +8\n공격 적중 시 생명력 회복\n통제 저항률 +15%\n8초간 모든 이동 속도 감소 효과 면역"
+        "text": "공격 적중 시 생명력 회복\n통제 저항률 +15%\n8초간 모든 이동 속도 감소 효과 면역"
     },
     "60020182": {
         "deprecated": false,
         "Dev_Desc": "개혈_돌파_경직/통제/도발/빙결 저항률증가, 이속 디버프 면역_효과",
         "id": 60020182,
         "alias": "Contents.Effect.Option.LightGauntlet.212314",
-        "text": "근거리 공격력 +10\n공격 적중 시 생명력 회복\n통제 저항률 +15%\n8초간 모든 이동 속도 감소 효과 면역"
+        "text": "공격 적중 시 생명력 회복\n통제 저항률 +15%\n8초간 모든 이동 속도 감소 효과 면역"
     },
     "60020183": {
         "deprecated": false,
         "Dev_Desc": "개혈_돌파_경직/통제/도발/빙결 저항률증가, 이속 디버프 면역_효과",
         "id": 60020183,
         "alias": "Contents.Effect.Option.LightGauntlet.212315",
-        "text": "근거리 공격력 +12\n공격 적중 시 생명력 회복\n통제 저항률 +15%\n8초간 모든 이동 속도 감소 효과 면역"
+        "text": "공격 적중 시 생명력 회복\n통제 저항률 +15%\n8초간 모든 이동 속도 감소 효과 면역"
     },
     "60020184": {
         "deprecated": false,
         "Dev_Desc": "개혈_돌파_경직/통제/도발/빙결 저항률증가, 이속 디버프 면역_효과",
         "id": 60020184,
         "alias": "Contents.Effect.Option.LightGauntlet.212316",
-        "text": "근거리 공격력 +14\n공격 적중 시 생명력 회복\n통제 저항률 +15%\n8초간 모든 이동 속도 감소 효과 면역"
+        "text": "공격 적중 시 생명력 회복\n통제 저항률 +15%\n8초간 모든 이동 속도 감소 효과 면역"
     },
     "60020185": {
         "deprecated": false,
         "Dev_Desc": "개혈_돌파_경직/통제/도발/빙결 저항률증가, 이속 디버프 면역_효과",
         "id": 60020185,
         "alias": "Contents.Effect.Option.LightGauntlet.212317",
-        "text": "근거리 공격력 +16\n공격 적중 시 생명력 회복\n통제 저항률 +15%\n8초간 모든 이동 속도 감소 효과 면역"
+        "text": "공격 적중 시 생명력 회복\n통제 저항률 +15%\n8초간 모든 이동 속도 감소 효과 면역"
     },
     "60020186": {
         "deprecated": false,
         "Dev_Desc": "개혈_돌파_경직/통제/도발/빙결 저항률증가, 이속 디버프 면역_효과",
         "id": 60020186,
         "alias": "Contents.Effect.Option.LightGauntlet.212318",
-        "text": "근거리 공격력 +18\n공격 적중 시 생명력 회복\n통제 저항률 +15%\n8초간 모든 이동 속도 감소 효과 면역"
+        "text": "공격 적중 시 생명력 회복\n통제 저항률 +15%\n8초간 모든 이동 속도 감소 효과 면역"
     },
     "60020187": {
         "deprecated": false,
         "Dev_Desc": "개혈_돌파_경직/통제/도발/빙결 저항률증가, 이속 디버프 면역_효과",
         "id": 60020187,
         "alias": "Contents.Effect.Option.LightGauntlet.212319",
-        "text": "근거리 공격력 +20\n공격 적중 시 생명력 회복\n통제 저항률 +15%\n8초간 모든 이동 속도 감소 효과 면역"
+        "text": "공격 적중 시 생명력 회복\n통제 저항률 +15%\n8초간 모든 이동 속도 감소 효과 면역"
     },
     "60020188": {
         "deprecated": false,
@@ -1394,9 +1394,16 @@
     },
     "60020204": {
         "deprecated": false,
-        "Dev_Desc": "패시브_권법연계Ⅰ_설명",
+        "Dev_Desc": "패시브_권법연계Ⅱ_설명",
         "id": 60020204,
         "alias": "Contents.Skill.Desc.LightGauntlet.2811",
-        "text": "보스 몬스터에게 \"다리걸기[돌파]\" 공격 시 확정 연계 공격을 합니다."
+        "text": "보스 몬스터에게 \"승천권[돌파]\", \"다리걸기[돌파]\" 공격 시 확정 연계 공격을 합니다."
+    },
+    "60020205": {
+        "deprecated": false,
+        "Dev_Desc": "은신_테스트",
+        "id": 60020205,
+        "alias": "Contents.Skill.Name.LightGauntlet.2900",
+        "text": "은신"
     }
 }

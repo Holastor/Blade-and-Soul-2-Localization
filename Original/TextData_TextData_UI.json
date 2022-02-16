@@ -4393,7 +4393,7 @@
         "Dev_Desc": "게시판 / 협행 / 포기한 협행 메시지",
         "id": 8000645,
         "alias": "UI.Board.Text.Bulletin.Abandoned",
-        "text": "포기한 협행은 수락할 수 없습니다."
+        "text": "포기한 협행은 다시 수락할 수 없습니다."
     },
     "8000646": {
         "deprecated": false,
@@ -7375,7 +7375,7 @@
         "Dev_Desc": "제작 / 대체 재료 선택 후 제작 가능",
         "id": 8001106,
         "alias": "UI.Craft.CheckResource",
-        "text": "대제 채료를 선택하여 제작할 수 있습니다."
+        "text": "대제 재료를 선택하여 제작할 수 있습니다."
     },
     "8001107": {
         "deprecated": false,
@@ -11834,7 +11834,7 @@
         "Dev_Desc": "거래소 / 정산 / 정산 가능 건수",
         "id": 8001750,
         "alias": "UI.Trade.Calculate.Count",
-        "text": "미정산 <arg p=[1:integer]/>건"
+        "text": "미정산"
     },
     "8001751": {
         "deprecated": false,
@@ -11904,7 +11904,7 @@
         "Dev_Desc": "거래소 / 정산 내역 / 정산 건수",
         "id": 8001760,
         "alias": "UI.Trade.CalculateList.Count",
-        "text": "판매 완료 <arg p=[1:integer]/>건"
+        "text": "판매완료"
     },
     "8001761": {
         "deprecated": false,
@@ -24183,7 +24183,7 @@
         "Dev_Desc": "야루의 상자 / 등록 가능 아이템 / 없음",
         "id": 8003537,
         "alias": "UI.Smelting.Registrable.Nothing",
-        "text": "등록 가능한 아이템이 없습니다."
+        "text": "등록 가능한 물품이 없습니다."
     },
     "8003538": {
         "deprecated": false,
@@ -24330,7 +24330,7 @@
         "Dev_Desc": "NPC 상점 타이틀 / 교환상",
         "id": 8003558,
         "alias": "UI.Shop.Tittle.Name.10002",
-        "text": "교환상"
+        "text": "교환 상인"
     },
     "8003559": {
         "deprecated": false,
@@ -24624,7 +24624,7 @@
         "Dev_Desc": "Alias 일괄 처리 / 미연결 항목",
         "id": 8003600,
         "alias": "UI.MissingText.8003600",
-        "text": "게임을 종료 하시겠습니까?\\n확인 버튼을 누르면 게임을 종료 합니다."
+        "text": "게임을 종료 하시겠습니까?\n확인 버튼을 누르면 게임을 종료 합니다."
     },
     "8003601": {
         "deprecated": false,
@@ -26914,5 +26914,754 @@
         "id": 8003927,
         "alias": "UI.Login.Fail.NotSupportedCountry.Desc",
         "text": "서비스를 지원하지 않는 국가의 계정으로는 로그인이 불가능 합니다."
+    },
+    "8003928": {
+        "deprecated": false,
+        "Dev_Desc": "TX용 - 거래소 / 수수료 / 타이틀",
+        "id": 8003928,
+        "alias": "UI.Trade.SalesTax.Title",
+        "text": "판매 수수료"
+    },
+    "8003929": {
+        "deprecated": false,
+        "Dev_Desc": "TX용 - 거래소 / 수수료 / 판매 금액 탭",
+        "id": 8003929,
+        "alias": "UI.Trade.SalesTax.PriceRangeTab",
+        "text": "판매 금액"
+    },
+    "8003930": {
+        "deprecated": false,
+        "Dev_Desc": "TX용 - 거래소 / 수수료 / 수수료 탭",
+        "id": 8003930,
+        "alias": "UI.Trade.SalesTax.TaxTab",
+        "text": "수수료"
+    },
+    "8003931": {
+        "deprecated": false,
+        "Dev_Desc": "TX용 - 거래소 / 수수료 / 판매 금액1",
+        "id": 8003931,
+        "alias": "UI.Trade.SalesTax.PriceRange1",
+        "text": "1~100"
+    },
+    "8003932": {
+        "deprecated": false,
+        "Dev_Desc": "TX용 - 거래소 / 수수료 / 수수료1",
+        "id": 8003932,
+        "alias": "UI.Trade.SalesTax.Tax1",
+        "text": "1"
+    },
+    "8003933": {
+        "deprecated": false,
+        "Dev_Desc": "TX용 - 거래소 / 수수료 / 판매 금액2",
+        "id": 8003933,
+        "alias": "UI.Trade.SalesTax.PriceRange2",
+        "text": "101~1,000"
+    },
+    "8003934": {
+        "deprecated": false,
+        "Dev_Desc": "TX용 - 거래소 / 수수료 / 수수료2",
+        "id": 8003934,
+        "alias": "UI.Trade.SalesTax.Tax2",
+        "text": "10"
+    },
+    "8003935": {
+        "deprecated": false,
+        "Dev_Desc": "TX용 - 거래소 / 수수료 / 판매 금액3",
+        "id": 8003935,
+        "alias": "UI.Trade.SalesTax.PriceRange3",
+        "text": "1,001~10,000"
+    },
+    "8003936": {
+        "deprecated": false,
+        "Dev_Desc": "TX용 - 거래소 / 수수료 / 수수료3",
+        "id": 8003936,
+        "alias": "UI.Trade.SalesTax.Tax3",
+        "text": "100"
+    },
+    "8003937": {
+        "deprecated": false,
+        "Dev_Desc": "TX용 - 거래소 / 수수료 / 판매 금액4",
+        "id": 8003937,
+        "alias": "UI.Trade.SalesTax.PriceRange4",
+        "text": "10,001~100,000"
+    },
+    "8003938": {
+        "deprecated": false,
+        "Dev_Desc": "TX용 - 거래소 / 수수료 / 수수료4",
+        "id": 8003938,
+        "alias": "UI.Trade.SalesTax.Tax4",
+        "text": "1000"
+    },
+    "8003939": {
+        "deprecated": false,
+        "Dev_Desc": "TX용 - 서브 탭 / 신석탭 / 소환권",
+        "id": 8003939,
+        "alias": "UI.CashShop.TapName.Sub.PurchaseGacha",
+        "text": "소환권"
+    },
+    "8003940": {
+        "deprecated": false,
+        "Dev_Desc": "TX용 - 서브 탭 / 소환 탭 / 소환",
+        "id": 8003940,
+        "alias": "UI.CashShop.TapName.Sub.Gacha",
+        "text": "소환"
+    },
+    "8003941": {
+        "deprecated": false,
+        "Dev_Desc": "문파 / 문파원 목록 / 내 정보",
+        "id": 8003941,
+        "alias": "UI.Clan.ClanMemberList.MyInfo",
+        "text": "내 정보"
+    },
+    "8003942": {
+        "deprecated": false,
+        "Dev_Desc": "문파 / 문파자금",
+        "id": 8003942,
+        "alias": "UI.Clan.ClanInfo.ClanMoney",
+        "text": "문파자금이 부족합니다."
+    },
+    "8003943": {
+        "deprecated": false,
+        "Dev_Desc": "TX용 - 캐시상점 / 메인 탭 / 소환",
+        "id": 8003943,
+        "alias": "UI.CashShop.TapName.Main.Gacha",
+        "text": "소환"
+    },
+    "8003944": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전",
+        "id": 8003944,
+        "alias": "UI.PartyDungeon.Text.RewardCharge.None",
+        "text": "보유 중인 보상 획득권이 없습니다."
+    },
+    "8003945": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전",
+        "id": 8003945,
+        "alias": "UI.PartyDungeon.Text.PartyMember.Enroll",
+        "text": "파티원은 입장 신청할 수 없습니다."
+    },
+    "8003946": {
+        "deprecated": false,
+        "Dev_Desc": "제작 / 제작 결과",
+        "id": 8003946,
+        "alias": "UI.Craft.CraftResult.Title",
+        "text": "제작 결과"
+    },
+    "8003947": {
+        "deprecated": false,
+        "Dev_Desc": "제작 / 제작 결과",
+        "id": 8003947,
+        "alias": "UI.Craft.CraftResult.FailReward",
+        "text": "실패 보상"
+    },
+    "8003948": {
+        "deprecated": false,
+        "Dev_Desc": "지도 / 지역 정보 / 미발견 상태",
+        "id": 8003948,
+        "alias": "UI.Map.AreaInfo.Undiscovered",
+        "text": "미발견"
+    },
+    "8003949": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전",
+        "id": 8003949,
+        "alias": "UI.PartyDungeon.Text.RewardCharge.Complete",
+        "text": "파티 던전 보상 획득 가능 횟수를 충전하였습니다."
+    },
+    "8003950": {
+        "deprecated": false,
+        "Dev_Desc": "재련 / 획득 가능 능력치",
+        "id": 8003950,
+        "alias": "UI.Smelting.AcquirableAbilities",
+        "text": "획득 가능 능력치"
+    },
+    "8003951": {
+        "deprecated": false,
+        "Dev_Desc": "재련 / 확률 정보 팝업 / 타이틀",
+        "id": 8003951,
+        "alias": "UI.Smelting.ProbPopup.Title",
+        "text": "재련 확률 정보"
+    },
+    "8003952": {
+        "deprecated": false,
+        "Dev_Desc": "캐시샵 / 플레이등급 / 플레이등급 안내 버튼",
+        "id": 8003952,
+        "alias": "UI.CashShop.Mileage.MileageInfoButton",
+        "text": "플레이 등급 안내"
+    },
+    "8003953": {
+        "deprecated": false,
+        "Dev_Desc": "공용 / 태그 뱃지 / New",
+        "id": 8003953,
+        "alias": "UI.Common.TagBadge.New",
+        "text": "New"
+    },
+    "8003954": {
+        "deprecated": false,
+        "Dev_Desc": "공용 / 태그 뱃지 / NEW",
+        "id": 8003954,
+        "alias": "UI.Common.TagBadge.UpperCaseNew",
+        "text": "NEW"
+    },
+    "8003955": {
+        "deprecated": false,
+        "Dev_Desc": "공용 / 태그 뱃지 / STEP",
+        "id": 8003955,
+        "alias": "UI.Common.TagBadge.UpperCaseStep",
+        "text": "STEP"
+    },
+    "8003956": {
+        "deprecated": false,
+        "Dev_Desc": "캐시샵 / 메인 패키지 / 받기 가능",
+        "id": 8003956,
+        "alias": "UI.CashShop.MainPackage.PickUpAvailable",
+        "text": "받기 가능"
+    },
+    "8003957": {
+        "deprecated": false,
+        "Dev_Desc": "발렌타인 이벤트 제작탭 이름",
+        "id": 8003957,
+        "alias": "UI.Craft.LeftSubTabName.Event.Valentine",
+        "text": "달콤한 레시피"
+    },
+    "8003958": {
+        "deprecated": false,
+        "Dev_Desc": "옷장 / 의상 능력치 비교 / 착용한 의상 없을 때",
+        "id": 8003958,
+        "alias": "UI.Closet.CompareStat.NotEquippedDesc",
+        "text": "착용한 의상이 없습니다."
+    },
+    "8003959": {
+        "deprecated": false,
+        "Dev_Desc": "옷장 / 의상 능력치 비교/ 장착한 의상 선택 시",
+        "id": 8003959,
+        "alias": "UI.Closet.CompareStat.EquippedDesc",
+        "text": "다른 의상을 선택하여\n비교할 수 있습니다."
+    },
+    "8003960": {
+        "deprecated": false,
+        "Dev_Desc": "거래소 / 판매 등록 팝업 / 등록 가격",
+        "id": 8003960,
+        "alias": "UI.Trade.RegisterSaleConfirm.RegisterFee",
+        "text": "등록 가격"
+    },
+    "8003961": {
+        "deprecated": false,
+        "Dev_Desc": "거래소 / 판매 취소 팝업 / 설명1",
+        "id": 8003961,
+        "alias": "UI.Trade.SaleCanclePopup.Desc.1",
+        "text": "판매를 취소 하시겠습니까?"
+    },
+    "8003962": {
+        "deprecated": false,
+        "Dev_Desc": "거래소 / 판매 취소 팝업 / 설명2",
+        "id": 8003962,
+        "alias": "UI.Trade.SaleCanclePopup.Desc.2",
+        "text": "판매 등록 시 지급한 등록 비용은 반환되지 않습니다."
+    },
+    "8003963": {
+        "deprecated": false,
+        "Dev_Desc": "공용 / 버튼 이름 / MAX",
+        "id": 8003963,
+        "alias": "UI.Common.ButtonName.MAX",
+        "text": "MAX"
+    },
+    "8003964": {
+        "deprecated": false,
+        "Dev_Desc": "경계대상 / 타이틀",
+        "id": 8003964,
+        "alias": "UI.Alert.Title",
+        "text": "경계대상"
+    },
+    "8003965": {
+        "deprecated": false,
+        "Dev_Desc": "장비도감 / 필터 / 전체",
+        "id": 8003965,
+        "alias": "UI.EquipCollection.Filter.All",
+        "text": "전체"
+    },
+    "8003966": {
+        "deprecated": false,
+        "Dev_Desc": "장비도감 / 필터 / 달성",
+        "id": 8003966,
+        "alias": "UI.EquipCollection.Filter.Accomplishment",
+        "text": "달성"
+    },
+    "8003967": {
+        "deprecated": false,
+        "Dev_Desc": "장비도감 / 필터 / 미달성",
+        "id": 8003967,
+        "alias": "UI.EquipCollection.Filter.NotAccomplishment",
+        "text": "미달성"
+    },
+    "8003968": {
+        "deprecated": false,
+        "Dev_Desc": "협행 / 임무 보상",
+        "id": 8003968,
+        "alias": "UI.QuestBoard.Reward",
+        "text": "임무 보상"
+    },
+    "8003969": {
+        "deprecated": false,
+        "Dev_Desc": "소울 / 확정 / 신규 획득",
+        "id": 8003969,
+        "alias": "UI.Soul.Confirmation.NewTag",
+        "text": "신규획득"
+    },
+    "8003970": {
+        "deprecated": false,
+        "Dev_Desc": "소울 / 확정 / 남은 교체 횟수",
+        "id": 8003970,
+        "alias": "UI.Soul.Confirmation.RemainingChangeCount",
+        "text": "남은 횟수"
+    },
+    "8003971": {
+        "deprecated": false,
+        "Dev_Desc": "소울 / 합성 / 소울 합성 포인트 보상 설명",
+        "id": 8003971,
+        "alias": "UI.Soul.Compose.RewardDesc",
+        "text": "보상 받기 버튼을 선택해 보상을 획득하세요."
+    },
+    "8003972": {
+        "deprecated": false,
+        "Dev_Desc": "소울 / 합성 / 소울 합성 보상 버튼",
+        "id": 8003972,
+        "alias": "UI.Soul.Compose.RewardButton",
+        "text": "보상 받기"
+    },
+    "8003973": {
+        "deprecated": false,
+        "Dev_Desc": "소울 / 합성 / 합성 확률 버튼",
+        "id": 8003973,
+        "alias": "UI.Soul.Compose.ComposeProbButton",
+        "text": "합성 확률"
+    },
+    "8003974": {
+        "deprecated": false,
+        "Dev_Desc": "소울 / 합성 / 자동 등록 버튼",
+        "id": 8003974,
+        "alias": "UI.Soul.Compose.AutoRegistButton",
+        "text": "자동 등록"
+    },
+    "8003975": {
+        "deprecated": false,
+        "Dev_Desc": "소울 / 컬렉션 / 필터 / 전체",
+        "id": 8003975,
+        "alias": "UI.Soul.Collection.Filter.All",
+        "text": "전체"
+    },
+    "8003976": {
+        "deprecated": false,
+        "Dev_Desc": "소울 / 컬렉션 / 필터 / 완성",
+        "id": 8003976,
+        "alias": "UI.Soul.Collection.Filter.Complete",
+        "text": "완성"
+    },
+    "8003977": {
+        "deprecated": false,
+        "Dev_Desc": "소울 / 컬렉션 / 필터 / 미완성",
+        "id": 8003977,
+        "alias": "UI.Soul.Collection.Filter.Discomplete",
+        "text": "미완성"
+    },
+    "8003978": {
+        "deprecated": false,
+        "Dev_Desc": "소울 / 컬렉션 / 컬렉션 효과",
+        "id": 8003978,
+        "alias": "UI.Soul.Collection.Effect",
+        "text": "컬렉션 효과"
+    },
+    "8003979": {
+        "deprecated": false,
+        "Dev_Desc": "소울 / 컬렉션 / 컬렉션 현황",
+        "id": 8003979,
+        "alias": "UI.Soul.Collection.CurrentState",
+        "text": "컬렉션 현황"
+    },
+    "8003980": {
+        "deprecated": false,
+        "Dev_Desc": "소울 / 컬렉션 / 수집률",
+        "id": 8003980,
+        "alias": "UI.Soul.Collection.CollectionRate",
+        "text": "수집률"
+    },
+    "8003981": {
+        "deprecated": false,
+        "Dev_Desc": "소울 / 컬렉션 / 컬렉션 달성률",
+        "id": 8003981,
+        "alias": "UI.Soul.Collection.CollectionAchievementRate",
+        "text": "컬렉션 달성률"
+    },
+    "8003982": {
+        "deprecated": false,
+        "Dev_Desc": "소울 / 컬렉션 / 비활성 상태",
+        "id": 8003982,
+        "alias": "UI.Soul.Collection.InactiveDesc",
+        "text": "활성화된 효과가 없습니다."
+    },
+    "8003983": {
+        "deprecated": false,
+        "Dev_Desc": "소울 / 컬렉션 / 능력치 필터 팝업 / 타이틀",
+        "id": 8003983,
+        "alias": "UI.Soul.Collection.FilterPopup.Title",
+        "text": "능력치 필터"
+    },
+    "8003984": {
+        "deprecated": false,
+        "Dev_Desc": "소울 / 컬렉션 / 검색 / 검색 버튼",
+        "id": 8003984,
+        "alias": "UI.Soul.Collection.Search.SearchButton",
+        "text": "검색"
+    },
+    "8003985": {
+        "deprecated": false,
+        "Dev_Desc": "소울 / 컬렉션 / 검색 / 최근 검색",
+        "id": 8003985,
+        "alias": "UI.Soul.Collection.Search.RecentSearch",
+        "text": "최근 검색"
+    },
+    "8003986": {
+        "deprecated": false,
+        "Dev_Desc": "소울 / 컬렉션 / 검색 / 검색 기록 없음",
+        "id": 8003986,
+        "alias": "UI.Soul.Collection.Search.NoHistory",
+        "text": "검색 기록이 없습니다."
+    },
+    "8003987": {
+        "deprecated": false,
+        "Dev_Desc": "소울 / 소울 목록 / 속성 설명 팝업 / 타이틀",
+        "id": 8003987,
+        "alias": "UI.Soul.SoulList.ElementDescPopup.Title",
+        "text": "소울의 속성 공격력"
+    },
+    "8003988": {
+        "deprecated": false,
+        "Dev_Desc": "소울 / 소울 목록 / 속성 설명 팝업 / 설명",
+        "id": 8003988,
+        "alias": "UI.Soul.SoulList.ElementDescPopup.Desc",
+        "text": "총 8가지의 속성 중 서로 다른 두 속성\n(화-수, 목-금, 풍-뇌, 명-암)은 상극 관계를 가집니다.\n\n특정 속성의 소울 발동 시 속성 공격력이 소울 친화력에 의해 증폭되어 대상에게 해당 속성 피해를 추가로 입히며, 몬스터 공격시 상극 관계의 속성 소울 발동 시 추가로 입히는 속성 피해가 더욱 증가합니다."
+    },
+    "8003989": {
+        "deprecated": false,
+        "Dev_Desc": "소울 뽑기 / 연출 건너뛰기 버튼",
+        "id": 8003989,
+        "alias": "UI.SoulGacha.SkipButton",
+        "text": "연출 건너뛰기"
+    },
+    "8003990": {
+        "deprecated": false,
+        "Dev_Desc": "소울 / 소울 능력치 변경 팝업 / 설명",
+        "id": 8003990,
+        "alias": "UI.Soul.ChangeStatPopup.Desc",
+        "text": "능력치 변경 시 범위 내에서 동일한 확률로 변경됩니다."
+    },
+    "8003991": {
+        "deprecated": false,
+        "Dev_Desc": "이벤트 제작 레시피 탭 / 영웅 재료상자",
+        "id": 8003991,
+        "alias": "UI.Craft.LeftSubTabName.Event.HeroResourceBox_01",
+        "text": "영웅 재료 상자"
+    },
+    "8003992": {
+        "deprecated": false,
+        "Dev_Desc": "파티 / 파티원 번호 / 1P",
+        "id": 8003992,
+        "alias": "UI.Party.PartyMemberNumber.1",
+        "text": "1P"
+    },
+    "8003993": {
+        "deprecated": false,
+        "Dev_Desc": "파티 / 파티원 번호 / 2P",
+        "id": 8003993,
+        "alias": "UI.Party.PartyMemberNumber.2",
+        "text": "2P"
+    },
+    "8003994": {
+        "deprecated": false,
+        "Dev_Desc": "파티 / 파티원 번호 / 3P",
+        "id": 8003994,
+        "alias": "UI.Party.PartyMemberNumber.3",
+        "text": "3P"
+    },
+    "8003995": {
+        "deprecated": false,
+        "Dev_Desc": "파티 / 파티원 번호 / 4P",
+        "id": 8003995,
+        "alias": "UI.Party.PartyMemberNumber.4",
+        "text": "4P"
+    },
+    "8003996": {
+        "deprecated": false,
+        "Dev_Desc": "HUD / 좌측 하단 성향치",
+        "id": 8003996,
+        "alias": "UI.HUD.AlignmentPoint",
+        "text": "PK"
+    },
+    "8003997": {
+        "deprecated": false,
+        "Dev_Desc": "강화 / 경고메시지 / 0% < DownGradePRob != 100%",
+        "id": 8003997,
+        "alias": "UI.Enchant.PreAlarm.DownGradeProb",
+        "text": "강화 실패 시 강화가 하락할 수 있습니다."
+    },
+    "8003998": {
+        "deprecated": false,
+        "Dev_Desc": "강화 / 경고메시지 / DownGrade와 BigFail이 모두 입력된 경우",
+        "id": 8003998,
+        "alias": "UI.Enchant.PreAlarm.DownOrDestroy",
+        "text": "장비가 파괴되거나 강화 단계가 하락할 수 있습니다."
+    },
+    "8003999": {
+        "deprecated": false,
+        "Dev_Desc": "강화 / 경고메시지 / 0% < FailPRob <= 100% / 실패&하락 0",
+        "id": 8003999,
+        "alias": "UI.Enchant.PreAlarm.ZeroFail",
+        "text": "실패 시 강화 단계는 유지됩니다."
+    },
+    "8004000": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전",
+        "id": 8004000,
+        "alias": "UI.PartyDungeon.Text.AskExit",
+        "text": "던전에서 퇴장하시겠습니까?"
+    },
+    "8004001": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전",
+        "id": 8004001,
+        "alias": "UI.PartyDungeon.Text.AutoExitRemain",
+        "text": "자동 퇴장 시간"
+    },
+    "8004002": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전",
+        "id": 8004002,
+        "alias": "UI.PartyDungeon.Text.Exit",
+        "text": "퇴장"
+    },
+    "8004003": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 / GNB",
+        "id": 8004003,
+        "alias": "UI.Galaxy.Gnb.Name",
+        "text": "별자리"
+    },
+    "8004004": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 / 성공확률",
+        "id": 8004004,
+        "alias": "UI.Galaxy.Imprint.SuccessRate",
+        "text": "성공 확률"
+    },
+    "8004005": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 / 각인",
+        "id": 8004005,
+        "alias": "UI.Galaxy.Imprint.Btn.Imprint",
+        "text": "각인"
+    },
+    "8004006": {
+        "deprecated": false,
+        "Dev_Desc": "각성 포인트",
+        "id": 8004006,
+        "alias": "UI.AwakenPoint.Name",
+        "text": "각성 포인트"
+    },
+    "8004007": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 / 구간이름1",
+        "id": 8004007,
+        "alias": "UI.BladeImprintBonusName.Attack.Lv1",
+        "text": "외부 성단"
+    },
+    "8004008": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 / 구간이름2",
+        "id": 8004008,
+        "alias": "UI.BladeImprintBonusName.Attack.Lv2",
+        "text": "내부 성단"
+    },
+    "8004009": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 / 구간이름3",
+        "id": 8004009,
+        "alias": "UI.BladeImprintBonusName.Attack.Lv3",
+        "text": "중심 성단"
+    },
+    "8004010": {
+        "deprecated": false,
+        "Dev_Desc": "거래소 / 서버 거래소 탭",
+        "id": 8004010,
+        "alias": "UI.Trade.Server",
+        "text": "서버"
+    },
+    "8004011": {
+        "deprecated": false,
+        "Dev_Desc": "거래소 / 월드 거래소 탭",
+        "id": 8004011,
+        "alias": "UI.Trade.World",
+        "text": "월드"
+    },
+    "8004012": {
+        "deprecated": false,
+        "Dev_Desc": "거래소 / 월드 거래소 / 판매 탭 / 안내 문구",
+        "id": 8004012,
+        "alias": "UI.Trade.Sale.Desc",
+        "text": "현재 서버에서 판매 등록한 물품만 관리할 수 있습니다."
+    },
+    "8004013": {
+        "deprecated": false,
+        "Dev_Desc": "거래소 / 월드 거래소 / 정산 탭 / 안내 문구",
+        "id": 8004013,
+        "alias": "UI.Trade.Calculate.Desc",
+        "text": "현재 서버에서 판매 등록한 물품만 정산할 수 있습니다."
+    },
+    "8004014": {
+        "deprecated": false,
+        "Dev_Desc": "메인 탭 / 추천 탭(TX)",
+        "id": 8004014,
+        "alias": "UI.CashShop.TapName.Main.Home2",
+        "text": "추천"
+    },
+    "8004015": {
+        "deprecated": false,
+        "Dev_Desc": "메인 탭 / 상품 탭(TX)",
+        "id": 8004015,
+        "alias": "UI.CashShop.TapName.Main.Goods2",
+        "text": "상품"
+    },
+    "8004016": {
+        "deprecated": false,
+        "Dev_Desc": "메인 탭 / 패키지 탭(TX)",
+        "id": 8004016,
+        "alias": "UI.CashShop.TapName.Main.Package2",
+        "text": "패키지"
+    },
+    "8004017": {
+        "deprecated": false,
+        "Dev_Desc": "메인 탭 / 화폐상점(금화&주화)(TX)",
+        "id": 8004017,
+        "alias": "UI.CashShop.TapName.Main.GoodsByGold2",
+        "text": "화폐상점"
+    },
+    "8004018": {
+        "deprecated": false,
+        "Dev_Desc": "메인 탭 / 마일리지 탭(TX)",
+        "id": 8004018,
+        "alias": "UI.CashShop.TapName.Main.PlayPoint2",
+        "text": "마일리지"
+    },
+    "8004019": {
+        "deprecated": false,
+        "Dev_Desc": "서브 탭 / 상품탭 / 소모품(TX)",
+        "id": 8004019,
+        "alias": "UI.CashShop.TapName.Sub.Grocery4",
+        "text": "소모품"
+    },
+    "8004020": {
+        "deprecated": false,
+        "Dev_Desc": "서브 탭 / 상품탭 / 장신구(TX)",
+        "id": 8004020,
+        "alias": "UI.CashShop.TapName.Sub.Accessory2",
+        "text": "장신구"
+    },
+    "8004021": {
+        "deprecated": false,
+        "Dev_Desc": "서브 탭 / 상품탭 / 기능(TX)",
+        "id": 8004021,
+        "alias": "UI.CashShop.TapName.Sub.Function2",
+        "text": "기능"
+    },
+    "8004022": {
+        "deprecated": false,
+        "Dev_Desc": "서브 탭 / 패키지 탭 / 한정 패키지(TX)",
+        "id": 8004022,
+        "alias": "UI.CashShop.TapName.Sub.Package4",
+        "text": "한정 패키지"
+    },
+    "8004023": {
+        "deprecated": false,
+        "Dev_Desc": "서브 탭 / 패키지 탭 / 충전(TX)",
+        "id": 8004023,
+        "alias": "UI.CashShop.TapName.Sub.Package5",
+        "text": "충전"
+    },
+    "8004024": {
+        "deprecated": false,
+        "Dev_Desc": "서브 탭 / 화폐상점 탭 / 소환(TX)",
+        "id": 8004024,
+        "alias": "UI.CashShop.TapName.Sub.Summon3",
+        "text": "소환"
+    },
+    "8004025": {
+        "deprecated": false,
+        "Dev_Desc": "서브 탭 / 화폐상점 탭 / 소모품(TX)",
+        "id": 8004025,
+        "alias": "UI.CashShop.TapName.Sub.Grocery5",
+        "text": "소모품"
+    },
+    "8004026": {
+        "deprecated": false,
+        "Dev_Desc": "서브 탭 / 화폐상점 탭 / 특별소환(TX)",
+        "id": 8004026,
+        "alias": "UI.CashShop.TapName.Sub.Grocery6",
+        "text": "특별소환"
+    },
+    "8004027": {
+        "deprecated": false,
+        "Dev_Desc": "서브 탭 / 화폐상점 탭 / 고대의 증표(TX)",
+        "id": 8004027,
+        "alias": "UI.CashShop.TapName.Sub.itemCoin6",
+        "text": "고대의 증표"
+    },
+    "8004028": {
+        "deprecated": false,
+        "Dev_Desc": "서브 탭 / 화폐상점 탭 / 도화전(TX)",
+        "id": 8004028,
+        "alias": "UI.CashShop.TapName.Sub.itemCoin7",
+        "text": "도화전"
+    },
+    "8004029": {
+        "deprecated": false,
+        "Dev_Desc": "서브 탭 / 화폐상점 탭 / 장인의 증표(TX)",
+        "id": 8004029,
+        "alias": "UI.CashShop.TapName.Sub.itemCoin8",
+        "text": "장인의 증표"
+    },
+    "8004030": {
+        "deprecated": false,
+        "Dev_Desc": "서브 탭 / 마일리지 탭 / 소모품(TX)",
+        "id": 8004030,
+        "alias": "UI.CashShop.TapName.Sub.Mileage3",
+        "text": "소모품"
+    },
+    "8004031": {
+        "deprecated": false,
+        "Dev_Desc": "서브 탭 / 마일리지 탭 / 의상(TX)",
+        "id": 8004031,
+        "alias": "UI.CashShop.TapName.Sub.Mileage4",
+        "text": "의상"
+    },
+    "8004032": {
+        "deprecated": false,
+        "Dev_Desc": "이벤트 제작 레시피 탭 / 영웅 재료상자",
+        "id": 8004032,
+        "alias": "UI.Craft.LeftSubTabName.Limited.SpecialCraft_01",
+        "text": "1주차 특별 제작"
+    },
+    "8004033": {
+        "deprecated": false,
+        "Dev_Desc": "이벤트 제작 레시피 탭 / 영웅 재료상자",
+        "id": 8004033,
+        "alias": "UI.Craft.LeftSubTabName.Limited.SpecialCraft_02",
+        "text": "2주차 특별 제작"
+    },
+    "8004034": {
+        "deprecated": false,
+        "Dev_Desc": "이벤트 제작 레시피 탭 / 영웅 재료상자",
+        "id": 8004034,
+        "alias": "UI.Craft.LeftSubTabName.Limited.SpecialCraft_03",
+        "text": "3주차 특별 제작"
     }
 }

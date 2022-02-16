@@ -2175,19 +2175,19 @@
         "deprecated": false,
         "id": 84101605,
         "alias": "Contents.Item.Name.4101605",
-        "text": "태초의 열망"
+        "text": "开始的愿望"
     },
     "84101606": {
         "deprecated": false,
         "id": 84101606,
         "alias": "Contents.Item.Name.4101606",
-        "text": "태초의 긍지"
+        "text": "骄傲"
     },
     "84101607": {
         "deprecated": false,
         "id": 84101607,
         "alias": "Contents.Item.Name.4101607",
-        "text": "태초의 심판"
+        "text": "开始的判断"
     },
     "84102604": {
         "deprecated": false,
@@ -2229,19 +2229,19 @@
         "deprecated": false,
         "id": 84201605,
         "alias": "Contents.Item.Name.4201605",
-        "text": "태초의 열망(각인)"
+        "text": "开始的愿望（雕刻）"
     },
     "84201606": {
         "deprecated": false,
         "id": 84201606,
         "alias": "Contents.Item.Name.4201606",
-        "text": "태초의 긍지(각인)"
+        "text": "开始的骄傲（雕刻）"
     },
     "84201607": {
         "deprecated": false,
         "id": 84201607,
         "alias": "Contents.Item.Name.4201607",
-        "text": "태초의 심판(각인)"
+        "text": "开始的判断（刻）"
     },
     "84202604": {
         "deprecated": false,
@@ -2276,37 +2276,37 @@
     "84301404": {
         "deprecated": false,
         "id": 84301404,
-        "alias": "Contents.Item.Name.4301404",
+        "alias": "Contents.Event.Item.Name.4301404",
         "text": "北方的守护者（事件）"
     },
     "84302403": {
         "deprecated": false,
         "id": 84302403,
-        "alias": "Contents.Item.Name.4302403",
+        "alias": "Contents.Event.Item.Name.4302403",
         "text": "谎言手套（事件）"
     },
     "84303403": {
         "deprecated": false,
         "id": 84303403,
-        "alias": "Contents.Item.Name.4303403",
+        "alias": "Contents.Event.Item.Name.4303403",
         "text": "地球带（事件）"
     },
     "84304403": {
         "deprecated": false,
         "id": 84304403,
-        "alias": "Contents.Item.Name.4304403",
+        "alias": "Contents.Event.Item.Name.4304403",
         "text": "信仰的裙子（事件）"
     },
     "84305402": {
         "deprecated": false,
         "id": 84305402,
-        "alias": "Contents.Item.Name.4305402",
+        "alias": "Contents.Event.Item.Name.4305402",
         "text": "驱魔的泰莎惠（活动）"
     },
     "84306405": {
         "deprecated": false,
         "id": 84306405,
-        "alias": "Contents.Item.Name.4306405",
+        "alias": "Contents.Event.Item.Name.4306405",
         "text": "钢铁的祝福（活动）"
     },
     "84101009": {
@@ -2499,19 +2499,19 @@
         "deprecated": false,
         "id": 84107602,
         "alias": "Contents.Item.Name.4107602",
-        "text": "무신의 영혼"
+        "text": "莫勇灵魂"
     },
     "84107603": {
         "deprecated": false,
         "id": 84107603,
         "alias": "Contents.Item.Name.4107603",
-        "text": "무신의 영령"
+        "text": "杰林的主"
     },
     "84107604": {
         "deprecated": false,
         "id": 84107604,
         "alias": "Contents.Item.Name.4107604",
-        "text": "무신의 사념"
+        "text": "疯狂的"
     },
     "84108601": {
         "deprecated": false,
@@ -2709,19 +2709,19 @@
         "deprecated": false,
         "id": 84207602,
         "alias": "Contents.Item.Name.4207602",
-        "text": "무신의 영혼(각인)"
+        "text": "粘性灵魂（雕刻）"
     },
     "84207603": {
         "deprecated": false,
         "id": 84207603,
         "alias": "Contents.Item.Name.4207603",
-        "text": "무신의 영령(각인)"
+        "text": "大师的主（雕刻）"
     },
     "84207604": {
         "deprecated": false,
         "id": 84207604,
         "alias": "Contents.Item.Name.4207604",
-        "text": "무신의 사념(각인)"
+        "text": "Mizen的宝贵（雕刻）"
     },
     "84208601": {
         "deprecated": false,
@@ -2771,6 +2771,78 @@
         "alias": "Contents.Event.Item.Name.4206410",
         "text": "神圣胸甲（事件）"
     },
+    "84301604": {
+        "deprecated": false,
+        "id": 84301604,
+        "alias": "Contents.Item.Name.4301604",
+        "text": "一个被侵蚀的被遗忘的深渊"
+    },
+    "84304604": {
+        "deprecated": false,
+        "id": 84304604,
+        "alias": "Contents.Item.Name.4304604",
+        "text": "厄尔遭到侵蚀的遗忘"
+    },
+    "84303604": {
+        "deprecated": false,
+        "id": 84303604,
+        "alias": "Contents.Item.Name.4303604",
+        "text": "被遗忘忘记了"
+    },
+    "84305604": {
+        "deprecated": false,
+        "id": 84305604,
+        "alias": "Contents.Item.Name.4305604",
+        "text": "被遗忘的被遗忘了"
+    },
+    "84306604": {
+        "deprecated": false,
+        "id": 84306604,
+        "alias": "Contents.Item.Name.4306604",
+        "text": "一个被侵蚀的被遗忘的深渊"
+    },
+    "84302604": {
+        "deprecated": false,
+        "id": 84302604,
+        "alias": "Contents.Item.Name.4302604",
+        "text": "被侵蚀的忘记了深渊手套"
+    },
+    "84301602": {
+        "deprecated": false,
+        "id": 84301602,
+        "alias": "Contents.Item.Name.4301602",
+        "text": "侵蚀棕榈的愿望"
+    },
+    "84304603": {
+        "deprecated": false,
+        "id": 84304603,
+        "alias": "Contents.Item.Name.4304603",
+        "text": "侵蚀堕落的裤子"
+    },
+    "84303603": {
+        "deprecated": false,
+        "id": 84303603,
+        "alias": "Contents.Item.Name.4303603",
+        "text": "牛腐蚀鲑鱼"
+    },
+    "84305602": {
+        "deprecated": false,
+        "id": 84305602,
+        "alias": "Contents.Item.Name.4305602",
+        "text": "无效的故障"
+    },
+    "84306603": {
+        "deprecated": false,
+        "id": 84306603,
+        "alias": "Contents.Item.Name.4306603",
+        "text": "侵蚀中风"
+    },
+    "84302603": {
+        "deprecated": false,
+        "id": 84302603,
+        "alias": "Contents.Item.Name.4302603",
+        "text": "侵蚀的光芒"
+    },
     "84209605": {
         "deprecated": false,
         "id": 84209605,
@@ -2806,5 +2878,29 @@
         "id": 84209610,
         "alias": "Contents.Item.Name.4302602",
         "text": "被侵蚀的国王的判决"
+    },
+    "84109001": {
+        "deprecated": false,
+        "id": 84109001,
+        "alias": "Contents.Item.Name.4109001",
+        "text": "广场的勇气"
+    },
+    "84109201": {
+        "deprecated": false,
+        "id": 84109201,
+        "alias": "Contents.Item.Name.4109201",
+        "text": "和谐"
+    },
+    "84209001": {
+        "deprecated": false,
+        "id": 84209001,
+        "alias": "Contents.Item.Name.4209001",
+        "text": "容器的小袋（刻）"
+    },
+    "84209201": {
+        "deprecated": false,
+        "id": 84209201,
+        "alias": "Contents.Item.Name.4209201",
+        "text": "和谐广场（雕刻）"
     }
 }

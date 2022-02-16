@@ -27124,5 +27124,544 @@
         "id": 8003957,
         "alias": "UI.Craft.LeftSubTabName.Event.Valentine",
         "text": "甜蜜的食谱"
+    },
+    "8003958": {
+        "deprecated": false,
+        "Dev_Desc": "옷장 / 의상 능력치 비교 / 착용한 의상 없을 때",
+        "id": 8003958,
+        "alias": "UI.Closet.CompareStat.NotEquippedDesc",
+        "text": "没有磨损的服装。"
+    },
+    "8003959": {
+        "deprecated": false,
+        "Dev_Desc": "옷장 / 의상 능력치 비교/ 장착한 의상 선택 시",
+        "id": 8003959,
+        "alias": "UI.Closet.CompareStat.EquippedDesc",
+        "text": "您可以选择其他服装以比较\\n。"
+    },
+    "8003960": {
+        "deprecated": false,
+        "Dev_Desc": "거래소 / 판매 등록 팝업 / 등록 가격",
+        "id": 8003960,
+        "alias": "UI.Trade.RegisterSaleConfirm.RegisterFee",
+        "text": "注册价格"
+    },
+    "8003961": {
+        "deprecated": false,
+        "Dev_Desc": "거래소 / 판매 취소 팝업 / 설명1",
+        "id": 8003961,
+        "alias": "UI.Trade.SaleCanclePopup.Desc.1",
+        "text": "你能取消销售吗？"
+    },
+    "8003962": {
+        "deprecated": false,
+        "Dev_Desc": "거래소 / 판매 취소 팝업 / 설명2",
+        "id": 8003962,
+        "alias": "UI.Trade.SaleCanclePopup.Desc.2",
+        "text": "在销售登记期间支付的注册成本不会返回。"
+    },
+    "8003963": {
+        "deprecated": false,
+        "Dev_Desc": "공용 / 버튼 이름 / MAX",
+        "id": 8003963,
+        "alias": "UI.Common.ButtonName.MAX",
+        "text": "最大限度"
+    },
+    "8003964": {
+        "deprecated": false,
+        "Dev_Desc": "경계대상 / 타이틀",
+        "id": 8003964,
+        "alias": "UI.Alert.Title",
+        "text": "边界"
+    },
+    "8003965": {
+        "deprecated": false,
+        "Dev_Desc": "장비도감 / 필터 / 전체",
+        "id": 8003965,
+        "alias": "UI.EquipCollection.Filter.All",
+        "text": "全部"
+    },
+    "8003966": {
+        "deprecated": false,
+        "Dev_Desc": "장비도감 / 필터 / 달성",
+        "id": 8003966,
+        "alias": "UI.EquipCollection.Filter.Accomplishment",
+        "text": "素养"
+    },
+    "8003967": {
+        "deprecated": false,
+        "Dev_Desc": "장비도감 / 필터 / 미달성",
+        "id": 8003967,
+        "alias": "UI.EquipCollection.Filter.NotAccomplishment",
+        "text": "购物中心"
+    },
+    "8003968": {
+        "deprecated": false,
+        "Dev_Desc": "협행 / 임무 보상",
+        "id": 8003968,
+        "alias": "UI.QuestBoard.Reward",
+        "text": "任务赔偿"
+    },
+    "8003969": {
+        "deprecated": false,
+        "Dev_Desc": "소울 / 확정 / 신규 획득",
+        "id": 8003969,
+        "alias": "UI.Soul.Confirmation.NewTag",
+        "text": "新收购"
+    },
+    "8003970": {
+        "deprecated": false,
+        "Dev_Desc": "소울 / 확정 / 남은 교체 횟수",
+        "id": 8003970,
+        "alias": "UI.Soul.Confirmation.RemainingChangeCount",
+        "text": "剩下的数字"
+    },
+    "8003971": {
+        "deprecated": false,
+        "Dev_Desc": "소울 / 합성 / 소울 합성 포인트 보상 설명",
+        "id": 8003971,
+        "alias": "UI.Soul.Compose.RewardDesc",
+        "text": "选择补偿按钮以获得报销。"
+    },
+    "8003972": {
+        "deprecated": false,
+        "Dev_Desc": "소울 / 합성 / 소울 합성 보상 버튼",
+        "id": 8003972,
+        "alias": "UI.Soul.Compose.RewardButton",
+        "text": "赔偿"
+    },
+    "8003973": {
+        "deprecated": false,
+        "Dev_Desc": "소울 / 합성 / 합성 확률 버튼",
+        "id": 8003973,
+        "alias": "UI.Soul.Compose.ComposeProbButton",
+        "text": "综合概率"
+    },
+    "8003974": {
+        "deprecated": false,
+        "Dev_Desc": "소울 / 합성 / 자동 등록 버튼",
+        "id": 8003974,
+        "alias": "UI.Soul.Compose.AutoRegistButton",
+        "text": "自动注册"
+    },
+    "8003975": {
+        "deprecated": false,
+        "Dev_Desc": "소울 / 컬렉션 / 필터 / 전체",
+        "id": 8003975,
+        "alias": "UI.Soul.Collection.Filter.All",
+        "text": "全部"
+    },
+    "8003976": {
+        "deprecated": false,
+        "Dev_Desc": "소울 / 컬렉션 / 필터 / 완성",
+        "id": 8003976,
+        "alias": "UI.Soul.Collection.Filter.Complete",
+        "text": "完全的"
+    },
+    "8003977": {
+        "deprecated": false,
+        "Dev_Desc": "소울 / 컬렉션 / 필터 / 미완성",
+        "id": 8003977,
+        "alias": "UI.Soul.Collection.Filter.Discomplete",
+        "text": "不完整"
+    },
+    "8003978": {
+        "deprecated": false,
+        "Dev_Desc": "소울 / 컬렉션 / 컬렉션 효과",
+        "id": 8003978,
+        "alias": "UI.Soul.Collection.Effect",
+        "text": "收集效果"
+    },
+    "8003979": {
+        "deprecated": false,
+        "Dev_Desc": "소울 / 컬렉션 / 컬렉션 현황",
+        "id": 8003979,
+        "alias": "UI.Soul.Collection.CurrentState",
+        "text": "收集状态"
+    },
+    "8003980": {
+        "deprecated": false,
+        "Dev_Desc": "소울 / 컬렉션 / 수집률",
+        "id": 8003980,
+        "alias": "UI.Soul.Collection.CollectionRate",
+        "text": "收藏"
+    },
+    "8003981": {
+        "deprecated": false,
+        "Dev_Desc": "소울 / 컬렉션 / 컬렉션 달성률",
+        "id": 8003981,
+        "alias": "UI.Soul.Collection.CollectionAchievementRate",
+        "text": "收集成就率"
+    },
+    "8003982": {
+        "deprecated": false,
+        "Dev_Desc": "소울 / 컬렉션 / 비활성 상태",
+        "id": 8003982,
+        "alias": "UI.Soul.Collection.InactiveDesc",
+        "text": "没有激活的效果。"
+    },
+    "8003983": {
+        "deprecated": false,
+        "Dev_Desc": "소울 / 컬렉션 / 능력치 필터 팝업 / 타이틀",
+        "id": 8003983,
+        "alias": "UI.Soul.Collection.FilterPopup.Title",
+        "text": "容量过滤器"
+    },
+    "8003984": {
+        "deprecated": false,
+        "Dev_Desc": "소울 / 컬렉션 / 검색 / 검색 버튼",
+        "id": 8003984,
+        "alias": "UI.Soul.Collection.Search.SearchButton",
+        "text": "搜索"
+    },
+    "8003985": {
+        "deprecated": false,
+        "Dev_Desc": "소울 / 컬렉션 / 검색 / 최근 검색",
+        "id": 8003985,
+        "alias": "UI.Soul.Collection.Search.RecentSearch",
+        "text": "最近的搜索"
+    },
+    "8003986": {
+        "deprecated": false,
+        "Dev_Desc": "소울 / 컬렉션 / 검색 / 검색 기록 없음",
+        "id": 8003986,
+        "alias": "UI.Soul.Collection.Search.NoHistory",
+        "text": "没有搜索历史记录。"
+    },
+    "8003987": {
+        "deprecated": false,
+        "Dev_Desc": "소울 / 소울 목록 / 속성 설명 팝업 / 타이틀",
+        "id": 8003987,
+        "alias": "UI.Soul.SoulList.ElementDescPopup.Title",
+        "text": "灵魂财产的性质"
+    },
+    "8003988": {
+        "deprecated": false,
+        "Dev_Desc": "소울 / 소울 목록 / 속성 설명 팝업 / 설명",
+        "id": 8003988,
+        "alias": "UI.Soul.SoulList.ElementDescPopup.Desc",
+        "text": "这两个属性都是不同的属性\\n（数字，颈部 - 金，大脑，名称 - 癌症）具有相对关系。 \\n \\n \\n \\n \\n \\n \\n\\n\\n \\n\\n \\n\\n放大器向目标添加财产损坏，并且当与怪物攻击的正关系的极性的属性进一步增加，房地产损坏进一步增加。"
+    },
+    "8003989": {
+        "deprecated": false,
+        "Dev_Desc": "소울 뽑기 / 연출 건너뛰기 버튼",
+        "id": 8003989,
+        "alias": "UI.SoulGacha.SkipButton",
+        "text": "学术跳过"
+    },
+    "8003990": {
+        "deprecated": false,
+        "Dev_Desc": "소울 / 소울 능력치 변경 팝업 / 설명",
+        "id": 8003990,
+        "alias": "UI.Soul.ChangeStatPopup.Desc",
+        "text": "更改能力时，在范围内更改相同的概率。"
+    },
+    "8003991": {
+        "deprecated": false,
+        "Dev_Desc": "이벤트 제작 레시피 탭 / 영웅 재료상자",
+        "id": 8003991,
+        "alias": "UI.Craft.LeftSubTabName.Event.HeroResourceBox_01",
+        "text": "英雄材料盒"
+    },
+    "8003992": {
+        "deprecated": false,
+        "Dev_Desc": "파티 / 파티원 번호 / 1P",
+        "id": 8003992,
+        "alias": "UI.Party.PartyMemberNumber.1",
+        "text": "1P."
+    },
+    "8003993": {
+        "deprecated": false,
+        "Dev_Desc": "파티 / 파티원 번호 / 2P",
+        "id": 8003993,
+        "alias": "UI.Party.PartyMemberNumber.2",
+        "text": "2P."
+    },
+    "8003994": {
+        "deprecated": false,
+        "Dev_Desc": "파티 / 파티원 번호 / 3P",
+        "id": 8003994,
+        "alias": "UI.Party.PartyMemberNumber.3",
+        "text": "3P."
+    },
+    "8003995": {
+        "deprecated": false,
+        "Dev_Desc": "파티 / 파티원 번호 / 4P",
+        "id": 8003995,
+        "alias": "UI.Party.PartyMemberNumber.4",
+        "text": "4P."
+    },
+    "8003996": {
+        "deprecated": false,
+        "Dev_Desc": "HUD / 좌측 하단 성향치",
+        "id": 8003996,
+        "alias": "UI.HUD.AlignmentPoint",
+        "text": "PK."
+    },
+    "8003997": {
+        "deprecated": false,
+        "Dev_Desc": "강화 / 경고메시지 / 0% < DownGradePRob != 100%",
+        "id": 8003997,
+        "alias": "UI.Enchant.PreAlarm.DownGradeProb",
+        "text": "加强失败时，加强可能会被拒绝。"
+    },
+    "8003998": {
+        "deprecated": false,
+        "Dev_Desc": "강화 / 경고메시지 / DownGrade와 BigFail이 모두 입력된 경우",
+        "id": 8003998,
+        "alias": "UI.Enchant.PreAlarm.DownOrDestroy",
+        "text": "设备可以被破坏或加强步骤。"
+    },
+    "8003999": {
+        "deprecated": false,
+        "Dev_Desc": "강화 / 경고메시지 / 0% < FailPRob <= 100% / 실패&하락 0",
+        "id": 8003999,
+        "alias": "UI.Enchant.PreAlarm.ZeroFail",
+        "text": "在失败时保持强化阶段。"
+    },
+    "8004000": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전",
+        "id": 8004000,
+        "alias": "UI.PartyDungeon.Text.AskExit",
+        "text": "你想从地牢离开吗？"
+    },
+    "8004001": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전",
+        "id": 8004001,
+        "alias": "UI.PartyDungeon.Text.AutoExitRemain",
+        "text": "自动退休时间"
+    },
+    "8004002": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전",
+        "id": 8004002,
+        "alias": "UI.PartyDungeon.Text.Exit",
+        "text": "出口"
+    },
+    "8004003": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 / GNB",
+        "id": 8004003,
+        "alias": "UI.Galaxy.Gnb.Name",
+        "text": "星座"
+    },
+    "8004004": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 / 성공확률",
+        "id": 8004004,
+        "alias": "UI.Galaxy.Imprint.SuccessRate",
+        "text": "成功概率"
+    },
+    "8004005": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 / 각인",
+        "id": 8004005,
+        "alias": "UI.Galaxy.Imprint.Btn.Imprint",
+        "text": "雕刻"
+    },
+    "8004006": {
+        "deprecated": false,
+        "Dev_Desc": "각성 포인트",
+        "id": 8004006,
+        "alias": "UI.AwakenPoint.Name",
+        "text": "觉醒点"
+    },
+    "8004007": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 / 구간이름1",
+        "id": 8004007,
+        "alias": "UI.BladeImprintBonusName.Attack.Lv1",
+        "text": "外部群集"
+    },
+    "8004008": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 / 구간이름2",
+        "id": 8004008,
+        "alias": "UI.BladeImprintBonusName.Attack.Lv2",
+        "text": "内部集群"
+    },
+    "8004009": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 / 구간이름3",
+        "id": 8004009,
+        "alias": "UI.BladeImprintBonusName.Attack.Lv3",
+        "text": "中央"
+    },
+    "8004010": {
+        "deprecated": false,
+        "Dev_Desc": "거래소 / 서버 거래소 탭",
+        "id": 8004010,
+        "alias": "UI.Trade.Server",
+        "text": "服务器"
+    },
+    "8004011": {
+        "deprecated": false,
+        "Dev_Desc": "거래소 / 월드 거래소 탭",
+        "id": 8004011,
+        "alias": "UI.Trade.World",
+        "text": "世界"
+    },
+    "8004012": {
+        "deprecated": false,
+        "Dev_Desc": "거래소 / 월드 거래소 / 판매 탭 / 안내 문구",
+        "id": 8004012,
+        "alias": "UI.Trade.Sale.Desc",
+        "text": "只能管理当前服务器上的可用项目。"
+    },
+    "8004013": {
+        "deprecated": false,
+        "Dev_Desc": "거래소 / 월드 거래소 / 정산 탭 / 안내 문구",
+        "id": 8004013,
+        "alias": "UI.Trade.Calculate.Desc",
+        "text": "您只能在当前服务器上注册的结算项目。"
+    },
+    "8004014": {
+        "deprecated": false,
+        "Dev_Desc": "메인 탭 / 추천 탭(TX)",
+        "id": 8004014,
+        "alias": "UI.CashShop.TapName.Main.Home2",
+        "text": "建议"
+    },
+    "8004015": {
+        "deprecated": false,
+        "Dev_Desc": "메인 탭 / 상품 탭(TX)",
+        "id": 8004015,
+        "alias": "UI.CashShop.TapName.Main.Goods2",
+        "text": "商品"
+    },
+    "8004016": {
+        "deprecated": false,
+        "Dev_Desc": "메인 탭 / 패키지 탭(TX)",
+        "id": 8004016,
+        "alias": "UI.CashShop.TapName.Main.Package2",
+        "text": "包裹"
+    },
+    "8004017": {
+        "deprecated": false,
+        "Dev_Desc": "메인 탭 / 화폐상점(금화&주화)(TX)",
+        "id": 8004017,
+        "alias": "UI.CashShop.TapName.Main.GoodsByGold2",
+        "text": "货币商店"
+    },
+    "8004018": {
+        "deprecated": false,
+        "Dev_Desc": "메인 탭 / 마일리지 탭(TX)",
+        "id": 8004018,
+        "alias": "UI.CashShop.TapName.Main.PlayPoint2",
+        "text": "里程"
+    },
+    "8004019": {
+        "deprecated": false,
+        "Dev_Desc": "서브 탭 / 상품탭 / 소모품(TX)",
+        "id": 8004019,
+        "alias": "UI.CashShop.TapName.Sub.Grocery4",
+        "text": "消耗品"
+    },
+    "8004020": {
+        "deprecated": false,
+        "Dev_Desc": "서브 탭 / 상품탭 / 장신구(TX)",
+        "id": 8004020,
+        "alias": "UI.CashShop.TapName.Sub.Accessory2",
+        "text": "配件"
+    },
+    "8004021": {
+        "deprecated": false,
+        "Dev_Desc": "서브 탭 / 상품탭 / 기능(TX)",
+        "id": 8004021,
+        "alias": "UI.CashShop.TapName.Sub.Function2",
+        "text": "功能"
+    },
+    "8004022": {
+        "deprecated": false,
+        "Dev_Desc": "서브 탭 / 패키지 탭 / 한정 패키지(TX)",
+        "id": 8004022,
+        "alias": "UI.CashShop.TapName.Sub.Package4",
+        "text": "有限的包装"
+    },
+    "8004023": {
+        "deprecated": false,
+        "Dev_Desc": "서브 탭 / 패키지 탭 / 충전(TX)",
+        "id": 8004023,
+        "alias": "UI.CashShop.TapName.Sub.Package5",
+        "text": "收费"
+    },
+    "8004024": {
+        "deprecated": false,
+        "Dev_Desc": "서브 탭 / 화폐상점 탭 / 소환(TX)",
+        "id": 8004024,
+        "alias": "UI.CashShop.TapName.Sub.Summon3",
+        "text": "传票"
+    },
+    "8004025": {
+        "deprecated": false,
+        "Dev_Desc": "서브 탭 / 화폐상점 탭 / 소모품(TX)",
+        "id": 8004025,
+        "alias": "UI.CashShop.TapName.Sub.Grocery5",
+        "text": "消耗品"
+    },
+    "8004026": {
+        "deprecated": false,
+        "Dev_Desc": "서브 탭 / 화폐상점 탭 / 특별소환(TX)",
+        "id": 8004026,
+        "alias": "UI.CashShop.TapName.Sub.Grocery6",
+        "text": "特别召唤"
+    },
+    "8004027": {
+        "deprecated": false,
+        "Dev_Desc": "서브 탭 / 화폐상점 탭 / 고대의 증표(TX)",
+        "id": 8004027,
+        "alias": "UI.CashShop.TapName.Sub.itemCoin6",
+        "text": "古老的"
+    },
+    "8004028": {
+        "deprecated": false,
+        "Dev_Desc": "서브 탭 / 화폐상점 탭 / 도화전(TX)",
+        "id": 8004028,
+        "alias": "UI.CashShop.TapName.Sub.itemCoin7",
+        "text": "融合"
+    },
+    "8004029": {
+        "deprecated": false,
+        "Dev_Desc": "서브 탭 / 화폐상점 탭 / 장인의 증표(TX)",
+        "id": 8004029,
+        "alias": "UI.CashShop.TapName.Sub.itemCoin8",
+        "text": "工匠"
+    },
+    "8004030": {
+        "deprecated": false,
+        "Dev_Desc": "서브 탭 / 마일리지 탭 / 소모품(TX)",
+        "id": 8004030,
+        "alias": "UI.CashShop.TapName.Sub.Mileage3",
+        "text": "消耗品"
+    },
+    "8004031": {
+        "deprecated": false,
+        "Dev_Desc": "서브 탭 / 마일리지 탭 / 의상(TX)",
+        "id": 8004031,
+        "alias": "UI.CashShop.TapName.Sub.Mileage4",
+        "text": "戏服"
+    },
+    "8004032": {
+        "deprecated": false,
+        "Dev_Desc": "이벤트 제작 레시피 탭 / 영웅 재료상자",
+        "id": 8004032,
+        "alias": "UI.Craft.LeftSubTabName.Limited.SpecialCraft_01",
+        "text": "1个停车场特殊生产"
+    },
+    "8004033": {
+        "deprecated": false,
+        "Dev_Desc": "이벤트 제작 레시피 탭 / 영웅 재료상자",
+        "id": 8004033,
+        "alias": "UI.Craft.LeftSubTabName.Limited.SpecialCraft_02",
+        "text": "2停车特种生产"
+    },
+    "8004034": {
+        "deprecated": false,
+        "Dev_Desc": "이벤트 제작 레시피 탭 / 영웅 재료상자",
+        "id": 8004034,
+        "alias": "UI.Craft.LeftSubTabName.Limited.SpecialCraft_03",
+        "text": "3个停车场特殊生产"
     }
 }

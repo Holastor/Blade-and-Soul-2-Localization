@@ -582,7 +582,7 @@
     },
     "60020085": {
         "deprecated": false,
-        "Dev_Desc": "승천권_극한_성장설명",
+        "Dev_Desc": "승천권_돌파_성장설명",
         "id": 60020085,
         "alias": "Contents.Skill.acquireEffectDesc.2073",
         "text": "浮空效果\n使用技能后，连接使用烈火脚"
@@ -1394,9 +1394,16 @@
     },
     "60020204": {
         "deprecated": false,
-        "Dev_Desc": "패시브_권법연계Ⅰ_설명",
+        "Dev_Desc": "패시브_권법연계Ⅱ_설명",
         "id": 60020204,
         "alias": "Contents.Skill.Desc.LightGauntlet.2811",
         "text": "使用桥梁[突破]攻击攻击BOSS怪物时，它将进行确认的连击。"
+    },
+    "60020205": {
+        "deprecated": false,
+        "Dev_Desc": "은신_테스트",
+        "id": 60020205,
+        "alias": "Contents.Skill.Name.LightGauntlet.2900",
+        "text": "巨大的"
     }
 }
