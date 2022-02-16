@@ -27,7 +27,7 @@ BTC - bc1qpqnyfvz36u904pw60tv5ky8da38aq0wy7l7rk6
 ## Install
 
 * ONLY PC
-* [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/releases/tag/2.3.0) Latest Release;
+* [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/releases/tag/2.4.0) Latest Release;
 * Place the file B2_ko-KR_TextData_00001_en.pak(B2_ko-KR_TextData_00001_ch.pak) in the \GameFolder\B2\Content\TextPaks\ko-KR;
 * Delete file B2_ko-KR_TextData_00001.pak in folder
 * Rename the file B2_ko-KR_TextData_00001_en.pak(B2_ko-KR_TextData_00001_ch.pak) to get B2_ko-KR_TextData_00001.pak;
@@ -47,10 +47,10 @@ BTC - bc1qpqnyfvz36u904pw60tv5ky8da38aq0wy7l7rk6
 
 ## Mobile-Install
 * ONLY Android
-* [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/releases/tag/2.3.0_M) Latest Release (patch.71.com.ncsoft.bns219.obb);
-* patch.71.com.ncsoft.bns219_en.obb - English Language; patch.71.com.ncsoft.bns219_ru.obb - Russian Language; patch.71.com.ncsoft.bns219_zh.obb - Chinese Language;
-* Place the file patch.71.com.ncsoft.bns219_en.obb in the "Internal Memory\Android\obb\com.ncsoft.bns219";
-* Rename the file patch.71.com.ncsoft.bns219_en.obb to get patch.71.com.ncsoft.bns219.obb;
+* [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/releases/tag/2.4.0_M) Latest Release (patch.73.com.ncsoft.bns219.obb);
+* patch.73.com.ncsoft.bns219_en.obb - English Language; patch.73.com.ncsoft.bns219_zh.obb - Chinese Language;
+* Place the file patch.73.com.ncsoft.bns219_en.obb in the "Internal Memory\Android\obb\com.ncsoft.bns219";
+* Rename the file patch.73.com.ncsoft.bns219_en.obb to get patch.73.com.ncsoft.bns219.obb;
 * And that's it you have English language or any other;
 
 ## About
