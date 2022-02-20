@@ -28,10 +28,8 @@ BTC - bc1qpqnyfvz36u904pw60tv5ky8da38aq0wy7l7rk6
 
 * ONLY PC
 * [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/releases/tag/2.4.0) Latest Release;
-* Place the file B2_ko-KR_TextData_00001_en.pak(B2_ko-KR_TextData_00001_ch.pak) in the \GameFolder\B2\Content\TextPaks\ko-KR;
-* Delete file B2_ko-KR_TextData_00001.pak in folder
-* Rename the file B2_ko-KR_TextData_00001_en.pak(B2_ko-KR_TextData_00001_ch.pak) to get B2_ko-KR_TextData_00001.pak;
-* For Chinese Localization requires B2-WindowsNoEditor_00003.pak file; Place the file B2-WindowsNoEditor_00003.pak in the \Game Folder\B2\Content\Paks;
+* Place the file B2-Bundle@2022.02.15-23.35.09_EN.pak(B2-Bundle@2022.02.15-23.35.09_CH.pak) in the \GameFolder\AssetBundle, with replace;
+* Rename the file B2-Bundle@2022.02.15-23.35.09_EN.pak(B2-Bundle@2022.02.15-23.35.09_CH.pak) to get B2-Bundle@2022.02.15-23.35.09.pak;
 * That's all folks!
 ## OR Source-Install
 * ONLY PC
