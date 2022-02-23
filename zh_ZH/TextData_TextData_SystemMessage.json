@@ -7794,5 +7794,124 @@
         "id": 9001175,
         "alias": "SysM.Market.Fail.Error",
         "text": "无法搜索Exchange项目。"
+    },
+    "9001176": {
+        "deprecated": false,
+        "Dev_Desc": "마을 탐지 실패 에러 메시지",
+        "id": 9001176,
+        "alias": "SysM.CitizenScan.UseFail2",
+        "text": "距离不能移开。"
+    },
+    "9001177": {
+        "deprecated": false,
+        "Dev_Desc": "ENV 조작 불가 상태 메시지",
+        "id": 9001177,
+        "alias": "SysM.ENV.Fail2",
+        "text": "不可能运作。"
+    },
+    "9001178": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 이전 층 클리어 안 한 상태로 다음 층 진입 시도",
+        "id": 9001178,
+        "alias": "SysM.Dungeon.NotClear.PrevLevel",
+        "text": "<arg p=[1:string]/><arg p=[2:string]/>您可以在成就后输入。"
+    },
+    "9001179": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 레벨 부족",
+        "id": 9001179,
+        "alias": "SysM.Dungeon.LackLevel",
+        "text": "<arg p=[1:string]/>可以从级别输入。"
+    },
+    "9001180": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 보상 획득 조건 부족",
+        "id": 9001180,
+        "alias": "SysM.Dungeon.NotClear",
+        "text": "您可以在第一次成就后获得赔偿。"
+    },
+    "9001181": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 / 각인 성공 메시지 (각인 기능)",
+        "id": 9001181,
+        "alias": "SysM.Galaxy.MsgT.Imprint.Success",
+        "text": "星座成功了。"
+    },
+    "9001182": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 / 각인 대성공(랜덤 중 최고 능력치) 메시지 (각인 기능)",
+        "id": 9001182,
+        "alias": "SysM.Galaxy.MsgT.Imprint.BigSuccess",
+        "text": "它在星座冲压中完全成功。"
+    },
+    "9001183": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 / 각인 실패 메시지 (각인 기능)",
+        "id": 9001183,
+        "alias": "SysM.Galaxy.MsgT.Imprint.Fail",
+        "text": "星座雕刻失败了。"
+    },
+    "9001184": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 / 재각인 완료 메시지 (재각인 기능)",
+        "id": 9001184,
+        "alias": "SysM.Galaxy.MsgT.Imprint.Retry",
+        "text": "我通过重新就业获得了新的力量。"
+    },
+    "9001185": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 / 성공 확률 조정 한계 메시지 (프로그레시브 성장 기능)",
+        "id": 9001185,
+        "alias": "SysM.Galaxy.MsgT.MinMax",
+        "text": "可调节的最小值或最大值。"
+    },
+    "9001186": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 / 재료 부족 상태에서 각인 진행 버튼을 누른 경우",
+        "id": 9001186,
+        "alias": "SysM.Galaxy.MsgT.Imprint.ResourceLack",
+        "text": "材料不足。"
+    },
+    "9001187": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 / 이전 단계 각인이 완료되지 않은 점을 선택하여 각인 시도",
+        "id": 9001187,
+        "alias": "SysM.Galaxy.MsgT.Select.ReqPrev",
+        "text": "这是一个不能刻的明星。"
+    },
+    "9001188": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 / 구간을 이루는 점을 모두 각인하였을 때 표시되는 메시지",
+        "id": 9001188,
+        "alias": "SysM.Galaxy.MsgT.ZoneBonus.Achieved",
+        "text": "<arg p=[1:string]/>侦听所有<arg p=[1:string]/>结束。"
+    },
+    "9001189": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 / 각인점에서 얻을 수 있는 최고 능력치를 획득한 상태에서 딤드된 재각인 버튼을 눌렀을 경우 표시되는 메시지",
+        "id": 9001189,
+        "alias": "SysM.Galaxy.MsgT.Imprint.Retry.BigSuccess",
+        "text": "我不能再忍受了。"
+    },
+    "9001190": {
+        "deprecated": false,
+        "Dev_Desc": "거래소 / 월드 거래소 / 등록 수수료 부족",
+        "id": 9001190,
+        "alias": "SysM.WorldMarket.Sale.LackItem",
+        "text": "<arg p=[1:string]/><ga />您无法注册缺少。"
+    },
+    "9001191": {
+        "deprecated": false,
+        "Dev_Desc": "거래소 / 월드 거래소 / 일괄 회수 실패 / 다른 서버 물품",
+        "id": 9001191,
+        "alias": "SysM.WorldMarket.Sale.RetrievalAll.No",
+        "text": "您无法在服务器上没有任何销售失败的项目恢复。"
+    },
+    "9001192": {
+        "deprecated": false,
+        "Dev_Desc": "거래소 / 월드 거래소 / 정산 실패 / 다른 서버 물품",
+        "id": 9001192,
+        "alias": "SysM.WorldMarket.Calculate.Fail",
+        "text": "当前服务器上没有销售的物品，所以你不能解决。"
     }
 }

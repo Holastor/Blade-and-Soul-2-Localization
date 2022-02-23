@@ -1019,14 +1019,14 @@
         "Dev_Desc": "봉쇄화살_증폭_성장효과",
         "id": 60050146,
         "alias": "Contents.Skill.acquireEffectDesc.LongBow.5111",
-        "text": "\"봉쇄화살\" 범위 내 대상 회피 -10"
+        "text": "범위 내 대상 특화 무공 사용 불가"
     },
     "60050147": {
         "deprecated": false,
         "Dev_Desc": "봉쇄화살_극한_성장효과",
         "id": 60050147,
         "alias": "Contents.Skill.acquireEffectDesc.LongBow.5112",
-        "text": "\"봉쇄화살\" 범위 내 대상 통제 저항률 -5%"
+        "text": "범위 내 대상 회피 -10, 치명 저항률 -10%\n사용 후 6초간 치명타 추가 공격력 +15"
     },
     "60050148": {
         "deprecated": false,
@@ -1216,5 +1216,26 @@
         "id": 60050174,
         "alias": "Contents.Skill.UseEffect.LongBow.5930",
         "text": "활 공격력 +1"
+    },
+    "60050175": {
+        "deprecated": false,
+        "Dev_Desc": "봉쇄화살_극한_치추공증가",
+        "id": 60050175,
+        "alias": "Contents.Effect.Name.LongBow.511222",
+        "text": "봉쇄화살 [극한]"
+    },
+    "60050176": {
+        "deprecated": false,
+        "Dev_Desc": "봉쇄화살_극한_치추공증가",
+        "id": 60050176,
+        "alias": "Contents.Effect.Desc.LongBow.511222",
+        "text": "치명타 추가 공격력 증가"
+    },
+    "60050177": {
+        "deprecated": false,
+        "Dev_Desc": "봉쇄화살_극한_치추공증가",
+        "id": 60050177,
+        "alias": "Contents.Effect.Option.LongBow.511222",
+        "text": "치명타 추가 공격력 +15"
     }
 }

@@ -27676,5 +27676,285 @@
         "English_Text": "3 Parking Special Production",
         "Russian_Text": "",
         "Chinese_Text": "3个停车场特殊生产"
+    },
+    "8004035": {
+        "Dev_Desc": "던전 / 파티던전",
+        "Original_Text": "<arg p=[1:integer]/>레벨부터 입장할 수 있습니다.",
+        "English_Text": "<arg p=[1:integer]/>can be entered from level.",
+        "Russian_Text": "",
+        "Chinese_Text": "<arg p=[1:integer]/>可以从级别输入。"
+    },
+    "8004036": {
+        "Dev_Desc": "던전 / 파티던전",
+        "Original_Text": "[<arg p=[1:string]/>] 달성 후 입장할 수 있습니다.",
+        "English_Text": "[<arg p=[1:string]/>] You can enter after achievement.",
+        "Russian_Text": "",
+        "Chinese_Text": "[<arg p=[1:string]/>]您可以在成就后输入。"
+    },
+    "8004037": {
+        "Dev_Desc": "던전 / 파티던전",
+        "Original_Text": "<arg p=[1:string]/><arg p=[2:integer]/>층 달성 후 입장할 수 있습니다.",
+        "English_Text": "<arg p=[1:string]/><arg p=[2:integer]/> You can enter after achievement.",
+        "Russian_Text": "",
+        "Chinese_Text": "<arg p=[1:string]/><arg p=[2:integer]/>您可以在成就后输入。"
+    },
+    "8004038": {
+        "Dev_Desc": "던전 / 파티던전",
+        "Original_Text": "필요 능력치 달성 후 입장할 수 있습니다.",
+        "English_Text": "You can enter after achieving your ability.",
+        "Russian_Text": "",
+        "Chinese_Text": "您可以在实现您的能力后输入。"
+    },
+    "8004039": {
+        "Dev_Desc": "던전 / 파티던전",
+        "Original_Text": "입장 조건을 달성하지 못한 파티원이 있습니다.",
+        "English_Text": "There is a party member that could not achieve the entry condition.",
+        "Russian_Text": "",
+        "Chinese_Text": "有一个党员无法达到进入条件。"
+    },
+    "8004040": {
+        "Dev_Desc": "던전 / 파티던전",
+        "Original_Text": "이미 매칭중인 던전이 있습니다. 매칭 취소 후 다시 시도해주세요.",
+        "English_Text": "There is a dungeon that is already matching. Please try again after the matching.",
+        "Russian_Text": "",
+        "Chinese_Text": "有一个已经匹配的地牢。请在匹配后再试一次。"
+    },
+    "8004041": {
+        "Dev_Desc": "던전 / 파티던전",
+        "Original_Text": "파티원은 입장 신청할 수 없습니다.",
+        "English_Text": "Patermis can not apply for position.",
+        "Russian_Text": "",
+        "Chinese_Text": "Patermis无法申请职位。"
+    },
+    "8004042": {
+        "Dev_Desc": "던전 / 파티던전",
+        "Original_Text": "<arg p=[1:string]/><arg p=[2:integer]/>층 매칭을 시작합니다.",
+        "English_Text": "<arg p=[1:string]/><arg p=[2:integer]/> Start the layer matching.",
+        "Russian_Text": "",
+        "Chinese_Text": "<arg p=[1:string]/><arg p=[2:integer]/>启动图层匹配。"
+    },
+    "8004043": {
+        "Dev_Desc": "던전 / 파티던전",
+        "Original_Text": "<arg p=[1:string]/><arg p=[2:integer]/>층 매칭이 취소되었습니다.",
+        "English_Text": "<arg p=[1:string]/><arg p=[2:integer]/>Layer matching has been canceled.",
+        "Russian_Text": "",
+        "Chinese_Text": "<arg p=[1:string]/><arg p=[2:integer]/>图层匹配已被取消。"
+    },
+    "8004044": {
+        "Dev_Desc": "던전 / 파티던전",
+        "Original_Text": "파티원은 매칭을 취소할 수 없습니다.",
+        "English_Text": "Patermis can not cancel matching.",
+        "Russian_Text": "",
+        "Chinese_Text": "Patermis无法取消匹配。"
+    },
+    "8004045": {
+        "Dev_Desc": "인스턴트 팝업 / 파티던전",
+        "Original_Text": "<arg p=[1:string]/><arg p=[2:integer]/>층 입장을 거절했습니다.",
+        "English_Text": "<arg p=[1:string]/><arg p=[2:integer]/> Refined the floor position.",
+        "Russian_Text": "",
+        "Chinese_Text": "<arg p=[1:string]/><arg p=[2:integer]/>精制楼层位置。"
+    },
+    "8004046": {
+        "Dev_Desc": "인스턴트 팝업 / 파티던전",
+        "Original_Text": "<arg p=[1:string]/>이/가 입장을 거절했습니다.",
+        "English_Text": "<arg p=[1:string]/> This refused to position.",
+        "Russian_Text": "",
+        "Chinese_Text": "<arg p=[1:string]/>这拒绝了位置。"
+    },
+    "8004047": {
+        "Dev_Desc": "인스턴트 팝업 / 파티던전",
+        "Original_Text": "<arg p=[1:string]/><arg p=[2:integer]/>층 매칭을 거절하여 대기열이 취소되었습니다.",
+        "English_Text": "<arg p=[1:string]/><arg p=[2:integer]/>Refusing layer matching to cancel the queue.",
+        "Russian_Text": "",
+        "Chinese_Text": "<arg p=[1:string]/><arg p=[2:integer]/>拒绝分层取消队列。"
+    },
+    "8004048": {
+        "Dev_Desc": "인스턴트 팝업 / 파티던전",
+        "Original_Text": "<arg p=[1:string]/>이/가 매칭을 거절하여 대기열이 취소되었습니다.",
+        "English_Text": "<arg p=[1:string]/>This refuses to match the counter with the queue.",
+        "Russian_Text": "",
+        "Chinese_Text": "<arg p=[1:string]/>这拒绝与队列匹配计数器。"
+    },
+    "8004049": {
+        "Dev_Desc": "인스턴트 팝업 / 파티던전",
+        "Original_Text": "<arg p=[1:string]/>이/가 매칭을 거절했습니다. 대기열 우선순위로 돌아갑니다.",
+        "English_Text": "<arg p=[1:string] /> This /> refused to match. Returns to the queue priority.",
+        "Russian_Text": "",
+        "Chinese_Text": "<arg p=[1:string]/>这个/>拒绝匹配。返回队列优先级。"
+    },
+    "8004050": {
+        "Dev_Desc": "파티 / 파티던전",
+        "Original_Text": "던전 매칭 중에는 파티원을 초대할 수 없습니다.",
+        "English_Text": "Dungeon matching can not invite party members.",
+        "Russian_Text": "",
+        "Chinese_Text": "地牢匹配不能邀请聚会会员。"
+    },
+    "8004051": {
+        "Dev_Desc": "파티 / 파티던전",
+        "Original_Text": "파티 던전 입장 진행 중에는 파티원을 초대할 수 없습니다.",
+        "English_Text": "Party Dungeon is not able to invite party members during the proceeding.",
+        "Russian_Text": "",
+        "Chinese_Text": "派对地牢在诉讼期间无法邀请党员。"
+    },
+    "8004052": {
+        "Dev_Desc": "파티 / 파티던전",
+        "Original_Text": "현재 위치에서는 사용할 수 없는 기능입니다.",
+        "English_Text": "It is a function that is not available at the current location.",
+        "Russian_Text": "",
+        "Chinese_Text": "它是当前位置不可用的函数。"
+    },
+    "8004053": {
+        "Dev_Desc": "파티 / 파티던전",
+        "Original_Text": "던전 매칭 중에는 파티에서 탈퇴할 수 없습니다.",
+        "English_Text": "Dungeon matching can not be left at the party.",
+        "Russian_Text": "",
+        "Chinese_Text": "地牢匹配不能在派对上留下。"
+    },
+    "8004054": {
+        "Dev_Desc": "파티 / 파티던전",
+        "Original_Text": "파티 던전 입장 진행 중에는 파티에서 탈퇴할 수 없습니다.",
+        "English_Text": "You can not leave the party during the party dungeon position.",
+        "Russian_Text": "",
+        "Chinese_Text": "您不能在派对地下职位留下派对。"
+    },
+    "8004055": {
+        "Dev_Desc": "파티 / 파티던전",
+        "Original_Text": "현재 위치에서는 사용할 수 없는 기능입니다.",
+        "English_Text": "It is a function that is not available at the current location.",
+        "Russian_Text": "",
+        "Chinese_Text": "它是当前位置不可用的函数。"
+    },
+    "8004056": {
+        "Dev_Desc": "파티 / 파티던전",
+        "Original_Text": "던전 매칭 중에는 파티원을 추방할 수 없습니다.",
+        "English_Text": "Dungeon matching can not be deported on a party member.",
+        "Russian_Text": "",
+        "Chinese_Text": "Dungeon匹配不能被驱逐在派对会员上。"
+    },
+    "8004057": {
+        "Dev_Desc": "파티 / 파티던전",
+        "Original_Text": "파티 던전 입장 진행 중에는 파티원을 추방할 수 없습니다.",
+        "English_Text": "Party Dungeon is not able to expel a party member during the proceeding.",
+        "Russian_Text": "",
+        "Chinese_Text": "派对地牢在继续期间无法驱逐党员。"
+    },
+    "8004058": {
+        "Dev_Desc": "파티 / 파티던전",
+        "Original_Text": "현재 위치에서는 사용할 수 없는 기능입니다.",
+        "English_Text": "It is a function that is not available at the current location.",
+        "Russian_Text": "",
+        "Chinese_Text": "它是当前位置不可用的函数。"
+    },
+    "8004059": {
+        "Dev_Desc": "파티 / 파티던전",
+        "Original_Text": "던전 매칭 중에는 파티장을 위임할 수 없습니다.",
+        "English_Text": "During the dungeon matching, you can not delegate the party.",
+        "Russian_Text": "",
+        "Chinese_Text": "在地牢匹配期间，您无法委派派对。"
+    },
+    "8004060": {
+        "Dev_Desc": "파티 / 파티던전",
+        "Original_Text": "파티 던전 입장 진행 중에는 파티장을 위임할 수 없습니다.",
+        "English_Text": "You can not delegate the party dungeon during the party dungeon.",
+        "Russian_Text": "",
+        "Chinese_Text": "您不能在派对地牢期间委派派对地下城。"
+    },
+    "8004061": {
+        "Dev_Desc": "던전 / 파티던전",
+        "Original_Text": "현재 위치에서는 이용할 수 없는 기능입니다.",
+        "English_Text": "It is a function that is not available at the current location.",
+        "Russian_Text": "",
+        "Chinese_Text": "它是当前位置不可用的函数。"
+    },
+    "8004062": {
+        "Dev_Desc": "거래소 / 분류 / 방어구 / 수호패",
+        "Original_Text": "향낭",
+        "English_Text": "Fog",
+        "Russian_Text": "",
+        "Chinese_Text": "多雾路段"
+    },
+    "8004063": {
+        "Dev_Desc": "거래소 / 빠른 구매 / 안내 문구",
+        "Original_Text": "서버 거래소에 등록된 물품만 구매할 수 있습니다.",
+        "English_Text": "Only articles registered in the server exchange can be purchased.",
+        "Russian_Text": "",
+        "Chinese_Text": "只能购买在服务器交换机中注册的文章。"
+    },
+    "8004064": {
+        "Dev_Desc": "로그인 UI / 연령 팝업 / 타이틀",
+        "Original_Text": "설명제시",
+        "English_Text": "Presentation presentation",
+        "Russian_Text": "",
+        "Chinese_Text": "介绍介绍"
+    },
+    "8004065": {
+        "Dev_Desc": "로그인 UI / 연령 팝업 / 내용 제목",
+        "Original_Text": "청소년 이용불가 제목",
+        "English_Text": "No Youth Not available Title",
+        "Russian_Text": "",
+        "Chinese_Text": "没有你没有标题"
+    },
+    "8004066": {
+        "Dev_Desc": "로그인 UI / 연령 팝업 / 내용 제목",
+        "Original_Text": "1) 본 게임은 복잡한 게임 플레이가 가능한 대규모 다중 접속 온라인 롤플레잉 게임으로 만 16세 이상 관람가에 적합하며 미성년자는 부모의 감독하에 게임 이용을 권장합니다.\\n2) 이 게임은 동양적 판타지 세계관과 고전 엔드 게임 \"Blade&Soul\"의 오버헤드 배경을 기반으로 하며 웅장한 서사, 풍부한 캐릭터 디자인 및 게임 분위기를 조성하는 풍부한 음향 효과를 제공합니다. 게임은 많은 시간과 노력을 요하는 캐릭터 육성, 검신과 수호신 수집, 던전, 대회 등 다양한 방식으로 플레이할 수 있습니다. 게임 내에는 텍스트 기반의 낯선 사람을 위한 소셜 시스템이 있으며, 소셜 시스템의 관리는 관련 법규를 따릅니다.\\n3) 국가 관련 규정에 따라 게임 내 이용자 실명제를 시행하고 있으며, 실명인증을 통과하지 못한 이용자는 게임에 입장할 수 없으며, 미성년자로 인증된 이용자는 20:00부터 ~ 매주 금,토,일 및 법정 공휴일 21일, 이 시간 외에는 게임에 접속할 수 없습니다. 게임의 일부 게임 플레이 및 소품은 결제가 필요합니다. Tencent 건강 시스템 관리 규정에 따라 미성년자로 인증된 사용자는 다음 관리 대상이 됩니다.\\n12세 미만의 사용자는 지불할 수 없으며 12세 이상 16세 미만의 미성년자는 1회 충전 금액이 50위안을 초과할 수 없으며 월 충전 금액은 200위안을 초과할 수 없습니다. 16세 이상의 미성년자는 사용자, 단일 충전 금액은 100위안을 초과할 수 없으며 월별 충전 금액은 400위안을 초과할 수 없습니다.\\n4) 게임 배경 및 플롯 디자인은 동양 문화 배경을 기반으로 하며 동양 판타지 스타일이 강하여 플레이어에게 편안하고 즐거운 감정적 경험을 제공할 수 있습니다. 이 게임은 또한 종파, 세력 등을 포함한 풍부한 사회 시스템을 제공하며 플레이어는 서로 의사 소통하고 서로 협력하며 게임 작업을 함께 완료하여 플레이어의 사회적 교류를 촉진하고 좋은 커뮤니티 관계를 유지하는 데 도움이 됩니다.",
+        "English_Text": "1) This game is suitable for a large-scale multi-access online RPG game that can play complex gameplay online, and a minor is recommended for a view of 16 years of age or older. Games \"Blade",
+        "Russian_Text": "",
+        "Chinese_Text": "1）这场比赛适用于可以在线玩复杂游戏的大型多访问在线R​​PG游戏，建议一个未成年人，以便16岁或以上。游戏刀片"
+    },
+    "8004067": {
+        "Dev_Desc": "던전 / 파티던전",
+        "Original_Text": "파티상태에서만 즉시 입장할 수 있습니다.",
+        "English_Text": "You can enter immediately in the party state.",
+        "Russian_Text": "",
+        "Chinese_Text": "您可以立即在派对状态进入。"
+    },
+    "8004068": {
+        "Dev_Desc": "던전 / 파티던전",
+        "Original_Text": "보상 획득 가능",
+        "English_Text": "Compensation",
+        "Russian_Text": "",
+        "Chinese_Text": "赔偿"
+    },
+    "8004069": {
+        "Dev_Desc": "던전 / 파티던전",
+        "Original_Text": "보상 획득 가능 횟수 만료",
+        "English_Text": "Expiration of compensation acquisition",
+        "Russian_Text": "",
+        "Chinese_Text": "赔偿收购届满"
+    },
+    "8004070": {
+        "Dev_Desc": "던전 / 파티던전",
+        "Original_Text": "다른 플레이어의 응답을 기다리는 중입니다.",
+        "English_Text": "I am waiting for a response to another player.",
+        "Russian_Text": "",
+        "Chinese_Text": "我正在等待对另一名球员的回应。"
+    },
+    "8004071": {
+        "Dev_Desc": "로그인 / 서버 접속 실패 / 실명 아닐 때 / 타이틀",
+        "Original_Text": "오류",
+        "English_Text": "error",
+        "Russian_Text": "",
+        "Chinese_Text": "错误"
+    },
+    "8004072": {
+        "Dev_Desc": "로그인 / 서버 접속 실패 / 실명 아닐 때 / 설명",
+        "Original_Text": "당신의 계정은 실명인증이상으로 로그인할수 없습니다. 우선 실명인증한후 재시도해주세요.",
+        "English_Text": "Your account can not be logged in with the real name certification. First, please retry after authentication of real name.",
+        "Russian_Text": "",
+        "Chinese_Text": "您的帐户无法使用真实姓名认证登录。首先，请在身份验证的真名后重试。"
+    },
+    "8004073": {
+        "Dev_Desc": "이벤트 제작 레시피 탭 / 붉은 약탈자의 귀혼",
+        "Original_Text": "붉은 약탈자의 귀혼",
+        "English_Text": "Red Military",
+        "Russian_Text": "",
+        "Chinese_Text": "红军"
+    },
+    "8004074": {
+        "Dev_Desc": "던전 / 파티던전",
+        "Original_Text": "던전 내에 있는 대상은 초대할 수 없습니다.",
+        "English_Text": "The destinations within the dungeon can not be invited.",
+        "Russian_Text": "",
+        "Chinese_Text": "无法邀请地下城内的目的地。"
     }
 }

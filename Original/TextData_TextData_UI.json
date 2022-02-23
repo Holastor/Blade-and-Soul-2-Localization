@@ -20996,7 +20996,7 @@
         "Dev_Desc": "타이틀 / 비로그인 상태로 로그인 필요 기능 이용 / 설명",
         "id": 8003080,
         "alias": "UI.Login.Fail.NeedLogin.Desc",
-        "text": "정상적인 로그인 상태가 아닙니다.\n로그아웃 후 타이틀로 되돌아갑니다."
+        "text": "정상적인 로그인 상태가 아닙니다.\n로그아웃 후 타이틀로 되돌아갑니다.\n(<arg p=[1:string]/> : <arg p=[2:integer]/>)"
     },
     "8003081": {
         "deprecated": false,
@@ -24190,7 +24190,7 @@
         "Dev_Desc": "시스템 설정 / 자동 분해 / 도움말",
         "id": 8003538,
         "alias": "UI.Option.Control.GetItem.AutoDiscompose.Tip.01",
-        "text": "몬스터 - 몬스터 처치 보상으로 장비를 획득하는 경우 자동으로 분해합니다.\n상자 - 지역 별 협행 보상 상자 및 협행 지원 상자와 장비함(각인) 상자를 열어 장비를 획득하는 경우에만 적용됩니다."
+        "text": "몬스터 - 몬스터 처치 보상으로 획득한 장비 아이템을 자동으로 분해합니다.\n상자 - 다음 상자를 열어서 획득한 장비 아이템을 자동으로 분해합니다.\n   > 지역별 특별 협행 / 협행 지원 상자\n   > 시련 던전의 시련 장비함\n   > 대사형의 수련 지원 상자\n   > 장비함"
     },
     "8003539": {
         "deprecated": false,
@@ -25807,7 +25807,7 @@
         "Dev_Desc": "설정 / 계정 / 계정 삭제",
         "id": 8003769,
         "alias": "UI.Option.Acount.DeleteAcount",
-        "text": "계정 삭제"
+        "text": "회원 탈퇴"
     },
     "8003770": {
         "deprecated": false,
@@ -26822,7 +26822,7 @@
         "Dev_Desc": "마을 탐지 / 버튼 Alias",
         "id": 8003914,
         "alias": "UI.Detection.Merchant",
-        "text": "상인"
+        "text": "특수 상인"
     },
     "8003915": {
         "deprecated": false,
@@ -27663,5 +27663,285 @@
         "id": 8004034,
         "alias": "UI.Craft.LeftSubTabName.Limited.SpecialCraft_03",
         "text": "3주차 특별 제작"
+    },
+    "8004035": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전",
+        "id": 8004035,
+        "alias": "UI.PartyDungeon.Text.Enter.LevelReject",
+        "text": "<arg p=[1:integer]/>레벨부터 입장할 수 있습니다."
+    },
+    "8004036": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전",
+        "id": 8004036,
+        "alias": "UI.PartyDungeon.Text.Enter.QuestReject",
+        "text": "[<arg p=[1:string]/>] 달성 후 입장할 수 있습니다."
+    },
+    "8004037": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전",
+        "id": 8004037,
+        "alias": "UI.PartyDungeon.Text.Enter.DungeonReject",
+        "text": "<arg p=[1:string]/><arg p=[2:integer]/>층 달성 후 입장할 수 있습니다."
+    },
+    "8004038": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전",
+        "id": 8004038,
+        "alias": "UI.PartyDungeon.Text.Enter.SpecReject",
+        "text": "필요 능력치 달성 후 입장할 수 있습니다."
+    },
+    "8004039": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전",
+        "id": 8004039,
+        "alias": "UI.PartyDungeon.Text.Enter.PartyMemberReject",
+        "text": "입장 조건을 달성하지 못한 파티원이 있습니다."
+    },
+    "8004040": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전",
+        "id": 8004040,
+        "alias": "UI.PartyDungeon.Text.Enter.MatchingReject",
+        "text": "이미 매칭중인 던전이 있습니다. 매칭 취소 후 다시 시도해주세요."
+    },
+    "8004041": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전",
+        "id": 8004041,
+        "alias": "UI.PartyDungeon.Text.Enter.AuthorityReject",
+        "text": "파티원은 입장 신청할 수 없습니다."
+    },
+    "8004042": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전",
+        "id": 8004042,
+        "alias": "UI.PartyDungeon.Text.Match.Started",
+        "text": "<arg p=[1:string]/><arg p=[2:integer]/>층 매칭을 시작합니다."
+    },
+    "8004043": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전",
+        "id": 8004043,
+        "alias": "UI.PartyDungeon.Text.Match.Cancled",
+        "text": "<arg p=[1:string]/><arg p=[2:integer]/>층 매칭이 취소되었습니다."
+    },
+    "8004044": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전",
+        "id": 8004044,
+        "alias": "UI.PartyDungeon.Text.Match.CanNotCancle",
+        "text": "파티원은 매칭을 취소할 수 없습니다."
+    },
+    "8004045": {
+        "deprecated": false,
+        "Dev_Desc": "인스턴트 팝업 / 파티던전",
+        "id": 8004045,
+        "alias": "UI.PartyDungeon.Text.Accept.PlayerReject",
+        "text": "<arg p=[1:string]/><arg p=[2:integer]/>층 입장을 거절했습니다."
+    },
+    "8004046": {
+        "deprecated": false,
+        "Dev_Desc": "인스턴트 팝업 / 파티던전",
+        "id": 8004046,
+        "alias": "UI.PartyDungeon.Text.Accept.PartyMemberReject",
+        "text": "<arg p=[1:string]/>이/가 입장을 거절했습니다."
+    },
+    "8004047": {
+        "deprecated": false,
+        "Dev_Desc": "인스턴트 팝업 / 파티던전",
+        "id": 8004047,
+        "alias": "UI.PartyDungeon.Text.MatchingAccept.PlayerReject",
+        "text": "<arg p=[1:string]/><arg p=[2:integer]/>층 매칭을 거절하여 대기열이 취소되었습니다."
+    },
+    "8004048": {
+        "deprecated": false,
+        "Dev_Desc": "인스턴트 팝업 / 파티던전",
+        "id": 8004048,
+        "alias": "UI.PartyDungeon.Text.MatchingAccept.PartyMemberReject",
+        "text": "<arg p=[1:string]/>이/가 매칭을 거절하여 대기열이 취소되었습니다."
+    },
+    "8004049": {
+        "deprecated": false,
+        "Dev_Desc": "인스턴트 팝업 / 파티던전",
+        "id": 8004049,
+        "alias": "UI.PartyDungeon.Text.MatchingAccept.AnotherReject",
+        "text": "<arg p=[1:string]/>이/가 매칭을 거절했습니다. 대기열 우선순위로 돌아갑니다."
+    },
+    "8004050": {
+        "deprecated": false,
+        "Dev_Desc": "파티 / 파티던전",
+        "id": 8004050,
+        "alias": "UI.PartyDungeon.Text.PartyInvite.Matching",
+        "text": "던전 매칭 중에는 파티원을 초대할 수 없습니다."
+    },
+    "8004051": {
+        "deprecated": false,
+        "Dev_Desc": "파티 / 파티던전",
+        "id": 8004051,
+        "alias": "UI.PartyDungeon.Text.PartyInvite.Entering",
+        "text": "파티 던전 입장 진행 중에는 파티원을 초대할 수 없습니다."
+    },
+    "8004052": {
+        "deprecated": false,
+        "Dev_Desc": "파티 / 파티던전",
+        "id": 8004052,
+        "alias": "UI.PartyDungeon.Text.PartyInvite.WrongPlace",
+        "text": "현재 위치에서는 사용할 수 없는 기능입니다."
+    },
+    "8004053": {
+        "deprecated": false,
+        "Dev_Desc": "파티 / 파티던전",
+        "id": 8004053,
+        "alias": "UI.PartyDungeon.Text.PartyQuit.Matching",
+        "text": "던전 매칭 중에는 파티에서 탈퇴할 수 없습니다."
+    },
+    "8004054": {
+        "deprecated": false,
+        "Dev_Desc": "파티 / 파티던전",
+        "id": 8004054,
+        "alias": "UI.PartyDungeon.Text.PartyQuit.Entering",
+        "text": "파티 던전 입장 진행 중에는 파티에서 탈퇴할 수 없습니다."
+    },
+    "8004055": {
+        "deprecated": false,
+        "Dev_Desc": "파티 / 파티던전",
+        "id": 8004055,
+        "alias": "UI.PartyDungeon.Text.PartyQuit.WrongPlace",
+        "text": "현재 위치에서는 사용할 수 없는 기능입니다."
+    },
+    "8004056": {
+        "deprecated": false,
+        "Dev_Desc": "파티 / 파티던전",
+        "id": 8004056,
+        "alias": "UI.PartyDungeon.Text.PartyBan.Matching",
+        "text": "던전 매칭 중에는 파티원을 추방할 수 없습니다."
+    },
+    "8004057": {
+        "deprecated": false,
+        "Dev_Desc": "파티 / 파티던전",
+        "id": 8004057,
+        "alias": "UI.PartyDungeon.Text.PartyBan.Entering",
+        "text": "파티 던전 입장 진행 중에는 파티원을 추방할 수 없습니다."
+    },
+    "8004058": {
+        "deprecated": false,
+        "Dev_Desc": "파티 / 파티던전",
+        "id": 8004058,
+        "alias": "UI.PartyDungeon.Text.PartyBan.WrongPlace",
+        "text": "현재 위치에서는 사용할 수 없는 기능입니다."
+    },
+    "8004059": {
+        "deprecated": false,
+        "Dev_Desc": "파티 / 파티던전",
+        "id": 8004059,
+        "alias": "UI.PartyDungeon.Text.Succession.Matching",
+        "text": "던전 매칭 중에는 파티장을 위임할 수 없습니다."
+    },
+    "8004060": {
+        "deprecated": false,
+        "Dev_Desc": "파티 / 파티던전",
+        "id": 8004060,
+        "alias": "UI.PartyDungeon.Text.Succession.Entering",
+        "text": "파티 던전 입장 진행 중에는 파티장을 위임할 수 없습니다."
+    },
+    "8004061": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전",
+        "id": 8004061,
+        "alias": "UI.PartyDungeon.Text.WrongPlace",
+        "text": "현재 위치에서는 이용할 수 없는 기능입니다."
+    },
+    "8004062": {
+        "deprecated": false,
+        "Dev_Desc": "거래소 / 분류 / 방어구 / 수호패",
+        "id": 8004062,
+        "alias": "UI.Trade.Category.Armor.Sachet",
+        "text": "향낭"
+    },
+    "8004063": {
+        "deprecated": false,
+        "Dev_Desc": "거래소 / 빠른 구매 / 안내 문구",
+        "id": 8004063,
+        "alias": "UI.Trade.QuickPurchase.Desc",
+        "text": "서버 거래소에 등록된 물품만 구매할 수 있습니다."
+    },
+    "8004064": {
+        "deprecated": false,
+        "Dev_Desc": "로그인 UI / 연령 팝업 / 타이틀",
+        "id": 8004064,
+        "alias": "UI.Login.AgePopup.Title",
+        "text": "설명제시"
+    },
+    "8004065": {
+        "deprecated": false,
+        "Dev_Desc": "로그인 UI / 연령 팝업 / 내용 제목",
+        "id": 8004065,
+        "alias": "UI.Login.AgePopup.Name",
+        "text": "청소년 이용불가 제목"
+    },
+    "8004066": {
+        "deprecated": false,
+        "Dev_Desc": "로그인 UI / 연령 팝업 / 내용 제목",
+        "id": 8004066,
+        "alias": "UI.Login.AgePopup.Desc",
+        "text": "1) 본 게임은 복잡한 게임 플레이가 가능한 대규모 다중 접속 온라인 롤플레잉 게임으로 만 16세 이상 관람가에 적합하며 미성년자는 부모의 감독하에 게임 이용을 권장합니다.\n2) 이 게임은 동양적 판타지 세계관과 고전 엔드 게임 \"Blade&Soul\"의 오버헤드 배경을 기반으로 하며 웅장한 서사, 풍부한 캐릭터 디자인 및 게임 분위기를 조성하는 풍부한 음향 효과를 제공합니다. 게임은 많은 시간과 노력을 요하는 캐릭터 육성, 검신과 수호신 수집, 던전, 대회 등 다양한 방식으로 플레이할 수 있습니다. 게임 내에는 텍스트 기반의 낯선 사람을 위한 소셜 시스템이 있으며, 소셜 시스템의 관리는 관련 법규를 따릅니다.\n3) 국가 관련 규정에 따라 게임 내 이용자 실명제를 시행하고 있으며, 실명인증을 통과하지 못한 이용자는 게임에 입장할 수 없으며, 미성년자로 인증된 이용자는 20:00부터 ~ 매주 금,토,일 및 법정 공휴일 21일, 이 시간 외에는 게임에 접속할 수 없습니다. 게임의 일부 게임 플레이 및 소품은 결제가 필요합니다. Tencent 건강 시스템 관리 규정에 따라 미성년자로 인증된 사용자는 다음 관리 대상이 됩니다.\n12세 미만의 사용자는 지불할 수 없으며 12세 이상 16세 미만의 미성년자는 1회 충전 금액이 50위안을 초과할 수 없으며 월 충전 금액은 200위안을 초과할 수 없습니다. 16세 이상의 미성년자는 사용자, 단일 충전 금액은 100위안을 초과할 수 없으며 월별 충전 금액은 400위안을 초과할 수 없습니다.\n4) 게임 배경 및 플롯 디자인은 동양 문화 배경을 기반으로 하며 동양 판타지 스타일이 강하여 플레이어에게 편안하고 즐거운 감정적 경험을 제공할 수 있습니다. 이 게임은 또한 종파, 세력 등을 포함한 풍부한 사회 시스템을 제공하며 플레이어는 서로 의사 소통하고 서로 협력하며 게임 작업을 함께 완료하여 플레이어의 사회적 교류를 촉진하고 좋은 커뮤니티 관계를 유지하는 데 도움이 됩니다."
+    },
+    "8004067": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전",
+        "id": 8004067,
+        "alias": "UI.PartyDungeon.Text.CanNotEnter.NoParty",
+        "text": "파티상태에서만 즉시 입장할 수 있습니다."
+    },
+    "8004068": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전",
+        "id": 8004068,
+        "alias": "UI.PartyDungeon.Text.RewardCountOk",
+        "text": "보상 획득 가능"
+    },
+    "8004069": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전",
+        "id": 8004069,
+        "alias": "UI.PartyDungeon.Text.RewardCountlack2",
+        "text": "보상 획득 가능 횟수 만료"
+    },
+    "8004070": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전",
+        "id": 8004070,
+        "alias": "UI.PartyDungeon.Text.WaitingForResponse",
+        "text": "다른 플레이어의 응답을 기다리는 중입니다."
+    },
+    "8004071": {
+        "deprecated": false,
+        "Dev_Desc": "로그인 / 서버 접속 실패 / 실명 아닐 때 / 타이틀",
+        "id": 8004071,
+        "alias": "UI.Login.ServerConnectionError.NoRealName.Title",
+        "text": "오류"
+    },
+    "8004072": {
+        "deprecated": false,
+        "Dev_Desc": "로그인 / 서버 접속 실패 / 실명 아닐 때 / 설명",
+        "id": 8004072,
+        "alias": "UI.Login.ServerConnectionError.NoRealName.Desc",
+        "text": "당신의 계정은 실명인증이상으로 로그인할수 없습니다. 우선 실명인증한후 재시도해주세요."
+    },
+    "8004073": {
+        "deprecated": false,
+        "Dev_Desc": "이벤트 제작 레시피 탭 / 붉은 약탈자의 귀혼",
+        "id": 8004073,
+        "alias": "UI.Craft.LeftSubTabName.Event.RedBandit_01",
+        "text": "붉은 약탈자의 귀혼"
+    },
+    "8004074": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전",
+        "id": 8004074,
+        "alias": "UI.PartyDungeon.Text.ErrorInvitePartyFail_InPartyDungeon",
+        "text": "던전 내에 있는 대상은 초대할 수 없습니다."
     }
 }

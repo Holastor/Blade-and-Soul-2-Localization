@@ -7936,5 +7936,124 @@
         "English_Text": "Failed to search for exchange items.",
         "Russian_Text": "",
         "Chinese_Text": "无法搜索Exchange项目。"
+    },
+    "9001176": {
+        "Dev_Desc": "마을 탐지 실패 에러 메시지",
+        "Original_Text": "거리가 멀어 이동할 수 없습니다.",
+        "English_Text": "The distance can not be moved away.",
+        "Russian_Text": "",
+        "Chinese_Text": "距离不能移开。"
+    },
+    "9001177": {
+        "Dev_Desc": "ENV 조작 불가 상태 메시지",
+        "Original_Text": "조작이 불가능한 상황입니다.",
+        "English_Text": "It is not possible to operate.",
+        "Russian_Text": "",
+        "Chinese_Text": "不可能运作。"
+    },
+    "9001178": {
+        "Dev_Desc": "던전 / 이전 층 클리어 안 한 상태로 다음 층 진입 시도",
+        "Original_Text": "<arg p=[1:string]/> <arg p=[2:string]/> 달성 후 입장할 수 있습니다.",
+        "English_Text": "<arg p=[1:string]/><arg p=[2:string]/>You can enter after achievement.",
+        "Russian_Text": "",
+        "Chinese_Text": "<arg p=[1:string]/><arg p=[2:string]/>您可以在成就后输入。"
+    },
+    "9001179": {
+        "Dev_Desc": "던전 / 레벨 부족",
+        "Original_Text": "<arg p=[1:string]/>레벨부터 입장할 수 있습니다.",
+        "English_Text": "<arg p=[1:string]/>can be entered from level.",
+        "Russian_Text": "",
+        "Chinese_Text": "<arg p=[1:string]/>可以从级别输入。"
+    },
+    "9001180": {
+        "Dev_Desc": "던전 / 보상 획득 조건 부족",
+        "Original_Text": "최초 달성 후 보상을 획득할 수 있습니다.",
+        "English_Text": "You can earn compensation after the first achievement.",
+        "Russian_Text": "",
+        "Chinese_Text": "您可以在第一次成就后获得赔偿。"
+    },
+    "9001181": {
+        "Dev_Desc": "별자리 / 각인 성공 메시지 (각인 기능)",
+        "Original_Text": "별자리 각인에 성공하였습니다.",
+        "English_Text": "The constellations have been successful.",
+        "Russian_Text": "",
+        "Chinese_Text": "星座成功了。"
+    },
+    "9001182": {
+        "Dev_Desc": "별자리 / 각인 대성공(랜덤 중 최고 능력치) 메시지 (각인 기능)",
+        "Original_Text": "별자리 각인에 완벽히 성공하였습니다.",
+        "English_Text": "It was fully successful in constellation stamping.",
+        "Russian_Text": "",
+        "Chinese_Text": "它在星座冲压中完全成功。"
+    },
+    "9001183": {
+        "Dev_Desc": "별자리 / 각인 실패 메시지 (각인 기능)",
+        "Original_Text": "별자리 각인에 실패하였습니다.",
+        "English_Text": "The constellation engraving has failed.",
+        "Russian_Text": "",
+        "Chinese_Text": "星座雕刻失败了。"
+    },
+    "9001184": {
+        "Dev_Desc": "별자리 / 재각인 완료 메시지 (재각인 기능)",
+        "Original_Text": "재각인을 통해 새로운 힘을 부여 받았습니다.",
+        "English_Text": "I was given a new power through the re-employment.",
+        "Russian_Text": "",
+        "Chinese_Text": "我通过重新就业获得了新的力量。"
+    },
+    "9001185": {
+        "Dev_Desc": "별자리 / 성공 확률 조정 한계 메시지 (프로그레시브 성장 기능)",
+        "Original_Text": "조정 가능한 최소 또는 최대값입니다.",
+        "English_Text": "Adjustable minimum or maximum value.",
+        "Russian_Text": "",
+        "Chinese_Text": "可调节的最小值或最大值。"
+    },
+    "9001186": {
+        "Dev_Desc": "별자리 / 재료 부족 상태에서 각인 진행 버튼을 누른 경우",
+        "Original_Text": "재료가 충분하지 않습니다.",
+        "English_Text": "The material is not sufficient.",
+        "Russian_Text": "",
+        "Chinese_Text": "材料不足。"
+    },
+    "9001187": {
+        "Dev_Desc": "별자리 / 이전 단계 각인이 완료되지 않은 점을 선택하여 각인 시도",
+        "Original_Text": "아직 각인할 수 없는 별입니다.",
+        "English_Text": "It is a star that can not be engraved yet.",
+        "Russian_Text": "",
+        "Chinese_Text": "这是一个不能刻的明星。"
+    },
+    "9001188": {
+        "Dev_Desc": "별자리 / 구간을 이루는 점을 모두 각인하였을 때 표시되는 메시지",
+        "Original_Text": "<arg p=[1:string]/을 모두 각인하여 <arg p=[1:string]/의 가호를 받습니다.",
+        "English_Text": "<arg p=[1:string]/>listens to all <arg p=[1:string]/>end.",
+        "Russian_Text": "",
+        "Chinese_Text": "<arg p=[1:string]/>侦听所有<arg p=[1:string]/>结束。"
+    },
+    "9001189": {
+        "Dev_Desc": "별자리 / 각인점에서 얻을 수 있는 최고 능력치를 획득한 상태에서 딤드된 재각인 버튼을 눌렀을 경우 표시되는 메시지",
+        "Original_Text": "더 이상 각인할 수 없습니다.",
+        "English_Text": "I can not stand anymore.",
+        "Russian_Text": "",
+        "Chinese_Text": "我不能再忍受了。"
+    },
+    "9001190": {
+        "Dev_Desc": "거래소 / 월드 거래소 / 등록 수수료 부족",
+        "Original_Text": "<arg p=[1:string]/><ga/> 부족하여 등록할 수 없습니다.",
+        "English_Text": "<arg p=[1:string]/><GA /> You can not register in lacking.",
+        "Russian_Text": "",
+        "Chinese_Text": "<arg p=[1:string]/><ga />您无法注册缺少。"
+    },
+    "9001191": {
+        "Dev_Desc": "거래소 / 월드 거래소 / 일괄 회수 실패 / 다른 서버 물품",
+        "Original_Text": "현재 서버에서 판매 실패한 물품이 없어 회수할 수 없습니다.",
+        "English_Text": "You can not recover with no sales failed items on the server.",
+        "Russian_Text": "",
+        "Chinese_Text": "您无法在服务器上没有任何销售失败的项目恢复。"
+    },
+    "9001192": {
+        "Dev_Desc": "거래소 / 월드 거래소 / 정산 실패 / 다른 서버 물품",
+        "Original_Text": "현재 서버에서 판매된 물품이 없어 정산할 수 없습니다.",
+        "English_Text": "There is no item sold on the current server, so you can not settle.",
+        "Russian_Text": "",
+        "Chinese_Text": "当前服务器上没有销售的物品，所以你不能解决。"
     }
 }

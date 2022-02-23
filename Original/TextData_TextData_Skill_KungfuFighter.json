@@ -986,6 +986,13 @@
         "alias": "Contents.Skill.useEffectDesc.LightGauntlet.2120",
         "text": "근거리 공격력 +2, 생명력 회복"
     },
+    "60020210": {
+        "deprecated": false,
+        "Dev_Desc": "개혈_증폭/극한_효과",
+        "id": 60020210,
+        "alias": "Contents.Skill.useEffectDesc.LightGauntlet.2121",
+        "text": "근거리 공격력 +2, 근거리 명중 +1, 생명력 회복"
+    },
     "60020146": {
         "deprecated": false,
         "Dev_Desc": "개혈_증폭_이름",
@@ -1002,17 +1009,17 @@
     },
     "60020148": {
         "deprecated": false,
-        "Dev_Desc": "개혈_증폭,극한_설명",
+        "Dev_Desc": "개혈_증폭_설명",
         "id": 60020148,
         "alias": "Contents.Skill.Desc.LightGauntlet.2122",
-        "text": "근거리 공격력이 영구적으로 증가합니다.\n혈도를 개방시켜 8초간 대상에게 공격 적중 시 일정 확률로 생명력을 회복합니다."
+        "text": "근거리 공격력, 근거리 명중이 영구적으로 증가합니다.\n혈도를 개방시켜 6초간 대상에게 공격 적중 시 일정 확률로 생명력을 회복합니다."
     },
     "60020149": {
         "deprecated": false,
         "Dev_Desc": "개혈_극한_설명",
         "id": 60020149,
         "alias": "Contents.Skill.Desc.LightGauntlet.2122",
-        "text": "근거리 공격력이 영구적으로 증가합니다.\n혈도를 개방시켜 8초간 대상에게 공격 적중 시 일정 확률로 생명력을 회복합니다."
+        "text": "근거리 공격력, 근거리 명중이 영구적으로 증가합니다.\n혈도를 개방시켜 6초간 대상에게 공격 적중 시 일정 확률로 생명력을 회복합니다."
     },
     "60020150": {
         "deprecated": false,
@@ -1026,35 +1033,35 @@
         "Dev_Desc": "개혈_돌파_효과",
         "id": 60020151,
         "alias": "Contents.Skill.useEffectDesc.LightGauntlet.2123",
-        "text": "근거리 공격력 +2, 생명력 회복"
+        "text": "근거리 공격력 +2, 근거리 명중 +1, 생명력 회복"
     },
     "60020152": {
         "deprecated": false,
         "Dev_Desc": "개혈_돌파_설명",
         "id": 60020152,
         "alias": "Contents.Skill.Desc.LightGauntlet.2123",
-        "text": "근거리 공격력이 영구적으로 증가합니다.\n혈도를 개방시켜 8초간 대상에게 공격 적중 시 일정 확률로 생명력을 회복합니다."
+        "text": "근거리 공격력, 근거리 명중이 영구적으로 증가합니다.\n혈도를 개방시켜 8초간 대상에게 공격 적중 시 일정 확률로 생명력을 회복합니다."
     },
     "60020153": {
         "deprecated": false,
         "Dev_Desc": "개혈_증폭_성장설명",
         "id": 60020153,
         "alias": "Contents.Skill.acquireEffectDesc.2121",
-        "text": "지속 시간 +2초"
+        "text": "생명력 회복 확률 증가\n근거리 명중 영구 증가"
     },
     "60020154": {
         "deprecated": false,
         "Dev_Desc": "개혈_극한_성장설명",
         "id": 60020154,
         "alias": "Contents.Skill.acquireEffectDesc.2122",
-        "text": "2초간 모든 이동 속도 감소 효과 해제 및 면역"
+        "text": "무공 공격력 증폭 +12%\n이동 속도 감소 효과 해제 및 면역"
     },
     "60020155": {
         "deprecated": false,
         "Dev_Desc": "개혈_돌파_성장설명",
         "id": 60020155,
         "alias": "Contents.Skill.acquireEffectDesc.2123",
-        "text": "8초간 모든 이동 속도 감소 효과 해제 및 면역\n\"개혈\" 중 통제 저항률 +15%"
+        "text": "통제 저항률 +15%\n이동 속도 감소 효과 해제 및 면역"
     },
     "60020156": {
         "deprecated": false,
@@ -1145,70 +1152,70 @@
         "Dev_Desc": "개혈_극한_경직/통제/도발/빙결 저항률증가_효과",
         "id": 60020168,
         "alias": "Contents.Effect.Option.LightGauntlet.212210",
-        "text": "공격 적중 시 생명력 회복\n2초간 모든 이동 속도 감소 효과 면역"
+        "text": "공격 적중 시 생명력 회복\n모든 이동 속도 감소 효과 면역\n6초간 무공 공격력 증폭 +12%"
     },
     "60020169": {
         "deprecated": false,
         "Dev_Desc": "개혈_극한_경직/통제/도발/빙결 저항률증가_효과",
         "id": 60020169,
         "alias": "Contents.Effect.Option.LightGauntlet.212211",
-        "text": "공격 적중 시 생명력 회복\n2초간 모든 이동 속도 감소 효과 면역"
+        "text": "공격 적중 시 생명력 회복\n모든 이동 속도 감소 효과 면역\n6초간 무공 공격력 증폭 +12%"
     },
     "60020170": {
         "deprecated": false,
         "Dev_Desc": "개혈_극한_경직/통제/도발/빙결 저항률증가_효과",
         "id": 60020170,
         "alias": "Contents.Effect.Option.LightGauntlet.212212",
-        "text": "공격 적중 시 생명력 회복\n2초간 모든 이동 속도 감소 효과 면역"
+        "text": "공격 적중 시 생명력 회복\n모든 이동 속도 감소 효과 면역\n6초간 무공 공격력 증폭 +12%"
     },
     "60020171": {
         "deprecated": false,
         "Dev_Desc": "개혈_극한_경직/통제/도발/빙결 저항률증가_효과",
         "id": 60020171,
         "alias": "Contents.Effect.Option.LightGauntlet.212213",
-        "text": "공격 적중 시 생명력 회복\n2초간 모든 이동 속도 감소 효과 면역"
+        "text": "공격 적중 시 생명력 회복\n모든 이동 속도 감소 효과 면역\n6초간 무공 공격력 증폭 +12%"
     },
     "60020172": {
         "deprecated": false,
         "Dev_Desc": "개혈_극한_경직/통제/도발/빙결 저항률증가_효과",
         "id": 60020172,
         "alias": "Contents.Effect.Option.LightGauntlet.212214",
-        "text": "공격 적중 시 생명력 회복\n2초간 모든 이동 속도 감소 효과 면역"
+        "text": "공격 적중 시 생명력 회복\n모든 이동 속도 감소 효과 면역\n6초간 무공 공격력 증폭 +12%"
     },
     "60020173": {
         "deprecated": false,
         "Dev_Desc": "개혈_극한_경직/통제/도발/빙결 저항률증가_효과",
         "id": 60020173,
         "alias": "Contents.Effect.Option.LightGauntlet.212215",
-        "text": "공격 적중 시 생명력 회복\n2초간 모든 이동 속도 감소 효과 면역"
+        "text": "공격 적중 시 생명력 회복\n모든 이동 속도 감소 효과 면역\n6초간 무공 공격력 증폭 +12%"
     },
     "60020174": {
         "deprecated": false,
         "Dev_Desc": "개혈_극한_경직/통제/도발/빙결 저항률증가_효과",
         "id": 60020174,
         "alias": "Contents.Effect.Option.LightGauntlet.212216",
-        "text": "공격 적중 시 생명력 회복\n2초간 모든 이동 속도 감소 효과 면역"
+        "text": "공격 적중 시 생명력 회복\n모든 이동 속도 감소 효과 면역\n6초간 무공 공격력 증폭 +12%"
     },
     "60020175": {
         "deprecated": false,
         "Dev_Desc": "개혈_극한_경직/통제/도발/빙결 저항률증가_효과",
         "id": 60020175,
         "alias": "Contents.Effect.Option.LightGauntlet.212217",
-        "text": "공격 적중 시 생명력 회복\n2초간 모든 이동 속도 감소 효과 면역"
+        "text": "공격 적중 시 생명력 회복\n모든 이동 속도 감소 효과 면역\n6초간 무공 공격력 증폭 +12%"
     },
     "60020176": {
         "deprecated": false,
         "Dev_Desc": "개혈_극한_경직/통제/도발/빙결 저항률증가_효과",
         "id": 60020176,
         "alias": "Contents.Effect.Option.LightGauntlet.212218",
-        "text": "공격 적중 시 생명력 회복\n2초간 모든 이동 속도 감소 효과 면역"
+        "text": "공격 적중 시 생명력 회복\n모든 이동 속도 감소 효과 면역\n6초간 무공 공격력 증폭 +12%"
     },
     "60020177": {
         "deprecated": false,
         "Dev_Desc": "개혈_극한_경직/통제/도발/빙결 저항률증가_효과",
         "id": 60020177,
         "alias": "Contents.Effect.Option.LightGauntlet.212219",
-        "text": "공격 적중 시 생명력 회복\n2초간 모든 이동 속도 감소 효과 면역"
+        "text": "공격 적중 시 생명력 회복\n모든 이동 속도 감소 효과 면역\n6초간 무공 공격력 증폭 +12%"
     },
     "60020178": {
         "deprecated": false,
@@ -1363,6 +1370,27 @@
         "id": 60020199,
         "alias": "Contents.Skill.requirementDesc.LightGauntlet.2201",
         "text": "소울 패링 기절 대상"
+    },
+    "60020206": {
+        "deprecated": false,
+        "Dev_Desc": "연권_증폭_성장설명",
+        "id": 60020206,
+        "alias": "Contents.Skill.acquireEffectDesc.2124",
+        "text": "내력 소모량 -4"
+    },
+    "60020207": {
+        "deprecated": false,
+        "Dev_Desc": "연권_극한_성장설명",
+        "id": 60020207,
+        "alias": "Contents.Skill.acquireEffectDesc.2125",
+        "text": "피해량 증가"
+    },
+    "60020208": {
+        "deprecated": false,
+        "Dev_Desc": "연권_돌파_성장설명",
+        "id": 60020208,
+        "alias": "Contents.Skill.acquireEffectDesc.2126",
+        "text": "일정 확률로 내력 33 회복"
     },
     "60020200": {
         "deprecated": false,

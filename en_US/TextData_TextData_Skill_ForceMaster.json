@@ -360,7 +360,7 @@
         "deprecated": false,
         "Dev_Desc": "기공패 효과 표시 가열_기본공속",
         "id": 60030054,
-        "alias": "Contents.Skill.useEffectDesc.FireBangle.3441",
+        "alias": "Contents.Skill.useEffectDesc.FireBangle.3442",
         "text": "Heater"
     },
     "60030055": {
@@ -372,7 +372,7 @@
     },
     "60030056": {
         "deprecated": false,
-        "Dev_Desc": "기공패 버프 발화Lv1_이름",
+        "Dev_Desc": "기공패 버프 발화_이름",
         "id": 60030056,
         "alias": "Contents.Effect.Name.FireBangle.300012",
         "text": "Ignition"
@@ -1085,72 +1085,72 @@
     },
     "60030162": {
         "deprecated": false,
-        "Dev_Desc": "화륜 가열_평타+무공공속+소울 증가_세부",
+        "Dev_Desc": "화륜 가열_평타+무공공속+공격력_세부",
         "id": 60030162,
-        "alias": "Contents.Effect.Option.FireBangle.344411",
+        "alias": "Contents.Effect.Option.FireBangle.344311",
         "text": "Base attack speed +50%\nNon-attack speed +30%\nSoul activation rate +5%"
     },
     "60030163": {
         "deprecated": false,
-        "Dev_Desc": "화륜 가열_평타+무공공속+소울 증가_세부",
+        "Dev_Desc": "화륜 가열_평타+무공공속+공격력_세부",
         "id": 60030163,
-        "alias": "Contents.Effect.Option.FireBangle.344412",
+        "alias": "Contents.Effect.Option.FireBangle.344312",
         "text": "Base attack speed +52%\nNo attack speed +30%\nSoul activation rate +5%"
     },
     "60030164": {
         "deprecated": false,
-        "Dev_Desc": "화륜 가열_평타+무공공속+소울 증가_세부",
+        "Dev_Desc": "화륜 가열_평타+무공공속+공격력_세부",
         "id": 60030164,
-        "alias": "Contents.Effect.Option.FireBangle.344413",
+        "alias": "Contents.Effect.Option.FireBangle.344313",
         "text": "Base attack speed +54%\nNon-attack speed +30%\nSoul activation rate +5%"
     },
     "60030165": {
         "deprecated": false,
-        "Dev_Desc": "화륜 가열_평타+무공공속+소울 증가_세부",
+        "Dev_Desc": "화륜 가열_평타+무공공속+공격력_세부",
         "id": 60030165,
-        "alias": "Contents.Effect.Option.FireBangle.344414",
+        "alias": "Contents.Effect.Option.FireBangle.344314",
         "text": "Base attack speed +56%\nNo attack speed +30%\nSoul activation rate +5%"
     },
     "60030166": {
         "deprecated": false,
-        "Dev_Desc": "화륜 가열_평타+무공공속+소울 증가_세부",
+        "Dev_Desc": "화륜 가열_평타+무공공속+공격력_세부",
         "id": 60030166,
-        "alias": "Contents.Effect.Option.FireBangle.344415",
+        "alias": "Contents.Effect.Option.FireBangle.344315",
         "text": "Base attack speed +58%\nNon-attack speed +30%\nSoul activation rate +5%"
     },
     "60030167": {
         "deprecated": false,
-        "Dev_Desc": "화륜 가열_평타+무공공속+소울 증가_세부",
+        "Dev_Desc": "화륜 가열_평타+무공공속+공격력_세부",
         "id": 60030167,
-        "alias": "Contents.Effect.Option.FireBangle.344416",
+        "alias": "Contents.Effect.Option.FireBangle.344316",
         "text": "Base attack speed +60%\nNon-attack speed +30%\nSoul activation rate +5%"
     },
     "60030168": {
         "deprecated": false,
-        "Dev_Desc": "화륜 가열_평타+무공공속+소울 증가_세부",
+        "Dev_Desc": "화륜 가열_평타+무공공속+공격력_세부",
         "id": 60030168,
-        "alias": "Contents.Effect.Option.FireBangle.344417",
+        "alias": "Contents.Effect.Option.FireBangle.344317",
         "text": "Base attack speed +62%\nNon-attack speed +30%\nSoul activation rate +5%"
     },
     "60030169": {
         "deprecated": false,
-        "Dev_Desc": "화륜 가열_평타+무공공속+소울 증가_세부",
+        "Dev_Desc": "화륜 가열_평타+무공공속+공격력_세부",
         "id": 60030169,
-        "alias": "Contents.Effect.Option.FireBangle.344418",
+        "alias": "Contents.Effect.Option.FireBangle.344318",
         "text": "Base attack speed +64%\nNo attack speed +30%\nSoul activation rate +5%"
     },
     "60030170": {
         "deprecated": false,
-        "Dev_Desc": "화륜 가열_평타+무공공속+소울 증가_세부",
+        "Dev_Desc": "화륜 가열_평타+무공공속+공격력_세부",
         "id": 60030170,
-        "alias": "Contents.Effect.Option.FireBangle.344419",
+        "alias": "Contents.Effect.Option.FireBangle.344319",
         "text": "Base attack speed +66%\nNo attack speed +30%\nSoul activation rate +5%"
     },
     "60030171": {
         "deprecated": false,
-        "Dev_Desc": "화륜 가열_평타+무공공속+소울 증가_세부",
+        "Dev_Desc": "화륜 가열_평타+무공공속+공격력_세부",
         "id": 60030171,
-        "alias": "Contents.Effect.Option.FireBangle.344420",
+        "alias": "Contents.Effect.Option.FireBangle.344320",
         "text": "Base attack speed +68%\nNo attack speed +30%\nSoul activation rate +5%"
     },
     "60030172": {
@@ -1257,5 +1257,89 @@
         "id": 60030186,
         "alias": "Contents.Skill.useEffectDesc.FireBangle.3041",
         "text": "Boss Attack 4"
+    },
+    "60030187": {
+        "deprecated": false,
+        "Dev_Desc": "화륜 가열_평타+무공공속+소울 증가_세부",
+        "id": 60030187,
+        "alias": "Contents.Effect.Option.FireBangle.344411",
+        "text": "Armor 3% of untreated attacks. 50% \\n No. 50%."
+    },
+    "60030188": {
+        "deprecated": false,
+        "Dev_Desc": "화륜 가열_평타+무공공속+소울 증가_세부",
+        "id": 60030188,
+        "alias": "Contents.Effect.Option.FireBangle.344412",
+        "text": "MOUSHITT AND POLUE 3% \\n Basic Attack Speed ​​52% \\n Unbalanced Speed ​​10% \\n Damage 25"
+    },
+    "60030189": {
+        "deprecated": false,
+        "Dev_Desc": "화륜 가열_평타+무공공속+소울 증가_세부",
+        "id": 60030189,
+        "alias": "Contents.Effect.Option.FireBangle.344413",
+        "text": "Armor 3% of untreated attacks \\n 54% of basic attack speed 54% \\n No work rate 10% \\n Damage 25"
+    },
+    "60030190": {
+        "deprecated": false,
+        "Dev_Desc": "화륜 가열_평타+무공공속+소울 증가_세부",
+        "id": 60030190,
+        "alias": "Contents.Effect.Option.FireBangle.344414",
+        "text": "Armor 3% of unbalanced attacks. 56% of basic attack speeds."
+    },
+    "60030191": {
+        "deprecated": false,
+        "Dev_Desc": "화륜 가열_평타+무공공속+소울 증가_세부",
+        "id": 60030191,
+        "alias": "Contents.Effect.Option.FireBangle.344415",
+        "text": "Armor 3% of untreated attacks."
+    },
+    "60030192": {
+        "deprecated": false,
+        "Dev_Desc": "화륜 가열_평타+무공공속+소울 증가_세부",
+        "id": 60030192,
+        "alias": "Contents.Effect.Option.FireBangle.344416",
+        "text": "Armor of untreated attacks 3% \\n Basic attack speed 60% \\n No work rate 10% \\n Damage 25"
+    },
+    "60030193": {
+        "deprecated": false,
+        "Dev_Desc": "화륜 가열_평타+무공공속+소울 증가_세부",
+        "id": 60030193,
+        "alias": "Contents.Effect.Option.FireBangle.344417",
+        "text": "Armor 3% of unbalanced attacks 62% \\n No. 62% \\n No harmful attack speed 10% \\n Damage 25"
+    },
+    "60030194": {
+        "deprecated": false,
+        "Dev_Desc": "화륜 가열_평타+무공공속+소울 증가_세부",
+        "id": 60030194,
+        "alias": "Contents.Effect.Option.FireBangle.344418",
+        "text": "MOUSHOT Public Attack Area 3% \\n Basic Attack Speed ​​64% \\n Maissed Attack Speed ​​10% \\n Damage 25"
+    },
+    "60030195": {
+        "deprecated": false,
+        "Dev_Desc": "화륜 가열_평타+무공공속+소울 증가_세부",
+        "id": 60030195,
+        "alias": "Contents.Effect.Option.FireBangle.344419",
+        "text": "Armor 3% of the untreated attack rate 66% \\n No. 66% \\n No work rate 10% \\n Damage 25"
+    },
+    "60030196": {
+        "deprecated": false,
+        "Dev_Desc": "화륜 가열_평타+무공공속+소울 증가_세부",
+        "id": 60030196,
+        "alias": "Contents.Effect.Option.FireBangle.344420",
+        "text": "Armor 3% of untreated attacks."
+    },
+    "60030197": {
+        "deprecated": false,
+        "Dev_Desc": "기공패 버프 강화 발화_이름",
+        "id": 60030197,
+        "alias": "Contents.Effect.Name.FireBangle.300013",
+        "text": "Strengthening"
+    },
+    "60030198": {
+        "deprecated": false,
+        "Dev_Desc": "기공패 버프 발화_세부",
+        "id": 60030198,
+        "alias": "Contents.Effect.Detail.FireBangle.300013",
+        "text": "Oil, not consumed when using non-worms"
     }
 }

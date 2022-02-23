@@ -27663,5 +27663,285 @@
         "id": 8004034,
         "alias": "UI.Craft.LeftSubTabName.Limited.SpecialCraft_03",
         "text": "3个停车场特殊生产"
+    },
+    "8004035": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전",
+        "id": 8004035,
+        "alias": "UI.PartyDungeon.Text.Enter.LevelReject",
+        "text": "<arg p=[1:integer]/>可以从级别输入。"
+    },
+    "8004036": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전",
+        "id": 8004036,
+        "alias": "UI.PartyDungeon.Text.Enter.QuestReject",
+        "text": "[<arg p=[1:string]/>]您可以在成就后输入。"
+    },
+    "8004037": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전",
+        "id": 8004037,
+        "alias": "UI.PartyDungeon.Text.Enter.DungeonReject",
+        "text": "<arg p=[1:string]/><arg p=[2:integer]/>您可以在成就后输入。"
+    },
+    "8004038": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전",
+        "id": 8004038,
+        "alias": "UI.PartyDungeon.Text.Enter.SpecReject",
+        "text": "您可以在实现您的能力后输入。"
+    },
+    "8004039": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전",
+        "id": 8004039,
+        "alias": "UI.PartyDungeon.Text.Enter.PartyMemberReject",
+        "text": "有一个党员无法达到进入条件。"
+    },
+    "8004040": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전",
+        "id": 8004040,
+        "alias": "UI.PartyDungeon.Text.Enter.MatchingReject",
+        "text": "有一个已经匹配的地牢。请在匹配后再试一次。"
+    },
+    "8004041": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전",
+        "id": 8004041,
+        "alias": "UI.PartyDungeon.Text.Enter.AuthorityReject",
+        "text": "Patermis无法申请职位。"
+    },
+    "8004042": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전",
+        "id": 8004042,
+        "alias": "UI.PartyDungeon.Text.Match.Started",
+        "text": "<arg p=[1:string]/><arg p=[2:integer]/>启动图层匹配。"
+    },
+    "8004043": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전",
+        "id": 8004043,
+        "alias": "UI.PartyDungeon.Text.Match.Cancled",
+        "text": "<arg p=[1:string]/><arg p=[2:integer]/>图层匹配已被取消。"
+    },
+    "8004044": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전",
+        "id": 8004044,
+        "alias": "UI.PartyDungeon.Text.Match.CanNotCancle",
+        "text": "Patermis无法取消匹配。"
+    },
+    "8004045": {
+        "deprecated": false,
+        "Dev_Desc": "인스턴트 팝업 / 파티던전",
+        "id": 8004045,
+        "alias": "UI.PartyDungeon.Text.Accept.PlayerReject",
+        "text": "<arg p=[1:string]/><arg p=[2:integer]/>精制楼层位置。"
+    },
+    "8004046": {
+        "deprecated": false,
+        "Dev_Desc": "인스턴트 팝업 / 파티던전",
+        "id": 8004046,
+        "alias": "UI.PartyDungeon.Text.Accept.PartyMemberReject",
+        "text": "<arg p=[1:string]/>这拒绝了位置。"
+    },
+    "8004047": {
+        "deprecated": false,
+        "Dev_Desc": "인스턴트 팝업 / 파티던전",
+        "id": 8004047,
+        "alias": "UI.PartyDungeon.Text.MatchingAccept.PlayerReject",
+        "text": "<arg p=[1:string]/><arg p=[2:integer]/>拒绝分层取消队列。"
+    },
+    "8004048": {
+        "deprecated": false,
+        "Dev_Desc": "인스턴트 팝업 / 파티던전",
+        "id": 8004048,
+        "alias": "UI.PartyDungeon.Text.MatchingAccept.PartyMemberReject",
+        "text": "<arg p=[1:string]/>这拒绝与队列匹配计数器。"
+    },
+    "8004049": {
+        "deprecated": false,
+        "Dev_Desc": "인스턴트 팝업 / 파티던전",
+        "id": 8004049,
+        "alias": "UI.PartyDungeon.Text.MatchingAccept.AnotherReject",
+        "text": "<arg p=[1:string]/>这个/>拒绝匹配。返回队列优先级。"
+    },
+    "8004050": {
+        "deprecated": false,
+        "Dev_Desc": "파티 / 파티던전",
+        "id": 8004050,
+        "alias": "UI.PartyDungeon.Text.PartyInvite.Matching",
+        "text": "地牢匹配不能邀请聚会会员。"
+    },
+    "8004051": {
+        "deprecated": false,
+        "Dev_Desc": "파티 / 파티던전",
+        "id": 8004051,
+        "alias": "UI.PartyDungeon.Text.PartyInvite.Entering",
+        "text": "派对地牢在诉讼期间无法邀请党员。"
+    },
+    "8004052": {
+        "deprecated": false,
+        "Dev_Desc": "파티 / 파티던전",
+        "id": 8004052,
+        "alias": "UI.PartyDungeon.Text.PartyInvite.WrongPlace",
+        "text": "它是当前位置不可用的函数。"
+    },
+    "8004053": {
+        "deprecated": false,
+        "Dev_Desc": "파티 / 파티던전",
+        "id": 8004053,
+        "alias": "UI.PartyDungeon.Text.PartyQuit.Matching",
+        "text": "地牢匹配不能在派对上留下。"
+    },
+    "8004054": {
+        "deprecated": false,
+        "Dev_Desc": "파티 / 파티던전",
+        "id": 8004054,
+        "alias": "UI.PartyDungeon.Text.PartyQuit.Entering",
+        "text": "您不能在派对地下职位留下派对。"
+    },
+    "8004055": {
+        "deprecated": false,
+        "Dev_Desc": "파티 / 파티던전",
+        "id": 8004055,
+        "alias": "UI.PartyDungeon.Text.PartyQuit.WrongPlace",
+        "text": "它是当前位置不可用的函数。"
+    },
+    "8004056": {
+        "deprecated": false,
+        "Dev_Desc": "파티 / 파티던전",
+        "id": 8004056,
+        "alias": "UI.PartyDungeon.Text.PartyBan.Matching",
+        "text": "Dungeon匹配不能被驱逐在派对会员上。"
+    },
+    "8004057": {
+        "deprecated": false,
+        "Dev_Desc": "파티 / 파티던전",
+        "id": 8004057,
+        "alias": "UI.PartyDungeon.Text.PartyBan.Entering",
+        "text": "派对地牢在继续期间无法驱逐党员。"
+    },
+    "8004058": {
+        "deprecated": false,
+        "Dev_Desc": "파티 / 파티던전",
+        "id": 8004058,
+        "alias": "UI.PartyDungeon.Text.PartyBan.WrongPlace",
+        "text": "它是当前位置不可用的函数。"
+    },
+    "8004059": {
+        "deprecated": false,
+        "Dev_Desc": "파티 / 파티던전",
+        "id": 8004059,
+        "alias": "UI.PartyDungeon.Text.Succession.Matching",
+        "text": "在地牢匹配期间，您无法委派派对。"
+    },
+    "8004060": {
+        "deprecated": false,
+        "Dev_Desc": "파티 / 파티던전",
+        "id": 8004060,
+        "alias": "UI.PartyDungeon.Text.Succession.Entering",
+        "text": "您不能在派对地牢期间委派派对地下城。"
+    },
+    "8004061": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전",
+        "id": 8004061,
+        "alias": "UI.PartyDungeon.Text.WrongPlace",
+        "text": "它是当前位置不可用的函数。"
+    },
+    "8004062": {
+        "deprecated": false,
+        "Dev_Desc": "거래소 / 분류 / 방어구 / 수호패",
+        "id": 8004062,
+        "alias": "UI.Trade.Category.Armor.Sachet",
+        "text": "多雾路段"
+    },
+    "8004063": {
+        "deprecated": false,
+        "Dev_Desc": "거래소 / 빠른 구매 / 안내 문구",
+        "id": 8004063,
+        "alias": "UI.Trade.QuickPurchase.Desc",
+        "text": "只能购买在服务器交换机中注册的文章。"
+    },
+    "8004064": {
+        "deprecated": false,
+        "Dev_Desc": "로그인 UI / 연령 팝업 / 타이틀",
+        "id": 8004064,
+        "alias": "UI.Login.AgePopup.Title",
+        "text": "介绍介绍"
+    },
+    "8004065": {
+        "deprecated": false,
+        "Dev_Desc": "로그인 UI / 연령 팝업 / 내용 제목",
+        "id": 8004065,
+        "alias": "UI.Login.AgePopup.Name",
+        "text": "没有你没有标题"
+    },
+    "8004066": {
+        "deprecated": false,
+        "Dev_Desc": "로그인 UI / 연령 팝업 / 내용 제목",
+        "id": 8004066,
+        "alias": "UI.Login.AgePopup.Desc",
+        "text": "1）这场比赛适用于可以在线玩复杂游戏的大型多访问在线R​​PG游戏，建议一个未成年人，以便16岁或以上。游戏刀片"
+    },
+    "8004067": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전",
+        "id": 8004067,
+        "alias": "UI.PartyDungeon.Text.CanNotEnter.NoParty",
+        "text": "您可以立即在派对状态进入。"
+    },
+    "8004068": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전",
+        "id": 8004068,
+        "alias": "UI.PartyDungeon.Text.RewardCountOk",
+        "text": "赔偿"
+    },
+    "8004069": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전",
+        "id": 8004069,
+        "alias": "UI.PartyDungeon.Text.RewardCountlack2",
+        "text": "赔偿收购届满"
+    },
+    "8004070": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전",
+        "id": 8004070,
+        "alias": "UI.PartyDungeon.Text.WaitingForResponse",
+        "text": "我正在等待对另一名球员的回应。"
+    },
+    "8004071": {
+        "deprecated": false,
+        "Dev_Desc": "로그인 / 서버 접속 실패 / 실명 아닐 때 / 타이틀",
+        "id": 8004071,
+        "alias": "UI.Login.ServerConnectionError.NoRealName.Title",
+        "text": "错误"
+    },
+    "8004072": {
+        "deprecated": false,
+        "Dev_Desc": "로그인 / 서버 접속 실패 / 실명 아닐 때 / 설명",
+        "id": 8004072,
+        "alias": "UI.Login.ServerConnectionError.NoRealName.Desc",
+        "text": "您的帐户无法使用真实姓名认证登录。首先，请在身份验证的真名后重试。"
+    },
+    "8004073": {
+        "deprecated": false,
+        "Dev_Desc": "이벤트 제작 레시피 탭 / 붉은 약탈자의 귀혼",
+        "id": 8004073,
+        "alias": "UI.Craft.LeftSubTabName.Event.RedBandit_01",
+        "text": "红军"
+    },
+    "8004074": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 파티던전",
+        "id": 8004074,
+        "alias": "UI.PartyDungeon.Text.ErrorInvitePartyFail_InPartyDungeon",
+        "text": "无法邀请地下城内的目的地。"
     }
 }

@@ -986,6 +986,13 @@
         "alias": "Contents.Skill.useEffectDesc.LightGauntlet.2120",
         "text": "Blood opening_amplification"
     },
+    "60020210": {
+        "deprecated": false,
+        "Dev_Desc": "개혈_증폭/극한_효과",
+        "id": 60020210,
+        "alias": "Contents.Skill.useEffectDesc.LightGauntlet.2121",
+        "text": "근거리 공격력 +2, 근거리 명중 +1, 생명력 회복"
+    },
     "60020146": {
         "deprecated": false,
         "Dev_Desc": "개혈_증폭_이름",
@@ -1002,7 +1009,7 @@
     },
     "60020148": {
         "deprecated": false,
-        "Dev_Desc": "개혈_증폭,극한_설명",
+        "Dev_Desc": "개혈_증폭_설명",
         "id": 60020148,
         "alias": "Contents.Skill.Desc.LightGauntlet.2122",
         "text": "Freeze Removal and Stiffness, Control, Taunt, and Freeze Resistance +50%"
@@ -1363,6 +1370,27 @@
         "id": 60020199,
         "alias": "Contents.Skill.requirementDesc.LightGauntlet.2201",
         "text": "Soul Farring Stun Target"
+    },
+    "60020206": {
+        "deprecated": false,
+        "Dev_Desc": "연권_증폭_성장설명",
+        "id": 60020206,
+        "alias": "Contents.Skill.acquireEffectDesc.2124",
+        "text": "내력 소모량 -4"
+    },
+    "60020207": {
+        "deprecated": false,
+        "Dev_Desc": "연권_극한_성장설명",
+        "id": 60020207,
+        "alias": "Contents.Skill.acquireEffectDesc.2125",
+        "text": "피해량 증가"
+    },
+    "60020208": {
+        "deprecated": false,
+        "Dev_Desc": "연권_돌파_성장설명",
+        "id": 60020208,
+        "alias": "Contents.Skill.acquireEffectDesc.2126",
+        "text": "일정 확률로 내력 33 회복"
     },
     "60020200": {
         "deprecated": false,

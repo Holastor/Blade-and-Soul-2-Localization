@@ -360,7 +360,7 @@
         "deprecated": false,
         "Dev_Desc": "기공패 효과 표시 가열_기본공속",
         "id": 60030054,
-        "alias": "Contents.Skill.useEffectDesc.FireBangle.3441",
+        "alias": "Contents.Skill.useEffectDesc.FireBangle.3442",
         "text": "기본 공격 속도 +50%, 무공 공격 증폭 +3%"
     },
     "60030055": {
@@ -372,7 +372,7 @@
     },
     "60030056": {
         "deprecated": false,
-        "Dev_Desc": "기공패 버프 발화Lv1_이름",
+        "Dev_Desc": "기공패 버프 발화_이름",
         "id": 60030056,
         "alias": "Contents.Effect.Name.FireBangle.300012",
         "text": "발화"
@@ -822,14 +822,14 @@
         "Dev_Desc": "화륜_증폭_성장설명",
         "id": 60030124,
         "alias": "Contents.Skill.acquireEffectDesc.3442",
-        "text": "무공 공격 속도 +30%"
+        "text": "무공 공격 속도 +10%"
     },
     "60030125": {
         "deprecated": false,
         "Dev_Desc": "화륜_극한_성장설명",
         "id": 60030125,
         "alias": "Contents.Skill.acquireEffectDesc.3443",
-        "text": "재사용 대기시간 -20초"
+        "text": "6초간 소모되지 않는 강화된 <textColor=[136:161:235:255]>발화</> 효과 부여\n공격력 +25"
     },
     "60030126": {
         "deprecated": false,
@@ -1018,140 +1018,140 @@
         "Dev_Desc": "화륜 가열_평타+무공공속증가_세부",
         "id": 60030152,
         "alias": "Contents.Effect.Option.FireBangle.344211",
-        "text": "무공 공격 증폭 +3%\n기본 공격 속도 +50%\n무공 공격 속도 +30%"
+        "text": "무공 공격 증폭 +3%\n기본 공격 속도 +50%\n무공 공격 속도 +10%"
     },
     "60030153": {
         "deprecated": false,
         "Dev_Desc": "화륜 가열_평타+무공공속증가_세부",
         "id": 60030153,
         "alias": "Contents.Effect.Option.FireBangle.344212",
-        "text": "무공 공격 증폭 +3%\n기본 공격 속도 +52%\n무공 공격 속도 +30%"
+        "text": "무공 공격 증폭 +3%\n기본 공격 속도 +52%\n무공 공격 속도 +10%"
     },
     "60030154": {
         "deprecated": false,
         "Dev_Desc": "화륜 가열_평타+무공공속증가_세부",
         "id": 60030154,
         "alias": "Contents.Effect.Option.FireBangle.344213",
-        "text": "무공 공격 증폭 +3%\n기본 공격 속도 +54%\n무공 공격 속도 +30%"
+        "text": "무공 공격 증폭 +3%\n기본 공격 속도 +54%\n무공 공격 속도 +10%"
     },
     "60030155": {
         "deprecated": false,
         "Dev_Desc": "화륜 가열_평타+무공공속증가_세부",
         "id": 60030155,
         "alias": "Contents.Effect.Option.FireBangle.344214",
-        "text": "무공 공격 증폭 +3%\n기본 공격 속도 +56%\n무공 공격 속도 +30%"
+        "text": "무공 공격 증폭 +3%\n기본 공격 속도 +56%\n무공 공격 속도 +10%"
     },
     "60030156": {
         "deprecated": false,
         "Dev_Desc": "화륜 가열_평타+무공공속증가_세부",
         "id": 60030156,
         "alias": "Contents.Effect.Option.FireBangle.344215",
-        "text": "무공 공격 증폭 +3%\n기본 공격 속도 +58%\n무공 공격 속도 +30%"
+        "text": "무공 공격 증폭 +3%\n기본 공격 속도 +58%\n무공 공격 속도 +10%"
     },
     "60030157": {
         "deprecated": false,
         "Dev_Desc": "화륜 가열_평타+무공공속증가_세부",
         "id": 60030157,
         "alias": "Contents.Effect.Option.FireBangle.344216",
-        "text": "무공 공격 증폭 +3%\n기본 공격 속도 +60%\n무공 공격 속도 +30%"
+        "text": "무공 공격 증폭 +3%\n기본 공격 속도 +60%\n무공 공격 속도 +10%"
     },
     "60030158": {
         "deprecated": false,
         "Dev_Desc": "화륜 가열_평타+무공공속증가_세부",
         "id": 60030158,
         "alias": "Contents.Effect.Option.FireBangle.344217",
-        "text": "무공 공격 증폭 +3%\n기본 공격 속도 +62%\n무공 공격 속도 +30%"
+        "text": "무공 공격 증폭 +3%\n기본 공격 속도 +62%\n무공 공격 속도 +10%"
     },
     "60030159": {
         "deprecated": false,
         "Dev_Desc": "화륜 가열_평타+무공공속증가_세부",
         "id": 60030159,
         "alias": "Contents.Effect.Option.FireBangle.344218",
-        "text": "무공 공격 증폭 +3%\n기본 공격 속도 +64%\n무공 공격 속도 +30%"
+        "text": "무공 공격 증폭 +3%\n기본 공격 속도 +64%\n무공 공격 속도 +10%"
     },
     "60030160": {
         "deprecated": false,
         "Dev_Desc": "화륜 가열_평타+무공공속증가_세부",
         "id": 60030160,
         "alias": "Contents.Effect.Option.FireBangle.344219",
-        "text": "무공 공격 증폭 +3%\n기본 공격 속도 +66%\n무공 공격 속도 +30%"
+        "text": "무공 공격 증폭 +3%\n기본 공격 속도 +66%\n무공 공격 속도 +10%"
     },
     "60030161": {
         "deprecated": false,
         "Dev_Desc": "화륜 가열_평타+무공공속증가_세부",
         "id": 60030161,
         "alias": "Contents.Effect.Option.FireBangle.344220",
-        "text": "무공 공격 증폭 +3%\n기본 공격 속도 +68%\n무공 공격 속도 +30%"
+        "text": "무공 공격 증폭 +3%\n기본 공격 속도 +68%\n무공 공격 속도 +10%"
     },
     "60030162": {
         "deprecated": false,
-        "Dev_Desc": "화륜 가열_평타+무공공속+소울 증가_세부",
+        "Dev_Desc": "화륜 가열_평타+무공공속+공격력_세부",
         "id": 60030162,
-        "alias": "Contents.Effect.Option.FireBangle.344411",
-        "text": "무공 공격 증폭 +3%\n기본 공격 속도 +50%\n무공 공격 속도 +30%\n소울 발동률 +5%"
+        "alias": "Contents.Effect.Option.FireBangle.344311",
+        "text": "무공 공격 증폭 +3%\n기본 공격 속도 +50%\n무공 공격 속도 +10%\n공격력 +25"
     },
     "60030163": {
         "deprecated": false,
-        "Dev_Desc": "화륜 가열_평타+무공공속+소울 증가_세부",
+        "Dev_Desc": "화륜 가열_평타+무공공속+공격력_세부",
         "id": 60030163,
-        "alias": "Contents.Effect.Option.FireBangle.344412",
-        "text": "무공 공격 증폭 +3%\n기본 공격 속도 +52%\n무공 공격 속도 +30%\n소울 발동률 +5%"
+        "alias": "Contents.Effect.Option.FireBangle.344312",
+        "text": "무공 공격 증폭 +3%\n기본 공격 속도 +52%\n무공 공격 속도 +10%\n공격력 +25"
     },
     "60030164": {
         "deprecated": false,
-        "Dev_Desc": "화륜 가열_평타+무공공속+소울 증가_세부",
+        "Dev_Desc": "화륜 가열_평타+무공공속+공격력_세부",
         "id": 60030164,
-        "alias": "Contents.Effect.Option.FireBangle.344413",
-        "text": "무공 공격 증폭 +3%\n기본 공격 속도 +54%\n무공 공격 속도 +30%\n소울 발동률 +5%"
+        "alias": "Contents.Effect.Option.FireBangle.344313",
+        "text": "무공 공격 증폭 +3%\n기본 공격 속도 +54%\n무공 공격 속도 +10%\n공격력 +25"
     },
     "60030165": {
         "deprecated": false,
-        "Dev_Desc": "화륜 가열_평타+무공공속+소울 증가_세부",
+        "Dev_Desc": "화륜 가열_평타+무공공속+공격력_세부",
         "id": 60030165,
-        "alias": "Contents.Effect.Option.FireBangle.344414",
-        "text": "무공 공격 증폭 +3%\n기본 공격 속도 +56%\n무공 공격 속도 +30%\n소울 발동률 +5%"
+        "alias": "Contents.Effect.Option.FireBangle.344314",
+        "text": "무공 공격 증폭 +3%\n기본 공격 속도 +56%\n무공 공격 속도 +10%\n공격력 +25"
     },
     "60030166": {
         "deprecated": false,
-        "Dev_Desc": "화륜 가열_평타+무공공속+소울 증가_세부",
+        "Dev_Desc": "화륜 가열_평타+무공공속+공격력_세부",
         "id": 60030166,
-        "alias": "Contents.Effect.Option.FireBangle.344415",
-        "text": "무공 공격 증폭 +3%\n기본 공격 속도 +58%\n무공 공격 속도 +30%\n소울 발동률 +5%"
+        "alias": "Contents.Effect.Option.FireBangle.344315",
+        "text": "무공 공격 증폭 +3%\n기본 공격 속도 +58%\n무공 공격 속도 +10%\n공격력 +25"
     },
     "60030167": {
         "deprecated": false,
-        "Dev_Desc": "화륜 가열_평타+무공공속+소울 증가_세부",
+        "Dev_Desc": "화륜 가열_평타+무공공속+공격력_세부",
         "id": 60030167,
-        "alias": "Contents.Effect.Option.FireBangle.344416",
-        "text": "무공 공격 증폭 +3%\n기본 공격 속도 +60%\n무공 공격 속도 +30%\n소울 발동률 +5%"
+        "alias": "Contents.Effect.Option.FireBangle.344316",
+        "text": "무공 공격 증폭 +3%\n기본 공격 속도 +60%\n무공 공격 속도 +10%\n공격력 +25"
     },
     "60030168": {
         "deprecated": false,
-        "Dev_Desc": "화륜 가열_평타+무공공속+소울 증가_세부",
+        "Dev_Desc": "화륜 가열_평타+무공공속+공격력_세부",
         "id": 60030168,
-        "alias": "Contents.Effect.Option.FireBangle.344417",
-        "text": "무공 공격 증폭 +3%\n기본 공격 속도 +62%\n무공 공격 속도 +30%\n소울 발동률 +5%"
+        "alias": "Contents.Effect.Option.FireBangle.344317",
+        "text": "무공 공격 증폭 +3%\n기본 공격 속도 +62%\n무공 공격 속도 +10%\n공격력 +25"
     },
     "60030169": {
         "deprecated": false,
-        "Dev_Desc": "화륜 가열_평타+무공공속+소울 증가_세부",
+        "Dev_Desc": "화륜 가열_평타+무공공속+공격력_세부",
         "id": 60030169,
-        "alias": "Contents.Effect.Option.FireBangle.344418",
-        "text": "무공 공격 증폭 +3%\n기본 공격 속도 +64%\n무공 공격 속도 +30%\n소울 발동률 +5%"
+        "alias": "Contents.Effect.Option.FireBangle.344318",
+        "text": "무공 공격 증폭 +3%\n기본 공격 속도 +64%\n무공 공격 속도 +10%\n공격력 +25"
     },
     "60030170": {
         "deprecated": false,
-        "Dev_Desc": "화륜 가열_평타+무공공속+소울 증가_세부",
+        "Dev_Desc": "화륜 가열_평타+무공공속+공격력_세부",
         "id": 60030170,
-        "alias": "Contents.Effect.Option.FireBangle.344419",
-        "text": "무공 공격 증폭 +3%\n기본 공격 속도 +66%\n무공 공격 속도 +30%\n소울 발동률 +5%"
+        "alias": "Contents.Effect.Option.FireBangle.344319",
+        "text": "무공 공격 증폭 +3%\n기본 공격 속도 +66%\n무공 공격 속도 +10%\n공격력 +25"
     },
     "60030171": {
         "deprecated": false,
-        "Dev_Desc": "화륜 가열_평타+무공공속+소울 증가_세부",
+        "Dev_Desc": "화륜 가열_평타+무공공속+공격력_세부",
         "id": 60030171,
-        "alias": "Contents.Effect.Option.FireBangle.344420",
-        "text": "무공 공격 증폭 +3%\n기본 공격 속도 +68%\n무공 공격 속도 +30%\n소울 발동률 +5%"
+        "alias": "Contents.Effect.Option.FireBangle.344320",
+        "text": "무공 공격 증폭 +3%\n기본 공격 속도 +68%\n무공 공격 속도 +10%\n공격력 +25"
     },
     "60030172": {
         "deprecated": false,
@@ -1257,5 +1257,89 @@
         "id": 60030186,
         "alias": "Contents.Skill.useEffectDesc.FireBangle.3041",
         "text": "보스 공격력 +6"
+    },
+    "60030187": {
+        "deprecated": false,
+        "Dev_Desc": "화륜 가열_평타+무공공속+소울 증가_세부",
+        "id": 60030187,
+        "alias": "Contents.Effect.Option.FireBangle.344411",
+        "text": "무공 공격 증폭 +3%\n기본 공격 속도 +50%\n무공 공격 속도 +10%\n공격력 +25"
+    },
+    "60030188": {
+        "deprecated": false,
+        "Dev_Desc": "화륜 가열_평타+무공공속+소울 증가_세부",
+        "id": 60030188,
+        "alias": "Contents.Effect.Option.FireBangle.344412",
+        "text": "무공 공격 증폭 +3%\n기본 공격 속도 +52%\n무공 공격 속도 +10%\n공격력 +25"
+    },
+    "60030189": {
+        "deprecated": false,
+        "Dev_Desc": "화륜 가열_평타+무공공속+소울 증가_세부",
+        "id": 60030189,
+        "alias": "Contents.Effect.Option.FireBangle.344413",
+        "text": "무공 공격 증폭 +3%\n기본 공격 속도 +54%\n무공 공격 속도 +10%\n공격력 +25"
+    },
+    "60030190": {
+        "deprecated": false,
+        "Dev_Desc": "화륜 가열_평타+무공공속+소울 증가_세부",
+        "id": 60030190,
+        "alias": "Contents.Effect.Option.FireBangle.344414",
+        "text": "무공 공격 증폭 +3%\n기본 공격 속도 +56%\n무공 공격 속도 +10%\n공격력 +25"
+    },
+    "60030191": {
+        "deprecated": false,
+        "Dev_Desc": "화륜 가열_평타+무공공속+소울 증가_세부",
+        "id": 60030191,
+        "alias": "Contents.Effect.Option.FireBangle.344415",
+        "text": "무공 공격 증폭 +3%\n기본 공격 속도 +58%\n무공 공격 속도 +10%\n공격력 +25"
+    },
+    "60030192": {
+        "deprecated": false,
+        "Dev_Desc": "화륜 가열_평타+무공공속+소울 증가_세부",
+        "id": 60030192,
+        "alias": "Contents.Effect.Option.FireBangle.344416",
+        "text": "무공 공격 증폭 +3%\n기본 공격 속도 +60%\n무공 공격 속도 +10%\n공격력 +25"
+    },
+    "60030193": {
+        "deprecated": false,
+        "Dev_Desc": "화륜 가열_평타+무공공속+소울 증가_세부",
+        "id": 60030193,
+        "alias": "Contents.Effect.Option.FireBangle.344417",
+        "text": "무공 공격 증폭 +3%\n기본 공격 속도 +62%\n무공 공격 속도 +10%\n공격력 +25"
+    },
+    "60030194": {
+        "deprecated": false,
+        "Dev_Desc": "화륜 가열_평타+무공공속+소울 증가_세부",
+        "id": 60030194,
+        "alias": "Contents.Effect.Option.FireBangle.344418",
+        "text": "무공 공격 증폭 +3%\n기본 공격 속도 +64%\n무공 공격 속도 +10%\n공격력 +25"
+    },
+    "60030195": {
+        "deprecated": false,
+        "Dev_Desc": "화륜 가열_평타+무공공속+소울 증가_세부",
+        "id": 60030195,
+        "alias": "Contents.Effect.Option.FireBangle.344419",
+        "text": "무공 공격 증폭 +3%\n기본 공격 속도 +66%\n무공 공격 속도 +10%\n공격력 +25"
+    },
+    "60030196": {
+        "deprecated": false,
+        "Dev_Desc": "화륜 가열_평타+무공공속+소울 증가_세부",
+        "id": 60030196,
+        "alias": "Contents.Effect.Option.FireBangle.344420",
+        "text": "무공 공격 증폭 +3%\n기본 공격 속도 +68%\n무공 공격 속도 +10%\n공격력 +25"
+    },
+    "60030197": {
+        "deprecated": false,
+        "Dev_Desc": "기공패 버프 강화 발화_이름",
+        "id": 60030197,
+        "alias": "Contents.Effect.Name.FireBangle.300013",
+        "text": "강화 발화"
+    },
+    "60030198": {
+        "deprecated": false,
+        "Dev_Desc": "기공패 버프 발화_세부",
+        "id": 60030198,
+        "alias": "Contents.Effect.Detail.FireBangle.300013",
+        "text": "유성, 비륜연휘 사용 시 소모되지 않음"
     }
 }

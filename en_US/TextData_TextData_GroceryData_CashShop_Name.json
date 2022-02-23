@@ -377,6 +377,13 @@
         "alias": "Contents.CashShop.Item.Name.1052",
         "text": "<textColor=[206:120:78:255]>Nazaru, </> <textColor=[172:98:223:255]>Baekharg, Asc </> \\n <textcolor = [172: 98: 223: 255 ]> </> \\n <TextColor = [92: 163: 105: 255]> </> <textColor = [92: 163: 105: 255]> </> <textColor=[255:255:255:255]>~ </> <textColor = [206: 120: 78: 255]> Legend </> <textColor=[255:255:255:255]>Rating </> \\n <textColor=[255:255:255:255]>Various soul acquisition </>"
     },
+    "83100056": {
+        "deprecated": false,
+        "Dev_Desc": "특별 소울 소환 / 야루, 오름, 백화렴",
+        "id": 83100056,
+        "alias": "Contents.CashShop.Item.Name.1053",
+        "text": "<textColor=[206:120:78:255]>Shiro, </> <textColor=[172:98:223:255]>Regression Arrang, Wanderer Organic </> \\n <textcolor = [172: 98: 223 : 255]> </> \\n <[255: 255: 255: 255]> </> \\n <TextColor = [92: 163: 255: 255]> Advanced </> <textColor=[255:255:255:255]>~ </> <textColor = [206: 120: 78: 255]> Legend </> <textColor=[255:255:255:255]>Rating </> \\n <textColor=[255:255:255:255]>Various Soul acquisition </>"
+    },
     "83200001": {
         "deprecated": false,
         "Dev_Desc": "비사전 / 정수 파편",
@@ -2119,6 +2126,27 @@
         "id": 83200252,
         "alias": "Contents.CashShop.Item.Name.5379",
         "text": "Box package of shining horny"
+    },
+    "83200253": {
+        "deprecated": false,
+        "Dev_Desc": "특별 소울 소환 / 시로, 아랑, 유기 / 1회",
+        "id": 83200253,
+        "alias": "Contents.CashShop.Item.Name.5380",
+        "text": "Special Soul Summon 1"
+    },
+    "83200254": {
+        "deprecated": false,
+        "Dev_Desc": "특별 소울 소환 / 시로, 아랑, 유기 / 11회",
+        "id": 83200254,
+        "alias": "Contents.CashShop.Item.Name.5381",
+        "text": "Special Soul Summon 11 times"
+    },
+    "83200255": {
+        "deprecated": false,
+        "Dev_Desc": "결전의 증표",
+        "id": 83200255,
+        "alias": "Contents.CashShop.Item.Name.5384",
+        "text": "Mark of power payment"
     },
     "83350000": {
         "deprecated": false,
@@ -4891,5 +4919,54 @@
         "id": 83350405,
         "alias": "Contents.CashShop.Item.Name.9710264",
         "text": "Box package of shining horny"
+    },
+    "83350406": {
+        "deprecated": false,
+        "Dev_Desc": "시즌 패스: 봄날",
+        "id": 83350406,
+        "alias": "Contents.CashShop.Item.Name.9800124",
+        "text": "Season Pass: Springtime"
+    },
+    "83350407": {
+        "deprecated": false,
+        "Dev_Desc": "비사문의 화려한 신석 패키지",
+        "id": 83350407,
+        "alias": "Contents.CashShop.Item.Name.9800125",
+        "text": "Colorful Neoles Package in Non"
+    },
+    "83350408": {
+        "deprecated": false,
+        "Dev_Desc": "시즌 패스: 봄날",
+        "id": 83350408,
+        "alias": "Contents.CashShop.Item.Name.9800124",
+        "text": "Season Pass: Springtime"
+    },
+    "83350409": {
+        "deprecated": false,
+        "Dev_Desc": "비사문의 화려한 신석 패키지",
+        "id": 83350409,
+        "alias": "Contents.CashShop.Item.Name.9800125",
+        "text": "Colorful Neoles Package in Non"
+    },
+    "83350410": {
+        "deprecated": false,
+        "Dev_Desc": "특별 소울 소환 / 시로, 아랑, 유기 / 1회",
+        "id": 83350410,
+        "alias": "Contents.CashShop.Item.Name.9710265",
+        "text": "Special Soul Summon 1"
+    },
+    "83350411": {
+        "deprecated": false,
+        "Dev_Desc": "특별 소울 소환 / 시로, 아랑, 유기 / 11회",
+        "id": 83350411,
+        "alias": "Contents.CashShop.Item.Name.9710266",
+        "text": "Special Soul Summon 11 times"
+    },
+    "83350412": {
+        "deprecated": false,
+        "Dev_Desc": "결전의 증표",
+        "id": 83350412,
+        "alias": "Contents.CashShop.Item.Name.9710267",
+        "text": "Mark of power payment"
     }
 }
