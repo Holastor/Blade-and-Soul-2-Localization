@@ -27,9 +27,9 @@ BTC - bc1qpqnyfvz36u904pw60tv5ky8da38aq0wy7l7rk6
 ## Install
 
 * ONLY PC
-* [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/releases/tag/2.5.0) Latest Release;
-* Place the file B2-Bundle@2022.02.23-09.57.54_EN.pak(B2-Bundle@2022.02.23-09.57.54_CH.pak) in the \GameFolder\AssetBundle, with replace;
-* Rename the file B2-Bundle@2022.02.23-09.57.54_EN.pak(B2-Bundle@2022.02.23-09.57.54_CH.pak) to get B2-Bundle@2022.02.23-09.57.54.pak;
+* [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/releases/tag/2.6.0) Latest Release;
+* Place the file B2-Bundle@2022.02.28-18.56.55_en.pak(B2-Bundle@2022.02.28-18.56.55_ch.pak) in the \GameFolder\AssetBundle, with replace;
+* Rename the file B2-Bundle@2022.02.28-18.56.55_en.pak(B2-Bundle@2022.02.28-18.56.55_ch.pak) to get B2-Bundle@2022.02.28-18.56.55.pak;
 * That's all folks!
 ## OR Source-Install
 * ONLY PC
@@ -45,10 +45,10 @@ BTC - bc1qpqnyfvz36u904pw60tv5ky8da38aq0wy7l7rk6
 
 ## Mobile-Install
 * ONLY Android
-* [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/releases/tag/2.5.0_M) Latest Release (patch.75.com.ncsoft.bns219.obb);
-* patch.75.com.ncsoft.bns219_en.obb - English Language; patch.75.com.ncsoft.bns219_zh.obb - Chinese Language;
-* Place the file patch.75.com.ncsoft.bns219_en.obb in the "Internal Memory\Android\obb\com.ncsoft.bns219";
-* Rename the file patch.75.com.ncsoft.bns219_en.obb to get patch.75.com.ncsoft.bns219.obb;
+* [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/releases/tag/2.6.0_M) Latest Release (patch.79.com.ncsoft.bns219.obb);
+* patch.79.com.ncsoft.bns219_en.obb - English Language; patch.79.com.ncsoft.bns219_zh.obb - Chinese Language;
+* Place the file patch.79.com.ncsoft.bns219_en.obb in the "Internal Memory\Android\obb\com.ncsoft.bns219";
+* Rename the file patch.79.com.ncsoft.bns219_en.obb to get patch.75.com.ncsoft.bns219.obb;
 * And that's it you have English language or any other;
 
 ## About
