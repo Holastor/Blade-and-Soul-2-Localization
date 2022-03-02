@@ -18,10 +18,6 @@
 
 <a href="https://www.buymeacoffee.com/Holastor" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
-ETH - 0xFD5B50a2953021557E9FD08FeAd37c0bF3bD50b4
-
-BTC - bc1qpqnyfvz36u904pw60tv5ky8da38aq0wy7l7rk6
-
 [PayPal](https://www.paypal.me/holastor)
 
 ## Install
