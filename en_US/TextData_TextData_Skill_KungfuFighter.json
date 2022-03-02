@@ -991,7 +991,7 @@
         "Dev_Desc": "개혈_증폭/극한_효과",
         "id": 60020210,
         "alias": "Contents.Skill.useEffectDesc.LightGauntlet.2121",
-        "text": "근거리 공격력 +2, 근거리 명중 +1, 생명력 회복"
+        "text": "Local ATK 2, Large Head 1, Health Recovery"
     },
     "60020146": {
         "deprecated": false,
@@ -1376,21 +1376,21 @@
         "Dev_Desc": "연권_증폭_성장설명",
         "id": 60020206,
         "alias": "Contents.Skill.acquireEffectDesc.2124",
-        "text": "내력 소모량 -4"
+        "text": "Strength Consumption - 4"
     },
     "60020207": {
         "deprecated": false,
         "Dev_Desc": "연권_극한_성장설명",
         "id": 60020207,
         "alias": "Contents.Skill.acquireEffectDesc.2125",
-        "text": "피해량 증가"
+        "text": "Increased damage"
     },
     "60020208": {
         "deprecated": false,
         "Dev_Desc": "연권_돌파_성장설명",
         "id": 60020208,
         "alias": "Contents.Skill.acquireEffectDesc.2126",
-        "text": "일정 확률로 내력 33 회복"
+        "text": "Strength 33 recovery in certain probability"
     },
     "60020200": {
         "deprecated": false,
@@ -1433,5 +1433,12 @@
         "id": 60020205,
         "alias": "Contents.Skill.Name.LightGauntlet.2900",
         "text": "Huge"
+    },
+    "60020211": {
+        "deprecated": false,
+        "Dev_Desc": "근거리 명중 증가",
+        "id": 60020211,
+        "alias": "Contents.Skill.Upgrade.LightGauntlet.13",
+        "text": "Increased near"
     }
 }

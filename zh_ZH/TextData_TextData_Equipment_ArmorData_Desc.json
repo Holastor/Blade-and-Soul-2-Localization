@@ -3665,7 +3665,7 @@
         "Dev_Desc": "물의 향기",
         "id": 94109604,
         "alias": "Contents.Item.Desc.4109604",
-        "text": "+1 강화 시 기공 공격력 추가 \n+3 강화 시 PVP 명중 추가\n+5 강화 시 상대 소울 억제력 추가\n+7 강화 시 통제 유연 추가"
+        "text": "1添加PVP添加PORCE攻击时段\\n 3添加PVP在加固\\n 5添加相对灵魂抑制\\n 7添加控制灵活控制"
     },
     "94209001": {
         "deprecated": false,
@@ -3693,5 +3693,89 @@
         "id": 94209603,
         "alias": "Contents.Item.Desc.4209603",
         "text": ""
+    },
+    "94102605": {
+        "deprecated": false,
+        "Dev_Desc": "태초의 온기",
+        "id": 94102605,
+        "alias": "Contents.Item.Desc.4102605",
+        "text": "[独特的增强效果] \\n 6 PVP防御5 \\n\\n [参与PVP的效果] \\n 4强化活力的强化：\\n 5在加强致命率中的致命速度，"
+    },
+    "94104605": {
+        "deprecated": false,
+        "Dev_Desc": "태초의 투혼",
+        "id": 94104605,
+        "alias": "Contents.Item.Desc.4104605",
+        "text": "[独特的增强效果] \\n 6 PVP Ho Shin 5 \\n\\n [零件效果] \\n 4增强何胫升钢筋：何胫额额外上涨：城市批评价格额外上涨〖〗"
+    },
+    "94104606": {
+        "deprecated": false,
+        "Dev_Desc": "태초의 자비",
+        "id": 94104606,
+        "alias": "Contents.Item.Desc.4104606",
+        "text": "[独特的增强效果] \\n 6 PVP Ho Shin 5 \\n\\n [零件效果] \\n 4增强何胫升钢筋：何胫额额外上涨：城市批评价格额外上涨〖〗"
+    },
+    "94104607": {
+        "deprecated": false,
+        "Dev_Desc": "태초의 집념",
+        "id": 94104607,
+        "alias": "Contents.Item.Desc.4104607",
+        "text": "[独特的增强效果] \\n 6 PVP Ho Shin 5 \\n\\n [零件效果] \\n 4增强何胫升钢筋：何胫额额外上涨：城市批评价格额外上涨〖〗"
+    },
+    "94105605": {
+        "deprecated": false,
+        "Dev_Desc": "태초의 흔적",
+        "id": 94105605,
+        "alias": "Contents.Item.Desc.4105605",
+        "text": "[PVP成效效果] \\n 6 [PVP 3 \\n [PVP效果] \\n 4前进，PVE避免额外上升\\n 6用于加固，PVE避免额外上升\\n 8 \\n 5移动速度增长速度进一步增强速度\\n 7运动利率提高率提高率提高率增加\\n 9运动率提高率加强"
+    },
+    "94108602": {
+        "deprecated": false,
+        "Dev_Desc": "투신의 가호",
+        "id": 94108602,
+        "alias": "Contents.Item.Desc.4108602",
+        "text": "[独特的效果] \\n 4相对灵魂抑制剂1％\\n 3/6/9增加了PVP Ho Shin 1"
+    },
+    "94202605": {
+        "deprecated": false,
+        "Dev_Desc": "태초의 온기 (각인)",
+        "id": 94202605,
+        "alias": "Contents.Item.Desc.4202605",
+        "text": "[独特的增强效果] \\n 6 PVP防御5 \\n\\n [参与PVP的效果] \\n 4强化活力的强化：\\n 5在加强致命率中的致命速度，"
+    },
+    "94204605": {
+        "deprecated": false,
+        "Dev_Desc": "태초의 투혼 (각인)",
+        "id": 94204605,
+        "alias": "Contents.Item.Desc.4204605",
+        "text": "[独特的增强效果] \\n 6 PVP Ho Shin 5 \\n\\n [零件效果] \\n 4增强何胫升钢筋：何胫额额外上涨：城市批评价格额外上涨〖〗"
+    },
+    "94204606": {
+        "deprecated": false,
+        "Dev_Desc": "태초의 자비 (각인)",
+        "id": 94204606,
+        "alias": "Contents.Item.Desc.4204606",
+        "text": "[独特的增强效果] \\n 6 PVP Ho Shin 5 \\n\\n [零件效果] \\n 4增强何胫升钢筋：何胫额额外上涨：城市批评价格额外上涨〖〗"
+    },
+    "94204607": {
+        "deprecated": false,
+        "Dev_Desc": "태초의 집념 (각인)",
+        "id": 94204607,
+        "alias": "Contents.Item.Desc.4204607",
+        "text": "[独特的增强效果] \\n 6 PVP Ho Shin 5 \\n\\n [零件效果] \\n 4增强何胫升钢筋：何胫额额外上涨：城市批评价格额外上涨〖〗"
+    },
+    "94205605": {
+        "deprecated": false,
+        "Dev_Desc": "태초의 흔적 (각인)",
+        "id": 94205605,
+        "alias": "Contents.Item.Desc.4205605",
+        "text": "[PVP成效效果] \\n 6 [PVP 3 \\n [PVP效果] \\n 4前进，PVE避免额外上升\\n 6用于加固，PVE避免额外上升\\n 8 \\n 5移动速度增长速度进一步增强速度\\n 7运动利率提高率提高率提高率增加\\n 9运动率提高率加强"
+    },
+    "94208602": {
+        "deprecated": false,
+        "Dev_Desc": "투신의 가호 (각인)",
+        "id": 94208602,
+        "alias": "Contents.Item.Desc.4208602",
+        "text": "[独特的效果] \\n 4相对灵魂抑制剂1％\\n 3/6/9增加了PVP Ho Shin 1"
     }
 }

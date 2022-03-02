@@ -27943,5 +27943,1307 @@
         "id": 8004074,
         "alias": "UI.PartyDungeon.Text.ErrorInvitePartyFail_InPartyDungeon",
         "text": "无法邀请地下城内的目的地。"
+    },
+    "8004075": {
+        "deprecated": false,
+        "Dev_Desc": "서브 슬롯 소울",
+        "id": 8004075,
+        "alias": "UI.BNS.EnhanceSlot.Title",
+        "text": "刀片加强插槽"
+    },
+    "8004076": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 / 섹션A",
+        "id": 8004076,
+        "alias": "UI.Galaxy.Name.SectionA",
+        "text": "春天"
+    },
+    "8004077": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 / 섹션B",
+        "id": 8004077,
+        "alias": "UI.Galaxy.Name.SectionB",
+        "text": "夏天耳语"
+    },
+    "8004078": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 / 섹션C",
+        "id": 8004078,
+        "alias": "UI.Galaxy.Name.SectionC",
+        "text": "秋天的热情"
+    },
+    "8004079": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 / 섹션d",
+        "id": 8004079,
+        "alias": "UI.Galaxy.Name.SectionD",
+        "text": "冬季温暖"
+    },
+    "8004080": {
+        "deprecated": false,
+        "Dev_Desc": "채팅 / 매크로 / 텍스트 입력 설명",
+        "id": 8004080,
+        "alias": "UI.Chat.Macro.Desc",
+        "text": "请输入快速聊天内容。"
+    },
+    "8004081": {
+        "deprecated": false,
+        "Dev_Desc": "물병자리",
+        "id": 8004081,
+        "alias": "UI.Galaxy.Name.StarLink.1",
+        "text": "水瓶座"
+    },
+    "8004082": {
+        "deprecated": false,
+        "Dev_Desc": "물고기자리",
+        "id": 8004082,
+        "alias": "UI.Galaxy.Name.StarLink.2",
+        "text": "鱼店"
+    },
+    "8004083": {
+        "deprecated": false,
+        "Dev_Desc": "양자리",
+        "id": 8004083,
+        "alias": "UI.Galaxy.Name.StarLink.3",
+        "text": "白羊座"
+    },
+    "8004084": {
+        "deprecated": false,
+        "Dev_Desc": "황소자리",
+        "id": 8004084,
+        "alias": "UI.Galaxy.Name.StarLink.4",
+        "text": "金牛座"
+    },
+    "8004085": {
+        "deprecated": false,
+        "Dev_Desc": "쌍둥이자리",
+        "id": 8004085,
+        "alias": "UI.Galaxy.Name.StarLink.5",
+        "text": "双胞胎"
+    },
+    "8004086": {
+        "deprecated": false,
+        "Dev_Desc": "게자리",
+        "id": 8004086,
+        "alias": "UI.Galaxy.Name.StarLink.6",
+        "text": "癌症"
+    },
+    "8004087": {
+        "deprecated": false,
+        "Dev_Desc": "사자자리",
+        "id": 8004087,
+        "alias": "UI.Galaxy.Name.StarLink.7",
+        "text": "狮子"
+    },
+    "8004088": {
+        "deprecated": false,
+        "Dev_Desc": "처녀자리",
+        "id": 8004088,
+        "alias": "UI.Galaxy.Name.StarLink.8",
+        "text": "童子主义者"
+    },
+    "8004089": {
+        "deprecated": false,
+        "Dev_Desc": "천칭자리",
+        "id": 8004089,
+        "alias": "UI.Galaxy.Name.StarLink.9",
+        "text": "图书馆"
+    },
+    "8004090": {
+        "deprecated": false,
+        "Dev_Desc": "전갈자리",
+        "id": 8004090,
+        "alias": "UI.Galaxy.Name.StarLink.10",
+        "text": "天蝎座"
+    },
+    "8004091": {
+        "deprecated": false,
+        "Dev_Desc": "사수자리",
+        "id": 8004091,
+        "alias": "UI.Galaxy.Name.StarLink.11",
+        "text": "射手"
+    },
+    "8004092": {
+        "deprecated": false,
+        "Dev_Desc": "염소자리",
+        "id": 8004092,
+        "alias": "UI.Galaxy.Name.StarLink.12",
+        "text": "摩羯座"
+    },
+    "8004093": {
+        "deprecated": false,
+        "Dev_Desc": "공용 / 키보드 / 엔터키",
+        "id": 8004093,
+        "alias": "UI.Common.Keyboard.Enter",
+        "text": "进入"
+    },
+    "8004094": {
+        "deprecated": false,
+        "Dev_Desc": "파티 / 파티던전",
+        "id": 8004094,
+        "alias": "UI.PartyDungeon.Text.Difficulty.Easy",
+        "text": "设施"
+    },
+    "8004095": {
+        "deprecated": false,
+        "Dev_Desc": "파티 / 파티던전",
+        "id": 8004095,
+        "alias": "UI.PartyDungeon.Text.Difficulty.Normal",
+        "text": "通常"
+    },
+    "8004096": {
+        "deprecated": false,
+        "Dev_Desc": "파티 / 파티던전",
+        "id": 8004096,
+        "alias": "UI.PartyDungeon.Text.Difficulty.Hard",
+        "text": "困难"
+    },
+    "8004097": {
+        "deprecated": false,
+        "Dev_Desc": "파티 / 파티던전",
+        "id": 8004097,
+        "alias": "UI.PartyDungeon.Text.Difficulty.VeryHard",
+        "text": "非常困难"
+    },
+    "8004098": {
+        "deprecated": false,
+        "Dev_Desc": "파티 / 파티던전",
+        "id": 8004098,
+        "alias": "UI.PartyDungeon.Text.ExpectRewardList",
+        "text": "可获得的赔偿金"
+    },
+    "8004099": {
+        "deprecated": false,
+        "Dev_Desc": "파티 / 파티던전",
+        "id": 8004099,
+        "alias": "UI.PartyDungeon.Text.NormalRewardList",
+        "text": "基本补偿"
+    },
+    "8004100": {
+        "deprecated": false,
+        "Dev_Desc": "파티 / 파티던전",
+        "id": 8004100,
+        "alias": "UI.PartyDungeon.Text.TicketRewardList",
+        "text": "肯定权利"
+    },
+    "8004101": {
+        "deprecated": false,
+        "Dev_Desc": "파티 / 파티던전",
+        "id": 8004101,
+        "alias": "UI.PartyDungeon.Text.RemainTimeMinimap",
+        "text": "剩余时间"
+    },
+    "8004102": {
+        "deprecated": false,
+        "Dev_Desc": "소울장착 / 강화소울 / 슬롯개방팝업 본문",
+        "id": 8004102,
+        "alias": "UI.Yarubox.OpenSlot.Popup.Desc",
+        "text": "你想打开灵魂插槽，通过唤醒点提高刀片效果吗？"
+    },
+    "8004103": {
+        "deprecated": false,
+        "Dev_Desc": "소울장착 / 강화소울 / 슬롯개방팝업 확인",
+        "id": 8004103,
+        "alias": "UI.Yarubox.OpenSlot.Popup.BtnConfirm",
+        "text": "开幕式"
+    },
+    "8004104": {
+        "deprecated": false,
+        "Dev_Desc": "소울장착 / 강화소울 / 슬롯개방팝업 취소",
+        "id": 8004104,
+        "alias": "UI.Yarubox.OpenSlot.Popup.BtnCancel",
+        "text": "取消"
+    },
+    "8004105": {
+        "deprecated": false,
+        "Dev_Desc": "소울장착 / 강화소울 / 슬롯개방팝업 / 부족",
+        "id": 8004105,
+        "alias": "UI.Yarubox.OpenSlot.Error.BtnConfirm.Lack",
+        "text": "由于缺乏觉醒点，您无法打开插槽。"
+    },
+    "8004106": {
+        "deprecated": false,
+        "Dev_Desc": "소울장착 / 강화소울 / 슬롯개방팝업 / 오류",
+        "id": 8004106,
+        "alias": "UI.Yarubox.OpenSlot.Error.SlotSelection",
+        "text": "插槽是按顺序开放的。"
+    },
+    "8004107": {
+        "deprecated": false,
+        "Dev_Desc": "파티 / 파티던전",
+        "id": 8004107,
+        "alias": "UI.PartyDungeon.Text.MemberChangeMatchCancel",
+        "text": "更改方配置以取消匹配"
+    },
+    "8004108": {
+        "deprecated": false,
+        "Dev_Desc": "Aquarius: 1001",
+        "id": 8004108,
+        "alias": "UI.BladeImprintPointName.1001",
+        "text": "第一星"
+    },
+    "8004109": {
+        "deprecated": false,
+        "Dev_Desc": "Aquarius: 1002",
+        "id": 8004109,
+        "alias": "UI.BladeImprintPointName.1002",
+        "text": "第二星"
+    },
+    "8004110": {
+        "deprecated": false,
+        "Dev_Desc": "Aquarius: 1003",
+        "id": 8004110,
+        "alias": "UI.BladeImprintPointName.1003",
+        "text": "第三星"
+    },
+    "8004111": {
+        "deprecated": false,
+        "Dev_Desc": "Aquarius: 1004",
+        "id": 8004111,
+        "alias": "UI.BladeImprintPointName.1004",
+        "text": "第四颗星"
+    },
+    "8004112": {
+        "deprecated": false,
+        "Dev_Desc": "Aquarius: 1005",
+        "id": 8004112,
+        "alias": "UI.BladeImprintPointName.1005",
+        "text": "第五颗星"
+    },
+    "8004113": {
+        "deprecated": false,
+        "Dev_Desc": "Aquarius: 1006",
+        "id": 8004113,
+        "alias": "UI.BladeImprintPointName.1006",
+        "text": "第六星"
+    },
+    "8004114": {
+        "deprecated": false,
+        "Dev_Desc": "Aquarius: 1007",
+        "id": 8004114,
+        "alias": "UI.BladeImprintPointName.1007",
+        "text": "第七星"
+    },
+    "8004115": {
+        "deprecated": false,
+        "Dev_Desc": "Aquarius: 1008",
+        "id": 8004115,
+        "alias": "UI.BladeImprintPointName.1008",
+        "text": "第八星"
+    },
+    "8004116": {
+        "deprecated": false,
+        "Dev_Desc": "Aquarius: 1009",
+        "id": 8004116,
+        "alias": "UI.BladeImprintPointName.1009",
+        "text": "第九星"
+    },
+    "8004117": {
+        "deprecated": false,
+        "Dev_Desc": "Aquarius: 1010",
+        "id": 8004117,
+        "alias": "UI.BladeImprintPointName.1010",
+        "text": "热的"
+    },
+    "8004118": {
+        "deprecated": false,
+        "Dev_Desc": "Aquarius: 1011",
+        "id": 8004118,
+        "alias": "UI.BladeImprintPointName.1011",
+        "text": "霍尔顿明星"
+    },
+    "8004119": {
+        "deprecated": false,
+        "Dev_Desc": "Aquarius: 1012",
+        "id": 8004119,
+        "alias": "UI.BladeImprintPointName.1012",
+        "text": "第十二"
+    },
+    "8004120": {
+        "deprecated": false,
+        "Dev_Desc": "Aquarius: 1013",
+        "id": 8004120,
+        "alias": "UI.BladeImprintPointName.1013",
+        "text": "总数"
+    },
+    "8004121": {
+        "deprecated": false,
+        "Dev_Desc": "Pisces: 2001",
+        "id": 8004121,
+        "alias": "UI.BladeImprintPointName.2001",
+        "text": "第一星"
+    },
+    "8004122": {
+        "deprecated": false,
+        "Dev_Desc": "Pisces: 2002",
+        "id": 8004122,
+        "alias": "UI.BladeImprintPointName.2002",
+        "text": "第二星"
+    },
+    "8004123": {
+        "deprecated": false,
+        "Dev_Desc": "Pisces: 2003",
+        "id": 8004123,
+        "alias": "UI.BladeImprintPointName.2003",
+        "text": "第三星"
+    },
+    "8004124": {
+        "deprecated": false,
+        "Dev_Desc": "Pisces: 2004",
+        "id": 8004124,
+        "alias": "UI.BladeImprintPointName.2004",
+        "text": "第四颗星"
+    },
+    "8004125": {
+        "deprecated": false,
+        "Dev_Desc": "Pisces: 2005",
+        "id": 8004125,
+        "alias": "UI.BladeImprintPointName.2005",
+        "text": "第五颗星"
+    },
+    "8004126": {
+        "deprecated": false,
+        "Dev_Desc": "Pisces: 2006",
+        "id": 8004126,
+        "alias": "UI.BladeImprintPointName.2006",
+        "text": "第六星"
+    },
+    "8004127": {
+        "deprecated": false,
+        "Dev_Desc": "Pisces: 2007",
+        "id": 8004127,
+        "alias": "UI.BladeImprintPointName.2007",
+        "text": "第七星"
+    },
+    "8004128": {
+        "deprecated": false,
+        "Dev_Desc": "Pisces: 2008",
+        "id": 8004128,
+        "alias": "UI.BladeImprintPointName.2008",
+        "text": "第八星"
+    },
+    "8004129": {
+        "deprecated": false,
+        "Dev_Desc": "Pisces: 2009",
+        "id": 8004129,
+        "alias": "UI.BladeImprintPointName.2009",
+        "text": "第九星"
+    },
+    "8004130": {
+        "deprecated": false,
+        "Dev_Desc": "Pisces: 2010",
+        "id": 8004130,
+        "alias": "UI.BladeImprintPointName.2010",
+        "text": "热的"
+    },
+    "8004131": {
+        "deprecated": false,
+        "Dev_Desc": "Pisces: 2011",
+        "id": 8004131,
+        "alias": "UI.BladeImprintPointName.2011",
+        "text": "霍尔顿明星"
+    },
+    "8004132": {
+        "deprecated": false,
+        "Dev_Desc": "Pisces: 2012",
+        "id": 8004132,
+        "alias": "UI.BladeImprintPointName.2012",
+        "text": "第十二"
+    },
+    "8004133": {
+        "deprecated": false,
+        "Dev_Desc": "Pisces: 2013",
+        "id": 8004133,
+        "alias": "UI.BladeImprintPointName.2013",
+        "text": "总数"
+    },
+    "8004134": {
+        "deprecated": false,
+        "Dev_Desc": "Pisces: 2014",
+        "id": 8004134,
+        "alias": "UI.BladeImprintPointName.2014",
+        "text": "打开"
+    },
+    "8004135": {
+        "deprecated": false,
+        "Dev_Desc": "Pisces: 2015",
+        "id": 8004135,
+        "alias": "UI.BladeImprintPointName.2015",
+        "text": "heat"
+    },
+    "8004136": {
+        "deprecated": false,
+        "Dev_Desc": "Pisces: 2016",
+        "id": 8004136,
+        "alias": "UI.BladeImprintPointName.2016",
+        "text": "第六星的热量"
+    },
+    "8004137": {
+        "deprecated": false,
+        "Dev_Desc": "Pisces: 2017",
+        "id": 8004137,
+        "alias": "UI.BladeImprintPointName.2017",
+        "text": "几颗星"
+    },
+    "8004138": {
+        "deprecated": false,
+        "Dev_Desc": "Aries: 3001",
+        "id": 8004138,
+        "alias": "UI.BladeImprintPointName.3001",
+        "text": "第一星"
+    },
+    "8004139": {
+        "deprecated": false,
+        "Dev_Desc": "Aries: 3002",
+        "id": 8004139,
+        "alias": "UI.BladeImprintPointName.3002",
+        "text": "第二星"
+    },
+    "8004140": {
+        "deprecated": false,
+        "Dev_Desc": "Aries: 3003",
+        "id": 8004140,
+        "alias": "UI.BladeImprintPointName.3003",
+        "text": "第三星"
+    },
+    "8004141": {
+        "deprecated": false,
+        "Dev_Desc": "Aries: 3004",
+        "id": 8004141,
+        "alias": "UI.BladeImprintPointName.3004",
+        "text": "第四颗星"
+    },
+    "8004142": {
+        "deprecated": false,
+        "Dev_Desc": "Aries: 3005",
+        "id": 8004142,
+        "alias": "UI.BladeImprintPointName.3005",
+        "text": "第五颗星"
+    },
+    "8004143": {
+        "deprecated": false,
+        "Dev_Desc": "Aries: 3006",
+        "id": 8004143,
+        "alias": "UI.BladeImprintPointName.3006",
+        "text": "第六星"
+    },
+    "8004144": {
+        "deprecated": false,
+        "Dev_Desc": "Aries: 3007",
+        "id": 8004144,
+        "alias": "UI.BladeImprintPointName.3007",
+        "text": "第七星"
+    },
+    "8004145": {
+        "deprecated": false,
+        "Dev_Desc": "Aries: 3008",
+        "id": 8004145,
+        "alias": "UI.BladeImprintPointName.3008",
+        "text": "第八星"
+    },
+    "8004146": {
+        "deprecated": false,
+        "Dev_Desc": "Aries: 3009",
+        "id": 8004146,
+        "alias": "UI.BladeImprintPointName.3009",
+        "text": "第九星"
+    },
+    "8004147": {
+        "deprecated": false,
+        "Dev_Desc": "Taurus: 4001",
+        "id": 8004147,
+        "alias": "UI.BladeImprintPointName.4001",
+        "text": "第一星"
+    },
+    "8004148": {
+        "deprecated": false,
+        "Dev_Desc": "Taurus: 4002",
+        "id": 8004148,
+        "alias": "UI.BladeImprintPointName.4002",
+        "text": "第二星"
+    },
+    "8004149": {
+        "deprecated": false,
+        "Dev_Desc": "Taurus: 4003",
+        "id": 8004149,
+        "alias": "UI.BladeImprintPointName.4003",
+        "text": "第三星"
+    },
+    "8004150": {
+        "deprecated": false,
+        "Dev_Desc": "Taurus: 4004",
+        "id": 8004150,
+        "alias": "UI.BladeImprintPointName.4004",
+        "text": "第四颗星"
+    },
+    "8004151": {
+        "deprecated": false,
+        "Dev_Desc": "Taurus: 4005",
+        "id": 8004151,
+        "alias": "UI.BladeImprintPointName.4005",
+        "text": "第五颗星"
+    },
+    "8004152": {
+        "deprecated": false,
+        "Dev_Desc": "Taurus: 4006",
+        "id": 8004152,
+        "alias": "UI.BladeImprintPointName.4006",
+        "text": "第六星"
+    },
+    "8004153": {
+        "deprecated": false,
+        "Dev_Desc": "Taurus: 4007",
+        "id": 8004153,
+        "alias": "UI.BladeImprintPointName.4007",
+        "text": "第七星"
+    },
+    "8004154": {
+        "deprecated": false,
+        "Dev_Desc": "Taurus: 4008",
+        "id": 8004154,
+        "alias": "UI.BladeImprintPointName.4008",
+        "text": "第八星"
+    },
+    "8004155": {
+        "deprecated": false,
+        "Dev_Desc": "Taurus: 4009",
+        "id": 8004155,
+        "alias": "UI.BladeImprintPointName.4009",
+        "text": "第九星"
+    },
+    "8004156": {
+        "deprecated": false,
+        "Dev_Desc": "Taurus: 4010",
+        "id": 8004156,
+        "alias": "UI.BladeImprintPointName.4010",
+        "text": "热的"
+    },
+    "8004157": {
+        "deprecated": false,
+        "Dev_Desc": "Gemini: 5001",
+        "id": 8004157,
+        "alias": "UI.BladeImprintPointName.5001",
+        "text": "第一星"
+    },
+    "8004158": {
+        "deprecated": false,
+        "Dev_Desc": "Gemini: 5002",
+        "id": 8004158,
+        "alias": "UI.BladeImprintPointName.5002",
+        "text": "第二星"
+    },
+    "8004159": {
+        "deprecated": false,
+        "Dev_Desc": "Gemini: 5003",
+        "id": 8004159,
+        "alias": "UI.BladeImprintPointName.5003",
+        "text": "第三星"
+    },
+    "8004160": {
+        "deprecated": false,
+        "Dev_Desc": "Gemini: 5004",
+        "id": 8004160,
+        "alias": "UI.BladeImprintPointName.5004",
+        "text": "第四颗星"
+    },
+    "8004161": {
+        "deprecated": false,
+        "Dev_Desc": "Gemini: 5005",
+        "id": 8004161,
+        "alias": "UI.BladeImprintPointName.5005",
+        "text": "第五颗星"
+    },
+    "8004162": {
+        "deprecated": false,
+        "Dev_Desc": "Gemini: 5006",
+        "id": 8004162,
+        "alias": "UI.BladeImprintPointName.5006",
+        "text": "第六星"
+    },
+    "8004163": {
+        "deprecated": false,
+        "Dev_Desc": "Gemini: 5007",
+        "id": 8004163,
+        "alias": "UI.BladeImprintPointName.5007",
+        "text": "第七星"
+    },
+    "8004164": {
+        "deprecated": false,
+        "Dev_Desc": "Gemini: 5008",
+        "id": 8004164,
+        "alias": "UI.BladeImprintPointName.5008",
+        "text": "第八星"
+    },
+    "8004165": {
+        "deprecated": false,
+        "Dev_Desc": "Gemini: 5009",
+        "id": 8004165,
+        "alias": "UI.BladeImprintPointName.5009",
+        "text": "第九星"
+    },
+    "8004166": {
+        "deprecated": false,
+        "Dev_Desc": "Gemini: 5010",
+        "id": 8004166,
+        "alias": "UI.BladeImprintPointName.5010",
+        "text": "热的"
+    },
+    "8004167": {
+        "deprecated": false,
+        "Dev_Desc": "Gemini: 5011",
+        "id": 8004167,
+        "alias": "UI.BladeImprintPointName.5011",
+        "text": "霍尔顿明星"
+    },
+    "8004168": {
+        "deprecated": false,
+        "Dev_Desc": "Gemini: 5012",
+        "id": 8004168,
+        "alias": "UI.BladeImprintPointName.5012",
+        "text": "第十二"
+    },
+    "8004169": {
+        "deprecated": false,
+        "Dev_Desc": "Gemini: 5013",
+        "id": 8004169,
+        "alias": "UI.BladeImprintPointName.5013",
+        "text": "总数"
+    },
+    "8004170": {
+        "deprecated": false,
+        "Dev_Desc": "Cancer: 6001",
+        "id": 8004170,
+        "alias": "UI.BladeImprintPointName.6001",
+        "text": "第一星"
+    },
+    "8004171": {
+        "deprecated": false,
+        "Dev_Desc": "Cancer: 6002",
+        "id": 8004171,
+        "alias": "UI.BladeImprintPointName.6002",
+        "text": "第二星"
+    },
+    "8004172": {
+        "deprecated": false,
+        "Dev_Desc": "Cancer: 6003",
+        "id": 8004172,
+        "alias": "UI.BladeImprintPointName.6003",
+        "text": "第三星"
+    },
+    "8004173": {
+        "deprecated": false,
+        "Dev_Desc": "Cancer: 6004",
+        "id": 8004173,
+        "alias": "UI.BladeImprintPointName.6004",
+        "text": "第四颗星"
+    },
+    "8004174": {
+        "deprecated": false,
+        "Dev_Desc": "Cancer: 6005",
+        "id": 8004174,
+        "alias": "UI.BladeImprintPointName.6005",
+        "text": "第五颗星"
+    },
+    "8004175": {
+        "deprecated": false,
+        "Dev_Desc": "Cancer: 6006",
+        "id": 8004175,
+        "alias": "UI.BladeImprintPointName.6006",
+        "text": "第六星"
+    },
+    "8004176": {
+        "deprecated": false,
+        "Dev_Desc": "Cancer: 6007",
+        "id": 8004176,
+        "alias": "UI.BladeImprintPointName.6007",
+        "text": "第七星"
+    },
+    "8004177": {
+        "deprecated": false,
+        "Dev_Desc": "Cancer: 6008",
+        "id": 8004177,
+        "alias": "UI.BladeImprintPointName.6008",
+        "text": "第八星"
+    },
+    "8004178": {
+        "deprecated": false,
+        "Dev_Desc": "Cancer: 6009",
+        "id": 8004178,
+        "alias": "UI.BladeImprintPointName.6009",
+        "text": "第九星"
+    },
+    "8004179": {
+        "deprecated": false,
+        "Dev_Desc": "Leo: 7001",
+        "id": 8004179,
+        "alias": "UI.BladeImprintPointName.7001",
+        "text": "第一星"
+    },
+    "8004180": {
+        "deprecated": false,
+        "Dev_Desc": "Leo: 7002",
+        "id": 8004180,
+        "alias": "UI.BladeImprintPointName.7002",
+        "text": "第二星"
+    },
+    "8004181": {
+        "deprecated": false,
+        "Dev_Desc": "Leo: 7003",
+        "id": 8004181,
+        "alias": "UI.BladeImprintPointName.7003",
+        "text": "第三星"
+    },
+    "8004182": {
+        "deprecated": false,
+        "Dev_Desc": "Leo: 7004",
+        "id": 8004182,
+        "alias": "UI.BladeImprintPointName.7004",
+        "text": "第四颗星"
+    },
+    "8004183": {
+        "deprecated": false,
+        "Dev_Desc": "Leo: 7005",
+        "id": 8004183,
+        "alias": "UI.BladeImprintPointName.7005",
+        "text": "第五颗星"
+    },
+    "8004184": {
+        "deprecated": false,
+        "Dev_Desc": "Leo: 7006",
+        "id": 8004184,
+        "alias": "UI.BladeImprintPointName.7006",
+        "text": "第六星"
+    },
+    "8004185": {
+        "deprecated": false,
+        "Dev_Desc": "Leo: 7007",
+        "id": 8004185,
+        "alias": "UI.BladeImprintPointName.7007",
+        "text": "第七星"
+    },
+    "8004186": {
+        "deprecated": false,
+        "Dev_Desc": "Leo: 7008",
+        "id": 8004186,
+        "alias": "UI.BladeImprintPointName.7008",
+        "text": "第八星"
+    },
+    "8004187": {
+        "deprecated": false,
+        "Dev_Desc": "Leo: 7009",
+        "id": 8004187,
+        "alias": "UI.BladeImprintPointName.7009",
+        "text": "第九星"
+    },
+    "8004188": {
+        "deprecated": false,
+        "Dev_Desc": "Leo: 7010",
+        "id": 8004188,
+        "alias": "UI.BladeImprintPointName.7010",
+        "text": "热的"
+    },
+    "8004189": {
+        "deprecated": false,
+        "Dev_Desc": "Leo: 7011",
+        "id": 8004189,
+        "alias": "UI.BladeImprintPointName.7011",
+        "text": "霍尔顿明星"
+    },
+    "8004190": {
+        "deprecated": false,
+        "Dev_Desc": "Leo: 7012",
+        "id": 8004190,
+        "alias": "UI.BladeImprintPointName.7012",
+        "text": "第十二"
+    },
+    "8004191": {
+        "deprecated": false,
+        "Dev_Desc": "Leo: 7013",
+        "id": 8004191,
+        "alias": "UI.BladeImprintPointName.7013",
+        "text": "总数"
+    },
+    "8004192": {
+        "deprecated": false,
+        "Dev_Desc": "Virgo: 8001",
+        "id": 8004192,
+        "alias": "UI.BladeImprintPointName.8001",
+        "text": "第一星"
+    },
+    "8004193": {
+        "deprecated": false,
+        "Dev_Desc": "Virgo: 8002",
+        "id": 8004193,
+        "alias": "UI.BladeImprintPointName.8002",
+        "text": "第二星"
+    },
+    "8004194": {
+        "deprecated": false,
+        "Dev_Desc": "Virgo: 8003",
+        "id": 8004194,
+        "alias": "UI.BladeImprintPointName.8003",
+        "text": "第三星"
+    },
+    "8004195": {
+        "deprecated": false,
+        "Dev_Desc": "Virgo: 8004",
+        "id": 8004195,
+        "alias": "UI.BladeImprintPointName.8004",
+        "text": "第四颗星"
+    },
+    "8004196": {
+        "deprecated": false,
+        "Dev_Desc": "Virgo: 8005",
+        "id": 8004196,
+        "alias": "UI.BladeImprintPointName.8005",
+        "text": "第五颗星"
+    },
+    "8004197": {
+        "deprecated": false,
+        "Dev_Desc": "Virgo: 8006",
+        "id": 8004197,
+        "alias": "UI.BladeImprintPointName.8006",
+        "text": "第六星"
+    },
+    "8004198": {
+        "deprecated": false,
+        "Dev_Desc": "Virgo: 8007",
+        "id": 8004198,
+        "alias": "UI.BladeImprintPointName.8007",
+        "text": "第七星"
+    },
+    "8004199": {
+        "deprecated": false,
+        "Dev_Desc": "Virgo: 8008",
+        "id": 8004199,
+        "alias": "UI.BladeImprintPointName.8008",
+        "text": "第八星"
+    },
+    "8004200": {
+        "deprecated": false,
+        "Dev_Desc": "Virgo: 8009",
+        "id": 8004200,
+        "alias": "UI.BladeImprintPointName.8009",
+        "text": "第九星"
+    },
+    "8004201": {
+        "deprecated": false,
+        "Dev_Desc": "Virgo: 8010",
+        "id": 8004201,
+        "alias": "UI.BladeImprintPointName.8010",
+        "text": "热的"
+    },
+    "8004202": {
+        "deprecated": false,
+        "Dev_Desc": "Virgo: 8011",
+        "id": 8004202,
+        "alias": "UI.BladeImprintPointName.8011",
+        "text": "霍尔顿明星"
+    },
+    "8004203": {
+        "deprecated": false,
+        "Dev_Desc": "Virgo: 8012",
+        "id": 8004203,
+        "alias": "UI.BladeImprintPointName.8012",
+        "text": "第十二"
+    },
+    "8004204": {
+        "deprecated": false,
+        "Dev_Desc": "Virgo: 8013",
+        "id": 8004204,
+        "alias": "UI.BladeImprintPointName.8013",
+        "text": "总数"
+    },
+    "8004205": {
+        "deprecated": false,
+        "Dev_Desc": "Libra: 9001",
+        "id": 8004205,
+        "alias": "UI.BladeImprintPointName.9001",
+        "text": "第一星"
+    },
+    "8004206": {
+        "deprecated": false,
+        "Dev_Desc": "Libra: 9002",
+        "id": 8004206,
+        "alias": "UI.BladeImprintPointName.9002",
+        "text": "第二星"
+    },
+    "8004207": {
+        "deprecated": false,
+        "Dev_Desc": "Libra: 9003",
+        "id": 8004207,
+        "alias": "UI.BladeImprintPointName.9003",
+        "text": "第三星"
+    },
+    "8004208": {
+        "deprecated": false,
+        "Dev_Desc": "Libra: 9004",
+        "id": 8004208,
+        "alias": "UI.BladeImprintPointName.9004",
+        "text": "第四颗星"
+    },
+    "8004209": {
+        "deprecated": false,
+        "Dev_Desc": "Libra: 9005",
+        "id": 8004209,
+        "alias": "UI.BladeImprintPointName.9005",
+        "text": "第五颗星"
+    },
+    "8004210": {
+        "deprecated": false,
+        "Dev_Desc": "Libra: 9006",
+        "id": 8004210,
+        "alias": "UI.BladeImprintPointName.9006",
+        "text": "第六星"
+    },
+    "8004211": {
+        "deprecated": false,
+        "Dev_Desc": "Libra: 9007",
+        "id": 8004211,
+        "alias": "UI.BladeImprintPointName.9007",
+        "text": "第七星"
+    },
+    "8004212": {
+        "deprecated": false,
+        "Dev_Desc": "Libra: 9008",
+        "id": 8004212,
+        "alias": "UI.BladeImprintPointName.9008",
+        "text": "第八星"
+    },
+    "8004213": {
+        "deprecated": false,
+        "Dev_Desc": "Libra: 9009",
+        "id": 8004213,
+        "alias": "UI.BladeImprintPointName.9009",
+        "text": "第九星"
+    },
+    "8004214": {
+        "deprecated": false,
+        "Dev_Desc": "Libra: 9010",
+        "id": 8004214,
+        "alias": "UI.BladeImprintPointName.9010",
+        "text": "热的"
+    },
+    "8004215": {
+        "deprecated": false,
+        "Dev_Desc": "Libra: 9011",
+        "id": 8004215,
+        "alias": "UI.BladeImprintPointName.9011",
+        "text": "霍尔顿明星"
+    },
+    "8004216": {
+        "deprecated": false,
+        "Dev_Desc": "Libra: 9012",
+        "id": 8004216,
+        "alias": "UI.BladeImprintPointName.9012",
+        "text": "第十二"
+    },
+    "8004217": {
+        "deprecated": false,
+        "Dev_Desc": "Libra: 9013",
+        "id": 8004217,
+        "alias": "UI.BladeImprintPointName.9013",
+        "text": "总数"
+    },
+    "8004218": {
+        "deprecated": false,
+        "Dev_Desc": "Scorpio: 10001",
+        "id": 8004218,
+        "alias": "UI.BladeImprintPointName.10001",
+        "text": "第一星"
+    },
+    "8004219": {
+        "deprecated": false,
+        "Dev_Desc": "Scorpio: 10002",
+        "id": 8004219,
+        "alias": "UI.BladeImprintPointName.10002",
+        "text": "第二星"
+    },
+    "8004220": {
+        "deprecated": false,
+        "Dev_Desc": "Scorpio: 10003",
+        "id": 8004220,
+        "alias": "UI.BladeImprintPointName.10003",
+        "text": "第三星"
+    },
+    "8004221": {
+        "deprecated": false,
+        "Dev_Desc": "Scorpio: 10004",
+        "id": 8004221,
+        "alias": "UI.BladeImprintPointName.10004",
+        "text": "第四颗星"
+    },
+    "8004222": {
+        "deprecated": false,
+        "Dev_Desc": "Scorpio: 10005",
+        "id": 8004222,
+        "alias": "UI.BladeImprintPointName.10005",
+        "text": "第五颗星"
+    },
+    "8004223": {
+        "deprecated": false,
+        "Dev_Desc": "Scorpio: 10006",
+        "id": 8004223,
+        "alias": "UI.BladeImprintPointName.10006",
+        "text": "第六星"
+    },
+    "8004224": {
+        "deprecated": false,
+        "Dev_Desc": "Scorpio: 10007",
+        "id": 8004224,
+        "alias": "UI.BladeImprintPointName.10007",
+        "text": "第七星"
+    },
+    "8004225": {
+        "deprecated": false,
+        "Dev_Desc": "Scorpio: 10008",
+        "id": 8004225,
+        "alias": "UI.BladeImprintPointName.10008",
+        "text": "第八星"
+    },
+    "8004226": {
+        "deprecated": false,
+        "Dev_Desc": "Scorpio: 10009",
+        "id": 8004226,
+        "alias": "UI.BladeImprintPointName.10009",
+        "text": "第九星"
+    },
+    "8004227": {
+        "deprecated": false,
+        "Dev_Desc": "Scorpio: 10010",
+        "id": 8004227,
+        "alias": "UI.BladeImprintPointName.10010",
+        "text": "热的"
+    },
+    "8004228": {
+        "deprecated": false,
+        "Dev_Desc": "Scorpio: 10011",
+        "id": 8004228,
+        "alias": "UI.BladeImprintPointName.10011",
+        "text": "霍尔顿明星"
+    },
+    "8004229": {
+        "deprecated": false,
+        "Dev_Desc": "Scorpio: 10012",
+        "id": 8004229,
+        "alias": "UI.BladeImprintPointName.10012",
+        "text": "第十二"
+    },
+    "8004230": {
+        "deprecated": false,
+        "Dev_Desc": "Scorpio: 10013",
+        "id": 8004230,
+        "alias": "UI.BladeImprintPointName.10013",
+        "text": "总数"
+    },
+    "8004231": {
+        "deprecated": false,
+        "Dev_Desc": "Sagittarius: 11001",
+        "id": 8004231,
+        "alias": "UI.BladeImprintPointName.11001",
+        "text": "第一星"
+    },
+    "8004232": {
+        "deprecated": false,
+        "Dev_Desc": "Sagittarius: 11002",
+        "id": 8004232,
+        "alias": "UI.BladeImprintPointName.11002",
+        "text": "第二星"
+    },
+    "8004233": {
+        "deprecated": false,
+        "Dev_Desc": "Sagittarius: 11003",
+        "id": 8004233,
+        "alias": "UI.BladeImprintPointName.11003",
+        "text": "第三星"
+    },
+    "8004234": {
+        "deprecated": false,
+        "Dev_Desc": "Sagittarius: 11004",
+        "id": 8004234,
+        "alias": "UI.BladeImprintPointName.11004",
+        "text": "第四颗星"
+    },
+    "8004235": {
+        "deprecated": false,
+        "Dev_Desc": "Sagittarius: 11005",
+        "id": 8004235,
+        "alias": "UI.BladeImprintPointName.11005",
+        "text": "第五颗星"
+    },
+    "8004236": {
+        "deprecated": false,
+        "Dev_Desc": "Sagittarius: 11006",
+        "id": 8004236,
+        "alias": "UI.BladeImprintPointName.11006",
+        "text": "第六星"
+    },
+    "8004237": {
+        "deprecated": false,
+        "Dev_Desc": "Sagittarius: 11007",
+        "id": 8004237,
+        "alias": "UI.BladeImprintPointName.11007",
+        "text": "第七星"
+    },
+    "8004238": {
+        "deprecated": false,
+        "Dev_Desc": "Sagittarius: 11008",
+        "id": 8004238,
+        "alias": "UI.BladeImprintPointName.11008",
+        "text": "第八星"
+    },
+    "8004239": {
+        "deprecated": false,
+        "Dev_Desc": "Sagittarius: 11009",
+        "id": 8004239,
+        "alias": "UI.BladeImprintPointName.11009",
+        "text": "第九星"
+    },
+    "8004240": {
+        "deprecated": false,
+        "Dev_Desc": "Sagittarius: 11010",
+        "id": 8004240,
+        "alias": "UI.BladeImprintPointName.11010",
+        "text": "热的"
+    },
+    "8004241": {
+        "deprecated": false,
+        "Dev_Desc": "Sagittarius: 11011",
+        "id": 8004241,
+        "alias": "UI.BladeImprintPointName.11011",
+        "text": "霍尔顿明星"
+    },
+    "8004242": {
+        "deprecated": false,
+        "Dev_Desc": "Sagittarius: 11012",
+        "id": 8004242,
+        "alias": "UI.BladeImprintPointName.11012",
+        "text": "第十二"
+    },
+    "8004243": {
+        "deprecated": false,
+        "Dev_Desc": "Sagittarius: 11013",
+        "id": 8004243,
+        "alias": "UI.BladeImprintPointName.11013",
+        "text": "总数"
+    },
+    "8004244": {
+        "deprecated": false,
+        "Dev_Desc": "Capricorn: 12001",
+        "id": 8004244,
+        "alias": "UI.BladeImprintPointName.12001",
+        "text": "第一星"
+    },
+    "8004245": {
+        "deprecated": false,
+        "Dev_Desc": "Capricorn: 12002",
+        "id": 8004245,
+        "alias": "UI.BladeImprintPointName.12002",
+        "text": "第二星"
+    },
+    "8004246": {
+        "deprecated": false,
+        "Dev_Desc": "Capricorn: 12003",
+        "id": 8004246,
+        "alias": "UI.BladeImprintPointName.12003",
+        "text": "第三星"
+    },
+    "8004247": {
+        "deprecated": false,
+        "Dev_Desc": "Capricorn: 12004",
+        "id": 8004247,
+        "alias": "UI.BladeImprintPointName.12004",
+        "text": "第四颗星"
+    },
+    "8004248": {
+        "deprecated": false,
+        "Dev_Desc": "Capricorn: 12005",
+        "id": 8004248,
+        "alias": "UI.BladeImprintPointName.12005",
+        "text": "第五颗星"
+    },
+    "8004249": {
+        "deprecated": false,
+        "Dev_Desc": "Capricorn: 12006",
+        "id": 8004249,
+        "alias": "UI.BladeImprintPointName.12006",
+        "text": "第六星"
+    },
+    "8004250": {
+        "deprecated": false,
+        "Dev_Desc": "Capricorn: 12007",
+        "id": 8004250,
+        "alias": "UI.BladeImprintPointName.12007",
+        "text": "第七星"
+    },
+    "8004251": {
+        "deprecated": false,
+        "Dev_Desc": "Capricorn: 12008",
+        "id": 8004251,
+        "alias": "UI.BladeImprintPointName.12008",
+        "text": "第八星"
+    },
+    "8004252": {
+        "deprecated": false,
+        "Dev_Desc": "Capricorn: 12009",
+        "id": 8004252,
+        "alias": "UI.BladeImprintPointName.12009",
+        "text": "第九星"
+    },
+    "8004253": {
+        "deprecated": false,
+        "Dev_Desc": "Capricorn: 12010",
+        "id": 8004253,
+        "alias": "UI.BladeImprintPointName.12010",
+        "text": "热的"
+    },
+    "8004254": {
+        "deprecated": false,
+        "Dev_Desc": "Capricorn: 12011",
+        "id": 8004254,
+        "alias": "UI.BladeImprintPointName.12011",
+        "text": "霍尔顿明星"
+    },
+    "8004255": {
+        "deprecated": false,
+        "Dev_Desc": "Capricorn: 12012",
+        "id": 8004255,
+        "alias": "UI.BladeImprintPointName.12012",
+        "text": "第十二"
+    },
+    "8004256": {
+        "deprecated": false,
+        "Dev_Desc": "Capricorn: 12013",
+        "id": 8004256,
+        "alias": "UI.BladeImprintPointName.12013",
+        "text": "总数"
+    },
+    "8004257": {
+        "deprecated": false,
+        "Dev_Desc": "파티 / 파티던전",
+        "id": 8004257,
+        "alias": "UI.PartyDungeon.Text.MemberOutMatchCancel",
+        "text": "党员的连接被打破，匹配被取消。"
+    },
+    "8004258": {
+        "deprecated": false,
+        "Dev_Desc": "파티 / 파티던전",
+        "id": 8004258,
+        "alias": "UI.PartyDungeon.Text.QuestConditionRequire",
+        "text": "完成"
+    },
+    "8004259": {
+        "deprecated": false,
+        "Dev_Desc": "파티 / 파티던전",
+        "id": 8004259,
+        "alias": "UI.PartyDungeon.Text.StatRequire",
+        "text": "要求"
+    },
+    "8004260": {
+        "deprecated": false,
+        "Dev_Desc": "파티 / 파티던전",
+        "id": 8004260,
+        "alias": "UI.PartyDungeon.Text.MatchingProgress",
+        "text": "匹配"
     }
 }

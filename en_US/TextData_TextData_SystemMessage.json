@@ -7913,5 +7913,40 @@
         "id": 9001192,
         "alias": "SysM.WorldMarket.Calculate.Fail",
         "text": "There is no item sold on the current server, so you can not settle."
+    },
+    "9001193": {
+        "deprecated": false,
+        "Dev_Desc": "비무 / 문파 장원 나가기 시도 시 에러 메시지",
+        "id": 9001193,
+        "alias": "SysM.Battle.Error4",
+        "text": "Not available during the non-Virtue."
+    },
+    "9001194": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 클리어 메시지",
+        "id": 9001194,
+        "alias": "SysM.Dungeon.Clear.SystemMessage_01",
+        "text": "Challenge success!"
+    },
+    "9001195": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 클리어 메시지",
+        "id": 9001195,
+        "alias": "SysM.Dungeon.Clear.SystemMessage_02",
+        "text": "We have achieved the target of the dungeon."
+    },
+    "9001196": {
+        "deprecated": false,
+        "Dev_Desc": "거래소 / 일반적인 오류2",
+        "id": 9001196,
+        "alias": "SysM.Market.Error2",
+        "text": "Exchange use has been limited. Please try again in a few minutes."
+    },
+    "9001197": {
+        "deprecated": false,
+        "Dev_Desc": "거래소 / 새로고침 / 쿨타임",
+        "id": 9001197,
+        "alias": "SysM.Market.ResetButton.Cooltime",
+        "text": "Refresh after a while."
     }
 }

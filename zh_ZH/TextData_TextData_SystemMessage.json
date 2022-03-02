@@ -7913,5 +7913,40 @@
         "id": 9001192,
         "alias": "SysM.WorldMarket.Calculate.Fail",
         "text": "当前服务器上没有销售的物品，所以你不能解决。"
+    },
+    "9001193": {
+        "deprecated": false,
+        "Dev_Desc": "비무 / 문파 장원 나가기 시도 시 에러 메시지",
+        "id": 9001193,
+        "alias": "SysM.Battle.Error4",
+        "text": "在非美德期间不可用。"
+    },
+    "9001194": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 클리어 메시지",
+        "id": 9001194,
+        "alias": "SysM.Dungeon.Clear.SystemMessage_01",
+        "text": "挑战成功！"
+    },
+    "9001195": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 클리어 메시지",
+        "id": 9001195,
+        "alias": "SysM.Dungeon.Clear.SystemMessage_02",
+        "text": "我们已经达到了地牢的目标。"
+    },
+    "9001196": {
+        "deprecated": false,
+        "Dev_Desc": "거래소 / 일반적인 오류2",
+        "id": 9001196,
+        "alias": "SysM.Market.Error2",
+        "text": "交换机已经有限。请在几分钟后再试一次。"
+    },
+    "9001197": {
+        "deprecated": false,
+        "Dev_Desc": "거래소 / 새로고침 / 쿨타임",
+        "id": 9001197,
+        "alias": "SysM.Market.ResetButton.Cooltime",
+        "text": "一段时间后刷新。"
     }
 }
