@@ -494,21 +494,21 @@
         "Dev_Desc": "구원_증폭_설명",
         "id": 60070124,
         "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7092",
-        "text": "10초간 통제 저항률 +10%"
+        "text": "4초간 이동 속도 증가율 +50%\n재사용 대기시간 -10초"
     },
     "60070125": {
         "deprecated": false,
         "Dev_Desc": "구원_극한_설명",
         "id": 60070125,
         "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7093",
-        "text": "재사용 대기시간 -10초"
+        "text": "<textColor=[248:99:99:255]>공중</>, <textColor=[248:99:99:255]>도발</> 추가 해제\n블레이드 효과의 <textColor=[248:99:99:255]>행동불능</> 추가 해제\n재사용 대기시간 -20초"
     },
     "60070126": {
         "deprecated": false,
         "Dev_Desc": "구원_돌파_설명",
         "id": 60070126,
         "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7094",
-        "text": "<textColor=[248:99:99:255]>공중</>, <textColor=[248:99:99:255]>도발</> 추가 해제\n블레이드 효과의 <textColor=[248:99:99:255]>행동불능</> 추가 해제"
+        "text": "5초간 통제 면역"
     },
     "60070127": {
         "deprecated": false,
@@ -820,7 +820,7 @@
         "Dev_Desc": "구원_통제저항_버프창",
         "id": 60070313,
         "alias": "Contents.Effect.Desc.RitualBell.709200",
-        "text": "통제 저항률 증가"
+        "text": "이동 속도 증가율"
     },
     "60070314": {
         "deprecated": false,
@@ -1190,41 +1190,27 @@
         "deprecated": false,
         "Dev_Desc": "구원_통제저항_버프창",
         "id": 60070366,
-        "alias": "Contents.Effect.Name.RitualBell.709200",
-        "text": "구원(통제 저항률)"
+        "alias": "Contents.Effect.Option.RitualBell.709200",
+        "text": "이동 속도 증가율 +50%"
     },
     "60070367": {
         "deprecated": false,
-        "Dev_Desc": "구원_통제저항_버프창",
+        "Dev_Desc": "치유지대_돌파_치명 저항률 버프창",
         "id": 60070367,
-        "alias": "Contents.Effect.Desc.RitualBell.709200",
-        "text": "통제 저항률 증가"
+        "alias": "Contents.Effect.Name.RitualBell.707450",
+        "text": "치유지대(치명 저항률)"
     },
     "60070368": {
         "deprecated": false,
-        "Dev_Desc": "구원_통제저항_버프창",
+        "Dev_Desc": "치유지대_돌파_치명 저항률 버프창",
         "id": 60070368,
-        "alias": "Contents.Effect.Option.RitualBell.709200",
-        "text": "통제 저항률 +10%"
+        "alias": "Contents.Effect.Desc.RitualBell.707450",
+        "text": "치명 저항률 증가"
     },
     "60070369": {
         "deprecated": false,
         "Dev_Desc": "치유지대_돌파_치명 저항률 버프창",
         "id": 60070369,
-        "alias": "Contents.Effect.Name.RitualBell.707450",
-        "text": "치유지대(치명 저항률)"
-    },
-    "60070370": {
-        "deprecated": false,
-        "Dev_Desc": "치유지대_돌파_치명 저항률 버프창",
-        "id": 60070370,
-        "alias": "Contents.Effect.Desc.RitualBell.707450",
-        "text": "치명 저항률 증가"
-    },
-    "60070371": {
-        "deprecated": false,
-        "Dev_Desc": "치유지대_돌파_치명 저항률 버프창",
-        "id": 60070371,
         "alias": "Contents.Effect.Option.RitualBell.707450",
         "text": "치명 저항률 +20%"
     },

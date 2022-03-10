@@ -379,9 +379,9 @@
     },
     "83100056": {
         "deprecated": false,
-        "Dev_Desc": "특별 소울 소환 / 야루, 오름, 백화렴",
+        "Dev_Desc": "특별 소울 소환 / 파사, 회귀자 파사, 송시국, 뇌신",
         "id": 83100056,
-        "alias": "Contents.CashShop.Item.Name.1053",
+        "alias": "Contents.CashShop.Item.Name.1055",
         "text": "<textColor = [206：120：78：255]> shiro，</> <textColor=[172:98:223:255]>回归安排，Wanderer有机</> \\n <textColor=[172:98:223:255]></> \\n <[255：255：255：255]> </> \\n <textColor = [92：163：255：255]>高级</> <textColor=[255:255:255:255]>〜</> <textColor = [206：120：78：255]>图例</> <textColor=[255:255:255:255]>评级</> \\n <textColor=[255:255:255:255]>各种灵魂收购</>"
     },
     "83100057": {
@@ -2196,6 +2196,41 @@
         "id": 83200261,
         "alias": "Contents.CashShop.Item.Name.5390",
         "text": "召唤奢侈灵魂召唤（1）"
+    },
+    "83200262": {
+        "deprecated": false,
+        "Dev_Desc": "특별 소울 소환 / 파사, 회귀자 파사, 송시국, 뇌신 / 1회",
+        "id": 83200262,
+        "alias": "Contents.CashShop.Item.Name.5391",
+        "text": "特殊灵魂召唤1"
+    },
+    "83200263": {
+        "deprecated": false,
+        "Dev_Desc": "특별 소울 소환 / 파사, 회귀자 파사, 송시국, 뇌신 / 11회",
+        "id": 83200263,
+        "alias": "Contents.CashShop.Item.Name.5392",
+        "text": "特殊灵魂召唤11次"
+    },
+    "83200264": {
+        "deprecated": false,
+        "Dev_Desc": "200일 기념 상자Ⅰ",
+        "id": 83200264,
+        "alias": "Contents.CashShop.Item.Name.5393",
+        "text": "200天纪念盒Ⅰ"
+    },
+    "83200265": {
+        "deprecated": false,
+        "Dev_Desc": "200일 기념 상자Ⅱ",
+        "id": 83200265,
+        "alias": "Contents.CashShop.Item.Name.5394",
+        "text": "200天纪念盒II"
+    },
+    "83200266": {
+        "deprecated": false,
+        "Dev_Desc": "탄생의 물결 패키지",
+        "id": 83200266,
+        "alias": "Contents.CashShop.Item.Name.5395",
+        "text": "波浪包的诞生"
     },
     "83350000": {
         "deprecated": false,
@@ -5059,5 +5094,40 @@
         "id": 83350418,
         "alias": "Contents.CashShop.Item.Name.9710273",
         "text": "召唤奢侈灵魂召唤（1）"
+    },
+    "83350419": {
+        "deprecated": false,
+        "Dev_Desc": "특별 소울 소환 / 시로, 아랑, 유기 / 1회",
+        "id": 83350419,
+        "alias": "Contents.CashShop.Item.Name.9710274",
+        "text": "特殊灵魂召唤1"
+    },
+    "83350420": {
+        "deprecated": false,
+        "Dev_Desc": "특별 소울 소환 / 시로, 아랑, 유기 / 11회",
+        "id": 83350420,
+        "alias": "Contents.CashShop.Item.Name.9710275",
+        "text": "特殊灵魂召唤11次"
+    },
+    "83350421": {
+        "deprecated": false,
+        "Dev_Desc": "200일 기념 상자Ⅰ",
+        "id": 83350421,
+        "alias": "Contents.CashShop.Item.Name.9850161",
+        "text": "200天纪念盒Ⅰ"
+    },
+    "83350422": {
+        "deprecated": false,
+        "Dev_Desc": "200일 기념 상자Ⅱ",
+        "id": 83350422,
+        "alias": "Contents.CashShop.Item.Name.9850162",
+        "text": "200天纪念盒II"
+    },
+    "83350423": {
+        "deprecated": false,
+        "Dev_Desc": "탄생의 물결 패키지 상자",
+        "id": 83350423,
+        "alias": "Contents.CashShop.Item.Name.9850163",
+        "text": "波浪包装盒的诞生"
     }
 }

@@ -2706,7 +2706,7 @@
         "Dev_Desc": "HUD / ",
         "id": 8000387,
         "alias": "UI.HUD.Second.Later",
-        "text": "초 후"
+        "text": "초"
     },
     "8000388": {
         "deprecated": false,
@@ -7375,7 +7375,7 @@
         "Dev_Desc": "제작 / 대체 재료 선택 후 제작 가능",
         "id": 8001106,
         "alias": "UI.Craft.CheckResource",
-        "text": "대제 재료를 선택하여 제작할 수 있습니다."
+        "text": "대체 재료를 선택하여 제작할 수 있습니다."
     },
     "8001107": {
         "deprecated": false,
@@ -13766,7 +13766,7 @@
         "Dev_Desc": "캐시상점 / 서브 탭 / 패키지 탭 / 부가서비스",
         "id": 8002039,
         "alias": "UI.CashShop.TapName.Sub.Package3",
-        "text": "테스트용 상품"
+        "text": "부가 서비스"
     },
     "8002040": {
         "deprecated": false,
@@ -26703,14 +26703,14 @@
         "Dev_Desc": "던전 / 파티던전",
         "id": 8003897,
         "alias": "UI.PartyDungeon.Text.RewardCountRemain",
-        "text": "보상 획득 가능 횟수"
+        "text": "획득권 보상 횟수"
     },
     "8003898": {
         "deprecated": false,
         "Dev_Desc": "던전 / 파티던전",
         "id": 8003898,
         "alias": "UI.PartyDungeon.Text.WeeklyReset",
-        "text": "이용 횟수를 초과하면 던전 완료보상을 받을 수 없습니다. 이용 횟수는 매주 수요일 오전 5시에 초기화 됩니다."
+        "text": "횟수를 초과 하면 기본 보상만 받을 수 있습니다. 획득권 보상 횟수는 매주 수요일 오전 5시에 초기화 됩니다."
     },
     "8003899": {
         "deprecated": false,
@@ -27886,7 +27886,7 @@
         "Dev_Desc": "로그인 UI / 연령 팝업 / 내용 제목",
         "id": 8004066,
         "alias": "UI.Login.AgePopup.Desc",
-        "text": "1) 본 게임은 복잡한 게임 플레이가 가능한 대규모 다중 접속 온라인 롤플레잉 게임으로 만 16세 이상 관람가에 적합하며 미성년자는 부모의 감독하에 게임 이용을 권장합니다.\n2) 이 게임은 동양적 판타지 세계관과 고전 엔드 게임 \"Blade&Soul\"의 오버헤드 배경을 기반으로 하며 웅장한 서사, 풍부한 캐릭터 디자인 및 게임 분위기를 조성하는 풍부한 음향 효과를 제공합니다. 게임은 많은 시간과 노력을 요하는 캐릭터 육성, 검신과 수호신 수집, 던전, 대회 등 다양한 방식으로 플레이할 수 있습니다. 게임 내에는 텍스트 기반의 낯선 사람을 위한 소셜 시스템이 있으며, 소셜 시스템의 관리는 관련 법규를 따릅니다.\n3) 국가 관련 규정에 따라 게임 내 이용자 실명제를 시행하고 있으며, 실명인증을 통과하지 못한 이용자는 게임에 입장할 수 없으며, 미성년자로 인증된 이용자는 20:00부터 ~ 매주 금,토,일 및 법정 공휴일 21일, 이 시간 외에는 게임에 접속할 수 없습니다. 게임의 일부 게임 플레이 및 소품은 결제가 필요합니다. Tencent 건강 시스템 관리 규정에 따라 미성년자로 인증된 사용자는 다음 관리 대상이 됩니다.\n12세 미만의 사용자는 지불할 수 없으며 12세 이상 16세 미만의 미성년자는 1회 충전 금액이 50위안을 초과할 수 없으며 월 충전 금액은 200위안을 초과할 수 없습니다. 16세 이상의 미성년자는 사용자, 단일 충전 금액은 100위안을 초과할 수 없으며 월별 충전 금액은 400위안을 초과할 수 없습니다.\n4) 게임 배경 및 플롯 디자인은 동양 문화 배경을 기반으로 하며 동양 판타지 스타일이 강하여 플레이어에게 편안하고 즐거운 감정적 경험을 제공할 수 있습니다. 이 게임은 또한 종파, 세력 등을 포함한 풍부한 사회 시스템을 제공하며 플레이어는 서로 의사 소통하고 서로 협력하며 게임 작업을 함께 완료하여 플레이어의 사회적 교류를 촉진하고 좋은 커뮤니티 관계를 유지하는 데 도움이 됩니다."
+        "text": "1) 본 게임은 복잡한 게임 플레이가 가능한 대규모 다중 접속 온라인 롤플레잉 게임으로 만 16세 이상 관람가에 적합하며 미성년자는 부모의 감독하에 게임 이용을 권장합니다.\n\n2) 이 게임은 \"Blade&Soul\" 시리즈의 대체 스토리 배경과 동양적 판타지 세계관을 기반으로 하며 스토리가 웅장하고 캐릭터 디자인이 풍부하며 그림이 3차원에 가까운 사실적인 스타일이며, 게임 분위기를 조성하는 풍부한 음향 효과가 있습니다. 게임은 플레이어 간의 대결을 허용하며 다양한 대결 방식이 존재하지만 부적절한 대결을 조장하거나 미화하는 내용은 포함되어 있지 않습니다. 게임 내에는 텍스트 기반의 낯선 사람을 위한 소셜 시스템이 있으며, 소셜 시스템의 관리는 관련 법규를 따릅니다.\n\n3) 국가 관련 규정에 따라 게임 내 이용자 실명제를 시행하고 있으며, 실명인증을 통과하지 못한 이용자는 게임에 입장할 수 없으며, 미성년자로 인증된 이용자는 20:00부터 ~ 매주 금,토,일 및 법정 공휴일 21일, 이 시간 외에는 게임에 접속할 수 없습니다.\n게임의 일부 게임 플레이 및 소품은 결제가 필요합니다. Tencent 건강 시스템 관리 규정에 따라 미성년자로 인증된 사용자는 다음 관리 대상이 됩니다.\n12세 미만의 사용자는 지불할 수 없으며 12세 이상 16세 미만의 미성년자는 1회 충전 금액이 50위안을 초과할 수 없으며 월 충전 금액은 200위안을 초과할 수 없습니다. 16세 이상의 미성년자는 사용자, 단일 충전 금액은 100위안을 초과할 수 없으며 월별 충전 금액은 400위안을 초과할 수 없습니다.\n\n4) 게임 배경 및 플롯 디자인은 동양 문화 배경을 기반으로 하며 동양 판타지 스타일이 강하여 플레이어에게 편안하고 즐거운 감정적 경험을 제공할 수 있습니다. 플레이어는 조이스틱을 조작하여 캐릭터의 방향을 제어할 수 있으며, 적을 공격하고 적의 공격을 피하기 위해 스킬을 해제하여 플레이어의 손과 눈의 협응과 반사 신경을 훈련할 수 있습니다. 이 게임은 종파, 세력 등을 포함한 풍부한 사회 시스템을 제공하며 플레이어는 서로 의사 소통하고 서로 협력하며 게임 작업을 함께 완료하여 플레이어의 사회적 교류를 촉진하고 좋은 커뮤니티 관계를 유지하는 데 도움이 됩니다."
     },
     "8004067": {
         "deprecated": false,
@@ -27935,7 +27935,7 @@
         "Dev_Desc": "이벤트 제작 레시피 탭 / 붉은 약탈자의 귀혼",
         "id": 8004073,
         "alias": "UI.Craft.LeftSubTabName.Event.RedBandit_01",
-        "text": "붉은 약탈자의 귀혼"
+        "text": "붉은 약탈자 귀혼"
     },
     "8004074": {
         "deprecated": false,
@@ -27943,5 +27943,1342 @@
         "id": 8004074,
         "alias": "UI.PartyDungeon.Text.ErrorInvitePartyFail_InPartyDungeon",
         "text": "던전 내에 있는 대상은 초대할 수 없습니다."
+    },
+    "8004075": {
+        "deprecated": false,
+        "Dev_Desc": "서브 슬롯 소울",
+        "id": 8004075,
+        "alias": "UI.BNS.EnhanceSlot.Title",
+        "text": "블레이드 강화 슬롯"
+    },
+    "8004076": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 / 섹션A",
+        "id": 8004076,
+        "alias": "UI.Galaxy.Name.SectionA",
+        "text": "봄의 환희"
+    },
+    "8004077": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 / 섹션B",
+        "id": 8004077,
+        "alias": "UI.Galaxy.Name.SectionB",
+        "text": "여름의 속삭임"
+    },
+    "8004078": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 / 섹션C",
+        "id": 8004078,
+        "alias": "UI.Galaxy.Name.SectionC",
+        "text": "가을의 열정"
+    },
+    "8004079": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 / 섹션d",
+        "id": 8004079,
+        "alias": "UI.Galaxy.Name.SectionD",
+        "text": "겨울의 온기"
+    },
+    "8004080": {
+        "deprecated": false,
+        "Dev_Desc": "채팅 / 매크로 / 텍스트 입력 설명",
+        "id": 8004080,
+        "alias": "UI.Chat.Macro.Desc",
+        "text": "빠른 채팅 내용을 입력하세요."
+    },
+    "8004081": {
+        "deprecated": false,
+        "Dev_Desc": "물병자리",
+        "id": 8004081,
+        "alias": "UI.Galaxy.Name.StarLink.1",
+        "text": "물병자리"
+    },
+    "8004082": {
+        "deprecated": false,
+        "Dev_Desc": "물고기자리",
+        "id": 8004082,
+        "alias": "UI.Galaxy.Name.StarLink.2",
+        "text": "물고기자리"
+    },
+    "8004083": {
+        "deprecated": false,
+        "Dev_Desc": "양자리",
+        "id": 8004083,
+        "alias": "UI.Galaxy.Name.StarLink.3",
+        "text": "양자리"
+    },
+    "8004084": {
+        "deprecated": false,
+        "Dev_Desc": "황소자리",
+        "id": 8004084,
+        "alias": "UI.Galaxy.Name.StarLink.4",
+        "text": "황소자리"
+    },
+    "8004085": {
+        "deprecated": false,
+        "Dev_Desc": "쌍둥이자리",
+        "id": 8004085,
+        "alias": "UI.Galaxy.Name.StarLink.5",
+        "text": "쌍둥이자리"
+    },
+    "8004086": {
+        "deprecated": false,
+        "Dev_Desc": "게자리",
+        "id": 8004086,
+        "alias": "UI.Galaxy.Name.StarLink.6",
+        "text": "게자리"
+    },
+    "8004087": {
+        "deprecated": false,
+        "Dev_Desc": "사자자리",
+        "id": 8004087,
+        "alias": "UI.Galaxy.Name.StarLink.7",
+        "text": "사자자리"
+    },
+    "8004088": {
+        "deprecated": false,
+        "Dev_Desc": "처녀자리",
+        "id": 8004088,
+        "alias": "UI.Galaxy.Name.StarLink.8",
+        "text": "처녀자리"
+    },
+    "8004089": {
+        "deprecated": false,
+        "Dev_Desc": "천칭자리",
+        "id": 8004089,
+        "alias": "UI.Galaxy.Name.StarLink.9",
+        "text": "천칭자리"
+    },
+    "8004090": {
+        "deprecated": false,
+        "Dev_Desc": "전갈자리",
+        "id": 8004090,
+        "alias": "UI.Galaxy.Name.StarLink.10",
+        "text": "전갈자리"
+    },
+    "8004091": {
+        "deprecated": false,
+        "Dev_Desc": "사수자리",
+        "id": 8004091,
+        "alias": "UI.Galaxy.Name.StarLink.11",
+        "text": "사수자리"
+    },
+    "8004092": {
+        "deprecated": false,
+        "Dev_Desc": "염소자리",
+        "id": 8004092,
+        "alias": "UI.Galaxy.Name.StarLink.12",
+        "text": "염소자리"
+    },
+    "8004093": {
+        "deprecated": false,
+        "Dev_Desc": "공용 / 키보드 / 엔터키",
+        "id": 8004093,
+        "alias": "UI.Common.Keyboard.Enter",
+        "text": "Enter"
+    },
+    "8004094": {
+        "deprecated": false,
+        "Dev_Desc": "파티 / 파티던전",
+        "id": 8004094,
+        "alias": "UI.PartyDungeon.Text.Difficulty.Easy",
+        "text": "쉬움"
+    },
+    "8004095": {
+        "deprecated": false,
+        "Dev_Desc": "파티 / 파티던전",
+        "id": 8004095,
+        "alias": "UI.PartyDungeon.Text.Difficulty.Normal",
+        "text": "보통"
+    },
+    "8004096": {
+        "deprecated": false,
+        "Dev_Desc": "파티 / 파티던전",
+        "id": 8004096,
+        "alias": "UI.PartyDungeon.Text.Difficulty.Hard",
+        "text": "어려움"
+    },
+    "8004097": {
+        "deprecated": false,
+        "Dev_Desc": "파티 / 파티던전",
+        "id": 8004097,
+        "alias": "UI.PartyDungeon.Text.Difficulty.VeryHard",
+        "text": "매우 어려움"
+    },
+    "8004098": {
+        "deprecated": false,
+        "Dev_Desc": "파티 / 파티던전",
+        "id": 8004098,
+        "alias": "UI.PartyDungeon.Text.ExpectRewardList",
+        "text": "획득 가능 보상"
+    },
+    "8004099": {
+        "deprecated": false,
+        "Dev_Desc": "파티 / 파티던전",
+        "id": 8004099,
+        "alias": "UI.PartyDungeon.Text.NormalRewardList",
+        "text": "기본 보상"
+    },
+    "8004100": {
+        "deprecated": false,
+        "Dev_Desc": "파티 / 파티던전",
+        "id": 8004100,
+        "alias": "UI.PartyDungeon.Text.TicketRewardList",
+        "text": "획득권 보상"
+    },
+    "8004101": {
+        "deprecated": false,
+        "Dev_Desc": "파티 / 파티던전",
+        "id": 8004101,
+        "alias": "UI.PartyDungeon.Text.RemainTimeMinimap",
+        "text": "남은 시간"
+    },
+    "8004102": {
+        "deprecated": false,
+        "Dev_Desc": "소울장착 / 강화소울 / 슬롯개방팝업 본문",
+        "id": 8004102,
+        "alias": "UI.Yarubox.OpenSlot.Popup.Desc",
+        "text": "각성 포인트를 사용하여 블레이드 효과 강화 소울 슬롯을 개방하시겠습니까?"
+    },
+    "8004103": {
+        "deprecated": false,
+        "Dev_Desc": "소울장착 / 강화소울 / 슬롯개방팝업 확인",
+        "id": 8004103,
+        "alias": "UI.Yarubox.OpenSlot.Popup.BtnConfirm",
+        "text": "개방"
+    },
+    "8004104": {
+        "deprecated": false,
+        "Dev_Desc": "소울장착 / 강화소울 / 슬롯개방팝업 취소",
+        "id": 8004104,
+        "alias": "UI.Yarubox.OpenSlot.Popup.BtnCancel",
+        "text": "취소"
+    },
+    "8004105": {
+        "deprecated": false,
+        "Dev_Desc": "소울장착 / 강화소울 / 슬롯개방팝업 / 부족",
+        "id": 8004105,
+        "alias": "UI.Yarubox.OpenSlot.Error.BtnConfirm.Lack",
+        "text": "각성 포인트가 부족하여 슬롯을 개방할 수 없습니다."
+    },
+    "8004106": {
+        "deprecated": false,
+        "Dev_Desc": "소울장착 / 강화소울 / 슬롯개방팝업 / 오류",
+        "id": 8004106,
+        "alias": "UI.Yarubox.OpenSlot.Error.SlotSelection",
+        "text": "슬롯은 순서대로 개방 가능합니다."
+    },
+    "8004107": {
+        "deprecated": false,
+        "Dev_Desc": "파티 / 파티던전",
+        "id": 8004107,
+        "alias": "UI.PartyDungeon.Text.MemberChangeMatchCancel",
+        "text": "파티 구성이 변경되어 매칭을 취소합니다"
+    },
+    "8004108": {
+        "deprecated": false,
+        "Dev_Desc": "Aquarius: 1001",
+        "id": 8004108,
+        "alias": "UI.BladeImprintPointName.1001",
+        "text": "첫번째 별"
+    },
+    "8004109": {
+        "deprecated": false,
+        "Dev_Desc": "Aquarius: 1002",
+        "id": 8004109,
+        "alias": "UI.BladeImprintPointName.1002",
+        "text": "두번째 별"
+    },
+    "8004110": {
+        "deprecated": false,
+        "Dev_Desc": "Aquarius: 1003",
+        "id": 8004110,
+        "alias": "UI.BladeImprintPointName.1003",
+        "text": "세번째 별"
+    },
+    "8004111": {
+        "deprecated": false,
+        "Dev_Desc": "Aquarius: 1004",
+        "id": 8004111,
+        "alias": "UI.BladeImprintPointName.1004",
+        "text": "네번째 별"
+    },
+    "8004112": {
+        "deprecated": false,
+        "Dev_Desc": "Aquarius: 1005",
+        "id": 8004112,
+        "alias": "UI.BladeImprintPointName.1005",
+        "text": "다섯번째 별"
+    },
+    "8004113": {
+        "deprecated": false,
+        "Dev_Desc": "Aquarius: 1006",
+        "id": 8004113,
+        "alias": "UI.BladeImprintPointName.1006",
+        "text": "여섯번째 별"
+    },
+    "8004114": {
+        "deprecated": false,
+        "Dev_Desc": "Aquarius: 1007",
+        "id": 8004114,
+        "alias": "UI.BladeImprintPointName.1007",
+        "text": "일곱번째 별"
+    },
+    "8004115": {
+        "deprecated": false,
+        "Dev_Desc": "Aquarius: 1008",
+        "id": 8004115,
+        "alias": "UI.BladeImprintPointName.1008",
+        "text": "여덟번째 별"
+    },
+    "8004116": {
+        "deprecated": false,
+        "Dev_Desc": "Aquarius: 1009",
+        "id": 8004116,
+        "alias": "UI.BladeImprintPointName.1009",
+        "text": "아홉번째 별"
+    },
+    "8004117": {
+        "deprecated": false,
+        "Dev_Desc": "Aquarius: 1010",
+        "id": 8004117,
+        "alias": "UI.BladeImprintPointName.1010",
+        "text": "열번째 별"
+    },
+    "8004118": {
+        "deprecated": false,
+        "Dev_Desc": "Aquarius: 1011",
+        "id": 8004118,
+        "alias": "UI.BladeImprintPointName.1011",
+        "text": "열한번째 별"
+    },
+    "8004119": {
+        "deprecated": false,
+        "Dev_Desc": "Aquarius: 1012",
+        "id": 8004119,
+        "alias": "UI.BladeImprintPointName.1012",
+        "text": "열두번째 별"
+    },
+    "8004120": {
+        "deprecated": false,
+        "Dev_Desc": "Aquarius: 1013",
+        "id": 8004120,
+        "alias": "UI.BladeImprintPointName.1013",
+        "text": "열세번째 별"
+    },
+    "8004121": {
+        "deprecated": false,
+        "Dev_Desc": "Pisces: 2001",
+        "id": 8004121,
+        "alias": "UI.BladeImprintPointName.2001",
+        "text": "첫번째 별"
+    },
+    "8004122": {
+        "deprecated": false,
+        "Dev_Desc": "Pisces: 2002",
+        "id": 8004122,
+        "alias": "UI.BladeImprintPointName.2002",
+        "text": "두번째 별"
+    },
+    "8004123": {
+        "deprecated": false,
+        "Dev_Desc": "Pisces: 2003",
+        "id": 8004123,
+        "alias": "UI.BladeImprintPointName.2003",
+        "text": "세번째 별"
+    },
+    "8004124": {
+        "deprecated": false,
+        "Dev_Desc": "Pisces: 2004",
+        "id": 8004124,
+        "alias": "UI.BladeImprintPointName.2004",
+        "text": "네번째 별"
+    },
+    "8004125": {
+        "deprecated": false,
+        "Dev_Desc": "Pisces: 2005",
+        "id": 8004125,
+        "alias": "UI.BladeImprintPointName.2005",
+        "text": "다섯번째 별"
+    },
+    "8004126": {
+        "deprecated": false,
+        "Dev_Desc": "Pisces: 2006",
+        "id": 8004126,
+        "alias": "UI.BladeImprintPointName.2006",
+        "text": "여섯번째 별"
+    },
+    "8004127": {
+        "deprecated": false,
+        "Dev_Desc": "Pisces: 2007",
+        "id": 8004127,
+        "alias": "UI.BladeImprintPointName.2007",
+        "text": "일곱번째 별"
+    },
+    "8004128": {
+        "deprecated": false,
+        "Dev_Desc": "Pisces: 2008",
+        "id": 8004128,
+        "alias": "UI.BladeImprintPointName.2008",
+        "text": "여덟번째 별"
+    },
+    "8004129": {
+        "deprecated": false,
+        "Dev_Desc": "Pisces: 2009",
+        "id": 8004129,
+        "alias": "UI.BladeImprintPointName.2009",
+        "text": "아홉번째 별"
+    },
+    "8004130": {
+        "deprecated": false,
+        "Dev_Desc": "Pisces: 2010",
+        "id": 8004130,
+        "alias": "UI.BladeImprintPointName.2010",
+        "text": "열번째 별"
+    },
+    "8004131": {
+        "deprecated": false,
+        "Dev_Desc": "Pisces: 2011",
+        "id": 8004131,
+        "alias": "UI.BladeImprintPointName.2011",
+        "text": "열한번째 별"
+    },
+    "8004132": {
+        "deprecated": false,
+        "Dev_Desc": "Pisces: 2012",
+        "id": 8004132,
+        "alias": "UI.BladeImprintPointName.2012",
+        "text": "열두번째 별"
+    },
+    "8004133": {
+        "deprecated": false,
+        "Dev_Desc": "Pisces: 2013",
+        "id": 8004133,
+        "alias": "UI.BladeImprintPointName.2013",
+        "text": "열세번째 별"
+    },
+    "8004134": {
+        "deprecated": false,
+        "Dev_Desc": "Pisces: 2014",
+        "id": 8004134,
+        "alias": "UI.BladeImprintPointName.2014",
+        "text": "열네번째 별"
+    },
+    "8004135": {
+        "deprecated": false,
+        "Dev_Desc": "Pisces: 2015",
+        "id": 8004135,
+        "alias": "UI.BladeImprintPointName.2015",
+        "text": "열다섯번째 별"
+    },
+    "8004136": {
+        "deprecated": false,
+        "Dev_Desc": "Pisces: 2016",
+        "id": 8004136,
+        "alias": "UI.BladeImprintPointName.2016",
+        "text": "열여섯번째 별"
+    },
+    "8004137": {
+        "deprecated": false,
+        "Dev_Desc": "Pisces: 2017",
+        "id": 8004137,
+        "alias": "UI.BladeImprintPointName.2017",
+        "text": "열일곱번째 별"
+    },
+    "8004138": {
+        "deprecated": false,
+        "Dev_Desc": "Aries: 3001",
+        "id": 8004138,
+        "alias": "UI.BladeImprintPointName.3001",
+        "text": "첫번째 별"
+    },
+    "8004139": {
+        "deprecated": false,
+        "Dev_Desc": "Aries: 3002",
+        "id": 8004139,
+        "alias": "UI.BladeImprintPointName.3002",
+        "text": "두번째 별"
+    },
+    "8004140": {
+        "deprecated": false,
+        "Dev_Desc": "Aries: 3003",
+        "id": 8004140,
+        "alias": "UI.BladeImprintPointName.3003",
+        "text": "세번째 별"
+    },
+    "8004141": {
+        "deprecated": false,
+        "Dev_Desc": "Aries: 3004",
+        "id": 8004141,
+        "alias": "UI.BladeImprintPointName.3004",
+        "text": "네번째 별"
+    },
+    "8004142": {
+        "deprecated": false,
+        "Dev_Desc": "Aries: 3005",
+        "id": 8004142,
+        "alias": "UI.BladeImprintPointName.3005",
+        "text": "다섯번째 별"
+    },
+    "8004143": {
+        "deprecated": false,
+        "Dev_Desc": "Aries: 3006",
+        "id": 8004143,
+        "alias": "UI.BladeImprintPointName.3006",
+        "text": "여섯번째 별"
+    },
+    "8004144": {
+        "deprecated": false,
+        "Dev_Desc": "Aries: 3007",
+        "id": 8004144,
+        "alias": "UI.BladeImprintPointName.3007",
+        "text": "일곱번째 별"
+    },
+    "8004145": {
+        "deprecated": false,
+        "Dev_Desc": "Aries: 3008",
+        "id": 8004145,
+        "alias": "UI.BladeImprintPointName.3008",
+        "text": "여덟번째 별"
+    },
+    "8004146": {
+        "deprecated": false,
+        "Dev_Desc": "Aries: 3009",
+        "id": 8004146,
+        "alias": "UI.BladeImprintPointName.3009",
+        "text": "아홉번째 별"
+    },
+    "8004147": {
+        "deprecated": false,
+        "Dev_Desc": "Taurus: 4001",
+        "id": 8004147,
+        "alias": "UI.BladeImprintPointName.4001",
+        "text": "첫번째 별"
+    },
+    "8004148": {
+        "deprecated": false,
+        "Dev_Desc": "Taurus: 4002",
+        "id": 8004148,
+        "alias": "UI.BladeImprintPointName.4002",
+        "text": "두번째 별"
+    },
+    "8004149": {
+        "deprecated": false,
+        "Dev_Desc": "Taurus: 4003",
+        "id": 8004149,
+        "alias": "UI.BladeImprintPointName.4003",
+        "text": "세번째 별"
+    },
+    "8004150": {
+        "deprecated": false,
+        "Dev_Desc": "Taurus: 4004",
+        "id": 8004150,
+        "alias": "UI.BladeImprintPointName.4004",
+        "text": "네번째 별"
+    },
+    "8004151": {
+        "deprecated": false,
+        "Dev_Desc": "Taurus: 4005",
+        "id": 8004151,
+        "alias": "UI.BladeImprintPointName.4005",
+        "text": "다섯번째 별"
+    },
+    "8004152": {
+        "deprecated": false,
+        "Dev_Desc": "Taurus: 4006",
+        "id": 8004152,
+        "alias": "UI.BladeImprintPointName.4006",
+        "text": "여섯번째 별"
+    },
+    "8004153": {
+        "deprecated": false,
+        "Dev_Desc": "Taurus: 4007",
+        "id": 8004153,
+        "alias": "UI.BladeImprintPointName.4007",
+        "text": "일곱번째 별"
+    },
+    "8004154": {
+        "deprecated": false,
+        "Dev_Desc": "Taurus: 4008",
+        "id": 8004154,
+        "alias": "UI.BladeImprintPointName.4008",
+        "text": "여덟번째 별"
+    },
+    "8004155": {
+        "deprecated": false,
+        "Dev_Desc": "Taurus: 4009",
+        "id": 8004155,
+        "alias": "UI.BladeImprintPointName.4009",
+        "text": "아홉번째 별"
+    },
+    "8004156": {
+        "deprecated": false,
+        "Dev_Desc": "Taurus: 4010",
+        "id": 8004156,
+        "alias": "UI.BladeImprintPointName.4010",
+        "text": "열번째 별"
+    },
+    "8004157": {
+        "deprecated": false,
+        "Dev_Desc": "Gemini: 5001",
+        "id": 8004157,
+        "alias": "UI.BladeImprintPointName.5001",
+        "text": "첫번째 별"
+    },
+    "8004158": {
+        "deprecated": false,
+        "Dev_Desc": "Gemini: 5002",
+        "id": 8004158,
+        "alias": "UI.BladeImprintPointName.5002",
+        "text": "두번째 별"
+    },
+    "8004159": {
+        "deprecated": false,
+        "Dev_Desc": "Gemini: 5003",
+        "id": 8004159,
+        "alias": "UI.BladeImprintPointName.5003",
+        "text": "세번째 별"
+    },
+    "8004160": {
+        "deprecated": false,
+        "Dev_Desc": "Gemini: 5004",
+        "id": 8004160,
+        "alias": "UI.BladeImprintPointName.5004",
+        "text": "네번째 별"
+    },
+    "8004161": {
+        "deprecated": false,
+        "Dev_Desc": "Gemini: 5005",
+        "id": 8004161,
+        "alias": "UI.BladeImprintPointName.5005",
+        "text": "다섯번째 별"
+    },
+    "8004162": {
+        "deprecated": false,
+        "Dev_Desc": "Gemini: 5006",
+        "id": 8004162,
+        "alias": "UI.BladeImprintPointName.5006",
+        "text": "여섯번째 별"
+    },
+    "8004163": {
+        "deprecated": false,
+        "Dev_Desc": "Gemini: 5007",
+        "id": 8004163,
+        "alias": "UI.BladeImprintPointName.5007",
+        "text": "일곱번째 별"
+    },
+    "8004164": {
+        "deprecated": false,
+        "Dev_Desc": "Gemini: 5008",
+        "id": 8004164,
+        "alias": "UI.BladeImprintPointName.5008",
+        "text": "여덟번째 별"
+    },
+    "8004165": {
+        "deprecated": false,
+        "Dev_Desc": "Gemini: 5009",
+        "id": 8004165,
+        "alias": "UI.BladeImprintPointName.5009",
+        "text": "아홉번째 별"
+    },
+    "8004166": {
+        "deprecated": false,
+        "Dev_Desc": "Gemini: 5010",
+        "id": 8004166,
+        "alias": "UI.BladeImprintPointName.5010",
+        "text": "열번째 별"
+    },
+    "8004167": {
+        "deprecated": false,
+        "Dev_Desc": "Gemini: 5011",
+        "id": 8004167,
+        "alias": "UI.BladeImprintPointName.5011",
+        "text": "열한번째 별"
+    },
+    "8004168": {
+        "deprecated": false,
+        "Dev_Desc": "Gemini: 5012",
+        "id": 8004168,
+        "alias": "UI.BladeImprintPointName.5012",
+        "text": "열두번째 별"
+    },
+    "8004169": {
+        "deprecated": false,
+        "Dev_Desc": "Gemini: 5013",
+        "id": 8004169,
+        "alias": "UI.BladeImprintPointName.5013",
+        "text": "열세번째 별"
+    },
+    "8004170": {
+        "deprecated": false,
+        "Dev_Desc": "Cancer: 6001",
+        "id": 8004170,
+        "alias": "UI.BladeImprintPointName.6001",
+        "text": "첫번째 별"
+    },
+    "8004171": {
+        "deprecated": false,
+        "Dev_Desc": "Cancer: 6002",
+        "id": 8004171,
+        "alias": "UI.BladeImprintPointName.6002",
+        "text": "두번째 별"
+    },
+    "8004172": {
+        "deprecated": false,
+        "Dev_Desc": "Cancer: 6003",
+        "id": 8004172,
+        "alias": "UI.BladeImprintPointName.6003",
+        "text": "세번째 별"
+    },
+    "8004173": {
+        "deprecated": false,
+        "Dev_Desc": "Cancer: 6004",
+        "id": 8004173,
+        "alias": "UI.BladeImprintPointName.6004",
+        "text": "네번째 별"
+    },
+    "8004174": {
+        "deprecated": false,
+        "Dev_Desc": "Cancer: 6005",
+        "id": 8004174,
+        "alias": "UI.BladeImprintPointName.6005",
+        "text": "다섯번째 별"
+    },
+    "8004175": {
+        "deprecated": false,
+        "Dev_Desc": "Cancer: 6006",
+        "id": 8004175,
+        "alias": "UI.BladeImprintPointName.6006",
+        "text": "여섯번째 별"
+    },
+    "8004176": {
+        "deprecated": false,
+        "Dev_Desc": "Cancer: 6007",
+        "id": 8004176,
+        "alias": "UI.BladeImprintPointName.6007",
+        "text": "일곱번째 별"
+    },
+    "8004177": {
+        "deprecated": false,
+        "Dev_Desc": "Cancer: 6008",
+        "id": 8004177,
+        "alias": "UI.BladeImprintPointName.6008",
+        "text": "여덟번째 별"
+    },
+    "8004178": {
+        "deprecated": false,
+        "Dev_Desc": "Cancer: 6009",
+        "id": 8004178,
+        "alias": "UI.BladeImprintPointName.6009",
+        "text": "아홉번째 별"
+    },
+    "8004179": {
+        "deprecated": false,
+        "Dev_Desc": "Leo: 7001",
+        "id": 8004179,
+        "alias": "UI.BladeImprintPointName.7001",
+        "text": "첫번째 별"
+    },
+    "8004180": {
+        "deprecated": false,
+        "Dev_Desc": "Leo: 7002",
+        "id": 8004180,
+        "alias": "UI.BladeImprintPointName.7002",
+        "text": "두번째 별"
+    },
+    "8004181": {
+        "deprecated": false,
+        "Dev_Desc": "Leo: 7003",
+        "id": 8004181,
+        "alias": "UI.BladeImprintPointName.7003",
+        "text": "세번째 별"
+    },
+    "8004182": {
+        "deprecated": false,
+        "Dev_Desc": "Leo: 7004",
+        "id": 8004182,
+        "alias": "UI.BladeImprintPointName.7004",
+        "text": "네번째 별"
+    },
+    "8004183": {
+        "deprecated": false,
+        "Dev_Desc": "Leo: 7005",
+        "id": 8004183,
+        "alias": "UI.BladeImprintPointName.7005",
+        "text": "다섯번째 별"
+    },
+    "8004184": {
+        "deprecated": false,
+        "Dev_Desc": "Leo: 7006",
+        "id": 8004184,
+        "alias": "UI.BladeImprintPointName.7006",
+        "text": "여섯번째 별"
+    },
+    "8004185": {
+        "deprecated": false,
+        "Dev_Desc": "Leo: 7007",
+        "id": 8004185,
+        "alias": "UI.BladeImprintPointName.7007",
+        "text": "일곱번째 별"
+    },
+    "8004186": {
+        "deprecated": false,
+        "Dev_Desc": "Leo: 7008",
+        "id": 8004186,
+        "alias": "UI.BladeImprintPointName.7008",
+        "text": "여덟번째 별"
+    },
+    "8004187": {
+        "deprecated": false,
+        "Dev_Desc": "Leo: 7009",
+        "id": 8004187,
+        "alias": "UI.BladeImprintPointName.7009",
+        "text": "아홉번째 별"
+    },
+    "8004188": {
+        "deprecated": false,
+        "Dev_Desc": "Leo: 7010",
+        "id": 8004188,
+        "alias": "UI.BladeImprintPointName.7010",
+        "text": "열번째 별"
+    },
+    "8004189": {
+        "deprecated": false,
+        "Dev_Desc": "Leo: 7011",
+        "id": 8004189,
+        "alias": "UI.BladeImprintPointName.7011",
+        "text": "열한번째 별"
+    },
+    "8004190": {
+        "deprecated": false,
+        "Dev_Desc": "Leo: 7012",
+        "id": 8004190,
+        "alias": "UI.BladeImprintPointName.7012",
+        "text": "열두번째 별"
+    },
+    "8004191": {
+        "deprecated": false,
+        "Dev_Desc": "Leo: 7013",
+        "id": 8004191,
+        "alias": "UI.BladeImprintPointName.7013",
+        "text": "열세번째 별"
+    },
+    "8004192": {
+        "deprecated": false,
+        "Dev_Desc": "Virgo: 8001",
+        "id": 8004192,
+        "alias": "UI.BladeImprintPointName.8001",
+        "text": "첫번째 별"
+    },
+    "8004193": {
+        "deprecated": false,
+        "Dev_Desc": "Virgo: 8002",
+        "id": 8004193,
+        "alias": "UI.BladeImprintPointName.8002",
+        "text": "두번째 별"
+    },
+    "8004194": {
+        "deprecated": false,
+        "Dev_Desc": "Virgo: 8003",
+        "id": 8004194,
+        "alias": "UI.BladeImprintPointName.8003",
+        "text": "세번째 별"
+    },
+    "8004195": {
+        "deprecated": false,
+        "Dev_Desc": "Virgo: 8004",
+        "id": 8004195,
+        "alias": "UI.BladeImprintPointName.8004",
+        "text": "네번째 별"
+    },
+    "8004196": {
+        "deprecated": false,
+        "Dev_Desc": "Virgo: 8005",
+        "id": 8004196,
+        "alias": "UI.BladeImprintPointName.8005",
+        "text": "다섯번째 별"
+    },
+    "8004197": {
+        "deprecated": false,
+        "Dev_Desc": "Virgo: 8006",
+        "id": 8004197,
+        "alias": "UI.BladeImprintPointName.8006",
+        "text": "여섯번째 별"
+    },
+    "8004198": {
+        "deprecated": false,
+        "Dev_Desc": "Virgo: 8007",
+        "id": 8004198,
+        "alias": "UI.BladeImprintPointName.8007",
+        "text": "일곱번째 별"
+    },
+    "8004199": {
+        "deprecated": false,
+        "Dev_Desc": "Virgo: 8008",
+        "id": 8004199,
+        "alias": "UI.BladeImprintPointName.8008",
+        "text": "여덟번째 별"
+    },
+    "8004200": {
+        "deprecated": false,
+        "Dev_Desc": "Virgo: 8009",
+        "id": 8004200,
+        "alias": "UI.BladeImprintPointName.8009",
+        "text": "아홉번째 별"
+    },
+    "8004201": {
+        "deprecated": false,
+        "Dev_Desc": "Virgo: 8010",
+        "id": 8004201,
+        "alias": "UI.BladeImprintPointName.8010",
+        "text": "열번째 별"
+    },
+    "8004202": {
+        "deprecated": false,
+        "Dev_Desc": "Virgo: 8011",
+        "id": 8004202,
+        "alias": "UI.BladeImprintPointName.8011",
+        "text": "열한번째 별"
+    },
+    "8004203": {
+        "deprecated": false,
+        "Dev_Desc": "Virgo: 8012",
+        "id": 8004203,
+        "alias": "UI.BladeImprintPointName.8012",
+        "text": "열두번째 별"
+    },
+    "8004204": {
+        "deprecated": false,
+        "Dev_Desc": "Virgo: 8013",
+        "id": 8004204,
+        "alias": "UI.BladeImprintPointName.8013",
+        "text": "열세번째 별"
+    },
+    "8004205": {
+        "deprecated": false,
+        "Dev_Desc": "Libra: 9001",
+        "id": 8004205,
+        "alias": "UI.BladeImprintPointName.9001",
+        "text": "첫번째 별"
+    },
+    "8004206": {
+        "deprecated": false,
+        "Dev_Desc": "Libra: 9002",
+        "id": 8004206,
+        "alias": "UI.BladeImprintPointName.9002",
+        "text": "두번째 별"
+    },
+    "8004207": {
+        "deprecated": false,
+        "Dev_Desc": "Libra: 9003",
+        "id": 8004207,
+        "alias": "UI.BladeImprintPointName.9003",
+        "text": "세번째 별"
+    },
+    "8004208": {
+        "deprecated": false,
+        "Dev_Desc": "Libra: 9004",
+        "id": 8004208,
+        "alias": "UI.BladeImprintPointName.9004",
+        "text": "네번째 별"
+    },
+    "8004209": {
+        "deprecated": false,
+        "Dev_Desc": "Libra: 9005",
+        "id": 8004209,
+        "alias": "UI.BladeImprintPointName.9005",
+        "text": "다섯번째 별"
+    },
+    "8004210": {
+        "deprecated": false,
+        "Dev_Desc": "Libra: 9006",
+        "id": 8004210,
+        "alias": "UI.BladeImprintPointName.9006",
+        "text": "여섯번째 별"
+    },
+    "8004211": {
+        "deprecated": false,
+        "Dev_Desc": "Libra: 9007",
+        "id": 8004211,
+        "alias": "UI.BladeImprintPointName.9007",
+        "text": "일곱번째 별"
+    },
+    "8004212": {
+        "deprecated": false,
+        "Dev_Desc": "Libra: 9008",
+        "id": 8004212,
+        "alias": "UI.BladeImprintPointName.9008",
+        "text": "여덟번째 별"
+    },
+    "8004213": {
+        "deprecated": false,
+        "Dev_Desc": "Libra: 9009",
+        "id": 8004213,
+        "alias": "UI.BladeImprintPointName.9009",
+        "text": "아홉번째 별"
+    },
+    "8004214": {
+        "deprecated": false,
+        "Dev_Desc": "Libra: 9010",
+        "id": 8004214,
+        "alias": "UI.BladeImprintPointName.9010",
+        "text": "열번째 별"
+    },
+    "8004215": {
+        "deprecated": false,
+        "Dev_Desc": "Libra: 9011",
+        "id": 8004215,
+        "alias": "UI.BladeImprintPointName.9011",
+        "text": "열한번째 별"
+    },
+    "8004216": {
+        "deprecated": false,
+        "Dev_Desc": "Libra: 9012",
+        "id": 8004216,
+        "alias": "UI.BladeImprintPointName.9012",
+        "text": "열두번째 별"
+    },
+    "8004217": {
+        "deprecated": false,
+        "Dev_Desc": "Libra: 9013",
+        "id": 8004217,
+        "alias": "UI.BladeImprintPointName.9013",
+        "text": "열세번째 별"
+    },
+    "8004218": {
+        "deprecated": false,
+        "Dev_Desc": "Scorpio: 10001",
+        "id": 8004218,
+        "alias": "UI.BladeImprintPointName.10001",
+        "text": "첫번째 별"
+    },
+    "8004219": {
+        "deprecated": false,
+        "Dev_Desc": "Scorpio: 10002",
+        "id": 8004219,
+        "alias": "UI.BladeImprintPointName.10002",
+        "text": "두번째 별"
+    },
+    "8004220": {
+        "deprecated": false,
+        "Dev_Desc": "Scorpio: 10003",
+        "id": 8004220,
+        "alias": "UI.BladeImprintPointName.10003",
+        "text": "세번째 별"
+    },
+    "8004221": {
+        "deprecated": false,
+        "Dev_Desc": "Scorpio: 10004",
+        "id": 8004221,
+        "alias": "UI.BladeImprintPointName.10004",
+        "text": "네번째 별"
+    },
+    "8004222": {
+        "deprecated": false,
+        "Dev_Desc": "Scorpio: 10005",
+        "id": 8004222,
+        "alias": "UI.BladeImprintPointName.10005",
+        "text": "다섯번째 별"
+    },
+    "8004223": {
+        "deprecated": false,
+        "Dev_Desc": "Scorpio: 10006",
+        "id": 8004223,
+        "alias": "UI.BladeImprintPointName.10006",
+        "text": "여섯번째 별"
+    },
+    "8004224": {
+        "deprecated": false,
+        "Dev_Desc": "Scorpio: 10007",
+        "id": 8004224,
+        "alias": "UI.BladeImprintPointName.10007",
+        "text": "일곱번째 별"
+    },
+    "8004225": {
+        "deprecated": false,
+        "Dev_Desc": "Scorpio: 10008",
+        "id": 8004225,
+        "alias": "UI.BladeImprintPointName.10008",
+        "text": "여덟번째 별"
+    },
+    "8004226": {
+        "deprecated": false,
+        "Dev_Desc": "Scorpio: 10009",
+        "id": 8004226,
+        "alias": "UI.BladeImprintPointName.10009",
+        "text": "아홉번째 별"
+    },
+    "8004227": {
+        "deprecated": false,
+        "Dev_Desc": "Scorpio: 10010",
+        "id": 8004227,
+        "alias": "UI.BladeImprintPointName.10010",
+        "text": "열번째 별"
+    },
+    "8004228": {
+        "deprecated": false,
+        "Dev_Desc": "Scorpio: 10011",
+        "id": 8004228,
+        "alias": "UI.BladeImprintPointName.10011",
+        "text": "열한번째 별"
+    },
+    "8004229": {
+        "deprecated": false,
+        "Dev_Desc": "Scorpio: 10012",
+        "id": 8004229,
+        "alias": "UI.BladeImprintPointName.10012",
+        "text": "열두번째 별"
+    },
+    "8004230": {
+        "deprecated": false,
+        "Dev_Desc": "Scorpio: 10013",
+        "id": 8004230,
+        "alias": "UI.BladeImprintPointName.10013",
+        "text": "열세번째 별"
+    },
+    "8004231": {
+        "deprecated": false,
+        "Dev_Desc": "Sagittarius: 11001",
+        "id": 8004231,
+        "alias": "UI.BladeImprintPointName.11001",
+        "text": "첫번째 별"
+    },
+    "8004232": {
+        "deprecated": false,
+        "Dev_Desc": "Sagittarius: 11002",
+        "id": 8004232,
+        "alias": "UI.BladeImprintPointName.11002",
+        "text": "두번째 별"
+    },
+    "8004233": {
+        "deprecated": false,
+        "Dev_Desc": "Sagittarius: 11003",
+        "id": 8004233,
+        "alias": "UI.BladeImprintPointName.11003",
+        "text": "세번째 별"
+    },
+    "8004234": {
+        "deprecated": false,
+        "Dev_Desc": "Sagittarius: 11004",
+        "id": 8004234,
+        "alias": "UI.BladeImprintPointName.11004",
+        "text": "네번째 별"
+    },
+    "8004235": {
+        "deprecated": false,
+        "Dev_Desc": "Sagittarius: 11005",
+        "id": 8004235,
+        "alias": "UI.BladeImprintPointName.11005",
+        "text": "다섯번째 별"
+    },
+    "8004236": {
+        "deprecated": false,
+        "Dev_Desc": "Sagittarius: 11006",
+        "id": 8004236,
+        "alias": "UI.BladeImprintPointName.11006",
+        "text": "여섯번째 별"
+    },
+    "8004237": {
+        "deprecated": false,
+        "Dev_Desc": "Sagittarius: 11007",
+        "id": 8004237,
+        "alias": "UI.BladeImprintPointName.11007",
+        "text": "일곱번째 별"
+    },
+    "8004238": {
+        "deprecated": false,
+        "Dev_Desc": "Sagittarius: 11008",
+        "id": 8004238,
+        "alias": "UI.BladeImprintPointName.11008",
+        "text": "여덟번째 별"
+    },
+    "8004239": {
+        "deprecated": false,
+        "Dev_Desc": "Sagittarius: 11009",
+        "id": 8004239,
+        "alias": "UI.BladeImprintPointName.11009",
+        "text": "아홉번째 별"
+    },
+    "8004240": {
+        "deprecated": false,
+        "Dev_Desc": "Sagittarius: 11010",
+        "id": 8004240,
+        "alias": "UI.BladeImprintPointName.11010",
+        "text": "열번째 별"
+    },
+    "8004241": {
+        "deprecated": false,
+        "Dev_Desc": "Sagittarius: 11011",
+        "id": 8004241,
+        "alias": "UI.BladeImprintPointName.11011",
+        "text": "열한번째 별"
+    },
+    "8004242": {
+        "deprecated": false,
+        "Dev_Desc": "Sagittarius: 11012",
+        "id": 8004242,
+        "alias": "UI.BladeImprintPointName.11012",
+        "text": "열두번째 별"
+    },
+    "8004243": {
+        "deprecated": false,
+        "Dev_Desc": "Sagittarius: 11013",
+        "id": 8004243,
+        "alias": "UI.BladeImprintPointName.11013",
+        "text": "열세번째 별"
+    },
+    "8004244": {
+        "deprecated": false,
+        "Dev_Desc": "Capricorn: 12001",
+        "id": 8004244,
+        "alias": "UI.BladeImprintPointName.12001",
+        "text": "첫번째 별"
+    },
+    "8004245": {
+        "deprecated": false,
+        "Dev_Desc": "Capricorn: 12002",
+        "id": 8004245,
+        "alias": "UI.BladeImprintPointName.12002",
+        "text": "두번째 별"
+    },
+    "8004246": {
+        "deprecated": false,
+        "Dev_Desc": "Capricorn: 12003",
+        "id": 8004246,
+        "alias": "UI.BladeImprintPointName.12003",
+        "text": "세번째 별"
+    },
+    "8004247": {
+        "deprecated": false,
+        "Dev_Desc": "Capricorn: 12004",
+        "id": 8004247,
+        "alias": "UI.BladeImprintPointName.12004",
+        "text": "네번째 별"
+    },
+    "8004248": {
+        "deprecated": false,
+        "Dev_Desc": "Capricorn: 12005",
+        "id": 8004248,
+        "alias": "UI.BladeImprintPointName.12005",
+        "text": "다섯번째 별"
+    },
+    "8004249": {
+        "deprecated": false,
+        "Dev_Desc": "Capricorn: 12006",
+        "id": 8004249,
+        "alias": "UI.BladeImprintPointName.12006",
+        "text": "여섯번째 별"
+    },
+    "8004250": {
+        "deprecated": false,
+        "Dev_Desc": "Capricorn: 12007",
+        "id": 8004250,
+        "alias": "UI.BladeImprintPointName.12007",
+        "text": "일곱번째 별"
+    },
+    "8004251": {
+        "deprecated": false,
+        "Dev_Desc": "Capricorn: 12008",
+        "id": 8004251,
+        "alias": "UI.BladeImprintPointName.12008",
+        "text": "여덟번째 별"
+    },
+    "8004252": {
+        "deprecated": false,
+        "Dev_Desc": "Capricorn: 12009",
+        "id": 8004252,
+        "alias": "UI.BladeImprintPointName.12009",
+        "text": "아홉번째 별"
+    },
+    "8004253": {
+        "deprecated": false,
+        "Dev_Desc": "Capricorn: 12010",
+        "id": 8004253,
+        "alias": "UI.BladeImprintPointName.12010",
+        "text": "열번째 별"
+    },
+    "8004254": {
+        "deprecated": false,
+        "Dev_Desc": "Capricorn: 12011",
+        "id": 8004254,
+        "alias": "UI.BladeImprintPointName.12011",
+        "text": "열한번째 별"
+    },
+    "8004255": {
+        "deprecated": false,
+        "Dev_Desc": "Capricorn: 12012",
+        "id": 8004255,
+        "alias": "UI.BladeImprintPointName.12012",
+        "text": "열두번째 별"
+    },
+    "8004256": {
+        "deprecated": false,
+        "Dev_Desc": "Capricorn: 12013",
+        "id": 8004256,
+        "alias": "UI.BladeImprintPointName.12013",
+        "text": "열세번째 별"
+    },
+    "8004257": {
+        "deprecated": false,
+        "Dev_Desc": "파티 / 파티던전",
+        "id": 8004257,
+        "alias": "UI.PartyDungeon.Text.MemberOutMatchCancel",
+        "text": "파티원의 접속이 끊어져 매칭이 취소되었습니다."
+    },
+    "8004258": {
+        "deprecated": false,
+        "Dev_Desc": "파티 / 파티던전",
+        "id": 8004258,
+        "alias": "UI.PartyDungeon.Text.QuestConditionRequire",
+        "text": "완료"
+    },
+    "8004259": {
+        "deprecated": false,
+        "Dev_Desc": "파티 / 파티던전",
+        "id": 8004259,
+        "alias": "UI.PartyDungeon.Text.StatRequire",
+        "text": "필요 능력치"
+    },
+    "8004260": {
+        "deprecated": false,
+        "Dev_Desc": "파티 / 파티던전",
+        "id": 8004260,
+        "alias": "UI.PartyDungeon.Text.MatchingProgress",
+        "text": "매칭 중"
+    },
+    "8004261": {
+        "deprecated": false,
+        "Dev_Desc": "축지 불가능",
+        "id": 8004261,
+        "alias": "UI.Teleport.Prohibited",
+        "text": "현재 위치에서는 축지 이용이 불가능합니다."
+    },
+    "8004262": {
+        "deprecated": false,
+        "Dev_Desc": "이벤트 제작 레시피 탭 / Happy 200 Days!",
+        "id": 8004262,
+        "alias": "UI.Craft.LeftSubTabName.Event.Happy200_01",
+        "text": "Happy 200 Days!"
+    },
+    "8004263": {
+        "deprecated": false,
+        "Dev_Desc": "보관함 수령 팝업 설명",
+        "id": 8004263,
+        "alias": "UI.CashShop.PopUp.Inventory.Desc.1",
+        "text": "상품을 받으시겠습니까?"
+    },
+    "8004264": {
+        "deprecated": false,
+        "Dev_Desc": "보관함 수령 팝업 설명",
+        "id": 8004264,
+        "alias": "UI.CashShop.PopUp.Inventory.Desc.2",
+        "text": "청약 철회 기간이 남아있는 상품 수령 시, \n청약 철회가 제한됩니다."
+    },
+    "8004265": {
+        "deprecated": false,
+        "Dev_Desc": "이벤트 제작 레시피 탭 / 탄생의 조각",
+        "id": 8004265,
+        "alias": "UI.Craft.LeftSubTabName.Event.BornPiece_01",
+        "text": "탄생의 조각"
     }
 }

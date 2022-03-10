@@ -1054,7 +1054,7 @@
         "Dev_Desc": "개혈_극한_성장설명",
         "id": 60020154,
         "alias": "Contents.Skill.acquireEffectDesc.2122",
-        "text": "무공 공격력 증폭 +12%\n이동 속도 감소 효과 해제 및 면역"
+        "text": "무공 공격 증폭 +12%\n이동 속도 감소 효과 해제 및 면역"
     },
     "60020155": {
         "deprecated": false,
@@ -1433,5 +1433,12 @@
         "id": 60020205,
         "alias": "Contents.Skill.Name.LightGauntlet.2900",
         "text": "은신"
+    },
+    "60020211": {
+        "deprecated": false,
+        "Dev_Desc": "근거리 명중 증가",
+        "id": 60020211,
+        "alias": "Contents.Skill.Upgrade.LightGauntlet.13",
+        "text": "근거리 명중 증가"
     }
 }

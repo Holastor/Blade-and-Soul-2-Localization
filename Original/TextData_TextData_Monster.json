@@ -17091,7 +17091,7 @@
         "deprecated": false,
         "id": 1502874,
         "alias": "contents.Monster.Title.61000",
-        "text": "희생의 무덤"
+        "text": "영겁의 불길"
     },
     "1502875": {
         "deprecated": false,
@@ -17121,19 +17121,19 @@
         "deprecated": false,
         "id": 1502879,
         "alias": "contents.Monster.Title.61005",
-        "text": "신무강의 첫째 첩"
+        "text": "광풍의 무사"
     },
     "1502880": {
         "deprecated": false,
         "id": 1502880,
         "alias": "contents.Monster.Title.61006",
-        "text": "신무강의 둘째 첩"
+        "text": "철벽의 무사"
     },
     "1502881": {
         "deprecated": false,
         "id": 1502881,
         "alias": "contents.Monster.Title.61007",
-        "text": "석상"
+        "text": "불타는 야수"
     },
     "1502882": {
         "deprecated": false,
@@ -17529,13 +17529,13 @@
         "deprecated": false,
         "id": 1502947,
         "alias": "contents.Monster.Title.38383",
-        "text": "칠흑의 악몽"
+        "text": "오만의 기수"
     },
     "1502948": {
         "deprecated": false,
         "id": 1502948,
         "alias": "contents.Monster.Name.38383",
-        "text": "어둠의 하름"
+        "text": "악몽의 하름"
     },
     "1502949": {
         "deprecated": false,
@@ -18224,67 +18224,259 @@
     "1503063": {
         "deprecated": false,
         "id": 1503063,
-        "alias": "contents.Monster.Name.60013",
-        "text": "토우군단 감시병"
+        "alias": "contents.Monster.Name.60012",
+        "text": "새끼 거미"
     },
     "1503064": {
         "deprecated": false,
         "id": 1503064,
-        "alias": "contents.Monster.Name.61016",
-        "text": "저주받은 역병충"
+        "alias": "contents.Monster.Name.60013",
+        "text": "토우군단 감시병"
     },
     "1503065": {
         "deprecated": false,
         "id": 1503065,
-        "alias": "contents.Monster.Name.61017",
-        "text": "불마자 전투병"
+        "alias": "contents.Monster.Name.61016",
+        "text": "저주받은 역병충"
     },
     "1503066": {
         "deprecated": false,
         "id": 1503066,
-        "alias": "contents.Monster.Name.61018",
-        "text": "불마자 정찰병"
+        "alias": "contents.Monster.Name.61017",
+        "text": "불마자 전투병"
     },
     "1503067": {
         "deprecated": false,
         "id": 1503067,
-        "alias": "contents.Monster.Name.61019",
-        "text": "불마자 창술사"
+        "alias": "contents.Monster.Name.61018",
+        "text": "불마자 정찰병"
     },
     "1503068": {
         "deprecated": false,
         "id": 1503068,
-        "alias": "contents.Monster.Name.61020",
-        "text": "불마자 암살자"
+        "alias": "contents.Monster.Name.61019",
+        "text": "불마자 창술사"
     },
     "1503069": {
         "deprecated": false,
         "id": 1503069,
-        "alias": "contents.Monster.Name.52002",
-        "text": "귀혼의 그림자"
+        "alias": "contents.Monster.Name.61020",
+        "text": "불마자 암살자"
     },
     "1503070": {
         "deprecated": false,
         "id": 1503070,
-        "alias": "contents.Monster.Name.60016",
-        "text": "정찰조 검사"
+        "alias": "contents.Monster.Name.52002",
+        "text": "귀혼의 그림자"
     },
     "1503071": {
         "deprecated": false,
         "id": 1503071,
-        "alias": "contents.Monster.Name.60018",
-        "text": "정찰조 포병"
+        "alias": "contents.Monster.Name.60016",
+        "text": "정찰조 검사"
     },
     "1503072": {
         "deprecated": false,
         "id": 1503072,
-        "alias": "contents.Monster.Name.60014",
-        "text": "정찰조 권사"
+        "alias": "contents.Monster.Name.60018",
+        "text": "정찰조 포병"
     },
     "1503073": {
         "deprecated": false,
         "id": 1503073,
+        "alias": "contents.Monster.Name.60014",
+        "text": "정찰조 권사"
+    },
+    "1503074": {
+        "deprecated": false,
+        "id": 1503074,
         "alias": "contents.Monster.Name.60015",
         "text": "정찰조 기공사"
+    },
+    "1503075": {
+        "deprecated": false,
+        "id": 1503075,
+        "alias": "contents.Monster.Title.48153",
+        "text": "벼랑 끝 지배자"
+    },
+    "1503076": {
+        "deprecated": false,
+        "id": 1503076,
+        "alias": "contents.Monster.Name.48153",
+        "text": "침식된 유강독모"
+    },
+    "1503077": {
+        "deprecated": false,
+        "id": 1503077,
+        "alias": "contents.Monster.Title.48154",
+        "text": "침식된"
+    },
+    "1503078": {
+        "deprecated": false,
+        "id": 1503078,
+        "alias": "contents.Monster.Name.48154",
+        "text": "유강독모 알"
+    },
+    "1503079": {
+        "deprecated": false,
+        "id": 1503079,
+        "alias": "contents.Monster.Title.48155",
+        "text": "침식된"
+    },
+    "1503080": {
+        "deprecated": false,
+        "id": 1503080,
+        "alias": "contents.Monster.Name.48155",
+        "text": "유충거미"
+    },
+    "1503081": {
+        "deprecated": false,
+        "id": 1503081,
+        "alias": "contents.Monster.Name.48156",
+        "text": "맹독유충"
+    },
+    "1503082": {
+        "deprecated": false,
+        "id": 1503082,
+        "alias": "contents.Monster.Title.61062",
+        "text": "흑백"
+    },
+    "1503083": {
+        "deprecated": false,
+        "id": 1503083,
+        "alias": "contents.Monster.Name.61062",
+        "text": "염화대성"
+    },
+    "1503084": {
+        "deprecated": false,
+        "id": 1503084,
+        "alias": "contents.Monster.Name.48157",
+        "text": "하름의 그림자"
+    },
+    "1503085": {
+        "deprecated": false,
+        "id": 1503085,
+        "alias": "contents.Monster.Name.48158",
+        "text": "유강독모 큰알"
+    },
+    "1503086": {
+        "deprecated": false,
+        "id": 1503086,
+        "alias": "contents.Monster.Name.48159",
+        "text": "큰 맹독유충"
+    },
+    "1503087": {
+        "deprecated": false,
+        "id": 1503087,
+        "alias": "contents.Monster.Name.48163",
+        "text": "명혜단 연구원"
+    },
+    "1503088": {
+        "deprecated": false,
+        "id": 1503088,
+        "alias": "contents.Monster.Name.46400",
+        "text": "잠에서 깬 잎 도둑도치"
+    },
+    "1503089": {
+        "deprecated": false,
+        "id": 1503089,
+        "alias": "contents.Monster.Name.46401",
+        "text": "잠에서 깬 꽃게 도둑도치"
+    },
+    "1503090": {
+        "deprecated": false,
+        "id": 1503090,
+        "alias": "contents.Monster.Name.46402",
+        "text": "잠에서 깬 생선 도둑도치"
+    },
+    "1503091": {
+        "deprecated": false,
+        "id": 1503091,
+        "alias": "contents.Monster.Name.46403",
+        "text": "잠에서 깬 푸른소라게"
+    },
+    "1503092": {
+        "deprecated": false,
+        "id": 1503092,
+        "alias": "contents.Monster.Name.46404",
+        "text": "잠에서 깬 독침 연잎인간"
+    },
+    "1503093": {
+        "deprecated": false,
+        "id": 1503093,
+        "alias": "contents.Monster.Name.46405",
+        "text": "잠에서 깬 호수 거북"
+    },
+    "1503094": {
+        "deprecated": false,
+        "id": 1503094,
+        "alias": "contents.Monster.Name.46406",
+        "text": "잠에서 깬 호수 거북"
+    },
+    "1503095": {
+        "deprecated": false,
+        "id": 1503095,
+        "alias": "contents.Monster.Name.46407",
+        "text": "잠에서 깬 사랑스러운 도치"
+    },
+    "1503096": {
+        "deprecated": false,
+        "id": 1503096,
+        "alias": "contents.Monster.Name.46408",
+        "text": "잠에서 깬 사랑스러운 도치"
+    },
+    "1503097": {
+        "deprecated": false,
+        "id": 1503097,
+        "alias": "contents.Monster.Name.46409",
+        "text": "잠에서 깬 뱀버섯"
+    },
+    "1503098": {
+        "deprecated": false,
+        "id": 1503098,
+        "alias": "contents.Monster.Name.46410",
+        "text": "잠에서 깬 사묘정"
+    },
+    "1503099": {
+        "deprecated": false,
+        "id": 1503099,
+        "alias": "contents.Monster.Name.46411",
+        "text": "잠에서 깬 곰"
+    },
+    "1503100": {
+        "deprecated": false,
+        "id": 1503100,
+        "alias": "contents.Monster.Name.46412",
+        "text": "잠에서 깬 반달 곰"
+    },
+    "1503101": {
+        "deprecated": false,
+        "id": 1503101,
+        "alias": "contents.Monster.Name.46413",
+        "text": "잠에서 깬 만다라화"
+    },
+    "1503102": {
+        "deprecated": false,
+        "id": 1503102,
+        "alias": "contents.Monster.Title.48165",
+        "text": "붉은 사막의 원령"
+    },
+    "1503103": {
+        "deprecated": false,
+        "id": 1503103,
+        "alias": "contents.Monster.Name.48165",
+        "text": "사군"
+    },
+    "1503104": {
+        "deprecated": false,
+        "id": 1503104,
+        "alias": "contents.Monster.Name.61063",
+        "text": "잿빛 모래시계"
+    },
+    "1503105": {
+        "deprecated": false,
+        "id": 1503105,
+        "alias": "contents.Monster.Name.61066",
+        "text": "금빛 모래시계"
     }
 }

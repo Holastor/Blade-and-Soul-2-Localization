@@ -29245,5 +29245,40 @@
         "id": 8004260,
         "alias": "UI.PartyDungeon.Text.MatchingProgress",
         "text": "Matching"
+    },
+    "8004261": {
+        "deprecated": false,
+        "Dev_Desc": "축지 불가능",
+        "id": 8004261,
+        "alias": "UI.Teleport.Prohibited",
+        "text": "Current locations are not available."
+    },
+    "8004262": {
+        "deprecated": false,
+        "Dev_Desc": "이벤트 제작 레시피 탭 / Happy 200 Days!",
+        "id": 8004262,
+        "alias": "UI.Craft.LeftSubTabName.Event.Happy200_01",
+        "text": "Happy 200 days!"
+    },
+    "8004263": {
+        "deprecated": false,
+        "Dev_Desc": "보관함 수령 팝업 설명",
+        "id": 8004263,
+        "alias": "UI.CashShop.PopUp.Inventory.Desc.1",
+        "text": "Would you like to receive a product?"
+    },
+    "8004264": {
+        "deprecated": false,
+        "Dev_Desc": "보관함 수령 팝업 설명",
+        "id": 8004264,
+        "alias": "UI.CashShop.PopUp.Inventory.Desc.2",
+        "text": "When receiving the commodity of the deposit with the reconciliation period, the retraction of the \\n subscription will be limited."
+    },
+    "8004265": {
+        "deprecated": false,
+        "Dev_Desc": "이벤트 제작 레시피 탭 / 탄생의 조각",
+        "id": 8004265,
+        "alias": "UI.Craft.LeftSubTabName.Event.BornPiece_01",
+        "text": "Pieces of birth"
     }
 }

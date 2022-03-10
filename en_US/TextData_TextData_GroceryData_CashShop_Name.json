@@ -379,9 +379,9 @@
     },
     "83100056": {
         "deprecated": false,
-        "Dev_Desc": "특별 소울 소환 / 야루, 오름, 백화렴",
+        "Dev_Desc": "특별 소울 소환 / 파사, 회귀자 파사, 송시국, 뇌신",
         "id": 83100056,
-        "alias": "Contents.CashShop.Item.Name.1053",
+        "alias": "Contents.CashShop.Item.Name.1055",
         "text": "<textColor=[206:120:78:255]>Shiro, </> <textColor=[172:98:223:255]>Regression Arrang, Wanderer Organic </> \\n <textcolor = [172: 98: 223 : 255]> </> \\n <[255: 255: 255: 255]> </> \\n <TextColor = [92: 163: 255: 255]> Advanced </> <textColor=[255:255:255:255]>~ </> <textColor = [206: 120: 78: 255]> Legend </> <textColor=[255:255:255:255]>Rating </> \\n <textColor=[255:255:255:255]>Various Soul acquisition </>"
     },
     "83100057": {
@@ -2196,6 +2196,41 @@
         "id": 83200261,
         "alias": "Contents.CashShop.Item.Name.5390",
         "text": "Summoned Luxury Soul Summon (1)"
+    },
+    "83200262": {
+        "deprecated": false,
+        "Dev_Desc": "특별 소울 소환 / 파사, 회귀자 파사, 송시국, 뇌신 / 1회",
+        "id": 83200262,
+        "alias": "Contents.CashShop.Item.Name.5391",
+        "text": "Special Soul Summon 1"
+    },
+    "83200263": {
+        "deprecated": false,
+        "Dev_Desc": "특별 소울 소환 / 파사, 회귀자 파사, 송시국, 뇌신 / 11회",
+        "id": 83200263,
+        "alias": "Contents.CashShop.Item.Name.5392",
+        "text": "Special Soul Summon 11 times"
+    },
+    "83200264": {
+        "deprecated": false,
+        "Dev_Desc": "200일 기념 상자Ⅰ",
+        "id": 83200264,
+        "alias": "Contents.CashShop.Item.Name.5393",
+        "text": "200 days Memorial Box Ⅰ"
+    },
+    "83200265": {
+        "deprecated": false,
+        "Dev_Desc": "200일 기념 상자Ⅱ",
+        "id": 83200265,
+        "alias": "Contents.CashShop.Item.Name.5394",
+        "text": "200 days Memorial Box II"
+    },
+    "83200266": {
+        "deprecated": false,
+        "Dev_Desc": "탄생의 물결 패키지",
+        "id": 83200266,
+        "alias": "Contents.CashShop.Item.Name.5395",
+        "text": "Birth of Wave Package"
     },
     "83350000": {
         "deprecated": false,
@@ -5059,5 +5094,40 @@
         "id": 83350418,
         "alias": "Contents.CashShop.Item.Name.9710273",
         "text": "Summoned Luxury Soul Summon (1)"
+    },
+    "83350419": {
+        "deprecated": false,
+        "Dev_Desc": "특별 소울 소환 / 시로, 아랑, 유기 / 1회",
+        "id": 83350419,
+        "alias": "Contents.CashShop.Item.Name.9710274",
+        "text": "Special Soul Summon 1"
+    },
+    "83350420": {
+        "deprecated": false,
+        "Dev_Desc": "특별 소울 소환 / 시로, 아랑, 유기 / 11회",
+        "id": 83350420,
+        "alias": "Contents.CashShop.Item.Name.9710275",
+        "text": "Special Soul Summon 11 times"
+    },
+    "83350421": {
+        "deprecated": false,
+        "Dev_Desc": "200일 기념 상자Ⅰ",
+        "id": 83350421,
+        "alias": "Contents.CashShop.Item.Name.9850161",
+        "text": "200 days Memorial Box Ⅰ"
+    },
+    "83350422": {
+        "deprecated": false,
+        "Dev_Desc": "200일 기념 상자Ⅱ",
+        "id": 83350422,
+        "alias": "Contents.CashShop.Item.Name.9850162",
+        "text": "200 days Memorial Box II"
+    },
+    "83350423": {
+        "deprecated": false,
+        "Dev_Desc": "탄생의 물결 패키지 상자",
+        "id": 83350423,
+        "alias": "Contents.CashShop.Item.Name.9850163",
+        "text": "Birth of Wavy Package Box"
     }
 }

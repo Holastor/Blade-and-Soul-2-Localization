@@ -379,10 +379,17 @@
     },
     "83100056": {
         "deprecated": false,
-        "Dev_Desc": "특별 소울 소환 / 야루, 오름, 백화렴",
+        "Dev_Desc": "특별 소울 소환 / 파사, 회귀자 파사, 송시국, 뇌신",
         "id": 83100056,
-        "alias": "Contents.CashShop.Item.Name.1053",
-        "text": "<textColor=[206:120:78:255]>시로,</> <textColor=[172:98:223:255]>회귀자 아랑, 방랑자 유기</>\n<textColor=[172:98:223:255]>풍신, 서중문</><textColor=[255:255:255:255]> 등 을 포함한</>\n<textColor=[92:163:105:255]>상급 </><textColor=[255:255:255:255]>~ </><textColor=[206:120:78:255]>전설</> <textColor=[255:255:255:255]>등급의</>\n<textColor=[255:255:255:255]>다양한 소울 획득 가능</>"
+        "alias": "Contents.CashShop.Item.Name.1055",
+        "text": "<textColor=[206:120:78:255]>파사,</> <textColor=[172:98:223:255]>회귀자 파사</>\n<textColor=[172:98:223:255]>송시국, 뇌신</><textColor=[255:255:255:255]> 등 을 포함한</>\n<textColor=[255:255:255:255]>일반</> <textColor=[255:255:255:255]>~ </><textColor=[206:120:78:255]>전설</> <textColor=[255:255:255:255]>등급의</>\n<textColor=[255:255:255:255]>다양한 소울 획득 가능</>"
+    },
+    "83100057": {
+        "deprecated": false,
+        "Dev_Desc": "묵화의 화려한 소울 4-Step 패키지",
+        "id": 83100057,
+        "alias": "Contents.CashShop.Item.Name.1054",
+        "text": "묵화 소울 4-STEP 패키지"
     },
     "83200001": {
         "deprecated": false,
@@ -2147,6 +2154,83 @@
         "id": 83200255,
         "alias": "Contents.CashShop.Item.Name.5384",
         "text": "결전의 증표"
+    },
+    "83200256": {
+        "deprecated": false,
+        "Dev_Desc": "묵화 소울 패키지 / 1 Step",
+        "id": 83200256,
+        "alias": "Contents.CashShop.Item.Name.5385",
+        "text": "묵화 소울 패키지 I"
+    },
+    "83200257": {
+        "deprecated": false,
+        "Dev_Desc": "묵화 소울 패키지 / 2 Step",
+        "id": 83200257,
+        "alias": "Contents.CashShop.Item.Name.5386",
+        "text": "묵화 소울 패키지 II"
+    },
+    "83200258": {
+        "deprecated": false,
+        "Dev_Desc": "묵화 소울 패키지 / 3 Step",
+        "id": 83200258,
+        "alias": "Contents.CashShop.Item.Name.5387",
+        "text": "묵화 소울 패키지 III"
+    },
+    "83200259": {
+        "deprecated": false,
+        "Dev_Desc": "묵화 소울 패키지 / 4 Step",
+        "id": 83200259,
+        "alias": "Contents.CashShop.Item.Name.5388",
+        "text": "묵화 소울 패키지 IV"
+    },
+    "83200260": {
+        "deprecated": false,
+        "Dev_Desc": "묵화 소울 패키지 / 보너스 1",
+        "id": 83200260,
+        "alias": "Contents.CashShop.Item.Name.5389",
+        "text": "묵화 영웅 소울 선택 상자"
+    },
+    "83200261": {
+        "deprecated": false,
+        "Dev_Desc": "묵화 소울 패키지 / 보너스 2",
+        "id": 83200261,
+        "alias": "Contents.CashShop.Item.Name.5390",
+        "text": "영롱한 묵화 소울 소환서(1회)"
+    },
+    "83200262": {
+        "deprecated": false,
+        "Dev_Desc": "특별 소울 소환 / 파사, 회귀자 파사, 송시국, 뇌신 / 1회",
+        "id": 83200262,
+        "alias": "Contents.CashShop.Item.Name.5391",
+        "text": "특별 소울 소환 1회"
+    },
+    "83200263": {
+        "deprecated": false,
+        "Dev_Desc": "특별 소울 소환 / 파사, 회귀자 파사, 송시국, 뇌신 / 11회",
+        "id": 83200263,
+        "alias": "Contents.CashShop.Item.Name.5392",
+        "text": "특별 소울 소환 11회"
+    },
+    "83200264": {
+        "deprecated": false,
+        "Dev_Desc": "200일 기념 상자Ⅰ",
+        "id": 83200264,
+        "alias": "Contents.CashShop.Item.Name.5393",
+        "text": "200일 기념 상자Ⅰ"
+    },
+    "83200265": {
+        "deprecated": false,
+        "Dev_Desc": "200일 기념 상자Ⅱ",
+        "id": 83200265,
+        "alias": "Contents.CashShop.Item.Name.5394",
+        "text": "200일 기념 상자Ⅱ"
+    },
+    "83200266": {
+        "deprecated": false,
+        "Dev_Desc": "탄생의 물결 패키지",
+        "id": 83200266,
+        "alias": "Contents.CashShop.Item.Name.5395",
+        "text": "탄생의 물결 패키지"
     },
     "83350000": {
         "deprecated": false,
@@ -4968,5 +5052,82 @@
         "id": 83350412,
         "alias": "Contents.CashShop.Item.Name.9710267",
         "text": "결전의 증표"
+    },
+    "83350413": {
+        "deprecated": false,
+        "Dev_Desc": "묵화 소울 패키지 / 1 Step",
+        "id": 83350413,
+        "alias": "Contents.CashShop.Item.Name.9710268",
+        "text": "묵화 소울 패키지 I"
+    },
+    "83350414": {
+        "deprecated": false,
+        "Dev_Desc": "묵화 소울 패키지 / 2 Step",
+        "id": 83350414,
+        "alias": "Contents.CashShop.Item.Name.9710269",
+        "text": "묵화 소울 패키지 II"
+    },
+    "83350415": {
+        "deprecated": false,
+        "Dev_Desc": "묵화 소울 패키지 / 3 Step",
+        "id": 83350415,
+        "alias": "Contents.CashShop.Item.Name.9710270",
+        "text": "묵화 소울 패키지 III"
+    },
+    "83350416": {
+        "deprecated": false,
+        "Dev_Desc": "묵화 소울 패키지 / 4 Step",
+        "id": 83350416,
+        "alias": "Contents.CashShop.Item.Name.9710271",
+        "text": "묵화 소울 패키지 IV"
+    },
+    "83350417": {
+        "deprecated": false,
+        "Dev_Desc": "묵화 소울 패키지 / 보너스 1",
+        "id": 83350417,
+        "alias": "Contents.CashShop.Item.Name.9710272",
+        "text": "묵화 영웅 소울 선택 상자"
+    },
+    "83350418": {
+        "deprecated": false,
+        "Dev_Desc": "묵화 소울 패키지 / 보너스 2",
+        "id": 83350418,
+        "alias": "Contents.CashShop.Item.Name.9710273",
+        "text": "영롱한 묵화 소울 소환서(1회)"
+    },
+    "83350419": {
+        "deprecated": false,
+        "Dev_Desc": "특별 소울 소환 / 시로, 아랑, 유기 / 1회",
+        "id": 83350419,
+        "alias": "Contents.CashShop.Item.Name.9710274",
+        "text": "특별 소울 소환 1회"
+    },
+    "83350420": {
+        "deprecated": false,
+        "Dev_Desc": "특별 소울 소환 / 시로, 아랑, 유기 / 11회",
+        "id": 83350420,
+        "alias": "Contents.CashShop.Item.Name.9710275",
+        "text": "특별 소울 소환 11회"
+    },
+    "83350421": {
+        "deprecated": false,
+        "Dev_Desc": "200일 기념 상자Ⅰ",
+        "id": 83350421,
+        "alias": "Contents.CashShop.Item.Name.9850161",
+        "text": "200일 기념 상자Ⅰ"
+    },
+    "83350422": {
+        "deprecated": false,
+        "Dev_Desc": "200일 기념 상자Ⅱ",
+        "id": 83350422,
+        "alias": "Contents.CashShop.Item.Name.9850162",
+        "text": "200일 기념 상자Ⅱ"
+    },
+    "83350423": {
+        "deprecated": false,
+        "Dev_Desc": "탄생의 물결 패키지 상자",
+        "id": 83350423,
+        "alias": "Contents.CashShop.Item.Name.9850163",
+        "text": "탄생의 물결 패키지 상자"
     }
 }

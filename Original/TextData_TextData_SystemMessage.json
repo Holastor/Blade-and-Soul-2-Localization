@@ -6401,7 +6401,7 @@
         "Dev_Desc": "던전 / 오픈되지 않은 던던 입장 시도 시 알림",
         "id": 9000976,
         "alias": "SysM.Dungeon.NeedDiscover",
-        "text": "<arg p=[1:string]/>지역 발견 후 입장할 수 있습니다."
+        "text": "<arg p=[1:string]/> 지역 발견 후 입장할 수 있습니다."
     },
     "9000977": {
         "deprecated": false,
@@ -7821,7 +7821,7 @@
         "Dev_Desc": "던전 / 레벨 부족",
         "id": 9001179,
         "alias": "SysM.Dungeon.LackLevel",
-        "text": "<arg p=[1:string]/>레벨부터 입장할 수 있습니다."
+        "text": "<arg p=[1:integer]/>레벨부터 입장할 수 있습니다."
     },
     "9001180": {
         "deprecated": false,
@@ -7913,5 +7913,40 @@
         "id": 9001192,
         "alias": "SysM.WorldMarket.Calculate.Fail",
         "text": "현재 서버에서 판매된 물품이 없어 정산할 수 없습니다."
+    },
+    "9001193": {
+        "deprecated": false,
+        "Dev_Desc": "비무 / 문파 장원 나가기 시도 시 에러 메시지",
+        "id": 9001193,
+        "alias": "SysM.Battle.Error4",
+        "text": "비무 중에는 사용할 수 없습니다."
+    },
+    "9001194": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 클리어 메시지",
+        "id": 9001194,
+        "alias": "SysM.Dungeon.Clear.SystemMessage_01",
+        "text": "도전 성공!"
+    },
+    "9001195": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 클리어 메시지",
+        "id": 9001195,
+        "alias": "SysM.Dungeon.Clear.SystemMessage_02",
+        "text": "해당 던전의 목표를 달성했습니다."
+    },
+    "9001196": {
+        "deprecated": false,
+        "Dev_Desc": "거래소 / 일반적인 오류2",
+        "id": 9001196,
+        "alias": "SysM.Market.Error2",
+        "text": "거래소 이용이 제한되었습니다. 잠시 후 다시 시도해 주세요."
+    },
+    "9001197": {
+        "deprecated": false,
+        "Dev_Desc": "거래소 / 새로고침 / 쿨타임",
+        "id": 9001197,
+        "alias": "SysM.Market.ResetButton.Cooltime",
+        "text": "잠시 후 새로 고침이 가능합니다."
     }
 }
