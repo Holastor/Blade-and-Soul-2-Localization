@@ -379,10 +379,10 @@
     },
     "83100056": {
         "deprecated": false,
-        "Dev_Desc": "특별 소울 소환 / 파사, 회귀자 파사, 송시국, 뇌신",
+        "Dev_Desc": "특별 소울 소환 / 야루, 오름, 백화렴",
         "id": 83100056,
-        "alias": "Contents.CashShop.Item.Name.1055",
-        "text": "<textColor=[206:120:78:255]>파사,</> <textColor=[172:98:223:255]>회귀자 파사</>\n<textColor=[172:98:223:255]>송시국, 뇌신</><textColor=[255:255:255:255]> 등 을 포함한</>\n<textColor=[255:255:255:255]>일반</> <textColor=[255:255:255:255]>~ </><textColor=[206:120:78:255]>전설</> <textColor=[255:255:255:255]>등급의</>\n<textColor=[255:255:255:255]>다양한 소울 획득 가능</>"
+        "alias": "Contents.CashShop.Item.Name.1053",
+        "text": "<textColor=[206:120:78:255]>시로,</> <textColor=[172:98:223:255]>회귀자 아랑, 방랑자 유기</>\n<textColor=[172:98:223:255]>풍신, 서중문</><textColor=[255:255:255:255]> 등 을 포함한</>\n<textColor=[255:255:255:255]>일반</> <textColor=[255:255:255:255]>~ </><textColor=[206:120:78:255]>전설</> <textColor=[255:255:255:255]>등급의</>\n<textColor=[255:255:255:255]>다양한 소울 획득 가능</>"
     },
     "83100057": {
         "deprecated": false,
@@ -390,6 +390,27 @@
         "id": 83100057,
         "alias": "Contents.CashShop.Item.Name.1054",
         "text": "묵화 소울 4-STEP 패키지"
+    },
+    "83100058": {
+        "deprecated": false,
+        "Dev_Desc": "특별 소울 소환 / 파사, 회귀자 파사, 송시국, 뇌신",
+        "id": 83100058,
+        "alias": "Contents.CashShop.Item.Name.1055",
+        "text": "<textColor=[206:120:78:255]>파사,</> <textColor=[172:98:223:255]>회귀자 파사</>\n<textColor=[172:98:223:255]>송시국, 뇌신</><textColor=[255:255:255:255]> 등 을 포함한</>\n<textColor=[255:255:255:255]>일반</> <textColor=[255:255:255:255]>~ </><textColor=[206:120:78:255]>전설</> <textColor=[255:255:255:255]>등급의</>\n<textColor=[255:255:255:255]>다양한 소울 획득 가능</>"
+    },
+    "83100059": {
+        "deprecated": false,
+        "Dev_Desc": "특별 소울 소환 / 노이, 회귀자 사루비, 하름, 낙원대성",
+        "id": 83100059,
+        "alias": "Contents.CashShop.Item.Name.1056",
+        "text": "<textColor=[206:120:78:255]>노이,</> <textColor=[172:98:223:255]>회귀자 사루비</>\n<textColor=[172:98:223:255]>하름, 낙원대성</><textColor=[255:255:255:255]> 등 을 포함한</>\n<textColor=[255:255:255:255]>일반</> <textColor=[255:255:255:255]>~ </><textColor=[206:120:78:255]>전설</> <textColor=[255:255:255:255]>등급의</>\n<textColor=[255:255:255:255]>다양한 소울 획득 가능</>"
+    },
+    "83100060": {
+        "deprecated": false,
+        "Dev_Desc": "소울 & 빛나는 정수 파편 4-Step 패키지",
+        "id": 83100060,
+        "alias": "Contents.CashShop.Item.Name.1057",
+        "text": "소울 & 빛나는 정수 파편 4-STEP 패키지 "
     },
     "83200001": {
         "deprecated": false,
@@ -2231,6 +2252,76 @@
         "id": 83200266,
         "alias": "Contents.CashShop.Item.Name.5395",
         "text": "탄생의 물결 패키지"
+    },
+    "83200267": {
+        "deprecated": false,
+        "Dev_Desc": "노이의 축복 패스권",
+        "id": 83200267,
+        "alias": "Contents.CashShop.Item.Name.5396",
+        "text": "노이의 축복 패스권"
+    },
+    "83200268": {
+        "deprecated": false,
+        "Dev_Desc": "특별 소울 소환 / 노이, 회귀자 사루비, 하름, 낙원대성 / 1회",
+        "id": 83200268,
+        "alias": "Contents.CashShop.Item.Name.5397",
+        "text": "특별 소울 소환 1회"
+    },
+    "83200269": {
+        "deprecated": false,
+        "Dev_Desc": "특별 소울 소환 / 노이, 회귀자 사루비, 하름, 낙원대성 / 11회",
+        "id": 83200269,
+        "alias": "Contents.CashShop.Item.Name.5398",
+        "text": "특별 소울 소환 11회"
+    },
+    "83200270": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 정수 파편 꾸러미",
+        "id": 83200270,
+        "alias": "Contents.CashShop.Item.Name.5399",
+        "text": "빛나는 정수 파편 꾸러미"
+    },
+    "83200271": {
+        "deprecated": false,
+        "Dev_Desc": "소울 & 빛나는 정수 파편 패키지 / 1 Step",
+        "id": 83200271,
+        "alias": "Contents.CashShop.Item.Name.5400",
+        "text": "소울 & 빛나는 정수 파편 패키지 l"
+    },
+    "83200272": {
+        "deprecated": false,
+        "Dev_Desc": "소울 & 빛나는 정수 파편 패키지 / 2 Step",
+        "id": 83200272,
+        "alias": "Contents.CashShop.Item.Name.5401",
+        "text": "소울 & 빛나는 정수 파편 패키지 ll"
+    },
+    "83200273": {
+        "deprecated": false,
+        "Dev_Desc": "소울 & 빛나는 정수 파편 패키지 / 3 Step",
+        "id": 83200273,
+        "alias": "Contents.CashShop.Item.Name.5402",
+        "text": "소울 & 빛나는 정수 파편 패키지 lll"
+    },
+    "83200274": {
+        "deprecated": false,
+        "Dev_Desc": "소울 & 빛나는 정수 파편 패키지 / 4 Step",
+        "id": 83200274,
+        "alias": "Contents.CashShop.Item.Name.5403",
+        "text": "소울 & 빛나는 정수 파편 패키지 lV"
+    },
+    "83200275": {
+        "deprecated": false,
+        "Dev_Desc": "소울 & 빛나는 정수 파편 패키지 / 보너스 1",
+        "id": 83200275,
+        "alias": "Contents.CashShop.Item.Name.5404",
+        "text": "소울 & 빛나는 정수 파편 패키지 STEP 2 보너스"
+    },
+    "83200276": {
+        "deprecated": false,
+        "Dev_Desc": "소울 & 빛나는 정수 파편 패키지 / 보너스 2",
+        "id": 83200276,
+        "alias": "Contents.CashShop.Item.Name.5405",
+        "text": "소울 & 빛나는 정수 파편 패키지 STEP 4 보너스"
     },
     "83350000": {
         "deprecated": false,
@@ -5020,17 +5111,17 @@
     },
     "83350408": {
         "deprecated": false,
-        "Dev_Desc": "시즌 패스: 봄날",
+        "Dev_Desc": "프리미엄 패스 II",
         "id": 83350408,
-        "alias": "Contents.CashShop.Item.Name.9800124",
-        "text": "시즌 패스: 봄날"
+        "alias": "Contents.CashShop.Item.Name.9800126",
+        "text": "프리미엄 패스 II"
     },
     "83350409": {
         "deprecated": false,
-        "Dev_Desc": "비사문의 화려한 신석 패키지",
+        "Dev_Desc": "노이의 축복",
         "id": 83350409,
-        "alias": "Contents.CashShop.Item.Name.9800125",
-        "text": "비사문의 화려한 신석 패키지"
+        "alias": "Contents.CashShop.Item.Name.9800127",
+        "text": "노이의 축복"
     },
     "83350410": {
         "deprecated": false,
@@ -5129,5 +5220,82 @@
         "id": 83350423,
         "alias": "Contents.CashShop.Item.Name.9850163",
         "text": "탄생의 물결 패키지 상자"
+    },
+    "83350424": {
+        "deprecated": false,
+        "Dev_Desc": "프리미엄 패스2",
+        "id": 83350424,
+        "alias": "Contents.CashShop.Item.Name.9800126",
+        "text": "프리미엄 패스 II"
+    },
+    "83350425": {
+        "deprecated": false,
+        "Dev_Desc": "노이의 축복",
+        "id": 83350425,
+        "alias": "Contents.CashShop.Item.Name.9850164",
+        "text": "노이의 축복"
+    },
+    "83350426": {
+        "deprecated": false,
+        "Dev_Desc": "특별 소울 소환 / 노이, 회귀자 사루비, 하름, 낙원대성 / 1회",
+        "id": 83350426,
+        "alias": "Contents.CashShop.Item.Name.9710276",
+        "text": "특별 소울 소환 1회"
+    },
+    "83350427": {
+        "deprecated": false,
+        "Dev_Desc": "특별 소울 소환 / 노이, 회귀자 사루비, 하름, 낙원대성 / 11회",
+        "id": 83350427,
+        "alias": "Contents.CashShop.Item.Name.9710277",
+        "text": "특별 소울 소환 11회"
+    },
+    "83350428": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 정수 파편 꾸러미",
+        "id": 83350428,
+        "alias": "Contents.CashShop.Item.Name.9710278",
+        "text": "빛나는 정수 파편 꾸러미"
+    },
+    "83350429": {
+        "deprecated": false,
+        "Dev_Desc": "소울 & 빛나는 정수 파편 패키지 / 1 Step",
+        "id": 83350429,
+        "alias": "Contents.CashShop.Item.Name.9710279",
+        "text": "소울 & 빛나는 정수 파편 패키지 l"
+    },
+    "83350430": {
+        "deprecated": false,
+        "Dev_Desc": "소울 & 빛나는 정수 파편 패키지 / 2 Step",
+        "id": 83350430,
+        "alias": "Contents.CashShop.Item.Name.9710280",
+        "text": "소울 & 빛나는 정수 파편 패키지 ll"
+    },
+    "83350431": {
+        "deprecated": false,
+        "Dev_Desc": "소울 & 빛나는 정수 파편 패키지 / 3 Step",
+        "id": 83350431,
+        "alias": "Contents.CashShop.Item.Name.9710281",
+        "text": "소울 & 빛나는 정수 파편 패키지 lll"
+    },
+    "83350432": {
+        "deprecated": false,
+        "Dev_Desc": "소울 & 빛나는 정수 파편 패키지 / 4 Step",
+        "id": 83350432,
+        "alias": "Contents.CashShop.Item.Name.9710282",
+        "text": "소울 & 빛나는 정수 파편 패키지 lV"
+    },
+    "83350433": {
+        "deprecated": false,
+        "Dev_Desc": "소울 & 빛나는 정수 파편 패키지 / 보너스 1",
+        "id": 83350433,
+        "alias": "Contents.CashShop.Item.Name.9710283",
+        "text": "소울 & 빛나는 정수 파편 패키지 STEP 2 보너스"
+    },
+    "83350434": {
+        "deprecated": false,
+        "Dev_Desc": "소울 & 빛나는 정수 파편 패키지 / 보너스 2",
+        "id": 83350434,
+        "alias": "Contents.CashShop.Item.Name.9710284",
+        "text": "소울 & 빛나는 정수 파편 패키지 STEP 4 보너스"
     }
 }

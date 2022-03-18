@@ -1,0 +1,842 @@
+{
+    "95000": {
+        "deprecated": false,
+        "id": 95000,
+        "alias": "UI.DevButton.1",
+        "text": "북마크"
+    },
+    "95001": {
+        "deprecated": false,
+        "id": 95001,
+        "alias": "UI.DevButton.2",
+        "text": "캐릭터\n셋팅"
+    },
+    "95002": {
+        "deprecated": false,
+        "id": 95002,
+        "alias": "UI.DevButton.3",
+        "text": "소모품\n재화\n생성"
+    },
+    "95003": {
+        "deprecated": false,
+        "id": 95003,
+        "alias": "UI.DevButton.4",
+        "text": "테스트\n보조기능"
+    },
+    "95004": {
+        "deprecated": false,
+        "id": 95004,
+        "alias": "UI.DevButton.5",
+        "text": "초기화"
+    },
+    "95005": {
+        "deprecated": false,
+        "id": 95005,
+        "alias": "UI.DevButton.6",
+        "text": "에픽\n퀘스트\n진행"
+    },
+    "95006": {
+        "deprecated": false,
+        "id": 95006,
+        "alias": "UI.DevButton.7",
+        "text": "타겟\nUI"
+    },
+    "95007": {
+        "deprecated": false,
+        "id": 95007,
+        "alias": "UI.DevButton.8",
+        "text": "재접속"
+    },
+    "95008": {
+        "deprecated": false,
+        "id": 95008,
+        "alias": "UI.DevButton.9",
+        "text": "적용"
+    },
+    "95009": {
+        "deprecated": false,
+        "id": 95009,
+        "alias": "UI.DevButton.10",
+        "text": "카메라\n수정"
+    },
+    "95010": {
+        "deprecated": false,
+        "id": 95010,
+        "alias": "UI.DevButton.11",
+        "text": "언어\n선택"
+    },
+    "95011": {
+        "deprecated": false,
+        "id": 95011,
+        "alias": "UI.DevButton.12",
+        "text": "입장하기"
+    },
+    "95012": {
+        "deprecated": false,
+        "id": 95012,
+        "alias": "UI.DevButton.13",
+        "text": "장비 슬롯\n확장"
+    },
+    "95013": {
+        "deprecated": false,
+        "id": 95013,
+        "alias": "UI.DevButton.14",
+        "text": "기본\n세팅"
+    },
+    "95014": {
+        "deprecated": false,
+        "id": 95014,
+        "alias": "UI.DevButton.15",
+        "text": "일반\n세팅"
+    },
+    "95015": {
+        "deprecated": false,
+        "id": 95015,
+        "alias": "UI.DevButton.16",
+        "text": "상급\n세팅"
+    },
+    "95016": {
+        "deprecated": false,
+        "id": 95016,
+        "alias": "UI.DevButton.17",
+        "text": "희귀1\n세팅"
+    },
+    "95017": {
+        "deprecated": false,
+        "id": 95017,
+        "alias": "UI.DevButton.18",
+        "text": "희귀2\n세팅"
+    },
+    "95018": {
+        "deprecated": false,
+        "id": 95018,
+        "alias": "UI.DevButton.19",
+        "text": "영웅\n세팅"
+    },
+    "95019": {
+        "deprecated": false,
+        "id": 95019,
+        "alias": "UI.DevButton.20",
+        "text": "전설\n세팅"
+    },
+    "95020": {
+        "deprecated": false,
+        "id": 95020,
+        "alias": "UI.DevButton.21",
+        "text": "향낭\n획득"
+    },
+    "95021": {
+        "deprecated": false,
+        "id": 95021,
+        "alias": "UI.DevButton.22",
+        "text": "언어\n선택"
+    },
+    "95022": {
+        "deprecated": false,
+        "id": 95022,
+        "alias": "UI.DevButton.23",
+        "text": "퀘스트\n수락"
+    },
+    "95023": {
+        "deprecated": false,
+        "id": 95023,
+        "alias": "UI.DevButton.24",
+        "text": "퀘스트\n변경(힌트)"
+    },
+    "95024": {
+        "deprecated": false,
+        "id": 95024,
+        "alias": "UI.DevButton.25",
+        "text": "퀘스트\n완료"
+    },
+    "95025": {
+        "deprecated": false,
+        "id": 95025,
+        "alias": "UI.DevButton.26",
+        "text": "모든\n퀘스트\n리셋"
+    },
+    "95026": {
+        "deprecated": false,
+        "id": 95026,
+        "alias": "UI.DevButton.27",
+        "text": "최대 무게\n증가"
+    },
+    "95027": {
+        "deprecated": false,
+        "id": 95027,
+        "alias": "UI.DevButton.28",
+        "text": "이동속도\n셋팅"
+    },
+    "95028": {
+        "deprecated": false,
+        "id": 95028,
+        "alias": "UI.DevButton.29",
+        "text": "경공\n게이지\n소모\nOFF"
+    },
+    "95029": {
+        "deprecated": false,
+        "id": 95029,
+        "alias": "UI.DevButton.30",
+        "text": "컨텐츠\n잠금해제"
+    },
+    "95030": {
+        "deprecated": false,
+        "id": 95030,
+        "alias": "UI.DevButton.31",
+        "text": "사망하기"
+    },
+    "95031": {
+        "deprecated": false,
+        "id": 95031,
+        "alias": "UI.DevButton.32",
+        "text": "모든\n모험\n완료"
+    },
+    "95032": {
+        "deprecated": false,
+        "id": 95032,
+        "alias": "UI.DevButton.33",
+        "text": "이동하기"
+    },
+    "95033": {
+        "deprecated": false,
+        "id": 95033,
+        "alias": "UI.DevButton.34",
+        "text": "지역"
+    },
+    "95034": {
+        "deprecated": false,
+        "id": 95034,
+        "alias": "UI.DevButton.35",
+        "text": "월드"
+    },
+    "95035": {
+        "deprecated": false,
+        "id": 95035,
+        "alias": "UI.DevButton.36",
+        "text": "변경하기"
+    },
+    "95036": {
+        "deprecated": false,
+        "id": 95036,
+        "alias": "UI.DevButton.37",
+        "text": "레벨"
+    },
+    "95037": {
+        "deprecated": false,
+        "id": 95037,
+        "alias": "UI.DevButton.38",
+        "text": "무적"
+    },
+    "95038": {
+        "deprecated": false,
+        "id": 95038,
+        "alias": "UI.DevButton.39",
+        "text": "속도"
+    },
+    "95039": {
+        "deprecated": false,
+        "id": 95039,
+        "alias": "UI.DevButton.40",
+        "text": "적용하기"
+    },
+    "95040": {
+        "deprecated": false,
+        "id": 95040,
+        "alias": "UI.DevButton.41",
+        "text": "퀘스트 ID"
+    },
+    "95041": {
+        "deprecated": false,
+        "id": 95041,
+        "alias": "UI.DevButton.42",
+        "text": "미션 스텝"
+    },
+    "95042": {
+        "deprecated": false,
+        "id": 95042,
+        "alias": "UI.DevButton.43",
+        "text": "힌트순서"
+    },
+    "95043": {
+        "deprecated": false,
+        "id": 95043,
+        "alias": "UI.DevButton.44",
+        "text": "힌트스텝"
+    },
+    "95044": {
+        "deprecated": false,
+        "id": 95044,
+        "alias": "UI.DevButton.45",
+        "text": "신석"
+    },
+    "95045": {
+        "deprecated": false,
+        "id": 95045,
+        "alias": "UI.DevButton.46",
+        "text": "금화"
+    },
+    "95046": {
+        "deprecated": false,
+        "id": 95046,
+        "alias": "UI.DevButton.47",
+        "text": "업적주화"
+    },
+    "95047": {
+        "deprecated": false,
+        "id": 95047,
+        "alias": "UI.DevButton.48",
+        "text": "기억의 조각"
+    },
+    "95048": {
+        "deprecated": false,
+        "id": 95048,
+        "alias": "UI.DevButton.49",
+        "text": "액터명"
+    },
+    "95049": {
+        "deprecated": false,
+        "id": 95049,
+        "alias": "UI.DevButton.50",
+        "text": "PC와의 거리"
+    },
+    "95050": {
+        "deprecated": false,
+        "id": 95050,
+        "alias": "UI.DevButton.51",
+        "text": "평화\n걷기"
+    },
+    "95051": {
+        "deprecated": false,
+        "id": 95051,
+        "alias": "UI.DevButton.52",
+        "text": "평화\n질주"
+    },
+    "95052": {
+        "deprecated": false,
+        "id": 95052,
+        "alias": "UI.DevButton.53",
+        "text": "전투\n걷기"
+    },
+    "95053": {
+        "deprecated": false,
+        "id": 95053,
+        "alias": "UI.DevButton.54",
+        "text": "검\n무공서\n획득"
+    },
+    "95054": {
+        "deprecated": false,
+        "id": 95054,
+        "alias": "UI.DevButton.55",
+        "text": "검\n무공서\n획득2"
+    },
+    "95055": {
+        "deprecated": false,
+        "id": 95055,
+        "alias": "UI.DevButton.56",
+        "text": "권갑\n무공서\n획득"
+    },
+    "95056": {
+        "deprecated": false,
+        "id": 95056,
+        "alias": "UI.DevButton.57",
+        "text": "권갑\n무공서\n획득2"
+    },
+    "95057": {
+        "deprecated": false,
+        "id": 95057,
+        "alias": "UI.DevButton.58",
+        "text": "도끼\n무공서\n획득"
+    },
+    "95058": {
+        "deprecated": false,
+        "id": 95058,
+        "alias": "UI.DevButton.59",
+        "text": "도끼\n무공서\n획득2"
+    },
+    "95059": {
+        "deprecated": false,
+        "id": 95059,
+        "alias": "UI.DevButton.60",
+        "text": "기공패\n무공서\n획득"
+    },
+    "95060": {
+        "deprecated": false,
+        "id": 95060,
+        "alias": "UI.DevButton.61",
+        "text": "기공패\n무공서\n획득2"
+    },
+    "95061": {
+        "deprecated": false,
+        "id": 95061,
+        "alias": "UI.DevButton.62",
+        "text": "활\n무공서\n획득"
+    },
+    "95062": {
+        "deprecated": false,
+        "id": 95062,
+        "alias": "UI.DevButton.63",
+        "text": "활\n무공서\n획득2"
+    },
+    "95063": {
+        "deprecated": false,
+        "id": 95063,
+        "alias": "UI.DevButton.64",
+        "text": "법종\n무공서\n획득"
+    },
+    "95064": {
+        "deprecated": false,
+        "id": 95064,
+        "alias": "UI.DevButton.65",
+        "text": "법종\n무공서\n획득2"
+    },
+    "95065": {
+        "deprecated": false,
+        "id": 95065,
+        "alias": "UI.DevButton.66",
+        "text": "변경 수치"
+    },
+    "95066": {
+        "deprecated": false,
+        "id": 95066,
+        "alias": "UI.DevButton.67",
+        "text": "일반\n소울\n획득"
+    },
+    "95067": {
+        "deprecated": false,
+        "id": 95067,
+        "alias": "UI.DevButton.68",
+        "text": "상급\n소울\n획득"
+    },
+    "95068": {
+        "deprecated": false,
+        "id": 95068,
+        "alias": "UI.DevButton.69",
+        "text": "희귀\n소울\n획득1"
+    },
+    "95069": {
+        "deprecated": false,
+        "id": 95069,
+        "alias": "UI.DevButton.70",
+        "text": "희귀\n소울\n획득2"
+    },
+    "95070": {
+        "deprecated": false,
+        "id": 95070,
+        "alias": "UI.DevButton.71",
+        "text": "영웅\n소울\n획득"
+    },
+    "95071": {
+        "deprecated": false,
+        "id": 95071,
+        "alias": "UI.DevButton.72",
+        "text": "전설\n소울\n획득"
+    },
+    "95072": {
+        "deprecated": false,
+        "id": 95072,
+        "alias": "UI.DevButton.73",
+        "text": "일반 \n수호령\n획득"
+    },
+    "95073": {
+        "deprecated": false,
+        "id": 95073,
+        "alias": "UI.DevButton.74",
+        "text": "상급\n수호령\n획득"
+    },
+    "95074": {
+        "deprecated": false,
+        "id": 95074,
+        "alias": "UI.DevButton.75",
+        "text": "희귀\n수호령\n획득"
+    },
+    "95075": {
+        "deprecated": false,
+        "id": 95075,
+        "alias": "UI.DevButton.76",
+        "text": "영웅\n수호령\n획득"
+    },
+    "95076": {
+        "deprecated": false,
+        "id": 95076,
+        "alias": "UI.DevButton.77",
+        "text": "전설\n수호령\n획득"
+    },
+    "95077": {
+        "deprecated": false,
+        "id": 95077,
+        "alias": "UI.DevButton.78",
+        "text": "소울\n초기화"
+    },
+    "95078": {
+        "deprecated": false,
+        "id": 95078,
+        "alias": "UI.DevButton.79",
+        "text": "수호령\n초기화"
+    },
+    "95079": {
+        "deprecated": false,
+        "id": 95079,
+        "alias": "UI.DevButton.80",
+        "text": "컬렉션\n초기화"
+    },
+    "95080": {
+        "deprecated": false,
+        "id": 95080,
+        "alias": "UI.DevButton.81",
+        "text": "검결\n초기화"
+    },
+    "95081": {
+        "deprecated": false,
+        "id": 95081,
+        "alias": "UI.DevButton.82",
+        "text": "일반\n셋팅1"
+    },
+    "95082": {
+        "deprecated": false,
+        "id": 95082,
+        "alias": "UI.DevButton.83",
+        "text": "일반\n셋팅2"
+    },
+    "95083": {
+        "deprecated": false,
+        "id": 95083,
+        "alias": "UI.DevButton.84",
+        "text": "상급\n셋팅1"
+    },
+    "95084": {
+        "deprecated": false,
+        "id": 95084,
+        "alias": "UI.DevButton.85",
+        "text": "상급\n셋팅2"
+    },
+    "95085": {
+        "deprecated": false,
+        "id": 95085,
+        "alias": "UI.DevButton.86",
+        "text": "희귀\n셋팅1"
+    },
+    "95086": {
+        "deprecated": false,
+        "id": 95086,
+        "alias": "UI.DevButton.87",
+        "text": "희귀\n셋팅2"
+    },
+    "95087": {
+        "deprecated": false,
+        "id": 95087,
+        "alias": "UI.DevButton.88",
+        "text": "영웅\n셋팅1"
+    },
+    "95088": {
+        "deprecated": false,
+        "id": 95088,
+        "alias": "UI.DevButton.89",
+        "text": "영웅\n셋팅2"
+    },
+    "95089": {
+        "deprecated": false,
+        "id": 95089,
+        "alias": "UI.DevButton.90",
+        "text": "전설\n셋팅"
+    },
+    "95090": {
+        "deprecated": false,
+        "id": 95090,
+        "alias": "UI.DevButton.91",
+        "text": "레벨\n변경"
+    },
+    "95091": {
+        "deprecated": false,
+        "id": 95091,
+        "alias": "UI.DevButton.92",
+        "text": "장비"
+    },
+    "95092": {
+        "deprecated": false,
+        "id": 95092,
+        "alias": "UI.DevButton.93",
+        "text": "무공"
+    },
+    "95093": {
+        "deprecated": false,
+        "id": 95093,
+        "alias": "UI.DevButton.94",
+        "text": "컬렉션"
+    },
+    "95094": {
+        "deprecated": false,
+        "id": 95094,
+        "alias": "UI.DevButton.95",
+        "text": "경공"
+    },
+    "95095": {
+        "deprecated": false,
+        "id": 95095,
+        "alias": "UI.DevButton.96",
+        "text": "테스트\n장비"
+    },
+    "95096": {
+        "deprecated": false,
+        "id": 95096,
+        "alias": "UI.DevButton.97",
+        "text": "전투"
+    },
+    "95097": {
+        "deprecated": false,
+        "id": 95097,
+        "alias": "UI.DevButton.98",
+        "text": "검\n무공"
+    },
+    "95098": {
+        "deprecated": false,
+        "id": 95098,
+        "alias": "UI.DevButton.99",
+        "text": "권갑\n무공"
+    },
+    "95099": {
+        "deprecated": false,
+        "id": 95099,
+        "alias": "UI.DevButton.100",
+        "text": "도끼\n무공"
+    },
+    "95100": {
+        "deprecated": false,
+        "id": 95100,
+        "alias": "UI.DevButton.101",
+        "text": "기공패\n무공"
+    },
+    "95101": {
+        "deprecated": false,
+        "id": 95101,
+        "alias": "UI.DevButton.102",
+        "text": "활\n무공"
+    },
+    "95102": {
+        "deprecated": false,
+        "id": 95102,
+        "alias": "UI.DevButton.103",
+        "text": "법종\n무공"
+    },
+    "95103": {
+        "deprecated": false,
+        "id": 95103,
+        "alias": "UI.DevButton.104",
+        "text": "스텟\n셋팅1"
+    },
+    "95104": {
+        "deprecated": false,
+        "id": 95104,
+        "alias": "UI.DevButton.105",
+        "text": "스텟\n셋팅2"
+    },
+    "95105": {
+        "deprecated": false,
+        "id": 95105,
+        "alias": "UI.DevButton.106",
+        "text": "스텟\n셋팅3"
+    },
+    "95106": {
+        "deprecated": false,
+        "id": 95106,
+        "alias": "UI.DevButton.107",
+        "text": "스텟\n셋팅4"
+    },
+    "95107": {
+        "deprecated": false,
+        "id": 95107,
+        "alias": "UI.DevButton.108",
+        "text": "스텟\n셋팅5"
+    },
+    "95108": {
+        "deprecated": false,
+        "id": 95108,
+        "alias": "UI.DevButton.109",
+        "text": "회복\n아이템"
+    },
+    "95109": {
+        "deprecated": false,
+        "id": 95109,
+        "alias": "UI.DevButton.110",
+        "text": "버프\n아이템"
+    },
+    "95110": {
+        "deprecated": false,
+        "id": 95110,
+        "alias": "UI.DevButton.111",
+        "text": "강화\n주문서"
+    },
+    "95111": {
+        "deprecated": false,
+        "id": 95111,
+        "alias": "UI.DevButton.112",
+        "text": "재화"
+    },
+    "95112": {
+        "deprecated": false,
+        "id": 95112,
+        "alias": "UI.DevButton.113",
+        "text": "전체\n초기화"
+    },
+    "95113": {
+        "deprecated": false,
+        "id": 95113,
+        "alias": "UI.DevButton.114",
+        "text": "아이템\n쿨타임\n초기화"
+    },
+    "95114": {
+        "deprecated": false,
+        "id": 95114,
+        "alias": "UI.DevButton.115",
+        "text": "모든\n소지품\n초기화"
+    },
+    "95115": {
+        "deprecated": false,
+        "id": 95115,
+        "alias": "UI.DevButton.116",
+        "text": "스탯\n초기화"
+    },
+    "95116": {
+        "deprecated": false,
+        "id": 95116,
+        "alias": "UI.DevButton.117",
+        "text": "컬렉션\n초기화"
+    },
+    "95117": {
+        "deprecated": false,
+        "id": 95117,
+        "alias": "UI.DevButton.118",
+        "text": "경공\n성장\n초기화"
+    },
+    "95118": {
+        "deprecated": false,
+        "id": 95118,
+        "alias": "UI.DevButton.119",
+        "text": "협행\n초기화"
+    },
+    "95119": {
+        "deprecated": false,
+        "id": 95119,
+        "alias": "UI.DevButton.120",
+        "text": "업적\n초기화"
+    },
+    "95120": {
+        "deprecated": false,
+        "id": 95120,
+        "alias": "UI.DevButton.121",
+        "text": "모험\n초기화"
+    },
+    "95121": {
+        "deprecated": false,
+        "id": 95121,
+        "alias": "UI.DevButton.122",
+        "text": "무공서\n획득"
+    },
+    "95122": {
+        "deprecated": false,
+        "id": 95122,
+        "alias": "UI.DevButton.123",
+        "text": "공용\n무공서\n획득"
+    },
+    "95123": {
+        "deprecated": false,
+        "id": 95123,
+        "alias": "UI.DevButton.124",
+        "text": "무공\n강화재료\n획득"
+    },
+    "95124": {
+        "deprecated": false,
+        "id": 95124,
+        "alias": "UI.DevButton.125",
+        "text": "소울\n획득"
+    },
+    "95125": {
+        "deprecated": false,
+        "id": 95125,
+        "alias": "UI.DevButton.126",
+        "text": "수호령\n획득"
+    },
+    "95126": {
+        "deprecated": false,
+        "id": 95126,
+        "alias": "UI.DevButton.127",
+        "text": "장비\n도감"
+    },
+    "95127": {
+        "deprecated": false,
+        "id": 95127,
+        "alias": "UI.DevButton.128",
+        "text": "모든\n경공\n획득"
+    },
+    "95128": {
+        "deprecated": false,
+        "id": 95128,
+        "alias": "UI.DevButton.129",
+        "text": "한방\n무기"
+    },
+    "95129": {
+        "deprecated": false,
+        "id": 95129,
+        "alias": "UI.DevButton.130",
+        "text": "영기\n목걸이"
+    },
+    "95130": {
+        "deprecated": false,
+        "id": 95130,
+        "alias": "UI.DevButton.131",
+        "text": "금화"
+    },
+    "95131": {
+        "deprecated": false,
+        "id": 95131,
+        "alias": "UI.DevButton.132",
+        "text": "특수\n주화"
+    },
+    "95132": {
+        "deprecated": false,
+        "id": 95132,
+        "alias": "UI.DevButton.133",
+        "text": "신석"
+    },
+    "95133": {
+        "deprecated": false,
+        "id": 95133,
+        "alias": "UI.DevButton.134",
+        "text": "기억의\n조각"
+    },
+    "95134": {
+        "deprecated": false,
+        "id": 95134,
+        "alias": "UI.DevButton.135",
+        "text": "블레이드\n포인트\n습득"
+    },
+    "95135": {
+        "deprecated": false,
+        "id": 95135,
+        "alias": "UI.DevButton.136",
+        "text": "공력분/\n공력수"
+    },
+    "95136": {
+        "deprecated": false,
+        "id": 95136,
+        "alias": "UI.DevButton.137",
+        "text": "모험가\n점수"
+    },
+    "95137": {
+        "deprecated": false,
+        "id": 95137,
+        "alias": "UI.DevButton.138",
+        "text": "성향치\n점수"
+    },
+    "95138": {
+        "deprecated": false,
+        "id": 95138,
+        "alias": "UI.DevButton.139",
+        "text": "재화\n생성"
+    },
+    "95139": {
+        "deprecated": false,
+        "id": 95139,
+        "alias": "UI.DevButton.140",
+        "text": "소울\n성장"
+    }
+}

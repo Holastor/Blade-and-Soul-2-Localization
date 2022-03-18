@@ -25520,7 +25520,7 @@
         "Dev_Desc": "별자리 / UI 좌상단 GNB영역에 표시되는 콘텐츠 이름",
         "id": 8003728,
         "alias": "UI.Galaxy.Gnb.Name",
-        "text": "별자리"
+        "text": "운명의 성도"
     },
     "8003729": {
         "deprecated": false,
@@ -26710,7 +26710,7 @@
         "Dev_Desc": "던전 / 파티던전",
         "id": 8003898,
         "alias": "UI.PartyDungeon.Text.WeeklyReset",
-        "text": "횟수를 초과 하면 기본 보상만 받을 수 있습니다. 획득권 보상 횟수는 매주 수요일 오전 5시에 초기화 됩니다."
+        "text": "횟수를 초과 하면 기본 보상만 받을 수 있습니다. 획득권 보상 횟수는 매주 수요일 오전 5시에 초기화 됩니다.\n보상은 최소 기여도(1%) 충족 시 받을 수 있습니다."
     },
     "8003899": {
         "deprecated": false,
@@ -27445,7 +27445,7 @@
         "Dev_Desc": "별자리 / GNB",
         "id": 8004003,
         "alias": "UI.Galaxy.Gnb.Name",
-        "text": "별자리"
+        "text": "운명의 성도"
     },
     "8004004": {
         "deprecated": false,
@@ -28110,7 +28110,7 @@
         "Dev_Desc": "파티 / 파티던전",
         "id": 8004098,
         "alias": "UI.PartyDungeon.Text.ExpectRewardList",
-        "text": "획득 가능 보상"
+        "text": "획득권 보상"
     },
     "8004099": {
         "deprecated": false,
@@ -29280,5 +29280,625 @@
         "id": 8004265,
         "alias": "UI.Craft.LeftSubTabName.Event.BornPiece_01",
         "text": "탄생의 조각"
+    },
+    "8004266": {
+        "deprecated": false,
+        "Dev_Desc": "절전모드 / 시간당 획득량",
+        "id": 8004266,
+        "alias": "UI.SaveMode.PerHour",
+        "text": "시간당"
+    },
+    "8004267": {
+        "deprecated": false,
+        "Dev_Desc": "절전모드 / 분당 획득량",
+        "id": 8004267,
+        "alias": "UI.SaveMode.PerMinute",
+        "text": "분당"
+    },
+    "8004268": {
+        "deprecated": false,
+        "Dev_Desc": "절전모드 / 시간당 획득량",
+        "id": 8004268,
+        "alias": "UI.SaveMode.EarnedPerHour",
+        "text": "시간당 획득량"
+    },
+    "8004269": {
+        "deprecated": false,
+        "Dev_Desc": "절전모드 / 분당 획득량",
+        "id": 8004269,
+        "alias": "UI.SaveMode.EarnedPerMinute",
+        "text": "분당 획득량"
+    },
+    "8004270": {
+        "deprecated": false,
+        "Dev_Desc": "시스템 설정 / 절전모드 / 평균 획득량 표시",
+        "id": 8004270,
+        "alias": "UI.Setting.SaveMode.DisplayEarnedInfo",
+        "text": "금화/경험치 평균 획득량 표시"
+    },
+    "8004271": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 / HUD / 이름",
+        "id": 8004271,
+        "alias": "UI.Constellation.HUD.Title",
+        "text": "운명의 성도"
+    },
+    "8004272": {
+        "deprecated": false,
+        "Dev_Desc": "공용 / 태그 뱃지 / Event",
+        "id": 8004272,
+        "alias": "UI.Common.TagBadge.Event",
+        "text": "Event"
+    },
+    "8004273": {
+        "deprecated": false,
+        "Dev_Desc": "공용 / 태그 뱃지 / EVENT",
+        "id": 8004273,
+        "alias": "UI.Common.TagBadge.UpperCaseEvent",
+        "text": "EVENT"
+    },
+    "8004274": {
+        "deprecated": false,
+        "Dev_Desc": "공용 / 태그 뱃지 / Best",
+        "id": 8004274,
+        "alias": "UI.Common.TagBadge.Best",
+        "text": "Best"
+    },
+    "8004275": {
+        "deprecated": false,
+        "Dev_Desc": "공용 / 태그 뱃지 / BEST",
+        "id": 8004275,
+        "alias": "UI.Common.TagBadge.UpperCaseBEST",
+        "text": "BEST"
+    },
+    "8004276": {
+        "deprecated": false,
+        "Dev_Desc": "공용 / 키보드 / Alt키",
+        "id": 8004276,
+        "alias": "UI.Common.Keyboard.Alt",
+        "text": "Alt"
+    },
+    "8004277": {
+        "deprecated": false,
+        "Dev_Desc": "공용 / 키보드 / Shift키",
+        "id": 8004277,
+        "alias": "UI.Common.Keyboard.Shift",
+        "text": "Shift"
+    },
+    "8004278": {
+        "deprecated": false,
+        "Dev_Desc": "공용 / 키보드 / Space키",
+        "id": 8004278,
+        "alias": "UI.Common.Keyboard.Space",
+        "text": "Space"
+    },
+    "8004279": {
+        "deprecated": false,
+        "Dev_Desc": "클래스 체인지 / 변경선택",
+        "id": 8004279,
+        "alias": "UI.ClassChange.Change.Desc1",
+        "text": "변경할 클래스를 선택하세요."
+    },
+    "8004280": {
+        "deprecated": false,
+        "Dev_Desc": "클래스 체인지 / 변경선택",
+        "id": 8004280,
+        "alias": "UI.ClassChange.Change.Desc2",
+        "text": "전환할 클래스를 선택하세요."
+    },
+    "8004281": {
+        "deprecated": false,
+        "Dev_Desc": "클래스 체인지 / 클래스 전환",
+        "id": 8004281,
+        "alias": "UI.ClassChange.Change",
+        "text": "클래스 전환"
+    },
+    "8004282": {
+        "deprecated": false,
+        "Dev_Desc": "클래스 체인지 / 일정",
+        "id": 8004282,
+        "alias": "UI.ClassChange.Change.Date",
+        "text": "2020.12.12~2020.12.29 05:00"
+    },
+    "8004283": {
+        "deprecated": false,
+        "Dev_Desc": "클래스 체인지 / 설명1",
+        "id": 8004283,
+        "alias": "UI.ClassChange.Change.Desc3",
+        "text": "변경할 클래스 선택 후, 세부항목을 설정한 뒤 구매가 진행됩니다."
+    },
+    "8004284": {
+        "deprecated": false,
+        "Dev_Desc": "클래스 체인지 / 기본 비용",
+        "id": 8004284,
+        "alias": "UI.ClassChange.Cost1",
+        "text": "기본 비용"
+    },
+    "8004285": {
+        "deprecated": false,
+        "Dev_Desc": "클래스 체인지 / 무기 전환",
+        "id": 8004285,
+        "alias": "UI.ClassChange.Weapon1",
+        "text": "무기 전환"
+    },
+    "8004286": {
+        "deprecated": false,
+        "Dev_Desc": "클래스 체인지 / 무기 선택",
+        "id": 8004286,
+        "alias": "UI.ClassChange.Weapon2",
+        "text": "무기 선택"
+    },
+    "8004287": {
+        "deprecated": false,
+        "Dev_Desc": "클래스 체인지 / 무공 전이",
+        "id": 8004287,
+        "alias": "UI.ClassChange.Skill1",
+        "text": "무공 전이"
+    },
+    "8004288": {
+        "deprecated": false,
+        "Dev_Desc": "클래스 체인지 / 추가 비용",
+        "id": 8004288,
+        "alias": "UI.ClassChange.Cost2",
+        "text": "추가 비용"
+    },
+    "8004289": {
+        "deprecated": false,
+        "Dev_Desc": "클래스 체인지 / 보유 무기",
+        "id": 8004289,
+        "alias": "UI.ClassChange.Weapon3",
+        "text": "보유 무기"
+    },
+    "8004290": {
+        "deprecated": false,
+        "Dev_Desc": "클래스 체인지 / 보유 무공",
+        "id": 8004290,
+        "alias": "UI.ClassChange.Skill2",
+        "text": "보유 무공"
+    },
+    "8004291": {
+        "deprecated": false,
+        "Dev_Desc": "클래스 체인지 / 전이 결과",
+        "id": 8004291,
+        "alias": "UI.ClassChange.Result",
+        "text": "전이 결과"
+    },
+    "8004292": {
+        "deprecated": false,
+        "Dev_Desc": "클래스 체인지 / 전환 무기",
+        "id": 8004292,
+        "alias": "UI.ClassChange.Result.Weapon",
+        "text": "전환 무기"
+    },
+    "8004293": {
+        "deprecated": false,
+        "Dev_Desc": "클래스 체인지 / 설명2",
+        "id": 8004293,
+        "alias": "UI.ClassChange.Result.Desc1",
+        "text": "현재 클래스 전용 무기를 변경 클래스 전용 무기로 전환합니다."
+    },
+    "8004294": {
+        "deprecated": false,
+        "Dev_Desc": "클래스 체인지 / 설명3",
+        "id": 8004294,
+        "alias": "UI.ClassChange.Result.Desc2",
+        "text": "현재 클래스 무공의 강화, 진화 단계를 변경 클래스 무공으로 전이시킵니다. "
+    },
+    "8004295": {
+        "deprecated": false,
+        "Dev_Desc": "클래스 체인지 / 재선택",
+        "id": 8004295,
+        "alias": "UI.ClassChange.Reselect",
+        "text": "재선택"
+    },
+    "8004296": {
+        "deprecated": false,
+        "Dev_Desc": "희생의 무덤 상인",
+        "id": 8004296,
+        "alias": "UI.Shop.Tittle.Name.10031",
+        "text": "얼음꽃 상인"
+    },
+    "8004297": {
+        "deprecated": false,
+        "Dev_Desc": "희귀 3성/블레이드 효과 취향저격Lv.1",
+        "id": 8004297,
+        "alias": "UI.Soul.BladeEffect.63",
+        "text": "블레이드 효과 취향저격 Lv.1"
+    },
+    "8004298": {
+        "deprecated": false,
+        "Dev_Desc": "희귀 5성/블레이드 효과 취향저격Lv.2",
+        "id": 8004298,
+        "alias": "UI.Soul.BladeEffect.64",
+        "text": "블레이드 효과 취향저격 Lv.2"
+    },
+    "8004299": {
+        "deprecated": false,
+        "Dev_Desc": "블레이드 효과 염계Lv.1",
+        "id": 8004299,
+        "alias": "UI.Soul.BladeEffect.65",
+        "text": "블레이드 효과 염계 Lv.1"
+    },
+    "8004300": {
+        "deprecated": false,
+        "Dev_Desc": "블레이드 효과 염계Lv.2",
+        "id": 8004300,
+        "alias": "UI.Soul.BladeEffect.66",
+        "text": "블레이드 효과 염계 Lv.2"
+    },
+    "8004301": {
+        "deprecated": false,
+        "Dev_Desc": "영웅 5성/블레이드 효과 염계Lv.3",
+        "id": 8004301,
+        "alias": "UI.Soul.BladeEffect.67",
+        "text": "블레이드 효과 염계 Lv.3\n무공 사용 시 소울 발동"
+    },
+    "8004302": {
+        "deprecated": false,
+        "Dev_Desc": "블레이드 효과 염계Lv.3",
+        "id": 8004302,
+        "alias": "UI.Soul.BladeEffect.68",
+        "text": "블레이드 효과 염계 Lv.3"
+    },
+    "8004303": {
+        "deprecated": false,
+        "Dev_Desc": "전설 3성/블레이드 효과 염계Lv.4",
+        "id": 8004303,
+        "alias": "UI.Soul.BladeEffect.69",
+        "text": "블레이드 효과 염계 Lv.4\n무공 사용 시 소울 발동"
+    },
+    "8004304": {
+        "deprecated": false,
+        "Dev_Desc": "전설 5성/블레이드 효과 염계Lv.5",
+        "id": 8004304,
+        "alias": "UI.Soul.BladeEffect.70",
+        "text": "블레이드 효과 염계 Lv.5\n무공 공격 속도 증가"
+    },
+    "8004305": {
+        "deprecated": false,
+        "Dev_Desc": "채팅 / 빠른 채팅 / TX 빌드용 프리셋1",
+        "id": 8004305,
+        "alias": "UI.Chat.Macro.Preset.1",
+        "text": "안녕하세요."
+    },
+    "8004306": {
+        "deprecated": false,
+        "Dev_Desc": "채팅 / 빠른 채팅 / TX 빌드용 프리셋2",
+        "id": 8004306,
+        "alias": "UI.Chat.Macro.Preset.2",
+        "text": "도와주세요."
+    },
+    "8004307": {
+        "deprecated": false,
+        "Dev_Desc": "채팅 / 빠른 채팅 / TX 빌드용 프리셋3",
+        "id": 8004307,
+        "alias": "UI.Chat.Macro.Preset.3",
+        "text": "감사합니다."
+    },
+    "8004308": {
+        "deprecated": false,
+        "Dev_Desc": "채팅 / 빠른 채팅 / TX 빌드용 프리셋4",
+        "id": 8004308,
+        "alias": "UI.Chat.Macro.Preset.4",
+        "text": "안녕히계세요."
+    },
+    "8004309": {
+        "deprecated": false,
+        "Dev_Desc": "파티 / 파티던전",
+        "id": 8004309,
+        "alias": "UI.PartyDungeon.Text.DefaultRewardCount",
+        "text": "획득권 보상 횟수"
+    },
+    "8004310": {
+        "deprecated": false,
+        "Dev_Desc": "파티 / 파티던전",
+        "id": 8004310,
+        "alias": "UI.PartyDungeon.Text.ExtraRewardCount",
+        "text": "추가 획득권 보상 횟수"
+    },
+    "8004311": {
+        "deprecated": false,
+        "Dev_Desc": "공용 / 키보드 / Esc키",
+        "id": 8004311,
+        "alias": "UI.Common.Keyboard.Esc",
+        "text": "Esc"
+    },
+    "8004312": {
+        "deprecated": false,
+        "Dev_Desc": "공용 / 키보드 / Tab키",
+        "id": 8004312,
+        "alias": "UI.Common.Keyboard.Tab",
+        "text": "Tab"
+    },
+    "8004313": {
+        "deprecated": false,
+        "Dev_Desc": "공용 / 키보드 / Space bar",
+        "id": 8004313,
+        "alias": "UI.Common.Keyboard.Spacebar",
+        "text": "Space bar"
+    },
+    "8004314": {
+        "deprecated": false,
+        "Dev_Desc": "공용 / 마우스 / 버튼",
+        "id": 8004314,
+        "alias": "UI.Common.Mouse.Button",
+        "text": "Button"
+    },
+    "8004315": {
+        "deprecated": false,
+        "Dev_Desc": "공용 / 마우스 / 휠",
+        "id": 8004315,
+        "alias": "UI.Common.Mouse.Wheel",
+        "text": "Wheel"
+    },
+    "8004316": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 환경 / 조작 / 조작키 상세 / 전투",
+        "id": 8004316,
+        "alias": "UI.Option.Environment.Control.Popup.Battle.Title",
+        "text": "전투"
+    },
+    "8004317": {
+        "deprecated": false,
+        "id": 8004317,
+        "alias": "UI.Option.Environment.Control.Popup.Battle.1",
+        "text": "기본 공격"
+    },
+    "8004318": {
+        "deprecated": false,
+        "id": 8004318,
+        "alias": "UI.Option.Environment.Control.Popup.Battle.2",
+        "text": "특화 무공"
+    },
+    "8004319": {
+        "deprecated": false,
+        "id": 8004319,
+        "alias": "UI.Option.Environment.Control.Popup.Battle.3",
+        "text": "힐 버프 조작"
+    },
+    "8004320": {
+        "deprecated": false,
+        "id": 8004320,
+        "alias": "UI.Option.Environment.Control.Popup.Battle.4",
+        "text": "[Press] 퀵슬롯 사용"
+    },
+    "8004321": {
+        "deprecated": false,
+        "id": 8004321,
+        "alias": "UI.Option.Environment.Control.Popup.Battle.5",
+        "text": "[Hold] 자동사용 On/Off"
+    },
+    "8004322": {
+        "deprecated": false,
+        "id": 8004322,
+        "alias": "UI.Option.Environment.Control.Popup.Battle.6",
+        "text": "타겟 지정/변경"
+    },
+    "8004323": {
+        "deprecated": false,
+        "id": 8004323,
+        "alias": "UI.Option.Environment.Control.Popup.Battle.7",
+        "text": "타겟/전투 해제"
+    },
+    "8004324": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 환경 / 조작 / 조작키 상세 / 전투 관리",
+        "id": 8004324,
+        "alias": "UI.Option.Environment.Control.Popup.BattleManagement.Title",
+        "text": "전투 관리"
+    },
+    "8004325": {
+        "deprecated": false,
+        "id": 8004325,
+        "alias": "UI.Option.Environment.Control.Popup.BattleManagement.1",
+        "text": "탐지"
+    },
+    "8004326": {
+        "deprecated": false,
+        "id": 8004326,
+        "alias": "UI.Option.Environment.Control.Popup.BattleManagement.2",
+        "text": "자동물약 On/Off"
+    },
+    "8004327": {
+        "deprecated": false,
+        "id": 8004327,
+        "alias": "UI.Option.Environment.Control.Popup.BattleManagement.3",
+        "text": "검결 On/Off"
+    },
+    "8004328": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 환경 / 조작 / 조작키 상세 / 자동 플레이",
+        "id": 8004328,
+        "alias": "UI.Option.Environment.Control.Popup.AutoPlay.Title",
+        "text": "자동 플레이"
+    },
+    "8004329": {
+        "deprecated": false,
+        "id": 8004329,
+        "alias": "UI.Option.Environment.Control.Popup.AutoPlay.1",
+        "text": "자동사냥 On/Off"
+    },
+    "8004330": {
+        "deprecated": false,
+        "id": 8004330,
+        "alias": "UI.Option.Environment.Control.Popup.AutoPlay.2",
+        "text": "인터렉션"
+    },
+    "8004331": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 환경 / 조작 / 조작키 상세 / 이동",
+        "id": 8004331,
+        "alias": "UI.Option.Environment.Control.Popup.Move.Title",
+        "text": "이동"
+    },
+    "8004332": {
+        "deprecated": false,
+        "id": 8004332,
+        "alias": "UI.Option.Environment.Control.Popup.Move.1",
+        "text": "앞으로 가기/질주"
+    },
+    "8004333": {
+        "deprecated": false,
+        "id": 8004333,
+        "alias": "UI.Option.Environment.Control.Popup.Move.2",
+        "text": "왼쪽으로 가기"
+    },
+    "8004334": {
+        "deprecated": false,
+        "id": 8004334,
+        "alias": "UI.Option.Environment.Control.Popup.Move.3",
+        "text": "뒤로 가기"
+    },
+    "8004335": {
+        "deprecated": false,
+        "id": 8004335,
+        "alias": "UI.Option.Environment.Control.Popup.Move.4",
+        "text": "오른쪽으로 가기"
+    },
+    "8004336": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 환경 / 조작 / 조작키 상세 / 경공",
+        "id": 8004336,
+        "alias": "UI.Option.Environment.Control.Popup.HyperRun.Title",
+        "text": "경공"
+    },
+    "8004337": {
+        "deprecated": false,
+        "id": 8004337,
+        "alias": "UI.Option.Environment.Control.Popup.HyperRun.1",
+        "text": "회류비/슬라이딩"
+    },
+    "8004338": {
+        "deprecated": false,
+        "id": 8004338,
+        "alias": "UI.Option.Environment.Control.Popup.HyperRun.2",
+        "text": "구르기/천상비"
+    },
+    "8004339": {
+        "deprecated": false,
+        "id": 8004339,
+        "alias": "UI.Option.Environment.Control.Popup.HyperRun.3",
+        "text": "점프/활강"
+    },
+    "8004340": {
+        "deprecated": false,
+        "id": 8004340,
+        "alias": "UI.Option.Environment.Control.Popup.HyperRun.4",
+        "text": "[Press] 질주/수상비"
+    },
+    "8004341": {
+        "deprecated": false,
+        "id": 8004341,
+        "alias": "UI.Option.Environment.Control.Popup.HyperRun.5",
+        "text": "[Hold] 강하"
+    },
+    "8004342": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 환경 / 조작 / 조작키 상세 / 메뉴",
+        "id": 8004342,
+        "alias": "UI.Option.Environment.Control.Popup.Menu.Title",
+        "text": "메뉴"
+    },
+    "8004343": {
+        "deprecated": false,
+        "id": 8004343,
+        "alias": "UI.Option.Environment.Control.Popup.Menu.1",
+        "text": "소지품"
+    },
+    "8004344": {
+        "deprecated": false,
+        "id": 8004344,
+        "alias": "UI.Option.Environment.Control.Popup.Menu.2",
+        "text": "캐릭터 정보"
+    },
+    "8004345": {
+        "deprecated": false,
+        "id": 8004345,
+        "alias": "UI.Option.Environment.Control.Popup.Menu.3",
+        "text": "무공"
+    },
+    "8004346": {
+        "deprecated": false,
+        "id": 8004346,
+        "alias": "UI.Option.Environment.Control.Popup.Menu.4",
+        "text": "채팅"
+    },
+    "8004347": {
+        "deprecated": false,
+        "id": 8004347,
+        "alias": "UI.Option.Environment.Control.Popup.Menu.5",
+        "text": "지도"
+    },
+    "8004348": {
+        "deprecated": false,
+        "id": 8004348,
+        "alias": "UI.Option.Environment.Control.Popup.Menu.6",
+        "text": "창닫기/건너뛰기"
+    },
+    "8004349": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 환경 / 조작 / 조작키 상세 / 마우스",
+        "id": 8004349,
+        "alias": "UI.Option.Environment.Control.Popup.Mouse.Title",
+        "text": "마우스"
+    },
+    "8004350": {
+        "deprecated": false,
+        "id": 8004350,
+        "alias": "UI.Option.Environment.Control.Popup.Mouse.1",
+        "text": "[Click] 대상/UI 선택"
+    },
+    "8004351": {
+        "deprecated": false,
+        "id": 8004351,
+        "alias": "UI.Option.Environment.Control.Popup.Mouse.2",
+        "text": "[Click] 캐릭터 이동"
+    },
+    "8004352": {
+        "deprecated": false,
+        "id": 8004352,
+        "alias": "UI.Option.Environment.Control.Popup.Mouse.3",
+        "text": "[Drag] 카메라 이동"
+    },
+    "8004353": {
+        "deprecated": false,
+        "id": 8004353,
+        "alias": "UI.Option.Environment.Control.Popup.Mouse.4",
+        "text": "캐릭터 확대/축소"
+    },
+    "8004359": {
+        "deprecated": false,
+        "Dev_Desc": "파티 / 파티던전",
+        "id": 8004359,
+        "alias": "UI.PartyDungeon.Text.RewardReveal",
+        "text": "보상 확인"
+    },
+    "8004360": {
+        "deprecated": false,
+        "Dev_Desc": "파티 / 파티던전",
+        "id": 8004360,
+        "alias": "UI.PartyDungeon.Text.AutoExitRemainTime",
+        "text": "<arg p=[1:integer]/>초 후에 던전에서 퇴장합니다."
+    },
+    "8004361": {
+        "deprecated": false,
+        "Dev_Desc": "인터월드",
+        "id": 8004361,
+        "alias": "UI.InterWorld.Text.SpecificWorldEnter",
+        "text": "<arg p=[1:string]/> 월드에 진입하였습니다."
+    },
+    "8004362": {
+        "deprecated": false,
+        "Dev_Desc": "인터월드",
+        "id": 8004362,
+        "alias": "UI.InterWorld.Text.InterWorldEnter",
+        "text": "인터 월드에 진입하였습니다."
+    },
+    "8004363": {
+        "deprecated": false,
+        "Dev_Desc": "이벤트 제작 레시피 탭 / 재회의 약속 증표",
+        "id": 8004363,
+        "alias": "UI.Craft.LeftSubTabName.Event.AfterPromise_01",
+        "text": "재회의 약속 증표"
     }
 }

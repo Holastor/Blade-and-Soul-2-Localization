@@ -1,0 +1,842 @@
+{
+    "95000": {
+        "deprecated": false,
+        "id": 95000,
+        "alias": "UI.DevButton.1",
+        "text": "Bookmark"
+    },
+    "95001": {
+        "deprecated": false,
+        "id": 95001,
+        "alias": "UI.DevButton.2",
+        "text": "Character \\n Settings"
+    },
+    "95002": {
+        "deprecated": false,
+        "id": 95002,
+        "alias": "UI.DevButton.3",
+        "text": "Consumables \\n goods \\n Create"
+    },
+    "95003": {
+        "deprecated": false,
+        "id": 95003,
+        "alias": "UI.DevButton.4",
+        "text": "Test \\n auxiliary function"
+    },
+    "95004": {
+        "deprecated": false,
+        "id": 95004,
+        "alias": "UI.DevButton.5",
+        "text": "initialization"
+    },
+    "95005": {
+        "deprecated": false,
+        "id": 95005,
+        "alias": "UI.DevButton.6",
+        "text": "Epic \\n quest \\n progress"
+    },
+    "95006": {
+        "deprecated": false,
+        "id": 95006,
+        "alias": "UI.DevButton.7",
+        "text": "Target \\nui"
+    },
+    "95007": {
+        "deprecated": false,
+        "id": 95007,
+        "alias": "UI.DevButton.8",
+        "text": "Reconnect"
+    },
+    "95008": {
+        "deprecated": false,
+        "id": 95008,
+        "alias": "UI.DevButton.9",
+        "text": "apply"
+    },
+    "95009": {
+        "deprecated": false,
+        "id": 95009,
+        "alias": "UI.DevButton.10",
+        "text": "Camera \\n Modification"
+    },
+    "95010": {
+        "deprecated": false,
+        "id": 95010,
+        "alias": "UI.DevButton.11",
+        "text": "Language \\n Select"
+    },
+    "95011": {
+        "deprecated": false,
+        "id": 95011,
+        "alias": "UI.DevButton.12",
+        "text": "Entry"
+    },
+    "95012": {
+        "deprecated": false,
+        "id": 95012,
+        "alias": "UI.DevButton.13",
+        "text": "Equipment slot \\n extension"
+    },
+    "95013": {
+        "deprecated": false,
+        "id": 95013,
+        "alias": "UI.DevButton.14",
+        "text": "Default \\n setting"
+    },
+    "95014": {
+        "deprecated": false,
+        "id": 95014,
+        "alias": "UI.DevButton.15",
+        "text": "General \\n setting"
+    },
+    "95015": {
+        "deprecated": false,
+        "id": 95015,
+        "alias": "UI.DevButton.16",
+        "text": "Advanced \\n Setting"
+    },
+    "95016": {
+        "deprecated": false,
+        "id": 95016,
+        "alias": "UI.DevButton.17",
+        "text": "Rare 1 \\n setting"
+    },
+    "95017": {
+        "deprecated": false,
+        "id": 95017,
+        "alias": "UI.DevButton.18",
+        "text": "Rare 2 \\n setting"
+    },
+    "95018": {
+        "deprecated": false,
+        "id": 95018,
+        "alias": "UI.DevButton.19",
+        "text": "Hero \\n setting"
+    },
+    "95019": {
+        "deprecated": false,
+        "id": 95019,
+        "alias": "UI.DevButton.20",
+        "text": "Legendary \\n setting"
+    },
+    "95020": {
+        "deprecated": false,
+        "id": 95020,
+        "alias": "UI.DevButton.21",
+        "text": "Foggy \\n acquisition"
+    },
+    "95021": {
+        "deprecated": false,
+        "id": 95021,
+        "alias": "UI.DevButton.22",
+        "text": "Language \\n Select"
+    },
+    "95022": {
+        "deprecated": false,
+        "id": 95022,
+        "alias": "UI.DevButton.23",
+        "text": "Quest \\n Accept"
+    },
+    "95023": {
+        "deprecated": false,
+        "id": 95023,
+        "alias": "UI.DevButton.24",
+        "text": "Quest \\n Change (hint)"
+    },
+    "95024": {
+        "deprecated": false,
+        "id": 95024,
+        "alias": "UI.DevButton.25",
+        "text": "Quest \\n Completed"
+    },
+    "95025": {
+        "deprecated": false,
+        "id": 95025,
+        "alias": "UI.DevButton.26",
+        "text": "All \\n Quest \\n reset"
+    },
+    "95026": {
+        "deprecated": false,
+        "id": 95026,
+        "alias": "UI.DevButton.27",
+        "text": "Maximum weight \\n increase"
+    },
+    "95027": {
+        "deprecated": false,
+        "id": 95027,
+        "alias": "UI.DevButton.28",
+        "text": "Move speed \\n set"
+    },
+    "95028": {
+        "deprecated": false,
+        "id": 95028,
+        "alias": "UI.DevButton.29",
+        "text": "Light \\n gauge \\n consuming \\noff"
+    },
+    "95029": {
+        "deprecated": false,
+        "id": 95029,
+        "alias": "UI.DevButton.30",
+        "text": "Content \\n unlock"
+    },
+    "95030": {
+        "deprecated": false,
+        "id": 95030,
+        "alias": "UI.DevButton.31",
+        "text": "Death"
+    },
+    "95031": {
+        "deprecated": false,
+        "id": 95031,
+        "alias": "UI.DevButton.32",
+        "text": "All \\n adventure \\n completed"
+    },
+    "95032": {
+        "deprecated": false,
+        "id": 95032,
+        "alias": "UI.DevButton.33",
+        "text": "Moving"
+    },
+    "95033": {
+        "deprecated": false,
+        "id": 95033,
+        "alias": "UI.DevButton.34",
+        "text": "area"
+    },
+    "95034": {
+        "deprecated": false,
+        "id": 95034,
+        "alias": "UI.DevButton.35",
+        "text": "world"
+    },
+    "95035": {
+        "deprecated": false,
+        "id": 95035,
+        "alias": "UI.DevButton.36",
+        "text": "Change"
+    },
+    "95036": {
+        "deprecated": false,
+        "id": 95036,
+        "alias": "UI.DevButton.37",
+        "text": "level"
+    },
+    "95037": {
+        "deprecated": false,
+        "id": 95037,
+        "alias": "UI.DevButton.38",
+        "text": "invincibility"
+    },
+    "95038": {
+        "deprecated": false,
+        "id": 95038,
+        "alias": "UI.DevButton.39",
+        "text": "speed"
+    },
+    "95039": {
+        "deprecated": false,
+        "id": 95039,
+        "alias": "UI.DevButton.40",
+        "text": "Applies"
+    },
+    "95040": {
+        "deprecated": false,
+        "id": 95040,
+        "alias": "UI.DevButton.41",
+        "text": "Quest ID"
+    },
+    "95041": {
+        "deprecated": false,
+        "id": 95041,
+        "alias": "UI.DevButton.42",
+        "text": "Mission Step"
+    },
+    "95042": {
+        "deprecated": false,
+        "id": 95042,
+        "alias": "UI.DevButton.43",
+        "text": "Hint"
+    },
+    "95043": {
+        "deprecated": false,
+        "id": 95043,
+        "alias": "UI.DevButton.44",
+        "text": "Hint Step"
+    },
+    "95044": {
+        "deprecated": false,
+        "id": 95044,
+        "alias": "UI.DevButton.45",
+        "text": "Neoles"
+    },
+    "95045": {
+        "deprecated": false,
+        "id": 95045,
+        "alias": "UI.DevButton.46",
+        "text": "goldfinch"
+    },
+    "95046": {
+        "deprecated": false,
+        "id": 95046,
+        "alias": "UI.DevButton.47",
+        "text": "Achievement"
+    },
+    "95047": {
+        "deprecated": false,
+        "id": 95047,
+        "alias": "UI.DevButton.48",
+        "text": "Pieces of memory"
+    },
+    "95048": {
+        "deprecated": false,
+        "id": 95048,
+        "alias": "UI.DevButton.49",
+        "text": "Actor name"
+    },
+    "95049": {
+        "deprecated": false,
+        "id": 95049,
+        "alias": "UI.DevButton.50",
+        "text": "Distance to PC"
+    },
+    "95050": {
+        "deprecated": false,
+        "id": 95050,
+        "alias": "UI.DevButton.51",
+        "text": "Peace \\n Walking"
+    },
+    "95051": {
+        "deprecated": false,
+        "id": 95051,
+        "alias": "UI.DevButton.52",
+        "text": "Peace \\n ridge"
+    },
+    "95052": {
+        "deprecated": false,
+        "id": 95052,
+        "alias": "UI.DevButton.53",
+        "text": "Battle \\n Walking"
+    },
+    "95053": {
+        "deprecated": false,
+        "id": 95053,
+        "alias": "UI.DevButton.54",
+        "text": "Sword \\n unsteady \\n acquisition"
+    },
+    "95054": {
+        "deprecated": false,
+        "id": 95054,
+        "alias": "UI.DevButton.55",
+        "text": "Sword \\n unsteady \\n 5"
+    },
+    "95055": {
+        "deprecated": false,
+        "id": 95055,
+        "alias": "UI.DevButton.56",
+        "text": "Kicking \\n"
+    },
+    "95056": {
+        "deprecated": false,
+        "id": 95056,
+        "alias": "UI.DevButton.57",
+        "text": "Kicking \\n"
+    },
+    "95057": {
+        "deprecated": false,
+        "id": 95057,
+        "alias": "UI.DevButton.58",
+        "text": "Ax \\n unsteady \\n acquisition"
+    },
+    "95058": {
+        "deprecated": false,
+        "id": 95058,
+        "alias": "UI.DevButton.59",
+        "text": "Ax \\n unsteady \\n acquisition 2"
+    },
+    "95059": {
+        "deprecated": false,
+        "id": 95059,
+        "alias": "UI.DevButton.60",
+        "text": "Porcelah \\n older \\n acquisition"
+    },
+    "95060": {
+        "deprecated": false,
+        "id": 95060,
+        "alias": "UI.DevButton.61",
+        "text": "Porcelain \\n older \\n acquisition 2"
+    },
+    "95061": {
+        "deprecated": false,
+        "id": 95061,
+        "alias": "UI.DevButton.62",
+        "text": "Bow \\n unsteady \\n acquisition"
+    },
+    "95062": {
+        "deprecated": false,
+        "id": 95062,
+        "alias": "UI.DevButton.63",
+        "text": "Bow \\n unsteady \\n 5"
+    },
+    "95063": {
+        "deprecated": false,
+        "id": 95063,
+        "alias": "UI.DevButton.64",
+        "text": "\\n Acquisition of pole \\n"
+    },
+    "95064": {
+        "deprecated": false,
+        "id": 95064,
+        "alias": "UI.DevButton.65",
+        "text": "Grant \\n unsteady \\n acquisition 2"
+    },
+    "95065": {
+        "deprecated": false,
+        "id": 95065,
+        "alias": "UI.DevButton.66",
+        "text": "Change value"
+    },
+    "95066": {
+        "deprecated": false,
+        "id": 95066,
+        "alias": "UI.DevButton.67",
+        "text": "General \\n Soul \\n acquisition"
+    },
+    "95067": {
+        "deprecated": false,
+        "id": 95067,
+        "alias": "UI.DevButton.68",
+        "text": "Advanced \\n Soul \\n acquisition"
+    },
+    "95068": {
+        "deprecated": false,
+        "id": 95068,
+        "alias": "UI.DevButton.69",
+        "text": "Rare \\n Soul \\n acquisition 1"
+    },
+    "95069": {
+        "deprecated": false,
+        "id": 95069,
+        "alias": "UI.DevButton.70",
+        "text": "Rare \\n Soul \\n acquisition 2"
+    },
+    "95070": {
+        "deprecated": false,
+        "id": 95070,
+        "alias": "UI.DevButton.71",
+        "text": "Hero \\n Soul \\n acquisition"
+    },
+    "95071": {
+        "deprecated": false,
+        "id": 95071,
+        "alias": "UI.DevButton.72",
+        "text": "Legendary \\n Soul \\n acquisition"
+    },
+    "95072": {
+        "deprecated": false,
+        "id": 95072,
+        "alias": "UI.DevButton.73",
+        "text": "General \\n Ceremony \\n acquisition"
+    },
+    "95073": {
+        "deprecated": false,
+        "id": 95073,
+        "alias": "UI.DevButton.74",
+        "text": "Advanced \\n Ceremony \\n acquisition"
+    },
+    "95074": {
+        "deprecated": false,
+        "id": 95074,
+        "alias": "UI.DevButton.75",
+        "text": "Rare \\n Ceremony \\n"
+    },
+    "95075": {
+        "deprecated": false,
+        "id": 95075,
+        "alias": "UI.DevButton.76",
+        "text": "Hero \\n inquiry \\n acquisition"
+    },
+    "95076": {
+        "deprecated": false,
+        "id": 95076,
+        "alias": "UI.DevButton.77",
+        "text": "Legendary \\nquicent \\n acquisition"
+    },
+    "95077": {
+        "deprecated": false,
+        "id": 95077,
+        "alias": "UI.DevButton.78",
+        "text": "Soul \\n initialization"
+    },
+    "95078": {
+        "deprecated": false,
+        "id": 95078,
+        "alias": "UI.DevButton.79",
+        "text": "Ceremony \\n initialization"
+    },
+    "95079": {
+        "deprecated": false,
+        "id": 95079,
+        "alias": "UI.DevButton.80",
+        "text": "Collection \\n initialization"
+    },
+    "95080": {
+        "deprecated": false,
+        "id": 95080,
+        "alias": "UI.DevButton.81",
+        "text": "Get \\n initialization"
+    },
+    "95081": {
+        "deprecated": false,
+        "id": 95081,
+        "alias": "UI.DevButton.82",
+        "text": "General \\n Setting 1"
+    },
+    "95082": {
+        "deprecated": false,
+        "id": 95082,
+        "alias": "UI.DevButton.83",
+        "text": "General \\n Setting 2 2"
+    },
+    "95083": {
+        "deprecated": false,
+        "id": 95083,
+        "alias": "UI.DevButton.84",
+        "text": "Advanced \\n Settings 1"
+    },
+    "95084": {
+        "deprecated": false,
+        "id": 95084,
+        "alias": "UI.DevButton.85",
+        "text": "Advanced \\n Setting 2"
+    },
+    "95085": {
+        "deprecated": false,
+        "id": 95085,
+        "alias": "UI.DevButton.86",
+        "text": "Rare \\n Settings 1"
+    },
+    "95086": {
+        "deprecated": false,
+        "id": 95086,
+        "alias": "UI.DevButton.87",
+        "text": "Rare \\n Setting 2 2"
+    },
+    "95087": {
+        "deprecated": false,
+        "id": 95087,
+        "alias": "UI.DevButton.88",
+        "text": "Hero \\n Setting 1"
+    },
+    "95088": {
+        "deprecated": false,
+        "id": 95088,
+        "alias": "UI.DevButton.89",
+        "text": "Hero \\n Setting 2"
+    },
+    "95089": {
+        "deprecated": false,
+        "id": 95089,
+        "alias": "UI.DevButton.90",
+        "text": "Legendary \\n Settings"
+    },
+    "95090": {
+        "deprecated": false,
+        "id": 95090,
+        "alias": "UI.DevButton.91",
+        "text": "Level \\n Change"
+    },
+    "95091": {
+        "deprecated": false,
+        "id": 95091,
+        "alias": "UI.DevButton.92",
+        "text": "equipment"
+    },
+    "95092": {
+        "deprecated": false,
+        "id": 95092,
+        "alias": "UI.DevButton.93",
+        "text": "Airplane"
+    },
+    "95093": {
+        "deprecated": false,
+        "id": 95093,
+        "alias": "UI.DevButton.94",
+        "text": "collection"
+    },
+    "95094": {
+        "deprecated": false,
+        "id": 95094,
+        "alias": "UI.DevButton.95",
+        "text": "Light"
+    },
+    "95095": {
+        "deprecated": false,
+        "id": 95095,
+        "alias": "UI.DevButton.96",
+        "text": "Test \\n Equipment"
+    },
+    "95096": {
+        "deprecated": false,
+        "id": 95096,
+        "alias": "UI.DevButton.97",
+        "text": "battle"
+    },
+    "95097": {
+        "deprecated": false,
+        "id": 95097,
+        "alias": "UI.DevButton.98",
+        "text": "Sword"
+    },
+    "95098": {
+        "deprecated": false,
+        "id": 95098,
+        "alias": "UI.DevButton.99",
+        "text": "Kicking \\n"
+    },
+    "95099": {
+        "deprecated": false,
+        "id": 95099,
+        "alias": "UI.DevButton.100",
+        "text": "Ax \\n"
+    },
+    "95100": {
+        "deprecated": false,
+        "id": 95100,
+        "alias": "UI.DevButton.101",
+        "text": "Pore ​​pattern \\n"
+    },
+    "95101": {
+        "deprecated": false,
+        "id": 95101,
+        "alias": "UI.DevButton.102",
+        "text": "Bow \\n"
+    },
+    "95102": {
+        "deprecated": false,
+        "id": 95102,
+        "alias": "UI.DevButton.103",
+        "text": "Grind"
+    },
+    "95103": {
+        "deprecated": false,
+        "id": 95103,
+        "alias": "UI.DevButton.104",
+        "text": "Stat \\n Setting 1"
+    },
+    "95104": {
+        "deprecated": false,
+        "id": 95104,
+        "alias": "UI.DevButton.105",
+        "text": "Stat \\n Setting 2 2"
+    },
+    "95105": {
+        "deprecated": false,
+        "id": 95105,
+        "alias": "UI.DevButton.106",
+        "text": "Stat \\n Setting 3 3"
+    },
+    "95106": {
+        "deprecated": false,
+        "id": 95106,
+        "alias": "UI.DevButton.107",
+        "text": "Stat \\n Setting 4"
+    },
+    "95107": {
+        "deprecated": false,
+        "id": 95107,
+        "alias": "UI.DevButton.108",
+        "text": "Stat \\n Setting 5"
+    },
+    "95108": {
+        "deprecated": false,
+        "id": 95108,
+        "alias": "UI.DevButton.109",
+        "text": "Recovery \\n Item"
+    },
+    "95109": {
+        "deprecated": false,
+        "id": 95109,
+        "alias": "UI.DevButton.110",
+        "text": "Buff \\n Item"
+    },
+    "95110": {
+        "deprecated": false,
+        "id": 95110,
+        "alias": "UI.DevButton.111",
+        "text": "Enhance \\n Order"
+    },
+    "95111": {
+        "deprecated": false,
+        "id": 95111,
+        "alias": "UI.DevButton.112",
+        "text": "Reorganization"
+    },
+    "95112": {
+        "deprecated": false,
+        "id": 95112,
+        "alias": "UI.DevButton.113",
+        "text": "Full \\n initialization"
+    },
+    "95113": {
+        "deprecated": false,
+        "id": 95113,
+        "alias": "UI.DevButton.114",
+        "text": "Item \\n Cool time \\n initialization"
+    },
+    "95114": {
+        "deprecated": false,
+        "id": 95114,
+        "alias": "UI.DevButton.115",
+        "text": "All \\n initialization \\n initialization"
+    },
+    "95115": {
+        "deprecated": false,
+        "id": 95115,
+        "alias": "UI.DevButton.116",
+        "text": "Stat \\n initialization"
+    },
+    "95116": {
+        "deprecated": false,
+        "id": 95116,
+        "alias": "UI.DevButton.117",
+        "text": "Collection \\n initialization"
+    },
+    "95117": {
+        "deprecated": false,
+        "id": 95117,
+        "alias": "UI.DevButton.118",
+        "text": "Light \\n Growth \\n initialization"
+    },
+    "95118": {
+        "deprecated": false,
+        "id": 95118,
+        "alias": "UI.DevButton.119",
+        "text": "Money \\n initialization"
+    },
+    "95119": {
+        "deprecated": false,
+        "id": 95119,
+        "alias": "UI.DevButton.120",
+        "text": "Achievement \\n initialization"
+    },
+    "95120": {
+        "deprecated": false,
+        "id": 95120,
+        "alias": "UI.DevButton.121",
+        "text": "Adventure \\n initialization"
+    },
+    "95121": {
+        "deprecated": false,
+        "id": 95121,
+        "alias": "UI.DevButton.122",
+        "text": "Acquired public"
+    },
+    "95122": {
+        "deprecated": false,
+        "id": 95122,
+        "alias": "UI.DevButton.123",
+        "text": "Public \\n unsteady \\n acquisition"
+    },
+    "95123": {
+        "deprecated": false,
+        "id": 95123,
+        "alias": "UI.DevButton.124",
+        "text": "Obtained a non-compliant material \\n"
+    },
+    "95124": {
+        "deprecated": false,
+        "id": 95124,
+        "alias": "UI.DevButton.125",
+        "text": "Soul \\n acquisition"
+    },
+    "95125": {
+        "deprecated": false,
+        "id": 95125,
+        "alias": "UI.DevButton.126",
+        "text": "Principle \\n acquisition"
+    },
+    "95126": {
+        "deprecated": false,
+        "id": 95126,
+        "alias": "UI.DevButton.127",
+        "text": "Equipment \\n"
+    },
+    "95127": {
+        "deprecated": false,
+        "id": 95127,
+        "alias": "UI.DevButton.128",
+        "text": "All \\n light \\n acquisition"
+    },
+    "95128": {
+        "deprecated": false,
+        "id": 95128,
+        "alias": "UI.DevButton.129",
+        "text": "Hanbang \\n weapon"
+    },
+    "95129": {
+        "deprecated": false,
+        "id": 95129,
+        "alias": "UI.DevButton.130",
+        "text": "Youngwon \\n Necklace"
+    },
+    "95130": {
+        "deprecated": false,
+        "id": 95130,
+        "alias": "UI.DevButton.131",
+        "text": "goldfinch"
+    },
+    "95131": {
+        "deprecated": false,
+        "id": 95131,
+        "alias": "UI.DevButton.132",
+        "text": "Special \\n Coin"
+    },
+    "95132": {
+        "deprecated": false,
+        "id": 95132,
+        "alias": "UI.DevButton.133",
+        "text": "Neoles"
+    },
+    "95133": {
+        "deprecated": false,
+        "id": 95133,
+        "alias": "UI.DevButton.134",
+        "text": "Memory \\n Sculpture"
+    },
+    "95134": {
+        "deprecated": false,
+        "id": 95134,
+        "alias": "UI.DevButton.135",
+        "text": "Blade \\n point \\n acquiring"
+    },
+    "95135": {
+        "deprecated": false,
+        "id": 95135,
+        "alias": "UI.DevButton.136",
+        "text": "Variable / \\n service number"
+    },
+    "95136": {
+        "deprecated": false,
+        "id": 95136,
+        "alias": "UI.DevButton.137",
+        "text": "Adventurer \\n Score"
+    },
+    "95137": {
+        "deprecated": false,
+        "id": 95137,
+        "alias": "UI.DevButton.138",
+        "text": "Principles \\n Score"
+    },
+    "95138": {
+        "deprecated": false,
+        "id": 95138,
+        "alias": "UI.DevButton.139",
+        "text": "Generate goods \\n Create"
+    },
+    "95139": {
+        "deprecated": false,
+        "id": 95139,
+        "alias": "UI.DevButton.140",
+        "text": "Soul \\n Growth"
+    }
+}

@@ -379,9 +379,9 @@
     },
     "83100056": {
         "deprecated": false,
-        "Dev_Desc": "특별 소울 소환 / 파사, 회귀자 파사, 송시국, 뇌신",
+        "Dev_Desc": "특별 소울 소환 / 야루, 오름, 백화렴",
         "id": 83100056,
-        "alias": "Contents.CashShop.Item.Name.1055",
+        "alias": "Contents.CashShop.Item.Name.1053",
         "text": "<textColor = [206：120：78：255]> shiro，</> <textColor=[172:98:223:255]>回归安排，Wanderer有机</> \\n <textColor=[172:98:223:255]></> \\n <[255：255：255：255]> </> \\n <textColor = [92：163：255：255]>高级</> <textColor=[255:255:255:255]>〜</> <textColor = [206：120：78：255]>图例</> <textColor=[255:255:255:255]>评级</> \\n <textColor=[255:255:255:255]>各种灵魂收购</>"
     },
     "83100057": {
@@ -390,6 +390,27 @@
         "id": 83100057,
         "alias": "Contents.CashShop.Item.Name.1054",
         "text": "豪华灵魂4步包装"
+    },
+    "83100058": {
+        "deprecated": false,
+        "Dev_Desc": "특별 소울 소환 / 파사, 회귀자 파사, 송시국, 뇌신",
+        "id": 83100058,
+        "alias": "Contents.CashShop.Item.Name.1055",
+        "text": "<textColor = [206：120：78：255]> PASA，</> <textColor=[172:98:223:255]>回归PASA </> \\n <textColor=[172:98:223:255]>> </> \\n <textColor=[255:255:255:255]>一般</> <textColor=[255:255:255:255]></> <textColor=[255:255:255:255]>一般</>文字彩色= [255：255：255：255]> 255：255：255：255：255：：255：255：255]>〜</> <textColor = [206：120：78：255 ]>图例</> <textColor=[255:255:255:255]>评级</> \\n <textColor=[255:255:255:255]>各种灵魂收购</>"
+    },
+    "83100059": {
+        "deprecated": false,
+        "Dev_Desc": "특별 소울 소환 / 노이, 회귀자 사루비, 하름, 낙원대성",
+        "id": 83100059,
+        "alias": "Contents.CashShop.Item.Name.1056",
+        "text": "<textColor = [206：120：78：255]> noi，</> <textColor=[172:98:223:255]>回归方形</> \\n <textColor=[172:98:223:255]>> </> \\n <textcolor = [255：255：255：255]>一般</> <[255：255：255：255：255]>一般</> <textColor=[255:255:255:255]>〜</> <textColor = [206：120：78：255]>传奇</> <textColor=[255:255:255:255]>评级</> \\n <textColor = [255：255：255： 255]各种灵魂收购（/>"
+    },
+    "83100060": {
+        "deprecated": false,
+        "Dev_Desc": "소울 & 빛나는 정수 파편 4-Step 패키지",
+        "id": 83100060,
+        "alias": "Contents.CashShop.Item.Name.1057",
+        "text": "灵魂"
     },
     "83200001": {
         "deprecated": false,
@@ -2231,6 +2252,76 @@
         "id": 83200266,
         "alias": "Contents.CashShop.Item.Name.5395",
         "text": "波浪包的诞生"
+    },
+    "83200267": {
+        "deprecated": false,
+        "Dev_Desc": "노이의 축복 패스권",
+        "id": 83200267,
+        "alias": "Contents.CashShop.Item.Name.5396",
+        "text": "祝福密码"
+    },
+    "83200268": {
+        "deprecated": false,
+        "Dev_Desc": "특별 소울 소환 / 노이, 회귀자 사루비, 하름, 낙원대성 / 1회",
+        "id": 83200268,
+        "alias": "Contents.CashShop.Item.Name.5397",
+        "text": "特殊灵魂召唤1"
+    },
+    "83200269": {
+        "deprecated": false,
+        "Dev_Desc": "특별 소울 소환 / 노이, 회귀자 사루비, 하름, 낙원대성 / 11회",
+        "id": 83200269,
+        "alias": "Contents.CashShop.Item.Name.5398",
+        "text": "特殊灵魂召唤11次"
+    },
+    "83200270": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 정수 파편 꾸러미",
+        "id": 83200270,
+        "alias": "Contents.CashShop.Item.Name.5399",
+        "text": "闪亮的水片段包"
+    },
+    "83200271": {
+        "deprecated": false,
+        "Dev_Desc": "소울 & 빛나는 정수 파편 패키지 / 1 Step",
+        "id": 83200271,
+        "alias": "Contents.CashShop.Item.Name.5400",
+        "text": "灵魂"
+    },
+    "83200272": {
+        "deprecated": false,
+        "Dev_Desc": "소울 & 빛나는 정수 파편 패키지 / 2 Step",
+        "id": 83200272,
+        "alias": "Contents.CashShop.Item.Name.5401",
+        "text": "灵魂"
+    },
+    "83200273": {
+        "deprecated": false,
+        "Dev_Desc": "소울 & 빛나는 정수 파편 패키지 / 3 Step",
+        "id": 83200273,
+        "alias": "Contents.CashShop.Item.Name.5402",
+        "text": "灵魂"
+    },
+    "83200274": {
+        "deprecated": false,
+        "Dev_Desc": "소울 & 빛나는 정수 파편 패키지 / 4 Step",
+        "id": 83200274,
+        "alias": "Contents.CashShop.Item.Name.5403",
+        "text": "灵魂"
+    },
+    "83200275": {
+        "deprecated": false,
+        "Dev_Desc": "소울 & 빛나는 정수 파편 패키지 / 보너스 1",
+        "id": 83200275,
+        "alias": "Contents.CashShop.Item.Name.5404",
+        "text": "灵魂"
+    },
+    "83200276": {
+        "deprecated": false,
+        "Dev_Desc": "소울 & 빛나는 정수 파편 패키지 / 보너스 2",
+        "id": 83200276,
+        "alias": "Contents.CashShop.Item.Name.5405",
+        "text": "灵魂"
     },
     "83350000": {
         "deprecated": false,
@@ -5020,16 +5111,16 @@
     },
     "83350408": {
         "deprecated": false,
-        "Dev_Desc": "시즌 패스: 봄날",
+        "Dev_Desc": "프리미엄 패스 II",
         "id": 83350408,
-        "alias": "Contents.CashShop.Item.Name.9800124",
+        "alias": "Contents.CashShop.Item.Name.9800126",
         "text": "季节通过：春天"
     },
     "83350409": {
         "deprecated": false,
-        "Dev_Desc": "비사문의 화려한 신석 패키지",
+        "Dev_Desc": "노이의 축복",
         "id": 83350409,
-        "alias": "Contents.CashShop.Item.Name.9800125",
+        "alias": "Contents.CashShop.Item.Name.9800127",
         "text": "多彩的新的Nooles包"
     },
     "83350410": {
@@ -5129,5 +5220,82 @@
         "id": 83350423,
         "alias": "Contents.CashShop.Item.Name.9850163",
         "text": "波浪包装盒的诞生"
+    },
+    "83350424": {
+        "deprecated": false,
+        "Dev_Desc": "프리미엄 패스2",
+        "id": 83350424,
+        "alias": "Contents.CashShop.Item.Name.9800126",
+        "text": "高级通过II"
+    },
+    "83350425": {
+        "deprecated": false,
+        "Dev_Desc": "노이의 축복",
+        "id": 83350425,
+        "alias": "Contents.CashShop.Item.Name.9850164",
+        "text": "诺伊的祝福"
+    },
+    "83350426": {
+        "deprecated": false,
+        "Dev_Desc": "특별 소울 소환 / 노이, 회귀자 사루비, 하름, 낙원대성 / 1회",
+        "id": 83350426,
+        "alias": "Contents.CashShop.Item.Name.9710276",
+        "text": "特殊灵魂召唤1"
+    },
+    "83350427": {
+        "deprecated": false,
+        "Dev_Desc": "특별 소울 소환 / 노이, 회귀자 사루비, 하름, 낙원대성 / 11회",
+        "id": 83350427,
+        "alias": "Contents.CashShop.Item.Name.9710277",
+        "text": "特殊灵魂召唤11次"
+    },
+    "83350428": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 정수 파편 꾸러미",
+        "id": 83350428,
+        "alias": "Contents.CashShop.Item.Name.9710278",
+        "text": "闪亮的水片段包"
+    },
+    "83350429": {
+        "deprecated": false,
+        "Dev_Desc": "소울 & 빛나는 정수 파편 패키지 / 1 Step",
+        "id": 83350429,
+        "alias": "Contents.CashShop.Item.Name.9710279",
+        "text": "灵魂"
+    },
+    "83350430": {
+        "deprecated": false,
+        "Dev_Desc": "소울 & 빛나는 정수 파편 패키지 / 2 Step",
+        "id": 83350430,
+        "alias": "Contents.CashShop.Item.Name.9710280",
+        "text": "灵魂"
+    },
+    "83350431": {
+        "deprecated": false,
+        "Dev_Desc": "소울 & 빛나는 정수 파편 패키지 / 3 Step",
+        "id": 83350431,
+        "alias": "Contents.CashShop.Item.Name.9710281",
+        "text": "灵魂"
+    },
+    "83350432": {
+        "deprecated": false,
+        "Dev_Desc": "소울 & 빛나는 정수 파편 패키지 / 4 Step",
+        "id": 83350432,
+        "alias": "Contents.CashShop.Item.Name.9710282",
+        "text": "灵魂"
+    },
+    "83350433": {
+        "deprecated": false,
+        "Dev_Desc": "소울 & 빛나는 정수 파편 패키지 / 보너스 1",
+        "id": 83350433,
+        "alias": "Contents.CashShop.Item.Name.9710283",
+        "text": "灵魂"
+    },
+    "83350434": {
+        "deprecated": false,
+        "Dev_Desc": "소울 & 빛나는 정수 파편 패키지 / 보너스 2",
+        "id": 83350434,
+        "alias": "Contents.CashShop.Item.Name.9710284",
+        "text": "灵魂"
     }
 }

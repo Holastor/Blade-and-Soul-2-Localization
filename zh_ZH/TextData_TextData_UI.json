@@ -29280,5 +29280,625 @@
         "id": 8004265,
         "alias": "UI.Craft.LeftSubTabName.Event.BornPiece_01",
         "text": "诞生片段"
+    },
+    "8004266": {
+        "deprecated": false,
+        "Dev_Desc": "절전모드 / 시간당 획득량",
+        "id": 8004266,
+        "alias": "UI.SaveMode.PerHour",
+        "text": "每小时"
+    },
+    "8004267": {
+        "deprecated": false,
+        "Dev_Desc": "절전모드 / 분당 획득량",
+        "id": 8004267,
+        "alias": "UI.SaveMode.PerMinute",
+        "text": "每分钟"
+    },
+    "8004268": {
+        "deprecated": false,
+        "Dev_Desc": "절전모드 / 시간당 획득량",
+        "id": 8004268,
+        "alias": "UI.SaveMode.EarnedPerHour",
+        "text": "每小时行动"
+    },
+    "8004269": {
+        "deprecated": false,
+        "Dev_Desc": "절전모드 / 분당 획득량",
+        "id": 8004269,
+        "alias": "UI.SaveMode.EarnedPerMinute",
+        "text": "每分钟表现"
+    },
+    "8004270": {
+        "deprecated": false,
+        "Dev_Desc": "시스템 설정 / 절전모드 / 평균 획득량 표시",
+        "id": 8004270,
+        "alias": "UI.Setting.SaveMode.DisplayEarnedInfo",
+        "text": "金币/体验平均收购"
+    },
+    "8004271": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 / HUD / 이름",
+        "id": 8004271,
+        "alias": "UI.Constellation.HUD.Title",
+        "text": "命运圣徒"
+    },
+    "8004272": {
+        "deprecated": false,
+        "Dev_Desc": "공용 / 태그 뱃지 / Event",
+        "id": 8004272,
+        "alias": "UI.Common.TagBadge.Event",
+        "text": "事件"
+    },
+    "8004273": {
+        "deprecated": false,
+        "Dev_Desc": "공용 / 태그 뱃지 / EVENT",
+        "id": 8004273,
+        "alias": "UI.Common.TagBadge.UpperCaseEvent",
+        "text": "事件"
+    },
+    "8004274": {
+        "deprecated": false,
+        "Dev_Desc": "공용 / 태그 뱃지 / Best",
+        "id": 8004274,
+        "alias": "UI.Common.TagBadge.Best",
+        "text": "最好的"
+    },
+    "8004275": {
+        "deprecated": false,
+        "Dev_Desc": "공용 / 태그 뱃지 / BEST",
+        "id": 8004275,
+        "alias": "UI.Common.TagBadge.UpperCaseBEST",
+        "text": "最好的"
+    },
+    "8004276": {
+        "deprecated": false,
+        "Dev_Desc": "공용 / 키보드 / Alt키",
+        "id": 8004276,
+        "alias": "UI.Common.Keyboard.Alt",
+        "text": "alt."
+    },
+    "8004277": {
+        "deprecated": false,
+        "Dev_Desc": "공용 / 키보드 / Shift키",
+        "id": 8004277,
+        "alias": "UI.Common.Keyboard.Shift",
+        "text": "转移"
+    },
+    "8004278": {
+        "deprecated": false,
+        "Dev_Desc": "공용 / 키보드 / Space키",
+        "id": 8004278,
+        "alias": "UI.Common.Keyboard.Space",
+        "text": "空间"
+    },
+    "8004279": {
+        "deprecated": false,
+        "Dev_Desc": "클래스 체인지 / 변경선택",
+        "id": 8004279,
+        "alias": "UI.ClassChange.Change.Desc1",
+        "text": "请选择一个类来更改。"
+    },
+    "8004280": {
+        "deprecated": false,
+        "Dev_Desc": "클래스 체인지 / 변경선택",
+        "id": 8004280,
+        "alias": "UI.ClassChange.Change.Desc2",
+        "text": "请选择要切换的类。"
+    },
+    "8004281": {
+        "deprecated": false,
+        "Dev_Desc": "클래스 체인지 / 클래스 전환",
+        "id": 8004281,
+        "alias": "UI.ClassChange.Change",
+        "text": "转换课程"
+    },
+    "8004282": {
+        "deprecated": false,
+        "Dev_Desc": "클래스 체인지 / 일정",
+        "id": 8004282,
+        "alias": "UI.ClassChange.Change.Date",
+        "text": "2020.12.12至2020.12.29 05:00"
+    },
+    "8004283": {
+        "deprecated": false,
+        "Dev_Desc": "클래스 체인지 / 설명1",
+        "id": 8004283,
+        "alias": "UI.ClassChange.Change.Desc3",
+        "text": "选择要更改的类后，将在设置详细项目后进行购买。"
+    },
+    "8004284": {
+        "deprecated": false,
+        "Dev_Desc": "클래스 체인지 / 기본 비용",
+        "id": 8004284,
+        "alias": "UI.ClassChange.Cost1",
+        "text": "基本成本"
+    },
+    "8004285": {
+        "deprecated": false,
+        "Dev_Desc": "클래스 체인지 / 무기 전환",
+        "id": 8004285,
+        "alias": "UI.ClassChange.Weapon1",
+        "text": "武器"
+    },
+    "8004286": {
+        "deprecated": false,
+        "Dev_Desc": "클래스 체인지 / 무기 선택",
+        "id": 8004286,
+        "alias": "UI.ClassChange.Weapon2",
+        "text": "武器选择"
+    },
+    "8004287": {
+        "deprecated": false,
+        "Dev_Desc": "클래스 체인지 / 무공 전이",
+        "id": 8004287,
+        "alias": "UI.ClassChange.Skill1",
+        "text": "公共过渡"
+    },
+    "8004288": {
+        "deprecated": false,
+        "Dev_Desc": "클래스 체인지 / 추가 비용",
+        "id": 8004288,
+        "alias": "UI.ClassChange.Cost2",
+        "text": "附加费用"
+    },
+    "8004289": {
+        "deprecated": false,
+        "Dev_Desc": "클래스 체인지 / 보유 무기",
+        "id": 8004289,
+        "alias": "UI.ClassChange.Weapon3",
+        "text": "抱着武器"
+    },
+    "8004290": {
+        "deprecated": false,
+        "Dev_Desc": "클래스 체인지 / 보유 무공",
+        "id": 8004290,
+        "alias": "UI.ClassChange.Skill2",
+        "text": "保持"
+    },
+    "8004291": {
+        "deprecated": false,
+        "Dev_Desc": "클래스 체인지 / 전이 결과",
+        "id": 8004291,
+        "alias": "UI.ClassChange.Result",
+        "text": "过渡结果"
+    },
+    "8004292": {
+        "deprecated": false,
+        "Dev_Desc": "클래스 체인지 / 전환 무기",
+        "id": 8004292,
+        "alias": "UI.ClassChange.Result.Weapon",
+        "text": "切换武器"
+    },
+    "8004293": {
+        "deprecated": false,
+        "Dev_Desc": "클래스 체인지 / 설명2",
+        "id": 8004293,
+        "alias": "UI.ClassChange.Result.Desc1",
+        "text": "将当前类专用武器更改为仅限类武器。"
+    },
+    "8004294": {
+        "deprecated": false,
+        "Dev_Desc": "클래스 체인지 / 설명3",
+        "id": 8004294,
+        "alias": "UI.ClassChange.Result.Desc2",
+        "text": "目前，课程的硬化，改变班级车辆的进化步骤。"
+    },
+    "8004295": {
+        "deprecated": false,
+        "Dev_Desc": "클래스 체인지 / 재선택",
+        "id": 8004295,
+        "alias": "UI.ClassChange.Reselect",
+        "text": "重新选择"
+    },
+    "8004296": {
+        "deprecated": false,
+        "Dev_Desc": "희생의 무덤 상인",
+        "id": 8004296,
+        "alias": "UI.Shop.Tittle.Name.10031",
+        "text": "冰花商人"
+    },
+    "8004297": {
+        "deprecated": false,
+        "Dev_Desc": "희귀 3성/블레이드 효과 취향저격Lv.1",
+        "id": 8004297,
+        "alias": "UI.Soul.BladeEffect.63",
+        "text": "刀片效应前言LV.1"
+    },
+    "8004298": {
+        "deprecated": false,
+        "Dev_Desc": "희귀 5성/블레이드 효과 취향저격Lv.2",
+        "id": 8004298,
+        "alias": "UI.Soul.BladeEffect.64",
+        "text": "刀片效应前言技能LV.2"
+    },
+    "8004299": {
+        "deprecated": false,
+        "Dev_Desc": "블레이드 효과 염계Lv.1",
+        "id": 8004299,
+        "alias": "UI.Soul.BladeEffect.65",
+        "text": "刀片效果体Lv.1"
+    },
+    "8004300": {
+        "deprecated": false,
+        "Dev_Desc": "블레이드 효과 염계Lv.2",
+        "id": 8004300,
+        "alias": "UI.Soul.BladeEffect.66",
+        "text": "刀片效果体LV.2"
+    },
+    "8004301": {
+        "deprecated": false,
+        "Dev_Desc": "영웅 5성/블레이드 효과 염계Lv.3",
+        "id": 8004301,
+        "alias": "UI.Soul.BladeEffect.67",
+        "text": "刀片效果需要LV.3 \\n筛选使用时不可用"
+    },
+    "8004302": {
+        "deprecated": false,
+        "Dev_Desc": "블레이드 효과 염계Lv.3",
+        "id": 8004302,
+        "alias": "UI.Soul.BladeEffect.68",
+        "text": "刀片效果体LV.3"
+    },
+    "8004303": {
+        "deprecated": false,
+        "Dev_Desc": "전설 3성/블레이드 효과 염계Lv.4",
+        "id": 8004303,
+        "alias": "UI.Soul.BladeEffect.69",
+        "text": "刀片效果身体lv.4 \\n灵魂的灵魂"
+    },
+    "8004304": {
+        "deprecated": false,
+        "Dev_Desc": "전설 5성/블레이드 효과 염계Lv.5",
+        "id": 8004304,
+        "alias": "UI.Soul.BladeEffect.70",
+        "text": "刀片效果需要LV.5 \\n爆发速度"
+    },
+    "8004305": {
+        "deprecated": false,
+        "Dev_Desc": "채팅 / 빠른 채팅 / TX 빌드용 프리셋1",
+        "id": 8004305,
+        "alias": "UI.Chat.Macro.Preset.1",
+        "text": "你好。"
+    },
+    "8004306": {
+        "deprecated": false,
+        "Dev_Desc": "채팅 / 빠른 채팅 / TX 빌드용 프리셋2",
+        "id": 8004306,
+        "alias": "UI.Chat.Macro.Preset.2",
+        "text": "帮助。"
+    },
+    "8004307": {
+        "deprecated": false,
+        "Dev_Desc": "채팅 / 빠른 채팅 / TX 빌드용 프리셋3",
+        "id": 8004307,
+        "alias": "UI.Chat.Macro.Preset.3",
+        "text": "谢谢。"
+    },
+    "8004308": {
+        "deprecated": false,
+        "Dev_Desc": "채팅 / 빠른 채팅 / TX 빌드용 프리셋4",
+        "id": 8004308,
+        "alias": "UI.Chat.Macro.Preset.4",
+        "text": "再见。"
+    },
+    "8004309": {
+        "deprecated": false,
+        "Dev_Desc": "파티 / 파티던전",
+        "id": 8004309,
+        "alias": "UI.PartyDungeon.Text.DefaultRewardCount",
+        "text": "收购权赔偿次数"
+    },
+    "8004310": {
+        "deprecated": false,
+        "Dev_Desc": "파티 / 파티던전",
+        "id": 8004310,
+        "alias": "UI.PartyDungeon.Text.ExtraRewardCount",
+        "text": "额外收购权的数量"
+    },
+    "8004311": {
+        "deprecated": false,
+        "Dev_Desc": "공용 / 키보드 / Esc키",
+        "id": 8004311,
+        "alias": "UI.Common.Keyboard.Esc",
+        "text": "退出"
+    },
+    "8004312": {
+        "deprecated": false,
+        "Dev_Desc": "공용 / 키보드 / Tab키",
+        "id": 8004312,
+        "alias": "UI.Common.Keyboard.Tab",
+        "text": "标签"
+    },
+    "8004313": {
+        "deprecated": false,
+        "Dev_Desc": "공용 / 키보드 / Space bar",
+        "id": 8004313,
+        "alias": "UI.Common.Keyboard.Spacebar",
+        "text": "空间栏"
+    },
+    "8004314": {
+        "deprecated": false,
+        "Dev_Desc": "공용 / 마우스 / 버튼",
+        "id": 8004314,
+        "alias": "UI.Common.Mouse.Button",
+        "text": "按钮"
+    },
+    "8004315": {
+        "deprecated": false,
+        "Dev_Desc": "공용 / 마우스 / 휠",
+        "id": 8004315,
+        "alias": "UI.Common.Mouse.Wheel",
+        "text": "车轮"
+    },
+    "8004316": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 환경 / 조작 / 조작키 상세 / 전투",
+        "id": 8004316,
+        "alias": "UI.Option.Environment.Control.Popup.Battle.Title",
+        "text": "战斗"
+    },
+    "8004317": {
+        "deprecated": false,
+        "id": 8004317,
+        "alias": "UI.Option.Environment.Control.Popup.Battle.1",
+        "text": "基本攻击"
+    },
+    "8004318": {
+        "deprecated": false,
+        "id": 8004318,
+        "alias": "UI.Option.Environment.Control.Popup.Battle.2",
+        "text": "特别的"
+    },
+    "8004319": {
+        "deprecated": false,
+        "id": 8004319,
+        "alias": "UI.Option.Environment.Control.Popup.Battle.3",
+        "text": "Hill Buff操作"
+    },
+    "8004320": {
+        "deprecated": false,
+        "id": 8004320,
+        "alias": "UI.Option.Environment.Control.Popup.Battle.4",
+        "text": "[按]使用快速插槽"
+    },
+    "8004321": {
+        "deprecated": false,
+        "id": 8004321,
+        "alias": "UI.Option.Environment.Control.Popup.Battle.5",
+        "text": "[保持]自动使用ON / OFF"
+    },
+    "8004322": {
+        "deprecated": false,
+        "id": 8004322,
+        "alias": "UI.Option.Environment.Control.Popup.Battle.6",
+        "text": "定位/改变"
+    },
+    "8004323": {
+        "deprecated": false,
+        "id": 8004323,
+        "alias": "UI.Option.Environment.Control.Popup.Battle.7",
+        "text": "目标/战斗"
+    },
+    "8004324": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 환경 / 조작 / 조작키 상세 / 전투 관리",
+        "id": 8004324,
+        "alias": "UI.Option.Environment.Control.Popup.BattleManagement.Title",
+        "text": "战斗管理"
+    },
+    "8004325": {
+        "deprecated": false,
+        "id": 8004325,
+        "alias": "UI.Option.Environment.Control.Popup.BattleManagement.1",
+        "text": "检测"
+    },
+    "8004326": {
+        "deprecated": false,
+        "id": 8004326,
+        "alias": "UI.Option.Environment.Control.Popup.BattleManagement.2",
+        "text": "全自动电容开/关"
+    },
+    "8004327": {
+        "deprecated": false,
+        "id": 8004327,
+        "alias": "UI.Option.Environment.Control.Popup.BattleManagement.3",
+        "text": "开车"
+    },
+    "8004328": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 환경 / 조작 / 조작키 상세 / 자동 플레이",
+        "id": 8004328,
+        "alias": "UI.Option.Environment.Control.Popup.AutoPlay.Title",
+        "text": "自动播放"
+    },
+    "8004329": {
+        "deprecated": false,
+        "id": 8004329,
+        "alias": "UI.Option.Environment.Control.Popup.AutoPlay.1",
+        "text": "自动狩猎开/关"
+    },
+    "8004330": {
+        "deprecated": false,
+        "id": 8004330,
+        "alias": "UI.Option.Environment.Control.Popup.AutoPlay.2",
+        "text": "相互作用"
+    },
+    "8004331": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 환경 / 조작 / 조작키 상세 / 이동",
+        "id": 8004331,
+        "alias": "UI.Option.Environment.Control.Popup.Move.Title",
+        "text": "移动"
+    },
+    "8004332": {
+        "deprecated": false,
+        "id": 8004332,
+        "alias": "UI.Option.Environment.Control.Popup.Move.1",
+        "text": "前进/岭"
+    },
+    "8004333": {
+        "deprecated": false,
+        "id": 8004333,
+        "alias": "UI.Option.Environment.Control.Popup.Move.2",
+        "text": "去左边"
+    },
+    "8004334": {
+        "deprecated": false,
+        "id": 8004334,
+        "alias": "UI.Option.Environment.Control.Popup.Move.3",
+        "text": "回去"
+    },
+    "8004335": {
+        "deprecated": false,
+        "id": 8004335,
+        "alias": "UI.Option.Environment.Control.Popup.Move.4",
+        "text": "右转"
+    },
+    "8004336": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 환경 / 조작 / 조작키 상세 / 경공",
+        "id": 8004336,
+        "alias": "UI.Option.Environment.Control.Popup.HyperRun.Title",
+        "text": "光"
+    },
+    "8004337": {
+        "deprecated": false,
+        "id": 8004337,
+        "alias": "UI.Option.Environment.Control.Popup.HyperRun.1",
+        "text": "可访问性/滑动"
+    },
+    "8004338": {
+        "deprecated": false,
+        "id": 8004338,
+        "alias": "UI.Option.Environment.Control.Popup.HyperRun.2",
+        "text": "古吉拉科/天上的雨"
+    },
+    "8004339": {
+        "deprecated": false,
+        "id": 8004339,
+        "alias": "UI.Option.Environment.Control.Popup.HyperRun.3",
+        "text": "跳跃/弘扬"
+    },
+    "8004340": {
+        "deprecated": false,
+        "id": 8004340,
+        "alias": "UI.Option.Environment.Control.Popup.HyperRun.4",
+        "text": "[按]运行/水比"
+    },
+    "8004341": {
+        "deprecated": false,
+        "id": 8004341,
+        "alias": "UI.Option.Environment.Control.Popup.HyperRun.5",
+        "text": "[保持]掉落"
+    },
+    "8004342": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 환경 / 조작 / 조작키 상세 / 메뉴",
+        "id": 8004342,
+        "alias": "UI.Option.Environment.Control.Popup.Menu.Title",
+        "text": "菜单"
+    },
+    "8004343": {
+        "deprecated": false,
+        "id": 8004343,
+        "alias": "UI.Option.Environment.Control.Popup.Menu.1",
+        "text": "存货"
+    },
+    "8004344": {
+        "deprecated": false,
+        "id": 8004344,
+        "alias": "UI.Option.Environment.Control.Popup.Menu.2",
+        "text": "字符信息"
+    },
+    "8004345": {
+        "deprecated": false,
+        "id": 8004345,
+        "alias": "UI.Option.Environment.Control.Popup.Menu.3",
+        "text": "飞机"
+    },
+    "8004346": {
+        "deprecated": false,
+        "id": 8004346,
+        "alias": "UI.Option.Environment.Control.Popup.Menu.4",
+        "text": "聊天"
+    },
+    "8004347": {
+        "deprecated": false,
+        "id": 8004347,
+        "alias": "UI.Option.Environment.Control.Popup.Menu.5",
+        "text": "地图"
+    },
+    "8004348": {
+        "deprecated": false,
+        "id": 8004348,
+        "alias": "UI.Option.Environment.Control.Popup.Menu.6",
+        "text": "关闭/跳过"
+    },
+    "8004349": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 환경 / 조작 / 조작키 상세 / 마우스",
+        "id": 8004349,
+        "alias": "UI.Option.Environment.Control.Popup.Mouse.Title",
+        "text": "老鼠"
+    },
+    "8004350": {
+        "deprecated": false,
+        "id": 8004350,
+        "alias": "UI.Option.Environment.Control.Popup.Mouse.1",
+        "text": "[单击]选择Target / UI"
+    },
+    "8004351": {
+        "deprecated": false,
+        "id": 8004351,
+        "alias": "UI.Option.Environment.Control.Popup.Mouse.2",
+        "text": "[单击]移动字符"
+    },
+    "8004352": {
+        "deprecated": false,
+        "id": 8004352,
+        "alias": "UI.Option.Environment.Control.Popup.Mouse.3",
+        "text": "[拖动]相机运动"
+    },
+    "8004353": {
+        "deprecated": false,
+        "id": 8004353,
+        "alias": "UI.Option.Environment.Control.Popup.Mouse.4",
+        "text": "字符缩放"
+    },
+    "8004359": {
+        "deprecated": false,
+        "Dev_Desc": "파티 / 파티던전",
+        "id": 8004359,
+        "alias": "UI.PartyDungeon.Text.RewardReveal",
+        "text": "检查赔偿金"
+    },
+    "8004360": {
+        "deprecated": false,
+        "Dev_Desc": "파티 / 파티던전",
+        "id": 8004360,
+        "alias": "UI.PartyDungeon.Text.AutoExitRemainTime",
+        "text": "<arg p=[1:integer]/>秒后，您将从Dungeon发送。"
+    },
+    "8004361": {
+        "deprecated": false,
+        "Dev_Desc": "인터월드",
+        "id": 8004361,
+        "alias": "UI.InterWorld.Text.SpecificWorldEnter",
+        "text": "<arg p=[1:string]/>我们进入了世界。"
+    },
+    "8004362": {
+        "deprecated": false,
+        "Dev_Desc": "인터월드",
+        "id": 8004362,
+        "alias": "UI.InterWorld.Text.InterWorldEnter",
+        "text": "我进入了世界间。"
+    },
+    "8004363": {
+        "deprecated": false,
+        "Dev_Desc": "이벤트 제작 레시피 탭 / 재회의 약속 증표",
+        "id": 8004363,
+        "alias": "UI.Craft.LeftSubTabName.Event.AfterPromise_01",
+        "text": "reunion承诺令牌"
     }
 }

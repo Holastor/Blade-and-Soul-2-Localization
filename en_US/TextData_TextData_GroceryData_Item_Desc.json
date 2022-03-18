@@ -6157,21 +6157,6 @@
         "id": 99001011,
         "alias": "Contents.Item.Desc.9101154"
     },
-    "99001014": {
-        "deprecated": false,
-        "id": 99001014,
-        "alias": "Contents.Item.Desc.9101157"
-    },
-    "99001015": {
-        "deprecated": false,
-        "id": 99001015,
-        "alias": "Contents.Item.Desc.9101158"
-    },
-    "99001016": {
-        "deprecated": false,
-        "id": 99001016,
-        "alias": "Contents.Item.Desc.9101159"
-    },
     "99001017": {
         "deprecated": false,
         "Dev_Desc": "권갑 정수 (각인)",
@@ -6252,21 +6237,6 @@
         "deprecated": false,
         "id": 99001047,
         "alias": "Contents.Item.Desc.9101239"
-    },
-    "99001063": {
-        "deprecated": false,
-        "id": 99001063,
-        "alias": "Contents.Item.Desc.9101255"
-    },
-    "99001064": {
-        "deprecated": false,
-        "id": 99001064,
-        "alias": "Contents.Item.Desc.9101256"
-    },
-    "99001065": {
-        "deprecated": false,
-        "id": 99001065,
-        "alias": "Contents.Item.Desc.9101257"
     },
     "99001066": {
         "deprecated": false,
@@ -7013,21 +6983,6 @@
         "id": 99001312,
         "alias": "Contents.Item.Desc.9101349"
     },
-    "99001318": {
-        "deprecated": false,
-        "id": 99001318,
-        "alias": "Contents.Item.Desc.9101355"
-    },
-    "99001319": {
-        "deprecated": false,
-        "id": 99001319,
-        "alias": "Contents.Item.Desc.9101356"
-    },
-    "99001320": {
-        "deprecated": false,
-        "id": 99001320,
-        "alias": "Contents.Item.Desc.9101357"
-    },
     "99001321": {
         "deprecated": false,
         "id": 99001321,
@@ -7124,21 +7079,6 @@
         "id": 99001353,
         "alias": "Contents.Item.Desc.9101439"
     },
-    "99001370": {
-        "deprecated": false,
-        "id": 99001370,
-        "alias": "Contents.Item.Desc.9101456"
-    },
-    "99001371": {
-        "deprecated": false,
-        "id": 99001371,
-        "alias": "Contents.Item.Desc.9101457"
-    },
-    "99001372": {
-        "deprecated": false,
-        "id": 99001372,
-        "alias": "Contents.Item.Desc.9101458"
-    },
     "99001373": {
         "deprecated": false,
         "id": 99001373,
@@ -7219,21 +7159,6 @@
         "deprecated": false,
         "id": 99001404,
         "alias": "Contents.Item.Desc.9101539"
-    },
-    "99001420": {
-        "deprecated": false,
-        "id": 99001420,
-        "alias": "Contents.Item.Desc.9101555"
-    },
-    "99001421": {
-        "deprecated": false,
-        "id": 99001421,
-        "alias": "Contents.Item.Desc.9101556"
-    },
-    "99001422": {
-        "deprecated": false,
-        "id": 99001422,
-        "alias": "Contents.Item.Desc.9101557"
     },
     "99001423": {
         "deprecated": false,
@@ -7325,21 +7250,6 @@
         "deprecated": false,
         "id": 99001455,
         "alias": "Contents.Item.Desc.9101639"
-    },
-    "99001471": {
-        "deprecated": false,
-        "id": 99001471,
-        "alias": "Contents.Item.Desc.9101655"
-    },
-    "99001472": {
-        "deprecated": false,
-        "id": 99001472,
-        "alias": "Contents.Item.Desc.9101656"
-    },
-    "99001473": {
-        "deprecated": false,
-        "id": 99001473,
-        "alias": "Contents.Item.Desc.9101657"
     },
     "99001474": {
         "deprecated": false,
@@ -21658,5 +21568,103 @@
         "id": 99003731,
         "alias": "Contents.Item.Desc.9300378",
         "text": "You can acquire the following three items: \\n\\n - Sacrifice (Event) \\n - Sacrifice (Event) \\n - Sacrifice Box (Event)"
+    },
+    "99003732": {
+        "deprecated": false,
+        "Dev_Desc": "별빛 가루",
+        "id": 99003732,
+        "alias": "Contents.Item.Desc.9200650",
+        "text": "The saints of destiny are ingredients."
+    },
+    "99003733": {
+        "deprecated": false,
+        "Dev_Desc": "별빛 결정",
+        "id": 99003733,
+        "alias": "Contents.Item.Desc.9200651",
+        "text": "The saints of destiny are ingredients."
+    },
+    "99003734": {
+        "deprecated": false,
+        "Dev_Desc": "운명석 파편",
+        "id": 99003734,
+        "alias": "Contents.Item.Desc.9200652",
+        "text": "The saints of fate are the material that requires a saillating material. \\n \\n \\n \\n\\n Least seats can be replaced with one foyed seat by collecting a fated sculpture."
+    },
+    "99003735": {
+        "deprecated": false,
+        "Dev_Desc": "운명석",
+        "id": 99003735,
+        "alias": "Contents.Item.Desc.9200653",
+        "text": "The saints of fate are special materials that require saillation of slot."
+    },
+    "99003736": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 운명석",
+        "id": 99003736,
+        "alias": "Contents.Item.Desc.9200654",
+        "text": "The best statement is a special material that requires slot redness."
+    },
+    "99003737": {
+        "deprecated": false,
+        "Dev_Desc": "얼음꽃(각인)",
+        "id": 99003737,
+        "alias": "Contents.Item.Desc.9901395",
+        "text": "When you use, you give yourself an ice flower effect. \\n Effect will last for 3 seconds."
+    },
+    "99003738": {
+        "deprecated": false,
+        "Dev_Desc": "프리미엄 II 패스권",
+        "id": 99003738,
+        "alias": "Contents.Item.Desc.9300388",
+        "text": "\"Premium Pass II is an item that can enable additional compensation. \\n\\n * Caution \\n If the season is terminated, the pass mission can not proceed anymore. \\n After the end of the season, the pass points that are not used after the season will be disappeared and no longer compensated Exchange is not possible. \""
+    },
+    "99003739": {
+        "deprecated": false,
+        "Dev_Desc": "노이의 축복 시즌 패스권",
+        "id": 99003739,
+        "alias": "Contents.Item.Desc.9300389",
+        "text": "\"It is an item that can enable the blessing additional compensation of the Nois. \\n\\n * Caution \\n If the season is terminated, the pass mission can not proceed anymore. \\n After the end of the season, the passpoint that can not be used after the season is destroyed and no longer compensated Exchange is not possible. \""
+    },
+    "99003740": {
+        "deprecated": false,
+        "Dev_Desc": "희생의 영웅 소울 소환서(3회)(이벤트)",
+        "id": 99003740,
+        "alias": "Contents.Item.Desc.9901396",
+        "text": "You can acquire a soul according to the probability of use. <br/> (Rating: Hero)"
+    },
+    "99003741": {
+        "deprecated": false,
+        "Dev_Desc": "희생의 빛나는 소울 소환서(11회)(이벤트)",
+        "id": 99003741,
+        "alias": "Contents.Item.Desc.9901397",
+        "text": "You can acquire a soul according to the probability of use. <br/> (Rating: General ~ Hero)"
+    },
+    "99003742": {
+        "deprecated": false,
+        "Dev_Desc": "희생의 빛나는 수호령 소환서(11회)(이벤트)",
+        "id": 99003742,
+        "alias": "Contents.Item.Desc.9901398",
+        "text": "Depending on the probability of use, you can acquire the Lord. <br/> (Rating: General ~ Hero)"
+    },
+    "99003743": {
+        "deprecated": false,
+        "Dev_Desc": "희귀 수호령 확정 소환서(이벤트)",
+        "id": 99003743,
+        "alias": "Contents.Item.Desc.9901399",
+        "text": "Depending on the probability of use, you can acquire the Lord. <BR/> (Rating: Rare)"
+    },
+    "99003744": {
+        "deprecated": false,
+        "Dev_Desc": "영웅 방어구 선택 상자(이벤트)",
+        "id": 99003744,
+        "alias": "Contents.Item.Desc.9300390",
+        "text": "You can choose to select one of the Hero Armor in use."
+    },
+    "99003745": {
+        "deprecated": false,
+        "Dev_Desc": "탄생의 비약(이벤트)",
+        "id": 99003745,
+        "alias": "Contents.Item.Desc.9300391",
+        "text": "Congratulations on the birth and ~! When using \\n\\n."
     }
 }

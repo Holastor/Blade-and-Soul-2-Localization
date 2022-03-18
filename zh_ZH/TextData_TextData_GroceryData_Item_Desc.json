@@ -6157,21 +6157,6 @@
         "id": 99001011,
         "alias": "Contents.Item.Desc.9101154"
     },
-    "99001014": {
-        "deprecated": false,
-        "id": 99001014,
-        "alias": "Contents.Item.Desc.9101157"
-    },
-    "99001015": {
-        "deprecated": false,
-        "id": 99001015,
-        "alias": "Contents.Item.Desc.9101158"
-    },
-    "99001016": {
-        "deprecated": false,
-        "id": 99001016,
-        "alias": "Contents.Item.Desc.9101159"
-    },
     "99001017": {
         "deprecated": false,
         "Dev_Desc": "권갑 정수 (각인)",
@@ -6252,21 +6237,6 @@
         "deprecated": false,
         "id": 99001047,
         "alias": "Contents.Item.Desc.9101239"
-    },
-    "99001063": {
-        "deprecated": false,
-        "id": 99001063,
-        "alias": "Contents.Item.Desc.9101255"
-    },
-    "99001064": {
-        "deprecated": false,
-        "id": 99001064,
-        "alias": "Contents.Item.Desc.9101256"
-    },
-    "99001065": {
-        "deprecated": false,
-        "id": 99001065,
-        "alias": "Contents.Item.Desc.9101257"
     },
     "99001066": {
         "deprecated": false,
@@ -7013,21 +6983,6 @@
         "id": 99001312,
         "alias": "Contents.Item.Desc.9101349"
     },
-    "99001318": {
-        "deprecated": false,
-        "id": 99001318,
-        "alias": "Contents.Item.Desc.9101355"
-    },
-    "99001319": {
-        "deprecated": false,
-        "id": 99001319,
-        "alias": "Contents.Item.Desc.9101356"
-    },
-    "99001320": {
-        "deprecated": false,
-        "id": 99001320,
-        "alias": "Contents.Item.Desc.9101357"
-    },
     "99001321": {
         "deprecated": false,
         "id": 99001321,
@@ -7124,21 +7079,6 @@
         "id": 99001353,
         "alias": "Contents.Item.Desc.9101439"
     },
-    "99001370": {
-        "deprecated": false,
-        "id": 99001370,
-        "alias": "Contents.Item.Desc.9101456"
-    },
-    "99001371": {
-        "deprecated": false,
-        "id": 99001371,
-        "alias": "Contents.Item.Desc.9101457"
-    },
-    "99001372": {
-        "deprecated": false,
-        "id": 99001372,
-        "alias": "Contents.Item.Desc.9101458"
-    },
     "99001373": {
         "deprecated": false,
         "id": 99001373,
@@ -7219,21 +7159,6 @@
         "deprecated": false,
         "id": 99001404,
         "alias": "Contents.Item.Desc.9101539"
-    },
-    "99001420": {
-        "deprecated": false,
-        "id": 99001420,
-        "alias": "Contents.Item.Desc.9101555"
-    },
-    "99001421": {
-        "deprecated": false,
-        "id": 99001421,
-        "alias": "Contents.Item.Desc.9101556"
-    },
-    "99001422": {
-        "deprecated": false,
-        "id": 99001422,
-        "alias": "Contents.Item.Desc.9101557"
     },
     "99001423": {
         "deprecated": false,
@@ -7325,21 +7250,6 @@
         "deprecated": false,
         "id": 99001455,
         "alias": "Contents.Item.Desc.9101639"
-    },
-    "99001471": {
-        "deprecated": false,
-        "id": 99001471,
-        "alias": "Contents.Item.Desc.9101655"
-    },
-    "99001472": {
-        "deprecated": false,
-        "id": 99001472,
-        "alias": "Contents.Item.Desc.9101656"
-    },
-    "99001473": {
-        "deprecated": false,
-        "id": 99001473,
-        "alias": "Contents.Item.Desc.9101657"
     },
     "99001474": {
         "deprecated": false,
@@ -21658,5 +21568,103 @@
         "id": 99003731,
         "alias": "Contents.Item.Desc.9300378",
         "text": "您可以获得以下三项：\\n\\n  - 牺牲（事件）\\n  - 牺牲（事件）\\n  - 牺牲盒（事件）"
+    },
+    "99003732": {
+        "deprecated": false,
+        "Dev_Desc": "별빛 가루",
+        "id": 99003732,
+        "alias": "Contents.Item.Desc.9200650",
+        "text": "命运的圣徒是配料。"
+    },
+    "99003733": {
+        "deprecated": false,
+        "Dev_Desc": "별빛 결정",
+        "id": 99003733,
+        "alias": "Contents.Item.Desc.9200651",
+        "text": "命运的圣徒是配料。"
+    },
+    "99003734": {
+        "deprecated": false,
+        "Dev_Desc": "운명석 파편",
+        "id": 99003734,
+        "alias": "Contents.Item.Desc.9200652",
+        "text": "命运的圣徒是需要散发材料的材料。 \\n \\n\\n \\n\\n最小座位可以通过收集一个绑定的雕塑来替换一个副座位。"
+    },
+    "99003735": {
+        "deprecated": false,
+        "Dev_Desc": "운명석",
+        "id": 99003735,
+        "alias": "Contents.Item.Desc.9200653",
+        "text": "命运的圣徒是需要扫视槽的特殊材料。"
+    },
+    "99003736": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 운명석",
+        "id": 99003736,
+        "alias": "Contents.Item.Desc.9200654",
+        "text": "最好的陈述是一种需要槽发红的特殊材料。"
+    },
+    "99003737": {
+        "deprecated": false,
+        "Dev_Desc": "얼음꽃(각인)",
+        "id": 99003737,
+        "alias": "Contents.Item.Desc.9901395",
+        "text": "当你使用时，你给自己一个冰上花效果。 \\n效果将持续3秒钟。"
+    },
+    "99003738": {
+        "deprecated": false,
+        "Dev_Desc": "프리미엄 II 패스권",
+        "id": 99003738,
+        "alias": "Contents.Item.Desc.9300388",
+        "text": "Premium Pass II是可以实现额外补偿的项目。\\n\\n *警告\\n如果赛季终止，则通过该通行证不能再进行。\\n在本赛季结束后，季节后不使用的通行证将被消失，不再可以补偿汇款。"
+    },
+    "99003739": {
+        "deprecated": false,
+        "Dev_Desc": "노이의 축복 시즌 패스권",
+        "id": 99003739,
+        "alias": "Contents.Item.Desc.9300389",
+        "text": "这是一个项目，可以使嘈杂的禁止额外补偿诺斯州。\\n\\n *小心\\n如果赛季终止，则通过的传递使命不能再进行。\\n在本赛季结束后，不能使用的密码赛季后被摧毁，不再有补偿汇款是不可能的。"
+    },
+    "99003740": {
+        "deprecated": false,
+        "Dev_Desc": "희생의 영웅 소울 소환서(3회)(이벤트)",
+        "id": 99003740,
+        "alias": "Contents.Item.Desc.9901396",
+        "text": "您可以根据使用可能性获得灵魂。 <br/>（评分：英雄）"
+    },
+    "99003741": {
+        "deprecated": false,
+        "Dev_Desc": "희생의 빛나는 소울 소환서(11회)(이벤트)",
+        "id": 99003741,
+        "alias": "Contents.Item.Desc.9901397",
+        "text": "您可以根据使用可能性获得灵魂。 <br/>（评分：一般〜英雄）"
+    },
+    "99003742": {
+        "deprecated": false,
+        "Dev_Desc": "희생의 빛나는 수호령 소환서(11회)(이벤트)",
+        "id": 99003742,
+        "alias": "Contents.Item.Desc.9901398",
+        "text": "取决于使用的可能性，您可以获得主。 <br/>（评分：一般〜英雄）"
+    },
+    "99003743": {
+        "deprecated": false,
+        "Dev_Desc": "희귀 수호령 확정 소환서(이벤트)",
+        "id": 99003743,
+        "alias": "Contents.Item.Desc.9901399",
+        "text": "取决于使用的可能性，您可以获得主。 <br/>（评分：罕见）"
+    },
+    "99003744": {
+        "deprecated": false,
+        "Dev_Desc": "영웅 방어구 선택 상자(이벤트)",
+        "id": 99003744,
+        "alias": "Contents.Item.Desc.9300390",
+        "text": "您可以选择选择使用中的一个英雄装甲。"
+    },
+    "99003745": {
+        "deprecated": false,
+        "Dev_Desc": "탄생의 비약(이벤트)",
+        "id": 99003745,
+        "alias": "Contents.Item.Desc.9300391",
+        "text": "祝贺出生和〜！使用\\n\\n。"
     }
 }

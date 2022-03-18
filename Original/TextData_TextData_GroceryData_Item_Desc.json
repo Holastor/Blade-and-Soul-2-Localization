@@ -6157,21 +6157,6 @@
         "id": 99001011,
         "alias": "Contents.Item.Desc.9101154"
     },
-    "99001014": {
-        "deprecated": false,
-        "id": 99001014,
-        "alias": "Contents.Item.Desc.9101157"
-    },
-    "99001015": {
-        "deprecated": false,
-        "id": 99001015,
-        "alias": "Contents.Item.Desc.9101158"
-    },
-    "99001016": {
-        "deprecated": false,
-        "id": 99001016,
-        "alias": "Contents.Item.Desc.9101159"
-    },
     "99001017": {
         "deprecated": false,
         "Dev_Desc": "권갑 정수 (각인)",
@@ -6252,21 +6237,6 @@
         "deprecated": false,
         "id": 99001047,
         "alias": "Contents.Item.Desc.9101239"
-    },
-    "99001063": {
-        "deprecated": false,
-        "id": 99001063,
-        "alias": "Contents.Item.Desc.9101255"
-    },
-    "99001064": {
-        "deprecated": false,
-        "id": 99001064,
-        "alias": "Contents.Item.Desc.9101256"
-    },
-    "99001065": {
-        "deprecated": false,
-        "id": 99001065,
-        "alias": "Contents.Item.Desc.9101257"
     },
     "99001066": {
         "deprecated": false,
@@ -7013,21 +6983,6 @@
         "id": 99001312,
         "alias": "Contents.Item.Desc.9101349"
     },
-    "99001318": {
-        "deprecated": false,
-        "id": 99001318,
-        "alias": "Contents.Item.Desc.9101355"
-    },
-    "99001319": {
-        "deprecated": false,
-        "id": 99001319,
-        "alias": "Contents.Item.Desc.9101356"
-    },
-    "99001320": {
-        "deprecated": false,
-        "id": 99001320,
-        "alias": "Contents.Item.Desc.9101357"
-    },
     "99001321": {
         "deprecated": false,
         "id": 99001321,
@@ -7124,21 +7079,6 @@
         "id": 99001353,
         "alias": "Contents.Item.Desc.9101439"
     },
-    "99001370": {
-        "deprecated": false,
-        "id": 99001370,
-        "alias": "Contents.Item.Desc.9101456"
-    },
-    "99001371": {
-        "deprecated": false,
-        "id": 99001371,
-        "alias": "Contents.Item.Desc.9101457"
-    },
-    "99001372": {
-        "deprecated": false,
-        "id": 99001372,
-        "alias": "Contents.Item.Desc.9101458"
-    },
     "99001373": {
         "deprecated": false,
         "id": 99001373,
@@ -7219,21 +7159,6 @@
         "deprecated": false,
         "id": 99001404,
         "alias": "Contents.Item.Desc.9101539"
-    },
-    "99001420": {
-        "deprecated": false,
-        "id": 99001420,
-        "alias": "Contents.Item.Desc.9101555"
-    },
-    "99001421": {
-        "deprecated": false,
-        "id": 99001421,
-        "alias": "Contents.Item.Desc.9101556"
-    },
-    "99001422": {
-        "deprecated": false,
-        "id": 99001422,
-        "alias": "Contents.Item.Desc.9101557"
     },
     "99001423": {
         "deprecated": false,
@@ -7325,21 +7250,6 @@
         "deprecated": false,
         "id": 99001455,
         "alias": "Contents.Item.Desc.9101639"
-    },
-    "99001471": {
-        "deprecated": false,
-        "id": 99001471,
-        "alias": "Contents.Item.Desc.9101655"
-    },
-    "99001472": {
-        "deprecated": false,
-        "id": 99001472,
-        "alias": "Contents.Item.Desc.9101656"
-    },
-    "99001473": {
-        "deprecated": false,
-        "id": 99001473,
-        "alias": "Contents.Item.Desc.9101657"
     },
     "99001474": {
         "deprecated": false,
@@ -21658,5 +21568,103 @@
         "id": 99003731,
         "alias": "Contents.Item.Desc.9300378",
         "text": "사용 시 다음 3종의 물품을 획득할 수 있습니다.\n\n- 희생의 증표(이벤트)\n- 희생의 인장(이벤트)\n- 희생의 상자(이벤트)"
+    },
+    "99003732": {
+        "deprecated": false,
+        "Dev_Desc": "별빛 가루",
+        "id": 99003732,
+        "alias": "Contents.Item.Desc.9200650",
+        "text": "운명의 성도 해금 재료입니다."
+    },
+    "99003733": {
+        "deprecated": false,
+        "Dev_Desc": "별빛 결정",
+        "id": 99003733,
+        "alias": "Contents.Item.Desc.9200651",
+        "text": "운명의 성도 해금 재료입니다."
+    },
+    "99003734": {
+        "deprecated": false,
+        "Dev_Desc": "운명석 파편",
+        "id": 99003734,
+        "alias": "Contents.Item.Desc.9200652",
+        "text": "운명의 성도 슬롯 해금 시 요구하는 재료입니다.\n\n운명석 하위 아이템으로 운명석 조각을 모아 운명석 1개와 교환할 수 있습니다."
+    },
+    "99003735": {
+        "deprecated": false,
+        "Dev_Desc": "운명석",
+        "id": 99003735,
+        "alias": "Contents.Item.Desc.9200653",
+        "text": "운명의 성도 슬롯 해금 시 요구하는 특수 재료입니다."
+    },
+    "99003736": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 운명석",
+        "id": 99003736,
+        "alias": "Contents.Item.Desc.9200654",
+        "text": "가장 좋은 스탯이 배치된 슬롯 해금 시 요구하는 특수 재료입니다."
+    },
+    "99003737": {
+        "deprecated": false,
+        "Dev_Desc": "얼음꽃(각인)",
+        "id": 99003737,
+        "alias": "Contents.Item.Desc.9901395",
+        "text": "사용 시 자신에게 얼음꽃 효과를 부여합니다.\n효과는 3초간 지속됩니다."
+    },
+    "99003738": {
+        "deprecated": false,
+        "Dev_Desc": "프리미엄 II 패스권",
+        "id": 99003738,
+        "alias": "Contents.Item.Desc.9300388",
+        "text": "'프리미엄 패스 II' 추가 보상을 활성화할 수 있는 아이템입니다.\n\n* 주의\n시즌이 종료되면 패스 미션을 더 이상 진행할 수 없습니다.\n시즌 종료 후 일주일이 지나면 사용하지 못한 패스 포인트는 소멸되며 더 이상 보상 교환이 불가합니다."
+    },
+    "99003739": {
+        "deprecated": false,
+        "Dev_Desc": "노이의 축복 시즌 패스권",
+        "id": 99003739,
+        "alias": "Contents.Item.Desc.9300389",
+        "text": "'노이의 축복' 추가 보상을 활성화할 수 있는 아이템입니다.\n\n* 주의\n시즌이 종료되면 패스 미션을 더 이상 진행할 수 없습니다.\n시즌 종료 후 일주일이 지나면 사용하지 못한 패스 포인트는 소멸되며 더 이상 보상 교환이 불가합니다."
+    },
+    "99003740": {
+        "deprecated": false,
+        "Dev_Desc": "희생의 영웅 소울 소환서(3회)(이벤트)",
+        "id": 99003740,
+        "alias": "Contents.Item.Desc.9901396",
+        "text": "사용 시 정해진 확률에 따라 소울을 획득할 수 있습니다.<br/>(등급: 영웅)"
+    },
+    "99003741": {
+        "deprecated": false,
+        "Dev_Desc": "희생의 빛나는 소울 소환서(11회)(이벤트)",
+        "id": 99003741,
+        "alias": "Contents.Item.Desc.9901397",
+        "text": "사용 시 정해진 확률에 따라 소울을 획득할 수 있습니다.<br/>(등급: 일반 ~ 영웅)"
+    },
+    "99003742": {
+        "deprecated": false,
+        "Dev_Desc": "희생의 빛나는 수호령 소환서(11회)(이벤트)",
+        "id": 99003742,
+        "alias": "Contents.Item.Desc.9901398",
+        "text": "사용 시 정해진 확률에 따라 수호령을 획득할 수 있습니다.<br/>(등급: 일반 ~ 영웅)"
+    },
+    "99003743": {
+        "deprecated": false,
+        "Dev_Desc": "희귀 수호령 확정 소환서(이벤트)",
+        "id": 99003743,
+        "alias": "Contents.Item.Desc.9901399",
+        "text": "사용 시 정해진 확률에 따라 수호령을 획득할 수 있습니다.<br/>(등급: 희귀)"
+    },
+    "99003744": {
+        "deprecated": false,
+        "Dev_Desc": "영웅 방어구 선택 상자(이벤트)",
+        "id": 99003744,
+        "alias": "Contents.Item.Desc.9300390",
+        "text": "사용 시 영웅 방어구 1종을 선택하여 획득할 수 있습니다."
+    },
+    "99003745": {
+        "deprecated": false,
+        "Dev_Desc": "탄생의 비약(이벤트)",
+        "id": 99003745,
+        "alias": "Contents.Item.Desc.9300391",
+        "text": "탄생을 축하하며~!\n사용 시 효과는 60분간 부여됩니다.\n\n경험치 획득량 +30%\n소울 친화력 +3\n소울 발동률 +1%"
     }
 }
