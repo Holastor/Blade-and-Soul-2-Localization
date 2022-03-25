@@ -1237,5 +1237,26 @@
         "id": 60050177,
         "alias": "Contents.Effect.Option.LongBow.511222",
         "text": "添加临界伤害15"
+    },
+    "60050178": {
+        "deprecated": false,
+        "Dev_Desc": "연사 증폭 효과",
+        "id": 60050178,
+        "alias": "Contents.Skill.acquireEffect.LongBow.5201",
+        "text": "强度消耗 -  4"
+    },
+    "60050179": {
+        "deprecated": false,
+        "Dev_Desc": "연사 극한 효과",
+        "id": 60050179,
+        "alias": "Contents.Skill.acquireEffect.LongBow.5202",
+        "text": "增加伤害"
+    },
+    "60050180": {
+        "deprecated": false,
+        "Dev_Desc": "연사 돌파 효과",
+        "id": 60050180,
+        "alias": "Contents.Skill.acquireEffect.LongBow.5203",
+        "text": "返回以某种概率消耗的一半历史"
     }
 }

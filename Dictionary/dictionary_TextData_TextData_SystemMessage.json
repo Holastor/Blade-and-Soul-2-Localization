@@ -7877,9 +7877,9 @@
     "9001167": {
         "Dev_Desc": "채팅 시스템 메시지 / 아이템 획득 / 강화 단계 포함",
         "Original_Text": "<<arg p=[1:string]/>>+<arg p=[2:string]/> <arg p=[3:string]/></><<arg p=[4:string]/>> <arg p=[5:string]/>개를 획득했습니다.</>",
-        "English_Text": "<<arg p=[1:string]/>>+<arg p=[2:string]/><arg p=[3:string]/></><<arg p=[4:string]/>> <arg p=[5:string]/> obtained</>",
+        "English_Text": "<<arg p=[1:string]/>>+<arg p=[2:string]/> <arg p=[3:string]/></><<arg p=[4:string]/>> <arg p=[5:string]/> obtained</>",
         "Russian_Text": "",
-        "Chinese_Text": "<<arg p=[1:string]/>>+<arg p=[2:string]/><arg p=[3:string]/></><<arg p=[4:string]/>> <arg p=[5:string]/> 获得</>"
+        "Chinese_Text": "<<arg p=[1:string]/>>+<arg p=[2:string]/> <arg p=[3:string]/></><<arg p=[4:string]/>> <arg p=[5:string]/> 获得</>"
     },
     "9001168": {
         "Dev_Desc": "비무 입장 불가 / 파티 상태",
@@ -8024,9 +8024,9 @@
     "9001188": {
         "Dev_Desc": "별자리 / 구간을 이루는 점을 모두 각인하였을 때 표시되는 메시지",
         "Original_Text": "<arg p=[1:string]/을 모두 각인하여 <arg p=[1:string]/의 가호를 받습니다.",
-        "English_Text": "<arg p=[1:string]/>listens to all <arg p=[1:string]/>end.",
+        "English_Text": "<arg p=[1:string]/listens to all <arg p=[1:string]/end.",
         "Russian_Text": "",
-        "Chinese_Text": "<arg p=[1:string]/>侦听所有<arg p=[1:string]/>结束。"
+        "Chinese_Text": "<arg p=[1:string]/侦听所有<arg p=[1:string]/结束。"
     },
     "9001189": {
         "Dev_Desc": "별자리 / 각인점에서 얻을 수 있는 최고 능력치를 획득한 상태에서 딤드된 재각인 버튼을 눌렀을 경우 표시되는 메시지",
@@ -8090,5 +8090,40 @@
         "English_Text": "Refresh after a while.",
         "Russian_Text": "",
         "Chinese_Text": "一段时间后刷新。"
+    },
+    "9001198": {
+        "Dev_Desc": "시스템메시지 / 레벨업 / Lv",
+        "Original_Text": "Lv.",
+        "English_Text": "Lv.",
+        "Russian_Text": "",
+        "Chinese_Text": "LV。"
+    },
+    "9001199": {
+        "Dev_Desc": "비속어 에러 메시지",
+        "Original_Text": "비속어가 포함되어 입력할 수 없습니다.",
+        "English_Text": "You can not enter it and can not be entered.",
+        "Russian_Text": "",
+        "Chinese_Text": "您无法输入它，无法输入。"
+    },
+    "9001200": {
+        "Dev_Desc": "파티 수락 실패 / 이미 파티 가입",
+        "Original_Text": "파티 던전 내에 있어 파티 초대가 취소되었습니다.",
+        "English_Text": "In the party dungeon, the party invitation has been canceled.",
+        "Russian_Text": "",
+        "Chinese_Text": "在党的地牢中，党的邀请已被取消。"
+    },
+    "9001201": {
+        "Dev_Desc": "파티 수락 실패 / 파티원 가득 참",
+        "Original_Text": "파티장이 파티 던전 내에 있어 파티 초대가 취소되었습니다.",
+        "English_Text": "Party invitation has been canceled within a party dungeon.",
+        "Russian_Text": "",
+        "Chinese_Text": "派对邀请已在派对地下城内取消。"
+    },
+    "9001202": {
+        "Dev_Desc": "보패 / 프리셋 변경",
+        "Original_Text": "<arg p=[1:integer]/>번 보패 조합을 장착했습니다.",
+        "English_Text": "<arg p = [1: Integer] /> Number of prefix combinations.",
+        "Russian_Text": "",
+        "Chinese_Text": "<arg p = [1：整数] />前缀组合的数量。"
     }
 }

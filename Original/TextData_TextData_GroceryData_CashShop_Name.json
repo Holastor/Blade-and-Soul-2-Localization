@@ -403,7 +403,7 @@
         "Dev_Desc": "특별 소울 소환 / 노이, 회귀자 사루비, 하름, 낙원대성",
         "id": 83100059,
         "alias": "Contents.CashShop.Item.Name.1056",
-        "text": "<textColor=[206:120:78:255]>노이,</> <textColor=[172:98:223:255]>회귀자 사루비</>\n<textColor=[172:98:223:255]>하름, 낙원대성</><textColor=[255:255:255:255]> 등 을 포함한</>\n<textColor=[255:255:255:255]>일반</> <textColor=[255:255:255:255]>~ </><textColor=[206:120:78:255]>전설</> <textColor=[255:255:255:255]>등급의</>\n<textColor=[255:255:255:255]>다양한 소울 획득 가능</>"
+        "text": "<textColor=[206:120:78:255]>노이,</> <textColor=[172:98:223:255]>회귀자 사루비</>\n<textColor=[172:98:223:255]>하름, 낙원대성</><textColor=[255:255:255:255]> 등을 포함한</>\n<textColor=[255:255:255:255]>일반</> <textColor=[255:255:255:255]>~ </><textColor=[206:120:78:255]>전설</> <textColor=[255:255:255:255]>등급의</>\n<textColor=[255:255:255:255]>다양한 소울 획득 가능</>"
     },
     "83100060": {
         "deprecated": false,
@@ -411,6 +411,27 @@
         "id": 83100060,
         "alias": "Contents.CashShop.Item.Name.1057",
         "text": "소울 & 빛나는 정수 파편 4-STEP 패키지 "
+    },
+    "83100061": {
+        "deprecated": false,
+        "Dev_Desc": "특별 소울 소환 / 염화대성, 비천한, 신무강",
+        "id": 83100061,
+        "alias": "Contents.CashShop.Item.Name.1058",
+        "text": "<textColor=[206:120:78:255]>염화대성,</> <textColor=[172:98:223:255]>비천한, 신무강</><textColor=[255:255:255:255]> 등을 포함한</>\n<textColor=[92:163:105:255]>상급 </><textColor=[255:255:255:255]>~ </><textColor=[206:120:78:255]>전설</> <textColor=[255:255:255:255]>등급의</>\n<textColor=[255:255:255:255]>다양한 소울 획득 가능</>"
+    },
+    "83100062": {
+        "deprecated": false,
+        "Dev_Desc": "비천한 패키지 4-Step 패키지",
+        "id": 83100062,
+        "alias": "Contents.CashShop.Item.Name.1059",
+        "text": "비천한 4-Step 패키지"
+    },
+    "83100063": {
+        "deprecated": false,
+        "Dev_Desc": "신무강 패키지 4-Step 패키지",
+        "id": 83100063,
+        "alias": "Contents.CashShop.Item.Name.1060",
+        "text": "신무강 4-Step 패키지"
     },
     "83200001": {
         "deprecated": false,
@@ -1782,7 +1803,7 @@
         "Dev_Desc": "도화전 / 뭉게구름 수호령 소환서 (1회) (각인)",
         "id": 83200199,
         "alias": "Contents.CashShop.Item.Name.5280",
-        "text": "뭉게구름 수호령 소환서 (1회) "
+        "text": "뭉게구름 수호령 소환서(1회) "
     },
     "83200200": {
         "deprecated": false,
@@ -2314,14 +2335,259 @@
         "Dev_Desc": "소울 & 빛나는 정수 파편 패키지 / 보너스 1",
         "id": 83200275,
         "alias": "Contents.CashShop.Item.Name.5404",
-        "text": "소울 & 빛나는 정수 파편 패키지 STEP 2 보너스"
+        "text": "영웅 소울 파편 & 빛나는 정수 파편(각인) 상자"
     },
     "83200276": {
         "deprecated": false,
         "Dev_Desc": "소울 & 빛나는 정수 파편 패키지 / 보너스 2",
         "id": 83200276,
         "alias": "Contents.CashShop.Item.Name.5405",
-        "text": "소울 & 빛나는 정수 파편 패키지 STEP 4 보너스"
+        "text": "영웅 소울 파편 & 빛나는 정수 파편 상자"
+    },
+    "83200277": {
+        "deprecated": false,
+        "Dev_Desc": "상시 소울 소환 / 비천한, 방랑자 유기, 오름 / 1회",
+        "id": 83200277,
+        "alias": "Contents.CashShop.Item.Name.5406",
+        "text": "소울 소환 1회"
+    },
+    "83200278": {
+        "deprecated": false,
+        "Dev_Desc": "상시 소울 소환 / 비천한, 방랑자 유기, 오름 / 11회",
+        "id": 83200278,
+        "alias": "Contents.CashShop.Item.Name.5407",
+        "text": "소울 소환 11회"
+    },
+    "83200279": {
+        "deprecated": false,
+        "Dev_Desc": "특별 소울 소환 / 염화대성, 비천한, 신무강 / 1회",
+        "id": 83200279,
+        "alias": "Contents.CashShop.Item.Name.5408",
+        "text": "특별 소울 소환 1회"
+    },
+    "83200280": {
+        "deprecated": false,
+        "Dev_Desc": "특별 소울 소환 / 염화대성, 비천한, 신무강 / 11회",
+        "id": 83200280,
+        "alias": "Contents.CashShop.Item.Name.5409",
+        "text": "특별 소울 소환 11회"
+    },
+    "83200281": {
+        "deprecated": false,
+        "Dev_Desc": "희생의 특별 희귀 무기 선택 상자",
+        "id": 83200281,
+        "alias": "Contents.CashShop.Item.Name.5410",
+        "text": "희생의 특별 희귀 무기 선택 상자"
+    },
+    "83200282": {
+        "deprecated": false,
+        "Dev_Desc": "희생의 특별 희귀 방어구 선택 상자",
+        "id": 83200282,
+        "alias": "Contents.CashShop.Item.Name.5411",
+        "text": "희생의 특별 희귀 방어구 지원 상자"
+    },
+    "83200283": {
+        "deprecated": false,
+        "Dev_Desc": "플레이 포인트 / 일반 / 남동석(각인)",
+        "id": 83200283,
+        "alias": "Contents.CashShop.Item.Name.5412",
+        "text": "남동석"
+    },
+    "83200284": {
+        "deprecated": false,
+        "Dev_Desc": "플레이 포인트 / 일반 / 월광정기(각인)",
+        "id": 83200284,
+        "alias": "Contents.CashShop.Item.Name.5413",
+        "text": "월광정기"
+    },
+    "83200285": {
+        "deprecated": false,
+        "Dev_Desc": "플레이 포인트 / 의상 / 친미(TBD) / 계정당 1회",
+        "id": 83200285,
+        "alias": "Contents.CashShop.Item.Name.5414",
+        "text": "무의 제왕"
+    },
+    "83200286": {
+        "deprecated": false,
+        "Dev_Desc": "플레이 포인트 / 이벤트 의상 / 보름달 의상 선택 주머니",
+        "id": 83200286,
+        "alias": "Contents.CashShop.Item.Name.5415",
+        "text": "보름달 의상 선택 주머니"
+    },
+    "83200287": {
+        "deprecated": false,
+        "Dev_Desc": "플레이 포인트 / 이벤트 의상 / 박쥐 의상 선택 주머니",
+        "id": 83200287,
+        "alias": "Contents.CashShop.Item.Name.5416",
+        "text": "박쥐 의상 선택 주머니"
+    },
+    "83200288": {
+        "deprecated": false,
+        "Dev_Desc": "플레이 포인트 / 이벤트 의상 / 소풍 의상 선택 주머니",
+        "id": 83200288,
+        "alias": "Contents.CashShop.Item.Name.5417",
+        "text": "소풍 의상 선택 주머니"
+    },
+    "83200289": {
+        "deprecated": false,
+        "Dev_Desc": "플레이 포인트 / 이벤트 의상 / 회사원 의상 선택 주머니",
+        "id": 83200289,
+        "alias": "Contents.CashShop.Item.Name.5418",
+        "text": "회사원 의상 선택 주머니"
+    },
+    "83200290": {
+        "deprecated": false,
+        "Dev_Desc": "플레이 포인트 / 이벤트 의상 / 토끼 의상 선택 주머니",
+        "id": 83200290,
+        "alias": "Contents.CashShop.Item.Name.5419",
+        "text": "토끼 의상 선택 주머니"
+    },
+    "83200291": {
+        "deprecated": false,
+        "Dev_Desc": "플레이 포인트 / 이벤트 의상 / 크리스마스 의상 선택 주머니",
+        "id": 83200291,
+        "alias": "Contents.CashShop.Item.Name.5420",
+        "text": "크리스마스 의상 선택 주머니"
+    },
+    "83200292": {
+        "deprecated": false,
+        "Dev_Desc": "플레이 포인트 / 이벤트 의상 / 약속",
+        "id": 83200292,
+        "alias": "Contents.CashShop.Item.Name.5421",
+        "text": "약속"
+    },
+    "83200293": {
+        "deprecated": false,
+        "Dev_Desc": "플레이 포인트 / 이벤트 의상 / 회귀",
+        "id": 83200293,
+        "alias": "Contents.CashShop.Item.Name.5422",
+        "text": "회귀"
+    },
+    "83200294": {
+        "deprecated": false,
+        "Dev_Desc": "별빛 가루 주머니",
+        "id": 83200294,
+        "alias": "Contents.CashShop.Item.Name.5423",
+        "text": "별빛 가루 주머니"
+    },
+    "83200295": {
+        "deprecated": false,
+        "Dev_Desc": "별빛 결정 상자",
+        "id": 83200295,
+        "alias": "Contents.CashShop.Item.Name.5424",
+        "text": "별빛 결정 상자"
+    },
+    "83200296": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 무공 성장 패키지",
+        "id": 83200296,
+        "alias": "Contents.CashShop.Item.Name.5425",
+        "text": "야루의 무공 성장 패키지"
+    },
+    "83200297": {
+        "deprecated": false,
+        "Dev_Desc": "비천한 패키지 4-Step 패키지 / 1 Step",
+        "id": 83200297,
+        "alias": "Contents.CashShop.Item.Name.5426",
+        "text": "비천한 패키지 I"
+    },
+    "83200298": {
+        "deprecated": false,
+        "Dev_Desc": "비천한 패키지 4-Step 패키지 / 2 Step",
+        "id": 83200298,
+        "alias": "Contents.CashShop.Item.Name.5427",
+        "text": "비천한 패키지 II"
+    },
+    "83200299": {
+        "deprecated": false,
+        "Dev_Desc": "비천한 패키지 4-Step 패키지 / 3 Step",
+        "id": 83200299,
+        "alias": "Contents.CashShop.Item.Name.5428",
+        "text": "비천한 패키지 III"
+    },
+    "83200300": {
+        "deprecated": false,
+        "Dev_Desc": "비천한 패키지 4-Step 패키지 / 4 Step",
+        "id": 83200300,
+        "alias": "Contents.CashShop.Item.Name.5429",
+        "text": "비천한 패키지 IV"
+    },
+    "83200301": {
+        "deprecated": false,
+        "Dev_Desc": "비천한 패키지 4-Step 패키지 / 보너스 1",
+        "id": 83200301,
+        "alias": "Contents.CashShop.Item.Name.5430",
+        "text": "2 STEP 보너스"
+    },
+    "83200302": {
+        "deprecated": false,
+        "Dev_Desc": "비천한 패키지 4-Step 패키지 / 보너스 2",
+        "id": 83200302,
+        "alias": "Contents.CashShop.Item.Name.5431",
+        "text": "4 STEP 보너스"
+    },
+    "83200303": {
+        "deprecated": false,
+        "Dev_Desc": "신무강 패키지 4-Step 패키지 / 1 Step",
+        "id": 83200303,
+        "alias": "Contents.CashShop.Item.Name.5432",
+        "text": "신무강 패키지 I"
+    },
+    "83200304": {
+        "deprecated": false,
+        "Dev_Desc": "신무강 패키지 4-Step 패키지 / 2 Step",
+        "id": 83200304,
+        "alias": "Contents.CashShop.Item.Name.5433",
+        "text": "신무강 패키지 II"
+    },
+    "83200305": {
+        "deprecated": false,
+        "Dev_Desc": "신무강 패키지 4-Step 패키지 / 3 Step",
+        "id": 83200305,
+        "alias": "Contents.CashShop.Item.Name.5434",
+        "text": "신무강 패키지 III"
+    },
+    "83200306": {
+        "deprecated": false,
+        "Dev_Desc": "신무강 패키지 4-Step 패키지 / 4 Step",
+        "id": 83200306,
+        "alias": "Contents.CashShop.Item.Name.5435",
+        "text": "신무강 패키지 IV"
+    },
+    "83200307": {
+        "deprecated": false,
+        "Dev_Desc": "신무강 패키지 4-Step 패키지 / 보너스 1",
+        "id": 83200307,
+        "alias": "Contents.CashShop.Item.Name.5436",
+        "text": "2 STEP 보너스"
+    },
+    "83200308": {
+        "deprecated": false,
+        "Dev_Desc": "신무강 패키지 4-Step 패키지 / 보너스 2",
+        "id": 83200308,
+        "alias": "Contents.CashShop.Item.Name.5437",
+        "text": "4 STEP 보너스"
+    },
+    "83200309": {
+        "deprecated": false,
+        "Dev_Desc": "보상 획득권: 희생의 무덤",
+        "id": 83200309,
+        "alias": "Contents.CashShop.Item.Name.5438",
+        "text": "보상 획득권: 희생의 무덤(각인)"
+    },
+    "83200310": {
+        "deprecated": false,
+        "Dev_Desc": "시간의 열쇠(각인) / 골드",
+        "id": 83200310,
+        "alias": "Contents.CashShop.Item.Name.5439",
+        "text": "시간의 열쇠(각인)"
+    },
+    "83200311": {
+        "deprecated": false,
+        "Dev_Desc": "시간의 열쇠(각인) / 신석",
+        "id": 83200311,
+        "alias": "Contents.CashShop.Item.Name.5440",
+        "text": "시간의 열쇠(각인)"
     },
     "83350000": {
         "deprecated": false,
@@ -4218,7 +4484,7 @@
         "Dev_Desc": "도화전 / 뭉게구름 수호령 소환서 (1회) (각인)",
         "id": 83350275,
         "alias": "Contents.CashShop.Item.Name.9710221",
-        "text": "뭉게구름 수호령 소환서 (1회) "
+        "text": "뭉게구름 수호령 소환서(1회) "
     },
     "83350276": {
         "deprecated": false,
@@ -5289,13 +5555,237 @@
         "Dev_Desc": "소울 & 빛나는 정수 파편 패키지 / 보너스 1",
         "id": 83350433,
         "alias": "Contents.CashShop.Item.Name.9710283",
-        "text": "소울 & 빛나는 정수 파편 패키지 STEP 2 보너스"
+        "text": "영웅 소울 파편 & 빛나는 정수 파편(각인) 상자"
     },
     "83350434": {
         "deprecated": false,
         "Dev_Desc": "소울 & 빛나는 정수 파편 패키지 / 보너스 2",
         "id": 83350434,
         "alias": "Contents.CashShop.Item.Name.9710284",
-        "text": "소울 & 빛나는 정수 파편 패키지 STEP 4 보너스"
+        "text": "영웅 소울 파편 & 빛나는 정수 파편 상자"
+    },
+    "83350435": {
+        "deprecated": false,
+        "Dev_Desc": "희생 스타터 패키지Ⅰ",
+        "id": 83350435,
+        "alias": "Contents.CashShop.Item.Name.9850171",
+        "text": "희생 스타터 패키지Ⅰ"
+    },
+    "83350436": {
+        "deprecated": false,
+        "Dev_Desc": "희생 스타터 패키지Ⅱ",
+        "id": 83350436,
+        "alias": "Contents.CashShop.Item.Name.9800128",
+        "text": "희생 스타터 패키지Ⅱ"
+    },
+    "83350437": {
+        "deprecated": false,
+        "Dev_Desc": "희생 스타터 패키지Ⅲ",
+        "id": 83350437,
+        "alias": "Contents.CashShop.Item.Name.9800129",
+        "text": "희생 스타터 패키지Ⅲ"
+    },
+    "83350438": {
+        "deprecated": false,
+        "Dev_Desc": "상시 소울 소환 / 비천한, 방랑자 유기, 오름 / 1회",
+        "id": 83350438,
+        "alias": "Contents.CashShop.Item.Name.9710285",
+        "text": "소울 소환 1회"
+    },
+    "83350439": {
+        "deprecated": false,
+        "Dev_Desc": "상시 소울 소환 / 비천한, 방랑자 유기, 오름 / 11회",
+        "id": 83350439,
+        "alias": "Contents.CashShop.Item.Name.9710286",
+        "text": "소울 소환 11회"
+    },
+    "83350440": {
+        "deprecated": false,
+        "Dev_Desc": "특별 소울 소환 / 염화대성, 비천한, 신무강 / 1회",
+        "id": 83350440,
+        "alias": "Contents.CashShop.Item.Name.9710287",
+        "text": "특별 소울 소환 1회"
+    },
+    "83350441": {
+        "deprecated": false,
+        "Dev_Desc": "특별 소울 소환 / 염화대성, 비천한, 신무강 / 11회",
+        "id": 83350441,
+        "alias": "Contents.CashShop.Item.Name.9710288",
+        "text": "특별 소울 소환 11회"
+    },
+    "83350442": {
+        "deprecated": false,
+        "Dev_Desc": "희생 스타터 패키지Ⅱ",
+        "id": 83350442,
+        "alias": "Contents.CashShop.Item.Name.9850172",
+        "text": "희생 스타터 패키지Ⅱ"
+    },
+    "83350443": {
+        "deprecated": false,
+        "Dev_Desc": "희생 스타터 패키지Ⅲ",
+        "id": 83350443,
+        "alias": "Contents.CashShop.Item.Name.9850173",
+        "text": "희생 스타터 패키지Ⅲ"
+    },
+    "83350444": {
+        "deprecated": false,
+        "Dev_Desc": "희생의 특별 희귀 무기 선택 상자",
+        "id": 83350444,
+        "alias": "Contents.CashShop.Item.Name.9710287",
+        "text": "희생의 특별 희귀 무기 선택 상자"
+    },
+    "83350445": {
+        "deprecated": false,
+        "Dev_Desc": "희생의 특별 희귀 방어구 선택 상자",
+        "id": 83350445,
+        "alias": "Contents.CashShop.Item.Name.9710288",
+        "text": "희생의 특별 희귀 방어구 지원 상자"
+    },
+    "83350446": {
+        "deprecated": false,
+        "Dev_Desc": "플레이 포인트 / 일반 / 남동석(각인)",
+        "id": 83350446,
+        "alias": "Contents.CashShop.Item.Name.9710291",
+        "text": "남동석(각인)"
+    },
+    "83350447": {
+        "deprecated": false,
+        "Dev_Desc": "플레이 포인트 / 일반 / 월광정기",
+        "id": 83350447,
+        "alias": "Contents.CashShop.Item.Name.9710292",
+        "text": "월광정기"
+    },
+    "83350448": {
+        "deprecated": false,
+        "Dev_Desc": "플레이 포인트 / 이벤트 의상 / 약속",
+        "id": 83350448,
+        "alias": "Contents.CashShop.Item.Name.9710293",
+        "text": "약속"
+    },
+    "83350449": {
+        "deprecated": false,
+        "Dev_Desc": "플레이 포인트 / 이벤트 의상 / 회귀",
+        "id": 83350449,
+        "alias": "Contents.CashShop.Item.Name.9710294",
+        "text": "회귀"
+    },
+    "83350450": {
+        "deprecated": false,
+        "Dev_Desc": "별빛 가루 주머니",
+        "id": 83350450,
+        "alias": "Contents.CashShop.Item.Name.9850174",
+        "text": "별빛 가루 주머니(각인)"
+    },
+    "83350451": {
+        "deprecated": false,
+        "Dev_Desc": "별빛 결정 상자",
+        "id": 83350451,
+        "alias": "Contents.CashShop.Item.Name.9850175",
+        "text": "별빛 결정 상자(각인)"
+    },
+    "83350452": {
+        "deprecated": false,
+        "Dev_Desc": "비천한 패키지 4-Step 패키지 / 1 Step",
+        "id": 83350452,
+        "alias": "Contents.CashShop.Item.Name.9710295",
+        "text": "비천한 패키지 I"
+    },
+    "83350453": {
+        "deprecated": false,
+        "Dev_Desc": "비천한 패키지 4-Step 패키지 / 2 Step",
+        "id": 83350453,
+        "alias": "Contents.CashShop.Item.Name.9710296",
+        "text": "비천한 패키지 II"
+    },
+    "83350454": {
+        "deprecated": false,
+        "Dev_Desc": "비천한 패키지 4-Step 패키지 / 3 Step",
+        "id": 83350454,
+        "alias": "Contents.CashShop.Item.Name.9710297",
+        "text": "비천한 패키지 III"
+    },
+    "83350455": {
+        "deprecated": false,
+        "Dev_Desc": "비천한 패키지 4-Step 패키지 / 4 Step",
+        "id": 83350455,
+        "alias": "Contents.CashShop.Item.Name.9710298",
+        "text": "비천한 패키지 IV"
+    },
+    "83350456": {
+        "deprecated": false,
+        "Dev_Desc": "비천한 패키지 4-Step 패키지 / 보너스 1",
+        "id": 83350456,
+        "alias": "Contents.CashShop.Item.Name.9710299",
+        "text": "2 STEP 보너스"
+    },
+    "83350457": {
+        "deprecated": false,
+        "Dev_Desc": "비천한 패키지 4-Step 패키지 / 보너스 2",
+        "id": 83350457,
+        "alias": "Contents.CashShop.Item.Name.9710300",
+        "text": "4 STEP 보너스"
+    },
+    "83350458": {
+        "deprecated": false,
+        "Dev_Desc": "신무강 패키지 4-Step 패키지 / 1 Step",
+        "id": 83350458,
+        "alias": "Contents.CashShop.Item.Name.9710301",
+        "text": "신무강 패키지 I"
+    },
+    "83350459": {
+        "deprecated": false,
+        "Dev_Desc": "신무강 패키지 4-Step 패키지 / 2 Step",
+        "id": 83350459,
+        "alias": "Contents.CashShop.Item.Name.9710302",
+        "text": "신무강 패키지 II"
+    },
+    "83350460": {
+        "deprecated": false,
+        "Dev_Desc": "신무강 패키지 4-Step 패키지 / 3 Step",
+        "id": 83350460,
+        "alias": "Contents.CashShop.Item.Name.9710303",
+        "text": "신무강 패키지 III"
+    },
+    "83350461": {
+        "deprecated": false,
+        "Dev_Desc": "신무강 패키지 4-Step 패키지 / 4 Step",
+        "id": 83350461,
+        "alias": "Contents.CashShop.Item.Name.9710304",
+        "text": "신무강 패키지 IV"
+    },
+    "83350462": {
+        "deprecated": false,
+        "Dev_Desc": "신무강 패키지 4-Step 패키지 / 보너스 1",
+        "id": 83350462,
+        "alias": "Contents.CashShop.Item.Name.9710305",
+        "text": "2 STEP 보너스"
+    },
+    "83350463": {
+        "deprecated": false,
+        "Dev_Desc": "신무강 패키지 4-Step 패키지 / 보너스 2",
+        "id": 83350463,
+        "alias": "Contents.CashShop.Item.Name.9710306",
+        "text": "4 STEP 보너스"
+    },
+    "83350464": {
+        "deprecated": false,
+        "Dev_Desc": "보상 획득권: 희생의 무덤",
+        "id": 83350464,
+        "alias": "Contents.CashShop.Item.Name.9710307",
+        "text": "보상 획득권: 희생의 무덤(각인)"
+    },
+    "83350465": {
+        "deprecated": false,
+        "Dev_Desc": "시간의 열쇠(각인) / 골드",
+        "id": 83350465,
+        "alias": "Contents.CashShop.Item.Name.9710308",
+        "text": "시간의 열쇠(각인)"
+    },
+    "83350466": {
+        "deprecated": false,
+        "Dev_Desc": "시간의 열쇠(각인) / 신석",
+        "id": 83350466,
+        "alias": "Contents.CashShop.Item.Name.9710309",
+        "text": "시간의 열쇠(각인)"
     }
 }

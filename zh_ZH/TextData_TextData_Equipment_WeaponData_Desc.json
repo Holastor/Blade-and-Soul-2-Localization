@@ -2210,7 +2210,7 @@
         "deprecated": false,
         "id": 92201010,
         "alias": "Contents.Item.Desc.2201010",
-        "text": "[시련던전]에서 획득할 수 있습니다."
+        "text": "[시련던전], [희생의 무덤]에서 획득할 수 있습니다."
     },
     "92201201": {
         "deprecated": false,
@@ -2276,7 +2276,7 @@
         "deprecated": false,
         "id": 92201406,
         "alias": "Contents.Item.Desc.2201406",
-        "text": "[시련던전]에서 획득할 수 있습니다."
+        "text": "[시련던전], [희생의 무덤]에서 획득할 수 있습니다."
     },
     "92201407": {
         "deprecated": false,
@@ -2401,7 +2401,7 @@
         "deprecated": false,
         "id": 92202010,
         "alias": "Contents.Item.Desc.2202010",
-        "text": "[시련던전]에서 획득할 수 있습니다."
+        "text": "[시련던전], [희생의 무덤]에서 획득할 수 있습니다."
     },
     "92202201": {
         "deprecated": false,
@@ -2461,7 +2461,7 @@
         "deprecated": false,
         "id": 92202405,
         "alias": "Contents.Item.Desc.2202405",
-        "text": "[시련던전]에서 획득할 수 있습니다."
+        "text": "[시련던전], [희생의 무덤]에서 획득할 수 있습니다."
     },
     "92202406": {
         "deprecated": false,
@@ -2592,7 +2592,7 @@
         "deprecated": false,
         "id": 92203010,
         "alias": "Contents.Item.Desc.2203010",
-        "text": "[시련던전]에서 획득할 수 있습니다."
+        "text": "[시련던전], [희생의 무덤]에서 획득할 수 있습니다."
     },
     "92203201": {
         "deprecated": false,
@@ -2783,7 +2783,7 @@
         "deprecated": false,
         "id": 92204010,
         "alias": "Contents.Item.Desc.2204010",
-        "text": "[시련던전]에서 획득할 수 있습니다."
+        "text": "[시련던전], [희생의 무덤]에서 획득할 수 있습니다."
     },
     "92204201": {
         "deprecated": false,
@@ -2974,7 +2974,7 @@
         "deprecated": false,
         "id": 92205010,
         "alias": "Contents.Item.Desc.2205010",
-        "text": "[시련던전]에서 획득할 수 있습니다."
+        "text": "[시련던전], [희생의 무덤]에서 획득할 수 있습니다."
     },
     "92205201": {
         "deprecated": false,
@@ -3034,7 +3034,7 @@
         "deprecated": false,
         "id": 92205405,
         "alias": "Contents.Item.Desc.2205405",
-        "text": "[시련던전]에서 획득할 수 있습니다."
+        "text": "[시련던전], [희생의 무덤]에서 획득할 수 있습니다."
     },
     "92205406": {
         "deprecated": false,
@@ -3165,7 +3165,7 @@
         "deprecated": false,
         "id": 92206010,
         "alias": "Contents.Item.Desc.2206010",
-        "text": "[시련던전]에서 획득할 수 있습니다."
+        "text": "[시련던전], [희생의 무덤]에서 획득할 수 있습니다."
     },
     "92206201": {
         "deprecated": false,
@@ -4093,38 +4093,758 @@
     },
     "92206611": {
         "deprecated": false,
-        "Dev_Desc": "침식된 바람의 조율자",
+        "Dev_Desc": "염화법종(각인)",
         "id": 92206611,
-        "alias": "Contents.Item.Desc.2301603"
+        "alias": "Contents.Item.Desc.2206611",
+        "text": "[제작]으로 획득할 수 있습니다.\n\n[고유 강화 효과]\n+7 강화 시 PVE 명중 +3\n+8 강화 시 PVE 공격력 +5\n+9 강화 시 화 속성 공격 증폭 +10%"
     },
     "92206612": {
         "deprecated": false,
-        "Dev_Desc": "침식된 질풍의 족쇄",
+        "Dev_Desc": "불꽃의 염화법종(각인)",
         "id": 92206612,
-        "alias": "Contents.Item.Desc.2302603"
+        "alias": "Contents.Item.Desc.2206612",
+        "text": "[제작]으로 획득할 수 있습니다.\n\n[고유 강화 효과]\n+7 강화 시 PVE 명중 +3\n+8 강화 시 PVE 공격력 +5\n+9 강화 시 화 속성 공격 증폭 +10%"
     },
     "92206613": {
         "deprecated": false,
-        "Dev_Desc": "침식된 심해의 격노",
+        "Dev_Desc": "검은 불꽃의 염화법종(각인)",
         "id": 92206613,
-        "alias": "Contents.Item.Desc.2304602"
+        "alias": "Contents.Item.Desc.2206613",
+        "text": "[제작]으로 획득할 수 있습니다.\n\n[고유 강화 효과]\n+7 강화 시 PVE 명중 +3\n+8 강화 시 PVE 공격력 +5\n+9 강화 시 화 속성 공격 증폭 +10%"
     },
     "92206614": {
         "deprecated": false,
-        "Dev_Desc": "침식된 폭풍의 전율",
+        "Dev_Desc": "화염의 염화법종(각인)",
         "id": 92206614,
-        "alias": "Contents.Item.Desc.2303603"
+        "alias": "Contents.Item.Desc.2206614",
+        "text": "[제작]으로 획득할 수 있습니다.\n\n[고유 강화 효과]\n+7 강화 시 PVE 명중 +3\n+8 강화 시 PVE 공격력 +5\n+9 강화 시 화 속성 공격 증폭 +10%"
     },
     "92206615": {
         "deprecated": false,
-        "Dev_Desc": "침식된 불꽃의 소나기",
+        "Dev_Desc": "타오르는 화염의 염화법종(각인)",
         "id": 92206615,
-        "alias": "Contents.Item.Desc.2305605"
+        "alias": "Contents.Item.Desc.2206615",
+        "text": "[제작]으로 획득할 수 있습니다.\n\n[고유 강화 효과]\n+7 강화 시 PVE 명중 +3\n+8 강화 시 PVE 공격력 +7\n+9 강화 시 화 속성 공격 증폭 +10%"
     },
     "92206616": {
         "deprecated": false,
-        "Dev_Desc": "침식된 영원의 이야기꾼",
+        "Dev_Desc": "타오르는 붉은 화염의 염화법종(각인)",
         "id": 92206616,
-        "alias": "Contents.Item.Desc.2306604"
+        "alias": "Contents.Item.Desc.2206616",
+        "text": "[제작]으로 획득할 수 있습니다.\n\n[고유 강화 효과]\n+7 강화 시 PVE 명중 +3\n+8 강화 시 PVE 공격력 +5\n+9 강화 시 화 속성 공격 증폭 +10%"
+    },
+    "92101413": {
+        "deprecated": false,
+        "Dev_Desc": "시작의 염화검",
+        "id": 92101413,
+        "alias": "Contents.Item.Desc.2101413",
+        "text": "[独特的增强效果] \\n 3 PVE攻击3 \\n 5加强PVE攻击力5"
+    },
+    "92102413": {
+        "deprecated": false,
+        "Dev_Desc": "시작의 염화권갑",
+        "id": 92102413,
+        "alias": "Contents.Item.Desc.2102413",
+        "text": "[独特的增强效果] \\n 3 PVE攻击3 \\n 5加强PVE攻击力5"
+    },
+    "92103413": {
+        "deprecated": false,
+        "Dev_Desc": "시작의 염화기공패",
+        "id": 92103413,
+        "alias": "Contents.Item.Desc.2103413",
+        "text": "[独特的增强效果] \\n 3 PVE攻击3 \\n 5加强PVE攻击力5"
+    },
+    "92104413": {
+        "deprecated": false,
+        "Dev_Desc": "시작의 염화도끼",
+        "id": 92104413,
+        "alias": "Contents.Item.Desc.2104413",
+        "text": "[独特的增强效果] \\n 3 PVE攻击3 \\n 5加强PVE攻击力5"
+    },
+    "92105413": {
+        "deprecated": false,
+        "Dev_Desc": "시작의 염화궁",
+        "id": 92105413,
+        "alias": "Contents.Item.Desc.2105413",
+        "text": "[独特的增强效果] \\n 3 PVE攻击3 \\n 5加强PVE攻击力5"
+    },
+    "92106413": {
+        "deprecated": false,
+        "Dev_Desc": "시작의 염화법종",
+        "id": 92106413,
+        "alias": "Contents.Item.Desc.2106413",
+        "text": "[独特的增强效果] \\n 3 PVE攻击3 \\n 5加强PVE攻击力5"
+    },
+    "92101611": {
+        "deprecated": false,
+        "Dev_Desc": "염화검",
+        "id": 92101611,
+        "alias": "Contents.Item.Desc.2101611",
+        "text": "[独特的增强效果] \\n 3 PVE在PVE 3 \\n 5房地产PVE攻击电源5 \\n 7加固属性攻击放大10％"
+    },
+    "92101612": {
+        "deprecated": false,
+        "Dev_Desc": "불꽃의 염화검",
+        "id": 92101612,
+        "alias": "Contents.Item.Desc.2101612",
+        "text": "[独特的增强效果] \\n 3 PVE在PVE 3 \\n 5房地产PVE攻击电源5 \\n 7加固属性攻击放大10％"
+    },
+    "92101613": {
+        "deprecated": false,
+        "Dev_Desc": "검은 불꽃의 염화검",
+        "id": 92101613,
+        "alias": "Contents.Item.Desc.2101613",
+        "text": "[独特的增强效果] \\n 3 PVE在PVE 3 \\n 5房地产PVE攻击电源5 \\n 7加固属性攻击放大10％"
+    },
+    "92101614": {
+        "deprecated": false,
+        "Dev_Desc": "화염의 염화검",
+        "id": 92101614,
+        "alias": "Contents.Item.Desc.2101614",
+        "text": "[独特的增强效果] \\n 3 PVE在PVE 3 \\n 5房地产PVE攻击电源5 \\n 7加固属性攻击放大10％"
+    },
+    "92101615": {
+        "deprecated": false,
+        "Dev_Desc": "타오르는 화염의 염화검",
+        "id": 92101615,
+        "alias": "Contents.Item.Desc.2101615",
+        "text": "[独特的增强效果] \\n 3 PVE在PVE 3 \\n 5房地产PVE攻击电源5 \\n 7加固属性攻击放大10％"
+    },
+    "92101616": {
+        "deprecated": false,
+        "Dev_Desc": "타오르는 붉은 화염의 염화검",
+        "id": 92101616,
+        "alias": "Contents.Item.Desc.2101616",
+        "text": "[独特的增强效果] \\n 3 PVE在PVE 3 \\n 5房地产PVE攻击电源5 \\n 7加固属性攻击放大10％"
+    },
+    "92101617": {
+        "deprecated": false,
+        "Dev_Desc": "타오르는 푸른 화염의 염화검",
+        "id": 92101617,
+        "alias": "Contents.Item.Desc.2101617",
+        "text": "[独特的增强效果] \\n 3 PVE在PVE 3 \\n 5房地产PVE攻击电源5 \\n 7加固属性攻击放大10％"
+    },
+    "92101618": {
+        "deprecated": false,
+        "Dev_Desc": "타오르는 검은 화염의 염화검",
+        "id": 92101618,
+        "alias": "Contents.Item.Desc.2101618",
+        "text": "[独特的增强效果] \\n 3 PVE在PVE 3 \\n 5房地产PVE攻击电源5 \\n 7加固属性攻击放大10％"
+    },
+    "92102611": {
+        "deprecated": false,
+        "Dev_Desc": "염화권갑",
+        "id": 92102611,
+        "alias": "Contents.Item.Desc.2102611",
+        "text": "[独特的增强效果] \\n 3 PVE在PVE 3 \\n 5房地产PVE攻击电源5 \\n 7加固属性攻击放大10％"
+    },
+    "92102612": {
+        "deprecated": false,
+        "Dev_Desc": "불꽃의 염화권갑",
+        "id": 92102612,
+        "alias": "Contents.Item.Desc.2102612",
+        "text": "[独特的增强效果] \\n 3 PVE在PVE 3 \\n 5房地产PVE攻击电源5 \\n 7加固属性攻击放大10％"
+    },
+    "92102613": {
+        "deprecated": false,
+        "Dev_Desc": "검은 불꽃의 염화권갑",
+        "id": 92102613,
+        "alias": "Contents.Item.Desc.2102613",
+        "text": "[独特的增强效果] \\n 3 PVE在PVE 3 \\n 5房地产PVE攻击电源5 \\n 7加固属性攻击放大10％"
+    },
+    "92102614": {
+        "deprecated": false,
+        "Dev_Desc": "화염의 염화권갑",
+        "id": 92102614,
+        "alias": "Contents.Item.Desc.2102614",
+        "text": "[独特的增强效果] \\n 3 PVE在PVE 3 \\n 5房地产PVE攻击电源5 \\n 7加固属性攻击放大10％"
+    },
+    "92102615": {
+        "deprecated": false,
+        "Dev_Desc": "타오르는 화염의 염화권갑",
+        "id": 92102615,
+        "alias": "Contents.Item.Desc.2102615",
+        "text": "[独特的增强效果] \\n 3 PVE在PVE 3 \\n 5房地产PVE攻击电源5 \\n 7加固属性攻击放大10％"
+    },
+    "92102616": {
+        "deprecated": false,
+        "Dev_Desc": "타오르는 붉은 화염의 염화권갑",
+        "id": 92102616,
+        "alias": "Contents.Item.Desc.2102616",
+        "text": "[独特的增强效果] \\n 3 PVE在PVE 3 \\n 5房地产PVE攻击电源5 \\n 7加固属性攻击放大10％"
+    },
+    "92102617": {
+        "deprecated": false,
+        "Dev_Desc": "타오르는 푸른 화염의 염화권갑",
+        "id": 92102617,
+        "alias": "Contents.Item.Desc.2102617",
+        "text": "[独特的增强效果] \\n 3 PVE在PVE 3 \\n 5房地产PVE攻击电源5 \\n 7加固属性攻击放大10％"
+    },
+    "92102618": {
+        "deprecated": false,
+        "Dev_Desc": "타오르는 검은 화염의 염화권갑",
+        "id": 92102618,
+        "alias": "Contents.Item.Desc.2102618",
+        "text": "[独特的增强效果] \\n 3 PVE在PVE 3 \\n 5房地产PVE攻击电源5 \\n 7加固属性攻击放大10％"
+    },
+    "92103611": {
+        "deprecated": false,
+        "Dev_Desc": "염화기공패",
+        "id": 92103611,
+        "alias": "Contents.Item.Desc.2103611",
+        "text": "[独特的增强效果] \\n 3 PVE在PVE 3 \\n 5房地产PVE攻击电源5 \\n 7加固属性攻击放大10％"
+    },
+    "92103612": {
+        "deprecated": false,
+        "Dev_Desc": "불꽃의 염화기공패",
+        "id": 92103612,
+        "alias": "Contents.Item.Desc.2103612",
+        "text": "[独特的增强效果] \\n 3 PVE在PVE 3 \\n 5房地产PVE攻击电源5 \\n 7加固属性攻击放大10％"
+    },
+    "92103613": {
+        "deprecated": false,
+        "Dev_Desc": "검은 불꽃의 염화기공패",
+        "id": 92103613,
+        "alias": "Contents.Item.Desc.2103613",
+        "text": "[独特的增强效果] \\n 3 PVE在PVE 3 \\n 5房地产PVE攻击电源5 \\n 7加固属性攻击放大10％"
+    },
+    "92103614": {
+        "deprecated": false,
+        "Dev_Desc": "화염의 염화기공패",
+        "id": 92103614,
+        "alias": "Contents.Item.Desc.2103614",
+        "text": "[独特的增强效果] \\n 3 PVE在PVE 3 \\n 5房地产PVE攻击电源5 \\n 7加固属性攻击放大10％"
+    },
+    "92103615": {
+        "deprecated": false,
+        "Dev_Desc": "타오르는 화염의 염화기공패",
+        "id": 92103615,
+        "alias": "Contents.Item.Desc.2103615",
+        "text": "[独特的增强效果] \\n 3 PVE在PVE 3 \\n 5房地产PVE攻击电源5 \\n 7加固属性攻击放大10％"
+    },
+    "92103616": {
+        "deprecated": false,
+        "Dev_Desc": "타오르는 붉은 화염의 염화기공패",
+        "id": 92103616,
+        "alias": "Contents.Item.Desc.2103616",
+        "text": "[独特的增强效果] \\n 3 PVE在PVE 3 \\n 5房地产PVE攻击电源5 \\n 7加固属性攻击放大10％"
+    },
+    "92103617": {
+        "deprecated": false,
+        "Dev_Desc": "타오르는 푸른 화염의 염화기공패",
+        "id": 92103617,
+        "alias": "Contents.Item.Desc.2103617",
+        "text": "[独特的增强效果] \\n 3 PVE在PVE 3 \\n 5房地产PVE攻击电源5 \\n 7加固属性攻击放大10％"
+    },
+    "92103618": {
+        "deprecated": false,
+        "Dev_Desc": "타오르는 검은 화염의 염화기공패",
+        "id": 92103618,
+        "alias": "Contents.Item.Desc.2103618",
+        "text": "[独特的增强效果] \\n 3 PVE在PVE 3 \\n 5房地产PVE攻击电源5 \\n 7加固属性攻击放大10％"
+    },
+    "92104611": {
+        "deprecated": false,
+        "Dev_Desc": "염화도끼",
+        "id": 92104611,
+        "alias": "Contents.Item.Desc.2104611",
+        "text": "[独特的增强效果] \\n 3 PVE在PVE 3 \\n 5房地产PVE攻击电源5 \\n 7加固属性攻击放大10％"
+    },
+    "92104612": {
+        "deprecated": false,
+        "Dev_Desc": "불꽃의 염화도끼",
+        "id": 92104612,
+        "alias": "Contents.Item.Desc.2104612",
+        "text": "[独特的增强效果] \\n 3 PVE在PVE 3 \\n 5房地产PVE攻击电源5 \\n 7加固属性攻击放大10％"
+    },
+    "92104613": {
+        "deprecated": false,
+        "Dev_Desc": "검은 불꽃의 염화도끼",
+        "id": 92104613,
+        "alias": "Contents.Item.Desc.2104613",
+        "text": "[独特的增强效果] \\n 3 PVE在PVE 3 \\n 5房地产PVE攻击电源5 \\n 7加固属性攻击放大10％"
+    },
+    "92104614": {
+        "deprecated": false,
+        "Dev_Desc": "화염의 염화도끼",
+        "id": 92104614,
+        "alias": "Contents.Item.Desc.2104614",
+        "text": "[独特的增强效果] \\n 3 PVE在PVE 3 \\n 5房地产PVE攻击电源5 \\n 7加固属性攻击放大10％"
+    },
+    "92104615": {
+        "deprecated": false,
+        "Dev_Desc": "타오르는 화염의 염화도끼",
+        "id": 92104615,
+        "alias": "Contents.Item.Desc.2104615",
+        "text": "[独特的增强效果] \\n 3 PVE在PVE 3 \\n 5房地产PVE攻击电源5 \\n 7加固属性攻击放大10％"
+    },
+    "92104616": {
+        "deprecated": false,
+        "Dev_Desc": "타오르는 붉은 화염의 염화도끼",
+        "id": 92104616,
+        "alias": "Contents.Item.Desc.2104616",
+        "text": "[独特的增强效果] \\n 3 PVE在PVE 3 \\n 5房地产PVE攻击电源5 \\n 7加固属性攻击放大10％"
+    },
+    "92104617": {
+        "deprecated": false,
+        "Dev_Desc": "타오르는 푸른 화염의 염화도끼",
+        "id": 92104617,
+        "alias": "Contents.Item.Desc.2104617",
+        "text": "[独特的增强效果] \\n 3 PVE在PVE 3 \\n 5房地产PVE攻击电源5 \\n 7加固属性攻击放大10％"
+    },
+    "92104618": {
+        "deprecated": false,
+        "Dev_Desc": "타오르는 검은 화염의 염화도끼",
+        "id": 92104618,
+        "alias": "Contents.Item.Desc.2104618",
+        "text": "[独特的增强效果] \\n 3 PVE在PVE 3 \\n 5房地产PVE攻击电源5 \\n 7加固属性攻击放大10％"
+    },
+    "92105611": {
+        "deprecated": false,
+        "Dev_Desc": "염화궁",
+        "id": 92105611,
+        "alias": "Contents.Item.Desc.2105611",
+        "text": "[独特的增强效果] \\n 3 PVE在PVE 3 \\n 5房地产PVE攻击电源5 \\n 7加固属性攻击放大10％"
+    },
+    "92105612": {
+        "deprecated": false,
+        "Dev_Desc": "불꽃의 염화궁",
+        "id": 92105612,
+        "alias": "Contents.Item.Desc.2105612",
+        "text": "[独特的增强效果] \\n 3 PVE在PVE 3 \\n 5房地产PVE攻击电源5 \\n 7加固属性攻击放大10％"
+    },
+    "92105613": {
+        "deprecated": false,
+        "Dev_Desc": "검은 불꽃의 염화궁",
+        "id": 92105613,
+        "alias": "Contents.Item.Desc.2105613",
+        "text": "[独特的增强效果] \\n 3 PVE在PVE 3 \\n 5房地产PVE攻击电源5 \\n 7加固属性攻击放大10％"
+    },
+    "92105614": {
+        "deprecated": false,
+        "Dev_Desc": "화염의 염화궁",
+        "id": 92105614,
+        "alias": "Contents.Item.Desc.2105614",
+        "text": "[独特的增强效果] \\n 3 PVE在PVE 3 \\n 5房地产PVE攻击电源5 \\n 7加固属性攻击放大10％"
+    },
+    "92105615": {
+        "deprecated": false,
+        "Dev_Desc": "타오르는 화염의 염화궁",
+        "id": 92105615,
+        "alias": "Contents.Item.Desc.2105615",
+        "text": "[独特的增强效果] \\n 3 PVE在PVE 3 \\n 5房地产PVE攻击电源5 \\n 7加固属性攻击放大10％"
+    },
+    "92105616": {
+        "deprecated": false,
+        "Dev_Desc": "타오르는 붉은 화염의 염화궁",
+        "id": 92105616,
+        "alias": "Contents.Item.Desc.2105616",
+        "text": "[独特的增强效果] \\n 3 PVE在PVE 3 \\n 5房地产PVE攻击电源5 \\n 7加固属性攻击放大10％"
+    },
+    "92105617": {
+        "deprecated": false,
+        "Dev_Desc": "타오르는 푸른 화염의 염화궁",
+        "id": 92105617,
+        "alias": "Contents.Item.Desc.2105617",
+        "text": "[独特的增强效果] \\n 3 PVE在PVE 3 \\n 5房地产PVE攻击电源5 \\n 7加固属性攻击放大10％"
+    },
+    "92105618": {
+        "deprecated": false,
+        "Dev_Desc": "타오르는 검은 화염의 염화궁",
+        "id": 92105618,
+        "alias": "Contents.Item.Desc.2105618",
+        "text": "[独特的增强效果] \\n 3 PVE在PVE 3 \\n 5房地产PVE攻击电源5 \\n 7加固属性攻击放大10％"
+    },
+    "92106611": {
+        "deprecated": false,
+        "Dev_Desc": "염화법종",
+        "id": 92106611,
+        "alias": "Contents.Item.Desc.2106611",
+        "text": "[独特的增强效果] \\n 3 PVE在PVE 3 \\n 5房地产PVE攻击电源5 \\n 7加固属性攻击放大10％"
+    },
+    "92106612": {
+        "deprecated": false,
+        "Dev_Desc": "불꽃의 염화법종",
+        "id": 92106612,
+        "alias": "Contents.Item.Desc.2106612",
+        "text": "[独特的增强效果] \\n 3 PVE在PVE 3 \\n 5房地产PVE攻击电源5 \\n 7加固属性攻击放大10％"
+    },
+    "92106613": {
+        "deprecated": false,
+        "Dev_Desc": "검은 불꽃의 염화법종",
+        "id": 92106613,
+        "alias": "Contents.Item.Desc.2106613",
+        "text": "[独特的增强效果] \\n 3 PVE在PVE 3 \\n 5房地产PVE攻击电源5 \\n 7加固属性攻击放大10％"
+    },
+    "92106614": {
+        "deprecated": false,
+        "Dev_Desc": "화염의 염화법종",
+        "id": 92106614,
+        "alias": "Contents.Item.Desc.2106614",
+        "text": "[独特的增强效果] \\n 3 PVE在PVE 3 \\n 5房地产PVE攻击电源5 \\n 7加固属性攻击放大10％"
+    },
+    "92106615": {
+        "deprecated": false,
+        "Dev_Desc": "타오르는 화염의 염화법종",
+        "id": 92106615,
+        "alias": "Contents.Item.Desc.2106615",
+        "text": "[独特的增强效果] \\n 3 PVE在PVE 3 \\n 5房地产PVE攻击电源5 \\n 7加固属性攻击放大10％"
+    },
+    "92106616": {
+        "deprecated": false,
+        "Dev_Desc": "타오르는 붉은 화염의 염화법종",
+        "id": 92106616,
+        "alias": "Contents.Item.Desc.2106616",
+        "text": "[独特的增强效果] \\n 3 PVE在PVE 3 \\n 5房地产PVE攻击电源5 \\n 7加固属性攻击放大10％"
+    },
+    "92106617": {
+        "deprecated": false,
+        "Dev_Desc": "타오르는 푸른 화염의 염화법종",
+        "id": 92106617,
+        "alias": "Contents.Item.Desc.2106617",
+        "text": "[独特的增强效果] \\n 3 PVE在PVE 3 \\n 5房地产PVE攻击电源5 \\n 7加固属性攻击放大10％"
+    },
+    "92106618": {
+        "deprecated": false,
+        "Dev_Desc": "타오르는 검은 화염의 염화법종",
+        "id": 92106618,
+        "alias": "Contents.Item.Desc.2106618",
+        "text": "[独特的增强效果] \\n 3 PVE在PVE 3 \\n 5房地产PVE攻击电源5 \\n 7加固属性攻击放大10％"
+    },
+    "92201413": {
+        "deprecated": false,
+        "Dev_Desc": "시작의 염화검(각인)",
+        "id": 92201413,
+        "alias": "Contents.Item.Desc.2201413",
+        "text": "您可以获得[生产]。 \\n\\n [独特的增强效果] \\n 3 PVE攻击3 \\n 5电源攻击力5"
+    },
+    "92202413": {
+        "deprecated": false,
+        "Dev_Desc": "시작의 염화권갑(각인)",
+        "id": 92202413,
+        "alias": "Contents.Item.Desc.2202413",
+        "text": "您可以获得[生产]。 \\n\\n [独特的增强效果] \\n 3 PVE攻击3 \\n 5电源攻击力5"
+    },
+    "92203413": {
+        "deprecated": false,
+        "Dev_Desc": "시작의 염화기공패(각인)",
+        "id": 92203413,
+        "alias": "Contents.Item.Desc.2203413",
+        "text": "您可以获得[生产]。 \\n\\n [独特的增强效果] \\n 3 PVE攻击3 \\n 5电源攻击力5"
+    },
+    "92204413": {
+        "deprecated": false,
+        "Dev_Desc": "시작의 염화도끼(각인)",
+        "id": 92204413,
+        "alias": "Contents.Item.Desc.2204413",
+        "text": "您可以获得[生产]。 \\n\\n [独特的增强效果] \\n 3 PVE攻击3 \\n 5电源攻击力5"
+    },
+    "92205413": {
+        "deprecated": false,
+        "Dev_Desc": "시작의 염화궁(각인)",
+        "id": 92205413,
+        "alias": "Contents.Item.Desc.2205413",
+        "text": "您可以获得[生产]。 \\n\\n [独特的增强效果] \\n 3 PVE攻击3 \\n 5电源攻击力5"
+    },
+    "92206413": {
+        "deprecated": false,
+        "Dev_Desc": "시작의 염화법종(각인)",
+        "id": 92206413,
+        "alias": "Contents.Item.Desc.2206413",
+        "text": "您可以获得[生产]。 \\n\\n [独特的增强效果] \\n 3 PVE攻击3 \\n 5电源攻击力5"
+    },
+    "92201611": {
+        "deprecated": false,
+        "Dev_Desc": "염화검(각인)",
+        "id": 92201611,
+        "alias": "Contents.Item.Desc.2201611",
+        "text": "可以获得[生产]。 \\n\\n [独特的增强效果] \\n 7 PVE高3 \\n 8用于加强PVE攻击5 \\n 9加固"
+    },
+    "92201612": {
+        "deprecated": false,
+        "Dev_Desc": "불꽃의 염화검(각인)",
+        "id": 92201612,
+        "alias": "Contents.Item.Desc.2201612",
+        "text": "可以获得[生产]。 \\n\\n [独特的增强效果] \\n 7 PVE高3 \\n 8用于加强PVE攻击5 \\n 9加固"
+    },
+    "92201613": {
+        "deprecated": false,
+        "Dev_Desc": "검은 불꽃의 염화검(각인)",
+        "id": 92201613,
+        "alias": "Contents.Item.Desc.2201613",
+        "text": "可以获得[生产]。 \\n\\n [独特的增强效果] \\n 7 PVE高3 \\n 8用于加强PVE攻击5 \\n 9加固"
+    },
+    "92201614": {
+        "deprecated": false,
+        "Dev_Desc": "화염의 염화검(각인)",
+        "id": 92201614,
+        "alias": "Contents.Item.Desc.2201614",
+        "text": "可以获得[生产]。 \\n\\n [独特的增强效果] \\n 7 PVE高3 \\n 8用于加强PVE攻击5 \\n 9加固"
+    },
+    "92201615": {
+        "deprecated": false,
+        "Dev_Desc": "타오르는 화염의 염화검(각인)",
+        "id": 92201615,
+        "alias": "Contents.Item.Desc.2201615",
+        "text": "可以获得[生产]。 \\n\\n [独特的增强效果] \\n 7 PVE高3 \\n 8 PVE攻击电源7 \\n 9加固7 \\n 9加固型房地产攻击放大10％"
+    },
+    "92201616": {
+        "deprecated": false,
+        "Dev_Desc": "타오르는 붉은 화염의 염화검(각인)",
+        "id": 92201616,
+        "alias": "Contents.Item.Desc.2201616",
+        "text": "可以获得[生产]。 \\n\\n [独特的增强效果] \\n 7 PVE高3 \\n 8用于加强PVE攻击5 \\n 9加固"
+    },
+    "92201617": {
+        "deprecated": false,
+        "Dev_Desc": "타오르는 푸른 화염의 염화검(각인)",
+        "id": 92201617,
+        "alias": "Contents.Item.Desc.2201617",
+        "text": "可以获得[生产]。 \\n\\n [独特的增强效果] \\n 7 PVE高3 \\n 8用于加强PVE攻击5 \\n 9加固"
+    },
+    "92201618": {
+        "deprecated": false,
+        "Dev_Desc": "타오르는 검은 화염의 염화검(각인)",
+        "id": 92201618,
+        "alias": "Contents.Item.Desc.2201618",
+        "text": "可以获得[生产]。 \\n\\n [独特的增强效果] \\n 7 PVE高3 \\n 8用于加强PVE攻击5 \\n 9加固"
+    },
+    "92202611": {
+        "deprecated": false,
+        "Dev_Desc": "염화권갑(각인)",
+        "id": 92202611,
+        "alias": "Contents.Item.Desc.2202611",
+        "text": "可以获得[生产]。 \\n\\n [独特的增强效果] \\n 7 PVE高3 \\n 8用于加强PVE攻击5 \\n 9加固"
+    },
+    "92202612": {
+        "deprecated": false,
+        "Dev_Desc": "불꽃의 염화권갑(각인)",
+        "id": 92202612,
+        "alias": "Contents.Item.Desc.2202612",
+        "text": "可以获得[生产]。 \\n\\n [独特的增强效果] \\n 7 PVE高3 \\n 8用于加强PVE攻击5 \\n 9加固"
+    },
+    "92202613": {
+        "deprecated": false,
+        "Dev_Desc": "검은 불꽃의 염화권갑(각인)",
+        "id": 92202613,
+        "alias": "Contents.Item.Desc.2202613",
+        "text": "可以获得[生产]。 \\n\\n [独特的增强效果] \\n 7 PVE高3 \\n 8用于加强PVE攻击5 \\n 9加固"
+    },
+    "92202614": {
+        "deprecated": false,
+        "Dev_Desc": "화염의 염화권갑(각인)",
+        "id": 92202614,
+        "alias": "Contents.Item.Desc.2202614",
+        "text": "可以获得[生产]。 \\n\\n [独特的增强效果] \\n 7 PVE高3 \\n 8用于加强PVE攻击5 \\n 9加固"
+    },
+    "92202615": {
+        "deprecated": false,
+        "Dev_Desc": "타오르는 화염의 염화권갑(각인)",
+        "id": 92202615,
+        "alias": "Contents.Item.Desc.2202615",
+        "text": "可以获得[生产]。 \\n\\n [独特的增强效果] \\n 7 PVE高3 \\n 8 PVE攻击电源7 \\n 9加固7 \\n 9加固型房地产攻击放大10％"
+    },
+    "92202616": {
+        "deprecated": false,
+        "Dev_Desc": "타오르는 붉은 화염의 염화권갑(각인)",
+        "id": 92202616,
+        "alias": "Contents.Item.Desc.2202616",
+        "text": "可以获得[生产]。 \\n\\n [独特的增强效果] \\n 7 PVE高3 \\n 8用于加强PVE攻击5 \\n 9加固"
+    },
+    "92202617": {
+        "deprecated": false,
+        "Dev_Desc": "타오르는 푸른 화염의 염화권갑(각인)",
+        "id": 92202617,
+        "alias": "Contents.Item.Desc.2202617",
+        "text": "可以获得[生产]。 \\n\\n [独特的增强效果] \\n 7 PVE高3 \\n 8用于加强PVE攻击5 \\n 9加固"
+    },
+    "92202618": {
+        "deprecated": false,
+        "Dev_Desc": "타오르는 검은 화염의 염화권갑(각인)",
+        "id": 92202618,
+        "alias": "Contents.Item.Desc.2202618",
+        "text": "可以获得[生产]。 \\n\\n [独特的增强效果] \\n 7 PVE高3 \\n 8用于加强PVE攻击5 \\n 9加固"
+    },
+    "92203611": {
+        "deprecated": false,
+        "Dev_Desc": "염화기공패(각인)",
+        "id": 92203611,
+        "alias": "Contents.Item.Desc.2203611",
+        "text": "可以获得[生产]。 \\n\\n [独特的增强效果] \\n 7 PVE高3 \\n 8用于加强PVE攻击5 \\n 9加固"
+    },
+    "92203612": {
+        "deprecated": false,
+        "Dev_Desc": "불꽃의 염화기공패(각인)",
+        "id": 92203612,
+        "alias": "Contents.Item.Desc.2203612",
+        "text": "可以获得[生产]。 \\n\\n [独特的增强效果] \\n 7 PVE高3 \\n 8用于加强PVE攻击5 \\n 9加固"
+    },
+    "92203613": {
+        "deprecated": false,
+        "Dev_Desc": "검은 불꽃의 염화기공패(각인)",
+        "id": 92203613,
+        "alias": "Contents.Item.Desc.2203613",
+        "text": "可以获得[生产]。 \\n\\n [独特的增强效果] \\n 7 PVE高3 \\n 8用于加强PVE攻击5 \\n 9加固"
+    },
+    "92203614": {
+        "deprecated": false,
+        "Dev_Desc": "화염의 염화기공패(각인)",
+        "id": 92203614,
+        "alias": "Contents.Item.Desc.2203614",
+        "text": "可以获得[生产]。 \\n\\n [独特的增强效果] \\n 7 PVE高3 \\n 8用于加强PVE攻击5 \\n 9加固"
+    },
+    "92203615": {
+        "deprecated": false,
+        "Dev_Desc": "타오르는 화염의 염화기공패(각인)",
+        "id": 92203615,
+        "alias": "Contents.Item.Desc.2203615",
+        "text": "可以获得[生产]。 \\n\\n [独特的增强效果] \\n 7 PVE高3 \\n 8 PVE攻击电源7 \\n 9加固7 \\n 9加固型房地产攻击放大10％"
+    },
+    "92203616": {
+        "deprecated": false,
+        "Dev_Desc": "타오르는 붉은 화염의 염화기공패(각인)",
+        "id": 92203616,
+        "alias": "Contents.Item.Desc.2203616",
+        "text": "可以获得[生产]。 \\n\\n [独特的增强效果] \\n 7 PVE高3 \\n 8用于加强PVE攻击5 \\n 9加固"
+    },
+    "92203617": {
+        "deprecated": false,
+        "Dev_Desc": "타오르는 푸른 화염의 염화기공패(각인)",
+        "id": 92203617,
+        "alias": "Contents.Item.Desc.2203617",
+        "text": "可以获得[生产]。 \\n\\n [独特的增强效果] \\n 7 PVE高3 \\n 8用于加强PVE攻击5 \\n 9加固"
+    },
+    "92203618": {
+        "deprecated": false,
+        "Dev_Desc": "타오르는 검은 화염의 염화기공패(각인)",
+        "id": 92203618,
+        "alias": "Contents.Item.Desc.2203618",
+        "text": "可以获得[生产]。 \\n\\n [独特的增强效果] \\n 7 PVE高3 \\n 8用于加强PVE攻击5 \\n 9加固"
+    },
+    "92204611": {
+        "deprecated": false,
+        "Dev_Desc": "염화도끼(각인)",
+        "id": 92204611,
+        "alias": "Contents.Item.Desc.2204611",
+        "text": "可以获得[生产]。 \\n\\n [独特的增强效果] \\n 7 PVE高3 \\n 8用于加强PVE攻击5 \\n 9加固"
+    },
+    "92204612": {
+        "deprecated": false,
+        "Dev_Desc": "불꽃의 염화도끼(각인)",
+        "id": 92204612,
+        "alias": "Contents.Item.Desc.2204612",
+        "text": "可以获得[生产]。 \\n\\n [独特的增强效果] \\n 7 PVE高3 \\n 8用于加强PVE攻击5 \\n 9加固"
+    },
+    "92204613": {
+        "deprecated": false,
+        "Dev_Desc": "검은 불꽃의 염화도끼(각인)",
+        "id": 92204613,
+        "alias": "Contents.Item.Desc.2204613",
+        "text": "可以获得[生产]。 \\n\\n [独特的增强效果] \\n 7 PVE高3 \\n 8用于加强PVE攻击5 \\n 9加固"
+    },
+    "92204614": {
+        "deprecated": false,
+        "Dev_Desc": "화염의 염화도끼(각인)",
+        "id": 92204614,
+        "alias": "Contents.Item.Desc.2204614",
+        "text": "可以获得[生产]。 \\n\\n [独特的增强效果] \\n 7 PVE高3 \\n 8用于加强PVE攻击5 \\n 9加固"
+    },
+    "92204615": {
+        "deprecated": false,
+        "Dev_Desc": "타오르는 화염의 염화도끼(각인)",
+        "id": 92204615,
+        "alias": "Contents.Item.Desc.2204615",
+        "text": "可以获得[生产]。 \\n\\n [独特的增强效果] \\n 7 PVE高3 \\n 8 PVE攻击电源7 \\n 9加固7 \\n 9加固型房地产攻击放大10％"
+    },
+    "92204616": {
+        "deprecated": false,
+        "Dev_Desc": "타오르는 붉은 화염의 염화도끼(각인)",
+        "id": 92204616,
+        "alias": "Contents.Item.Desc.2204616",
+        "text": "可以获得[生产]。 \\n\\n [独特的增强效果] \\n 7 PVE高3 \\n 8用于加强PVE攻击5 \\n 9加固"
+    },
+    "92204617": {
+        "deprecated": false,
+        "Dev_Desc": "타오르는 푸른 화염의 염화도끼(각인)",
+        "id": 92204617,
+        "alias": "Contents.Item.Desc.2204617",
+        "text": "可以获得[生产]。 \\n\\n [独特的增强效果] \\n 7 PVE高3 \\n 8用于加强PVE攻击5 \\n 9加固"
+    },
+    "92204618": {
+        "deprecated": false,
+        "Dev_Desc": "타오르는 검은 화염의 염화도끼(각인)",
+        "id": 92204618,
+        "alias": "Contents.Item.Desc.2204618",
+        "text": "可以获得[生产]。 \\n\\n [独特的增强效果] \\n 7 PVE高3 \\n 8用于加强PVE攻击5 \\n 9加固"
+    },
+    "92205611": {
+        "deprecated": false,
+        "Dev_Desc": "염화궁(각인)",
+        "id": 92205611,
+        "alias": "Contents.Item.Desc.2205611",
+        "text": "可以获得[生产]。 \\n\\n [独特的增强效果] \\n 7 PVE高3 \\n 8用于加强PVE攻击5 \\n 9加固"
+    },
+    "92205612": {
+        "deprecated": false,
+        "Dev_Desc": "불꽃의 염화궁(각인)",
+        "id": 92205612,
+        "alias": "Contents.Item.Desc.2205612",
+        "text": "可以获得[生产]。 \\n\\n [独特的增强效果] \\n 7 PVE高3 \\n 8用于加强PVE攻击5 \\n 9加固"
+    },
+    "92205613": {
+        "deprecated": false,
+        "Dev_Desc": "검은 불꽃의 염화궁(각인)",
+        "id": 92205613,
+        "alias": "Contents.Item.Desc.2205613",
+        "text": "可以获得[生产]。 \\n\\n [独特的增强效果] \\n 7 PVE高3 \\n 8用于加强PVE攻击5 \\n 9加固"
+    },
+    "92205614": {
+        "deprecated": false,
+        "Dev_Desc": "화염의 염화궁(각인)",
+        "id": 92205614,
+        "alias": "Contents.Item.Desc.2205614",
+        "text": "可以获得[生产]。 \\n\\n [独特的增强效果] \\n 7 PVE高3 \\n 8用于加强PVE攻击5 \\n 9加固"
+    },
+    "92205615": {
+        "deprecated": false,
+        "Dev_Desc": "타오르는 화염의 염화궁(각인)",
+        "id": 92205615,
+        "alias": "Contents.Item.Desc.2205615",
+        "text": "可以获得[生产]。 \\n\\n [独特的增强效果] \\n 7 PVE高3 \\n 8 PVE攻击电源7 \\n 9加固7 \\n 9加固型房地产攻击放大10％"
+    },
+    "92205616": {
+        "deprecated": false,
+        "Dev_Desc": "타오르는 붉은 화염의 염화궁(각인)",
+        "id": 92205616,
+        "alias": "Contents.Item.Desc.2205616",
+        "text": "可以获得[生产]。 \\n\\n [独特的增强效果] \\n 7 PVE高3 \\n 8用于加强PVE攻击5 \\n 9加固"
+    },
+    "92205617": {
+        "deprecated": false,
+        "Dev_Desc": "타오르는 푸른 화염의 염화궁(각인)",
+        "id": 92205617,
+        "alias": "Contents.Item.Desc.2205617",
+        "text": "可以获得[生产]。 \\n\\n [独特的增强效果] \\n 7 PVE高3 \\n 8用于加强PVE攻击5 \\n 9加固"
+    },
+    "92205618": {
+        "deprecated": false,
+        "Dev_Desc": "타오르는 검은 화염의 염화궁(각인)",
+        "id": 92205618,
+        "alias": "Contents.Item.Desc.2205618",
+        "text": "可以获得[生产]。 \\n\\n [独特的增强效果] \\n 7 PVE高3 \\n 8用于加强PVE攻击5 \\n 9加固"
+    },
+    "92206617": {
+        "deprecated": false,
+        "Dev_Desc": "타오르는 푸른 화염의 염화법종(각인)",
+        "id": 92206617,
+        "alias": "Contents.Item.Desc.2206617",
+        "text": "可以获得[生产]。 \\n\\n [独特的增强效果] \\n 7 PVE高3 \\n 8用于加强PVE攻击5 \\n 9加固"
+    },
+    "92206618": {
+        "deprecated": false,
+        "Dev_Desc": "타오르는 검은 화염의 염화법종(각인)",
+        "id": 92206618,
+        "alias": "Contents.Item.Desc.2206618",
+        "text": "可以获得[生产]。 \\n\\n [独特的增强效果] \\n 7 PVE高3 \\n 8用于加强PVE攻击5 \\n 9加固"
     }
 }

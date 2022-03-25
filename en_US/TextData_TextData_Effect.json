@@ -6343,21 +6343,21 @@
     },
     "89500952": {
         "deprecated": false,
-        "Dev_Desc": "극락의 용봉탕 설명",
+        "Dev_Desc": "극락의 용봉탕(이벤트)_친구초대",
         "id": 89500952,
         "alias": "Contents.Effect.Desc.70101179",
         "text": "Increase in experiencing acquisition"
     },
     "89500953": {
         "deprecated": false,
-        "Dev_Desc": "극락의 용봉탕 옵션",
+        "Dev_Desc": "극락의 용봉탕(이벤트)_친구초대",
         "id": 89500953,
         "alias": "Contents.Effect.Option.70101179",
         "text": "Experience acquisition amount increased 100%"
     },
     "89500954": {
         "deprecated": false,
-        "Dev_Desc": "극락의 용봉탕 옵션설명",
+        "Dev_Desc": "극락의 용봉탕(이벤트)_친구초대",
         "id": 89500954,
         "alias": "Contents.Effect.Detail.70101179"
     },
@@ -6387,5 +6387,32 @@
         "Dev_Desc": "탄생의 비약(이벤트)",
         "id": 89500958,
         "alias": "Contents.Effect.Detail.70101180"
+    },
+    "89500959": {
+        "deprecated": false,
+        "Dev_Desc": "CM의 응원 단환(이벤트)",
+        "id": 89500959,
+        "alias": "Contents.Effect.Name.70101181",
+        "text": "CM support (event)"
+    },
+    "89500960": {
+        "deprecated": false,
+        "Dev_Desc": "CM의 응원 단환(이벤트)",
+        "id": 89500960,
+        "alias": "Contents.Effect.Desc.70101181",
+        "text": "Increase combat ability"
+    },
+    "89500961": {
+        "deprecated": false,
+        "Dev_Desc": "CM의 응원 단환(이벤트)",
+        "id": 89500961,
+        "alias": "Contents.Effect.Option.70101181",
+        "text": "Boss Hits 5 \\n Boss Ho Shin 3 \\n Boss Defense 10"
+    },
+    "89500962": {
+        "deprecated": false,
+        "Dev_Desc": "CM의 응원 단환(이벤트)",
+        "id": 89500962,
+        "alias": "Contents.Effect.Detail.70101181"
     }
 }

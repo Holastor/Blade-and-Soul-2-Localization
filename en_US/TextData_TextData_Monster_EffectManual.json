@@ -789,5 +789,89 @@
         "id": 61000113,
         "alias": "Contents.Effect.Option.Monster.233581712",
         "text": "Movement speed reduction rate 90%"
+    },
+    "61000114": {
+        "deprecated": false,
+        "Dev_Desc": "잿빛모래시계_금빛기운_2단계_PC이속증가_이름",
+        "id": 61000114,
+        "alias": "Contents.Effect.Name.Monster.212660048",
+        "text": "Golden energy"
+    },
+    "61000115": {
+        "deprecated": false,
+        "Dev_Desc": "잿빛모래시계_금빛기운_2단계_PC이속증가_설명",
+        "id": 61000115,
+        "alias": "Contents.Effect.Desc.Monster.212660048",
+        "text": "Movement speed increases"
+    },
+    "61000116": {
+        "deprecated": false,
+        "Dev_Desc": "잿빛모래시계_금빛기운_2단계_PC이속증가_옵션",
+        "id": 61000116,
+        "alias": "Contents.Effect.Option.Monster.212660048",
+        "text": "Movement speed growth rate 70%"
+    },
+    "61000117": {
+        "deprecated": false,
+        "Dev_Desc": "얼음꽃_이름",
+        "id": 61000117,
+        "alias": "Contents.Effect.Name.Monster.1014522",
+        "text": "ice flower"
+    },
+    "61000118": {
+        "deprecated": false,
+        "Dev_Desc": "얼음꽃_설명",
+        "id": 61000118,
+        "alias": "Contents.Effect.Desc.Monster.1014522",
+        "text": "Ice flower effect activation"
+    },
+    "61000119": {
+        "deprecated": false,
+        "Dev_Desc": "얼음꽃_옵션",
+        "id": 61000119,
+        "alias": "Contents.Effect.Option.Monster.1014522",
+        "text": "Ice flower effect for 3 seconds"
+    },
+    "61000120": {
+        "deprecated": false,
+        "Dev_Desc": "보스, 염화대성_디버프_스택1_둔화_이름",
+        "id": 61000120,
+        "alias": "Contents.Effect.Name.Monster.212660061",
+        "text": "Slowdown"
+    },
+    "61000121": {
+        "deprecated": false,
+        "Dev_Desc": "보스, 염화대성_디버프_스택1_둔화_설명",
+        "id": 61000121,
+        "alias": "Contents.Effect.Desc.Monster.212660061",
+        "text": "Reduce moving speed"
+    },
+    "61000122": {
+        "deprecated": false,
+        "Dev_Desc": "보스, 염화대성_디버프_스택1_둔화_옵션",
+        "id": 61000122,
+        "alias": "Contents.Effect.Option.Monster.212660061",
+        "text": "Movement speed reduction rate 70%"
+    },
+    "61000123": {
+        "deprecated": false,
+        "Dev_Desc": "보스, 염화대성_디버프_스택2_석화_이름",
+        "id": 61000123,
+        "alias": "Contents.Effect.Name.Monster.212660062",
+        "text": "petrification"
+    },
+    "61000124": {
+        "deprecated": false,
+        "Dev_Desc": "보스, 염화대성_디버프_스택2_석화_설명",
+        "id": 61000124,
+        "alias": "Contents.Effect.Desc.Monster.212660062",
+        "text": "Petrification"
+    },
+    "61000125": {
+        "deprecated": false,
+        "Dev_Desc": "보스, 염화대성_디버프_스택2_석화_옵션",
+        "id": 61000125,
+        "alias": "Contents.Effect.Option.Monster.212660062",
+        "text": "No non-movable \\n unavailable \\n No items can not be used"
     }
 }

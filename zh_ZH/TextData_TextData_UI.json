@@ -29900,5 +29900,705 @@
         "id": 8004363,
         "alias": "UI.Craft.LeftSubTabName.Event.AfterPromise_01",
         "text": "reunion承诺令牌"
+    },
+    "8004364": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 대체재료 선택상자 메시지",
+        "id": 8004364,
+        "alias": "UI.Galaxy.Msg.Resource.ItemSelect",
+        "text": "按照您选择的顺序使用材质。"
+    },
+    "8004365": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 대체재료 선택상자 메시지",
+        "id": 8004365,
+        "alias": "UI.Galaxy.Msg.Resource.LackItem",
+        "text": "没有你持有的材料。"
+    },
+    "8004366": {
+        "deprecated": false,
+        "Dev_Desc": "별자리 대체재료 선택상자 메시지",
+        "id": 8004366,
+        "alias": "UI.Galaxy.Msg.Resource.UnSelect",
+        "text": "未进一步"
+    },
+    "8004367": {
+        "deprecated": false,
+        "Dev_Desc": "문파 / 문파 정보 / 문파 장원 / 설명",
+        "id": 8004367,
+        "alias": "UI.Guild.House.Desc",
+        "text": "进入Moonpong时，<long韩语录入>按钮更改为<退出>按钮，您可以使用相同的按钮留下原始按钮。"
+    },
+    "8004368": {
+        "deprecated": false,
+        "Dev_Desc": "보패 / 타이틀",
+        "id": 8004368,
+        "alias": "UI.Bopae.Title",
+        "text": "纸"
+    },
+    "8004369": {
+        "deprecated": false,
+        "Dev_Desc": "보패 / 보패 장착 탭",
+        "id": 8004369,
+        "alias": "UI.Bopae.Equip",
+        "text": "纸"
+    },
+    "8004370": {
+        "deprecated": false,
+        "Dev_Desc": "보패 / 보패 합성 탭",
+        "id": 8004370,
+        "alias": "UI.Bopae.Mix",
+        "text": "浮动综合"
+    },
+    "8004371": {
+        "deprecated": false,
+        "Dev_Desc": "보패 / 보패 제작 탭",
+        "id": 8004371,
+        "alias": "UI.Bopae.Craft",
+        "text": "织物"
+    },
+    "8004372": {
+        "deprecated": false,
+        "Dev_Desc": "보패 / 보패 장착 / 세트효과 / n세트",
+        "id": 8004372,
+        "alias": "UI.Bopae.Equip.SetEffect.Desc",
+        "text": "<arg p = [1：整数] />集合"
+    },
+    "8004373": {
+        "deprecated": false,
+        "Dev_Desc": "보패 / 보패 장착 / 장착 능력치",
+        "id": 8004373,
+        "alias": "UI.Bopae.Equip.Effect",
+        "text": "安装能力"
+    },
+    "8004374": {
+        "deprecated": false,
+        "Dev_Desc": "보패 / 보패 장착 / 세트효과 버튼",
+        "id": 8004374,
+        "alias": "UI.Bopae.Equip.SetEffect",
+        "text": "设定效果"
+    },
+    "8004375": {
+        "deprecated": false,
+        "Dev_Desc": "보패 / 보패 장착 / 세트효과 팝업 타이틀",
+        "id": 8004375,
+        "alias": "UI.Bopae.Equip.SetEffect.Title",
+        "text": "设定效果"
+    },
+    "8004376": {
+        "deprecated": false,
+        "Dev_Desc": "보패 / 보패 장착 / 소지품창 타이틀",
+        "id": 8004376,
+        "alias": "UI.Bopae.Equip.InventoryTitle.Bopae",
+        "text": "纸"
+    },
+    "8004377": {
+        "deprecated": false,
+        "Dev_Desc": "보패 / 보패 장착 / 프리셋1",
+        "id": 8004377,
+        "alias": "UI.Bopae.Equip.Preset.1",
+        "text": "一"
+    },
+    "8004378": {
+        "deprecated": false,
+        "Dev_Desc": "보패 / 보패 장착 / 프리셋2",
+        "id": 8004378,
+        "alias": "UI.Bopae.Equip.Preset.2",
+        "text": "2"
+    },
+    "8004379": {
+        "deprecated": false,
+        "Dev_Desc": "보패 / 보패 장착 / 프리셋3",
+        "id": 8004379,
+        "alias": "UI.Bopae.Equip.Preset.3",
+        "text": "3."
+    },
+    "8004380": {
+        "deprecated": false,
+        "Dev_Desc": "거래소 / 분류 / 보패",
+        "id": 8004380,
+        "alias": "UI.Trade.Category.SoulShieldPiece",
+        "text": "纸"
+    },
+    "8004381": {
+        "deprecated": false,
+        "Dev_Desc": "거래소 / 분류 / 보패 / 전체",
+        "id": 8004381,
+        "alias": "UI.Trade.Category.SoulShieldPiece.All",
+        "text": "全部"
+    },
+    "8004382": {
+        "deprecated": false,
+        "Dev_Desc": "거래소 / 분류 / 보패 / 1번 보패",
+        "id": 8004382,
+        "alias": "UI.Trade.Category.SoulShieldPiece.1",
+        "text": "第1号"
+    },
+    "8004383": {
+        "deprecated": false,
+        "Dev_Desc": "거래소 / 분류 / 보패 / 2번 보패",
+        "id": 8004383,
+        "alias": "UI.Trade.Category.SoulShieldPiece.2",
+        "text": "2次"
+    },
+    "8004384": {
+        "deprecated": false,
+        "Dev_Desc": "거래소 / 분류 / 보패 / 3번 보패",
+        "id": 8004384,
+        "alias": "UI.Trade.Category.SoulShieldPiece.3",
+        "text": "3次"
+    },
+    "8004385": {
+        "deprecated": false,
+        "Dev_Desc": "거래소 / 분류 / 보패 / 4번 보패",
+        "id": 8004385,
+        "alias": "UI.Trade.Category.SoulShieldPiece.4",
+        "text": "4次"
+    },
+    "8004386": {
+        "deprecated": false,
+        "Dev_Desc": "거래소 / 분류 / 보패 / 5번 보패",
+        "id": 8004386,
+        "alias": "UI.Trade.Category.SoulShieldPiece.5",
+        "text": "5次"
+    },
+    "8004387": {
+        "deprecated": false,
+        "Dev_Desc": "거래소 / 분류 / 보패 / 6번 보패",
+        "id": 8004387,
+        "alias": "UI.Trade.Category.SoulShieldPiece.6",
+        "text": "6次"
+    },
+    "8004388": {
+        "deprecated": false,
+        "Dev_Desc": "거래소 / 분류 / 보패 / 7번 보패",
+        "id": 8004388,
+        "alias": "UI.Trade.Category.SoulShieldPiece.7",
+        "text": "7次"
+    },
+    "8004389": {
+        "deprecated": false,
+        "Dev_Desc": "거래소 / 분류 / 보패 / 8번 보패",
+        "id": 8004389,
+        "alias": "UI.Trade.Category.SoulShieldPiece.8",
+        "text": "8次"
+    },
+    "8004390": {
+        "deprecated": false,
+        "Dev_Desc": "아이템 / 아이템 소분류 / ",
+        "id": 8004390,
+        "alias": "UI.Item.ItemType.SoulShieldPiece1",
+        "text": "第1号"
+    },
+    "8004391": {
+        "deprecated": false,
+        "Dev_Desc": "아이템 / 아이템 소분류 / ",
+        "id": 8004391,
+        "alias": "UI.Item.ItemType.SoulShieldPiece2",
+        "text": "2次"
+    },
+    "8004392": {
+        "deprecated": false,
+        "Dev_Desc": "아이템 / 아이템 소분류 / ",
+        "id": 8004392,
+        "alias": "UI.Item.ItemType.SoulShieldPiece3",
+        "text": "3次"
+    },
+    "8004393": {
+        "deprecated": false,
+        "Dev_Desc": "아이템 / 아이템 소분류 / ",
+        "id": 8004393,
+        "alias": "UI.Item.ItemType.SoulShieldPiece4",
+        "text": "4次"
+    },
+    "8004394": {
+        "deprecated": false,
+        "Dev_Desc": "아이템 / 아이템 소분류 / ",
+        "id": 8004394,
+        "alias": "UI.Item.ItemType.SoulShieldPiece5",
+        "text": "5次"
+    },
+    "8004395": {
+        "deprecated": false,
+        "Dev_Desc": "아이템 / 아이템 소분류 / ",
+        "id": 8004395,
+        "alias": "UI.Item.ItemType.SoulShieldPiece6",
+        "text": "6次"
+    },
+    "8004396": {
+        "deprecated": false,
+        "Dev_Desc": "아이템 / 아이템 소분류 / ",
+        "id": 8004396,
+        "alias": "UI.Item.ItemType.SoulShieldPiece7",
+        "text": "7次"
+    },
+    "8004397": {
+        "deprecated": false,
+        "Dev_Desc": "아이템 / 아이템 소분류 / ",
+        "id": 8004397,
+        "alias": "UI.Item.ItemType.SoulShieldPiece8",
+        "text": "8次"
+    },
+    "8004398": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 장비",
+        "id": 8004398,
+        "alias": "UI.Craft.CustomCategory.Equipment",
+        "text": "设备"
+    },
+    "8004399": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 무기",
+        "id": 8004399,
+        "alias": "UI.Craft.CustomCategory.Weapon",
+        "text": "武器"
+    },
+    "8004400": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 검",
+        "id": 8004400,
+        "alias": "UI.Craft.CustomCategory.Sword",
+        "text": "刀"
+    },
+    "8004401": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 권갑",
+        "id": 8004401,
+        "alias": "UI.Craft.CustomCategory.Gauntlet",
+        "text": "绕组"
+    },
+    "8004402": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 도끼",
+        "id": 8004402,
+        "alias": "UI.Craft.CustomCategory.Axe",
+        "text": "斧头"
+    },
+    "8004403": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 활",
+        "id": 8004403,
+        "alias": "UI.Craft.CustomCategory.Bow",
+        "text": "弓"
+    },
+    "8004404": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 기공패",
+        "id": 8004404,
+        "alias": "UI.Craft.CustomCategory.Bangle",
+        "text": "Porcelah."
+    },
+    "8004405": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 법종",
+        "id": 8004405,
+        "alias": "UI.Craft.CustomCategory.RitualBell",
+        "text": "网格"
+    },
+    "8004406": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 방어구",
+        "id": 8004406,
+        "alias": "UI.Craft.CustomCategory.Armor",
+        "text": "盔甲"
+    },
+    "8004407": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 흉갑",
+        "id": 8004407,
+        "alias": "UI.Craft.CustomCategory.BreastPlate",
+        "text": "胸甲"
+    },
+    "8004408": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 장갑",
+        "id": 8004408,
+        "alias": "UI.Craft.CustomCategory.ArmGuard",
+        "text": "手套"
+    },
+    "8004409": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 허리띠",
+        "id": 8004409,
+        "alias": "UI.Craft.CustomCategory.Belt",
+        "text": "腰带"
+    },
+    "8004410": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 각반",
+        "id": 8004410,
+        "alias": "UI.Craft.CustomCategory.LegGuard",
+        "text": "绑腿"
+    },
+    "8004411": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 신발",
+        "id": 8004411,
+        "alias": "UI.Craft.CustomCategory.Shoe",
+        "text": "鞋"
+    },
+    "8004412": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 어깨보호구",
+        "id": 8004412,
+        "alias": "UI.Craft.CustomCategory.Shoulder",
+        "text": "抱歉"
+    },
+    "8004413": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 영갑",
+        "id": 8004413,
+        "alias": "UI.Craft.CustomCategory.SoulArmor",
+        "text": "人类"
+    },
+    "8004414": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 장신구",
+        "id": 8004414,
+        "alias": "UI.Craft.CustomCategory.Accessorry",
+        "text": "配件"
+    },
+    "8004415": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 귀걸이",
+        "id": 8004415,
+        "alias": "UI.Craft.CustomCategory.Earring",
+        "text": "耳环"
+    },
+    "8004416": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 목걸이",
+        "id": 8004416,
+        "alias": "UI.Craft.CustomCategory.LeckLace",
+        "text": "项链"
+    },
+    "8004417": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 반지",
+        "id": 8004417,
+        "alias": "UI.Craft.CustomCategory.Ring",
+        "text": "戒指"
+    },
+    "8004418": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 팔찌",
+        "id": 8004418,
+        "alias": "UI.Craft.CustomCategory.Bracelet",
+        "text": "手镯"
+    },
+    "8004419": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 노리개",
+        "id": 8004419,
+        "alias": "UI.Craft.CustomCategory.Norigae",
+        "text": "羽毛"
+    },
+    "8004420": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 기타",
+        "id": 8004420,
+        "alias": "UI.Craft.CustomCategory.etc",
+        "text": "其他"
+    },
+    "8004421": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 상자",
+        "id": 8004421,
+        "alias": "UI.Craft.CustomCategory.RewardBox",
+        "text": "盒子"
+    },
+    "8004422": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 의상 주머니",
+        "id": 8004422,
+        "alias": "UI.Craft.CustomCategory.ClothBox",
+        "text": "服装口袋"
+    },
+    "8004423": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 언령석 상자",
+        "id": 8004423,
+        "alias": "UI.Craft.CustomCategory.SmeltingStoneBox",
+        "text": "主要框"
+    },
+    "8004424": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 무공서",
+        "id": 8004424,
+        "alias": "UI.Craft.CustomCategory.SkillSetScroll",
+        "text": "不稳定"
+    },
+    "8004425": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 공용",
+        "id": 8004425,
+        "alias": "UI.Craft.CustomCategory.Common",
+        "text": "民众"
+    },
+    "8004426": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 정수",
+        "id": 8004426,
+        "alias": "UI.Craft.CustomCategory.SoulStone",
+        "text": "本质"
+    },
+    "8004427": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 재료",
+        "id": 8004427,
+        "alias": "UI.Craft.CustomCategory.Resource",
+        "text": "材料"
+    },
+    "8004428": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 비약",
+        "id": 8004428,
+        "alias": "UI.Craft.CustomCategory.AddStatPoint",
+        "text": "航班"
+    },
+    "8004429": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 제작 비법서",
+        "id": 8004429,
+        "alias": "UI.Craft.CustomCategory.CraftScroll",
+        "text": "秘书"
+    },
+    "8004430": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 강화 주문서",
+        "id": 8004430,
+        "alias": "UI.Craft.CustomCategory.EnchantScroll",
+        "text": "订单表"
+    },
+    "8004431": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 시간 충전석",
+        "id": 8004431,
+        "alias": "UI.Craft.CustomCategory.TimeStone",
+        "text": "充电石头"
+    },
+    "8004432": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 이벤트",
+        "id": 8004432,
+        "alias": "UI.Craft.CustomCategory.Event",
+        "text": "事件"
+    },
+    "8004433": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 재회의 약속 증표",
+        "id": 8004433,
+        "alias": "UI.Craft.CustomCategory.AfterPromise_01",
+        "text": "reunion承诺令牌"
+    },
+    "8004434": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 탄생의 조각",
+        "id": 8004434,
+        "alias": "UI.Craft.CustomCategory.BornPiece_01",
+        "text": "诞生片段"
+    },
+    "8004435": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / Happy 200 Days!",
+        "id": 8004435,
+        "alias": "UI.Craft.CustomCategory.Happy200_01",
+        "text": "快乐200天！"
+    },
+    "8004436": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 소울/수호령 제작서",
+        "id": 8004436,
+        "alias": "UI.Craft.CustomCategory.FourMaster_01",
+        "text": "灵魂/仪式制作"
+    },
+    "8004437": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 협행 완료패",
+        "id": 8004437,
+        "alias": "UI.Craft.CustomCategory.PassTicket_01",
+        "text": "形成"
+    },
+    "8004438": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 시간의 조각",
+        "id": 8004438,
+        "alias": "UI.Craft.CustomCategory.Time",
+        "text": "一段时间"
+    },
+    "8004439": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 문파 보스 소환서",
+        "id": 8004439,
+        "alias": "UI.Craft.CustomCategory.GuildRaid",
+        "text": "Moon Pa Boss Summoner"
+    },
+    "8004440": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 빛나는 정수",
+        "id": 8004440,
+        "alias": "UI.Craft.CustomCategory.EssencePieces",
+        "text": "发光整数"
+    },
+    "8004441": {
+        "deprecated": false,
+        "Dev_Desc": "메인 매뉴 내 절전 모드",
+        "id": 8004441,
+        "alias": "UI.MainMenu.Icon.SaveMode",
+        "text": "睡眠模式"
+    },
+    "8004442": {
+        "deprecated": false,
+        "Dev_Desc": "파티 / 파티던전",
+        "id": 8004442,
+        "alias": "UI.PartyDungeon.Text.ResultClear",
+        "text": "成功成功"
+    },
+    "8004443": {
+        "deprecated": false,
+        "Dev_Desc": "파티 / 파티던전",
+        "id": 8004443,
+        "alias": "UI.PartyDungeon.Text.ResultFail",
+        "text": "失败失败"
+    },
+    "8004444": {
+        "deprecated": false,
+        "Dev_Desc": "무공 강화창 설명",
+        "id": 8004444,
+        "alias": "UI.Skill.Enhance.Desc",
+        "text": "你想充足秘诀来加强吗？"
+    },
+    "8004445": {
+        "deprecated": false,
+        "Dev_Desc": "창고 / 자동 보관 / 설명",
+        "id": 8004445,
+        "alias": "UI.Stash.AutoKeep.Desc",
+        "text": "所选项目的最大数量放在要保留的项目列表中。"
+    },
+    "8004446": {
+        "deprecated": false,
+        "Dev_Desc": "잡화상점 / 자동 보관 / 설명",
+        "id": 8004446,
+        "alias": "UI.Shop.AutoKeep.Desc",
+        "text": "所选项目的最大数量位于\\n购物车中。"
+    },
+    "8004447": {
+        "deprecated": false,
+        "Dev_Desc": "장비도감 / 대체 버튼",
+        "id": 8004447,
+        "alias": "UI.Item.buttonName.Replace",
+        "text": "如何"
+    },
+    "8004448": {
+        "deprecated": false,
+        "Dev_Desc": "HUD / 채팅 단축키",
+        "id": 8004448,
+        "alias": "UI.HUD.ChatUIShortcut",
+        "text": "进入"
+    },
+    "8004449": {
+        "deprecated": false,
+        "Dev_Desc": "장비도감 / 대체 팝업 / 타이틀",
+        "id": 8004449,
+        "alias": "UI.EquipCollection.Replace.Title",
+        "text": "请选择要注册的项目。"
+    },
+    "8004450": {
+        "deprecated": false,
+        "Dev_Desc": "장비도감 / 대체 팝업 / 타이틀 / 등록된 항목",
+        "id": 8004450,
+        "alias": "UI.EquipCollection.Replace.Title.Complete",
+        "text": "更换商品"
+    },
+    "8004451": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 염화 무기",
+        "id": 8004451,
+        "alias": "UI.Craft.CustomCategory.PartyDungeon",
+        "text": "武器"
+    },
+    "8004452": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 시간의 소환서",
+        "id": 8004452,
+        "alias": "UI.Craft.CustomCategory.FourMaster_02",
+        "text": "时间摘要"
+    },
+    "8004453": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 천하 사절",
+        "id": 8004453,
+        "alias": "UI.Craft.CustomCategory.FourMaster_03",
+        "text": "区"
+    },
+    "8004454": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 영교원",
+        "id": 8004454,
+        "alias": "UI.Craft.CustomCategory.FourMaster_04",
+        "text": "精神服务"
+    },
+    "8004455": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 묵화",
+        "id": 8004455,
+        "alias": "UI.Craft.CustomCategory.FourMaster_05",
+        "text": "陈国"
+    },
+    "8004456": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 테스트",
+        "id": 8004456,
+        "alias": "UI.Craft.CustomCategory.TestOnly",
+        "text": "测试标签"
+    },
+    "8004457": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 조작 / 편의 / 편의 / 소모품 자동 사용 그룹 기능",
+        "id": 8004457,
+        "alias": "UI.Option.Control.Convenience.Convenience.GroceryAutoUseGroup",
+        "text": "自动使用耗材"
+    },
+    "8004458": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 조작 / 편의 / 편의 / 소모품 자동 사용 그룹 기능 / 설명",
+        "id": 8004458,
+        "alias": "UI.Option.Control.Convenience.Convenience.GroceryAutoUseGroup.Desc",
+        "text": "使用消耗品时，使用与相同类型的优先级相同类型的项目。 \\n\\n高评级 - >事件 - >雕刻 - >非网"
+    },
+    "8004459": {
+        "deprecated": false,
+        "Dev_Desc": "캐시 상점 / 마일리지 탭 / 이벤트 의상",
+        "id": 8004459,
+        "alias": "UI.CashShop.TapName.Sub.Mileage5",
+        "text": "活动服装"
+    },
+    "8004460": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 탭 / 무원의 탑",
+        "id": 8004460,
+        "alias": "UI.Dungeon.Tap.InfiniteTower",
+        "text": "顶部培训"
+    },
+    "8004461": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 봉인된 상자",
+        "id": 8004461,
+        "alias": "UI.Craft.CustomCategory.SealedBox",
+        "text": "密封盒子"
+    },
+    "8004462": {
+        "deprecated": false,
+        "Dev_Desc": "보상획득권 / SubTypeName",
+        "id": 8004462,
+        "alias": "UI.Item.ItemType.PartyDungeonStone",
+        "text": "奖励获取"
+    },
+    "8004463": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 운명석",
+        "id": 8004463,
+        "alias": "UI.Craft.CustomCategory.FateStone",
+        "text": "燃料座椅"
     }
 }

@@ -7737,7 +7737,7 @@
         "Dev_Desc": "채팅 시스템 메시지 / 아이템 획득 / 강화 단계 포함",
         "id": 9001167,
         "alias": "SysM.ChatSysM.GetItem.Enchanted",
-        "text": "<<arg p=[1:string]/>>+<arg p=[2:string]/><arg p=[3:string]/></><<arg p=[4:string]/>> <arg p=[5:string]/> obtained</>"
+        "text": "<<arg p=[1:string]/>>+<arg p=[2:string]/> <arg p=[3:string]/></><<arg p=[4:string]/>> <arg p=[5:string]/> obtained</>"
     },
     "9001168": {
         "deprecated": false,
@@ -7865,26 +7865,12 @@
         "alias": "SysM.Galaxy.MsgT.MinMax",
         "text": "Adjustable minimum or maximum value."
     },
-    "9001186": {
-        "deprecated": false,
-        "Dev_Desc": "별자리 / 재료 부족 상태에서 각인 진행 버튼을 누른 경우",
-        "id": 9001186,
-        "alias": "SysM.Galaxy.MsgT.Imprint.ResourceLack",
-        "text": "The material is not sufficient."
-    },
-    "9001187": {
-        "deprecated": false,
-        "Dev_Desc": "별자리 / 이전 단계 각인이 완료되지 않은 점을 선택하여 각인 시도",
-        "id": 9001187,
-        "alias": "SysM.Galaxy.MsgT.Select.ReqPrev",
-        "text": "It is a star that can not be engraved yet."
-    },
     "9001188": {
         "deprecated": false,
         "Dev_Desc": "별자리 / 구간을 이루는 점을 모두 각인하였을 때 표시되는 메시지",
         "id": 9001188,
         "alias": "SysM.Galaxy.MsgT.ZoneBonus.Achieved",
-        "text": "<arg p=[1:string]/>listens to all <arg p=[1:string]/>end."
+        "text": "<arg p=[1:string]/listens to all <arg p=[1:string]/end."
     },
     "9001189": {
         "deprecated": false,
@@ -7948,5 +7934,40 @@
         "id": 9001197,
         "alias": "SysM.Market.ResetButton.Cooltime",
         "text": "Refresh after a while."
+    },
+    "9001198": {
+        "deprecated": false,
+        "Dev_Desc": "시스템메시지 / 레벨업 / Lv",
+        "id": 9001198,
+        "alias": "SysM.LevelUp.Lv",
+        "text": "Lv."
+    },
+    "9001199": {
+        "deprecated": false,
+        "Dev_Desc": "비속어 에러 메시지",
+        "id": 9001199,
+        "alias": "SysM.CannotInputSlang",
+        "text": "You can not enter it and can not be entered."
+    },
+    "9001200": {
+        "deprecated": false,
+        "Dev_Desc": "파티 수락 실패 / 이미 파티 가입",
+        "id": 9001200,
+        "alias": "SysM.Party.AcceptFail.7",
+        "text": "In the party dungeon, the party invitation has been canceled."
+    },
+    "9001201": {
+        "deprecated": false,
+        "Dev_Desc": "파티 수락 실패 / 파티원 가득 참",
+        "id": 9001201,
+        "alias": "SysM.Party.AcceptFail.8",
+        "text": "Party invitation has been canceled within a party dungeon."
+    },
+    "9001202": {
+        "deprecated": false,
+        "Dev_Desc": "보패 / 프리셋 변경",
+        "id": 9001202,
+        "alias": "SysM.Bopae.Equip",
+        "text": "<arg p = [1: Integer] /> Number of prefix combinations."
     }
 }

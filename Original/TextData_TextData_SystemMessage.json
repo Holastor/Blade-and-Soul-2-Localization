@@ -7702,21 +7702,21 @@
         "Dev_Desc": "별자리 / 성공 확률 조정 한계 메시지 (프로그레시브 성장 기능)",
         "id": 9001162,
         "alias": "SysM.Galaxy.MsgT.MinMax",
-        "text": "조정 가능한 최소 또는 최대값입니다."
+        "text": "성공확률이 최대치인 상태입니다."
     },
     "9001163": {
         "deprecated": false,
         "Dev_Desc": "별자리 / 재료 부족 상태에서 각인 진행 버튼을 누른 경우",
         "id": 9001163,
         "alias": "SysM.Galaxy.MsgT.Imprint.ResourceLack",
-        "text": "재료가 충분하지 않습니다."
+        "text": "아이템이 부족하여 각인할 수 없습니다."
     },
     "9001164": {
         "deprecated": false,
         "Dev_Desc": "별자리 / 이전 단계 각인이 완료되지 않은 점을 선택하여 각인 시도",
         "id": 9001164,
         "alias": "SysM.Galaxy.MsgT.Select.ReqPrev",
-        "text": "아직 각인할 수 없는 별입니다."
+        "text": "이전 단계 완료 후 각인 가능합니다."
     },
     "9001165": {
         "deprecated": false,
@@ -7863,21 +7863,7 @@
         "Dev_Desc": "별자리 / 성공 확률 조정 한계 메시지 (프로그레시브 성장 기능)",
         "id": 9001185,
         "alias": "SysM.Galaxy.MsgT.MinMax",
-        "text": "조정 가능한 최소 또는 최대값입니다."
-    },
-    "9001186": {
-        "deprecated": false,
-        "Dev_Desc": "별자리 / 재료 부족 상태에서 각인 진행 버튼을 누른 경우",
-        "id": 9001186,
-        "alias": "SysM.Galaxy.MsgT.Imprint.ResourceLack",
-        "text": "재료가 충분하지 않습니다."
-    },
-    "9001187": {
-        "deprecated": false,
-        "Dev_Desc": "별자리 / 이전 단계 각인이 완료되지 않은 점을 선택하여 각인 시도",
-        "id": 9001187,
-        "alias": "SysM.Galaxy.MsgT.Select.ReqPrev",
-        "text": "아직 각인할 수 없는 별입니다."
+        "text": "성공확률이 최대치인 상태입니다."
     },
     "9001188": {
         "deprecated": false,
@@ -7948,5 +7934,40 @@
         "id": 9001197,
         "alias": "SysM.Market.ResetButton.Cooltime",
         "text": "잠시 후 새로 고침이 가능합니다."
+    },
+    "9001198": {
+        "deprecated": false,
+        "Dev_Desc": "시스템메시지 / 레벨업 / Lv",
+        "id": 9001198,
+        "alias": "SysM.LevelUp.Lv",
+        "text": "Lv."
+    },
+    "9001199": {
+        "deprecated": false,
+        "Dev_Desc": "비속어 에러 메시지",
+        "id": 9001199,
+        "alias": "SysM.CannotInputSlang",
+        "text": "비속어가 포함되어 입력할 수 없습니다."
+    },
+    "9001200": {
+        "deprecated": false,
+        "Dev_Desc": "파티 수락 실패 / 이미 파티 가입",
+        "id": 9001200,
+        "alias": "SysM.Party.AcceptFail.7",
+        "text": "파티 던전 내에 있어 파티 초대가 취소되었습니다."
+    },
+    "9001201": {
+        "deprecated": false,
+        "Dev_Desc": "파티 수락 실패 / 파티원 가득 참",
+        "id": 9001201,
+        "alias": "SysM.Party.AcceptFail.8",
+        "text": "파티장이 파티 던전 내에 있어 파티 초대가 취소되었습니다."
+    },
+    "9001202": {
+        "deprecated": false,
+        "Dev_Desc": "보패 / 프리셋 변경",
+        "id": 9001202,
+        "alias": "SysM.Bopae.Equip",
+        "text": "<arg p=[1:integer]/>번 보패 조합을 장착했습니다."
     }
 }

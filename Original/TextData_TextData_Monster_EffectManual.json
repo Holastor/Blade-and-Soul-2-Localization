@@ -789,5 +789,89 @@
         "id": 61000113,
         "alias": "Contents.Effect.Option.Monster.233581712",
         "text": "이동속도 감소율 +90%"
+    },
+    "61000114": {
+        "deprecated": false,
+        "Dev_Desc": "잿빛모래시계_금빛기운_2단계_PC이속증가_이름",
+        "id": 61000114,
+        "alias": "Contents.Effect.Name.Monster.212660048",
+        "text": "금빛 기운"
+    },
+    "61000115": {
+        "deprecated": false,
+        "Dev_Desc": "잿빛모래시계_금빛기운_2단계_PC이속증가_설명",
+        "id": 61000115,
+        "alias": "Contents.Effect.Desc.Monster.212660048",
+        "text": "이동속도 증가"
+    },
+    "61000116": {
+        "deprecated": false,
+        "Dev_Desc": "잿빛모래시계_금빛기운_2단계_PC이속증가_옵션",
+        "id": 61000116,
+        "alias": "Contents.Effect.Option.Monster.212660048",
+        "text": "이동속도 증가율 +70%"
+    },
+    "61000117": {
+        "deprecated": false,
+        "Dev_Desc": "얼음꽃_이름",
+        "id": 61000117,
+        "alias": "Contents.Effect.Name.Monster.1014522",
+        "text": "얼음꽃"
+    },
+    "61000118": {
+        "deprecated": false,
+        "Dev_Desc": "얼음꽃_설명",
+        "id": 61000118,
+        "alias": "Contents.Effect.Desc.Monster.1014522",
+        "text": "얼음꽃 효과 발동"
+    },
+    "61000119": {
+        "deprecated": false,
+        "Dev_Desc": "얼음꽃_옵션",
+        "id": 61000119,
+        "alias": "Contents.Effect.Option.Monster.1014522",
+        "text": "3초 동안 얼음꽃 효과 발동"
+    },
+    "61000120": {
+        "deprecated": false,
+        "Dev_Desc": "보스, 염화대성_디버프_스택1_둔화_이름",
+        "id": 61000120,
+        "alias": "Contents.Effect.Name.Monster.212660061",
+        "text": "둔화"
+    },
+    "61000121": {
+        "deprecated": false,
+        "Dev_Desc": "보스, 염화대성_디버프_스택1_둔화_설명",
+        "id": 61000121,
+        "alias": "Contents.Effect.Desc.Monster.212660061",
+        "text": "이동속도 감소"
+    },
+    "61000122": {
+        "deprecated": false,
+        "Dev_Desc": "보스, 염화대성_디버프_스택1_둔화_옵션",
+        "id": 61000122,
+        "alias": "Contents.Effect.Option.Monster.212660061",
+        "text": "이동속도 감소율 +70%"
+    },
+    "61000123": {
+        "deprecated": false,
+        "Dev_Desc": "보스, 염화대성_디버프_스택2_석화_이름",
+        "id": 61000123,
+        "alias": "Contents.Effect.Name.Monster.212660062",
+        "text": "석화"
+    },
+    "61000124": {
+        "deprecated": false,
+        "Dev_Desc": "보스, 염화대성_디버프_스택2_석화_설명",
+        "id": 61000124,
+        "alias": "Contents.Effect.Desc.Monster.212660062",
+        "text": "석화 상태"
+    },
+    "61000125": {
+        "deprecated": false,
+        "Dev_Desc": "보스, 염화대성_디버프_스택2_석화_옵션",
+        "id": 61000125,
+        "alias": "Contents.Effect.Option.Monster.212660062",
+        "text": "이동 불가\n무공 사용 불가\n일부 아이템 사용 불가"
     }
 }

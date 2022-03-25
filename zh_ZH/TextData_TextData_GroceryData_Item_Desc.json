@@ -13951,66 +13951,77 @@
     },
     "99002593": {
         "deprecated": false,
+        "Dev_Desc": "봉마함 I(각인)",
         "id": 99002593,
         "alias": "Contents.Item.Desc.9900206",
         "text": "使用时有几率获得以下物品\n\n-匠人的证\n-闪耀的的灵魂碎片(绑定)\n稀有装备\n-稀有装备制作材料"
     },
     "99002594": {
         "deprecated": false,
+        "Dev_Desc": "봉마함 II(각인)",
         "id": 99002594,
         "alias": "Contents.Item.Desc.9900207",
         "text": "使用时有几率获得以下物品\n\n-匠人的证\n-闪耀的的灵魂碎片(绑定)\n稀有装备\n-稀有装备制作材料"
     },
     "99002595": {
         "deprecated": false,
+        "Dev_Desc": "봉마함 III(각인)",
         "id": 99002595,
         "alias": "Contents.Item.Desc.9900208",
         "text": "使用时有几率获得以下物品\n\n-匠人的证\n-闪耀的的灵魂碎片(绑定)\n稀有装备\n-稀有装备制作材料"
     },
     "99002596": {
         "deprecated": false,
+        "Dev_Desc": "초령목 소울 파편(각인)",
         "id": 99002596,
         "alias": "Contents.Item.Desc.9900209",
         "text": "使用可获得一个超灵灵魂碎片<br/>(转：英雄)"
     },
     "99002597": {
         "deprecated": false,
+        "Dev_Desc": "폭주 수호병 대장 소울 파편(각인)",
         "id": 99002597,
         "alias": "Contents.Item.Desc.9900210",
         "text": "使用可获得1个暴走守护兵队长灵魂碎片.<br/>(等级：英雄)"
     },
     "99002598": {
         "deprecated": false,
+        "Dev_Desc": "홍매화 소울 파편(각인)",
         "id": 99002598,
         "alias": "Contents.Item.Desc.9900211",
         "text": "使用可获得1个红梅灵魂碎片<br/>(等级：英雄)"
     },
     "99002599": {
         "deprecated": false,
+        "Dev_Desc": "동충 소울 파편(각인)",
         "id": 99002599,
         "alias": "Contents.Item.Desc.9900212",
         "text": "使用可获得1个冬虫索尔碎片<br/>(等级：英雄)"
     },
     "99002600": {
         "deprecated": false,
+        "Dev_Desc": "낙원대성 소울 파편(각인)",
         "id": 99002600,
         "alias": "Contents.Item.Desc.9900213",
         "text": "使用可获得一个乐园大灵魂碎片<br/>(等级：英雄)"
     },
     "99002601": {
         "deprecated": false,
+        "Dev_Desc": "풍신 소울 파편(각인)",
         "id": 99002601,
         "alias": "Contents.Item.Desc.9900214",
         "text": "使用可获得1个风神灵魂碎片<br/>(等级：英雄)"
     },
     "99002602": {
         "deprecated": false,
+        "Dev_Desc": "뇌신 소울 파편(각인)",
         "id": 99002602,
         "alias": "Contents.Item.Desc.9900215",
         "text": "使用可获得1个雷神灵魂碎片<br/>(等级：英雄)"
     },
     "99002603": {
         "deprecated": false,
+        "Dev_Desc": "홍돈삼 소울 파편(각인)",
         "id": 99002603,
         "alias": "Contents.Item.Desc.9900216",
         "text": "使用可获得1个红钱三灵魂碎片<br/>(等级：英雄)"
@@ -21629,28 +21640,28 @@
         "deprecated": false,
         "Dev_Desc": "희생의 영웅 소울 소환서(3회)(이벤트)",
         "id": 99003740,
-        "alias": "Contents.Item.Desc.9901396",
+        "alias": "Contents.Item.Desc.9300393",
         "text": "您可以根据使用可能性获得灵魂。 <br/>（评分：英雄）"
     },
     "99003741": {
         "deprecated": false,
         "Dev_Desc": "희생의 빛나는 소울 소환서(11회)(이벤트)",
         "id": 99003741,
-        "alias": "Contents.Item.Desc.9901397",
+        "alias": "Contents.Item.Desc.9300394",
         "text": "您可以根据使用可能性获得灵魂。 <br/>（评分：一般〜英雄）"
     },
     "99003742": {
         "deprecated": false,
         "Dev_Desc": "희생의 빛나는 수호령 소환서(11회)(이벤트)",
         "id": 99003742,
-        "alias": "Contents.Item.Desc.9901398",
+        "alias": "Contents.Item.Desc.9300395",
         "text": "取决于使用的可能性，您可以获得主。 <br/>（评分：一般〜英雄）"
     },
     "99003743": {
         "deprecated": false,
         "Dev_Desc": "희귀 수호령 확정 소환서(이벤트)",
         "id": 99003743,
-        "alias": "Contents.Item.Desc.9901399",
+        "alias": "Contents.Item.Desc.9300396",
         "text": "取决于使用的可能性，您可以获得主。 <br/>（评分：罕见）"
     },
     "99003744": {
@@ -21666,5 +21677,383 @@
         "id": 99003745,
         "alias": "Contents.Item.Desc.9300391",
         "text": "祝贺出生和〜！使用\\n\\n。"
+    },
+    "99003746": {
+        "deprecated": false,
+        "Dev_Desc": "희생의 특별 희귀 무기 선택 상자",
+        "id": 99003746,
+        "alias": "Contents.Item.Desc.9901397",
+        "text": "使用时，您可以选择以下文章之一：\\n\\n  -  7人民（刻）\\n  -  7 Wutheon的手（雕刻）\\n  -  7原始呼叫（雕刻）\\n  -  7打印剑）\\n  - "
+    },
+    "99003747": {
+        "deprecated": false,
+        "Dev_Desc": "희생의 특별 희귀 방어구 지원 상자",
+        "id": 99003747,
+        "alias": "Contents.Item.Desc.9901398",
+        "text": "使用以下物品时，您可以获得所有项目：\\n\\n  -  5 cucket（刻）\\n  -  5 Palas（刻）\\n  -  5保留Tae Sai（雕刻）\\n  -  5返回（刻）\\n  -  5公共关系（刻）"
+    },
+    "99003748": {
+        "deprecated": false,
+        "Dev_Desc": "잊혀진 심연의 방어구 선택 상자(각인)",
+        "id": 99003748,
+        "alias": "Contents.Item.Desc.9901399",
+        "text": "您可以选择以下文章之一：\\n\\n  - 一个偏要的心脏（刻））一个\\n  - 一个被遗忘的手套（刻）1 \\n  - 一个被遗忘的，腰带（刻）\\n  - 一个忘记的abys（雕刻）一个\\n  - 忘记了深渊（刻）1 \\n  - 一个被遗忘的深渊（刻）1"
+    },
+    "99003749": {
+        "deprecated": false,
+        "Dev_Desc": "보상 획득권: 희생의 무덤(이벤트)",
+        "id": 99003749,
+        "alias": "Contents.Item.Desc.9300392",
+        "text": "这是一个可以收取牺牲的严重补偿的数量。"
+    },
+    "99003750": {
+        "deprecated": false,
+        "Dev_Desc": "희생의 장신구 상자(이벤트)",
+        "id": 99003750,
+        "alias": "Contents.Item.Desc.9300397",
+        "text": "您可以获得以下所有项目：\\n\\n  -  3次火焰\\n  -  3火焰\\n  -  3 villas \\n  -  3脑咆哮"
+    },
+    "99003751": {
+        "deprecated": false,
+        "Dev_Desc": "희생의 장비 재료 상자(이벤트)",
+        "id": 99003751,
+        "alias": "Contents.Item.Desc.9300398",
+        "text": "您可以获得以下所有项目：\\n\\n  - 被遗忘的英雄武器产生武器（雕刻）（雕刻）。狗\\n  - 金蛋（刻）1000 \\n  - 工艺100000"
+    },
+    "99003752": {
+        "deprecated": false,
+        "Dev_Desc": "희생의 급속 성장 상자(이벤트)",
+        "id": 99003752,
+        "alias": "Contents.Item.Desc.9300399",
+        "text": "您可以获得以下所有项目：\\n\\n  -  Yoo，Yoo，Yoo Sewo（刻）30 \\n  - 整数碎片（刻）100 \\n  - 每月常规（事件）60 \\n  - 退伍军人（雕刻）15 \\n  -  Gold ：100.00（雕刻）100"
+    },
+    "99003753": {
+        "deprecated": false,
+        "Dev_Desc": "강화 주문서 꾸러미(이벤트)",
+        "id": 99003753,
+        "alias": "Contents.Item.Desc.9300400",
+        "text": "您可以获得以下所有项目：\\n\\n  - 武器强化订单（刻）300 \\n  -  armor强化订单（刻）500 \\n  - 珠宝加强订单（刻）100"
+    },
+    "99003754": {
+        "deprecated": false,
+        "Dev_Desc": "희생의 무덤 특별 상자(이벤트)",
+        "id": 99003754,
+        "alias": "Contents.Item.Desc.9300401",
+        "text": "您可以获得以下所有项目：\\n\\n  - 英雄灵魂摘要（3次）（事件）（事件）（事件）（事件）1（事件）1 \\n  - 牺牲珠宝盒（事件）一个\\n  - 被遗忘的动物盔甲选择框（雕刻）一个\\n  - 牺牲设备材料盒（事件）1 \\n  -  Cafe的快速增长框（事件）（事件）1 \\n  - 增强订单纸（事件）1"
+    },
+    "99003755": {
+        "deprecated": false,
+        "Dev_Desc": "보상 획득권: 희생의 무덤(각인)",
+        "id": 99003755,
+        "alias": "Contents.Item.Desc.9901400",
+        "text": "这是一个可以收取牺牲的严重补偿的数量。"
+    },
+    "99003756": {
+        "deprecated": false,
+        "Dev_Desc": "보상 획득권: 희생의 무덤(비각인)",
+        "id": 99003756,
+        "alias": "Contents.Item.Desc.9901401",
+        "text": "这是一个可以收取牺牲的严重补偿的数量。"
+    },
+    "99003757": {
+        "deprecated": false,
+        "Dev_Desc": "극락의 용봉탕(이벤트)_친구초대",
+        "id": 99003757,
+        "alias": "Contents.Item.Desc.9300402",
+        "text": "使用时从经验中获取更多启蒙。 \\n 30分钟经验增益增加100％。 \\n 49可用少于级别。"
+    },
+    "99003758": {
+        "deprecated": false,
+        "Dev_Desc": "보름달 의상 선택 주머니",
+        "id": 99003758,
+        "alias": "Contents.CashShop.Item.Desc.9850165",
+        "text": "您可以选择以下项目之一：\\n\\n  - 红色满月\\n  - 全灯满月\\n  - 蓝色满月\\n  - 黄色满月"
+    },
+    "99003759": {
+        "deprecated": false,
+        "Dev_Desc": "박쥐 의상 선택 주머니",
+        "id": 99003759,
+        "alias": "Contents.CashShop.Item.Desc.9850166",
+        "text": "使用以下项目时，您可以选择以下项目之一：\\n\\n  -  Gentleman的BAT \\n  -  Festival's Bat \\n  - 令人兴奋的蝙蝠"
+    },
+    "99003760": {
+        "deprecated": false,
+        "Dev_Desc": "소풍 의상 선택 주머니",
+        "id": 99003760,
+        "alias": "Contents.CashShop.Item.Desc.9850167",
+        "text": "您可以选择以下项目之一：\\n\\n  - 秋季野餐\\n  -  Spring Picnic \\n  - 夏季野餐\\n  - 冬季野餐"
+    },
+    "99003761": {
+        "deprecated": false,
+        "Dev_Desc": "회사원 의상 선택 주머니",
+        "id": 99003761,
+        "alias": "Contents.CashShop.Item.Desc.9850168",
+        "text": "您可以选择以下文章之一：\\n\\n  - 严格的办公室工作人员\\n  - 智能办公室工作人员\\n  - 快乐的办公室工作人员\\n  - 深刻的办公室工作人员"
+    },
+    "99003762": {
+        "deprecated": false,
+        "Dev_Desc": "토끼 의상 선택 주머니",
+        "id": 99003762,
+        "alias": "Contents.CashShop.Item.Desc.9850169",
+        "text": "您可以选择以下项目之一：\\n\\n  - 节日的兔子\\n  - 祝贺兔子\\n  - 祝福兔子\\n  - "
+    },
+    "99003763": {
+        "deprecated": false,
+        "Dev_Desc": "크리스마스 의상 선택 주머니",
+        "id": 99003763,
+        "alias": "Contents.CashShop.Item.Desc.9850170",
+        "text": "使用下一篇文章时，您可以选择其中一个项目：\\n\\n  - 温暖的圣诞\\n  - 白色圣诞节\\n  - 多彩圣诞\\n  - 快乐的圣诞节"
+    },
+    "99003764": {
+        "deprecated": false,
+        "Dev_Desc": "CM의 응원 단환(이벤트)",
+        "id": 99003764,
+        "alias": "Contents.Item.Desc.9300421",
+        "text": "CM充满了厘米的快乐能量。效果持续了15分钟。用\\n cm纠正牺牲的坟墓。 \\n \\n [效果效果] \\n BOSS HITS 5 \\n BOSS HO SHIN 3 \\n BOSS DEFIND 10"
+    },
+    "99003765": {
+        "deprecated": false,
+        "Dev_Desc": "화염의 기운(각인)",
+        "id": 99003765,
+        "alias": "Contents.Item.Desc.9901432",
+        "text": "它是一种用于生产氯化武器的材料。"
+    },
+    "99003766": {
+        "deprecated": false,
+        "Dev_Desc": "희생의 빛나는 소울 소환서(11회)",
+        "id": 99003766,
+        "alias": "Contents.Item.Desc.9901433",
+        "text": "您可以根据使用可能性获得灵魂。 <br/>（评分：一般〜英雄）"
+    },
+    "99003767": {
+        "deprecated": false,
+        "Dev_Desc": "비천한 소울 파편(각인)",
+        "id": 99003767,
+        "alias": "Contents.Item.Desc.9901434",
+        "text": "你可以获得一块闪闪发光的使用灵魂。 <br/>（评分：英雄）"
+    },
+    "99003768": {
+        "deprecated": false,
+        "Dev_Desc": "희생의 찬란한 소울 소환서(3회)",
+        "id": 99003768,
+        "alias": "Contents.Item.Desc.9901435",
+        "text": "您可以根据使用可能性获得灵魂。 <br/>（评分：罕见〜英雄）"
+    },
+    "99003769": {
+        "deprecated": false,
+        "Dev_Desc": "비천한 소울 소환서(1회)(각인)",
+        "id": 99003769,
+        "alias": "Contents.Item.Desc.9901436",
+        "text": "获得了非生成的灵魂。"
+    },
+    "99003770": {
+        "deprecated": false,
+        "Dev_Desc": "신무강 소울 파편(각인)",
+        "id": 99003770,
+        "alias": "Contents.Item.Desc.9901437",
+        "text": "使用时，您可以获得一个新的Sprang。 <br/>（评分：英雄）"
+    },
+    "99003771": {
+        "deprecated": false,
+        "Dev_Desc": "신무강 소울 소환서(1회)(각인)",
+        "id": 99003771,
+        "alias": "Contents.Item.Desc.9901438",
+        "text": "使用时，我们获得了一个新的职责灵魂。"
+    },
+    "99003772": {
+        "deprecated": false,
+        "Dev_Desc": "희생의 찬란한 소울 소환서(5회)",
+        "id": 99003772,
+        "alias": "Contents.Item.Desc.9901439",
+        "text": "您可以根据使用可能性获得灵魂。 <br/>（评分：罕见〜英雄）"
+    },
+    "99003773": {
+        "deprecated": false,
+        "Dev_Desc": "여왕 거미 주화",
+        "id": 99003773,
+        "alias": "Contents.Item.Desc.9901440",
+        "text": "从村里的[证书证书]中购买[金色猎人服装]，[Hero Costume Pouch]是一枚硬币。 \\n\\n [牺牲坟墓]。"
+    },
+    "99003774": {
+        "deprecated": false,
+        "Dev_Desc": "새끼 거미 주화",
+        "id": 99003774,
+        "alias": "Contents.Item.Desc.9901441",
+        "text": "从村里的[证书证书]中购买[金色猎人服装]，[Hero Costume Pouch]是一枚硬币。 \\n\\n [牺牲坟墓]。"
+    },
+    "99003775": {
+        "deprecated": false,
+        "Dev_Desc": "화염의 향낭 주머니(각인)",
+        "id": 99003775,
+        "alias": "Contents.Item.Desc.9901442",
+        "text": "根据使用概率，您可以获取以下项目。 \\n（等级：一般〜罕见）\\n（评级：一般〜罕见）\\n  - 肠正方形（雕刻）\\n  - 谐波萨克托（雕刻）\\n  - 旧烟花（雕刻）\\n  - 普通烟花（雕刻）"
+    },
+    "99003776": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 화염의 향낭 주머니(각인)",
+        "id": 99003776,
+        "alias": "Contents.Item.Desc.9901443",
+        "text": "根据使用概率，您可以获得以下项目。 \\n（评级：高级〜罕见）\\n  -  Harmony广场（雕刻）\\n  - 낡의향의의（雕刻）\\n  - 普通烟花（雕刻）\\n  - 闪亮烟花的小袋（刻）\\n  - 击剑的小袋（雕刻）\\n  - 长寿命火焰（刻）\\n  - "
+    },
+    "99003777": {
+        "deprecated": false,
+        "Dev_Desc": "찬란한 화염의 향낭 주머니(각인)",
+        "id": 99003777,
+        "alias": "Contents.Item.Desc.9901444",
+        "text": "根据使用概率，您可以获取以下项目。 \\n  - （评级：罕见〜英雄）\\n（罕见：罕见的〜英雄）\\n  - 发光烟花（雕刻）\\n  - 闪亮烟花（雕刻）\\n  - 单焰（雕刻））\\n  - 龙虹火焰的面料\\n  - 较旧的套接字（雕刻）\\n  - 普通袜子（刻）"
+    },
+    "99003778": {
+        "deprecated": false,
+        "Dev_Desc": "영롱한 화염의 향낭 주머니(각인)",
+        "id": 99003778,
+        "alias": "Contents.Item.Desc.9901445",
+        "text": "根据使用概率，您可以获得以下项目。 \\n  - （等级：英雄）\\n  - （（향의（雕刻）\\n  - 普通氯化物sachet（雕刻）\\n  - 闪亮氯化物的狐狸雾（雕刻）\\n  -  square（刻）\\n  -  longhong氯化sachet（刻）\\n  - "
+    },
+    "99003779": {
+        "deprecated": false,
+        "Dev_Desc": "화염의 장비함(각인)",
+        "id": 99003779,
+        "alias": "Contents.Item.Desc.9901446",
+        "text": "这是一个箱子来获得盖章的设备。\\n（等级：一般）\\n（评级：一般）您可以获得一定概率的闪亮火焰的设备（雕刻）。"
+    },
+    "99003780": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 화염의 장비함(각인)",
+        "id": 99003780,
+        "alias": "Contents.Item.Desc.9901447",
+        "text": "可以获得盖章设备的盒子。\\n（等级：一般〜Advanced）\\n（高级）\\n\\n一定的概率，您可以获得辉煌火焰的设备（雕刻）。"
+    },
+    "99003781": {
+        "deprecated": false,
+        "Dev_Desc": "찬란한 화염의 장비함(각인)",
+        "id": 99003781,
+        "alias": "Contents.Item.Desc.9901448",
+        "text": "这是一个可以获得盖章设备的盒子。\\n（等级：高级〜罕见）\\n\\n可以获得卵泡的某种概率（雕刻）。"
+    },
+    "99003782": {
+        "deprecated": false,
+        "Dev_Desc": "영롱한 화염의 장비함(각인)",
+        "id": 99003782,
+        "alias": "Contents.Item.Desc.9901449",
+        "text": "箱子盖上盖章的设备。 \\n（评分：罕见的〜忘了英雄）"
+    },
+    "99003783": {
+        "deprecated": false,
+        "Dev_Desc": "희생의 상자(이벤트)",
+        "id": 99003783,
+        "alias": "Contents.Item.Desc.9300377",
+        "text": "您可以获得所有以下项目：\\n\\n  - 牺牲的英雄灵魂召唤（3次）（事件）（事件）1 \\n  - 牺牲的闪亮灵魂召唤（11次）（11次）（活动）召唤图书馆（11次）（11次）（ 11次）（事件）5 \\n  - 英雄的服装口袋（活动）5"
+    },
+    "99003784": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 열쇠(각인)",
+        "id": 99003784,
+        "alias": "Contents.Item.Desc.9901450",
+        "text": "它是一种物品，用于释放通过生产可以从牺牲的坟墓获得的密封骨牌的密封。"
+    },
+    "99003785": {
+        "deprecated": false,
+        "Dev_Desc": "봉인된 희생의 무덤 봉마함 I(각인)",
+        "id": 99003785,
+        "alias": "Contents.Item.Desc.9901451",
+        "text": "您可以通过生产关闭密钥（刻）。"
+    },
+    "99003786": {
+        "deprecated": false,
+        "Dev_Desc": "봉인된 희생의 무덤 봉마함 II(각인)",
+        "id": 99003786,
+        "alias": "Contents.Item.Desc.9901452",
+        "text": "您可以通过生产关闭密钥（刻）。"
+    },
+    "99003787": {
+        "deprecated": false,
+        "Dev_Desc": "봉인된 희생의 무덤 봉마함 III(각인)",
+        "id": 99003787,
+        "alias": "Contents.Item.Desc.9901453",
+        "text": "您可以通过生产关闭密钥（刻）。"
+    },
+    "99003788": {
+        "deprecated": false,
+        "Dev_Desc": "봉인된 희생의 무덤 봉마함 IV(각인)",
+        "id": 99003788,
+        "alias": "Contents.Item.Desc.9901454",
+        "text": "您可以通过生产关闭密钥（刻）。"
+    },
+    "99003789": {
+        "deprecated": false,
+        "Dev_Desc": "봉인된 여왕 거미 봉마함(각인)",
+        "id": 99003789,
+        "alias": "Contents.Item.Desc.9901455",
+        "text": "您可以通过生产关闭密钥（刻）。"
+    },
+    "99003790": {
+        "deprecated": false,
+        "Dev_Desc": "희생의 무덤 봉마함 I(각인)",
+        "id": 99003790,
+        "alias": "Contents.Item.Desc.9901456",
+        "text": "根据使用概率，您可以获得以下项目之一：\\n\\n  - 星光粉（邮票）100/200/300/400/500/1000 \\n  - 火焰（雕刻）2/4/6 / 8/12 \\n  - 火焰（刻）的设备（雕刻）一个夜光火焰（刻）一个\\n  - 火焰的织物口袋（刻）一个\\n  - 发光火焰奇迹口袋（雕刻）1狗"
+    },
+    "99003791": {
+        "deprecated": false,
+        "Dev_Desc": "희생의 무덤 봉마함 II(각인)",
+        "id": 99003791,
+        "alias": "Contents.Item.Desc.9901457",
+        "text": "根据使用概率，您可以获得以下项目之一：\\n\\n  - 星光粉（邮票）100/200/300/400/500/1000 \\n  - 火焰（雕刻）2/4/6 / 8/12 \\n  - 设备（雕刻）火（刻）一\\n  - 闪亮火焰（刻）的设备（刻），其中一个发光的火焰（刻）之一（刻）\\n-1 sakant的闪亮火焰（雕刻）的闪亮火焰（雕刻） ）\\n  - 一个辉煌的火焰小袋口袋（刻）1"
+    },
+    "99003792": {
+        "deprecated": false,
+        "Dev_Desc": "희생의 무덤 봉마함 III(각인)",
+        "id": 99003792,
+        "alias": "Contents.Item.Desc.9901458",
+        "text": "根据使用的概率，您可以获得以下项目之一：\\n\\n  - 星光粉（邮票）300/400/500/1000 \\n  - 星光决定（雕刻）100/200 \\n  - 火焰（雕刻）2/4 / 6/8/12 \\n  - 设备设备（雕刻）（雕刻）（雕刻）火焰设备之一（雕刻）一个发光火焰（雕刻）一火焰设备（雕刻）一个\\n  - 火焰的小袋子口袋（雕刻）一个\\n  - 发光火焰Sakant Pocket（雕刻）1个小袋口袋（雕刻）1"
+    },
+    "99003793": {
+        "deprecated": false,
+        "Dev_Desc": "희생의 무덤 봉마함 IV(각인)",
+        "id": 99003793,
+        "alias": "Contents.Item.Desc.9901459",
+        "text": "根据使用的概率，您可以获得以下项目之一：\\n\\n  - 星光粉（邮票）300/400/500/1000 \\n  - 星光决定（雕刻）100/200 \\n  - 火焰（雕刻）2/4 / 6/8/12 \\n  - 设备设备（雕刻）（雕刻）（雕刻）火焰设备之一（雕刻）一个发光火焰（雕刻）一火焰设备（雕刻）一个\\n  - 火焰的小袋子口袋（雕刻）一个\\n  - 发光火焰Sakant Pocket（雕刻）1个小袋口袋（雕刻）1"
+    },
+    "99003794": {
+        "deprecated": false,
+        "Dev_Desc": "여왕 거미 봉마함(각인)",
+        "id": 99003794,
+        "alias": "Contents.Item.Desc.9901460",
+        "text": "取决于使用概率，您可以获得以下项目之一：\\n\\n  - 酷棉盐（刻）一个\\n  - 感觉（刻）一个\\n  - 金色猎人一\\n  -  Legend服装袋（雕刻）1狗"
+    },
+    "99003795": {
+        "deprecated": false,
+        "Dev_Desc": "검은 화염 의상 주머니",
+        "id": 99003795,
+        "alias": "Contents.Item.Desc.9901461",
+        "text": "使用时，您可以获取黑色火焰服装。"
+    },
+    "99003796": {
+        "deprecated": false,
+        "Dev_Desc": "염화대성 의상 주머니",
+        "id": 99003796,
+        "alias": "Contents.Item.Desc.9901462",
+        "text": "使用时，您可以获得氯化等级的服装。"
+    },
+    "99003797": {
+        "deprecated": false,
+        "Dev_Desc": "미진한 소울 파편(각인)",
+        "id": 99003797,
+        "alias": "Contents.Item.Desc.9901463",
+        "text": "使用时，您可以获得一个迷惑的灵魂碎片。 <br/>（评分：罕见）"
+    },
+    "99003798": {
+        "deprecated": false,
+        "Dev_Desc": "명월 소울 파편(각인)",
+        "id": 99003798,
+        "alias": "Contents.Item.Desc.9901464",
+        "text": "使用时，您可以获得一块荣耀。 <br/>（评分：罕见）"
+    },
+    "99003799": {
+        "deprecated": false,
+        "Dev_Desc": "무월 소울 파편(각인)",
+        "id": 99003799,
+        "alias": "Contents.Item.Desc.9901465",
+        "text": "使用时，您可以获得一个月亮月亮的渗透。 <br/>（评分：罕见）"
     }
 }

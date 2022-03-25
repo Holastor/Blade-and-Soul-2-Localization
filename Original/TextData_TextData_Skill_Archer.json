@@ -1237,5 +1237,26 @@
         "id": 60050177,
         "alias": "Contents.Effect.Option.LongBow.511222",
         "text": "치명타 추가 공격력 +15"
+    },
+    "60050178": {
+        "deprecated": false,
+        "Dev_Desc": "연사 증폭 효과",
+        "id": 60050178,
+        "alias": "Contents.Skill.acquireEffect.LongBow.5201",
+        "text": "내력 소모량 -4"
+    },
+    "60050179": {
+        "deprecated": false,
+        "Dev_Desc": "연사 극한 효과",
+        "id": 60050179,
+        "alias": "Contents.Skill.acquireEffect.LongBow.5202",
+        "text": "피해량 증가"
+    },
+    "60050180": {
+        "deprecated": false,
+        "Dev_Desc": "연사 돌파 효과",
+        "id": 60050180,
+        "alias": "Contents.Skill.acquireEffect.LongBow.5203",
+        "text": "일정 확률로 소모한 내력의 절반을 반환"
     }
 }
