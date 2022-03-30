@@ -7969,5 +7969,47 @@
         "id": 9001202,
         "alias": "SysM.Bopae.Equip",
         "text": "<arg p = [1：整数] />前缀组合的数量。"
+    },
+    "9001203": {
+        "deprecated": false,
+        "Dev_Desc": "장비도감 / 대체 / 등록 / 미선택",
+        "id": 9001203,
+        "alias": "SysM.EquipCollection.Replace.Register.NoSelect",
+        "text": "没有选定的项目。请选择该项目。"
+    },
+    "9001204": {
+        "deprecated": false,
+        "Dev_Desc": "복수하기 / 불가",
+        "id": 9001204,
+        "alias": "SysM.Revenge.Fail.CanNotTeleport4",
+        "text": "不可能这样做。"
+    },
+    "9001205": {
+        "deprecated": false,
+        "Dev_Desc": "판매 상점 / 자동 판매 미설정",
+        "id": 9001205,
+        "alias": "SysM.Shop.AutoSell.NotAvilable",
+        "text": "未设置自动销售。"
+    },
+    "9001206": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 상자 자동반복",
+        "id": 9001206,
+        "alias": "SysM.YaruBox.MsgT.Error.Resource",
+        "text": "材料不足，停止自动重复。"
+    },
+    "9001207": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 상자 자동반복",
+        "id": 9001207,
+        "alias": "SysM.YaruBox.MsgT.Error.Complete",
+        "text": "我们收到了停止自动重复的组合能力。"
+    },
+    "9001208": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 상자 자동반복",
+        "id": 9001208,
+        "alias": "SysM.YaruBox.MsgT.StopAuto",
+        "text": "自动重复已中断。"
     }
 }

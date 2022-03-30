@@ -6618,7 +6618,7 @@
         "Dev_Desc": "브로드캐스팅 / 수호령 획득",
         "id": 9001007,
         "alias": "SysM.Shop.Auto.NotAvilable",
-        "text": "자동 주문이 설정되어있지 않습니다."
+        "text": "자동 주문이 설정되어 있지 않습니다."
     },
     "9001008": {
         "deprecated": false,
@@ -7969,5 +7969,47 @@
         "id": 9001202,
         "alias": "SysM.Bopae.Equip",
         "text": "<arg p=[1:integer]/>번 보패 조합을 장착했습니다."
+    },
+    "9001203": {
+        "deprecated": false,
+        "Dev_Desc": "장비도감 / 대체 / 등록 / 미선택",
+        "id": 9001203,
+        "alias": "SysM.EquipCollection.Replace.Register.NoSelect",
+        "text": "선택된 물품이 없습니다. 물품을 선택해주세요."
+    },
+    "9001204": {
+        "deprecated": false,
+        "Dev_Desc": "복수하기 / 불가",
+        "id": 9001204,
+        "alias": "SysM.Revenge.Fail.CanNotTeleport4",
+        "text": "현재 복수하기를 할 수 없는 상태입니다."
+    },
+    "9001205": {
+        "deprecated": false,
+        "Dev_Desc": "판매 상점 / 자동 판매 미설정",
+        "id": 9001205,
+        "alias": "SysM.Shop.AutoSell.NotAvilable",
+        "text": "자동 판매가 설정되어 있지 않습니다."
+    },
+    "9001206": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 상자 자동반복",
+        "id": 9001206,
+        "alias": "SysM.YaruBox.MsgT.Error.Resource",
+        "text": "재료가 부족하여 자동반복을 중단하였습니다."
+    },
+    "9001207": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 상자 자동반복",
+        "id": 9001207,
+        "alias": "SysM.YaruBox.MsgT.Error.Complete",
+        "text": "조합능력치를 획득하여 자동반복을 중단하였습니다."
+    },
+    "9001208": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 상자 자동반복",
+        "id": 9001208,
+        "alias": "SysM.YaruBox.MsgT.StopAuto",
+        "text": "자동반복이 중단되었습니다."
     }
 }

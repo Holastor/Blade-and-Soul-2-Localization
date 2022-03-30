@@ -8125,5 +8125,47 @@
         "English_Text": "<arg p = [1: Integer] /> Number of prefix combinations.",
         "Russian_Text": "",
         "Chinese_Text": "<arg p = [1：整数] />前缀组合的数量。"
+    },
+    "9001203": {
+        "Dev_Desc": "장비도감 / 대체 / 등록 / 미선택",
+        "Original_Text": "선택된 물품이 없습니다. 물품을 선택해주세요.",
+        "English_Text": "There is no selected item. Please select the item.",
+        "Russian_Text": "",
+        "Chinese_Text": "没有选定的项目。请选择该项目。"
+    },
+    "9001204": {
+        "Dev_Desc": "복수하기 / 불가",
+        "Original_Text": "현재 복수하기를 할 수 없는 상태입니다.",
+        "English_Text": "It is not possible to do this.",
+        "Russian_Text": "",
+        "Chinese_Text": "不可能这样做。"
+    },
+    "9001205": {
+        "Dev_Desc": "판매 상점 / 자동 판매 미설정",
+        "Original_Text": "자동 판매가 설정되어 있지 않습니다.",
+        "English_Text": "Automatic sales are not set.",
+        "Russian_Text": "",
+        "Chinese_Text": "未设置自动销售。"
+    },
+    "9001206": {
+        "Dev_Desc": "야루의 상자 자동반복",
+        "Original_Text": "재료가 부족하여 자동반복을 중단하였습니다.",
+        "English_Text": "The material was insufficient and the automatic repetition was stopped.",
+        "Russian_Text": "",
+        "Chinese_Text": "材料不足，停止自动重复。"
+    },
+    "9001207": {
+        "Dev_Desc": "야루의 상자 자동반복",
+        "Original_Text": "조합능력치를 획득하여 자동반복을 중단하였습니다.",
+        "English_Text": "We have received combination ability to stop automatic repetition.",
+        "Russian_Text": "",
+        "Chinese_Text": "我们收到了停止自动重复的组合能力。"
+    },
+    "9001208": {
+        "Dev_Desc": "야루의 상자 자동반복",
+        "Original_Text": "자동반복이 중단되었습니다.",
+        "English_Text": "Automatic repetition has been interrupted.",
+        "Russian_Text": "",
+        "Chinese_Text": "自动重复已中断。"
     }
 }

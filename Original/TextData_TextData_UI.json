@@ -30600,5 +30600,208 @@
         "id": 8004463,
         "alias": "UI.Craft.CustomCategory.FateStone",
         "text": "운명석"
+    },
+    "8004464": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 상자 자동 반복",
+        "id": 8004464,
+        "alias": "UI.YaruBox.Btn.StopAuto",
+        "text": "자동반복 중단"
+    },
+    "8004465": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 상자 자동 반복",
+        "id": 8004465,
+        "alias": "UI.YaruBox.CheckBox.AutoReroll",
+        "text": "자동반복"
+    },
+    "8004466": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 상자 자동 반복",
+        "id": 8004466,
+        "alias": "UI.YaruBox.Popup.ConfirmAuto.MsgMain",
+        "text": "조합능력치를 획득할 때 까지 자동반복을 진행합니다."
+    },
+    "8004467": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 상자 자동 반복",
+        "id": 8004467,
+        "alias": "UI.YaruBox.Popup.ConfirmAuto.Confirm",
+        "text": "확인"
+    },
+    "8004468": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 상자 자동 반복",
+        "id": 8004468,
+        "alias": "UI.YaruBox.Popup.ConfirmAuto.Cancel",
+        "text": "취소"
+    },
+    "8004469": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 상자 자동 반복",
+        "id": 8004469,
+        "alias": "UI.YaruBox.Popup.ConfirmAuto.MsgUnShow",
+        "text": "다시 보지 않기"
+    },
+    "8004470": {
+        "deprecated": false,
+        "Dev_Desc": "혜택 팝업 - Title",
+        "id": 8004470,
+        "alias": "UI.Newbie&Returner.PopUp.Title",
+        "text": "혜택"
+    },
+    "8004471": {
+        "deprecated": false,
+        "Dev_Desc": "혜택 팝업 - 신규 혜택 Desc",
+        "id": 8004471,
+        "alias": "UI.Newbie&Returner.PopUp.Desc.1",
+        "text": "미래와 탄생의 신수 노이가 당신을 환영합니다."
+    },
+    "8004472": {
+        "deprecated": false,
+        "Dev_Desc": "혜택 팝업 - 신규 혜택 상품 Desc",
+        "id": 8004472,
+        "alias": "UI.Newbie&Returner.PopUp.Desc.Period.1",
+        "text": "<arg p=[1:string]/> 까지 구매 가능"
+    },
+    "8004473": {
+        "deprecated": false,
+        "Dev_Desc": "혜택 팝업 - 복귀 혜택 Desc",
+        "id": 8004473,
+        "alias": "UI.Newbie&Returner.PopUp.Desc.2",
+        "text": "시간과 회귀의 신수 야루가 당신을 환영합니다."
+    },
+    "8004474": {
+        "deprecated": false,
+        "Dev_Desc": "혜택 팝업 - 복귀 혜택 상품 Desc",
+        "id": 8004474,
+        "alias": "UI.Newbie&Returner.PopUp.Desc.Period.2",
+        "text": "<arg p=[1:string]/> 까지 구매 가능"
+    },
+    "8004475": {
+        "deprecated": false,
+        "Dev_Desc": "신규 혜택 시작 메시지 - Title",
+        "id": 8004475,
+        "alias": "UI.Newbie&Returner.Message.Title",
+        "text": "신규 유저"
+    },
+    "8004476": {
+        "deprecated": false,
+        "Dev_Desc": "신규 혜택 시작 메시지 - Desc",
+        "id": 8004476,
+        "alias": "UI.Newbie&Returner.Message.Desc",
+        "text": "신규 유저 혜택이 부여됩니다."
+    },
+    "8004477": {
+        "deprecated": false,
+        "Dev_Desc": "복귀 혜택 시작 메시지 - Title",
+        "id": 8004477,
+        "alias": "UI.Newbie&Returner.Message.Title.2",
+        "text": "복귀 유저"
+    },
+    "8004478": {
+        "deprecated": false,
+        "Dev_Desc": "복귀 혜택 시작 메시지 – Desc",
+        "id": 8004478,
+        "alias": "UI.Newbie&Returner.Message.Desc.2",
+        "text": "복귀 유저 혜택이 부여됩니다."
+    },
+    "8004479": {
+        "deprecated": false,
+        "Dev_Desc": "혜택 아이콘 – 신규 (로비, 캐시상점 HUD)",
+        "id": 8004479,
+        "alias": "UI.Newbie&Returner.Icon.Name.1",
+        "text": "신규 유저"
+    },
+    "8004480": {
+        "deprecated": false,
+        "Dev_Desc": "혜택 아이콘 – 복귀 (로비, 캐시상점 HUD)",
+        "id": 8004480,
+        "alias": "UI.Newbie&Returner.Icon.Name.2",
+        "text": "복귀 유저"
+    },
+    "8004481": {
+        "deprecated": false,
+        "Dev_Desc": "혜택 타이틀 – 신규 (혜택 팝업)",
+        "id": 8004481,
+        "alias": "UI.Newbie&Returner.Icon.Title.1",
+        "text": "신규 유저 혜택"
+    },
+    "8004482": {
+        "deprecated": false,
+        "Dev_Desc": "혜택 타이틀 – 복귀 (혜택 팝업)",
+        "id": 8004482,
+        "alias": "UI.Newbie&Returner.Icon.Title.2",
+        "text": "복귀 유저 혜택"
+    },
+    "8004483": {
+        "deprecated": false,
+        "Dev_Desc": "혜택 설명 – 신규 (로비, 혜택 팝업)",
+        "id": 8004483,
+        "alias": "UI.Newbie&Returner.Icon.Desc.1",
+        "text": "<arg p=[1:string]/> 까지"
+    },
+    "8004484": {
+        "deprecated": false,
+        "Dev_Desc": "혜택 설명 – 복귀 (로비, 혜택 팝업)",
+        "id": 8004484,
+        "alias": "UI.Newbie&Returner.Icon.Desc.2",
+        "text": "<arg p=[1:string]/> 까지"
+    },
+    "8004485": {
+        "deprecated": false,
+        "Dev_Desc": "우편 – 일반 유저 표시",
+        "id": 8004485,
+        "alias": "UI.Newbie&Returner.Tag.Post.1",
+        "text": "일반"
+    },
+    "8004486": {
+        "deprecated": false,
+        "Dev_Desc": "우편 – 신규 유저 표시",
+        "id": 8004486,
+        "alias": "UI.Newbie&Returner.Tag.Post.2",
+        "text": "신규"
+    },
+    "8004487": {
+        "deprecated": false,
+        "Dev_Desc": "우편 – 복귀 유저 표시",
+        "id": 8004487,
+        "alias": "UI.Newbie&Returner.Tag.Post.3",
+        "text": "복귀"
+    },
+    "8004488": {
+        "deprecated": false,
+        "Dev_Desc": "환경설정 / 타겟팅 / 순서 변경",
+        "id": 8004488,
+        "alias": "UI.Option.Control.Targeting.ChangePriority",
+        "text": "순서 변경"
+    },
+    "8004489": {
+        "deprecated": false,
+        "Dev_Desc": "환경설정 / 타겟팅 / 취소 버튼",
+        "id": 8004489,
+        "alias": "UI.Option.Control.Targeting.ChangePriority.Cancle",
+        "text": "취소"
+    },
+    "8004490": {
+        "deprecated": false,
+        "Dev_Desc": "환경설정 / 타겟팅 / 저장 버튼",
+        "id": 8004490,
+        "alias": "UI.Option.Control.Targeting.ChangePriority.Save",
+        "text": "저장"
+    },
+    "8004491": {
+        "deprecated": false,
+        "Dev_Desc": "월드던전/탭/붉은 달 사막",
+        "id": 8004491,
+        "alias": "UI.Dungeon.TitleName.WorldDungeon",
+        "text": "월드"
+    },
+    "8004492": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 전설의 낚시꾼",
+        "id": 8004492,
+        "alias": "UI.Craft.CustomCategory.LegendaryFisher_01",
+        "text": "전설의 낚시꾼"
     }
 }

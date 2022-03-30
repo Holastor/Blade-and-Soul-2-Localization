@@ -260,14 +260,14 @@
     },
     "82037": {
         "deprecated": false,
-        "Dev_Desc": "노이의 축복",
+        "Dev_Desc": "프리미엄 패스 II",
         "id": 82037,
         "alias": "Contents.SoulPass.25",
         "text": "高级通过II"
     },
     "82038": {
         "deprecated": false,
-        "Dev_Desc": "노이의 축복 / 활성화 문구",
+        "Dev_Desc": "프리미엄 패스 II / 활성화 문구",
         "id": 82038,
         "alias": "Contents.SoulPass.25.Awaken",
         "text": "您可以在购买<Premium Pass II>时启用额外的补偿。"
@@ -285,5 +285,19 @@
         "id": 82040,
         "alias": "Contents.SoulPass.26.Awaken",
         "text": "购买<祝福通行证时，您可以启用额外的报销。"
+    },
+    "82041": {
+        "deprecated": false,
+        "Dev_Desc": "시즌 패스: 운명",
+        "id": 82041,
+        "alias": "Contents.SoulPass.27",
+        "text": "季节通行证：命运"
+    },
+    "82042": {
+        "deprecated": false,
+        "Dev_Desc": "시즌 패스: 운명 / 활성화 문구",
+        "id": 82042,
+        "alias": "Contents.SoulPass.27.Awaken",
+        "text": "<季节通过：命运>您可以在购买时进行额外的补偿。"
     }
 }
