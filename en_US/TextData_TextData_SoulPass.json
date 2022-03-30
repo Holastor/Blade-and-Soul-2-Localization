@@ -260,14 +260,14 @@
     },
     "82037": {
         "deprecated": false,
-        "Dev_Desc": "노이의 축복",
+        "Dev_Desc": "프리미엄 패스 II",
         "id": 82037,
         "alias": "Contents.SoulPass.25",
         "text": "Premium Pass II"
     },
     "82038": {
         "deprecated": false,
-        "Dev_Desc": "노이의 축복 / 활성화 문구",
+        "Dev_Desc": "프리미엄 패스 II / 활성화 문구",
         "id": 82038,
         "alias": "Contents.SoulPass.25.Awaken",
         "text": "You can enable additional compensation when purchasing <Premium Pass II>."
@@ -285,5 +285,19 @@
         "id": 82040,
         "alias": "Contents.SoulPass.26.Awaken",
         "text": "You can enable additional reimbursement when purchasing <Blessing Pass> None."
+    },
+    "82041": {
+        "deprecated": false,
+        "Dev_Desc": "시즌 패스: 운명",
+        "id": 82041,
+        "alias": "Contents.SoulPass.27",
+        "text": "Season Pass: Fate"
+    },
+    "82042": {
+        "deprecated": false,
+        "Dev_Desc": "시즌 패스: 운명 / 활성화 문구",
+        "id": 82042,
+        "alias": "Contents.SoulPass.27.Awaken",
+        "text": "<Season Pass: Fate> You can enable additional compensation when purchasing."
     }
 }

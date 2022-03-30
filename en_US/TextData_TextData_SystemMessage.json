@@ -7969,5 +7969,47 @@
         "id": 9001202,
         "alias": "SysM.Bopae.Equip",
         "text": "<arg p = [1: Integer] /> Number of prefix combinations."
+    },
+    "9001203": {
+        "deprecated": false,
+        "Dev_Desc": "장비도감 / 대체 / 등록 / 미선택",
+        "id": 9001203,
+        "alias": "SysM.EquipCollection.Replace.Register.NoSelect",
+        "text": "There is no selected item. Please select the item."
+    },
+    "9001204": {
+        "deprecated": false,
+        "Dev_Desc": "복수하기 / 불가",
+        "id": 9001204,
+        "alias": "SysM.Revenge.Fail.CanNotTeleport4",
+        "text": "It is not possible to do this."
+    },
+    "9001205": {
+        "deprecated": false,
+        "Dev_Desc": "판매 상점 / 자동 판매 미설정",
+        "id": 9001205,
+        "alias": "SysM.Shop.AutoSell.NotAvilable",
+        "text": "Automatic sales are not set."
+    },
+    "9001206": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 상자 자동반복",
+        "id": 9001206,
+        "alias": "SysM.YaruBox.MsgT.Error.Resource",
+        "text": "The material was insufficient and the automatic repetition was stopped."
+    },
+    "9001207": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 상자 자동반복",
+        "id": 9001207,
+        "alias": "SysM.YaruBox.MsgT.Error.Complete",
+        "text": "We have received combination ability to stop automatic repetition."
+    },
+    "9001208": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 상자 자동반복",
+        "id": 9001208,
+        "alias": "SysM.YaruBox.MsgT.StopAuto",
+        "text": "Automatic repetition has been interrupted."
     }
 }
