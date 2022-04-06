@@ -23,7 +23,7 @@
 ## Install
 
 * ONLY PC
-* [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/releases/tag/3.0.0) Latest Release;
+* [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/releases/tag/3.0.1) Latest Release;
 * Place the file B2-Bundle@2022.03.30-01.01.47_en.pakB2-Bundle@2022.03.30-01.01.47_ch.pak) in the \GameFolder\AssetBundle, with replace;
 * Rename the file B2-Bundle@2022.03.30-01.01.47_en.pak(B2-Bundle@2022.03.30-01.01.47_ch.pak) to get B2-Bundle@2022.03.30-01.01.47.pak;
 * That's all folks!
