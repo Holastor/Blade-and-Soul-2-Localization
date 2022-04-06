@@ -8167,5 +8167,33 @@
         "English_Text": "Automatic repetition has been interrupted.",
         "Russian_Text": "",
         "Chinese_Text": "自动重复已中断。"
+    },
+    "9001209": {
+        "Dev_Desc": "신규 혜택 종료 메세지",
+        "Original_Text": "신규 혜택이 종료되었습니다.",
+        "English_Text": "New benefits have been terminated.",
+        "Russian_Text": "",
+        "Chinese_Text": "新的福利已被终止。"
+    },
+    "9001210": {
+        "Dev_Desc": "복귀 혜택 종료 메세지",
+        "Original_Text": "복귀 혜택이 종료되었습니다.",
+        "English_Text": "Return benefits have been terminated.",
+        "Russian_Text": "",
+        "Chinese_Text": "退货福利已被终止。"
+    },
+    "9001211": {
+        "Dev_Desc": "상점 구매 메시지 / 다품종 구매 시",
+        "Original_Text": "<arg p=[1:string]/> 외 <arg p=[2:integer]/>종의 물품을 구매했습니다.",
+        "English_Text": "<arg p=[1:string]/><arg p=[2:integer]/>I bought a species of the species.",
+        "Russian_Text": "",
+        "Chinese_Text": "<arg p = [1：字符串] /> <arg p = [2：整数] />我买了一个物种。"
+    },
+    "9001212": {
+        "Dev_Desc": "문파 시스템 / 해산 / 연합 가입됨",
+        "Original_Text": "연합에 가입된 문파는 해산할 수 없습니다.",
+        "English_Text": "Moonwha members subscribed to the federation can not be dissolved.",
+        "Russian_Text": "",
+        "Chinese_Text": "登上联邦的Moonwha成员无法解散。"
     }
 }

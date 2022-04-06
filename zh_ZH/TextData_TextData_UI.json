@@ -10713,7 +10713,7 @@
         "deprecated": false,
         "Dev_Desc": "아이템 / 아이템 소분류 / ",
         "id": 8001584,
-        "alias": "UI.Item.ItemType.sachet",
+        "alias": "UI.Item.ItemType.Sachet",
         "text": "香囊"
     },
     "8001585": {
@@ -30799,9 +30799,247 @@
     },
     "8004492": {
         "deprecated": false,
-        "Dev_Desc": "제작 커스텀 탭 이름 / 전설의 낚시꾼",
+        "Dev_Desc": "단검 무공 설명 1",
         "id": 8004492,
+        "alias": "UI.ShortSword.Skill.Desc1",
+        "text": "传奇的垂钓者"
+    },
+    "8004493": {
+        "deprecated": false,
+        "Dev_Desc": "단검 무공 설명 2",
+        "id": 8004493,
+        "alias": "UI.ShortSword.Skill.Desc2",
+        "text": "匕首是一个不平衡的。"
+    },
+    "8004494": {
+        "deprecated": false,
+        "Dev_Desc": "아이템 서브 타입",
+        "id": 8004494,
+        "alias": "UI.Item.ItemType.AutoOpenBox",
+        "text": "盒子"
+    },
+    "8004495": {
+        "deprecated": false,
+        "Dev_Desc": "아이템 서브 타입",
+        "id": 8004495,
+        "alias": "UI.Item.ItemType.GuildRaidMonsterSpawnScroll",
+        "text": "Moonwha Monster召唤项目"
+    },
+    "8004496": {
+        "deprecated": false,
+        "Dev_Desc": "아이템 서브 타입",
+        "id": 8004496,
+        "alias": "UI.Item.ItemType.HeroTransfer",
+        "text": "服务器传输"
+    },
+    "8004497": {
+        "deprecated": false,
+        "Dev_Desc": "메인탭 / 클래스 전환탭",
+        "id": 8004497,
+        "alias": "UI.CashShop.TapName.Main.ClassSwap",
+        "text": "班级变革"
+    },
+    "8004498": {
+        "deprecated": false,
+        "Dev_Desc": "아이템 서브 타입",
+        "id": 8004498,
+        "alias": "UI.Item.ItemType.AutoSoul",
+        "text": "召唤灵魂"
+    },
+    "8004499": {
+        "deprecated": false,
+        "Dev_Desc": "아이템 서브 타입",
+        "id": 8004499,
+        "alias": "UI.Item.ItemType.AutoPets",
+        "text": "召唤者"
+    },
+    "8004500": {
+        "deprecated": false,
+        "Dev_Desc": "아이템 서브 타입",
+        "id": 8004500,
+        "alias": "UI.Item.ItemType.ClassSwapCoin",
+        "text": "班级改变硬币"
+    },
+    "8004501": {
+        "deprecated": false,
+        "Dev_Desc": "아이템 서브 타입",
+        "id": 8004501,
+        "alias": "UI.Item.ItemType.ClassSwapTicket",
+        "text": "班级改变机票"
+    },
+    "8004502": {
+        "deprecated": false,
+        "Dev_Desc": "아이템 서브 타입",
+        "id": 8004502,
+        "alias": "UI.Item.ItemType.NatureType",
+        "text": "财产种类"
+    },
+    "8004503": {
+        "deprecated": false,
+        "Dev_Desc": "아이템 서브 타입",
+        "id": 8004503,
+        "alias": "UI.Item.ItemType.soulGrade",
+        "text": "灵魂等级"
+    },
+    "8004504": {
+        "deprecated": false,
+        "Dev_Desc": "아이템 서브 타입",
+        "id": 8004504,
+        "alias": "UI.Item.ItemType.MonsterSpawnScroll",
+        "text": "怪物召唤项目"
+    },
+    "8004505": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 상자 툴팁",
+        "id": 8004505,
+        "alias": "UI.YaruBox.Tooltip.Msg",
+        "text": "继续自动重复，直到您收购组合。 \\n\\n材料重复停止在部门中的重复，并在折旧期间选择乳房停止按钮，并在进展后停止弯曲。"
+    },
+    "8004506": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 상자 재료",
+        "id": 8004506,
+        "alias": "UI.YaruBox.Tmsg.LackRes",
+        "text": "材料不足。"
+    },
+    "8004507": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 상자 재료",
+        "id": 8004507,
+        "alias": "UI.YaruBox.BoxMsg.AlarmRepeat",
+        "text": "在下次连接之前，请勿显示此消息"
+    },
+    "8004508": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 희생의 증표",
+        "id": 8004508,
+        "alias": "UI.Craft.CustomCategory.SacrificeToken",
+        "text": "团结"
+    },
+    "8004509": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 전설의 낚시꾼",
+        "id": 8004509,
         "alias": "UI.Craft.CustomCategory.LegendaryFisher_01",
         "text": "传奇的垂钓者"
+    },
+    "8004510": {
+        "deprecated": false,
+        "Dev_Desc": "상인 이름/ 만우절 낚시꾼 상인",
+        "id": 8004510,
+        "alias": "UI.Shop.Tittle.Name.30000",
+        "text": "传奇的垂钓者"
+    },
+    "8004511": {
+        "deprecated": false,
+        "Dev_Desc": "클래스 체인지 / 재선택 / 질문",
+        "id": 8004511,
+        "alias": "UI.ClassChange.Change.Question1",
+        "text": "你想重新改变班吗？"
+    },
+    "8004512": {
+        "deprecated": false,
+        "Dev_Desc": "클래스 체인지 / 재선택 / 질문",
+        "id": 8004512,
+        "alias": "UI.ClassChange.Change.Question2",
+        "text": "你想重新转换吗？"
+    },
+    "8004513": {
+        "deprecated": false,
+        "Dev_Desc": "클래스 체인지 / 재선택 / 질문",
+        "id": 8004513,
+        "alias": "UI.ClassChange.Change.Question3",
+        "text": "你想重新传输吗？"
+    },
+    "8004514": {
+        "deprecated": false,
+        "Dev_Desc": "클래스 체인지 / 초기화 / 안내",
+        "id": 8004514,
+        "alias": "UI.ClassChange.Change.Reset",
+        "text": "详细选择已初始化。"
+    },
+    "8004515": {
+        "deprecated": false,
+        "Dev_Desc": "클래스 체인지 / 불가 / 안내",
+        "id": 8004515,
+        "alias": "UI.ClassChange.Change.Desc.No1",
+        "text": "<arg p=[1:string]/><ga/>您无法通过缺乏切换类。"
+    },
+    "8004516": {
+        "deprecated": false,
+        "Dev_Desc": "클래스 체인지 / 세부 항목 / 선택",
+        "id": 8004516,
+        "alias": "UI.ClassChange.Change.choice",
+        "text": "请选择要切换的详细信息项。"
+    },
+    "8004517": {
+        "deprecated": false,
+        "Dev_Desc": "클래스 체인지 / 전이 가능",
+        "id": 8004517,
+        "alias": "UI.ClassChange.Change.Skill.Yes",
+        "text": "有能力的"
+    },
+    "8004518": {
+        "deprecated": false,
+        "Dev_Desc": "클래스 체인지 / 불가 / 안내",
+        "id": 8004518,
+        "alias": "UI.ClassChange.Change.Desc.No2",
+        "text": "不可能相同的加强和进化步骤"
+    },
+    "8004519": {
+        "deprecated": false,
+        "Dev_Desc": "클래스 체인지 / 재화 부족",
+        "id": 8004519,
+        "alias": "UI.ClassChange.Change.NotAvailable",
+        "text": "缺乏货物。"
+    },
+    "8004520": {
+        "deprecated": false,
+        "Dev_Desc": "클래스 체인지 / 불가 / 안내",
+        "id": 8004520,
+        "alias": "UI.ClassChange.Change.Desc.No3",
+        "text": "货物无法切换。"
+    },
+    "8004521": {
+        "deprecated": false,
+        "Dev_Desc": "클래스 체인지 / 재선택 / 질문",
+        "id": 8004521,
+        "alias": "UI.ClassChange.Change.Question4",
+        "text": "你想切换课程吗？"
+    },
+    "8004522": {
+        "deprecated": false,
+        "Dev_Desc": "클래스 체인지 / 불가 / 안내",
+        "id": 8004522,
+        "alias": "UI.ClassChange.Change.Desc.No4",
+        "text": "无与伦比的"
+    },
+    "8004523": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 봄날의 반달호수",
+        "id": 8004523,
+        "alias": "UI.Craft.CustomCategory.SpringHalfMoon_01",
+        "text": "春天湖"
+    },
+    "8004524": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 해룡의 정기",
+        "id": 8004524,
+        "alias": "UI.Craft.CustomCategory.Promotion",
+        "text": "晋升"
+    },
+    "8004525": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 해룡의 정기",
+        "id": 8004525,
+        "alias": "UI.Craft.CustomCategory.All",
+        "text": "共同生产"
+    },
+    "8004526": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 해룡의 정기",
+        "id": 8004526,
+        "alias": "UI.Craft.CustomCategory.1stWeek",
+        "text": "1个停车有限的生产"
     }
 }

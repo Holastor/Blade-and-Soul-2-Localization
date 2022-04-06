@@ -21916,13 +21916,6 @@
         "alias": "Contents.Item.Desc.9901446",
         "text": "这是一个箱子来获得盖章的设备。\\n（等级：一般）\\n（评级：一般）您可以获得一定概率的闪亮火焰的设备（雕刻）。"
     },
-    "99003780": {
-        "deprecated": false,
-        "Dev_Desc": "시즌 패스: 운명",
-        "id": 99003780,
-        "alias": "Contents.Event.Item.Desc.9300433",
-        "text": "可以获得盖章设备的盒子。\\n（等级：一般〜Advanced）\\n（高级）\\n\\n一定的概率，您可以获得辉煌火焰的设备（雕刻）。"
-    },
     "99003781": {
         "deprecated": false,
         "Dev_Desc": "찬란한 화염의 장비함(각인)",
@@ -22056,6 +22049,13 @@
         "alias": "Contents.Item.Desc.9901465",
         "text": "使用时，您可以获得一个月亮月亮的渗透。 <br/>（评分：罕见）"
     },
+    "99003780": {
+        "deprecated": false,
+        "Dev_Desc": "시즌 패스: 운명",
+        "id": 99003780,
+        "alias": "Contents.Event.Item.Desc.9300433",
+        "text": "可以获得盖章设备的盒子。\\n（等级：一般〜Advanced）\\n（高级）\\n\\n一定的概率，您可以获得辉煌火焰的设备（雕刻）。"
+    },
     "99003800": {
         "deprecated": false,
         "Dev_Desc": "시간의 화려한 소울 소환서(11회)",
@@ -22146,5 +22146,117 @@
         "id": 99003812,
         "alias": "Contents.Event.Item.Desc.9300442",
         "text": "您可以获得以下项目：\\n\\n  - 闪亮的灵魂召唤（11）（11次）（事件）"
+    },
+    "99003813": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 화염의 장비함(각인)",
+        "id": 99003813,
+        "alias": "Contents.Item.Desc.9901447",
+        "text": "可以获得盖章设备的盒子。\\n（等级：一般〜Advanced）\\n（高级）\\n\\n一定的概率，您可以获得辉煌火焰的设备（雕刻）。"
+    },
+    "99003814": {
+        "deprecated": false,
+        "Dev_Desc": "봄날의 주화(이벤트)",
+        "id": 99003814,
+        "alias": "Contents.Event.Item.Desc.9300443",
+        "text": "这是一个硬币，觉得可以生产出特殊物品的单一春日。"
+    },
+    "99003815": {
+        "deprecated": false,
+        "Dev_Desc": "봄날의 별빛 가루 주머니(이벤트)",
+        "id": 99003815,
+        "alias": "Contents.Event.Item.Desc.9300444",
+        "text": "根据使用的概率，您可以获得以下项目之一：\\n\\n  - 星光粉（刻）100 \\n  - 星光粉（邮票）200 \\n  - 星光粉（雕刻）300 \\n  - 星光粉雕刻）400 \\n  - 星光粉（雕刻）500"
+    },
+    "99003816": {
+        "deprecated": false,
+        "Dev_Desc": "봄날의 언령석 상자(이벤트) ",
+        "id": 99003816,
+        "alias": "Contents.Event.Item.Desc.9300445",
+        "text": "根据使用概率，您可以获得以下项目之一：\\n\\n  - 磨损，未记录（刻）\\n  -   - 빛언석（邮票）\\n  - ）\\n  - 철철（铁]（雕刻）\\n  - 예 예（包括）\\n  -   -   - 석석[]]] [河]（地球）\\n  - 辉煌的叔叔（Branch]（Emotion）\\n  - 锣，叔叔（枪门）（雕刻）\\n  - 辉煌的Modeps [枪]（雕刻）\\n  -  Gulf \\n  -   -  gluman（）"
+    },
+    "99003817": {
+        "deprecated": false,
+        "Dev_Desc": "봄날의 황금달걀 상자(이벤트)",
+        "id": 99003817,
+        "alias": "Contents.Event.Item.Desc.9300446",
+        "text": "根据使用的可能性，您可以获得以下项目之一：\\n\\n  - 金蛋（刻）20 \\n  - 金蛋（刻）30 \\n  - 金蛋（刻）40 \\n  - 金蛋雕刻）50 \\n  - 金蛋（刻）60"
+    },
+    "99003818": {
+        "deprecated": false,
+        "Dev_Desc": "봄날의 충전석 선택 상자(이벤트) ",
+        "id": 99003818,
+        "alias": "Contents.Event.Item.Desc.9300447",
+        "text": "您可以在使用情况下选择以下项目之一。 \\n\\n  - 充电表：深度差距（事件）\\n  - 充电套装：睡莲废墟（事件）\\n  - 充电SUK：金森林道（事件）\\n  - 充电盒：孔径（深入）（深入） （深入）（30分钟）（事件）\\n  -  charg（1）（事件）（1）（事件）\\n  - 收费指南：BAEKHWA Dungeon Dungeon（1）（事件））\\n  - 费用：地牢（1） （事件）（事件）\\n  - 收费指南：俘虏试验地牢（一次）（事件）"
+    },
+    "99003819": {
+        "deprecated": false,
+        "Dev_Desc": "봄날의 강화 주문서 선택 상자(이벤트) ",
+        "id": 99003819,
+        "alias": "Contents.Event.Item.Desc.9300448",
+        "text": "您可以选择以下内容中的一个。 \\n\\n  - 祝福武器钢筋命令（事件）1 \\n  - 祝福盔甲加强秩序（事件）1 \\n  - 祝福装饰品加强订单（事件）一个\\n诅咒武器加强订单（事件）一个\\n诅咒盔甲加强订单（事件） 1"
+    },
+    "99003820": {
+        "deprecated": false,
+        "Dev_Desc": "봄날 의상 선택 상자(이벤트) ",
+        "id": 99003820,
+        "alias": "Contents.Event.Item.Desc.9300449",
+        "text": "您可以选择以下内容中的一个。 \\n\\n  - 温暖的春日\\n  - 一个温暖的春日\\n  - 春天春天\\n  - 春天快乐"
+    },
+    "99003821": {
+        "deprecated": false,
+        "Dev_Desc": "봄날의 일반 소울 소환서(3회)(이벤트)",
+        "id": 99003821,
+        "alias": "Contents.Event.Item.Desc.9300450",
+        "text": "根据使用的可能性，您可以获得以下三个灵魂：\\n\\n  - 兔\\n  -  Somen \\n  - "
+    },
+    "99003822": {
+        "deprecated": false,
+        "Dev_Desc": "봄날의 상급 소울 소환서(3회)(이벤트)",
+        "id": 99003822,
+        "alias": "Contents.Event.Item.Desc.9300451",
+        "text": "取决于使用的概率，您可以获得以下三个灵魂：\\n-侵蚀守护\\n  - 古代Suk-Seok \\n  - 火焰苏华\\n  - 都市野熊\\n  - 侵蚀的Guhopo瓶"
+    },
+    "99003823": {
+        "deprecated": false,
+        "Dev_Desc": "충전석: 봄날의 반달 호수(30분)(이벤트)",
+        "id": 99003823,
+        "alias": "Contents.Event.Item.Desc.9300452",
+        "text": "春天补充了湖地下湖的时间。"
+    },
+    "99003824": {
+        "deprecated": false,
+        "Dev_Desc": "봄날의 별빛 결정 상자(이벤트)",
+        "id": 99003824,
+        "alias": "Contents.Event.Item.Desc.9300453",
+        "text": "根据使用概率，您可以获得以下项目之一：\\n\\n  - 星光决定（雕刻）50 \\n  - 星光决定（雕刻）60 \\n  - 星光决定（雕刻）70星光决定（雕刻）80 \\n  - 星光决定（雕刻）100"
+    },
+    "99003825": {
+        "deprecated": false,
+        "Dev_Desc": "희생의 화려한 소울 소환서(11회)",
+        "id": 99003825,
+        "alias": "Contents.Item.Desc.9901470",
+        "text": "您可以根据使用可能性获取灵魂。 <br/>（评分：高级〜图例）"
+    },
+    "99003826": {
+        "deprecated": false,
+        "Dev_Desc": "희생의 영롱한 소울 소환서(1회)",
+        "id": 99003826,
+        "alias": "Contents.Item.Desc.9901471",
+        "text": "您可以根据使用可能性获得灵魂。 <br/>（评分：英雄〜图例）"
+    },
+    "99003827": {
+        "deprecated": false,
+        "Dev_Desc": "시간의 영롱한 수호령 소환서(1회)",
+        "id": 99003827,
+        "alias": "Contents.Item.Desc.9901472",
+        "text": "取决于使用的可能性，您可以获得主。 \\n（评分：英雄〜图例）"
+    },
+    "99003828": {
+        "deprecated": false,
+        "Dev_Desc": "토벌 패스권",
+        "id": 99003828,
+        "alias": "Contents.Event.Item.Desc.9300463",
+        "text": "这是一个可以启用额外奖励的项目。\\n\\n *小心\\n如果赛季终止，则通过任务不再可用。赛季结束后一周后不可用的通过点将消失，这不可能。 "
     }
 }

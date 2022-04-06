@@ -8011,5 +8011,33 @@
         "id": 9001208,
         "alias": "SysM.YaruBox.MsgT.StopAuto",
         "text": "自动重复已中断。"
+    },
+    "9001209": {
+        "deprecated": false,
+        "Dev_Desc": "신규 혜택 종료 메세지",
+        "id": 9001209,
+        "alias": "SysM.Newbie.End",
+        "text": "新的福利已被终止。"
+    },
+    "9001210": {
+        "deprecated": false,
+        "Dev_Desc": "복귀 혜택 종료 메세지",
+        "id": 9001210,
+        "alias": "SysM.Returner.End",
+        "text": "退货福利已被终止。"
+    },
+    "9001211": {
+        "deprecated": false,
+        "Dev_Desc": "상점 구매 메시지 / 다품종 구매 시",
+        "id": 9001211,
+        "alias": "SysM.Item.Shop.BuyItemResult.Multiple",
+        "text": "<arg p = [1：字符串] /> <arg p = [2：整数] />我买了一个物种。"
+    },
+    "9001212": {
+        "deprecated": false,
+        "Dev_Desc": "문파 시스템 / 해산 / 연합 가입됨",
+        "id": 9001212,
+        "alias": "SysM.Guild.Dissolution.JoinUnite",
+        "text": "登上联邦的Moonwha成员无法解散。"
     }
 }

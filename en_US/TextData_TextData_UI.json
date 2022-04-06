@@ -10713,7 +10713,7 @@
         "deprecated": false,
         "Dev_Desc": "아이템 / 아이템 소분류 / ",
         "id": 8001584,
-        "alias": "UI.Item.ItemType.sachet",
+        "alias": "UI.Item.ItemType.Sachet",
         "text": "Sachet"
     },
     "8001585": {
@@ -30799,9 +30799,247 @@
     },
     "8004492": {
         "deprecated": false,
-        "Dev_Desc": "제작 커스텀 탭 이름 / 전설의 낚시꾼",
+        "Dev_Desc": "단검 무공 설명 1",
         "id": 8004492,
+        "alias": "UI.ShortSword.Skill.Desc1",
+        "text": "Legendary angler"
+    },
+    "8004493": {
+        "deprecated": false,
+        "Dev_Desc": "단검 무공 설명 2",
+        "id": 8004493,
+        "alias": "UI.ShortSword.Skill.Desc2",
+        "text": "Dagger is a unbalanced."
+    },
+    "8004494": {
+        "deprecated": false,
+        "Dev_Desc": "아이템 서브 타입",
+        "id": 8004494,
+        "alias": "UI.Item.ItemType.AutoOpenBox",
+        "text": "Box"
+    },
+    "8004495": {
+        "deprecated": false,
+        "Dev_Desc": "아이템 서브 타입",
+        "id": 8004495,
+        "alias": "UI.Item.ItemType.GuildRaidMonsterSpawnScroll",
+        "text": "Moonwha Monster Summon Item"
+    },
+    "8004496": {
+        "deprecated": false,
+        "Dev_Desc": "아이템 서브 타입",
+        "id": 8004496,
+        "alias": "UI.Item.ItemType.HeroTransfer",
+        "text": "Server transfer"
+    },
+    "8004497": {
+        "deprecated": false,
+        "Dev_Desc": "메인탭 / 클래스 전환탭",
+        "id": 8004497,
+        "alias": "UI.CashShop.TapName.Main.ClassSwap",
+        "text": "Class change"
+    },
+    "8004498": {
+        "deprecated": false,
+        "Dev_Desc": "아이템 서브 타입",
+        "id": 8004498,
+        "alias": "UI.Item.ItemType.AutoSoul",
+        "text": "Summoning Soul"
+    },
+    "8004499": {
+        "deprecated": false,
+        "Dev_Desc": "아이템 서브 타입",
+        "id": 8004499,
+        "alias": "UI.Item.ItemType.AutoPets",
+        "text": "Summoner"
+    },
+    "8004500": {
+        "deprecated": false,
+        "Dev_Desc": "아이템 서브 타입",
+        "id": 8004500,
+        "alias": "UI.Item.ItemType.ClassSwapCoin",
+        "text": "Class Change Coin"
+    },
+    "8004501": {
+        "deprecated": false,
+        "Dev_Desc": "아이템 서브 타입",
+        "id": 8004501,
+        "alias": "UI.Item.ItemType.ClassSwapTicket",
+        "text": "Class Change Ticket"
+    },
+    "8004502": {
+        "deprecated": false,
+        "Dev_Desc": "아이템 서브 타입",
+        "id": 8004502,
+        "alias": "UI.Item.ItemType.NatureType",
+        "text": "Property type"
+    },
+    "8004503": {
+        "deprecated": false,
+        "Dev_Desc": "아이템 서브 타입",
+        "id": 8004503,
+        "alias": "UI.Item.ItemType.soulGrade",
+        "text": "Soul grade"
+    },
+    "8004504": {
+        "deprecated": false,
+        "Dev_Desc": "아이템 서브 타입",
+        "id": 8004504,
+        "alias": "UI.Item.ItemType.MonsterSpawnScroll",
+        "text": "Monster Summon Item"
+    },
+    "8004505": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 상자 툴팁",
+        "id": 8004505,
+        "alias": "UI.YaruBox.Tooltip.Msg",
+        "text": "Proceed with automatic repetition until you acquire combination. \\n\\n Material repeatedly stops the repetition in the department, and selects the Breast Stop button during depreciation and stops bending after progressing to the progress."
+    },
+    "8004506": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 상자 재료",
+        "id": 8004506,
+        "alias": "UI.YaruBox.Tmsg.LackRes",
+        "text": "The material is insufficient."
+    },
+    "8004507": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 상자 재료",
+        "id": 8004507,
+        "alias": "UI.YaruBox.BoxMsg.AlarmRepeat",
+        "text": "Do not display this message until the next connection"
+    },
+    "8004508": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 희생의 증표",
+        "id": 8004508,
+        "alias": "UI.Craft.CustomCategory.SacrificeToken",
+        "text": "Solidarity"
+    },
+    "8004509": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 전설의 낚시꾼",
+        "id": 8004509,
         "alias": "UI.Craft.CustomCategory.LegendaryFisher_01",
         "text": "Legendary angler"
+    },
+    "8004510": {
+        "deprecated": false,
+        "Dev_Desc": "상인 이름/ 만우절 낚시꾼 상인",
+        "id": 8004510,
+        "alias": "UI.Shop.Tittle.Name.30000",
+        "text": "Legendary angler"
+    },
+    "8004511": {
+        "deprecated": false,
+        "Dev_Desc": "클래스 체인지 / 재선택 / 질문",
+        "id": 8004511,
+        "alias": "UI.ClassChange.Change.Question1",
+        "text": "Would you like to re-change the class?"
+    },
+    "8004512": {
+        "deprecated": false,
+        "Dev_Desc": "클래스 체인지 / 재선택 / 질문",
+        "id": 8004512,
+        "alias": "UI.ClassChange.Change.Question2",
+        "text": "Do you want to re-transition?"
+    },
+    "8004513": {
+        "deprecated": false,
+        "Dev_Desc": "클래스 체인지 / 재선택 / 질문",
+        "id": 8004513,
+        "alias": "UI.ClassChange.Change.Question3",
+        "text": "Do you want to re-transmission?"
+    },
+    "8004514": {
+        "deprecated": false,
+        "Dev_Desc": "클래스 체인지 / 초기화 / 안내",
+        "id": 8004514,
+        "alias": "UI.ClassChange.Change.Reset",
+        "text": "Detailed selections are initialized."
+    },
+    "8004515": {
+        "deprecated": false,
+        "Dev_Desc": "클래스 체인지 / 불가 / 안내",
+        "id": 8004515,
+        "alias": "UI.ClassChange.Change.Desc.No1",
+        "text": "<arg p=[1:string]/><ga/> You can not switch the class by lacking."
+    },
+    "8004516": {
+        "deprecated": false,
+        "Dev_Desc": "클래스 체인지 / 세부 항목 / 선택",
+        "id": 8004516,
+        "alias": "UI.ClassChange.Change.choice",
+        "text": "Please select the detail item to switch."
+    },
+    "8004517": {
+        "deprecated": false,
+        "Dev_Desc": "클래스 체인지 / 전이 가능",
+        "id": 8004517,
+        "alias": "UI.ClassChange.Change.Skill.Yes",
+        "text": "Capable"
+    },
+    "8004518": {
+        "deprecated": false,
+        "Dev_Desc": "클래스 체인지 / 불가 / 안내",
+        "id": 8004518,
+        "alias": "UI.ClassChange.Change.Desc.No2",
+        "text": "The same strengthening and evolutionary steps are not possible"
+    },
+    "8004519": {
+        "deprecated": false,
+        "Dev_Desc": "클래스 체인지 / 재화 부족",
+        "id": 8004519,
+        "alias": "UI.ClassChange.Change.NotAvailable",
+        "text": "Lack of goods."
+    },
+    "8004520": {
+        "deprecated": false,
+        "Dev_Desc": "클래스 체인지 / 불가 / 안내",
+        "id": 8004520,
+        "alias": "UI.ClassChange.Change.Desc.No3",
+        "text": "The goods can not be switched."
+    },
+    "8004521": {
+        "deprecated": false,
+        "Dev_Desc": "클래스 체인지 / 재선택 / 질문",
+        "id": 8004521,
+        "alias": "UI.ClassChange.Change.Question4",
+        "text": "Do you want to switch classes?"
+    },
+    "8004522": {
+        "deprecated": false,
+        "Dev_Desc": "클래스 체인지 / 불가 / 안내",
+        "id": 8004522,
+        "alias": "UI.ClassChange.Change.Desc.No4",
+        "text": "Unparalleled"
+    },
+    "8004523": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 봄날의 반달호수",
+        "id": 8004523,
+        "alias": "UI.Craft.CustomCategory.SpringHalfMoon_01",
+        "text": "Springtime Lake"
+    },
+    "8004524": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 해룡의 정기",
+        "id": 8004524,
+        "alias": "UI.Craft.CustomCategory.Promotion",
+        "text": "promotion"
+    },
+    "8004525": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 해룡의 정기",
+        "id": 8004525,
+        "alias": "UI.Craft.CustomCategory.All",
+        "text": "Common production"
+    },
+    "8004526": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 해룡의 정기",
+        "id": 8004526,
+        "alias": "UI.Craft.CustomCategory.1stWeek",
+        "text": "1 parking limited production"
     }
 }

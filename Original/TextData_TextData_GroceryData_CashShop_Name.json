@@ -447,6 +447,13 @@
         "alias": "Contents.CashShop.Item.Name.1062",
         "text": "화려한 희생의 수호령 4-STEP 패키지"
     },
+    "83100066": {
+        "deprecated": false,
+        "Dev_Desc": "특별 수호령 소환 / 시로, 회귀자 아랑, 서중문",
+        "id": 83100066,
+        "alias": "Contents.CashShop.Item.Name.1063",
+        "text": "<textColor=[206:120:78:255]>시로,</> <textColor=[172:98:223:255]>회귀자 아랑, 서중문</><textColor=[255:255:255:255]> 등을 포함한</>\n<textColor=[92:163:105:255]>상급 </><textColor=[255:255:255:255]>~ </><textColor=[206:120:78:255]>전설</> <textColor=[255:255:255:255]>등급의</>\n<textColor=[255:255:255:255]>다양한 소울 획득 가능</>"
+    },
     "83200001": {
         "deprecated": false,
         "Dev_Desc": "비사전 / 정수 파편",
@@ -2686,6 +2693,62 @@
         "id": 83200323,
         "alias": "Contents.CashShop.Item.Name.5452",
         "text": "4-STEP 보너스"
+    },
+    "83200324": {
+        "deprecated": false,
+        "Dev_Desc": "운명의 성도 성장 패키지",
+        "id": 83200324,
+        "alias": "Contents.CashShop.Item.Name.5453",
+        "text": "운명의 성도 성장 패키지"
+    },
+    "83200325": {
+        "deprecated": false,
+        "Dev_Desc": "특별 수호령 소환 / 시로, 회귀자 아랑, 서중문 / 1회",
+        "id": 83200325,
+        "alias": "Contents.CashShop.Item.Name.5456",
+        "text": "특별 소울 소환 1회"
+    },
+    "83200326": {
+        "deprecated": false,
+        "Dev_Desc": "특별 수호령 소환 / 시로, 회귀자 아랑, 서중문 / 11회",
+        "id": 83200326,
+        "alias": "Contents.CashShop.Item.Name.5457",
+        "text": "특별 소울 소환 11회"
+    },
+    "83200327": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 전투 성장 지원 패키지",
+        "id": 83200327,
+        "alias": "Contents.CashShop.Item.Name.5458",
+        "text": "야루의 전투 성장 지원 패키지"
+    },
+    "83200328": {
+        "deprecated": false,
+        "Dev_Desc": "해룡의 상자 1개",
+        "id": 83200328,
+        "alias": "Contents.CashShop.Item.Name.5459",
+        "text": "해룡의 상자 1개"
+    },
+    "83200329": {
+        "deprecated": false,
+        "Dev_Desc": "해룡의 상자 11개",
+        "id": 83200329,
+        "alias": "Contents.CashShop.Item.Name.5460",
+        "text": "해룡의 상자 11개"
+    },
+    "83200330": {
+        "deprecated": false,
+        "Dev_Desc": "화려한 해룡의 상자",
+        "id": 83200330,
+        "alias": "Contents.CashShop.Item.Name.5461",
+        "text": "화려한 해룡의 상자"
+    },
+    "83200331": {
+        "deprecated": false,
+        "Dev_Desc": "토벌 패스권",
+        "id": 83200331,
+        "alias": "Contents.CashShop.Item.Name.5462",
+        "text": "토벌 패스권"
     },
     "83350000": {
         "deprecated": false,
@@ -5976,5 +6039,117 @@
         "id": 83350479,
         "alias": "Contents.CashShop.Item.Name.9710321",
         "text": "4-STEP 보너스"
+    },
+    "83350480": {
+        "deprecated": false,
+        "Dev_Desc": "운명의 성도 성장 패키지",
+        "id": 83350480,
+        "alias": "Contents.CashShop.Item.Name.9710322",
+        "text": "운명의 성도 성장 패키지"
+    },
+    "83350481": {
+        "deprecated": false,
+        "Dev_Desc": "운명의 성도 성장 패키지 [실지급품]",
+        "id": 83350481,
+        "alias": "Contents.CashShop.Item.Name.9850180",
+        "text": "운명의 성도 성장 패키지"
+    },
+    "83350482": {
+        "deprecated": false,
+        "Dev_Desc": "운명의 성도 성장 패키지 [빛나는 깜짝 상자]",
+        "id": 83350482,
+        "alias": "Contents.CashShop.Item.Name.9850181",
+        "text": "빛나는 깜짝 상자(확률)"
+    },
+    "83350483": {
+        "deprecated": false,
+        "Dev_Desc": "운명의 성도 성장 패키지 [찬란한 깜짝 상자]",
+        "id": 83350483,
+        "alias": "Contents.CashShop.Item.Name.9850182",
+        "text": "찬란한 깜짝 상자(확률)"
+    },
+    "83350484": {
+        "deprecated": false,
+        "Dev_Desc": "운명의 성도 성장 패키지 [운명의 별빛 상자]",
+        "id": 83350484,
+        "alias": "Contents.CashShop.Item.Name.9850183",
+        "text": "운명의 별빛 상자"
+    },
+    "83350485": {
+        "deprecated": false,
+        "Dev_Desc": "운명의 성도 성장 패키지 [시간의 열쇠 상자 I]",
+        "id": 83350485,
+        "alias": "Contents.CashShop.Item.Name.9850184",
+        "text": "시간의 열쇠 상자 I"
+    },
+    "83350486": {
+        "deprecated": false,
+        "Dev_Desc": "운명의 성도 성장 패키지 [시간의 열쇠 상자 II]",
+        "id": 83350486,
+        "alias": "Contents.CashShop.Item.Name.9850185",
+        "text": "시간의 열쇠 상자 II"
+    },
+    "83350487": {
+        "deprecated": false,
+        "Dev_Desc": "특별 소울 소환 / 시로, 회귀자 아랑, 서중문 / 1회",
+        "id": 83350487,
+        "alias": "Contents.CashShop.Item.Name.9710323",
+        "text": "특별 소울 소환 1회"
+    },
+    "83350488": {
+        "deprecated": false,
+        "Dev_Desc": "특별 소울 소환 / 시로, 회귀자 아랑, 서중문 / 11회",
+        "id": 83350488,
+        "alias": "Contents.CashShop.Item.Name.9710324",
+        "text": "특별 소울 소환 11회"
+    },
+    "83350489": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 전투 성장 지원 패키지",
+        "id": 83350489,
+        "alias": "Contents.CashShop.Item.Name.9710325",
+        "text": "야루의 전투 성장 지원 패키지"
+    },
+    "83350490": {
+        "deprecated": false,
+        "Dev_Desc": "화려한 해룡의 상자",
+        "id": 83350490,
+        "alias": "Contents.CashShop.Item.Name.9850186",
+        "text": "화려한 해룡의 상자"
+    },
+    "83350491": {
+        "deprecated": false,
+        "Dev_Desc": "서버 이전권",
+        "id": 83350491,
+        "alias": "Contents.CashShop.Item.Name.9850187",
+        "text": "서버 이전권"
+    },
+    "83350492": {
+        "deprecated": false,
+        "Dev_Desc": "해룡의 상자 1개",
+        "id": 83350492,
+        "alias": "Contents.CashShop.Item.Name.9710326",
+        "text": "해룡의 상자 1개"
+    },
+    "83350493": {
+        "deprecated": false,
+        "Dev_Desc": "해룡의 상자 11개",
+        "id": 83350493,
+        "alias": "Contents.CashShop.Item.Name.9710327",
+        "text": "해룡의 상자 11개"
+    },
+    "83350494": {
+        "deprecated": false,
+        "Dev_Desc": "화려한 해룡의 상자",
+        "id": 83350494,
+        "alias": "Contents.CashShop.Item.Name.9710328",
+        "text": "화려한 해룡의 상자"
+    },
+    "83350495": {
+        "deprecated": false,
+        "Dev_Desc": "토벌 패스권",
+        "id": 83350495,
+        "alias": "Contents.CashShop.Item.Name.9710329",
+        "text": "토벌 패스권"
     }
 }

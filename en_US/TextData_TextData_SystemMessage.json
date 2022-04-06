@@ -8011,5 +8011,33 @@
         "id": 9001208,
         "alias": "SysM.YaruBox.MsgT.StopAuto",
         "text": "Automatic repetition has been interrupted."
+    },
+    "9001209": {
+        "deprecated": false,
+        "Dev_Desc": "신규 혜택 종료 메세지",
+        "id": 9001209,
+        "alias": "SysM.Newbie.End",
+        "text": "New benefits have been terminated."
+    },
+    "9001210": {
+        "deprecated": false,
+        "Dev_Desc": "복귀 혜택 종료 메세지",
+        "id": 9001210,
+        "alias": "SysM.Returner.End",
+        "text": "Return benefits have been terminated."
+    },
+    "9001211": {
+        "deprecated": false,
+        "Dev_Desc": "상점 구매 메시지 / 다품종 구매 시",
+        "id": 9001211,
+        "alias": "SysM.Item.Shop.BuyItemResult.Multiple",
+        "text": "<arg p=[1:string]/><arg p=[2:integer]/>I bought a species of the species."
+    },
+    "9001212": {
+        "deprecated": false,
+        "Dev_Desc": "문파 시스템 / 해산 / 연합 가입됨",
+        "id": 9001212,
+        "alias": "SysM.Guild.Dissolution.JoinUnite",
+        "text": "Moonwha members subscribed to the federation can not be dissolved."
     }
 }
