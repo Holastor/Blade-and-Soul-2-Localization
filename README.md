@@ -22,13 +22,11 @@
 
 ## Install
 
-* ONLY PC
 * [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/releases/tag/3.0.2) Latest Release;
 * Unpack Localization.04.09.22.zip to \GameFolder\B2\Content\;
 * Run Choose Language.bat as administrator, choose which language you need.
 * That's all folks!
 ## OR Source-Install
-* ONLY PC
 * Download Source code (zip) [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/archive/refs/heads/main.zip)
 * You need to download the source code and unpack it
 * In the /Blade-and-Soul-2-Localization-main/ folder there is an en_US folder, its contents must be transferred in the folder \Game Folder\B2\Data\Text\
