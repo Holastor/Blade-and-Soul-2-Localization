@@ -31041,5 +31041,138 @@
         "id": 8004526,
         "alias": "UI.Craft.CustomCategory.1stWeek",
         "text": "1个停车有限的生产"
+    },
+    "8004527": {
+        "deprecated": false,
+        "Dev_Desc": "HUD / 연합 창설 메시지",
+        "id": 8004527,
+        "alias": "UI.HUDMessage.UniteFoundation",
+        "text": "联邦"
+    },
+    "8004528": {
+        "deprecated": false,
+        "Dev_Desc": "HUD / 연합 가입 메시지",
+        "id": 8004528,
+        "alias": "UI.HUDMessage.UniteJoin",
+        "text": "联盟订阅"
+    },
+    "8004529": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 정보 / 전투 / 전투 집중 모드",
+        "id": 8004529,
+        "alias": "UI.Option.Information.Battle.Mode.Name_01",
+        "text": "显示模式1"
+    },
+    "8004530": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 정보 / 전투 / 전투 집중 모드",
+        "id": 8004530,
+        "alias": "UI.Option.Information.Battle.Mode.Name_02",
+        "text": "显示模式2"
+    },
+    "8004531": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 정보 / 전투 / 전투 집중 모드",
+        "id": 8004531,
+        "alias": "UI.Option.Information.Battle.Mode.PlayerName",
+        "text": "显示玩家名称"
+    },
+    "8004532": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 정보 / 전투 / 전투 집중 모드",
+        "id": 8004532,
+        "alias": "UI.Option.Information.Battle.Mode.Me",
+        "text": "我"
+    },
+    "8004533": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 정보 / 전투 / 전투 집중 모드",
+        "id": 8004533,
+        "alias": "UI.Option.Information.Battle.Mode.MyGuild",
+        "text": "月亮"
+    },
+    "8004534": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 정보 / 전투 / 전투 집중 모드",
+        "id": 8004534,
+        "alias": "UI.Option.Information.Battle.Mode.AllianceGuild",
+        "text": "联盟月亮帕"
+    },
+    "8004535": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 정보 / 전투 / 전투 집중 모드",
+        "id": 8004535,
+        "alias": "UI.Option.Information.Battle.Mode.EnemyGuild",
+        "text": "敌对."
+    },
+    "8004536": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 정보 / 전투 / 전투 집중 모드",
+        "id": 8004536,
+        "alias": "UI.Option.Information.Battle.Mode.Friend",
+        "text": "friend"
+    },
+    "8004537": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 정보 / 전투 / 전투 집중 모드",
+        "id": 8004537,
+        "alias": "UI.Option.Information.Battle.Mode.Alret",
+        "text": "边界"
+    },
+    "8004538": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 정보 / 전투 / 전투 집중 모드",
+        "id": 8004538,
+        "alias": "UI.Option.Information.Battle.Mode.Party",
+        "text": "派对"
+    },
+    "8004539": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 정보 / 전투 / 금화/경험치 획득량",
+        "id": 8004539,
+        "alias": "UI.Option.Information.Battle.Gotten",
+        "text": "标记/体验收益"
+    },
+    "8004540": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 해룡의 정기",
+        "id": 8004540,
+        "alias": "UI.Craft.CustomCategory.2stWeek",
+        "text": "2周限制生产"
+    },
+    "8004541": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 해룡의 정기",
+        "id": 8004541,
+        "alias": "UI.Craft.CustomCategory.3stWeek",
+        "text": "3周有限的生产"
+    },
+    "8004542": {
+        "deprecated": false,
+        "Dev_Desc": "캐시상점[TX]/ 플레이 등급 팝업 / 타이틀",
+        "id": 8004542,
+        "alias": "UI.CashShop.TX.PlayGradePopUp.Title",
+        "text": "播放指南"
+    },
+    "8004543": {
+        "deprecated": false,
+        "Dev_Desc": "캐시상점[TX]/ 플레이 등급 팝업 / 컬럼 / 플레이 등급",
+        "id": 8004543,
+        "alias": "UI.CashShop.TX.PlayGradePopUp.Column1",
+        "text": "游戏评级"
+    },
+    "8004544": {
+        "deprecated": false,
+        "Dev_Desc": "캐시상점[TX]/ 플레이 등급 팝업 / 컬럼 / 필요 점수",
+        "id": 8004544,
+        "alias": "UI.CashShop.TX.PlayGradePopUp.Column2",
+        "text": "需要得分"
+    },
+    "8004545": {
+        "deprecated": false,
+        "Dev_Desc": "캐시상점[TX]/ 플레이 등급 팝업 / 설명",
+        "id": 8004545,
+        "alias": "UI.CashShop.TX.PlayGradePopUp.Desc",
+        "text": "购买冒险和某些商品时可以获得戏剧。"
     }
 }

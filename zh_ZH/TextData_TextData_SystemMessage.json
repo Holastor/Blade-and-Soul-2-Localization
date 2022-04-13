@@ -7884,7 +7884,7 @@
         "Dev_Desc": "거래소 / 월드 거래소 / 등록 수수료 부족",
         "id": 9001190,
         "alias": "SysM.WorldMarket.Sale.LackItem",
-        "text": "<arg p=[1:string]/><ga />您无法注册缺少。"
+        "text": "<arg p=[1:string]/><ga/>您无法注册缺少。"
     },
     "9001191": {
         "deprecated": false,
@@ -7968,7 +7968,7 @@
         "Dev_Desc": "보패 / 프리셋 변경",
         "id": 9001202,
         "alias": "SysM.Bopae.Equip",
-        "text": "<arg p = [1：整数] />前缀组合的数量。"
+        "text": "<arg p=[1:integer]/>前缀组合的数量。"
     },
     "9001203": {
         "deprecated": false,
@@ -8031,7 +8031,7 @@
         "Dev_Desc": "상점 구매 메시지 / 다품종 구매 시",
         "id": 9001211,
         "alias": "SysM.Item.Shop.BuyItemResult.Multiple",
-        "text": "<arg p = [1：字符串] /> <arg p = [2：整数] />我买了一个物种。"
+        "text": "<arg p=[1:string]/><arg p=[2:integer]/>我买了一个物种。"
     },
     "9001212": {
         "deprecated": false,
@@ -8039,5 +8039,40 @@
         "id": 9001212,
         "alias": "SysM.Guild.Dissolution.JoinUnite",
         "text": "登上联邦的Moonwha成员无法解散。"
+    },
+    "9001213": {
+        "deprecated": false,
+        "Dev_Desc": "문파 시스템 / 적대 / 추가 / 소속 연합",
+        "id": 9001213,
+        "alias": "SysM.Guild.GuildEnemy.Add.SendMyUnite",
+        "text": "他订阅的联合会无法增加敌对。"
+    },
+    "9001214": {
+        "deprecated": false,
+        "Dev_Desc": "문파 시스템 / 동맹 / 요청 / 소속 연합",
+        "id": 9001214,
+        "alias": "SysM.Guild.GuildAlliance.Add.SendMyUnite",
+        "text": "他订阅的联合会无法将其添加到联盟中。"
+    },
+    "9001215": {
+        "deprecated": false,
+        "Dev_Desc": "문파 시스템 / 적대 / 추가 / 소속 연합의 소속 문파",
+        "id": 9001215,
+        "alias": "SysM.Guild.GuildEnemy.Add.SendMyUniteMember",
+        "text": "<arg p=[1:string]/><eun/>无法添加到Hostile到附属Moonwa。"
+    },
+    "9001216": {
+        "deprecated": false,
+        "Dev_Desc": "문파 시스템 / 동맹 / 요청 / 소속 연합의 소속 문파",
+        "id": 9001216,
+        "alias": "SysM.Guild.GuildAlliance.Add.SendMyUniteMember",
+        "text": "<arg p=[1:string]/><eun/>联盟无法与联 邦门添加到联盟中。"
+    },
+    "9001217": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 상자 / 재련중단 시 토스트 메시지",
+        "id": 9001217,
+        "alias": "SysM.YaruBox.MsgT.AlarmHalt",
+        "text": "分布在进行重复后停止。"
     }
 }

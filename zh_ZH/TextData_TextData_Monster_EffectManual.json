@@ -873,5 +873,54 @@
         "id": 61000125,
         "alias": "Contents.Effect.Option.Monster.212660062",
         "text": "没有不可移动的\\n不可用\\n无需使用任何物品"
+    },
+    "61000126": {
+        "deprecated": false,
+        "Dev_Desc": "얼음_이름",
+        "id": 61000126,
+        "alias": "Contents.Effect.Name.Monster.113570212",
+        "text": "冰"
+    },
+    "61000127": {
+        "deprecated": false,
+        "Dev_Desc": "얼음_설명",
+        "id": 61000127,
+        "alias": "Contents.Effect.Desc.Monster.113570212",
+        "text": "冰"
+    },
+    "61000128": {
+        "deprecated": false,
+        "Dev_Desc": "얼음_옵션",
+        "id": 61000128,
+        "alias": "Contents.Effect.Option.Monster.113570212",
+        "text": "没有不可移动的\\n不可用\\n无需使用任何物品"
+    },
+    "61000129": {
+        "deprecated": false,
+        "Dev_Desc": "눈꽃_이름",
+        "id": 61000129,
+        "alias": "Contents.Effect.Name.Monster.250830112",
+        "text": "雪花"
+    },
+    "61000130": {
+        "deprecated": false,
+        "Dev_Desc": "눈꽃_설명",
+        "id": 61000130,
+        "alias": "Contents.Effect.Desc.Monster.250830112",
+        "text": "当雪花完成时，"
+    },
+    "61000131": {
+        "deprecated": false,
+        "Dev_Desc": "눈꽃_옵션",
+        "id": 61000131,
+        "alias": "Contents.Effect.Option.Monster.250830112",
+        "text": "冻结时没有不可忽视，没有不可引起的，没有非免费使用\\n。"
+    },
+    "61000132": {
+        "deprecated": false,
+        "Dev_Desc": "눈꽃_세부",
+        "id": 61000132,
+        "alias": "Contents.Effect.Detail.Monster.250830112",
+        "text": "在雪花期间，我不会在冰脆上冻结。"
     }
 }

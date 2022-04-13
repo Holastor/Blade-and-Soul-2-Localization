@@ -8038,9 +8038,9 @@
     "9001190": {
         "Dev_Desc": "거래소 / 월드 거래소 / 등록 수수료 부족",
         "Original_Text": "<arg p=[1:string]/><ga/> 부족하여 등록할 수 없습니다.",
-        "English_Text": "<arg p=[1:string]/><GA /> You can not register in lacking.",
+        "English_Text": "<arg p=[1:string]/><ga/> You can not register in lacking.",
         "Russian_Text": "",
-        "Chinese_Text": "<arg p=[1:string]/><ga />您无法注册缺少。"
+        "Chinese_Text": "<arg p=[1:string]/><ga/>您无法注册缺少。"
     },
     "9001191": {
         "Dev_Desc": "거래소 / 월드 거래소 / 일괄 회수 실패 / 다른 서버 물품",
@@ -8122,9 +8122,9 @@
     "9001202": {
         "Dev_Desc": "보패 / 프리셋 변경",
         "Original_Text": "<arg p=[1:integer]/>번 보패 조합을 장착했습니다.",
-        "English_Text": "<arg p = [1: Integer] /> Number of prefix combinations.",
+        "English_Text": "<arg p=[1:integer]/> Number of prefix combinations.",
         "Russian_Text": "",
-        "Chinese_Text": "<arg p = [1：整数] />前缀组合的数量。"
+        "Chinese_Text": "<arg p=[1:integer]/>前缀组合的数量。"
     },
     "9001203": {
         "Dev_Desc": "장비도감 / 대체 / 등록 / 미선택",
@@ -8187,7 +8187,7 @@
         "Original_Text": "<arg p=[1:string]/> 외 <arg p=[2:integer]/>종의 물품을 구매했습니다.",
         "English_Text": "<arg p=[1:string]/><arg p=[2:integer]/>I bought a species of the species.",
         "Russian_Text": "",
-        "Chinese_Text": "<arg p = [1：字符串] /> <arg p = [2：整数] />我买了一个物种。"
+        "Chinese_Text": "<arg p=[1:string]/><arg p=[2:integer]/>我买了一个物种。"
     },
     "9001212": {
         "Dev_Desc": "문파 시스템 / 해산 / 연합 가입됨",
@@ -8195,5 +8195,40 @@
         "English_Text": "Moonwha members subscribed to the federation can not be dissolved.",
         "Russian_Text": "",
         "Chinese_Text": "登上联邦的Moonwha成员无法解散。"
+    },
+    "9001213": {
+        "Dev_Desc": "문파 시스템 / 적대 / 추가 / 소속 연합",
+        "Original_Text": "자신이 가입한 연합은 적대에 추가할 수 없습니다.",
+        "English_Text": "The federation that he subscribed is not able to add to hostile.",
+        "Russian_Text": "",
+        "Chinese_Text": "他订阅的联合会无法增加敌对。"
+    },
+    "9001214": {
+        "Dev_Desc": "문파 시스템 / 동맹 / 요청 / 소속 연합",
+        "Original_Text": "자신이 가입한 연합은 동맹에 추가할 수 없습니다.",
+        "English_Text": "The federation that he subscribed is not able to add it to the alliance.",
+        "Russian_Text": "",
+        "Chinese_Text": "他订阅的联合会无法将其添加到联盟中。"
+    },
+    "9001215": {
+        "Dev_Desc": "문파 시스템 / 적대 / 추가 / 소속 연합의 소속 문파",
+        "Original_Text": "<arg p=[1:string]/><eun/> 연합의 소속 문파로 적대에 추가할 수 없습니다.",
+        "English_Text": "<arg p=[1:string]/><eun/> Unable to add to the hostile to the affiliated Moonwa.",
+        "Russian_Text": "",
+        "Chinese_Text": "<arg p=[1:string]/><eun/>无法添加到Hostile到附属Moonwa。"
+    },
+    "9001216": {
+        "Dev_Desc": "문파 시스템 / 동맹 / 요청 / 소속 연합의 소속 문파",
+        "Original_Text": "<arg p=[1:string]/><eun/> 연합의 소속 문파로 동맹에 추가할 수 없습니다.",
+        "English_Text": "<arg p=[1:string]/><eun/> Union can not be added to the alliance with the federal door.",
+        "Russian_Text": "",
+        "Chinese_Text": "<arg p=[1:string]/><eun/>联盟无法与联 邦门添加到联盟中。"
+    },
+    "9001217": {
+        "Dev_Desc": "야루의 상자 / 재련중단 시 토스트 메시지",
+        "Original_Text": "진행 중인 재련 완료 후 재련이 중지됩니다.",
+        "English_Text": "Distribution is stopped after the progress is duplicated.",
+        "Russian_Text": "",
+        "Chinese_Text": "分布在进行重复后停止。"
     }
 }

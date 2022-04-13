@@ -284,42 +284,42 @@
         "Dev_Desc": "치환",
         "id": 60070040,
         "alias": "Contents.Skill.Name.RitualBell.7271",
-        "text": "치환"
+        "text": "替代"
     },
     "60070041": {
         "deprecated": false,
         "Dev_Desc": "치환",
         "id": 60070041,
         "alias": "Contents.Skill.Desc.RitualBell.7271",
-        "text": "기본 공격 시 일정 확률로 치유력에 비례하여 추가 피해를 입힙니다."
+        "text": "在默认攻击中，某些概率与愈合成比例成正比。"
     },
     "60070042": {
         "deprecated": false,
         "Dev_Desc": "항음",
         "id": 60070042,
         "alias": "Contents.Skill.Name.RitualBell.7281",
-        "text": "항음"
+        "text": "哀歌"
     },
     "60070043": {
         "deprecated": false,
         "Dev_Desc": "항음",
         "id": 60070043,
         "alias": "Contents.Skill.Desc.RitualBell.7281",
-        "text": "항마의 기운을 음에 담아냅니다."
+        "text": "它包含马的能量。"
     },
     "60070044": {
         "deprecated": false,
         "Dev_Desc": "예음",
         "id": 60070044,
         "alias": "Contents.Skill.Name.RitualBell.7291",
-        "text": "예음"
+        "text": "急性"
     },
     "60070045": {
         "deprecated": false,
         "Dev_Desc": "예음",
         "id": 60070045,
         "alias": "Contents.Skill.Desc.RitualBell.7291",
-        "text": "예리한 기운을 음에 담아냅니다."
+        "text": "我付出了敏锐的能量。"
     },
     "60070100": {
         "deprecated": false,
@@ -536,21 +536,21 @@
         "Dev_Desc": "굉섬뢰_증폭_설명",
         "id": 60070130,
         "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7132",
-        "text": "내력 소모량 -4"
+        "text": "强度消耗 -  4"
     },
     "60070131": {
         "deprecated": false,
         "Dev_Desc": "굉섬뢰_극한_설명",
         "id": 60070131,
         "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7133",
-        "text": "피해량 증가"
+        "text": "增加伤害"
     },
     "60070132": {
         "deprecated": false,
         "Dev_Desc": "굉섬뢰_돌파_설명",
         "id": 60070132,
         "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7134",
-        "text": "일정 확률로 소모한 내력의 절반을 반환"
+        "text": "返回以某种概率消耗的一半历史"
     },
     "60070200": {
         "deprecated": false,
@@ -658,9 +658,9 @@
     },
     "60070216": {
         "deprecated": false,
-        "Dev_Desc": "수호_효과",
+        "Dev_Desc": "수호_돌파_효과",
         "id": 60070216,
-        "alias": "Contents.Skill.UseEffect.RitualBell.7081",
+        "alias": "Contents.Skill.UseEffect.RitualBell.7084",
         "text": "气绝,解除冰洁"
     },
     "60070217": {
@@ -729,21 +729,21 @@
         "Dev_Desc": "통달_효과",
         "id": 60070226,
         "alias": "Contents.Skill.UseEffect.RitualBell.7261",
-        "text": "통제 저항률 +8.0%"
+        "text": "控制电阻率8.0％"
     },
     "60070227": {
         "deprecated": false,
         "Dev_Desc": "항음_효과",
         "id": 60070227,
         "alias": "Contents.Skill.UseEffect.RitualBell.7281",
-        "text": "PVE 공격력 +10, 보스 공격력 +5"
+        "text": "PVE攻击力10，老板损坏5"
     },
     "60070228": {
         "deprecated": false,
         "Dev_Desc": "예음_효과",
         "id": 60070228,
         "alias": "Contents.Skill.UseEffect.RitualBell.7291",
-        "text": "PVE 관통력 +5, 보스 관통력 +5"
+        "text": "PVE渗透5，老板渗透5"
     },
     "60070300": {
         "deprecated": false,
@@ -1346,5 +1346,54 @@
         "id": 60070515,
         "alias": "Contents.Skill.Upgrade.Name.7015",
         "text": "《移动速度步》"
+    },
+    "60070516": {
+        "deprecated": false,
+        "Dev_Desc": "심판_돌파_효과 툴팁",
+        "id": 60070516,
+        "alias": "Contents.Skill.UseEffect.RitualBell.7041",
+        "text": "令人惊叹的，耻辱"
+    },
+    "60070517": {
+        "deprecated": false,
+        "Dev_Desc": "청화_돌파 툴팁",
+        "id": 60070517,
+        "alias": "Contents.Skill.Desc.RitualBell.7104",
+        "text": "目标具有商业的权力청청청。 \\n 3连续纹理使用时，拆除工作的效果仅应用于第一次罢工。"
+    },
+    "60070518": {
+        "deprecated": false,
+        "Dev_Desc": "낙인_버프창",
+        "id": 60070518,
+        "alias": "Contents.Effect.Name.RitualBell.704199",
+        "text": "柱头"
+    },
+    "60070519": {
+        "deprecated": false,
+        "Dev_Desc": "낙인_버프창",
+        "id": 60070519,
+        "alias": "Contents.Effect.Desc.RitualBell.704199",
+        "text": "减少敌人不规则的时间"
+    },
+    "60070520": {
+        "deprecated": false,
+        "Dev_Desc": "낙인_버프창",
+        "id": 60070520,
+        "alias": "Contents.Effect.Option.RitualBell.704199",
+        "text": "裁判延迟-1秒\\n（重用时间2秒）"
+    },
+    "60070521": {
+        "deprecated": false,
+        "Dev_Desc": "수호_기본_효과",
+        "id": 60070521,
+        "alias": "Contents.Skill.UseEffect.RitualBell.7081",
+        "text": "减少损害减少10％"
+    },
+    "60070522": {
+        "deprecated": false,
+        "Dev_Desc": "수호_극한_효과",
+        "id": 60070522,
+        "alias": "Contents.Skill.UseEffect.RitualBell.7083",
+        "text": "减少损害才能获得15％"
     }
 }

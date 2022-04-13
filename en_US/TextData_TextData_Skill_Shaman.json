@@ -284,42 +284,42 @@
         "Dev_Desc": "치환",
         "id": 60070040,
         "alias": "Contents.Skill.Name.RitualBell.7271",
-        "text": "치환"
+        "text": "substitution"
     },
     "60070041": {
         "deprecated": false,
         "Dev_Desc": "치환",
         "id": 60070041,
         "alias": "Contents.Skill.Desc.RitualBell.7271",
-        "text": "기본 공격 시 일정 확률로 치유력에 비례하여 추가 피해를 입힙니다."
+        "text": "In the default attack, the certain probability is proportional to the healing force in proportion to the healing."
     },
     "60070042": {
         "deprecated": false,
         "Dev_Desc": "항음",
         "id": 60070042,
         "alias": "Contents.Skill.Name.RitualBell.7281",
-        "text": "항음"
+        "text": "Lamentation"
     },
     "60070043": {
         "deprecated": false,
         "Dev_Desc": "항음",
         "id": 60070043,
         "alias": "Contents.Skill.Desc.RitualBell.7281",
-        "text": "항마의 기운을 음에 담아냅니다."
+        "text": "It contains the energy of the Horse."
     },
     "60070044": {
         "deprecated": false,
         "Dev_Desc": "예음",
         "id": 60070044,
         "alias": "Contents.Skill.Name.RitualBell.7291",
-        "text": "예음"
+        "text": "acute"
     },
     "60070045": {
         "deprecated": false,
         "Dev_Desc": "예음",
         "id": 60070045,
         "alias": "Contents.Skill.Desc.RitualBell.7291",
-        "text": "예리한 기운을 음에 담아냅니다."
+        "text": "I put a sharp energy."
     },
     "60070100": {
         "deprecated": false,
@@ -536,21 +536,21 @@
         "Dev_Desc": "굉섬뢰_증폭_설명",
         "id": 60070130,
         "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7132",
-        "text": "내력 소모량 -4"
+        "text": "Strength Consumption - 4"
     },
     "60070131": {
         "deprecated": false,
         "Dev_Desc": "굉섬뢰_극한_설명",
         "id": 60070131,
         "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7133",
-        "text": "피해량 증가"
+        "text": "Increased damage"
     },
     "60070132": {
         "deprecated": false,
         "Dev_Desc": "굉섬뢰_돌파_설명",
         "id": 60070132,
         "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7134",
-        "text": "일정 확률로 소모한 내력의 절반을 반환"
+        "text": "Returns half of the history consumed with a certain probability"
     },
     "60070200": {
         "deprecated": false,
@@ -658,9 +658,9 @@
     },
     "60070216": {
         "deprecated": false,
-        "Dev_Desc": "수호_효과",
+        "Dev_Desc": "수호_돌파_효과",
         "id": 60070216,
-        "alias": "Contents.Skill.UseEffect.RitualBell.7081",
+        "alias": "Contents.Skill.UseEffect.RitualBell.7084",
         "text": "stun, unfreeze"
     },
     "60070217": {
@@ -729,21 +729,21 @@
         "Dev_Desc": "통달_효과",
         "id": 60070226,
         "alias": "Contents.Skill.UseEffect.RitualBell.7261",
-        "text": "통제 저항률 +8.0%"
+        "text": "Control resistivity 8.0%"
     },
     "60070227": {
         "deprecated": false,
         "Dev_Desc": "항음_효과",
         "id": 60070227,
         "alias": "Contents.Skill.UseEffect.RitualBell.7281",
-        "text": "PVE 공격력 +10, 보스 공격력 +5"
+        "text": "PVE Attack Power 10, Boss Damage 5"
     },
     "60070228": {
         "deprecated": false,
         "Dev_Desc": "예음_효과",
         "id": 60070228,
         "alias": "Contents.Skill.UseEffect.RitualBell.7291",
-        "text": "PVE 관통력 +5, 보스 관통력 +5"
+        "text": "PVE penetration 5, boss penetration 5"
     },
     "60070300": {
         "deprecated": false,
@@ -1346,5 +1346,54 @@
         "id": 60070515,
         "alias": "Contents.Skill.Upgrade.Name.7015",
         "text": "Move Speed ​​Step"
+    },
+    "60070516": {
+        "deprecated": false,
+        "Dev_Desc": "심판_돌파_효과 툴팁",
+        "id": 60070516,
+        "alias": "Contents.Skill.UseEffect.RitualBell.7041",
+        "text": "Stunning, stigma"
+    },
+    "60070517": {
+        "deprecated": false,
+        "Dev_Desc": "청화_돌파 툴팁",
+        "id": 60070517,
+        "alias": "Contents.Skill.Desc.RitualBell.7104",
+        "text": "Targets with the power of a commerce 청 청 공. \\n 3 Continuous texture When use, the effect of removal of the work is applied only to the first strike."
+    },
+    "60070518": {
+        "deprecated": false,
+        "Dev_Desc": "낙인_버프창",
+        "id": 60070518,
+        "alias": "Contents.Effect.Name.RitualBell.704199",
+        "text": "stigma"
+    },
+    "60070519": {
+        "deprecated": false,
+        "Dev_Desc": "낙인_버프창",
+        "id": 60070519,
+        "alias": "Contents.Effect.Desc.RitualBell.704199",
+        "text": "Reduced enemy-irregular time"
+    },
+    "60070520": {
+        "deprecated": false,
+        "Dev_Desc": "낙인_버프창",
+        "id": 60070520,
+        "alias": "Contents.Effect.Option.RitualBell.704199",
+        "text": "\"Referee\" latency -1 seconds \\n (reuse time 2 seconds)"
+    },
+    "60070521": {
+        "deprecated": false,
+        "Dev_Desc": "수호_기본_효과",
+        "id": 60070521,
+        "alias": "Contents.Skill.UseEffect.RitualBell.7081",
+        "text": "Reduced Damage Reduction 10%"
+    },
+    "60070522": {
+        "deprecated": false,
+        "Dev_Desc": "수호_극한_효과",
+        "id": 60070522,
+        "alias": "Contents.Skill.UseEffect.RitualBell.7083",
+        "text": "Reduced damage to receive 15%"
     }
 }

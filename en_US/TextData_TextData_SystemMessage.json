@@ -7884,7 +7884,7 @@
         "Dev_Desc": "거래소 / 월드 거래소 / 등록 수수료 부족",
         "id": 9001190,
         "alias": "SysM.WorldMarket.Sale.LackItem",
-        "text": "<arg p=[1:string]/><GA /> You can not register in lacking."
+        "text": "<arg p=[1:string]/><ga/> You can not register in lacking."
     },
     "9001191": {
         "deprecated": false,
@@ -7968,7 +7968,7 @@
         "Dev_Desc": "보패 / 프리셋 변경",
         "id": 9001202,
         "alias": "SysM.Bopae.Equip",
-        "text": "<arg p = [1: Integer] /> Number of prefix combinations."
+        "text": "<arg p=[1:integer]/> Number of prefix combinations."
     },
     "9001203": {
         "deprecated": false,
@@ -8039,5 +8039,40 @@
         "id": 9001212,
         "alias": "SysM.Guild.Dissolution.JoinUnite",
         "text": "Moonwha members subscribed to the federation can not be dissolved."
+    },
+    "9001213": {
+        "deprecated": false,
+        "Dev_Desc": "문파 시스템 / 적대 / 추가 / 소속 연합",
+        "id": 9001213,
+        "alias": "SysM.Guild.GuildEnemy.Add.SendMyUnite",
+        "text": "The federation that he subscribed is not able to add to hostile."
+    },
+    "9001214": {
+        "deprecated": false,
+        "Dev_Desc": "문파 시스템 / 동맹 / 요청 / 소속 연합",
+        "id": 9001214,
+        "alias": "SysM.Guild.GuildAlliance.Add.SendMyUnite",
+        "text": "The federation that he subscribed is not able to add it to the alliance."
+    },
+    "9001215": {
+        "deprecated": false,
+        "Dev_Desc": "문파 시스템 / 적대 / 추가 / 소속 연합의 소속 문파",
+        "id": 9001215,
+        "alias": "SysM.Guild.GuildEnemy.Add.SendMyUniteMember",
+        "text": "<arg p=[1:string]/><eun/> Unable to add to the hostile to the affiliated Moonwa."
+    },
+    "9001216": {
+        "deprecated": false,
+        "Dev_Desc": "문파 시스템 / 동맹 / 요청 / 소속 연합의 소속 문파",
+        "id": 9001216,
+        "alias": "SysM.Guild.GuildAlliance.Add.SendMyUniteMember",
+        "text": "<arg p=[1:string]/><eun/> Union can not be added to the alliance with the federal door."
+    },
+    "9001217": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 상자 / 재련중단 시 토스트 메시지",
+        "id": 9001217,
+        "alias": "SysM.YaruBox.MsgT.AlarmHalt",
+        "text": "Distribution is stopped after the progress is duplicated."
     }
 }
