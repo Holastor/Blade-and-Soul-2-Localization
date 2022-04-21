@@ -2722,27 +2722,328 @@
         "Dev_Desc": "붉은 달 사막",
         "id": 8356,
         "alias": "Contents.Zone.Name.8356",
-        "text": "뒤틀린 수호병 유적지"
+        "text": "뒤틀린 유적지"
     },
     "8357": {
         "deprecated": false,
         "Dev_Desc": "희생의 무덤 던전 이름_지옥",
         "id": 8357,
         "alias": "Contents.Zone.Name.8357",
-        "text": "희생의 무덤(지옥) - 1구역"
+        "text": "희생의 무덤(수라) - 1구역"
     },
     "8358": {
         "deprecated": false,
         "Dev_Desc": "희생의 무덤 Desc_지옥_1구역",
         "id": 8358,
         "alias": "Contents.Zone.Name.8358",
-        "text": "희생의 무덤 깊은 곳에 있는 북곤패 도굴꾼 행동대장 비천한과 미진한 형제가 우리를 기다린다."
+        "text": "희생의 무덤 깊은 곳에 있는 북곤패 도굴꾼 행동대장 비천한과 미진한이 우리를 기다린다."
     },
     "8359": {
         "deprecated": false,
-        "Dev_Desc": "희생의 무덤 Desc_지옥_1구역",
+        "Dev_Desc": "이벤트 던전 65레벨 추가",
         "id": 8359,
         "alias": "Contents.Zone.Name.8359",
         "text": "Lv.65"
+    },
+    "8360": {
+        "deprecated": false,
+        "Dev_Desc": "희생의 무덤(수라)",
+        "id": 8360,
+        "alias": "Contents.Zone.Name.8360",
+        "text": "희생의 무덤(수라) - 1구역"
+    },
+    "8361": {
+        "deprecated": false,
+        "Dev_Desc": "붉은 달 사막",
+        "id": 8361,
+        "alias": "Contents.Zone.Name.8361",
+        "text": "사막의 문턱"
+    },
+    "8362": {
+        "deprecated": false,
+        "Dev_Desc": "붉은 달 사막",
+        "id": 8362,
+        "alias": "Contents.Zone.Name.8362",
+        "text": "사막의 눈"
+    },
+    "8363": {
+        "deprecated": false,
+        "Dev_Desc": "붉은 달 사막",
+        "id": 8363,
+        "alias": "Contents.Zone.Name.8363",
+        "text": "뼈 그늘 평원"
+    },
+    "8364": {
+        "deprecated": false,
+        "Dev_Desc": "붉은 달 사막",
+        "id": 8364,
+        "alias": "Contents.Zone.Name.8364",
+        "text": "열기 고원"
+    },
+    "8365": {
+        "deprecated": false,
+        "Dev_Desc": "붉은 달 사막",
+        "id": 8365,
+        "alias": "Contents.Zone.Name.8365",
+        "text": "땅거미 곶"
+    },
+    "8366": {
+        "deprecated": false,
+        "Dev_Desc": "붉은 달 사막",
+        "id": 8366,
+        "alias": "Contents.Zone.Name.8366",
+        "text": "슬픔의 길"
+    },
+    "8367": {
+        "deprecated": false,
+        "Dev_Desc": "붉은 달 사막",
+        "id": 8367,
+        "alias": "Contents.Zone.Name.8367",
+        "text": "고통의 길"
+    },
+    "8368": {
+        "deprecated": false,
+        "Dev_Desc": "붉은 달 사막",
+        "id": 8368,
+        "alias": "Contents.Zone.Name.8368",
+        "text": "통곡의 길"
+    },
+    "8369": {
+        "deprecated": false,
+        "Dev_Desc": "붉은 달 사막",
+        "id": 8369,
+        "alias": "Contents.Zone.Name.8369",
+        "text": "절망의 제단"
+    },
+    "8370": {
+        "deprecated": false,
+        "Dev_Desc": "붉은 달 사막",
+        "id": 8370,
+        "alias": "Contents.Zone.Name.8370",
+        "text": "달의 길"
+    },
+    "8371": {
+        "deprecated": false,
+        "Dev_Desc": "붉은 달 사막",
+        "id": 8371,
+        "alias": "Contents.Zone.Name.8371",
+        "text": "무너진 채굴장"
+    },
+    "8372": {
+        "deprecated": false,
+        "Dev_Desc": "붉은 달 사막",
+        "id": 8372,
+        "alias": "Contents.Zone.Name.8372",
+        "text": "수호병 훈련장"
+    },
+    "8373": {
+        "deprecated": false,
+        "Dev_Desc": "붉은 달 사막",
+        "id": 8373,
+        "alias": "Contents.Zone.Name.8373",
+        "text": "사라진 채굴장"
+    },
+    "8374": {
+        "deprecated": false,
+        "Dev_Desc": "붉은 달 사막",
+        "id": 8374,
+        "alias": "Contents.Zone.Name.8374",
+        "text": "말라버린 도랑"
+    },
+    "8375": {
+        "deprecated": false,
+        "Dev_Desc": "붉은 달 사막",
+        "id": 8375,
+        "alias": "Contents.Zone.Name.8375",
+        "text": "수호병의 정원"
+    },
+    "8376": {
+        "deprecated": false,
+        "Dev_Desc": "붉은 달 사막",
+        "id": 8376,
+        "alias": "Contents.Zone.Name.8376",
+        "text": "제어의 광장"
+    },
+    "8377": {
+        "deprecated": false,
+        "Dev_Desc": "붉은 달 사막",
+        "id": 8377,
+        "alias": "Contents.Zone.Name.8377",
+        "text": "통제의 광장"
+    },
+    "8378": {
+        "deprecated": false,
+        "Dev_Desc": "붉은 달 사막",
+        "id": 8378,
+        "alias": "Contents.Zone.Name.8378",
+        "text": "명령의 광장"
+    },
+    "8379": {
+        "deprecated": false,
+        "Dev_Desc": "붉은 달 사막",
+        "id": 8379,
+        "alias": "Contents.Zone.Name.8379",
+        "text": "수호병의 길"
+    },
+    "8380": {
+        "deprecated": false,
+        "Dev_Desc": "붉은 달 사막",
+        "id": 8380,
+        "alias": "Contents.Zone.Name.8380",
+        "text": "균열의 틈"
+    },
+    "8381": {
+        "deprecated": false,
+        "Dev_Desc": "붉은 달 사막",
+        "id": 8381,
+        "alias": "Contents.Zone.Name.8381",
+        "text": "비틀린 틈"
+    },
+    "8382": {
+        "deprecated": false,
+        "Dev_Desc": "붉은 달 사막",
+        "id": 8382,
+        "alias": "Contents.Zone.Name.8382",
+        "text": "뒤엉킨 틈"
+    },
+    "8383": {
+        "deprecated": false,
+        "Dev_Desc": "붉은 달 사막",
+        "id": 8383,
+        "alias": "Contents.Zone.Name.8383",
+        "text": "뒤틀린 채굴장"
+    },
+    "8384": {
+        "deprecated": false,
+        "Dev_Desc": "붉은 달 사막",
+        "id": 8384,
+        "alias": "Contents.Zone.Name.8384",
+        "text": "뒤틀린 훈련장"
+    },
+    "8385": {
+        "deprecated": false,
+        "Dev_Desc": "붉은 달 사막",
+        "id": 8385,
+        "alias": "Contents.Zone.Name.8385",
+        "text": "갈라진 도랑"
+    },
+    "8386": {
+        "deprecated": false,
+        "Dev_Desc": "붉은 달 사막",
+        "id": 8386,
+        "alias": "Contents.Zone.Name.8386",
+        "text": "고대 정원"
+    },
+    "8387": {
+        "deprecated": false,
+        "Dev_Desc": "붉은 달 사막",
+        "id": 8387,
+        "alias": "Contents.Zone.Name.8387",
+        "text": "분열의 광장"
+    },
+    "8388": {
+        "deprecated": false,
+        "Dev_Desc": "붉은 달 사막",
+        "id": 8388,
+        "alias": "Contents.Zone.Name.8388",
+        "text": "혼돈의 광장"
+    },
+    "8389": {
+        "deprecated": false,
+        "Dev_Desc": "붉은 달 사막",
+        "id": 8389,
+        "alias": "Contents.Zone.Name.8389",
+        "text": "달의 정원"
+    },
+    "8390": {
+        "deprecated": false,
+        "Dev_Desc": "붉은 달 사막",
+        "id": 8390,
+        "alias": "Contents.Zone.Name.8390",
+        "text": "폭주의 광장"
+    },
+    "8391": {
+        "deprecated": false,
+        "Dev_Desc": "붉은 달 사막",
+        "id": 8391,
+        "alias": "Contents.Zone.Name.8391",
+        "text": "소형 연무장"
+    },
+    "8392": {
+        "deprecated": false,
+        "Dev_Desc": "붉은 달 사막",
+        "id": 8392,
+        "alias": "Contents.Zone.Name.8392",
+        "text": "대형 연무장"
+    },
+    "8393": {
+        "deprecated": false,
+        "Dev_Desc": "붉은 달 사막",
+        "id": 8393,
+        "alias": "Contents.Zone.Name.8393",
+        "text": "중앙 광장"
+    },
+    "8394": {
+        "deprecated": false,
+        "Dev_Desc": "붉은 달 사막",
+        "id": 8394,
+        "alias": "Contents.Zone.Name.8394",
+        "text": "호화로운 별채"
+    },
+    "8395": {
+        "deprecated": false,
+        "Dev_Desc": "붉은 달 사막",
+        "id": 8395,
+        "alias": "Contents.Zone.Name.8395",
+        "text": "아늑한 뜰"
+    },
+    "8396": {
+        "deprecated": false,
+        "Dev_Desc": "붉은 달 사막",
+        "id": 8396,
+        "alias": "Contents.Zone.Name.8396",
+        "text": "넉넉한 독채"
+    },
+    "8397": {
+        "deprecated": false,
+        "Dev_Desc": "희생의 무덤 던전 이름_지옥",
+        "id": 8397,
+        "alias": "Contents.Zone.Name.8397",
+        "text": "희생의 무덤(수라) - 2구역"
+    },
+    "8398": {
+        "deprecated": false,
+        "Dev_Desc": "희생의 무덤 Desc_지옥_1구역",
+        "id": 8398,
+        "alias": "Contents.Zone.Name.8398",
+        "text": "희생의 무덤 깊은 곳에 있는 북곤패 도굴꾼 행동대장 비천한과 미진한 형제가 우리를 기다린다."
+    },
+    "8399": {
+        "deprecated": false,
+        "Dev_Desc": "파티던전 난이도명",
+        "id": 8399,
+        "alias": "Contents.Zone.Name.8399",
+        "text": "초행"
+    },
+    "8400": {
+        "deprecated": false,
+        "Dev_Desc": "파티던전 난이도명",
+        "id": 8400,
+        "alias": "Contents.Zone.Name.8400",
+        "text": "보통"
+    },
+    "8401": {
+        "deprecated": false,
+        "Dev_Desc": "파티던전 난이도명",
+        "id": 8401,
+        "alias": "Contents.Zone.Name.8401",
+        "text": "어려움"
+    },
+    "8402": {
+        "deprecated": false,
+        "Dev_Desc": "파티던전 난이도명",
+        "id": 8402,
+        "alias": "Contents.Zone.Name.8402",
+        "text": "수라 1단"
     }
 }

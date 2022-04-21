@@ -2888,7 +2888,7 @@
         "Dev_Desc": "눈아웅 소모품 꾸러미_1",
         "id": 99000416,
         "alias": "Contents.Item.Desc.9000646",
-        "text": "눈아웅의 소모품 꾸러미입니다.\n\n사용 시 초급 회복 물약 100개와 영신단 10개를 획득할 수 있습니다."
+        "text": "눈아웅의 소모품 꾸러미입니다.\n\n사용 시 초급 회복 물약 100개와 왕만두 10개를 획득할 수 있습니다."
     },
     "99000417": {
         "deprecated": false,
@@ -3446,7 +3446,7 @@
         "Dev_Desc": "용정차(각인)_사용",
         "id": 99000500,
         "alias": "Contents.Item.Desc.9200104",
-        "text": "사용 시 내력 절대 재생이 증가합니다.\n효과는 5분간 지속됩니다.\n\n[사용 효과]\n내력 절대 재생 +15"
+        "text": "사용 시 내력 절대 재생이 증가합니다.\n효과는 5분간 지속됩니다.\n왕만두, 꿩만두, 백년초 만두 및 영신단의 버프 효과와 중첩되지 않습니다.\n\n[사용 효과]\n내력 절대 재생 +15"
     },
     "99000501": {
         "deprecated": false,
@@ -3460,28 +3460,28 @@
         "Dev_Desc": "왕만두 / 공격 1단계",
         "id": 99000502,
         "alias": "Contents.Item.Desc.9200106",
-        "text": "사용 시 공격 관련 능력치가 조금 증가합니다.\n효과는 30분간 지속됩니다.\n\n[사용 효과]\n공격력 +2"
+        "text": "사용 시 공격 관련 능력치가 조금 증가합니다.\n효과는 30분간 지속됩니다.\n\n[사용 효과]\n공격력 +2\n기본 공격 속도 +20%\n내력 절대 재생 +15"
     },
     "99000503": {
         "deprecated": false,
         "Dev_Desc": "꿩만두 / 공격 2단계",
         "id": 99000503,
         "alias": "Contents.Item.Desc.9200107",
-        "text": "사용 시 공격 관련 능력치가 증가합니다.\n효과는 30분간 지속됩니다.\n\n[사용 효과]\n공격력 +2\n명중 +1"
+        "text": "사용 시 공격 관련 능력치가 증가합니다.\n효과는 30분간 지속됩니다.\n\n[사용 효과]\n공격력 +2\n명중 +1\n기본 공격 속도 +20%\n내력 절대 재생 +15"
     },
     "99000504": {
         "deprecated": false,
         "Dev_Desc": "백년초 만두 / 공격 3단계",
         "id": 99000504,
         "alias": "Contents.Item.Desc.9200108",
-        "text": "사용 시 공격 관련 능력치가 크게 증가합니다.\n효과는 30분간 지속됩니다.\n\n[사용 효과]\n공격력 +2\n명중 +1\n관통력 +3"
+        "text": "사용 시 공격 관련 능력치가 크게 증가합니다.\n효과는 30분간 지속됩니다.\n\n[사용 효과]\n공격력 +2\n명중 +1\n관통력 +3\n기본 공격 속도 +20%\n내력 절대 재생 +15"
     },
     "99000505": {
         "deprecated": false,
         "Dev_Desc": "영신단 / 공속, 이속 증가",
         "id": 99000505,
         "alias": "Contents.Item.Desc.9200109",
-        "text": "짧은 시간동안 공격 속도가 증가합니다.\n효과는 5분간 지속됩니다.\n\n[사용 효과]\n기본 공격 속도 +20%"
+        "text": "짧은 시간동안 공격 속도가 증가합니다.\n효과는 5분간 지속됩니다.\n왕만두, 꿩만두, 백년초 만두 및 용정차의 버프 효과와 중첩되지 않습니다.\n\n[사용 효과]\n기본 공격 속도 +20%"
     },
     "99000506": {
         "deprecated": false,
@@ -7251,310 +7251,6 @@
         "id": 99001455,
         "alias": "Contents.Item.Desc.9101639"
     },
-    "99001474": {
-        "deprecated": false,
-        "id": 99001474,
-        "alias": "Contents.Item.Desc.9101658"
-    },
-    "99001475": {
-        "deprecated": false,
-        "id": 99001475,
-        "alias": "Contents.Item.Desc.9101659"
-    },
-    "99001476": {
-        "deprecated": false,
-        "Dev_Desc": "검 무공서 (비각인)",
-        "id": 99001476,
-        "alias": "Contents.Item.Desc.9110100"
-    },
-    "99001477": {
-        "deprecated": false,
-        "id": 99001477,
-        "alias": "Contents.Item.Desc.9110110"
-    },
-    "99001478": {
-        "deprecated": false,
-        "id": 99001478,
-        "alias": "Contents.Item.Desc.9110111"
-    },
-    "99001479": {
-        "deprecated": false,
-        "id": 99001479,
-        "alias": "Contents.Item.Desc.9110112"
-    },
-    "99001480": {
-        "deprecated": false,
-        "id": 99001480,
-        "alias": "Contents.Item.Desc.9110113"
-    },
-    "99001481": {
-        "deprecated": false,
-        "Dev_Desc": "일반 검 무공서 (비각인)",
-        "id": 99001481,
-        "alias": "Contents.Item.Desc.9110114"
-    },
-    "99001482": {
-        "deprecated": false,
-        "Dev_Desc": "일반 검 무공서 (비각인)",
-        "id": 99001482,
-        "alias": "Contents.Item.Desc.9110115"
-    },
-    "99001483": {
-        "deprecated": false,
-        "Dev_Desc": "일반 검 무공서 (비각인)",
-        "id": 99001483,
-        "alias": "Contents.Item.Desc.9110116"
-    },
-    "99001484": {
-        "deprecated": false,
-        "Dev_Desc": "일반 검 무공서 (비각인)",
-        "id": 99001484,
-        "alias": "Contents.Item.Desc.9110117"
-    },
-    "99001485": {
-        "deprecated": false,
-        "Dev_Desc": "일반 검 무공서 (비각인)",
-        "id": 99001485,
-        "alias": "Contents.Item.Desc.9110118"
-    },
-    "99001486": {
-        "deprecated": false,
-        "Dev_Desc": "일반 검 무공서 (비각인)",
-        "id": 99001486,
-        "alias": "Contents.Item.Desc.9110119"
-    },
-    "99001487": {
-        "deprecated": false,
-        "id": 99001487,
-        "alias": "Contents.Item.Desc.9110120"
-    },
-    "99001488": {
-        "deprecated": false,
-        "id": 99001488,
-        "alias": "Contents.Item.Desc.9110121"
-    },
-    "99001489": {
-        "deprecated": false,
-        "id": 99001489,
-        "alias": "Contents.Item.Desc.9110122"
-    },
-    "99001490": {
-        "deprecated": false,
-        "id": 99001490,
-        "alias": "Contents.Item.Desc.9110123"
-    },
-    "99001491": {
-        "deprecated": false,
-        "Dev_Desc": "상급 검 무공서 (비각인)",
-        "id": 99001491,
-        "alias": "Contents.Item.Desc.9110124"
-    },
-    "99001492": {
-        "deprecated": false,
-        "Dev_Desc": "상급 검 무공서 (비각인)",
-        "id": 99001492,
-        "alias": "Contents.Item.Desc.9110125"
-    },
-    "99001493": {
-        "deprecated": false,
-        "Dev_Desc": "상급 검 무공서 (비각인)",
-        "id": 99001493,
-        "alias": "Contents.Item.Desc.9110126"
-    },
-    "99001494": {
-        "deprecated": false,
-        "Dev_Desc": "상급 검 무공서 (비각인)",
-        "id": 99001494,
-        "alias": "Contents.Item.Desc.9110127"
-    },
-    "99001495": {
-        "deprecated": false,
-        "Dev_Desc": "상급 검 무공서 (비각인)",
-        "id": 99001495,
-        "alias": "Contents.Item.Desc.9110128"
-    },
-    "99001496": {
-        "deprecated": false,
-        "Dev_Desc": "상급 검 무공서 (비각인)",
-        "id": 99001496,
-        "alias": "Contents.Item.Desc.9110129"
-    },
-    "99001497": {
-        "deprecated": false,
-        "id": 99001497,
-        "alias": "Contents.Item.Desc.9110130"
-    },
-    "99001498": {
-        "deprecated": false,
-        "id": 99001498,
-        "alias": "Contents.Item.Desc.9110131"
-    },
-    "99001499": {
-        "deprecated": false,
-        "id": 99001499,
-        "alias": "Contents.Item.Desc.9110132"
-    },
-    "99001500": {
-        "deprecated": false,
-        "id": 99001500,
-        "alias": "Contents.Item.Desc.9110133"
-    },
-    "99001501": {
-        "deprecated": false,
-        "Dev_Desc": "희귀 검 무공서 (비각인)",
-        "id": 99001501,
-        "alias": "Contents.Item.Desc.9110134"
-    },
-    "99001502": {
-        "deprecated": false,
-        "Dev_Desc": "희귀 검 무공서 (비각인)",
-        "id": 99001502,
-        "alias": "Contents.Item.Desc.9110135"
-    },
-    "99001503": {
-        "deprecated": false,
-        "Dev_Desc": "희귀 검 무공서 (비각인)",
-        "id": 99001503,
-        "alias": "Contents.Item.Desc.9110136"
-    },
-    "99001504": {
-        "deprecated": false,
-        "Dev_Desc": "희귀 검 무공서 (비각인)",
-        "id": 99001504,
-        "alias": "Contents.Item.Desc.9110137"
-    },
-    "99001505": {
-        "deprecated": false,
-        "Dev_Desc": "희귀 검 무공서 (비각인)",
-        "id": 99001505,
-        "alias": "Contents.Item.Desc.9110138"
-    },
-    "99001506": {
-        "deprecated": false,
-        "Dev_Desc": "희귀 검 무공서 (비각인)",
-        "id": 99001506,
-        "alias": "Contents.Item.Desc.9110139"
-    },
-    "99001507": {
-        "deprecated": false,
-        "id": 99001507,
-        "alias": "Contents.Item.Desc.9110140"
-    },
-    "99001508": {
-        "deprecated": false,
-        "id": 99001508,
-        "alias": "Contents.Item.Desc.9110141"
-    },
-    "99001509": {
-        "deprecated": false,
-        "id": 99001509,
-        "alias": "Contents.Item.Desc.9110142"
-    },
-    "99001510": {
-        "deprecated": false,
-        "Dev_Desc": "영웅 검 무공서 (비각인)",
-        "id": 99001510,
-        "alias": "Contents.Item.Desc.9110143"
-    },
-    "99001511": {
-        "deprecated": false,
-        "Dev_Desc": "영웅 검 무공서 (비각인)",
-        "id": 99001511,
-        "alias": "Contents.Item.Desc.9110144"
-    },
-    "99001512": {
-        "deprecated": false,
-        "Dev_Desc": "영웅 검 무공서 (비각인)",
-        "id": 99001512,
-        "alias": "Contents.Item.Desc.9110145"
-    },
-    "99001513": {
-        "deprecated": false,
-        "Dev_Desc": "영웅 검 무공서 (비각인)",
-        "id": 99001513,
-        "alias": "Contents.Item.Desc.9110146"
-    },
-    "99001514": {
-        "deprecated": false,
-        "Dev_Desc": "영웅 검 무공서 (비각인)",
-        "id": 99001514,
-        "alias": "Contents.Item.Desc.9110147"
-    },
-    "99001515": {
-        "deprecated": false,
-        "Dev_Desc": "영웅 검 무공서 (비각인)",
-        "id": 99001515,
-        "alias": "Contents.Item.Desc.9110148"
-    },
-    "99001516": {
-        "deprecated": false,
-        "Dev_Desc": "영웅 검 무공서 (비각인)",
-        "id": 99001516,
-        "alias": "Contents.Item.Desc.9110149"
-    },
-    "99001517": {
-        "deprecated": false,
-        "id": 99001517,
-        "alias": "Contents.Item.Desc.9110150"
-    },
-    "99001518": {
-        "deprecated": false,
-        "id": 99001518,
-        "alias": "Contents.Item.Desc.9110151"
-    },
-    "99001519": {
-        "deprecated": false,
-        "id": 99001519,
-        "alias": "Contents.Item.Desc.9110152"
-    },
-    "99001520": {
-        "deprecated": false,
-        "Dev_Desc": "전설 검 무공서 (비각인)",
-        "id": 99001520,
-        "alias": "Contents.Item.Desc.9110153"
-    },
-    "99001521": {
-        "deprecated": false,
-        "Dev_Desc": "전설 검 무공서 (비각인)",
-        "id": 99001521,
-        "alias": "Contents.Item.Desc.9110154"
-    },
-    "99001522": {
-        "deprecated": false,
-        "Dev_Desc": "전설 검 무공서 (비각인)",
-        "id": 99001522,
-        "alias": "Contents.Item.Desc.9110155"
-    },
-    "99001523": {
-        "deprecated": false,
-        "Dev_Desc": "전설 검 무공서 (비각인)",
-        "id": 99001523,
-        "alias": "Contents.Item.Desc.9110156"
-    },
-    "99001524": {
-        "deprecated": false,
-        "Dev_Desc": "전설 검 무공서 (비각인)",
-        "id": 99001524,
-        "alias": "Contents.Item.Desc.9110157"
-    },
-    "99001525": {
-        "deprecated": false,
-        "Dev_Desc": "전설 검 무공서 (비각인)",
-        "id": 99001525,
-        "alias": "Contents.Item.Desc.9110158"
-    },
-    "99001526": {
-        "deprecated": false,
-        "Dev_Desc": "전설 검 무공서 (비각인)",
-        "id": 99001526,
-        "alias": "Contents.Item.Desc.9110159"
-    },
-    "99001527": {
-        "deprecated": false,
-        "Dev_Desc": "권갑 무공서 (비각인)",
-        "id": 99001527,
-        "alias": "Contents.Item.Desc.9110200"
-    },
     "99001528": {
         "deprecated": false,
         "id": 99001528,
@@ -10573,14 +10269,14 @@
         "Dev_Desc": "독초거사의 응급상자",
         "id": 99002095,
         "alias": "Contents.Item.Desc.9900010",
-        "text": "사용 시 초급 회복 물약과 용정차를 획득할 수 있습니다."
+        "text": "사용 시 초급 회복 물약과 꿩만두를 획득할 수 있습니다."
     },
     "99002096": {
         "deprecated": false,
         "Dev_Desc": "독초거사의 특급 응급상자",
         "id": 99002096,
         "alias": "Contents.Item.Desc.9900011",
-        "text": "사용 시 초급 회복 물약과 용정차를 많이 획득할 수 있습니다."
+        "text": "사용 시 초급 회복 물약과 꿩만두를 많이 획득할 수 있습니다."
     },
     "99002097": {
         "deprecated": false,
@@ -22257,6 +21953,188 @@
         "Dev_Desc": "토벌 패스권",
         "id": 99003828,
         "alias": "Contents.Event.Item.Desc.9300463",
-        "text": "'토벌 패스' 추가 보상을 활성화할 수 있는 아이템입니다.\n\n* 주의\n시즌이 종료되면 패스 미션을 더 이상 진행할 수 없습니다.\n시즌 종료 후 일주일이 지나면 사용하지 못한 패스 포인트는 소멸되며 더 이상 보상 교환이 불가합니다."
+        "text": "'이벤트 패스: 토벌' 추가 보상을 활성화할 수 있는 아이템입니다.\n\n* 주의\n시즌이 종료되면 패스 미션을 더 이상 진행할 수 없습니다.\n시즌 종료 후 일주일이 지나면 사용하지 못한 패스 포인트는 소멸되며 더 이상 보상 교환이 불가합니다."
+    },
+    "99003829": {
+        "deprecated": false,
+        "Dev_Desc": "황금 달걀(각인)",
+        "id": 99003829,
+        "alias": "Contents.Item.Desc.9901396",
+        "text": "상점에 비싼 가격으로 팔 수 있는 물품입니다.\n\n제작 및 운명의 성도 재료로 사용 가능하며 황금 달걀 상인에서는 사용할 수 없습니다."
+    },
+    "99003830": {
+        "deprecated": false,
+        "Dev_Desc": "시간의 화려한 소울 소환서(11회)(이벤트)_220706 토벌전 이벤트 보상",
+        "id": 99003830,
+        "alias": "Contents.Item.Desc.9300474",
+        "text": "사용 시 정해진 확률에 따라 소울을 획득할 수 있습니다.<br/>(등급: 상급 ~ 전설)"
+    },
+    "99003831": {
+        "deprecated": false,
+        "Dev_Desc": "시간의 영웅 소울 소환서(1회)(이벤트)_220706 토벌전 이벤트 보상",
+        "id": 99003831,
+        "alias": "Contents.Item.Desc.9300475",
+        "text": "사용 시 정해진 확률에 따라 소울을 획득할 수 있습니다.<br/>(등급: 영웅)"
+    },
+    "99003832": {
+        "deprecated": false,
+        "Dev_Desc": "시간의 찬란한 소울 소환서(5회)(이벤트)_220706 토벌전 이벤트 보상",
+        "id": 99003832,
+        "alias": "Contents.Item.Desc.9300476",
+        "text": "사용 시 정해진 확률에 따라 소울을 획득할 수 있습니다.\n(등급: 희귀 ~ 영웅)"
+    },
+    "99003833": {
+        "deprecated": false,
+        "Dev_Desc": "전설 의상 선택 주머니(이벤트)",
+        "id": 99003833,
+        "alias": "Contents.Item.Desc.9300477",
+        "text": "사용 시 다음 물품 중 1종을 선택하여 획득할 수 있습니다.\n\n- 여명\n- 초열의 아수라\n- 진혼의 노래\n- 하얀 노을\n- 겨울의 축제\n- 적귀혼\n- 가을의 축제\n- 금귀혼\n- 잊혀진 약속"
+    },
+    "99003834": {
+        "deprecated": false,
+        "Dev_Desc": "짙은 심연의 무기 선택 상자(이벤트)",
+        "id": 99003834,
+        "alias": "Contents.Item.Desc.9300478",
+        "text": "사용 시 다음 물품 중 1종을 선택하여 획득할 수 있습니다.\n\n- 짙은 심연의 검 1개\n- 짙은 심연의 권갑 1개\n- 짙은 심연의 도끼 1개\n- 짙은 심연의 기공패 1개\n- 짙은 심연의 장궁 1개\n- 짙은 심연의 법종 1개"
+    },
+    "99003835": {
+        "deprecated": false,
+        "Dev_Desc": "CM의 응원 단환(이벤트)",
+        "id": 99003835,
+        "alias": "Contents.Item.Desc.9300473",
+        "text": "CM의 응원 기운이 가득 담겨있습니다.\n사용 시 효과는 15분간 지속됩니다.\n\n[사용 효과]\n보스 명중 +5\n보스 호신 +3\n보스 방어력 +10"
+    },
+    "99003836": {
+        "deprecated": false,
+        "Dev_Desc": "봉인된 희생의 무덤 봉마함 V(각인)",
+        "id": 99003836,
+        "alias": "Contents.Item.Desc.9901473",
+        "text": "제작을 통해 시간의 열쇠(각인)로 봉인을 해제할 수 있습니다."
+    },
+    "99003837": {
+        "deprecated": false,
+        "Dev_Desc": "희생의 무덤 봉마함 V(각인)",
+        "id": 99003837,
+        "alias": "Contents.Item.Desc.9901474",
+        "text": "사용 시 정해진 확률에 따라 다음 물품 중 1종을 획득 할 수 있습니다.\n\n- 별빛 가루(각인) 400/500/1000/1500개\n- 별빛 결정(각인) 100/200개\n- 화염의 기운(각인) 4/6/8/12/16개\n- 화염의 장비함(각인) 1개\n- 빛나는 화염의 장비함(각인) 1개\n- 찬란한 화염의 장비함(각인) 1개\n- 영롱한 화염의 장비함(각인) 1개\n- 화염의 향낭 주머니(각인) 1개\n- 빛나는 화염의 향낭 주머니(각인) 1개\n- 찬란한 화염의 향낭 주머니(각인) 1개\n- 영롱한 화염의 향낭 주머니(각인) 1개"
+    },
+    "99003838": {
+        "deprecated": false,
+        "Dev_Desc": "불꽃의 염화 무기 상자(각인)",
+        "id": 99003838,
+        "alias": "Contents.Item.Desc.9901475",
+        "text": "사용 시 정해진 확률에 따라 다음 물품 중 1종을 획득할 수 있습니다.\n\n- 불꽃의 염화검(각인)\n- 불꽃의 염화권갑(각인)\n- 불꽃의 염화기공패(각인)\n- 불꽃의 염화도끼(각인)\n- 불꽃의 염화궁(각인)\n- 불꽃의 염화법종(각인)"
+    },
+    "99003839": {
+        "deprecated": false,
+        "Dev_Desc": "전설 의상 확정 주머니(이벤트)",
+        "id": 99003839,
+        "alias": "Contents.Item.Desc.9300479",
+        "text": "사용 시 정해진 확률에 따라 다음 물품 중 1종을 획득할 수 있습니다.\n\n- 초열의 아수라\n- 진혼의 노래\n- 하얀 노을\n- 겨울의 축제\n- 적귀혼\n- 가을의 축제\n- 금귀혼\n- 잊혀진 약속"
+    },
+    "99003840": {
+        "deprecated": false,
+        "Dev_Desc": "소울 메이트 패스권",
+        "id": 99003840,
+        "alias": "Contents.Event.Item.Desc.9300489",
+        "text": "소울 메이트 패스 추가보상을 활성화할 수 있는 아이템입니다.\n\n* 주의\n이벤트가 종료되면 패스 미션을 더 이상 진행할 수 없습니다.\n이벤트 종료 후 일주일이 지나면 사용하지 못한 패스 포인트는 소멸되며 더 이상 교환이 불가합니다."
+    },
+    "99003841": {
+        "deprecated": false,
+        "Dev_Desc": "소울 메이트 재료 상자(이벤트)",
+        "id": 99003841,
+        "alias": "Contents.Event.Item.Desc.9300490",
+        "text": "사용 시 다음 물품을 모두 획득할 수 있습니다.\n\n- 천뢰석(각인) 30개\n- 만년설(각인) 30개\n- 천년화정(각인) 30개"
+    },
+    "99003842": {
+        "deprecated": false,
+        "Dev_Desc": "소울 메이트 특별 선물(이벤트)",
+        "id": 99003842,
+        "alias": "Contents.Event.Item.Desc.9300491",
+        "text": "사용 시 다음 물품을 모두 획득할 수 있습니다.\n\n- 잊혀진 영웅 무기 제작 비법서(각인)\n- 잊혀진 영웅 방어구 제작 비법서(각인)\n- 영웅 소울 선택 상자(각인)\n- 희귀 수호령 소환서(1회)(이벤트)\n- 영웅 의상 확정 주머니(이벤트)\n- 소울 메이트 성장 상자(이벤트)"
+    },
+    "99003843": {
+        "deprecated": false,
+        "Dev_Desc": "소울 메이트 성장 상자(이벤트)",
+        "id": 99003843,
+        "alias": "Contents.Event.Item.Desc.9300492",
+        "text": "사용 시 다음 물품을 모두 획득할 수 있습니다.\n\n- 극락의 용봉탕(이벤트) 100개\n- 월광정기(이벤트) 100개\n- 공력수(각인) 10개\n- 영약: 하수오(각인) 20개"
+    },
+    "99003844": {
+        "deprecated": false,
+        "Dev_Desc": "암살자 사전예약 보상 3종_AutoOpenBox",
+        "id": 99003844,
+        "alias": "Contents.Item.Desc.9300494",
+        "text": "사용 시 다음 3종의 물품을 획득할 수 있습니다.\n\n- 칼날의 증표(이벤트)\n- 칼날의 인장(이벤트)\n- 칼날의 상자(이벤트)"
+    },
+    "99003845": {
+        "deprecated": false,
+        "Dev_Desc": "칼날의 증표(이벤트)",
+        "id": 99003845,
+        "alias": "Contents.Item.Desc.9300495",
+        "text": "장비 도감에 사용되는 특별한 재료입니다."
+    },
+    "99003846": {
+        "deprecated": false,
+        "Dev_Desc": "칼날의 상자(이벤트)",
+        "id": 99003846,
+        "alias": "Contents.Item.Desc.9300496",
+        "text": "사용시 다음 물품을 모두 획득할 수 있습니다.\n\n- 희생의 영웅 소울 소환서(3회)(이벤트) 1개\n- 희생의 빛나는 소울 소환서(11회)(이벤트) 5개\n- 희생의 빛나는 수호령 소환서(11회)(이벤트) 5개\n- 영웅 의상 주머니(이벤트) 5개 "
+    },
+    "99003847": {
+        "deprecated": false,
+        "Dev_Desc": "영롱한 야루의 소울 소환서(1회)(이벤트)_220511",
+        "id": 99003847,
+        "alias": "Contents.Item.Desc.9300497",
+        "text": "사용 시 정해진 확률에 따라 소울을 획득할 수 있습니다.\n(등급: 영웅 ~ 전설)"
+    },
+    "99003848": {
+        "deprecated": false,
+        "Dev_Desc": "찬란한 야루의 소울 소환서(1회)(이벤트)_220511",
+        "id": 99003848,
+        "alias": "Contents.Item.Desc.9300498",
+        "text": "사용 시 정해진 확률에 따라 소울을 획득할 수 있습니다.\n(등급: 희귀 ~ 영웅)"
+    },
+    "99003849": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 야루의 소울 소환서(1회)(이벤트)_220511",
+        "id": 99003849,
+        "alias": "Contents.Item.Desc.9300499",
+        "text": "사용 시 정해진 확률에 따라 소울을 획득할 수 있습니다.\n(등급: 희귀)"
+    },
+    "99003850": {
+        "deprecated": false,
+        "Dev_Desc": "영롱한 야루의 수호령 소환서(1회)(이벤트)_220511",
+        "id": 99003850,
+        "alias": "Contents.Item.Desc.9300500",
+        "text": "사용 시 정해진 확률에 따라 수호령을 획득할 수 있습니다.\n(등급: 영웅 ~ 전설)"
+    },
+    "99003851": {
+        "deprecated": false,
+        "Dev_Desc": "찬란한 야루의 수호령 소환서(1회)(이벤트)_220511",
+        "id": 99003851,
+        "alias": "Contents.Item.Desc.9300501",
+        "text": "사용 시 정해진 확률에 따라 수호령을 획득할 수 있습니다.\n(등급: 희귀 ~ 영웅)"
+    },
+    "99003852": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 야루의 수호령 소환서(1회)(이벤트)_220511",
+        "id": 99003852,
+        "alias": "Contents.Item.Desc.9300502",
+        "text": "사용 시 정해진 확률에 따라 수호령을 획득할 수 있습니다.\n(등급: 희귀)"
+    },
+    "99003853": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 경지의 주화",
+        "id": 99003853,
+        "alias": "Contents.Item.Desc.9901476",
+        "text": "더 높은 깨달음의 경지에 도달한 자에게 제공되는 주화입니다.\n장비도감에 사용할 수 있습니다."
+    },
+    "99003854": {
+        "deprecated": false,
+        "Dev_Desc": "전설 의상 확정 주머니(각인)",
+        "id": 99003854,
+        "alias": "Contents.Item.Desc.9901477",
+        "text": "사용 시 정해진 확률에 따라 다음 물품 중 1종을 획득할 수 있습니다.\n\n- 초열의 아수라\n- 진혼의 노래\n- 하얀 노을\n- 겨울의 축제\n- 적귀혼\n- 가을의 축제\n- 금귀혼\n- 잊혀진 약속"
     }
 }

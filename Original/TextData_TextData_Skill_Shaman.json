@@ -340,7 +340,7 @@
         "Dev_Desc": "생령합일_돌파_설명",
         "id": 60070102,
         "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7064",
-        "text": "합일 상태의 이동 속도 대폭 증가\n한 번 더 시전 시 합일 상태 해제 가능"
+        "text": "합일 상태의 이동 속도 대폭 증가\n한 번 더 시전 시 합일 상태 해제 및 범위 내 최대 3인에게 광역 피해 적용"
     },
     "60070103": {
         "deprecated": false,
@@ -396,14 +396,14 @@
         "Dev_Desc": "심판_극한_설명",
         "id": 60070110,
         "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7043",
-        "text": "피해량 증가\n\"심판\" 보스 공격력 +15"
+        "text": "피해량 증가 및 범위 내 최대 3인까지 적중\n\"심판\" 보스 공격력 +15"
     },
     "60070111": {
         "deprecated": false,
         "Dev_Desc": "심판_돌파_설명",
         "id": 60070111,
         "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7044",
-        "text": "일정 확률로 <textColor=[248:99:99:255]>기절</> 효과 적용"
+        "text": "일정 확률로 <textColor=[248:99:99:255]>기절</> 효과 적용\n10초간 <textColor=[248:99:99:255]>낙인</> 효과 적용 및 적용 대상 기본 공격 시 \"심판\" 대기시간 -1초"
     },
     "60070112": {
         "deprecated": false,
@@ -417,14 +417,14 @@
         "Dev_Desc": "심기일전_극한_설명",
         "id": 60070113,
         "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7053",
-        "text": "일정 확률로 정밀 +5"
+        "text": "일정 확률로 정밀 +5\n본인 피격 시 공격한 대상에게 피해 적용"
     },
     "60070114": {
         "deprecated": false,
         "Dev_Desc": "심기일전_돌파_설명",
         "id": 60070114,
         "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7054",
-        "text": "일정 확률로 무기 공격력 +7"
+        "text": "일정 확률로 무기 공격력 +7 및 몬스터 처치 시 \"강섬뢰\" 대기시간 초기화\n본인 \"강섬뢰\" 사용 시 \"가속 강섬뢰\" 사용"
     },
     "60070115": {
         "deprecated": false,
@@ -487,7 +487,7 @@
         "Dev_Desc": "수호_돌파_설명",
         "id": 60070123,
         "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7084",
-        "text": "받는 피해량 감소 +10%\n\"반마화살[극한]\"까지의 해제 효과 무시"
+        "text": "받는 피해량 감소 +15%\n\"반마화살[극한]\"까지의 해제 효과 무시"
     },
     "60070124": {
         "deprecated": false,
@@ -522,14 +522,14 @@
         "Dev_Desc": "청화_극한_설명",
         "id": 60070128,
         "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7103",
-        "text": "피해량 증가"
+        "text": "피해량 증가\n보스 외 몬스터 5초간 기공 방어력 -15"
     },
     "60070129": {
         "deprecated": false,
         "Dev_Desc": "청화_돌파_설명",
         "id": 60070129,
         "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7104",
-        "text": "내력 제거 확률 증가\n재사용 대기시간 -3초"
+        "text": "내력 제거 확률 증가\n재사용 대기시간 -3초\n일정 확률로 3연속 \"청화\" 사용"
     },
     "60070130": {
         "deprecated": false,
@@ -658,9 +658,9 @@
     },
     "60070216": {
         "deprecated": false,
-        "Dev_Desc": "수호_효과",
+        "Dev_Desc": "수호_돌파_효과",
         "id": 60070216,
-        "alias": "Contents.Skill.UseEffect.RitualBell.7081",
+        "alias": "Contents.Skill.UseEffect.RitualBell.7084",
         "text": "받는 피해량 감소 +20%"
     },
     "60070217": {
@@ -1346,5 +1346,54 @@
         "id": 60070515,
         "alias": "Contents.Skill.Upgrade.Name.7015",
         "text": "이동 속도 단계"
+    },
+    "60070516": {
+        "deprecated": false,
+        "Dev_Desc": "심판_돌파_효과 툴팁",
+        "id": 60070516,
+        "alias": "Contents.Skill.UseEffect.RitualBell.7041",
+        "text": "기절, 낙인"
+    },
+    "60070517": {
+        "deprecated": false,
+        "Dev_Desc": "청화_돌파 툴팁",
+        "id": 60070517,
+        "alias": "Contents.Skill.Desc.RitualBell.7104",
+        "text": "상서로운 청염의 힘으로 대상을 공격합니다.\n3연속 청화 사용 시 내력 제거 효과는 첫 타격에만 적용됩니다."
+    },
+    "60070518": {
+        "deprecated": false,
+        "Dev_Desc": "낙인_버프창",
+        "id": 60070518,
+        "alias": "Contents.Effect.Name.RitualBell.704199",
+        "text": "낙인"
+    },
+    "60070519": {
+        "deprecated": false,
+        "Dev_Desc": "낙인_버프창",
+        "id": 60070519,
+        "alias": "Contents.Effect.Desc.RitualBell.704199",
+        "text": "적 무공 대기시간 감소"
+    },
+    "60070520": {
+        "deprecated": false,
+        "Dev_Desc": "낙인_버프창",
+        "id": 60070520,
+        "alias": "Contents.Effect.Option.RitualBell.704199",
+        "text": "\"심판 [돌파]\"까지 진화시킨 대상에게 법종으로 피격 시 대상의 \"심판\" 대기시간 -1초\n(재사용 대기시간 2초)"
+    },
+    "60070521": {
+        "deprecated": false,
+        "Dev_Desc": "수호_기본_효과",
+        "id": 60070521,
+        "alias": "Contents.Skill.UseEffect.RitualBell.7081",
+        "text": "받는 피해량 감소 +10%"
+    },
+    "60070522": {
+        "deprecated": false,
+        "Dev_Desc": "수호_극한_효과",
+        "id": 60070522,
+        "alias": "Contents.Skill.UseEffect.RitualBell.7083",
+        "text": "받는 피해량 감소 +15%"
     }
 }

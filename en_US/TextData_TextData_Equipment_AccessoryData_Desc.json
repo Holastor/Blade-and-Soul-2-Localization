@@ -805,14 +805,14 @@
         "Dev_Desc": "명왕 목걸이",
         "id": 95000127,
         "alias": "Contents.Item.Desc.5000127",
-        "text": "Increases HP Rate from +3<br/>Increases All Protection from +6"
+        "text": "Increases HP Rate from +3<br/>Increases All Protection from +6 "
     },
     "95000128": {
         "deprecated": false,
         "Dev_Desc": "환영 귀걸이",
         "id": 95000128,
         "alias": "Contents.Item.Desc.5000128",
-        "text": "Increases Extra Critical Damage from +3<br/>Increases Attack Rate from +6"
+        "text": "Increases Extra Critical Damage from +3<br/>Increases Attack Rate from +6 "
     },
     "95000129": {
         "deprecated": false,
@@ -838,7 +838,7 @@
         "Dev_Desc": "혼세 반지",
         "id": 95000132,
         "alias": "Contents.Item.Desc.5000132",
-        "text": "Increases Critical Defense Rate from +3<br/>Increases Amplified Technique Damage from +6"
+        "text": "Increases Critical Defense Rate from +3<br/>Increases Amplified Technique Damage from +6 "
     },
     "95000133": {
         "deprecated": false,
@@ -1581,28 +1581,28 @@
         "Dev_Desc": "백화의 불꽃 / BM",
         "id": 95301002,
         "alias": "Contents.Item.Desc.5301002",
-        "text": "Bonus Attack from +3\nBonus Soul Chance from +5\nBonus Amplified Technique Damage from +6"
+        "text": "Bonus Attack from +3\nBonus Critical Rate from +5\nBonus Amplified Technique Damage from +6"
     },
     "95304001": {
         "deprecated": false,
         "Dev_Desc": "질풍의 진노 / BM",
         "id": 95304001,
         "alias": "Contents.Item.Desc.5304001",
-        "text": "Bonus Accuracy from +3\nBonus CC Accuracy from +5\nBonus Attack Speed from +6"
+        "text": "Bonus Weapon Attack from +3\nBonus CC Accuracy from +5\nBonus Normal Attack Speed from +6"
     },
     "95304002": {
         "deprecated": false,
         "Dev_Desc": "타락의 속삭임 / BM",
         "id": 95304002,
         "alias": "Contents.Item.Desc.5304002",
-        "text": "Bonus Defense from +3\nBonus Technique Resist from +5\nBonus CC Resist from +6"
+        "text": "Bonus Defense from +3\nBonus Technique Damage Resist from +5\nBonus CC Resist from +6"
     },
     "95307001": {
         "deprecated": false,
         "Dev_Desc": "묵화의 인장 / SubType / BM",
         "id": 95307001,
         "alias": "Contents.Item.Desc.5307001",
-        "text": "Potion Recovery +1 and Potion Recovery Rate +2% at every Enhance\n\nBonus Evasion from +3\nBonus CC from +5"
+        "text": "HP Tonic Boost +1 and HP Tonic Rate +2% at every Enhance\n\nBonus Evasion from +3\nBonus Critical Resist from +5"
     },
     "95307002": {
         "deprecated": false,
@@ -1873,42 +1873,42 @@
         "Dev_Desc": "조개 귀걸이(각인)",
         "id": 95201001,
         "alias": "Contents.Item.Desc.5201001",
-        "text": "Can be obtained from [Collaboration], [Imprinted Equipment Box]."
+        "text": "Acquired by completing [Chivalry Quests] or opening [Bound Gear Chests]."
     },
     "95201002": {
         "deprecated": false,
         "Dev_Desc": "청동 귀걸이(각인)",
         "id": 95201002,
         "alias": "Contents.Item.Desc.5201002",
-        "text": "Can be obtained by [Crafting]."
+        "text": "Acquired through the [Craft] function."
     },
     "95201003": {
         "deprecated": false,
         "Dev_Desc": "석영 귀걸이(각인)",
         "id": 95201003,
         "alias": "Contents.Item.Desc.5201003",
-        "text": "Can be obtained from [Imprinted Equipment Box]."
+        "text": "Acquired by opening [Bound Gear Chests]."
     },
     "95201201": {
         "deprecated": false,
         "Dev_Desc": "홍옥 귀걸이(각인)",
         "id": 95201201,
         "alias": "Contents.Item.Desc.5201201",
-        "text": "Can be obtained from [Collaboration]."
+        "text": "Acquired by completing [Chivalry Quests]."
     },
     "95201202": {
         "deprecated": false,
         "Dev_Desc": "인어의 귀걸이(각인)",
         "id": 95201202,
         "alias": "Contents.Item.Desc.5201202",
-        "text": "Can be obtained through [Imprinted Equipment]>or [Crafting]."
+        "text": "Acquired through the [Craft] function or opening [Bound Gear Chests]."
     },
     "95201203": {
         "deprecated": false,
         "Dev_Desc": "은 세공 귀걸이(각인)",
         "id": 95201203,
         "alias": "Contents.Item.Desc.5201203",
-        "text": "Can be obtained through [Imprinted Equipment]>or [Crafting]."
+        "text": "Acquired through the [Craft] function or opening [Bound Gear Chests]."
     },
     "95201204": {
         "deprecated": false,
@@ -1921,7 +1921,7 @@
         "Dev_Desc": "억압의 귀걸이(각인)",
         "id": 95201401,
         "alias": "Contents.Item.Desc.5201401",
-        "text": "Can be obtained through [Collaboration]>or [Crafting]."
+        "text": "Acquired through [Chivalry Quests] or [Craft]."
     },
     "95201402": {
         "deprecated": false,
@@ -1940,7 +1940,7 @@
         "Dev_Desc": "도토리 목걸이(각인)",
         "id": 95202001,
         "alias": "Contents.Item.Desc.5202001",
-        "text": "Can be obtained from [Collaboration]."
+        "text": "Acquired by completing [Chivalry Quests]."
     },
     "95202002": {
         "deprecated": false,
@@ -1953,21 +1953,21 @@
         "Dev_Desc": "청동 장식 목걸이(각인)",
         "id": 95202003,
         "alias": "Contents.Item.Desc.5202003",
-        "text": "Can be obtained from [Imprinted Equipment]."
+        "text": "Acquired by opening [Bound Gear Chests]."
     },
     "95202004": {
         "deprecated": false,
         "Dev_Desc": "황동 장식 목걸이(각인)",
         "id": 95202004,
         "alias": "Contents.Item.Desc.5202004",
-        "text": "Can be obtained by [Crafting]."
+        "text": "Acquired through the [Craft] function."
     },
     "95202005": {
         "deprecated": false,
         "Dev_Desc": "무명 병사의 인식표(각인)",
         "id": 95202005,
         "alias": "Contents.Item.Desc.5202005",
-        "text": "Can be obtained from [Imprinted Equipment Box]."
+        "text": "Acquired by opening [Bound Gear Chests]."
     },
     "95202006": {
         "deprecated": false,
@@ -1980,21 +1980,21 @@
         "Dev_Desc": "은 새김 목걸이(각인)",
         "id": 95202201,
         "alias": "Contents.Item.Desc.5202201",
-        "text": "Can be obtained from [Collaboration]."
+        "text": "Acquired by completing [Chivalry Quests]."
     },
     "95202202": {
         "deprecated": false,
         "Dev_Desc": "백금 문양 목걸이(각인)",
         "id": 95202202,
         "alias": "Contents.Item.Desc.5202202",
-        "text": "Can be obtained by [Crafting]."
+        "text": "Acquired through the [Craft] function."
     },
     "95202203": {
         "deprecated": false,
         "Dev_Desc": "곡옥 달린 금 목걸이(각인)",
         "id": 95202203,
         "alias": "Contents.Item.Desc.5202203",
-        "text": "Can be obtained from [Imprinted Equipment]>or [Crafted]."
+        "text": "Acquired through the [Craft] function or opening [Bound Gear Chests]."
     },
     "95202204": {
         "deprecated": false,
@@ -2007,14 +2007,14 @@
         "Dev_Desc": "청인의 목걸이(각인)",
         "id": 95202205,
         "alias": "Contents.Item.Desc.5202205",
-        "text": "Can be obtained from [Imprinted Equipment]."
+        "text": "Acquired by opening [Bound Gear Chests]."
     },
     "95202206": {
         "deprecated": false,
         "Dev_Desc": "검투사의 목걸이(각인)",
         "id": 95202206,
         "alias": "Contents.Item.Desc.5202206",
-        "text": "Can be obtained by [Crafting]."
+        "text": "Acquired through the [Craft] function."
     },
     "95202207": {
         "deprecated": false,
@@ -2033,21 +2033,21 @@
         "Dev_Desc": "정심의 수주(각인)",
         "id": 95202401,
         "alias": "Contents.Item.Desc.5202401",
-        "text": "Can be obtained from [Collaboration]."
+        "text": "Acquired by completing [Chivalry Quests]."
     },
     "95202402": {
         "deprecated": false,
         "Dev_Desc": "붉은 달빛의 목걸이(각인)",
         "id": 95202402,
         "alias": "Contents.Item.Desc.5202402",
-        "text": "Can be obtained by [Crafting]."
+        "text": "Acquired through the [Craft] function."
     },
     "95202403": {
         "deprecated": false,
         "Dev_Desc": "대해의 생명(각인)",
         "id": 95202403,
         "alias": "Contents.Item.Desc.5202403",
-        "text": "Can be obtained from [Imprinted Equipment]."
+        "text": "Acquired by opening [Bound Gear Chests]."
     },
     "95202404": {
         "deprecated": false,
@@ -2072,21 +2072,21 @@
         "Dev_Desc": "꽃잎 반지(각인)",
         "id": 95203001,
         "alias": "Contents.Item.Desc.5203001",
-        "text": "Can be obtained from [Collaboration].\n\nAdditional increase in wood property damage resistance when +3 strengthening\nAdditional increase in wood damage resistance when strengthening +5\n+7 wood damage resistance when strengthening additional rise"
+        "text": "Acquired by completing [Chivalry Quests].\n\nBonus Wood Damage Resist from +3\nBonus Wood Damage Resist from +5\nBonus Wood Damage Resist from +7"
     },
     "95203002": {
         "deprecated": false,
         "Dev_Desc": "산호 반지(각인)",
         "id": 95203002,
         "alias": "Contents.Item.Desc.5203002",
-        "text": "Can be obtained through [Crafting].\n\n+3 additional increase in fire damage resistance when enhanced\n+5 additional increase in fire damage resistance when enhanced\n+7 additional increase in fire damage resistance when enhanced additional rise"
+        "text": "Acquired through the [Craft] function.\n\nBonus Fire Damage Resist from +3\nBonus Fire Damage Resist from +5\nBonus Fire Damage Resist from +7"
     },
     "95203003": {
         "deprecated": false,
         "Dev_Desc": "상아 반지(각인)",
         "id": 95203003,
         "alias": "Contents.Item.Desc.5203003",
-        "text": "Can be obtained from [Engraving Equipment Box]."
+        "text": "Acquired through [Bound Gear Chests].\n\nBonus Water Damage Resist from +3\nBonus Water Damage Resist from +5\nBonus Water Damage Resist from +7"
     },
     "95203004": {
         "deprecated": false,
@@ -2099,7 +2099,7 @@
         "Dev_Desc": "은 반지(각인)",
         "id": 95203005,
         "alias": "Contents.Item.Desc.5203005",
-        "text": "Can be obtained from [Imprinted Equipment Box].\n\nAdditional increase in brain damage resistance when +3 enhancement\nAdditional increase in brain damage resistance when +5 enhancement\n+7 enhancement in brain property Additional increase in damage resistance"
+        "text": "Acquired through [Bound Gear Chests].\n\nBonus Lightning Damage Resist from +3\nBonus Lightning Damage Resist from +5\nBonus Lightning Damage Resist from +7"
     },
     "95203006": {
         "deprecated": false,
@@ -2112,7 +2112,7 @@
         "Dev_Desc": "진주 반지(각인)",
         "id": 95203201,
         "alias": "Contents.Item.Desc.5203201",
-        "text": "Can be obtained from [Collaboration].\n\nAdditional increase in wind property damage resistance when +3 strengthening\nAdditional increase in wind damage resistance when +5 enhancement\n+7 wind damage resistance when strengthening additional rise"
+        "text": "Acquired by completing [Chivalry Quests].\n\nBonus Wind Damage Resist from +3\nBonus Wind Damage Resist from +5\nBonus Wind Damage Resist from +7"
     },
     "95203202": {
         "deprecated": false,
@@ -2125,7 +2125,7 @@
         "Dev_Desc": "흑옥 반지(각인)",
         "id": 95203203,
         "alias": "Contents.Item.Desc.5203203",
-        "text": "Can be obtained from [Engraving Equipment]>or [Crafting]."
+        "text": "Acquired through the [Craft] function or opening [Bound Gear Chests]."
     },
     "95203204": {
         "deprecated": false,
@@ -2144,7 +2144,7 @@
         "Dev_Desc": "순백의 반지(각인)",
         "id": 95203206,
         "alias": "Contents.Item.Desc.5203206",
-        "text": "Can be obtained by [Crafting]."
+        "text": "Acquired through the [Craft] function."
     },
     "95203207": {
         "deprecated": false,
@@ -2157,14 +2157,14 @@
         "Dev_Desc": "청은 반지(각인)",
         "id": 95203208,
         "alias": "Contents.Item.Desc.5203208",
-        "text": "Can be obtained from [Engraving Equipment Box].\n\nAdditional increase in water property damage resistance when +3 enhancement\n+5 additional increase in water property damage resistance when strengthening\n+7 water property when enhancement Additional increase in damage resistance"
+        "text": "Acquired through [Bound Gear Chests].\n\nBonus Water Damage Resist from +3\nBonus Water Damage Resist from +5\nBonus Water Damage Resist from +7"
     },
     "95203401": {
         "deprecated": false,
         "Dev_Desc": "영혼 인도자의 반지(각인)",
         "id": 95203401,
         "alias": "Contents.Item.Desc.5203401",
-        "text": "Can be obtained from [Collaboration].\n\nAdditional increase in cancer damage resistance when +3 enhancement\nAdditional increase in cancer damage resistance when +5 enhancement\n+7 enhancement in cancer damage resistance additional rise"
+        "text": "Acquired by completing [Chivalry Quests].\n\nBonus Darkness Damage Resist from +3\nBonus Darkness Damage Resist from +5\nBonus Darkness Damage Resist from +7"
     },
     "95203402": {
         "deprecated": false,
@@ -2177,14 +2177,14 @@
         "Dev_Desc": "신령의 반지(각인)",
         "id": 95203403,
         "alias": "Contents.Item.Desc.5203403",
-        "text": "Can be obtained from [Imprinted Equipment Box]."
+        "text": "Acquired by opening [Bound Gear Chests]."
     },
     "95203404": {
         "deprecated": false,
         "Dev_Desc": "언약의 반지(각인)",
         "id": 95203404,
         "alias": "Contents.Item.Desc.5203404",
-        "text": "Can be obtained through [Crafting].\n\nAdditional increase in light damage resistance when +3 enhancement\n+5 additional increase in light damage resistance when strengthening\n+7 increase in light damage resistance when strengthening additional rise"
+        "text": "Acquired through the [Craft] function.\n\nBonus Light Damage Resist from +3\nBonus Light Damage Resist from +5\nBonus Light Damage Resist from +7"
     },
     "95203601": {
         "deprecated": false,
@@ -2203,42 +2203,42 @@
         "Dev_Desc": "풀 팔찌(각인)",
         "id": 95204001,
         "alias": "Contents.Item.Desc.5204001",
-        "text": "Can be obtained from [Collaboration], [Imprinted Equipment Box]."
+        "text": "Acquired by completing [Chivalry Quests] or opening [Bound Gear Chests]."
     },
     "95204002": {
         "deprecated": false,
         "Dev_Desc": "구리 팔찌(각인)",
         "id": 95204002,
         "alias": "Contents.Item.Desc.5204002",
-        "text": "Can be obtained by [Crafting]."
+        "text": "Acquired through the [Craft] function."
     },
     "95204003": {
         "deprecated": false,
         "Dev_Desc": "청동 팔찌(각인)",
         "id": 95204003,
         "alias": "Contents.Item.Desc.5204003",
-        "text": "Can be obtained from [Engraving Box]."
+        "text": "Acquired by opening [Bound Gear Chests]."
     },
     "95204201": {
         "deprecated": false,
         "Dev_Desc": "청옥 팔찌(각인)",
         "id": 95204201,
         "alias": "Contents.Item.Desc.5204201",
-        "text": "Can be obtained from [Collaboration]."
+        "text": "Acquired by completing [Chivalry Quests]."
     },
     "95204202": {
         "deprecated": false,
         "Dev_Desc": "벽옥 팔찌(각인)",
         "id": 95204202,
         "alias": "Contents.Item.Desc.5204202",
-        "text": "Can be obtained from [Imprinted Equipment]>or [Crafted]."
+        "text": "Acquired through the [Craft] function or opening [Bound Gear Chests]."
     },
     "95204203": {
         "deprecated": false,
         "Dev_Desc": "백은 팔찌(각인)",
         "id": 95204203,
         "alias": "Contents.Item.Desc.5204203",
-        "text": "Can be obtained from [Imprinted Equipment]>or [Crafted]."
+        "text": "Acquired through the [Craft] function or opening [Bound Gear Chests]."
     },
     "95204204": {
         "deprecated": false,
@@ -2251,7 +2251,7 @@
         "Dev_Desc": "수호자의 팔찌(각인)",
         "id": 95204401,
         "alias": "Contents.Item.Desc.5204401",
-        "text": "Can be obtained through [Collaboration]>or [Crafting]."
+        "text": "Acquired through [Chivalry Quests] or [Craft]."
     },
     "95204402": {
         "deprecated": false,
@@ -2270,21 +2270,21 @@
         "Dev_Desc": "홍색 수실 노리개(각인)",
         "id": 95205001,
         "alias": "Contents.Item.Desc.5205001",
-        "text": "Can be obtained from [Collaboration]."
+        "text": "Acquired by completing [Chivalry Quests]."
     },
     "95205002": {
         "deprecated": false,
         "Dev_Desc": "청색 수실 노리개(각인)",
         "id": 95205002,
         "alias": "Contents.Item.Desc.5205002",
-        "text": "Can be obtained by [Crafting]."
+        "text": "Acquired through the [Craft] function."
     },
     "95205003": {
         "deprecated": false,
         "Dev_Desc": "녹색 수실 노리개(각인)",
         "id": 95205003,
         "alias": "Contents.Item.Desc.5205003",
-        "text": "Can be obtained from [Imprinted Equipment]."
+        "text": "Acquired by opening [Bound Gear Chests]."
     },
     "95205004": {
         "deprecated": false,
@@ -2297,7 +2297,7 @@
         "Dev_Desc": "백색 수실 노리개(각인)",
         "id": 95205005,
         "alias": "Contents.Item.Desc.5205005",
-        "text": "Can be obtained from [Imprinted Equipment]."
+        "text": "Acquired by opening [Bound Gear Chests]."
     },
     "95205006": {
         "deprecated": false,
@@ -2310,7 +2310,7 @@
         "Dev_Desc": "밤색 수실 노리개(각인)",
         "id": 95205201,
         "alias": "Contents.Item.Desc.5205201",
-        "text": "Can be obtained from [Collaboration]."
+        "text": "Acquired by completing [Chivalry Quests]."
     },
     "95205202": {
         "deprecated": false,
@@ -2323,28 +2323,28 @@
         "Dev_Desc": "정인의 노리개(각인)",
         "id": 95205203,
         "alias": "Contents.Item.Desc.5205203",
-        "text": "Can be obtained from [Imprinted Equipment Box]."
+        "text": "Acquired by opening [Bound Gear Chests]."
     },
     "95205204": {
         "deprecated": false,
         "Dev_Desc": "고운 매듭 노리개(각인)",
         "id": 95205204,
         "alias": "Contents.Item.Desc.5205204",
-        "text": "Can be obtained by [Crafting]."
+        "text": "Acquired through the [Craft] function."
     },
     "95205205": {
         "deprecated": false,
         "Dev_Desc": "황색 수실 노리개(각인)",
         "id": 95205205,
         "alias": "Contents.Item.Desc.5205205",
-        "text": "Can be obtained from [Imprinted Equipment]."
+        "text": "Acquired by opening [Bound Gear Chests]."
     },
     "95205206": {
         "deprecated": false,
         "Dev_Desc": "옥 문양 노리개(각인)",
         "id": 95205206,
         "alias": "Contents.Item.Desc.5205206",
-        "text": "Can be obtained by [Crafting]."
+        "text": "Acquired through the [Craft] function."
     },
     "95205207": {
         "deprecated": false,
@@ -2363,14 +2363,14 @@
         "Dev_Desc": "노을 빛의 노리개(각인)",
         "id": 95205401,
         "alias": "Contents.Item.Desc.5205401",
-        "text": "Can be obtained from [Collaboration]."
+        "text": "Acquired by completing [Chivalry Quests]."
     },
     "95205402": {
         "deprecated": false,
         "Dev_Desc": "환희의 노리개(각인)",
         "id": 95205402,
         "alias": "Contents.Item.Desc.5205402",
-        "text": "Can be obtained by [Crafting]>in [Imprinted Equipment]."
+        "text": "Acquired through the [Craft] function or opening [Bound Gear Chests]."
     },
     "95205403": {
         "deprecated": false,
@@ -2967,5 +2967,11 @@
         "id": 95206602,
         "alias": "Contents.Item.Desc.5206602",
         "text": "3 Add Soul Navigation Rate in Reinforcement \\n 5 Additional SOOLT SOOLDING RACK ARTROVATION \\n 6 Additional Soles Rate"
+    },
+    "95307013": {
+        "deprecated": false,
+        "Dev_Desc": "칼날의 인장",
+        "id": 95307013,
+        "alias": "Contents.Item.Desc.5307013"
     }
 }

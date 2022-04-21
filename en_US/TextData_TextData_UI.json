@@ -81,7 +81,7 @@
         "Dev_Desc": "재련 / 아이콘 내 텍스트 / ",
         "id": 8000012,
         "alias": "UI.Forge.ItemIconText.Registering",
-        "text": "Added"
+        "text": "Subscribed"
     },
     "8000013": {
         "deprecated": false,
@@ -249,21 +249,21 @@
         "Dev_Desc": "재련 / 가이드메시지 / 강화/승급/제작",
         "id": 8000036,
         "alias": "UI.Forge.Text.Enchant.ResultFailure",
-        "text": "The materials will be lost when <arg p=[1:string]/> fails."
+        "text": "<DNT> The materials will be lost when <arg p=[1:string]/> fails."
     },
     "8000037": {
         "deprecated": false,
         "Dev_Desc": "재련 / 가이드메시지 / 강화/승급/제작",
         "id": 8000037,
         "alias": "UI.Forge.Text.Enchant.LackMoney",
-        "text": "You need more money to <arg p=[1:string]/>."
+        "text": "<DNT> You need more gold to <arg p=[1:string]/>."
     },
     "8000038": {
         "deprecated": false,
         "Dev_Desc": "재련 / 가이드메시지 / 강화/승급/제작",
         "id": 8000038,
         "alias": "UI.Forge.Text.Enchant.LackResource",
-        "text": "You need more materials to <arg p=[1:string]/>."
+        "text": "<DNT> You need more materials to <arg p=[1:string]/>."
     },
     "8000039": {
         "deprecated": false,
@@ -319,7 +319,7 @@
         "Dev_Desc": "재련 / 팝업메시지 / 강화/승급/제작",
         "id": 8000046,
         "alias": "UI.Forge.PopUpText.ConfirmDestroyItem",
-        "text": "If <arg p=[1:string]/> fails,\nthe item might be destroyed.\nContinue with <arg p=[2:string]/>?"
+        "text": "Continue with <arg p=[1:string]/>?\nIf <arg p=[2:string]/> fails, the gear may be destroyed."
     },
     "8000047": {
         "deprecated": false,
@@ -417,14 +417,14 @@
         "Dev_Desc": "재련/변환 / 전면 연출 / 강화/승급/제작",
         "id": 8000060,
         "alias": "UI.Enchant.SuccessTitle",
-        "text": "<arg p=[1:string]/> Result"
+        "text": "<arg p=[1:string]/> Successful"
     },
     "8000061": {
         "deprecated": false,
         "Dev_Desc": "재련/변환 / 전면 연출 / 강화/승급/제작",
         "id": 8000061,
         "alias": "UI.Enchant.FailTitle",
-        "text": "<arg p=[1:string]/> Result"
+        "text": "Level Maintained"
     },
     "8000062": {
         "deprecated": false,
@@ -599,7 +599,7 @@
         "Dev_Desc": "소지품/창고/시티즌 상점 / 판매/구매/이동",
         "id": 8000086,
         "alias": "UI.Item.PopUp.ControlNum",
-        "text": "Edit <arg p=[1:string]/> Quantity"
+        "text": "<DNT> Edit <arg p=[1:string]/> Quantity"
     },
     "8000087": {
         "deprecated": false,
@@ -900,7 +900,7 @@
         "Dev_Desc": "아이템 장착 슬롯 이름 / 영혼석",
         "id": 8000129,
         "alias": "UI.Item.EquipSlot.SoulStone",
-        "text": "Soul Stone"
+        "text": "Soul Gem"
     },
     "8000130": {
         "deprecated": false,
@@ -928,7 +928,7 @@
         "Dev_Desc": "아이템 기본 정보 / ",
         "id": 8000133,
         "alias": "UI.Item.IconText.Registering",
-        "text": "Added"
+        "text": "Subscribed"
     },
     "8000134": {
         "deprecated": false,
@@ -1173,7 +1173,7 @@
         "Dev_Desc": "HUD / ",
         "id": 8000168,
         "alias": "UI.HUD.Text.Day",
-        "text": "<arg p=[1:integer]/> days"
+        "text": "<arg p=[1:integer]/> [$pl_ref:1]day[@pl+s]"
     },
     "8000169": {
         "deprecated": false,
@@ -1313,7 +1313,7 @@
         "Dev_Desc": "로비 / ",
         "id": 8000188,
         "alias": "UI.Lobby.Text.ConnectingLobbyServer",
-        "text": "Connecting to Lobby..."
+        "text": "Connecting to the Lobby..."
     },
     "8000189": {
         "deprecated": false,
@@ -1600,7 +1600,7 @@
         "Dev_Desc": "문파 / 직위 / 부문파장",
         "id": 8000229,
         "alias": "UI.Clan.StatusText.Submaster",
-        "text": "Clan Advisor"
+        "text": "Clan Advisor "
     },
     "8000230": {
         "deprecated": false,
@@ -1684,56 +1684,56 @@
         "Dev_Desc": "재련 / 전면 연출 / 아이템 강화 수치",
         "id": 8000241,
         "alias": "UI.Forge.FullShow.Enchant.Success",
-        "text": "Enhance successful."
+        "text": "The gear is enhanced by 1 level."
     },
     "8000242": {
         "deprecated": false,
         "Dev_Desc": "강화 / 전면 연출 / ",
         "id": 8000242,
         "alias": "UI.Forge.FullShow.Enchant.Fail",
-        "text": "Failed to <arg p=[1:string]/>. Item has been destroyed."
+        "text": "<DNT> Failed to <arg p=[1:string]/>. Item has been destroyed."
     },
     "8000243": {
         "deprecated": false,
         "Dev_Desc": "강화 / 전면 연출 / ",
         "id": 8000243,
         "alias": "UI.Forge.Enchant",
-        "text": "Nothing happened. It must be Yaru's doing."
+        "text": "Enhancement attempted, but nothing happened."
     },
     "8000244": {
         "deprecated": false,
         "Dev_Desc": "로비 / ",
         "id": 8000244,
         "alias": "UI.Network.PopUp.Down",
-        "text": "Network Disconnected"
+        "text": "Disconnected from the server."
     },
     "8000245": {
         "deprecated": false,
         "Dev_Desc": "로비 / 팝업 메시지 / ",
         "id": 8000245,
         "alias": "UI.Network.PopUp.SeverIssueExile",
-        "text": "Signed out due to server issue"
+        "text": "Disconnected from the server."
     },
     "8000246": {
         "deprecated": false,
         "Dev_Desc": "로비 / 팝업 메시지 / ",
         "id": 8000246,
         "alias": "UI.Network.PopUp.OverlapExile",
-        "text": "Signed out due to dual sign-in"
+        "text": "Disconnected from the server due to duplicate sign-in."
     },
     "8000247": {
         "deprecated": false,
         "Dev_Desc": "로비 / 팝업 메시지 / ",
         "id": 8000247,
         "alias": "UI.Network.PopUp.CachDemonExile",
-        "text": "Signed out by Cash Demon"
+        "text": "Disconnected from the server."
     },
     "8000248": {
         "deprecated": false,
         "Dev_Desc": "로비 / 팝업 메시지 / ",
         "id": 8000248,
         "alias": "UI.Network.PopUp.ToolExile",
-        "text": "Signed out by Admin Tool"
+        "text": "Your session has been disconnected by the GM."
     },
     "8000249": {
         "deprecated": false,
@@ -1838,7 +1838,7 @@
         "Dev_Desc": "로비 / ",
         "id": 8000263,
         "alias": "UI.Lobby.Title.CreateHero",
-        "text": "Create Character"
+        "text": "Create a character?"
     },
     "8000264": {
         "deprecated": false,
@@ -2216,7 +2216,7 @@
         "Dev_Desc": "퀘스트 / 퀘스트 대상 아이템 자동 장착 팝업 창 / <arg p=[1:string]/>: 첫 번째 장착할 아이템 이름\n<arg p=[2:integer]/>: 총 장착할 아이템 개수 -1",
         "id": 8000317,
         "alias": "UI.Quest.AutoEquipPopUp.EquipItem",
-        "text": "<arg p=[1:string]/> plus <arg p=[2:integer]/> more items"
+        "text": "<arg p=[1:string]/> plus <arg p=[2:integer]/> more [$pl_ref:2]item[@pl+s]"
     },
     "8000318": {
         "deprecated": false,
@@ -2328,7 +2328,7 @@
         "Dev_Desc": "팝업창 / 아이템 이동 확인 / ",
         "id": 8000333,
         "alias": "UI.PopUpMsg.ItemMoveConfirm",
-        "text": "Move <arg p=[2:integer]/> <arg p=[1:string]/>."
+        "text": "<DNT> Move <arg p=[2:integer]/> <arg p=[1:string]/>."
     },
     "8000334": {
         "deprecated": false,
@@ -2412,14 +2412,14 @@
         "Dev_Desc": "NPC상점 / ",
         "id": 8000345,
         "alias": "UI.Shop.PopUpText.Sell.Confirm.2",
-        "text": "Do you want to <fontStyle=[FunctionStyleA]>sell</> [<arg p=[1:string]/>] and<arg p=[2:integer]/> more items?<br/><textColor=[209:73:60:255]>The sale is final.</>"
+        "text": "Do you want to <fontStyle=[FunctionStyleA]>sell</> [<arg p=[1:string]/>] and<arg p=[2:integer]/> more [$pl_ref:2]item[@pl+s]?<br/><textColor=[209:73:60:255]>The sale is final.</>"
     },
     "8000346": {
         "deprecated": false,
         "Dev_Desc": "아이템 / ",
         "id": 8000346,
         "alias": "UI.Item.Unceal.RandomStat.1",
-        "text": "Unseal to receive <arg p=[1:integer]/> random stats."
+        "text": "Unseal to receive <arg p=[1:integer]/> random [$pl_ref:1]stat[@pl+s]."
     },
     "8000347": {
         "deprecated": false,
@@ -2559,7 +2559,7 @@
         "Dev_Desc": "아이템 / ",
         "id": 8000366,
         "alias": "UI.Item.Unceal.RandomStat.2",
-        "text": "Unseal to receive <arg p=[1:integer]/> random stats."
+        "text": "Unseal to receive <arg p=[1:integer]/> random [$pl_ref:1]stat[@pl+s]."
     },
     "8000367": {
         "deprecated": false,
@@ -2706,7 +2706,7 @@
         "Dev_Desc": "HUD / ",
         "id": 8000387,
         "alias": "UI.HUD.Second.Later",
-        "text": " sec later"
+        "text": "After  sec."
     },
     "8000388": {
         "deprecated": false,
@@ -2734,28 +2734,28 @@
         "Dev_Desc": "HUD / ",
         "id": 8000391,
         "alias": "UI.HUD.Day",
-        "text": " day"
+        "text": "Sunday"
     },
     "8000392": {
         "deprecated": false,
         "Dev_Desc": "거점쟁탈전 / 사망 시 부활 창 / ",
         "id": 8000392,
         "alias": "UI.FactionConquest.Revival.AutoSelect.Exit",
-        "text": "If you do not decide on the internal resurrection method, you will automatically \"leave the battle\""
+        "text": "<DNT>"
     },
     "8000393": {
         "deprecated": false,
         "Dev_Desc": "거점쟁탈전 / 사망 시 부활 창 / ",
         "id": 8000393,
         "alias": "UI.FactionConquest.Revival.AutoSelect.Resurrection",
-        "text": "If you do not decide on the internal resurrection method, it will automatically \"resurrect in the battle\"."
+        "text": "<DNT>"
     },
     "8000394": {
         "deprecated": false,
         "Dev_Desc": "거점쟁탈전 / 사망 시 부활 창 / <arg p=[1:integer]/>: 거점쟁탈전 부활 가능 목숨",
         "id": 8000394,
         "alias": "UI.FactionConquest.Revival.GuideText.Resurrection",
-        "text": "You can resurrect within the battleground <arg p=[1:integer]/> times."
+        "text": "You can resurrect within the battleground <arg p=[1:integer]/> [$pl_ref:1]time[@pl+s]."
     },
     "8000395": {
         "deprecated": false,
@@ -2769,21 +2769,21 @@
         "Dev_Desc": "사망 시 부활 창 / ",
         "id": 8000396,
         "alias": "UI.Revival.AutoSelect.Return",
-        "text": "If you do not decide on the internal resurrection method, you will automatically \"return to the village\"."
+        "text": "<DNT>"
     },
     "8000397": {
         "deprecated": false,
         "Dev_Desc": "사망 시 부활 창 / ",
         "id": 8000397,
         "alias": "UI.Revival.AutoSelect.Ressurection",
-        "text": "If you do not decide the internal resurrection method, it will automatically \"resurrect\"."
+        "text": "<DNT>"
     },
     "8000398": {
         "deprecated": false,
         "Dev_Desc": "사망 시 부활 창 / ",
         "id": 8000398,
         "alias": "UI.Revival.AutoSelect.BMRessurection",
-        "text": "If you do not decide the internal resurrection method, it will automatically \"resurrect immediately\"."
+        "text": "<DNT>"
     },
     "8000399": {
         "deprecated": false,
@@ -2916,7 +2916,7 @@
         "Dev_Desc": "PK 랭킹 / ",
         "id": 8000417,
         "alias": "UI.PK.Ranking.Season.Description",
-        "text": "A season lasts for a week and resets every Monday at 00:00."
+        "text": "A season lasts for a week and resets every Monday at 00:00. The ranking is refreshed every hour."
     },
     "8000418": {
         "deprecated": false,
@@ -3035,21 +3035,21 @@
         "Dev_Desc": "로비 / ",
         "id": 8000434,
         "alias": "UI.Lobby.Text.ConnectingSDKServer",
-        "text": "Connecting SDK Server"
+        "text": "Service connection is temporarily being delayed."
     },
     "8000435": {
         "deprecated": false,
         "Dev_Desc": "타이틀 / 보안 설정 / 등록중",
         "id": 8000435,
         "alias": "UI.Login.Security.Registering",
-        "text": "Added"
+        "text": "Subscribed"
     },
     "8000436": {
         "deprecated": false,
         "Dev_Desc": "타이틀 / 보안 설정 / 미등록",
         "id": 8000436,
         "alias": "UI.Login.Security.NotRegister",
-        "text": "N/A"
+        "text": "No Service"
     },
     "8000437": {
         "deprecated": false,
@@ -3133,7 +3133,7 @@
         "Dev_Desc": "로비 / ",
         "id": 8000448,
         "alias": "UI.Lobby.Text.Connecting",
-        "text": "Connecting"
+        "text": "Attempting to reconnect."
     },
     "8000449": {
         "deprecated": false,
@@ -3217,7 +3217,7 @@
         "Dev_Desc": "로비 & 커스터마이징 / ",
         "id": 8000460,
         "alias": "UI.Lobby.PopUpText.CharacterCustomizing.Return",
-        "text": "Exit Customize Character window and\ngo to Create Character window?\nAll changes will be lost."
+        "text": "Exit Customize Character window and\ngo to Select a Race window?\nAll changes will be lost."
     },
     "8000461": {
         "deprecated": false,
@@ -3259,7 +3259,7 @@
         "Dev_Desc": "로비 & 커스터마이징 / ",
         "id": 8000466,
         "alias": "UI.Lobby.PopUpText.LengthIssuedName",
-        "text": "The length is invalid."
+        "text": "(1-8 Korean characters, 2-16 English characters)"
     },
     "8000467": {
         "deprecated": false,
@@ -3399,7 +3399,7 @@
         "Dev_Desc": "아이템 / 상자 / <arg p=[1:integer]/> :  선택된 수량 값",
         "id": 8000486,
         "alias": "UI.Item.RewardBox.quantitySelection",
-        "text": "Open <arg p=[1:integer]/> chests to obtain items."
+        "text": "Open <arg p=[1:integer]/> [$pl_ref:1]chest[@pl+s] to obtain items."
     },
     "8000487": {
         "deprecated": false,
@@ -3483,7 +3483,7 @@
         "Dev_Desc": "아이템 정보창 / 판매 불가 시 표시 / ",
         "id": 8000498,
         "alias": "UI.ItemInfoPopup.Sellable.False",
-        "text": "Unable to Sell"
+        "text": "Not for sale"
     },
     "8000499": {
         "deprecated": false,
@@ -3504,7 +3504,7 @@
         "Dev_Desc": "거점쟁탈전 / 미니맵 안내 메시지 / <arg p=[1:string]/> : 쟁탈전 이름 (ZoneData의 zoneNameAlias 필드 값)",
         "id": 8000501,
         "alias": "UI.Minimap.Guide.FactionBase.05",
-        "text": "Battle for <arg p=[1:string]/>"
+        "text": "Battle for <arg p=[1:string]/> "
     },
     "8000502": {
         "deprecated": false,
@@ -3707,7 +3707,7 @@
         "Dev_Desc": "친구 팝업 / 접속 상태 / 24시간 이후 미접속",
         "id": 8000531,
         "alias": "UI.FriendPopUp.ConnectionState.Notconnected.3",
-        "text": "<arg p=[1:integer]/> days ago"
+        "text": "<arg p=[1:integer]/> [$pl_ref:1]day[@pl+s] ago"
     },
     "8000532": {
         "deprecated": false,
@@ -3840,21 +3840,21 @@
         "Dev_Desc": "소셜 팝업 / 친구 추가 / 친구 추가 설명",
         "id": 8000550,
         "alias": "UI.SocialPopUp.FriendAdd.GuideText",
-        "text": "Enter the character's name to send a Friend Request."
+        "text": "Enter the character's name to send a friend request."
     },
     "8000551": {
         "deprecated": false,
         "Dev_Desc": "소셜 팝업 / 친구 추가 / 텍스트박스",
         "id": 8000551,
         "alias": "UI.SocialPopUp.FriendAdd.TextBox",
-        "text": "Character Name"
+        "text": "Enter a character's name."
     },
     "8000552": {
         "deprecated": false,
         "Dev_Desc": "옷장 / 장착 컨펌 팝업 / 가이드 텍스트",
         "id": 8000552,
         "alias": "UI.Closet.PopUp.Guide.1",
-        "text": "Equip <arg p=[1:string]/>?\nOnly changing style does not affect character stats."
+        "text": "Equip <arg p=[1:string]/>?\nIf you only apply the style, the stats won't be applied."
     },
     "8000553": {
         "deprecated": false,
@@ -3868,7 +3868,7 @@
         "Dev_Desc": "옷장 / 버튼 / 외형 장착",
         "id": 8000554,
         "alias": "UI.Closet.PopUp.Button.Look",
-        "text": "Change Style"
+        "text": "Apply Style"
     },
     "8000555": {
         "deprecated": false,
@@ -3917,7 +3917,7 @@
         "Dev_Desc": "경험치 복구 / 도움말 / 설명",
         "id": 8000561,
         "alias": "UI.ExpRecorvery.GuidePopUp.Desc",
-        "text": "Lost EXP and items due to character death are stored for <arg p=[1:string]/>; the limit being up to <arg p=[2:integer]/> for EXP and <arg p=[3:integer]/> for items. As far as EXP, free recovery is allowed up to <arg p=[4:integer]/> times daily and resets at <arg p=[5:string]/> everyday."
+        "text": "Lost EXP and items due to character death are stored for <arg p=[1:string]/>; the limit being up to <arg p=[2:integer]/> for EXP and <arg p=[3:integer]/> for items.\nAs far as EXP, free recovery is allowed up to <arg p=[4:integer]/> times daily and resets at <arg p=[5:string]/> everyday."
     },
     "8000562": {
         "deprecated": false,
@@ -3931,14 +3931,14 @@
         "Dev_Desc": "경험치 복구 / 도움말 / 보관 기간 / 설명",
         "id": 8000563,
         "alias": "UI.ExpRecorvery.GuidePopUp.ExpStorageTime.Desc",
-        "text": "<arg p=[1:integer]/> hours after the death"
+        "text": "<arg p=[1:integer]/> [$pl_ref:1]hour[@pl+s] after the death"
     },
     "8000564": {
         "deprecated": false,
         "Dev_Desc": "경험치 복구 / 도움말 / 금일 복구 횟수 / 타이틀",
         "id": 8000564,
         "alias": "UI.ExpRecorvery.GuidePopUp.NumOfRecorvery.Title",
-        "text": "EXP Recovery: <arg p=[1:integer]/> times"
+        "text": "EXP Recovery: <arg p=[1:integer]/> [$pl_ref:1]time[@pl+s]"
     },
     "8000565": {
         "deprecated": false,
@@ -3952,7 +3952,7 @@
         "Dev_Desc": "경험치 복구 / 복구 가능 경험치 없음",
         "id": 8000566,
         "alias": "UI.ExpRecorvery.EmptyExpSlot",
-        "text": "You haven't lost anything."
+        "text": "Nothing to recover."
     },
     "8000567": {
         "deprecated": false,
@@ -4057,7 +4057,7 @@
         "Dev_Desc": "PK / 장부 / 메인 화면 / 현재 시즌 설명",
         "id": 8000586,
         "alias": "UI.PK.Record.PKInfo.SeasonDesc",
-        "text": "A season lasts for a week and<br/>resets every Monday at <arg p=[1:integer]/>:00."
+        "text": "A season lasts for a week and\nresets every Monday at <arg p=[1:integer]/>:00.\nThe ranking is refreshed every 1 hour."
     },
     "8000587": {
         "deprecated": false,
@@ -4197,7 +4197,7 @@
         "Dev_Desc": "문파 / 문파 정보 / 기부 / 안내",
         "id": 8000617,
         "alias": "UI.Guild.Donation.Desc",
-        "text": "Donation can be made at 5 p.m. on the next day of creating or joining the clan."
+        "text": "Donation can be made at 5 PM on the next day of creating or joining the clan."
     },
     "8000618": {
         "deprecated": false,
@@ -4442,7 +4442,7 @@
         "Dev_Desc": "게시판 / 벽보 / 아이템 부족 메시지\n<arg p=[1:integer]/>: 해당 벽보 등록에 필요한 아이템 수",
         "id": 8000652,
         "alias": "UI.Board.Text.WallChart.LackItem",
-        "text": "Minimum <arg p=[1:integer]/> items are required for this quest."
+        "text": "Minimum <arg p=[1:integer]/> [$pl_ref:1]item[@pl+s] are required for this quest."
     },
     "8000653": {
         "deprecated": false,
@@ -4561,21 +4561,21 @@
         "Dev_Desc": "강화 / 결과 / 대실패",
         "id": 8000669,
         "alias": "UI.Enchant.BigFailTitle",
-        "text": "<arg p=[1:string]/> Result"
+        "text": "<arg p=[1:string]/> Failed"
     },
     "8000670": {
         "deprecated": false,
         "Dev_Desc": "강화 / 결과 / 대성공",
         "id": 8000670,
         "alias": "UI.Enchant.BigSuccessTitle",
-        "text": "<arg p=[1:string]/> Result"
+        "text": "Exceptionally Crafted: <arg p=[1:string]/>"
     },
     "8000671": {
         "deprecated": false,
         "Dev_Desc": "강화 / 결과 / 단계하락",
         "id": 8000671,
         "alias": "UI.Enchant.DowngradeTitle",
-        "text": "<arg p=[1:string]/> Result"
+        "text": "Level Dropped"
     },
     "8000672": {
         "deprecated": false,
@@ -4596,28 +4596,28 @@
         "Dev_Desc": "강화 / 결과 / 팝업 / 대성공 텍스트",
         "id": 8000674,
         "alias": "UI.Forge.FullShow.Enchant.BigSuccess",
-        "text": "Enhance: Big Success!"
+        "text": "The gear is enhanced by 2 levels due to Big Success."
     },
     "8000675": {
         "deprecated": false,
         "Dev_Desc": "강화 / 결과 / 팝업 / 단계하락 텍스트",
         "id": 8000675,
         "alias": "UI.Forge.FullShow.Enchant.Downgrade",
-        "text": "Decreased to Enhance Lv.<arg p=[1:string]/>"
+        "text": "The Cursed Scroll weakened the Enhance Level down by 1."
     },
     "8000676": {
         "deprecated": false,
         "Dev_Desc": "강화 / 결과 / 팝업 / 초기화 텍스트",
         "id": 8000676,
         "alias": "UI.Forge.FullShow.Enchant.Initialize",
-        "text": "<arg p=[1:string]/> has failed and its Enhance level has been reset."
+        "text": "<DNT> [@up]<arg p=[1:string]/> has failed and its Enhance level has been reset."
     },
     "8000677": {
         "deprecated": false,
         "Dev_Desc": "강화 / 결과 / 팝업 / 장비손상 텍스트",
         "id": 8000677,
         "alias": "UI.Forge.FullShow.Enchant.Damage",
-        "text": "<arg p=[1:string]/> has failed and the gear has been damaged."
+        "text": "<DNT> [@up]<arg p=[1:string]/> has failed and the gear has been damaged."
     },
     "8000678": {
         "deprecated": false,
@@ -4659,7 +4659,7 @@
         "Dev_Desc": "강화 / 재료선택 / 강화서메인",
         "id": 8000683,
         "alias": "UI.Item.Enchant.SelectScrollMain",
-        "text": "Select upgrade material."
+        "text": "Select an Enhance Scroll."
     },
     "8000684": {
         "deprecated": false,
@@ -4687,14 +4687,14 @@
         "Dev_Desc": "강화 / 결과 / 비안전강화 / 성공 텍스트",
         "id": 8000687,
         "alias": "UI.Enchant.NonSafety.SuccessText",
-        "text": "Strengthen success"
+        "text": "<DNT>"
     },
     "8000688": {
         "deprecated": false,
         "Dev_Desc": "강화 / 결과 / 비안전강화 / 대성공 텍스트",
         "id": 8000688,
         "alias": "UI.Enchant.NonSafety.BigSuccessText",
-        "text": "Reinforcement is a big success"
+        "text": "<DNT>"
     },
     "8000689": {
         "deprecated": false,
@@ -4708,14 +4708,14 @@
         "Dev_Desc": "강화 / 강화재료 / 재료소멸 메시지",
         "id": 8000690,
         "alias": "UI.Enchant.Resource.satisfied",
-        "text": "The scroll and materials will be lost."
+        "text": "If enhancing fails, the gear will be destroyed."
     },
     "8000691": {
         "deprecated": false,
         "Dev_Desc": "강화 / 결과 / 비안전강화 / 성공 텍스트 뒷부분",
         "id": 8000691,
         "alias": "UI.Enchant.NonSafety.SuccessTextEnd",
-        "text": "The strengthening phase rises."
+        "text": "<DNT>"
     },
     "8000692": {
         "deprecated": false,
@@ -4869,7 +4869,7 @@
         "Dev_Desc": "퀘스트 / 팝업 / 수락창 / 팝업 유지 시간",
         "id": 8000713,
         "alias": "UI.Quest.PopUpText.PopUpRemainTime",
-        "text": "Until Auto-Reject:"
+        "text": "Until Auto-Reject: "
     },
     "8000714": {
         "deprecated": false,
@@ -4939,7 +4939,7 @@
         "Dev_Desc": "퀘스트 / 전격 / 팝업 / 수락창 / 버튼 No - 수락",
         "id": 8000723,
         "alias": "UI.Quest.OutBreak.PopUpText.KeepQuestN",
-        "text": "Postpone"
+        "text": "Decline"
     },
     "8000724": {
         "deprecated": false,
@@ -5030,14 +5030,14 @@
         "Dev_Desc": "상점 / 메인 화면 / 구매, 매입 조건 / 레벨",
         "id": 8000736,
         "alias": "UI.NPCShop.Condition.Level",
-        "text": "Lv.<arg p=[1:integer]/> or higher"
+        "text": "Lv.<arg p=[1:interger]/> or higher"
     },
     "8000737": {
         "deprecated": false,
         "Dev_Desc": "상점 / 메인 화면 / 구매, 매입 조건 / 문파 직위",
         "id": 8000737,
         "alias": "UI.NPCShop.Condition.GuildLevel",
-        "text": "Clan Lv.<arg p=[1:integer]/> or higher"
+        "text": "Clan Lv.<arg p=[1:interger]/> or higher"
     },
     "8000738": {
         "deprecated": false,
@@ -5058,14 +5058,14 @@
         "Dev_Desc": "상점 / 메인 화면 / 한정 판매 수량",
         "id": 8000740,
         "alias": "UI.NPCShop.LimitedCount.Buyer",
-        "text": "Limited Sale: <arg p=[1:integer]/>"
+        "text": "Limited Sale: <arg p=[1:interger]/>"
     },
     "8000741": {
         "deprecated": false,
         "Dev_Desc": "상점 / 메인 화면 / 한정 구매 수량",
         "id": 8000741,
         "alias": "UI.NPCShop.LimitedCount.Seller",
-        "text": "Limited Purchase: <arg p=[1:integer]/>"
+        "text": "Limited Purchase: <arg p=[1:interger]/>"
     },
     "8000742": {
         "deprecated": false,
@@ -5079,7 +5079,7 @@
         "Dev_Desc": "설정 / 바롱의 기운 회복 / 자동사용 / 수치 텍스트",
         "id": 8000743,
         "alias": "UI.Setting.Barong.Stamina.Value",
-        "text": "<arg p=[1:integer]/>%"
+        "text": "<arg p=[1:interger]/>%"
     },
     "8000744": {
         "deprecated": false,
@@ -5240,14 +5240,14 @@
         "Dev_Desc": "강화 / 재료선택 / 장비메인",
         "id": 8000766,
         "alias": "UI.Item.Enchant.SelectEquipMain",
-        "text": "Select an item to enhance."
+        "text": "Select a gear to enhance."
     },
     "8000767": {
         "deprecated": false,
         "Dev_Desc": "강화 / 재료선택 / 장비서브",
         "id": 8000767,
         "alias": "UI.Item.Enchant.SelectEquipSub",
-        "text": "Enhanced items will have improved performance."
+        "text": "Enhancing a gear increases its stats."
     },
     "8000768": {
         "deprecated": false,
@@ -5597,7 +5597,7 @@
         "Dev_Desc": "월드맵 / 모험가 등급 / 랭킹1",
         "id": 8000817,
         "alias": "UI.Worldmap.Adventure.Rank01",
-        "text": "Conquerer"
+        "text": "Conqueror"
     },
     "8000818": {
         "deprecated": false,
@@ -5639,7 +5639,7 @@
         "Dev_Desc": "칙령 / 참여중 인원",
         "id": 8000823,
         "alias": "Ui.RoyalOrder.Member",
-        "text": "Participants: <arg p=[1:integer]/>"
+        "text": "[$pl_ref:1]Participant[@pl+s]: <arg p=[1:integer]/>"
     },
     "8000824": {
         "deprecated": false,
@@ -5786,7 +5786,7 @@
         "Dev_Desc": "모험가 랭크 1~3랭크",
         "id": 8000844,
         "alias": "UI.Worldmap.Adventure.Point3",
-        "text": "<arg p=[2:string]/> <arg p=[1:string]/> Points"
+        "text": "<arg p=[2:string]/> <arg p=[1:string]/> [$pl_ref:1]Point[@pl+s]"
     },
     "8000845": {
         "deprecated": false,
@@ -6003,14 +6003,14 @@
         "Dev_Desc": "로비 & 커스터마이징 / 이름 에러 / 공백",
         "id": 8000875,
         "alias": "UI.Lobby.PopUpText.BlankAtName",
-        "text": "The clan name has a space."
+        "text": "Up to 2 spaces are allowed, but they cannot be used together, at the beginning, or at the end the name."
     },
     "8000876": {
         "deprecated": false,
         "Dev_Desc": "로비 & 커스터마이징 / 이름 에러 / 특수문자",
         "id": 8000876,
         "alias": "UI.Lobby.PopUpText.SpecialCharacterIncludedName",
-        "text": "Special characters aren't allowed."
+        "text": "Special characters including !,@,#,$,%,^,&,* can be used only in front or at the end of a name."
     },
     "8000877": {
         "deprecated": false,
@@ -6031,14 +6031,14 @@
         "Dev_Desc": "로비 & 커스터마이징 / 이름 에러 / 선점된 이름",
         "id": 8000879,
         "alias": "UI.Lobby.PopUpText.NameOverlap",
-        "text": "That name has already been claimed."
+        "text": "The name has already been claimed."
     },
     "8000887": {
         "deprecated": false,
         "Dev_Desc": "옷장 / 등록되지 않은 의복",
         "id": 8000887,
         "alias": "UI.Closet.Unregistered",
-        "text": "N/A"
+        "text": "No Service"
     },
     "8000888": {
         "deprecated": false,
@@ -6059,7 +6059,7 @@
         "Dev_Desc": "옷장 / 외형 적용 버튼",
         "id": 8000890,
         "alias": "UI.Closet.Button.LookEquip",
-        "text": "Style Only"
+        "text": "Apply Style"
     },
     "8000891": {
         "deprecated": false,
@@ -6101,7 +6101,7 @@
         "Dev_Desc": "친구 팝업 / 친구 숫자 표시",
         "id": 8000896,
         "alias": "UI.FriendPopUp.FriendsNumber",
-        "text": "Friends (<arg p=[1:integer]/>/<arg p=[2:integer]/>)"
+        "text": "Online <arg p=[1:integer]/>/<arg p=[2:integer]/>"
     },
     "8000901": {
         "deprecated": false,
@@ -6136,7 +6136,7 @@
         "Dev_Desc": "문파 / 문파 정보 / 관리 / 가입,해산 / 문파 소개 / 기본 문구",
         "id": 8000905,
         "alias": "UI.Guild.Management.Introduction.Desc",
-        "text": "Introduce the clan to your future members."
+        "text": "Introduce the clan to your future members.\n(Max 30 characters)"
     },
     "8000906": {
         "deprecated": false,
@@ -6283,7 +6283,7 @@
         "Dev_Desc": "문파 / 문파원 / 컬럼 / 접속상태 / 미접속 / 1일 초과",
         "id": 8000926,
         "alias": "UI.Guild.CrewInfo.UnConnected.overDay",
-        "text": "<arg p=[1:integer]/> days ago"
+        "text": "<arg p=[1:integer]/> [$pl_ref:1]day[@pl+s] ago"
     },
     "8000927": {
         "deprecated": false,
@@ -6514,14 +6514,14 @@
         "Dev_Desc": "문파 / 문파원 / 가입 초대 / 초대 / 안내",
         "id": 8000983,
         "alias": "UI.Guild.CrewInfo.Invite.PopUp.Desc",
-        "text": "Enter the character's name to invite to your clan."
+        "text": "Enter the character's name to send a Join Request."
     },
     "8000984": {
         "deprecated": false,
         "Dev_Desc": "문파 / 문파원 / 가입 초대 / 초대 / 기본 문구",
         "id": 8000984,
         "alias": "UI.Guild.CrewInfo.Invite.PopUp.Text",
-        "text": "Character Name"
+        "text": "Enter Name"
     },
     "8000985": {
         "deprecated": false,
@@ -6535,7 +6535,7 @@
         "Dev_Desc": "무기타입 / 장검",
         "id": 8000986,
         "alias": "UI.WeaponType.Name.Sword",
-        "text": "Longsword"
+        "text": "Sword"
     },
     "8000987": {
         "deprecated": false,
@@ -6584,14 +6584,14 @@
         "Dev_Desc": "무기타입 / 대형도끼",
         "id": 8000993,
         "alias": "UI.WeaponType.Name.GreatAxe",
-        "text": "Greataxe"
+        "text": "Axe"
     },
     "8000994": {
         "deprecated": false,
         "Dev_Desc": "무기타입 / 장궁",
         "id": 8000994,
         "alias": "UI.WeaponType.Name.Longbow",
-        "text": "Longbow"
+        "text": "Bow"
     },
     "8000995": {
         "deprecated": false,
@@ -6605,7 +6605,7 @@
         "Dev_Desc": "무기타입 / 불꽃 기공패",
         "id": 8000996,
         "alias": "UI.WeaponType.Name.FireBangle",
-        "text": "Fire Bangle"
+        "text": "Bangle"
     },
     "8000997": {
         "deprecated": false,
@@ -6619,7 +6619,7 @@
         "Dev_Desc": "무기타입 / 종 (임시)",
         "id": 8000998,
         "alias": "UI.WeaponType.Name.RitualBell",
-        "text": "Bell"
+        "text": "Trilbu"
     },
     "8000999": {
         "deprecated": false,
@@ -6675,7 +6675,7 @@
         "Dev_Desc": "랭킹 / 경험치 / 안내문",
         "id": 8001006,
         "alias": "UI.Exp.Ranking.Season.Description",
-        "text": "The ranking is refreshed every hour."
+        "text": "The EXP ranking is refreshed every hour."
     },
     "8001007": {
         "deprecated": false,
@@ -6689,7 +6689,7 @@
         "Dev_Desc": "랭킹 / 탭 / PK 랭킹 탭",
         "id": 8001008,
         "alias": "UI.Ranking.TabName.PK",
-        "text": "PK"
+        "text": "PvP"
     },
     "8001009": {
         "deprecated": false,
@@ -7067,7 +7067,7 @@
         "Dev_Desc": "장비도감 / 검색 / 검색 결과 없음",
         "id": 8001062,
         "alias": "UI.EquipCollection.Search.Nothing",
-        "text": "No Gear Codex of your search criteria found."
+        "text": "No Gear Codex in your search criteria."
     },
     "8001063": {
         "deprecated": false,
@@ -7088,7 +7088,7 @@
         "Dev_Desc": "장비도감 / 전체 효과",
         "id": 8001065,
         "alias": "UI.EquipCollection.AllEffect",
-        "text": "All Effects"
+        "text": "Complete Effects"
     },
     "8001066": {
         "deprecated": false,
@@ -7102,7 +7102,7 @@
         "Dev_Desc": "장비도감 / 필터 / 없음",
         "id": 8001067,
         "alias": "UI.EquipCollection.Filter.Nothing",
-        "text": "No Gear Codex of your filter criteria found."
+        "text": "No Gear Codex in your search criteria."
     },
     "8001068": {
         "deprecated": false,
@@ -7123,7 +7123,7 @@
         "Dev_Desc": "장비도감 / 등록 팝업 / 설명2",
         "id": 8001070,
         "alias": "UI.EquipCollection.RegisterPopup.Desc2",
-        "text": "The registered item will be removed from the inventory."
+        "text": "Registered items will be lost."
     },
     "8001071": {
         "deprecated": false,
@@ -7172,7 +7172,7 @@
         "Dev_Desc": "Province 정보 – 모험가 등급/점수 표시",
         "id": 8001077,
         "alias": "UI.Worldmap.Province.Adventure.Info",
-        "text": "<arg p=[2:string]/> <textColor=[254:204:102:255]><arg p=[1:string]/> Points</>"
+        "text": "<arg p=[2:string]/> <textColor=[254:204:102:255]><arg p=[1:string]/> [$pl_ref:1]Point[@pl+s]</>"
     },
     "8001078": {
         "deprecated": false,
@@ -7347,7 +7347,7 @@
         "Dev_Desc": "제작 / n종 선택",
         "id": 8001102,
         "alias": "UI.Craft.MultiSelect",
-        "text": "Select <arg p=[1:integer]/> types"
+        "text": "Select <arg p=[1:integer]/> [$pl_ref:1]type[@pl+s]"
     },
     "8001103": {
         "deprecated": false,
@@ -7361,7 +7361,7 @@
         "Dev_Desc": "제작 / 제작 중 메시지",
         "id": 8001104,
         "alias": "UI.Craft.Process",
-        "text": "Crafting <arg p=[1:integer]/> items..."
+        "text": "Crafting <arg p=[1:integer]/> [$pl_ref:1]item[@pl+s]..."
     },
     "8001105": {
         "deprecated": false,
@@ -7389,7 +7389,7 @@
         "Dev_Desc": "제작 / 대체 재료 팝업 / n종 선택",
         "id": 8001108,
         "alias": "UI.Craft.Popup.Desc.MultiSelect",
-        "text": "Select <arg p=[1:integer]/> types"
+        "text": "Select <arg p=[1:integer]/> [$pl_ref:1]type[@pl+s]"
     },
     "8001109": {
         "deprecated": false,
@@ -7403,14 +7403,14 @@
         "Dev_Desc": "제작 / 대체 재료 팝업 / 재료 선택",
         "id": 8001110,
         "alias": "UI.Craft.Popup.Desc.UseResource",
-        "text": "Materials are used in order."
+        "text": "The materials are used in the order of selection."
     },
     "8001111": {
         "deprecated": false,
         "Dev_Desc": "제작 / 대체 재료 팝업 / 재료 부족",
         "id": 8001111,
         "alias": "UI.Craft.Popup.Desc.NoResource",
-        "text": "You don't have the materials."
+        "text": "You have no materials."
     },
     "8001112": {
         "deprecated": false,
@@ -8005,7 +8005,7 @@
         "Dev_Desc": "사망 화면 / N 초뒤 자동 부활 안내",
         "id": 8001197,
         "alias": "UI.Revival.AutoSelect.Desc",
-        "text": "You will automatically resurrect in <arg p=[1:string]/>."
+        "text": "Resurrects automatically in <arg p=[1:string]/>."
     },
     "8001198": {
         "deprecated": false,
@@ -8173,7 +8173,7 @@
         "Dev_Desc": "검결 / 타이틀",
         "id": 8001221,
         "alias": "UI.Blade.Title",
-        "text": "Blade"
+        "text": "Chakra"
     },
     "8001222": {
         "deprecated": false,
@@ -8551,7 +8551,7 @@
         "Dev_Desc": "로그인 UI / 이용약관 / NC 서비스 이용 약관 디테일",
         "id": 8001275,
         "alias": "UI.Login.TermsOfService.2",
-        "text": "PLAY NC homepage including consent to receive advertising information\\nConsent to receive advertising information is separate"
+        "text": "<DNT>"
     },
     "8001276": {
         "deprecated": false,
@@ -8642,7 +8642,7 @@
         "Dev_Desc": "로그인 UI / 접속 대기 / 안내 문구",
         "id": 8001288,
         "alias": "UI.Login.Waiting.Desc",
-        "text": "Thank you for your patience.\nWe have limited the number of players to provide a smooth game play experience.\nYour queue may be reset if you cancel your queue or become disconnected\nfrom the server for more than 1 minute."
+        "text": "Thank you for your patience.\nWe have limited the number of players to provide a smooth game play experience.\nYour queue may be reset if you cancel your queue or become disconnected\nfrom the server for 1 minute or longer."
     },
     "8001289": {
         "deprecated": false,
@@ -8691,7 +8691,7 @@
         "Dev_Desc": "로그인 UI / 선택 권한 고지 / 권한",
         "id": 8001295,
         "alias": "UI.Login.Authority.Desc2.AOS",
-        "text": "[Optional] Storage (device images, media, files): To save captured screenshots and recorded videos.\n[Optional] Audio: To record audio during video recordings."
+        "text": "[Optional] Microphone: To record audio during video recordings.\n[Optional] Storage (device images, media, files): To save captured screenshots and recorded videos; and to attach images for posts and customer inquiries."
     },
     "8001296": {
         "deprecated": false,
@@ -8733,7 +8733,7 @@
         "Dev_Desc": "로그인 UI / 데이터 다운로드 / 백그라운드용",
         "id": 8001301,
         "alias": "UI.Login.DataDownload",
-        "text": "Downloading data <arg p=[1:integer]/>/<arg p=[2:integer]/><arg p=[3:string]/>"
+        "text": "Downloading data <arg p=[1:double]/>% (<arg p=[2:integer]/>/<arg p=[3:integer]/><arg p=[4:string]/>)"
     },
     "8001302": {
         "deprecated": false,
@@ -8796,7 +8796,7 @@
         "Dev_Desc": "지도 / 모험가 팝업 / 타이틀",
         "id": 8001310,
         "alias": "UI.Map.AdventurePopup.Title",
-        "text": "Adventurer Details"
+        "text": "Adventure Level for Areas"
     },
     "8001311": {
         "deprecated": false,
@@ -9342,7 +9342,7 @@
         "Dev_Desc": "캐릭터 정보창 / 스탯 상세 툴팁 / 스탯3",
         "id": 8001388,
         "alias": "UI.CharacterInfo.StatInfo.StatType.3",
-        "text": "Codex"
+        "text": "Collection"
     },
     "8001389": {
         "deprecated": false,
@@ -9692,7 +9692,7 @@
         "Dev_Desc": "HUD / 검결 버튼",
         "id": 8001438,
         "alias": "UI.HUD.BladeButton",
-        "text": "Blade"
+        "text": "Chakra"
     },
     "8001439": {
         "deprecated": false,
@@ -9986,21 +9986,21 @@
         "Dev_Desc": "파티 / 파티 초대 정보 / 초대 숫자",
         "id": 8001480,
         "alias": "UI.Party.InvitePartyInfo.InviteNumber",
-        "text": "Pending Request"
+        "text": "Requesting..."
     },
     "8001481": {
         "deprecated": false,
         "Dev_Desc": "파티 / 파티 초대 정보 / 파티 현황",
         "id": 8001481,
         "alias": "UI.Party.InvitePartyInfo.PartyStatus",
-        "text": "Party Info"
+        "text": "Party"
     },
     "8001482": {
         "deprecated": false,
         "Dev_Desc": "파티 / 문파 탭 / 문파 없을 때 설명1",
         "id": 8001482,
         "alias": "UI.Party.GuildTab.NoGuildDesc.1",
-        "text": "You are not in a clan."
+        "text": "No clan member."
     },
     "8001483": {
         "deprecated": false,
@@ -10042,7 +10042,7 @@
         "Dev_Desc": "파티 / 캐릭터 검색 버튼",
         "id": 8001488,
         "alias": "UI.Party.SearchCharacterButton",
-        "text": "Search Player"
+        "text": "Search"
     },
     "8001489": {
         "deprecated": false,
@@ -10329,7 +10329,7 @@
         "Dev_Desc": "퀘스트 / 수락 팝업 / 수락까지 남은 시간",
         "id": 8001529,
         "alias": "UI.Quest.AcceptPopup.RemainTime",
-        "text": "Remaining Time: "
+        "text": "Remaining Time:  "
     },
     "8001530": {
         "deprecated": false,
@@ -10455,7 +10455,7 @@
         "Dev_Desc": "사망 화면 / 부활 대기 시간",
         "id": 8001547,
         "alias": "UI.Revival.Desc.RevivalBlockTime",
-        "text": "Resurrection Cooldown: <arg p=[1:string]/>"
+        "text": "Resurrection available in <arg p=[1:string]/>."
     },
     "8001548": {
         "deprecated": false,
@@ -10560,7 +10560,7 @@
         "Dev_Desc": "아이템 / 아이템 소분류 / ",
         "id": 8001562,
         "alias": "UI.Item.ItemType.LongSword",
-        "text": "Longsword"
+        "text": "Sword"
     },
     "8001563": {
         "deprecated": false,
@@ -10609,14 +10609,14 @@
         "Dev_Desc": "아이템 / 아이템 소분류 / ",
         "id": 8001569,
         "alias": "UI.Item.ItemType.GreatAxe",
-        "text": "Greataxe"
+        "text": "Axe"
     },
     "8001570": {
         "deprecated": false,
         "Dev_Desc": "아이템 / 아이템 소분류 / ",
         "id": 8001570,
         "alias": "UI.Item.ItemType.Longbow",
-        "text": "Longbow"
+        "text": "Bow"
     },
     "8001571": {
         "deprecated": false,
@@ -10630,7 +10630,7 @@
         "Dev_Desc": "아이템 / 아이템 소분류 / ",
         "id": 8001572,
         "alias": "UI.Item.ItemType.FireBangle",
-        "text": "Fire Bangle"
+        "text": "Bangle"
     },
     "8001573": {
         "deprecated": false,
@@ -10756,7 +10756,7 @@
         "Dev_Desc": "아이템 / 아이템 소분류 / ",
         "id": 8001590,
         "alias": "UI.Item.ItemType.SoulStone",
-        "text": "Soul Stone"
+        "text": "Soul Gem"
     },
     "8001591": {
         "deprecated": false,
@@ -12401,7 +12401,7 @@
         "Dev_Desc": "문파 / 문파 정보 / 공지사항 기본 문구",
         "id": 8001832,
         "alias": "UI.Guild.GuildInfo.Notice.Default",
-        "text": "Enter a Clan Announcement"
+        "text": "Share an announcement with your clan\n(Max 100 characters)"
     },
     "8001833": {
         "deprecated": false,
@@ -12569,7 +12569,7 @@
         "Dev_Desc": "문파 / 문파 정보 / 동맹문파 / 요청 / 안내",
         "id": 8001859,
         "alias": "UI.Guild.GuildInfo.GuildAlliance.Send.Desc",
-        "text": "Enter a clan to add to the Alliance Clan List."
+        "text": "Enter a clan name to add to the Alliance Clan List."
     },
     "8001860": {
         "deprecated": false,
@@ -12688,7 +12688,7 @@
         "Dev_Desc": "문파 / 문파 정보 / 문파 장원 / 입장 / 설명",
         "id": 8001876,
         "alias": "UI.Guild.House.Enter.Desc",
-        "text": "Move to Clan Villa?"
+        "text": "Enter the Clan Villa?"
     },
     "8001877": {
         "deprecated": false,
@@ -13073,7 +13073,7 @@
         "Dev_Desc": "협행 / 갱신",
         "id": 8001940,
         "alias": "UI.Board.RefeshButton",
-        "text": "Refresh"
+        "text": "Refresh All"
     },
     "8001941": {
         "deprecated": false,
@@ -13143,14 +13143,14 @@
         "Dev_Desc": "여정 / 이벤트탭 / 안내문",
         "id": 8001950,
         "alias": "UI.Quest.EventTab.Notice",
-        "text": "No event in progress."
+        "text": "No event quest in progress."
     },
     "8001951": {
         "deprecated": false,
         "Dev_Desc": "여정 / 이벤트탭 / 보조 안내문",
         "id": 8001951,
         "alias": "UI.Quest.EventTab.SupportNotice",
-        "text": "Stay tuned for the next event."
+        "text": "The next event quest is coming soon!"
     },
     "8001952": {
         "deprecated": false,
@@ -13577,7 +13577,7 @@
         "Dev_Desc": "차단 팝업",
         "id": 8002012,
         "alias": "UI.Post.Popup.Block",
-        "text": "Block mails from [<arg p=[1:string]/>]"
+        "text": "Block mails from <arg p=[1:string]/>."
     },
     "8002013": {
         "deprecated": false,
@@ -13836,7 +13836,7 @@
         "Dev_Desc": "여정 / 하단 버튼 / 보상수령",
         "id": 8002049,
         "alias": "UI.Quest.Button.Reward.Receive",
-        "text": "Claim Reward"
+        "text": "Quest Completed"
     },
     "8002050": {
         "deprecated": false,
@@ -13927,7 +13927,7 @@
         "Dev_Desc": "[테스트]캐시상점 / 상품 Lcok / 판매 대기",
         "id": 8002062,
         "alias": "UI.CashShop.Goods.State.WaitingSale",
-        "text": "<textColor=[226:82:67:255]><arg p=[1:string]/> available now</>"
+        "text": "Purchasable after <textColor=[226:82:67:255]><arg p=[1:string]/></>"
     },
     "8002063": {
         "deprecated": false,
@@ -14151,7 +14151,7 @@
         "Dev_Desc": "여정 / 토스트 메시지 / 수락위치로이동",
         "id": 8002094,
         "alias": "UI.Quest.ToastMessage.AcceptAutoMove",
-        "text": "Auto-Move"
+        "text": "Heading for \"<arg p=[1:string]/>.\""
     },
     "8002095": {
         "deprecated": false,
@@ -14228,7 +14228,7 @@
         "Dev_Desc": "캐시상점 / 미션 상품/ 갱신 시간 텍스트",
         "id": 8002107,
         "alias": "UI.CashShop.SerialGoods.RefreshTime",
-        "text": "Sale ends in <arg p=[1:string]/>"
+        "text": "Sale ends in <arg p=[1:string]/>\n[Purchase limited to 1 time per server]"
     },
     "8002108": {
         "deprecated": false,
@@ -14620,7 +14620,7 @@
         "Dev_Desc": "검결 / 초기화",
         "id": 8002163,
         "alias": "UI.BladeResetPopup.Title",
-        "text": "Use <arg p=[1:string]/> to reset Blade progress?"
+        "text": "Use <arg p=[1:string]/> to reset Chakra progress?"
     },
     "8002164": {
         "deprecated": false,
@@ -14648,7 +14648,7 @@
         "Dev_Desc": "설정 / 전투 옵션",
         "id": 8002167,
         "alias": "UI.Targeting.Button.Priority",
-        "text": "Priority"
+        "text": "Targeting Priority"
     },
     "8002168": {
         "deprecated": false,
@@ -15117,7 +15117,7 @@
         "Dev_Desc": "무공 / 무공 강화 / 결과창",
         "id": 8002234,
         "alias": "UI.Skill.Result.Fail.Message",
-        "text": "Enhance failed."
+        "text": "Enhancing failed and the Oracle Gauge has been reset."
     },
     "8002235": {
         "deprecated": false,
@@ -15138,7 +15138,7 @@
         "Dev_Desc": "HUD / 영기 / 영기 문구",
         "id": 8002237,
         "alias": "UI.SpiritEnergy",
-        "text": "Soul Energy Lv.<arg p=[1:integer]/>"
+        "text": "Soul Energy"
     },
     "8002238": {
         "deprecated": false,
@@ -15173,7 +15173,7 @@
         "Dev_Desc": "HUD / 영기 / 아이템 획득 / 거불만 획득",
         "id": 8002242,
         "alias": "UI.SpiritEnergy.ItemGet.NoTradable",
-        "text": "Unable to loot tradable items"
+        "text": "<textColor=[248:219:179:255]>Untradable items available</>"
     },
     "8002243": {
         "deprecated": false,
@@ -15194,14 +15194,14 @@
         "Dev_Desc": "경계 / 경계대상 등록 안내",
         "id": 8002245,
         "alias": "UI.Alert.AlertRegistDesc",
-        "text": "Enter the character's name to add them to the Watched List."
+        "text": "Enter the player's name to add them to the Watched List."
     },
     "8002246": {
         "deprecated": false,
         "Dev_Desc": "경계 / 경계대상 없음",
         "id": 8002246,
         "alias": "UI.Aler.NoAlertTarget",
-        "text": "No characters in the Watched List"
+        "text": "No players in the Watched Player list."
     },
     "8002247": {
         "deprecated": false,
@@ -15222,7 +15222,7 @@
         "Dev_Desc": "경계 / 경계대상 숫자",
         "id": 8002249,
         "alias": "UI.AlertPopUp.AlertNumber",
-        "text": "Watched Player <arg p=[1:integer]/>/<arg p=[2:integer]/>"
+        "text": "Online <arg p=[1:integer]/>/<arg p=[2:integer]/>"
     },
     "8002250": {
         "deprecated": false,
@@ -15236,7 +15236,7 @@
         "Dev_Desc": "검결 / 검결 포인트",
         "id": 8002251,
         "alias": "UI.Blade.BladePoint",
-        "text": "Blade Chi"
+        "text": "Chakra Chi"
     },
     "8002252": {
         "deprecated": false,
@@ -15327,7 +15327,7 @@
         "Dev_Desc": "게임Flow / 점검 팝업 / 타이틀",
         "id": 8002264,
         "alias": "UI.Login.Inspection.Title",
-        "text": "Maintenance"
+        "text": "Announcement"
     },
     "8002265": {
         "deprecated": false,
@@ -15369,14 +15369,14 @@
         "Dev_Desc": "게임Flow / 선택 업데이트 팝업 / 나중에 받기 버튼",
         "id": 8002270,
         "alias": "UI.Login.AppUpdate.Skip",
-        "text": "Skip"
+        "text": "Claim Later"
     },
     "8002271": {
         "deprecated": false,
         "Dev_Desc": "게임Flow / Base 다운로드 팝업 / 타이틀",
         "id": 8002271,
         "alias": "UI.Login.BaseUpdate.Title",
-        "text": "Required Download"
+        "text": "Update"
     },
     "8002272": {
         "deprecated": false,
@@ -15411,7 +15411,7 @@
         "Dev_Desc": "게임Flow / Extra 다운로드 팝업 / 타이틀",
         "id": 8002276,
         "alias": "UI.Login.ExtraUpdate.Title",
-        "text": "Extra Download"
+        "text": "Update"
     },
     "8002277": {
         "deprecated": false,
@@ -15467,7 +15467,7 @@
         "Dev_Desc": "게임Flow / 다운로드 재연결 팝업 / 설명",
         "id": 8002284,
         "alias": "UI.Login.NetworkError.Desc",
-        "text": "A temporary error occurred.\nRetry downloading?"
+        "text": "A temporary error has occurred during the download.\nPlease check your network connection and try again."
     },
     "8002285": {
         "deprecated": false,
@@ -15495,7 +15495,7 @@
         "Dev_Desc": "게임Flow / 저장 공간 부족 팝업 / 설명",
         "id": 8002288,
         "alias": "UI.Login.LackSpaceError.Desc",
-        "text": "A temporary error occurred.\nRetry downloading?"
+        "text": "A temporary error has occurred during download.\nPlease check your disk space and try again."
     },
     "8002289": {
         "deprecated": false,
@@ -15516,7 +15516,7 @@
         "Dev_Desc": "로그인 UI / 데이터 다운로드 / 저장 공간 부족",
         "id": 8002291,
         "alias": "UI.Login.DataDownload.LackSpace",
-        "text": "Insufficient Storage Space <arg p=[1:integer]/>/<arg p=[2:integer]/><arg p=[3:string]/>"
+        "text": "Insufficient Storage <arg p=[1:double]/>% (<arg p=[2:integer]/>/<arg p=[3:integer]/><arg p=[4:string]/>)"
     },
     "8002292": {
         "deprecated": false,
@@ -16048,7 +16048,7 @@
         "Dev_Desc": "거래소 / 분류 / 방어구 / 영혼석",
         "id": 8002369,
         "alias": "UI.Trade.Category.Accessorry.SoulStone",
-        "text": "Soul Stone"
+        "text": "Soul Gem"
     },
     "8002370": {
         "deprecated": false,
@@ -16496,14 +16496,14 @@
         "Dev_Desc": "문파 혜택 / 판매 상품 / 1 계급",
         "id": 8002433,
         "alias": "UI.Guild.Reward.UnlockItems.1",
-        "text": "Superior HP Tonic / Clan Return Stone / Breeze Soul / Shining Return Stone / Elixir of Oblivion / Blessed Weapon Enhance Scroll / Blessed Armor Enhance Scroll / Blessed Accessory Enhance Scroll"
+        "text": "Superior HP Tonic / Clan Return Stone / Breeze Soul / Brilliant Return Stone / Elixir of Oblivion / Blessed Weapon Enhance Scroll / Blessed Armor Enhance Scroll / Blessed Accessory Enhance Scroll"
     },
     "8002434": {
         "deprecated": false,
         "Dev_Desc": "검결 / 툴팁",
         "id": 8002434,
         "alias": "UI.Blade.Tooltip",
-        "text": "Enhances Blade abilities. Blade acquires extra abilities as it progresses. The acquired ability is used for Accuracy of normal attack."
+        "text": "Enhances Chakra abilities. Chakras acquire extra abilities as it progresses. The acquired ability is used for Accuracy of normal attack."
     },
     "8002435": {
         "deprecated": false,
@@ -16853,7 +16853,7 @@
         "Dev_Desc": "수라화 / 사용 불가",
         "id": 8002485,
         "alias": "UI.Transform.Falcon.No",
-        "text": "No"
+        "text": "Not available now."
     },
     "8002486": {
         "deprecated": false,
@@ -16986,7 +16986,7 @@
         "Dev_Desc": "블레이드&소울/블레이드&소울/무기 장착 설명",
         "id": 8002504,
         "alias": "UI.BladeNSoul.BladeEquip.Desc2",
-        "text": "Equip a weapon first in order to use a Soul."
+        "text": "Equip a weapon first in order to use a Soul. "
     },
     "8002505": {
         "deprecated": false,
@@ -17056,7 +17056,7 @@
         "Dev_Desc": "블레이드&소울/블레이드&소울/영력부족",
         "id": 8002514,
         "alias": "UI.BladeNSoul.Equip.No",
-        "text": "Unable to Equip"
+        "text": "Insufficient Spiritual Power"
     },
     "8002515": {
         "deprecated": false,
@@ -17161,7 +17161,7 @@
         "Dev_Desc": "블레이드&소울/소울/컬렉션",
         "id": 8002529,
         "alias": "UI.BladeNSoul.Soul.Collection",
-        "text": "Codex"
+        "text": "Collection"
     },
     "8002530": {
         "deprecated": false,
@@ -17238,7 +17238,7 @@
         "Dev_Desc": "블레이드&소울/소울/소울 성장 메시지",
         "id": 8002540,
         "alias": "UI.BladeNSoul.SoulGrowth.Desc4",
-        "text": "If fails, the material is destroyed and the Soul Fragment is returned."
+        "text": "If fails, the material is destroyed and the Soul Fragment is returned. "
     },
     "8002541": {
         "deprecated": false,
@@ -17280,7 +17280,7 @@
         "Dev_Desc": "블레이드&소울/소울/성장 재료 선택 메시지",
         "id": 8002546,
         "alias": "UI.BladeNSoul.ChooseGrowthMaterial.Desc2",
-        "text": "Select upgrade materials for add."
+        "text": "Select upgrade materials for add. "
     },
     "8002547": {
         "deprecated": false,
@@ -17357,14 +17357,14 @@
         "Dev_Desc": "블레이드&소울/소울/스탯 변경 팝업",
         "id": 8002557,
         "alias": "UI.BladeNSoul.ChangeStats.Popup1",
-        "text": "Change <arg p=[1:integer]/> stats?<br/>The stats will be altered randomly within a certain range."
+        "text": "Change <arg p=[1:integer]/> stats?<br/>The stats will be altered randomly within a certain range. "
     },
     "8002558": {
         "deprecated": false,
         "Dev_Desc": "블레이드&소울/소울/스탯 변경 팝업",
         "id": 8002558,
         "alias": "UI.BladeNSoul.ChangeStats.Popup2",
-        "text": "A stat is at max level."
+        "text": "A stat is at max level. "
     },
     "8002559": {
         "deprecated": false,
@@ -17385,7 +17385,7 @@
         "Dev_Desc": "블레이드&소울/효과 설명",
         "id": 8002561,
         "alias": "UI.BladeNSoul.Info.Desc",
-        "text": "Technique Attack Speed and Normal Attack Speed are determined by the stats of the main Soul. Primary stats are the sum of two stats from the main Soul and the sub Soul, while the main Soul's stat accounts for <arg p=[1:integer]/>% and the sub Soul for <arg p=[2:integer]/>%. Blade effects are determined by the activated Soul. If the Blade stats of the activated Souls are the same, the combined Blade stats are applied."
+        "text": "Technique Attack Speed and Normal Attack Speed are determined by the stats of the main Soul.\n\nPrimary stats are the sum of two stats from the main Soul and the sub Soul, while the main Soul's stat accounts for <arg p=[1:integer]/>% and the sub Soul for <arg p=[2:integer]/>%.\n\nThe Spiritual Power a Soul requires is reduced when 3★ and 5★ are reached.\n\nBlade effects are determined by the stats of the activated Soul. If the Blade stats of the activated Souls are the same, the combined levels of the Blade stats are applied."
     },
     "8002562": {
         "deprecated": false,
@@ -17413,21 +17413,21 @@
         "Dev_Desc": "로비 / 캐릭터 삭제 팝업 / 타이틀",
         "id": 8002565,
         "alias": "UI.Lobby.PopUp.Delete.Title",
-        "text": "Delete the selected character?"
+        "text": "Delete Character"
     },
     "8002566": {
         "deprecated": false,
         "Dev_Desc": "로비 / 캐릭터 삭제 팝업 / 설명 1",
         "id": 8002566,
         "alias": "UI.Lobby.PopUp.Delete.Desc",
-        "text": "Only characters Lv.<arg p=[1:integer]/> and up can be deleted, and deletion will remain pending for <arg p=[2:string]/>.\nUpon deletion, all possessed items will also be deleted.\n<textColor=[255:0:0:255]>The deleted character can no longer be recovered after <arg p=[2:string]/>.</>"
+        "text": "Delete the selected character?\nYou can only delete characters Lv.<arg p=[1:integer]/> or higher.\nA waiting period of <arg p=[2:string]/> is required before deletion.\n\nThe character can't be recovered after <textColor=[255:0:0:255]> has elapsed </>\n<textColor=[255:0:0:255]> and its belongings will be deleted as well.</>"
     },
     "8002567": {
         "deprecated": false,
         "Dev_Desc": "메뉴 / 나가기 / 나가기 팝업 설명",
         "id": 8002567,
         "alias": "UI.Menu.Exit.ExitPopup.Desc",
-        "text": "Move to the lobby?"
+        "text": "Move to the title screen?"
     },
     "8002568": {
         "deprecated": false,
@@ -17532,14 +17532,14 @@
         "Dev_Desc": "제작/ 한정 / 오전",
         "id": 8002582,
         "alias": "UI.Creaft.Limited.AM",
-        "text": "a.m."
+        "text": "AM"
     },
     "8002583": {
         "deprecated": false,
         "Dev_Desc": "제작/ 한정 / 오후",
         "id": 8002583,
         "alias": "UI.Creaft.Limited.PM",
-        "text": "p.m."
+        "text": "PM"
     },
     "8002584": {
         "deprecated": false,
@@ -17826,7 +17826,7 @@
         "Dev_Desc": "설정 / 조작 / 편의 / 회복약 자동 사용",
         "id": 8002624,
         "alias": "UI.Option.Control.Convenience.AutoUse.HealingPotion.Switch.",
-        "text": "Auto-Use HP Tonic"
+        "text": "Enable HP Tonic auto-use"
     },
     "8002625": {
         "deprecated": false,
@@ -18015,7 +18015,7 @@
         "Dev_Desc": "설정 / 알림 / 전투 / 생명력 위험 경고음 설명",
         "id": 8002651,
         "alias": "UI.Option.Notice.Battle.LowHP.Info",
-        "text": "Alerts with sound when the character's HP reaches <arg p=[1:integer]/>% or lower."
+        "text": "Alerts you with a warning sound when HP reaches <arg p=[1:integer]/>% or lower."
     },
     "8002652": {
         "deprecated": false,
@@ -18127,7 +18127,7 @@
         "Dev_Desc": "설정 / 알림 / 푸시 / 야간 Push 수신",
         "id": 8002667,
         "alias": "UI.Option.Notice.Push.ReceiveNight.Switch",
-        "text": "Receive push notifications at night time"
+        "text": "Receive nighttime push notifications"
     },
     "8002668": {
         "deprecated": false,
@@ -18421,7 +18421,7 @@
         "Dev_Desc": "설정 / 환경 / 사운드 / 다이나믹 레인지 설명",
         "id": 8002709,
         "alias": "UI.Option.Environment.Sound.Deepening.DynamicRange.Info.",
-        "text": "Provides the optimized sound output according to the listening environment and output device."
+        "text": "Provides the optimized sound output according to the listening environment and output device. "
     },
     "8002710": {
         "deprecated": false,
@@ -18575,7 +18575,7 @@
         "Dev_Desc": "설정 / 계정 / 캐릭터 선택",
         "id": 8002731,
         "alias": "UI.Option.Acount.Lobby",
-        "text": "Select Character"
+        "text": "Move to the title screen."
     },
     "8002732": {
         "deprecated": false,
@@ -18596,7 +18596,7 @@
         "Dev_Desc": "설정 / 계정 / 로비 이동 확인",
         "id": 8002734,
         "alias": "UI.Option.Acount.Lobby.Popup",
-        "text": "Move to the lobby?"
+        "text": "Move to the title screen?"
     },
     "8002735": {
         "deprecated": false,
@@ -18771,7 +18771,7 @@
         "Dev_Desc": "검결 / 기본단계 설명",
         "id": 8002759,
         "alias": "UI.Blade.ZeroStep.Info",
-        "text": "Level up to acquire more Blade stats."
+        "text": "Level up to acquire more Chakra stats."
     },
     "8002760": {
         "deprecated": false,
@@ -18792,7 +18792,7 @@
         "Dev_Desc": "블레이드 효과 레벨 +1",
         "id": 8002762,
         "alias": "UI.Soul.BladeEffect.Level1",
-        "text": "Blade Effects Level +1"
+        "text": "Blade Effects Level +1\nNormal Attack Speed ▲"
     },
     "8002763": {
         "deprecated": false,
@@ -18897,7 +18897,7 @@
         "Dev_Desc": "블레이드 효과 긴장 해제Lv.1",
         "id": 8002777,
         "alias": "UI.Soul.BladeEffect.14",
-        "text": "Blade Effect Defused Tension Lv.1"
+        "text": "Blade Effects Defused Tension Lv.1"
     },
     "8002778": {
         "deprecated": false,
@@ -19051,14 +19051,14 @@
         "Dev_Desc": "블레이드 효과 상처 악화Lv.1",
         "id": 8002799,
         "alias": "UI.Soul.BladeEffect.36",
-        "text": "Blade Effect Worsened Wound Lv.1"
+        "text": "Blade Effect Festering Wound Lv.1"
     },
     "8002800": {
         "deprecated": false,
         "Dev_Desc": "블레이드 효과 상처 악화Lv.2",
         "id": 8002800,
         "alias": "UI.Soul.BladeEffect.37",
-        "text": "Blade Effect Worsened Wound Lv.2"
+        "text": "Blade Effect Festering Wound Lv.2"
     },
     "8002801": {
         "deprecated": false,
@@ -19121,7 +19121,7 @@
         "Dev_Desc": "블레이드 효과 이중타격Lv.1",
         "id": 8002809,
         "alias": "UI.Soul.BladeEffect.46",
-        "text": "Blade Effect Focus Master Lv.1"
+        "text": "Blade Effect Double Attack Lv.1"
     },
     "8002810": {
         "deprecated": false,
@@ -19191,21 +19191,21 @@
         "Dev_Desc": "블레이드 효과 심연의 눈Lv.1",
         "id": 8002819,
         "alias": "UI.Soul.BladeEffect.56",
-        "text": "Blade Effect The Eyes of Abyss Lv.1"
+        "text": "Blade Effect The Eyes of the Abyss Lv.1"
     },
     "8002820": {
         "deprecated": false,
         "Dev_Desc": "블레이드 효과 심연의 눈Lv.3",
         "id": 8002820,
         "alias": "UI.Soul.BladeEffect.57",
-        "text": "Blade Effect The Eyes of Abyss Lv.3"
+        "text": "Blade Effect The Eyes of the Abyss Lv.3"
     },
     "8002821": {
         "deprecated": false,
         "Dev_Desc": "블레이드 효과 화신Lv.1",
         "id": 8002821,
         "alias": "UI.Soul.BladeEffect.58",
-        "text": "Blade Effect Incarnation Lv.1"
+        "text": "Blade Effect Fire Lord Lv.1"
     },
     "8002822": {
         "deprecated": false,
@@ -19443,7 +19443,7 @@
         "Dev_Desc": "던전 / 이용 안내",
         "id": 8002855,
         "alias": "UI.Dungeon.Info",
-        "text": "You can't enter a dungeon after using all the hours. Use certain items to charge dungeon hours."
+        "text": "You can't enter a dungeon after using all the hours. Use Dungeon Time Stones to charge dungeon hours."
     },
     "8002856": {
         "deprecated": false,
@@ -19457,7 +19457,7 @@
         "Dev_Desc": "옷장 / 토스트메시지 / 외형장착의상",
         "id": 8002857,
         "alias": "UI.Closet.Equiped.Appearance",
-        "text": "The style of outfit (accessory) is currently equipped."
+        "text": "The style of outfit (accessory) is currently applied."
     },
     "8002858": {
         "deprecated": false,
@@ -19499,21 +19499,21 @@
         "Dev_Desc": "수호령 / 수호령 합성 / 수호령 합성 포인트 안내 문구",
         "id": 8002863,
         "alias": "UI.Pets.PetsComposePointDesc",
-        "text": "You can combine 4 of the same-grade Patrons to acquire 1 random type of Patron.\n\nIn case you used Rare and Epic materials to fuse, but failed to obtain a higher-grade Patron, you receive 1 Rare or Epic point depending on the grade of materials used.\n\nYou can exchange the collected points with 1 random Patron of the same grade.\nYou can only collect points up to the required amount."
+        "text": "You can fuse 4 Patrons of the same level to obtain the same or higher grade Patron.\n\nIn case you used Rare and Epic materials to fuse, but failed to obtain a higher-grade Soul, you receive 1 Rare or Epic point depending on the grade of materials used.\n\nYou can use the collected required points to obtain 1 Patron of the same grade at a fixed chance.\nYou can only collect points up to the required amount."
     },
     "8002864": {
         "deprecated": false,
         "Dev_Desc": "던전 스케쥴 / 매일 초기화",
         "id": 8002864,
         "alias": "UI.Dungeon.Schedule.DailyReset",
-        "text": "Resets every day at 5 a.m."
+        "text": "Resets every day at 5 AM."
     },
     "8002865": {
         "deprecated": false,
         "Dev_Desc": "던전 스케쥴 / 매주 초기화",
         "id": 8002865,
         "alias": "UI.Dungeon.Schedule.WeeklyReset",
-        "text": "Resets every Wednesday at 5 a.m."
+        "text": "Resets every Wednesday at 5 AM."
     },
     "8002866": {
         "deprecated": false,
@@ -19569,7 +19569,7 @@
         "Dev_Desc": "수호령 / 탭 이름 / 컬렉션",
         "id": 8002873,
         "alias": "UI.Pets.TabName.Collection",
-        "text": "Codex"
+        "text": "Collection"
     },
     "8002874": {
         "deprecated": false,
@@ -19611,7 +19611,7 @@
         "Dev_Desc": "무공 / 특화 무공 / 이름 / 장검",
         "id": 8002882,
         "alias": "UI.Skill.SpecialSkill.Sword",
-        "text": "Longsword Specialized Technique"
+        "text": "Sword Specialized Technique"
     },
     "8002883": {
         "deprecated": false,
@@ -19632,14 +19632,14 @@
         "Dev_Desc": "무공 / 특화 무공 / 이름 / 대형도끼",
         "id": 8002885,
         "alias": "UI.Skill.SpecialSkill.Axe",
-        "text": "Greataxe Specialized Technique"
+        "text": "Axe Specialized Technique"
     },
     "8002886": {
         "deprecated": false,
         "Dev_Desc": "무공 / 특화 무공 / 이름 / 장궁",
         "id": 8002886,
         "alias": "UI.Skill.SpecialSkill.LongBow",
-        "text": "Longbow Specialized Technique"
+        "text": "Bow Specialized Technique"
     },
     "8002887": {
         "deprecated": false,
@@ -19709,112 +19709,112 @@
         "Dev_Desc": "[임시] PK 랭킹 1위",
         "id": 8002896,
         "alias": "UI.PKRanking.Group.Temp.1",
-        "text": "Rank #1"
+        "text": "Rank #1\n<Killer>"
     },
     "8002897": {
         "deprecated": false,
         "Dev_Desc": "[임시] PK 랭킹 2위",
         "id": 8002897,
         "alias": "UI.PKRanking.Group.Temp.2",
-        "text": "Rank #2"
+        "text": "Rank #2\n<Ruthless Killer>"
     },
     "8002898": {
         "deprecated": false,
         "Dev_Desc": "[임시] PK 랭킹 3위",
         "id": 8002898,
         "alias": "UI.PKRanking.Group.Temp.3",
-        "text": "Rank #3"
+        "text": "Rank #3\n<Slayer>"
     },
     "8002899": {
         "deprecated": false,
         "Dev_Desc": "[임시] PK 랭킹 4-10위",
         "id": 8002899,
         "alias": "UI.PKRanking.Group.Temp.4",
-        "text": "Rank #4 - 10"
+        "text": "Rank #4 - 10\n<Conqueror>"
     },
     "8002900": {
         "deprecated": false,
         "Dev_Desc": "[임시] PK 랭킹 11-100위",
         "id": 8002900,
         "alias": "UI.PKRanking.Group.Temp.5",
-        "text": "Rank #11 - 100"
+        "text": "Rank #11 - 100\n<Marauder>"
     },
     "8002901": {
         "deprecated": false,
         "Dev_Desc": "[임시]경험치 랭킹 1위 ~ 10위 / 혜택",
         "id": 8002901,
         "alias": "UI.Ranking.Group.Temp.8",
-        "text": "Certain HP Regen +10, Certain Focus Regen +10, PvE Accuracy +2, PvE Evasion +2, Boss Accuracy +2, Boss Critical Rate +2%, Soul Resist +2%"
+        "text": "Certain HP Regen +10, PvE Accuracy +2, PvE Evasion +2, Boss Accuracy +2, Boss Critical Rate +2%, Soul Resist +2%"
     },
     "8002902": {
         "deprecated": false,
         "Dev_Desc": "[임시]경험치 랭킹 11위 ~ 30위 / 혜택",
         "id": 8002902,
         "alias": "UI.Ranking.Group.Temp.9",
-        "text": "Certain HP Regen +8, Certain Focus Regen +8, PvE Accuracy +2, PvE Evasion +2, Boss Accuracy +2, Boss Critical Rate +1%, Soul Resist +1.5%"
+        "text": "Certain HP Regen +8, PvE Accuracy +2, PvE Evasion +2, Boss Accuracy +2, Boss Critical Rate +1%, Soul Resist +1.5%"
     },
     "8002903": {
         "deprecated": false,
         "Dev_Desc": "[임시]경험치 랭킹 31위 ~ 100위 / 혜택",
         "id": 8002903,
         "alias": "UI.Ranking.Group.Temp.10",
-        "text": "Certain HP Regen +6, Certain Focus Regen +6, PvE Accuracy +2, PvE Evasion +2, Boss Accuracy +1, Soul Resist +1%"
+        "text": "Certain HP Regen +6, PvE Accuracy +2, PvE Evasion +2, Boss Accuracy +1, Soul Resist +1%"
     },
     "8002904": {
         "deprecated": false,
         "Dev_Desc": "[임시]경험치 랭킹 101위 ~ 200위 / 혜택",
         "id": 8002904,
         "alias": "UI.Ranking.Group.Temp.11",
-        "text": "Certain HP Regen +4, Certain Focus Regen +4, PvE Accuracy +2, PvE Evasion +1"
+        "text": "Certain HP Regen +4, PvE Accuracy +2, PvE Evasion +1"
     },
     "8002905": {
         "deprecated": false,
         "Dev_Desc": "[임시]경험치 랭킹 201위 ~ 400위 / 혜택",
         "id": 8002905,
         "alias": "UI.Ranking.Group.Temp.12",
-        "text": "Certain HP Regen +3, Certain Focus Regen +3, PvE Accuracy +1"
+        "text": "Certain HP Regen +3, PvE Accuracy +1"
     },
     "8002906": {
         "deprecated": false,
         "Dev_Desc": "[임시]경험치 랭킹 401위 ~ 700위 / 혜택",
         "id": 8002906,
         "alias": "UI.Ranking.Group.Temp.13",
-        "text": "Certain HP Regen +2, Certain Focus Regen +2"
+        "text": "Certain HP Regen +2"
     },
     "8002907": {
         "deprecated": false,
         "Dev_Desc": "[임시]경험치 랭킹 701위 ~ 1000위 / 혜택",
         "id": 8002907,
         "alias": "UI.Ranking.Group.Temp.14",
-        "text": "Certain HP Regen +1, Certain Focus Regen +1"
+        "text": "Certain HP Regen +1"
     },
     "8002908": {
         "deprecated": false,
         "Dev_Desc": "[임시]PK 랭킹 1위 버프 ",
         "id": 8002908,
         "alias": "UI.PKRanking.Group.Temp.6",
-        "text": "PvP Critical Rate +3%\nPvP Protection +3"
+        "text": "PvP Critical Rate +3%, PvP Protection +3"
     },
     "8002909": {
         "deprecated": false,
         "Dev_Desc": "[임시]PK 랭킹 2위 버프",
         "id": 8002909,
         "alias": "UI.PKRanking.Group.Temp.7",
-        "text": "PvP Critical Rate +2%\nPvP Protection +2"
+        "text": "PvP Critical Rate +2%, PvP Protection +2"
     },
     "8002910": {
         "deprecated": false,
         "Dev_Desc": "[임시]PK 랭킹 3위 버프",
         "id": 8002910,
         "alias": "UI.PKRanking.Group.Temp.8",
-        "text": "PvP Critical Rate +2%\nPvP Protection +1"
+        "text": "PvP Critical Rate +2%, PvP Protection +1"
     },
     "8002911": {
         "deprecated": false,
         "Dev_Desc": "[임시]PK 랭킹 4~10위 버프",
         "id": 8002911,
         "alias": "UI.PKRanking.Group.Temp.9",
-        "text": "PvP Critical Rate +1%\nPvP Protection +1"
+        "text": "PvP Critical Rate +1%, PvP Protection +1"
     },
     "8002912": {
         "deprecated": false,
@@ -19863,7 +19863,7 @@
         "Dev_Desc": "퀘스트 / 즉시이동 팝업창 / 비용",
         "id": 8002918,
         "alias": "UI.Quest.WarpPopup.Money",
-        "text": "Cost"
+        "text": "Windstride Cost"
     },
     "8002919": {
         "deprecated": false,
@@ -19919,7 +19919,7 @@
         "Dev_Desc": "타이틀 / 계정 연동 / 설명",
         "id": 8002926,
         "alias": "UI.Login.Linkage.Popup.Desc",
-        "text": "Link the account?"
+        "text": "Link the account?\n\n<textColor=[209:72:59:255]>Once an account is linked, it cannot be changed.</>\n<textColor=[209:72:59:255]>Please carefully choose the account you wish to link.</>"
     },
     "8002927": {
         "deprecated": false,
@@ -19989,7 +19989,7 @@
         "Dev_Desc": "유료 재화 충전 팝업 / 메인 설명",
         "id": 8002936,
         "alias": "UI.Pop.SimpleCharging.Desc",
-        "text": "You need more Godly Stones. Purchase now?"
+        "text": "Recharge Godly Stones?"
     },
     "8002937": {
         "deprecated": false,
@@ -20149,7 +20149,7 @@
         "Dev_Desc": "로그인 UI / 선택 권한 고지 / 권한 / ios",
         "id": 8002959,
         "alias": "UI.Login.Authority.Desc2.IOS",
-        "text": "[Optional] Photo: To save captured screenshots and recorded videos in Photos.\n[Optional] Photo: To access Photos when uploading images on the boards or 1:1 Inquiry.\n[Optional] Microphone: To record audio during video recordings."
+        "text": "[Optional] Image: To save captured screenshots and recorded videos; and to attach images for posts and customer inquiries."
     },
     "8002960": {
         "deprecated": false,
@@ -20198,77 +20198,77 @@
         "Dev_Desc": "무공 / 무공 진화 / 결과 / 성공",
         "id": 8002966,
         "alias": "UI.Skill.Result.Evolutuon.Success",
-        "text": "Successfully evolved and obtained <%s>."
+        "text": "Successfully evolved and obtained [%s]."
     },
     "8002967": {
         "deprecated": false,
         "Dev_Desc": "소울/수호령 / 컬렉션 / 검색 결과 없음1",
         "id": 8002967,
         "alias": "UI.Soul.Collection.NoResult.1",
-        "text": "No Result"
+        "text": "No Collection in your search criteria."
     },
     "8002968": {
         "deprecated": false,
         "Dev_Desc": "소울/수호령 / 컬렉션 / 검색 결과 없음2",
         "id": 8002968,
         "alias": "UI.Soul.Collection.NoResult.2",
-        "text": "No Result"
+        "text": "Try again with new search criteria."
     },
     "8002969": {
         "deprecated": false,
         "Dev_Desc": "강화 / 인벤토리 / 타이틀",
         "id": 8002969,
         "alias": "UI.Enchant.Inventory.Title",
-        "text": "Inventory"
+        "text": "Gear List"
     },
     "8002970": {
         "deprecated": false,
         "Dev_Desc": "로그인 UI / 서버 선택 / 추천 서버 / 없음",
         "id": 8002970,
         "alias": "UI.Login.ServerSelect.Recommended.No",
-        "text": " There is no such server"
+        "text": "No server found."
     },
     "8002971": {
         "deprecated": false,
         "Dev_Desc": "로그인 UI / 서버 선택 / 전체 서버 / 없음",
         "id": 8002971,
         "alias": "UI.Login.ServerSelect.All.No",
-        "text": "No server available."
+        "text": "No server is available to access."
     },
     "8002972": {
         "deprecated": false,
         "Dev_Desc": "로그인 UI / 서버 선택 / 캐릭터 보유 서버 / 없음",
         "id": 8002972,
         "alias": "UI.Login.ServerSelect.Character.No",
-        "text": "There are no servers with the character."
+        "text": "No character is found in the servers."
     },
     "8002973": {
         "deprecated": false,
         "Dev_Desc": "로그인 UI / 데이터 다운로드 / 백그라운드용 / 보류",
         "id": 8002973,
         "alias": "UI.Login.DataDownload.Postpone",
-        "text": "Data download pending 0.0% (0/<arg p=[1:integer]/><arg p=[2:string]/>)"
+        "text": "Waiting to download the data. 0.0% (0/<arg p=[1:integer]/><arg p=[2:string]/>)"
     },
     "8002974": {
         "deprecated": false,
         "Dev_Desc": "로그인 UI / 데이터 다운로드 / 백그라운드용 / 완료",
         "id": 8002974,
         "alias": "UI.Login.DataDownload.Complete",
-        "text": "Data download complete"
+        "text": "Data download completed"
     },
     "8002975": {
         "deprecated": false,
         "Dev_Desc": "거래소 / 판매 등록 / 없음1",
         "id": 8002975,
         "alias": "UI.Trade.RegisterSale.No1",
-        "text": "No items are registered for sale."
+        "text": "No items on the sale list."
     },
     "8002976": {
         "deprecated": false,
         "Dev_Desc": "거래소 / 판매 등록 / 없음2",
         "id": 8002976,
         "alias": "UI.Trade.RegisterSale.No2",
-        "text": "You can acquire a Godstone by selling the items you have in your inventory."
+        "text": "You can sell your items in exchange for Godly Stones."
     },
     "8002977": {
         "deprecated": false,
@@ -20282,77 +20282,77 @@
         "Dev_Desc": "로그인 UI / 사전 다운로드 기간 / 설명",
         "id": 8002978,
         "alias": "UI.Login.PriorDownload.Desc",
-        "text": "This is the pre-download period. \\nThe official service will start at 00:00 on August 26th."
+        "text": "Pre-download is available now.\nThe game will be officially released at 00:00 on August 26."
     },
     "8002979": {
         "deprecated": false,
         "Dev_Desc": "로그인 UI / 사전 다운로드 기간 / 버튼",
         "id": 8002979,
         "alias": "UI.Login.PriorDownload.Yes",
-        "text": "Yes"
+        "text": "Exit Game"
     },
     "8002980": {
         "deprecated": false,
         "Dev_Desc": "매입 상점 / 자동 판매 설정 시 표시 텍스트",
         "id": 8002980,
         "alias": "UI.Shop.Sell.Auto.setItem",
-        "text": "Set Item Type"
+        "text": "Auto-Sell Items"
     },
     "8002981": {
         "deprecated": false,
         "Dev_Desc": "매입 상점 / 자동 판매 시 표시 텍스트",
         "id": 8002981,
         "alias": "UI.Shop.Sell.Auto.inStockItem",
-        "text": "In Stock Item"
+        "text": "Owned Items"
     },
     "8002982": {
         "deprecated": false,
         "Dev_Desc": "매입 상점 / 자동 판매 설정 시 타이틀",
         "id": 8002982,
         "alias": "UI.Shop.Sell.Auto.Title",
-        "text": "Purchase Information"
+        "text": "Trade Info"
     },
     "8002983": {
         "deprecated": false,
         "Dev_Desc": "매입 상점 / 자동 판매 설정 시 설명",
         "id": 8002983,
         "alias": "UI.Shop.Sell.Auto.Info",
-        "text": "Status of holding items for sale automatically"
+        "text": "Auto-sell items in stock"
     },
     "8002984": {
         "deprecated": false,
         "Dev_Desc": "매입 상점 / 자동 판매 후 예상 무게",
         "id": 8002984,
         "alias": "UI.Shop.Sell.Auto.Weight",
-        "text": "Estimated weight after auto sale"
+        "text": "Weight after selling the items"
     },
     "8002985": {
         "deprecated": false,
         "Dev_Desc": "매입 상점 / 판매 금액",
         "id": 8002985,
         "alias": "UI.Shop.Sell.Auto.Price",
-        "text": "Sale Price"
+        "text": "Sold for:"
     },
     "8002986": {
         "deprecated": false,
         "Dev_Desc": "매입 상점 / 설정된 물품이 없을 경우 메인 설명",
         "id": 8002986,
         "alias": "UI.Shop.Sell.Auto.noSetting.Desc1",
-        "text": "There are no items set for automatic sale."
+        "text": "No items is on auto-sell."
     },
     "8002987": {
         "deprecated": false,
         "Dev_Desc": "매입 상점 / 설정된 물품이 없을 경우 서브 설명",
         "id": 8002987,
         "alias": "UI.Shop.Sell.Auto.noSetting.Desc2",
-        "text": "If you set up automatic sales, you can quickly check the information of the items to be sold."
+        "text": "Use auto-sell in order to quickly check the status of the items to sell."
     },
     "8002988": {
         "deprecated": false,
         "Dev_Desc": "매입 상점 / 버튼 / 자동 담기",
         "id": 8002988,
         "alias": "UI.Shop.Sell.Button.getItem",
-        "text": "Auto Load"
+        "text": "Auto-Add"
     },
     "8002989": {
         "deprecated": false,
@@ -20366,7 +20366,7 @@
         "Dev_Desc": "NPC 상점 / 장바구니",
         "id": 8002990,
         "alias": "UI.Shop.Basket.Weight",
-        "text": "Weight"
+        "text": "Estimated Weight"
     },
     "8002991": {
         "deprecated": false,
@@ -20387,28 +20387,28 @@
         "Dev_Desc": "창고 /  자동 보관 설정 버튼",
         "id": 8002993,
         "alias": "UI.Stash.Button.set",
-        "text": "AutoArchive Settings"
+        "text": "Auto-Store Settings"
     },
     "8002994": {
         "deprecated": false,
         "Dev_Desc": "창고 /  자동 보관 설정 버튼",
         "id": 8002994,
         "alias": "UI.Stash.Button.getItem",
-        "text": "Auto-Archive"
+        "text": "Auto-Store"
     },
     "8002995": {
         "deprecated": false,
         "Dev_Desc": "공통 / 자동 보관,판매, 구매 / 설정 완료 버튼",
         "id": 8002995,
         "alias": "UI.Shop.CompleteButton",
-        "text": "Complete"
+        "text": "Confirm"
     },
     "8002996": {
         "deprecated": false,
         "Dev_Desc": "상점 / 버튼 / 자동 담기",
         "id": 8002996,
         "alias": "UI.Shop.Buy.Button.getItem",
-        "text": "Auto Load"
+        "text": "Auto-Add"
     },
     "8002997": {
         "deprecated": false,
@@ -20422,28 +20422,28 @@
         "Dev_Desc": "모험가 등급 정보 팝업 / 타이틀",
         "id": 8002998,
         "alias": "UI.Worldmap.Adventure.Info.Title",
-        "text": "Achievement Reward"
+        "text": "Complete Reward"
     },
     "8002999": {
         "deprecated": false,
         "Dev_Desc": "모험가 등급 정보 팝업 / 서브 설명",
         "id": 8002999,
         "alias": "UI.Worldmap.Adventure.Info.Reward",
-        "text": "Achievement Effect"
+        "text": "Complete Effects"
     },
     "8003000": {
         "deprecated": false,
         "Dev_Desc": "문파 / 문파원 / 없음1",
         "id": 8003000,
         "alias": "UI.Guild.CrewInfo.No1",
-        "text": "There is no member of the clan."
+        "text": "No clan member."
     },
     "8003001": {
         "deprecated": false,
         "Dev_Desc": "문파 / 문파원 / 없음2",
         "id": 8003001,
         "alias": "UI.Guild.CrewInfo.No2",
-        "text": "Recruit members by invitation to join."
+        "text": "Recruit clan members by sending invites."
     },
     "8003002": {
         "deprecated": false,
@@ -20457,133 +20457,133 @@
         "Dev_Desc": "캐시상점 / IAP 구매 실패 팝업",
         "id": 8003003,
         "alias": "UI.CashShop.PopUp.WronAccount",
-        "text": "Your account information is incorrect."
+        "text": "The account information is invalid."
     },
     "8003004": {
         "deprecated": false,
         "Dev_Desc": "거래소 / 검색결과 / 2단계 / 없음1",
         "id": 8003004,
         "alias": "UI.Trade.SearchResult.EnchantList.No1",
-        "text": "No items have been registered."
+        "text": "No item on the sale list."
     },
     "8003005": {
         "deprecated": false,
         "Dev_Desc": "거래소 / 검색결과 / 2단계 / 없음2",
         "id": 8003005,
         "alias": "UI.Trade.SearchResult.EnchantList.No2",
-        "text": "Please select a different item from the previous screen."
+        "text": "Select another item on the previous screen."
     },
     "8003006": {
         "deprecated": false,
         "Dev_Desc": "거래소 / 검색결과 / 2단계 / 필터 / 없음1",
         "id": 8003006,
         "alias": "UI.Trade.SearchResult.EnchantList.Filter.No1",
-        "text": "There are no enhancement levels that match the conditions."
+        "text": "No enhance level found in your search criteria."
     },
     "8003007": {
         "deprecated": false,
         "Dev_Desc": "거래소 / 검색결과 / 2단계 / 필터 / 없음1",
         "id": 8003007,
         "alias": "UI.Trade.SearchResult.EnchantList.Filter.No2",
-        "text": "Please change your search criteria and try again."
+        "text": "Try again with new search criteria."
     },
     "8003008": {
         "deprecated": false,
         "Dev_Desc": "타이틀 / 보안 서비스 / 게스트 계정 / 타이틀",
         "id": 8003008,
         "alias": "UI.Login.Security.GuestAccount.Title",
-        "text": "Cannot register security service"
+        "text": "Unable to use the Security Service"
     },
     "8003009": {
         "deprecated": false,
         "Dev_Desc": "타이틀 / 보안 서비스 / 게스트 계정 / 설명",
         "id": 8003009,
         "alias": "UI.Login.Security.GuestAccount.Desc",
-        "text": "You can use plaync, Google, Apple, or Facebook accounts after selecting <textColor=[209:72:59:255]>Account link and security settings</>."
+        "text": "Select your plaync, Google, Apple, or Facebook account to <textColor=[209:72:59:255]>proceed with Link Account and complete the Security Settings</> to play the game."
     },
     "8003010": {
         "deprecated": false,
         "Dev_Desc": "타이틀 / 보안 서비스 가입 안내 / 타이틀",
         "id": 8003010,
         "alias": "UI.Login.SecurityInfo.Title",
-        "text": "Security Service Guide"
+        "text": "About Security Service"
     },
     "8003011": {
         "deprecated": false,
         "Dev_Desc": "타이틀 / 보안 서비스 가입 안내 / 설명",
         "id": 8003011,
         "alias": "UI.Login.SecurityInfo.Desc",
-        "text": "<textColor=[209:72:59:255]>Account Link</> and <textColor=[209:72:59:255]>Security Settings (Device Registration)</> required.\\nTitle Screen"
+        "text": "<textColor=[209:72:59:255]>Link Account</> and <textColor=[209:72:59:255]>Security Settings (Device Registration)</> are required.\nTap \"Security Settings\" at the title screen to join the Security Settings service."
     },
     "8003012": {
         "deprecated": false,
         "Dev_Desc": "타이틀 / 보안 서비스 가입 안내 / 설명2",
         "id": 8003012,
         "alias": "UI.Login.SecurityInfo.Desc2",
-        "text": "※ You cannot set security settings (device registration) for guest accounts. You can use it after selecting plaync, Google, Apple, or Facebook accounts in Menu>Settings>Accounts and linking accounts and setting security."
+        "text": "※ Security Settings are not available for guest accounts.\nLink your plaync, Google, Apple, or Facebook account from 'Title Screen > Settings > Info > Link Account' and complete the Security Settings to play the game."
     },
     "8003013": {
         "deprecated": false,
         "Dev_Desc": "채팅 / 설정 / 문파 인사 힌트",
         "id": 8003013,
         "alias": "UI.Chat.Option.GuildHelloHint",
-        "text": "Please enter your family greeting."
+        "text": "Enter a clan greeting."
     },
     "8003014": {
         "deprecated": false,
         "Dev_Desc": "거래소 / 검색결과 / 3단계 / 없음1",
         "id": 8003014,
         "alias": "UI.Trade.SearchResult.ItemList.No1",
-        "text": "There are no registered items."
+        "text": "No item on the sale list."
     },
     "8003015": {
         "deprecated": false,
         "Dev_Desc": "거래소 / 검색결과 / 3단계 / 없음2",
         "id": 8003015,
         "alias": "UI.Trade.SearchResult.ItemList.No2",
-        "text": "Please select a different item from the previous screen."
+        "text": "Select another item on the previous screen."
     },
     "8003016": {
         "deprecated": false,
         "Dev_Desc": "거래소 / 검색결과 / 3단계 / 필터 / 없음1",
         "id": 8003016,
         "alias": "UI.Trade.SearchResult.ItemList.Filter.No1",
-        "text": "There are no items that match your criteria."
+        "text": "No item in your search criteria."
     },
     "8003017": {
         "deprecated": false,
         "Dev_Desc": "거래소 / 검색결과 / 3단계 / 필터 / 없음2",
         "id": 8003017,
         "alias": "UI.Trade.SearchResult.ItemList.Filter.No2",
-        "text": "Please change your search criteria and try again."
+        "text": "Try again with new search criteria."
     },
     "8003018": {
         "deprecated": false,
         "Dev_Desc": "문파 목록 없음",
         "id": 8003018,
         "alias": "UI.Post.NoGuildList",
-        "text": "'There are no Clan members joined."
+        "text": "You haven't joined a clan."
     },
     "8003019": {
         "deprecated": false,
         "Dev_Desc": "캐시상점 / 상품 슬롯에 표시되는 신석, 마일리지 지급",
         "id": 8003019,
         "alias": "UI.CashShop.InCome",
-        "text": "Pay <arg p=[1:string]/>"
+        "text": "<arg p=[1:string]/>"
     },
     "8003020": {
         "deprecated": false,
         "Dev_Desc": "소울/수호령 / 합성포인트 / 보너스 합성 버튼",
         "id": 8003020,
         "alias": "UI.Soul.ComposePoint.ButtonName",
-        "text": "Attempt"
+        "text": "Bonus Fuse"
     },
     "8003021": {
         "deprecated": false,
         "Dev_Desc": "소울/수호령 / 합성포인트 / 보너스 합성 설명",
         "id": 8003021,
         "alias": "UI.Soul.ComposePoint.ComposePointDesc",
-        "text": "Try synthesizing bonuses with doubled success chance."
+        "text": "Try out a Bonus Fuse which doubles the enhance chance."
     },
     "8003022": {
         "deprecated": false,
@@ -20597,98 +20597,98 @@
         "Dev_Desc": "소울 패스 / 탭 / 시즌 종료 표시",
         "id": 8003023,
         "alias": "UI.SoulPass.SoulPassTab.End",
-        "text": "Season End"
+        "text": "Season Ended"
     },
     "8003024": {
         "deprecated": false,
         "Dev_Desc": "소울 패스 / 교환 영역 / 타이틀",
         "id": 8003024,
         "alias": "UI.SoulPass.ChangeReward.Title",
-        "text": "Season Rewards"
+        "text": "Season Reward"
     },
     "8003025": {
         "deprecated": false,
         "Dev_Desc": "소울 패스 / 교환 영역 / 시즌 기간 / 남은 시간",
         "id": 8003025,
         "alias": "UI.SoulPass.ChangeReward.Period.Rest",
-        "text": "(<arg p=[1:time]/> left)"
+        "text": "(<arg p=[1:time]/> remaining)"
     },
     "8003026": {
         "deprecated": false,
         "Dev_Desc": "소울 패스 / 교환 영역 / 교환 팝업 / 설명",
         "id": 8003026,
         "alias": "UI.SoulPass.ChangeReward.Popup.Desc",
-        "text": "Do you want to exchange <arg p=[1:string]/><eul/> for the following items?"
+        "text": "Exchange <arg p=[1:string]/> with the following item?"
     },
     "8003027": {
         "deprecated": false,
         "Dev_Desc": "소울 패스 / 교환 영역 / 교환 팝업 / 각성 전 추가 설명",
         "id": 8003027,
         "alias": "UI.SoulPass.ChangeReward.Popup.Desc2",
-        "text": "You can acquire locked rewards when you activate additional rewards."
+        "text": "You can receive locked rewards after the bonus reward is activated."
     },
     "8003028": {
         "deprecated": false,
         "Dev_Desc": "소울 패스 / 교환 영역 / 교환 팝업 / 비용",
         "id": 8003028,
         "alias": "UI.SoulPass.ChangeReward.Popup.Price",
-        "text": "Price"
+        "text": "Exchange Cost"
     },
     "8003029": {
         "deprecated": false,
         "Dev_Desc": "소울 패스 / 교환 영역 / 교환 팝업 / 교환 버튼",
         "id": 8003029,
         "alias": "UI.SoulPass.ChangeReward.Popup.Yes",
-        "text": "Yes"
+        "text": "Exchange"
     },
     "8003030": {
         "deprecated": false,
         "Dev_Desc": "소울 패스 / 배너 영역 / 활성화 전 문구",
         "id": 8003030,
         "alias": "UI.SoulPass.Banner.NotActivatePass",
-        "text": "When additional rewards are activated, additional rewards for items that have already been exchanged will be paid together."
+        "text": "If bonus rewards are activated, bonus rewards for the exchanged items will given together."
     },
     "8003031": {
         "deprecated": false,
         "Dev_Desc": "소울 패스 / 배너 영역 / 활성화 문구",
         "id": 8003031,
         "alias": "UI.SoulPass.Banner.ActivatePass",
-        "text": "Additional rewards will be paid when exchanging season rewards."
+        "text": "Bonus rewards are given if exchanged for a season reward."
     },
     "8003032": {
         "deprecated": false,
         "Dev_Desc": "소울 패스 / 배너 영역 / 종료 문구",
         "id": 8003032,
         "alias": "UI.SoulPass.Banner.EndPass",
-        "text": "Reward redemption is possible up to one week after the end of the season."
+        "text": "Reward exchange is available until a week after the season ends."
     },
     "8003033": {
         "deprecated": false,
         "Dev_Desc": "소울 패스 / 배너 영역 / 활성화 버튼",
         "id": 8003033,
         "alias": "UI.SoulPass.Banner.Purchase",
-        "text": "Activate Additional Rewards"
+        "text": "Activate Bonus Reward"
     },
     "8003034": {
         "deprecated": false,
         "Dev_Desc": "소울 패스 / 배너 영역 / 활성화 버튼 / 아이템 부족",
         "id": 8003034,
         "alias": "UI.SoulPass.Banner.Purchase.LackItem",
-        "text": "Shop"
+        "text": "Go to Shop"
     },
     "8003035": {
         "deprecated": false,
         "Dev_Desc": "소울 패스 / 배너 영역 / 활성화 팝업 / 설명",
         "id": 8003035,
         "alias": "UI.SoulPass.Banner.Purchase.Popup.Desc",
-        "text": "Are you sure you want to activate the additional reward for <arg p=[1:string]/>?"
+        "text": "Activate the bonus reward of <arg p=[1:string]/>?\nThe bonus reward of the exchanged items are given together."
     },
     "8003036": {
         "deprecated": false,
         "Dev_Desc": "소울 패스 / 배너 영역 / 활성화 팝업 / 비용",
         "id": 8003036,
         "alias": "UI.SoulPass.Banner.Purchase.Popup.Price",
-        "text": "Price"
+        "text": "Activation Cost"
     },
     "8003037": {
         "deprecated": false,
@@ -20702,210 +20702,210 @@
         "Dev_Desc": "소울 패스 / 미션 리스트 / 타이틀",
         "id": 8003038,
         "alias": "UI.SoulPass.MissionList.Title",
-        "text": "Pass Mission"
+        "text": "Season Mission"
     },
     "8003039": {
         "deprecated": false,
         "Dev_Desc": "소울 패스 / 미션 리스트 / 설명",
         "id": 8003039,
         "alias": "UI.SoulPass.MissionList.Desc",
-        "text": "Daily missions reset every day at 5am."
+        "text": "Daily Missions reset daily at 5 AM."
     },
     "8003040": {
         "deprecated": false,
         "Dev_Desc": "옷장 / 이미 착용중인 의상",
         "id": 8003040,
         "alias": "UI.Closet.Msg.AlreadyEquiped",
-        "text": "This Outfit is Already Equiped."
+        "text": "You've already equipped the item."
     },
     "8003041": {
         "deprecated": false,
         "Dev_Desc": "타이틀 / 보안 서비스 / 기기 검증 실패 / 타이틀",
         "id": 8003041,
         "alias": "UI.Login.Security.VerifyFail.Title",
-        "text": "Device Verification Failed"
+        "text": "Failed Device Validation"
     },
     "8003042": {
         "deprecated": false,
         "Dev_Desc": "타이틀 / 보안 서비스 / 기기 검증 실패 / 설명",
         "id": 8003042,
         "alias": "UI.Login.Security.VerifyFail.Desc",
-        "text": "Device verification failed because device information has been changed.\\nPlease proceed with device registration again."
+        "text": "The device validation failed because the device information has changed.\nPlease register your device again."
     },
     "8003043": {
         "deprecated": false,
         "Dev_Desc": "캐시상점 / AOS,Purpel / IAP 구매 수량 조절 안내",
         "id": 8003043,
         "alias": "UI.CashShop.Notice.IAPBuyInBulk",
-        "text": "Please be sure to check the quantity and amount of the product you are purchasing.\\nIt is considered that a product purchase contract has been concluded for all the products you have paid for."
+        "text": "You may change the purchase quantity of this product in the pop-up window that appears after you tap the Buy button.\nOnce you adjust the quantity and make payment thereof, it is deemed that you have agreed to purchase the specified quantity of the product."
     },
     "8003044": {
         "deprecated": false,
         "Dev_Desc": "타이틀 / 로그인 실패 / B2 제재된 계정 / 타이틀",
         "id": 8003044,
         "alias": "UI.Login.Fail.Restricted.B2.Title",
-        "text": "Restricted use"
+        "text": "Purchase Limit"
     },
     "8003045": {
         "deprecated": false,
         "Dev_Desc": "타이틀 / 로그인 실패 / B2 제재된 계정 / 설명",
         "id": 8003045,
         "alias": "UI.Login.Fail.Restricted.B2.Desc",
-        "text": "This account cannot use the service.\\n For details, please check [Mobile Customer Center > 1:1 Inquiry]."
+        "text": "This account has been suspended.\nPlease inquire at [Mobile Customer Service > 1:1 Inquiry]."
     },
     "8003046": {
         "deprecated": false,
         "Dev_Desc": "대기 순위 팝업",
         "id": 8003046,
         "alias": "UI.Login.Waiting.Queue",
-        "text": "Waiting rank <arg p=[1:integer]/> times."
+        "text": "You are #<arg p=[1:integer]/> in the queue."
     },
     "8003047": {
         "deprecated": false,
         "Dev_Desc": "대기 순위 팝업 확인 버튼",
         "id": 8003047,
         "alias": "UI.Login.Waiting.Confirm",
-        "text": "Confirm"
+        "text": "OK"
     },
     "8003048": {
         "deprecated": false,
         "Dev_Desc": "게임Flow / 이동 불가 / 튜토리얼 외 지역 / 타이틀",
         "id": 8003048,
         "alias": "UI.Login.MoveFail.NoDownload.Title",
-        "text": "Failed"
+        "text": "Fail"
     },
     "8003049": {
         "deprecated": false,
         "Dev_Desc": "게임Flow / 이동 불가 / 튜토리얼 외 지역 / 설명",
         "id": 8003049,
         "alias": "UI.Login.MoveFail.NoDownload.Desc",
-        "text": "You cannot move outside the tutorial area because the download has not been completed.\\n\\n<textColor=[209:72:59:255]>During the download, you can only play up to the tutorial area.</>"
+        "text": "Unable to move outside the tutorial area because the download is incomplete.\n\n<textColor=[209:72:59:255]>You can only play up to the tutorial area while the download is in progress.</>"
     },
     "8003050": {
         "deprecated": false,
         "Dev_Desc": "결제 계졍 연동 오류",
         "id": 8003050,
         "alias": "UI.Account.Error.NotConnected",
-        "text": "Cash payment products can be purchased after logging in to the Google Store."
+        "text": "You can buy cash items after signing into the Google Store."
     },
     "8003051": {
         "deprecated": false,
         "Dev_Desc": "결제 계졍 연동 오류",
         "id": 8003051,
         "alias": "UI.Account.Error.Cancel",
-        "text": "Your registration has been canceled."
+        "text": "Link Account has been canceled."
     },
     "8003052": {
         "deprecated": false,
         "Dev_Desc": "채팅 / 빈 화면",
         "id": 8003052,
         "alias": "UI.Chat.NoHistory",
-        "text": "No chat history"
+        "text": "No chat history."
     },
     "8003053": {
         "deprecated": false,
         "Dev_Desc": "플레이 포인트 등급",
         "id": 8003053,
         "alias": "UI.PlayGrade.01",
-        "text": "Earth"
+        "text": "Trailblazer"
     },
     "8003054": {
         "deprecated": false,
         "Dev_Desc": "플레이 포인트 등급",
         "id": 8003054,
         "alias": "UI.PlayGrade.02",
-        "text": "PlayGrade01"
+        "text": "Achiever"
     },
     "8003055": {
         "deprecated": false,
         "Dev_Desc": "플레이 포인트 등급",
         "id": 8003055,
         "alias": "UI.PlayGrade.03",
-        "text": "PlayGrade02"
+        "text": "Chief Achiever"
     },
     "8003056": {
         "deprecated": false,
         "Dev_Desc": "플레이 포인트 등급",
         "id": 8003056,
         "alias": "UI.PlayGrade.04",
-        "text": "Master"
+        "text": "Grand Achiever"
     },
     "8003057": {
         "deprecated": false,
         "Dev_Desc": "플레이 포인트 등급",
         "id": 8003057,
         "alias": "UI.PlayGrade.05",
-        "text": "PlayGrade05"
+        "text": "Ultimate Achiever"
     },
     "8003058": {
         "deprecated": false,
         "Dev_Desc": "플레이 포인트 등급",
         "id": 8003058,
         "alias": "UI.PlayGrade.06",
-        "text": "PlayGrade06"
+        "text": "Supreme Achiever"
     },
     "8003059": {
         "deprecated": false,
         "Dev_Desc": "타이틀 / 로비 서버 연결 실패 / 타이틀",
         "id": 8003059,
         "alias": "UI.Login.Fail.LobbyServer.Title",
-        "text": "Login Failed"
+        "text": "Failed Sign In"
     },
     "8003060": {
         "deprecated": false,
         "Dev_Desc": "타이틀 / 로비 서버 연결 실패 / 제재 계정",
         "id": 8003060,
         "alias": "UI.Login.Fail.LobbyServer.Desc.Restricted",
-        "text": "This account has been banned.\\nFor details, please check [Mobile Customer Center > 1:1 Inquiry]."
+        "text": "This account has been banned.\nPlease inquire at [Mobile Customer Service > 1:1 Inquiry]."
     },
     "8003061": {
         "deprecated": false,
         "Dev_Desc": "타이틀 / 로비 서버 연결 실패 / 중복 로그인",
         "id": 8003061,
         "alias": "UI.Login.Fail.LobbyServer.Desc.Overlap",
-        "text": "This is an account with duplicate login. \\n For details, please check [Mobile Customer Center > 1:1 Inquiry]."
+        "text": "This account has been signed in on another device.\nPlease inquire at [Mobile Customer Service > 1:1 Inquiry]."
     },
     "8003062": {
         "deprecated": false,
         "Dev_Desc": "타이틀 / 로비 서버 연결 실패 / 권한 확인 실패",
         "id": 8003062,
         "alias": "UI.Login.Fail.LobbyServer.Desc.AuthorityError",
-        "text": " This is an account whose account privileges cannot be checked. \\n For details, please check [Mobile Customer Center > 1:1 Inquiry]."
+        "text": "Account permissions couldn't be verified.\nPlease inquire at [Mobile Customer Service > 1:1 Inquiry]."
     },
     "8003063": {
         "deprecated": false,
         "Dev_Desc": "타이틀 / 서버 선택 실패 / 타이틀",
         "id": 8003063,
         "alias": "UI.Login.ServerSelect.Fail.Title",
-        "text": "Failed to enter server"
+        "text": "Failed to Enter the Server"
     },
     "8003064": {
         "deprecated": false,
         "Dev_Desc": "타이틀 / 서버 선택 실패 / 서버 내려감",
         "id": 8003064,
         "alias": "UI.Login.ServerSelect.Fail.Desc.NotActive",
-        "text": "Server Not Active"
+        "text": "Unable to enter the server."
     },
     "8003065": {
         "deprecated": false,
         "Dev_Desc": "타이틀 / 서버 선택 실패 / 존재하지 않음",
         "id": 8003065,
         "alias": "UI.Login.ServerSelect.Fail.Desc.NotExist",
-        "text": "Server does not exist."
+        "text": "The server does not exist."
     },
     "8003066": {
         "deprecated": false,
         "Dev_Desc": "블레이드&소울/블레이드&소울/영력부족",
         "id": 8003066,
         "alias": "UI.BladeNSoul.Equip.No2",
-        "text": "not possessed"
+        "text": "Unavailable"
     },
     "8003067": {
         "deprecated": false,
         "Dev_Desc": "이벤트 제작 레시피 탭 / 월광 정기",
         "id": 8003067,
         "alias": "UI.Craft.LeftSubTabName.Event.Moon_01",
-        "text": "Moonlight Period"
+        "text": "Moonlight Energy"
     },
     "8003068": {
         "deprecated": false,
@@ -20919,28 +20919,28 @@
         "Dev_Desc": "이벤트 제작 레시피 탭 / 기원의 조각",
         "id": 8003069,
         "alias": "UI.Craft.LeftSubTabName.Event.Moon_03",
-        "text": "Fragment of Origins"
+        "text": "Shard of Wishes"
     },
     "8003070": {
         "deprecated": false,
         "Dev_Desc": "이벤트 제작 레시피 탭 / 스타터 패키지",
         "id": 8003070,
         "alias": "UI.Craft.LeftSubTabName.Event.Moon_04",
-        "text": "Starter Package"
+        "text": "Soul Bridge Package"
     },
     "8003071": {
         "deprecated": false,
         "Dev_Desc": "타겟 / 공유타겟 / 공통",
         "id": 8003071,
         "alias": "UI.TargetShare.Fail",
-        "text": "No targets to share with."
+        "text": "No target to share."
     },
     "8003072": {
         "deprecated": false,
         "Dev_Desc": "소지품 / 소지가능 무게 초과",
         "id": 8003072,
         "alias": "UI.Inventory.ExceedWeight",
-        "text": "Exceeded carryable weight."
+        "text": "You Bag exceeded the max weight."
     },
     "8003073": {
         "deprecated": false,
@@ -20954,7 +20954,7 @@
         "Dev_Desc": "아이템 / 수량 조절 팝업 / 파괴모드 수량 선택",
         "id": 8003074,
         "alias": "UI.Item.PopUpText.Destroy.Confirm.3",
-        "text": "Select item to destroy"
+        "text": "Select the amount to destroy."
     },
     "8003075": {
         "deprecated": false,
@@ -20968,63 +20968,63 @@
         "Dev_Desc": "소울 패스 / 교환 영역 / 교환 완료",
         "id": 8003076,
         "alias": "UI.SoulPass.ChangeReward.Complete",
-        "text": "Exchange Complete"
+        "text": "Exchange Completed"
     },
     "8003077": {
         "deprecated": false,
         "Dev_Desc": "소울 패스 / 배너 영역 / 활성화 완료",
         "id": 8003077,
         "alias": "UI.SoulPass.Banner.Purchase.Complete",
-        "text": "Active Complete"
+        "text": "Activation Completed"
     },
     "8003078": {
         "deprecated": false,
         "Dev_Desc": "아이템 / 수량 조절 팝업 / 분해모드 수량 선택",
         "id": 8003078,
         "alias": "UI.Item.PopUpText.Discompose.Confirm.3",
-        "text": "Select item to salvage"
+        "text": "Select the amount to salvage."
     },
     "8003079": {
         "deprecated": false,
         "Dev_Desc": "타이틀 / 비로그인 상태로 로그인 필요 기능 이용 / 타이틀",
         "id": 8003079,
         "alias": "UI.Login.Fail.NeedLogin.Title",
-        "text": "Login Error"
+        "text": "Sign-in Error"
     },
     "8003080": {
         "deprecated": false,
         "Dev_Desc": "타이틀 / 비로그인 상태로 로그인 필요 기능 이용 / 설명",
         "id": 8003080,
         "alias": "UI.Login.Fail.NeedLogin.Desc",
-        "text": "You are not in a normal login state.\\nReturn to the title after logging out."
+        "text": "The sign-in status is invalid.\nSigning out to the title screen."
     },
     "8003081": {
         "deprecated": false,
         "Dev_Desc": "옷장 / 착용 / 외형 장착 해제 / 비활성메시지",
         "id": 8003081,
         "alias": "UI.Closet.NormalEquip.InactiveEquipBtn",
-        "text": "This is not a costume being applied."
+        "text": "The outfit's style has not been applied."
     },
     "8003082": {
         "deprecated": false,
         "Dev_Desc": "자동 이동 / 자동 이동 중 경공 불가",
         "id": 8003082,
         "alias": "UI.HUD.Text.impossibleAutoMoveHyperRun",
-        "text": "You cannot use this light while auto-moving."
+        "text": "This type of Windwalk can't be used while auto-moving."
     },
     "8003083": {
         "deprecated": false,
         "Dev_Desc": "타이틀 / 비정상 환불 / 다른 빌드 로그인 / 설명 / 경고",
         "id": 8003083,
         "alias": "UI.Login.UnusualRefund.OtherBuildLogin.Desc2",
-        "text": " An abnormal payment / refund has been confirmed. \\n Please proceed with re-payment at the next store."
+        "text": "Abnormal payment/refund has been detected.\nPlease make your payment again at the following store."
     },
     "8003084": {
         "deprecated": false,
         "Dev_Desc": "캐시상점 / 서브 탭 / 신석 탭 / 이벤트",
         "id": 8003084,
         "alias": "UI.CashShop.TapName.Sub.Event",
-        "text": "Event"
+        "text": "Promotion"
     },
     "8003085": {
         "deprecated": false,
@@ -21038,56 +21038,56 @@
         "Dev_Desc": "로비 / 이름 에러",
         "id": 8003086,
         "alias": "UI.Lobby.PopUpText.UncompletedChar",
-        "text": "Contains incomplete characters."
+        "text": "The name contains incomplete characters."
     },
     "8003087": {
         "deprecated": false,
         "Dev_Desc": "퍼플 ON/ 에러 처리 / 캐시상점 진입 / 설명",
         "id": 8003087,
         "alias": "UI.PurpleOn.Error.EnterCashShop.Desc",
-        "text": "Streaming on Purple."
+        "text": "Streaming on PURPLE."
     },
     "8003088": {
         "deprecated": false,
         "Dev_Desc": "퍼플 ON/ 에러 처리 / 캐시상점 진입 / 서브",
         "id": 8003088,
         "alias": "UI.PurpleOn.Error.EnterCashShop.Sub",
-        "text": "You can check the selected function after streaming ends in Purple."
+        "text": "Turn off streaming on PURPLE in order to use the feature."
     },
     "8003089": {
         "deprecated": false,
         "Dev_Desc": "퍼플 ON/ 에러 처리 / 캐시상점 / 상품 선택",
         "id": 8003089,
         "alias": "UI.PurpleOn.Error.SelectCashShop.Desc",
-        "text": "Streaming on Purple."
+        "text": "Streaming on PURPLE."
     },
     "8003090": {
         "deprecated": false,
         "Dev_Desc": "퍼플 ON/ 에러 처리 / 캐시상점 / 상품 선택",
         "id": 8003090,
         "alias": "UI.PurpleOn.Error.SelectCashShop.Sub",
-        "text": "You can check the selected function after streaming ends in Purple."
+        "text": "Turn off streaming on PURPLE in order to use the feature."
     },
     "8003091": {
         "deprecated": false,
         "Dev_Desc": "퍼플 ON/ 에러 처리 / 웹 페이지 호출 / 설명",
         "id": 8003091,
         "alias": "UI.PurpleOn.Error.WebPage.Desc",
-        "text": "Streaming on Purple."
+        "text": "Streaming on PURPLE."
     },
     "8003092": {
         "deprecated": false,
         "Dev_Desc": "퍼플 ON/ 에러 처리 / 웹 페이지 호출 / 서브",
         "id": 8003092,
         "alias": "UI.PurpleOn.Error.WebPage.Sub",
-        "text": "You can check the selected function after streaming ends in Purple."
+        "text": "Turn off streaming on PURPLE in order to use the feature."
     },
     "8003093": {
         "deprecated": false,
         "Dev_Desc": "자동사냥 / 대상 미발견 메시지",
         "id": 8003093,
         "alias": "UI.AutoHunting.Searching.Fail.Message",
-        "text": "The target could not be found."
+        "text": "Unable to spot a target."
     },
     "8003094": {
         "deprecated": false,
@@ -21101,7 +21101,7 @@
         "Dev_Desc": "로비 / 캐릭터 복구 버튼",
         "id": 8003095,
         "alias": "UI.Lobby.Button.RestoreHero",
-        "text": "Character Recovery"
+        "text": "Restore Character"
     },
     "8003096": {
         "deprecated": false,
@@ -21115,455 +21115,455 @@
         "Dev_Desc": "타이틀 / 게임 실행 후 최신 버전 변경 / 설명",
         "id": 8003097,
         "alias": "UI.Login.NeedUpdate.Desc",
-        "text": "The latest version has been changed.\\nPlease relaunch the game for an update."
+        "text": "A new version is available.\nPlease restart the game for an update. "
     },
     "8003098": {
         "deprecated": false,
         "Dev_Desc": "이벤트 제작 레시피 탭 / 한밤의 반달호수",
         "id": 8003098,
         "alias": "UI.Craft.LeftSubTabName.Event.MidNight_01",
-        "text": "Midnight Half Moon Lake"
+        "text": "Midnight Sapphire Basin"
     },
     "8003099": {
         "deprecated": false,
         "Dev_Desc": "타이틀 / 게임 실행 후 최신 버전 변경 / 설명",
         "id": 8003099,
         "alias": "UI.Enchant.Btn.SkipScene",
-        "text": "Skip Scene"
+        "text": "Skip visual effects"
     },
     "8003100": {
         "deprecated": false,
         "Dev_Desc": "무공 / 진화 및 강화 / 미습득",
         "id": 8003100,
         "alias": "UI.Skill.Learn.Need",
-        "text": "<arg p=[1:string]/><eul/> not learned yet."
+        "text": "<arg p=[1:string]/> not yet acquired."
     },
     "8003101": {
         "deprecated": false,
         "Dev_Desc": "무공 / 진화 및 강화 / 진화 확인",
         "id": 8003101,
         "alias": "UI.Skill.Evolution.confirm",
-        "text": "Are you sure you want to evolve martial arts using <arg p=[1:string]/><eul/>?"
+        "text": "Use <arg p=[1:string]/> to evolve the technique?"
     },
     "8003102": {
         "deprecated": false,
         "Dev_Desc": "무공 / 습득 / 확인",
         "id": 8003102,
         "alias": "UI.Skill.Learn.confirm",
-        "text": "Are you sure you want to learn martial arts using <arg p=[1:string]/><eul/>?"
+        "text": "Use <arg p=[1:string]/> to acquire the technique?"
     },
     "8003103": {
         "deprecated": false,
         "Dev_Desc": "무공 / 습득 / 습득",
         "id": 8003103,
         "alias": "UI.Skill.Learn",
-        "text": "Learn"
+        "text": "Acquire"
     },
     "8003104": {
         "deprecated": false,
         "Dev_Desc": "무공 / 진화 및 강화 / 진화 부족",
         "id": 8003104,
         "alias": "UI.Skill.Evolution.Need",
-        "text": "Not enough <arg p=[1:string]/><ga/> to evolve."
+        "text": "You need more <arg p=[1:string]/> to evolve."
     },
     "8003105": {
         "deprecated": false,
         "Dev_Desc": "무공 / 진화 및 강화 / 초",
         "id": 8003105,
         "alias": "UI.Skill.Second",
-        "text": "Sec"
+        "text": " sec"
     },
     "8003106": {
         "deprecated": false,
         "Dev_Desc": "무공 / 진화 및 강화 / 단계",
         "id": 8003106,
         "alias": "UI.Skill.Step",
-        "text": "Step"
+        "text": "Stage "
     },
     "8003107": {
         "deprecated": false,
         "Dev_Desc": "무공 / 진화 및 강화 / 비결 부족",
         "id": 8003107,
         "alias": "UI.Skill.Enhance.Gauge.Need",
-        "text": "Not enough <arg p=[1:string]/><ga/> to inject."
+        "text": "You need more <arg p=[1:string]/> to inject."
     },
     "8003108": {
         "deprecated": false,
         "Dev_Desc": "무공 / 진화 및 강화 / 주입량 부족",
         "id": 8003108,
         "alias": "UI.Skill.Enhance.Gauge.NotEnough",
-        "text": "Insufficient injection volume."
+        "text": "You need to inject more <arg p=[1:string]/>."
     },
     "8003109": {
         "deprecated": false,
         "Dev_Desc": "무공 / 진화 및 강화 / 강화 부족",
         "id": 8003109,
         "alias": "UI.Skill.Enhance.Need",
-        "text": "Not enough <arg p=[1:string]/><ga/> to enhacement"
+        "text": "You need more <arg p=[1:string]/> to enhance."
     },
     "8003110": {
         "deprecated": false,
         "Dev_Desc": "무공 / 진화 및 강화 / 성공확률",
         "id": 8003110,
         "alias": "UI.Skill.SuccessPercentage",
-        "text": "Success probability <arg p=[1:integer]/>%"
+        "text": "Success Chance <arg p=[1:integer]/>%"
     },
     "8003111": {
         "deprecated": false,
         "Dev_Desc": "무공 / 진화 및 강화 / 게이지 증가",
         "id": 8003111,
         "alias": "UI.Skill.Enhance.Gauge.Success",
-        "text": "The skill gauge has increased."
+        "text": "The technique's Oracle gauge has increased."
     },
     "8003112": {
         "deprecated": false,
         "Dev_Desc": "블레이드 효과 레벨 +1\n무공 사용 시 소울 발동",
         "id": 8003112,
         "alias": "UI.Soul.BladeEffect.Level1.Skill",
-        "text": "Blade Effect Level +1\\nSoul Activation When Using No Attack"
+        "text": "Blade Effects Level +1\nActivates Soul"
     },
     "8003113": {
         "deprecated": false,
         "Dev_Desc": "거래소 / 분류 / 무공 / 공용",
         "id": 8003113,
         "alias": "UI.Trade.Category.SkillSetScroll.Common",
-        "text": "Common"
+        "text": "Universal"
     },
     "8003114": {
         "deprecated": false,
         "Dev_Desc": "거래소 / 분류 / 기타 / 상자",
         "id": 8003114,
         "alias": "UI.Trade.Category.Etc.RewardBox",
-        "text": "Reward Box"
+        "text": "Box"
     },
     "8003115": {
         "deprecated": false,
         "Dev_Desc": "무공 / 진화 / 아이템 사용 / 실패",
         "id": 8003115,
         "alias": "UI.Skill.Evolution.Fail",
-        "text": "Failed to evolve firearms."
+        "text": "Unable to evolve the technique."
     },
     "8003116": {
         "deprecated": false,
         "Dev_Desc": "무공 / 진화 / 최대 진화 / 실패",
         "id": 8003116,
         "alias": "UI.Skill.Evolution.Wrongstep1",
-        "text": "This is the most advanced martial art."
+        "text": "The technique is evolved to the max stage."
     },
     "8003117": {
         "deprecated": false,
         "Dev_Desc": "무공 / 진화 / 단계 / 단계 넘어감",
         "id": 8003117,
         "alias": "UI.Skill.Evolution.Wrongstep2",
-        "text": "Available after the previous level of dungeon evolution."
+        "text": "Please evolve to the previous stage first."
     },
     "8003118": {
         "deprecated": false,
         "Dev_Desc": "무공 / 진화 / 단계 / 이미 진화",
         "id": 8003118,
         "alias": "UI.Skill.Evolution.Wrongstep3",
-        "text": "This is an advanced level of martial art."
+        "text": "Already completed the evolution stage."
     },
     "8003119": {
         "deprecated": false,
         "Dev_Desc": "무공 / 진화 / 재화 부족",
         "id": 8003119,
         "alias": "UI.Skill.Evolution.Fail.Money",
-        "text": "Cannot evolve due to lack of resources."
+        "text": "You need more gold to evolve."
     },
     "8003120": {
         "deprecated": false,
         "Dev_Desc": "무공 / 습득 / 이미 습득",
         "id": 8003120,
         "alias": "UI.Skill.Learn.Wrongstep1",
-        "text": "This is an already acquired skill."
+        "text": "The technique has been acquired."
     },
     "8003121": {
         "deprecated": false,
         "Dev_Desc": "무공 / 비결 / 이미 가득 참",
         "id": 8003121,
         "alias": "UI.Skill.Enhance.Gauge.Over",
-        "text": "The gauge of the secret of martial arts is already full."
+        "text": "The technique's Oracle gauge is already full."
     },
     "8003122": {
         "deprecated": false,
         "Dev_Desc": "무공 / 강화 / 재화 부족",
         "id": 8003122,
         "alias": "UI.Skill.Enhance.Fail.Money",
-        "text": "Cannot be enhanced due to lack of goods."
+        "text": "You need more materials to enhance."
     },
     "8003123": {
         "deprecated": false,
         "Dev_Desc": "무공 / 비결 / 가득 참",
         "id": 8003123,
         "alias": "UI.Skill.Enhance.Gauge.Full",
-        "text": "The secret gauge is full."
+        "text": "The Oracle gauge is full."
     },
     "8003124": {
         "deprecated": false,
         "Dev_Desc": "무공 / 비결 / 게이지 증가",
         "id": 8003124,
         "alias": "UI.Skill.Enhance.Gauge.Success2",
-        "text": " The %s defense secret gauge has been increased."
+        "text": "The technique's Oracle gauge has increased by %s ."
     },
     "8003125": {
         "deprecated": false,
         "Dev_Desc": "무공 / 무공 선택",
         "id": 8003125,
         "alias": "UI.Skill.Chooseone",
-        "text": "Choose a martial art"
+        "text": "Please select a technique."
     },
     "8003126": {
         "deprecated": false,
         "Dev_Desc": "무공 / 습득 / 미습득",
         "id": 8003126,
         "alias": "UI.Skill.Learn.Wrongstep2",
-        "text": "Unacquired martial arts."
+        "text": "Unacquired technique."
     },
     "8003127": {
         "deprecated": false,
         "Dev_Desc": "자동 이동 / 이동 불가 메시지",
         "id": 8003127,
         "alias": "UI.AutoMove.Fail.Message",
-        "text": "The target is in a location that cannot be auto-moved."
+        "text": "Unable to auto-move to the target."
     },
     "8003128": {
         "deprecated": false,
         "Dev_Desc": "블레이드 효과 / 소울 영력 감소",
         "id": 8003128,
         "alias": "UI.Soul.BladeEffect.Equip",
-        "text": "Increased Basic Attack Speed ​​\\n Soul Activation Rate Increase"
+        "text": "Normal Attack Speed ▲\nSoul Chance ▲"
     },
     "8003129": {
         "deprecated": false,
         "Dev_Desc": "블레이드 효과 / 기본 공격 속도 증가",
         "id": 8003129,
         "alias": "UI.Soul.BladeEffect.AttackSpeed",
-        "text": "Increased Basic Attack Speed"
+        "text": "Normal Attack Speed ▲"
     },
     "8003130": {
         "deprecated": false,
         "Dev_Desc": "희귀 3성/블레이드 효과 묵직함Lv.1",
         "id": 8003130,
         "alias": "UI.Soul.BladeEffect.1.Rare.3",
-        "text": "Heavy Blade Effect Lv.1"
+        "text": "Blade Effects Massiveness Lv.1"
     },
     "8003131": {
         "deprecated": false,
         "Dev_Desc": "희귀 3성/블레이드 효과 철저함Lv.1",
         "id": 8003131,
         "alias": "UI.Soul.BladeEffect.3.Rare.3",
-        "text": "Blade Effect Thorough Lv.1"
+        "text": "Blade Effects Rigor Lv.1"
     },
     "8003132": {
         "deprecated": false,
         "Dev_Desc": "희귀 3성/블레이드 효과 추격자Lv.1",
         "id": 8003132,
         "alias": "UI.Soul.BladeEffect.4.Rare.3",
-        "text": "Blade Effect Chaser Lv.1"
+        "text": "Blade Effects Pursuer Lv.1"
     },
     "8003133": {
         "deprecated": false,
         "Dev_Desc": "희귀 3성/블레이드 효과 끈적끈적Lv.1",
         "id": 8003133,
         "alias": "UI.Soul.BladeEffect.5.Rare.3",
-        "text": "Blade Effect Sticky Lv.1"
+        "text": "Blade Effects Stickiness Lv.1"
     },
     "8003134": {
         "deprecated": false,
         "Dev_Desc": "희귀 3성/블레이드 효과 질척질척Lv.1",
         "id": 8003134,
         "alias": "UI.Soul.BladeEffect.6.Rare.3",
-        "text": "Blade Effect Soggy Lv.1"
+        "text": "Blade Effects Squishiness Lv.1"
     },
     "8003135": {
         "deprecated": false,
         "Dev_Desc": "희귀 3성/블레이드 효과 꿀렁꿀렁Lv.1",
         "id": 8003135,
         "alias": "UI.Soul.BladeEffect.7.Rare.3",
-        "text": "Blade Effect Gulleongkul Lv.1"
+        "text": "Blade Effects Slushiness Lv.1"
     },
     "8003136": {
         "deprecated": false,
         "Dev_Desc": "희귀 3성/블레이드 효과 필중거력Lv.1",
         "id": 8003136,
         "alias": "UI.Soul.BladeEffect.8.Rare.3",
-        "text": "Blade Effect Heavy Strength Lv.1"
+        "text": "Blade Effects Certain Power Lv.1"
     },
     "8003137": {
         "deprecated": false,
         "Dev_Desc": "희귀 3성/블레이드 효과 필중사격Lv.1",
         "id": 8003137,
         "alias": "UI.Soul.BladeEffect.9.Rare.3",
-        "text": "Blade Effect Heavy Fire Lv.1"
+        "text": "Blade Effects Certain Shot Lv.1"
     },
     "8003138": {
         "deprecated": false,
         "Dev_Desc": "희귀 3성/블레이드 효과 필중공력Lv.1",
         "id": 8003138,
         "alias": "UI.Soul.BladeEffect.10.Rare.3",
-        "text": "Blade Effect Penalty Strength Lv.1"
+        "text": "Blade Effect Certain Force Lv.1"
     },
     "8003139": {
         "deprecated": false,
         "Dev_Desc": "희귀 3성/블레이드 효과 강력함Lv.1",
         "id": 8003139,
         "alias": "UI.Soul.BladeEffect.11.Rare.3",
-        "text": "Strong blade effect Lv.1"
+        "text": "Blade Effects Powerfulness Lv.1"
     },
     "8003140": {
         "deprecated": false,
         "Dev_Desc": "희귀 3성/블레이드 효과 예리함Lv.1",
         "id": 8003140,
         "alias": "UI.Soul.BladeEffect.12.Rare.3",
-        "text": "Blade Effect Sharpness Lv.1"
+        "text": "Blade Effects Acuteness Lv.1"
     },
     "8003141": {
         "deprecated": false,
         "Dev_Desc": "희귀 3성/블레이드 효과 치밀함Lv.1",
         "id": 8003141,
         "alias": "UI.Soul.BladeEffect.13.Rare.3",
-        "text": "Blade effect precision Lv.1"
+        "text": "Blade Effects Precision Lv.1"
     },
     "8003142": {
         "deprecated": false,
         "Dev_Desc": "희귀 3성/블레이드 효과 긴장 해제Lv.1",
         "id": 8003142,
         "alias": "UI.Soul.BladeEffect.14.Rare.3",
-        "text": "Blade effect tension release Lv.1"
+        "text": "Blade Effects Defused Tension Lv.1"
     },
     "8003143": {
         "deprecated": false,
         "Dev_Desc": "희귀 3성/블레이드 효과 경계 태만Lv.1",
         "id": 8003143,
         "alias": "UI.Soul.BladeEffect.15.Rare.3",
-        "text": "Blade effect vigilance neglect Lv.1"
+        "text": "Blade Effect Negligence Lv.1"
     },
     "8003144": {
         "deprecated": false,
         "Dev_Desc": "희귀 3성/블레이드 효과 방심 강제Lv.1",
         "id": 8003144,
         "alias": "UI.Soul.BladeEffect.16.Rare.3",
-        "text": "Blade Effect Overwhelming Force Lv.1"
+        "text": "Blade Effect Inattention Lv.1"
     },
     "8003145": {
         "deprecated": false,
         "Dev_Desc": "희귀 3성/블레이드 효과 힘의 길Lv.1",
         "id": 8003145,
         "alias": "UI.Soul.BladeEffect.17.Rare.3",
-        "text": "Road of Blade Effect Power Lv.1"
+        "text": "Blade Effect The Path to Strength Lv.1"
     },
     "8003146": {
         "deprecated": false,
         "Dev_Desc": "희귀 3성/블레이드 효과 솜씨의 길Lv.1",
         "id": 8003146,
         "alias": "UI.Soul.BladeEffect.19.Rare.3",
-        "text": "The Path of Blade Effect Skill Lv.1"
+        "text": "Blade Effect The Path to Dexterity Lv.1"
     },
     "8003147": {
         "deprecated": false,
         "Dev_Desc": "희귀 3성/블레이드 효과 지능의 길Lv.1",
         "id": 8003147,
         "alias": "UI.Soul.BladeEffect.21.Rare.3",
-        "text": "Blade Effect Intelligence Path Lv.1"
+        "text": "Blade Effect The Path to Intelligence Lv.1"
     },
     "8003148": {
         "deprecated": false,
         "Dev_Desc": "희귀 3성/블레이드 효과 끈기왕Lv.1",
         "id": 8003148,
         "alias": "UI.Soul.BladeEffect.23.Rare.3",
-        "text": "Blade Effect Tenacity King Lv.1"
+        "text": "Blade Effects Persistence Lv.1"
     },
     "8003149": {
         "deprecated": false,
         "Dev_Desc": "희귀 3성/블레이드 효과 항마의 길Lv.1",
         "id": 8003149,
         "alias": "UI.Soul.BladeEffect.24.Rare.3",
-        "text": "Blade Effect Anti-Magic Path Lv.1"
+        "text": "Blade Effect The Path to an Antidevil Lv.1"
     },
     "8003150": {
         "deprecated": false,
         "Dev_Desc": "희귀 3성/블레이드 효과 구명지은Lv.1",
         "id": 8003150,
         "alias": "UI.Soul.BladeEffect.26.Rare.3",
-        "text": "Lv. 1 with Blade Effect Rescue"
+        "text": "Blade Effects Savior Lv.1"
     },
     "8003151": {
         "deprecated": false,
         "Dev_Desc": "희귀 3성/블레이드 효과 대마불사Lv.1",
         "id": 8003151,
         "alias": "UI.Soul.BladeEffect.28.Rare.3",
-        "text": "Blade Effect Great Immortality Lv.1"
+        "text": "Blade Effects Too Big To Fail Lv.1"
     },
     "8003152": {
         "deprecated": false,
         "Dev_Desc": "희귀 3성/블레이드 효과 이대도강Lv.1",
         "id": 8003152,
         "alias": "UI.Soul.BladeEffect.30.Rare.3",
-        "text": "Blade Effect Lee Daedogang Lv.1"
+        "text": "Blade Effects Sacrifice for Another Lv.1"
     },
     "8003153": {
         "deprecated": false,
         "Dev_Desc": "희귀 3성/블레이드 효과 통제불능Lv.1",
         "id": 8003153,
         "alias": "UI.Soul.BladeEffect.32.Rare.3",
-        "text": "Blade effect out of control Lv.1"
+        "text": "Blade Effects Out of Control Lv.1"
     },
     "8003154": {
         "deprecated": false,
         "Dev_Desc": "희귀 3성/블레이드 효과 임전무퇴Lv.1",
         "id": 8003154,
         "alias": "UI.Soul.BladeEffect.34.Rare.3",
-        "text": "Blade Effect Unarmed Lv.1"
+        "text": "Blade Effects Know No Retreat Lv.1"
     },
     "8003155": {
         "deprecated": false,
         "Dev_Desc": "희귀 3성/블레이드 효과 상처 악화Lv.1",
         "id": 8003155,
         "alias": "UI.Soul.BladeEffect.36.Rare.3",
-        "text": "Blade Effect Wound Worse Lv.1"
+        "text": "Blade Effect Festering Wound Lv.1"
     },
     "8003156": {
         "deprecated": false,
         "Dev_Desc": "희귀 3성/블레이드 효과 내력 파괴Lv.1",
         "id": 8003156,
         "alias": "UI.Soul.BladeEffect.38.Rare.3",
-        "text": "Blade effect strength destruction Lv.1"
+        "text": "Blade Effect Destroy Focus Lv.1"
     },
     "8003157": {
         "deprecated": false,
         "Dev_Desc": "희귀 3성/블레이드 효과 일방 거래Lv.1",
         "id": 8003157,
         "alias": "UI.Soul.BladeEffect.40.Rare.3",
-        "text": "Blade Effect One-Way Transaction Lv.1"
+        "text": "Blade Effect One-Way Trade Lv.1"
     },
     "8003158": {
         "deprecated": false,
         "Dev_Desc": "희귀 3성/블레이드 효과 항거불능Lv.1",
         "id": 8003158,
         "alias": "UI.Soul.BladeEffect.42.Rare.3",
-        "text": "Blade effect irresistible Lv.1"
+        "text": "Blade Effects Unable to Resist Lv.1"
     },
     "8003159": {
         "deprecated": false,
         "Dev_Desc": "희귀 3성/블레이드 효과 묵화Lv.1",
         "id": 8003159,
         "alias": "UI.Soul.BladeEffect.44.Rare.3",
-        "text": "Blade effect ink painting Lv.1"
+        "text": "Blade Effects Black Rose Lv.1"
     },
     "8003160": {
         "deprecated": false,
         "Dev_Desc": "희귀 3성/블레이드 효과 이중타격Lv.1",
         "id": 8003160,
         "alias": "UI.Soul.BladeEffect.46.Rare.3",
-        "text": "Blade Effect Double Strike Lv.1"
+        "text": "Blade Effect Double Attack Lv.1"
     },
     "8003161": {
         "deprecated": false,
         "Dev_Desc": "희귀 3성/블레이드 효과 날카로움Lv.1",
         "id": 8003161,
         "alias": "UI.Soul.BladeEffect.2.Rare.3",
-        "text": "Blade effect sharpness Lv.1"
+        "text": "Blade Effects Sharpness Lv.1"
     },
     "8003162": {
         "deprecated": false,
@@ -21577,763 +21577,763 @@
         "Dev_Desc": "경공 / 짧은 승천비 벽차기",
         "id": 8003163,
         "alias": "UI.HyPerRun.Name.AscentDashShort",
-        "text": "Wall Kick"
+        "text": "Wallkick"
     },
     "8003164": {
         "deprecated": false,
         "Dev_Desc": "문파 / 문파원 / 임명 / 현재 직위",
         "id": 8003164,
         "alias": "UI.Guild.Management.Apoint.Desc2",
-        "text": "Current position"
+        "text": "Current Ranking"
     },
     "8003165": {
         "deprecated": false,
         "Dev_Desc": "희귀 5성/블레이드 효과 묵직함Lv.2",
         "id": 8003165,
         "alias": "UI.Soul.BladeEffect.1.Rare.5",
-        "text": "Heavy Blade Effect Lv.2"
+        "text": "Blade Effects Massiveness Lv.2"
     },
     "8003166": {
         "deprecated": false,
         "Dev_Desc": "희귀 5성/블레이드 효과 날카로움Lv.2",
         "id": 8003166,
         "alias": "UI.Soul.BladeEffect.2.Rare.5",
-        "text": "Blade effect sharpness Lv.2"
+        "text": "Blade Effects Sharpness Lv.2"
     },
     "8003167": {
         "deprecated": false,
         "Dev_Desc": "희귀 5성/블레이드 효과 철저함Lv.2",
         "id": 8003167,
         "alias": "UI.Soul.BladeEffect.3.Rare.5",
-        "text": "Blade Effect Thorough Lv.2"
+        "text": "Blade Effects Rigor Lv.2"
     },
     "8003168": {
         "deprecated": false,
         "Dev_Desc": "희귀 5성/블레이드 효과 추격자Lv.2",
         "id": 8003168,
         "alias": "UI.Soul.BladeEffect.4.Rare.5",
-        "text": "Blade Effect Chaser Lv.2"
+        "text": "Blade Effects Pursuer Lv.2"
     },
     "8003169": {
         "deprecated": false,
         "Dev_Desc": "희귀 5성/블레이드 효과 끈적끈적Lv.2",
         "id": 8003169,
         "alias": "UI.Soul.BladeEffect.5.Rare.5",
-        "text": "Blade Effect Sticky Lv.2"
+        "text": "Blade Effects Stickiness Lv.2"
     },
     "8003170": {
         "deprecated": false,
         "Dev_Desc": "희귀 5성/블레이드 효과 질척질척Lv.2",
         "id": 8003170,
         "alias": "UI.Soul.BladeEffect.6.Rare.5",
-        "text": "Blade Effect Soak Lv. 2"
+        "text": "Blade Effects Squishiness Lv.2"
     },
     "8003171": {
         "deprecated": false,
         "Dev_Desc": "희귀 5성/블레이드 효과 꿀렁꿀렁Lv.2",
         "id": 8003171,
         "alias": "UI.Soul.BladeEffect.7.Rare.5",
-        "text": "Blade Effect Gulleong Gulleong Lv.2"
+        "text": "Blade Effects Slushiness Lv.2"
     },
     "8003172": {
         "deprecated": false,
         "Dev_Desc": "희귀 5성/블레이드 효과 필중거력Lv.2",
         "id": 8003172,
         "alias": "UI.Soul.BladeEffect.8.Rare.5",
-        "text": "Blade Effect Heavy Strength Lv.2"
+        "text": "Blade Effects Certain Power Lv.2"
     },
     "8003173": {
         "deprecated": false,
         "Dev_Desc": "희귀 5성/블레이드 효과 필중사격Lv.2",
         "id": 8003173,
         "alias": "UI.Soul.BladeEffect.9.Rare.5",
-        "text": "Blade Effect Heavy Fire Lv.2"
+        "text": "Blade Effects Certain Shot Lv.2"
     },
     "8003174": {
         "deprecated": false,
         "Dev_Desc": "희귀 5성/블레이드 효과 필중공력Lv.2",
         "id": 8003174,
         "alias": "UI.Soul.BladeEffect.10.Rare.5",
-        "text": "Blade Effect Penetrating Air Lv.2"
+        "text": "Blade Effect Certain Force Lv.2"
     },
     "8003175": {
         "deprecated": false,
         "Dev_Desc": "희귀 5성/블레이드 효과 강력함Lv.2",
         "id": 8003175,
         "alias": "UI.Soul.BladeEffect.11.Rare.5",
-        "text": "Strong blade effect Lv.2"
+        "text": "Blade Effects Powerfulness Lv.2"
     },
     "8003176": {
         "deprecated": false,
         "Dev_Desc": "희귀 5성/블레이드 효과 예리함Lv.2",
         "id": 8003176,
         "alias": "UI.Soul.BladeEffect.12.Rare.5",
-        "text": "Blade effect sharpness Lv.2"
+        "text": "Blade Effects Acuteness Lv.2"
     },
     "8003177": {
         "deprecated": false,
         "Dev_Desc": "희귀 5성/블레이드 효과 치밀함Lv.2",
         "id": 8003177,
         "alias": "UI.Soul.BladeEffect.13.Rare.5",
-        "text": "Blade effect precision Lv.2"
+        "text": "Blade Effects Precision Lv.2"
     },
     "8003178": {
         "deprecated": false,
         "Dev_Desc": "희귀 5성/블레이드 효과 긴장 해제Lv.2",
         "id": 8003178,
         "alias": "UI.Soul.BladeEffect.14.Rare.5",
-        "text": "Blade effect tension release Lv.2"
+        "text": "Blade Effect Defused Tension Lv.2"
     },
     "8003179": {
         "deprecated": false,
         "Dev_Desc": "희귀 5성/블레이드 효과 경계 태만Lv.2",
         "id": 8003179,
         "alias": "UI.Soul.BladeEffect.15.Rare.5",
-        "text": "Blade effect vigilance neglect Lv.2"
+        "text": "Blade Effect Negligence Lv.2"
     },
     "8003180": {
         "deprecated": false,
         "Dev_Desc": "희귀 5성/블레이드 효과 방심 강제Lv.2",
         "id": 8003180,
         "alias": "UI.Soul.BladeEffect.16.Rare.5",
-        "text": "Blade Effect Overwhelming Force Lv.2"
+        "text": "Blade Effect Inattention Lv.2"
     },
     "8003181": {
         "deprecated": false,
         "Dev_Desc": "희귀 5성/블레이드 효과 힘의 길Lv.2",
         "id": 8003181,
         "alias": "UI.Soul.BladeEffect.17.Rare.5",
-        "text": "Road of Blade Effect Power Lv.2"
+        "text": "Blade Effect The Path to Strength Lv.2"
     },
     "8003182": {
         "deprecated": false,
         "Dev_Desc": "희귀 5성/블레이드 효과 솜씨의 길Lv.2",
         "id": 8003182,
         "alias": "UI.Soul.BladeEffect.19.Rare.5",
-        "text": "The Path of Blade Effect Skill Lv.2"
+        "text": "Blade Effect The Path to Dexterity Lv.2"
     },
     "8003183": {
         "deprecated": false,
         "Dev_Desc": "희귀 5성/블레이드 효과 지능의 길Lv.2",
         "id": 8003183,
         "alias": "UI.Soul.BladeEffect.21.Rare.5",
-        "text": "Blade Effect Intelligence Path Lv.2"
+        "text": "Blade Effect The Path to Intelligence Lv.2"
     },
     "8003184": {
         "deprecated": false,
         "Dev_Desc": "희귀 5성/블레이드 효과 끈기왕Lv.2",
         "id": 8003184,
         "alias": "UI.Soul.BladeEffect.23.Rare.5",
-        "text": "Blade Effect Tenacity King Lv.2"
+        "text": "Blade Effects Persistence Lv.2"
     },
     "8003185": {
         "deprecated": false,
         "Dev_Desc": "희귀 5성/블레이드 효과 항마의 길Lv.2",
         "id": 8003185,
         "alias": "UI.Soul.BladeEffect.24.Rare.5",
-        "text": "Blade Effect Anti-Magic Path Lv.2"
+        "text": "Blade Effect The Path to an Antidevil Lv.2"
     },
     "8003186": {
         "deprecated": false,
         "Dev_Desc": "희귀 5성/블레이드 효과 구명지은Lv.2",
         "id": 8003186,
         "alias": "UI.Soul.BladeEffect.26.Rare.5",
-        "text": "Lv.2 with the blade effect saved"
+        "text": "Blade Effects Savior Lv.2"
     },
     "8003187": {
         "deprecated": false,
         "Dev_Desc": "희귀 5성/블레이드 효과 대마불사Lv.2",
         "id": 8003187,
         "alias": "UI.Soul.BladeEffect.28.Rare.5",
-        "text": "Blade Effect Great Immortality Lv.2"
+        "text": "Blade Effects Too Big To Fail Lv.2"
     },
     "8003188": {
         "deprecated": false,
         "Dev_Desc": "희귀 5성/블레이드 효과 이대도강Lv.2",
         "id": 8003188,
         "alias": "UI.Soul.BladeEffect.30.Rare.5",
-        "text": "Blade Effect Lee Daedogang Lv.2"
+        "text": "Blade Effects Sacrifice for Another Lv.2"
     },
     "8003189": {
         "deprecated": false,
         "Dev_Desc": "희귀 5성/블레이드 효과 통제불능Lv.2",
         "id": 8003189,
         "alias": "UI.Soul.BladeEffect.32.Rare.5",
-        "text": "Blade effect out of control Lv.2"
+        "text": "Blade Effects Out of Control Lv.2"
     },
     "8003190": {
         "deprecated": false,
         "Dev_Desc": "희귀 5성/블레이드 효과 임전무퇴Lv.2",
         "id": 8003190,
         "alias": "UI.Soul.BladeEffect.34.Rare.5",
-        "text": "Blade Effect Unarmed Lv.2"
+        "text": "Blade Effects Know No Retreat Lv.2"
     },
     "8003191": {
         "deprecated": false,
         "Dev_Desc": "희귀 5성/블레이드 효과 상처 악화Lv.2",
         "id": 8003191,
         "alias": "UI.Soul.BladeEffect.36.Rare.5",
-        "text": "Blade Effect Wound Worse Lv.2"
+        "text": "Blade Effect Festering Wound Lv.2"
     },
     "8003192": {
         "deprecated": false,
         "Dev_Desc": "희귀 5성/블레이드 효과 내력 파괴Lv.2",
         "id": 8003192,
         "alias": "UI.Soul.BladeEffect.38.Rare.5",
-        "text": "Blade effect strength destruction Lv.2"
+        "text": "Blade Effect Destroy Focus Lv.2"
     },
     "8003193": {
         "deprecated": false,
         "Dev_Desc": "희귀 5성/블레이드 효과 일방 거래Lv.2",
         "id": 8003193,
         "alias": "UI.Soul.BladeEffect.40.Rare.5",
-        "text": "Blade Effect One-Way Transaction Lv.2"
+        "text": "Blade Effect One-Way Trade Lv.2"
     },
     "8003194": {
         "deprecated": false,
         "Dev_Desc": "희귀 5성/블레이드 효과 항거불능Lv.2",
         "id": 8003194,
         "alias": "UI.Soul.BladeEffect.42.Rare.5",
-        "text": "Blade effect irresistible Lv.2"
+        "text": "Blade Effects Unable to Resist Lv.2"
     },
     "8003195": {
         "deprecated": false,
         "Dev_Desc": "희귀 5성/블레이드 효과 묵화Lv.2",
         "id": 8003195,
         "alias": "UI.Soul.BladeEffect.44.Rare.5",
-        "text": "Blade effect ink painting Lv.2"
+        "text": "Blade Effects Black Rose Lv.2"
     },
     "8003196": {
         "deprecated": false,
         "Dev_Desc": "희귀 5성/블레이드 효과 이중타격Lv.2",
         "id": 8003196,
         "alias": "UI.Soul.BladeEffect.46.Rare.5",
-        "text": "Blade Effect Double Strike Lv.2"
+        "text": "Blade Effect Double Attack Lv.2"
     },
     "8003197": {
         "deprecated": false,
         "Dev_Desc": "영웅 5성/블레이드 효과 묵직함Lv.3",
         "id": 8003197,
         "alias": "UI.Soul.BladeEffect.1.Heroic.5",
-        "text": "Soul is activated when using heavy blade effect Lv.3\\nNo attack"
+        "text": "Blade Effect Massiveness Lv.3\nActivates Soul"
     },
     "8003198": {
         "deprecated": false,
         "Dev_Desc": "영웅 5성/블레이드 효과 철저함Lv.3",
         "id": 8003198,
         "alias": "UI.Soul.BladeEffect.3.Heroic.5",
-        "text": "Soul is activated when using Blade Effect Thorough Lv.3\\nNo Attack"
+        "text": "Blade Effect Rigor Lv.3\nActivates Soul"
     },
     "8003199": {
         "deprecated": false,
         "Dev_Desc": "영웅 5성/블레이드 효과 추격자Lv.3",
         "id": 8003199,
         "alias": "UI.Soul.BladeEffect.4.Heroic.5",
-        "text": "Activate Soul when using Blade Effect Chaser Lv.3\\nNo Gong"
+        "text": "Blade Effect Pursuer Lv.3\nActivates Soul"
     },
     "8003200": {
         "deprecated": false,
         "Dev_Desc": "영웅 5성/블레이드 효과 끈적끈적Lv.3",
         "id": 8003200,
         "alias": "UI.Soul.BladeEffect.5.Heroic.5",
-        "text": "Soul is activated when using Blade Effect Sticky Lv.3\\nNo Attack"
+        "text": "Blade Effect Stickiness Lv.3\nActivates Soul"
     },
     "8003201": {
         "deprecated": false,
         "Dev_Desc": "영웅 5성/블레이드 효과 질척질척Lv.3",
         "id": 8003201,
         "alias": "UI.Soul.BladeEffect.6.Heroic.5",
-        "text": "Soul is activated when using Blade Effect Soak Lv.3\\nNo-Gong"
+        "text": "Blade Effect Squishiness Lv.3\nActivates Soul"
     },
     "8003202": {
         "deprecated": false,
         "Dev_Desc": "영웅 5성/블레이드 효과 꿀렁꿀렁Lv.3",
         "id": 8003202,
         "alias": "UI.Soul.BladeEffect.7.Heroic.5",
-        "text": "Soul activates when using Blade Effect Gulleongkulong Lv.3\\nNo-Gong"
+        "text": "Blade Effect Slushiness Lv.3\nActivates Soul"
     },
     "8003203": {
         "deprecated": false,
         "Dev_Desc": "영웅 5성/블레이드 효과 필중거력Lv.3",
         "id": 8003203,
         "alias": "UI.Soul.BladeEffect.8.Heroic.5",
-        "text": "Soul is activated when using Blade Effect, Heavy Strength Lv.3\\nNo Attack"
+        "text": "Blade Effect Certain Power Lv.3\nActivates Soul"
     },
     "8003204": {
         "deprecated": false,
         "Dev_Desc": "영웅 5성/블레이드 효과 필중사격Lv.3",
         "id": 8003204,
         "alias": "UI.Soul.BladeEffect.9.Heroic.5",
-        "text": "Soul activates when using Blade Effect Heavy Fire Lv.3\\nNo Attack"
+        "text": "Blade Effect Certain Shot Lv.3\nActivates Soul"
     },
     "8003205": {
         "deprecated": false,
         "Dev_Desc": "영웅 5성/블레이드 효과 필중공력Lv.3",
         "id": 8003205,
         "alias": "UI.Soul.BladeEffect.10.Heroic.5",
-        "text": "Soul is activated when using Blade Effect, Penal Air Lv.3\\nNon-Gong"
+        "text": "Blade Effect Certain Force Lv.3\nActivates Soul"
     },
     "8003206": {
         "deprecated": false,
         "Dev_Desc": "영웅 5성/블레이드 효과 강력함Lv.3",
         "id": 8003206,
         "alias": "UI.Soul.BladeEffect.11.Heroic.5",
-        "text": "Strong Blade Effect Lv.3\\nActivate Soul when using No Attack"
+        "text": "Blade Effect Powerfulness Lv.3\nActivates Soul"
     },
     "8003207": {
         "deprecated": false,
         "Dev_Desc": "영웅 5성/블레이드 효과 예리함Lv.3",
         "id": 8003207,
         "alias": "UI.Soul.BladeEffect.12.Heroic.5",
-        "text": "When using Blade Effect Sharpness Lv.3\\nNo Attack, Soul Activates"
+        "text": "Blade Effect Acuteness Lv.3\nActivates Soul"
     },
     "8003208": {
         "deprecated": false,
         "Dev_Desc": "영웅 5성/블레이드 효과 치밀함Lv.3",
         "id": 8003208,
         "alias": "UI.Soul.BladeEffect.13.Heroic.5",
-        "text": "Soul is activated when using Blade Effect Precision Lv.3\\nNo Attack"
+        "text": "Blade Effect Precision Lv.3\nActivates Soul"
     },
     "8003209": {
         "deprecated": false,
         "Dev_Desc": "영웅 5성/블레이드 효과 긴장 해제Lv.3",
         "id": 8003209,
         "alias": "UI.Soul.BladeEffect.14.Heroic.5",
-        "text": "Soul activates when using Blade Effect Tension Relief Lv.3\\nNo Gong"
+        "text": "Blade Effect Defused Tension Lv.3\nActivates Soul"
     },
     "8003210": {
         "deprecated": false,
         "Dev_Desc": "영웅 5성/블레이드 효과 경계 태만Lv.3",
         "id": 8003210,
         "alias": "UI.Soul.BladeEffect.15.Heroic.5",
-        "text": "Soul activates when using Blade Effect Alertness Negligence Lv.3\\nNo-Gong"
+        "text": "Blade Effect Negligence Lv.3\nActivates Soul"
     },
     "8003211": {
         "deprecated": false,
         "Dev_Desc": "영웅 5성/블레이드 효과 방심 강제Lv.3",
         "id": 8003211,
         "alias": "UI.Soul.BladeEffect.16.Heroic.5",
-        "text": "Soul is activated when using Blade Effect, Forced Negligence Lv.3\\nNo Attack"
+        "text": "Blade Effect Inattention Lv.3\nActivates Soul"
     },
     "8003212": {
         "deprecated": false,
         "Dev_Desc": "영웅 5성/블레이드 효과 힘의 길Lv.3",
         "id": 8003212,
         "alias": "UI.Soul.BladeEffect.17.Heroic.5",
-        "text": "Soul is activated when using Blade Effect Power Path Lv.3\\nNo Gong"
+        "text": "Blade Effect The Path to Strength Lv.3\nActivates Soul"
     },
     "8003213": {
         "deprecated": false,
         "Dev_Desc": "영웅 5성/블레이드 효과 솜씨의 길Lv.3",
         "id": 8003213,
         "alias": "UI.Soul.BladeEffect.19.Heroic.5",
-        "text": "Soul is activated when using Blade Effect Skill Path Lv.3\\nNo Gong"
+        "text": "Blade Effect The Path to Dexterity Lv.3\nActivates Soul"
     },
     "8003214": {
         "deprecated": false,
         "Dev_Desc": "영웅 5성/블레이드 효과 지능의 길Lv.3",
         "id": 8003214,
         "alias": "UI.Soul.BladeEffect.21.Heroic.5",
-        "text": "Blade Effect Path of Intelligence Lv.3\\nActivates Soul when using No Gong"
+        "text": "Blade Effect The Path to Intelligence Lv.3\nActivates Soul"
     },
     "8003215": {
         "deprecated": false,
         "Dev_Desc": "영웅 5성/블레이드 효과 끈기왕Lv.3",
         "id": 8003215,
         "alias": "UI.Soul.BladeEffect.23.Heroic.5",
-        "text": "Soul is activated when using Blade Effect Tenacity King Lv.3\\n No-Gong"
+        "text": "Blade Effect Persistence Lv.3\nActivates Soul"
     },
     "8003216": {
         "deprecated": false,
         "Dev_Desc": "영웅 5성/블레이드 효과 항마의 길Lv.3",
         "id": 8003216,
         "alias": "UI.Soul.BladeEffect.24.Heroic.5",
-        "text": "Soul is activated when using Blade Effect Anti-Magic Path Lv.3\\nNo-Gong"
+        "text": "Blade Effect The Path to an Antidevil Lv.3\nActivates Soul"
     },
     "8003217": {
         "deprecated": false,
         "Dev_Desc": "영웅 5성/블레이드 효과 구명지은Lv.3",
         "id": 8003217,
         "alias": "UI.Soul.BladeEffect.26.Heroic.5",
-        "text": "Soul is activated when using Blade Effect Lifesaving Lv."
+        "text": "Blade Effect Savior Lv.3\nActivates Soul"
     },
     "8003218": {
         "deprecated": false,
         "Dev_Desc": "영웅 5성/블레이드 효과 대마불사Lv.3",
         "id": 8003218,
         "alias": "UI.Soul.BladeEffect.28.Heroic.5",
-        "text": "Soul activates when using Blade Effect Great Effect Lv.3\\nNo-Gong"
+        "text": "Blade Effect Too Big To Fail Lv.3\nActivates Soul"
     },
     "8003219": {
         "deprecated": false,
         "Dev_Desc": "영웅 5성/블레이드 효과 이대도강Lv.3",
         "id": 8003219,
         "alias": "UI.Soul.BladeEffect.30.Heroic.5",
-        "text": "Soul is activated when using Blade Effect Lee Dae Dogang Lv.3\\nNo Gong"
+        "text": "Blade Effect Sacrifice for Another Lv.3\nActivates Soul"
     },
     "8003220": {
         "deprecated": false,
         "Dev_Desc": "영웅 5성/블레이드 효과 통제불능Lv.3",
         "id": 8003220,
         "alias": "UI.Soul.BladeEffect.32.Heroic.5",
-        "text": "Soul is activated when using Blade Effect Uncontrollable Lv.3\\n No-Gong"
+        "text": "Blade Effect Out of Control Lv.3\nActivates Soul"
     },
     "8003221": {
         "deprecated": false,
         "Dev_Desc": "영웅 5성/블레이드 효과 임전무퇴Lv.3",
         "id": 8003221,
         "alias": "UI.Soul.BladeEffect.34.Heroic.5",
-        "text": "Soul is activated when using Blade Effect Imjeom Lv.3\\n No-Gong"
+        "text": "Blade Effect Know No Retreat Lv.3\nActivates Soul"
     },
     "8003222": {
         "deprecated": false,
         "Dev_Desc": "영웅 5성/블레이드 효과 상처 악화Lv.3",
         "id": 8003222,
         "alias": "UI.Soul.BladeEffect.36.Heroic.5",
-        "text": "Soul is activated when using Blade Effect Wound Worse Lv.3\\n"
+        "text": "Blade Effect Festering Wound Lv.3\nActivates Soul"
     },
     "8003223": {
         "deprecated": false,
         "Dev_Desc": "영웅 5성/블레이드 효과 내력 파괴Lv.3",
         "id": 8003223,
         "alias": "UI.Soul.BladeEffect.38.Heroic.5",
-        "text": "Soul is activated when using Blade Effect Resistance Destruction Lv.3\\nNo Attack"
+        "text": "Blade Effect Destroy Focus Lv.3\nActivates Soul"
     },
     "8003224": {
         "deprecated": false,
         "Dev_Desc": "영웅 5성/블레이드 효과 일방 거래Lv.3",
         "id": 8003224,
         "alias": "UI.Soul.BladeEffect.40.Heroic.5",
-        "text": "Soul is activated when using Blade Effect One-way Transaction Lv.3\\nNo Attack"
+        "text": "Blade Effect One-Way Trade Lv.3\nActivates Soul"
     },
     "8003225": {
         "deprecated": false,
         "Dev_Desc": "영웅 5성/블레이드 효과 항거불능Lv.3",
         "id": 8003225,
         "alias": "UI.Soul.BladeEffect.42.Heroic.5",
-        "text": "When using Blade Effect Impossible Lv.3\\nNo Attack, Soul Activates"
+        "text": "Blade Effect Unable to Resist Lv.3\nActivates Soul"
     },
     "8003226": {
         "deprecated": false,
         "Dev_Desc": "영웅 5성/블레이드 효과 묵화Lv.3",
         "id": 8003226,
         "alias": "UI.Soul.BladeEffect.44.Heroic.5",
-        "text": "Soul activates when using Blade Effect Silence Lv.3\\nNo Gong"
+        "text": "Blade Effect Black Rose Lv.3\nActivates Soul"
     },
     "8003227": {
         "deprecated": false,
         "Dev_Desc": "영웅 5성/블레이드 효과 이중타격Lv.3",
         "id": 8003227,
         "alias": "UI.Soul.BladeEffect.46.Heroic.5",
-        "text": "When using Blade Effect Double Strike Lv.3\\nNo Attack, Soul Activates"
+        "text": "Blade Effect Double Attack Lv.3\nActivates Soul"
     },
     "8003228": {
         "deprecated": false,
         "Dev_Desc": "영웅 5성/블레이드 효과 돌풍Lv.3",
         "id": 8003228,
         "alias": "UI.Soul.BladeEffect.47.Heroic.5",
-        "text": "Soul is activated when using Blade Effect Gust Lv.3\\nNo-Gong"
+        "text": "Blade Effect Gust Lv.3\nActivates Soul"
     },
     "8003229": {
         "deprecated": false,
         "Dev_Desc": "영웅 5성/블레이드 효과 악기 연주Lv.3",
         "id": 8003229,
         "alias": "UI.Soul.BladeEffect.48.Heroic.5",
-        "text": "Activate Soul when using Blade Effect Instrument Play Lv.3\\nGong"
+        "text": "Blade Effect Musical Instrument Lv.3\nActivates Soul"
     },
     "8003230": {
         "deprecated": false,
         "Dev_Desc": "영웅 5성/블레이드 효과 날벼락Lv.3",
         "id": 8003230,
         "alias": "UI.Soul.BladeEffect.49.Heroic.5",
-        "text": "Soul is activated when using Blade Effect Lightning Lv.3\\nNo Attack"
+        "text": "Blade Effect Bolt Out of the Blue Lv.3\nActivates Soul"
     },
     "8003231": {
         "deprecated": false,
         "Dev_Desc": "영웅 5성/블레이드 효과 생명 가호Lv.3",
         "id": 8003231,
         "alias": "UI.Soul.BladeEffect.50.Heroic.5",
-        "text": "Soul is activated when using Blade Effect Life Protection Lv.3\\nNonggong"
+        "text": "Blade Effect Bolt Life Protection Lv.3\nActivates Soul"
     },
     "8003232": {
         "deprecated": false,
         "Dev_Desc": "영웅 5성/블레이드 효과 염화지체Lv.3",
         "id": 8003232,
         "alias": "UI.Soul.BladeEffect.53.Heroic.5",
-        "text": "Soul is activated when using Blade Effect Chloride Retardant Lv.3\\nNon-Gong"
+        "text": "Blade Effect Tracker Lv.3\nActivates Soul"
     },
     "8003233": {
         "deprecated": false,
         "Dev_Desc": "영웅 5성/블레이드 효과 폭설난비Lv.3",
         "id": 8003233,
         "alias": "UI.Soul.BladeEffect.54.Heroic.5",
-        "text": "Soul is activated when using Blade Effect Heavy Snow Ramp Lv.3\\nNonggong"
+        "text": "Blade Effect Blizzard Lv.3\nActivates Soul"
     },
     "8003234": {
         "deprecated": false,
         "Dev_Desc": "영웅 5성/블레이드 효과 심연의 눈Lv.3",
         "id": 8003234,
         "alias": "UI.Soul.BladeEffect.57.Heroic.5",
-        "text": "When using Blade Effect, Eye of the Abyss Lv.3\\nNo Gong, Soul Activation"
+        "text": "Blade Effect The Eyes of the Abyss Lv.3\nActivates Soul"
     },
     "8003235": {
         "deprecated": false,
         "Dev_Desc": "영웅 5성/블레이드 효과 날카로움Lv.3",
         "id": 8003235,
         "alias": "UI.Soul.BladeEffect.2.Heroic.5",
-        "text": "Soul is activated when using Blade Effect Sharpness Lv.3\\nNo Attack"
+        "text": "Blade Effect Sharpness Lv.3\nActivates Soul"
     },
     "8003236": {
         "deprecated": false,
         "Dev_Desc": "전설 3성/블레이드 효과 염화지체Lv.4",
         "id": 8003236,
         "alias": "UI.Soul.BladeEffect.33.Legendary.3",
-        "text": "Soul activates when using Blade Effect Chloride Retardant Lv.4\\nNegligence"
+        "text": "Blade Effect Tracker Lv.4\nActivates Soul"
     },
     "8003237": {
         "deprecated": false,
         "Dev_Desc": "전설 3성/블레이드 효과 폭설난비Lv.4",
         "id": 8003237,
         "alias": "UI.Soul.BladeEffect.34.Legendary.3",
-        "text": "Soul is activated when using Blade Effect Heavy Snow Ramp Lv.4\\nNon-Gong"
+        "text": "Blade Effect Blizzard Lv.4\nActivates Soul"
     },
     "8003238": {
         "deprecated": false,
         "Dev_Desc": "전설 3성/블레이드 효과 심연의 눈Lv.4",
         "id": 8003238,
         "alias": "UI.Soul.BladeEffect.37.Legendary.3",
-        "text": "When using Blade Effect, Eye of the Abyss Lv.4\\nNo Gong, Soul Activation"
+        "text": "Blade Effect The Eyes of the Abyss Lv.4\nActivates Soul"
     },
     "8003239": {
         "deprecated": false,
         "Dev_Desc": "전설 3성/블레이드 효과 생명 가호Lv.4",
         "id": 8003239,
         "alias": "UI.Soul.BladeEffect.30.Legendary.3",
-        "text": "Soul is activated when using Blade Effect Life Protection Lv.4\\nNo Attack"
+        "text": "Blade Effect Life Protection Lv.4\nActivates Soul"
     },
     "8003240": {
         "deprecated": false,
         "Dev_Desc": "전설 3성/블레이드 효과 화신Lv.2",
         "id": 8003240,
         "alias": "UI.Soul.BladeEffect.38.Legendary.3",
-        "text": "Activates soul when using Blade Effect Incarnation Lv.2\\nNo Gong"
+        "text": "Blade Effect Fire Lord Lv.2\nActivates Soul"
     },
     "8003241": {
         "deprecated": false,
         "Dev_Desc": "전설 5성/블레이드 효과 염화지체Lv.5",
         "id": 8003241,
         "alias": "UI.Soul.BladeEffect.33.Legendary.5",
-        "text": "Blade Effect Chloride Retardant Lv.5\\nIncrease attack speed without attack"
+        "text": "Blade Effect Tracker Lv.5\nTechnique Attack Speed ▲"
     },
     "8003242": {
         "deprecated": false,
         "Dev_Desc": "전설 5성/블레이드 효과 폭설난비Lv.5",
         "id": 8003242,
         "alias": "UI.Soul.BladeEffect.34.Legendary.5",
-        "text": "Blade Effect Heavy Snow Ramp Lv.5\\nIncrease Attack Speed"
+        "text": "Blade Effect Blizzard Lv.5\nTechnique Attack Speed ▲"
     },
     "8003243": {
         "deprecated": false,
         "Dev_Desc": "전설 5성/블레이드 효과 심연의 눈Lv.5",
         "id": 8003243,
         "alias": "UI.Soul.BladeEffect.37.Legendary.5",
-        "text": "Blade Effect: Eye of the Abyss Lv.5\\nIncreased Attack Speed"
+        "text": "Blade Effect The Eyes of the Abyss Lv.5\nTechnique Attack Speed ▲"
     },
     "8003244": {
         "deprecated": false,
         "Dev_Desc": "전설 5성/블레이드 효과 생명 가호Lv.5",
         "id": 8003244,
         "alias": "UI.Soul.BladeEffect.30.Legendary.5",
-        "text": "Blade Effect Life Protection Lv.5\\nIncrease Defense Attack Speed"
+        "text": "Blade Effect Life Protection Lv.5\nTechnique Attack Speed ▲"
     },
     "8003245": {
         "deprecated": false,
         "Dev_Desc": "전설 5성/블레이드 효과 화신Lv.3",
         "id": 8003245,
         "alias": "UI.Soul.BladeEffect.38.Legendary.5",
-        "text": "Blade Effect Incarnation Lv.3\\nIncreased Attack Speed"
+        "text": "Blade Effect Fire Lord Lv.3\nTechnique Attack Speed ▲"
     },
     "8003246": {
         "deprecated": false,
         "Dev_Desc": "무공 강화 팝업 내 텍스트",
         "id": 8003246,
         "alias": "UI.SkillEnchant.Popup.Resource",
-        "text": "Please select an enhancement material to register."
+        "text": "Select materials to add."
     },
     "8003247": {
         "deprecated": false,
         "Dev_Desc": "무공 진화 팝업 내 텍스트",
         "id": 8003247,
         "alias": "UI.SkillEvolve.Popup.Resource",
-        "text": "Please select an evolution material to register."
+        "text": "Select materials to add."
     },
     "8003248": {
         "deprecated": false,
         "Dev_Desc": "무공 강화 팝업 등록 불가 시 메시지",
         "id": 8003248,
         "alias": "UI.SkillEnchant.SystemMsg.Popup.Resource",
-        "text": "Please select an elixir ingredient to register."
+        "text": "Select materials to add."
     },
     "8003249": {
         "deprecated": false,
         "Dev_Desc": "무공 진화 팝업 등록 불가 시 메시지",
         "id": 8003249,
         "alias": "UI.SkillEvolve.SystemMsg.Popup.Resource",
-        "text": "Please select a water purification material to register."
+        "text": "Select materials to add."
     },
     "8003250": {
         "deprecated": false,
         "Dev_Desc": "강화 / 새로운 능력치",
         "id": 8003250,
         "alias": "UI.Enchant.Msg.Newstat",
-        "text": "New stats have been added."
+        "text": "A new stat has been added."
     },
     "8003251": {
         "deprecated": false,
         "Dev_Desc": "파티 / 초대 팝업 / 설명",
         "id": 8003251,
         "alias": "UI.Party.InvitePopup.Desc",
-        "text": "Enter the names of the players you want to invite to the party."
+        "text": "Enter the player's name to invite to the party."
     },
     "8003252": {
         "deprecated": false,
         "Dev_Desc": "전투/로비 이동불가",
         "id": 8003252,
         "alias": "UI.Attack.LobbyFail.Message",
-        "text": "You cannot move into the lobby during combat."
+        "text": "Unable to move to the lobby during a battle."
     },
     "8003253": {
         "deprecated": false,
         "Dev_Desc": "영웅 3성/블레이드 효과 힘의 길Lv.2",
         "id": 8003253,
         "alias": "UI.Soul.BladeEffect.17.Heroic.3",
-        "text": "Road of Blade Effect Power Lv.2"
+        "text": "Blade Effect The Path to Strength Lv.2"
     },
     "8003254": {
         "deprecated": false,
         "Dev_Desc": "영웅 3성/블레이드 효과 솜씨의 길Lv.2",
         "id": 8003254,
         "alias": "UI.Soul.BladeEffect.19.Heroic.3",
-        "text": "The Path of Blade Effect Skill Lv.2"
+        "text": "Blade Effect The Path to Dexterity Lv.2"
     },
     "8003255": {
         "deprecated": false,
         "Dev_Desc": "영웅 3성/블레이드 효과 지능의 길Lv.2",
         "id": 8003255,
         "alias": "UI.Soul.BladeEffect.21.Heroic.3",
-        "text": "Blade Effect Intelligence Path Lv.2"
+        "text": "Blade Effect The Path to Intelligence Lv.2"
     },
     "8003256": {
         "deprecated": false,
         "Dev_Desc": "영웅 3성/블레이드 효과 끈기왕Lv.2",
         "id": 8003256,
         "alias": "UI.Soul.BladeEffect.23.Heroic.3",
-        "text": "Blade Effect Tenacity King Lv.2"
+        "text": "Blade Effects Persistence Lv.2"
     },
     "8003257": {
         "deprecated": false,
         "Dev_Desc": "영웅 3성/블레이드 효과 항마의 길Lv.2",
         "id": 8003257,
         "alias": "UI.Soul.BladeEffect.24.Heroic.3",
-        "text": "Blade Effect Anti-Magic Path Lv.2"
+        "text": "Blade Effect The Path to an Antidevil Lv.2"
     },
     "8003258": {
         "deprecated": false,
         "Dev_Desc": "영웅 3성/블레이드 효과 구명지은Lv.2",
         "id": 8003258,
         "alias": "UI.Soul.BladeEffect.26.Heroic.3",
-        "text": "Lv.2 with the blade effect saved"
+        "text": "Blade Effects Savior Lv.2"
     },
     "8003259": {
         "deprecated": false,
         "Dev_Desc": "영웅 3성/블레이드 효과 대마불사Lv.2",
         "id": 8003259,
         "alias": "UI.Soul.BladeEffect.28.Heroic.3",
-        "text": "Blade Effect Great Immortality Lv.2"
+        "text": "Blade Effects Too Big To Fail Lv.2"
     },
     "8003260": {
         "deprecated": false,
         "Dev_Desc": "영웅 3성/블레이드 효과 이대도강Lv.2",
         "id": 8003260,
         "alias": "UI.Soul.BladeEffect.30.Heroic.3",
-        "text": "Blade Effect Lee Daedogang Lv.2"
+        "text": "Blade Effects Sacrifice for Another Lv.2"
     },
     "8003261": {
         "deprecated": false,
         "Dev_Desc": "영웅 3성/블레이드 효과 통제불능Lv.2",
         "id": 8003261,
         "alias": "UI.Soul.BladeEffect.32.Heroic.3",
-        "text": "Blade effect out of control Lv.2"
+        "text": "Blade Effects Out of Control Lv.2"
     },
     "8003262": {
         "deprecated": false,
         "Dev_Desc": "영웅 3성/블레이드 효과 임전무퇴Lv.2",
         "id": 8003262,
         "alias": "UI.Soul.BladeEffect.34.Heroic.3",
-        "text": "Blade Effect Unarmed Lv.2"
+        "text": "Blade Effects Know No Retreat Lv.2"
     },
     "8003263": {
         "deprecated": false,
         "Dev_Desc": "영웅 3성/블레이드 효과 상처 악화Lv.2",
         "id": 8003263,
         "alias": "UI.Soul.BladeEffect.36.Heroic.3",
-        "text": "Blade Effect Wound Worse Lv.2"
+        "text": "Blade Effect Festering Wound Lv.2"
     },
     "8003264": {
         "deprecated": false,
         "Dev_Desc": "영웅 3성/블레이드 효과 내력 파괴Lv.2",
         "id": 8003264,
         "alias": "UI.Soul.BladeEffect.38.Heroic.3",
-        "text": "Blade effect strength destruction Lv.2"
+        "text": "Blade Effect Destroy Focus Lv.2"
     },
     "8003265": {
         "deprecated": false,
         "Dev_Desc": "영웅 3성/블레이드 효과 일방 거래Lv.2",
         "id": 8003265,
         "alias": "UI.Soul.BladeEffect.40.Heroic.3",
-        "text": "Blade Effect One-Way Transaction Lv.2"
+        "text": "Blade Effect One-Way Trade Lv.2"
     },
     "8003266": {
         "deprecated": false,
         "Dev_Desc": "영웅 3성/블레이드 효과 항거불능Lv3",
         "id": 8003266,
         "alias": "UI.Soul.BladeEffect.42.Heroic.3",
-        "text": "Blade effect irresistible Lv.2"
+        "text": "Blade Effects Unable to Resist Lv.2"
     },
     "8003267": {
         "deprecated": false,
         "Dev_Desc": "영웅 3성/블레이드 효과 묵화Lv.2",
         "id": 8003267,
         "alias": "UI.Soul.BladeEffect.44.Heroic.3",
-        "text": "Blade effect ink painting Lv.2"
+        "text": "Blade Effects Black Rose Lv.2"
     },
     "8003268": {
         "deprecated": false,
         "Dev_Desc": "영웅 3성/블레이드 효과 이중타격Lv.2",
         "id": 8003268,
         "alias": "UI.Soul.BladeEffect.46.Heroic.3",
-        "text": "Blade Effect Double Strike Lv.2"
+        "text": "Blade Effect Double Attack Lv.2"
     },
     "8003269": {
         "deprecated": false,
         "Dev_Desc": "영웅 3성/블레이드 효과 돌풍Lv.2",
         "id": 8003269,
         "alias": "UI.Soul.BladeEffect.47.Heroic.3",
-        "text": "Blade Effect Gust Lv.2"
+        "text": "Blade Effects Gust Lv.2"
     },
     "8003270": {
         "deprecated": false,
         "Dev_Desc": "영웅 3성/블레이드 효과 악기 연주Lv.2",
         "id": 8003270,
         "alias": "UI.Soul.BladeEffect.48.Heroic.3",
-        "text": "Playing Blade Effect Instruments Lv.2"
+        "text": "Blade Effect Musical Instrument Lv.2"
     },
     "8003271": {
         "deprecated": false,
         "Dev_Desc": "영웅 3성/블레이드 효과 날벼락Lv.2",
         "id": 8003271,
         "alias": "UI.Soul.BladeEffect.49.Heroic.3",
-        "text": "Blade Effect Lightning Lv.2"
+        "text": "Blade Effects Bolt Out of the Blue Lv.2"
     },
     "8003272": {
         "deprecated": false,
@@ -22347,21 +22347,21 @@
         "Dev_Desc": "영웅 3성/블레이드 효과 염화지체Lv.2",
         "id": 8003273,
         "alias": "UI.Soul.BladeEffect.53.Heroic.3",
-        "text": "Blade Effect Chlorinated Retardant Lv.2"
+        "text": "Blade Effects Tracker Lv.2"
     },
     "8003274": {
         "deprecated": false,
         "Dev_Desc": "영웅 3성/블레이드 효과 폭설난비Lv.2",
         "id": 8003274,
         "alias": "UI.Soul.BladeEffect.54.Heroic.3",
-        "text": "Blade Effect Heavy Snowfall Lv.2"
+        "text": "Blade Effects Blizzard Lv.2"
     },
     "8003275": {
         "deprecated": false,
         "Dev_Desc": "영웅 3성/블레이드 효과 심연의 눈Lv.2",
         "id": 8003275,
         "alias": "UI.Soul.BladeEffect.57.Heroic.3",
-        "text": "Blade Effect Abyss Eye Lv.2"
+        "text": "Blade Effect The Eyes of the Abyss Lv.2"
     },
     "8003276": {
         "deprecated": false,
@@ -22375,7 +22375,7 @@
         "Dev_Desc": "NPC 상점 타이틀 / 눈아웅",
         "id": 8003277,
         "alias": "UI.Shop.Tittle.Name.2",
-        "text": "Eye"
+        "text": "Ahwoong"
     },
     "8003278": {
         "deprecated": false,
@@ -22396,391 +22396,391 @@
         "Dev_Desc": "NPC 상점 타이틀 / 비사전 교환상",
         "id": 8003280,
         "alias": "UI.Shop.Tittle.Name.5",
-        "text": "Non-Advanced Exchange Award"
+        "text": "Enigma Council Coin Exchanger"
     },
     "8003281": {
         "deprecated": false,
         "Dev_Desc": "NPC 상점 타이틀 / 도화전 교환상",
         "id": 8003281,
         "alias": "UI.Shop.Tittle.Name.6",
-        "text": "Dohwajeon Exchange Award"
+        "text": "Coin Exchanger"
     },
     "8003282": {
         "deprecated": false,
         "Dev_Desc": "NPC 상점 타이틀 / 증표 교환상",
         "id": 8003282,
         "alias": "UI.Shop.Tittle.Name.7",
-        "text": "Token Exchange Award"
+        "text": "Token Exchanger"
     },
     "8003283": {
         "deprecated": false,
         "Dev_Desc": "NPC 상점 타이틀 / 무공서 상인",
         "id": 8003283,
         "alias": "UI.Shop.Tittle.Name.8",
-        "text": "Unofficial Merchant"
+        "text": "Technique Tome Merchant"
     },
     "8003284": {
         "deprecated": false,
         "Dev_Desc": "NPC 상점 타이틀 / 잡화 상인",
         "id": 8003284,
         "alias": "UI.Shop.Tittle.Name.9",
-        "text": "Miscellaneous goods merchant"
+        "text": "General Merchant"
     },
     "8003285": {
         "deprecated": false,
         "Dev_Desc": "NPC 상점 타이틀 / 의상 상인",
         "id": 8003285,
         "alias": "UI.Shop.Tittle.Name.10",
-        "text": "Costume Merchant"
+        "text": "Outfit Merchant"
     },
     "8003286": {
         "deprecated": false,
         "Dev_Desc": "NPC 상점 타이틀 / 매입 상인",
         "id": 8003286,
         "alias": "UI.Shop.Tittle.Name.11",
-        "text": "Buying Merchant"
+        "text": "Purchaser"
     },
     "8003287": {
         "deprecated": false,
         "Dev_Desc": "NPC 상점 타이틀 / 은거 기인",
         "id": 8003287,
         "alias": "UI.Shop.Tittle.Name.12",
-        "text": "Hidden Gin"
+        "text": "Hermit Merchant"
     },
     "8003288": {
         "deprecated": false,
         "Dev_Desc": "타이틀 / 공용 에러 / 타이틀",
         "id": 8003288,
         "alias": "UI.Login.Fail.Common.Title",
-        "text": "error"
+        "text": "Error"
     },
     "8003289": {
         "deprecated": false,
         "Dev_Desc": "타이틀 / 공용 에러 / 설명",
         "id": 8003289,
         "alias": "UI.Login.Fail.Common.Desc",
-        "text": "A transient error occurred.\\n(<arg p=[1:string]/> : <arg p=[2:integer]/>)"
+        "text": "A temporary error has occurred.\n(<arg p=[1:string]/> : <arg p=[2:integer]/>)"
     },
     "8003290": {
         "deprecated": false,
         "Dev_Desc": "소울 패스 / 교환 영역 / 설명",
         "id": 8003290,
         "alias": "UI.SoulPass.ChangeReward.Desc",
-        "text": "The mission cannot be completed at the end of the season, rewards can be exchanged for 7 days"
+        "text": "Unable to complete the mission when the season ends. Rewards will be available for 7 days afterwards."
     },
     "8003291": {
         "deprecated": false,
         "Dev_Desc": "설정 / 계정/ 탈출실패 (쿨타임)",
         "id": 8003291,
         "alias": "UI.Option.Acount.Escape.Fail.ByCoolDown",
-        "text": "Available again in <arg p=[1:integer]/> minutes."
+        "text": "Available after <arg p=[1:integer]/> min."
     },
     "8003292": {
         "deprecated": false,
         "Dev_Desc": "설정 / 계정/ 탈출실패 (전투중)",
         "id": 8003292,
         "alias": "UI.Option.Acount.Escape.Fail.ByCombat",
-        "text": "Cannot be used during combat."
+        "text": "Unable to use during battle."
     },
     "8003293": {
         "deprecated": false,
         "Dev_Desc": "설정 / 계정/ 탈출실패 (시작존)",
         "id": 8003293,
         "alias": "UI.Option.Acount.Escape.Fail.ByLocation",
-        "text": "This area is not available."
+        "text": "Unavailable in this area."
     },
     "8003294": {
         "deprecated": false,
         "Dev_Desc": "사전 생성 커마 시 뒤로가기 안내",
         "id": 8003294,
         "alias": "UI.Lobby.PreCreate.Error.Title",
-        "text": "Are you sure you want to quit pre-created character customization?"
+        "text": "Exit the character customization for your pre-registered character?"
     },
     "8003295": {
         "deprecated": false,
         "Dev_Desc": "사전 생성 커마 시 뒤로가기 안내",
         "id": 8003295,
         "alias": "UI.Lobby.PreCreate.Error.Desc",
-        "text": "Once customizing is finished, it is no longer possible to change the appearance."
+        "text": "You can't return to the customization screen once you exit."
     },
     "8003296": {
         "deprecated": false,
         "Dev_Desc": "캐릭터 삭제 안내 메시지",
         "id": 8003296,
         "alias": "UI.Lobby.CharacterSelect.DeleteCountDown.3",
-        "text": "<textColor=[255:255:255:204]>Until character deletion</>\\n<textColor=[209:72:59:255]> <arg p=[1:string]/></>< textColor=[255:255:255:204]> Remaining</>"
+        "text": "<textColor=[255:255:255:204]>Character will be deleted in</>\n<textColor=[209:72:59:255]><arg p=[1:string]/></><textColor=[255:255:255:204]></>."
     },
     "8003297": {
         "deprecated": false,
         "Dev_Desc": "게임Flow / 저장 공간 부족 사전 안내 팝업 / 타이틀",
         "id": 8003297,
         "alias": "UI.Login.LackSpaceErrorPre.Title",
-        "text": "Not enough storage space"
+        "text": "Insufficient Storage Space"
     },
     "8003298": {
         "deprecated": false,
         "Dev_Desc": "게임Flow / 저장 공간 부족 사전 안내 팝업 / 설명",
         "id": 8003298,
         "alias": "UI.Login.LackSpaceErrorPre.Desc",
-        "text": "Insufficient storage space. Please check that you have enough storage space and try again."
+        "text": "You need more disk space.\nPlease check your disk space and try again."
     },
     "8003299": {
         "deprecated": false,
         "Dev_Desc": "캐시상점 / 퍼플 On 스트리밍 중 구매 불가 표시",
         "id": 8003299,
         "alias": "UI.CashShop.UnablePurchase",
-        "text": "Cannot Buy"
+        "text": "Unable to purchase."
     },
     "8003300": {
         "deprecated": false,
         "Dev_Desc": "지도 / 모험가 등급 / 달성효과 / 초보자",
         "id": 8003300,
         "alias": "UI.Map.Adventure.NoEffect",
-        "text": "no effect"
+        "text": "No Effect"
     },
     "8003301": {
         "deprecated": false,
         "Dev_Desc": "캐시상점 / 소환 상품 / 판매 기간",
         "id": 8003301,
         "alias": "UI.CashShop.Goods.Summon.UntilEndSale",
-        "text": "Until end of sale <arg p=[1:string]/>"
+        "text": "Sale ends in <arg p=[1:string]/>"
     },
     "8003302": {
         "deprecated": false,
         "Dev_Desc": "HUD / PK 모드 버튼 / PK ON",
         "id": 8003302,
         "alias": "UI.HUD.ButtonName.PKon",
-        "text": "PK\nOn"
+        "text": "PK\nON"
     },
     "8003303": {
         "deprecated": false,
         "Dev_Desc": "HUD / PK 모드 버튼 / PK Off",
         "id": 8003303,
         "alias": "UI.HUD.ButtonName.PKoff",
-        "text": "PK\noff"
+        "text": "PK\nOFF"
     },
     "8003304": {
         "deprecated": false,
         "Dev_Desc": "야화 / 상위야화 수집 완료 메시지",
         "id": 8003304,
         "alias": "UI.Yahwa.ToastMessage.StoryComplete",
-        "text": "<arg p=[1:string]/> Completed the Night Story topic."
+        "text": "Fable: <arg p=[1:string]/> has been completed."
     },
     "8003305": {
         "deprecated": false,
         "Dev_Desc": "로비 / 팝업 / 서버 점검 메시지",
         "id": 8003305,
         "alias": "UI.Network.PopUp.SeverInspection",
-        "text": "Server is under maintenance."
+        "text": "The server is under maintenance."
     },
     "8003306": {
         "deprecated": false,
         "Dev_Desc": "로비 / 팝업 / 접속 종료 타이틀",
         "id": 8003306,
         "alias": "UI.Disconnect.Title",
-        "text": "Connection Closed"
+        "text": "Connection has ended."
     },
     "8003307": {
         "deprecated": false,
         "Dev_Desc": "소울 / 소울 교체 확률 설명",
         "id": 8003307,
         "alias": "UI.Soul.RediceDesc",
-        "text": "Acquires a new soul depending on the probability.\\nSouls before replacement are excluded from replacement."
+        "text": "Has a chance to acquire a new Soul.\nThe new Soul won't overlap with the current Soul."
     },
     "8003308": {
         "deprecated": false,
         "Dev_Desc": "수호령 / 수호령 교체 확률 설명",
         "id": 8003308,
         "alias": "UI.Pets.RediceDesc",
-        "text": "According to a probability, you will acquire a new guardian spirit.\\nThe guardian spirit before replacement is excluded from replacement."
+        "text": "Has a chance to acquire a new Patron.\nThe new Patron won't overlap with the current Patron."
     },
     "8003309": {
         "deprecated": false,
         "Dev_Desc": "빛나는 정수 [검]",
         "id": 8003309,
         "alias": "UI.Craft.LeftSubTabName.Event.EssencePieces_01",
-        "text": "Shining Essence [Sword]"
+        "text": "Brilliant Essence [Sword]"
     },
     "8003310": {
         "deprecated": false,
         "Dev_Desc": "빛나는 정수 [권갑]",
         "id": 8003310,
         "alias": "UI.Craft.LeftSubTabName.Event.EssencePieces_02",
-        "text": "Shining Essence [Gauntlet]"
+        "text": "Brilliant Essence [Gauntlets]"
     },
     "8003311": {
         "deprecated": false,
         "Dev_Desc": "빛나는 정수 [도끼]",
         "id": 8003311,
         "alias": "UI.Craft.LeftSubTabName.Event.EssencePieces_03",
-        "text": "Shining Essence [Axe]"
+        "text": "Brilliant Essence [Axe]"
     },
     "8003312": {
         "deprecated": false,
         "Dev_Desc": "빛나는 정수 [기공패]",
         "id": 8003312,
         "alias": "UI.Craft.LeftSubTabName.Event.EssencePieces_04",
-        "text": "Shining Essence [Qigong Plaque]"
+        "text": "Brilliant Essence [Bangle]"
     },
     "8003313": {
         "deprecated": false,
         "Dev_Desc": "빛나는 정수 [활]",
         "id": 8003313,
         "alias": "UI.Craft.LeftSubTabName.Event.EssencePieces_05",
-        "text": "Shining Essence [Bow]"
+        "text": "Brilliant Essence [Bow]"
     },
     "8003314": {
         "deprecated": false,
         "Dev_Desc": "빛나는 정수 [법종]",
         "id": 8003314,
         "alias": "UI.Craft.LeftSubTabName.Event.EssencePieces_06",
-        "text": "Shining Essence [Beef Bell]"
+        "text": "Brilliant Essence [Trilbu]"
     },
     "8003315": {
         "deprecated": false,
         "Dev_Desc": "증폭의 정수 상자",
         "id": 8003315,
         "alias": "UI.Craft.LeftSubTabName.Event.EssencePieces_07",
-        "text": "Essence Fragment Box"
+        "text": "Essence Fragment Chest"
     },
     "8003316": {
         "deprecated": false,
         "Dev_Desc": "한가위 이벤트 / 비사문 송편 상인",
         "id": 8003316,
         "alias": "UI.Shop.Tittle.Name.10021",
-        "text": "Secret Merchant"
+        "text": "Mystery Merchant"
     },
     "8003317": {
         "deprecated": false,
         "Dev_Desc": "캐시상점 / 서브 탭 / 금화 탭 / 소울 파편",
         "id": 8003317,
         "alias": "UI.CashShop.TapName.Sub.Grocery3",
-        "text": "Soul Fragments"
+        "text": "Soul Shard"
     },
     "8003318": {
         "deprecated": false,
         "Dev_Desc": "이벤트 제작 레시피 탭 / 오너라 풍년아",
         "id": 8003318,
         "alias": "UI.Craft.LeftSubTabName.Event.FullMoon_01",
-        "text": "Hangawi Songpyeon Exchange"
+        "text": "Chuseok Half-Moon Cake Exchange"
     },
     "8003319": {
         "deprecated": false,
         "Dev_Desc": "환경설정 / 계정 / 게스트",
         "id": 8003319,
         "alias": "UI.Option.Acount.Guest",
-        "text": "No accounts linked"
+        "text": "No linked account"
     },
     "8003320": {
         "deprecated": false,
         "Dev_Desc": "야화 / 상위야화 완료",
         "id": 8003320,
         "alias": "UI.Yahwa.CompleteYahwa",
-        "text": "Complete the collection of night stories"
+        "text": "Fable Codex Completed"
     },
     "8003321": {
         "deprecated": false,
         "Dev_Desc": "타이틀 / 잠긴 계정 / 설명",
         "id": 8003321,
         "alias": "UI.Login.Fail.LockAccount.Desc",
-        "text": "This account is in a locked state. \\n For details, please check [Mobile Customer Center > 1:1 Inquiry]."
+        "text": "This account has been locked.\nPlease inquire at [Mobile Customer Service > 1:1 Inquiry]."
     },
     "8003322": {
         "deprecated": false,
         "Dev_Desc": "환경설정 / 환경 / 사운드 / 전투보정",
         "id": 8003322,
         "alias": "UI.Option.Environment.Sound.AutoBattleSound",
-        "text": "Combat sound effect relieves fatigue"
+        "text": "Minimize combat sound effect fatigue"
     },
     "8003323": {
         "deprecated": false,
         "Dev_Desc": "환경설정 / 환경 / 사운드 / 전투보정툴팁",
         "id": 8003323,
         "alias": "UI.Option.Environment.Sound.AutoBattleSound.Tooltip",
-        "text": "By reducing the volume of sound effects related to battle."
+        "text": "Combat SFX fatigue relief will reduce the volume of combat-related sound effects."
     },
     "8003324": {
         "deprecated": false,
         "id": 8003324,
         "alias": "UI.Shop.Tittle.Name.10022",
-        "text": "Unsamon Merchant"
+        "text": "Enigma Council Merchant"
     },
     "8003325": {
         "deprecated": false,
         "Dev_Desc": "묵화 수호령 이벤트 / 묵화 패키지",
         "id": 8003325,
         "alias": "UI.Craft.LeftSubTabName.Event.Mukhwa_01",
-        "text": "Ink Painting Package"
+        "text": "Black Rose Package"
     },
     "8003326": {
         "deprecated": false,
         "Dev_Desc": "무공 / 진화 / 진화 불가 토스트메시지",
         "id": 8003326,
         "alias": "UI.Skill.Evolution.Desc.No",
-        "text": "Cannot evolve because the level of reinforcement is low."
+        "text": "The technique's level is too low to evolve further."
     },
     "8003327": {
         "deprecated": false,
         "Dev_Desc": "무공 / 진화 / 진화 불가 / 상세정보창",
         "id": 8003327,
         "alias": "UI.Skill.Evolution.Desc.No2",
-        "text": "Prerequisites: Level 9 or higher to enhance the defense"
+        "text": "Requirement: Technique Level +9 or higher"
     },
     "8003328": {
         "deprecated": false,
         "Dev_Desc": "무공 / 진화 / 진화 불가 / 상세정보창 / 임시",
         "id": 8003328,
         "alias": "UI.Skill.Evolution.Desc.LoadFail",
-        "text": "Prerequisites: Evolution prerequisites not met."
+        "text": "Requirement: The prerequisite for evolution hasn't been met."
     },
     "8003329": {
         "deprecated": false,
         "Dev_Desc": "소울 / 합성 / 확률정보 / 성공 시 정보",
         "id": 8003329,
         "alias": "UI.Soul.Compose.ProbabilityInfo.SucceedDesc",
-        "text": "Obtain 1 of the following souls when synthesizing is successful"
+        "text": "Acquires 1 of the following Souls if successful"
     },
     "8003330": {
         "deprecated": false,
         "Dev_Desc": "소울 / 합성 / 확률정보 / 실패 시 정보",
         "id": 8003330,
         "alias": "UI.Soul.Compose.ProbabilityInfo.FailureDesc",
-        "text": "Acquire 1 of the following souls when synthesizing fails"
+        "text": "Acquires 1 of the following Souls if fails"
     },
     "8003331": {
         "deprecated": false,
         "Dev_Desc": "소울 / 합성 / 확률정보 / 부분 성공 정보",
         "id": 8003331,
         "alias": "UI.Soul.Compose.ProbabilityInfo.PartialSucceedDesc.1",
-        "text": "When soul synthesis fails, there is a 25% chance to acquire an additional 10 fragments of one of the souls below."
+        "text": "Acquires 10 shards of 1 of the following Souls at 25% chance if fails"
     },
     "8003332": {
         "deprecated": false,
         "Dev_Desc": "소울 / 합성 / 확률정보 / 부분 성공 정보",
         "id": 8003332,
         "alias": "UI.Soul.Compose.ProbabilityInfo.PartialSucceedDesc.2",
-        "text": "When soul synthesis fails, there is a 20% chance to acquire an additional 10 fragments of one of the souls below."
+        "text": "Acquires 10 shards of 1 of the following Souls at 20% chance if fails"
     },
     "8003333": {
         "deprecated": false,
         "Dev_Desc": "소울 / 합성 / 확률정보 / 부분 성공 정보",
         "id": 8003333,
         "alias": "UI.Soul.Compose.ProbabilityInfo.PartialSucceedDesc.3",
-        "text": "When soul synthesis fails, there is a 15% chance to acquire an additional 10 fragments of one of the souls below."
+        "text": "Acquires 10 shards of 1 of the following Souls at 15% chance if fails"
     },
     "8003334": {
         "deprecated": false,
         "Dev_Desc": "소울 / 합성 / 확률정보 / 부분 성공 정보",
         "id": 8003334,
         "alias": "UI.Soul.Compose.ProbabilityInfo.PartialSucceedDesc.4",
-        "text": "When soul synthesis fails, there is a 10% chance to acquire an additional 10 fragments of one of the souls below."
+        "text": "Acquires 10 shards of 1 of the following Souls at 10% chance if fails"
     },
     "8003335": {
         "deprecated": false,
         "Dev_Desc": "수호령 / 합성 / 확률정보",
         "id": 8003335,
         "alias": "UI.Pets.Compose.ProbabilityInfo.Desc",
-        "text": "Acquire 1 of the following guardian spirits when synthesizing"
+        "text": "Acquires 1 of the following Patrons if successful"
     },
     "8003336": {
         "deprecated": false,
@@ -23876,7 +23876,7 @@
         "Dev_Desc": "캐시상점 / 메인 텝",
         "id": 8003492,
         "alias": "UI.CashShop.TapName.Main.NewUser",
-        "text": "new"
+        "text": "New"
     },
     "8003493": {
         "deprecated": false,
@@ -26626,7 +26626,7 @@
         "Dev_Desc": "로그인 플로우 / 서버 팝업 / 서버 타입1",
         "id": 8003886,
         "alias": "UI.Login.ServerPopup.ServerType.1",
-        "text": "new server"
+        "text": "New server"
     },
     "8003887": {
         "deprecated": false,
@@ -27494,14 +27494,14 @@
         "Dev_Desc": "거래소 / 서버 거래소 탭",
         "id": 8004010,
         "alias": "UI.Trade.Server",
-        "text": "server"
+        "text": "Server"
     },
     "8004011": {
         "deprecated": false,
         "Dev_Desc": "거래소 / 월드 거래소 탭",
         "id": 8004011,
         "alias": "UI.Trade.World",
-        "text": "world"
+        "text": "World"
     },
     "8004012": {
         "deprecated": false,
@@ -27522,7 +27522,7 @@
         "Dev_Desc": "메인 탭 / 추천 탭(TX)",
         "id": 8004014,
         "alias": "UI.CashShop.TapName.Main.Home2",
-        "text": "suggestion"
+        "text": "Suggestion"
     },
     "8004015": {
         "deprecated": false,
@@ -27536,7 +27536,7 @@
         "Dev_Desc": "메인 탭 / 패키지 탭(TX)",
         "id": 8004016,
         "alias": "UI.CashShop.TapName.Main.Package2",
-        "text": "package"
+        "text": "Package"
     },
     "8004017": {
         "deprecated": false,
@@ -29372,125 +29372,6 @@
         "alias": "UI.Common.Keyboard.Space",
         "text": "SPACE"
     },
-    "8004279": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 변경선택",
-        "id": 8004279,
-        "alias": "UI.ClassChange.Change.Desc1",
-        "text": "Please select a class to change."
-    },
-    "8004280": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 변경선택",
-        "id": 8004280,
-        "alias": "UI.ClassChange.Change.Desc2",
-        "text": "Please select a class to switch."
-    },
-    "8004281": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 클래스 전환",
-        "id": 8004281,
-        "alias": "UI.ClassChange.Change",
-        "text": "Conversion of class"
-    },
-    "8004282": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 일정",
-        "id": 8004282,
-        "alias": "UI.ClassChange.Change.Date",
-        "text": "2020.12.12 to 2020.12.29 05:00"
-    },
-    "8004283": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 설명1",
-        "id": 8004283,
-        "alias": "UI.ClassChange.Change.Desc3",
-        "text": "After selecting the class to be changed, the purchase will proceed after setting the detailed item."
-    },
-    "8004284": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 기본 비용",
-        "id": 8004284,
-        "alias": "UI.ClassChange.Cost1",
-        "text": "Basic cost"
-    },
-    "8004285": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 무기 전환",
-        "id": 8004285,
-        "alias": "UI.ClassChange.Weapon1",
-        "text": "Weapon"
-    },
-    "8004286": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 무기 선택",
-        "id": 8004286,
-        "alias": "UI.ClassChange.Weapon2",
-        "text": "Weapon selection"
-    },
-    "8004287": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 무공 전이",
-        "id": 8004287,
-        "alias": "UI.ClassChange.Skill1",
-        "text": "Public transition"
-    },
-    "8004288": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 추가 비용",
-        "id": 8004288,
-        "alias": "UI.ClassChange.Cost2",
-        "text": "additional cost"
-    },
-    "8004289": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 보유 무기",
-        "id": 8004289,
-        "alias": "UI.ClassChange.Weapon3",
-        "text": "Holding weapons"
-    },
-    "8004290": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 보유 무공",
-        "id": 8004290,
-        "alias": "UI.ClassChange.Skill2",
-        "text": "Holding"
-    },
-    "8004291": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 전이 결과",
-        "id": 8004291,
-        "alias": "UI.ClassChange.Result",
-        "text": "Transition result"
-    },
-    "8004292": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 전환 무기",
-        "id": 8004292,
-        "alias": "UI.ClassChange.Result.Weapon",
-        "text": "Switching weapon"
-    },
-    "8004293": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 설명2",
-        "id": 8004293,
-        "alias": "UI.ClassChange.Result.Desc1",
-        "text": "Change the current class dedicated weapon to a class-only weapon."
-    },
-    "8004294": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 설명3",
-        "id": 8004294,
-        "alias": "UI.ClassChange.Result.Desc2",
-        "text": "Currently, the hardening of classes, the evolutionary steps to change the class-to-class vehicle."
-    },
-    "8004295": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 재선택",
-        "id": 8004295,
-        "alias": "UI.ClassChange.Reselect",
-        "text": "Reselection"
-    },
     "8004296": {
         "deprecated": false,
         "Dev_Desc": "희생의 무덤 상인",
@@ -30832,13 +30713,6 @@
         "alias": "UI.Item.ItemType.HeroTransfer",
         "text": "Server transfer"
     },
-    "8004497": {
-        "deprecated": false,
-        "Dev_Desc": "메인탭 / 클래스 전환탭",
-        "id": 8004497,
-        "alias": "UI.CashShop.TapName.Main.ClassSwap",
-        "text": "Class change"
-    },
     "8004498": {
         "deprecated": false,
         "Dev_Desc": "아이템 서브 타입",
@@ -30852,20 +30726,6 @@
         "id": 8004499,
         "alias": "UI.Item.ItemType.AutoPets",
         "text": "Summoner"
-    },
-    "8004500": {
-        "deprecated": false,
-        "Dev_Desc": "아이템 서브 타입",
-        "id": 8004500,
-        "alias": "UI.Item.ItemType.ClassSwapCoin",
-        "text": "Class Change Coin"
-    },
-    "8004501": {
-        "deprecated": false,
-        "Dev_Desc": "아이템 서브 타입",
-        "id": 8004501,
-        "alias": "UI.Item.ItemType.ClassSwapTicket",
-        "text": "Class Change Ticket"
     },
     "8004502": {
         "deprecated": false,
@@ -30929,90 +30789,6 @@
         "id": 8004510,
         "alias": "UI.Shop.Tittle.Name.30000",
         "text": "Legendary angler"
-    },
-    "8004511": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 재선택 / 질문",
-        "id": 8004511,
-        "alias": "UI.ClassChange.Change.Question1",
-        "text": "Would you like to re-change the class?"
-    },
-    "8004512": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 재선택 / 질문",
-        "id": 8004512,
-        "alias": "UI.ClassChange.Change.Question2",
-        "text": "Do you want to re-transition?"
-    },
-    "8004513": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 재선택 / 질문",
-        "id": 8004513,
-        "alias": "UI.ClassChange.Change.Question3",
-        "text": "Do you want to re-transmission?"
-    },
-    "8004514": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 초기화 / 안내",
-        "id": 8004514,
-        "alias": "UI.ClassChange.Change.Reset",
-        "text": "Detailed selections are initialized."
-    },
-    "8004515": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 불가 / 안내",
-        "id": 8004515,
-        "alias": "UI.ClassChange.Change.Desc.No1",
-        "text": "<arg p=[1:string]/><ga/> You can not switch the class by lacking."
-    },
-    "8004516": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 세부 항목 / 선택",
-        "id": 8004516,
-        "alias": "UI.ClassChange.Change.choice",
-        "text": "Please select the detail item to switch."
-    },
-    "8004517": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 전이 가능",
-        "id": 8004517,
-        "alias": "UI.ClassChange.Change.Skill.Yes",
-        "text": "Capable"
-    },
-    "8004518": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 불가 / 안내",
-        "id": 8004518,
-        "alias": "UI.ClassChange.Change.Desc.No2",
-        "text": "The same strengthening and evolutionary steps are not possible"
-    },
-    "8004519": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 재화 부족",
-        "id": 8004519,
-        "alias": "UI.ClassChange.Change.NotAvailable",
-        "text": "Lack of goods."
-    },
-    "8004520": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 불가 / 안내",
-        "id": 8004520,
-        "alias": "UI.ClassChange.Change.Desc.No3",
-        "text": "The goods can not be switched."
-    },
-    "8004521": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 재선택 / 질문",
-        "id": 8004521,
-        "alias": "UI.ClassChange.Change.Question4",
-        "text": "Do you want to switch classes?"
-    },
-    "8004522": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 불가 / 안내",
-        "id": 8004522,
-        "alias": "UI.ClassChange.Change.Desc.No4",
-        "text": "Unparalleled"
     },
     "8004523": {
         "deprecated": false,
@@ -31174,5 +30950,89 @@
         "id": 8004545,
         "alias": "UI.CashShop.TX.PlayGradePopUp.Desc",
         "text": "You can obtain play points when purchasing adventures and certain commodities."
+    },
+    "8004546": {
+        "deprecated": false,
+        "Dev_Desc": "협행 / 모든 협행 수락 버튼",
+        "id": 8004546,
+        "alias": "UI.Bulletin.AcceptAllButton",
+        "text": "Accept all cooperation"
+    },
+    "8004547": {
+        "deprecated": false,
+        "Dev_Desc": "협행 / 모든 보상 수령 버튼",
+        "id": 8004547,
+        "alias": "UI.Bulletin.ReceiveAllButton",
+        "text": "Every compensation receipt"
+    },
+    "8004548": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 조작 / 편의 / 협행 완료 시 임무 목록에서 모든 보상 수령",
+        "id": 8004548,
+        "alias": "UI.Option.Control.Convenience.ReceiveBulletinRewardAll",
+        "text": "Call all compensation from the list of missions"
+    },
+    "8004549": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 조작 / 편의 / 협행 완료 시 임무 목록에서 모든 보상 수령 / 설명",
+        "id": 8004549,
+        "alias": "UI.Option.Control.Convenience.ReceiveBulletinRewardAll.Desc",
+        "text": "When you select the completion of the mission list, you will receive the compensation of all the parties that are compensated for compensation."
+    },
+    "8004550": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 조작 / 편의 / 아이템 자동 사용 그룹",
+        "id": 8004550,
+        "alias": "UI.Option.Control.Convenience.AutoUseGroupOption",
+        "text": "Automatically use the same kind of consumables according to priority"
+    },
+    "8004551": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 조작 / 편의 / 아이템 자동 사용 그룹 / 설명",
+        "id": 8004551,
+        "alias": "UI.Option.Control.Convenience.AutoUseGroupOption.Desc",
+        "text": "When using automatic use, use the same kind of consumables according to priority. \\n High grade -> Event -> Engraving -> Non-Non"
+    },
+    "8004552": {
+        "deprecated": false,
+        "Dev_Desc": "신규/복귀 혜택 테스트용 데이터",
+        "id": 8004552,
+        "alias": "UI.CashShop.TapName.Sub.Test1",
+        "text": "New Benefits Test Tab"
+    },
+    "8004553": {
+        "deprecated": false,
+        "Dev_Desc": "신규/복귀 혜택 테스트용 데이터",
+        "id": 8004553,
+        "alias": "UI.CashShop.TapName.Sub.Test2",
+        "text": "Return Benefits Test Tab"
+    },
+    "8004554": {
+        "deprecated": false,
+        "Dev_Desc": "신규/복귀 혜택 테스트용 데이터",
+        "id": 8004554,
+        "alias": "UI.CashShop.TapName.Sub.Test3",
+        "text": "new"
+    },
+    "8004555": {
+        "deprecated": false,
+        "Dev_Desc": "보패 / 보패 장착 / 세트효과팝업 / 없음",
+        "id": 8004555,
+        "alias": "UI.Bopae.Equip.SetEffect.No",
+        "text": "There is no value that has a set effect."
+    },
+    "8004556": {
+        "deprecated": false,
+        "Dev_Desc": "무공 / 특화 무공 / 이름 / 장검",
+        "id": 8004556,
+        "alias": "UI.Skill.SpecialSkill.DualDagger",
+        "text": "Dagger specialization"
+    },
+    "8004561": {
+        "deprecated": false,
+        "Dev_Desc": "캐시상점 / 서브 탭 / 패키지 탭 / 주간월간 상품",
+        "id": 8004561,
+        "alias": "UI.CashShop.TapName.Sub.Package6",
+        "text": "Weekly / Monthly Goods"
     }
 }

@@ -1036,2120 +1036,2118 @@
         "Chinese_Text": "箭雨"
     },
     "60000150": {
-        "Dev_Desc": "관통사격",
-        "Original_Text": "관통사격",
-        "English_Text": "Piercing Shot",
-        "Russian_Text": "",
-        "Chinese_Text": "穿刺射击"
-    },
-    "60000151": {
         "Dev_Desc": "후퇴사격",
         "Original_Text": "후퇴사격",
         "English_Text": "Back Shot",
         "Russian_Text": "",
-        "Chinese_Text": "后退射击"
+        "Chinese_Text": "穿刺射击"
     },
-    "60000152": {
+    "60000151": {
         "Dev_Desc": "우레비",
         "Original_Text": "우레비",
         "English_Text": "Falling Thunder",
         "Russian_Text": "",
-        "Chinese_Text": "雷雨"
+        "Chinese_Text": "后退射击"
     },
-    "60000153": {
+    "60000152": {
         "Dev_Desc": "별무리",
         "Original_Text": "별무리",
         "English_Text": "Falling Stars",
         "Russian_Text": "",
-        "Chinese_Text": "群星"
+        "Chinese_Text": "雷雨"
     },
-    "60000154": {
+    "60000153": {
         "Dev_Desc": "다중사격",
         "Original_Text": "다중사격",
         "English_Text": "Multi Shot",
         "Russian_Text": "",
-        "Chinese_Text": "多重射击"
+        "Chinese_Text": "群星"
     },
-    "60000155": {
+    "60000154": {
         "Dev_Desc": "통격화살",
         "Original_Text": "적에게 강력한 화살을 날려 피해를 입힙니다.\\n사용하는 동안 치명타 확률이 증가하며, 주기적인 피해를 주는 \"출혈\" 효과를 줍니다.",
         "English_Text": "Shoots a powerful arrow at an enemy to deal damage.\nIncreases Critical Chance while active and inflicts Bleed (DoT).",
         "Russian_Text": "",
-        "Chinese_Text": "对敌人射出强力的箭矢造成伤害。\n使用过程中提升暴击率，暴击时施加“出血”效果。"
+        "Chinese_Text": "多重射击"
     },
-    "60000156": {
+    "60000155": {
         "Dev_Desc": "이중사격",
         "Original_Text": "적에게 화살을 빠르게 2발 날려 피해를 입히고 경직시킵니다.\\n이동 사격 후 연계하여 사용할 수 있습니다.",
         "English_Text": "Rapidly shoots 2 arrows to deal damage and petrify an enemy.\nCan be used in combo with Forward Attack.",
         "Russian_Text": "",
+        "Chinese_Text": "对敌人射出强力的箭矢造成伤害。\n使用过程中提升暴击率，暴击时施加“出血”效果。"
+    },
+    "60000156": {
+        "Dev_Desc": "조준사격",
+        "Original_Text": "포착한 적에게 시위를 강하게 당겨 화살을 날립니다.\\n일정 확률로 대상을 <textColor=[248:99:99:255]>기절</>시킵니다.",
+        "English_Text": "Draws the bow to shoot an arrow with power.\nHas a chance to inflict Stun.",
+        "Russian_Text": "",
         "Chinese_Text": "快速向敌人射出2发箭矢，造成伤害并使敌人僵直。\n可在移动射击后连接使用。"
     },
     "60000157": {
-        "Dev_Desc": "조준사격",
-        "Original_Text": "포착한 적에게 시위를 강하게 당겨 화살을 날립니다.\\n일정 확률로 대상을 \"기절\"시킵니다.",
-        "English_Text": "Draws the bow to shoot an arrow with power.\nHas a chance to inflict Stun.",
-        "Russian_Text": "",
-        "Chinese_Text": "狙击一定距离外的敌人，造成大量伤害，可连续使用。\n使用过程中提升暴击率，远距离物理穿刺，施加“出血”效果。"
-    },
-    "60000158": {
         "Dev_Desc": "추적화살",
         "Original_Text": "적을 끝까지 쫓는 화살을 날려 피해를 입힙니다.",
         "English_Text": "Relentlessly tracks the enemy and deals damage.",
         "Russian_Text": "",
-        "Chinese_Text": "发射追踪敌人的箭矢造成伤害。\n可对“出血”状态的目标使用。"
+        "Chinese_Text": "狙击一定距离外的敌人，造成大量伤害，可连续使用。\n使用过程中提升暴击率，远距离物理穿刺，施加“出血”效果。"
     },
-    "60000159": {
+    "60000158": {
         "Dev_Desc": "다발화살  ",
         "Original_Text": "적에게 여러 발의 화살을 날려 피해를 입힙니다.",
         "English_Text": "Shoots a bundle of arrows to deal damage.",
         "Russian_Text": "",
-        "Chinese_Text": "一次射击可发射多个箭矢，暴击时造成出血伤害。\n使用过程中提升暴击率。"
+        "Chinese_Text": "发射追踪敌人的箭矢造成伤害。\n可对“出血”状态的目标使用。"
     },
-    "60000160": {
+    "60000159": {
         "Dev_Desc": "화살비_증폭",
         "Original_Text": "공중에서 화살비가 떨어지며 더 적은 기력으로 사용이 가능합니다.",
         "English_Text": "Rains down a shower of arrows and costs less Vitality.",
         "Russian_Text": "",
-        "Chinese_Text": "空中落下箭雨，造成范围伤害。\n对范围内的敌人施加“出血”效果。"
+        "Chinese_Text": "一次射击可发射多个箭矢，暴击时造成出血伤害。\n使用过程中提升暴击率。"
     },
-    "60000161": {
-        "Dev_Desc": "관통사격",
-        "Original_Text": "적을 관통하는 화살을 날려 피해를 주고 경직시킵니다.\\n사용하는 동안 원거리 물리 관통이 증가합니다.",
-        "English_Text": "Shoots an arrow that pierces through an enemy to deal damage and inflict Petrify.\nIncreases Ranged Physical Piercing while active.",
-        "Russian_Text": "",
-        "Chinese_Text": "发射穿透敌人的箭矢，造成伤害并使敌人僵直。\n使用过程中提升远距离物理穿刺。"
-    },
-    "60000162": {
+    "60000160": {
         "Dev_Desc": "후퇴사격",
         "Original_Text": "뒤로 빠르게 이동하며 적에게 화살을 날립니다.",
         "English_Text": "Quickly darts back and shoots an arrow at the enemy.",
         "Russian_Text": "",
-        "Chinese_Text": "退至后方并发射箭矢，使敌人眩晕。\n只能对近处的目标使用。"
+        "Chinese_Text": "空中落下箭雨，造成范围伤害。\n对范围内的敌人施加“出血”效果。"
     },
-    "60000163": {
+    "60000161": {
         "Dev_Desc": "우레비",
         "Original_Text": "공중에 뛰어올라, 범위 내 적에게 강력한 피해를 입히고 경직 시킵니다. 마지막 공격은 기절을 주며, 사용하는 동안 치명타 확률이 증가합니다.",
         "English_Text": "Leaps into the air to deal powerful damage to enemies within range and inflict Petrify. Increases Critical Chance while active and inflicts Bleed on a Critical Hit.",
         "Russian_Text": "",
-        "Chinese_Text": "跳到空中对范围内敌人造成大量伤害并使敌人僵直。最后一击眩晕敌人，使用过程中提升暴击率。"
+        "Chinese_Text": "发射穿透敌人的箭矢，造成伤害并使敌人僵直。\n使用过程中提升远距离物理穿刺。"
     },
-    "60000164": {
+    "60000162": {
         "Dev_Desc": "별무리",
         "Original_Text": "별무리가 쏟아지는 차원문을 열어 범위 내 적을 섬멸합니다.\\n사용하는 동안 치명타 확률이 증가하며, 무적 상태가 됩니다.\\n범위 내 적에게 경직, 출혈 효과를 주며 마지막 공격은 기절을 줍니다.",
         "English_Text": "Opens a portal to summon falling stars that eliminate enemies within range.\nWhile active, caster's Critical Chance increases and caster becomes immune to damage.\nInflicts Petrify and Bleed on enemies within range. The last attack inflicts Stun.",
         "Russian_Text": "",
-        "Chinese_Text": "打开次元门落下群星，歼灭范围内敌人。\n使用过程中提升暴击率，且会进入无敌状态。\n对范围内敌人施加僵直，出血效果，最后一击眩晕敌人。"
+        "Chinese_Text": "退至后方并发射箭矢，使敌人眩晕。\n只能对近处的目标使用。"
     },
-    "60000165": {
+    "60000163": {
         "Dev_Desc": "다중사격",
         "Original_Text": "적에게 아주 빠른 속도로 화살을 여러 번 날려 피해를 입힙니다.",
         "English_Text": "Rapidly shoots multiple arrows to deal damage to an enemy.",
         "Russian_Text": "",
-        "Chinese_Text": "以极快的速度多次射出箭矢造成伤害。\n使用过程中提升暴击率。"
+        "Chinese_Text": "跳到空中对范围内敌人造成大量伤害并使敌人僵直。最后一击眩晕敌人，使用过程中提升暴击率。"
     },
-    "60000166": {
+    "60000164": {
         "Dev_Desc": "통격화살",
         "Original_Text": "내력 소모 20\\n대기 시간 6초",
         "English_Text": "Focus Cost: 20\nCooldown: 6 sec",
         "Russian_Text": "",
-        "Chinese_Text": "内力消耗20\n冷却时间6秒"
+        "Chinese_Text": "打开次元门落下群星，歼灭范围内敌人。\n使用过程中提升暴击率，且会进入无敌状态。\n对范围内敌人施加僵直，出血效果，最后一击眩晕敌人。"
     },
-    "60000167": {
+    "60000165": {
         "Dev_Desc": "이중사격",
         "Original_Text": "내력소모 10\\n대기시간 6초",
         "English_Text": "Focus Cost: 10\nCooldown: 6 sec",
         "Russian_Text": "",
-        "Chinese_Text": "内力消耗10\n冷却时间6秒"
+        "Chinese_Text": "以极快的速度多次射出箭矢造成伤害。\n使用过程中提升暴击率。"
     },
-    "60000168": {
+    "60000166": {
         "Dev_Desc": "조준사격",
         "Original_Text": "내력 소모 56\\n대기 시간 28초",
         "English_Text": "Focus Cost: 56\nCooldown: 28 sec",
         "Russian_Text": "",
-        "Chinese_Text": "内力消耗50\n冷却时间32秒"
+        "Chinese_Text": "内力消耗20\n冷却时间6秒"
     },
-    "60000169": {
+    "60000167": {
         "Dev_Desc": "추적화살",
         "Original_Text": "내력 소모 8\\n대기 시간 3초",
         "English_Text": "Focus Cost: 8\nCooldown: 3 sec",
         "Russian_Text": "",
-        "Chinese_Text": "内力消耗20\n冷却时间12秒"
+        "Chinese_Text": "内力消耗10\n冷却时间6秒"
     },
-    "60000170": {
+    "60000168": {
         "Dev_Desc": "다발화살  ",
         "Original_Text": "내력 소모 11\\n대기 시간 13초",
         "English_Text": "Focus Cost: 11\nCooldown: 13 sec",
         "Russian_Text": "",
-        "Chinese_Text": "内力消耗30\n冷却时间16秒"
+        "Chinese_Text": "内力消耗50\n冷却时间32秒"
     },
-    "60000171": {
+    "60000169": {
         "Dev_Desc": "화살비",
         "Original_Text": "기력 소모 480\\n대기 시간 2초",
         "English_Text": "Vitality Cost: 480\nCooldown: 2 sec",
         "Russian_Text": "",
-        "Chinese_Text": "内力消耗20\n冷却时间22秒"
+        "Chinese_Text": "内力消耗20\n冷却时间12秒"
     },
-    "60000172": {
-        "Dev_Desc": "관통사격",
-        "Original_Text": "내력 소모 30\\n대기 시간 20초",
-        "English_Text": "Focus Cost: 30\nCooldown: 20 sec",
-        "Russian_Text": "",
-        "Chinese_Text": "内力消耗30\n冷却时间20秒"
-    },
-    "60000173": {
+    "60000170": {
         "Dev_Desc": "후퇴사격",
         "Original_Text": "내력 소모 36\\n대기 시간 15초",
         "English_Text": "Focus Cost: 36\nCooldown: 15 sec",
         "Russian_Text": "",
-        "Chinese_Text": "内力消耗30\n冷却时间30秒"
+        "Chinese_Text": "内力消耗30\n冷却时间16秒"
     },
-    "60000174": {
+    "60000171": {
         "Dev_Desc": "우레비",
         "Original_Text": "내력 소모 50\\n대기 시간 40초",
         "English_Text": "Focus Cost: 50\nCooldown: 40 sec",
         "Russian_Text": "",
-        "Chinese_Text": "内力消耗50\n冷却时间40秒"
+        "Chinese_Text": "内力消耗20\n冷却时间22秒"
     },
-    "60000175": {
+    "60000172": {
         "Dev_Desc": "별무리",
         "Original_Text": "내력 소모 70\\n대기 시간 70초",
         "English_Text": "Focus Cost: 70\nCooldown: 70 sec",
         "Russian_Text": "",
-        "Chinese_Text": "内力消耗70\n冷却时间70秒"
+        "Chinese_Text": "内力消耗30\n冷却时间20秒"
     },
-    "60000176": {
+    "60000173": {
         "Dev_Desc": "다중사격",
         "Original_Text": "내력 소모 13\\n대기 시간 17초",
         "English_Text": "Focus Cost: 13\nCooldown: 17 sec",
         "Russian_Text": "",
-        "Chinese_Text": "内力消耗20\n冷却时间32秒"
+        "Chinese_Text": "内力消耗30\n冷却时间30秒"
     },
-    "60000177": {
+    "60000174": {
         "Dev_Desc": "횡이동-증폭",
         "Original_Text": "횡이동_증",
         "English_Text": "Traverse_A",
         "Russian_Text": "",
-        "Chinese_Text": "横移_增"
+        "Chinese_Text": "内力消耗50\n冷却时间40秒"
     },
-    "60000178": {
+    "60000175": {
         "Dev_Desc": "횡이동-극한",
         "Original_Text": "횡이동_극",
         "English_Text": "Traverse_E",
         "Russian_Text": "",
-        "Chinese_Text": "横移_极"
+        "Chinese_Text": "内力消耗70\n冷却时间70秒"
     },
-    "60000179": {
+    "60000176": {
         "Dev_Desc": "비염각-증폭",
         "Original_Text": "비염각_증",
         "English_Text": "Tiger's Pounce_A",
         "Russian_Text": "",
-        "Chinese_Text": "飞炎脚_增"
+        "Chinese_Text": "内力消耗20\n冷却时间32秒"
     },
-    "60000180": {
+    "60000177": {
         "Dev_Desc": "절명각-증폭",
         "Original_Text": "절명각_증",
         "English_Text": "Cutting Kick_A",
         "Russian_Text": "",
-        "Chinese_Text": "绝命脚_增"
+        "Chinese_Text": "横移_增"
     },
-    "60000181": {
+    "60000178": {
         "Dev_Desc": "절명각-극한",
         "Original_Text": "절명각_극",
         "English_Text": "Cutting Kick_E",
         "Russian_Text": "",
-        "Chinese_Text": "绝命脚_极"
+        "Chinese_Text": "横移_极"
     },
-    "60000182": {
+    "60000179": {
         "Dev_Desc": "다리걸기-증폭",
         "Original_Text": "다리걸기_증",
         "English_Text": "Leg Sweep_A",
         "Russian_Text": "",
-        "Chinese_Text": "扫堂腿_增"
+        "Chinese_Text": "飞炎脚_增"
     },
-    "60000183": {
+    "60000180": {
         "Dev_Desc": "승룡각-증폭",
         "Original_Text": "승룡각_증",
         "English_Text": "Rising Dragon_A",
         "Russian_Text": "",
-        "Chinese_Text": "升龙脚_增"
+        "Chinese_Text": "绝命脚_增"
     },
-    "60000184": {
+    "60000181": {
         "Dev_Desc": "붕권-증폭",
         "Original_Text": "붕권_증",
         "English_Text": "Comet Strike_A",
         "Russian_Text": "",
-        "Chinese_Text": "冲拳_增"
+        "Chinese_Text": "绝命脚_极"
     },
-    "60000185": {
+    "60000182": {
         "Dev_Desc": "횡이동-증폭",
         "Original_Text": "대상의 후방으로 시계방향으로 돌며 이동합니다.\\n횡이동의 기력 소모량이 감소합니다.\\n대상이 가까이 있을 경우 사용 가능합니다.",
         "English_Text": "Circles the target clockwise.\nReduces Vitality cost of Traverse.\nAvailable on nearby targets.",
         "Russian_Text": "",
-        "Chinese_Text": "顺时针方向移动至目标后方。\n降低横移的气力消耗量。\n可在靠近目标时使用。"
+        "Chinese_Text": "扫堂腿_增"
     },
-    "60000186": {
+    "60000183": {
         "Dev_Desc": "횡이동-극한",
         "Original_Text": "대상의 후방으로 시계방향으로 돌며 이동합니다.\\n횡이동의 기력 소모량이 감소합니다.\\n횡이동 사용도중 회피 확률이 대폭 증가합니다.\\n대상이 가까이 있을 경우 사용 가능합니다.",
         "English_Text": "Circles the target clockwise.\nReduces Vitality cost of Traverse.\nGreatly increases Evasion chance while using Traverse.\nAvailable on nearby targets.",
         "Russian_Text": "",
-        "Chinese_Text": "顺时针方向移动至目标后方。\n降低横移的气力消耗量。\n使用横移时，大幅提升闪避率。\n可在靠近目标时使用。"
+        "Chinese_Text": "升龙脚_增"
     },
-    "60000187": {
+    "60000184": {
         "Dev_Desc": "비염각-증폭",
         "Original_Text": "적에게 접근하여 발로 타격한 후 경직 시킵니다.\\n통제 상태인 적에게 쿨타임 없이 사용 가능합니다.",
         "English_Text": "Dashes toward an enemy, strikes them with the foot, and petrifies them.\nCan be used on enemy under CC without cooldown.",
         "Russian_Text": "",
-        "Chinese_Text": "接近并踢击敌人，使敌人僵直。\n对被控制的敌人使用时无冷却时间。"
+        "Chinese_Text": "冲拳_增"
     },
-    "60000188": {
+    "60000185": {
         "Dev_Desc": "절명각-증폭",
         "Original_Text": "경직 및 기절 중인 대상에게 사용할 수 있습니다.\\n적에게 짧게 접근하여 다리를 휘둘러 피해를 입히고, 경직 시킵니다.",
         "English_Text": "Can be used on a petrified or stunned target.\nDashes toward an enemy, deals damage by kicking, and inflicts Petrify.",
         "Russian_Text": "",
-        "Chinese_Text": "可对僵直或眩晕中的敌人使用。\n靠近敌人扫腿造成伤害，使敌人僵直。"
+        "Chinese_Text": "顺时针方向移动至目标后方。\n降低横移的气力消耗量。\n可在靠近目标时使用。"
     },
-    "60000189": {
+    "60000186": {
         "Dev_Desc": "절명각-극한",
         "Original_Text": "경직 및 기절 중인 대상에게 사용할 수 있습니다.\\n적에게 짧게 접근하여 다리를 휘둘러 피해를 입히고, 경직 시킵니다.\\n절명각의 피해량이 대폭 증가합니다.\\n절명각이 적의 약점에 명중할 경우, 일정 확률로 대상을 기절 시킵니다.",
         "English_Text": "Can be used on a petrified or stunned target.\nDashes to an enemy, deals damage by kicking, and inflicts Petrify.\nGreatly increases the damage of Cutting Kick.\nHas a chance to inflict Stun if Cutting Kick lands on a weak spot.",
         "Russian_Text": "",
-        "Chinese_Text": "可对僵直或眩晕中的敌人使用。\n靠近敌人扫腿造成伤害，使敌人僵直。\n大幅提升绝命脚的伤害量。\n绝命脚击中敌人的弱点时，以一定概率使敌人眩晕。"
+        "Chinese_Text": "顺时针方向移动至目标后方。\n降低横移的气力消耗量。\n使用横移时，大幅提升闪避率。\n可在靠近目标时使用。"
     },
-    "60000190": {
+    "60000187": {
         "Dev_Desc": "다리걸기-증폭",
         "Original_Text": "다리를 걸어 적을 기절 시킵니다.\\n대상의 기절 확률이 증가합니다.",
         "English_Text": "Trips an enemy to inflict Stun.\nIncreases chance to inflict Stun on enemy.",
         "Russian_Text": "",
-        "Chinese_Text": "拌腿使敌人眩晕。\n提升目标的眩晕概率。"
+        "Chinese_Text": "接近并踢击敌人，使敌人僵直。\n对被控制的敌人使用时无冷却时间。"
     },
-    "60000191": {
+    "60000188": {
         "Dev_Desc": "승룡각-증폭",
         "Original_Text": "범위 내 단일 적을 경직 시키고, 피해를 입힙니다.\\n승룡각 사용 도중, 통제 방어 확률이 증가합니다.",
         "English_Text": "Inflicts Petrify on an enemy within range and deals damage.\nIncreases CC Defense Chance while casting Rising Dragon.",
         "Russian_Text": "",
-        "Chinese_Text": "使范围内单一敌人僵直并造成伤害。\n使用升龙脚的过程中，提升控制防御率。"
+        "Chinese_Text": "可对僵直或眩晕中的敌人使用。\n靠近敌人扫腿造成伤害，使敌人僵直。"
     },
-    "60000192": {
+    "60000189": {
         "Dev_Desc": "붕권-증폭",
         "Original_Text": "정면으로 주먹을 내질러 적의 방어를 관통하고 강한 피해를 입힙니다.\\n대상을 날려보내고 기절 시킵니다.\\n붕권의 피해량이 막기관통 수치만큼 증가합니다.\\n통제 상태의 적에게 사용 시, 추가 피해를 입힙니다.",
         "English_Text": "Deals strong damage and pierces an enemy's defense by throwing a fist forward.\nPushes the target away and inflicts Stun.\nIncreases Comet Strike damage relative to Block Piercing.\nInflicts extra damage when used on a target under CC.",
         "Russian_Text": "",
-        "Chinese_Text": "正面出拳穿透敌人的防御，对敌人造成大量伤害。\n击飞目标并使其眩晕。\n冲拳的伤害量可根据格挡穿透数值得到提升。\n对被控制的敌人使用时，可造成额外伤害。"
+        "Chinese_Text": "可对僵直或眩晕中的敌人使用。\n靠近敌人扫腿造成伤害，使敌人僵直。\n大幅提升绝命脚的伤害量。\n绝命脚击中敌人的弱点时，以一定概率使敌人眩晕。"
     },
-    "60000193": {
+    "60000190": {
         "Dev_Desc": "횡이동-증폭",
         "Original_Text": "기력소모 200\\n대기시간 1초",
         "English_Text": "Vitality Cost: 200\nCooldown: 1 sec",
         "Russian_Text": "",
-        "Chinese_Text": "气力消耗200\n冷却时间1秒"
+        "Chinese_Text": "拌腿使敌人眩晕。\n提升目标的眩晕概率。"
     },
-    "60000194": {
+    "60000191": {
         "Dev_Desc": "횡이동-극한",
         "Original_Text": "기력소모 200\\n대기시간 1초",
         "English_Text": "Vitality Cost: 200\nCooldown: 1 sec",
         "Russian_Text": "",
-        "Chinese_Text": "气力消耗200\n冷却时间1秒"
+        "Chinese_Text": "使范围内单一敌人僵直并造成伤害。\n使用升龙脚的过程中，提升控制防御率。"
     },
-    "60000195": {
+    "60000192": {
         "Dev_Desc": "비염각-증폭",
         "Original_Text": "내력소모 50\\n대기시간 8초\\n     통제대상에게 없음",
         "English_Text": "Focus Cost: 50\nCooldown: 8 sec\n(N/A if target is under CC)",
         "Russian_Text": "",
-        "Chinese_Text": "内力消耗50\n冷却时间8秒\n控制对象无效"
+        "Chinese_Text": "正面出拳穿透敌人的防御，对敌人造成大量伤害。\n击飞目标并使其眩晕。\n冲拳的伤害量可根据格挡穿透数值得到提升。\n对被控制的敌人使用时，可造成额外伤害。"
     },
-    "60000196": {
+    "60000193": {
         "Dev_Desc": "절명각-증폭",
         "Original_Text": "내력소모 30\\n대기시간 20초",
         "English_Text": "Focus Cost: 30\nCooldown: 20 sec",
         "Russian_Text": "",
-        "Chinese_Text": "内力消耗30\n冷却时间20秒"
+        "Chinese_Text": "气力消耗200\n冷却时间1秒"
     },
-    "60000197": {
+    "60000194": {
         "Dev_Desc": "절명각-극한",
         "Original_Text": "내력소모 50\\n대기시간 10초",
         "English_Text": "Focus Cost: 50\nCooldown: 10 sec",
         "Russian_Text": "",
-        "Chinese_Text": "内力消耗50\n冷却时间10秒"
+        "Chinese_Text": "气力消耗200\n冷却时间1秒"
     },
-    "60000198": {
+    "60000195": {
         "Dev_Desc": "다리걸기-증폭"
     },
-    "60000199": {
-        "Dev_Desc": "승룡각-증폭",
-        "Chinese_Text": "内力消耗30\n冷却时间15秒",
-        "English_Text": "Focus Cost: 30\nCooldown: 15 sec"
+    "60000196": {
+        "Dev_Desc": "승룡각-증폭"
     },
-    "60000200": {
+    "60000197": {
         "Dev_Desc": "붕권-증폭"
     },
-    "60000201": {
+    "60000198": {
         "Dev_Desc": "테스트 전용",
         "Original_Text": "테스트 이펙트그룹 적용",
         "English_Text": "<DNT>",
         "Russian_Text": "",
-        "Chinese_Text": "启用测试效果群组"
+        "Chinese_Text": "테스트 이펙트그룹 적용"
     },
-    "60000202": {
+    "60000199": {
         "Dev_Desc": "이동사격_증폭",
         "Original_Text": "이동사격",
         "English_Text": "Forward Attack",
         "Russian_Text": "",
-        "Chinese_Text": "移动射击_增幅"
+        "Chinese_Text": "内力消耗30\n冷却时间15秒"
     },
-    "60000203": {
+    "60000200": {
         "Dev_Desc": "추적화살_증폭",
         "Original_Text": "추적화살",
         "English_Text": "Tracker",
         "Russian_Text": "",
-        "Chinese_Text": "追踪箭_增幅"
+        "Chinese_Text": "추적화살"
     },
-    "60000204": {
+    "60000201": {
         "Dev_Desc": "추적화살_극한",
         "Original_Text": "추적화살",
         "English_Text": "Tracker",
         "Russian_Text": "",
-        "Chinese_Text": "追踪箭_极限"
+        "Chinese_Text": "启用测试效果群组"
     },
-    "60000205": {
+    "60000202": {
         "Dev_Desc": "다발화살_증폭",
         "Original_Text": "다발화살",
         "English_Text": "Bundle Shot",
         "Russian_Text": "",
-        "Chinese_Text": "多发箭_增幅"
+        "Chinese_Text": "移动射击_增幅"
     },
-    "60000206": {
+    "60000203": {
         "Dev_Desc": "다발화살_극한",
         "Original_Text": "다발화살",
         "English_Text": "Bundle Shot",
         "Russian_Text": "",
-        "Chinese_Text": "多发箭_极限"
+        "Chinese_Text": "追踪箭_增幅"
     },
-    "60000207": {
+    "60000204": {
         "Dev_Desc": "다중사격_증폭",
         "Original_Text": "다중사격",
         "English_Text": "Multi Shot",
         "Russian_Text": "",
-        "Chinese_Text": "多重射击_增幅"
+        "Chinese_Text": "追踪箭_极限"
     },
-    "60000208": {
+    "60000205": {
         "Dev_Desc": "이동사격_증폭",
         "Original_Text": "네 방향으로 회피하며 적을 공격합니다.",
         "English_Text": "Attacks enemy while dodging attacks in four directions.",
         "Russian_Text": "",
-        "Chinese_Text": "闪避同时攻击4个方向的敌人。"
+        "Chinese_Text": "多发箭_增幅"
     },
-    "60000209": {
+    "60000206": {
         "Dev_Desc": "추적화살_돌파",
         "Original_Text": "추적화살",
         "English_Text": "Tracker",
         "Russian_Text": "",
-        "Chinese_Text": "发射追踪敌人的箭矢造成伤害。\n可对“出血”状态的目标使用。"
+        "Chinese_Text": "多发箭_极限"
     },
-    "60000210": {
+    "60000207": {
         "Dev_Desc": "추적화살_극한",
         "Original_Text": "적을 추적하는 화살을 날려 피해를 입힙니다.\\n\"출혈\" 상태의 대상에게 사용 가능합니다.",
         "English_Text": "Shoots an arrow that tracks down an enemy and deals damage.\nCan be used on a bleeding target.",
         "Russian_Text": "",
-        "Chinese_Text": "发射追踪敌人的箭矢造成伤害。\n可对“出血”状态的目标使用。"
+        "Chinese_Text": "多重射击_增幅"
     },
-    "60000211": {
+    "60000208": {
         "Dev_Desc": "다발화살_증폭",
         "Original_Text": "두 번 연속으로 사용되며 일정 확률로 주기적인 피해를 주는 \"출혈\" 효과를 줍니다.",
         "English_Text": "Used twice in a row and has a chance to inflict Bleed (DoT).",
         "Russian_Text": "",
-        "Chinese_Text": "一次射击可发射多个箭矢，暴击时造成出血伤害。\n使用过程中提升暴击率。"
+        "Chinese_Text": "闪避同时攻击4个方向的敌人。"
     },
-    "60000212": {
+    "60000209": {
         "Dev_Desc": "다발화살_극한",
         "Original_Text": "세 번의 사격으로 다수의 화살을 날려 일정 확률로 주기적인 피해를 주는 \"출혈\" 효과를 줍니다.",
         "English_Text": "Shoots multiple arrows three times and has a chance to inflict Bleed (DoT).",
         "Russian_Text": "",
-        "Chinese_Text": "一次射击可发射多个箭矢，暴击时造成出血伤害。\n使用过程中提升暴击率。"
+        "Chinese_Text": "发射追踪敌人的箭矢造成伤害。\n可对“出血”状态的目标使用。"
     },
-    "60000213": {
+    "60000210": {
         "Dev_Desc": "다중사격_증폭",
         "Original_Text": "적에게 아주 빠른 속도로 화살을 여러 번 날려 피해를 입힙니다.\\n무공의 공격속도 만큼 피해량이 증가합니다.",
         "English_Text": "Rapidly shoots multiple arrows to deal damage to an enemy.\nIncreases damage relative to Technique Attack Speed.",
         "Russian_Text": "",
-        "Chinese_Text": "以极快的速度多次射出箭矢造成伤害。\n使用过程中提升暴击率。"
+        "Chinese_Text": "发射追踪敌人的箭矢造成伤害。\n可对“出血”状态的目标使用。"
     },
-    "60000214": {
+    "60000211": {
         "Dev_Desc": "반마화살",
         "Original_Text": "반마화살",
         "English_Text": "Magic Arrow",
+        "Russian_Text": "",
+        "Chinese_Text": "一次射击可发射多个箭矢，暴击时造成出血伤害。\n使用过程中提升暴击率。"
+    },
+    "60000212": {
+        "Dev_Desc": "살상명령",
+        "Original_Text": "살상명령",
+        "English_Text": "Command to Kill",
+        "Russian_Text": "",
+        "Chinese_Text": "一次射击可发射多个箭矢，暴击时造成出血伤害。\n使用过程中提升暴击率。"
+    },
+    "60000213": {
+        "Dev_Desc": "반마화살",
+        "Original_Text": "적에게 특수한 화살을 날려 피해를 입히며 무공으로 얻은 이로운 효과 일부를 해제합니다.\\n\"수호 [극한]\"까지 해제합니다.\\n\"화륜\", \"불사\", \"심기일전\", \"살상명령\", \"분노\", \"개혈\"을 해제합니다.",
+        "English_Text": "Fires a special arrow to deal damage and partially remove buffs activated by a technique.",
+        "Russian_Text": "",
+        "Chinese_Text": "以极快的速度多次射出箭矢造成伤害。\n使用过程中提升暴击率。"
+    },
+    "60000214": {
+        "Dev_Desc": "반마화살_돌파",
+        "Original_Text": "적에게 특수한 화살을 날려 피해를 입히며 무공으로 얻은 이로운 효과 일부를 해제합니다.\\n\"수호\", \"화륜\", \"불사\", \"심기일전\", \"살상명령\", \"분노\", \"개혈\"을 해제합니다.",
+        "English_Text": "Fires a special arrow to deal damage and partially remove buffs activated by a technique.\nRemoves [Rise] level for all techniques.",
         "Russian_Text": "",
         "Chinese_Text": "反魔箭"
     },
     "60000215": {
         "Dev_Desc": "살상명령",
-        "Original_Text": "살상명령",
-        "English_Text": "Command to Kill",
+        "Original_Text": "8초간 기본 공격 속도가 크게 증가합니다.",
+        "English_Text": "Greatly increases Normal Attack Speed for 8 sec.",
         "Russian_Text": "",
         "Chinese_Text": "杀戮命令"
     },
     "60000216": {
-        "Dev_Desc": "반마화살",
-        "Original_Text": "적에게 특수한 화살을 날려 피해를 입히며 무공으로 얻은 이로운 효과 일부를 해제합니다.",
-        "English_Text": "The arrow removes all technique buffs on the target.",
-        "Russian_Text": "",
-        "Chinese_Text": "消除目标身上的增益效果。"
-    },
-    "60000217": {
-        "Dev_Desc": "반마화살_돌파",
-        "Original_Text": "적에게 특수한 화살을 날려 피해를 입히며 무공으로 얻은 이로운 효과 일부를 해제합니다.\\n모든 무공들의 [돌파]까지 해제합니다.",
-        "English_Text": "Shoots a special arrow at the enemy, dealing damage and dispelling some of the beneficial effects obtained from attacks.\nIt also cancels [Breakthrough]>of all defenses.",
-        "Russian_Text": "",
-        "Chinese_Text": "向敌人发射特殊箭矢造成伤害，解除部分武功增益效果：\n解除所有武功的[突破]."
-    },
-    "60000218": {
-        "Dev_Desc": "살상명령",
-        "Original_Text": "8초간 기본 공격 속도가 크게 증가합니다.",
-        "English_Text": "Greatly increases Attack Speed of both normal and technique attacks for a short while.\nIncreases Ranged Critical Rate and Critical Bonus.",
-        "Russian_Text": "",
-        "Chinese_Text": "痛击箭_额外出血_测试"
-    },
-    "60000219": {
         "Dev_Desc": "살상명령_증폭",
         "Original_Text": "살상명령",
         "English_Text": "Command to Kill",
         "Russian_Text": "",
-        "Chinese_Text": "痛击箭_额外出血_测试"
+        "Chinese_Text": "消除目标身上的增益效果。"
     },
-    "60000220": {
+    "60000217": {
         "Dev_Desc": "살상명령_증폭",
         "Original_Text": "짧은 시간동안 기본공격과 무공의 공격속도가 크게 증가하며, \\n원거리 치명률과 치명타 추가피해량이 증가합니다.",
         "English_Text": "Greatly increases Attack Speed of both normal and technique attacks for a short while.\nIncreases Ranged Critical Rate and Critical Bonus.",
         "Russian_Text": "",
-        "Chinese_Text": "短时间内大幅提升基本攻击与武功的攻击速度。\n提升远距离暴击率与暴击额外伤害量。"
+        "Chinese_Text": "向敌人发射特殊箭矢造成伤害，解除部分武功增益效果：\n解除所有武功的[突破]."
     },
-    "60000221": {
+    "60000218": {
         "Dev_Desc": "화살비",
         "Original_Text": "화살비",
         "English_Text": "Arrow Shower",
         "Russian_Text": "",
-        "Chinese_Text": "箭雨_额外持续伤害_测试"
+        "Chinese_Text": "痛击箭_额外出血_测试"
     },
-    "60000222": {
+    "60000219": {
         "Dev_Desc": "화살비",
         "Original_Text": "적에게 화살을 비처럼 쏘아대어 피해를 입힙니다.",
         "English_Text": "Pours arrows over the enemy to deal damage.",
         "Russian_Text": "",
-        "Chinese_Text": "箭雨_额外持续伤害_测试_在现有1伤害基础上增加10伤害，每一跳增加11伤害"
+        "Chinese_Text": "痛击箭_额外出血_测试"
     },
-    "60000223": {
-        "Dev_Desc": "추적화살_데미지추가",
-        "Original_Text": "추적화살_데미지추가_테스트",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "追踪箭_添加额外伤害_测试"
-    },
-    "60000224": {
-        "Dev_Desc": "추적화살_데미지추가",
-        "Original_Text": "추적화살_데미지추가_테스트_기존 213에서 500 데미지를 추가",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "追踪箭_添加额外伤害_测试_在现有213伤害基础上增加500伤害"
-    },
-    "60000225": {
-        "Dev_Desc": "출혈_이펙트dur추가",
-        "Original_Text": "출혈_이펙트dur추가_테스트",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "60000226": {
-        "Dev_Desc": "출혈_이펙트dur추가",
-        "Original_Text": "출혈_이펙트dur추가_테스트_기존 10초에서 10초를 더 추가",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "60000227": {
+    "60000220": {
         "Dev_Desc": "테스트_스킬사용메시지",
         "Original_Text": "장애물에 가로막혀 스킬을 사용할 수 없습니다.",
         "English_Text": "Unable to use a technique as an obstacle is blocking the way.",
         "Russian_Text": "",
-        "Chinese_Text": "被障碍物挡住，无法使用技能。"
+        "Chinese_Text": "短时间内大幅提升基本攻击与武功的攻击速度。\n提升远距离暴击率与暴击额外伤害量。"
     },
-    "60000228": {
+    "60000221": {
         "Dev_Desc": "반마화살_증폭",
         "Original_Text": "반마화살",
         "English_Text": "Magic Arrow",
         "Russian_Text": "",
-        "Chinese_Text": "反魔箭_增幅"
+        "Chinese_Text": "箭雨_额外持续伤害_测试"
     },
-    "60000229": {
+    "60000222": {
         "Dev_Desc": "반마화살_증폭",
         "Original_Text": "대상이 가지고 있는 버프를 제거하고, 내력을 감소시킵니다.",
         "English_Text": "Reduces Focus by removing target's buffs.",
         "Russian_Text": "",
-        "Chinese_Text": "消除目标身上的增益效果，同时降低内力。"
+        "Chinese_Text": "箭雨_额外持续伤害_测试_在现有1伤害基础上增加10伤害，每一跳增加11伤害"
     },
-    "60000230": {
+    "60000223": {
         "Dev_Desc": "반마화살_증폭",
         "Original_Text": "내력 소모 58\\n대기 시간 22초",
         "English_Text": "Focus Cost: 58\nCooldown: 22 sec",
         "Russian_Text": "",
-        "Chinese_Text": "内力消耗30\n冷却时间40秒"
+        "Chinese_Text": "追踪箭_添加额外伤害_测试"
     },
-    "60000231": {
+    "60000224": {
         "Dev_Desc": "흑조",
         "Original_Text": "흑조",
         "English_Text": "Blacktalon",
         "Russian_Text": "",
-        "Chinese_Text": "黑鸟"
+        "Chinese_Text": "追踪箭_添加额外伤害_测试_在现有213伤害基础上增加500伤害"
     },
-    "60000232": {
+    "60000225": {
         "Dev_Desc": "혈조",
         "Original_Text": "혈조",
         "English_Text": "Bloodtalon",
         "Russian_Text": "",
-        "Chinese_Text": "血鸟"
+        "Chinese_Text": "<DNT>"
     },
-    "60000233": {
+    "60000226": {
         "Dev_Desc": "철조",
         "Original_Text": "철조",
         "English_Text": "Steeltalon",
         "Russian_Text": "",
-        "Chinese_Text": "铁鸟"
+        "Chinese_Text": "<DNT>"
     },
-    "60000234": {
+    "60000227": {
         "Dev_Desc": "비연파",
         "Original_Text": "비연파",
         "English_Text": "Falcon Dash",
         "Russian_Text": "",
-        "Chinese_Text": "飛燕波"
+        "Chinese_Text": "被障碍物挡住，无法使用技能。"
     },
-    "60000235": {
+    "60000228": {
         "Dev_Desc": "수리강하",
         "Original_Text": "수리강하",
         "English_Text": "Falcon Dive",
         "Russian_Text": "",
-        "Chinese_Text": "落鹰"
+        "Chinese_Text": "反魔箭_增幅"
     },
-    "60000236": {
+    "60000229": {
         "Dev_Desc": "방어",
         "Original_Text": "방어",
         "English_Text": "Defense",
         "Russian_Text": "",
-        "Chinese_Text": "防御"
+        "Chinese_Text": "消除目标身上的增益效果，同时降低内力。"
     },
-    "60000237": {
+    "60000230": {
         "Dev_Desc": "반격",
         "Original_Text": "반격",
         "English_Text": "Counter",
         "Russian_Text": "",
-        "Chinese_Text": "反击"
+        "Chinese_Text": "内力消耗30\n冷却时间40秒"
     },
-    "60000238": {
+    "60000231": {
         "Dev_Desc": "반격일섬",
         "Original_Text": "반격일섬",
         "English_Text": "Counter Step",
         "Russian_Text": "",
-        "Chinese_Text": "反击一闪"
+        "Chinese_Text": "黑鸟"
     },
-    "60000239": {
+    "60000232": {
         "Dev_Desc": "반격찌르기",
         "Original_Text": "반격찌르기",
         "English_Text": "Counter Stab",
         "Russian_Text": "",
-        "Chinese_Text": "反击刺"
+        "Chinese_Text": "血鸟"
     },
-    "60000240": {
+    "60000233": {
         "Dev_Desc": "흑참칠아열파",
         "Original_Text": "흑참칠아열파",
         "English_Text": "Seven Crescent Wave",
         "Russian_Text": "",
-        "Chinese_Text": "黑斩七牙裂波"
+        "Chinese_Text": "铁鸟"
     },
-    "60000241": {
+    "60000234": {
         "Dev_Desc": "수라투가삼창",
         "Original_Text": "수라투가삼창",
         "English_Text": "Dashing Attack",
         "Russian_Text": "",
-        "Chinese_Text": "修罗斗歌三唱"
+        "Chinese_Text": "飛燕波"
     },
-    "60000242": {
+    "60000235": {
         "Dev_Desc": "참살",
         "Original_Text": "참살",
         "English_Text": "Behead",
         "Russian_Text": "",
-        "Chinese_Text": "斩杀"
+        "Chinese_Text": "落鹰"
     },
-    "60000243": {
+    "60000236": {
         "Dev_Desc": "흑연",
         "Original_Text": "흑연",
         "English_Text": "Rolling Dash",
         "Russian_Text": "",
-        "Chinese_Text": "黑烟"
+        "Chinese_Text": "防御"
     },
-    "60000244": {
+    "60000237": {
         "Dev_Desc": "흑창",
         "Original_Text": "흑창",
         "English_Text": "Black Spear",
         "Russian_Text": "",
-        "Chinese_Text": "黑枪"
+        "Chinese_Text": "反击"
     },
-    "60000245": {
+    "60000238": {
         "Dev_Desc": "횡이동",
         "Original_Text": "횡이동",
         "English_Text": "Traverse",
         "Russian_Text": "",
-        "Chinese_Text": "横移"
+        "Chinese_Text": "反击一闪"
     },
-    "60000246": {
+    "60000239": {
         "Dev_Desc": "횡이동",
         "Original_Text": "대상의 후방으로 시계방향으로 돌며 이동합니다.\\n대상이 가까이 있을 경우 사용 가능합니다.",
         "English_Text": "Circles the target clockwise.\nUsable on nearby targets.",
         "Russian_Text": "",
-        "Chinese_Text": "顺时针方向移动至目标后方。\n只能对近处的目标使用。"
+        "Chinese_Text": "反击刺"
     },
-    "60000247": {
+    "60000240": {
         "Dev_Desc": "횡이동",
         "Original_Text": "기력소모 300\\n대기시간 1초",
         "English_Text": "Vitality Cost: 300\nCooldown: 1 sec",
         "Russian_Text": "",
-        "Chinese_Text": "气力消耗300\n冷却时间1秒"
+        "Chinese_Text": "黑斩七牙裂波"
     },
-    "60000248": {
-        "Dev_Desc": "회천각adddmage테스트",
-        "Original_Text": "회천각테스트",
-        "English_Text": "Cyclone Kick Test",
-        "Russian_Text": "",
-        "Chinese_Text": "回旋脚测试"
-    },
-    "60000249": {
+    "60000241": {
         "Dev_Desc": "테스트_살상명령_요구조건",
         "Original_Text": "대상 스턴",
         "English_Text": "Stun Target",
         "Russian_Text": "",
-        "Chinese_Text": "击晕目标"
+        "Chinese_Text": "修罗斗歌三唱"
     },
-    "60000250": {
+    "60000242": {
         "Dev_Desc": "테스트_살상명령_스킬효과",
         "Original_Text": "공중",
         "English_Text": "Airborne",
         "Russian_Text": "",
-        "Chinese_Text": "浮空"
+        "Chinese_Text": "斩杀"
     },
-    "60000251": {
+    "60000243": {
         "Dev_Desc": "테스트_살상명령_소비재료",
         "Original_Text": "살상명령의 혼 3개",
         "English_Text": "Command to Kill Soul x3",
         "Russian_Text": "",
-        "Chinese_Text": "3个杀戮命令之魂"
+        "Chinese_Text": "黑烟"
     },
-    "60000252": {
+    "60000244": {
         "Dev_Desc": "테스트_살상명령_증폭효과설명",
         "Original_Text": "원거리 치명률이 추가로 증가합니다.",
         "English_Text": "Additionally increases Ranged Critical Rate.",
         "Russian_Text": "",
-        "Chinese_Text": "额外提升杀戮命令的暴击率。"
+        "Chinese_Text": "黑枪"
     },
-    "60000253": {
+    "60000245": {
         "Dev_Desc": "화살비_극한",
         "Original_Text": "화살비",
         "English_Text": "Arrow Shower",
         "Russian_Text": "",
-        "Chinese_Text": "箭雨"
+        "Chinese_Text": "横移"
     },
-    "60000254": {
+    "60000246": {
         "Dev_Desc": "화살비_돌파",
         "Original_Text": "화살비",
         "English_Text": "Arrow Shower",
         "Russian_Text": "",
-        "Chinese_Text": "箭雨"
+        "Chinese_Text": "顺时针方向移动至目标后方。\n只能对近处的目标使用。"
     },
-    "60000255": {
+    "60000247": {
         "Dev_Desc": "다발화살_돌파",
         "Original_Text": "다발화살",
         "English_Text": "Bundle Shot",
         "Russian_Text": "",
-        "Chinese_Text": "多发箭"
+        "Chinese_Text": "气力消耗300\n冷却时间1秒"
     },
-    "60000256": {
+    "60000248": {
         "Dev_Desc": "다중사격_극한",
         "Original_Text": "다중사격",
         "English_Text": "Multi Shot",
         "Russian_Text": "",
-        "Chinese_Text": "多发箭_极限"
+        "Chinese_Text": "回旋脚测试"
     },
-    "60000257": {
+    "60000249": {
         "Dev_Desc": "다중사격_돌파",
         "Original_Text": "다중사격",
         "English_Text": "Multi Shot",
         "Russian_Text": "",
-        "Chinese_Text": "多重射击"
+        "Chinese_Text": "击晕目标"
     },
-    "60000258": {
+    "60000250": {
         "Dev_Desc": "조준사격_증폭",
         "Original_Text": "조준사격",
         "English_Text": "Aimed Shot",
         "Russian_Text": "",
-        "Chinese_Text": "瞄准射击"
+        "Chinese_Text": "浮空"
     },
-    "60000259": {
+    "60000251": {
         "Dev_Desc": "조준사격_극한",
         "Original_Text": "조준사격",
         "English_Text": "Aimed Shot",
         "Russian_Text": "",
-        "Chinese_Text": "瞄准射击"
+        "Chinese_Text": "3个杀戮命令之魂"
     },
-    "60000260": {
+    "60000252": {
         "Dev_Desc": "조건 없음 (테스트)",
         "Original_Text": "조건 없음 (테스트)",
         "English_Text": "<DNT>",
         "Russian_Text": "",
-        "Chinese_Text": "无条件（测试）"
+        "Chinese_Text": "额外提升杀戮命令的暴击率。"
     },
-    "60000261": {
+    "60000253": {
         "Dev_Desc": "조건 없음 (테스트 증폭)",
         "Original_Text": "조건 없음 (테스트 증폭)",
         "English_Text": "<DNT>",
         "Russian_Text": "",
-        "Chinese_Text": "无条件（测试增幅）"
+        "Chinese_Text": "箭雨"
     },
-    "60000262": {
+    "60000254": {
         "Dev_Desc": "조건 없음 (테스트 극한)",
         "Original_Text": "조건 없음 (테스트 극한)",
         "English_Text": "<DNT>",
         "Russian_Text": "",
-        "Chinese_Text": "无条件（测试极限）"
+        "Chinese_Text": "箭雨"
     },
-    "60000263": {
+    "60000255": {
         "Dev_Desc": "조건 없음 (테스트 돌파)",
         "Original_Text": "조건 없음 (테스트 돌파)",
         "English_Text": "<DNT>",
         "Russian_Text": "",
-        "Chinese_Text": "无条件（测试突破）"
+        "Chinese_Text": "多发箭"
     },
-    "60000264": {
+    "60000256": {
         "Dev_Desc": "없음",
         "Original_Text": "없음",
         "English_Text": "None",
         "Russian_Text": "",
-        "Chinese_Text": "无"
+        "Chinese_Text": "多发箭_极限"
     },
-    "60000265": {
+    "60000257": {
         "Dev_Desc": "없음 (테스트 증폭)",
         "Original_Text": "없음 (테스트 증폭)",
         "English_Text": "<DNT>",
         "Russian_Text": "",
-        "Chinese_Text": "无（测试增幅）"
+        "Chinese_Text": "多重射击"
     },
-    "60000266": {
+    "60000258": {
         "Dev_Desc": "없음 (테스트 극한)",
         "Original_Text": "없음 (테스트 극한)",
         "English_Text": "<DNT>",
         "Russian_Text": "",
-        "Chinese_Text": "无（测试极限）"
+        "Chinese_Text": "瞄准射击"
     },
-    "60000267": {
+    "60000259": {
         "Dev_Desc": "없음 (테스트 돌파)",
         "Original_Text": "없음 (테스트 돌파)",
         "English_Text": "<DNT>",
         "Russian_Text": "",
-        "Chinese_Text": "无（测试突破）"
+        "Chinese_Text": "瞄准射击"
     },
-    "60000268": {
+    "60000260": {
         "Dev_Desc": "기절",
         "Original_Text": "기절",
         "English_Text": "Stun",
         "Russian_Text": "",
-        "Chinese_Text": "眩晕"
+        "Chinese_Text": "无条件（测试）"
     },
-    "60000269": {
+    "60000261": {
         "Dev_Desc": "기절_효과",
         "Original_Text": "행동 불가",
         "English_Text": "Unable to Move",
         "Russian_Text": "",
-        "Chinese_Text": "无法行动"
+        "Chinese_Text": "无条件（测试增幅）"
     },
-    "60000270": {
+    "60000262": {
         "Dev_Desc": "기절_효과_설명",
         "Original_Text": "이동 불가\\n무공 사용 불가\\n일부 아이템 사용 불가",
         "English_Text": "Unable to move\nUnable to use techniques\nUnable to use certain items",
         "Russian_Text": "",
-        "Chinese_Text": "无法移动\n无法使用武功\n无法使用部分道具"
+        "Chinese_Text": "无条件（测试极限）"
     },
-    "60000271": {
+    "60000263": {
         "Dev_Desc": "공중",
         "Original_Text": "공중",
         "English_Text": "Airborne",
         "Russian_Text": "",
-        "Chinese_Text": "浮空"
+        "Chinese_Text": "无条件（测试突破）"
     },
-    "60000272": {
+    "60000264": {
         "Dev_Desc": "공중_효과",
         "Original_Text": "행동 불가",
         "English_Text": "Unable to Move",
         "Russian_Text": "",
-        "Chinese_Text": "无法行动"
+        "Chinese_Text": "无"
     },
-    "60000273": {
+    "60000265": {
         "Dev_Desc": "공중_효과_설명",
         "Original_Text": "이동 불가\\n무공 사용 불가\\n일부 아이템 사용 불가",
         "English_Text": "Unable to move\nUnable to use techniques\nUnable to use certain items",
         "Russian_Text": "",
-        "Chinese_Text": "无法移动\n无法使用武功\n无法使用部分道具"
+        "Chinese_Text": "无（测试增幅）"
     },
-    "60000274": {
+    "60000266": {
         "Dev_Desc": "경직",
         "Original_Text": "경직",
         "English_Text": "Petrify",
         "Russian_Text": "",
-        "Chinese_Text": "僵直"
+        "Chinese_Text": "无（测试极限）"
     },
-    "60000275": {
+    "60000267": {
         "Dev_Desc": "경직_효과",
         "Original_Text": "기본 공격 및 이동 불가",
         "English_Text": "Unable to move and cast normal attack",
         "Russian_Text": "",
-        "Chinese_Text": "无法使用基本攻击或移动"
+        "Chinese_Text": "无（测试突破）"
     },
-    "60000276": {
+    "60000268": {
         "Dev_Desc": "경직_효과_설명",
         "Original_Text": "기본 공격 사용 불가\\n이동 불가",
         "English_Text": "Unable to cast normal attack\nUnable to move",
         "Russian_Text": "",
-        "Chinese_Text": "无法使用基本攻击\n无法移动"
+        "Chinese_Text": "眩晕"
     },
-    "60000277": {
+    "60000269": {
         "Dev_Desc": "공용패시브_지속효과",
         "Original_Text": "지속 효과",
         "English_Text": "Lasting Effects",
         "Russian_Text": "",
-        "Chinese_Text": "持续效果"
+        "Chinese_Text": "无法行动"
     },
-    "60000278": {
+    "60000270": {
         "Dev_Desc": "공용패시브_이름_1",
         "Original_Text": "신체강화",
         "English_Text": "Abiding Strength",
         "Russian_Text": "",
-        "Chinese_Text": "身体强化"
+        "Chinese_Text": "无法移动\n无法使用武功\n无法使用部分道具"
     },
-    "60000279": {
+    "60000271": {
         "Dev_Desc": "공용패시브_이름_2",
         "Original_Text": "개안",
         "English_Text": "Epiphany",
         "Russian_Text": "",
-        "Chinese_Text": "开眼"
+        "Chinese_Text": "浮空"
     },
-    "60000280": {
+    "60000272": {
         "Dev_Desc": "공용패시브_이름_3",
         "Original_Text": "작열",
         "English_Text": "Inner Fire",
         "Russian_Text": "",
-        "Chinese_Text": "灼热"
+        "Chinese_Text": "无法行动"
     },
-    "60000281": {
+    "60000273": {
         "Dev_Desc": "공용패시브_이름_4",
         "Original_Text": "일념",
         "English_Text": "Determination",
         "Russian_Text": "",
-        "Chinese_Text": "一念"
+        "Chinese_Text": "无法移动\n无法使用武功\n无法使用部分道具"
     },
-    "60000282": {
+    "60000274": {
         "Dev_Desc": "공용패시브_이름_5",
         "Original_Text": "몰두",
         "English_Text": "Absorption",
         "Russian_Text": "",
-        "Chinese_Text": "专心"
+        "Chinese_Text": "僵直"
     },
-    "60000283": {
+    "60000275": {
         "Dev_Desc": "공용패시브_이름_6",
         "Original_Text": "공명",
         "English_Text": "Resonance",
         "Russian_Text": "",
-        "Chinese_Text": "共鸣"
+        "Chinese_Text": "无法使用基本攻击或移动"
     },
-    "60000284": {
+    "60000276": {
         "Dev_Desc": "공용패시브_이름_7",
         "Original_Text": "정신수양Ⅰ",
         "English_Text": "Mental Discipline Ⅰ",
         "Russian_Text": "",
-        "Chinese_Text": "精神修养Ⅰ"
+        "Chinese_Text": "无法使用基本攻击\n无法移动"
     },
-    "60000285": {
+    "60000277": {
         "Dev_Desc": "공용패시브_이름_8",
         "Original_Text": "무게증량",
         "English_Text": "Quantity Up",
         "Russian_Text": "",
-        "Chinese_Text": "提升重量"
+        "Chinese_Text": "持续效果"
     },
-    "60000286": {
+    "60000278": {
         "Dev_Desc": "공용패시브_이름_9",
         "Original_Text": "기백",
         "English_Text": "Vigor",
         "Russian_Text": "",
-        "Chinese_Text": "气魄"
+        "Chinese_Text": "身体强化"
     },
-    "60000287": {
+    "60000279": {
         "Dev_Desc": "공용패시브_이름_10",
         "Original_Text": "천리안",
         "English_Text": "Clairvoyance",
         "Russian_Text": "",
-        "Chinese_Text": "千里眼"
+        "Chinese_Text": "开眼"
     },
-    "60000288": {
+    "60000280": {
         "Dev_Desc": "공용패시브_이름_11",
         "Original_Text": "살기",
         "English_Text": "Murderous Intent",
         "Russian_Text": "",
-        "Chinese_Text": "杀气"
+        "Chinese_Text": "灼热"
     },
-    "60000289": {
+    "60000281": {
         "Dev_Desc": "공용패시브_이름_12",
         "Original_Text": "탈태",
         "English_Text": "Regnant",
         "Russian_Text": "",
-        "Chinese_Text": "脱胎"
+        "Chinese_Text": "一念"
     },
-    "60000290": {
+    "60000282": {
         "Dev_Desc": "공용패시브_이름_13",
         "Original_Text": "척후",
         "English_Text": "Scout",
         "Russian_Text": "",
-        "Chinese_Text": "斥候"
+        "Chinese_Text": "专心"
     },
-    "60000291": {
+    "60000283": {
         "Dev_Desc": "공용패시브_이름_14",
         "Original_Text": "영민함",
         "English_Text": "Brilliance",
         "Russian_Text": "",
-        "Chinese_Text": "灵敏"
+        "Chinese_Text": "共鸣"
     },
-    "60000292": {
+    "60000284": {
         "Dev_Desc": "공용패시브_이름_15",
         "Original_Text": "일격",
         "English_Text": "Keen Attack",
         "Russian_Text": "",
-        "Chinese_Text": "一击"
+        "Chinese_Text": "精神修养Ⅰ"
     },
-    "60000293": {
+    "60000285": {
         "Dev_Desc": "공용패시브_이름_16",
         "Original_Text": "인내",
         "English_Text": "Endurance",
         "Russian_Text": "",
-        "Chinese_Text": "忍耐"
+        "Chinese_Text": "提升重量"
     },
-    "60000294": {
+    "60000286": {
         "Dev_Desc": "공용패시브_이름_17",
         "Original_Text": "정신수양Ⅱ",
         "English_Text": "Mental Discipline Ⅱ",
         "Russian_Text": "",
-        "Chinese_Text": "精神修养Ⅱ"
+        "Chinese_Text": "气魄"
     },
-    "60000295": {
+    "60000287": {
         "Dev_Desc": "공용패시브_이름_18",
         "Original_Text": "약학지식Ⅰ",
-        "English_Text": "Inner Discipline",
+        "English_Text": "Pharmacy Ⅰ",
         "Russian_Text": "",
-        "Chinese_Text": "内在修养Ⅰ"
+        "Chinese_Text": "千里眼"
     },
-    "60000296": {
+    "60000288": {
         "Dev_Desc": "공용패시브_이름_19",
         "Original_Text": "격분",
         "English_Text": "Fury",
         "Russian_Text": "",
-        "Chinese_Text": "激怒"
+        "Chinese_Text": "杀气"
     },
-    "60000297": {
+    "60000289": {
         "Dev_Desc": "공용패시브_이름_20",
         "Original_Text": "통찰안",
         "English_Text": "Insight",
         "Russian_Text": "",
-        "Chinese_Text": "洞察眼"
+        "Chinese_Text": "脱胎"
     },
-    "60000298": {
+    "60000290": {
         "Dev_Desc": "공용패시브_이름_21",
         "Original_Text": "정교",
         "English_Text": "Delicacy",
         "Russian_Text": "",
-        "Chinese_Text": "精巧"
+        "Chinese_Text": "斥候"
     },
-    "60000299": {
+    "60000291": {
         "Dev_Desc": "공용패시브_이름_22",
         "Original_Text": "첨예",
         "English_Text": "Acuteness",
         "Russian_Text": "",
-        "Chinese_Text": "犀利"
+        "Chinese_Text": "灵敏"
     },
-    "60000300": {
+    "60000292": {
         "Dev_Desc": "공용패시브_이름_23",
         "Original_Text": "중갑",
         "English_Text": "Heavy Armor",
         "Russian_Text": "",
-        "Chinese_Text": "重甲"
+        "Chinese_Text": "一击"
     },
-    "60000301": {
+    "60000293": {
         "Dev_Desc": "공용패시브_이름_24",
         "Original_Text": "유연함",
         "English_Text": "Litheness",
         "Russian_Text": "",
-        "Chinese_Text": "柔韧"
+        "Chinese_Text": "忍耐"
     },
-    "60000302": {
+    "60000294": {
         "Dev_Desc": "공용패시브_이름_25",
         "Original_Text": "완화",
         "English_Text": "Alleviation",
         "Russian_Text": "",
-        "Chinese_Text": "缓解"
+        "Chinese_Text": "精神修养Ⅱ"
     },
-    "60000303": {
+    "60000295": {
         "Dev_Desc": "공용패시브_이름_26",
         "Original_Text": "재정비",
         "English_Text": "Realignment",
         "Russian_Text": "",
-        "Chinese_Text": "重整"
+        "Chinese_Text": "内在修养Ⅰ"
     },
-    "60000304": {
+    "60000296": {
         "Dev_Desc": "공용패시브_이름_27",
         "Original_Text": "빈틈포착",
         "English_Text": "Seized",
         "Russian_Text": "",
-        "Chinese_Text": "捕捉破绽"
+        "Chinese_Text": "激怒"
     },
-    "60000305": {
+    "60000297": {
         "Dev_Desc": "공용패시브_이름_28",
         "Original_Text": "생명재생",
         "English_Text": "Revival",
         "Russian_Text": "",
-        "Chinese_Text": "生命再生"
+        "Chinese_Text": "洞察眼"
     },
-    "60000306": {
+    "60000298": {
         "Dev_Desc": "공용패시브_이름_29",
         "Original_Text": "선제대응Ⅰ",
-        "English_Text": "Wisdom",
+        "English_Text": "Preemptive Move Ⅰ",
         "Russian_Text": "",
-        "Chinese_Text": "聪明"
+        "Chinese_Text": "精巧"
     },
-    "60000307": {
+    "60000299": {
         "Dev_Desc": "공용패시브_이름_30",
         "Original_Text": "약학지식Ⅱ",
-        "English_Text": "Pharmacy Ⅰ",
+        "English_Text": "Pharmacy Ⅱ",
         "Russian_Text": "",
-        "Chinese_Text": "药学知识Ⅰ"
+        "Chinese_Text": "犀利"
     },
-    "60000308": {
+    "60000300": {
         "Dev_Desc": "공용패시브_이름_31",
         "Original_Text": "무자비",
         "English_Text": "Cruelty",
         "Russian_Text": "",
-        "Chinese_Text": "无情"
+        "Chinese_Text": "重甲"
     },
-    "60000309": {
+    "60000301": {
         "Dev_Desc": "공용패시브_이름_32",
         "Original_Text": "혈기왕성",
         "English_Text": "Fervor",
         "Russian_Text": "",
+        "Chinese_Text": "柔韧"
+    },
+    "60000302": {
+        "Dev_Desc": "공용패시브_이름_33",
+        "Original_Text": "선제대응Ⅱ",
+        "English_Text": "Preemptive Move Ⅱ",
+        "Russian_Text": "",
+        "Chinese_Text": "缓解"
+    },
+    "60000303": {
+        "Dev_Desc": "공용패시브_이름_34",
+        "Original_Text": "혈도보호",
+        "English_Text": "Vital Protection",
+        "Russian_Text": "",
+        "Chinese_Text": "重整"
+    },
+    "60000304": {
+        "Dev_Desc": "공용패시브_이름_35",
+        "Original_Text": "압도",
+        "English_Text": "Overwhelm",
+        "Russian_Text": "",
+        "Chinese_Text": "捕捉破绽"
+    },
+    "60000305": {
+        "Dev_Desc": "공용패시브_이름_36",
+        "Original_Text": "파죽지세",
+        "English_Text": "Crushing Force",
+        "Russian_Text": "",
+        "Chinese_Text": "生命再生"
+    },
+    "60000306": {
+        "Dev_Desc": "공용패시브_이름_37",
+        "Original_Text": "투혼",
+        "English_Text": "Fighting Spirit",
+        "Russian_Text": "",
+        "Chinese_Text": "聪明"
+    },
+    "60000307": {
+        "Dev_Desc": "공용패시브_이름_38",
+        "Original_Text": "약학지식Ⅲ",
+        "English_Text": "Pharmacy Ⅲ",
+        "Russian_Text": "",
+        "Chinese_Text": "药学知识Ⅰ"
+    },
+    "60000308": {
+        "Dev_Desc": "공용패시브_이름_40",
+        "Original_Text": "물아일체",
+        "English_Text": "Oneness",
+        "Russian_Text": "",
+        "Chinese_Text": "无情"
+    },
+    "60000309": {
+        "Dev_Desc": "공용패시브_이름_41",
+        "Original_Text": "조화",
+        "English_Text": "Harmony",
+        "Russian_Text": "",
         "Chinese_Text": "血气方刚"
     },
     "60000310": {
-        "Dev_Desc": "공용패시브_이름_33",
-        "Original_Text": "선제대응Ⅱ",
+        "Dev_Desc": "공용패시브_이름_42",
+        "Original_Text": "집념Ⅰ",
         "English_Text": "Preemptive Move",
         "Russian_Text": "",
         "Chinese_Text": "先发制人"
     },
     "60000311": {
-        "Dev_Desc": "공용패시브_이름_34",
-        "Original_Text": "혈도보호",
+        "Dev_Desc": "공용패시브_이름_43",
+        "Original_Text": "집념Ⅱ",
         "English_Text": "Vital Protection",
         "Russian_Text": "",
         "Chinese_Text": "保护穴道"
     },
     "60000312": {
-        "Dev_Desc": "공용패시브_이름_35",
-        "Original_Text": "압도",
+        "Dev_Desc": "공용패시브_이름_44",
+        "Original_Text": "위세",
         "English_Text": "Overwhelm",
         "Russian_Text": "",
         "Chinese_Text": "压倒"
     },
     "60000313": {
-        "Dev_Desc": "공용패시브_이름_36",
-        "Original_Text": "파죽지세",
-        "English_Text": "Crushing Force",
-        "Russian_Text": "",
-        "Chinese_Text": "破竹之势"
-    },
-    "60000314": {
-        "Dev_Desc": "공용패시브_이름_37",
-        "Original_Text": "투혼",
-        "English_Text": "Fighting Spirit",
-        "Russian_Text": "",
-        "Chinese_Text": "斗魂"
-    },
-    "60000315": {
-        "Dev_Desc": "공용패시브_이름_38",
-        "Original_Text": "약학지식Ⅲ",
-        "English_Text": "Pharmacy Ⅱ",
-        "Russian_Text": "",
-        "Chinese_Text": "药学知识Ⅱ"
-    },
-    "60000316": {
-        "Dev_Desc": "공용패시브_이름_40",
-        "Original_Text": "물아일체",
-        "English_Text": "Oneness",
-        "Russian_Text": "",
-        "Chinese_Text": "一切"
-    },
-    "60000317": {
-        "Dev_Desc": "공용패시브_이름_41",
-        "Original_Text": "조화",
-        "English_Text": "Harmony",
-        "Russian_Text": "",
-        "Chinese_Text": "造化"
-    },
-    "60000318": {
         "Dev_Desc": "공용패시브_상세설명_1",
         "Original_Text": "단련을 통해 신체를 강화합니다.\\n근거리 공격력이 증가합니다.",
         "English_Text": "Strengthens the body.\nIncreases Melee Attack.",
         "Russian_Text": "",
-        "Chinese_Text": "通过锻炼强化身体。\n提升近距离攻击力。"
+        "Chinese_Text": "破竹之势"
     },
-    "60000319": {
+    "60000314": {
         "Dev_Desc": "공용패시브_상세설명_2",
         "Original_Text": "적을 확실히 포착할 수 있게 됩니다.\\n원거리 공격력이 증가합니다.",
         "English_Text": "Hones aim accuracy at a distant enemy.\nIncreases Ranged Attack.",
         "Russian_Text": "",
-        "Chinese_Text": "精确捕捉敌人。\n提升远距离攻击力。"
+        "Chinese_Text": "斗魂"
     },
-    "60000320": {
+    "60000315": {
         "Dev_Desc": "공용패시브_상세설명_3",
         "Original_Text": "열기를 다스리며 기공술을 연마합니다.\\n기공 공격력이 증가합니다.",
         "English_Text": "Trains Bangle Mastery by controlling heat.\nIncreases Force Attack.",
         "Russian_Text": "",
-        "Chinese_Text": "控制热气，磨炼气功术。\n提升气功攻击力。"
+        "Chinese_Text": "药学知识Ⅱ"
     },
-    "60000321": {
+    "60000316": {
         "Dev_Desc": "공용패시브_상세설명_4",
         "Original_Text": "수련을 통해 힘을 집중시키는 방법을 습득합니다.\\n근거리 관통력이 증가합니다.",
         "English_Text": "Learns how to focus strength through training.\nIncreases Melee Piercing.",
         "Russian_Text": "",
-        "Chinese_Text": "通过修炼习得集中力量的方法。\n提升近距离穿刺力。"
+        "Chinese_Text": "一切"
     },
-    "60000322": {
+    "60000317": {
         "Dev_Desc": "공용패시브_상세설명_5",
         "Original_Text": "전투에 대한 집중력이 오릅니다.\\n원거리 관통력이 증가합니다.",
         "English_Text": "Increases battle concentration.\nIncreases Ranged Piercing.",
         "Russian_Text": "",
-        "Chinese_Text": "集中精神投入战斗。\n提升远距离穿刺力。"
+        "Chinese_Text": "造化"
     },
-    "60000323": {
+    "60000318": {
         "Dev_Desc": "공용패시브_상세설명_6",
         "Original_Text": "기를 충돌시켜 충격을 극대화 합니다.\\n기공 관통력이 증가합니다.",
         "English_Text": "Maximizes shock by colliding energies.\nIncreases Force Piercing.",
         "Russian_Text": "",
-        "Chinese_Text": "运气调息，最大限度提升冲击。\n提升气功穿刺力。"
+        "Chinese_Text": "通过锻炼强化身体。\n提升近距离攻击力。"
     },
-    "60000324": {
+    "60000319": {
         "Dev_Desc": "공용패시브_상세설명_7",
         "Original_Text": "정신을 수양하며 기의 흐름을 이해합니다.\\n생명력 재생이 증가합니다.",
         "English_Text": "Understands the flow of energy through mental discipline.\nIncreases HP Regen.",
         "Russian_Text": "",
-        "Chinese_Text": "进行精神修养，理解气的流动。\n提升生命再生。"
+        "Chinese_Text": "精确捕捉敌人。\n提升远距离攻击力。"
     },
-    "60000325": {
+    "60000320": {
         "Dev_Desc": "공용패시브_상세설명_8",
         "Original_Text": "더 많은 물건을 들 수 있게 되어 최대 소지 무게가 증가합니다.",
         "English_Text": "Increases the Max Weight by granting the ability to carry more items.",
         "Russian_Text": "",
-        "Chinese_Text": "可携带更多东西，提升最大携带重量。"
+        "Chinese_Text": "控制热气，磨炼气功术。\n提升气功攻击力。"
     },
-    "60000326": {
+    "60000321": {
         "Dev_Desc": "공용패시브_상세설명_9",
         "Original_Text": "굳센 기상을 표출합니다.\\n근거리 공격력과 근거리 관통력이 증가합니다.",
         "English_Text": "Shows a strong spirit.\nIncreases Melee Attack and Melee Piercing.",
         "Russian_Text": "",
-        "Chinese_Text": "展现坚定气魄。\n提升近距离攻击力与近距离穿刺力。"
+        "Chinese_Text": "通过修炼习得集中力量的方法。\n提升近距离穿刺力。"
     },
-    "60000327": {
+    "60000322": {
         "Dev_Desc": "공용패시브_상세설명_10",
         "Original_Text": "멀리서도 적을 예리하게 포착할 수 있게 됩니다.\\n원거리 공격력과 원거리 관통력이 증가합니다.",
         "English_Text": "Accurately seizes enemy from a distance.\nIncreases Ranged Attack and Ranged Piercing.",
         "Russian_Text": "",
-        "Chinese_Text": "在远处也能精确捕捉敌人。\n提升远距离攻击力与远距离穿刺力。"
+        "Chinese_Text": "集中精神投入战斗。\n提升远距离穿刺力。"
     },
-    "60000328": {
+    "60000323": {
         "Dev_Desc": "공용패시브_상세설명_11",
         "Original_Text": "날카로운 기운으로 상대를 공격합니다.\\n기공 공격력과 기공 관통력이 증가합니다.",
         "English_Text": "Attacks enemy with acute energy.\nIncreases Force Attack and Force Piercing.",
         "Russian_Text": "",
-        "Chinese_Text": "以强大气力攻击敌人。\n提升气功攻击力与气功穿刺力。"
+        "Chinese_Text": "运气调息，最大限度提升冲击。\n提升气功穿刺力。"
     },
-    "60000329": {
+    "60000324": {
         "Dev_Desc": "공용패시브_상세설명_12",
         "Original_Text": "신체 한계의 틀을 깹니다.\\n근거리 명중이 증가합니다.",
         "English_Text": "Breaks the physical limit.\nIncreases Melee Accuracy.",
         "Russian_Text": "",
-        "Chinese_Text": "突破身体极限。\n提升近距离命中。"
+        "Chinese_Text": "进行精神修养，理解气的流动。\n提升生命再生。"
     },
-    "60000330": {
+    "60000325": {
         "Dev_Desc": "공용패시브_상세설명_13",
         "Original_Text": "주변을 색적하여 목표를 정밀히 타격합니다.\\n원거리 명중이 증가합니다.",
         "English_Text": "Searches for the enemy and accurately hits.\nIncreases Ranged Accuracy.",
         "Russian_Text": "",
-        "Chinese_Text": "搜索周围，精准打击目标。\n提升远距离命中。"
+        "Chinese_Text": "可携带更多东西，提升最大携带重量。"
     },
-    "60000331": {
+    "60000326": {
         "Dev_Desc": "공용패시브_상세설명_14",
         "Original_Text": "영특하고 날카로운 상태를 유지합니다.\\n기공 명중이 증가합니다.",
         "English_Text": "Hones intelligence and sharpness.\nIncreases Force Accuracy.",
         "Russian_Text": "",
-        "Chinese_Text": "保持灵敏锐利的状态。\n提升气功命中。"
+        "Chinese_Text": "展现坚定气魄。\n提升近距离攻击力与近距离穿刺力。"
     },
-    "60000332": {
+    "60000327": {
         "Dev_Desc": "공용패시브_상세설명_15",
         "Original_Text": "적을 단번에 꿰뚫습니다.\\n치명률이 증가합니다.",
         "English_Text": "Pierces the enemy at the first strike.\nIncreases Critical Rate.",
         "Russian_Text": "",
-        "Chinese_Text": "一击刺穿敌人。\n提升暴击率。"
+        "Chinese_Text": "在远处也能精确捕捉敌人。\n提升远距离攻击力与远距离穿刺力。"
     },
-    "60000333": {
+    "60000328": {
         "Dev_Desc": "공용패시브_상세설명_16",
         "Original_Text": "달궈지는 무쇠처럼 고통을 견디는 방법을 연마합니다.\\n방어력이 증가합니다.",
         "English_Text": "Endures pain like an iron rod endures heat.\nIncreases Defense.",
         "Russian_Text": "",
-        "Chinese_Text": "磨炼抵抗痛苦的方法。\n提升防御力。"
+        "Chinese_Text": "以强大气力攻击敌人。\n提升气功攻击力与气功穿刺力。"
     },
-    "60000334": {
+    "60000329": {
         "Dev_Desc": "공용패시브_상세설명_17",
         "Original_Text": "정신을 수양하며 기의 흐름을 온전히 이해합니다.\\n생명력 재생과 생명력이 증가합니다.",
         "English_Text": "Completely understands the flow of energy through mental discipline.\nIncreases HP Regen and HP.",
         "Russian_Text": "",
-        "Chinese_Text": "进行精神修养，完全理解气的流动。\n提升生命再生与生命。"
+        "Chinese_Text": "突破身体极限。\n提升近距离命中。"
     },
-    "60000335": {
+    "60000330": {
         "Dev_Desc": "공용패시브_상세설명_18",
         "Original_Text": "서책의 지식을 습득해 약재를 운용할 수 있게 됩니다.\\n물약 회복량이 증가합니다.",
-        "English_Text": "Trains to allow inner energy to flow smoothly.\nIncreases Focus Regen.",
+        "English_Text": "Becomes an expert in remedies.\nIncreases HP Tonic Boost.",
         "Russian_Text": "",
-        "Chinese_Text": "进行修养，使体内气息自然流动。\n提升内力再生。"
+        "Chinese_Text": "搜索周围，精准打击目标。\n提升远距离命中。"
     },
-    "60000336": {
+    "60000331": {
         "Dev_Desc": "공용패시브_상세설명_19",
         "Original_Text": "분노의 감정을 힘으로 승화합니다.\\n근거리 관통력, 근거리 명중이 증가합니다.",
         "English_Text": "Transcends rage into power.\nIncreases Melee Piercing and Melee Accuracy.",
         "Russian_Text": "",
-        "Chinese_Text": "将愤怒转化为力量。\n提升近距离穿刺力与近距离命中。"
+        "Chinese_Text": "保持灵敏锐利的状态。\n提升气功命中。"
     },
-    "60000337": {
+    "60000332": {
         "Dev_Desc": "공용패시브_상세설명_20",
         "Original_Text": "흐릿한 안개 너머의 적까지 통찰할 수 있게 됩니다.\\n원거리 관통력과 원거리 명중이 증가합니다.",
         "English_Text": "Sees through the fog to seize an enemy.\nIncrease Ranged Piercing and Ranged Accuracy.",
         "Russian_Text": "",
-        "Chinese_Text": "能够洞察迷雾对面的敌人。\n提升远距离穿刺力与远距离命中。"
+        "Chinese_Text": "一击刺穿敌人。\n提升暴击率。"
     },
-    "60000338": {
+    "60000333": {
         "Dev_Desc": "공용패시브_상세설명_21",
         "Original_Text": "기의 흐름을 정교하게 다룰 수 있게 됩니다.\\n기공 관통력과 기공 명중이 증가합니다.",
         "English_Text": "Exquisitely controls the flow of energy.\nIncreases Force Piercing and Force Accuracy.",
         "Russian_Text": "",
-        "Chinese_Text": "精巧地控制气的流动。\n提升气功穿刺力与气功命中。"
+        "Chinese_Text": "磨炼抵抗痛苦的方法。\n提升防御力。"
     },
-    "60000339": {
+    "60000334": {
         "Dev_Desc": "공용패시브_상세설명_22",
         "Original_Text": "벼려진 칼날과 같이 날 선 감각을 유지합니다.\\n치명률과 치명타 추가 공격력이 증가합니다.",
         "English_Text": "Stays keen as a sharpened blade.\nIncreases Critical Rate and Critical Bonus.",
         "Russian_Text": "",
-        "Chinese_Text": "像打磨的剑刃一样犀利敏锐。\n提升暴击率与暴击额外攻击力。"
+        "Chinese_Text": "进行精神修养，完全理解气的流动。\n提升生命再生与生命。"
     },
-    "60000340": {
+    "60000335": {
         "Dev_Desc": "공용패시브_상세설명_23",
         "Original_Text": "단단한 중갑을 착용하여 몸을 보호합니다.\\n방어력이 증가합니다.",
         "English_Text": "Dons hard, heavy armor to protect the body.\nIncreases Defense.",
         "Russian_Text": "",
-        "Chinese_Text": "使用坚固的重甲保护身体。\n提升防御力。"
+        "Chinese_Text": "进行修养，使体内气息自然流动。\n提升内力再生。"
     },
-    "60000341": {
+    "60000336": {
         "Dev_Desc": "공용패시브_상세설명_24",
         "Original_Text": "유연한 몸동작으로 적으로부터 자신을 지킵니다.\\n호신이 증가합니다.",
         "English_Text": "Protects self with flexible movements.\nIncreases Protection.",
         "Russian_Text": "",
-        "Chinese_Text": "以柔韧的身体动作保护自己。\n提升护身。"
+        "Chinese_Text": "将愤怒转化为力量。\n提升近距离穿刺力与近距离命中。"
     },
-    "60000342": {
+    "60000337": {
         "Dev_Desc": "공용패시브_상세설명_25",
         "Original_Text": "몸의 충격을 완화하는 법을 깨우쳐 무공 피해 내성이 증가합니다.",
         "English_Text": "Learns how to reduce shock.\nIncreases Technique Damage Resist.",
         "Russian_Text": "",
-        "Chinese_Text": "领悟抵消冲击的方法，提升武功伤害抗性。"
+        "Chinese_Text": "能够洞察迷雾对面的敌人。\n提升远距离穿刺力与远距离命中。"
     },
-    "60000343": {
+    "60000338": {
         "Dev_Desc": "공용패시브_상세설명_26",
         "Original_Text": "재정비하며 불의의 사태에 대비합니다.\\n화상 저항률과 출혈 저항률이 증가합니다.",
         "English_Text": "Prepares for any sudden accidents.\nIncreases Burn Resist and Bleed Resist.",
         "Russian_Text": "",
-        "Chinese_Text": "重整旗鼓，做好应对意外的准备。\n提升烧伤抵抗率与出血抵抗率。"
+        "Chinese_Text": "精巧地控制气的流动。\n提升气功穿刺力与气功命中。"
     },
-    "60000344": {
+    "60000339": {
         "Dev_Desc": "공용패시브_상세설명_27",
         "Original_Text": "상대의 빈틈을 찾아냅니다.\\n통제 적중률이 증가합니다.",
         "English_Text": "Finds the enemy's weak spot.\nIncreases CC Accuracy.",
         "Russian_Text": "",
-        "Chinese_Text": "找出对方的破绽。\n提升控制命中率。"
+        "Chinese_Text": "像打磨的剑刃一样犀利敏锐。\n提升暴击率与暴击额外攻击力。"
     },
-    "60000345": {
+    "60000340": {
         "Dev_Desc": "공용패시브_상세설명_28",
         "Original_Text": "재생의 기운이 솟아납니다.\\n생명력 재생과 생명력 절대 재생이 증가합니다.",
-        "English_Text": "Gains regenerating power.\nIncreases HP and HP Rate.",
+        "English_Text": "Gains regenerating power.\nIncreases HP Regen and Certain HP Regen.",
         "Russian_Text": "",
-        "Chinese_Text": "充满再生之力。\n提升生命与生命提升率。"
+        "Chinese_Text": "使用坚固的重甲保护身体。\n提升防御力。"
     },
-    "60000346": {
+    "60000341": {
         "Dev_Desc": "공용패시브_상세설명_29",
         "Original_Text": "적보다 한 수 먼저 내다보고 선제적으로 대응합니다.\\n회피가 증가합니다. ",
-        "English_Text": "Understands the nature of Focus within the body.\nIncreases Focus and Focus Regen.",
+        "English_Text": "Predicts the enemy's next move and responds.\nIncreases Evasion. ",
         "Russian_Text": "",
-        "Chinese_Text": "领悟内力在体内流动的原理。\n提升内力与内力再生。"
+        "Chinese_Text": "以柔韧的身体动作保护自己。\n提升护身。"
     },
-    "60000347": {
+    "60000342": {
         "Dev_Desc": "공용패시브_상세설명_30",
         "Original_Text": "서책의 지식을 습득해 약재를 운용할 수 있게 됩니다.\\n물약 회복량이 증가합니다.",
         "English_Text": "Becomes an expert in remedies.\nIncreases HP Tonic Boost.",
         "Russian_Text": "",
-        "Chinese_Text": "习得书本的知识，灵活利用药材。\n提升生命恢复药效果。"
+        "Chinese_Text": "领悟抵消冲击的方法，提升武功伤害抗性。"
     },
-    "60000348": {
+    "60000343": {
         "Dev_Desc": "공용패시브_상세설명_31",
-        "Original_Text": "인정 없는 태도로 무자비하게 무기를 휘두릅니다.\\n무기 공격력 증폭이 증가합니다.",
+        "Original_Text": "인정 없는 태도로 무자비하게 무기를 휘두릅니다.\\n무기 공격력 증폭과 무기 공격력이 증가합니다.",
         "English_Text": "Wields the weapon mercilessly.\nIncreases Amplified Weapon Attack.",
         "Russian_Text": "",
-        "Chinese_Text": "冷酷无情地挥舞武器。\n提升武器攻击力增幅。"
+        "Chinese_Text": "重整旗鼓，做好应对意外的准备。\n提升烧伤抵抗率与出血抵抗率。"
     },
-    "60000349": {
+    "60000344": {
         "Dev_Desc": "공용패시브_상세설명_32",
         "Original_Text": "몸에서 솟구치는 기운을 이용해 스스로를 보호할 수 있게 됩니다.\\n방어력과 호신이 증가합니다.",
         "English_Text": "Surging physical energy provides self-protection.\nIncreases Defense and Protection.",
         "Russian_Text": "",
-        "Chinese_Text": "利用体内迸发的气息保护自己。\n提升防御力与护身。"
+        "Chinese_Text": "找出对方的破绽。\n提升控制命中率。"
     },
-    "60000350": {
+    "60000345": {
         "Dev_Desc": "공용패시브_상세설명_33",
         "Original_Text": "적보다 한 수 먼저 내다보고 선제적으로 대응합니다.\\n회피가 증가합니다. ",
-        "English_Text": "Predicts the enemy's next move and responds.\nIncreases Evasion.",
+        "English_Text": "Predicts the enemy's next move and responds.\nIncreases Evasion. ",
         "Russian_Text": "",
-        "Chinese_Text": "看破敌人的动向，先发制人。\n提升闪避。"
+        "Chinese_Text": "充满再生之力。\n提升生命与生命提升率。"
     },
-    "60000351": {
+    "60000346": {
         "Dev_Desc": "공용패시브_상세설명_34",
-        "Original_Text": "몸의 점혈을 보호하여 급소를 막아냅니다.\\n치명타 호신이 증가합니다.",
+        "Original_Text": "몸의 점혈을 보호하여 급소를 막아냅니다.\\n치명 저항률과 치명타 호신이 증가합니다.",
         "English_Text": "Protects the vital points.\nIncreases Critical Protection.",
         "Russian_Text": "",
-        "Chinese_Text": "保护全身穴道，防止要害被攻击。\n提升暴击护身。"
+        "Chinese_Text": "领悟内力在体内流动的原理。\n提升内力与内力再生。"
     },
-    "60000352": {
+    "60000347": {
         "Dev_Desc": "공용패시브_상세설명_35",
         "Original_Text": "강력한 아우라로 적을 압도해 기세를 꺾습니다.\\n둔화 저항률과 경직 저항률이 증가합니다.",
         "English_Text": "Overwhelms the enemy with a fierce aura.\nIncreases Slow Resist and Petrify Resist.",
         "Russian_Text": "",
+        "Chinese_Text": "习得书本的知识，灵活利用药材。\n提升生命恢复药效果。"
+    },
+    "60000348": {
+        "Dev_Desc": "공용패시브_상세설명_36",
+        "Original_Text": "거리낌 없이 적을 쓰러트려 그 기세를 온 천하에 떨칩니다.\\n통제 적중률과 통제 숙련이 증가합니다.  ",
+        "English_Text": "Ruthlessly annihilate the enemy and make the world tremble at your feet.\nIncreases CC Accuracy and CC Master.  ",
+        "Russian_Text": "",
+        "Chinese_Text": "冷酷无情地挥舞武器。\n提升武器攻击力增幅。"
+    },
+    "60000349": {
+        "Dev_Desc": "공용패시브_상세설명_37",
+        "Original_Text": "위협과 속박으로부터 저항합니다.\\n통제 저항률이 증가합니다.",
+        "English_Text": "Resists threats and restrictions.\nIncreases CC Resist.",
+        "Russian_Text": "",
+        "Chinese_Text": "利用体内迸发的气息保护自己。\n提升防御力与护身。"
+    },
+    "60000350": {
+        "Dev_Desc": "공용패시브_상세설명_38",
+        "Original_Text": "서책의 지식을 습득해 많은 약재를 운용할 수 있게 됩니다.\\n물약 회복량과 물약 회복률이 증가합니다.",
+        "English_Text": "Becomes an expert in remedies.\nIncreases HP Tonic Boost and HP Tonic Rate.",
+        "Russian_Text": "",
+        "Chinese_Text": "看破敌人的动向，先发制人。\n提升闪避。"
+    },
+    "60000351": {
+        "Dev_Desc": "공용패시브_상세설명_40",
+        "Original_Text": "정신과 신체가 맞닿아 극도의 몰입 상태가 됩니다.\\n소울 발동률이 증가합니다.",
+        "English_Text": "The mind and body meld to enter an extreme immersion state.\nIncreases Soul Chance.",
+        "Russian_Text": "",
+        "Chinese_Text": "保护全身穴道，防止要害被攻击。\n提升暴击护身。"
+    },
+    "60000352": {
+        "Dev_Desc": "공용패시브_상세설명_41",
+        "Original_Text": "음과 양의 조화를 이뤄냅니다.\\n무공 공속이 증가합니다. ",
+        "English_Text": "Completes the harmony of Yin and Yang.\nIncreases Technique Attack Speed. ",
+        "Russian_Text": "",
         "Chinese_Text": "以强大魄力压倒敌人的气势。\n提升缓速抵抗率与僵直抵抗率。"
     },
     "60000353": {
-        "Dev_Desc": "공용패시브_상세설명_36",
-        "Original_Text": "거리낌 없이 적을 쓰러트려 그 기세를 온 천하에 떨칩니다.\\n통제 적중률과 통제 숙련이 증가합니다.  ",
+        "Dev_Desc": "공용패시브_상세설명_42",
+        "Original_Text": "포기하지 않는 마음으로 전투에 임합니다.\\n명중과 관통력이 증가합니다.",
         "English_Text": "Ruthlessly annihilate the enemy and make the world tremble at your feet.\nIncreases CC Accuracy and CC Master.",
         "Russian_Text": "",
         "Chinese_Text": "无往不利地击垮敌人，威震天下。\n提升控制命中率与控制熟练。"
     },
     "60000354": {
-        "Dev_Desc": "공용패시브_상세설명_37",
-        "Original_Text": "위협과 속박으로부터 저항합니다.\\n통제 저항률이 증가합니다.",
+        "Dev_Desc": "공용패시브_상세설명_43",
+        "Original_Text": "포기하지 않는 마음으로 끝까지 전투에 임합니다.\\n명중과 관통력이 증가합니다.",
         "English_Text": "Resists threats and restrictions.\nIncreases CC Resist.",
         "Russian_Text": "",
         "Chinese_Text": "抵抗威胁与束缚。\n提升控制抵抗率。"
     },
     "60000355": {
-        "Dev_Desc": "공용패시브_상세설명_38",
-        "Original_Text": "서책의 지식을 습득해 많은 약재를 운용할 수 있게 됩니다.\\n물약 회복량과 물약 회복률이 증가합니다.",
+        "Dev_Desc": "공용패시브_상세설명_44",
+        "Original_Text": "위협적인 기세로 적에게 맞섭니다.\\nPVP 명중과 PVP 치명률이 증가합니다.",
         "English_Text": "Becomes a greater expert in remedies.\nIncreases HP Tonic Boost and HP Tonic Rate.",
         "Russian_Text": "",
         "Chinese_Text": "习得书本的知识，灵活利用大量药材。\n提升生命恢复药效果与生命恢复药提升率。"
     },
     "60000356": {
-        "Dev_Desc": "공용패시브_상세설명_40",
-        "Original_Text": "정신과 신체가 맞닿아 극도의 몰입 상태가 됩니다.\\n소울 발동률이 증가합니다.",
-        "English_Text": "The mind and body meld to enter an extreme immersion state.\nIncreases Soul Chance.",
-        "Russian_Text": "",
-        "Chinese_Text": "精神和身体相结合，处于·极度投入状态.\n灵魂发动率增加."
-    },
-    "60000357": {
-        "Dev_Desc": "공용패시브_상세설명_41",
-        "Original_Text": "음과 양의 조화를 이뤄냅니다.\\n무공 공속이 증가합니다. ",
-        "English_Text": "Completes the harmony of Yin and Yang.\nIncreases Technique Attack Speed.",
-        "Russian_Text": "",
-        "Chinese_Text": "阴阳调和.\n技能速度增加."
-    },
-    "60000358": {
         "Dev_Desc": "공용패시브_효과_1",
         "Original_Text": "근거리 공격력 +1",
         "English_Text": "Melee Attack +1",
         "Russian_Text": "",
-        "Chinese_Text": "近距离攻击力+1"
+        "Chinese_Text": "精神和身体相结合，处于·极度投入状态.\n灵魂发动率增加."
     },
-    "60000359": {
+    "60000357": {
         "Dev_Desc": "공용패시브_효과_2",
         "Original_Text": "원거리 공격력 +1",
         "English_Text": "Ranged Attack +1",
         "Russian_Text": "",
-        "Chinese_Text": "远距离攻击力+1"
+        "Chinese_Text": "阴阳调和.\n技能速度增加."
     },
-    "60000360": {
+    "60000358": {
         "Dev_Desc": "공용패시브_효과_3",
         "Original_Text": "기공 공격력 +1",
         "English_Text": "Force Attack +1",
         "Russian_Text": "",
-        "Chinese_Text": "气功攻击力+1"
+        "Chinese_Text": "近距离攻击力+1"
     },
-    "60000361": {
+    "60000359": {
         "Dev_Desc": "공용패시브_효과_4",
         "Original_Text": "근거리 관통력 +2",
         "English_Text": "Melee Piercing +2",
         "Russian_Text": "",
-        "Chinese_Text": "近距离穿刺力+2"
+        "Chinese_Text": "远距离攻击力+1"
     },
-    "60000362": {
+    "60000360": {
         "Dev_Desc": "공용패시브_효과_5",
         "Original_Text": "원거리 관통력 +2",
         "English_Text": "Ranged Piercing +2",
         "Russian_Text": "",
-        "Chinese_Text": "远距离穿刺力+2"
+        "Chinese_Text": "气功攻击力+1"
     },
-    "60000363": {
+    "60000361": {
         "Dev_Desc": "공용패시브_효과_6",
         "Original_Text": "기공 관통력 +2",
         "English_Text": "Force Piercing +2",
         "Russian_Text": "",
-        "Chinese_Text": "气功穿刺力+2"
+        "Chinese_Text": "近距离穿刺力+2"
     },
-    "60000364": {
+    "60000362": {
         "Dev_Desc": "공용패시브_효과_7",
         "Original_Text": "생명력 재생 +5",
         "English_Text": "HP Regen +5",
         "Russian_Text": "",
-        "Chinese_Text": "生命再生+5"
+        "Chinese_Text": "远距离穿刺力+2"
     },
-    "60000365": {
+    "60000363": {
         "Dev_Desc": "공용패시브_효과_8",
         "Original_Text": "최대 소지 무게 +200",
         "English_Text": "Max Weight +200",
         "Russian_Text": "",
-        "Chinese_Text": "最大携带重量+200"
+        "Chinese_Text": "气功穿刺力+2"
     },
-    "60000366": {
+    "60000364": {
         "Dev_Desc": "공용패시브_효과_9",
         "Original_Text": "근거리 공격력 +1 근거리 관통력 +2",
         "English_Text": "Melee Attack +1 Melee Piercing +2",
         "Russian_Text": "",
-        "Chinese_Text": "近距离攻击力+1近距离穿刺力+2"
+        "Chinese_Text": "生命再生+5"
     },
-    "60000367": {
+    "60000365": {
         "Dev_Desc": "공용패시브_효과_10",
         "Original_Text": "원거리 공격력 +1 원거리 관통력 +2",
         "English_Text": "Ranged Attack +1 Ranged Piercing +2",
         "Russian_Text": "",
-        "Chinese_Text": "远距离攻击力+1远距离穿刺力+2"
+        "Chinese_Text": "最大携带重量+200"
     },
-    "60000368": {
+    "60000366": {
         "Dev_Desc": "공용패시브_효과_11",
         "Original_Text": "기공 공격력 +1 기공 관통력 +2",
         "English_Text": "Force Attack +1 Force Piercing +2",
         "Russian_Text": "",
-        "Chinese_Text": "气功攻击力+1气功穿刺力+2"
+        "Chinese_Text": "近距离攻击力+1近距离穿刺力+2"
     },
-    "60000369": {
+    "60000367": {
         "Dev_Desc": "공용패시브_효과_12",
         "Original_Text": "근거리 명중 +1",
         "English_Text": "Melee Accuracy +1",
         "Russian_Text": "",
-        "Chinese_Text": "近距离命中+1"
+        "Chinese_Text": "远距离攻击力+1远距离穿刺力+2"
     },
-    "60000370": {
+    "60000368": {
         "Dev_Desc": "공용패시브_효과_13",
         "Original_Text": "원거리 명중 +1",
         "English_Text": "Ranged Accuracy +1",
         "Russian_Text": "",
-        "Chinese_Text": "远距离命中+1"
+        "Chinese_Text": "气功攻击力+1气功穿刺力+2"
     },
-    "60000371": {
+    "60000369": {
         "Dev_Desc": "공용패시브_효과_14",
         "Original_Text": "기공 명중 +1",
         "English_Text": "Force Accuracy +1",
         "Russian_Text": "",
-        "Chinese_Text": "气功命中+1"
+        "Chinese_Text": "近距离命中+1"
     },
-    "60000372": {
+    "60000370": {
         "Dev_Desc": "공용패시브_효과_15",
         "Original_Text": "치명률 +3%",
         "English_Text": "Critical Rate +3%",
         "Russian_Text": "",
-        "Chinese_Text": "暴击率+3%"
+        "Chinese_Text": "远距离命中+1"
     },
-    "60000373": {
+    "60000371": {
         "Dev_Desc": "공용패시브_효과_16",
         "Original_Text": "방어력 +2",
         "English_Text": "Defense +2",
         "Russian_Text": "",
-        "Chinese_Text": "防御力+2"
+        "Chinese_Text": "气功命中+1"
     },
-    "60000374": {
+    "60000372": {
         "Dev_Desc": "공용패시브_효과_17",
         "Original_Text": "생명력 재생 +5 생명력 +150",
         "English_Text": "HP Regen +5 HP +150",
         "Russian_Text": "",
-        "Chinese_Text": "生命再生+5生命+150"
+        "Chinese_Text": "暴击率+3%"
     },
-    "60000375": {
+    "60000373": {
         "Dev_Desc": "공용패시브_효과_18",
         "Original_Text": "물약 회복량 +5",
-        "English_Text": "Focus Regen +3",
+        "English_Text": "HP Tonic Boost +5",
         "Russian_Text": "",
-        "Chinese_Text": "内力再生+3"
+        "Chinese_Text": "防御力+2"
     },
-    "60000376": {
+    "60000374": {
         "Dev_Desc": "공용패시브_효과_19",
         "Original_Text": "근거리 관통력 +2 근거리 명중 +3",
         "English_Text": "Melee Piercing +2 Melee Accuracy +3",
         "Russian_Text": "",
-        "Chinese_Text": "近距离穿刺力+2近距离命中+3"
+        "Chinese_Text": "生命再生+5生命+150"
     },
-    "60000377": {
+    "60000375": {
         "Dev_Desc": "공용패시브_효과_20",
         "Original_Text": "원거리 관통력 +2 원거리 명중 +3",
         "English_Text": "Ranged Piercing +2 Ranged Accuracy +3",
         "Russian_Text": "",
-        "Chinese_Text": "远距离穿刺力+2远距离命中+3"
+        "Chinese_Text": "内力再生+3"
     },
-    "60000378": {
+    "60000376": {
         "Dev_Desc": "공용패시브_효과_21",
         "Original_Text": "기공 관통력 +2 기공 명중 +3",
         "English_Text": "Force Piercing +2 Force Accuracy +3",
         "Russian_Text": "",
-        "Chinese_Text": "气功穿刺力+2气功命中+3"
+        "Chinese_Text": "近距离穿刺力+2近距离命中+3"
     },
-    "60000379": {
+    "60000377": {
         "Dev_Desc": "공용패시브_효과_22",
         "Original_Text": "치명률 +3% 치명타 추가 공격력 +5",
         "English_Text": "Critical Rate +3% Critical Bonus +5",
         "Russian_Text": "",
-        "Chinese_Text": "暴击率+3%暴击额外攻击力+5"
+        "Chinese_Text": "远距离穿刺力+2远距离命中+3"
     },
-    "60000380": {
+    "60000378": {
         "Dev_Desc": "공용패시브_효과_23",
         "Original_Text": "방어력 +3",
         "English_Text": "Defense +3",
         "Russian_Text": "",
-        "Chinese_Text": "防御力+3"
+        "Chinese_Text": "气功穿刺力+2气功命中+3"
     },
-    "60000381": {
+    "60000379": {
         "Dev_Desc": "공용패시브_효과_24",
         "Original_Text": "호신 +2",
         "English_Text": "Protection +2",
         "Russian_Text": "",
-        "Chinese_Text": "护身+2"
+        "Chinese_Text": "暴击率+3%暴击额外攻击力+5"
     },
-    "60000382": {
+    "60000380": {
         "Dev_Desc": "공용패시브_효과_25",
         "Original_Text": "무공 피해 내성 +2%",
         "English_Text": "Technique Damage Resist +2%",
         "Russian_Text": "",
-        "Chinese_Text": "武功伤害抗性+2%"
+        "Chinese_Text": "防御力+3"
     },
-    "60000383": {
+    "60000381": {
         "Dev_Desc": "공용패시브_효과_26",
         "Original_Text": "화상 저항률 +3% 출혈 저항률 +3%",
         "English_Text": "Burn Resist +3% Bleed Resist +3%",
         "Russian_Text": "",
-        "Chinese_Text": "烧伤抵抗率+3%出血抵抗率+3%"
+        "Chinese_Text": "护身+2"
     },
-    "60000384": {
+    "60000382": {
         "Dev_Desc": "공용패시브_효과_27",
         "Original_Text": "통제 적중률 +2%",
         "English_Text": "CC Accuracy +2%",
         "Russian_Text": "",
+        "Chinese_Text": "武功伤害抗性+2%"
+    },
+    "60000383": {
+        "Dev_Desc": "공용패시브_효과_28",
+        "Original_Text": "생명력 재생 +5 생명력 절대 재생 +5",
+        "English_Text": "HP Regen +5 Certain HP Regen +5",
+        "Russian_Text": "",
+        "Chinese_Text": "烧伤抵抗率+3%出血抵抗率+3%"
+    },
+    "60000384": {
+        "Dev_Desc": "공용패시브_효과_29",
+        "Original_Text": "회피 +3",
+        "English_Text": "Evasion +3",
+        "Russian_Text": "",
         "Chinese_Text": "控制命中率+2%"
     },
     "60000385": {
-        "Dev_Desc": "공용패시브_효과_28",
-        "Original_Text": "생명력 재생 +5 생명력 절대 재생 +5",
-        "English_Text": "HP +300 HP Rate +3%",
-        "Russian_Text": "",
-        "Chinese_Text": "生命+300生命提升率+3%"
-    },
-    "60000386": {
-        "Dev_Desc": "공용패시브_효과_29",
-        "Original_Text": "회피 +3",
-        "English_Text": "Focus +100 Focus Regen +3",
-        "Russian_Text": "",
-        "Chinese_Text": "内力+100内力再生+3"
-    },
-    "60000387": {
         "Dev_Desc": "공용패시브_효과_30",
         "Original_Text": "물약 회복량 +10",
         "English_Text": "HP Tonic Boost +10",
         "Russian_Text": "",
-        "Chinese_Text": "生命恢复药提升+10"
+        "Chinese_Text": "生命+300生命提升率+3%"
     },
-    "60000388": {
+    "60000386": {
         "Dev_Desc": "공용패시브_효과_31",
-        "Original_Text": "무기 공격력 증폭 +3%",
+        "Original_Text": "무기 공격력 증폭 +3% 무기 공격력 +5",
         "English_Text": "Amplified Weapon Attack +3%",
         "Russian_Text": "",
-        "Chinese_Text": "武器攻击力增幅+3%"
+        "Chinese_Text": "内力+100内力再生+3"
     },
-    "60000389": {
+    "60000387": {
         "Dev_Desc": "공용패시브_효과_32",
         "Original_Text": "방어력 +5 호신 +3",
         "English_Text": "Defense +5 Protection +3",
         "Russian_Text": "",
+        "Chinese_Text": "生命恢复药提升+10"
+    },
+    "60000388": {
+        "Dev_Desc": "공용패시브_효과_33",
+        "Original_Text": "회피 +5",
+        "English_Text": "Evasion +5",
+        "Russian_Text": "",
+        "Chinese_Text": "武器攻击力增幅+3%"
+    },
+    "60000389": {
+        "Dev_Desc": "공용패시브_효과_34",
+        "Original_Text": "치명 저항률 +3% 치명타 호신 +5",
+        "English_Text": "Critical Protection +5",
+        "Russian_Text": "",
         "Chinese_Text": "防御力+5护身+3"
     },
     "60000390": {
-        "Dev_Desc": "공용패시브_효과_33",
-        "Original_Text": "회피 +5",
-        "English_Text": "Evasion +2",
-        "Russian_Text": "",
-        "Chinese_Text": "闪避+2"
-    },
-    "60000391": {
-        "Dev_Desc": "공용패시브_효과_34",
-        "Original_Text": "치명타 호신 +5",
-        "English_Text": "Critical Protection +5",
-        "Russian_Text": "",
-        "Chinese_Text": "暴击护身+5"
-    },
-    "60000392": {
         "Dev_Desc": "공용패시브_효과_35",
         "Original_Text": "둔화 저항률 +3% 경직 저항률 +3%",
         "English_Text": "Slow Resist +3% Petrify Resist +3%",
         "Russian_Text": "",
-        "Chinese_Text": "缓速抵抗率+3%僵直抵抗率+3%"
+        "Chinese_Text": "闪避+2"
     },
-    "60000393": {
+    "60000391": {
         "Dev_Desc": "공용패시브_효과_36",
         "Original_Text": "통제 적중률 +3% 통제 숙련 +5",
         "English_Text": "CC Accuracy +3% CC Master +5",
         "Russian_Text": "",
-        "Chinese_Text": "控制命中率+3%控制熟练+5"
+        "Chinese_Text": "暴击护身+5"
     },
-    "60000394": {
+    "60000392": {
         "Dev_Desc": "공용패시브_효과_37",
         "Original_Text": "통제 저항률 +3%",
         "English_Text": "CC Resist +3%",
         "Russian_Text": "",
+        "Chinese_Text": "缓速抵抗率+3%僵直抵抗率+3%"
+    },
+    "60000393": {
+        "Dev_Desc": "공용패시브_효과_38",
+        "Original_Text": "물약 회복량 +10 물약 회복률 +5%",
+        "English_Text": "HP Tonic Boost +10, HP Tonic Rate +5%",
+        "Russian_Text": "",
+        "Chinese_Text": "控制命中率+3%控制熟练+5"
+    },
+    "60000394": {
+        "Dev_Desc": "공용패시브_효과_39",
+        "Original_Text": "소울 발동률 +2%",
+        "English_Text": "Soul Chance +2%",
+        "Russian_Text": "",
         "Chinese_Text": "控制抵抗率+3%"
     },
     "60000395": {
-        "Dev_Desc": "공용패시브_효과_38",
-        "Original_Text": "물약 회복량 +10 물약 회복률 +5%",
+        "Dev_Desc": "공용패시브_효과_40",
+        "Original_Text": "명중 +1 관통력 +3",
         "English_Text": "HP Tonic Boost +10 HP Tonic Rate +5%",
         "Russian_Text": "",
         "Chinese_Text": "生命恢复药提升+10生命恢复药提升率+5%"
     },
     "60000396": {
-        "Dev_Desc": "공용패시브_효과_39",
-        "Original_Text": "소울 발동률 +2%",
+        "Dev_Desc": "공용패시브_효과_41",
+        "Original_Text": "명중 +1 관통력 +5",
         "English_Text": "Soul Chance +2%",
         "Russian_Text": "",
         "Chinese_Text": "灵魂发动率+2%"
     },
     "60000397": {
-        "Dev_Desc": "공용패시브_효과_40",
-        "Original_Text": "무공 공격 속도 +1%",
+        "Dev_Desc": "공용패시브_효과_42",
+        "Original_Text": "PVP 명중 +2 PVP 치명률 +3%",
         "English_Text": "Technique Attack Speed +1%",
         "Russian_Text": "",
         "Chinese_Text": "技能攻击速度+1%"
     },
     "60000398": {
-        "Dev_Desc": "공용패시브_업그레이드_1",
-        "Original_Text": "근거리 공격력 증가",
-        "English_Text": "Melee Attack ▲",
+        "Dev_Desc": "공용패시브_효과_43",
+        "Original_Text": "무공 공격 속도 +1%",
+        "English_Text": "Technique Attack Speed +1%",
         "Russian_Text": "",
         "Chinese_Text": "近距离攻击力增加"
     },
     "60000399": {
-        "Dev_Desc": "공용패시브_업그레이드_2",
-        "Original_Text": "원거리 공격력 증가",
-        "English_Text": "Ranged Attack ▲",
+        "Dev_Desc": "공용패시브_업그레이드_1",
+        "Original_Text": "근거리 공격력 증가",
+        "English_Text": "Melee Attack ▲",
         "Russian_Text": "",
         "Chinese_Text": "远距离攻击力增加"
     },
     "60000400": {
-        "Dev_Desc": "공용패시브_업그레이드_3",
-        "Original_Text": "기공 공격력 증가",
-        "English_Text": "Force Attack ▲",
+        "Dev_Desc": "공용패시브_업그레이드_2",
+        "Original_Text": "원거리 공격력 증가",
+        "English_Text": "Ranged Attack ▲",
         "Russian_Text": "",
         "Chinese_Text": "气功攻击力增加"
     },
     "60000401": {
-        "Dev_Desc": "공용패시브_업그레이드_4",
-        "Original_Text": "근거리 관통력 증가",
-        "English_Text": "Melee Piercing ▲",
+        "Dev_Desc": "공용패시브_업그레이드_3",
+        "Original_Text": "기공 공격력 증가",
+        "English_Text": "Force Attack ▲",
         "Russian_Text": "",
         "Chinese_Text": "近距离攻击力增加"
     },
     "60000402": {
-        "Dev_Desc": "공용패시브_업그레이드_5",
-        "Original_Text": "원거리 관통력 증가",
-        "English_Text": "Ranged Piercing ▲",
+        "Dev_Desc": "공용패시브_업그레이드_4",
+        "Original_Text": "근거리 관통력 증가",
+        "English_Text": "Melee Piercing ▲",
         "Russian_Text": "",
         "Chinese_Text": "远程攻击力增加"
     },
     "60000403": {
-        "Dev_Desc": "공용패시브_업그레이드_6",
-        "Original_Text": "기공 관통력 증가",
-        "English_Text": "Force Piercing Damage ▲",
+        "Dev_Desc": "공용패시브_업그레이드_5",
+        "Original_Text": "원거리 관통력 증가",
+        "English_Text": "Ranged Piercing ▲",
         "Russian_Text": "",
         "Chinese_Text": "气功攻击力增加"
     },
     "60000404": {
-        "Dev_Desc": "공용패시브_업그레이드_7",
-        "Original_Text": "생명력 재생 증가",
-        "English_Text": "HP Regen ▲",
+        "Dev_Desc": "공용패시브_업그레이드_6",
+        "Original_Text": "기공 관통력 증가",
+        "English_Text": "Force Piercing Damage ▲",
         "Russian_Text": "",
         "Chinese_Text": "生命力再生增加"
     },
     "60000405": {
-        "Dev_Desc": "공용패시브_업그레이드_8",
-        "Original_Text": "최대 소지 무게 증가",
-        "English_Text": "Max Weight ▲",
+        "Dev_Desc": "공용패시브_업그레이드_7",
+        "Original_Text": "생명력 재생 증가",
+        "English_Text": "HP Regen ▲",
         "Russian_Text": "",
         "Chinese_Text": "最大负重增加"
     },
     "60000406": {
+        "Dev_Desc": "공용패시브_업그레이드_8",
+        "Original_Text": "최대 소지 무게 증가",
+        "English_Text": "Max Weight ▲",
+        "Russian_Text": "",
+        "Chinese_Text": "近距离攻击力增加"
+    },
+    "60000407": {
         "Dev_Desc": "공용패시브_업그레이드_9_1",
         "Original_Text": "근거리 공격력 증가",
         "English_Text": "Melee Attack ▲",
         "Russian_Text": "",
         "Chinese_Text": "近距离攻击力增加"
     },
-    "60000407": {
+    "60000408": {
         "Dev_Desc": "공용패시브_업그레이드_9_2",
         "Original_Text": "근거리 관통력 증가",
         "English_Text": "Melee Piercing ▲",
         "Russian_Text": "",
-        "Chinese_Text": "近距离攻击力增加"
+        "Chinese_Text": "远距离攻击力增加"
     },
-    "60000408": {
+    "60000409": {
         "Dev_Desc": "공용패시브_업그레이드_10_1",
         "Original_Text": "원거리 공격력 증가",
         "English_Text": "Ranged Attack ▲",
         "Russian_Text": "",
-        "Chinese_Text": "远距离攻击力增加"
+        "Chinese_Text": "远程攻击力增加"
     },
-    "60000409": {
+    "60000410": {
         "Dev_Desc": "공용패시브_업그레이드_10_2",
         "Original_Text": "원거리 관통력 증가",
         "English_Text": "Ranged Piercing ▲",
         "Russian_Text": "",
-        "Chinese_Text": "远程攻击力增加"
+        "Chinese_Text": "气功攻击力增加"
     },
-    "60000410": {
+    "60000411": {
         "Dev_Desc": "공용패시브_업그레이드_11_1",
         "Original_Text": "기공 공격력 증가",
         "English_Text": "Force Attack ▲",
         "Russian_Text": "",
         "Chinese_Text": "气功攻击力增加"
     },
-    "60000411": {
+    "60000412": {
         "Dev_Desc": "공용패시브_업그레이드_11_2",
         "Original_Text": "기공 관통력 증가",
         "English_Text": "Force Piercing Damage ▲",
         "Russian_Text": "",
-        "Chinese_Text": "气功攻击力增加"
+        "Chinese_Text": "近距离命中增加"
     },
-    "60000412": {
+    "60000413": {
         "Dev_Desc": "공용패시브_업그레이드_12",
         "Original_Text": "근거리 명중 증가",
         "English_Text": "Melee Accuracy ▲",
         "Russian_Text": "",
-        "Chinese_Text": "近距离命中增加"
+        "Chinese_Text": "远距离命中增加"
     },
-    "60000413": {
+    "60000414": {
         "Dev_Desc": "공용패시브_업그레이드_13",
         "Original_Text": "원거리 명중 증가",
         "English_Text": "Ranged Accuracy ▲",
         "Russian_Text": "",
-        "Chinese_Text": "远距离命中增加"
+        "Chinese_Text": "气功命中增加"
     },
-    "60000414": {
+    "60000415": {
         "Dev_Desc": "공용패시브_업그레이드_14",
         "Original_Text": "기공 명중 증가",
         "English_Text": "Force Accuracy ▲",
         "Russian_Text": "",
-        "Chinese_Text": "气功命中增加"
+        "Chinese_Text": "暴击率增加"
     },
-    "60000415": {
+    "60000416": {
         "Dev_Desc": "공용패시브_업그레이드_15",
         "Original_Text": "치명률 증가",
         "English_Text": "Critical Rate ▲",
         "Russian_Text": "",
-        "Chinese_Text": "暴击率增加"
+        "Chinese_Text": "防御力增加"
     },
-    "60000416": {
+    "60000417": {
         "Dev_Desc": "공용패시브_업그레이드_16",
         "Original_Text": "방어력 증가",
         "English_Text": "Defense ▲",
         "Russian_Text": "",
-        "Chinese_Text": "防御力增加"
+        "Chinese_Text": "生命力再生增加"
     },
-    "60000417": {
+    "60000418": {
         "Dev_Desc": "공용패시브_업그레이드_17_1",
         "Original_Text": "생명력 재생 증가",
         "English_Text": "HP Regen ▲",
         "Russian_Text": "",
-        "Chinese_Text": "生命力再生增加"
+        "Chinese_Text": "生命力增加"
     },
-    "60000418": {
+    "60000419": {
         "Dev_Desc": "공용패시브_업그레이드_17_2",
         "Original_Text": "생명력 증가",
         "English_Text": "HP ▲",
         "Russian_Text": "",
-        "Chinese_Text": "生命力增加"
+        "Chinese_Text": "内力再生增加"
     },
-    "60000419": {
+    "60000420": {
         "Dev_Desc": "공용패시브_업그레이드_18",
         "Original_Text": "내력 재생 증가",
         "English_Text": "Focus Regen ▲",
         "Russian_Text": "",
-        "Chinese_Text": "内力再生增加"
+        "Chinese_Text": "近距离攻击力增加"
     },
-    "60000420": {
+    "60000421": {
         "Dev_Desc": "공용패시브_업그레이드_19_1",
         "Original_Text": "근거리 관통력 증가",
         "English_Text": "Melee Piercing ▲",
         "Russian_Text": "",
-        "Chinese_Text": "近距离攻击力增加"
+        "Chinese_Text": "近距离命中增加"
     },
-    "60000421": {
+    "60000422": {
         "Dev_Desc": "공용패시브_업그레이드_19_2",
         "Original_Text": "근거리 명중 증가",
         "English_Text": "Melee Accuracy ▲",
         "Russian_Text": "",
-        "Chinese_Text": "近距离命中增加"
+        "Chinese_Text": "远程攻击力增加"
     },
-    "60000422": {
+    "60000423": {
         "Dev_Desc": "공용패시브_업그레이드_20_1",
         "Original_Text": "원거리 관통력 증가",
         "English_Text": "Ranged Piercing ▲",
         "Russian_Text": "",
-        "Chinese_Text": "远程攻击力增加"
+        "Chinese_Text": "远距离命中增加"
     },
-    "60000423": {
+    "60000424": {
         "Dev_Desc": "공용패시브_업그레이드_20_2",
         "Original_Text": "원거리 명중 증가",
         "English_Text": "Ranged Accuracy ▲",
         "Russian_Text": "",
-        "Chinese_Text": "远距离命中增加"
+        "Chinese_Text": "气功攻击力增加"
     },
-    "60000424": {
+    "60000425": {
         "Dev_Desc": "공용패시브_업그레이드_21_1",
         "Original_Text": "기공 관통력 증가",
         "English_Text": "Force Piercing Damage ▲",
         "Russian_Text": "",
-        "Chinese_Text": "气功攻击力增加"
+        "Chinese_Text": "气功命中增加"
     },
-    "60000425": {
+    "60000426": {
         "Dev_Desc": "공용패시브_업그레이드_21_2",
         "Original_Text": "기공 명중 증가",
         "English_Text": "Force Accuracy ▲",
         "Russian_Text": "",
-        "Chinese_Text": "气功命中增加"
+        "Chinese_Text": "暴击率增加"
     },
-    "60000426": {
+    "60000427": {
         "Dev_Desc": "공용패시브_업그레이드_22_1",
         "Original_Text": "치명률 증가",
         "English_Text": "Critical Rate ▲",
         "Russian_Text": "",
-        "Chinese_Text": "暴击率增加"
+        "Chinese_Text": "暴击追加攻击力增加"
     },
-    "60000427": {
+    "60000428": {
         "Dev_Desc": "공용패시브_업그레이드_22_2",
         "Original_Text": "치명타 추가 공격력 증가",
         "English_Text": "Critical Bonus ▲",
         "Russian_Text": "",
-        "Chinese_Text": "暴击追加攻击力增加"
+        "Chinese_Text": "防御力增加"
     },
-    "60000428": {
+    "60000429": {
         "Dev_Desc": "공용패시브_업그레이드_23",
         "Original_Text": "방어력 증가",
         "English_Text": "Defense ▲",
         "Russian_Text": "",
-        "Chinese_Text": "防御力增加"
+        "Chinese_Text": "增加护身"
     },
-    "60000429": {
+    "60000430": {
         "Dev_Desc": "공용패시브_업그레이드_24",
         "Original_Text": "호신 증가",
         "English_Text": "Protection ▲",
         "Russian_Text": "",
-        "Chinese_Text": "增加护身"
+        "Chinese_Text": "增加技能伤害耐性"
     },
-    "60000430": {
+    "60000431": {
         "Dev_Desc": "공용패시브_업그레이드_25",
         "Original_Text": "무공 피해 내성 증가",
         "English_Text": "Technique Damage Resist ▲",
         "Russian_Text": "",
-        "Chinese_Text": "增加技能伤害耐性"
+        "Chinese_Text": "图像抵抗率增加"
     },
-    "60000431": {
+    "60000432": {
         "Dev_Desc": "공용패시브_업그레이드_26_1",
         "Original_Text": "화상 저항률 증가",
         "English_Text": "Burn Resist ▲",
         "Russian_Text": "",
-        "Chinese_Text": "图像抵抗率增加"
+        "Chinese_Text": "出血抵抗率增加"
     },
-    "60000432": {
+    "60000433": {
         "Dev_Desc": "공용패시브_업그레이드_26_2",
         "Original_Text": "출혈 저항률 증가",
         "English_Text": "Bleed Resist ▲",
         "Russian_Text": "",
-        "Chinese_Text": "出血抵抗率增加"
+        "Chinese_Text": "控制命中率增加"
     },
-    "60000433": {
+    "60000434": {
         "Dev_Desc": "공용패시브_업그레이드_27",
         "Original_Text": "통제 적중률 증가",
         "English_Text": "CC Accuracy ▲",
         "Russian_Text": "",
-        "Chinese_Text": "控制命中率增加"
+        "Chinese_Text": "生命力增加"
     },
-    "60000434": {
+    "60000435": {
         "Dev_Desc": "공용패시브_업그레이드_28_1",
         "Original_Text": "생명력 증가",
         "English_Text": "HP ▲",
         "Russian_Text": "",
-        "Chinese_Text": "生命力增加"
+        "Chinese_Text": "生命力增加率增加"
     },
-    "60000435": {
+    "60000436": {
         "Dev_Desc": "공용패시브_업그레이드_28_2",
         "Original_Text": "생명력 증가율 증가",
         "English_Text": "HP Rate ▲",
         "Russian_Text": "",
-        "Chinese_Text": "生命力增加率增加"
+        "Chinese_Text": "内力增加"
     },
-    "60000436": {
+    "60000437": {
         "Dev_Desc": "공용패시브_업그레이드_29_1",
         "Original_Text": "내력 증가",
         "English_Text": "Focus ▲",
         "Russian_Text": "",
-        "Chinese_Text": "内力增加"
+        "Chinese_Text": "内力再生增加"
     },
-    "60000437": {
+    "60000438": {
         "Dev_Desc": "공용패시브_업그레이드_29_2",
         "Original_Text": "내력 재생 증가",
         "English_Text": "Focus Regen ▲",
         "Russian_Text": "",
-        "Chinese_Text": "内力再生增加"
-    },
-    "60000438": {
-        "Dev_Desc": "공용패시브_업그레이드_30",
-        "Original_Text": "물약 회복량 증가",
-        "English_Text": "HP Tonic ▲",
-        "Russian_Text": "",
         "Chinese_Text": "药水恢复量增加"
     },
     "60000439": {
-        "Dev_Desc": "공용패시브_업그레이드_31",
-        "Original_Text": "무기 공격력 증폭",
-        "English_Text": "Amplified Weapon Attack",
+        "Dev_Desc": "공용패시브_업그레이드_30",
+        "Original_Text": "물약 회복량 증가",
+        "English_Text": "HP Tonic Boost ▲",
         "Russian_Text": "",
         "Chinese_Text": "武器攻击力增加"
     },
     "60000440": {
-        "Dev_Desc": "공용패시브_업그레이드_32_1",
-        "Original_Text": "방어력 증가",
-        "English_Text": "Defense ▲",
+        "Dev_Desc": "공용패시브_업그레이드_31",
+        "Original_Text": "무기 공격력 증폭",
+        "English_Text": "Amplified Weapon Attack",
         "Russian_Text": "",
         "Chinese_Text": "防御力增加"
     },
     "60000441": {
-        "Dev_Desc": "공용패시브_업그레이드_32_2",
-        "Original_Text": "호신 증가",
-        "English_Text": "Protection ▲",
+        "Dev_Desc": "공용패시브_업그레이드_32_1",
+        "Original_Text": "방어력 증가",
+        "English_Text": "Defense ▲",
         "Russian_Text": "",
         "Chinese_Text": "增加护身"
     },
     "60000442": {
-        "Dev_Desc": "공용패시브_업그레이드_33",
-        "Original_Text": "회피 증가",
-        "English_Text": "Evasion ▲",
+        "Dev_Desc": "공용패시브_업그레이드_32_2",
+        "Original_Text": "호신 증가",
+        "English_Text": "Protection ▲",
         "Russian_Text": "",
         "Chinese_Text": "回避增加"
     },
     "60000443": {
-        "Dev_Desc": "공용패시브_업그레이드_34",
-        "Original_Text": "치명타 호신 증가",
-        "English_Text": "Critical Protection ▲",
+        "Dev_Desc": "공용패시브_업그레이드_33",
+        "Original_Text": "회피 증가",
+        "English_Text": "Evasion ▲",
         "Russian_Text": "",
         "Chinese_Text": "暴击护身增加"
     },
     "60000444": {
-        "Dev_Desc": "공용패시브_업그레이드_35_1",
-        "Original_Text": "둔화 저항률 증가",
-        "English_Text": "Slow Resist ▲",
+        "Dev_Desc": "공용패시브_업그레이드_34",
+        "Original_Text": "치명타 호신 증가",
+        "English_Text": "Critical Protection ▲",
         "Russian_Text": "",
         "Chinese_Text": "钝化抵抗率增加"
     },
     "60000445": {
-        "Dev_Desc": "공용패시브_업그레이드_35_2",
-        "Original_Text": "경직 저항률 증가",
-        "English_Text": "Petrify Resist ▲",
+        "Dev_Desc": "공용패시브_업그레이드_35_1",
+        "Original_Text": "둔화 저항률 증가",
+        "English_Text": "Slow Resist ▲",
         "Russian_Text": "",
         "Chinese_Text": "僵直抵抗率增加"
     },
     "60000446": {
-        "Dev_Desc": "공용패시브_업그레이드_36_1",
-        "Original_Text": "통제 적중률 증가",
-        "English_Text": "CC Accuracy ▲",
+        "Dev_Desc": "공용패시브_업그레이드_35_2",
+        "Original_Text": "경직 저항률 증가",
+        "English_Text": "Petrify Resist ▲",
         "Russian_Text": "",
         "Chinese_Text": "控制命中率增加"
     },
     "60000447": {
-        "Dev_Desc": "공용패시브_업그레이드_36_2",
-        "Original_Text": "통제 숙련 증가",
-        "English_Text": "CC Master ▲",
+        "Dev_Desc": "공용패시브_업그레이드_36_1",
+        "Original_Text": "통제 적중률 증가",
+        "English_Text": "CC Accuracy ▲",
         "Russian_Text": "",
         "Chinese_Text": "控制熟练增加"
     },
     "60000448": {
-        "Dev_Desc": "공용패시브_업그레이드_37",
-        "Original_Text": "통제 저항률 증가",
-        "English_Text": "CC Resist ▲",
+        "Dev_Desc": "공용패시브_업그레이드_36_2",
+        "Original_Text": "통제 숙련 증가",
+        "English_Text": "CC Master ▲",
         "Russian_Text": "",
         "Chinese_Text": "控制抵抗率增加"
     },
     "60000449": {
-        "Dev_Desc": "공용패시브_업그레이드_38_1",
-        "Original_Text": "물약 회복량 증가",
-        "English_Text": "HP Tonic ▲",
+        "Dev_Desc": "공용패시브_업그레이드_37",
+        "Original_Text": "통제 저항률 증가",
+        "English_Text": "CC Resist ▲",
         "Russian_Text": "",
         "Chinese_Text": "药水恢复量增加"
     },
     "60000450": {
-        "Dev_Desc": "공용패시브_업그레이드_38_2",
-        "Original_Text": "물약 회복률 증가",
-        "English_Text": "HP Tonic Rate ▲",
+        "Dev_Desc": "공용패시브_업그레이드_38_1",
+        "Original_Text": "물약 회복량 증가",
+        "English_Text": "HP Tonic Boost ▲",
         "Russian_Text": "",
         "Chinese_Text": "药水恢复率增加"
     },
     "60000451": {
-        "Dev_Desc": "공용패시브_업그레이드_39",
-        "Original_Text": "소울 발동률 증가",
-        "English_Text": "Soul Chance ▲",
+        "Dev_Desc": "공용패시브_업그레이드_38_2",
+        "Original_Text": "물약 회복률 증가",
+        "English_Text": "HP Tonic Rate ▲",
         "Russian_Text": "",
         "Chinese_Text": "灵魂发动率增加"
     },
     "60000452": {
-        "Dev_Desc": "공용패시브_업그레이드_40",
-        "Original_Text": "무공 공격 속도 증가",
-        "English_Text": "Technique Attack Speed ▲",
+        "Dev_Desc": "공용패시브_업그레이드_39",
+        "Original_Text": "소울 발동률 증가",
+        "English_Text": "Soul Chance ▲",
         "Russian_Text": "",
         "Chinese_Text": "武功攻击速度增加"
     },
     "60000453": {
         "Dev_Desc": "공용패시브_업그레이드_40",
         "Original_Text": "무공 공격 속도 증가",
-        "English_Text": "Increased air attack rate",
+        "English_Text": "Technique Attack Speed ▲",
         "Russian_Text": "",
         "Chinese_Text": "增加空袭率"
     }

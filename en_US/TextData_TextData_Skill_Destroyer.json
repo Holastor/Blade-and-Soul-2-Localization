@@ -94,21 +94,21 @@
         "Dev_Desc": "역사_불사버프_증폭",
         "id": 60040013,
         "alias": "Contents.Effect.Name.GreatAxe.409201",
-        "text": "Inflicted by Provoke."
+        "text": "Invincible"
     },
     "60040014": {
         "deprecated": false,
         "Dev_Desc": "역사_불사버프_증폭",
         "id": 60040014,
         "alias": "Contents.Effect.Desc.GreatAxe.409201",
-        "text": "Unable to move and fight"
+        "text": "Recovers HP by a percentage relative to CON."
     },
     "60040015": {
         "deprecated": false,
         "Dev_Desc": "역사_불사버프_증폭",
         "id": 60040015,
         "alias": "Contents.Effect.Option.GreatAxe.409201_1",
-        "text": "Deals a normal attack to a provoked target."
+        "text": "HoT while effective\nCC Resist +20%"
     },
     "60040016": {
         "deprecated": false,
@@ -184,21 +184,21 @@
         "Dev_Desc": "역사_불사버프_극한",
         "id": 60040026,
         "alias": "Contents.Effect.Name.GreatAxe.409301",
-        "text": "Wrath available\nSTR +3\nSTR +1 on accurate hit"
+        "text": "Invincible"
     },
     "60040027": {
         "deprecated": false,
         "Dev_Desc": "역사_불사버프_극한",
         "id": 60040027,
         "alias": "Contents.Effect.Desc.GreatAxe.409301",
-        "text": "STR on accurate hit +1 per stack. Max 10 stacks."
+        "text": "Recovers HP by a percentage relative to CON."
     },
     "60040028": {
         "deprecated": false,
         "Dev_Desc": "역사_불사버프_극한",
         "id": 60040028,
         "alias": "Contents.Effect.Option.GreatAxe.409301_1",
-        "text": "Invincible Chance Up"
+        "text": "HoT while effective\nCC Resist +20%"
     },
     "60040029": {
         "deprecated": false,
@@ -274,70 +274,70 @@
         "Dev_Desc": "역사_도발디버프",
         "id": 60040039,
         "alias": "Contents.Effect.Name.GreatAxe.13000",
-        "text": "Blocked Damage Down ▲ while Fortification is effective"
+        "text": "Provoke"
     },
     "60040040": {
         "deprecated": false,
         "Dev_Desc": "역사_도발디버프",
         "id": 60040040,
         "alias": "Contents.Effect.Desc.GreatAxe.13000",
-        "text": "Slam, Roar, and Invincible available while Fortification is effective"
+        "text": "Inflicted by Provoke."
     },
     "60040041": {
         "deprecated": false,
         "Dev_Desc": "역사_도발디버프",
         "id": 60040041,
         "alias": "Contents.Effect.Option.GreatAxe.13000",
-        "text": "Divine Wrath"
+        "text": "Unable to move and fight"
     },
     "60040042": {
         "deprecated": false,
         "Dev_Desc": "역사_도발디버프_극한",
         "id": 60040042,
         "alias": "Contents.Effect.Name.GreatAxe.13010",
-        "text": "Smashes with an axe to deal damage."
+        "text": "Provoke"
     },
     "60040043": {
         "deprecated": false,
         "Dev_Desc": "역사_도발디버프_극한",
         "id": 60040043,
         "alias": "Contents.Effect.Desc.GreatAxe.13010",
-        "text": "Damage ▲"
+        "text": "Inflicted by Provoke."
     },
     "60040044": {
         "deprecated": false,
         "Dev_Desc": "역사_도발디버프_극한",
         "id": 60040044,
         "alias": "Contents.Effect.Option.GreatAxe.13010",
-        "text": "Cooldown ▼"
+        "text": "Unable to move and fight"
     },
     "60040045": {
         "deprecated": false,
         "Dev_Desc": "역사_도발디버프",
         "id": 60040045,
         "alias": "Contents.Effect.Detail.GreatAxe.13000",
-        "text": "Has a chance to deal accelerated attacks up to 5 times"
+        "text": "Deals a normal attack to a provoked target."
     },
     "60040046": {
         "deprecated": false,
         "Dev_Desc": "역사_분노버프",
         "id": 60040046,
         "alias": "Contents.Effect.Name.GreatAxe.412101",
-        "text": "Breakdown"
+        "text": "Rage"
     },
     "60040047": {
         "deprecated": false,
         "Dev_Desc": "역사_분노버프",
         "id": 60040047,
         "alias": "Contents.Effect.Desc.GreatAxe.412101",
-        "text": "Strikes upward with full force, then smashes down to deal damage."
+        "text": "Wrath available"
     },
     "60040048": {
         "deprecated": false,
         "Dev_Desc": "역사_분노버프",
         "id": 60040048,
         "alias": "Contents.Effect.Option.GreatAxe.412101",
-        "text": "stiffness"
+        "text": "Wrath available\nSTR +3"
     },
     "60040049": {
         "deprecated": false,
@@ -350,21 +350,21 @@
         "Dev_Desc": "역사_분노버프_증폭",
         "id": 60040050,
         "alias": "Contents.Effect.Name.GreatAxe.412201",
-        "text": "Cooldown ▼"
+        "text": "Rage"
     },
     "60040051": {
         "deprecated": false,
         "Dev_Desc": "역사_분노버프_증폭",
         "id": 60040051,
         "alias": "Contents.Effect.Desc.GreatAxe.412201",
-        "text": "Extra damage relative to CON"
+        "text": "Wrath available"
     },
     "60040052": {
         "deprecated": false,
         "Dev_Desc": "역사_분노버프_증폭",
         "id": 60040052,
         "alias": "Contents.Effect.Option.GreatAxe.412201",
-        "text": "Hurricane"
+        "text": "Wrath available\nSTR +3\nSTR +1 on accurate hit"
     },
     "60040053": {
         "deprecated": false,
@@ -377,21 +377,21 @@
         "Dev_Desc": "역사_분노버프_극한",
         "id": 60040054,
         "alias": "Contents.Effect.Name.GreatAxe.412301",
-        "text": "Damage received +4%"
+        "text": "Rage"
     },
     "60040055": {
         "deprecated": false,
         "Dev_Desc": "역사_분노버프_극한",
         "id": 60040055,
         "alias": "Contents.Effect.Desc.GreatAxe.412301",
-        "text": "Petrify"
+        "text": "Wrath available"
     },
     "60040056": {
         "deprecated": false,
         "Dev_Desc": "역사_분노버프_극한",
         "id": 60040056,
         "alias": "Contents.Effect.Option.GreatAxe.412301",
-        "text": "Can move while casting Hurricane"
+        "text": "Wrath available\nSTR +3\nSTR +1 on accurate hit"
     },
     "60040057": {
         "deprecated": false,
@@ -404,21 +404,21 @@
         "Dev_Desc": "역사_불사활성화증가",
         "id": 60040058,
         "alias": "Contents.Effect.Name.GreatAxe.406901",
-        "text": "Extra Petrify effect"
+        "text": "Invincible Chance Up"
     },
     "60040059": {
         "deprecated": false,
         "Dev_Desc": "역사_불사활성화증가",
         "id": 60040059,
         "alias": "Contents.Effect.Desc.GreatAxe.406901",
-        "text": "Slam"
+        "text": "Increases the chance for Invincible"
     },
     "60040060": {
         "deprecated": false,
         "Dev_Desc": "역사_불사활성화증가",
         "id": 60040060,
         "alias": "Contents.Effect.Option.GreatAxe.406901",
-        "text": "Pounces onto the enemy to deal damage.\nHas a chance to inflict Petrify."
+        "text": "Invincible Chance ▲ while effective"
     },
     "60040061": {
         "deprecated": false,
@@ -444,98 +444,98 @@
         "Dev_Desc": "심판",
         "id": 60040064,
         "alias": "Contents.Skill.Name.GreatAxe.4001",
-        "text": "Petrify"
+        "text": "Judgment"
     },
     "60040065": {
         "deprecated": false,
         "Dev_Desc": "응징",
         "id": 60040065,
         "alias": "Contents.Skill.Name.GreatAxe.4002",
-        "text": "Invincible"
+        "text": "Punishment"
     },
     "60040066": {
         "deprecated": false,
         "Dev_Desc": "철벽",
         "id": 60040066,
         "alias": "Contents.Skill.Name.GreatAxe.4005",
-        "text": "Activates Invincible for 4 sec.\nHeals relative to CON over time.\nHas a chance to activate when hit."
+        "text": "Fortification"
     },
     "60040067": {
         "deprecated": false,
         "Dev_Desc": "철벽",
         "id": 60040067,
         "alias": "Contents.Skill.Desc.GreatAxe.4005",
-        "text": "Has a chance when hit"
+        "text": "Defends against attacks coming from ahead.\nNormal Attack is switched to Specialized Technique.\nPress once more to cancel Fortification and deal attack.\nUpon Block, reduces Vitality until reaches 0."
     },
     "60040068": {
         "deprecated": false,
         "Dev_Desc": "철벽_증",
         "id": 60040068,
         "alias": "Contents.Skill.acquireEffect.GreatAxe.4005_2",
-        "text": "CC Resist ▲ while casting Invincible"
+        "text": "Increases Parry Chance while Fortification is effective"
     },
     "60040069": {
         "deprecated": false,
         "Dev_Desc": "철벽_극",
         "id": 60040069,
         "alias": "Contents.Skill.acquireEffect.GreatAxe.4005_3",
-        "text": "Has a higher chance to activate when HP drops to a certain level.\nA successful defense increases the chance of activation."
+        "text": "Blocked Damage Down ▲ while Fortification is effective"
     },
     "60040070": {
         "deprecated": false,
         "Dev_Desc": "철벽_돌",
         "id": 60040070,
         "alias": "Contents.Skill.acquireEffect.GreatAxe.4005_4",
-        "text": "CC Resist ▲ while casting Invincible"
+        "text": "Slam, Roar, and Invincible available while Fortification is effective"
     },
     "60040071": {
         "deprecated": false,
         "Dev_Desc": "천벌",
         "id": 60040071,
         "alias": "Contents.Skill.Name.GreatAxe.4061",
-        "text": "Eradicate"
+        "text": "Divine Wrath"
     },
     "60040072": {
         "deprecated": false,
         "Dev_Desc": "천벌",
         "id": 60040072,
         "alias": "Contents.Skill.Desc.GreatAxe.4061",
-        "text": "Deals powerful damage with full force.\nHas a chance to inflict Stun.\nCan be used on a provoked, stunned, or airborne enemy."
+        "text": "Smashes with an axe to deal damage."
     },
     "60040073": {
         "deprecated": false,
         "Dev_Desc": "천벌_증폭",
         "id": 60040073,
         "alias": "Contents.Skill.acquireEffect.GreatAxe.4061_2",
-        "text": "Provoked, stunned, or airborne target"
+        "text": "Damage ▲"
     },
     "60040074": {
         "deprecated": false,
         "Dev_Desc": "천벌_극한",
         "id": 60040074,
         "alias": "Contents.Skill.acquireEffect.GreatAxe.4061_3",
-        "text": "Stun"
+        "text": "Cooldown ▼"
     },
     "60040075": {
         "deprecated": false,
         "Dev_Desc": "천벌_돌파",
         "id": 60040075,
         "alias": "Contents.Skill.acquireEffect.GreatAxe.4061_4",
-        "text": "Cooldown ▼"
+        "text": "Has a chance to deal accelerated attacks up to 5 times"
     },
     "60040076": {
         "deprecated": false,
         "Dev_Desc": "붕괴",
         "id": 60040076,
         "alias": "Contents.Skill.Name.GreatAxe.4071",
-        "text": "Accuracy of Eradicate ▲\nExtra damage relative to CON"
+        "text": "Breakdown"
     },
     "60040077": {
         "deprecated": false,
         "Dev_Desc": "붕괴",
         "id": 60040077,
         "alias": "Contents.Skill.Desc.GreatAxe.4071",
-        "text": "Attacks up to 3 enemies within range"
+        "text": "Strikes upward with full force, then smashes down to deal damage."
     },
     "60040078": {
         "deprecated": false,
@@ -549,35 +549,35 @@
         "Dev_Desc": "붕괴_증폭",
         "id": 60040079,
         "alias": "Contents.Skill.acquireEffect.GreatAxe.4072",
-        "text": "Roars ahead at an enemy.\nHas a chance to inflict Provoke.\nIncreases the chance to activate Invincible for a certain period of time."
+        "text": "Focus cost ▼"
     },
     "60040080": {
         "deprecated": false,
         "Dev_Desc": "붕괴_극한",
         "id": 60040080,
         "alias": "Contents.Skill.acquireEffect.GreatAxe.4074",
-        "text": "Provoke"
+        "text": "Cooldown ▼"
     },
     "60040081": {
         "deprecated": false,
         "Dev_Desc": "붕괴_돌파",
         "id": 60040081,
         "alias": "Contents.Skill.acquireEffect.GreatAxe.4075",
-        "text": "Provoke"
+        "text": "Extra damage relative to CON"
     },
     "60040082": {
         "deprecated": false,
         "Dev_Desc": "광풍",
         "id": 60040082,
         "alias": "Contents.Skill.Name.GreatAxe.4011",
-        "text": "Provokes up to 3 enemies within range"
+        "text": "Hurricane"
     },
     "60040083": {
         "deprecated": false,
         "Dev_Desc": "광풍",
         "id": 60040083,
         "alias": "Contents.Skill.Desc.GreatAxe.4011",
-        "text": "Provokes up to 3 enemies within range"
+        "text": "Spins to attack nearby enemies.\nCan move while casting Hurricane.\nDecreases incoming damage while casting Hurricane."
     },
     "60040084": {
         "deprecated": false,
@@ -591,329 +591,329 @@
         "Dev_Desc": "광풍_돌파",
         "id": 60040085,
         "alias": "Contents.Skill.useEffect.GreatAxe.4203_2",
-        "text": "Rage"
+        "text": "Petrify"
     },
     "60040086": {
         "deprecated": false,
         "Dev_Desc": "광풍_증폭",
         "id": 60040086,
         "alias": "Contents.Skill.acquireEffect.GreatAxe.4202",
-        "text": "Deals powerful damage with a blast of energy.\nActivates Rage for 3 sec.\nHas a chance to activate upon accurate hit."
+        "text": "Can move while casting Hurricane"
     },
     "60040087": {
         "deprecated": false,
         "Dev_Desc": "광풍_극한",
         "id": 60040087,
         "alias": "Contents.Skill.acquireEffect.GreatAxe.4203",
-        "text": "Upon an accurate hit, with a chance"
+        "text": "Defends incoming attacks while casting Hurricane\nChance of Invincible ▲ for 6 sec."
     },
     "60040088": {
         "deprecated": false,
         "Dev_Desc": "광풍_돌파",
         "id": 60040088,
         "alias": "Contents.Skill.acquireEffect.GreatAxe.4203_2",
-        "text": "3 sec. STR ▲ on accurate hit during Rage"
+        "text": "Extra Petrify effect"
     },
     "60040089": {
         "deprecated": false,
         "Dev_Desc": "격돌",
         "id": 60040089,
         "alias": "Contents.Skill.Name.GreatAxe.4031",
-        "text": "Has a chance to activate upon accurate hit of Cyclone and Eradicate."
+        "text": "Slam"
     },
     "60040090": {
         "deprecated": false,
         "Dev_Desc": "격돌",
         "id": 60040090,
         "alias": "Contents.Skill.Desc.GreatAxe.4031",
-        "text": "Has a chance to activate upon accurate hit of Cyclone and Eradicate."
+        "text": "Pounces onto the enemy to deal damage.\nHas a chance to inflict Petrify."
     },
     "60040091": {
         "deprecated": false,
         "Dev_Desc": "격돌_증폭",
         "id": 60040091,
         "alias": "Contents.Skill.acquireEffect.GreatAxe.4031_2",
-        "text": "Cyclone"
+        "text": "Focus cost ▼"
     },
     "60040092": {
         "deprecated": false,
         "Dev_Desc": "격돌_극한",
         "id": 60040092,
         "alias": "Contents.Skill.acquireEffect.GreatAxe.4031_3",
-        "text": "Throw the axe to attack.\nHas a chance to pull the enemy and inflicts Stun."
+        "text": "Has a chance to inflict Rage upon accurate attack"
     },
     "60040093": {
         "deprecated": false,
         "Dev_Desc": "격돌_돌파",
         "id": 60040093,
         "alias": "Contents.Skill.acquireEffect.GreatAxe.4031_4",
-        "text": "Pull, Stun"
+        "text": "Extends the range"
     },
     "60040094": {
         "deprecated": false,
         "Dev_Desc": "격돌_돌파",
         "id": 60040094,
         "alias": "Contents.Skill.useEffect.GreatAxe.4031_4",
-        "text": "Pull, Stun"
+        "text": "Petrify"
     },
     "60040095": {
         "deprecated": false,
         "Dev_Desc": "불사",
         "id": 60040095,
         "alias": "Contents.Skill.Name.GreatAxe.4081",
-        "text": "Extra attack on the pulled enemy"
+        "text": "Invincible"
     },
     "60040096": {
         "deprecated": false,
         "Dev_Desc": "불사",
         "id": 60040096,
         "alias": "Contents.Skill.Desc.GreatAxe.4081",
-        "text": "Extra attack on the pulled enemy"
+        "text": "Activates Invincible for 4 sec.\nHeals relative to CON over time.\nHas a chance to activate when hit."
     },
     "60040097": {
         "deprecated": false,
         "Dev_Desc": "불사",
         "id": 60040097,
         "alias": "Contents.Skill.require.GreatAxe.4081",
-        "text": "Extra attack on the pulled enemy"
+        "text": "Has a chance when hit"
     },
     "60040098": {
         "deprecated": false,
         "Dev_Desc": "불사_증",
         "id": 60040098,
         "alias": "Contents.Skill.acquireEffect.GreatAxe.4087",
-        "text": "Barrier"
+        "text": "CC Resist ▲ while casting Invincible"
     },
     "60040099": {
         "deprecated": false,
         "Dev_Desc": "불사_극",
         "id": 60040099,
         "alias": "Contents.Skill.acquireEffect.GreatAxe.4088",
-        "text": "Creates a barrier.\nDisables movement and defends the enemy's attack."
+        "text": "Has a higher chance to activate when HP drops to a certain level.\nA successful defense increases the chance of activation."
     },
     "60040100": {
         "deprecated": false,
         "Dev_Desc": "불사_돌",
         "id": 60040100,
         "alias": "Contents.Skill.acquireEffect.GreatAxe.4089",
-        "text": "Fury"
+        "text": "CC Resist ▲ while casting Invincible"
     },
     "60040101": {
         "deprecated": false,
         "Dev_Desc": "처단",
         "id": 60040101,
         "alias": "Contents.Skill.Name.GreatAxe.4086",
-        "text": "Deals damage by more rapidly attacking an enemy.\nCan be used during Rage."
+        "text": "Eradicate"
     },
     "60040102": {
         "deprecated": false,
         "Dev_Desc": "처단",
         "id": 60040102,
         "alias": "Contents.Skill.Desc.GreatAxe.4086",
-        "text": "Lasting Effects"
+        "text": "Deals powerful damage with full force.\nHas a chance to inflict Stun.\nCan be used on a provoked, stunned, or airborne enemy."
     },
     "60040103": {
         "deprecated": false,
         "Dev_Desc": "처단",
         "id": 60040103,
         "alias": "Contents.Skill.require.GreatAxe.4086",
-        "text": "Train"
+        "text": "Provoked, stunned, or airborne target"
     },
     "60040104": {
         "deprecated": false,
         "Dev_Desc": "처단",
         "id": 60040104,
         "alias": "Contents.Skill.useEffect.GreatAxe.4086",
-        "text": "Consistently performs high-intensity training.\nIncreases HP."
+        "text": "Stun"
     },
     "60040105": {
         "deprecated": false,
         "Dev_Desc": "처단_증폭",
         "id": 60040105,
         "alias": "Contents.Skill.acquireEffect.GreatAxe.4086_2",
-        "text": "HP ▲"
+        "text": "Cooldown ▼"
     },
     "60040106": {
         "deprecated": false,
         "Dev_Desc": "처단_극한",
         "id": 60040106,
         "alias": "Contents.Skill.acquireEffect.GreatAxe.4086_3",
-        "text": "Battlecry"
+        "text": "Accuracy of Eradicate ▲\nExtra damage relative to CON"
     },
     "60040107": {
         "deprecated": false,
         "Dev_Desc": "처단_돌파",
         "id": 60040107,
         "alias": "Contents.Skill.acquireEffect.GreatAxe.4086_4",
-        "text": "Strongly stimulates every muscle in the body.\nIncreases STR."
+        "text": "Attacks up to 3 enemies within range"
     },
     "60040108": {
         "deprecated": false,
         "Dev_Desc": "포효",
         "id": 60040108,
         "alias": "Contents.Skill.Name.GreatAxe.4208",
-        "text": "STR ▲"
+        "text": "Roar"
     },
     "60040109": {
         "deprecated": false,
         "Dev_Desc": "포효",
         "id": 60040109,
         "alias": "Contents.Skill.Desc.GreatAxe.4208",
-        "text": "Vitality"
+        "text": "Roars ahead at an enemy.\nHas a chance to inflict Provoke.\nIncreases the chance to activate Invincible for a certain period of time."
     },
     "60040110": {
         "deprecated": false,
         "Dev_Desc": "포효",
         "id": 60040110,
         "alias": "Contents.Skill.useEffect.GreatAxe.4208",
-        "text": "Performs active physical exercises.\nIncreases CON."
+        "text": "Provoke"
     },
     "60040111": {
         "deprecated": false,
         "Dev_Desc": "포효_증폭",
         "id": 60040111,
         "alias": "Contents.Skill.useEffect.GreatAxe.4208_2",
-        "text": "CON ▲"
+        "text": "Provoke"
     },
     "60040112": {
         "deprecated": false,
         "Dev_Desc": "포효_증폭",
         "id": 60040112,
         "alias": "Contents.Skill.acquireEffect.GreatAxe.4208_2",
-        "text": "Composition"
+        "text": "Provokes up to 3 enemies within range"
     },
     "60040113": {
         "deprecated": false,
         "Dev_Desc": "포효_극한",
         "id": 60040113,
         "alias": "Contents.Skill.acquireEffect.GreatAxe.4208_3",
-        "text": "Boosts natural recovery ability.\nIncreases HP Tonic recovery rate."
+        "text": "Provokes up to 3 enemies within range"
     },
     "60040114": {
         "deprecated": false,
         "Dev_Desc": "포효_돌파",
         "id": 60040114,
         "alias": "Contents.Skill.acquireEffect.GreatAxe.4208_4",
-        "text": "HP Tonic Efficiency ▲"
+        "text": "Provokes up to 3 enemies within range"
     },
     "60040115": {
         "deprecated": false,
         "Dev_Desc": "분노",
         "id": 60040115,
         "alias": "Contents.Skill.Name.GreatAxe.4036",
-        "text": "Steel"
+        "text": "Rage"
     },
     "60040116": {
         "deprecated": false,
         "Dev_Desc": "분노",
         "id": 60040116,
         "alias": "Contents.Skill.Desc.GreatAxe.4036",
-        "text": "Strengthens the body like iron.\nIncreases Defense."
+        "text": "Deals powerful damage with a blast of energy.\nActivates Rage for 3 sec.\nHas a chance to activate upon accurate hit."
     },
     "60040117": {
         "deprecated": false,
         "Dev_Desc": "분노",
         "id": 60040117,
         "alias": "Contents.Skill.require.GreatAxe.4036",
-        "text": "Defense ▲"
+        "text": "Upon an accurate hit, with a chance"
     },
     "60040118": {
         "deprecated": false,
         "Dev_Desc": "분노_증",
         "id": 60040118,
         "alias": "Contents.Skill.acquireEffect.GreatAxe.4041",
-        "text": "Golden Deva"
+        "text": "3 sec. STR ▲ on accurate hit during Rage"
     },
     "60040119": {
         "deprecated": false,
         "Dev_Desc": "분노_극",
         "id": 60040119,
         "alias": "Contents.Skill.acquireEffect.GreatAxe.4041_2",
-        "text": "Trains for enduring attacks while in defense.\nIncreases Block."
+        "text": "Has a chance to activate upon accurate hit of Cyclone and Eradicate."
     },
     "60040120": {
         "deprecated": false,
         "Dev_Desc": "분노_돌",
         "id": 60040120,
         "alias": "Contents.Skill.acquireEffect.GreatAxe.4041_3",
-        "text": "Block ▲"
+        "text": "Has a chance to activate upon accurate hit of Cyclone and Eradicate."
     },
     "60040121": {
         "deprecated": false,
         "Dev_Desc": "선풍",
         "id": 60040121,
         "alias": "Contents.Skill.Name.GreatAxe.4042",
-        "text": "Invincibility"
+        "text": "Cyclone"
     },
     "60040122": {
         "deprecated": false,
         "Dev_Desc": "선풍",
         "id": 60040122,
         "alias": "Contents.Skill.Desc.GreatAxe.4042",
-        "text": "Bears the enemy's attack with undying determination.\nDecreases Incoming Damage."
+        "text": "Throw the axe to attack.\nHas a chance to pull the enemy and inflicts Stun."
     },
     "60040123": {
         "deprecated": false,
         "Dev_Desc": "선풍",
         "id": 60040123,
         "alias": "Contents.Skill.useEffect.GreatAxe.4042",
-        "text": "Incoming Damage Down"
+        "text": "Pull, Stun"
     },
     "60040124": {
         "deprecated": false,
         "Dev_Desc": "선풍",
         "id": 60040124,
         "alias": "Contents.Skill.useEffect.GreatAxe.4042_3",
-        "text": "Technique Damage Factor ▲"
+        "text": "Pull, Stun"
     },
     "60040125": {
         "deprecated": false,
         "Dev_Desc": "선풍_증폭",
         "id": 60040125,
         "alias": "Contents.Skill.acquireEffect.GreatAxe.4044",
-        "text": "Outgoing Damage ▼"
+        "text": "Extra attack on the pulled enemy"
     },
     "60040126": {
         "deprecated": false,
         "Dev_Desc": "선풍_극한",
         "id": 60040126,
         "alias": "Contents.Skill.acquireEffect.GreatAxe.4044_3",
-        "text": "HP Heal Factor ▲"
+        "text": "Extra attack on the pulled enemy"
     },
     "60040127": {
         "deprecated": false,
         "Dev_Desc": "선풍_돌파",
         "id": 60040127,
         "alias": "Contents.Skill.acquireEffect.GreatAxe.4044_4",
-        "text": "Provoke duration ▲"
+        "text": "Extra attack on the pulled enemy"
     },
     "60040128": {
         "deprecated": false,
         "Dev_Desc": "장벽",
         "id": 60040128,
         "alias": "Contents.Skill.Name.GreatAxe.4161",
-        "text": "Incoming Damage of Barrier ▼"
+        "text": "Barrier"
     },
     "60040129": {
         "deprecated": false,
         "Dev_Desc": "장벽",
         "id": 60040129,
         "alias": "Contents.Skill.Desc.GreatAxe.4161",
-        "text": "HP +100"
+        "text": "Creates a barrier.\nDisables movement and defends the enemy's attack."
     },
     "60040130": {
         "deprecated": false,
         "Dev_Desc": "격노",
         "id": 60040130,
         "alias": "Contents.Skill.Name.GreatAxe.4091",
-        "text": "STR +4"
+        "text": "Fury"
     },
     "60040131": {
         "deprecated": false,
         "Dev_Desc": "격노",
         "id": 60040131,
         "alias": "Contents.Skill.Desc.GreatAxe.4091",
-        "text": "CON +4"
+        "text": "Deals damage by more rapidly attacking an enemy.\nCan be used during Rage."
     },
     "60040132": {
         "deprecated": false,
@@ -962,189 +962,189 @@
         "Dev_Desc": "지속효과",
         "id": 60040138,
         "alias": "Contents.Skill.Name.GreatAxe.Passive",
-        "text": "Increased Life"
+        "text": "Lasting Effects"
     },
     "60040139": {
         "deprecated": false,
         "Dev_Desc": "단련",
         "id": 60040139,
         "alias": "Contents.Skill.Name.GreatAxe.4801",
-        "text": "Happy"
+        "text": "Train"
     },
     "60040140": {
         "deprecated": false,
         "Dev_Desc": "단련",
         "id": 60040140,
         "alias": "Contents.Skill.Desc.GreatAxe.4801",
-        "text": "Exercise that strongly stimulates the muscles of the whole body.\\nIncreases strength."
+        "text": "Consistently performs high-intensity training.\nIncreases HP."
     },
     "60040141": {
         "deprecated": false,
         "Dev_Desc": "단련",
         "id": 60040141,
         "alias": "Contents.Skill.useEffect.GreatAxe.4801",
-        "text": "Increase strength"
+        "text": "HP ▲"
     },
     "60040142": {
         "deprecated": false,
         "Dev_Desc": "기합",
         "id": 60040142,
         "alias": "Contents.Skill.Name.GreatAxe.4802",
-        "text": "vitality"
+        "text": "Battlecry"
     },
     "60040143": {
         "deprecated": false,
         "Dev_Desc": "기합",
         "id": 60040143,
         "alias": "Contents.Skill.Desc.GreatAxe.4802",
-        "text": "Continues vigorous physical activity.\\nHealth increases."
+        "text": "Strongly stimulates every muscle in the body.\nIncreases STR."
     },
     "60040144": {
         "deprecated": false,
         "Dev_Desc": "기합",
         "id": 60040144,
         "alias": "Contents.Skill.useEffect.GreatAxe.4802",
-        "text": "Health increase"
+        "text": "STR ▲"
     },
     "60040145": {
         "deprecated": false,
         "Dev_Desc": "활력",
         "id": 60040145,
         "alias": "Contents.Skill.Name.GreatAxe.4803",
-        "text": "constitution"
+        "text": "Vitality"
     },
     "60040146": {
         "deprecated": false,
         "Dev_Desc": "활력",
         "id": 60040146,
         "alias": "Contents.Skill.Desc.GreatAxe.4803",
-        "text": "Increases innate recovery ability.\\nPotion recovery rate increases."
+        "text": "Performs active physical exercises.\nIncreases CON."
     },
     "60040147": {
         "deprecated": false,
         "Dev_Desc": "활력",
         "id": 60040147,
         "alias": "Contents.Skill.useEffect.GreatAxe.4803",
-        "text": "Increase potion recovery rate"
+        "text": "CON ▲"
     },
     "60040148": {
         "deprecated": false,
         "Dev_Desc": "체질",
         "id": 60040148,
         "alias": "Contents.Skill.Name.GreatAxe.4804",
-        "text": "steel"
+        "text": "Composition"
     },
     "60040149": {
         "deprecated": false,
         "Dev_Desc": "체질",
         "id": 60040149,
         "alias": "Contents.Skill.Desc.GreatAxe.4804",
-        "text": "Strengthens the body like steel.\\nDefense increases."
+        "text": "Boosts natural recovery ability.\nIncreases HP Tonic recovery rate."
     },
     "60040150": {
         "deprecated": false,
         "Dev_Desc": "체질",
         "id": 60040150,
         "alias": "Contents.Skill.useEffect.GreatAxe.4804",
-        "text": "Increase Defense"
+        "text": "HP Tonic Efficiency ▲"
     },
     "60040151": {
         "deprecated": false,
         "Dev_Desc": "강철",
         "id": 60040151,
         "alias": "Contents.Skill.Name.GreatAxe.4805",
-        "text": "Geumgang"
+        "text": "Steel"
     },
     "60040152": {
         "deprecated": false,
         "Dev_Desc": "강철",
         "id": 60040152,
         "alias": "Contents.Skill.Desc.GreatAxe.4805",
-        "text": "You train to be patient when defending. \\n Block increases."
+        "text": "Strengthens the body like iron.\nIncreases Defense."
     },
     "60040153": {
         "deprecated": false,
         "Dev_Desc": "강철",
         "id": 60040153,
         "alias": "Contents.Skill.useEffect.GreatAxe.4805",
-        "text": "Increase Block"
+        "text": "Defense ▲"
     },
     "60040154": {
         "deprecated": false,
         "Dev_Desc": "금강",
         "id": 60040154,
         "alias": "Contents.Skill.Name.GreatAxe.4806",
-        "text": "Indomitable"
+        "text": "Golden Deva"
     },
     "60040155": {
         "deprecated": false,
         "Dev_Desc": "금강",
         "id": 60040155,
         "alias": "Contents.Skill.Desc.GreatAxe.4806",
-        "text": "Reduces attacks from enemies with indomitable will. \\n Damage taken is reduced."
+        "text": "Trains for enduring attacks while in defense.\nIncreases Block."
     },
     "60040156": {
         "deprecated": false,
         "Dev_Desc": "금강",
         "id": 60040156,
         "alias": "Contents.Skill.useEffect.GreatAxe.4806",
-        "text": "Reduce damage taken"
+        "text": "Block ▲"
     },
     "60040157": {
         "deprecated": false,
         "Dev_Desc": "불굴",
         "id": 60040157,
         "alias": "Contents.Skill.Name.GreatAxe.4807",
-        "text": "Increase the damage factor of non-aircraft."
+        "text": "Invincibility"
     },
     "60040158": {
         "deprecated": false,
         "Dev_Desc": "불굴",
         "id": 60040158,
         "alias": "Contents.Skill.Desc.GreatAxe.4807",
-        "text": "Block Damage Reduction Rate"
+        "text": "Bears the enemy's attack with undying determination.\nDecreases Incoming Damage."
     },
     "60040159": {
         "deprecated": false,
         "Dev_Desc": "불굴",
         "id": 60040159,
         "alias": "Contents.Skill.useEffect.GreatAxe.4807",
-        "text": "Increased health recovery factor"
+        "text": "Incoming Damage Down"
     },
     "60040160": {
         "deprecated": false,
         "Dev_Desc": "무공 피해 계수 증가",
         "id": 60040160,
         "alias": "Contents.Skill.Upgrade.Name.GreatAxe.damage",
-        "text": "Increase Taunt Duration"
+        "text": "Technique Damage Factor ▲"
     },
     "60040161": {
         "deprecated": false,
         "Dev_Desc": "막기 피해 감소율 증가",
         "id": 60040161,
         "alias": "Contents.Skill.Upgrade.Name.GreatAxe.ReduceDamageRateBlock",
-        "text": "Reduce damage taken by barriers"
+        "text": "Outgoing Damage ▼"
     },
     "60040162": {
         "deprecated": false,
         "Dev_Desc": "건강 비례 체력 회복량 증가",
         "id": 60040162,
         "alias": "Contents.Skill.Upgrade.Name.GreatAxe.healConstitution",
-        "text": "Increased defense during immortality"
+        "text": "HP Heal Factor ▲"
     },
     "60040163": {
         "deprecated": false,
         "Dev_Desc": "도발 유지 시간 증가",
         "id": 60040163,
         "alias": "Contents.Skill.Upgrade.Name.GreatAxe.TauntTime",
-        "text": "150 Life"
+        "text": "Provoke duration ▲"
     },
     "60040164": {
         "deprecated": false,
         "Dev_Desc": "장벽 받는 피해량 감소",
         "id": 60040164,
         "alias": "Contents.Skill.Upgrade.Name.GreatAxe.ReduceDamageWall",
-        "text": "Power 2"
+        "text": "Incoming Damage of Barrier ▼"
     },
     "60040165": {
         "deprecated": false,
@@ -1158,49 +1158,49 @@
         "Dev_Desc": "생명력 증가",
         "id": 60040166,
         "alias": "Contents.Skill.Upgrade.Name.GreatAxe.HP",
-        "text": "Potion recovery rate 3%"
+        "text": "HP +100"
     },
     "60040167": {
         "deprecated": false,
         "Dev_Desc": "힘 증가",
         "id": 60040167,
         "alias": "Contents.Skill.Upgrade.Name.GreatAxe.Strength",
-        "text": "10 defense"
+        "text": "STR +4"
     },
     "60040168": {
         "deprecated": false,
         "Dev_Desc": "건강 증가",
         "id": 60040168,
         "alias": "Contents.Skill.Upgrade.Name.GreatAxe.Constitution",
-        "text": "Block 5"
+        "text": "CON +4"
     },
     "60040169": {
         "deprecated": false,
         "Dev_Desc": "생명력 회복약 증가율 증가",
         "id": 60040169,
         "alias": "Contents.Skill.Upgrade.Name.GreatAxe.HPPotionRecoveryRate",
-        "text": "Reduce damage taken by 5%"
+        "text": "HP Tonic Efficiency +2.3%"
     },
     "60040170": {
         "deprecated": false,
         "Dev_Desc": "방어력 증가",
         "id": 60040170,
         "alias": "Contents.Skill.Upgrade.Name.GreatAxe.Defence",
-        "text": "Justice"
+        "text": "Defense +7"
     },
     "60040171": {
         "deprecated": false,
         "Dev_Desc": "막기 증가",
         "id": 60040171,
         "alias": "Contents.Skill.Upgrade.Name.GreatAxe.Block",
-        "text": "Intensifies attacks against enemies with status ailments.\\n<textColor=[248:99:99:255]>Taunt</>, <textColor=[248:99:99:255]>Stun</>, <textColor= "
+        "text": "Block +21"
     },
     "60040172": {
         "deprecated": false,
         "Dev_Desc": "받는 피해량 감소",
         "id": 60040172,
         "alias": "Contents.Skill.Upgrade.Name.GreatAxe.ReduceTakenDamageRate",
-        "text": "taunt, stun, air target"
+        "text": "Incoming Damage Down +4.3%"
     },
     "60040173": {
         "deprecated": false,

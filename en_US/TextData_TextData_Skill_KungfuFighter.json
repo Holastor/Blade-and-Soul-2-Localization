@@ -221,7 +221,7 @@
         "Dev_Desc": "다리걸기_극한",
         "id": 60020031,
         "alias": "Contents.Skill.Desc.LightGauntlet.2062",
-        "text": "Has a chance to stun the enemy by tripping them.\nBashes the target with a shoulder to inflict Stun and damage."
+        "text": "Has a chance to stun the enemy by tripping them."
     },
     "60020032": {
         "deprecated": false,
@@ -235,21 +235,21 @@
         "Dev_Desc": "승천권",
         "id": 60020033,
         "alias": "Contents.Skill.Desc.LightGauntlet.2070",
-        "text": "Makes a short dash toward an enemy. Has a chance to inflict Airborne."
+        "text": "Makes a short dash toward an enemy. Has a chance to inflict Airborne.\nInflicts Stun when dropped onto the ground."
     },
     "60020034": {
         "deprecated": false,
         "Dev_Desc": "승천권_증폭",
         "id": 60020034,
         "alias": "Contents.Skill.Desc.LightGauntlet.2071",
-        "text": "Makes a short dash toward an enemy. Has a chance to inflict Airborne."
+        "text": "Makes a short dash toward an enemy. Has a chance to inflict Airborne.\nInflicts Stun when dropped onto the ground."
     },
     "60020035": {
         "deprecated": false,
         "Dev_Desc": "승천권_극한",
         "id": 60020035,
         "alias": "Contents.Skill.Desc.LightGauntlet.2072",
-        "text": "Makes a short dash toward an enemy. Has a chance to inflict Airborne.\nSubsequently smashes down with a foot to deal damage and inflict Stun."
+        "text": "Makes a short dash toward an enemy. Has a chance to inflict Airborne.\nInflicts Stun when dropped onto the ground."
     },
     "60020036": {
         "deprecated": false,
@@ -263,21 +263,21 @@
         "Dev_Desc": "붕권",
         "id": 60020037,
         "alias": "Contents.Skill.Desc.LightGauntlet.2320",
-        "text": "Throws a fist at a single enemy, forces the enemy back to deal damage and has a chance to inflict Stun.\nHas a chance to pierce the target's block and inflict Stun."
+        "text": "Throws a fist at a single enemy, then shoves and stuns the enemy at a chance.\nHas a chance to pierce the target's block and inflict Stun."
     },
     "60020038": {
         "deprecated": false,
         "Dev_Desc": "붕권_돌파",
         "id": 60020038,
         "alias": "Contents.Skill.Desc.LightGauntlet.2330",
-        "text": "Throws a fist at the enemies within range, forces the enemy back to deal damage and inflict Stun at a chance.\nHas a chance to pierce the target's block and inflicts Stun."
+        "text": "Throws a fist at multiple enemies within range, then shoves and stuns them at a chance.\nHas a chance to pierce the target's block and inflict Stun."
     },
     "60020039": {
         "deprecated": false,
         "Dev_Desc": "초월권무",
         "id": 60020039,
         "alias": "Contents.Skill.Desc.LightGauntlet.2340",
-        "text": "Dashes toward an enemy and uses powerful combo attacks.\nThe last blow has a chance to push and stun the enemy.\nThe caster is immune to all damage while using the technique."
+        "text": "Dashes toward an enemy and uses powerful combo attacks.\nThe last blow has a chance to push and stun the enemy.\nBecomes immunized to CC while casting the technique."
     },
     "60020040": {
         "deprecated": false,
@@ -368,35 +368,35 @@
         "Dev_Desc": "패시브 집중 효과",
         "id": 60020052,
         "alias": "Contents.Skill.useEffectDesc.LightGauntlet.2800",
-        "text": "Normal Attack Speed +0.3%"
+        "text": "Normal Attack Speed +3%"
     },
     "60020053": {
         "deprecated": false,
         "Dev_Desc": "패시브 근력 효과",
         "id": 60020053,
         "alias": "Contents.Skill.useEffectDesc.LightGauntlet.2801",
-        "text": "Gauntlets Attack +5"
+        "text": "Gauntlets Attack +2"
     },
     "60020054": {
         "deprecated": false,
         "Dev_Desc": "패시브 강기 효과",
         "id": 60020054,
         "alias": "Contents.Skill.useEffectDesc.LightGauntlet.2802",
-        "text": "STR +4, CON +4"
+        "text": "STR +1, CON +1"
     },
     "60020056": {
         "deprecated": false,
         "Dev_Desc": "패시브 날렵함 효과",
         "id": 60020056,
         "alias": "Contents.Skill.useEffectDesc.LightGauntlet.2804",
-        "text": "Evasion +7, Move Speed +2.3%"
+        "text": "Evasion +3, Move Speed +1%"
     },
     "60020057": {
         "deprecated": false,
         "Dev_Desc": "패시브 강격 효과",
         "id": 60020057,
         "alias": "Contents.Skill.useEffectDesc.LightGauntlet.2807",
-        "text": "CC Accuracy +2.3%"
+        "text": "CC Accuracy +3%"
     },
     "60020059": {
         "deprecated": false,
@@ -445,35 +445,35 @@
         "Dev_Desc": "횡이동_증폭_성장설명",
         "id": 60020065,
         "alias": "Contents.Skill.acquireEffectDesc.2020",
-        "text": "Vitality cost ▼"
+        "text": "Vitality Cost -100"
     },
     "60020066": {
         "deprecated": false,
         "Dev_Desc": "횡이동_극한_성장설명",
         "id": 60020066,
         "alias": "Contents.Skill.acquireEffectDesc.2030",
-        "text": "Range ▲"
+        "text": "Extends its range.\nIncoming Damage Down +10% for 1 sec"
     },
     "60020067": {
         "deprecated": false,
         "Dev_Desc": "횡이동_돌파_성장설명",
         "id": 60020067,
         "alias": "Contents.Skill.acquireEffectDesc.2040",
-        "text": "Evasion while casting the technique ▲"
+        "text": "Evasion +1,000 for 1 sec"
     },
     "60020068": {
         "deprecated": false,
         "Dev_Desc": "회천각_증폭_성장설명",
         "id": 60020068,
         "alias": "Contents.Skill.acquireEffectDesc.2110",
-        "text": "Cooldown ▼"
+        "text": "Focus Cost -2"
     },
     "60020069": {
         "deprecated": false,
         "Dev_Desc": "회천각_극한_성장설명",
         "id": 60020069,
         "alias": "Contents.Skill.acquireEffectDesc.2120",
-        "text": "Focus cost ▼"
+        "text": "Cooldown -2 sec"
     },
     "60020070": {
         "deprecated": false,
@@ -487,28 +487,28 @@
         "Dev_Desc": "승룡각_증폭_성장설명",
         "id": 60020071,
         "alias": "Contents.Skill.acquireEffectDesc.2150",
-        "text": "Inflicts Petrify on each accurate hit."
+        "text": "Cooldown -2 sec"
     },
     "60020072": {
         "deprecated": false,
         "Dev_Desc": "승룡각_극한_성장설명",
         "id": 60020072,
         "alias": "Contents.Skill.acquireEffectDesc.2160",
-        "text": "Cooldown ▼"
+        "text": "Number of hits ▲"
     },
     "60020073": {
         "deprecated": false,
         "Dev_Desc": "승룡각_돌파_성장설명",
         "id": 60020073,
         "alias": "Contents.Skill.acquireEffectDesc.2170",
-        "text": "Last blow inflicts Stun"
+        "text": "Has a chance to inflict Petrify on each hit.\n100% chance to activate Cutting Kick."
     },
     "60020074": {
         "deprecated": false,
         "Dev_Desc": "절명각_증폭_성장설명",
         "id": 60020074,
         "alias": "Contents.Skill.acquireEffectDesc.2190",
-        "text": "Focus cost ▼"
+        "text": "Certain Melee Piercing +10%"
     },
     "60020075": {
         "deprecated": false,
@@ -522,14 +522,14 @@
         "Dev_Desc": "절명각_돌파_성장설명",
         "id": 60020076,
         "alias": "Contents.Skill.acquireEffectDesc.2210",
-        "text": "Extra damage if attacking from behind"
+        "text": "Extra damage upon attacking a weak spot"
     },
     "60020077": {
         "deprecated": false,
         "Dev_Desc": "비염각_증폭_성장설명",
         "id": 60020077,
         "alias": "Contents.Skill.acquireEffectDesc.2230",
-        "text": "Cooldown ▼"
+        "text": "Cooldown -2 sec"
     },
     "60020078": {
         "deprecated": false,
@@ -543,21 +543,21 @@
         "Dev_Desc": "비염각_돌파_성장설명",
         "id": 60020079,
         "alias": "Contents.Skill.acquireEffectDesc.2250",
-        "text": "Charging range ▲"
+        "text": "Extends its range.\nHas a chance to consecutively use Jumping Slash."
     },
     "60020080": {
         "deprecated": false,
         "Dev_Desc": "다리걸기_증폭_성장설명",
         "id": 60020080,
         "alias": "Contents.Skill.acquireEffectDesc.2061",
-        "text": "Cooldown ▼"
+        "text": "Focus Cost -3"
     },
     "60020081": {
         "deprecated": false,
         "Dev_Desc": "다리걸기_극한_성장설명",
         "id": 60020081,
         "alias": "Contents.Skill.acquireEffectDesc.2062",
-        "text": "Iron Shoulder available in combo"
+        "text": "Cooldown -2 sec"
     },
     "60020082": {
         "deprecated": false,
@@ -578,35 +578,35 @@
         "Dev_Desc": "승천권_극한_성장설명",
         "id": 60020084,
         "alias": "Contents.Skill.acquireEffectDesc.2072",
-        "text": "Iron Butterfly available in combo"
+        "text": "Number of hits ▲"
     },
     "60020085": {
         "deprecated": false,
         "Dev_Desc": "승천권_돌파_성장설명",
         "id": 60020085,
         "alias": "Contents.Skill.acquireEffectDesc.2073",
-        "text": "Iron Butterfly available in combo"
+        "text": "Falling Kick available in combo"
     },
     "60020086": {
         "deprecated": false,
         "Dev_Desc": "붕권_증폭_성장설명",
         "id": 60020086,
         "alias": "Contents.Skill.acquireEffectDesc.2081",
-        "text": "Applies to up to 3 enemies within range"
+        "text": "Cooldown -3 sec"
     },
     "60020087": {
         "deprecated": false,
         "Dev_Desc": "붕권_극한_성장설명",
         "id": 60020087,
         "alias": "Contents.Skill.acquireEffectDesc.2082",
-        "text": "Applies to up to 3 enemies within range"
+        "text": "Block Piercing +7"
     },
     "60020088": {
         "deprecated": false,
         "Dev_Desc": "붕권_돌파_성장설명",
         "id": 60020088,
         "alias": "Contents.Skill.acquireEffectDesc.2083",
-        "text": "Applies to up to 3 enemies within range"
+        "text": "Switches to AoE damage\nApplies to up to 3 enemies within range"
     },
     "60020089": {
         "deprecated": false,
@@ -858,21 +858,21 @@
         "Dev_Desc": "맹호격_증폭_성장설명",
         "id": 60020127,
         "alias": "Contents.Skill.acquireEffectDesc.2111",
-        "text": "Extra damage relative to Normal Attack Speed"
+        "text": "Damage ▲"
     },
     "60020128": {
         "deprecated": false,
         "Dev_Desc": "맹호격_극한_성장설명",
         "id": 60020128,
         "alias": "Contents.Skill.acquireEffectDesc.2112",
-        "text": "Airborne"
+        "text": "Increases Stun Chance"
     },
     "60020129": {
         "deprecated": false,
         "Dev_Desc": "맹호격_돌파_성장설명",
         "id": 60020129,
         "alias": "Contents.Skill.acquireEffectDesc.2113",
-        "text": "Probability of applying \"air\" effect"
+        "text": "Has a chance to inflict Airborne."
     },
     "60020130": {
         "deprecated": false,
@@ -949,14 +949,14 @@
         "Dev_Desc": "근거리 공격력 증가",
         "id": 60020140,
         "alias": "Contents.Skill.Upgrade.LightGauntlet.11",
-        "text": "Increased Stiffness, Control, and Taunt Resistance"
+        "text": "Petrify, CC, Provoke Resist ▲"
     },
     "60020141": {
         "deprecated": false,
         "Dev_Desc": "경직, 통제, 도발 저항률 증가",
         "id": 60020141,
         "alias": "Contents.Skill.Upgrade.LightGauntlet.11",
-        "text": "Increased Ice Resistance"
+        "text": "Petrify, CC, Provoke Resist ▲"
     },
     "60020142": {
         "deprecated": false,
@@ -1222,7 +1222,7 @@
         "Dev_Desc": "개혈_돌파_경직/통제/도발/빙결 저항률증가, 이속 디버프 면역_효과",
         "id": 60020178,
         "alias": "Contents.Effect.Option.LightGauntlet.212310",
-        "text": "Stiffness, Control, Taunt, Freeze Resistance +52%\nImmune to all movement speed related debuffs"
+        "text": "Petrify, CC, Provoke, Freeze Resist +52%\nImmunizes against all Move Speed related debuffs."
     },
     "60020179": {
         "deprecated": false,

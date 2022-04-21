@@ -8,14 +8,14 @@
     },
     "60010001": {
         "Dev_Desc": "검사_막기명중률버프",
-        "Original_Text": "근거리 명중 증가",
+        "Original_Text": "통제 적중률 증가",
         "English_Text": "Increases Melee Accuracy",
         "Russian_Text": "",
         "Chinese_Text": "命中率提升的状态"
     },
     "60010002": {
         "Dev_Desc": "검사_막기명중률버프",
-        "Original_Text": "근거리 명중 +5",
+        "Original_Text": "통제 적중률 +5%",
         "English_Text": "Melee Accuracy +5",
         "Russian_Text": "",
         "Chinese_Text": "近距离命中提升（最高10阶段）"
@@ -37,736 +37,848 @@
     "60010005": {
         "Dev_Desc": "검사_어검징표",
         "Original_Text": "받는 피해량 증폭 +10%",
-        "English_Text": "Incoming Damage +10%",
+        "English_Text": "Amplified Incoming Damage +10%",
         "Russian_Text": "",
         "Chinese_Text": "受到的伤害率提升"
     },
     "60010006": {
-        "Dev_Desc": "일섬",
-        "Original_Text": "일섬",
+        "Dev_Desc": "검사_어검버프",
+        "Original_Text": "어검",
         "English_Text": "First Step",
         "Russian_Text": "",
         "Chinese_Text": "一闪"
     },
-    "60010010": {
-        "Dev_Desc": "일섬",
-        "Original_Text": "빠르게 이동하며 연속으로 피해를 입힙니다.\\n일정 확률로 \"경직\" 효과를 부여합니다.",
+    "60010007": {
+        "Dev_Desc": "검사_어검버프",
+        "Original_Text": "보스 공격력 증가",
         "English_Text": "Rapidly moves to deal damage consecutively.\nHas a chance to inflict Petrify.",
+        "Russian_Text": "",
+        "Chinese_Text": "보스 공격력 증가"
+    },
+    "60010008": {
+        "Dev_Desc": "검사_어검버프",
+        "Original_Text": "보스 공격력 +5",
+        "English_Text": "Petrify",
+        "Russian_Text": "",
+        "Chinese_Text": "보스 공격력 +5"
+    },
+    "60010009": {
+        "Dev_Desc": "검사_번개베기버프",
+        "Original_Text": "번개베기",
+        "English_Text": "Extra Block Piercing",
+        "Russian_Text": "",
+        "Chinese_Text": "번개베기"
+    },
+    "60010010": {
+        "Dev_Desc": "검사_번개베기버프",
+        "Original_Text": "공격 능력 증가",
+        "English_Text": "Consecutive use on every hit",
         "Russian_Text": "",
         "Chinese_Text": "快速移动至前方的同时斩击敌人。"
     },
-    "60010016": {
+    "60010011": {
+        "Dev_Desc": "검사_번개베기버프",
+        "Original_Text": "공격력 +12\\n명중 +9",
+        "English_Text": "Increases the range and damage on an enemy a255licted with Soul Stab.",
+        "Russian_Text": "",
+        "Chinese_Text": "공격력 +12\n명중 +9"
+    },
+    "60010012": {
+        "Dev_Desc": "일섬",
+        "Original_Text": "일섬",
+        "English_Text": "First Step",
+        "Russian_Text": "",
+        "Chinese_Text": "일섬"
+    },
+    "60010013": {
+        "Dev_Desc": "일섬",
+        "Original_Text": "빠르게 이동하며 연속으로 피해를 입힙니다.\\n일정 확률로 <textColor=[248:99:99:255]>경직</> 효과를 부여합니다.",
+        "English_Text": "Rapidly moves to deal damage consecutively.\nHas a chance to inflict Petrify.",
+        "Russian_Text": "",
+        "Chinese_Text": "빠르게 이동하며 연속으로 피해를 입힙니다.\n일정 확률로 <textColor=[248:99:99:255]>경직</> 효과를 부여합니다."
+    },
+    "60010014": {
         "Dev_Desc": "일섬",
         "Original_Text": "경직",
         "English_Text": "Petrify",
         "Russian_Text": "",
+        "Chinese_Text": "경직"
+    },
+    "60010015": {
+        "Dev_Desc": "일섬_증폭",
+        "Original_Text": "피해량 증가",
+        "English_Text": "Extra Block Piercing",
+        "Russian_Text": "",
+        "Chinese_Text": "피해량 증가"
+    },
+    "60010016": {
+        "Dev_Desc": "일섬_극한",
+        "Original_Text": "일정 확률로 막기를 관통하여 <textColor=[248:99:99:255]>기절</> 효과 적용",
+        "English_Text": "Consecutive use on every hit",
+        "Russian_Text": "",
         "Chinese_Text": "僵直"
     },
     "60010017": {
-        "Dev_Desc": "일섬_증폭",
-        "Original_Text": "힘에 비례하여 피해량 증가",
-        "English_Text": "Extra Block Piercing",
+        "Dev_Desc": "일섬_돌파",
+        "Original_Text": "<textColor=[248:99:99:255]>어검징표</> 대상 사용 거리, 피해량 증가",
+        "English_Text": "Increases the range and damage on an enemy a255licted with Soul Stab.",
         "Russian_Text": "",
         "Chinese_Text": "降低气力消耗量"
     },
     "60010018": {
-        "Dev_Desc": "일섬_극한",
-        "Original_Text": "일정 확률로 막기 관통\\n막기 관통 시 \"기절\" 효과 적용",
-        "English_Text": "Consecutive use on every hit",
-        "Russian_Text": "",
-        "Chinese_Text": "每次命中时都可以连续使用"
-    },
-    "60010019": {
-        "Dev_Desc": "일섬_돌파",
-        "Original_Text": "\"어검징표\" 대상 사용 거리, 피해량 증가",
-        "English_Text": "Increases the range and damage on an enemy afflicted with Soul Stab.",
-        "Russian_Text": "",
-        "Chinese_Text": "对“御剑缚灵”的目标使用时，射程与伤害量提升"
-    },
-    "60010020": {
         "Dev_Desc": "찔러베기",
         "Original_Text": "찔러베기",
         "English_Text": "Dashing Slash",
         "Russian_Text": "",
-        "Chinese_Text": "刺斩"
+        "Chinese_Text": "每次命中时都可以连续使用"
     },
-    "60010024": {
+    "60010019": {
         "Dev_Desc": "찔러베기",
         "Original_Text": "빠르게 찌르고 베어 연속으로 피해를 입힙니다.",
         "English_Text": "Quickly stabs and slashes to deal multiple attacks.",
         "Russian_Text": "",
-        "Chinese_Text": "快速刺击加斩击，连续造成伤害。"
+        "Chinese_Text": "对“御剑缚灵”的目标使用时，射程与伤害量提升"
     },
-    "60010031": {
+    "60010020": {
         "Dev_Desc": "찔러베기_증폭",
         "Original_Text": "내력 소모량 -1",
         "English_Text": "Damage ▲",
         "Russian_Text": "",
-        "Chinese_Text": "伤害量提升"
+        "Chinese_Text": "刺斩"
     },
-    "60010032": {
+    "60010021": {
         "Dev_Desc": "찔러베기_극한",
         "Original_Text": "재사용 대기시간 -2초",
         "English_Text": "Cooldown ▼",
         "Russian_Text": "",
-        "Chinese_Text": "冷却时间降低"
+        "Chinese_Text": "재사용 대기시간 -2초"
     },
-    "60010033": {
+    "60010022": {
         "Dev_Desc": "찔러베기_돌파",
-        "Original_Text": "힘에 비례하여 피해량 증가",
+        "Original_Text": "피해량 증가",
         "English_Text": "Focus cost ▼",
         "Russian_Text": "",
-        "Chinese_Text": "降低内力消耗"
+        "Chinese_Text": "피해량 증가"
     },
-    "60010034": {
+    "60010023": {
         "Dev_Desc": "찌르기",
         "Original_Text": "찌르기",
         "English_Text": "Stab",
         "Russian_Text": "",
-        "Chinese_Text": "刺击"
+        "Chinese_Text": "찌르기"
     },
-    "60010038": {
+    "60010024": {
         "Dev_Desc": "찌르기",
         "Original_Text": "적을 찔러 피해를 입힙니다.\\n공격 무공 후 연계하여 사용할 수 있습니다.",
         "English_Text": "Stabs an enemy to deal damage.\nCan be used in a combo attack after an attack technique.",
         "Russian_Text": "",
-        "Chinese_Text": "用剑刺击造成伤害。\n可在攻击武功后连接使用。"
+        "Chinese_Text": "快速刺击加斩击，连续造成伤害。"
     },
-    "60010044": {
+    "60010025": {
         "Dev_Desc": "찌르기",
         "Original_Text": "공격 무공 사용 후",
-        "English_Text": "After using an offensive technique",
+        "English_Text": "After using an o255ensive technique",
         "Russian_Text": "",
-        "Chinese_Text": "使用攻击武功后"
+        "Chinese_Text": "공격 무공 사용 후"
     },
-    "60010045": {
+    "60010026": {
         "Dev_Desc": "찌르기_증폭",
         "Original_Text": "내력 소모량 -2",
         "English_Text": "Focus cost ▼",
         "Russian_Text": "",
-        "Chinese_Text": "以一定概率攻击2次"
+        "Chinese_Text": "내력 소모량 -2"
     },
-    "60010046": {
+    "60010027": {
         "Dev_Desc": "찌르기_극한",
-        "Original_Text": "2회 찌르기로 변경",
+        "Original_Text": "\"2회 찌르기\"로 변경",
         "English_Text": "Switches to 2 Stabs",
         "Russian_Text": "",
-        "Chinese_Text": "连续攻击概率提升"
+        "Chinese_Text": "\"2회 찌르기\"로 변경"
     },
-    "60010047": {
+    "60010028": {
         "Dev_Desc": "찌르기_돌파",
-        "Original_Text": "3회 찌르기로 변경",
+        "Original_Text": "\"3회 찌르기\"로 변경",
         "English_Text": "Switches to 3 Stabs",
         "Russian_Text": "",
-        "Chinese_Text": "以一定概率攻击3次"
+        "Chinese_Text": "\"3회 찌르기\"로 변경"
     },
-    "60010048": {
+    "60010029": {
         "Dev_Desc": "올려베기",
         "Original_Text": "올려베기",
         "English_Text": "Upward Thrust",
         "Russian_Text": "",
-        "Chinese_Text": "挑斩"
+        "Chinese_Text": "올려베기"
     },
-    "60010052": {
+    "60010030": {
         "Dev_Desc": "올려베기",
-        "Original_Text": "검을 위로 강하게 휘둘러 공격합니다.\\n일정 확률로 \"공중\" 효과를 부여합니다.\\n공중에서 떨어진 후 \"기절\" 상태가 됩니다.",
+        "Original_Text": "검을 위로 강하게 휘둘러 공격합니다.\\n일정 확률로 <textColor=[248:99:99:255]>공중</> 효과를 부여합니다.",
         "English_Text": "Slashes upward to deal damage\nHas a chance to send the enemy airborne.\nInflicts Stun on impact with the ground.",
         "Russian_Text": "",
-        "Chinese_Text": "挑斩造成伤害并击飞敌人。\n从空中落地后陷入眩晕状态。"
+        "Chinese_Text": "검을 위로 강하게 휘둘러 공격합니다.\n일정 확률로 <textColor=[248:99:99:255]>공중</> 효과를 부여합니다."
     },
-    "60010058": {
+    "60010031": {
         "Dev_Desc": "올려베기",
-        "Original_Text": "공중, 기절",
+        "Original_Text": "공중",
         "English_Text": "Airborne, Stun",
         "Russian_Text": "",
-        "Chinese_Text": "浮空，眩晕"
+        "Chinese_Text": "伤害量提升"
     },
-    "60010059": {
+    "60010032": {
         "Dev_Desc": "올려베기_증폭",
         "Original_Text": "재사용 대기시간 -2초",
         "English_Text": "Cooldown ▼",
         "Russian_Text": "",
         "Chinese_Text": "冷却时间降低"
     },
-    "60010060": {
+    "60010033": {
         "Dev_Desc": "올려베기_극한",
-        "Original_Text": "\"공중\" 상태의 적에게 추가 연계 공격",
-        "English_Text": "Additional attack against enemies in \"air\" status",
+        "Original_Text": "<textColor=[248:99:99:255]>공중</> 상태의 적에게 추가 연계 공격",
+        "English_Text": "Damage ▲",
         "Russian_Text": "",
-        "Chinese_Text": "对处于“空中”状态的敌人进行额外攻击"
+        "Chinese_Text": "降低内力消耗"
     },
-    "60010061": {
+    "60010034": {
         "Dev_Desc": "올려베기_돌파",
         "Original_Text": "연계 공격 이후 추가 마무리 공격",
-        "English_Text": "Additional attack against enemies in \"air\" status",
+        "English_Text": "Extends the range",
         "Russian_Text": "",
-        "Chinese_Text": "对处于“空中”状态的敌人进行额外攻击"
+        "Chinese_Text": "刺击"
     },
-    "60010062": {
+    "60010035": {
         "Dev_Desc": "뛰어베기",
         "Original_Text": "뛰어베기",
         "English_Text": "Jumping Slash",
         "Russian_Text": "",
-        "Chinese_Text": "跳斩"
+        "Chinese_Text": "뛰어베기"
     },
-    "60010066": {
+    "60010036": {
         "Dev_Desc": "뛰어베기",
-        "Original_Text": "적에게 뛰어들어 피해를 입힙니다.\\n일정 확률로 \"경직\" 효과를 부여합니다.",
+        "Original_Text": "적에게 뛰어들어 피해를 입힙니다.\\n일정 확률로 <textColor=[248:99:99:255]>경직</> 효과를 부여합니다.",
         "English_Text": "Jumps onto an enemy to deal damage.\nHas a chance to inflict Petrify.",
         "Russian_Text": "",
-        "Chinese_Text": "跳起靠近敌人，造成伤害并使敌人僵直。\n可对一定距离外的目标使用。"
+        "Chinese_Text": "적에게 뛰어들어 피해를 입힙니다.\n일정 확률로 <textColor=[248:99:99:255]>경직</> 효과를 부여합니다."
     },
-    "60010072": {
+    "60010037": {
         "Dev_Desc": "뛰어베기",
         "Original_Text": "경직",
         "English_Text": "Petrify",
         "Russian_Text": "",
-        "Chinese_Text": "僵直"
+        "Chinese_Text": "경직"
     },
-    "60010073": {
+    "60010038": {
         "Dev_Desc": "뛰어베기_증폭",
         "Original_Text": "내력 소모량 -1",
         "English_Text": "Focus cost ▼",
         "Russian_Text": "",
-        "Chinese_Text": "降低内力消耗"
+        "Chinese_Text": "用剑刺击造成伤害。\n可在攻击武功后连接使用。"
     },
-    "60010074": {
+    "60010039": {
         "Dev_Desc": "뛰어베기_극한",
-        "Original_Text": "피해량 증가",
+        "Original_Text": "피해량 증가\\n사용 거리 증가",
         "English_Text": "Damage ▲",
         "Russian_Text": "",
-        "Chinese_Text": "伤害量提升"
+        "Chinese_Text": "피해량 증가\n사용 거리 증가"
     },
-    "60010075": {
+    "60010040": {
         "Dev_Desc": "뛰어베기_돌파",
-        "Original_Text": "사용 거리 증가\\n일정 확률로 연속 뛰어베기 사용",
+        "Original_Text": "일정 확률로 \"연속 뛰어베기\" 사용\\n몬스터 처치 시 일정 확률로 대기시간 초기화",
         "English_Text": "Extends the range",
         "Russian_Text": "",
-        "Chinese_Text": "射程提升"
+        "Chinese_Text": "일정 확률로 \"연속 뛰어베기\" 사용\n몬스터 처치 시 일정 확률로 대기시간 초기화"
     },
-    "60010076": {
+    "60010041": {
         "Dev_Desc": "천지가르기",
         "Original_Text": "천지가르기",
         "English_Text": "World Shaker",
         "Russian_Text": "",
-        "Chinese_Text": "天地斩"
+        "Chinese_Text": "천지가르기"
     },
-    "60010079": {
+    "60010042": {
         "Dev_Desc": "천지가르기",
-        "Original_Text": "힘을 모아 검을 내리쳐 강력한 피해를 입힙니다.\\n\"공중\", \"기절\" 상태인 대상에게 사용합니다.",
+        "Original_Text": "힘을 모아 검을 내리쳐 강력한 피해를 입힙니다.\\n<textColor=[248:99:99:255]>공중</>, <textColor=[248:99:99:255]>기절</> 상태인 대상에게 사용합니다.",
         "English_Text": "Deals powerful damage by striking down an enemy with a sword with full force.\nCan be used on an airborne or stunned enemy.",
         "Russian_Text": "",
-        "Chinese_Text": "蓄力斩击，造成大量伤害。\n可对眩晕，被击飞的敌人使用。"
+        "Chinese_Text": "힘을 모아 검을 내리쳐 강력한 피해를 입힙니다.\n<textColor=[248:99:99:255]>공중</>, <textColor=[248:99:99:255]>기절</> 상태인 대상에게 사용합니다."
     },
-    "60010084": {
+    "60010043": {
         "Dev_Desc": "천지가르기",
         "Original_Text": "공중, 기절 대상",
         "English_Text": "Airborne, Stunned",
         "Russian_Text": "",
-        "Chinese_Text": "浮空，眩晕的目标"
+        "Chinese_Text": "공중, 기절 대상"
     },
-    "60010085": {
+    "60010044": {
         "Dev_Desc": "천지가르기_증폭",
-        "Original_Text": "힘에 비례하여 피해량 증가",
+        "Original_Text": "피해량 증가",
         "English_Text": "Focus cost ▼",
         "Russian_Text": "",
-        "Chinese_Text": "对“御剑缚灵”的目标使用时，命中率提升"
+        "Chinese_Text": "使用攻击武功后"
     },
-    "60010086": {
+    "60010045": {
         "Dev_Desc": "천지가르기_극한",
-        "Original_Text": "근거리 치명률 +20%",
-        "English_Text": "Increases Accuracy on an enemy afflicted with Soul Stab.",
+        "Original_Text": "\"천지가르기\" 치명률 +30%",
+        "English_Text": "Increases Accuracy on an enemy a255licted with Soul Stab.",
         "Russian_Text": "",
-        "Chinese_Text": "对“御剑缚灵”的目标使用时，造成无视防御伤害"
+        "Chinese_Text": "以一定概率攻击2次"
     },
-    "60010087": {
+    "60010046": {
         "Dev_Desc": "천지가르기_돌파",
         "Original_Text": "추가 연계 공격",
-        "English_Text": "Increases Accuracy on an enemy afflicted with Soul Stab.",
+        "English_Text": "Increases Accuracy on an enemy a255licted with Soul Stab.",
         "Russian_Text": "",
-        "Chinese_Text": "对“御剑缚灵”的目标使用时，造成无视防御伤害"
+        "Chinese_Text": "连续攻击概率提升"
     },
-    "60010088": {
+    "60010047": {
         "Dev_Desc": "막기",
         "Original_Text": "막기",
         "English_Text": "Block",
         "Russian_Text": "",
-        "Chinese_Text": "格挡"
+        "Chinese_Text": "以一定概率攻击3次"
     },
-    "60010091": {
+    "60010048": {
         "Dev_Desc": "막기",
-        "Original_Text": "3초간 전방의 공격을 방어합니다.\\n막기 중 재사용 시, 회전베기를 사용합니다.",
+        "Original_Text": "3초간 전방의 공격을 방어합니다.\\n\"막기\" 중 재사용 시, \"회전베기\"를 사용합니다.",
         "English_Text": "Defends against attacks coming from ahead for 3 sec.\nPress once more to instantly cancel and use Spinning Slash.",
         "Russian_Text": "",
-        "Chinese_Text": "防御前方的攻击。\n防御成功时，短时间内提升命中率。"
+        "Chinese_Text": "挑斩"
     },
-    "60010095": {
+    "60010049": {
         "Dev_Desc": "막기",
         "Original_Text": "방어",
         "English_Text": "Defense",
         "Russian_Text": "",
-        "Chinese_Text": "防御"
+        "Chinese_Text": "방어"
     },
-    "60010096": {
+    "60010050": {
         "Dev_Desc": "막기_증폭",
-        "Original_Text": "방어 성공 시, 회전베기 피해량 증가",
+        "Original_Text": "방어 성공 시, \"회전베기\" 피해량 증가",
         "English_Text": "Spinning Slash's damage ▲ upon a successful Block",
         "Russian_Text": "",
-        "Chinese_Text": "防御时间提升"
+        "Chinese_Text": "방어 성공 시, \"회전베기\" 피해량 증가"
     },
-    "60010097": {
+    "60010051": {
         "Dev_Desc": "막기_극한",
-        "Original_Text": "회전베기 사용 중 받는 피해량 감소 +30%",
+        "Original_Text": "\"회전베기\" 사용 중 받는 피해량 감소 +30%",
         "English_Text": "Incoming Damage ▼ while casting Spinning Slash",
         "Russian_Text": "",
-        "Chinese_Text": "防御成功时，短时间内提升控制命中率"
+        "Chinese_Text": "\"회전베기\" 사용 중 받는 피해량 감소 +30%"
     },
-    "60010098": {
+    "60010052": {
         "Dev_Desc": "막기_돌파",
-        "Original_Text": "튕기기 발동률 +50%",
+        "Original_Text": "튕기기 발동률 +50%\\n튕기기 성공 시, 5초간 통제 적중률 +5%",
         "English_Text": "Stun Chance ▲",
         "Russian_Text": "",
-        "Chinese_Text": "防御成功时，提升控制命中率"
+        "Chinese_Text": "挑斩造成伤害并击飞敌人。\n从空中落地后陷入眩晕状态。"
     },
-    "60010099": {
+    "60010053": {
         "Dev_Desc": "어검징표",
         "Original_Text": "어검징표",
         "English_Text": "Soul Stab",
         "Russian_Text": "",
-        "Chinese_Text": "御剑缚灵"
+        "Chinese_Text": "어검징표"
     },
-    "60010101": {
+    "60010054": {
         "Dev_Desc": "어검징표",
-        "Original_Text": "적에게 어검을 꽂아 피해를 입힙니다.\\n\"어검징표\" 효과를 부여합니다.\\n\"어검징표\" 중 받는 피해량이 증가합니다.",
-        "English_Text": "Stabs the enemy with Spectral Blade.\nInflicts Soul Stab.\nIncreases damage while Soul Stab is effective.",
+        "Original_Text": "적에게 어검을 꽂아 피해를 입힙니다.\\n<textColor=[248:99:99:255]>어검징표</> 효과를 부여합니다.\\n<textColor=[248:99:99:255]>어검징표</> 중 받는 피해량이 증가합니다.",
+        "English_Text": "Stabs the enemy with Spectral Blade.\nInflicts Soul Stab.\nIncreases damage while Soul Stab is e255ective.",
         "Russian_Text": "",
-        "Chinese_Text": "把御剑刺入敌人，提升敌人受到的伤害量。"
+        "Chinese_Text": "적에게 어검을 꽂아 피해를 입힙니다.\n<textColor=[248:99:99:255]>어검징표</> 효과를 부여합니다.\n<textColor=[248:99:99:255]>어검징표</> 중 받는 피해량이 증가합니다."
     },
-    "60010104": {
+    "60010055": {
         "Dev_Desc": "어검징표",
         "Original_Text": "받는 피해량 증폭 +10%",
         "English_Text": "Soul Stab",
         "Russian_Text": "",
-        "Chinese_Text": "御剑缚灵"
+        "Chinese_Text": "받는 피해량 증폭 +10%"
     },
-    "60010105": {
+    "60010056": {
         "Dev_Desc": "어검징표_증",
         "Original_Text": "받는 피해량 증폭 +10%, 기절",
         "English_Text": "Soul Stab, Stun",
         "Russian_Text": "",
-        "Chinese_Text": "御剑缚灵，眩晕"
+        "Chinese_Text": "받는 피해량 증폭 +10%, 기절"
     },
-    "60010107": {
+    "60010057": {
         "Dev_Desc": "어검징표_증",
-        "Original_Text": "내력 소모량 -5",
-        "English_Text": "Extra Stun effect",
+        "Original_Text": "30초간 <textColor=[136:161:235:255]>어검</> 효과\\n<textColor=[136:161:235:255]>어검</> 효과 중 보스 공격력 +5",
+        "English_Text": "Extra Stun e255ect",
         "Russian_Text": "",
-        "Chinese_Text": "添加“眩晕”效果"
+        "Chinese_Text": "30초간 <textColor=[136:161:235:255]>어검</> 효과\n<textColor=[136:161:235:255]>어검</> 효과 중 보스 공격력 +5"
     },
-    "60010108": {
+    "60010058": {
         "Dev_Desc": "어검징표_극",
         "Original_Text": "사용 거리 증가",
-        "English_Text": "Extra Stun effect",
+        "English_Text": "Extra Stun e255ect",
         "Russian_Text": "",
-        "Chinese_Text": "添加“眩晕”效果"
+        "Chinese_Text": "浮空，眩晕"
     },
-    "60010109": {
+    "60010059": {
         "Dev_Desc": "어검징표_돌",
-        "Original_Text": "일정 확률로 \"기절\" 효과 적용",
-        "English_Text": "Extra Stun effect",
+        "Original_Text": "일정 확률로 <textColor=[248:99:99:255]>기절</> 효과 적용",
+        "English_Text": "Extra Stun e255ect",
         "Russian_Text": "",
-        "Chinese_Text": "添加“眩晕”效果"
+        "Chinese_Text": "冷却时间降低"
     },
-    "60010110": {
+    "60010060": {
         "Dev_Desc": "구름베기",
         "Original_Text": "구름베기",
         "English_Text": "Cloud Slash",
         "Russian_Text": "",
+        "Chinese_Text": "对处于“空中”状态的敌人进行额外攻击"
+    },
+    "60010061": {
+        "Dev_Desc": "구름베기",
+        "Original_Text": "연속으로 올려베며 강력한 피해를 입힙니다.\\n일정 확률로 <textColor=[248:99:99:255]>공중</> 효과를 부여합니다.\\n<textColor=[248:99:99:255]>공중</>, <textColor=[248:99:99:255]>기절</> 상태인 대상에게 사용합니다.",
+        "English_Text": "Slashes upward in a row to deal powerful damage.\nHas a chance to inflict Airborne.\nInflicts Stun on impact with the ground.\nApplied to an airborne or stunned target.",
+        "Russian_Text": "",
+        "Chinese_Text": "对处于“空中”状态的敌人进行额外攻击"
+    },
+    "60010062": {
+        "Dev_Desc": "구름베기",
+        "Original_Text": "공중, 기절 대상",
+        "English_Text": "Airborne, Stunned",
+        "Russian_Text": "",
+        "Chinese_Text": "跳斩"
+    },
+    "60010063": {
+        "Dev_Desc": "구름베기",
+        "Original_Text": "공중",
+        "English_Text": "Airborne, Stun",
+        "Russian_Text": "",
+        "Chinese_Text": "공중"
+    },
+    "60010064": {
+        "Dev_Desc": "구름베기_증폭",
+        "Original_Text": "재사용 대기시간 -3초",
+        "English_Text": "Cooldown ▼",
+        "Russian_Text": "",
+        "Chinese_Text": "재사용 대기시간 -3초"
+    },
+    "60010065": {
+        "Dev_Desc": "구름베기_극한",
+        "Original_Text": "사용 중 받는 피해량 감소 +60%",
+        "English_Text": "Cooldown ▼",
+        "Russian_Text": "",
+        "Chinese_Text": "사용 중 받는 피해량 감소 +60%"
+    },
+    "60010066": {
+        "Dev_Desc": "구름베기_돌파",
+        "Original_Text": "일정 확률로 \"천지가르기\" 대기시간 초기화",
+        "English_Text": "Cooldown ▼",
+        "Russian_Text": "",
+        "Chinese_Text": "跳起靠近敌人，造成伤害并使敌人僵直。\n可对一定距离外的目标使用。"
+    },
+    "60010067": {
+        "Dev_Desc": "하늘베기",
+        "Original_Text": "하늘베기",
+        "English_Text": "Skyward Slash",
+        "Russian_Text": "",
+        "Chinese_Text": "하늘베기"
+    },
+    "60010068": {
+        "Dev_Desc": "하늘베기",
+        "Original_Text": "적에게 접근하여 최대 3명의 적을 공격합니다.\\n사용 중 통제 상태에 면역이 됩니다.\\n일정 확률로 <textColor=[248:99:99:255]>공중</> 효과를 부여합니다.",
+        "English_Text": "Approaches the enemy to deal powerful damage.\nHas a chance to inflict Airborne.\nInflicts Stun on impact with the ground.\nHas a higher Accuracy chance on an enemy a255licted with Soul Stab.",
+        "Russian_Text": "",
+        "Chinese_Text": "적에게 접근하여 최대 3명의 적을 공격합니다.\n사용 중 통제 상태에 면역이 됩니다.\n일정 확률로 <textColor=[248:99:99:255]>공중</> 효과를 부여합니다."
+    },
+    "60010069": {
+        "Dev_Desc": "하늘베기",
+        "Original_Text": "공중",
+        "English_Text": "Airborne, Stun",
+        "Russian_Text": "",
+        "Chinese_Text": "공중"
+    },
+    "60010070": {
+        "Dev_Desc": "번개베기",
+        "Original_Text": "번개베기",
+        "English_Text": "Lightning Slash",
+        "Russian_Text": "",
+        "Chinese_Text": "번개베기"
+    },
+    "60010071": {
+        "Dev_Desc": "번개베기",
+        "Original_Text": "빠르게 검을 휘둘러 피해를 입힙니다.\\n일정 확률로 <textColor=[248:99:99:255]>기절</> 효과를 부여합니다.",
+        "English_Text": "Swiftly slashes the sword to deal damage.\nHas a chance to inflict Stun.",
+        "Russian_Text": "",
+        "Chinese_Text": "빠르게 검을 휘둘러 피해를 입힙니다.\n일정 확률로 <textColor=[248:99:99:255]>기절</> 효과를 부여합니다."
+    },
+    "60010072": {
+        "Dev_Desc": "번개베기",
+        "Original_Text": "기절",
+        "English_Text": "Stun",
+        "Russian_Text": "",
+        "Chinese_Text": "僵直"
+    },
+    "60010073": {
+        "Dev_Desc": "번개베기_증폭",
+        "Original_Text": "피해량 증가",
+        "English_Text": "Extra attack to a stunned enemy",
+        "Russian_Text": "",
+        "Chinese_Text": "降低内力消耗"
+    },
+    "60010074": {
+        "Dev_Desc": "번개베기_증폭",
+        "Original_Text": "\"일섬\" 대기시간 초기화\\n6초간 공격력 +12, 명중 +9",
+        "English_Text": "Extra attack to a stunned enemy",
+        "Russian_Text": "",
+        "Chinese_Text": "伤害量提升"
+    },
+    "60010075": {
+        "Dev_Desc": "번개베기_증폭",
+        "Original_Text": "<textColor=[248:99:99:255]>기절</> 상태의 적에게 추가 공격",
+        "English_Text": "Extra attack to a stunned enemy",
+        "Russian_Text": "",
+        "Chinese_Text": "射程提升"
+    },
+    "60010076": {
+        "Dev_Desc": "발도",
+        "Original_Text": "발도",
+        "English_Text": "Lasting E255ects",
+        "Russian_Text": "",
+        "Chinese_Text": "天地斩"
+    },
+    "60010077": {
+        "Dev_Desc": "발도",
+        "Original_Text": "빠른 연속 공격이 가능한 발도 공격을 합니다.\\n<textColor=[248:99:99:255]>소울 패링 기절</> 대상에게 공격 버튼을 수동으로 눌러 사용 가능합니다.",
+        "English_Text": "Grip Exercise",
+        "Russian_Text": "",
+        "Chinese_Text": "빠른 연속 공격이 가능한 발도 공격을 합니다.\n<textColor=[248:99:99:255]>소울 패링 기절</> 대상에게 공격 버튼을 수동으로 눌러 사용 가능합니다."
+    },
+    "60010078": {
+        "Dev_Desc": "발도",
+        "Original_Text": "소울 패링 기절 대상",
+        "English_Text": "Exercises to strengthen the sword grip.\nIncreases Sword Attack.",
+        "Russian_Text": "",
+        "Chinese_Text": "소울 패링 기절 대상"
+    },
+    "60010079": {
+        "Dev_Desc": "발도_증",
+        "Original_Text": "내력 소모량 -4",
+        "English_Text": "Sword Attack ▲",
+        "Russian_Text": "",
+        "Chinese_Text": "蓄力斩击，造成大量伤害。\n可对眩晕，被击飞的敌人使用。"
+    },
+    "60010080": {
+        "Dev_Desc": "발도_극",
+        "Original_Text": "피해량 증가",
+        "English_Text": "Warm-Up",
+        "Russian_Text": "",
+        "Chinese_Text": "피해량 증가"
+    },
+    "60010081": {
+        "Dev_Desc": "발도_돌",
+        "Original_Text": "일정 확률로 소모한 내력의 절반을 반환",
+        "English_Text": "Warms up the body to increase flexibility.\nIncreases Move Speed Rate and Normal Attack Speed.",
+        "Russian_Text": "",
+        "Chinese_Text": "일정 확률로 소모한 내력의 절반을 반환"
+    },
+    "60010082": {
+        "Dev_Desc": "지속 효과",
+        "Original_Text": "지속 효과",
+        "English_Text": "Lasting E255ects",
+        "Russian_Text": "",
+        "Chinese_Text": "지속 효과"
+    },
+    "60010083": {
+        "Dev_Desc": "악력운동",
+        "Original_Text": "악력운동",
+        "English_Text": "Grip Exercise",
+        "Russian_Text": "",
+        "Chinese_Text": "악력운동"
+    },
+    "60010084": {
+        "Dev_Desc": "악력운동",
+        "Original_Text": "검을 강하게 잡을 수 있도록 악력운동을 합니다.\\n검 공격력이 증가합니다.",
+        "English_Text": "Exercises to strengthen the sword grip.\nIncreases Sword Attack.",
+        "Russian_Text": "",
+        "Chinese_Text": "浮空，眩晕的目标"
+    },
+    "60010085": {
+        "Dev_Desc": "악력운동",
+        "Original_Text": "검 공격력 증가",
+        "English_Text": "Sword Attack ▲",
+        "Russian_Text": "",
+        "Chinese_Text": "对“御剑缚灵”的目标使用时，命中率提升"
+    },
+    "60010086": {
+        "Dev_Desc": "몸풀기",
+        "Original_Text": "몸풀기",
+        "English_Text": "Warm-Up",
+        "Russian_Text": "",
+        "Chinese_Text": "对“御剑缚灵”的目标使用时，造成无视防御伤害"
+    },
+    "60010087": {
+        "Dev_Desc": "몸풀기",
+        "Original_Text": "가벼운 몸풀기 운동을 합니다.\\n이동 속도 증가율과 기본 공격 속도가 증가합니다.",
+        "English_Text": "Warms up the body to increase flexibility.\nIncreases Move Speed Rate and Normal Attack Speed.",
+        "Russian_Text": "",
+        "Chinese_Text": "对“御剑缚灵”的目标使用时，造成无视防御伤害"
+    },
+    "60010088": {
+        "Dev_Desc": "몸풀기",
+        "Original_Text": "이동 속도 증가율 및 기본 공격 속도 증가",
+        "English_Text": "Move Speed Rate and Normal Attack Speed ▲",
+        "Russian_Text": "",
+        "Chinese_Text": "格挡"
+    },
+    "60010089": {
+        "Dev_Desc": "근력운동",
+        "Original_Text": "근력운동",
+        "English_Text": "Muscle Training",
+        "Russian_Text": "",
+        "Chinese_Text": "근력운동"
+    },
+    "60010090": {
+        "Dev_Desc": "근력운동",
+        "Original_Text": "꾸준히 고강도 근력 운동을 합니다.\\n힘이 증가합니다.",
+        "English_Text": "Consistently performs high-intensity muscle training.\nIncreases STR.",
+        "Russian_Text": "",
+        "Chinese_Text": "꾸준히 고강도 근력 운동을 합니다.\n힘이 증가합니다."
+    },
+    "60010091": {
+        "Dev_Desc": "근력운동",
+        "Original_Text": "힘 증가",
+        "English_Text": "STR ▲",
+        "Russian_Text": "",
+        "Chinese_Text": "防御前方的攻击。\n防御成功时，短时间内提升命中率。"
+    },
+    "60010092": {
+        "Dev_Desc": "흔들기",
+        "Original_Text": "흔들기",
+        "English_Text": "Shake",
+        "Russian_Text": "",
+        "Chinese_Text": "흔들기"
+    },
+    "60010093": {
+        "Dev_Desc": "흔들기",
+        "Original_Text": "적의 무게 중심을 무너뜨립니다.\\n통제 적중률이 증가합니다.",
+        "English_Text": "Throws o255 enemy's balance.\nIncrease CC Accuracy.",
+        "Russian_Text": "",
+        "Chinese_Text": "적의 무게 중심을 무너뜨립니다.\n통제 적중률이 증가합니다."
+    },
+    "60010094": {
+        "Dev_Desc": "흔들기",
+        "Original_Text": "통제 적중률 증가",
+        "English_Text": "CC Accuracy ▲",
+        "Russian_Text": "",
+        "Chinese_Text": "통제 적중률 증가"
+    },
+    "60010095": {
+        "Dev_Desc": "검날손질",
+        "Original_Text": "검날손질",
+        "English_Text": "Blade Sharpening",
+        "Russian_Text": "",
+        "Chinese_Text": "防御"
+    },
+    "60010096": {
+        "Dev_Desc": "검날손질",
+        "Original_Text": "검날을 날카롭게 연마합니다.\\n근거리 관통력이 증가합니다.",
+        "English_Text": "Sharpens the blade.\nIncreases Melee Piercing.",
+        "Russian_Text": "",
+        "Chinese_Text": "防御时间提升"
+    },
+    "60010097": {
+        "Dev_Desc": "검날손질",
+        "Original_Text": "근거리 관통력 증가",
+        "English_Text": "Melee Piercing ▲",
+        "Russian_Text": "",
+        "Chinese_Text": "防御成功时，短时间内提升控制命中率"
+    },
+    "60010098": {
+        "Dev_Desc": "신검합일",
+        "Original_Text": "신검합일",
+        "English_Text": "Flying Sparrow",
+        "Russian_Text": "",
+        "Chinese_Text": "防御成功时，提升控制命中率"
+    },
+    "60010099": {
+        "Dev_Desc": "신검합일",
+        "Original_Text": "검과 하나가 되어 공격 능력을 끌어 올립니다.\\n무기 공격력 증폭과 정밀이 증가합니다.",
+        "English_Text": "Boosts Attack ability by uniting with the sword.\nIncreases Amplified Weapon Attack and Precision.",
+        "Russian_Text": "",
+        "Chinese_Text": "御剑缚灵"
+    },
+    "60010100": {
+        "Dev_Desc": "신검합일",
+        "Original_Text": "무기 공격력 증폭 및 정밀 증가",
+        "English_Text": "Amplified Weapon Attack and Precision ▲",
+        "Russian_Text": "",
+        "Chinese_Text": "무기 공격력 증폭 및 정밀 증가"
+    },
+    "60010101": {
+        "Dev_Desc": "약점공략",
+        "Original_Text": "약점공략",
+        "English_Text": "Vulnerability",
+        "Russian_Text": "",
+        "Chinese_Text": "把御剑刺入敌人，提升敌人受到的伤害量。"
+    },
+    "60010102": {
+        "Dev_Desc": "약점공략",
+        "Original_Text": "적의 약점을 간파하여 공격합니다.\\n근거리 공격력이 증가합니다.",
+        "English_Text": "The blade pinpoints the weak spot.\nIncreases Melee Attack.",
+        "Russian_Text": "",
+        "Chinese_Text": "적의 약점을 간파하여 공격합니다.\n근거리 공격력이 증가합니다."
+    },
+    "60010103": {
+        "Dev_Desc": "약점공략",
+        "Original_Text": "근거리 공격력 증가",
+        "English_Text": "Melee Attack ▲",
+        "Russian_Text": "",
+        "Chinese_Text": "근거리 공격력 증가"
+    },
+    "60010104": {
+        "Dev_Desc": "무공 피해 계수 증가",
+        "Original_Text": "무공 피해 계수 증가",
+        "English_Text": "Technique Damage Factor ▲",
+        "Russian_Text": "",
+        "Chinese_Text": "御剑缚灵"
+    },
+    "60010105": {
+        "Dev_Desc": "튕기기 발동률 증가",
+        "Original_Text": "튕기기 발동률",
+        "English_Text": "Parry Chance ▲",
+        "Russian_Text": "",
+        "Chinese_Text": "御剑缚灵，眩晕"
+    },
+    "60010106": {
+        "Dev_Desc": "검 공격력 증가",
+        "Original_Text": "검 공격력 +1",
+        "English_Text": "Sword Attack +2",
+        "Russian_Text": "",
+        "Chinese_Text": "검 공격력 +1"
+    },
+    "60010107": {
+        "Dev_Desc": "이동 속도 증가율 증가",
+        "Original_Text": "이동 속도 증가율 +1%, 기본 공격 속도 +5%",
+        "English_Text": "Move Speed Rate +1.3%, Normal Attack Speed +1.3%",
+        "Russian_Text": "",
+        "Chinese_Text": "添加“眩晕”效果"
+    },
+    "60010108": {
+        "Dev_Desc": "기본 공격 속도 증가",
+        "Original_Text": "기본 공격 속도 증가",
+        "English_Text": "Normal Attack Speed ▲",
+        "Russian_Text": "",
+        "Chinese_Text": "添加“眩晕”效果"
+    },
+    "60010109": {
+        "Dev_Desc": "힘 증가",
+        "Original_Text": "힘 +2",
+        "English_Text": "STR +4",
+        "Russian_Text": "",
+        "Chinese_Text": "添加“眩晕”效果"
+    },
+    "60010110": {
+        "Dev_Desc": "통제 적중률 증가",
+        "Original_Text": "통제 적중률 +5%",
+        "English_Text": "CC Accuracy +2.3%",
+        "Russian_Text": "",
         "Chinese_Text": "云斩"
     },
+    "60010111": {
+        "Dev_Desc": "근거리 관통력 증가",
+        "Original_Text": "근거리 관통력 +5",
+        "English_Text": "Melee Piercing +7",
+        "Russian_Text": "",
+        "Chinese_Text": "근거리 관통력 +5"
+    },
     "60010112": {
-        "Dev_Desc": "구름베기",
-        "Original_Text": "연속으로 올려베며 강력한 피해를 입힙니다.\\n일정 확률로 \"공중\" 효과를 부여합니다.\\n공중에서 떨어진 후 \"기절\" 상태가 됩니다.\\n\"공중\", \"기절\" 상태인 대상에게 사용합니다.",
-        "English_Text": "Slashes upward in a row to deal powerful damage.\nHas a chance to inflict Airborne.\nInflicts Stun on impact with the ground.\nApplied to an airborne or stunned target.",
+        "Dev_Desc": "무기 공격력 증폭 증가",
+        "Original_Text": "무기 공격력 증폭 +20%, 정밀 +5",
+        "English_Text": "Amplified Weapon Attack +10%, Precision +5",
         "Russian_Text": "",
         "Chinese_Text": "从空中落下之前再次击飞敌人。\n对被击飞的敌人造成大量伤害。\n从空中落地后陷入眩晕状态。\n可在挑斩，飞天斩之后使用。"
     },
+    "60010113": {
+        "Dev_Desc": "정밀 증가",
+        "Original_Text": "정밀 증가",
+        "English_Text": "Precision ▲",
+        "Russian_Text": "",
+        "Chinese_Text": "정밀 증가"
+    },
+    "60010114": {
+        "Dev_Desc": "근거리 공격력 증가",
+        "Original_Text": "근거리 공격력 +2",
+        "English_Text": "Melee Attack +13",
+        "Russian_Text": "",
+        "Chinese_Text": "근거리 공격력 +2"
+    },
+    "60010115": {
+        "Dev_Desc": "휘몰아치기_버프",
+        "Original_Text": "휘몰아치기",
+        "English_Text": "휘몰아치기",
+        "Russian_Text": "",
+        "Chinese_Text": "휘몰아치기"
+    },
     "60010116": {
-        "Dev_Desc": "구름베기",
-        "Original_Text": "공중, 기절 대상",
+        "Dev_Desc": "휘몰아치기_버프",
+        "Original_Text": "무공 공격 속도 증가",
         "English_Text": "Airborne, Stunned",
         "Russian_Text": "",
         "Chinese_Text": "浮空，眩晕的目标"
     },
     "60010117": {
-        "Dev_Desc": "구름베기",
-        "Original_Text": "공중, 기절",
+        "Dev_Desc": "휘몰아치기_버프",
+        "Original_Text": "무공 공격 속도 +5%",
         "English_Text": "Airborne, Stun",
         "Russian_Text": "",
         "Chinese_Text": "浮空，眩晕"
     },
+    "60010118": {
+        "Dev_Desc": "휘몰아치기_버프",
+        "Original_Text": "휘몰아치기는 최대 5회까지 중첩",
+        "English_Text": "휘몰아치기는 최대 5회까지 중첩",
+        "Russian_Text": "",
+        "Chinese_Text": "휘몰아치기는 최대 5회까지 중첩"
+    },
     "60010119": {
-        "Dev_Desc": "구름베기_증폭",
-        "Original_Text": "재사용 대기시간 -3초",
+        "Dev_Desc": "휘몰아치기_스킬",
+        "Original_Text": "휘몰아치기",
         "English_Text": "Cooldown ▼",
         "Russian_Text": "",
         "Chinese_Text": "冷却时间降低"
     },
     "60010120": {
-        "Dev_Desc": "구름베기_극한",
-        "Original_Text": "사용 중 받는 피해량 감소 +60%",
+        "Dev_Desc": "휘몰아치기_스킬",
+        "Original_Text": "기세를 올려 공격을 몰아칩니다.\\n무공 명중 시, 일정 확률로 10초간 <textColor=[136:161:235:255]>휘몰아치기</> 효과를 얻습니다.\\n<textColor=[136:161:235:255]>휘몰아치기</> 중 무공 공격 속도가 증가합니다.\\n최대 5회까지 중첩됩니다.",
         "English_Text": "Cooldown ▼",
         "Russian_Text": "",
         "Chinese_Text": "冷却时间降低"
     },
     "60010121": {
-        "Dev_Desc": "구름베기_돌파",
-        "Original_Text": "\"어검징표\" 대상 연속 구름베기 사용",
+        "Dev_Desc": "휘몰아치기_스킬",
+        "Original_Text": "무공 공격 속도 +5%",
         "English_Text": "Cooldown ▼",
         "Russian_Text": "",
         "Chinese_Text": "冷却时间降低"
     },
     "60010122": {
-        "Dev_Desc": "하늘베기",
-        "Original_Text": "하늘베기",
+        "Dev_Desc": "연계강화",
+        "Original_Text": "검술연계Ⅰ",
         "English_Text": "Skyward Slash",
         "Russian_Text": "",
         "Chinese_Text": "飞天斩"
     },
     "60010123": {
-        "Dev_Desc": "하늘베기",
-        "Original_Text": "적에게 접근하여 최대 3명의 적을 공격합니다.\\n사용 중 통제 상태에 면역이 됩니다.\\n일정 확률로 \"공중\" 효과를 부여합니다.\\n공중에서 떨어진 후 \"기절\" 상태가 됩니다.",
+        "Dev_Desc": "연계강화",
+        "Original_Text": "보스 몬스터 공격 시 \"천지가르기\", \"구름베기\"가 활성화됩니다.\\n(사용 무공 활성화 대기시간 18초)",
         "English_Text": "Approaches the enemy to deal powerful damage.\nHas a chance to inflict Airborne.\nInflicts Stun on impact with the ground.\nHas a higher Accuracy chance on an enemy afflicted with Soul Stab.",
         "Russian_Text": "",
         "Chinese_Text": "接近并击飞敌人，之后发动攻击。\n从空中落地后陷入眩晕状态。\n对被击飞的敌人造成大量伤害。"
     },
+    "60010124": {
+        "Dev_Desc": "연계강화II",
+        "Original_Text": "검술연계Ⅱ",
+        "English_Text": "검술연계Ⅱ",
+        "Russian_Text": "",
+        "Chinese_Text": "검술연계Ⅱ"
+    },
     "60010125": {
-        "Dev_Desc": "하늘베기",
-        "Original_Text": "공중, 기절",
+        "Dev_Desc": "연계강화II",
+        "Original_Text": "보스 몬스터에게 \"올려베기[극한]\", \"올려베기[돌파]\" 공격 시 확정 연계 공격을 합니다.",
         "English_Text": "Airborne, Stun",
         "Russian_Text": "",
         "Chinese_Text": "浮空，眩晕"
-    },
-    "60010127": {
-        "Dev_Desc": "번개베기",
-        "Original_Text": "번개베기",
-        "English_Text": "Lightning Slash",
-        "Russian_Text": "",
-        "Chinese_Text": "闪电斩"
-    },
-    "60010129": {
-        "Dev_Desc": "번개베기",
-        "Original_Text": "빠르게 검을 휘둘러 피해를 입힙니다.\\n일정 확률로 \"기절\" 효과를 부여합니다.",
-        "English_Text": "Swiftly slashes the sword to deal damage.\nHas a chance to inflict Stun.",
-        "Russian_Text": "",
-        "Chinese_Text": "对敌人发动强大的连续攻击。\n在一段时间内转换为拔刀姿势。\n在拔刀姿势下，基本武功与特化武功得到强化。\n在拔刀姿势下，命中率与灵魂发动率得到提升。\n在拔刀姿势下，无法使用其他武功。"
-    },
-    "60010133": {
-        "Dev_Desc": "번개베기",
-        "Original_Text": "기절",
-        "English_Text": "Stun",
-        "Russian_Text": "",
-        "Chinese_Text": "眩晕"
-    },
-    "60010135": {
-        "Dev_Desc": "번개베기_증폭",
-        "Original_Text": "일정 확률로 막기 관통\\n막기 관통 시 \"기절\" 효과 적용",
-        "English_Text": "Extra attack to a stunned enemy",
-        "Russian_Text": "",
-        "Chinese_Text": "在一段时间内基本攻击变为拔刀\n对御剑缚灵目标造成拔刀固定伤害"
-    },
-    "60010136": {
-        "Dev_Desc": "번개베기_증폭",
-        "Original_Text": "\"어검징표\" 대상 \"기절\" 확률 증가",
-        "English_Text": "Extra attack to a stunned enemy",
-        "Russian_Text": "",
-        "Chinese_Text": "在一段时间内基本攻击变为拔刀\n对御剑缚灵目标造成拔刀固定伤害"
-    },
-    "60010137": {
-        "Dev_Desc": "번개베기_증폭",
-        "Original_Text": "\"기절\" 상태의 적에게 추가 공격",
-        "English_Text": "Extra attack to a stunned enemy",
-        "Russian_Text": "",
-        "Chinese_Text": "在一段时间内基本攻击变为拔刀\n对御剑缚灵目标造成拔刀固定伤害"
-    },
-    "60010138": {
-        "Dev_Desc": "지속 효과",
-        "Original_Text": "지속 효과",
-        "English_Text": "Lasting Effects",
-        "Russian_Text": "",
-        "Chinese_Text": "被动_握力"
-    },
-    "60010139": {
-        "Dev_Desc": "악력운동",
-        "Original_Text": "악력운동",
-        "English_Text": "Grip Exercise",
-        "Russian_Text": "",
-        "Chinese_Text": "被动_握力"
-    },
-    "60010140": {
-        "Dev_Desc": "악력운동",
-        "Original_Text": "검을 강하게 잡을 수 있도록 악력운동을 합니다.\\n검 공격력이 증가합니다.",
-        "English_Text": "Exercises to strengthen the sword grip.\nIncreases Sword Attack.",
-        "Russian_Text": "",
-        "Chinese_Text": "为了紧握剑柄，进行握力运动。\n提升剑伤害量提升。"
-    },
-    "60010141": {
-        "Dev_Desc": "악력운동",
-        "Original_Text": "검 공격력 증가",
-        "English_Text": "Sword Attack ▲",
-        "Russian_Text": "",
-        "Chinese_Text": "提升剑攻击力"
-    },
-    "60010142": {
-        "Dev_Desc": "몸풀기",
-        "Original_Text": "몸풀기",
-        "English_Text": "Warm-Up",
-        "Russian_Text": "",
-        "Chinese_Text": "被动_热身运动"
-    },
-    "60010143": {
-        "Dev_Desc": "몸풀기",
-        "Original_Text": "가벼운 몸풀기 운동을 합니다.\\n이동 속도 증가율과 기본 공격 속도가 증가합니다.",
-        "English_Text": "Warms up the body to increase flexibility.\nIncreases Move Speed Rate and Normal Attack Speed.",
-        "Russian_Text": "",
-        "Chinese_Text": "进行简单的热身运动。\n提升攻击速度，移动速度。"
-    },
-    "60010144": {
-        "Dev_Desc": "몸풀기",
-        "Original_Text": "이동 속도 증가율 및 기본 공격 속도 증가",
-        "English_Text": "Move Speed Rate and Normal Attack Speed ▲",
-        "Russian_Text": "",
-        "Chinese_Text": "提升移动速度提升率及基本攻击速度"
-    },
-    "60010145": {
-        "Dev_Desc": "근력운동",
-        "Original_Text": "근력운동",
-        "English_Text": "Muscle Training",
-        "Russian_Text": "",
-        "Chinese_Text": "被动_筋力"
-    },
-    "60010146": {
-        "Dev_Desc": "근력운동",
-        "Original_Text": "꾸준히 고강도 근력 운동을 합니다.\\n힘이 증가합니다.",
-        "English_Text": "Consistently performs high-intensity muscle training.\nIncreases STR.",
-        "Russian_Text": "",
-        "Chinese_Text": "坚持高强度筋力运动。\n提升力量。"
-    },
-    "60010147": {
-        "Dev_Desc": "근력운동",
-        "Original_Text": "힘 증가",
-        "English_Text": "STR ▲",
-        "Russian_Text": "",
-        "Chinese_Text": "提升力量"
-    },
-    "60010148": {
-        "Dev_Desc": "흔들기",
-        "Original_Text": "흔들기",
-        "English_Text": "Shake",
-        "Russian_Text": "",
-        "Chinese_Text": "被动_摇动"
-    },
-    "60010149": {
-        "Dev_Desc": "흔들기",
-        "Original_Text": "적의 무게 중심을 무너뜨립니다.\\n통제 적중률이 증가합니다.",
-        "English_Text": "Throws off enemy's balance.\nIncrease CC Accuracy.",
-        "Russian_Text": "",
-        "Chinese_Text": "破坏敌人的重心。\n提升状态异常命中率。"
-    },
-    "60010150": {
-        "Dev_Desc": "흔들기",
-        "Original_Text": "통제 적중률 증가",
-        "English_Text": "CC Accuracy ▲",
-        "Russian_Text": "",
-        "Chinese_Text": "提升控制命中率"
-    },
-    "60010151": {
-        "Dev_Desc": "검날손질",
-        "Original_Text": "검날손질",
-        "English_Text": "Blade Sharpening",
-        "Russian_Text": "",
-        "Chinese_Text": "被动_剑刃"
-    },
-    "60010152": {
-        "Dev_Desc": "검날손질",
-        "Original_Text": "검날을 날카롭게 연마합니다.\\n근거리 관통력이 증가합니다.",
-        "English_Text": "Sharpens the blade.\nIncreases Melee Piercing.",
-        "Russian_Text": "",
-        "Chinese_Text": "把剑刃打磨锋利。\n提升近距离物理穿刺。"
-    },
-    "60010153": {
-        "Dev_Desc": "검날손질",
-        "Original_Text": "근거리 관통력 증가",
-        "English_Text": "Melee Piercing ▲",
-        "Russian_Text": "",
-        "Chinese_Text": "提升近距离穿刺力"
-    },
-    "60010154": {
-        "Dev_Desc": "신검합일",
-        "Original_Text": "신검합일",
-        "English_Text": "Flying Sparrow",
-        "Russian_Text": "",
-        "Chinese_Text": "被动_神剑"
-    },
-    "60010155": {
-        "Dev_Desc": "신검합일",
-        "Original_Text": "검과 하나가 되어 공격 능력을 끌어 올립니다.\\n무기 공격력 증폭과 정밀이 증가합니다.",
-        "English_Text": "Boosts Attack ability by uniting with the sword.\nIncreases Amplified Weapon Attack and Precision.",
-        "Russian_Text": "",
-        "Chinese_Text": "无意识地攻击破绽。\n提升暴击率与暴击伤害量。"
-    },
-    "60010156": {
-        "Dev_Desc": "신검합일",
-        "Original_Text": "무기 공격력 증폭 및 정밀 증가",
-        "English_Text": "Amplified Weapon Attack and Precision ▲",
-        "Russian_Text": "",
-        "Chinese_Text": "提升武器攻击力增幅及精确"
-    },
-    "60010157": {
-        "Dev_Desc": "약점공략",
-        "Original_Text": "약점공략",
-        "English_Text": "Vulnerability",
-        "Russian_Text": "",
-        "Chinese_Text": "被动_神剑"
-    },
-    "60010158": {
-        "Dev_Desc": "약점공략",
-        "Original_Text": "적의 약점을 간파하여 공격합니다.\\n근거리 공격력이 증가합니다.",
-        "English_Text": "The blade pinpoints the weak spot.\nIncreases Melee Attack.",
-        "Russian_Text": "",
-        "Chinese_Text": "看破并攻击敌人的弱点。\n提升近距离攻击力。"
-    },
-    "60010159": {
-        "Dev_Desc": "약점공략",
-        "Original_Text": "근거리 공격력 증가",
-        "English_Text": "Melee Attack ▲",
-        "Russian_Text": "",
-        "Chinese_Text": "提升近距离攻击力"
-    },
-    "60010160": {
-        "Dev_Desc": "무공 피해 계수 증가",
-        "Original_Text": "무공 피해 계수 증가",
-        "English_Text": "Technique Damage Factor ▲",
-        "Russian_Text": "",
-        "Chinese_Text": "增加非空气伤害系数"
-    },
-    "60010161": {
-        "Dev_Desc": "튕기기 발동률 증가",
-        "Original_Text": "튕기기 발동률",
-        "English_Text": "Parry Chance ▲",
-        "Russian_Text": "",
-        "Chinese_Text": "跳出率增加"
-    },
-    "60010162": {
-        "Dev_Desc": "검 공격력 증가",
-        "Original_Text": "검 공격력 +1",
-        "English_Text": "Sword Attack +2",
-        "Russian_Text": "",
-        "Chinese_Text": "剑攻击+1"
-    },
-    "60010163": {
-        "Dev_Desc": "이동 속도 증가율 증가",
-        "Original_Text": "이동 속도 증가율 +1%, 기본 공격 속도 +5%",
-        "English_Text": "Move Speed Rate +1.3%, Normal Attack Speed +1.3%",
-        "Russian_Text": "",
-        "Chinese_Text": "移动速度+1%,普通攻击速度+5%"
-    },
-    "60010164": {
-        "Dev_Desc": "기본 공격 속도 증가",
-        "Original_Text": "기본 공격 속도 증가",
-        "English_Text": "Normal Attack Speed ▲",
-        "Russian_Text": "",
-        "Chinese_Text": "基础攻击速度增加"
-    },
-    "60010165": {
-        "Dev_Desc": "힘 증가",
-        "Original_Text": "힘 +2",
-        "English_Text": "STR +4",
-        "Russian_Text": "",
-        "Chinese_Text": "力量+2"
-    },
-    "60010166": {
-        "Dev_Desc": "통제 적중률 증가",
-        "Original_Text": "통제 적중률 +5%",
-        "English_Text": "CC Accuracy +2.3%",
-        "Russian_Text": "",
-        "Chinese_Text": "控制命中率+5%"
-    },
-    "60010167": {
-        "Dev_Desc": "근거리 관통력 증가",
-        "Original_Text": "근거리 관통력 +5",
-        "English_Text": "Melee Piercing +7",
-        "Russian_Text": "",
-        "Chinese_Text": "近战穿透 +5"
-    },
-    "60010168": {
-        "Dev_Desc": "무기 공격력 증폭 증가",
-        "Original_Text": "무기 공격력 증폭 +20%, 정밀 +5",
-        "English_Text": "Amplified Weapon Attack +10%, Precision +5",
-        "Russian_Text": "",
-        "Chinese_Text": "武器伤害增幅 +20%,命中 +5"
-    },
-    "60010169": {
-        "Dev_Desc": "정밀 증가",
-        "Original_Text": "정밀 증가",
-        "English_Text": "Precision ▲",
-        "Russian_Text": "",
-        "Chinese_Text": "提高命中"
-    },
-    "60010170": {
-        "Dev_Desc": "근거리 공격력 증가",
-        "Original_Text": "근거리 공격력 +2",
-        "English_Text": "Melee Attack +13",
-        "Russian_Text": "",
-        "Chinese_Text": "近战攻击+2"
-    },
-    "60010171": {
-        "Dev_Desc": "휘몰아치기_버프",
-        "Original_Text": "휘몰아치기",
-        "English_Text": "Sweeping",
-        "Russian_Text": "",
-        "Chinese_Text": "横扫千军"
-    },
-    "60010172": {
-        "Dev_Desc": "휘몰아치기_버프",
-        "Original_Text": "무공 공격 속도 증가",
-        "English_Text": "Increased attack speed",
-        "Russian_Text": "",
-        "Chinese_Text": "增加攻击速度"
-    },
-    "60010173": {
-        "Dev_Desc": "휘몰아치기_버프",
-        "Original_Text": "무공 공격 속도 +5%",
-        "English_Text": "5% attack speed without attack",
-        "Russian_Text": "",
-        "Chinese_Text": "普通攻击+5%攻速"
-    },
-    "60010174": {
-        "Dev_Desc": "휘몰아치기_버프",
-        "Original_Text": "\"휘몰아치기\"는 최대 5회까지 중첩",
-        "English_Text": "Swimming stacks up to 5 times",
-        "Russian_Text": "",
-        "Chinese_Text": "“横扫千军”最多可叠加 5 次"
-    },
-    "60010175": {
-        "Dev_Desc": "휘몰아치기_스킬",
-        "Original_Text": "휘몰아치기",
-        "English_Text": "Sweeping",
-        "Russian_Text": "",
-        "Chinese_Text": "横扫千军"
-    },
-    "60010176": {
-        "Dev_Desc": "휘몰아치기_스킬",
-        "Original_Text": "기세를 올려 공격을 몰아칩니다.\\n무공 명중 시, 일정 확률로 10초간 \"휘몰아치기\" 효과를 얻습니다.\\n\"휘몰아치기\" 중 무공 공격 속도가 증가합니다.\\n최대 5회까지 중첩됩니다.",
-        "English_Text": "Raises the momentum to drive the attack.\nWhen attacking without attack, there is a chance to increase the attack speed without attack.\nStacks up to 5 times.",
-        "Russian_Text": "",
-        "Chinese_Text": "提升气势，推动攻击。\n不攻击时，有一定几率提升不攻击攻击速度。\n最多可叠加5次。"
-    },
-    "60010177": {
-        "Dev_Desc": "휘몰아치기_스킬",
-        "Original_Text": "무공 공격 속도 +5%",
-        "English_Text": "5% attack speed without attack",
-        "Russian_Text": "",
-        "Chinese_Text": "普通攻击时+5%攻速"
     }
 }

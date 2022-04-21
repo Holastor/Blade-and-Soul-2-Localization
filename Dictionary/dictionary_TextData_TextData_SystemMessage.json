@@ -2,7 +2,7 @@
     "9000001": {
         "Dev_Desc": "",
         "Original_Text": "이전 단계 모두 조제 후 조제 가능합니다.",
-        "English_Text": "You must complete the previous stages first.",
+        "English_Text": "The previous stages need to be completed first.",
         "Russian_Text": "",
         "Chinese_Text": "完成之前所有阶段的调制后才能进行调制。"
     },
@@ -93,14 +93,14 @@
     "9000014": {
         "Dev_Desc": "",
         "Original_Text": "이미 최고 강화 단계를 달성하였습니다.",
-        "English_Text": "Max enhance level has been reached.",
+        "English_Text": "It reached the max enhance level.",
         "Russian_Text": "",
         "Chinese_Text": "已达到最高强化阶段。"
     },
     "9000015": {
         "Dev_Desc": "",
         "Original_Text": "강화가 불가능한 물품입니다.",
-        "English_Text": "This item can't be enhanced.",
+        "English_Text": "The item can't be enhanced.",
         "Russian_Text": "",
         "Chinese_Text": "无法强化该物品。"
     },
@@ -114,7 +114,7 @@
     "9000017": {
         "Dev_Desc": "",
         "Original_Text": "옵션 변경이 불가능한 물품입니다.",
-        "English_Text": "These options can't be changed.",
+        "English_Text": "Its options can't be changed.",
         "Russian_Text": "",
         "Chinese_Text": "该物品无法变更属性。"
     },
@@ -128,7 +128,7 @@
     "9000019": {
         "Dev_Desc": "",
         "Original_Text": "옵션 개조가 불가능한 물품입니다.",
-        "English_Text": "These options can't be reforged.",
+        "English_Text": "Its options can't be reforged.",
         "Russian_Text": "",
         "Chinese_Text": "该物品无法改造属性。"
     },
@@ -156,21 +156,21 @@
     "9000023": {
         "Dev_Desc": "강화/승급",
         "Original_Text": "부재료 등록 후 <arg p=[1:string]/>할 수 있습니다.",
-        "English_Text": "Select sub materials first in order to <arg p=[1:string]/>.",
+        "English_Text": "<DNT> Select sub materials first in order to <arg p=[1:string]/>.",
         "Russian_Text": "",
         "Chinese_Text": "登记辅材料后可进行<arg p=[1:string]/>。"
     },
     "9000024": {
         "Dev_Desc": "분해/봉인 해제/획득/강화/승급/조작/진화",
         "Original_Text": "임시 보관함에 보관 중인 물품이 있어 <arg p=[1:string]/><eul/> 할 수 없습니다.",
-        "English_Text": "There are items in storage in the temporary storage box, so <arg p=[1:string]/><eul/> cannot be performed.",
+        "English_Text": "<DNT>",
         "Russian_Text": "",
         "Chinese_Text": "临时保管箱内有保管中的物品，因此无法进行<arg p=[1:string]/><eul/>。"
     },
     "9000025": {
         "Dev_Desc": "분해/봉인 해제/획득/강화/승급/조작/진화",
         "Original_Text": "소지품에 여유 공간이 없어 <arg p=[1:string]/><eul/> 할 수 없습니다.",
-        "English_Text": "Unable to <arg p=[1:string]/> as your Bag is full.",
+        "English_Text": "<DNT> Unable to <arg p=[1:string]/> as your Bag is full.",
         "Russian_Text": "",
         "Chinese_Text": "包裹内没有多余空间，因此无法进行<arg p=[1:string]/><eul/>。"
     },
@@ -191,7 +191,7 @@
     "9000028": {
         "Dev_Desc": "",
         "Original_Text": "아이템을 분해하였으나 아무것도 얻지 못하였습니다.",
-        "English_Text": "The item has been salvaged, yet yielded nothing.",
+        "English_Text": "The item is salvaged, yet yielded nothing.",
         "Russian_Text": "",
         "Chinese_Text": "已成功分解道具，但没有获得任何东西。"
     },
@@ -205,7 +205,7 @@
     "9000030": {
         "Dev_Desc": "",
         "Original_Text": "소지품이 꽉 차서 제작할 수 없습니다.",
-        "English_Text": "You can't craft because your Bag is full.",
+        "English_Text": "Unable to craft as your Inventory is full.",
         "Russian_Text": "",
         "Chinese_Text": "包裹已满，因此无法制作。"
     },
@@ -233,14 +233,14 @@
     "9000034": {
         "Dev_Desc": "",
         "Original_Text": "한 번에 제작할 수 있는 최대 수량입니다.",
-        "English_Text": "You have selected the max amount to be crafted at once.",
+        "English_Text": "It's the max amount to be crafted at once.",
         "Russian_Text": "",
         "Chinese_Text": "每次可制作的最大数量。"
     },
     "9000035": {
         "Dev_Desc": "",
         "Original_Text": "제작 실패 시 재료는 소멸됩니다.",
-        "English_Text": "The materials will be lost if crafting fails.",
+        "English_Text": "The materials are lost when crafting fails.",
         "Russian_Text": "",
         "Chinese_Text": "制作失败时材料将消失。"
     },
@@ -254,14 +254,14 @@
     "9000037": {
         "Dev_Desc": "봉인해제/판매/분해",
         "Original_Text": "<arg p=[1:string]/>는 동시에 <arg p=[2:integer]/>개까지 가능합니다.",
-        "English_Text": "You can <arg p=[1:string]/> up to <arg p=[2:integer]/> items at once.",
+        "English_Text": "<DNT> You can <arg p=[1:string]/> up to <arg p=[2:integer]/> items at once.",
         "Russian_Text": "",
         "Chinese_Text": "<arg p=[1:string]/>时，最多可同时选择<arg p=[2:integer]/>个。"
     },
     "9000038": {
         "Dev_Desc": "봉인해제/판매/분해/파괴",
         "Original_Text": "<arg p=[1:string]/>할 물품을 선택해주세요.",
-        "English_Text": "Select item to <arg p=[1:string]/>.",
+        "English_Text": "<DNT> Select item to <arg p=[1:string]/>.",
         "Russian_Text": "",
         "Chinese_Text": "请选择想要<arg p=[1:string]/>的道具。"
     },
@@ -275,21 +275,21 @@
     "9000040": {
         "Dev_Desc": "봉인해제/판매/분해/파괴",
         "Original_Text": "선택된 물품이 없습니다. <arg p=[1:string]/>할 물품을 선택해주세요.",
-        "English_Text": "No item selected. Select item to <arg p=[1:string]/>.",
+        "English_Text": "<DNT> No item selected. Select item to <arg p=[1:string]/>.",
         "Russian_Text": "",
         "Chinese_Text": "没有已选择的物品。请选择想要<arg p=[1:string]/>的物品。"
     },
     "9000041": {
         "Dev_Desc": "봉인해제/판매/분해/파괴",
         "Original_Text": "<arg p=[1:integer]/>개의 아이템을 <arg p=[2:string]/>합니다.",
-        "English_Text": "<arg p=[2:string]/> <arg p=[1:integer]/> items.",
+        "English_Text": "<DNT> <arg p=[2:string]/> <arg p=[1:integer]/> items.",
         "Russian_Text": "",
         "Chinese_Text": "即将对<arg p=[1:integer]/>个道具进行<arg p=[2:string]/>。"
     },
     "9000042": {
         "Dev_Desc": "분해/봉인 해제/획득/강화/승급/조작/진화",
         "Original_Text": "임시 보관 중인 물품이 있어 <arg p=[1:string]/>할 수 없습니다.",
-        "English_Text": "Unable to <arg p=[1:string]/> as there are items in the Overflow Inventory.",
+        "English_Text": "<DNT> Unable to <arg p=[1:string]/> as there are items in the Overflow Inventory.",
         "Russian_Text": "",
         "Chinese_Text": "临时保管箱内有物品，因此无法进行<arg p=[1:string]/>。"
     },
@@ -303,28 +303,28 @@
     "9000044": {
         "Dev_Desc": "봉인해제/분해/파괴/판매",
         "Original_Text": "<arg p=[1:string]/><ga/> 불가능한 물품입니다.",
-        "English_Text": "The item can't be <arg p=[1:string]/>.",
+        "English_Text": "<DNT> The item can't be <arg p=[1:string]/>.",
         "Russian_Text": "",
         "Chinese_Text": "该物品无法进行<arg p=[1:string]/><ga/>。"
     },
     "9000045": {
         "Dev_Desc": "창고/소지품, 이동/구매/분해",
         "Original_Text": "<arg p=[1:string]/> 여유 공간이 없어 <arg p=[2:string]/>할 수 없습니다.",
-        "English_Text": "Unable to <arg p=[2:string]/> as your <arg p=[1:string]/> is full.",
+        "English_Text": "<DNT> Unable to <arg p=[2:string]/> as your <arg p=[1:string]/> is full.",
         "Russian_Text": "",
         "Chinese_Text": "<arg p=[1:string]/>没有多余空间，因此无法进行<arg p=[2:string]/>。"
     },
     "9000046": {
         "Dev_Desc": "아이템이름, 판매/분해",
         "Original_Text": "등록 가능한 아이템입니다.\\n<arg p=[1:string]/><eul/> <arg p=[2:string]/> 하시겠습니까?",
-        "English_Text": "The item can be used.\n<arg p=[2:string]/> <arg p=[1:string]/>?",
+        "English_Text": "<DNT> The item can be used.\n<arg p=[2:string]/> <arg p=[1:string]/>?",
         "Russian_Text": "",
         "Chinese_Text": "可登记的道具。是否要\n<arg p=[1:string]/><eul/><arg p=[2:string]/>？"
     },
     "9000047": {
         "Dev_Desc": "아이템이름, 봉인해제/판매/분해/파괴",
         "Original_Text": "<arg p=[1:string]/><eul/> <arg p=[2:string]/> 하시겠습니까?",
-        "English_Text": "<arg p=[2:string]/> <arg p=[1:string]/>?",
+        "English_Text": "<DNT> <arg p=[2:string]/> <arg p=[1:string]/>?",
         "Russian_Text": "",
         "Chinese_Text": "是否要<arg p=[1:string]/><eul/><arg p=[2:string]/>？"
     },
@@ -338,7 +338,7 @@
     "9000049": {
         "Dev_Desc": "물품 획득 개수",
         "Original_Text": "<arg p=[1:integer]/>개의 물품을 획득하였습니다.",
-        "English_Text": "You obtained <arg p=[1:integer]/> item[s.",
+        "English_Text": "You obtained <arg p=[1:integer]/> [$pl_ref:1]item[@pl+s].",
         "Russian_Text": "",
         "Chinese_Text": "已获得<arg p=[1:integer]/>个物品。"
     },
@@ -401,21 +401,21 @@
     "9000058": {
         "Dev_Desc": "",
         "Original_Text": "다시 선택해 주십시오.",
-        "English_Text": "Please select again.",
+        "English_Text": "Select again.",
         "Russian_Text": "",
         "Chinese_Text": "请重新选择。"
     },
     "9000059": {
         "Dev_Desc": "",
         "Original_Text": "임시 보관함에 보관 중인 물품이 있어 보상을 획득할 수 없습니다.",
-        "English_Text": "You can't claim rewards because you have items in the Overflow Inventory.",
+        "English_Text": "Unable to claim rewards as you have items in the Overflow Inventory.",
         "Russian_Text": "",
         "Chinese_Text": "临时保管箱内有保管中的物品，因此无法获得奖励。"
     },
     "9000060": {
         "Dev_Desc": "",
         "Original_Text": "소지품 여유 공간이 없어 임시보관함이 생성되었습니다.",
-        "English_Text": "Overflow Inventory has been created as your Bag is full.",
+        "English_Text": "Overflow Inventory is created as your Inventory is full.",
         "Russian_Text": "",
         "Chinese_Text": "包裹内没有多余空间，因此已生成临时保管箱。"
     },
@@ -429,7 +429,7 @@
     "9000062": {
         "Dev_Desc": "",
         "Original_Text": "아이템을 사용 할 수 있는 상태가 아닙니다.",
-        "English_Text": "You can't use this item at the moment.",
+        "English_Text": "Unable to use the item at the moment.",
         "Russian_Text": "",
         "Chinese_Text": "处于无法使用道具的状态。"
     },
@@ -478,28 +478,28 @@
     "9000069": {
         "Dev_Desc": "",
         "Original_Text": "선행 퀘스트를 완료하지 않아 입장이 불가능합니다.",
-        "English_Text": "You must complete the prior quest before entering.",
+        "English_Text": "You need to complete the prior quest first to enter.",
         "Russian_Text": "",
         "Chinese_Text": "没有完成先行任务，因此无法入场。"
     },
     "9000070": {
         "Dev_Desc": "",
         "Original_Text": "이미 클리어한 던전입니다. <arg p=[1:integer]/>초 후 던전 밖으로 이동 됩니다.",
-        "English_Text": "Dungeon already cleared. Exiting the dungeon after <arg p=[1:integer]/> secs.",
+        "English_Text": "Dungeon already cleared. Leaving the dungeon after <arg p=[1:integer]/> secs.",
         "Russian_Text": "",
         "Chinese_Text": "已通关该副本。<arg p=[1:integer]/>秒后将移动到副本之外。"
     },
     "9000071": {
         "Dev_Desc": "",
         "Original_Text": "이미 클리어한 던전입니다. 던전 밖으로 이동 됩니다.",
-        "English_Text": "Dungeon already cleared. Exiting the dungeon.",
+        "English_Text": "Dungeon already cleared. Leaving the dungeon.",
         "Russian_Text": "",
         "Chinese_Text": "已通关该副本。将移动到副本之外。"
     },
     "9000072": {
         "Dev_Desc": "",
         "Original_Text": "던전 동참을 거부했습니다.",
-        "English_Text": "You declined the invite to the dungeon.",
+        "English_Text": "You declined the invitation to dungeon.",
         "Russian_Text": "",
         "Chinese_Text": "已拒绝参加副本。"
     },
@@ -513,21 +513,21 @@
     "9000074": {
         "Dev_Desc": "",
         "Original_Text": "던전 밖으로 이동합니다.",
-        "English_Text": "Exiting the dungeon.",
+        "English_Text": "Leaving the dungeon.",
         "Russian_Text": "",
         "Chinese_Text": "将移动到副本之外。"
     },
     "9000075": {
         "Dev_Desc": "",
         "Original_Text": "진입 가능 레벨이 부족합니다.",
-        "English_Text": "Your level is too low to enter the dungeon.",
+        "English_Text": "You need to level up to enter.",
         "Russian_Text": "",
         "Chinese_Text": "等级不足，因此无法进入。"
     },
     "9000076": {
         "Dev_Desc": "",
         "Original_Text": "선행 퀘스트를 완료해야 합니다.",
-        "English_Text": "You must complete the prior quest first.",
+        "English_Text": "You need to complete the prior quest first.",
         "Russian_Text": "",
         "Chinese_Text": "必须完成先行任务。"
     },
@@ -541,14 +541,14 @@
     "9000078": {
         "Dev_Desc": "",
         "Original_Text": "즉시 부활 사용 시 비용을 지불해야 합니다.\\n",
-        "English_Text": "Instant Resurrection cost must be paid immediately.\n",
+        "English_Text": "Instant Resurrection cost is paid immediately.\n",
         "Russian_Text": "",
         "Chinese_Text": "使用立即复活时需要支付费用。\n"
     },
     "9000079": {
         "Dev_Desc": "",
         "Original_Text": "내에 즉시 부활을 반복 사용할 경우, 즉시 부활 비용이 증가합니다.",
-        "English_Text": "If you use Immediate Resurrection repeatedly within, the cost of immediate resurrection will increase.",
+        "English_Text": "<TEMP>",
         "Russian_Text": "",
         "Chinese_Text": "内反复使用立即复活时，立即复活费用将提升。"
     },
@@ -569,7 +569,7 @@
     "9000082": {
         "Dev_Desc": "",
         "Original_Text": "<arg p=[1:string]/> 님이 <arg p=[2:string]/>의 <arg p=[3:string]/>을(를) 파괴했습니다.",
-        "English_Text": "<arg p=[1:string]/> destroyed <arg p=[3:string]/> of <arg p=[2:string]/>!",
+        "English_Text": "<arg p=[1:string]/> destroyed <arg p=[3:string]/> of <arg p=[2:string]/>.",
         "Russian_Text": "",
         "Chinese_Text": "<arg p=[1:string]/>已破坏<arg p=[2:string]/>个<arg p=[3:string]/>！"
     },
@@ -583,14 +583,14 @@
     "9000084": {
         "Dev_Desc": "",
         "Original_Text": "파티에서 탈퇴하였습니다.",
-        "English_Text": "You left the party.",
+        "English_Text": "Left a party.",
         "Russian_Text": "",
         "Chinese_Text": "已退出队伍。"
     },
     "9000085": {
         "Dev_Desc": "",
         "Original_Text": "파티가 해산되었습니다.",
-        "English_Text": "Party is dismissed.",
+        "English_Text": "Party dismissed.",
         "Russian_Text": "",
         "Chinese_Text": "队伍已解散。"
     },
@@ -625,7 +625,7 @@
     "9000090": {
         "Dev_Desc": "",
         "Original_Text": "최대 파티원 수를 초과해 초대할 수 없습니다.",
-        "English_Text": "You can't send an invite because the party is full.",
+        "English_Text": "Unable to invite as the party is full.",
         "Russian_Text": "",
         "Chinese_Text": "队伍已满，因此无法邀请入队。"
     },
@@ -660,21 +660,21 @@
     "9000095": {
         "Dev_Desc": "",
         "Original_Text": "파티원이 가득차 파티에 참여할 수 없습니다.",
-        "English_Text": "You can't join the party because it is full.",
+        "English_Text": "Unable to join the party because the party is full.",
         "Russian_Text": "",
         "Chinese_Text": "该队伍已满，因此无法加入队伍。"
     },
     "9000096": {
         "Dev_Desc": "",
         "Original_Text": "파티원이 다른 던전에 참여하고 있어 던전에 입장할 수 없습니다.",
-        "English_Text": "Unable to enter the dungeon. A party member is currently in a different dungeon.",
+        "English_Text": "Unable to enter the dungeon. A party member is in a different dungeon.",
         "Russian_Text": "",
         "Chinese_Text": "有队员在其他副本内，因此无法进入副本。"
     },
     "9000097": {
         "Dev_Desc": "",
         "Original_Text": "<arg p=[1:string]/> 님에게 이동합니다.",
-        "English_Text": "Teleport to <arg p=[1:string]/>.",
+        "English_Text": "Teleport to where <arg p=[1:string]/> is.",
         "Russian_Text": "",
         "Chinese_Text": "移动至<arg p=[1:string]/>身边。"
     },
@@ -765,7 +765,7 @@
     "9000110": {
         "Dev_Desc": "",
         "Original_Text": "업적 보상을 획득 하였습니다.",
-        "English_Text": "You received Goal rewards.",
+        "English_Text": "You received achievement rewards.",
         "Russian_Text": "",
         "Chinese_Text": "已获得成就奖励。"
     },
@@ -779,7 +779,7 @@
     "9000112": {
         "Dev_Desc": "",
         "Original_Text": "소지품 여유 공간이 부족하여 획득할 수 없습니다.",
-        "English_Text": "You need more space in your Bag to receive rewards.",
+        "English_Text": "You need more space in your Inventory to receive rewards.",
         "Russian_Text": "",
         "Chinese_Text": "包裹内没有多余空间，因此无法获得。"
     },
@@ -800,14 +800,14 @@
     "9000115": {
         "Dev_Desc": "",
         "Original_Text": "파티초대를 거부 했습니다.",
-        "English_Text": "You declined the party invite.",
+        "English_Text": "You declined the party invitation.",
         "Russian_Text": "",
         "Chinese_Text": "已拒绝队伍邀请。"
     },
     "9000116": {
         "Dev_Desc": "",
         "Original_Text": "던전 입장 레벨이 부족하여 수락할 수 없습니다.",
-        "English_Text": "Your level is too low to accept the invite.",
+        "English_Text": "Your level is too low to accept the invitation.",
         "Russian_Text": "",
         "Chinese_Text": "等级不足以进入副本，因此无法接受。"
     },
@@ -821,7 +821,7 @@
     "9000118": {
         "Dev_Desc": "아이템 / ",
         "Original_Text": "<arg p=[1:integer]/>개의 상자를 사용하여 <arg p=[2:integer]/>개의 물품을 획득했습니다.",
-        "English_Text": "You used <arg p=[1:integer]/> chest[s and obtained <arg p=[2:integer]/> item[s.",
+        "English_Text": "You used <arg p=[1:integer]/> [$pl_ref:1]chest[@pl+s] and obtained <arg p=[2:integer]/> [$pl_ref:2]item[@pl+s].",
         "Russian_Text": "",
         "Chinese_Text": "打开<arg p=[1:integer]/>个箱子，获得了<arg p=[2:integer]/>个物品。"
     },
@@ -835,7 +835,7 @@
     "9000120": {
         "Dev_Desc": "",
         "Original_Text": "임시 보관함에 보관 중인 물품이 있어 <arg p=[1:string]/>을 열 수 없습니다.",
-        "English_Text": "You can't open <arg p=[1:string]/> because you have items in the Overflow Inventory.",
+        "English_Text": "Unable to open <arg p=[1:string]/> as you have items in the Overflow Inventory.",
         "Russian_Text": "",
         "Chinese_Text": "临时保管箱内有保管中的物品，因此无法打开<arg p=[1:string]/>。"
     },
@@ -849,7 +849,7 @@
     "9000122": {
         "Dev_Desc": "",
         "Original_Text": "업적을 달성하여 업적 주화를 획득할 수 있습니다.",
-        "English_Text": "Claim Goal Coins for completing the achievement.",
+        "English_Text": "Complete Achievements to earn Achievement Coins.",
         "Russian_Text": "",
         "Chinese_Text": "完成成就可获得成就币。"
     },
@@ -877,14 +877,14 @@
     "9000126": {
         "Dev_Desc": "",
         "Original_Text": "돌림판을 돌려 <arg p=[1:integer]/>개의 물품을 획득하였습니다.",
-        "English_Text": "You obtained <arg p=[1:integer]/> item[s for spinning the wheel.",
+        "English_Text": "You obtained <arg p=[1:integer]/> items for spinning the wheel.",
         "Russian_Text": "",
         "Chinese_Text": "通过旋转幸运转盘获得<arg p=[1:integer]/>个物品。"
     },
     "9000127": {
         "Dev_Desc": "",
         "Original_Text": "보유 중인 업적주화가 부족하여 구매할 수 없습니다.\\n업적주화는 업적 달성 시 획득 가능합니다.",
-        "English_Text": "You need more Goal Coins to purchase.\nComplete Goals to gain coins.",
+        "English_Text": "You need more Achievement Coins to purchase.\nComplete achievements to gain coins.",
         "Russian_Text": "",
         "Chinese_Text": "持有中的成就币不足，因此无法购买。\n完成成就可获得成就币。"
     },
@@ -905,28 +905,28 @@
     "9000130": {
         "Dev_Desc": "",
         "Original_Text": "광고성 정보 수신을 동의하였습니다. ",
-        "English_Text": "You agreed to receive marketing push alerts.",
+        "English_Text": "You agreed to receiving marketing push notifications. ",
         "Russian_Text": "",
         "Chinese_Text": "已同意接收广告信息。"
     },
     "9000131": {
         "Dev_Desc": "",
         "Original_Text": "광고성 정보 수신을 거부하였습니다.",
-        "English_Text": "You declined to receive marketing push alerts.",
+        "English_Text": "You declined to receiving marketing push notifications.",
         "Russian_Text": "",
         "Chinese_Text": "已拒绝接收广告信息。"
     },
     "9000132": {
         "Dev_Desc": "",
         "Original_Text": "야간 광고성 Push 수신을 동의하였습니다. ",
-        "English_Text": "You agreed to receive marketing push alerts at night.",
+        "English_Text": "You agreed to receiving marketing push notifications at night. ",
         "Russian_Text": "",
         "Chinese_Text": "已同意接收夜间广告信息推送。"
     },
     "9000133": {
         "Dev_Desc": "",
         "Original_Text": "야간 광고성 Push 수신을 거부하였습니다.",
-        "English_Text": "You declined to receive marketing push alerts at night.",
+        "English_Text": "You declined to receiving marketing push notifications at night.",
         "Russian_Text": "",
         "Chinese_Text": "已拒绝接收夜间广告信息推送。"
     },
@@ -982,7 +982,7 @@
     "9000141": {
         "Dev_Desc": "",
         "Original_Text": "필수권한이 활성화 되지 않았습니다.",
-        "English_Text": "The requirements have not been met.",
+        "English_Text": "The requirements are not met.",
         "Russian_Text": "",
         "Chinese_Text": "必要权限未被激活。"
     },
@@ -1073,7 +1073,7 @@
     "9000154": {
         "Dev_Desc": "",
         "Original_Text": "<arg p=[1:string]/><ga/> 삭제되었습니다.",
-        "English_Text": "<arg p=[1:string]/> is deleted.",
+        "English_Text": "<arg p=[1:string]/> has been deleted.",
         "Russian_Text": "",
         "Chinese_Text": "<arg p=[1:string]/>角色已被删除。"
     },
@@ -1332,7 +1332,7 @@
     "9000203": {
         "Dev_Desc": "",
         "Original_Text": "운영자에 의해 접속이 종료되었습니다.",
-        "English_Text": "Dismissed by GM",
+        "English_Text": "Your session has been disconnected by the GM.",
         "Russian_Text": "",
         "Chinese_Text": "被GM驱逐"
     },
@@ -1366,7 +1366,7 @@
     },
     "9000208": {
         "Dev_Desc": "상점 / 돈 부족 / ",
-        "Original_Text": "소지금이 부족해 구입할 수 없습니다.",
+        "Original_Text": "소지금이 부족해 구매할 수 없습니다.",
         "English_Text": "You need more money to purchase.",
         "Russian_Text": "",
         "Chinese_Text": "所持金不足，因此无法购买。"
@@ -1563,7 +1563,7 @@
     "9000236": {
         "Dev_Desc": "HUD / ",
         "Original_Text": "시전 중",
-        "English_Text": "Teleporting...",
+        "English_Text": "Windstriding...",
         "Russian_Text": "",
         "Chinese_Text": "正在施放"
     },
@@ -1612,7 +1612,7 @@
     "9000243": {
         "Dev_Desc": "잡화상점 / ",
         "Original_Text": "물품을 판매하여 금화 <arg p=[1:integer]/>개를 획득했습니다.",
-        "English_Text": "You sold the items for <arg p=[1:integer]/> gold.",
+        "English_Text": "You sold items for <arg p=[1:integer]/> gold.",
         "Russian_Text": "",
         "Chinese_Text": "出售物品获得<arg p=[1:integer]/>金币。"
     },
@@ -1640,7 +1640,7 @@
     "9000247": {
         "Dev_Desc": "아이템 / ",
         "Original_Text": "<arg p=[1:integer]/>개의 아이템을 분해하여 <arg p=[2:integer]/>개의 물품을 획득했습니다.",
-        "English_Text": "You obtained <arg p=[2:integer]/> item[s by salvaging <arg p=[1:integer]/> item[s.",
+        "English_Text": "You obtained <arg p=[2:integer]/> [$pl_ref:2]item[@pl+s] by salvaging <arg p=[1:integer]/> [$pl_ref:1]item[@pl+s].",
         "Russian_Text": "",
         "Chinese_Text": "分解<arg p=[1:integer]/>个道具，获得了<arg p=[2:integer]/>个物品。"
     },
@@ -1696,7 +1696,7 @@
     "9000255": {
         "Dev_Desc": "소지품 / ",
         "Original_Text": "<arg p=[1:string]/> 외 <arg p=[2:integer]/>개의 물품이 장착되었습니다.",
-        "English_Text": "You equipped <arg p=[1:string]/> and <arg p=[2:integer]/> more item[s.",
+        "English_Text": "You equipped <arg p=[1:string]/> and <arg p=[2:integer]/> more [$pl_ref:2]item[@pl+s].",
         "Russian_Text": "",
         "Chinese_Text": "已经穿戴<arg p=[1:string]/>外<arg p=[2:integer]/>个物品。"
     },
@@ -1710,14 +1710,14 @@
     "9000257": {
         "Dev_Desc": "아이템 / ",
         "Original_Text": "<arg p=[1:string]/> <arg p=[2:integer]/>개를 획득했습니다.",
-        "English_Text": "You obtained <arg p=[1:string]/> x<arg p=[2:integer]/>.",
+        "English_Text": "<arg p=[1:string]/>You obtained <arg p=[2:integer]/> x.",
         "Russian_Text": "",
         "Chinese_Text": "已获得<arg p=[2:integer]/>个<arg p=[1:string]/>。"
     },
     "9000258": {
         "Dev_Desc": "아이템 / ",
         "Original_Text": "<arg p=[1:string]/> 외 <arg p=[2:integer]/>종의 물품을 획득했습니다.",
-        "English_Text": "You obtained <arg p=[1:string]/> and <arg p=[2:integer]/> more item[s.",
+        "English_Text": "You obtained <arg p=[1:string]/> and <arg p=[2:integer]/> more [$pl_ref:2]item[@pl+s].",
         "Russian_Text": "",
         "Chinese_Text": "已获得<arg p=[1:string]/>外<arg p=[2:integer]/>种物品。"
     },
@@ -1737,7 +1737,7 @@
     },
     "9000261": {
         "Dev_Desc": "아이템 / ",
-        "Original_Text": "소지금이 부족해 구입할 수 없습니다.",
+        "Original_Text": "소지금이 부족해 구매할 수 없습니다.",
         "English_Text": "You need more money to purchase.",
         "Russian_Text": "",
         "Chinese_Text": "所持金不足，因此无法购买。"
@@ -1759,7 +1759,7 @@
     "9000264": {
         "Dev_Desc": "아이템 / ",
         "Original_Text": "외 아이템 <arg p=[1:integer]/>종을 수령했습니다.",
-        "English_Text": "Other props <arg p=[1:integer]/> have been collected.",
+        "English_Text": "<DNT>",
         "Russian_Text": "",
         "Chinese_Text": "已收取其他道具<arg p=[1:integer]/>种。"
     },
@@ -1884,7 +1884,7 @@
     },
     "9000282": {
         "Dev_Desc": "아이템 / ",
-        "Original_Text": "장착 중인 아이템입니다.",
+        "Original_Text": "장착 중인 물품입니다.",
         "English_Text": "You have already equipped this.",
         "Russian_Text": "",
         "Chinese_Text": "该道具已穿戴。"
@@ -2228,7 +2228,7 @@
     "9000332": {
         "Dev_Desc": "거점쟁탈전 / 시작 메시지 / <arg p=[1:string]/>: 거점 이름(ZoneData의 \"zoneNameAlias\" 필드 값)",
         "Original_Text": "<arg p=[1:string]/> 쟁탈전 시작! ",
-        "English_Text": "Battle for <arg p=[1:string]/> Starts Now!",
+        "English_Text": "Battle for <arg p=[1:string]/> Starts Now! ",
         "Russian_Text": "",
         "Chinese_Text": "<arg p=[1:string]/>争夺战开始！"
     },
@@ -2368,7 +2368,7 @@
     "9000353": {
         "Dev_Desc": "친구 시스템 / 친구 요청",
         "Original_Text": "<arg p=[1:string]/> 님에게 친구 요청을 보냈습니다.",
-        "English_Text": "Sent a friend request to <arg p=[1:string]/>.",
+        "English_Text": "You sent a friend request to <arg p=[1:string]/>.",
         "Russian_Text": "",
         "Chinese_Text": "已向<arg p=[1:string]/>发出好友申请。"
     },
@@ -2389,7 +2389,7 @@
     "9000356": {
         "Dev_Desc": "친구 시스템 / 요청 실패 / 상대방 받은 요청 횟수 초과",
         "Original_Text": "<arg p=[1:string]/> 님의 받은 요청 최대 횟수를 초과해 요청할 수 없습니다.",
-        "English_Text": "<arg p=[1:string]/> can't receive a request as it will exceed the max number of requests.",
+        "English_Text": "<arg p=[1:string]/> can't receive requests as it will exceed the max number of requests.",
         "Russian_Text": "",
         "Chinese_Text": "<arg p=[1:string]/>收到的好友申请次数已满，因此无法申请。"
     },
@@ -2473,7 +2473,7 @@
     "9000368": {
         "Dev_Desc": "파티 시스템 / 파티원에게 이동 / 성공 / <arg p=[1:string]/>: 파티원 이름",
         "Original_Text": "파티원 <arg p=[1:string]/> 님에게 이동했습니다. ",
-        "English_Text": "Teleported to party member <arg p=[1:string]/>.",
+        "English_Text": "Teleported to the party member <arg p=[1:string]/>. ",
         "Russian_Text": "",
         "Chinese_Text": "已移动至队员<arg p=[1:string]/>身边。"
     },
@@ -2529,7 +2529,7 @@
     "9000376": {
         "Dev_Desc": "파티 시스템 / 파티 초대 실패 / 초대 받은 횟수 10개 이상",
         "Original_Text": "다수의 캐릭터가 파티 초대 중인 캐릭터라 초대를 보낼 수 없습니다. 잠시 후 다시 시도해 주세요. ",
-        "English_Text": "The character received too many party requests. Try again later.",
+        "English_Text": "The character received too many party requests. Try again later. ",
         "Russian_Text": "",
         "Chinese_Text": "该角色正在被多个角色邀请加入队伍，因此无法发出邀请。请稍等片刻后重新尝试。"
     },
@@ -2746,7 +2746,7 @@
     "9000408": {
         "Dev_Desc": "문파 시스템 / 기록 / 문파장 위임 처리",
         "Original_Text": "이전 문파장이 14일 이상 로그인하지 않아 <arg p=[1:string]/> 님 에게 문파장 지위가 위임되었습니다.",
-        "English_Text": "<arg p=[1:string]/> became the clan leader as the previous clan leader didn't log in for at least 14 days.",
+        "English_Text": "<arg p=[1:string]/> became the clan leader as the previous clan leader didn't sign in for at least 14 days.",
         "Russian_Text": "",
         "Chinese_Text": "前任门派门主已连续14天以上未登录游戏，因此<arg p=[1:string]/>被委任为门派门主。"
     },
@@ -2858,7 +2858,7 @@
     "9000426": {
         "Dev_Desc": "문파 시스템 / 기록 / 단기 버프 적용 안내",
         "Original_Text": "문파 버프 <arg p=[1:string]/> <ga/> 적용되었습니다. ",
-        "English_Text": "Clan Buff \"<arg p=[1:string]/>\" is applied.",
+        "English_Text": "Clan Buff \"<arg p=[1:string]/>\" is applied. ",
         "Russian_Text": "",
         "Chinese_Text": "已启用门派增益<arg p=[1:string]/><ga/>。"
     },
@@ -2956,7 +2956,7 @@
     "9000440": {
         "Dev_Desc": "문파 시스템 / 가입 신청",
         "Original_Text": "<arg p=[1:string]/> 님이 문파에 지원했습니다.",
-        "English_Text": "<arg p=[1:string]/> sent a join request.",
+        "English_Text": "<arg p=[1:string]/> sent a join request to your clan.",
         "Russian_Text": "",
         "Chinese_Text": "<arg p=[1:string]/>申请加入门派。"
     },
@@ -3068,7 +3068,7 @@
     "9000460": {
         "Dev_Desc": "문파 시스템 / 관리 / 문장 변경 / 현재와 동일 문장",
         "Original_Text": "현재와 동일한 문장입니다. 다른 문장을 선택해 주세요.",
-        "English_Text": "This is the same sentence as the current one. Please select a different sentence.",
+        "English_Text": "Choose a different emblem for your clan to apply the change.",
         "Russian_Text": "",
         "Chinese_Text": "它与现在的句子相同.请选择另一个句子."
     },
@@ -3208,7 +3208,7 @@
     "9000482": {
         "Dev_Desc": "아이템 / 판매 및 구매 / 한정 조건 횟수를 모두 소진한 경우\n판매/매입 중 1개",
         "Original_Text": "더 이상 <arg p=[1:string]/> 하지 않는 아이템입니다.",
-        "English_Text": "The item cannot continue <arg p=[1:string]/>.",
+        "English_Text": "<DNT>",
         "Russian_Text": "",
         "Chinese_Text": "该道具无法继续<arg p=[1:string]/>。"
     },
@@ -3222,7 +3222,7 @@
     "9000484": {
         "Dev_Desc": "상점 / 물품 / 판매 / 판매 결과 / 재화 종류 표시 (스택 가능)",
         "Original_Text": "물품을 <arg p=[1:integer]/> 개 판매해서 <arg p=[2:string]/> <arg p=[3:integer]/> 개를 획득했습니다.",
-        "English_Text": "You sold <arg p=[1:integer]/> item[s for <arg p=[2:string]/> x<arg p=[3:integer]/>.",
+        "English_Text": "You sold <arg p=[1:integer]/> [$pl_ref:1]item[@pl+s] for <arg p=[2:string]/> x<arg p=[3:integer]/>.",
         "Russian_Text": "",
         "Chinese_Text": "出售<arg p=[1:integer]/>个物品，因此获得<arg p=[3:integer]/>个<arg p=[2:string]/>。"
     },
@@ -3397,7 +3397,7 @@
     "9000509": {
         "Dev_Desc": "파티 시스템 / 팝업창 / 파티장으로 위임",
         "Original_Text": "파티장으로 위임하겠습니까? ",
-        "English_Text": "Appoint as party leader?",
+        "English_Text": "Appoint as party leader? ",
         "Russian_Text": "",
         "Chinese_Text": "是否委任队长？"
     },
@@ -3656,7 +3656,7 @@
     "9000551": {
         "Dev_Desc": "문파 에러 / 가입 신청 안 한 문파에 대해 가입 신청 취소 / 가입과 동시에 가입 신청 취소",
         "Original_Text": "가입 신청하지 않은 문파이거나, 이미 문파에 가입된 상태입니다.",
-        "English_Text": "You are not in a clan.",
+        "English_Text": "You haven't sent a Join Request or have already joined the clan.",
         "Russian_Text": "",
         "Chinese_Text": "未申请加入门派。"
     },
@@ -3964,7 +3964,7 @@
     "9000605": {
         "Dev_Desc": "문파 시스템 / 가입 관리 / 초대 / 이름 미입력",
         "Original_Text": "플레이어 이름을 입력해주세요.",
-        "English_Text": "Please enter a character name.",
+        "English_Text": "Enter a character's name.",
         "Russian_Text": "",
         "Chinese_Text": "请输入角色名称。"
     },
@@ -4153,7 +4153,7 @@
     "9000632": {
         "Dev_Desc": "잠금 / 의복 아이템 등록 시도",
         "Original_Text": "잠겨 있는 의상은 옷장에 등록할 수 없습니다.",
-        "English_Text": "You can't add a locked item to the Wardrobe.",
+        "English_Text": "You can't add a locked outfit to the Wardrobe.",
         "Russian_Text": "",
         "Chinese_Text": "无法在服装仓库登记锁定的道具。"
     },
@@ -4188,28 +4188,28 @@
     "9000637": {
         "Dev_Desc": "사망 / 애도/ 당한 유저 안내 메시지",
         "Original_Text": "<arg p=[1:string]/> 님이 당신의 혼불에 애도를 표했습니다.",
-        "English_Text": "<arg p=[1:string]/> paid condolences to your grave.",
+        "English_Text": "<arg p=[1:string]/> paid condolences to your Soulfire.",
         "Russian_Text": "",
         "Chinese_Text": "<arg p=[1:string]/>对您的坟墓表示了哀悼。"
     },
     "9000638": {
         "Dev_Desc": "사망 / 애도/ 애도한 유저 안내 메시지",
         "Original_Text": "<arg p=[1:string]/> 님의 혼불에 애도를 표했습니다.",
-        "English_Text": "<arg p=[1:string]/>You paid condolences to 's grave.",
+        "English_Text": "<arg p=[1:string]/>You paid condolences to 's Soulfire.",
         "Russian_Text": "",
         "Chinese_Text": "您向<arg p=[1:string]/>的坟墓表示了哀悼。"
     },
     "9000639": {
         "Dev_Desc": "사망 / 애도 / 애도당한 유저 친구, 문파원에게 발송 메시지",
         "Original_Text": "<arg p=[1:string]/> 님이 <arg p=[2:string]/>의 혼불에 애도를 표했습니다.",
-        "English_Text": "<arg p=[1:string]/> paid condolences to <arg p=[2:string]/>'s grave.",
+        "English_Text": "<arg p=[1:string]/> paid condolences to <arg p=[2:string]/>'s Soulfire.",
         "Russian_Text": "",
         "Chinese_Text": "<arg p=[1:string]/>向<arg p=[2:string]/>的坟墓表示了哀悼。"
     },
     "9000640": {
         "Dev_Desc": "문파 레이드 소환서 실패1",
         "Original_Text": "문파 장원의 소환지에서만 사용할 수 있습니다.",
-        "English_Text": "Only available through the raid menu in the Clan Villa.",
+        "English_Text": "Only available in the Summon Zone in the Clan Villa.",
         "Russian_Text": "",
         "Chinese_Text": "只能在门派根据地使用。"
     },
@@ -4454,7 +4454,7 @@
     "9000677": {
         "Dev_Desc": "채팅 / 유저 차단",
         "Original_Text": "<arg p=[1:string]/> 님의 채팅 메시지를 차단했습니다.",
-        "English_Text": "You have blocked messages from [<arg p=[1:string]/>].",
+        "English_Text": "You have blocked messages from <arg p=[1:string]/>.",
         "Russian_Text": "",
         "Chinese_Text": "已屏蔽[<arg p=[1:string]/>]的聊天信息。"
     },
@@ -4510,7 +4510,7 @@
     "9000685": {
         "Dev_Desc": "채팅 / 신고 성공",
         "Original_Text": "<arg p=[1:string]/> 님을 신고했습니다.",
-        "English_Text": "You have reported [<arg p=[1:string]/>].",
+        "English_Text": "You have reported <arg p=[1:string]/>.",
         "Russian_Text": "",
         "Chinese_Text": "已举报[<arg p=[1:string]/>]。"
     },
@@ -4606,8 +4606,8 @@
         "Chinese_Text": "收藏夹最多可以有20个。"
     },
     "9000699": {
-        "Dev_Desc": "거래소 / 필터 / 제련 옵션 / 6개 이상 선택 시",
-        "Original_Text": "제련옵션 선택은 최대 5개까지 가능합니다.",
+        "Dev_Desc": "거래소 / 필터 / 재련 옵션 / 6개 이상 선택 시",
+        "Original_Text": "재련옵션 선택은 최대 5개까지 가능합니다.",
         "English_Text": "You can select up to 5 Refine options.",
         "Russian_Text": "",
         "Chinese_Text": "最多可选择5个提炼属性。"
@@ -4671,7 +4671,7 @@
     "9000709": {
         "Dev_Desc": "채팅 / 문파 인사 존칭 설정",
         "Original_Text": " 님, ",
-        "English_Text": ".",
+        "English_Text": " . ",
         "Russian_Text": "",
         "Chinese_Text": "少侠，"
     },
@@ -4685,7 +4685,7 @@
     "9000711": {
         "Dev_Desc": "거래소 / 판매 / 판매 취소",
         "Original_Text": "거래소에 판매 등록한 물품을 회수했습니다.",
-        "English_Text": "Retrieved the registered item(s) from the Market.",
+        "English_Text": "You've retrieved the items from the sale list in the Market.",
         "Russian_Text": "",
         "Chinese_Text": "已取消出售<arg p=[2:integer]/>个<arg p=[1:string]/>。"
     },
@@ -4699,7 +4699,7 @@
     "9000713": {
         "Dev_Desc": "거래소 / 판매 / 판매 취소 / 소지품 공간 부족",
         "Original_Text": "소지품 여유 공간이 없어 판매 취소할 수 없습니다.",
-        "English_Text": "You can't cancel the sale because your Bag is full.",
+        "English_Text": "Unable to cancel sale as your Bag is full.",
         "Russian_Text": "",
         "Chinese_Text": "包裹剩余空间不足，因此无法取消出售。"
     },
@@ -4818,7 +4818,7 @@
     "9000730": {
         "Dev_Desc": "문파 시스템 / 동맹 문파 / 요청 / 최대치",
         "Original_Text": "최대 동맹 요청 수를 초과하여 요청할 수 없습니다.",
-        "English_Text": "You can't send a request because you will exceed the max number of alliance clans.",
+        "English_Text": "You can't send a request because you will exceed the max number of alliance requests.",
         "Russian_Text": "",
         "Chinese_Text": "已达到最大同盟门派数量，因此无法邀请。"
     },
@@ -5035,7 +5035,7 @@
     "9000761": {
         "Dev_Desc": "문파 시스템 / 새로고침 / 쿨타임",
         "Original_Text": "잠시 후 새로 고침이 가능합니다.",
-        "English_Text": "You can refresh after <arg p=[1:integer]/> sec.",
+        "English_Text": "You can refresh at a later time.",
         "Russian_Text": "",
         "Chinese_Text": "可在<arg p=[1:integer]/>秒后刷新。"
     },
@@ -5063,7 +5063,7 @@
     "9000765": {
         "Dev_Desc": "문파 시스템 / 문파 검색 / 쿨타임",
         "Original_Text": "잠시 후 검색이 가능합니다.",
-        "English_Text": "Search available after <arg p=[1:integer]/> sec.",
+        "English_Text": "Search will be available at a later time.",
         "Russian_Text": "",
         "Chinese_Text": "可在<arg p=[1:integer]/>秒后进行搜索。"
     },
@@ -5210,7 +5210,7 @@
     "9000786": {
         "Dev_Desc": "협행 / 자동 이동 불가",
         "Original_Text": "자동이동을 지원하지 않습니다.",
-        "English_Text": "Unable to auto-move.",
+        "English_Text": "Auto-Move is not available.",
         "Russian_Text": "",
         "Chinese_Text": "无法自动移动。"
     },
@@ -5434,7 +5434,7 @@
     "9000818": {
         "Dev_Desc": "경계 / 경계등록 실패 / 친구 요청 받음",
         "Original_Text": "친구 요청중인 캐릭터는 경계대상으로 등록할 수 없습니다.",
-        "English_Text": "The player has sent you a friend request.",
+        "English_Text": "You can't add this player to the Watched List because a friend request is pending.",
         "Russian_Text": "",
         "Chinese_Text": "对方已向您发出好友申请。"
     },
@@ -5483,7 +5483,7 @@
     "9000825": {
         "Dev_Desc": "경계 / 경계 삭제 메시지",
         "Original_Text": "<arg p=[1:string]/> 님을 경계대상 목록에서 삭제했습니다.",
-        "English_Text": "Removed <arg p=[1:string]/> from the Watched List.",
+        "English_Text": "You deleted <arg p=[1:string]/> from your Watched List.",
         "Russian_Text": "",
         "Chinese_Text": "从警戒对象目录中删除了<arg p=[1:string]/>。"
     },
@@ -5497,7 +5497,7 @@
     "9000827": {
         "Dev_Desc": "거래소 / 구매 / 구매 시도 / 소지품 무게 부족",
         "Original_Text": "소지 가능 무게를 초과하여 구매할 수 없습니다.",
-        "English_Text": "You can't add this because the inventory will exceed the max weight.",
+        "English_Text": "You can't purchase this because the inventory will exceed the max weight.",
         "Russian_Text": "",
         "Chinese_Text": "超过携带重量上限，因此无法购买。"
     },
@@ -5511,14 +5511,14 @@
     "9000829": {
         "Dev_Desc": "거래소 / 구매 / 구매 시도 / 항목 미선택",
         "Original_Text": "선택된 물품이 없습니다. 물품을 선택해주세요.",
-        "English_Text": "None selected. Make your choice.",
+        "English_Text": "No item selected. Select an item to purchase.",
         "Russian_Text": "",
         "Chinese_Text": "尚未选择道具。请选择道具。"
     },
     "9000830": {
         "Dev_Desc": "귀환주문서 / 주문서 사용 / 사용 불가 지역",
         "Original_Text": "귀환의 돌을 사용할 수 없는 지역입니다.",
-        "English_Text": "You cannot use a Return Stone in this area.",
+        "English_Text": "You can't use a Return Stone in this area.",
         "Russian_Text": "",
         "Chinese_Text": "在该地区无法使用归还石。"
     },
@@ -5581,28 +5581,28 @@
     "9000839": {
         "Dev_Desc": "채팅 / 힌트 / 서버, 지역",
         "Original_Text": "이야기를 남겨보세요",
-        "English_Text": "Chat with players in your server/area!",
+        "English_Text": "Chat with players.",
         "Russian_Text": "",
         "Chinese_Text": "请随意留言！"
     },
     "9000840": {
         "Dev_Desc": "채팅 / 힌트 / 파티",
         "Original_Text": "파티원과 대화하세요",
-        "English_Text": "Chat with your party members!",
+        "English_Text": "Chat with your party members.",
         "Russian_Text": "",
         "Chinese_Text": "您可以与队员聊天！"
     },
     "9000841": {
         "Dev_Desc": "채팅 / 힌트 / 귓속말",
         "Original_Text": "이름을 입력하세요",
-        "English_Text": "Enter a character's name.",
+        "English_Text": "Enter a name.",
         "Russian_Text": "",
         "Chinese_Text": "请输入角色名称。"
     },
     "9000842": {
         "Dev_Desc": "채팅 / 힌트 / 문파",
         "Original_Text": "문파원과 대화하세요",
-        "English_Text": "Chat with your clan members!",
+        "English_Text": "Chat with your clan members.",
         "Russian_Text": "",
         "Chinese_Text": "您可以与门派成员聊天！"
     },
@@ -5686,7 +5686,7 @@
     "9000854": {
         "Dev_Desc": "채팅 / 귓속말 / 입력 필드",
         "Original_Text": "이름을 입력해주세요.",
-        "English_Text": "Please enter a character name.",
+        "English_Text": "Enter a name.",
         "Russian_Text": "",
         "Chinese_Text": "请输入角色名称。"
     },
@@ -5742,7 +5742,7 @@
     "9000862": {
         "Dev_Desc": "타이틀 / 보안 서비스 / 인증 등록 / 미입력",
         "Original_Text": "잘못된 번호입니다. 올바른 휴대폰 번호를 입력해 주세요.",
-        "English_Text": "Enter the received number.",
+        "English_Text": "Invalid number. Enter the correct phone number.",
         "Russian_Text": "",
         "Chinese_Text": "请输入号码。"
     },
@@ -5826,35 +5826,35 @@
     "9000874": {
         "Dev_Desc": "채팅 시스템 메시지 / 브로드 캐스팅 / 아이템 획득",
         "Original_Text": "<<arg p=[1:string]/>><arg p=[2:string]/> <arg p=[3:string]/> 님이 </><<arg p=[4:string]/>><arg p=[5:string]/></><<arg p=[1:string]/>><eul/> <arg p=[6:string]/>에서 획득했습니다.</>",
-        "English_Text": "<<arg p=[1:string]/>><arg p=[3:string]/> (<arg p=[2:string]/>)</> acquired <<arg p=[4:string]/>><arg p=[5:string]/></> <<arg p=[1:string]/>>at <arg p=[6:string]/>.</>",
+        "English_Text": "<<arg p=[1:string]/>>[<arg p=[2:string]/>] <arg p=[3:string]/></> acquired <<arg p=[4:string]/>><arg p=[5:string]/></> at <<arg p=[1:string]/>> <arg p=[6:string]/>.</>",
         "Russian_Text": "",
         "Chinese_Text": "<<arg p=[1:string]/>><arg p=[2:string]/>服务器的<arg p=[3:string]/>在</><<arg p=[1:string]/>><eul/><arg p=[6:string]/>获得了</><<arg p=[4:string]/>><arg p=[5:string]/>。</>"
     },
     "9000875": {
         "Dev_Desc": "채팅 시스템 메시지 / 브로드 캐스팅 / 강화 성공",
         "Original_Text": "<<arg p=[1:string]/>><arg p=[2:string]/> <arg p=[3:string]/> 님이 </><<arg p=[4:string]/>>+<arg p=[5:string]/> <arg p=[6:string]/></><<arg p=[1:string]/>> 강화에 성공했습니다.</>",
-        "English_Text": "<<arg p=[1:string]/>><arg p=[3:string]/> (<arg p=[2:string]/>)</> <<arg p=[1:string]/>>successfully enhanced to</> <<arg p=[4:string]/>>+<arg p=[5:string]/> <arg p=[6:string]/></>.",
+        "English_Text": "<<arg p=[1:string]/>>[<arg p=[2:string]/>] <arg p=[3:string]/></> <<arg p=[1:string]/>>successfully enhanced</> <<arg p=[4:string]/>>+<arg p=[5:string]/> <arg p=[6:string]/>.</>",
         "Russian_Text": "",
         "Chinese_Text": "<<arg p=[1:string]/>><arg p=[2:string]/>服务器的<arg p=[3:string]/>成功进行了</><<arg p=[4:string]/>>+<arg p=[5:string]/><arg p=[6:string]/></><<arg p=[1:string]/>>强化。</>"
     },
     "9000876": {
         "Dev_Desc": "채팅 시스템 메시지 / 브로드 캐스팅 / 제작 성공",
         "Original_Text": "<<arg p=[1:string]/>><arg p=[2:string]/> <arg p=[3:string]/> 님이 </><<arg p=[4:string]/>><arg p=[5:string]/></><<arg p=[1:string]/>> 제작에 성공했습니다.</>",
-        "English_Text": "<<arg p=[1:string]/>><arg p=[3:string]/> (<arg p=[2:string]/>)</> <<arg p=[1:string]/>>successfully crafted</> <<arg p=[4:string]/>><arg p=[5:string]/></>.",
+        "English_Text": "<<arg p=[1:string]/>>[<arg p=[2:string]/>] <arg p=[3:string]/></> <<arg p=[1:string]/>>successfully crafted</> <<arg p=[4:string]/>><arg p=[5:string]/>.</>",
         "Russian_Text": "",
         "Chinese_Text": "<<arg p=[1:string]/>><arg p=[2:string]/>服务器的<arg p=[3:string]/>成功制作出</><<arg p=[4:string]/>><arg p=[5:string]/></><<arg p=[1:string]/>>。</>"
     },
     "9000877": {
         "Dev_Desc": "채팅 시스템 메시지 / 브로드 캐스팅 / 소울 획득",
         "Original_Text": "<<arg p=[1:string]/>><arg p=[2:string]/> <arg p=[3:string]/> 님이 소울 </><<arg p=[4:string]/>><arg p=[5:string]/></><<arg p=[1:string]/>><eul/> 획득했습니다.</>",
-        "English_Text": "<<arg p=[1:string]/>><arg p=[3:string]/> (<arg p=[2:string]/>)</> <<arg p=[1:string]/>>acquired</> Soul <<arg p=[4:string]/>>\"<arg p=[5:string]/>\"</>.",
+        "English_Text": "<<arg p=[1:string]/>>[<arg p=[2:string]/>] <arg p=[3:string]/></> <<arg p=[1:string]/>>acquired Soul</> <<arg p=[4:string]/>>\"<arg p=[5:string]/>.\"</>",
         "Russian_Text": "",
         "Chinese_Text": "<<arg p=[1:string]/>><arg p=[2:string]/>服务器的<arg p=[3:string]/>获得了灵魂</><<arg p=[4:string]/>><arg p=[5:string]/></><<arg p=[1:string]/>><eul/>。</>"
     },
     "9000878": {
         "Dev_Desc": "채팅 시스템 메시지 / 브로드 캐스팅 / 수호령 획득",
         "Original_Text": "<<arg p=[1:string]/>><arg p=[2:string]/> <arg p=[3:string]/> 님이 수호령 </><<arg p=[4:string]/>><arg p=[5:string]/></><<arg p=[1:string]/>><eul/> 획득했습니다.</>",
-        "English_Text": "<<arg p=[1:string]/>><arg p=[3:string]/> (<arg p=[2:string]/>)</> <<arg p=[1:string]/>>acquired</> Patron <<arg p=[4:string]/>>\"<arg p=[5:string]/>\"</>.",
+        "English_Text": "<<arg p=[1:string]/>>[<arg p=[2:string]/>] <arg p=[3:string]/></> <<arg p=[1:string]/>>acquired Patron</> <<arg p=[4:string]/>>\"<arg p=[5:string]/>.\"</>",
         "Russian_Text": "",
         "Chinese_Text": "<<arg p=[1:string]/>><arg p=[2:string]/>服务器的<arg p=[3:string]/>获得了守护灵</><<arg p=[4:string]/>><arg p=[5:string]/></><<arg p=[1:string]/>><eul/>。</>"
     },
@@ -5917,21 +5917,21 @@
     "9000887": {
         "Dev_Desc": "채팅 시스템 메시지 / 재화 획득",
         "Original_Text": "<<arg p=[1:string]/>><arg p=[2:string]/> <arg p=[3:string]/>개를 획득했습니다.</>",
-        "English_Text": "<<arg p=[1:string]/>>You obtained <arg p=[2:string]/> x<arg p=[3:string]/>.</>",
+        "English_Text": "<<arg p=[1:string]/>>You obtained <arg p=[2:string]/><arg p=[3:string]/> x.</>",
         "Russian_Text": "",
         "Chinese_Text": "获得了<arg p=[3:string]/>个<<arg p=[1:string]/>><arg p=[2:string]/>。</>"
     },
     "9000888": {
         "Dev_Desc": "채팅 시스템 메시지 / 내 무덤 애도",
         "Original_Text": "<<arg p=[1:string]/>><arg p=[2:string]/> 님의 혼불에 애도를 표했습니다.</>",
-        "English_Text": "<<arg p=[1:string]/>>You paid condolences to <arg p=[2:string]/>'s grave.</>",
+        "English_Text": "<<arg p=[1:string]/>>You paid condolences to <arg p=[2:string]/>'s Soulfire.</>",
         "Russian_Text": "",
         "Chinese_Text": "您向<<arg p=[1:string]/>><arg p=[2:string]/>的坟墓表示了哀悼。</>"
     },
     "9000889": {
         "Dev_Desc": "채팅 시스템 메시지 / 적 무점 애도",
         "Original_Text": "<<arg p=[1:string]/>><arg p=[2:string]/> 님이 당신의 혼불에 애도를 표했습니다.</>",
-        "English_Text": "<<arg p=[1:string]/>><arg p=[2:string]/> paid condolences to your grave.</>",
+        "English_Text": "<<arg p=[1:string]/>><arg p=[2:string]/> paid condolences to your Soulfire.</>",
         "Russian_Text": "",
         "Chinese_Text": "<<arg p=[1:string]/>><arg p=[2:string]/>向您的坟墓表示了哀悼。</>"
     },
@@ -5945,7 +5945,7 @@
     "9000891": {
         "Dev_Desc": "채팅 시스템 메시지 / 퍼플 브로드 캐스팅 / 강화 성공",
         "Original_Text": "<arg p=[1:string]/> 서버 <arg p=[2:string]/> 님이 +<arg p=[3:string]/> <arg p=[6:string]/> 강화에 성공했습니다.",
-        "English_Text": "<arg p=[2:string]/> (<arg p=[1:string]/>) successfully enhanced <arg p=[6:string]/> to +<arg p=[3:string]/>.",
+        "English_Text": "<arg p=[2:string]/> (<arg p=[1:string]/>) successfully enhanced +<arg p=[3:string]/> <arg p=[6:string]/>.",
         "Russian_Text": "",
         "Chinese_Text": "<arg p=[1:string]/>服务器的<arg p=[2:string]/>成功进行了+<arg p=[3:string]/><arg p=[6:string]/>强化。"
     },
@@ -5959,14 +5959,14 @@
     "9000893": {
         "Dev_Desc": "채팅 시스템 메시지 / 퍼플 브로드 캐스팅 / 소울 획득",
         "Original_Text": "<arg p=[1:string]/> 서버 <arg p=[2:string]/> 님이 소울 <arg p=[3:string]/><eul/> 획득했습니다.",
-        "English_Text": "<arg p=[2:string]/> (<arg p=[1:string]/>) acquired Soul: <arg p=[3:string]/>.",
+        "English_Text": "<arg p=[2:string]/> (<arg p=[1:string]/>) acquired Soul \"<arg p=[3:string]/>.\"",
         "Russian_Text": "",
         "Chinese_Text": "<arg p=[1:string]/>服务器的<arg p=[2:string]/>获得了灵魂<arg p=[3:string]/><eul/>。"
     },
     "9000894": {
         "Dev_Desc": "채팅 시스템 메시지 / 퍼플 브로드 캐스팅 / 수호령 획득",
         "Original_Text": "<arg p=[1:string]/> 서버 <arg p=[2:string]/> 님이 수호령 <arg p=[3:string]/><eul/> 획득했습니다.",
-        "English_Text": "<arg p=[2:string]/> (<arg p=[1:string]/>) acquired Patron: <arg p=[3:string]/>.",
+        "English_Text": "<arg p=[2:string]/> (<arg p=[1:string]/>) acquired Patron \"<arg p=[3:string]/>.\"",
         "Russian_Text": "",
         "Chinese_Text": "<arg p=[1:string]/>服务器的<arg p=[2:string]/>获得了守护灵<arg p=[3:string]/><eul/>。"
     },
@@ -6239,7 +6239,7 @@
     "9000933": {
         "Dev_Desc": "채팅 / 인증 오류 메시지",
         "Original_Text": "채팅 서버 인증에 실패했습니다.(Error: <arg p=[1:string]/>)",
-        "English_Text": "Unable to verify the chat server.",
+        "English_Text": "Unable to verify the chat server. (Error: <arg p=[1:string]/>)",
         "Russian_Text": "",
         "Chinese_Text": "聊天服务器认证失败。"
     },
@@ -6357,7 +6357,7 @@
     },
     "9000950": {
         "Dev_Desc": "거래소 / 구매 / 구매 시도 / 자기 자신",
-        "Original_Text": "자기 자신이 등록한 아이템입니다.",
+        "Original_Text": "자기 자신이 판매 중인 물품은 구매할 수 없습니다.",
         "English_Text": "The item has been registered by you.",
         "Russian_Text": "",
         "Chinese_Text": "这是您登记的道具。"
@@ -6414,14 +6414,14 @@
     "9000958": {
         "Dev_Desc": "강화 / 토스트 메시지 / 장비 등록",
         "Original_Text": "강화할 대상을 먼저 등록해 주세요.",
-        "English_Text": "Select an item to enhance.",
+        "English_Text": "Add an item to enhance.",
         "Russian_Text": "",
         "Chinese_Text": "请先登记想要强化的目标。"
     },
     "9000959": {
         "Dev_Desc": "강화 / 토스트 메시지 / 주문서 등록",
         "Original_Text": "주문서 등록 후 강화할 수 있습니다.",
-        "English_Text": "Select an Enhance Scroll to use.",
+        "English_Text": "Add an Enhance Scroll in order to enhance.",
         "Russian_Text": "",
         "Chinese_Text": "可在登记卷轴之后进行强化。"
     },
@@ -6449,7 +6449,7 @@
     "9000963": {
         "Dev_Desc": "창고 / 소지품 꽉참",
         "Original_Text": "소지품 여유 공간이 없어 물품을 찾을 수 없습니다.",
-        "English_Text": "Unable to retrieve the item as your Bag is full.",
+        "English_Text": "You can't retrieve items because your Bag is full.",
         "Russian_Text": "",
         "Chinese_Text": "包裹剩余空间不足，因此无法找到物品。"
     },
@@ -6539,7 +6539,7 @@
     },
     "9000976": {
         "Dev_Desc": "던전 / 오픈되지 않은 던던 입장 시도 시 알림",
-        "Original_Text": "<arg p=[1:string]/>지역 발견 후 입장할 수 있습니다.",
+        "Original_Text": "<arg p=[1:string]/> 지역 발견 후 입장할 수 있습니다.",
         "English_Text": "You can enter after discovering the area \"<arg p=[1:string]/>.\"",
         "Russian_Text": "",
         "Chinese_Text": "发现<arg p=[1:string]/>地区后可入场。"
@@ -6547,7 +6547,7 @@
     "9000977": {
         "Dev_Desc": "파티 초대 실패 / 미접속",
         "Original_Text": "접속 중인 플레이어가 아닙니다.",
-        "English_Text": "The character isn't online.",
+        "English_Text": "The player is offline.",
         "Russian_Text": "",
         "Chinese_Text": "您不是在线玩家."
     },
@@ -6652,7 +6652,7 @@
     "9000992": {
         "Dev_Desc": "수호령 / 수호령 합성 실패 / 모두 등록됨",
         "Original_Text": "보유한 수호령이 모두 등록되어 있습니다.",
-        "English_Text": "All owned Soul Shards have been registered.",
+        "English_Text": "All owned Patrons have been registered.",
         "Russian_Text": "",
         "Chinese_Text": "您拥有的所有守护灵都已登记."
     },
@@ -6722,350 +6722,350 @@
     "9001002": {
         "Dev_Desc": "브로드캐스팅 / 아이템 획득",
         "Original_Text": "<arg p=[1:string]/> <arg p=[2:string]/> 님이 <arg p=[3:string]/><eul/> <arg p=[4:string]/>에서 획득했습니다.",
-        "English_Text": "[<arg p=[1:string]/>]><arg p=[2:string]/> by <arg p=[3:string]/><eul/> <arg p= Obtained from [4:string]/>",
+        "English_Text": "[<arg p=[1:string]/>] <arg p=[2:string]/> acquired <arg p=[3:string]/> at <arg p=[4:string]/>.",
         "Russian_Text": "",
         "Chinese_Text": "[<arg p=[1:string]/>]<arg p=[2:string]/>已由<arg p=[3:string]/><eul/><arg p=[4:string]/>获得."
     },
     "9001003": {
         "Dev_Desc": "브로드캐스팅 / 강화 성공",
         "Original_Text": "<arg p=[1:string]/> <arg p=[2:string]/> 님이 <arg p=[3:string]/> 강화에 성공했습니다.",
-        "English_Text": "[<arg p=[1:string]/>]><arg p=[2:string]/> succeeded in hardening <arg p=[3:string]/>",
+        "English_Text": "[<arg p=[1:string]/>] <arg p=[2:string]/> successfully enhanced <arg p=[3:string]/>.",
         "Russian_Text": "",
         "Chinese_Text": "[<arg p=[1:string]/>]<arg p=[2:string]/>已成功加强<arg p=[3:string]/>."
     },
     "9001004": {
         "Dev_Desc": "브로드캐스팅 / 제작 성공",
         "Original_Text": "<arg p=[1:string]/> <arg p=[2:string]/> 님이 <arg p=[3:string]/> 제작에 성공했습니다.",
-        "English_Text": "[<arg p=[1:string]/>]><arg p=[2:string]/> successfully created <arg p=[3:string]/>",
+        "English_Text": "[<arg p=[1:string]/>] <arg p=[2:string]/> successfully crafted <arg p=[3:string]/>.",
         "Russian_Text": "",
         "Chinese_Text": "[<arg p=[1:string]/>]<arg p=[2:string]/>已成功创建<arg p=[3:string]/>."
     },
     "9001005": {
         "Dev_Desc": "브로드캐스팅 / 소울 획득",
         "Original_Text": "<arg p=[1:string]/> <arg p=[2:string]/> 님이 소울 <arg p=[3:string]/><eul/> 획득했습니다.",
-        "English_Text": "[<arg p=[1:string]/>]><arg p=[2:string]/> earned soul <arg p=[3:string]/><eul/>. ",
+        "English_Text": "[<arg p=[1:string]/>] <arg p=[2:string]/> acquired Soul \"<arg p=[3:string]/>.\"",
         "Russian_Text": "",
         "Chinese_Text": "[<arg p=[1:string]/>]<arg p=[2:string]/>您已获得灵魂<arg p=[3:string]/><eul/>."
     },
     "9001006": {
         "Dev_Desc": "브로드캐스팅 / 수호령 획득",
         "Original_Text": "<arg p=[1:string]/> <arg p=[2:string]/> 님이 수호령 <arg p=[3:string]/><eul/> 획득했습니다.",
-        "English_Text": "[<arg p=[1:string]/>]><arg p=[2:string]/> has earned the Guardian Spirit <arg p=[3:string]/><eul/>. ",
+        "English_Text": "[<arg p=[1:string]/>] <arg p=[2:string]/> acquired Patron \"<arg p=[3:string]/>.\"",
         "Russian_Text": "",
         "Chinese_Text": "[<arg p=[1:string]/>]<arg p=[2:string]/>您获得了守护令<arg p=[3:string]/><eul/>."
     },
     "9001007": {
         "Dev_Desc": "브로드캐스팅 / 수호령 획득",
-        "Original_Text": "자동 주문이 설정되어있지 않습니다.",
-        "English_Text": "Auto-order is not set.",
+        "Original_Text": "자동 주문이 설정되어 있지 않습니다.",
+        "English_Text": "Auto-order isn't set.",
         "Russian_Text": "",
         "Chinese_Text": "未设置自动排序."
     },
     "9001008": {
         "Dev_Desc": "환경설정 / 쿠폰 / 사용된 쿠폰",
         "Original_Text": "이미 사용된 쿠폰입니다.",
-        "English_Text": "This coupon has already been used.",
+        "English_Text": "The coupon has been used.",
         "Russian_Text": "",
         "Chinese_Text": "此优惠券已被使用."
     },
     "9001009": {
         "Dev_Desc": "환경설정 / 쿠폰 / 입력 기간 아님",
         "Original_Text": "쿠폰 입력 기간이 아닙니다.",
-        "English_Text": "This is not a coupon entry period.",
+        "English_Text": "The coupon isn't available.",
         "Russian_Text": "",
         "Chinese_Text": "这不是优惠券进入期."
     },
     "9001010": {
         "Dev_Desc": "환경설정 / 쿠폰 / 유효기간 만료",
         "Original_Text": "유효기간이 만료된 쿠폰입니다.",
-        "English_Text": "This coupon has expired.",
+        "English_Text": "The coupon has expired.",
         "Russian_Text": "",
         "Chinese_Text": "此优惠券已过期."
     },
     "9001011": {
         "Dev_Desc": "채팅 / 채팅 서버 타임 아웃",
         "Original_Text": "채팅 서버에 재접속 되었습니다.",
-        "English_Text": "You have been reconnected to the chat server.",
+        "English_Text": "Reconnected to the chat server.",
         "Russian_Text": "",
         "Chinese_Text": "您已重新连接到聊天服务器."
     },
     "9001012": {
         "Dev_Desc": "캐시상점 / 상품 구매 메시지",
         "Original_Text": "상품 구매",
-        "English_Text": "Buy goods",
+        "English_Text": "Purchase Item",
         "Russian_Text": "",
         "Chinese_Text": "购买"
     },
     "9001013": {
         "Dev_Desc": "캐시상점 / 상품 구매 매시지",
         "Original_Text": "<arg p=[1:string]/> <arg p=[2:integer]/>개",
-        "English_Text": "<arg p=[1:string]/> <arg p=[2:integer]/>",
+        "English_Text": "<arg p=[1:string]/> x<arg p=[2:integer]/>",
         "Russian_Text": "",
         "Chinese_Text": "<arg p=[1:string]/> <arg p=[2:integer]/>"
     },
     "9001014": {
         "Dev_Desc": "거래소 / 판매 / 판매 취소 / 임시 보관함",
         "Original_Text": "임시 보관 중인 물품이 있어 판매 취소할 수 없습니다.",
-        "English_Text": "The sale cannot be canceled because there are items in temporary storage.",
+        "English_Text": "You can't cancel sale because you have items in the Overflow Inventory.",
         "Russian_Text": "",
         "Chinese_Text": "由于有物品在临时存储中,因此无法取消销售."
     },
     "9001015": {
         "Dev_Desc": "거래소 / 판매 / 회수 / 임시 보관함",
         "Original_Text": "임시 보관 중인 물품이 있어 회수할 수 없습니다.",
-        "English_Text": "Some items are in temporary storage and cannot be retrieved.",
+        "English_Text": "You can't retrieve because you have items in the Overflow Inventory.",
         "Russian_Text": "",
         "Chinese_Text": "一些物品处于临时存储中,无法取回."
     },
     "9001016": {
         "Dev_Desc": "문파 시스템 / 출석 보상 / 임시 보관함",
         "Original_Text": "임시 보관 중인 물품이 있어 보상을 획득할 수 없습니다.",
-        "English_Text": "The reward could not be obtained because there are items in temporary storage.",
+        "English_Text": "You can't claim rewards because you have items in the Overflow Inventory.",
         "Russian_Text": "",
         "Chinese_Text": "您无法获得奖励,因为有临时存储的物品."
     },
     "9001017": {
         "Dev_Desc": "소울 패스 / 보상 교환 / 재화 부족",
         "Original_Text": "<arg p=[1:string]/><ga/> 부족합니다.",
-        "English_Text": "Not enough <arg p=[1:string]/><ga/>",
+        "English_Text": "You need more <arg p=[1:string]/>.",
         "Russian_Text": "",
         "Chinese_Text": "不够<arg p=[1:string]/><ga/>."
     },
     "9001018": {
         "Dev_Desc": "소울 패스 / 보상 교환 / 소지품 빈 공간 없음",
         "Original_Text": "소지품 여유 공간이 없어 교환할 수 없습니다.",
-        "English_Text": "There is not enough space in your inventory to exchange it.",
+        "English_Text": "You can't exchange items because your Bag is full.",
         "Russian_Text": "",
         "Chinese_Text": "由于您的物品空间不足,无法进行交换."
     },
     "9001019": {
         "Dev_Desc": "소울 패스 / 보상 교환 / 무게 부족",
         "Original_Text": "소지 가능 무게를 초과하여 교환할 수 없습니다.",
-        "English_Text": "You cannot exchange more than your carry-on weight.",
+        "English_Text": "You can't exchange this because the inventory will exceed the max weight.",
         "Russian_Text": "",
         "Chinese_Text": "超过可携带重量不能换货."
     },
     "9001020": {
         "Dev_Desc": "소울 패스 / 보상 교환 / 임시 보관함",
         "Original_Text": "임시 보관 중인 물품이 있어 교환할 수 없습니다.",
-        "English_Text": "Some items are in temporary storage and cannot be exchanged.",
+        "English_Text": "You can't exchange because you have items in the Overflow Inventory.",
         "Russian_Text": "",
         "Chinese_Text": "有暂存物品,不可更换."
     },
     "9001021": {
         "Dev_Desc": "소울 패스 / 보상 교환 / 교환 완료",
         "Original_Text": "<arg p=[1:string]/><eul/> 보상으로 교환했습니다.",
-        "English_Text": "Exchanged for <arg p=[1:string]/><eul/> reward",
+        "English_Text": "Exchanged for <arg p=[1:string]/> reward.",
         "Russian_Text": "",
         "Chinese_Text": "<arg p=[1:string]/><eul/> 兑换奖励."
     },
     "9001022": {
         "Dev_Desc": "소울 패스 / 활성화",
         "Original_Text": "<arg p=[1:string]/>의 추가 보상을 활성화했습니다.",
-        "English_Text": "Activated extra reward for <arg p=[1:string]/>.",
+        "English_Text": "Bonus reward of <arg p=[1:string]/> is activated.",
         "Russian_Text": "",
         "Chinese_Text": "为 <arg p=[1:string]/> 启用额外奖励."
     },
     "9001023": {
         "Dev_Desc": "소울 패스 / 활성화 / 추가 보상",
         "Original_Text": "<arg p=[1:string]/> 내 교환 완료한 항목의 추가 보상을 획득했습니다.",
-        "English_Text": "<arg p=[1:string]/> I have earned an additional reward for completing my exchange.",
+        "English_Text": "Acquired bonus rewards for items exchanged within <arg p=[1:string]/>.",
         "Russian_Text": "",
         "Chinese_Text": "<arg p=[1:string]/> 我已完成交换获得额外奖励."
     },
     "9001024": {
         "Dev_Desc": "소울 패스 / 활성화 / 재화 부족",
         "Original_Text": "<arg p=[1:string]/><ga/> 부족하여 구매할 수 없습니다.",
-        "English_Text": "Not enough <arg p=[1:string]/><ga/> to purchase.",
+        "English_Text": "You need more <arg p=[1:string]/> to purchase.",
         "Russian_Text": "",
         "Chinese_Text": "<arg p=[1:string]/><ga/> 不够购买."
     },
     "9001025": {
         "Dev_Desc": "소울 패스 / 미션 리스트 / 미달성",
         "Original_Text": "아직 달성하지 못한 미션입니다.",
-        "English_Text": "This is a mission not yet accomplished.",
+        "English_Text": "You haven't completed the mission.",
         "Russian_Text": "",
         "Chinese_Text": "这是一项尚未完成的使命."
     },
     "9001026": {
         "Dev_Desc": "소울 / 합성 / 합성 포인트 초과",
         "Original_Text": "합성 포인트 최대치를 초과하여 등록할 수 없습니다.",
-        "English_Text": "Cannot register because it exceeds the maximum composite point.",
+        "English_Text": "You can't add this because the max Fusion Points will be exceeded.",
         "Russian_Text": "",
         "Chinese_Text": "您不能登记超过最大综合点数."
     },
     "9001027": {
         "Dev_Desc": "복수하기 / 내 던전 시간을 모두 소비한 거에 대한 안내",
         "Original_Text": "입장 시간이 부족하여, 이동할 수 없습니다.",
-        "English_Text": "You cannot move due to insufficient entry time.",
+        "English_Text": "You can't windstride because you've used up the dungeon time.",
         "Russian_Text": "",
         "Chinese_Text": "没有足够的时间进入,所以你不能移动."
     },
     "9001028": {
         "Dev_Desc": "로비 접속 에러 메시지 / 존재하지 않은 영웅",
         "Original_Text": "존재하지 않는 영웅입니다.",
-        "English_Text": "This is a non-existent hero.",
+        "English_Text": "The Hero does not exist.",
         "Russian_Text": "",
         "Chinese_Text": "一个不存在的英雄."
     },
     "9001029": {
         "Dev_Desc": "로비 접속 에러 메시지 / 월드 접속 불가",
         "Original_Text": "월드 접속이 불가능한 상태입니다.",
-        "English_Text": "The world cannot be accessed.",
+        "English_Text": "Unable to connect to the World.",
         "Russian_Text": "",
         "Chinese_Text": "世界访问是不可能的."
     },
     "9001030": {
         "Dev_Desc": "거래소 / 판매 / 일괄 회수 / 판매 실패 없음",
         "Original_Text": "판매 실패한 물품이 없어 회수할 수 없습니다.",
-        "English_Text": "There are no unsold items and cannot be retrieved.",
+        "English_Text": "You can't retrieve items because all your items have been sold.",
         "Russian_Text": "",
         "Chinese_Text": "没有未售出的物品,无法取回."
     },
     "9001031": {
         "Dev_Desc": "소울 패스 / 활성화 / 활성화 불가 기간",
         "Original_Text": "잠시 후 보상 교환 기간이 끝날 예정이므로 활성화할 수 없습니다.",
-        "English_Text": "Cannot be activated as the redemption period will end in a while.",
+        "English_Text": "Unable to activate because the Reward Exchange Period will soon end.",
         "Russian_Text": "",
         "Chinese_Text": "由于兑换期将在短时间内结束,因此无法激活."
     },
     "9001032": {
         "Dev_Desc": "던전 / 입장 비용 부족 알림",
         "Original_Text": "비용이 부족하여 입장할 수 없습니다.",
-        "English_Text": "You cannot enter due to insufficient cost.",
+        "English_Text": "You need more currency to enter.",
         "Russian_Text": "",
         "Chinese_Text": "由于费用不足,您无法进入."
     },
     "9001033": {
         "Dev_Desc": "우편 / 글자 수 초과",
         "Original_Text": "제목 또는 내용이 너무 긴 우편은 발송할 수 없습니다.",
-        "English_Text": "You cannot send mail with a subject or content that is too long.",
+        "English_Text": "The mail title or content is too long to send.",
         "Russian_Text": "",
         "Chinese_Text": "我们无法发送主题或内容过长的邮件."
     },
     "9001034": {
         "Dev_Desc": "공용 / 이용 불가 기능",
         "Original_Text": "현재는 이용할 수 없는 기능입니다.",
-        "English_Text": "This feature is currently unavailable.",
+        "English_Text": "This feature is unavailable at the moment.",
         "Russian_Text": "",
         "Chinese_Text": "此功能目前无法使用."
     },
     "9001035": {
         "Dev_Desc": "상호작용 불가",
         "Original_Text": "사용할 수 없습니다.",
-        "English_Text": "Not available.",
+        "English_Text": "Unable to use.",
         "Russian_Text": "",
         "Chinese_Text": "不能用."
     },
     "9001036": {
         "Dev_Desc": "캐릭터 복구 메시지",
         "Original_Text": "<arg p=[1:string]/><ga/> 복구되었습니다.",
-        "English_Text": "<arg p=[1:string]/><ga/> recovered.",
+        "English_Text": "<arg p=[1:string]/> has been recovered.",
         "Russian_Text": "",
         "Chinese_Text": "<arg p=[1:string]/><ga/> 恢复."
     },
     "9001037": {
         "Dev_Desc": "소울 패스 / 활성화 / 임시 보관함",
         "Original_Text": "임시 보관 중인 물품이 있어 활성화할 수 없습니다.",
-        "English_Text": "Could not be activated due to temporary storage.",
+        "English_Text": "You can't activate because you have items in the Overflow Inventory.",
         "Russian_Text": "",
         "Chinese_Text": "有物品在临时存储中,无法激活."
     },
     "9001038": {
         "Dev_Desc": "던전 나가기 버튼 사용 불가",
         "Original_Text": "사용할 수 없습니다.",
-        "English_Text": "Not available.",
+        "English_Text": "Unable to use.",
         "Russian_Text": "",
         "Chinese_Text": "不能用."
     },
     "9001039": {
         "Dev_Desc": "거래소 / 판매 / 판매 등록 / 제한 상태",
         "Original_Text": "판매 등록 제한 상태입니다.",
-        "English_Text": "Sales registration restricted.",
+        "English_Text": "You're restricted to sell items at the moment.",
         "Russian_Text": "",
         "Chinese_Text": "销售登记受到限制."
     },
     "9001040": {
         "Dev_Desc": "거래소 / 응답 시간 초과",
         "Original_Text": "요청 응답 시간이 초과되었습니다.",
-        "English_Text": "Request response timed out.",
+        "English_Text": "The request has timed out.",
         "Russian_Text": "",
         "Chinese_Text": "请求响应超时."
     },
     "9001041": {
         "Dev_Desc": "창고 에러 메시지",
         "Original_Text": "보유 중인 자동 보관 가능 물품이 없습니다.",
-        "English_Text": "There are no auto-storable items in stock.",
+        "English_Text": "No items are available to auto-store.",
         "Russian_Text": "",
         "Chinese_Text": "库存中没有可自动存放的物品."
     },
     "9001042": {
         "Dev_Desc": "창고 에러 메시지",
         "Original_Text": "손상된 장비로 창고 등록 불가합니다.",
-        "English_Text": "Cannot register warehouse with damaged equipment.",
+        "English_Text": "Damaged gear can't be stored.",
         "Russian_Text": "",
         "Chinese_Text": "由于设备损坏,无法进行仓库登记."
     },
     "9001043": {
         "Dev_Desc": "상점 에러 메시지",
         "Original_Text": "판매 가능 수량을 초과하였습니다.",
-        "English_Text": "Exceeded quantity sold.",
+        "English_Text": "The max sale amount has been exceeded.",
         "Russian_Text": "",
         "Chinese_Text": "销量超标."
     },
     "9001044": {
         "Dev_Desc": "강화 / 채팅메시지 / 단계하락",
         "Original_Text": "<<arg p=[1:string]/>>+<arg p=[2:string]/> <arg p=[3:string]/></><<arg p=[4:string]/>> 저주 강화에 성공했습니다.</>",
-        "English_Text": "<<arg p=[1:string]/>>+<arg p=[2:string]/><arg p=[3:string]/></><<arg p=[4:string]/>> Curse enhancement succeeded</>",
+        "English_Text": "<<arg p=[4:string]/>>Successfully completed a Cursed Enhance</> to <<arg p=[1:string]/>>+<arg p=[2:string]/> <arg p=[3:string]/>.</>",
         "Russian_Text": "",
         "Chinese_Text": "<<arg p=[1:string]/>>+<arg p=[2:string]/><arg p=[3:string]/></><<arg p=[4:string]/>> 你成功地强化了诅咒.</>"
     },
     "9001045": {
         "Dev_Desc": "소울 패스 / 보상 교환 / 이미 교환",
         "Original_Text": "이미 교환 완료한 항목입니다.",
-        "English_Text": "This item has already been exchanged.",
+        "English_Text": "The item has been exchanged already.",
         "Russian_Text": "",
         "Chinese_Text": "此物品已被交换."
     },
     "9001046": {
         "Dev_Desc": "소울 패스 / 활성화 / 소지품 빈 공간 없음",
         "Original_Text": "소지품 여유 공간이 없어 활성화할 수 없습니다.",
-        "English_Text": "Cannot activate due to insufficient inventory space.",
+        "English_Text": "You can't activate the Pass because your Bag is full.",
         "Russian_Text": "",
         "Chinese_Text": "由于库存空间不足,无法激活."
     },
     "9001047": {
         "Dev_Desc": "소울 패스 / 활성화 / 무게 부족",
         "Original_Text": "소지 가능 무게를 초과하여 활성화할 수 없습니다.",
-        "English_Text": "You cannot activate it beyond your carryable weight.",
+        "English_Text": "You can't activate the Pass because the inventory will exceed the max weight.",
         "Russian_Text": "",
         "Chinese_Text": "超过可携带重量无法激活."
     },
     "9001048": {
         "Dev_Desc": "매입 상점/ 자동 판매 물품 없을 경우",
         "Original_Text": "보유 중인 자동 판매 가능 물품이 없습니다.",
-        "English_Text": "There are no vendingable items in stock.",
+        "English_Text": "No items are available to auto-sale.",
         "Russian_Text": "",
         "Chinese_Text": "库存中没有可出售的物品."
     },
     "9001049": {
         "Dev_Desc": "채팅 / 채팅 금지 제제 중",
         "Original_Text": "일시적으로 채팅이 금지되었습니다.",
-        "English_Text": "Chat is temporarily banned.",
+        "English_Text": "You are temporarily banned from the chat.",
         "Russian_Text": "",
         "Chinese_Text": "聊天暂时被禁止."
     },
     "9001050": {
         "Dev_Desc": "퀘스트 / 보상 / 인벤토리 가득 찼을 때",
         "Original_Text": "임무 진행을 위해 소지품 창을 비워주세요.",
-        "English_Text": "Please empty your inventory to proceed with the mission yo. This.",
+        "English_Text": "Empty your Bag in order to continue with your quest.",
         "Russian_Text": "",
         "Chinese_Text": "请清空库存窗口以继续执行任务."
     },
     "9001051": {
         "Dev_Desc": "협행 / 축지 불가 협행",
         "Original_Text": "축지를 지원하지 않습니다.",
-        "English_Text": "The axis is not supported.",
+        "English_Text": "Windstride is not available.",
         "Russian_Text": "",
         "Chinese_Text": "不支持轴."
     },
@@ -7079,49 +7079,49 @@
     "9001053": {
         "Dev_Desc": "강화 / 토스트 메시지 / 등록 요구",
         "Original_Text": "강화할 대상을 선택해주세요",
-        "English_Text": "Add an item first in order to enhance.",
+        "English_Text": "Select an item to enhance.",
         "Russian_Text": "",
         "Chinese_Text": "可在登记强化目标之后进行强化。"
     },
     "9001054": {
         "Dev_Desc": "옷장 / 토스트메시지 / 전투중 의상장착시도",
         "Original_Text": "전투 상태에서는 의상을 변경할 수 없습니다.",
-        "English_Text": "Clothing cannot be changed while in combat.",
+        "English_Text": "You can't change your outfit while in battle.",
         "Russian_Text": "",
         "Chinese_Text": "战斗中不能更换服装."
     },
     "9001055": {
         "Dev_Desc": "던전 나가기 / 지속적 키입력 상태에서 누를 경우",
         "Original_Text": "이동 중에는 사용할 수 없습니다.",
-        "English_Text": "Cannot be used while moving.",
+        "English_Text": "Unable to use while on the move.",
         "Russian_Text": "",
         "Chinese_Text": "移动中无法使用."
     },
     "9001056": {
         "Dev_Desc": "강화 / 토스트 메시지 / 신규 옵션 추가",
         "Original_Text": "강화에 성공하여 새로운 능력치가 추가되었습니다.",
-        "English_Text": "The enhancement was successful and new stats have been added.",
+        "English_Text": "Enhance Successful! A new stat has been added.",
         "Russian_Text": "",
         "Chinese_Text": "强化成功并添加了新的统计数据."
     },
     "9001057": {
         "Dev_Desc": "경공 중 축지, 워프기 사용 에러 메시지",
         "Original_Text": "사용할 수 없는 상태입니다.",
-        "English_Text": "Unavailable.",
+        "English_Text": "Unable to use at the moment.",
         "Russian_Text": "",
         "Chinese_Text": "它不可用."
     },
     "9001058": {
         "Dev_Desc": "전투 시작 안내 메시지",
         "Original_Text": "전투시작",
-        "English_Text": "Battle Begins",
+        "English_Text": "Battle Started",
         "Russian_Text": "",
         "Chinese_Text": "战斗开始"
     },
     "9001059": {
         "Dev_Desc": "전투 종료 안내 메시지",
         "Original_Text": "전투종료",
-        "English_Text": "End Battle",
+        "English_Text": "Battle Ended",
         "Russian_Text": "",
         "Chinese_Text": "战斗结束"
     },
@@ -7135,140 +7135,140 @@
     "9001061": {
         "Dev_Desc": "상점 / 이미 충분한 수량을 가지고 있는 경우",
         "Original_Text": "설정 개수보다 보유량이 많아 자동 주문되지 않습니다.",
-        "English_Text": "Your order is not automatically placed because you have more than the set number.",
+        "English_Text": "Unable to auto-order because you have more than the specified quantity in your inventory.",
         "Russian_Text": "",
         "Chinese_Text": "如果您的数量超过设定数量,您将不会被自动订购."
     },
     "9001062": {
         "Dev_Desc": "캐시상점 / 임시 보관함 생성 이후 안내 메시지",
-        "Original_Text": "임시 보관함에 보관 중인 물품이 있어 구매 할 수 없습니다.",
-        "English_Text": "There are items in your Drafts and cannot be purchased.",
+        "Original_Text": "임시 보관함에 보관 중인 물품이 있어 구매할 수 없습니다.",
+        "English_Text": "You can't make a purchase because you have items in the Overflow Inventory.",
         "Russian_Text": "",
         "Chinese_Text": "暂存箱内有物品,无法购买."
     },
     "9001063": {
         "Dev_Desc": "전투 중 나가기 버튼 사용 에러 메시지",
         "Original_Text": "전투 중에는 사용할 수 없습니다.",
-        "English_Text": "Cannot be used during combat.",
+        "English_Text": "Unable to use while in battle.",
         "Russian_Text": "",
         "Chinese_Text": "不能在战斗中使用."
     },
     "9001064": {
         "Dev_Desc": "Admin 계정 대상 불가 행동을 했을 시",
         "Original_Text": "현재 대상에게는 할 수 없습니다.",
-        "English_Text": "You cannot do this on the current target.",
+        "English_Text": "The action is not allowed on the target.",
         "Russian_Text": "",
         "Chinese_Text": "您不能在当前目标上执行此操作."
     },
     "9001065": {
         "Dev_Desc": "환경설정 / 주간 푸시 켜기",
         "Original_Text": "[NCSOFT] 주간 광고성 Push 수신에 동의했습니다. - <arg p=[1:string]/>",
-        "English_Text": "[NCSOFT]>I have agreed to receive weekly advertising pushes. - <arg p=[1:string]/>",
+        "English_Text": "[NCSOFT] Agreed to receive daytime push notifications. - <arg p=[1:string]/>",
         "Russian_Text": "",
         "Chinese_Text": "[NCSOFT] 我已同意接收每周广告推送. - <arg p=[1:string]/>"
     },
     "9001066": {
         "Dev_Desc": "환경설정 / 주간 푸시 끄기",
         "Original_Text": "[NCSOFT] 주간 광고성 Push 수신 동의를 해제했습니다. - <arg p=[1:string]/>",
-        "English_Text": "[NCSOFT]>opted out of receiving weekly advertising pushes. - <arg p=[1:string]/>",
+        "English_Text": "[NCSOFT] Denied receiving daytime push notifications. - <arg p=[1:string]/>",
         "Russian_Text": "",
         "Chinese_Text": "[NCSOFT] 已取消接受每周广告推送的同意. - <arg p=[1:string]/>"
     },
     "9001067": {
         "Dev_Desc": "환경설정 / 야간 푸시 켜기",
         "Original_Text": "[NCSOFT] 야간 광고성 Push 수신에 동의했습니다. - <arg p=[1:string]/>",
-        "English_Text": "[NCSOFT]>I have agreed to receive nightly advertising pushes. - <arg p=[1:string]/>",
+        "English_Text": "[NCSOFT] Agreed to receive nighttime push notifications. - <arg p=[1:string]/>",
         "Russian_Text": "",
         "Chinese_Text": "[NCSOFT] 我已同意接收每晚的广告推送. - <arg p=[1:string]/>"
     },
     "9001068": {
         "Dev_Desc": "환경설정 / 야간 푸시 끄기",
         "Original_Text": "[NCSOFT] 야간 광고성 Push 수신 동의를 해제했습니다. - <arg p=[1:string]/>",
-        "English_Text": "[NCSOFT]>Unsubscribe from nightly advertising pushes. - <arg p=[1:string]/>",
+        "English_Text": "[NCSOFT] Denied receiving nighttime push notifications. - <arg p=[1:string]/>",
         "Russian_Text": "",
         "Chinese_Text": "[NCSOFT] 同意接收夜间广告推送已关闭. - <arg p=[1:string]/>"
     },
     "9001069": {
         "Dev_Desc": "문파 장원 귀환의 돌 사용 불가 메시지",
         "Original_Text": "문파 장원 귀환의 돌을 사용할 수 없습니다.",
-        "English_Text": "You can't use the Menor Manor Recall Stone.",
+        "English_Text": "You can't use a Clan Villa Stone.",
         "Russian_Text": "",
         "Chinese_Text": "你不能使用门派庄园的回归石."
     },
     "9001070": {
         "Dev_Desc": "거래소 / 판매 / 판매 취소 / 이미 요청",
         "Original_Text": "이미 취소 요청된 물품입니다.",
-        "English_Text": "This item has already been requested to be cancelled.",
+        "English_Text": "Cancel request has already been made.",
         "Russian_Text": "",
         "Chinese_Text": "已请求取消此物品."
     },
     "9001071": {
         "Dev_Desc": "복구술사 / 장비 복구 완료 메시지",
         "Original_Text": "<arg p=[1:string]/><eul/> 복구했습니다.",
-        "English_Text": "<arg p=[1:string]/><eul/>Recovered",
+        "English_Text": "<arg p=[1:string]/> has been recovered.",
         "Russian_Text": "",
         "Chinese_Text": "<arg p=[1:string]/><eul/>已修复."
     },
     "9001072": {
         "Dev_Desc": "복구술사 / 경험치 복구 완료 메시지",
         "Original_Text": "<arg p=[1:string]/> 경험치를 복구했습니다.",
-        "English_Text": "<arg p=[1:string]/> experience recovered",
+        "English_Text": "<arg p=[1:string]/> EXP has been recovered.",
         "Russian_Text": "",
         "Chinese_Text": "我们恢复了<arg p=[1:string]/>经验值."
     },
     "9001073": {
         "Dev_Desc": "모험가 점수 획득 보상 불가 메시지",
         "Original_Text": "아직 달성하지 못한 등급입니다.",
-        "English_Text": "It's a rank that hasn't been achieved yet.",
+        "English_Text": "You haven't reached the required level.",
         "Russian_Text": "",
         "Chinese_Text": "这是一个尚未达到的水平."
     },
     "9001074": {
         "Dev_Desc": "모험가 점수 보상 획득 메시지",
         "Original_Text": "모험가 등급 달성 보상을 획득했습니다.",
-        "English_Text": "You have earned a reward for reaching the Adventurer rank.",
+        "English_Text": "Received a reward for achieving the Adventurer title.",
         "Russian_Text": "",
         "Chinese_Text": "获得冒险者等级达成奖励."
     },
     "9001075": {
         "Dev_Desc": "문파 시스템 / 기부 / 소지품 공간 부족",
         "Original_Text": "소지품에 여유 공간이 없어 기부할 수 없습니다.",
-        "English_Text": "You can not donate without free space in your belongings.",
+        "English_Text": "Unable to donate because your Bag is full.",
         "Russian_Text": "",
         "Chinese_Text": "你不能没有自由空间在你的物品中捐赠。"
     },
     "9001076": {
         "Dev_Desc": "문파 시스템 / 기부 / 무게 부족",
         "Original_Text": "소지 가능 무게를 초과하여 기부할 수 없습니다.",
-        "English_Text": "I can not donate with a possibility of possibly.",
+        "English_Text": "Unable to acquire because the inventory will exceed the max weight.",
         "Russian_Text": "",
         "Chinese_Text": "我不能有可能的可能性。"
     },
     "9001077": {
         "Dev_Desc": "문파 시스템 / 기부 / 임시보관함",
         "Original_Text": "임시 보관 중인 물품이 있어 기부할 수 없습니다.",
-        "English_Text": "There is a product being stored in a temporary storage.",
+        "English_Text": "Unable to donate because you have items in the Overflow Inventory.",
         "Russian_Text": "",
         "Chinese_Text": "有一个产品存放在临时存储中。"
     },
     "9001078": {
         "Dev_Desc": "",
         "Original_Text": "제한된 수량을 모두 제작했습니다.",
-        "English_Text": "We have created all limited quantities.",
+        "English_Text": "You've crafted up to the maximum quantity.",
         "Russian_Text": "",
         "Chinese_Text": "我们创造了所有限制的数量。"
     },
     "9001079": {
         "Dev_Desc": "채팅 / 소울 성장 브로드캐스팅",
         "Original_Text": "<<arg p=[1:string]/>><arg p=[2:string]/> <arg p=[3:string]/> 님이 소울 </><<arg p=[4:string]/>><arg p=[5:string]/></><<arg p=[1:string]/>> <arg p=[6:integer]/>성을 획득했습니다.</>",
-        "English_Text": "<<arg p=[1:string]/>><arg p=[2:string]/> <arg p=[3:string]/> soul </><<arg p=[4:string ]/>><arg p=[5:string]/></><<arg p=[1:string]/>> <arg p=[6:integer]/>Last obtained</>",
+        "English_Text": "<<arg p=[1:string]/>> [<arg p=[2:string]/>] <arg p=[3:string]/> <arg p=[6:integer]/>acquired</> <<arg p=[4:string]/>><arg p=[5:string]/></> <<arg p=[1:string]/>> <arg p=[6:integer]/>★.</>",
         "Russian_Text": "",
         "Chinese_Text": "<<arg p=[1:string]/>><arg p=[2:string]/> <arg p=[3:string]/> 灵魂 </><<arg p=[4:string]/ >><arg p=[5:string]/></><<arg p=[1:string]/>> <arg p=[6:integer]/>最后获得</>"
     },
     "9001080": {
         "Dev_Desc": "소울 성장 브로드캐스팅",
         "Original_Text": "<arg p=[1:string]/> <arg p=[2:string]/> 님이 소울 <arg p=[3:string]/> <arg p=[4:integer]/>성을 획득했습니다.",
-        "English_Text": "[<arg p=[1:string]/>] <arg p=[2:string]/> soul <arg p=[3:string]/> <arg p=[4:integer]/>last name ",
+        "English_Text": " [<arg p=[1:string]/>] <arg p=[2:string]/> acquired <arg p=[3:string]/><arg p=[4:integer]/>★.",
         "Russian_Text": "",
         "Chinese_Text": "[<arg p=[1:string]/>] <arg p=[2:string]/> 님이 소울 <arg p=[3:string]/> <arg p=[4:integer]/>성을 획득했습니다."
     },
@@ -7421,7 +7421,7 @@
     },
     "9001102": {
         "Dev_Desc": "용해제 / 용해제 부족",
-        "Original_Text": "용해제가 부족합니다.",
+        "Original_Text": "소지 중인 용해제 개수를 초과하여 선택할 수 없습니다.",
         "English_Text": "Not enough solvent.",
         "Russian_Text": "",
         "Chinese_Text": "溶剂不足。"
@@ -7456,7 +7456,7 @@
     },
     "9001107": {
         "Dev_Desc": "지도/ 축지 / 지역발견 퀘스트 미완료",
-        "Original_Text": "지역발견 퀘스트를 완료 후 이동할 수 있습니다.",
+        "Original_Text": "개척 임무를 완료 후 이동할 수 있습니다.",
         "English_Text": "You can move after completing the area discovery quest.",
         "Russian_Text": "",
         "Chinese_Text": "完成区域发现任务后就可以移动了。"
@@ -7561,7 +7561,7 @@
     },
     "9001122": {
         "Dev_Desc": "이름 변경으로 발생하는 에러 메시지 / PvP북",
-        "Original_Text": "유저 정보를 확인할 수 없습니다.",
+        "Original_Text": "대상이 오프라인입니다.",
         "English_Text": "Unable to verify user information.",
         "Russian_Text": "",
         "Chinese_Text": "无法验证用户信息。"
@@ -7841,21 +7841,21 @@
     },
     "9001162": {
         "Dev_Desc": "별자리 / 성공 확률 조정 한계 메시지 (프로그레시브 성장 기능)",
-        "Original_Text": "조정 가능한 최소 또는 최대값입니다.",
+        "Original_Text": "성공확률이 최대치인 상태입니다.",
         "English_Text": "Adjustable minimum or maximum.",
         "Russian_Text": "",
         "Chinese_Text": "可调整的最小值或最大值。"
     },
     "9001163": {
         "Dev_Desc": "별자리 / 재료 부족 상태에서 각인 진행 버튼을 누른 경우",
-        "Original_Text": "재료가 충분하지 않습니다.",
+        "Original_Text": "아이템이 부족하여 각인할 수 없습니다.",
         "English_Text": "Not enough ingredients.",
         "Russian_Text": "",
         "Chinese_Text": "原料不够。"
     },
     "9001164": {
         "Dev_Desc": "별자리 / 이전 단계 각인이 완료되지 않은 점을 선택하여 각인 시도",
-        "Original_Text": "아직 각인할 수 없는 별입니다.",
+        "Original_Text": "이전 단계 완료 후 각인 가능합니다.",
         "English_Text": "It's a star that can't be engraved yet.",
         "Russian_Text": "",
         "Chinese_Text": "那是一颗还不能雕刻的星辰。"
@@ -7869,7 +7869,7 @@
     },
     "9001166": {
         "Dev_Desc": "던전 / 시간 충전석 없을 때 에러 메시지",
-        "Original_Text": "보유 중인 시간 충전석이 없습니다.",
+        "Original_Text": "보유 중인 충전석이 없습니다.",
         "English_Text": "You don't have time charging seats in stock.",
         "Russian_Text": "",
         "Chinese_Text": "你没有时间为库存座位充电。"
@@ -7960,7 +7960,7 @@
     },
     "9001179": {
         "Dev_Desc": "던전 / 레벨 부족",
-        "Original_Text": "<arg p=[1:string]/>레벨부터 입장할 수 있습니다.",
+        "Original_Text": "<arg p=[1:integer]/>레벨부터 입장할 수 있습니다.",
         "English_Text": "<arg p=[1:string]/>can be entered from level.",
         "Russian_Text": "",
         "Chinese_Text": "<arg p=[1:string]/>可以从级别输入。"
@@ -8002,24 +8002,10 @@
     },
     "9001185": {
         "Dev_Desc": "별자리 / 성공 확률 조정 한계 메시지 (프로그레시브 성장 기능)",
-        "Original_Text": "조정 가능한 최소 또는 최대값입니다.",
+        "Original_Text": "성공확률이 최대치인 상태입니다.",
         "English_Text": "Adjustable minimum or maximum value.",
         "Russian_Text": "",
         "Chinese_Text": "可调节的最小值或最大值。"
-    },
-    "9001186": {
-        "Dev_Desc": "별자리 / 재료 부족 상태에서 각인 진행 버튼을 누른 경우",
-        "Original_Text": "재료가 충분하지 않습니다.",
-        "English_Text": "The material is not sufficient.",
-        "Russian_Text": "",
-        "Chinese_Text": "材料不足。"
-    },
-    "9001187": {
-        "Dev_Desc": "별자리 / 이전 단계 각인이 완료되지 않은 점을 선택하여 각인 시도",
-        "Original_Text": "아직 각인할 수 없는 별입니다.",
-        "English_Text": "It is a star that can not be engraved yet.",
-        "Russian_Text": "",
-        "Chinese_Text": "这是一个不能刻的明星。"
     },
     "9001188": {
         "Dev_Desc": "별자리 / 구간을 이루는 점을 모두 각인하였을 때 표시되는 메시지",

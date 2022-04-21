@@ -1,1161 +1,557 @@
 {
-    "91000001": {
-        "Dev_Desc": "어설픈가면",
-        "Original_Text": "[T]어설픈가면의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000026": {
-        "Dev_Desc": "남도파도복",
-        "Original_Text": "[T]남도파도복의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000027": {
-        "Dev_Desc": "강적",
-        "Original_Text": "[T]강적의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000028": {
-        "Dev_Desc": "푸른밤의 귀검사",
-        "Original_Text": "[T]푸른밤의 귀검사의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000029": {
-        "Dev_Desc": "귀족의 맹신",
-        "Original_Text": "[T]귀족의 맹신의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000030": {
-        "Dev_Desc": "무투가의 의지",
-        "Original_Text": "[T]무투가의 의지의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000031": {
-        "Dev_Desc": "수행자의 기도",
-        "Original_Text": "[T]수행자의 기도의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000032": {
-        "Dev_Desc": "앙시족 대전사",
-        "Original_Text": "[T]앙시족 대전사의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000033": {
-        "Dev_Desc": "축제구경꾼(아랍)",
-        "Original_Text": "[T]축제구경꾼(아랍)의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000034": {
-        "Dev_Desc": "청풍파 의복",
-        "Original_Text": "[T]청풍파 의복의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000035": {
-        "Dev_Desc": "무술대회 복장B",
-        "Original_Text": "[T]무술대회 복장B의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000036": {
-        "Dev_Desc": "게르만 복장",
-        "Original_Text": "[T]게르만 복장의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000037": {
-        "Dev_Desc": "대어방주의 옷",
-        "Original_Text": "[T]대어방주의 옷의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000038": {
-        "Dev_Desc": "앙시의원복(여성용)",
-        "Original_Text": "[T]앙시의원복(여성용)의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000039": {
-        "Dev_Desc": "앙시주민 의복",
-        "Original_Text": "[T]앙시주민 의복의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000040": {
-        "Dev_Desc": "은룡회 의복",
-        "Original_Text": "[T]은룡회 의복의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000041": {
-        "Dev_Desc": "골드케퍼모스",
-        "Original_Text": "[T]골드케퍼모스의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000042": {
-        "Dev_Desc": "골드케퍼의복",
-        "Original_Text": "[T]골드케퍼의복의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000043": {
-        "Dev_Desc": "고도시환락가 의복",
-        "Original_Text": "[T]고도시환락가 의복의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000044": {
-        "Dev_Desc": "고도시빈민가 의복",
-        "Original_Text": "[T]고도시빈민가 의복의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000045": {
-        "Dev_Desc": "고도시관광객 의복",
-        "Original_Text": "[T]고도시관광객 의복의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000046": {
-        "Dev_Desc": "피난처 주민 의복",
-        "Original_Text": "[T]피난처 주민 의복의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000047": {
-        "Dev_Desc": "에레다분대원 의복",
-        "Original_Text": "[T]에레다분대원 의복의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000048": {
-        "Dev_Desc": "오름의 옷",
-        "Original_Text": "[T]오름의 옷의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000049": {
-        "Dev_Desc": "가름의 옷",
-        "Original_Text": "[T]가름의 옷의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000050": {
-        "Dev_Desc": "파사(신)",
-        "Original_Text": "[T]파사(신)의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000051": {
-        "Dev_Desc": "아랑(남)",
-        "Original_Text": "[T]아랑(남)의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000052": {
-        "Dev_Desc": "상인남",
-        "Original_Text": "[T]상인남의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000053": {
-        "Dev_Desc": "불량배1",
-        "Original_Text": "[T]불량배1의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000054": {
-        "Dev_Desc": "불량배2",
-        "Original_Text": "[T]불량배2의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000055": {
-        "Dev_Desc": "무술대회 복장A",
-        "Original_Text": "[T]무술대회 복장A의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000056": {
-        "Dev_Desc": "방걸",
-        "Original_Text": "[T]방걸의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000057": {
-        "Dev_Desc": "사사",
-        "Original_Text": "[T]사사의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000058": {
-        "Dev_Desc": "자경단 의복",
-        "Original_Text": "[T]자경단 의복의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000059": {
-        "Dev_Desc": "파사(인간)",
-        "Original_Text": "[T]파사(인간)의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000060": {
-        "Dev_Desc": "대어방 의복",
-        "Original_Text": "[T]대어방 의복의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000061": {
-        "Dev_Desc": "아프리칸 의복",
-        "Original_Text": "[T]아프리칸 의복의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000062": {
-        "Dev_Desc": "부랑자의복",
-        "Original_Text": "[T]부랑자의복의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000063": {
-        "Dev_Desc": "타오르는 투지",
-        "Original_Text": "[T]타오르는 투지의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000064": {
-        "Dev_Desc": "발재도",
-        "Original_Text": "[T]발재도의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000065": {
-        "Dev_Desc": "미트라",
-        "Original_Text": "[T]미트라의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000066": {
-        "Dev_Desc": "사막의 습격자",
-        "Original_Text": "[T]사막의 습격자의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000067": {
-        "Dev_Desc": "포탈라",
-        "Original_Text": "[T]포탈라의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000068": {
-        "Dev_Desc": "윤회",
-        "Original_Text": "[T]윤회의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000069": {
-        "Dev_Desc": "무술대회C",
-        "Original_Text": "[T]무술대회C의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000070": {
-        "Dev_Desc": "앙시족장복",
-        "Original_Text": "[T]앙시족장복의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000071": {
-        "Dev_Desc": "부두 노동자",
-        "Original_Text": "[T]부두 노동자의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000072": {
-        "Dev_Desc": "알테 주민",
-        "Original_Text": "[T]알테 주민의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000073": {
-        "Dev_Desc": "시로(남)",
-        "Original_Text": "[T]시로(남)의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000074": {
-        "Dev_Desc": "정예 약탈자",
-        "Original_Text": "[T]정예 약탈자의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000075": {
-        "Dev_Desc": "검은새벽단",
-        "Original_Text": "[T]검은새벽단의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000076": {
-        "Dev_Desc": "대장장이",
-        "Original_Text": "[T]대장장이의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000077": {
-        "Dev_Desc": "검은새벽단 마법사",
-        "Original_Text": "[T]검은새벽단 마법사의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000078": {
-        "Dev_Desc": "농부",
-        "Original_Text": "[T]농부의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000079": {
-        "Dev_Desc": "어부",
-        "Original_Text": "[T]어부의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000080": {
-        "Dev_Desc": "일꾼",
-        "Original_Text": "[T]일꾼의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000081": {
-        "Dev_Desc": "절멸",
-        "Original_Text": "[T]절멸의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000082": {
-        "Dev_Desc": "자경단의 긍지",
-        "Original_Text": "[T]자경단의 긍지의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000083": {
-        "Dev_Desc": "테스타로더",
-        "Original_Text": "[T]테스타로더의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000084": {
-        "Dev_Desc": "약탈자",
-        "Original_Text": "[T]약탈자의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000085": {
-        "Dev_Desc": "검은새벽단 역병의사",
-        "Original_Text": "[T]검은새벽단 역병의사의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000086": {
-        "Dev_Desc": "광대",
-        "Original_Text": "[T]광대의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000087": {
-        "Dev_Desc": "반달호수 축제구경꾼",
-        "Original_Text": "[T]반달호수 축제구경꾼의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000088": {
-        "Dev_Desc": "셰켈리크",
-        "Original_Text": "[T]셰켈리크의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000089": {
-        "Dev_Desc": "수누흐",
-        "Original_Text": "[T]수누흐의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000090": {
-        "Dev_Desc": "바즈라",
-        "Original_Text": "[T]바즈라의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000091": {
-        "Dev_Desc": "즈믄",
-        "Original_Text": "[T]즈믄의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000092": {
-        "Dev_Desc": "오방신장의_동",
-        "Original_Text": "[T]오방신장의_동의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000093": {
-        "Dev_Desc": "다름",
-        "Original_Text": "[T]다름의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000094": {
-        "Dev_Desc": "지귀",
-        "Original_Text": "[T]지귀의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000095": {
-        "Dev_Desc": "사하브",
-        "Original_Text": "[T]사하브의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000096": {
-        "Dev_Desc": "아수라",
-        "Original_Text": "[T]아수라의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000097": {
-        "Dev_Desc": "토로스",
-        "Original_Text": "[T]토로스의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000098": {
-        "Dev_Desc": "바리데기",
-        "Original_Text": "[T]바리데기의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000099": {
-        "Dev_Desc": "제천대성",
-        "Original_Text": "하늘마저 두렵게 한 위대한 왕의 모습을 담은 의상입니다.",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000100": {
-        "Dev_Desc": "단기나흐",
-        "Original_Text": "[T]단기나흐의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000101": {
-        "Dev_Desc": "나스카",
-        "Original_Text": "[T]나스카의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000102": {
-        "Dev_Desc": "오방신장의_서",
-        "Original_Text": "[T]오방신장의_서의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
-    "91000104": {
-        "Dev_Desc": "금강고",
-        "Original_Text": "[T]금강고의상 설명",
-        "English_Text": "<DNT>",
-        "Russian_Text": "",
-        "Chinese_Text": "<DNT>"
-    },
     "91201002": {
         "Dev_Desc": "강적",
         "Original_Text": "순수를 뜻하는 흰색과 귀함을 뜻하는 금색이 어우러진 순수한 강함을 상징하는 의상입니다.\\n\\n[상급 의상 상자], [희귀 의상 상자]에서 획득할 수 있습니다.",
-        "English_Text": "'Allow me the power to stay strong until the end '\n\nThis white and gold outfit presents a genuine will, with white representing purity and gold representing preciousness.",
+        "English_Text": "This white and gold outfit presents one’s genuine will, with white representing purity and gold representing preciousness.\n\nAcquired from [Greater Outfit Chests] and [Rare Outfit Chests].",
         "Russian_Text": "",
         "Chinese_Text": "“请赐予我坚定不移的力量”\n\n纯洁的白色与珍贵的金色融合在一起，象征纯粹的强大。"
     },
     "91201003": {
         "Dev_Desc": "청야",
-        "Original_Text": "푸른 밤과 땅, 그리고 사람이 조화롭게 어우러진 모습을 색채로 표현한 의상입니다.\\n\\n[상급 의상 상자], [잡화상인]에서 획득할 수 있습니다.",
-        "English_Text": "'One star for the memory,\nand one star for love'\n\nThe outfit represents the synergy of the blue night, the earth, and mankind itself.",
+        "Original_Text": "푸른 밤과 땅, 그리고 사람이 조화롭게 어우러진 모습을 색채로 표현한 의상입니다.\\n\\n[상급 의상 상자], [의상 상인]에서 획득할 수 있습니다.",
+        "English_Text": "The outfit represents the synergy of a blue night, the green earth, and mankind itself.\n\nAcquired from [Greater Outfit Chests] and [General Merchants].",
         "Russian_Text": "",
         "Chinese_Text": "“一颗星的回忆与\n一颗星的爱情”\n\n用色彩表现蓝色的夜晚与大地，以及人类和谐相融。"
     },
     "91201004": {
         "Dev_Desc": "귀족의 맹신",
         "Original_Text": "바다를 닮은 비취색을 통해 당신의 고귀한 마음을 드러내어 보세요.\\n\\n[상급 의상 상자], [업적]에서 획득할 수 있습니다.",
-        "English_Text": "'A heart wider than the ocean'\n\nDisplay your generous heart with this ocean-like emerald outfit.",
+        "English_Text": "Display your generous heart with this ocean-like emerald outfit.\n\nAcquired from [Greater Outfit Chests] and by completing [Goals].",
         "Russian_Text": "",
         "Chinese_Text": "“人类的内心比大海宽阔”\n\n通过大海般的翡翠色展现你高贵的内心吧。"
     },
     "91201005": {
         "Dev_Desc": "무투가의 의지",
         "Original_Text": "강함을 향한 굳건한 정신을 담아낸 의상입니다.\\n\\n[상급 의상 상자], [업적]에서 획득할 수 있습니다.",
-        "English_Text": "'A life that does not push beyond its limits is not worth living'\n\nThis outfit represents an unwavering pursuit of strength.",
+        "English_Text": "This outfit represents one's unwavering pursuit of strength.\n\nAcquired from [Greater Outfit Chests] and by completing [Goals].",
         "Russian_Text": "",
         "Chinese_Text": "“没能突破极限的人生与死亡无异”\n\n蕴藏着向往强大力量的坚定意志。"
     },
     "91201006": {
         "Dev_Desc": "수행자의 기도",
-        "Original_Text": "종소리를 통해 만물과 상호작용을 하여 삼라만상의 이치를 깨닫기 위한 수행자들의 복식입니다.\\n\\n[상급 의상 상자], [잡화상인]에서 획득할 수 있습니다.",
-        "English_Text": "'The truth shall set you free'\n\nAn attire for trainees who pursue to understand the universe by interacting with it through the sound of their bell.",
+        "Original_Text": "종소리를 통해 만물과 상호작용을 하여 삼라만상의 이치를 깨닫기 위한 수행자들의 복식입니다.\\n\\n[상급 의상 상자], [의상 상인]에서 획득할 수 있습니다.",
+        "English_Text": "Attire for trainees who wish to understand the universe by interacting with it through the sound of their bell.\n\nAcquired from [Greater Outfit Chests] and [General Merchants].",
         "Russian_Text": "",
         "Chinese_Text": "“真理能使你们自由”\n\n修行者们通过钟声与万物相通，欲知晓森罗万象之真理。"
     },
     "91201007": {
         "Dev_Desc": "타오르는 투지",
         "Original_Text": "불꽃같은 투쟁심과 차가운 이성의 조화를 통해 최고의 투사가 되고자 하는 열망을 담았습니다.",
-        "English_Text": "'Difficulty leads to accomplishment'\n\nThis outfit represents the desire to become the ultimate warlord with a fiery fighting spirit and sharp rationality.",
+        "English_Text": "This outfit represents the desire to become the ultimate warlord with a fiery fighting spirit and sharp rationality.",
         "Russian_Text": "",
         "Chinese_Text": "“困难只会激发斗志”\n\n通过烈火般的斗争心与冷静的理性相融，渴望成为顶级斗士。"
     },
     "91201008": {
         "Dev_Desc": "발재도",
-        "Original_Text": "앞으로 나아가는 것을 방해하는 그 어떠한 구속에도 얽메이지 않고자 하는 의지를 나타냅니다.\\n\\n[상급 의상 상자], [잡화상인]에서 획득할 수 있습니다.",
-        "English_Text": "'Many dreams perish, not because of reality, but because of advice from others'\n\nThis outfit represents the will to unbind yourself from all restrictions.",
+        "Original_Text": "앞으로 나아가는 것을 방해하는 그 어떠한 구속에도 얽메이지 않고자 하는 의지를 나타냅니다.\\n\\n[상급 의상 상자], [의상 상인]에서 획득할 수 있습니다.",
+        "English_Text": "This outfit represents the will to free yourself from all restrictions.\n\nAcquired from [Greater Outfit Chests] and [General Merchants].",
         "Russian_Text": "",
         "Chinese_Text": "“无数梦想被扼杀，并非因为现实的高墙，只因周围人的劝阻”\n\n显现出不愿被任何束缚阻碍前行的坚定意志。"
-    },
-    "91201009": {
-        "Dev_Desc": "미트라",
-        "Original_Text": "저 드높은 태양처럼 찬란한 영광을 닮은 당신에게 어울리는 의상입니다.",
-        "English_Text": "'The greatest glory comes when standing firm despite hardships'\n\nThis outfit is perfect for someone who conjures up an image of the bright sun high in the sky.",
-        "Russian_Text": "",
-        "Chinese_Text": "“每次失败都能重新站起是最伟大的荣耀”\n\n适合像尊贵的太阳一样象征灿烂荣耀的你。"
     },
     "91201010": {
         "Dev_Desc": "사막의 추적자",
         "Original_Text": "오늘도 걷기에 이 사막은 끝날 것입니다. 숨 막히는 바람이 불어오는 열사에서도 당신의 걸음은 한결 같습니다.\\n\\n[상급 의상 상자]에서 획득할 수 있습니다.",
-        "English_Text": "'If I continue walking, the desert will eventually end'\n\nThe chokingly dry desert wind cannot stop you from persevering.",
+        "English_Text": "If you continue on, you will eventually reach the end of the desert. The harsh desert winds cannot stop you from persevering.\n\nAcquired from [Greater Outfit Chests].",
         "Russian_Text": "",
         "Chinese_Text": "“今天的每一步都将成为你走出沙漠的坚实基础”\n\n即使身处吹来窒息之风的热沙之中，你的脚步仍然坚定不移。"
     },
     "91201011": {
         "Dev_Desc": "윤회",
-        "Original_Text": "씨를 뿌리면 싹이 나고 드디어 열매를 맺고 이는 또 끝없이 반복됩니다.\\n\\n[사전예약/이벤트]에서 획득할 수 있습니다.",
-        "English_Text": "'One will come, and one will go'\n\nThe sown seeds are bound to bear fruit. As is life.",
+        "Original_Text": "씨를 뿌리면 싹이 나고 드디어 열매를 맺고 이는 또 끝없이 반복됩니다.\\n\\n[사전예약/이벤트], [상점]에서 획득할 수 있습니다.",
+        "English_Text": "Seeds that have been sown are bound to bear fruit. This is the cycle of life.\n\nAcquired from [Pre-Registration/Event].",
         "Russian_Text": "",
         "Chinese_Text": "“有相聚就会有离别”\n\n就像播种、发芽和结果无限循环往复，我们的人生也一样。"
     },
     "91201012": {
         "Dev_Desc": "절멸",
         "Original_Text": "적응한 자가 살아남는다라는 대자연의 법칙을 담아낸 의상으로 착용자의 강함을 은연중에 드러냅니다.",
-        "English_Text": "'The most adaptable can endure to the end'\n\nThis outfit portrays the golden rule of Mother Nature: who adapts, survives.",
+        "English_Text": "This outfit symbolizes the golden rule of Mother Nature: Those who adapt will survive.",
         "Russian_Text": "",
         "Chinese_Text": "“只有最适应变化的种群才会生存到最后”\n\n蕴藏适者生存的大自然法则，隐约展现穿戴者的强大。"
     },
     "91201013": {
         "Dev_Desc": "자경단 장교복",
         "Original_Text": "명예로운 자경단의 장교들이 입는 의상입니다.\\n\\n[플레이포인트]로 구매할 수 있는 의상입니다.",
-        "English_Text": "'True honor must not be defended'\n\nThis is a uniform for the honorable officers of the guards.",
+        "English_Text": "This outfit is for honorable guard officers.\n\nCan be bought with [Play Points].",
         "Russian_Text": "",
         "Chinese_Text": "“真正的名誉无需守护”\n\n光荣的自卫团将领穿的服装。"
-    },
-    "91201014": {
-        "Dev_Desc": "셰켈리크",
-        "Original_Text": "도도하게 흐르는 강물과 같은 푸른 색을 바탕으로 고귀함을 수 놓은 품격 넘치는 의상입니다.",
-        "English_Text": "'A noble man neither abandons their responsibility nor passes it onto others'\n\nThe color represents a river that flows steadfast, which perfectly aligns with your nobleness.",
-        "Russian_Text": "",
-        "Chinese_Text": "“不放弃自己的责任，也不转嫁给别人，这就是高贵”\n\n以清澈河水般的蓝色为底色，刺绣高贵典雅。"
     },
     "91201015": {
         "Dev_Desc": "수누흐",
         "Original_Text": "달빛 아래에서 자신의 길을 찾아가는 여행자를 위한 의상입니다.",
-        "English_Text": "'Like the dawn that is born at midnight'\n\nThis outfit is for travelers who seek their own path under the moonlight.",
+        "English_Text": "This outfit is for travelers who seek their own path under the moonlight.",
         "Russian_Text": "",
         "Chinese_Text": "“如诞生于午夜的黎明一般”\n\n旅行者在月光下寻找自己的路。"
-    },
-    "91201016": {
-        "Dev_Desc": "바즈라",
-        "Original_Text": "어둠을 꿰뚫는 푸른 섬광과 같이 오롯이 빛나는 당신을 위한 의상입니다.",
-        "English_Text": "'Stars twinkle in the reflection of your eyes'\n\nThis outfit is for those who glow like a blue flash piercing through the darkness.",
-        "Russian_Text": "",
-        "Chinese_Text": "“仰望夜空，述其星光”\n\n仿佛刺穿黑暗的青色闪光一样闪耀的你。"
-    },
-    "91201017": {
-        "Dev_Desc": "즈믄[千]",
-        "Original_Text": "천 번의 고행과 천 만의 번뇌를 겪어도 변치 않는 고결함이 담긴 의상입니다.",
-        "English_Text": "'The scent of a flower spreading far and wide across strong winds'\n\nThis outfit represents nobility which endures despite a thousand hardships and ten million agonies.",
-        "Russian_Text": "",
-        "Chinese_Text": "“风愈凛冽，花愈香醇”\n\n蕴藏着经历一千苦行与千万烦恼也不动摇的气节。"
     },
     "91201018": {
         "Dev_Desc": "오방신장의:동",
         "Original_Text": "매일 아침 떠오르는 동녘의 해와 같이 한결같은 당신을 위한 의상입니다.",
-        "English_Text": "'Most things come and go'\n\nThis outfit is for those who persevere like the sun rising from the east each and every morning.",
+        "English_Text": "This outfit is for those who persevere like the sun rising from the east, each and every morning.",
         "Russian_Text": "",
         "Chinese_Text": "“世间不变之事甚少”\n\n像每天在东边升起的太阳一样始终如一的你。"
     },
     "91201019": {
         "Dev_Desc": "다름",
         "Original_Text": "오늘도 대륙을 뜨겁게 달구는 당신을 위한 옷입니다.\\n\\n[플레이포인트]로 구매할 수 있는 의상입니다.",
-        "English_Text": "'Like burning passion'\n\nThis outfit is for those who heat up the land with their burning ambition.",
+        "English_Text": "This outfit is for those who heat up the land with their burning ambition.\n\nCan be bought with [Play Points].",
         "Russian_Text": "",
         "Chinese_Text": "“像你的火红热情一样！”\n\n今天也在大陆散发热情的你。"
     },
     "91201020": {
         "Dev_Desc": "지귀",
-        "Original_Text": "사모의 마음이 사뭇쳐 제 자신마저 태워버린 존재를 기리기 위한 옷입니다.\\n\\n[사전예약/이벤트]에서 획득할 수 있는 의상입니다.",
-        "English_Text": "'My heart will never cease longing for my love'\n\nThis outfit honors the ones whose heart burns with undying love.",
+        "Original_Text": "사모의 마음이 사뭇쳐 제 자신마저 태워버린 존재를 기리기 위한 옷입니다.\\n\\n[사전예약/이벤트], [상점]에서 획득할 수 있는 의상입니다.",
+        "English_Text": "This outfit honors the ones whose heart burns with undying love.\n\nAcquired from [Pre-Registration/Event].",
         "Russian_Text": "",
         "Chinese_Text": "“长相思兮长相忆，短相思兮无穷极”\n\n思念之情刻骨铭心，以至于焚烧自己。"
     },
     "91201021": {
         "Dev_Desc": "사하브",
         "Original_Text": "이 옷을 입은 당신은 적들에겐 마치 재앙과도 같이 보일겁니다.\\n\\n[플레이포인트]로 구매할 수 있는 의상입니다.",
-        "English_Text": "'Like a flashing fragment of disaster that fell from above' \n\nThis makes your enemies fear you as they would a terrible calamity.",
+        "English_Text": "This makes your enemies fear you as they would a terrible calamity.\n\nCan be bought with [Play Points].",
         "Russian_Text": "",
         "Chinese_Text": "“散发红光，像天空中落下的灾难碎片一样”\n\n穿上这件服装的你，在敌人眼中就如灾难一般。"
     },
     "91201022": {
         "Dev_Desc": "아수라",
         "Original_Text": "수라의 염원을 담은 의상입니다.\\n\\n[플레이포인트]로 구매할 수 있는 의상입니다.",
-        "English_Text": "Just one more step,\nSo close, yet so far.\nThis outfit is imbued with the Sura's desire.",
+        "English_Text": "This outfit is for honorable guard officers.\n\nCan be bought with [Play Points].",
         "Russian_Text": "",
         "Chinese_Text": "只需踏出一步，\n便到达无法触及的地点，\n寄托着修罗的心愿。"
-    },
-    "91201023": {
-        "Dev_Desc": "토로스",
-        "Original_Text": "굳센 황소와 같은 우직함으로 모든 역경을 뚫어 내고자 하는 마음이 담긴 의상입니다.",
-        "English_Text": "'Stubborn as an ox'\n\nThis outfit represents the iron will to overcome all difficulties like a bold ox.",
-        "Russian_Text": "",
-        "Chinese_Text": "“黄牛之坚毅”\n\n蕴藏着像黄牛一样冲破所有逆境的坚毅内心。"
     },
     "91201024": {
         "Dev_Desc": "바리데기",
         "Original_Text": "그 누군가의 숭고한 희생을 기리는 의상입니다.",
-        "English_Text": "'The world may have forsaken me, but I still cling to it'\n\nThis outfit represents one's noble sacrifice.",
+        "English_Text": "This outfit represents one's noble sacrifice.",
         "Russian_Text": "",
         "Chinese_Text": "“即使世界抛弃我，我也不会抛弃世界”\n\n纪念某人的崇高牺牲。"
     },
     "91201025": {
         "Dev_Desc": "제천대성",
         "Original_Text": "한 때 하늘을 떠들썩하게 했던 위대한 존재의 모습을 본 딴 옷입니다.",
-        "English_Text": "'Acknowledge the malevolent Celestial'\n\nThis outfit portrays a great being who once turned the sky upside down.",
+        "English_Text": "This outfit portrays a great being who once turned the sky upside down.",
         "Russian_Text": "",
         "Chinese_Text": "“说声对不起吧，因你总是如此为所欲为”\n\n象征曾经大闹天宫的伟大人物。"
     },
     "91201026": {
         "Dev_Desc": "단기나흐",
         "Original_Text": "화산과 같은 거침없는 걸음으로 적들을 파괴하는 당신을 위한 의상입니다.\\n\\n[플레이포인트]로 구매할 수 있는 의상입니다.",
-        "English_Text": "'I will scorch my enemies like a stream of fire'\n\nThis outfit is for those who dash toward their enemies, engulfing them like an erupting volcano.",
+        "English_Text": "This outfit is for those who dash toward their enemies, engulfing them like an erupting volcano.\n\nCan be bought with [Play Points].",
         "Russian_Text": "",
         "Chinese_Text": "“我宛如红焰，烧毁一切敌人”\n\n你迈出火山一样不可阻挡的脚步，彻底破坏敌人。"
-    },
-    "91201027": {
-        "Dev_Desc": "나스카의 바람",
-        "Original_Text": "한 여름 불어온 한 줄기 바람과 같은 당신을 위해 제작된 의상입니다.",
-        "English_Text": "'What truly matters is intangible'\n\nThis outfit is for those who conjure up images of a fresh breeze on a hot summer day.",
-        "Russian_Text": "",
-        "Chinese_Text": "“人们很难看到真正重要的事物”\n\n宛如盛夏中吹来的一阵清风的你。"
     },
     "91201028": {
         "Dev_Desc": "오방신장의:서",
         "Original_Text": "신비한 주술의 힘으로 아름답게 채색된 의상입니다.\\n\\n[플레이포인트]로 구매할 수 있는 의상입니다.",
-        "English_Text": "'Like a magical sunset'\n\nThis outfit is infused with beautiful colors by the power of a mystical spell.",
+        "English_Text": "This outfit has been infused with beautiful colors thanks to the power of a mystical spell.\n\nCan be bought with [Play Points].",
         "Russian_Text": "",
         "Chinese_Text": "“晚霞艳满西天”\n\n美丽的色彩充满神秘咒术之力。"
     },
     "91201029": {
         "Dev_Desc": "금강고",
         "Original_Text": "혼란한 것들을 제압하는 영험한 기운이 깃든 의상입니다.",
-        "English_Text": "'Calm after the storm'\n\nThis outfit holds spiritual energy that overpowers chaos.",
+        "English_Text": "This outfit holds spiritual energy that overpowers chaos.",
         "Russian_Text": "",
         "Chinese_Text": "“风暴过后，一片宁静”\n\n蕴藏着平息混乱的灵验气息。"
-    },
-    "91201030": {
-        "Dev_Desc": "백야의 귀도사",
-        "Original_Text": "하얀 밤 속을 홀로 헤쳐나온 한 귀도사의 의상입니다.",
-        "English_Text": "'Courage means standing up against your fears'\n\nThis is a Ghost Mage's outfit who fled alone through a white night.",
-        "Russian_Text": "",
-        "Chinese_Text": "“勇气即抗拒恐惧”\n\n独自走出白夜的鬼道士的服装。"
     },
     "91201031": {
         "Dev_Desc": "카=노코이",
         "Original_Text": "삼라만상을 꿰뚫어보는 절대자의 형상을 담은 의상입니다.\\n\\n[희귀 의상 상자], [영웅 의상 상자]에서 획득할 수 있습니다.",
-        "English_Text": "'My eyes do not rest even in the deepest darkness.'\n\nThis outfit portrays an absolute being that sees through all things.",
+        "English_Text": "This outfit portrays an absolute being that sees through all things.\n\nAcquired from [Rare Outfit Chests] and [Epic Outfit Chests].",
         "Russian_Text": "",
         "Chinese_Text": "“即使在漆黑的夜晚，我的双眼仍在凝视”\n\n蕴藏着看穿森罗万象的绝对者之形象。"
     },
     "91201032": {
         "Dev_Desc": "배리흐",
         "Original_Text": "세상을 정화하고자 한 어떤 존재의 바램이 담긴 옷입니다.\\n\\n[상급 의상 상자], [희귀 의상 상자]에서 획득할 수 있습니다.",
-        "English_Text": "'I wish for a world as pure as snow is white'\n\nThis outfit represents one's wish to purify the world.",
+        "English_Text": "This outfit represents one's wish to purify the world.\n\nAcquired from [Greater Outfit Chests] and [Rare Outfit Chests].",
         "Russian_Text": "",
         "Chinese_Text": "“希望全世界像白雪一样洁净”\n\n寄托着欲净化全世界的心愿。"
     },
     "91201033": {
         "Dev_Desc": "콘도르",
         "Original_Text": "날렵한 사냥꾼을 위한 의상입니다.\\n\\n[상급 의상 상자], [희귀 의상 상자]에서 획득할 수 있습니다.",
-        "English_Text": "'Like a bird zeroing in on its prey'\n\nThis outfit is perfect for a swift hunter.",
+        "English_Text": "This outfit is perfect for a swift hunter.\n\nAcquired from [Greater Outfit Chests] and [Rare Outfit Chests].",
         "Russian_Text": "",
         "Chinese_Text": "“像紧盯猎物的鸟一样”\n\n为灵敏的猎人准备的服装。"
     },
     "91201035": {
         "Dev_Desc": "질풍",
         "Original_Text": "불어오는 바람과 같은 자유로움을 추구하는 모험자를 위한 의상입니다.",
-        "English_Text": "'Free as the wind'\n\nThis outfit is for the adventurers who pursue freedom like the wind.",
+        "English_Text": "This outfit is for the adventurers who pursue freedom like the wind.",
         "Russian_Text": "",
         "Chinese_Text": "“像风一样自由”\n\n为追求如风般自由的冒险者准备的服装。"
     },
     "91201036": {
-        "Dev_Desc": "사자왕",
-        "Chinese_Text": "<DNT>",
-        "English_Text": "<DNT>"
+        "Dev_Desc": "사자왕"
     },
     "91201037": {
         "Dev_Desc": "혼천극의",
         "Original_Text": "위대함을 꿈꾸는 모험가를 위한 의상입니다.",
-        "English_Text": "'Even sweet dreams come with difficulties and chaos'\n\nThis outfit is for adventurers who dream big.",
+        "English_Text": "This outfit is for adventurers who dream big.",
         "Russian_Text": "",
         "Chinese_Text": "“逝去的梦想只会带来困难与混乱”\n\n为憧憬伟大旅程的冒险家准备的服装。"
     },
     "91201038": {
         "Dev_Desc": "괴마축격",
         "Original_Text": "정의를 추구하는 여행자를 위한 옷입니다.",
-        "English_Text": "'Not doing good is as good as doing evil'\n\nThis outfit is for adventurers who pursue justice.",
+        "English_Text": "This outfit is for adventurers who pursue justice.",
         "Russian_Text": "",
         "Chinese_Text": "“知善不行即是罪”\n\n为追求正义的旅行者装备的服装。"
     },
     "91201039": {
         "Dev_Desc": "유치원생",
         "Original_Text": "왠지 떼를 쓰고 싶어지는 의상입니다.\\n\\n[희귀 의상 상자], [영웅 의상 상자]에서 획득할 수 있습니다.",
-        "English_Text": "'Let's earn some badges!'\n\nThis outfit reminds you of your childhood expeditions as an Acorn Scout.",
+        "English_Text": "This outfit reminds you of your childhood expeditions as an Acorn Scout.\n\nAcquired from [Rare Outfit Chests] and [Epic Outfit Chests].",
         "Russian_Text": "",
         "Chinese_Text": "“这是我的！！唔哇啊啊啊昂！！”\n\n不知为何，很想耍赖。"
     },
     "91201040": {
         "Dev_Desc": "스쿨룩",
         "Original_Text": "학교에 가야할 것만 같은 의상입니다.\\n\\n[희귀 의상 상자], [영웅 의상 상자]에서 획득할 수 있습니다.",
-        "English_Text": "'I miss the good old school days'\n\nAre you ready for class?",
+        "English_Text": "Are you ready for class?\n\nAcquired from [Rare Outfit Chests] and [Epic Outfit Chests].",
         "Russian_Text": "",
         "Chinese_Text": "“我也喜欢当时的我”\n\n总感觉需要上学。"
     },
     "91201041": {
         "Dev_Desc": "가정의 달",
         "Original_Text": "봄에 어울리는 풀잎들로 수놓은 의상입니다. 허리에 묶은 겉옷이 엣지를 더해줍니다.\\n\\n[희귀 의상 상자], [영웅 의상 상자]에서 획득할 수 있습니다.",
-        "English_Text": "'Let's have a picnic by the river'\n\nThis outfit, with its fresh grass pattern, is reminiscent of a family outing on a balmy spring day.",
+        "English_Text": "This outfit, with its fresh grass pattern, is reminiscent of a family outing on a warm spring day.\n\nAcquired from [Rare Outfit Chests] and [Epic Outfit Chests].",
         "Russian_Text": "",
         "Chinese_Text": "“最近的星星就在你的脚下”\n\n用春季草叶刺绣，系在腰间的外套更显时尚。"
     },
     "91201042": {
         "Dev_Desc": "해변",
         "Original_Text": "바다에 어울리는 의상입니다. 왠지 어릴적 바라보던 해변가로 이끌어 줄 것만 같습니다.\\n\\n[희귀 의상 상자], [영웅 의상 상자]에서 획득할 수 있습니다.",
-        "English_Text": "'I'm just a boy at the beach'\n\nClassic beach fashion. You might even end up at the beach you used to play at as a child when wearing this outfit.",
+        "English_Text": "Classic beach fashion. You might even find yourself at the beach you used to play at as a child after putting on this outfit.\n\nAcquired from [Rare Outfit Chests] and [Epic Outfit Chests].",
         "Russian_Text": "",
         "Chinese_Text": "“我就像在海边玩耍的少年”\n\n适合海边的服装，感觉会把人带到小时候凝望的海边。"
     },
     "91201043": {
         "Dev_Desc": "해군",
         "Original_Text": "늠름하게 바다를 지키는 해군들의 의상입니다.\\n\\n[희귀 의상 상자], [영웅 의상 상자]에서 획득할 수 있습니다.",
-        "English_Text": "'I am the guardian of the sea'\n\nThe uniform of a navy officer who bravely keeps watch over the waters.",
+        "English_Text": "This outfit is for the brave navy officers who protect the seas.\n\nAcquired from [Rare Outfit Chests] and [Epic Outfit Chests].",
         "Russian_Text": "",
         "Chinese_Text": "“我来守护这片海洋”\n\n坚实地守护海洋的海军。"
     },
     "91201044": {
         "Dev_Desc": "한 여름의 축제",
         "Original_Text": "대어방의 여름축제 의상입니다.\\n\\n[영웅 의상 상자], [전설 의상 상자]에서 획득할 수 있습니다.",
-        "English_Text": "'A bundle of everlasting flowers to go with the season'\n\nAn outfit for the summer festival held by the Fish Network.",
+        "English_Text": "An outfit for the summer festival held by the Fish Network.\n\nAcquired from [Epic Outfit Chests] and [Legend Outfit Chests].",
         "Russian_Text": "",
         "Chinese_Text": "“永不枯萎的花束，铭记灿烂的季节”\n\n大鱼坊的盛夏庆典服装。"
     },
     "91201045": {
         "Dev_Desc": "백귀혼",
         "Original_Text": "왠지 모르게 등골이 오싹해지는 옷입니다.\\n\\n[영웅 의상 상자], [전설 의상 상자]에서 획득할 수 있습니다.",
-        "English_Text": "'Ghosts dwell within this outfit'\n\nYou might get chills when you wear this.",
+        "English_Text": "You might get the chills if you wear this...\n\nAcquired from [Epic Outfit Chests] and [Legend Outfit Chests].",
         "Russian_Text": "",
         "Chinese_Text": "“鬼魂衣”\n\n穿上之后总觉得毛骨悚然。"
     },
     "91201046": {
         "Dev_Desc": "숲 속의 어린왕자",
         "Original_Text": "숲의 평온함이 전신에 깃들 것만 같습니다.\\n\\n[희귀 의상 상자], [영웅 의상 상자]에서 획득할 수 있습니다.",
-        "English_Text": "The tranquility of the forest seems to permeate my body.\n\nCan be obtained from [Rare Costume Box]>and [Hero Costume Box].",
+        "English_Text": "This outfit evokes the serenity of a forest.\n\nAcquired from [Rare Outfit Chests] and [Epic Outfit Chests].",
         "Russian_Text": "",
         "Chinese_Text": "森林的平静似乎会映入全身.\n\n[稀有服装箱子]，[英雄服装箱子]中获得."
     },
     "91201047": {
         "Dev_Desc": "학생회",
         "Original_Text": "학생회에 들어가 본 적이 없다구요? 걱정마세요\\n\\n[희귀 의상 상자], [영웅 의상 상자]에서 획득할 수 있습니다.",
-        "English_Text": "You've never been to the student council? Don't worry\n\nYou can get it from [Rare Costume Box]>and [Hero Costume Box].",
+        "English_Text": "You haven't joined a student council yet? Don't worry!\n\nAcquired from [Rare Outfit Chests] and [Epic Outfit Chests].",
         "Russian_Text": "",
         "Chinese_Text": "没进过学生会吗？不用担心\n\n[稀有服装箱子]，[英雄服装箱子]中可以获得."
     },
     "91201048": {
         "Dev_Desc": "여름 나들이",
         "Original_Text": "더위를 피하기 위해 무채색을 사용한 의상입니다.\\n\\n[희귀 의상 상자], [영웅 의상 상자]에서 획득할 수 있습니다.",
-        "English_Text": "This is a costume that uses achromatic colors to avoid the heat.\n\nYou can get it from [Rare Costume Box]>and [Hero Costume Box].",
+        "English_Text": "This outfit's color helps to reflect heat.\n\nAcquired from [Rare Outfit Chests] and [Epic Outfit Chests].",
         "Russian_Text": "",
         "Chinese_Text": "为了避暑使用了无彩色服装.\n\n[稀有服装箱子]，[英雄服装箱子]中获得."
     },
     "91201049": {
         "Dev_Desc": "해변의 석양",
         "Original_Text": "어느 여름 날 해변의 석양에서 영감을 받아 탄생한 의상입니다.\\n\\n[희귀 의상 상자], [영웅 의상 상자]에서 획득할 수 있습니다.",
-        "English_Text": "This costume was inspired by a sunset on the beach on a summer day.\n\nYou can get it from [Rare Costume Box]>and [Hero Costume Box].",
+        "English_Text": "This outfit is inspired by a sunset on a summer beach.\n\nAcquired from [Rare Outfit Chests] and [Epic Outfit Chests].",
         "Russian_Text": "",
         "Chinese_Text": "某个夏天在海边的夕阳中获得灵感而诞生的服装.\n\n[稀有服装箱子]，[英雄服装箱子]中获得."
     },
     "91201050": {
         "Dev_Desc": "회색의 해군",
         "Original_Text": "어떠한 상황이라도 선택은 결국 스스로의 몫입니다.\\n\\n[희귀 의상 상자], [영웅 의상 상자]에서 획득할 수 있습니다.",
-        "English_Text": "In any case, the choice is yours in the end.\n\nYou can get it from [Rare Costume Box], [Hero Costume Box].",
+        "English_Text": "You must answer for your decisions no matter what.\n\nAcquired from [Rare Outfit Chests] and [Epic Outfit Chests].",
         "Russian_Text": "",
         "Chinese_Text": "无论什么情况，选择都是自己的责任.\n\n[稀有服装箱子]，[英雄服装箱子]中可以获得."
     },
     "91201051": {
         "Dev_Desc": "봄의 축제",
         "Original_Text": "대어방의 봄 축제 의상입니다.\\n\\n[영웅 의상 상자], [전설 의상 상자]에서 획득할 수 있습니다.",
-        "English_Text": "Daeeobang's Spring Festival costume.\n\nCan be obtained from [Hero Costume Box]>and [Legendary Costume Box].",
+        "English_Text": "An outfit for the spring festival held by the Fish Network.\n\nAcquired from [Epic Outfit Chests] and [Legend Outfit Chests].",
         "Russian_Text": "",
         "Chinese_Text": "大鱼房春庆服装.\n\n[英雄服装箱子]，[传说服装箱子]中获得."
     },
     "91201052": {
         "Dev_Desc": "흑귀혼",
         "Original_Text": "가장 악한 기운을 지닌 귀들의 힘만을 모아서 만들어진 의상입니다.\\n\\n[영웅 의상 상자], [전설 의상 상자]에서 획득할 수 있습니다.",
-        "English_Text": "This costume was made by gathering only the power of the ears with the most evil energy.\n\nYou can obtain it from [Hero Costume Box]>and [Legendary Costume Box].",
+        "English_Text": "This outfit is made of the most vicious energy of the specters.\n\nAcquired from [Epic Outfit Chests] and [Legend Outfit Chests].",
         "Russian_Text": "",
         "Chinese_Text": "拥有最坏气息的耳朵们的力量制作的服装.\n\n可在[英雄服装箱子]，[传说服装箱子]中获得."
     },
     "91201053": {
         "Dev_Desc": "사랑의 어린왕자",
         "Original_Text": "풋풋했던 어린 시절의 꿈들을 다시 한번 만나보세요.\\n\\n[영웅 의상 상자], [전설 의상 상자]에서 획득할 수 있습니다.",
-        "English_Text": "Look at your childhood dreams once again.\n\nCan be obtained from [Hero Costume Box]>and [Legendary Costume Box].",
+        "English_Text": "Revisit the dreams of your childhood.\n\nAcquired from [Epic Outfit Chests] and [Legend Outfit Chests].",
         "Russian_Text": "",
         "Chinese_Text": "让我们再一次见识一下小时候的梦想吧.\n\n可以在[英雄服装箱子]，[传说服装箱子]中获得."
     },
     "91201054": {
         "Dev_Desc": "선도부",
         "Original_Text": "하지 말라면 더 하고 싶은 것이 인간의 본성. \\n그래도 규칙은 지켜야겠죠?\\n\\n[영웅 의상 상자], [전설 의상 상자]에서 획득할 수 있습니다.",
-        "English_Text": "It's human nature to want to do more if you don't want to.\nYou still have to follow the rules, right?\n\nYou can get it from [Hero Costume Box]>and [Legendary Costume Box].",
+        "English_Text": "Being told not to do something makes you want to do it even more...\nRules are made to be broken, right?\n\nAcquired from [Epic Outfit Chests] and [Legend Outfit Chests].",
         "Russian_Text": "",
         "Chinese_Text": "不让做的话更想做的是人类的本性.\n还是要遵守规则吧？\n\n可以在[英雄服装箱子]，[传说服装箱子]中获得."
     },
     "91201055": {
         "Dev_Desc": "가을 나들이",
         "Original_Text": "가을에 어울리는 낙엽의 색으로 물든 의상입니다. \\n가을에는 역시 레이어드가 탁월한 선택이죠\\n\\n[영웅 의상 상자], [전설 의상 상자]에서 획득할 수 있습니다.",
-        "English_Text": "A costume dyed with the color of fallen leaves suitable for autumn.\nIt is also an excellent choice for layering in autumn\n\nObtained from [Hero Costume Box]>and [Legendary Costume Box].",
+        "English_Text": "This outfit is the color of autumn leaves.\nThis layered look is perfect for the fall.\n\nAcquired from [Epic Outfit Chests] and [Legend Outfit Chests].",
         "Russian_Text": "",
         "Chinese_Text": "适合秋天的落叶颜色的衣服.\n秋天果然是层叠式的卓越选择\n\n可在[英雄服装箱子]，[传说服装箱子]中获得."
     },
     "91201056": {
         "Dev_Desc": "해변의 밤",
         "Original_Text": "해변의 밤을 누구보다 즐겁게 보내는 당신을 뽐내어 보세요\\n\\n[영웅 의상 상자], [전설 의상 상자]에서 획득할 수 있습니다.",
-        "English_Text": "Show off your fun at the beach more than anyone else\n\nYou can get it from [Hero Costume Box]>and [Legendary Costume Box].",
+        "English_Text": "This outfit will make your night at the beach even more enjoyable. An outfit for the summer festival held by the Fish Network.\n\nAcquired from [Epic Outfit Chests] and [Legend Outfit Chests].",
         "Russian_Text": "",
         "Chinese_Text": "炫耀一下比任何人都愉快地度过海边夜晚的你\n\n[英雄服装箱子]，[传说服装箱子]中可以获得."
     },
     "91201057": {
         "Dev_Desc": "흑해의 해군",
         "Original_Text": "검은 바다를 지키는 해군들의 의상입니다.\\n\\n[영웅 의상 상자], [전설 의상 상자]에서 획득할 수 있습니다.",
-        "English_Text": "A costume for the navy guarding the Black Sea.\n\nYou can obtain it from [Hero Costume Box]>and [Legendary Costume Box].",
+        "English_Text": "This outfit is for the brave navy officers who protect the dark seas.\n\nAcquired from [Epic Outfit Chests] and [Legend Outfit Chests].",
         "Russian_Text": "",
         "Chinese_Text": "守护黑海的海军服装.\n\n[英雄服装箱子]，[传说服装箱子]中获得."
     },
     "91201058": {
         "Dev_Desc": "겨울의 축제",
         "Original_Text": "대어방의 겨울축제 의상입니다.\\n\\n[전설 의상 상자]에서 획득할 수 있습니다.",
-        "English_Text": "Daeeobang's Winter Festival costume.\n\nYou can get it from the [Legendary Costume Box].",
+        "English_Text": "An outfit for the winter festival held by the Fish Network.\n\nAcquired from [Legend Outfit Chests].",
         "Russian_Text": "",
         "Chinese_Text": "大鱼房的冬季庆典服装.\n\n[传说服装箱子]中获得."
     },
     "91201059": {
         "Dev_Desc": "적귀혼",
         "Original_Text": "괴이한 힘에 의해 붉게 물든 옷입니다. \\n적들에게 혼란을 불어넣을 수 있을 것 같습니다.\\n\\n[전설 의상 상자]에서 획득할 수 있습니다.",
-        "English_Text": "Clothes dyed red by a strange power. \nIt seems to be able to confuse enemies.\n\nYou can get it from [Legendary Costume Box].",
+        "English_Text": "This outfit has been dyed red by a strange force.\nIt may bring chaos to one’s enemies.\n\nAcquired from [Legend Outfit Chests].",
         "Russian_Text": "",
         "Chinese_Text": "被奇怪的力量染红的衣服.\n给敌人造成混乱.\n\n[传说服装箱子]中获得."
     },
     "91201060": {
         "Dev_Desc": "붉은 왕자",
         "Original_Text": "생전 처음 겪는 당황스러운 일이 있으신가요?\\n그렇지만 생각지도 못한 일들이 일어난다는 건 정말 멋진 일이죠.\\n가끔은 어린시절로 돌아가 이 상황을 즐겨보세요\\n\\n[영웅 의상 상자], [전설 의상 상자]에서 획득할 수 있습니다.",
-        "English_Text": "Have you ever experienced something embarrassing for the first time in your life?\nBut it's wonderful to see unexpected things happen.\nSometimes, go back to your childhood and enjoy this situation\n\n[hero costume]>It can be obtained from [Crate]>and [Legendary Costume Box].",
+        "English_Text": "Have you come across something unexpected?\nEncountering the unknown is truly fascinating.\nEnjoy it with childlike wonder!\n\nAcquired from [Epic Outfit Chests] and [Legend Outfit Chests].",
         "Russian_Text": "",
         "Chinese_Text": "有生以来第一次经历的惊慌吗？\n但是发生意想不到的事情真的是很帅气的事情.\n偶尔回到童年享受这个情况吧\n\n《英雄服装箱子》，《传说服装箱子》中获得."
     },
     "91201061": {
         "Dev_Desc": "방송부",
         "Original_Text": "방송부보다 더 재밌게 얘기할 수 있다구요? 어서 방송부에 지원해보세요!\\n\\n[영웅 의상 상자], [전설 의상 상자]에서 획득할 수 있습니다.",
-        "English_Text": "You can talk more fun than the Broadcasting Department? Hurry up and apply for the Broadcasting Department!\n\nYou can get it from [Hero Costume Box]>and [Legendary Costume Box].",
+        "English_Text": "Are you a fun storyteller? Then you should join the Broadcasting Club!\n\nAcquired from [Epic Outfit Chests] and [Legend Outfit Chests].",
         "Russian_Text": "",
         "Chinese_Text": "能比放送部说得更有趣吗？快点申请广播部吧！\n\n可在[英雄服装箱子]，[传说服装箱子]中获得."
     },
     "91201062": {
         "Dev_Desc": "겨울 나들이",
         "Original_Text": "겨울에 적합한 따뜻한 색으로 물들인 의상입니다.\\n\\n[영웅 의상 상자], [전설 의상 상자]에서 획득할 수 있습니다.",
-        "English_Text": "A costume dyed in warm colors suitable for winter.\n\nCan be obtained from [Hero Costume Box]>and [Legendary Costume Box].",
+        "English_Text": "This outfit has warm colors to brighten up the cold season.\n\nAcquired from [Epic Outfit Chests] and [Legend Outfit Chests].",
         "Russian_Text": "",
         "Chinese_Text": "适合冬天的暖色服装.\n\n[英雄服装箱子]，[传说服装箱子]中获得."
     },
     "91201063": {
         "Dev_Desc": "해변의 아침",
         "Original_Text": "찬란한 해변의 아침을 만끽하는건 황금보다 값진 경험입니다.\\n\\n[영웅 의상 상자], [전설 의상 상자]에서 획득할 수 있습니다.",
-        "English_Text": "Enjoying the morning on the beach is a more valuable experience than gold.\n\nCan be obtained from [Hero Costume Box]>and [Legendary Costume Box].",
+        "English_Text": "A beautiful beach sunrise is more precious than gold itself.\n\nAcquired from [Epic Outfit Chests] and [Legend Outfit Chests].",
         "Russian_Text": "",
         "Chinese_Text": "享受灿烂海边的早晨是比黄金更有价值的经验.\n\n可在[英雄服装箱子]，[传说服装箱子]中获得."
     },
     "91201064": {
         "Dev_Desc": "붉은 해군",
         "Original_Text": "결의와 용기는 위험 앞에서 더욱 빛을 발한답니다.\\n\\n[영웅 의상 상자], [전설 의상 상자]에서 획득할 수 있습니다.",
-        "English_Text": "Resolve and courage shine even more in the face of danger.\n\nCan be obtained from [Hero Costume Box]>and [Legendary Costume Box].",
+        "English_Text": "Determination and courage shines even brighter during perilous times.\n\nAcquired from [Epic Outfit Chests] and [Legend Outfit Chests].",
         "Russian_Text": "",
         "Chinese_Text": "决心和勇气在危险面前更加发光.\n\n可在[英雄服装箱子]，[传说服装箱子]中获得."
     },
     "91201065": {
         "Dev_Desc": "가을의 축제",
         "Original_Text": "대어방의 가을축제 의상입니다.\\n\\n[전설 의상 상자]에서 획득할 수 있습니다.",
-        "English_Text": "This is Daeeobang's Autumn Festival costume.\n\nYou can get it from the [Legendary Costume Box].",
+        "English_Text": "An outfit for the autumn festival held by the Fish Network.\n\nAcquired from [Legend Outfit Chests].",
         "Russian_Text": "",
         "Chinese_Text": "大鱼房秋季庆典服装.\n\n[传说服装箱子]中获得."
     },
     "91201066": {
         "Dev_Desc": "금귀혼",
         "Original_Text": "고결한 령들이 깃든 의상입니다.\\n\\n[전설 의상 상자]에서 획득할 수 있습니다.",
-        "English_Text": "A costume imbued with noble spirits.\n\nCan be obtained from [Legendary Costume Box].",
+        "English_Text": "This outfit holds noble spirits.\n\nAcquired from [Legend Outfit Chests].",
         "Russian_Text": "",
         "Chinese_Text": "附有高洁灵灵的服装.\n\n[传说服装箱子]中获得."
     },
     "91201067": {
         "Dev_Desc": "심연의 강적",
         "Original_Text": "순수를 뜻하는 흰색과 귀함을 뜻하는 금색이 어우러진 순수한 강함을 상징하는 의상입니다.\\n\\n[희귀 의상 상자], [영웅 의상 상자]에서 획득할 수 있습니다.",
-        "English_Text": "This costume symbolizes pure strength with a combination of white meaning innocence and gold meaning preciousness.\n\nYou can get it from [Rare Costume Box]>and [Hero Costume Box].",
+        "English_Text": "This white and gold outfit presents ones genuine will, with white representing purity and gold representing preciousness.\n\nAcquired from [Rare Outfit Chests] and [Epic Outfit Chests].",
         "Russian_Text": "",
         "Chinese_Text": "代表纯真的白色和珍贵的金色融合在一起，象征着纯粹的强大.\n\n[稀有服装箱子]，[英雄服装箱子]中获得."
     },
     "91201068": {
         "Dev_Desc": "짙은 밤의 청야",
         "Original_Text": "더욱 더 짙어진 칠흑같은 밤을 색채로 표현한 의상입니다.\\n\\n[상급 의상 상자], [희귀 의상 상자]에서 획득할 수 있습니다.",
-        "English_Text": "This is a costume that expresses the darkness of a darker night in color.\n\nYou can get it from [Advanced Costume Box]>and [Rare Costume Box].",
+        "English_Text": "This outfit symbolizes a pitch-dark night that can be no darker.\n\nAcquired from [Greater Outfit Chests] and [Rare Outfit Chests].",
         "Russian_Text": "",
         "Chinese_Text": "用色彩表现更深的漆黑夜晚的服装.\n\n[上级服装箱子]，[稀有服装箱子]中获得."
     },
     "91201069": {
         "Dev_Desc": "귀족의 진노",
         "Original_Text": "바다를 닮은 비취색을 통해 당신의 고귀한 마음을 드러내어 보세요\\n\\n[상급 의상 상자], [희귀 의상 상자]에서 획득할 수 있습니다.",
-        "English_Text": "Reveal your noble heart through the jade color resembling the sea\n\nYou can obtain it from [Advanced Costume Box]>and [Rare Costume Box].",
+        "English_Text": "Display your generous heart with this ocean-like emerald outfit.\n\nAcquired from [Greater Outfit Chests] and [Rare Outfit Chests].",
         "Russian_Text": "",
         "Chinese_Text": "通过与大海相似的翡翠色展现你高贵的心\n\n[上级服装箱子]，[稀有服装箱子]中获得."
     },
     "91201070": {
         "Dev_Desc": "무투가의 신념",
         "Original_Text": "강함을 향한 굳건한 무투가의 신념을 담아낸 의상입니다.\\n\\n[상급 의상 상자], [희귀 의상 상자]에서 획득할 수 있습니다.",
-        "English_Text": "This costume embodies the strong fighter's belief in strength.\n\nYou can obtain it from [Advanced Costume Box]>and [Rare Costume Box].",
+        "English_Text": "This outfit represents one's unwavering pursuit of strength.\n\nAcquired from [Greater Outfit Chests] and [Rare Outfit Chests].",
         "Russian_Text": "",
         "Chinese_Text": "蕴含着对强大信念的服装.\n\n[上级服装箱子]，[稀有服装箱子]中获得."
     },
     "91201071": {
         "Dev_Desc": "수행자의 수양",
         "Original_Text": "삼라만상의 이치를 깨닫기 위한 수행자들의 복식입니다.\\n\\n[상급 의상 상자], [희귀 의상 상자]에서 획득할 수 있습니다.",
-        "English_Text": "A monk's attire to realize the principle of all things.\n\nCan be obtained from [Advanced Costume Box]>and [Rare Costume Box].",
+        "English_Text": "An attire for trainees who wish to understand the universe.\n\nAcquired from [Greater Outfit Chests] and [Rare Outfit Chests].",
         "Russian_Text": "",
         "Chinese_Text": "为了领悟森罗万象的道理，修行者们的服饰.\n\n[上级服装箱子]，[稀有服装箱子]中获得."
     },
     "91201072": {
         "Dev_Desc": "쾌속의 발재도",
         "Original_Text": "한계를 넘어 나아가는 의지가 깃든 의상입니다.\\n\\n[상급 의상 상자], [희귀 의상 상자]에서 획득할 수 있습니다.",
-        "English_Text": "A costume imbued with the will to go beyond limits.\n\nCan be obtained from [Advanced Costume Box]>and [Rare Costume Box].",
+        "English_Text": "This outfit holds the will to reach beyond ones limits.\n\nAcquired from [Greater Outfit Chests] and [Rare Outfit Chests].",
         "Russian_Text": "",
         "Chinese_Text": "超越极限意志的服装.\n\n[上级服装箱子]，[稀有服装箱子]中获得."
     },
     "91201073": {
         "Dev_Desc": "바다의 추적자",
         "Original_Text": "숨 막히는 심연의 물속에서도 당신의 걸음은 한결 같습니다.\\n\\n[상급 의상 상자], [희귀 의상 상자]에서 획득할 수 있습니다.",
-        "English_Text": "Your gait is consistent even in the suffocating waters of the abyss.\n\nCan be obtained from [Advanced Costume Box]>and [Rare Costume Box].",
+        "English_Text": "The suffocatingly deep ocean cannot stop you from persevering.\n\nAcquired from [Greater Outfit Chests] and [Rare Outfit Chests].",
         "Russian_Text": "",
         "Chinese_Text": "在令人窒息的深渊中，你的步伐依旧.\n\n[上级服装箱子]，[稀有服装箱子]中获得."
     },
     "91201074": {
         "Dev_Desc": "역천의 회귀",
         "Original_Text": "거스를 수 없는 것이란 무엇일까요?\\n\\n[희귀 의상 상자], [영웅 의상 상자]에서 획득할 수 있습니다.",
-        "English_Text": "What is irresistible?\n\nCan be obtained from [Rare Costume Box]>and [Hero Costume Box].",
+        "English_Text": "Being irresistible... What does that feel like?\n\nAcquired from [Rare Outfit Chests] and [Epic Outfit Chests].",
         "Russian_Text": "",
         "Chinese_Text": "无法抗拒的是什么呢？\n\n[稀有服装箱子]，[英雄服装箱子]中获得."
     },
     "91201075": {
         "Dev_Desc": "찬란한 긍지",
         "Original_Text": "명예로운 자경단의 장교들 중 더욱 빛나는 이들이 입는 의상입니다.\\n\\n[희귀 의상 상자], [영웅 의상 상자]에서 획득할 수 있습니다.",
-        "English_Text": "This costume is worn by the more brilliant officers of the Honorable Vigilante.\n\nCan be obtained from [Rare Costume Box]>and [Hero Costume Box].",
+        "English_Text": "This outfit is for the best of the honorable guard officers.\n\nAcquired from [Rare Outfit Chests] and [Epic Outfit Chests].",
         "Russian_Text": "",
         "Chinese_Text": "荣誉自卫团军官中更闪耀的的服装.\n\n[稀有服装箱子]，[英雄服装箱子]中获得."
     },
     "91201076": {
         "Dev_Desc": "굳건한 투지",
         "Original_Text": "오늘도 대륙을 뜨겁게 달구는 당신을 위한 옷입니다.\\n더욱 굳건하게 당신의 투지를 불태워 보세요\\n\\n[영웅 의상 상자], [전설 의상 상자]에서 획득할 수 있습니다.",
-        "English_Text": "This is a dress for you, who is heating up the continent today.\nPlease burn your fighting spirit even stronger.\n\nYou can get it from [Hero Costume Box]>and [Legendary Costume Box].",
+        "English_Text": "This outfit is for those who heat up the land with their burning ambition.\nShow us more of your burning ambition.\n\nAcquired from [Epic Outfit Chests] and [Legend Outfit Chests].",
         "Russian_Text": "",
         "Chinese_Text": "今天也是为在大陆上炙手可热的你准备的衣服.\n请更加坚定地燃烧你的斗志\n\n[英雄服装箱子]，[传说服装箱子]中获得."
     },
     "91201078": {
         "Dev_Desc": "전장의 폭풍",
         "Original_Text": "이 옷을 입은 당신은 적들에겐 마치 재해와도 같이 보일겁니다.\\n\\n[영웅 의상 상자], [전설 의상 상자]에서 획득할 수 있습니다.",
-        "English_Text": "You will look like a disaster to your enemies wearing this outfit.\n\nYou can get it from [Hero Costume Box]>and [Legendary Costume Box].",
+        "English_Text": "This makes your enemies fear you as they would a terrible calamity.\n\nAcquired from [Epic Outfit Chests] and [Legend Outfit Chests].",
         "Russian_Text": "",
         "Chinese_Text": "穿上这件衣服的你对敌人来说就像是一场灾害.\n\n可以从[英雄服装箱子]，[传说服装箱子]中获得."
     },
     "91201079": {
         "Dev_Desc": "초열의 아수라",
         "Original_Text": "뜨겁게 타오르는 수라의 염원을 담은 의상입니다.\\n\\n[전설 의상 상자]에서 획득할 수 있습니다.",
-        "English_Text": "This costume contains the wishes of the burning Sura.\n\nYou can get it from the [Legendary Costume Box].",
+        "English_Text": "This outfit is imbued with the Sura's blazing desire.\n\nAcquired from [Legend Outfit Chests].",
         "Russian_Text": "",
         "Chinese_Text": "燃烧的修罗愿望服装.\n\n[传说服装箱子]中获得."
     },
     "91201080": {
         "Dev_Desc": "진혼의 노래",
         "Original_Text": "한 곡의 노래로 넋을 달래어 보세요\\n\\n[전설 의상 상자]에서 획득할 수 있습니다.",
-        "English_Text": "Peace your soul with a single song\n\nYou can get it from [Legendary Costume Box].",
+        "English_Text": "Pay tribute to those who passed away with a song.\n\nAcquired from [Legend Outfit Chests].",
         "Russian_Text": "",
         "Chinese_Text": "请用一首歌抚慰灵魂\n\n[传说服装箱子]中获得."
     },
     "91201081": {
         "Dev_Desc": "하얀 노을",
         "Original_Text": "신비한 주술의 힘으로 하얗게 채색된 의상입니다.\\n\\n[전설 의상 상자]에서 획득할 수 있습니다.",
-        "English_Text": "This is a white-colored costume with the power of mysterious magic.\n\nYou can get it from the [Legendary Costume Box].",
+        "English_Text": "This outfit has been infused with the color white thanks to the power of a mystical spell.\n\nAcquired from [Legend Outfit Chests].",
         "Russian_Text": "",
         "Chinese_Text": "神秘咒术之力变白的服装.\n\n[传说服装箱子]中获得."
     },
     "91201082": {
         "Dev_Desc": "새벽의 만월",
         "Original_Text": "만물을 비추는 달의 형상을 담은 의상입니다.\\n\\n[영웅 의상 상자], [전설 의상 상자]에서 획득할 수 있습니다.",
-        "English_Text": "A costume containing the image of the moon that illuminates all things.\n\nYou can obtain it from [Hero Costume Box]>and [Legendary Costume Box].",
+        "English_Text": "This outfit symbolizes the moon which shines its light across the universe.\n\nAcquired from [Epic Outfit Chests] and [Legend Outfit Chests].",
         "Russian_Text": "",
         "Chinese_Text": "照亮万物的月亮形象的服装.\n\n[英雄服装箱子]，[传说服装箱子]中获得."
     },
     "91201083": {
         "Dev_Desc": "백야의 안식",
         "Original_Text": "세상을 따뜻하게 어루만지던 어떤 존재의 마음이 담긴 옷입니다.\\n\\n[희귀 의상 상자], [영웅 의상 상자]에서 획득할 수 있습니다.",
-        "English_Text": "A garment with the heart of a being who warmed the world.\n\nYou can obtain it from [Rare Costume Box]>and [Hero Costume Box].",
+        "English_Text": "This outfit represents one's wish to embrace the world with a warm heart.\n\nAcquired from [Rare Outfit Chests] and [Epic Outfit Chests].",
         "Russian_Text": "",
         "Chinese_Text": "温暖抚慰世界的某种存在之心的衣服.\n\n[稀有服装箱子]，[英雄服装箱子]中获得."
     },
     "91201084": {
         "Dev_Desc": "북극의 사냥꾼",
         "Original_Text": "날렵한 사냥꾼을 위한 의상입니다.\\n\\n[희귀 의상 상자], [영웅 의상 상자]에서 획득할 수 있습니다.",
-        "English_Text": "A costume for agile hunters.\n\nCan be obtained from [Rare Costume Box]>and [Hero Costume Box].",
+        "English_Text": "This outfit is perfect for a swift hunter.\n\nAcquired from [Rare Outfit Chests] and [Epic Outfit Chests].",
         "Russian_Text": "",
         "Chinese_Text": "敏捷猎人的服装.\n\n[稀有服装箱子]，[英雄服装箱子]中获得."
     },
     "91201085": {
         "Dev_Desc": "잊혀진 약속",
         "Original_Text": "누군가에겐 잊혀졌다고 하더라도 누군가는 기억하고 있을지도 모릅니다.\\n\\n[전설 의상 상자]에서 획득할 수 있습니다.",
-        "English_Text": "Even if it is forgotten by someone, someone may remember it.\n\nYou can obtain it from [Legendary Costume Box].",
+        "English_Text": "One might be a memory long gone to some, but an ever-lasting memory to another.\n\nAcquired from [Legend Outfit Chests].",
         "Russian_Text": "",
         "Chinese_Text": "即使被人遗忘，也有人可能还记得.\n\n可以在[传说服装箱子]中获得."
     },
     "91201086": {
         "Dev_Desc": "자신감",
         "Original_Text": "진정한 강자의 품격은 복식에 구애받지 않습니다.\\n\\n[상급 의상 상자], [희귀 의상 상자]에서 획득할 수 있습니다.",
-        "English_Text": "The dignity of a true strongman does not depend on clothing.\n\nCan be obtained from [Advanced Costume Box]>and [Rare Costume Box].",
+        "English_Text": "The dignity of those who are truly strong is not inhibited by their attire.\n\nAcquired from [Greater Outfit Chests] and [Rare Outfit Chests].",
         "Russian_Text": "",
         "Chinese_Text": "真正强者的品格不受服饰的拘束.\n\n[上级服装箱子]，[稀有服装箱子]中获得."
     },
     "91201087": {
         "Dev_Desc": "붉은 보름달",
         "Original_Text": "추석을 맞은 마음을 표현한 의상입니다.",
-        "English_Text": "This is a costume that expresses the feeling of Chuseok.",
+        "English_Text": "This outfit represents that we are ready for Chuseok, a day of celebration in Korea.",
         "Russian_Text": "",
         "Chinese_Text": "这是一种表达在Chuseok的心脏的服装。"
     },
     "91201088": {
         "Dev_Desc": "풀빛 보름달",
         "Original_Text": "추석을 맞은 마음을 표현한 의상입니다.",
-        "English_Text": "This is a costume that expresses the feeling of Chuseok.",
+        "English_Text": "This outfit represents that we are ready for Chuseok, a day of celebration in Korea.",
         "Russian_Text": "",
         "Chinese_Text": "这是一种表达在Chuseok的心脏的服装。"
     },
     "91201089": {
         "Dev_Desc": "푸른 보름달",
         "Original_Text": "추석을 맞은 마음을 표현한 의상입니다.",
-        "English_Text": "This is a costume that expresses the feeling of Chuseok.",
+        "English_Text": "This outfit represents that we are ready for Chuseok, a day of celebration in Korea.",
         "Russian_Text": "",
         "Chinese_Text": "这是一种表达在Chuseok的心脏的服装。"
     },
     "91201090": {
         "Dev_Desc": "노란 보름달",
         "Original_Text": "추석을 맞은 마음을 표현한 의상입니다.",
-        "English_Text": "This is a costume that expresses the feeling of Chuseok.",
+        "English_Text": "This outfit represents that we are ready for Chuseok, a day of celebration in Korea.",
         "Russian_Text": "",
         "Chinese_Text": "这是一种表达在Chuseok的心脏的服装。"
     },
@@ -1189,28 +585,28 @@
     },
     "91201095": {
         "Dev_Desc": "붉은 니트",
-        "Original_Text": "어디에서도 온기를 제공해 줄 소중한 아이템입니다.",
+        "Original_Text": "어디에서도 온기를 제공해 줄 소중한 의상입니다.",
         "English_Text": "It is a precious item that will provide warmth anywhere.",
         "Russian_Text": "",
         "Chinese_Text": "“它是一种珍贵的物品，可以在任何地方提供温暖。”"
     },
     "91201096": {
         "Dev_Desc": "풀빛 니트",
-        "Original_Text": "어디에서도 온기를 제공해 줄 소중한 아이템입니다.",
+        "Original_Text": "어디에서도 온기를 제공해 줄 소중한 의상입니다.",
         "English_Text": "It is a precious item that will provide warmth anywhere.",
         "Russian_Text": "",
         "Chinese_Text": "“它是一种珍贵的物品，可以在任何地方提供温暖。”"
     },
     "91201097": {
         "Dev_Desc": "푸른 니트",
-        "Original_Text": "어디에서도 온기를 제공해 줄 소중한 아이템입니다.",
+        "Original_Text": "어디에서도 온기를 제공해 줄 소중한 의상입니다.",
         "English_Text": "It is a precious item that will provide warmth anywhere.",
         "Russian_Text": "",
         "Chinese_Text": "“它是一种珍贵的物品，可以在任何地方提供温暖。”"
     },
     "91201098": {
         "Dev_Desc": "노란 니트",
-        "Original_Text": "어디에서도 온기를 제공해 줄 소중한 아이템입니다.",
+        "Original_Text": "어디에서도 온기를 제공해 줄 소중한 의상입니다.",
         "English_Text": "It is a precious item that will provide warmth anywhere.",
         "Russian_Text": "",
         "Chinese_Text": "“它是一种珍贵的物品，可以在任何地方提供温暖。”"
@@ -1246,7 +642,7 @@
     "91201103": {
         "Dev_Desc": "천년의 서약",
         "Original_Text": "천년의 약속이 담긴 의상입니다.",
-        "English_Text": "A costume with a thousand-year promise.",
+        "English_Text": "'The scent of a flower spreading far and wide across strong winds'\n\nThis outfit represents nobility which endures despite a thousand hardships and ten million agonies.",
         "Russian_Text": "",
         "Chinese_Text": "“有着千年承诺的服装。”"
     },
@@ -1267,7 +663,7 @@
     "91201106": {
         "Dev_Desc": "여름 바람",
         "Original_Text": "한 여름에 불어오는 바람과 같은 당신을 위한 의상입니다.",
-        "English_Text": "It's like the wind that blows in midsummer, a costume for you.",
+        "English_Text": "'What truly matters is intangible'\n\nThis outfit is for those who conjure up images of a fresh breeze on a hot summer day.",
         "Russian_Text": "",
         "Chinese_Text": "“就像盛夏吹来的风，这是给你的戏服。”"
     },
@@ -1281,7 +677,7 @@
     "91201108": {
         "Dev_Desc": "별의 시간",
         "Original_Text": "반짝이는 저 하늘의 별처럼 빛나는 당신을 위한 의상입니다.",
-        "English_Text": "This is a costume for you who shines like the twinkling stars in the sky.",
+        "English_Text": "'Stars twinkle in the reflection of your eyes'\n\nThis outfit is for those who glow like a blue flash piercing through the darkness.",
         "Russian_Text": "",
         "Chinese_Text": "“这是给你的装束，就像天上闪烁的星星一样闪耀。”"
     },
@@ -1302,7 +698,7 @@
     "91201111": {
         "Dev_Desc": "영광의 날개",
         "Original_Text": "빛나는 영광을 벼려낸 의상입니다.",
-        "English_Text": "A garment forged in radiant glory.",
+        "English_Text": "'The greatest glory comes when standing firm despite hardships'\n\nThis outfit is perfect for someone who conjures up an image of the bright sun high in the sky.",
         "Russian_Text": "",
         "Chinese_Text": "“一件在光辉中锻造的衣服。”"
     },
@@ -1316,7 +712,7 @@
     "91201113": {
         "Dev_Desc": "고귀한 의무",
         "Original_Text": "고귀한 자에게는 고귀한 의무가 뒤따르는 법입니다.",
-        "English_Text": "A noble duty follows a noble man.",
+        "English_Text": "'A noble man neither abandons their responsibility nor passes it onto others'\n\nThe color represents a river that flows steadfast, which perfectly aligns with your nobleness.",
         "Russian_Text": "",
         "Chinese_Text": "“高尚的责任伴随着高尚的人。”"
     },
@@ -1330,7 +726,7 @@
     "91201115": {
         "Dev_Desc": "백야의 귀도사",
         "Original_Text": "하얀 밤 속을 홀로 헤쳐나온 한 귀도사의 의상입니다.",
-        "English_Text": "This is the costume of a Guidosa who made it through the white night alone.",
+        "English_Text": "'Courage means standing up against your fears'\n\nThis is a Ghost Mage's outfit who fled alone through a white night.",
         "Russian_Text": "",
         "Chinese_Text": "“这是一个独自熬过白夜的圭多萨的装束。”"
     },
@@ -1475,29 +871,29 @@
         "Chinese_Text": "林仁年，接受老虎的能量，振作起来吧~！\\n新年快乐。"
     },
     "91201136": {
-        "Dev_Desc": "장난스런 호랑이",
-        "Original_Text": "임인년, 호랑이 기운 받고 힘내세요~!\\n새해 복 많이 받으세요.",
+        "Dev_Desc": "달콤한 하루",
+        "Original_Text": "사랑하는 사람에게 마음을 전하는 행복한 밸런타인입니다.",
         "English_Text": "Lim In-nyeon, receive the tiger's energy and cheer up~! \\nHappy New Year.",
         "Russian_Text": "",
         "Chinese_Text": "林仁年，接受老虎的能量，振作起来吧~！\\n新年快乐。"
     },
     "91201137": {
         "Dev_Desc": "쌉쌀한 하루",
-        "Original_Text": "사랑하는 사람에게 마음을 전하는 행복한 발렌타인입니다.",
+        "Original_Text": "사랑하는 사람에게 마음을 전하는 행복한 밸런타인입니다.",
         "English_Text": "Happy Valentine to convey heart to loving people.",
         "Russian_Text": "",
         "Chinese_Text": "愉快的华伦泰传达给爱的人。"
     },
     "91201138": {
         "Dev_Desc": "사랑스러운 하루",
-        "Original_Text": "사랑하는 사람에게 마음을 전하는 행복한 발렌타인입니다.",
+        "Original_Text": "사랑하는 사람에게 마음을 전하는 행복한 밸런타인입니다.",
         "English_Text": "Happy Valentine to convey heart to loving people.",
         "Russian_Text": "",
         "Chinese_Text": "愉快的华伦泰传达给爱的人。"
     },
     "91201139": {
         "Dev_Desc": "즐거운 하루",
-        "Original_Text": "사랑하는 사람에게 마음을 전하는 행복한 발렌타인입니다.",
+        "Original_Text": "사랑하는 사람에게 마음을 전하는 행복한 밸런타인입니다.",
         "English_Text": "Happy Valentine to convey heart to loving people.",
         "Russian_Text": "",
         "Chinese_Text": "愉快的华伦泰传达给爱的人。"
@@ -1648,5 +1044,12 @@
         "English_Text": "It is a bright costume that matches the spring and heard.",
         "Russian_Text": "",
         "Chinese_Text": "这是一种匹配春天和听到的明亮服装。"
+    },
+    "91201161": {
+        "Dev_Desc": "적금",
+        "Original_Text": "적금 설명 텍스트 (차후 이름 결정시 설명 텍스트 포함 작업 진행.)",
+        "English_Text": "Due to Table Description Text (Include Text in Text When Destination Name Determination.)",
+        "Russian_Text": "",
+        "Chinese_Text": "由于表格描述文本（在目标名称确定时包含文本中的文本。）"
     }
 }

@@ -8039,5 +8039,40 @@
         "id": 9001212,
         "alias": "SysM.Guild.Dissolution.JoinUnite",
         "text": "연합에 가입된 문파는 해산할 수 없습니다."
+    },
+    "9001213": {
+        "deprecated": false,
+        "Dev_Desc": "문파 시스템 / 적대 / 추가 / 소속 연합",
+        "id": 9001213,
+        "alias": "SysM.Guild.GuildEnemy.Add.SendMyUnite",
+        "text": "자신이 가입한 연합은 적대에 추가할 수 없습니다."
+    },
+    "9001214": {
+        "deprecated": false,
+        "Dev_Desc": "문파 시스템 / 동맹 / 요청 / 소속 연합",
+        "id": 9001214,
+        "alias": "SysM.Guild.GuildAlliance.Add.SendMyUnite",
+        "text": "자신이 가입한 연합은 동맹에 추가할 수 없습니다."
+    },
+    "9001215": {
+        "deprecated": false,
+        "Dev_Desc": "문파 시스템 / 적대 / 추가 / 소속 연합의 소속 문파",
+        "id": 9001215,
+        "alias": "SysM.Guild.GuildEnemy.Add.SendMyUniteMember",
+        "text": "<arg p=[1:string]/><eun/> 연합의 소속 문파로 적대에 추가할 수 없습니다."
+    },
+    "9001216": {
+        "deprecated": false,
+        "Dev_Desc": "문파 시스템 / 동맹 / 요청 / 소속 연합의 소속 문파",
+        "id": 9001216,
+        "alias": "SysM.Guild.GuildAlliance.Add.SendMyUniteMember",
+        "text": "<arg p=[1:string]/><eun/> 연합의 소속 문파로 동맹에 추가할 수 없습니다."
+    },
+    "9001217": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 상자 / 재련중단 시 토스트 메시지",
+        "id": 9001217,
+        "alias": "SysM.YaruBox.MsgT.AlarmHalt",
+        "text": "진행 중인 재련 완료 후 재련이 중지됩니다."
     }
 }

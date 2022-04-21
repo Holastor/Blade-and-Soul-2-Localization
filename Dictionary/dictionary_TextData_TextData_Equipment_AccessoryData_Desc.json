@@ -602,14 +602,14 @@
     "95000127": {
         "Dev_Desc": "명왕 목걸이",
         "Original_Text": "+3부터 생명력 증가율 추가 상승<br/>+6부터 모든 호신 추가 상승 ",
-        "English_Text": "Increases HP Rate from +3<br/>Increases All Protection from +6",
+        "English_Text": "Increases HP Rate from +3<br/>Increases All Protection from +6 ",
         "Russian_Text": "",
         "Chinese_Text": "+3开始额外增加生命提升率<br/>+6开始额外增加所有护身"
     },
     "95000128": {
         "Dev_Desc": "환영 귀걸이",
         "Original_Text": "+3부터 치명타 추가 피해 추가 상승<br/>+6부터 공격력 증가율 추가 상승 ",
-        "English_Text": "Increases Extra Critical Damage from +3<br/>Increases Attack Rate from +6",
+        "English_Text": "Increases Extra Critical Damage from +3<br/>Increases Attack Rate from +6 ",
         "Russian_Text": "",
         "Chinese_Text": "+3开始额外增加暴击额外伤害<br/>+6开始额外增加攻击力提升率"
     },
@@ -629,7 +629,7 @@
     "95000132": {
         "Dev_Desc": "혼세 반지",
         "Original_Text": "+3부터 치명방어율 추가 상승<br/>+6부터 스킬 피해 증폭 추가 상승 ",
-        "English_Text": "Increases Critical Defense Rate from +3<br/>Increases Amplified Technique Damage from +6",
+        "English_Text": "Increases Critical Defense Rate from +3<br/>Increases Amplified Technique Damage from +6 ",
         "Russian_Text": "",
         "Chinese_Text": "+3开始额外增加暴击防御率<br/>+6开始额外增加技能伤害增幅"
     },
@@ -1358,28 +1358,28 @@
     "95301002": {
         "Dev_Desc": "백화의 불꽃 / BM",
         "Original_Text": "+1부터 공격력 추가 상승\\n+3부터 치명률 추가 상승\\n+5부터 무공 공격 증폭 추가 상승\\n+7부터 소울 발동률 추가 상승",
-        "English_Text": "Bonus Attack from +3\nBonus Soul Chance from +5\nBonus Amplified Technique Damage from +6",
+        "English_Text": "Bonus Attack from +3\nBonus Critical Rate from +5\nBonus Amplified Technique Damage from +6",
         "Russian_Text": "",
         "Chinese_Text": "+3强～：每次强化时所有攻击力提升1\n+5强～：每次强化时灵魂发动率提升0.5%\n+6强～：每次强化时武功伤害增幅率提升0.5%"
     },
     "95304001": {
         "Dev_Desc": "질풍의 진노 / BM",
         "Original_Text": "+1부터 무기 공격력 추가 상승\\n+3부터 통제 적중률 추가 상승\\n+5부터 기본 공격 속도 추가 상승\\n+7부터 방어 무시 공격력 추가 상승",
-        "English_Text": "Bonus Accuracy from +3\nBonus CC Accuracy from +5\nBonus Attack Speed from +6",
+        "English_Text": "Bonus Weapon Attack from +3\nBonus CC Accuracy from +5\nBonus Normal Attack Speed from +6",
         "Russian_Text": "",
         "Chinese_Text": "+3强～：每次强化时所有命中提升1\n+5强～：每次强化时控制命中率提升0.5%\n+6强～：每次强化时攻击速度提升0.5%"
     },
     "95304002": {
         "Dev_Desc": "타락의 속삭임 / BM",
         "Original_Text": "+1부터 방어력 추가 상승\\n+3부터 무공 피해 내성 추가 상승\\n+5부터 통제 저항률 추가 상승\\n+7부터 치명 저항률 추가 상승",
-        "English_Text": "Bonus Defense from +3\nBonus Technique Resist from +5\nBonus CC Resist from +6",
+        "English_Text": "Bonus Defense from +3\nBonus Technique Damage Resist from +5\nBonus CC Resist from +6",
         "Russian_Text": "",
         "Chinese_Text": "+3强～：每次强化时所有防御力提升1\n+5强～：每次强化时武功伤害抵抗率提升0.5%\n+6强～：每次强化时控制抵抗率提升1%"
     },
     "95307001": {
         "Dev_Desc": "묵화의 인장 / SubType / BM",
         "Original_Text": "강화 시 물약 회복량이 1씩 증가하며, 물약회복률이 2%씩 증가\\n\\n+3부터 회피 추가 상승 \\n+5부터 치명 저항률 추가 상승",
-        "English_Text": "Potion Recovery +1 and Potion Recovery Rate +2% at every Enhance\n\nBonus Evasion from +3\nBonus CC from +5",
+        "English_Text": "HP Tonic Boost +1 and HP Tonic Rate +2% at every Enhance\n\nBonus Evasion from +3\nBonus Critical Resist from +5",
         "Russian_Text": "",
         "Chinese_Text": "每次强化时药水恢复量提升1，药水恢复率提升2%\n+3强～：每次强化时闪避提升1\n+5强～：每次强化时暴击率提升1%"
     },
@@ -1518,42 +1518,42 @@
     "95201001": {
         "Dev_Desc": "조개 귀걸이(각인)",
         "Original_Text": "[협행], [각인 장비함]에서 획득할 수 있습니다.",
-        "English_Text": "Can be obtained from [Collaboration], [Imprinted Equipment Box].",
+        "English_Text": "Acquired by completing [Chivalry Quests] or opening [Bound Gear Chests].",
         "Russian_Text": "",
         "Chinese_Text": "[협행], [각인 장비함]에서 획득할 수 있습니다."
     },
     "95201002": {
         "Dev_Desc": "청동 귀걸이(각인)",
         "Original_Text": "[제작]으로 획득할 수 있습니다.",
-        "English_Text": "Can be obtained by [Crafting].",
+        "English_Text": "Acquired through the [Craft] function.",
         "Russian_Text": "",
         "Chinese_Text": "[제작]으로 획득할 수 있습니다."
     },
     "95201003": {
         "Dev_Desc": "석영 귀걸이(각인)",
         "Original_Text": "[각인 장비함]에서 획득할 수 있습니다.",
-        "English_Text": "Can be obtained from [Imprinted Equipment Box].",
+        "English_Text": "Acquired by opening [Bound Gear Chests].",
         "Russian_Text": "",
         "Chinese_Text": "[각인 장비함]에서 획득할 수 있습니다."
     },
     "95201201": {
         "Dev_Desc": "홍옥 귀걸이(각인)",
         "Original_Text": "[협행]에서 획득할 수 있습니다.",
-        "English_Text": "Can be obtained from [Collaboration].",
+        "English_Text": "Acquired by completing [Chivalry Quests].",
         "Russian_Text": "",
         "Chinese_Text": "[협행]에서 획득할 수 있습니다."
     },
     "95201202": {
         "Dev_Desc": "인어의 귀걸이(각인)",
         "Original_Text": "[각인 장비함] 또는 [제작]으로 획득할 수 있습니다.",
-        "English_Text": "Can be obtained through [Imprinted Equipment]>or [Crafting].",
+        "English_Text": "Acquired through the [Craft] function or opening [Bound Gear Chests].",
         "Russian_Text": "",
         "Chinese_Text": "[각인 장비함] 또는 [제작]으로 획득할 수 있습니다."
     },
     "95201203": {
         "Dev_Desc": "은 세공 귀걸이(각인)",
         "Original_Text": "[각인 장비함] 또는 [제작]으로 획득할 수 있습니다.",
-        "English_Text": "Can be obtained through [Imprinted Equipment]>or [Crafting].",
+        "English_Text": "Acquired through the [Craft] function or opening [Bound Gear Chests].",
         "Russian_Text": "",
         "Chinese_Text": "[각인 장비함] 또는 [제작]으로 획득할 수 있습니다."
     },
@@ -1563,7 +1563,7 @@
     "95201401": {
         "Dev_Desc": "억압의 귀걸이(각인)",
         "Original_Text": "[협행], [제작]으로 획득할 수 있습니다.",
-        "English_Text": "Can be obtained through [Collaboration]>or [Crafting].",
+        "English_Text": "Acquired through [Chivalry Quests] or [Craft].",
         "Russian_Text": "",
         "Chinese_Text": "[협행], [제작]으로 획득할 수 있습니다."
     },
@@ -1576,7 +1576,7 @@
     "95202001": {
         "Dev_Desc": "도토리 목걸이(각인)",
         "Original_Text": "[협행]에서 획득할 수 있습니다.",
-        "English_Text": "Can be obtained from [Collaboration].",
+        "English_Text": "Acquired by completing [Chivalry Quests].",
         "Russian_Text": "",
         "Chinese_Text": "[협행]에서 획득할 수 있습니다."
     },
@@ -1586,21 +1586,21 @@
     "95202003": {
         "Dev_Desc": "청동 장식 목걸이(각인)",
         "Original_Text": "[각인 장비함]에서 획득할 수 있습니다.",
-        "English_Text": "Can be obtained from [Imprinted Equipment].",
+        "English_Text": "Acquired by opening [Bound Gear Chests].",
         "Russian_Text": "",
         "Chinese_Text": "[각인 장비함]에서 획득할 수 있습니다."
     },
     "95202004": {
         "Dev_Desc": "황동 장식 목걸이(각인)",
         "Original_Text": "[제작]으로 획득할 수 있습니다.",
-        "English_Text": "Can be obtained by [Crafting].",
+        "English_Text": "Acquired through the [Craft] function.",
         "Russian_Text": "",
         "Chinese_Text": "[제작]으로 획득할 수 있습니다."
     },
     "95202005": {
         "Dev_Desc": "무명 병사의 인식표(각인)",
         "Original_Text": "[각인 장비함]에서 획득할 수 있습니다.",
-        "English_Text": "Can be obtained from [Imprinted Equipment Box].",
+        "English_Text": "Acquired by opening [Bound Gear Chests].",
         "Russian_Text": "",
         "Chinese_Text": "[각인 장비함]에서 획득할 수 있습니다."
     },
@@ -1610,21 +1610,21 @@
     "95202201": {
         "Dev_Desc": "은 새김 목걸이(각인)",
         "Original_Text": "[협행]에서 획득할 수 있습니다.",
-        "English_Text": "Can be obtained from [Collaboration].",
+        "English_Text": "Acquired by completing [Chivalry Quests].",
         "Russian_Text": "",
         "Chinese_Text": "[협행]에서 획득할 수 있습니다."
     },
     "95202202": {
         "Dev_Desc": "백금 문양 목걸이(각인)",
         "Original_Text": "[제작]으로 획득할 수 있습니다.",
-        "English_Text": "Can be obtained by [Crafting].",
+        "English_Text": "Acquired through the [Craft] function.",
         "Russian_Text": "",
         "Chinese_Text": "[제작]으로 획득할 수 있습니다."
     },
     "95202203": {
         "Dev_Desc": "곡옥 달린 금 목걸이(각인)",
         "Original_Text": "[각인 장비함] 또는 [제작]으로 획득할 수 있습니다.",
-        "English_Text": "Can be obtained from [Imprinted Equipment]>or [Crafted].",
+        "English_Text": "Acquired through the [Craft] function or opening [Bound Gear Chests].",
         "Russian_Text": "",
         "Chinese_Text": "[각인 장비함] 또는 [제작]으로 획득할 수 있습니다."
     },
@@ -1634,14 +1634,14 @@
     "95202205": {
         "Dev_Desc": "청인의 목걸이(각인)",
         "Original_Text": "[각인 장비함]에서 획득할 수 있습니다.",
-        "English_Text": "Can be obtained from [Imprinted Equipment].",
+        "English_Text": "Acquired by opening [Bound Gear Chests].",
         "Russian_Text": "",
         "Chinese_Text": "[각인 장비함]에서 획득할 수 있습니다."
     },
     "95202206": {
         "Dev_Desc": "검투사의 목걸이(각인)",
         "Original_Text": "[제작]으로 획득할 수 있습니다.",
-        "English_Text": "Can be obtained by [Crafting].",
+        "English_Text": "Acquired through the [Craft] function.",
         "Russian_Text": "",
         "Chinese_Text": "[제작]으로 획득할 수 있습니다."
     },
@@ -1654,21 +1654,21 @@
     "95202401": {
         "Dev_Desc": "정심의 수주(각인)",
         "Original_Text": "[협행]에서 획득할 수 있습니다.",
-        "English_Text": "Can be obtained from [Collaboration].",
+        "English_Text": "Acquired by completing [Chivalry Quests].",
         "Russian_Text": "",
         "Chinese_Text": "[협행]에서 획득할 수 있습니다."
     },
     "95202402": {
         "Dev_Desc": "붉은 달빛의 목걸이(각인)",
         "Original_Text": "[제작]으로 획득할 수 있습니다.",
-        "English_Text": "Can be obtained by [Crafting].",
+        "English_Text": "Acquired through the [Craft] function.",
         "Russian_Text": "",
         "Chinese_Text": "[제작]으로 획득할 수 있습니다."
     },
     "95202403": {
         "Dev_Desc": "대해의 생명(각인)",
         "Original_Text": "[각인 장비함]에서 획득할 수 있습니다.",
-        "English_Text": "Can be obtained from [Imprinted Equipment].",
+        "English_Text": "Acquired by opening [Bound Gear Chests].",
         "Russian_Text": "",
         "Chinese_Text": "[각인 장비함]에서 획득할 수 있습니다."
     },
@@ -1684,21 +1684,21 @@
     "95203001": {
         "Dev_Desc": "꽃잎 반지(각인)",
         "Original_Text": "[협행]에서 획득할 수 있습니다.",
-        "English_Text": "Can be obtained from [Collaboration].\n\nAdditional increase in wood property damage resistance when +3 strengthening\nAdditional increase in wood damage resistance when strengthening +5\n+7 wood damage resistance when strengthening additional rise",
+        "English_Text": "Acquired by completing [Chivalry Quests].\n\nBonus Wood Damage Resist from +3\nBonus Wood Damage Resist from +5\nBonus Wood Damage Resist from +7",
         "Russian_Text": "",
         "Chinese_Text": "[협행]에서 획득할 수 있습니다."
     },
     "95203002": {
         "Dev_Desc": "산호 반지(각인)",
         "Original_Text": "[제작]으로 획득할 수 있습니다.",
-        "English_Text": "Can be obtained through [Crafting].\n\n+3 additional increase in fire damage resistance when enhanced\n+5 additional increase in fire damage resistance when enhanced\n+7 additional increase in fire damage resistance when enhanced additional rise",
+        "English_Text": "Acquired through the [Craft] function.\n\nBonus Fire Damage Resist from +3\nBonus Fire Damage Resist from +5\nBonus Fire Damage Resist from +7",
         "Russian_Text": "",
         "Chinese_Text": "[제작]으로 획득할 수 있습니다."
     },
     "95203003": {
         "Dev_Desc": "상아 반지(각인)",
         "Original_Text": "[각인 장비함]에서 획득할 수 있습니다.",
-        "English_Text": "Can be obtained from [Engraving Equipment Box].",
+        "English_Text": "Acquired through [Bound Gear Chests].\n\nBonus Water Damage Resist from +3\nBonus Water Damage Resist from +5\nBonus Water Damage Resist from +7",
         "Russian_Text": "",
         "Chinese_Text": "[각인 장비함]에서 획득할 수 있습니다."
     },
@@ -1708,7 +1708,7 @@
     "95203005": {
         "Dev_Desc": "은 반지(각인)",
         "Original_Text": "[각인 장비함]에서 획득할 수 있습니다.",
-        "English_Text": "Can be obtained from [Imprinted Equipment Box].\n\nAdditional increase in brain damage resistance when +3 enhancement\nAdditional increase in brain damage resistance when +5 enhancement\n+7 enhancement in brain property Additional increase in damage resistance",
+        "English_Text": "Acquired through [Bound Gear Chests].\n\nBonus Lightning Damage Resist from +3\nBonus Lightning Damage Resist from +5\nBonus Lightning Damage Resist from +7",
         "Russian_Text": "",
         "Chinese_Text": "[각인 장비함]에서 획득할 수 있습니다."
     },
@@ -1718,7 +1718,7 @@
     "95203201": {
         "Dev_Desc": "진주 반지(각인)",
         "Original_Text": "[협행]에서 획득할 수 있습니다.",
-        "English_Text": "Can be obtained from [Collaboration].\n\nAdditional increase in wind property damage resistance when +3 strengthening\nAdditional increase in wind damage resistance when +5 enhancement\n+7 wind damage resistance when strengthening additional rise",
+        "English_Text": "Acquired by completing [Chivalry Quests].\n\nBonus Wind Damage Resist from +3\nBonus Wind Damage Resist from +5\nBonus Wind Damage Resist from +7",
         "Russian_Text": "",
         "Chinese_Text": "[협행]에서 획득할 수 있습니다."
     },
@@ -1728,7 +1728,7 @@
     "95203203": {
         "Dev_Desc": "흑옥 반지(각인)",
         "Original_Text": "[각인 장비함] 또는 [제작]으로 획득할 수 있습니다.",
-        "English_Text": "Can be obtained from [Engraving Equipment]>or [Crafting].",
+        "English_Text": "Acquired through the [Craft] function or opening [Bound Gear Chests].",
         "Russian_Text": "",
         "Chinese_Text": "[각인 장비함] 또는 [제작]으로 획득할 수 있습니다."
     },
@@ -1741,7 +1741,7 @@
     "95203206": {
         "Dev_Desc": "순백의 반지(각인)",
         "Original_Text": "[제작]으로 획득할 수 있습니다.",
-        "English_Text": "Can be obtained by [Crafting].",
+        "English_Text": "Acquired through the [Craft] function.",
         "Russian_Text": "",
         "Chinese_Text": "[제작]으로 획득할 수 있습니다."
     },
@@ -1751,14 +1751,14 @@
     "95203208": {
         "Dev_Desc": "청은 반지(각인)",
         "Original_Text": "[각인 장비함]에서 획득할 수 있습니다.",
-        "English_Text": "Can be obtained from [Engraving Equipment Box].\n\nAdditional increase in water property damage resistance when +3 enhancement\n+5 additional increase in water property damage resistance when strengthening\n+7 water property when enhancement Additional increase in damage resistance",
+        "English_Text": "Acquired through [Bound Gear Chests].\n\nBonus Water Damage Resist from +3\nBonus Water Damage Resist from +5\nBonus Water Damage Resist from +7",
         "Russian_Text": "",
         "Chinese_Text": "[각인 장비함]에서 획득할 수 있습니다."
     },
     "95203401": {
         "Dev_Desc": "영혼 인도자의 반지(각인)",
         "Original_Text": "[협행]에서 획득할 수 있습니다.",
-        "English_Text": "Can be obtained from [Collaboration].\n\nAdditional increase in cancer damage resistance when +3 enhancement\nAdditional increase in cancer damage resistance when +5 enhancement\n+7 enhancement in cancer damage resistance additional rise",
+        "English_Text": "Acquired by completing [Chivalry Quests].\n\nBonus Darkness Damage Resist from +3\nBonus Darkness Damage Resist from +5\nBonus Darkness Damage Resist from +7",
         "Russian_Text": "",
         "Chinese_Text": "[협행]에서 획득할 수 있습니다."
     },
@@ -1768,14 +1768,14 @@
     "95203403": {
         "Dev_Desc": "신령의 반지(각인)",
         "Original_Text": "[각인 장비함]에서 획득할 수 있습니다.",
-        "English_Text": "Can be obtained from [Imprinted Equipment Box].",
+        "English_Text": "Acquired by opening [Bound Gear Chests].",
         "Russian_Text": "",
         "Chinese_Text": "[각인 장비함]에서 획득할 수 있습니다."
     },
     "95203404": {
         "Dev_Desc": "언약의 반지(각인)",
         "Original_Text": "[제작]으로 획득할 수 있습니다.",
-        "English_Text": "Can be obtained through [Crafting].\n\nAdditional increase in light damage resistance when +3 enhancement\n+5 additional increase in light damage resistance when strengthening\n+7 increase in light damage resistance when strengthening additional rise",
+        "English_Text": "Acquired through the [Craft] function.\n\nBonus Light Damage Resist from +3\nBonus Light Damage Resist from +5\nBonus Light Damage Resist from +7",
         "Russian_Text": "",
         "Chinese_Text": "[제작]으로 획득할 수 있습니다."
     },
@@ -1788,42 +1788,42 @@
     "95204001": {
         "Dev_Desc": "풀 팔찌(각인)",
         "Original_Text": "[협행], [각인 장비함]에서 획득할 수 있습니다.",
-        "English_Text": "Can be obtained from [Collaboration], [Imprinted Equipment Box].",
+        "English_Text": "Acquired by completing [Chivalry Quests] or opening [Bound Gear Chests].",
         "Russian_Text": "",
         "Chinese_Text": "[협행], [각인 장비함]에서 획득할 수 있습니다."
     },
     "95204002": {
         "Dev_Desc": "구리 팔찌(각인)",
         "Original_Text": "[제작]으로 획득할 수 있습니다.",
-        "English_Text": "Can be obtained by [Crafting].",
+        "English_Text": "Acquired through the [Craft] function.",
         "Russian_Text": "",
         "Chinese_Text": "[제작]으로 획득할 수 있습니다."
     },
     "95204003": {
         "Dev_Desc": "청동 팔찌(각인)",
         "Original_Text": "[각인 장비함]에서 획득할 수 있습니다.",
-        "English_Text": "Can be obtained from [Engraving Box].",
+        "English_Text": "Acquired by opening [Bound Gear Chests].",
         "Russian_Text": "",
         "Chinese_Text": "[각인 장비함]에서 획득할 수 있습니다."
     },
     "95204201": {
         "Dev_Desc": "청옥 팔찌(각인)",
         "Original_Text": "[협행]에서 획득할 수 있습니다.",
-        "English_Text": "Can be obtained from [Collaboration].",
+        "English_Text": "Acquired by completing [Chivalry Quests].",
         "Russian_Text": "",
         "Chinese_Text": "[협행]에서 획득할 수 있습니다."
     },
     "95204202": {
         "Dev_Desc": "벽옥 팔찌(각인)",
         "Original_Text": "[각인 장비함] 또는 [제작]으로 획득할 수 있습니다.",
-        "English_Text": "Can be obtained from [Imprinted Equipment]>or [Crafted].",
+        "English_Text": "Acquired through the [Craft] function or opening [Bound Gear Chests].",
         "Russian_Text": "",
         "Chinese_Text": "[각인 장비함] 또는 [제작]으로 획득할 수 있습니다."
     },
     "95204203": {
         "Dev_Desc": "백은 팔찌(각인)",
         "Original_Text": "[각인 장비함] 또는 [제작]으로 획득할 수 있습니다.",
-        "English_Text": "Can be obtained from [Imprinted Equipment]>or [Crafted].",
+        "English_Text": "Acquired through the [Craft] function or opening [Bound Gear Chests].",
         "Russian_Text": "",
         "Chinese_Text": "[각인 장비함] 또는 [제작]으로 획득할 수 있습니다."
     },
@@ -1833,7 +1833,7 @@
     "95204401": {
         "Dev_Desc": "수호자의 팔찌(각인)",
         "Original_Text": "[협행], [제작]으로 획득할 수 있습니다.",
-        "English_Text": "Can be obtained through [Collaboration]>or [Crafting].",
+        "English_Text": "Acquired through [Chivalry Quests] or [Craft].",
         "Russian_Text": "",
         "Chinese_Text": "[협행], [제작]으로 획득할 수 있습니다."
     },
@@ -1846,21 +1846,21 @@
     "95205001": {
         "Dev_Desc": "홍색 수실 노리개(각인)",
         "Original_Text": "[협행]에서 획득할 수 있습니다.",
-        "English_Text": "Can be obtained from [Collaboration].",
+        "English_Text": "Acquired by completing [Chivalry Quests].",
         "Russian_Text": "",
         "Chinese_Text": "[협행]에서 획득할 수 있습니다."
     },
     "95205002": {
         "Dev_Desc": "청색 수실 노리개(각인)",
         "Original_Text": "[제작]으로 획득할 수 있습니다.",
-        "English_Text": "Can be obtained by [Crafting].",
+        "English_Text": "Acquired through the [Craft] function.",
         "Russian_Text": "",
         "Chinese_Text": "[제작]으로 획득할 수 있습니다."
     },
     "95205003": {
         "Dev_Desc": "녹색 수실 노리개(각인)",
         "Original_Text": "[각인 장비함]에서 획득할 수 있습니다.",
-        "English_Text": "Can be obtained from [Imprinted Equipment].",
+        "English_Text": "Acquired by opening [Bound Gear Chests].",
         "Russian_Text": "",
         "Chinese_Text": "[각인 장비함]에서 획득할 수 있습니다."
     },
@@ -1870,7 +1870,7 @@
     "95205005": {
         "Dev_Desc": "백색 수실 노리개(각인)",
         "Original_Text": "[각인 장비함]에서 획득할 수 있습니다.",
-        "English_Text": "Can be obtained from [Imprinted Equipment].",
+        "English_Text": "Acquired by opening [Bound Gear Chests].",
         "Russian_Text": "",
         "Chinese_Text": "[각인 장비함]에서 획득할 수 있습니다."
     },
@@ -1880,7 +1880,7 @@
     "95205201": {
         "Dev_Desc": "밤색 수실 노리개(각인)",
         "Original_Text": "[협행]에서 획득할 수 있습니다.",
-        "English_Text": "Can be obtained from [Collaboration].",
+        "English_Text": "Acquired by completing [Chivalry Quests].",
         "Russian_Text": "",
         "Chinese_Text": "[협행]에서 획득할 수 있습니다."
     },
@@ -1890,28 +1890,28 @@
     "95205203": {
         "Dev_Desc": "정인의 노리개(각인)",
         "Original_Text": "[각인 장비함]에서 획득할 수 있습니다.",
-        "English_Text": "Can be obtained from [Imprinted Equipment Box].",
+        "English_Text": "Acquired by opening [Bound Gear Chests].",
         "Russian_Text": "",
         "Chinese_Text": "[각인 장비함]에서 획득할 수 있습니다."
     },
     "95205204": {
         "Dev_Desc": "고운 매듭 노리개(각인)",
         "Original_Text": "[제작]으로 획득할 수 있습니다.",
-        "English_Text": "Can be obtained by [Crafting].",
+        "English_Text": "Acquired through the [Craft] function.",
         "Russian_Text": "",
         "Chinese_Text": "[제작]으로 획득할 수 있습니다."
     },
     "95205205": {
         "Dev_Desc": "황색 수실 노리개(각인)",
         "Original_Text": "[각인 장비함]에서 획득할 수 있습니다.",
-        "English_Text": "Can be obtained from [Imprinted Equipment].",
+        "English_Text": "Acquired by opening [Bound Gear Chests].",
         "Russian_Text": "",
         "Chinese_Text": "[각인 장비함]에서 획득할 수 있습니다."
     },
     "95205206": {
         "Dev_Desc": "옥 문양 노리개(각인)",
         "Original_Text": "[제작]으로 획득할 수 있습니다.",
-        "English_Text": "Can be obtained by [Crafting].",
+        "English_Text": "Acquired through the [Craft] function.",
         "Russian_Text": "",
         "Chinese_Text": "[제작]으로 획득할 수 있습니다."
     },
@@ -1924,14 +1924,14 @@
     "95205401": {
         "Dev_Desc": "노을 빛의 노리개(각인)",
         "Original_Text": "[협행]에서 획득할 수 있습니다.",
-        "English_Text": "Can be obtained from [Collaboration].",
+        "English_Text": "Acquired by completing [Chivalry Quests].",
         "Russian_Text": "",
         "Chinese_Text": "[협행]에서 획득할 수 있습니다."
     },
     "95205402": {
         "Dev_Desc": "환희의 노리개(각인)",
         "Original_Text": "[각인 장비함], [제작]으로 획득할 수 있습니다.",
-        "English_Text": "Can be obtained by [Crafting]>in [Imprinted Equipment].",
+        "English_Text": "Acquired through the [Craft] function or opening [Bound Gear Chests].",
         "Russian_Text": "",
         "Chinese_Text": "[각인 장비함], [제작]으로 획득할 수 있습니다."
     },
@@ -1942,7 +1942,7 @@
         "Dev_Desc": "추모의 노리개(각인)"
     },
     "95205601": {
-        "Dev_Desc": "잊혀진 연인의 노리개(각인)"
+        "Dev_Desc": "연인의 노리개(각인)"
     },
     "95205602": {
         "Dev_Desc": "별빛의 방울(각인)"
@@ -2170,12 +2170,6 @@
     "95206448": {
         "Dev_Desc": "번뇌의 노리개(각인)"
     },
-    "95206449": {
-        "Dev_Desc": "잊혀진 홍옥 귀걸이"
-    },
-    "95206450": {
-        "Dev_Desc": "패왕의 귀걸이"
-    },
     "95206451": {
         "Dev_Desc": "살귀의 낙인"
     },
@@ -2236,25 +2230,25 @@
     "95206466": {
         "Dev_Desc": "축제의 증표"
     },
-    "95106601": {
+    "95106603": {
         "Dev_Desc": "잊혀진 영웅의 영혼석",
-        "Original_Text": "+3 강화 시 소울 발동률 추가\\n+5 강화 시 소울 발동률 추가 상승\\n+6 강화 시 소울 발동률 추가 상승",
-        "English_Text": "Additional Soul Activation Rate when reinforced by 3\\n Additional increase in Soul Activation Rate when reinforced by 5\\n Additional increase in Soul Activation Rate when reinforced by 6",
+        "Original_Text": "+3 강화 시 소울 발동률 추가 상승\\n+5 강화 시 소울 발동률 추가 상승\\n+6 강화 시 소울 발동률 추가 상승",
+        "English_Text": "3 Add Soul Navigation Rate in Reinforcement \\n 5 Additional SOOLT SOOLDING RACK ARTROVATION \\n 6 Additional Soles Rate",
         "Russian_Text": "",
-        "Chinese_Text": "强化3时额外灵魂激活率\\n强化5时额外增加灵魂激活率\\n强化6时额外增加灵魂激活率"
+        "Chinese_Text": "3加入钢筋的灵魂导航率\\n 5额外的卸塞升降机架rtrovation \\n 6其他鞋底速率"
     },
     "95105603": {
         "Dev_Desc": "잊혀진 영웅의 노리개"
     },
-    "95206601": {
-        "Dev_Desc": "잊혀진 영웅의 영혼석(각인)",
-        "Original_Text": "+3 강화 시 소울 발동률 추가\\n+5 강화 시 소울 발동률 추가 상승\\n+6 강화 시 소울 발동률 추가 상승",
-        "English_Text": "Additional Soul Activation Rate when reinforced by 3\\n Additional increase in Soul Activation Rate when reinforced by 5\\n Additional increase in Soul Activation Rate when reinforced by 6",
+    "95206603": {
+        "Dev_Desc": "잊혀진 회상의 영혼석(각인)",
+        "Original_Text": "+3 강화 시 소울 발동률 추가 상승\\n+5 강화 시 소울 발동률 추가 상승\\n+6 강화 시 소울 발동률 추가 상승",
+        "English_Text": "3 Add Soul Navigation Rate in Reinforcement \\n 5 Additional SOOLT SOOLDING RACK ARTROVATION \\n 6 Additional Soles Rate",
         "Russian_Text": "",
-        "Chinese_Text": "强化3时额外灵魂激活率\\n强化5时额外增加灵魂激活率\\n强化6时额外增加灵魂激活率"
+        "Chinese_Text": "3加入钢筋的灵魂导航率\\n 5额外的卸塞升降机架rtrovation \\n 6其他鞋底速率"
     },
     "95205603": {
-        "Dev_Desc": "잊혀진 영웅의 노리개(각인)"
+        "Dev_Desc": "잊혀진 별빛 장식 노리개(각인)"
     },
     "95206468": {
         "Dev_Desc": "해룡의 증표"
@@ -2323,19 +2317,19 @@
         "Russian_Text": "",
         "Chinese_Text": "您可以注册设备图的英雄装饰品。 \\n\\n珠宝增强可以通过加强的顺序增强。"
     },
-    "95106603": {
+    "95106601": {
         "Dev_Desc": "천지의 용맹",
         "Original_Text": "+3 강화 시 소울 발동률 추가 상승\\n+5 강화 시 소울 발동률 추가 상승\\n+6 강화 시 소울 발동률 추가 상승",
-        "English_Text": "3 Add Soul Navigation Rate in Reinforcement \\n 5 Additional SOOLT SOOLDING RACK ARTROVATION \\n 6 Additional Soles Rate",
+        "English_Text": "Additional Soul Activation Rate when reinforced by 3\\n Additional increase in Soul Activation Rate when reinforced by 5\\n Additional increase in Soul Activation Rate when reinforced by 6",
         "Russian_Text": "",
-        "Chinese_Text": "3加入钢筋的灵魂导航率\\n 5额外的卸塞升降机架rtrovation \\n 6其他鞋底速率"
+        "Chinese_Text": "强化3时额外灵魂激活率\\n强化5时额外增加灵魂激活率\\n强化6时额外增加灵魂激活率"
     },
-    "95206603": {
+    "95206601": {
         "Dev_Desc": "천지의 용맹(각인)",
         "Original_Text": "+3 강화 시 소울 발동률 추가 상승\\n+5 강화 시 소울 발동률 추가 상승\\n+6 강화 시 소울 발동률 추가 상승",
-        "English_Text": "3 Add Soul Navigation Rate in Reinforcement \\n 5 Additional SOOLT SOOLDING RACK ARTROVATION \\n 6 Additional Soles Rate",
+        "English_Text": "Additional Soul Activation Rate when reinforced by 3\\n Additional increase in Soul Activation Rate when reinforced by 5\\n Additional increase in Soul Activation Rate when reinforced by 6",
         "Russian_Text": "",
-        "Chinese_Text": "3加入钢筋的灵魂导航率\\n 5额外的卸塞升降机架rtrovation \\n 6其他鞋底速率"
+        "Chinese_Text": "强化3时额外灵魂激活率\\n强化5时额外增加灵魂激活率\\n强化6时额外增加灵魂激活率"
     },
     "95106602": {
         "Dev_Desc": "천지의 지략",
@@ -2350,5 +2344,8 @@
         "English_Text": "3 Add Soul Navigation Rate in Reinforcement \\n 5 Additional SOOLT SOOLDING RACK ARTROVATION \\n 6 Additional Soles Rate",
         "Russian_Text": "",
         "Chinese_Text": "3加入钢筋的灵魂导航率\\n 5额外的卸塞升降机架rtrovation \\n 6其他鞋底速率"
+    },
+    "95307013": {
+        "Dev_Desc": "칼날의 인장"
     }
 }

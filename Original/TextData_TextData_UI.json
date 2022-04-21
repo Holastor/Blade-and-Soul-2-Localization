@@ -2230,7 +2230,7 @@
         "Dev_Desc": "아이템 / 아이템 소분류 / ",
         "id": 8000319,
         "alias": "UI.Item.ItemType.SoulShieldPiece",
-        "text": "보패조각"
+        "text": "보패"
     },
     "8000320": {
         "deprecated": false,
@@ -10644,7 +10644,7 @@
         "Dev_Desc": "아이템 / 아이템 소분류 / ",
         "id": 8001574,
         "alias": "UI.Item.ItemType.DualDagger",
-        "text": "단검"
+        "text": "비수"
     },
     "8001575": {
         "deprecated": false,
@@ -25765,7 +25765,7 @@
         "Dev_Desc": "무기거치대 / 암살검 / 사용",
         "id": 8003763,
         "alias": "UI.WeaponStand.DualDagger",
-        "text": "암살검을 사용해보자"
+        "text": "비수를 사용해보자"
     },
     "8003764": {
         "deprecated": false,
@@ -29372,125 +29372,6 @@
         "alias": "UI.Common.Keyboard.Space",
         "text": "Space"
     },
-    "8004279": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 변경선택",
-        "id": 8004279,
-        "alias": "UI.ClassChange.Change.Desc1",
-        "text": "변경할 클래스를 선택하세요."
-    },
-    "8004280": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 변경선택",
-        "id": 8004280,
-        "alias": "UI.ClassChange.Change.Desc2",
-        "text": "전환할 클래스를 선택하세요."
-    },
-    "8004281": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 클래스 전환",
-        "id": 8004281,
-        "alias": "UI.ClassChange.Change",
-        "text": "클래스 전환"
-    },
-    "8004282": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 일정",
-        "id": 8004282,
-        "alias": "UI.ClassChange.Change.Date",
-        "text": "2020.12.12~2020.12.29 05:00"
-    },
-    "8004283": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 설명1",
-        "id": 8004283,
-        "alias": "UI.ClassChange.Change.Desc3",
-        "text": "변경할 클래스 선택 후, 세부항목을 설정한 뒤 구매가 진행됩니다."
-    },
-    "8004284": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 기본 비용",
-        "id": 8004284,
-        "alias": "UI.ClassChange.Cost1",
-        "text": "기본 비용"
-    },
-    "8004285": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 무기 전환",
-        "id": 8004285,
-        "alias": "UI.ClassChange.Weapon1",
-        "text": "무기 전환"
-    },
-    "8004286": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 무기 선택",
-        "id": 8004286,
-        "alias": "UI.ClassChange.Weapon2",
-        "text": "무기 선택"
-    },
-    "8004287": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 무공 전이",
-        "id": 8004287,
-        "alias": "UI.ClassChange.Skill1",
-        "text": "무공 전이"
-    },
-    "8004288": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 추가 비용",
-        "id": 8004288,
-        "alias": "UI.ClassChange.Cost2",
-        "text": "추가 비용"
-    },
-    "8004289": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 보유 무기",
-        "id": 8004289,
-        "alias": "UI.ClassChange.Weapon3",
-        "text": "보유 무기"
-    },
-    "8004290": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 보유 무공",
-        "id": 8004290,
-        "alias": "UI.ClassChange.Skill2",
-        "text": "보유 무공"
-    },
-    "8004291": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 전이 결과",
-        "id": 8004291,
-        "alias": "UI.ClassChange.Result",
-        "text": "전이 결과"
-    },
-    "8004292": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 전환 무기",
-        "id": 8004292,
-        "alias": "UI.ClassChange.Result.Weapon",
-        "text": "전환 무기"
-    },
-    "8004293": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 설명2",
-        "id": 8004293,
-        "alias": "UI.ClassChange.Result.Desc1",
-        "text": "현재 클래스 전용 무기를 변경 클래스 전용 무기로 전환합니다."
-    },
-    "8004294": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 설명3",
-        "id": 8004294,
-        "alias": "UI.ClassChange.Result.Desc2",
-        "text": "현재 클래스 무공의 강화, 진화 단계를 변경 클래스 무공으로 전이시킵니다. "
-    },
-    "8004295": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 재선택",
-        "id": 8004295,
-        "alias": "UI.ClassChange.Reselect",
-        "text": "재선택"
-    },
     "8004296": {
         "deprecated": false,
         "Dev_Desc": "희생의 무덤 상인",
@@ -30606,21 +30487,21 @@
         "Dev_Desc": "야루의 상자 자동 반복",
         "id": 8004464,
         "alias": "UI.YaruBox.Btn.StopAuto",
-        "text": "자동반복 중단"
+        "text": "반복 재련 중지"
     },
     "8004465": {
         "deprecated": false,
         "Dev_Desc": "야루의 상자 자동 반복",
         "id": 8004465,
         "alias": "UI.YaruBox.CheckBox.AutoReroll",
-        "text": "자동반복"
+        "text": "자동 반복"
     },
     "8004466": {
         "deprecated": false,
         "Dev_Desc": "야루의 상자 자동 반복",
         "id": 8004466,
         "alias": "UI.YaruBox.Popup.ConfirmAuto.MsgMain",
-        "text": "조합능력치를 획득할 때 까지 자동반복을 진행합니다."
+        "text": "조합 능력치를 획득할 때까지 재련 자동 반복을 진행하시겠습니까?"
     },
     "8004467": {
         "deprecated": false,
@@ -30832,13 +30713,6 @@
         "alias": "UI.Item.ItemType.HeroTransfer",
         "text": "서버이전권"
     },
-    "8004497": {
-        "deprecated": false,
-        "Dev_Desc": "메인탭 / 클래스 전환탭",
-        "id": 8004497,
-        "alias": "UI.CashShop.TapName.Main.ClassSwap",
-        "text": "클래스 체인지"
-    },
     "8004498": {
         "deprecated": false,
         "Dev_Desc": "아이템 서브 타입",
@@ -30852,20 +30726,6 @@
         "id": 8004499,
         "alias": "UI.Item.ItemType.AutoPets",
         "text": "수호령 소환"
-    },
-    "8004500": {
-        "deprecated": false,
-        "Dev_Desc": "아이템 서브 타입",
-        "id": 8004500,
-        "alias": "UI.Item.ItemType.ClassSwapCoin",
-        "text": "클래스 체인지 코인"
-    },
-    "8004501": {
-        "deprecated": false,
-        "Dev_Desc": "아이템 서브 타입",
-        "id": 8004501,
-        "alias": "UI.Item.ItemType.ClassSwapTicket",
-        "text": "클래스 체인지 티켓"
     },
     "8004502": {
         "deprecated": false,
@@ -30893,7 +30753,7 @@
         "Dev_Desc": "야루의 상자 툴팁",
         "id": 8004505,
         "alias": "UI.YaruBox.Tooltip.Msg",
-        "text": "조합능력치를 획득할 때 까지 자동반복을 진행합니다.\n\n재료 소진 시 재련 자동 반복이 중단되며, 재련 진행 중 재련 중단 버튼을 선택하면 진행 중인 재련까지 진행 후 재련을 중단합니다."
+        "text": "조합 능력치가 획득될 때까지 재련을 반복 진행합니다.\n\n재료 소진 시 재련 자동 반복이 중단되며, 재련 진행 중 재련 중단 버튼을 선택하면 진행 중인 재련까지 진행 후 재련을 중단합니다."
     },
     "8004506": {
         "deprecated": false,
@@ -30930,90 +30790,6 @@
         "alias": "UI.Shop.Tittle.Name.30000",
         "text": "전설의 낚시꾼"
     },
-    "8004511": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 재선택 / 질문",
-        "id": 8004511,
-        "alias": "UI.ClassChange.Change.Question1",
-        "text": "클래스 전환을 재선택하시겠습니까?"
-    },
-    "8004512": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 재선택 / 질문",
-        "id": 8004512,
-        "alias": "UI.ClassChange.Change.Question2",
-        "text": "무기 전환을 재선택하시겠습니까?"
-    },
-    "8004513": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 재선택 / 질문",
-        "id": 8004513,
-        "alias": "UI.ClassChange.Change.Question3",
-        "text": "무공 전환을 재선택하시겠습니까?"
-    },
-    "8004514": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 초기화 / 안내",
-        "id": 8004514,
-        "alias": "UI.ClassChange.Change.Reset",
-        "text": "세부 선택항목이 초기화됩니다. "
-    },
-    "8004515": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 불가 / 안내",
-        "id": 8004515,
-        "alias": "UI.ClassChange.Change.Desc.No1",
-        "text": "<arg p=[1:string]/><ga/> 부족하여 클래스를 전환할 수 없습니다."
-    },
-    "8004516": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 세부 항목 / 선택",
-        "id": 8004516,
-        "alias": "UI.ClassChange.Change.choice",
-        "text": "전환할 세부 항목을 선택해주세요."
-    },
-    "8004517": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 전이 가능",
-        "id": 8004517,
-        "alias": "UI.ClassChange.Change.Skill.Yes",
-        "text": "전이 가능"
-    },
-    "8004518": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 불가 / 안내",
-        "id": 8004518,
-        "alias": "UI.ClassChange.Change.Desc.No2",
-        "text": "동일 강화 및 진화단계 무공 전이불가"
-    },
-    "8004519": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 재화 부족",
-        "id": 8004519,
-        "alias": "UI.ClassChange.Change.NotAvailable",
-        "text": "재화가 부족합니다."
-    },
-    "8004520": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 불가 / 안내",
-        "id": 8004520,
-        "alias": "UI.ClassChange.Change.Desc.No3",
-        "text": "재화가 부족하여 전환할 수 없습니다."
-    },
-    "8004521": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 재선택 / 질문",
-        "id": 8004521,
-        "alias": "UI.ClassChange.Change.Question4",
-        "text": "클래스를 전환하시겠습니까?"
-    },
-    "8004522": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 불가 / 안내",
-        "id": 8004522,
-        "alias": "UI.ClassChange.Change.Desc.No4",
-        "text": "미습득 무공 전이 불가"
-    },
     "8004523": {
         "deprecated": false,
         "Dev_Desc": "제작 커스텀 탭 이름 / 봄날의 반달호수",
@@ -31041,5 +30817,222 @@
         "id": 8004526,
         "alias": "UI.Craft.CustomCategory.1stWeek",
         "text": "1주차 한정제작"
+    },
+    "8004527": {
+        "deprecated": false,
+        "Dev_Desc": "HUD / 연합 창설 메시지",
+        "id": 8004527,
+        "alias": "UI.HUDMessage.UniteFoundation",
+        "text": "연합 창설"
+    },
+    "8004528": {
+        "deprecated": false,
+        "Dev_Desc": "HUD / 연합 가입 메시지",
+        "id": 8004528,
+        "alias": "UI.HUDMessage.UniteJoin",
+        "text": "연합 가입"
+    },
+    "8004529": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 정보 / 전투 / 전투 집중 모드",
+        "id": 8004529,
+        "alias": "UI.Option.Information.Battle.Mode.Name_01",
+        "text": "표시모드 1"
+    },
+    "8004530": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 정보 / 전투 / 전투 집중 모드",
+        "id": 8004530,
+        "alias": "UI.Option.Information.Battle.Mode.Name_02",
+        "text": "표시모드 2"
+    },
+    "8004531": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 정보 / 전투 / 전투 집중 모드",
+        "id": 8004531,
+        "alias": "UI.Option.Information.Battle.Mode.PlayerName",
+        "text": "플레이어 이름 표시"
+    },
+    "8004532": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 정보 / 전투 / 전투 집중 모드",
+        "id": 8004532,
+        "alias": "UI.Option.Information.Battle.Mode.Me",
+        "text": "본인"
+    },
+    "8004533": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 정보 / 전투 / 전투 집중 모드",
+        "id": 8004533,
+        "alias": "UI.Option.Information.Battle.Mode.MyGuild",
+        "text": "소속 문파"
+    },
+    "8004534": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 정보 / 전투 / 전투 집중 모드",
+        "id": 8004534,
+        "alias": "UI.Option.Information.Battle.Mode.AllianceGuild",
+        "text": "동맹 문파"
+    },
+    "8004535": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 정보 / 전투 / 전투 집중 모드",
+        "id": 8004535,
+        "alias": "UI.Option.Information.Battle.Mode.EnemyGuild",
+        "text": "적대 문파"
+    },
+    "8004536": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 정보 / 전투 / 전투 집중 모드",
+        "id": 8004536,
+        "alias": "UI.Option.Information.Battle.Mode.Friend",
+        "text": "친구"
+    },
+    "8004537": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 정보 / 전투 / 전투 집중 모드",
+        "id": 8004537,
+        "alias": "UI.Option.Information.Battle.Mode.Alret",
+        "text": "경계"
+    },
+    "8004538": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 정보 / 전투 / 전투 집중 모드",
+        "id": 8004538,
+        "alias": "UI.Option.Information.Battle.Mode.Party",
+        "text": "파티"
+    },
+    "8004539": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 정보 / 전투 / 금화/경험치 획득량",
+        "id": 8004539,
+        "alias": "UI.Option.Information.Battle.Gotten",
+        "text": "금화/경험치 획득량 표시"
+    },
+    "8004540": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 해룡의 정기",
+        "id": 8004540,
+        "alias": "UI.Craft.CustomCategory.2stWeek",
+        "text": "2주차 한정제작"
+    },
+    "8004541": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 해룡의 정기",
+        "id": 8004541,
+        "alias": "UI.Craft.CustomCategory.3stWeek",
+        "text": "3주차 한정제작"
+    },
+    "8004542": {
+        "deprecated": false,
+        "Dev_Desc": "캐시상점[TX]/ 플레이 등급 팝업 / 타이틀",
+        "id": 8004542,
+        "alias": "UI.CashShop.TX.PlayGradePopUp.Title",
+        "text": "플레이 등급 안내"
+    },
+    "8004543": {
+        "deprecated": false,
+        "Dev_Desc": "캐시상점[TX]/ 플레이 등급 팝업 / 컬럼 / 플레이 등급",
+        "id": 8004543,
+        "alias": "UI.CashShop.TX.PlayGradePopUp.Column1",
+        "text": "플레이 등급"
+    },
+    "8004544": {
+        "deprecated": false,
+        "Dev_Desc": "캐시상점[TX]/ 플레이 등급 팝업 / 컬럼 / 필요 점수",
+        "id": 8004544,
+        "alias": "UI.CashShop.TX.PlayGradePopUp.Column2",
+        "text": "필요 점수"
+    },
+    "8004545": {
+        "deprecated": false,
+        "Dev_Desc": "캐시상점[TX]/ 플레이 등급 팝업 / 설명",
+        "id": 8004545,
+        "alias": "UI.CashShop.TX.PlayGradePopUp.Desc",
+        "text": "모험 및 특정 상품 구매 시 플레이 포인트를 획득할 수 있습니다."
+    },
+    "8004546": {
+        "deprecated": false,
+        "Dev_Desc": "협행 / 모든 협행 수락 버튼",
+        "id": 8004546,
+        "alias": "UI.Bulletin.AcceptAllButton",
+        "text": "모든 협행 수락"
+    },
+    "8004547": {
+        "deprecated": false,
+        "Dev_Desc": "협행 / 모든 보상 수령 버튼",
+        "id": 8004547,
+        "alias": "UI.Bulletin.ReceiveAllButton",
+        "text": "모든 보상 수령"
+    },
+    "8004548": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 조작 / 편의 / 협행 완료 시 임무 목록에서 모든 보상 수령",
+        "id": 8004548,
+        "alias": "UI.Option.Control.Convenience.ReceiveBulletinRewardAll",
+        "text": "협행 완료 시 임무 목록에서 모든 보상 수령"
+    },
+    "8004549": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 조작 / 편의 / 협행 완료 시 임무 목록에서 모든 보상 수령 / 설명",
+        "id": 8004549,
+        "alias": "UI.Option.Control.Convenience.ReceiveBulletinRewardAll.Desc",
+        "text": "임무 목록의 완료 협행 선택 시, 보상 수령 가능 상태인 모든 협행의 보상을 한 번에 수령합니다."
+    },
+    "8004550": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 조작 / 편의 / 아이템 자동 사용 그룹",
+        "id": 8004550,
+        "alias": "UI.Option.Control.Convenience.AutoUseGroupOption",
+        "text": "우선 순위에 따라 같은 종류 소모품 자동 사용"
+    },
+    "8004551": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 조작 / 편의 / 아이템 자동 사용 그룹 / 설명",
+        "id": 8004551,
+        "alias": "UI.Option.Control.Convenience.AutoUseGroupOption.Desc",
+        "text": "자동 사용 시, 같은 종류의 소모품을 우선 순위에 따라 사용합니다.\n높은 등급 -> 이벤트 -> 각인 -> 비각인 순"
+    },
+    "8004552": {
+        "deprecated": false,
+        "Dev_Desc": "신규/복귀 혜택 테스트용 데이터",
+        "id": 8004552,
+        "alias": "UI.CashShop.TapName.Sub.Test1",
+        "text": "신규 혜택 테스트 탭"
+    },
+    "8004553": {
+        "deprecated": false,
+        "Dev_Desc": "신규/복귀 혜택 테스트용 데이터",
+        "id": 8004553,
+        "alias": "UI.CashShop.TapName.Sub.Test2",
+        "text": "복귀 혜택 테스트 탭"
+    },
+    "8004554": {
+        "deprecated": false,
+        "Dev_Desc": "신규/복귀 혜택 테스트용 데이터",
+        "id": 8004554,
+        "alias": "UI.CashShop.TapName.Sub.Test3",
+        "text": "신규&복귀 혜택 테스트 탭"
+    },
+    "8004555": {
+        "deprecated": false,
+        "Dev_Desc": "보패 / 보패 장착 / 세트효과팝업 / 없음",
+        "id": 8004555,
+        "alias": "UI.Bopae.Equip.SetEffect.No",
+        "text": "세트 효과를 보유한 보패가 없습니다."
+    },
+    "8004556": {
+        "deprecated": false,
+        "Dev_Desc": "무공 / 특화 무공 / 이름 / 장검",
+        "id": 8004556,
+        "alias": "UI.Skill.SpecialSkill.DualDagger",
+        "text": "단검 특화 무공"
+    },
+    "8004561": {
+        "deprecated": false,
+        "Dev_Desc": "캐시상점 / 서브 탭 / 패키지 탭 / 주간월간 상품",
+        "id": 8004561,
+        "alias": "UI.CashShop.TapName.Sub.Package6",
+        "text": "주간/월간 상품"
     }
 }

@@ -2,14 +2,14 @@
     "60070000": {
         "Dev_Desc": "생령치유",
         "Original_Text": "생령치유",
-        "English_Text": "Heal Link",
+        "English_Text": "Living Breath",
         "Russian_Text": "",
         "Chinese_Text": "连锁治愈"
     },
     "60070001": {
         "Dev_Desc": "생령치유",
         "Original_Text": "신령한 기운으로 주변 파티원을 최대 2인까지 연속적으로 치유합니다.",
-        "English_Text": "Heals nearby allies over time.",
+        "English_Text": "Recovers a target's HP.",
         "Russian_Text": "",
         "Chinese_Text": "连续治愈周围队员。"
     },
@@ -64,22 +64,22 @@
     },
     "60070009": {
         "Dev_Desc": "심기일전",
-        "Original_Text": "파티원 전체의 피해량을 5초간 증가시킵니다.",
-        "English_Text": "Increases Damage for the entire party for 5 sec.",
+        "Original_Text": "파티원 전체의 피해량을 7초간 증가시킵니다.",
+        "English_Text": "Increases the entire party's Attack for 5 sec.",
         "Russian_Text": "",
         "Chinese_Text": "增加全体队员的伤害量5秒"
     },
     "60070010": {
         "Dev_Desc": "생령합일",
         "Original_Text": "생령합일",
-        "English_Text": "Chain Healing",
+        "English_Text": "Heal Link",
         "Russian_Text": "",
         "Chinese_Text": "连锁治疗"
     },
     "60070011": {
         "Dev_Desc": "생령합일",
         "Original_Text": "일정 시간 생령과 합일하여 대부분의 공격을 회피합니다. 합일 상태에서는 공격 및 구르기 사용이 불가능하며 이동 속도가 감소합니다.",
-        "English_Text": "Heals up to 2 nearby party members in a row.",
+        "English_Text": "Heals up to 2 nearby allies over time.",
         "Russian_Text": "",
         "Chinese_Text": "周边队员最多可连续治疗2人"
     },
@@ -93,7 +93,7 @@
     "60070013": {
         "Dev_Desc": "치유지대",
         "Original_Text": "대상 근처에 법함을 설치하여 주변 파티원의 생명력을 7초 동안 지속적으로 치유합니다.",
-        "English_Text": "Install a totem that lasts for 10 sec to heal nearby party members over time.",
+        "English_Text": "Installs a totem that lasts for 10 sec to heal nearby party members over time.",
         "Russian_Text": "",
         "Chinese_Text": "放置持续10秒的图腾，持续治愈周围队员的生命。"
     },
@@ -121,7 +121,7 @@
     "60070017": {
         "Dev_Desc": "구원",
         "Original_Text": "파티원 전체의 해로운 효과 일부를 해제하며 생명력을 일정량 회복시킵니다.",
-        "English_Text": "Dispels some of the harmful effects of all party members and restores a certain amount of HP.",
+        "English_Text": "Partially removes debuffs and recovers a certain amount of HP for the entire party.",
         "Russian_Text": "",
         "Chinese_Text": "解除全体队员的部分减益效果,恢复一定量的生命力"
     },
@@ -135,149 +135,191 @@
     "60070019": {
         "Dev_Desc": "청화",
         "Original_Text": "상서로운 청염의 힘으로 대상을 공격합니다.",
-        "English_Text": "Attacks the target with the power of auspicious blue flames.",
+        "English_Text": "Attacks the enemy with the power of auspicious blue flame.",
         "Russian_Text": "",
         "Chinese_Text": "用吉祥的青炎之力攻击目标"
     },
     "60070020": {
-        "Dev_Desc": "우보법",
-        "Original_Text": "우보법",
-        "English_Text": "Woobo Act",
+        "Dev_Desc": "광명청음",
+        "Original_Text": "광명청음",
+        "English_Text": "<DNT>",
         "Russian_Text": "",
         "Chinese_Text": "优步法"
     },
     "60070021": {
-        "Dev_Desc": "우보법",
-        "Original_Text": "파티원을 향해 빠르게 이동하며, 대상을 치유합니다.",
+        "Dev_Desc": "광명청음",
+        "Original_Text": "신령한 빛과 소리로 파티원 전체를 감쌉니다. 생명력을 대량 회복시키며 5초간 피해를 입지 않도록 보호합니다.",
         "English_Text": "Fast moves towards party member, healing the target.",
         "Russian_Text": "",
         "Chinese_Text": "向队员快速移动,治愈目标"
     },
     "60070022": {
-        "Dev_Desc": "광명청음",
-        "Original_Text": "광명청음",
+        "Dev_Desc": "생령폭격",
+        "Original_Text": "생령폭격",
         "English_Text": "<DNT>",
         "Russian_Text": "",
         "Chinese_Text": "死亡回归（正在开发）"
     },
     "60070023": {
-        "Dev_Desc": "광명청음",
-        "Original_Text": "신령한 빛과 소리로 파티원 전체를 감쌉니다. 생명력을 대량 회복시키며 5초간 피해를 입지 않도록 보호합니다.",
+        "Dev_Desc": "생령폭격",
+        "Original_Text": "소울 패링 성공 시 다수의 생령으로 적을 공격합니다.",
         "English_Text": "Envelopes all party members with divine light and sound. Heals a large amount of health and protects against damage for 5 seconds.",
         "Russian_Text": "",
         "Chinese_Text": "用神灵的光和声音包围全体队员大量恢复生命力,保护5秒内不受伤害"
     },
     "60070024": {
-        "Dev_Desc": "가호",
-        "Original_Text": "가호",
+        "Dev_Desc": "굉섬뢰",
+        "Original_Text": "굉섬뢰",
         "English_Text": "Blessing",
         "Russian_Text": "",
         "Chinese_Text": "庇护"
     },
     "60070025": {
-        "Dev_Desc": "가호",
-        "Original_Text": "하늘의 가호로 내력 재생이 증가합니다.",
+        "Dev_Desc": "굉섬뢰",
+        "Original_Text": "<textColor=[248:99:99:255]>소울 패링 기절</> 상태의 대상에게 강력한 공격을 가합니다.\\n<textColor=[248:99:99:255]>소울 패링 기절</> 상태의 대상에게 공격 버튼을 수동으로 눌러 사용 가능합니다.\\n",
         "English_Text": "Increases Focus Regen thanks to blessings from the heavens.",
         "Russian_Text": "",
         "Chinese_Text": "获得苍天庇护，提升内力再生。"
     },
     "60070026": {
-        "Dev_Desc": "체화",
-        "Original_Text": "체화",
-        "English_Text": "Realization",
+        "Dev_Desc": "가호",
+        "Original_Text": "가호",
+        "English_Text": "Blessing",
         "Russian_Text": "",
         "Chinese_Text": "体化"
     },
     "60070027": {
-        "Dev_Desc": "체화",
-        "Original_Text": "신령한 기운을 몸으로 체화하여 무기 공격력이 증가합니다.",
-        "English_Text": "Increases the amount of healing received by embodied spiritual energy into your body.",
+        "Dev_Desc": "가호",
+        "Original_Text": "하늘의 가호로 내력 재생이 증가합니다.",
+        "English_Text": "Increases Focus Regen thanks to blessings from the heavens.",
         "Russian_Text": "",
         "Chinese_Text": "神灵气息体化后获得的治愈量增加"
     },
     "60070028": {
-        "Dev_Desc": "현자",
-        "Original_Text": "현자",
-        "English_Text": "Guru",
+        "Dev_Desc": "체화",
+        "Original_Text": "체화",
+        "English_Text": "Realization",
         "Russian_Text": "",
         "Chinese_Text": "贤者"
     },
     "60070029": {
-        "Dev_Desc": "현자",
-        "Original_Text": "심오한 사고로 지혜와 지능이 증가합니다.",
+        "Dev_Desc": "체화",
+        "Original_Text": "신령한 기운을 몸으로 체화하여 무기 공격력이 증가합니다.",
         "English_Text": "Increases WIS and INT through deep concentration.",
         "Russian_Text": "",
         "Chinese_Text": "苦思冥想，提升智慧与智力。"
     },
     "60070030": {
-        "Dev_Desc": "득음",
-        "Original_Text": "득음",
-        "English_Text": "Perfect Pitch",
+        "Dev_Desc": "현자",
+        "Original_Text": "현자",
+        "English_Text": "Guru",
         "Russian_Text": "",
         "Chinese_Text": "得音"
     },
     "60070031": {
-        "Dev_Desc": "득음",
-        "Original_Text": "음에 대한 깨달음으로 종을 통해 더욱 강한 피해를 입힙니다.",
-        "English_Text": "Deals greater damage with a Bell by realizing the power of pitch.",
+        "Dev_Desc": "현자",
+        "Original_Text": "심오한 사고로 지혜와 지능이 증가합니다.",
+        "English_Text": "Increases WIS and INT through deep concentration.",
         "Russian_Text": "",
         "Chinese_Text": "领悟音律，使用钟造成更强大的伤害。"
     },
     "60070032": {
-        "Dev_Desc": "은총",
-        "Original_Text": "은총",
-        "English_Text": "Grace",
+        "Dev_Desc": "득음",
+        "Original_Text": "득음",
+        "English_Text": "Perfect Pitch",
         "Russian_Text": "",
         "Chinese_Text": "恩宠"
     },
     "60070033": {
-        "Dev_Desc": "은총",
-        "Original_Text": "하늘의 은총으로 주는 치유량이 증가합니다.",
-        "English_Text": "Healing from Heaven's Grace is increased.",
+        "Dev_Desc": "득음",
+        "Original_Text": "음에 대한 깨달음으로 종을 통해 더욱 강한 피해를 입힙니다.",
+        "English_Text": "Deals greater damage with a Bell by realizing the power of pitch.",
         "Russian_Text": "",
         "Chinese_Text": "天赐恩宠的治疗量增加"
     },
     "60070034": {
-        "Dev_Desc": "현기",
-        "Original_Text": "현기",
+        "Dev_Desc": "은총",
+        "Original_Text": "은총",
         "English_Text": "Wisdom",
         "Russian_Text": "",
         "Chinese_Text": "玄机"
     },
     "60070035": {
-        "Dev_Desc": "현기",
-        "Original_Text": "치유에 대한 이해가 깊어져 치유력이 증가합니다.",
+        "Dev_Desc": "은총",
+        "Original_Text": "하늘의 은총으로 주는 치유량이 증가합니다.",
         "English_Text": "Heal is increased through a deeper understanding of healing.",
         "Russian_Text": "",
         "Chinese_Text": "更加深厚地理解治愈，从而提升治愈力。"
     },
     "60070036": {
+        "Dev_Desc": "현기",
+        "Original_Text": "현기",
+        "English_Text": "Wisdom",
+        "Russian_Text": "",
+        "Chinese_Text": "通晓"
+    },
+    "60070037": {
+        "Dev_Desc": "현기",
+        "Original_Text": "치유에 대한 이해가 깊어져 치유력이 증가합니다.",
+        "English_Text": "Heal is increased through a deeper understanding of healing.",
+        "Russian_Text": "",
+        "Chinese_Text": "通晓万物，更轻松地抵抗强行控制。"
+    },
+    "60070038": {
         "Dev_Desc": "통달",
         "Original_Text": "통달",
         "English_Text": "Mastery",
         "Russian_Text": "",
         "Chinese_Text": "通晓"
     },
-    "60070037": {
+    "60070039": {
         "Dev_Desc": "통달",
         "Original_Text": "만물에 통달하여 강제적인 통제에 더욱 쉽게 저항합니다.",
         "English_Text": "More easily resist CC by honing your skill in all things.",
         "Russian_Text": "",
-        "Chinese_Text": "通晓万物，更轻松地抵抗强行控制。"
+        "Chinese_Text": "“普通攻击有几率造成与治疗能力成正比的额外伤害。”"
     },
-    "60070038": {
+    "60070040": {
         "Dev_Desc": "치환",
         "Original_Text": "치환",
         "English_Text": "Mastery",
         "Russian_Text": "",
-        "Chinese_Text": "通晓"
+        "Chinese_Text": "替代"
     },
-    "60070039": {
+    "60070041": {
         "Dev_Desc": "치환",
         "Original_Text": "기본 공격 시 일정 확률로 치유력에 비례하여 추가 피해를 입힙니다.",
-        "English_Text": "Basic attacks have a chance to deal additional damage proportional to healing power.",
+        "English_Text": "In the default attack, the certain probability is proportional to the healing force in proportion to the healing.",
         "Russian_Text": "",
-        "Chinese_Text": "“普通攻击有几率造成与治疗能力成正比的额外伤害。”"
+        "Chinese_Text": "在默认攻击中，某些概率与愈合成比例成正比。"
+    },
+    "60070042": {
+        "Dev_Desc": "항음",
+        "Original_Text": "항음",
+        "English_Text": "Lamentation",
+        "Russian_Text": "",
+        "Chinese_Text": "哀歌"
+    },
+    "60070043": {
+        "Dev_Desc": "항음",
+        "Original_Text": "항마의 기운을 음에 담아냅니다.",
+        "English_Text": "It contains the energy of the Horse.",
+        "Russian_Text": "",
+        "Chinese_Text": "它包含马的能量。"
+    },
+    "60070044": {
+        "Dev_Desc": "예음",
+        "Original_Text": "예음",
+        "English_Text": "acute",
+        "Russian_Text": "",
+        "Chinese_Text": "急性"
+    },
+    "60070045": {
+        "Dev_Desc": "예음",
+        "Original_Text": "예리한 기운을 음에 담아냅니다.",
+        "English_Text": "I put a sharp energy.",
+        "Russian_Text": "",
+        "Chinese_Text": "我付出了敏锐的能量。"
     },
     "60070100": {
         "Dev_Desc": "생령합일_증폭_설명",
@@ -295,7 +337,7 @@
     },
     "60070102": {
         "Dev_Desc": "생령합일_돌파_설명",
-        "Original_Text": "합일 상태의 이동 속도 대폭 증가",
+        "Original_Text": "합일 상태의 이동 속도 대폭 증가\\n한 번 더 시전 시 합일 상태 해제 및 범위 내 최대 3인에게 광역 피해 적용",
         "English_Text": "Higher chance to heal twice",
         "Russian_Text": "",
         "Chinese_Text": "更高几率治愈两次"
@@ -303,84 +345,84 @@
     "60070103": {
         "Dev_Desc": "연섬뢰_증폭_설명",
         "Original_Text": "내력 소모량 -1",
-        "English_Text": "Focus cost ▼",
+        "English_Text": "Focus Cost -1",
         "Russian_Text": "",
         "Chinese_Text": "降低内力消耗"
     },
     "60070104": {
         "Dev_Desc": "연섬뢰_극한_설명",
         "Original_Text": "재사용 대기시간 -2초",
-        "English_Text": "Cooldown ▼",
+        "English_Text": "Cooldown -2 sec",
         "Russian_Text": "",
         "Chinese_Text": "降低冷却时间"
     },
     "60070105": {
         "Dev_Desc": "연섬뢰_돌파_설명",
-        "Original_Text": "사용 중 기공 치명률 +20%",
-        "English_Text": "Probability +99 strength on hit",
+        "Original_Text": "\"연섬뢰\" 치명률 +30%",
+        "English_Text": "Has a chance to recover Focus +99 upon accurate attack.",
         "Russian_Text": "",
         "Chinese_Text": "命中时有一定几率内力+99"
     },
     "60070106": {
         "Dev_Desc": "강섬뢰_증폭_설명",
         "Original_Text": "재사용 대기시간 -3초",
-        "English_Text": "Cooldown ▼",
+        "English_Text": "Cooldown -3 sec",
         "Russian_Text": "",
         "Chinese_Text": "降低冷却时间"
     },
     "60070107": {
         "Dev_Desc": "강섬뢰_극한_설명",
-        "Original_Text": "사용 중 기공 절대 명중 +10%",
-        "English_Text": "Accuracy Chance ▲",
+        "Original_Text": "\"강섬뢰\" 명중 +20%",
+        "English_Text": "Certain Force Accuracy +10%",
         "Russian_Text": "",
         "Chinese_Text": "提升命中率"
     },
     "60070108": {
         "Dev_Desc": "강섬뢰_돌파_설명",
-        "Original_Text": "치유력에 비례하여 피해량 증가",
-        "English_Text": "Damage ▲ relative to Healing Power",
+        "Original_Text": "피해량 증가\\n일정 확률로 막기를 관통하여 <textColor=[248:99:99:255]>기절</> 효과 적용",
+        "English_Text": "Extra damage relative to Heal",
         "Russian_Text": "",
         "Chinese_Text": "根据治愈力按比例提升伤害量"
     },
     "60070109": {
         "Dev_Desc": "심판_증폭_설명",
         "Original_Text": "피해량 증가",
-        "English_Text": "Damage increased",
+        "English_Text": "Damage ▲",
         "Russian_Text": "",
         "Chinese_Text": "伤害量增加"
     },
     "60070110": {
         "Dev_Desc": "심판_극한_설명",
-        "Original_Text": "치유력에 비례하여 피해량 증가",
-        "English_Text": "Damage ▲ relative to Healing Power",
+        "Original_Text": "피해량 증가 및 범위 내 최대 3인까지 적중\\n\"심판\" 보스 공격력 +15",
+        "English_Text": "Extra damage relative to Heal",
         "Russian_Text": "",
         "Chinese_Text": "根据治愈力按比例提升伤害量"
     },
     "60070111": {
         "Dev_Desc": "심판_돌파_설명",
-        "Original_Text": "일정 확률로 \"기절\" 효과 적용",
-        "English_Text": "Probability of applying \"stun\" effect",
+        "Original_Text": "일정 확률로 <textColor=[248:99:99:255]>기절</> 효과 적용\\n10초간 <textColor=[248:99:99:255]>낙인</> 효과 적용 및 적용 대상 기본 공격 시 \"심판\" 대기시간 -1초",
+        "English_Text": "Has a chance to inflict Stun.",
         "Russian_Text": "",
         "Chinese_Text": "有一定几率适用“眩晕”效果"
     },
     "60070112": {
         "Dev_Desc": "심기일전_증폭_설명",
-        "Original_Text": "지속시간 +2초",
+        "Original_Text": "지속시간 +3초",
         "English_Text": "Duration +2 sec",
         "Russian_Text": "",
         "Chinese_Text": "持续时间提升2秒"
     },
     "60070113": {
         "Dev_Desc": "심기일전_극한_설명",
-        "Original_Text": "일정 확률로 정밀 +5",
-        "English_Text": "Probability +5 Precision",
+        "Original_Text": "일정 확률로 정밀 +5\\n본인 피격 시 공격한 대상에게 피해 적용",
+        "English_Text": "Precision +5 at a chance",
         "Russian_Text": "",
         "Chinese_Text": "一定几率精密+5"
     },
     "60070114": {
         "Dev_Desc": "심기일전_돌파_설명",
-        "Original_Text": "일정 확률로 무기 공격력 +7",
-        "English_Text": "Probability +10% to melee, ranged, and Qigong absolute accuracy",
+        "Original_Text": "일정 확률로 무기 공격력 +7 및 몬스터 처치 시 \"강섬뢰\" 대기시간 초기화\\n본인 \"강섬뢰\" 사용 시 \"가속 강섬뢰\" 사용",
+        "English_Text": "Certain Melee Accuracy, Certain Ranged Accuracy, Certain Force Accuracy +10% at a chance.",
         "Russian_Text": "",
         "Chinese_Text": "一定几率近距离,远距离,气功绝对命中+10%"
     },
@@ -408,7 +450,7 @@
     "60070118": {
         "Dev_Desc": "치유지대_증폭_설명",
         "Original_Text": "재사용 대기시간 -5초",
-        "English_Text": "Cooldown ▼",
+        "English_Text": "Cooldown -10 sec",
         "Russian_Text": "",
         "Chinese_Text": "降低冷却时间"
     },
@@ -421,73 +463,94 @@
     },
     "60070120": {
         "Dev_Desc": "치유지대_돌파_설명",
-        "Original_Text": "치유 대상의 치명 저항률 +20%",
-        "English_Text": "Healing target expands to allies\nIncreases healing range",
+        "Original_Text": "치유량 증가\\n치유 대상의 치명 저항률 +20%",
+        "English_Text": "Expands healing to allies\nExpands healing zone",
         "Russian_Text": "",
         "Chinese_Text": "治愈对象扩展到友军\n治愈范围增加"
     },
     "60070121": {
         "Dev_Desc": "수호_증폭_설명",
         "Original_Text": "호신 +5\\n내력 소모량 -2",
-        "English_Text": "Strength consumption -2",
+        "English_Text": "Focus Cost -2",
         "Russian_Text": "",
         "Chinese_Text": "内力消耗量-2"
     },
     "60070122": {
         "Dev_Desc": "수호_극한_설명",
         "Original_Text": "받는 피해량 감소 +5%\\n사용 거리 증가",
-        "English_Text": "Increase range",
+        "English_Text": "Incoming Damage Down +5%\nExtends its range.",
         "Russian_Text": "",
         "Chinese_Text": "使用距离增加"
     },
     "60070123": {
         "Dev_Desc": "수호_돌파_설명",
-        "Original_Text": "받는 피해량 감소 +10%\\n반마화살[극한]까지의 해제 효과 무시",
-        "English_Text": "Greatly increases Damage Down effect\nIgnores Magic Arrow's removal effect",
+        "Original_Text": "받는 피해량 감소 +15%\\n\"반마화살[극한]\"까지의 해제 효과 무시",
+        "English_Text": "Incoming Damage Down +10%\nDisables up to [Extreme] level of Magic Arrow.",
         "Russian_Text": "",
         "Chinese_Text": "大幅提升伤害降低效果，无视反魔箭的解除效果"
     },
     "60070124": {
         "Dev_Desc": "구원_증폭_설명",
-        "Original_Text": "\"출혈\", \"화상\", \"이동 속도 감소\", \"경직\" 추가 해제",
+        "Original_Text": "4초간 이동 속도 증가율 +50%\\n재사용 대기시간 -10초",
         "English_Text": "\"Bleeding\", \"Burn\", \"Movement speed reduction\", \"Stiffness\" additional off",
         "Russian_Text": "",
         "Chinese_Text": "“出血”,“烧伤”,“移动速度减少”,“僵硬”追加解除"
     },
     "60070125": {
         "Dev_Desc": "구원_극한_설명",
-        "Original_Text": "재사용 대기시간 -10초",
+        "Original_Text": "<textColor=[248:99:99:255]>공중</>, <textColor=[248:99:99:255]>도발</> 추가 해제\\n블레이드 효과의 <textColor=[248:99:99:255]>행동불능</> 추가 해제\\n재사용 대기시간 -20초",
         "English_Text": "Cooldown ▼",
         "Russian_Text": "",
         "Chinese_Text": "降低冷却时间"
     },
     "60070126": {
         "Dev_Desc": "구원_돌파_설명",
-        "Original_Text": "\"공중\", \"도발\" 추가 해제\\n블레이드 효과의 \"행동불능\" 추가 해제",
-        "English_Text": "Additional dispel \"air\", \"taunt\"\nadditional disarm \"immobilization\" of blade effects",
+        "Original_Text": "5초간 통제 면역",
+        "English_Text": "Removes Airborne and Provoke.\nRemoves the \"Disabled Action\" of Blade effect.",
         "Russian_Text": "",
         "Chinese_Text": "“空中”、“挑衅”追加解除\nBlade效果的“无法行动”追加解除"
     },
     "60070127": {
         "Dev_Desc": "청화_증폭_설명",
         "Original_Text": "일정 확률로 치유력에 비례하여 대상의 내력 일부 제거",
-        "English_Text": "Probability of removing part of the target's history in proportion to healing power",
+        "English_Text": "Has a chance to partially remove the target's Focus relative to Heal.",
         "Russian_Text": "",
         "Chinese_Text": "有一定几率按暴击率比例清除目标的部分内力"
     },
     "60070128": {
         "Dev_Desc": "청화_극한_설명",
-        "Original_Text": "피해량 증가",
-        "English_Text": "Damage increased",
+        "Original_Text": "피해량 증가\\n보스 외 몬스터 5초간 기공 방어력 -15",
+        "English_Text": "Damage ▲",
         "Russian_Text": "",
         "Chinese_Text": "伤害量增加"
     },
     "60070129": {
         "Dev_Desc": "청화_돌파_설명",
-        "Original_Text": "내력 제거 확률 증가\\n재사용 대기시간 -3초",
-        "English_Text": "Higher chance to remove part of the target's history in proportion to healing",
+        "Original_Text": "내력 제거 확률 증가\\n재사용 대기시간 -3초\\n일정 확률로 3연속 \"청화\" 사용",
+        "English_Text": "Has a higher chance to partially remove the target's Focus relative to Heal.",
         "Russian_Text": "",
         "Chinese_Text": "以更高的概率与暴击率成比例,消除目标的部分内力"
+    },
+    "60070130": {
+        "Dev_Desc": "굉섬뢰_증폭_설명",
+        "Original_Text": "내력 소모량 -4",
+        "English_Text": "Strength Consumption - 4",
+        "Russian_Text": "",
+        "Chinese_Text": "强度消耗 -  4"
+    },
+    "60070131": {
+        "Dev_Desc": "굉섬뢰_극한_설명",
+        "Original_Text": "피해량 증가",
+        "English_Text": "Increased damage",
+        "Russian_Text": "",
+        "Chinese_Text": "增加伤害"
+    },
+    "60070132": {
+        "Dev_Desc": "굉섬뢰_돌파_설명",
+        "Original_Text": "일정 확률로 소모한 내력의 절반을 반환",
+        "English_Text": "Returns half of the history consumed with a certain probability",
+        "Russian_Text": "",
+        "Chinese_Text": "返回以某种概率消耗的一半历史"
     },
     "60070200": {
         "Dev_Desc": "심판_조건"
@@ -538,98 +601,119 @@
         "Chinese_Text": "以自身，队员为目标"
     },
     "60070208": {
-        "Dev_Desc": "생령합일_효과"
+        "Dev_Desc": "굉섬뢰_Q_조건",
+        "Original_Text": "소울 패링 기절 대상",
+        "English_Text": "소울 패링 기절 대상",
+        "Russian_Text": "",
+        "Chinese_Text": "소울 패링 기절 대상"
     },
     "60070209": {
-        "Dev_Desc": "연섬뢰_효과"
+        "Dev_Desc": "생령합일_효과"
     },
     "60070210": {
-        "Dev_Desc": "강섬뢰_효과"
+        "Dev_Desc": "연섬뢰_효과"
     },
     "60070211": {
-        "Dev_Desc": "심판_효과"
+        "Dev_Desc": "강섬뢰_효과"
     },
     "60070212": {
-        "Dev_Desc": "심기일전_효과",
-        "Original_Text": "주는 피해량 증폭 +4%",
-        "English_Text": "Damage amplification +4%",
-        "Russian_Text": "",
-        "Chinese_Text": "给予的伤害量増幅+4%"
+        "Dev_Desc": "심판_효과"
     },
     "60070213": {
-        "Dev_Desc": "생령치유_효과"
+        "Dev_Desc": "심기일전_효과",
+        "Original_Text": "주는 피해량 증폭 +4%",
+        "English_Text": "주는 피해량 증폭 +4%",
+        "Russian_Text": "",
+        "Chinese_Text": "주는 피해량 증폭 +4%"
     },
     "60070214": {
-        "Dev_Desc": "치유지대_효과"
+        "Dev_Desc": "생령치유_효과"
     },
     "60070215": {
-        "Dev_Desc": "수호_효과",
-        "Original_Text": "받는 피해량 감소 +20%",
-        "English_Text": "Damage Reduction +10%",
-        "Russian_Text": "",
-        "Chinese_Text": "给予的伤害量增幅+4%的伤害量减少+10%"
+        "Dev_Desc": "치유지대_효과"
     },
     "60070216": {
-        "Dev_Desc": "구원_효과",
-        "Original_Text": "기절, 빙결 해제",
+        "Dev_Desc": "수호_돌파_효과",
+        "Original_Text": "받는 피해량 감소 +20%",
         "English_Text": "stun, unfreeze",
         "Russian_Text": "",
         "Chinese_Text": "气绝,解除冰洁"
     },
     "60070217": {
-        "Dev_Desc": "청화_효과"
+        "Dev_Desc": "구원_효과",
+        "Original_Text": "기절, 빙결, 출혈, 화상, 이동속도 감소 효과 해제",
+        "English_Text": "기절, 빙결, 출혈, 화상, 이동속도 감소 효과 해제",
+        "Russian_Text": "",
+        "Chinese_Text": "기절, 빙결, 출혈, 화상, 이동속도 감소 효과 해제"
     },
     "60070218": {
-        "Dev_Desc": "광명청음_효과"
+        "Dev_Desc": "청화_효과"
     },
     "60070219": {
+        "Dev_Desc": "광명청음_효과"
+    },
+    "60070220": {
         "Dev_Desc": "가호_효과",
         "Original_Text": "내력 재생 +1",
         "English_Text": "Focus Regen +1",
         "Russian_Text": "",
-        "Chinese_Text": "内力再生提升1"
-    },
-    "60070220": {
-        "Dev_Desc": "체화_효과",
-        "Original_Text": "무기 공격력 +2",
-        "English_Text": "Healing received +2.0%",
-        "Russian_Text": "",
         "Chinese_Text": "接受的治疗量+2.0%"
     },
     "60070221": {
-        "Dev_Desc": "현자_효과",
-        "Original_Text": "지능 +1, 지혜 +1",
+        "Dev_Desc": "체화_효과",
+        "Original_Text": "무기 공격력 +2",
         "English_Text": "INT +1, WIS +1",
         "Russian_Text": "",
         "Chinese_Text": "智力提升1，智慧提升1"
     },
     "60070222": {
-        "Dev_Desc": "득음_효과",
-        "Original_Text": "법종 공격력 +3",
-        "English_Text": "Trilbu Attack +3",
+        "Dev_Desc": "현자_효과",
+        "Original_Text": "지능 +1, 지혜 +1",
+        "English_Text": "INT +1, WIS +1",
         "Russian_Text": "",
         "Chinese_Text": "法钟攻击力提升3"
     },
     "60070223": {
-        "Dev_Desc": "은총_효과",
-        "Original_Text": "주는 치유량 +3.0%",
-        "English_Text": "Healing done +3.0%",
+        "Dev_Desc": "득음_효과",
+        "Original_Text": "법종 공격력 +3",
+        "English_Text": "Trilbu Attack +3",
         "Russian_Text": "",
         "Chinese_Text": "主要是治愈量+3.0%"
     },
     "60070224": {
-        "Dev_Desc": "현기_효과",
-        "Original_Text": "치유력 +10",
+        "Dev_Desc": "은총_효과",
+        "Original_Text": "주는 치유량 +3.0%",
         "English_Text": "Heal +10",
         "Russian_Text": "",
         "Chinese_Text": "治愈力提升10"
     },
     "60070225": {
+        "Dev_Desc": "현기_효과",
+        "Original_Text": "치유력 +10",
+        "English_Text": "Heal +10",
+        "Russian_Text": "",
+        "Chinese_Text": "控制抵抗率提升8.0%"
+    },
+    "60070226": {
         "Dev_Desc": "통달_효과",
         "Original_Text": "통제 저항률 +8.0%",
         "English_Text": "CC Resist +8.0%",
         "Russian_Text": "",
-        "Chinese_Text": "控制抵抗率提升8.0%"
+        "Chinese_Text": "控制电阻率8.0％"
+    },
+    "60070227": {
+        "Dev_Desc": "항음_효과",
+        "Original_Text": "PVE 공격력 +10, 보스 공격력 +5",
+        "English_Text": "PVE Attack Power 10, Boss Damage 5",
+        "Russian_Text": "",
+        "Chinese_Text": "PVE攻击力10，老板损坏5"
+    },
+    "60070228": {
+        "Dev_Desc": "예음_효과",
+        "Original_Text": "PVE 관통력 +5, 보스 관통력 +5",
+        "English_Text": "PVE penetration 5, boss penetration 5",
+        "Russian_Text": "",
+        "Chinese_Text": "PVE渗透5，老板渗透5"
     },
     "60070300": {
         "Dev_Desc": "심기일전_피해량_버프창",
@@ -641,35 +725,35 @@
     "60070301": {
         "Dev_Desc": "심기일전_피해량_버프창",
         "Original_Text": "주는 피해량 증폭",
-        "English_Text": "Outgoing Damage ▲",
+        "English_Text": "Amplified Outgoing Damage",
         "Russian_Text": "",
         "Chinese_Text": "提升造成的伤害量"
     },
     "60070302": {
         "Dev_Desc": "심기일전_정밀_버프창",
         "Original_Text": "심기일전 (정밀)",
-        "English_Text": "Before Planting (Precision)",
+        "English_Text": "New Leaf (Precision)",
         "Russian_Text": "",
         "Chinese_Text": "心机一转（精密）"
     },
     "60070303": {
         "Dev_Desc": "심기일전_정밀_버프창",
         "Original_Text": "정밀 증가",
-        "English_Text": "Increase Precision",
+        "English_Text": "Precision ▲",
         "Russian_Text": "",
         "Chinese_Text": "精密增加"
     },
     "60070304": {
         "Dev_Desc": "심기일전_무기 공격력_버프창",
         "Original_Text": "심기일전 (무기 공격력)",
-        "English_Text": "New Leaf (Accuracy)",
+        "English_Text": "New Leaf (Certain Accuracy)",
         "Russian_Text": "",
         "Chinese_Text": "灵机一动（命中）"
     },
     "60070305": {
         "Dev_Desc": "심기일전_무기 공격력_버프창",
         "Original_Text": "무기 공격력 증가",
-        "English_Text": "Accuracy ▲",
+        "English_Text": "Certain Accuracy ▲",
         "Russian_Text": "",
         "Chinese_Text": "提升命中"
     },
@@ -683,21 +767,21 @@
     "60070307": {
         "Dev_Desc": "수호_증폭_피해감소_버프창",
         "Original_Text": "수호[증폭]",
-        "English_Text": "Guardian",
+        "English_Text": "[Amplified] Guardian",
         "Russian_Text": "",
         "Chinese_Text": "守护"
     },
     "60070308": {
         "Dev_Desc": "수호_극한_피해감소_버프창",
         "Original_Text": "수호[극한]",
-        "English_Text": "Guardian",
+        "English_Text": "[Extreme] Guardian",
         "Russian_Text": "",
         "Chinese_Text": "守护"
     },
     "60070309": {
         "Dev_Desc": "수호_돌파_피해감소_버프창",
         "Original_Text": "수호[돌파]",
-        "English_Text": "Guardian",
+        "English_Text": "[Rise] Guardian",
         "Russian_Text": "",
         "Chinese_Text": "守护"
     },
@@ -724,7 +808,7 @@
     },
     "60070313": {
         "Dev_Desc": "구원_통제저항_버프창",
-        "Original_Text": "통제 저항률 증가",
+        "Original_Text": "이동 속도 증가율",
         "English_Text": "CC Resist ▲",
         "Russian_Text": "",
         "Chinese_Text": "提升控制抵抗率"
@@ -1095,197 +1179,134 @@
     },
     "60070366": {
         "Dev_Desc": "구원_통제저항_버프창",
-        "Original_Text": "통제 저항률 +1.0%",
+        "Original_Text": "이동 속도 증가율 +50%",
         "English_Text": "CC Resist +1.0%",
         "Russian_Text": "",
         "Chinese_Text": "控制抵抗率+1.0%"
     },
     "60070367": {
-        "Dev_Desc": "구원_통제저항_버프창",
-        "Original_Text": "통제 저항률 +1.3%",
+        "Dev_Desc": "치유지대_돌파_치명 저항률 버프창",
+        "Original_Text": "치유지대(치명 저항률)",
         "English_Text": "CC Resist +1.3%",
         "Russian_Text": "",
         "Chinese_Text": "控制抵抗率+1.3%"
     },
     "60070368": {
-        "Dev_Desc": "구원_통제저항_버프창",
-        "Original_Text": "통제 저항률 +1.6%",
+        "Dev_Desc": "치유지대_돌파_치명 저항률 버프창",
+        "Original_Text": "치명 저항률 증가",
         "English_Text": "CC Resist +1.6%",
         "Russian_Text": "",
         "Chinese_Text": "控制抵抗率+1.6%"
     },
     "60070369": {
-        "Dev_Desc": "구원_통제저항_버프창",
-        "Original_Text": "통제 저항률 +2.0%",
+        "Dev_Desc": "치유지대_돌파_치명 저항률 버프창",
+        "Original_Text": "치명 저항률 +20%",
         "English_Text": "CC Resist +2.0%",
         "Russian_Text": "",
         "Chinese_Text": "控制抵抗率+2.0%"
     },
-    "60070370": {
-        "Dev_Desc": "구원_통제저항_버프창",
-        "Original_Text": "통제 저항률 +2.3%",
-        "English_Text": "CC Resist +2.3%",
-        "Russian_Text": "",
-        "Chinese_Text": "控制抵抗率+2.3%"
-    },
-    "60070371": {
-        "Dev_Desc": "구원_통제저항_버프창",
-        "Original_Text": "통제 저항률 +2.6%",
-        "English_Text": "CC Resist +2.6%",
-        "Russian_Text": "",
-        "Chinese_Text": "控制抵抗率+2.6%"
-    },
-    "60070372": {
-        "Dev_Desc": "구원_통제저항_버프창",
-        "Original_Text": "통제 저항률 +3.0%",
-        "English_Text": "CC Resist +3.0%",
-        "Russian_Text": "",
-        "Chinese_Text": "控制抵抗率+3.0%"
-    },
-    "60070373": {
-        "Dev_Desc": "구원_통제저항_버프창",
-        "Original_Text": "통제 저항률 +3.3%",
-        "English_Text": "CC Resist +3.3%",
-        "Russian_Text": "",
-        "Chinese_Text": "控制抵抗率+3.3%"
-    },
-    "60070374": {
-        "Dev_Desc": "구원_통제저항_버프창",
-        "Original_Text": "통제 저항률 +3.6%",
-        "English_Text": "CC Resist +3.6%",
-        "Russian_Text": "",
-        "Chinese_Text": "控制抵抗率+3.6%"
-    },
-    "60070375": {
-        "Dev_Desc": "구원_통제저항_버프창",
-        "Original_Text": "통제 저항률 +5.0%",
-        "English_Text": "CC Resist +5.0%",
-        "Russian_Text": "",
-        "Chinese_Text": "控制抵抗率+5.0%"
-    },
-    "60070376": {
-        "Dev_Desc": "치유지대_돌파_치명 저항률 버프창",
-        "Original_Text": "치유지대(치명 저항률)",
-        "English_Text": "Healing Zone (Critical Resistance)",
-        "Russian_Text": "",
-        "Chinese_Text": "“治愈区（暴击抵抗）”"
-    },
-    "60070377": {
-        "Dev_Desc": "치유지대_돌파_치명 저항률 버프창",
-        "Original_Text": "치명 저항률 증가",
-        "English_Text": "Increased Critical Resistance",
-        "Russian_Text": "",
-        "Chinese_Text": "“增加临界抗性”"
-    },
-    "60070378": {
-        "Dev_Desc": "치유지대_돌파_치명 저항률 버프창",
-        "Original_Text": "치명 저항률 +20%",
-        "English_Text": "Critical Resistance 20%",
-        "Russian_Text": "",
-        "Chinese_Text": "“暴击抗性 20%”"
-    },
     "60070500": {
         "Dev_Desc": "무공 강화 업그레이드 툴팁",
         "Original_Text": "치유 계수 증가",
-        "English_Text": "Increase Healing Factor",
+        "English_Text": "Heal Factor ▲",
         "Russian_Text": "",
         "Chinese_Text": "治愈系数增加"
     },
     "60070501": {
         "Dev_Desc": "무공 강화 업그레이드 툴팁",
         "Original_Text": "무공 피해 계수 증가",
-        "English_Text": "Increase non-air damage factor",
+        "English_Text": "Technique Damage Factor ▲",
         "Russian_Text": "",
         "Chinese_Text": "技能伤害系数增加"
     },
     "60070502": {
         "Dev_Desc": "무공 강화 업그레이드 툴팁",
         "Original_Text": "주는 피해량 증폭",
-        "English_Text": "Amplifies damage dealt",
+        "English_Text": "Amplified Outgoing Damage",
         "Russian_Text": "",
         "Chinese_Text": "伤害量增加"
     },
     "60070503": {
         "Dev_Desc": "무공 강화 업그레이드 툴팁",
         "Original_Text": "받는 피해량 감소",
-        "English_Text": "Increased damage reduction rate",
+        "English_Text": "Incoming Damage Down ▲",
         "Russian_Text": "",
         "Chinese_Text": "受到的伤害量减少率增加"
     },
     "60070504": {
         "Dev_Desc": "무공 강화 업그레이드 툴팁",
         "Original_Text": "통제 저항률 증가",
-        "English_Text": "Increase Control Resistivity",
+        "English_Text": "CC Resist ▲",
         "Russian_Text": "",
         "Chinese_Text": "控制抵抗率增加"
     },
     "60070505": {
         "Dev_Desc": "무공 강화 업그레이드 툴팁",
         "Original_Text": "부활 생명력 증가",
-        "English_Text": "Increased Resurrection Health",
+        "English_Text": "Resurrection HP ▲",
         "Russian_Text": "",
         "Chinese_Text": "复活生命力增加"
     },
     "60070506": {
         "Dev_Desc": "무공 강화 업그레이드 툴팁",
         "Original_Text": "무적 유지시간 증가",
-        "English_Text": "Increased invincibility duration",
+        "English_Text": "Immune to Damage Duration ▲",
         "Russian_Text": "",
         "Chinese_Text": "无敌维持时间增加"
     },
     "60070507": {
         "Dev_Desc": "무공 강화 업그레이드 툴팁 패시브",
         "Original_Text": "내력 재생 증가",
-        "English_Text": "Increase strength regeneration",
+        "English_Text": "Focus Regen ▲",
         "Russian_Text": "",
         "Chinese_Text": "内力再生增加"
     },
     "60070508": {
         "Dev_Desc": "무공 강화 업그레이드 툴팁 패시브",
         "Original_Text": "치유력 증가",
-        "English_Text": "Increased Healing",
+        "English_Text": "Heal ▲",
         "Russian_Text": "",
         "Chinese_Text": "增加"
     },
     "60070509": {
         "Dev_Desc": "무공 강화 업그레이드 툴팁 패시브",
         "Original_Text": "지능 증가",
-        "English_Text": "increased intelligence",
+        "English_Text": "INT ▲",
         "Russian_Text": "",
         "Chinese_Text": "智力增加"
     },
     "60070510": {
         "Dev_Desc": "무공 강화 업그레이드 툴팁 패시브",
         "Original_Text": "지혜 증가",
-        "English_Text": "Increase Wisdom",
+        "English_Text": "WIS ▲",
         "Russian_Text": "",
         "Chinese_Text": "增加智慧"
     },
     "60070511": {
         "Dev_Desc": "무공 강화 업그레이드 툴팁 패시브",
         "Original_Text": "법종 공격력 증가",
-        "English_Text": "Increase the attack power of the court",
+        "English_Text": "Trilbu Attack ▲",
         "Russian_Text": "",
         "Chinese_Text": "增加法种攻击力"
     },
     "60070512": {
         "Dev_Desc": "무공 강화 업그레이드 툴팁 패시브",
         "Original_Text": "받는 치유량 증가",
-        "English_Text": "Increased healing received",
+        "English_Text": "Incoming Heal ▲",
         "Russian_Text": "",
         "Chinese_Text": "接受值增加"
     },
     "60070513": {
         "Dev_Desc": "무공 강화 업그레이드 툴팁 패시브",
         "Original_Text": "통제 저항률 증가",
-        "English_Text": "Increase control resistivity",
+        "English_Text": "CC Resist ▲",
         "Russian_Text": "",
         "Chinese_Text": "控制抵抗率增加"
     },
     "60070514": {
         "Dev_Desc": "무공 강화 업그레이드 툴팁 패시브",
         "Original_Text": "주는 치유량 증가",
-        "English_Text": "Increases healing done",
+        "English_Text": "Outgoing Heal ▲",
         "Russian_Text": "",
         "Chinese_Text": "增加注入量"
     },
@@ -1295,90 +1316,6 @@
         "English_Text": "Move Speed ​​Step",
         "Russian_Text": "",
         "Chinese_Text": "《移动速度步》"
-    },
-    "60070040": {
-        "Dev_Desc": "치환",
-        "Original_Text": "치환",
-        "English_Text": "substitution",
-        "Russian_Text": "",
-        "Chinese_Text": "替代"
-    },
-    "60070041": {
-        "Dev_Desc": "치환",
-        "Original_Text": "기본 공격 시 일정 확률로 치유력에 비례하여 추가 피해를 입힙니다.",
-        "English_Text": "In the default attack, the certain probability is proportional to the healing force in proportion to the healing.",
-        "Russian_Text": "",
-        "Chinese_Text": "在默认攻击中，某些概率与愈合成比例成正比。"
-    },
-    "60070042": {
-        "Dev_Desc": "항음",
-        "Original_Text": "항음",
-        "English_Text": "Lamentation",
-        "Russian_Text": "",
-        "Chinese_Text": "哀歌"
-    },
-    "60070043": {
-        "Dev_Desc": "항음",
-        "Original_Text": "항마의 기운을 음에 담아냅니다.",
-        "English_Text": "It contains the energy of the Horse.",
-        "Russian_Text": "",
-        "Chinese_Text": "它包含马的能量。"
-    },
-    "60070044": {
-        "Dev_Desc": "예음",
-        "Original_Text": "예음",
-        "English_Text": "acute",
-        "Russian_Text": "",
-        "Chinese_Text": "急性"
-    },
-    "60070045": {
-        "Dev_Desc": "예음",
-        "Original_Text": "예리한 기운을 음에 담아냅니다.",
-        "English_Text": "I put a sharp energy.",
-        "Russian_Text": "",
-        "Chinese_Text": "我付出了敏锐的能量。"
-    },
-    "60070130": {
-        "Dev_Desc": "굉섬뢰_증폭_설명",
-        "Original_Text": "내력 소모량 -4",
-        "English_Text": "Strength Consumption - 4",
-        "Russian_Text": "",
-        "Chinese_Text": "强度消耗 -  4"
-    },
-    "60070131": {
-        "Dev_Desc": "굉섬뢰_극한_설명",
-        "Original_Text": "피해량 증가",
-        "English_Text": "Increased damage",
-        "Russian_Text": "",
-        "Chinese_Text": "增加伤害"
-    },
-    "60070132": {
-        "Dev_Desc": "굉섬뢰_돌파_설명",
-        "Original_Text": "일정 확률로 소모한 내력의 절반을 반환",
-        "English_Text": "Returns half of the history consumed with a certain probability",
-        "Russian_Text": "",
-        "Chinese_Text": "返回以某种概率消耗的一半历史"
-    },
-    "60070226": {
-        "Dev_Desc": "통달_효과",
-        "Original_Text": "통제 저항률 +8.0%",
-        "English_Text": "Control resistivity 8.0%",
-        "Russian_Text": "",
-        "Chinese_Text": "控制电阻率8.0％"
-    },
-    "60070227": {
-        "Dev_Desc": "항음_효과",
-        "Original_Text": "PVE 공격력 +10, 보스 공격력 +5",
-        "English_Text": "PVE Attack Power 10, Boss Damage 5",
-        "Russian_Text": "",
-        "Chinese_Text": "PVE攻击力10，老板损坏5"
-    },
-    "60070228": {
-        "Dev_Desc": "예음_효과",
-        "Original_Text": "PVE 관통력 +5, 보스 관통력 +5",
-        "English_Text": "PVE penetration 5, boss penetration 5",
-        "Russian_Text": "",
-        "Chinese_Text": "PVE渗透5，老板渗透5"
     },
     "60070516": {
         "Dev_Desc": "심판_돌파_효과 툴팁",
@@ -1390,7 +1327,7 @@
     "60070517": {
         "Dev_Desc": "청화_돌파 툴팁",
         "Original_Text": "상서로운 청염의 힘으로 대상을 공격합니다.\\n3연속 청화 사용 시 내력 제거 효과는 첫 타격에만 적용됩니다.",
-        "English_Text": "Targets with the power of a commerce 청 청 공. \\n 3 Continuous texture When use, the effect of removal of the work is applied only to the first strike.",
+        "English_Text": "Attacks the enemy with the power of auspicious blue flame.",
         "Russian_Text": "",
         "Chinese_Text": "目标具有商业的权力청청청。 \\n 3连续纹理使用时，拆除工作的效果仅应用于第一次罢工。"
     },

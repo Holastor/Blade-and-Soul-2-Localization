@@ -4,14 +4,14 @@
         "Dev_Desc": "생령치유",
         "id": 60070000,
         "alias": "Contents.Skill.Name.RitualBell.7011",
-        "text": "Heal Link"
+        "text": "Living Breath"
     },
     "60070001": {
         "deprecated": false,
         "Dev_Desc": "생령치유",
         "id": 60070001,
         "alias": "Contents.Skill.Desc.RitualBell.7011",
-        "text": "Heals nearby allies over time."
+        "text": "Recovers a target's HP."
     },
     "60070002": {
         "deprecated": false,
@@ -67,21 +67,21 @@
         "Dev_Desc": "심기일전",
         "id": 60070009,
         "alias": "Contents.Skill.Desc.RitualBell.7051",
-        "text": "Increases Damage for the entire party for 5 sec."
+        "text": "Increases the entire party's Attack for 5 sec."
     },
     "60070010": {
         "deprecated": false,
         "Dev_Desc": "생령합일",
         "id": 60070010,
         "alias": "Contents.Skill.Name.RitualBell.7061",
-        "text": "Chain Healing"
+        "text": "Heal Link"
     },
     "60070011": {
         "deprecated": false,
         "Dev_Desc": "생령합일",
         "id": 60070011,
         "alias": "Contents.Skill.Desc.RitualBell.7061",
-        "text": "Heals up to 2 nearby party members in a row."
+        "text": "Heals up to 2 nearby allies over time."
     },
     "60070012": {
         "deprecated": false,
@@ -95,7 +95,7 @@
         "Dev_Desc": "치유지대",
         "id": 60070013,
         "alias": "Contents.Skill.Desc.RitualBell.7071",
-        "text": "Install a totem that lasts for 10 sec to heal nearby party members over time."
+        "text": "Installs a totem that lasts for 10 sec to heal nearby party members over time."
     },
     "60070014": {
         "deprecated": false,
@@ -123,7 +123,7 @@
         "Dev_Desc": "구원",
         "id": 60070017,
         "alias": "Contents.Skill.Desc.RitualBell.7091",
-        "text": "Dispels some of the harmful effects of all party members and restores a certain amount of HP."
+        "text": "Partially removes debuffs and recovers a certain amount of HP for the entire party."
     },
     "60070018": {
         "deprecated": false,
@@ -137,14 +137,14 @@
         "Dev_Desc": "청화",
         "id": 60070019,
         "alias": "Contents.Skill.Desc.RitualBell.7101",
-        "text": "Attacks the target with the power of auspicious blue flames."
+        "text": "Attacks the enemy with the power of auspicious blue flame."
     },
     "60070020": {
         "deprecated": false,
         "Dev_Desc": "광명청음",
         "id": 60070020,
         "alias": "Contents.Skill.Name.RitualBell.7111",
-        "text": "Woobo Act"
+        "text": "<DNT>"
     },
     "60070021": {
         "deprecated": false,
@@ -186,21 +186,21 @@
         "Dev_Desc": "가호",
         "id": 60070026,
         "alias": "Contents.Skill.Name.RitualBell.7201",
-        "text": "Realization"
+        "text": "Blessing"
     },
     "60070027": {
         "deprecated": false,
         "Dev_Desc": "가호",
         "id": 60070027,
         "alias": "Contents.Skill.Desc.RitualBell.7201",
-        "text": "Increases the amount of healing received by embodied spiritual energy into your body."
+        "text": "Increases Focus Regen thanks to blessings from the heavens."
     },
     "60070028": {
         "deprecated": false,
         "Dev_Desc": "체화",
         "id": 60070028,
         "alias": "Contents.Skill.Name.RitualBell.7211",
-        "text": "Guru"
+        "text": "Realization"
     },
     "60070029": {
         "deprecated": false,
@@ -214,28 +214,28 @@
         "Dev_Desc": "현자",
         "id": 60070030,
         "alias": "Contents.Skill.Name.RitualBell.7221",
-        "text": "Perfect Pitch"
+        "text": "Guru"
     },
     "60070031": {
         "deprecated": false,
         "Dev_Desc": "현자",
         "id": 60070031,
         "alias": "Contents.Skill.Desc.RitualBell.7221",
-        "text": "Deals greater damage with a Bell by realizing the power of pitch."
+        "text": "Increases WIS and INT through deep concentration."
     },
     "60070032": {
         "deprecated": false,
         "Dev_Desc": "득음",
         "id": 60070032,
         "alias": "Contents.Skill.Name.RitualBell.7231",
-        "text": "Grace"
+        "text": "Perfect Pitch"
     },
     "60070033": {
         "deprecated": false,
         "Dev_Desc": "득음",
         "id": 60070033,
         "alias": "Contents.Skill.Desc.RitualBell.7231",
-        "text": "Healing from Heaven's Grace is increased."
+        "text": "Deals greater damage with a Bell by realizing the power of pitch."
     },
     "60070034": {
         "deprecated": false,
@@ -256,14 +256,14 @@
         "Dev_Desc": "현기",
         "id": 60070036,
         "alias": "Contents.Skill.Name.RitualBell.7251",
-        "text": "Mastery"
+        "text": "Wisdom"
     },
     "60070037": {
         "deprecated": false,
         "Dev_Desc": "현기",
         "id": 60070037,
         "alias": "Contents.Skill.Desc.RitualBell.7251",
-        "text": "More easily resist CC by honing your skill in all things."
+        "text": "Heal is increased through a deeper understanding of healing."
     },
     "60070038": {
         "deprecated": false,
@@ -277,14 +277,14 @@
         "Dev_Desc": "통달",
         "id": 60070039,
         "alias": "Contents.Skill.Desc.RitualBell.7261",
-        "text": "Basic attacks have a chance to deal additional damage proportional to healing power."
+        "text": "More easily resist CC by honing your skill in all things."
     },
     "60070040": {
         "deprecated": false,
         "Dev_Desc": "치환",
         "id": 60070040,
         "alias": "Contents.Skill.Name.RitualBell.7271",
-        "text": "substitution"
+        "text": "Mastery"
     },
     "60070041": {
         "deprecated": false,
@@ -347,63 +347,63 @@
         "Dev_Desc": "연섬뢰_증폭_설명",
         "id": 60070103,
         "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7022",
-        "text": "Focus cost ▼"
+        "text": "Focus Cost -1"
     },
     "60070104": {
         "deprecated": false,
         "Dev_Desc": "연섬뢰_극한_설명",
         "id": 60070104,
         "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7023",
-        "text": "Cooldown ▼"
+        "text": "Cooldown -2 sec"
     },
     "60070105": {
         "deprecated": false,
         "Dev_Desc": "연섬뢰_돌파_설명",
         "id": 60070105,
         "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7024",
-        "text": "Probability +99 strength on hit"
+        "text": "Has a chance to recover Focus +99 upon accurate attack."
     },
     "60070106": {
         "deprecated": false,
         "Dev_Desc": "강섬뢰_증폭_설명",
         "id": 60070106,
         "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7032",
-        "text": "Cooldown ▼"
+        "text": "Cooldown -3 sec"
     },
     "60070107": {
         "deprecated": false,
         "Dev_Desc": "강섬뢰_극한_설명",
         "id": 60070107,
         "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7033",
-        "text": "Accuracy Chance ▲"
+        "text": "Certain Force Accuracy +10%"
     },
     "60070108": {
         "deprecated": false,
         "Dev_Desc": "강섬뢰_돌파_설명",
         "id": 60070108,
         "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7034",
-        "text": "Damage ▲ relative to Healing Power"
+        "text": "Extra damage relative to Heal"
     },
     "60070109": {
         "deprecated": false,
         "Dev_Desc": "심판_증폭_설명",
         "id": 60070109,
         "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7042",
-        "text": "Damage increased"
+        "text": "Damage ▲"
     },
     "60070110": {
         "deprecated": false,
         "Dev_Desc": "심판_극한_설명",
         "id": 60070110,
         "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7043",
-        "text": "Damage ▲ relative to Healing Power"
+        "text": "Extra damage relative to Heal"
     },
     "60070111": {
         "deprecated": false,
         "Dev_Desc": "심판_돌파_설명",
         "id": 60070111,
         "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7044",
-        "text": "Probability of applying \"stun\" effect"
+        "text": "Has a chance to inflict Stun."
     },
     "60070112": {
         "deprecated": false,
@@ -417,14 +417,14 @@
         "Dev_Desc": "심기일전_극한_설명",
         "id": 60070113,
         "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7053",
-        "text": "Probability +5 Precision"
+        "text": "Precision +5 at a chance"
     },
     "60070114": {
         "deprecated": false,
         "Dev_Desc": "심기일전_돌파_설명",
         "id": 60070114,
         "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7054",
-        "text": "Probability +10% to melee, ranged, and Qigong absolute accuracy"
+        "text": "Certain Melee Accuracy, Certain Ranged Accuracy, Certain Force Accuracy +10% at a chance."
     },
     "60070115": {
         "deprecated": false,
@@ -452,7 +452,7 @@
         "Dev_Desc": "치유지대_증폭_설명",
         "id": 60070118,
         "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7072",
-        "text": "Cooldown ▼"
+        "text": "Cooldown -10 sec"
     },
     "60070119": {
         "deprecated": false,
@@ -466,28 +466,28 @@
         "Dev_Desc": "치유지대_돌파_설명",
         "id": 60070120,
         "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7074",
-        "text": "Healing target expands to allies\nIncreases healing range"
+        "text": "Expands healing to allies\nExpands healing zone"
     },
     "60070121": {
         "deprecated": false,
         "Dev_Desc": "수호_증폭_설명",
         "id": 60070121,
         "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7082",
-        "text": "Strength consumption -2"
+        "text": "Focus Cost -2"
     },
     "60070122": {
         "deprecated": false,
         "Dev_Desc": "수호_극한_설명",
         "id": 60070122,
         "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7083",
-        "text": "Increase range"
+        "text": "Incoming Damage Down +5%\nExtends its range."
     },
     "60070123": {
         "deprecated": false,
         "Dev_Desc": "수호_돌파_설명",
         "id": 60070123,
         "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7084",
-        "text": "Greatly increases Damage Down effect\nIgnores Magic Arrow's removal effect"
+        "text": "Incoming Damage Down +10%\nDisables up to [Extreme] level of Magic Arrow."
     },
     "60070124": {
         "deprecated": false,
@@ -508,28 +508,28 @@
         "Dev_Desc": "구원_돌파_설명",
         "id": 60070126,
         "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7094",
-        "text": "Additional dispel \"air\", \"taunt\"\nadditional disarm \"immobilization\" of blade effects"
+        "text": "Removes Airborne and Provoke.\nRemoves the \"Disabled Action\" of Blade effect."
     },
     "60070127": {
         "deprecated": false,
         "Dev_Desc": "청화_증폭_설명",
         "id": 60070127,
         "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7102",
-        "text": "Probability of removing part of the target's history in proportion to healing power"
+        "text": "Has a chance to partially remove the target's Focus relative to Heal."
     },
     "60070128": {
         "deprecated": false,
         "Dev_Desc": "청화_극한_설명",
         "id": 60070128,
         "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7103",
-        "text": "Damage increased"
+        "text": "Damage ▲"
     },
     "60070129": {
         "deprecated": false,
         "Dev_Desc": "청화_돌파_설명",
         "id": 60070129,
         "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7104",
-        "text": "Higher chance to remove part of the target's history in proportion to healing"
+        "text": "Has a higher chance to partially remove the target's Focus relative to Heal."
     },
     "60070130": {
         "deprecated": false,
@@ -687,7 +687,7 @@
         "Dev_Desc": "가호_효과",
         "id": 60070220,
         "alias": "Contents.Skill.UseEffect.RitualBell.7201",
-        "text": "Healing received +2.0%"
+        "text": "Focus Regen +1"
     },
     "60070221": {
         "deprecated": false,
@@ -701,14 +701,14 @@
         "Dev_Desc": "현자_효과",
         "id": 60070222,
         "alias": "Contents.Skill.UseEffect.RitualBell.7221",
-        "text": "Trilbu Attack +3"
+        "text": "INT +1, WIS +1"
     },
     "60070223": {
         "deprecated": false,
         "Dev_Desc": "득음_효과",
         "id": 60070223,
         "alias": "Contents.Skill.UseEffect.RitualBell.7231",
-        "text": "Healing done +3.0%"
+        "text": "Trilbu Attack +3"
     },
     "60070224": {
         "deprecated": false,
@@ -722,14 +722,14 @@
         "Dev_Desc": "현기_효과",
         "id": 60070225,
         "alias": "Contents.Skill.UseEffect.RitualBell.7251",
-        "text": "CC Resist +8.0%"
+        "text": "Heal +10"
     },
     "60070226": {
         "deprecated": false,
         "Dev_Desc": "통달_효과",
         "id": 60070226,
         "alias": "Contents.Skill.UseEffect.RitualBell.7261",
-        "text": "Control resistivity 8.0%"
+        "text": "CC Resist +8.0%"
     },
     "60070227": {
         "deprecated": false,
@@ -757,35 +757,35 @@
         "Dev_Desc": "심기일전_피해량_버프창",
         "id": 60070301,
         "alias": "Contents.Effect.Desc.RitualBell.705100",
-        "text": "Outgoing Damage ▲"
+        "text": "Amplified Outgoing Damage"
     },
     "60070302": {
         "deprecated": false,
         "Dev_Desc": "심기일전_정밀_버프창",
         "id": 60070302,
         "alias": "Contents.Effect.Name.RitualBell.705350",
-        "text": "Before Planting (Precision)"
+        "text": "New Leaf (Precision)"
     },
     "60070303": {
         "deprecated": false,
         "Dev_Desc": "심기일전_정밀_버프창",
         "id": 60070303,
         "alias": "Contents.Effect.Desc.RitualBell.705350",
-        "text": "Increase Precision"
+        "text": "Precision ▲"
     },
     "60070304": {
         "deprecated": false,
         "Dev_Desc": "심기일전_무기 공격력_버프창",
         "id": 60070304,
         "alias": "Contents.Effect.Name.RitualBell.705250",
-        "text": "New Leaf (Accuracy)"
+        "text": "New Leaf (Certain Accuracy)"
     },
     "60070305": {
         "deprecated": false,
         "Dev_Desc": "심기일전_무기 공격력_버프창",
         "id": 60070305,
         "alias": "Contents.Effect.Desc.RitualBell.705250",
-        "text": "Accuracy ▲"
+        "text": "Certain Accuracy ▲"
     },
     "60070306": {
         "deprecated": false,
@@ -799,21 +799,21 @@
         "Dev_Desc": "수호_증폭_피해감소_버프창",
         "id": 60070307,
         "alias": "Contents.Effect.Name.RitualBell.708200",
-        "text": "Guardian"
+        "text": "[Amplified] Guardian"
     },
     "60070308": {
         "deprecated": false,
         "Dev_Desc": "수호_극한_피해감소_버프창",
         "id": 60070308,
         "alias": "Contents.Effect.Name.RitualBell.708300",
-        "text": "Guardian"
+        "text": "[Extreme] Guardian"
     },
     "60070309": {
         "deprecated": false,
         "Dev_Desc": "수호_돌파_피해감소_버프창",
         "id": 60070309,
         "alias": "Contents.Effect.Name.RitualBell.708400",
-        "text": "Guardian"
+        "text": "[Rise] Guardian"
     },
     "60070310": {
         "deprecated": false,
@@ -1240,105 +1240,105 @@
         "Dev_Desc": "무공 강화 업그레이드 툴팁",
         "id": 60070500,
         "alias": "Contents.Skill.Upgrade.Name.7000",
-        "text": "Increase Healing Factor"
+        "text": "Heal Factor ▲"
     },
     "60070501": {
         "deprecated": false,
         "Dev_Desc": "무공 강화 업그레이드 툴팁",
         "id": 60070501,
         "alias": "Contents.Skill.Upgrade.Name.7001",
-        "text": "Increase non-air damage factor"
+        "text": "Technique Damage Factor ▲"
     },
     "60070502": {
         "deprecated": false,
         "Dev_Desc": "무공 강화 업그레이드 툴팁",
         "id": 60070502,
         "alias": "Contents.Skill.Upgrade.Name.7002",
-        "text": "Amplifies damage dealt"
+        "text": "Amplified Outgoing Damage"
     },
     "60070503": {
         "deprecated": false,
         "Dev_Desc": "무공 강화 업그레이드 툴팁",
         "id": 60070503,
         "alias": "Contents.Skill.Upgrade.Name.7003",
-        "text": "Increased damage reduction rate"
+        "text": "Incoming Damage Down ▲"
     },
     "60070504": {
         "deprecated": false,
         "Dev_Desc": "무공 강화 업그레이드 툴팁",
         "id": 60070504,
         "alias": "Contents.Skill.Upgrade.Name.7004",
-        "text": "Increase Control Resistivity"
+        "text": "CC Resist ▲"
     },
     "60070505": {
         "deprecated": false,
         "Dev_Desc": "무공 강화 업그레이드 툴팁",
         "id": 60070505,
         "alias": "Contents.Skill.Upgrade.Name.7005",
-        "text": "Increased Resurrection Health"
+        "text": "Resurrection HP ▲"
     },
     "60070506": {
         "deprecated": false,
         "Dev_Desc": "무공 강화 업그레이드 툴팁",
         "id": 60070506,
         "alias": "Contents.Skill.Upgrade.Name.7006",
-        "text": "Increased invincibility duration"
+        "text": "Immune to Damage Duration ▲"
     },
     "60070507": {
         "deprecated": false,
         "Dev_Desc": "무공 강화 업그레이드 툴팁 패시브",
         "id": 60070507,
         "alias": "Contents.Skill.Upgrade.Name.7007",
-        "text": "Increase strength regeneration"
+        "text": "Focus Regen ▲"
     },
     "60070508": {
         "deprecated": false,
         "Dev_Desc": "무공 강화 업그레이드 툴팁 패시브",
         "id": 60070508,
         "alias": "Contents.Skill.Upgrade.Name.7008",
-        "text": "Increased Healing"
+        "text": "Heal ▲"
     },
     "60070509": {
         "deprecated": false,
         "Dev_Desc": "무공 강화 업그레이드 툴팁 패시브",
         "id": 60070509,
         "alias": "Contents.Skill.Upgrade.Name.7009",
-        "text": "increased intelligence"
+        "text": "INT ▲"
     },
     "60070510": {
         "deprecated": false,
         "Dev_Desc": "무공 강화 업그레이드 툴팁 패시브",
         "id": 60070510,
         "alias": "Contents.Skill.Upgrade.Name.7010",
-        "text": "Increase Wisdom"
+        "text": "WIS ▲"
     },
     "60070511": {
         "deprecated": false,
         "Dev_Desc": "무공 강화 업그레이드 툴팁 패시브",
         "id": 60070511,
         "alias": "Contents.Skill.Upgrade.Name.7011",
-        "text": "Increase the attack power of the court"
+        "text": "Trilbu Attack ▲"
     },
     "60070512": {
         "deprecated": false,
         "Dev_Desc": "무공 강화 업그레이드 툴팁 패시브",
         "id": 60070512,
         "alias": "Contents.Skill.Upgrade.Name.7012",
-        "text": "Increased healing received"
+        "text": "Incoming Heal ▲"
     },
     "60070513": {
         "deprecated": false,
         "Dev_Desc": "무공 강화 업그레이드 툴팁 패시브",
         "id": 60070513,
         "alias": "Contents.Skill.Upgrade.Name.7013",
-        "text": "Increase control resistivity"
+        "text": "CC Resist ▲"
     },
     "60070514": {
         "deprecated": false,
         "Dev_Desc": "무공 강화 업그레이드 툴팁 패시브",
         "id": 60070514,
         "alias": "Contents.Skill.Upgrade.Name.7014",
-        "text": "Increases healing done"
+        "text": "Outgoing Heal ▲"
     },
     "60070515": {
         "deprecated": false,
@@ -1359,7 +1359,7 @@
         "Dev_Desc": "청화_돌파 툴팁",
         "id": 60070517,
         "alias": "Contents.Skill.Desc.RitualBell.7104",
-        "text": "Targets with the power of a commerce 청 청 공. \\n 3 Continuous texture When use, the effect of removal of the work is applied only to the first strike."
+        "text": "Attacks the enemy with the power of auspicious blue flame."
     },
     "60070518": {
         "deprecated": false,

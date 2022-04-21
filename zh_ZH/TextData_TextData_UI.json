@@ -29372,125 +29372,6 @@
         "alias": "UI.Common.Keyboard.Space",
         "text": "空间"
     },
-    "8004279": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 변경선택",
-        "id": 8004279,
-        "alias": "UI.ClassChange.Change.Desc1",
-        "text": "请选择一个类来更改。"
-    },
-    "8004280": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 변경선택",
-        "id": 8004280,
-        "alias": "UI.ClassChange.Change.Desc2",
-        "text": "请选择要切换的类。"
-    },
-    "8004281": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 클래스 전환",
-        "id": 8004281,
-        "alias": "UI.ClassChange.Change",
-        "text": "转换课程"
-    },
-    "8004282": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 일정",
-        "id": 8004282,
-        "alias": "UI.ClassChange.Change.Date",
-        "text": "2020.12.12至2020.12.29 05:00"
-    },
-    "8004283": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 설명1",
-        "id": 8004283,
-        "alias": "UI.ClassChange.Change.Desc3",
-        "text": "选择要更改的类后，将在设置详细项目后进行购买。"
-    },
-    "8004284": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 기본 비용",
-        "id": 8004284,
-        "alias": "UI.ClassChange.Cost1",
-        "text": "基本成本"
-    },
-    "8004285": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 무기 전환",
-        "id": 8004285,
-        "alias": "UI.ClassChange.Weapon1",
-        "text": "武器"
-    },
-    "8004286": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 무기 선택",
-        "id": 8004286,
-        "alias": "UI.ClassChange.Weapon2",
-        "text": "武器选择"
-    },
-    "8004287": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 무공 전이",
-        "id": 8004287,
-        "alias": "UI.ClassChange.Skill1",
-        "text": "公共过渡"
-    },
-    "8004288": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 추가 비용",
-        "id": 8004288,
-        "alias": "UI.ClassChange.Cost2",
-        "text": "附加费用"
-    },
-    "8004289": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 보유 무기",
-        "id": 8004289,
-        "alias": "UI.ClassChange.Weapon3",
-        "text": "抱着武器"
-    },
-    "8004290": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 보유 무공",
-        "id": 8004290,
-        "alias": "UI.ClassChange.Skill2",
-        "text": "保持"
-    },
-    "8004291": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 전이 결과",
-        "id": 8004291,
-        "alias": "UI.ClassChange.Result",
-        "text": "过渡结果"
-    },
-    "8004292": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 전환 무기",
-        "id": 8004292,
-        "alias": "UI.ClassChange.Result.Weapon",
-        "text": "切换武器"
-    },
-    "8004293": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 설명2",
-        "id": 8004293,
-        "alias": "UI.ClassChange.Result.Desc1",
-        "text": "将当前类专用武器更改为仅限类武器。"
-    },
-    "8004294": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 설명3",
-        "id": 8004294,
-        "alias": "UI.ClassChange.Result.Desc2",
-        "text": "目前，课程的硬化，改变班级车辆的进化步骤。"
-    },
-    "8004295": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 재선택",
-        "id": 8004295,
-        "alias": "UI.ClassChange.Reselect",
-        "text": "重新选择"
-    },
     "8004296": {
         "deprecated": false,
         "Dev_Desc": "희생의 무덤 상인",
@@ -30832,13 +30713,6 @@
         "alias": "UI.Item.ItemType.HeroTransfer",
         "text": "服务器传输"
     },
-    "8004497": {
-        "deprecated": false,
-        "Dev_Desc": "메인탭 / 클래스 전환탭",
-        "id": 8004497,
-        "alias": "UI.CashShop.TapName.Main.ClassSwap",
-        "text": "班级变革"
-    },
     "8004498": {
         "deprecated": false,
         "Dev_Desc": "아이템 서브 타입",
@@ -30852,20 +30726,6 @@
         "id": 8004499,
         "alias": "UI.Item.ItemType.AutoPets",
         "text": "召唤者"
-    },
-    "8004500": {
-        "deprecated": false,
-        "Dev_Desc": "아이템 서브 타입",
-        "id": 8004500,
-        "alias": "UI.Item.ItemType.ClassSwapCoin",
-        "text": "班级改变硬币"
-    },
-    "8004501": {
-        "deprecated": false,
-        "Dev_Desc": "아이템 서브 타입",
-        "id": 8004501,
-        "alias": "UI.Item.ItemType.ClassSwapTicket",
-        "text": "班级改变机票"
     },
     "8004502": {
         "deprecated": false,
@@ -30929,90 +30789,6 @@
         "id": 8004510,
         "alias": "UI.Shop.Tittle.Name.30000",
         "text": "传奇的垂钓者"
-    },
-    "8004511": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 재선택 / 질문",
-        "id": 8004511,
-        "alias": "UI.ClassChange.Change.Question1",
-        "text": "你想重新改变班吗？"
-    },
-    "8004512": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 재선택 / 질문",
-        "id": 8004512,
-        "alias": "UI.ClassChange.Change.Question2",
-        "text": "你想重新转换吗？"
-    },
-    "8004513": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 재선택 / 질문",
-        "id": 8004513,
-        "alias": "UI.ClassChange.Change.Question3",
-        "text": "你想重新传输吗？"
-    },
-    "8004514": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 초기화 / 안내",
-        "id": 8004514,
-        "alias": "UI.ClassChange.Change.Reset",
-        "text": "详细选择已初始化。"
-    },
-    "8004515": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 불가 / 안내",
-        "id": 8004515,
-        "alias": "UI.ClassChange.Change.Desc.No1",
-        "text": "<arg p=[1:string]/><ga/>您无法通过缺乏切换类。"
-    },
-    "8004516": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 세부 항목 / 선택",
-        "id": 8004516,
-        "alias": "UI.ClassChange.Change.choice",
-        "text": "请选择要切换的详细信息项。"
-    },
-    "8004517": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 전이 가능",
-        "id": 8004517,
-        "alias": "UI.ClassChange.Change.Skill.Yes",
-        "text": "有能力的"
-    },
-    "8004518": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 불가 / 안내",
-        "id": 8004518,
-        "alias": "UI.ClassChange.Change.Desc.No2",
-        "text": "不可能相同的加强和进化步骤"
-    },
-    "8004519": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 재화 부족",
-        "id": 8004519,
-        "alias": "UI.ClassChange.Change.NotAvailable",
-        "text": "缺乏货物。"
-    },
-    "8004520": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 불가 / 안내",
-        "id": 8004520,
-        "alias": "UI.ClassChange.Change.Desc.No3",
-        "text": "货物无法切换。"
-    },
-    "8004521": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 재선택 / 질문",
-        "id": 8004521,
-        "alias": "UI.ClassChange.Change.Question4",
-        "text": "你想切换课程吗？"
-    },
-    "8004522": {
-        "deprecated": false,
-        "Dev_Desc": "클래스 체인지 / 불가 / 안내",
-        "id": 8004522,
-        "alias": "UI.ClassChange.Change.Desc.No4",
-        "text": "无与伦比的"
     },
     "8004523": {
         "deprecated": false,
@@ -31174,5 +30950,89 @@
         "id": 8004545,
         "alias": "UI.CashShop.TX.PlayGradePopUp.Desc",
         "text": "购买冒险和某些商品时可以获得戏剧。"
+    },
+    "8004546": {
+        "deprecated": false,
+        "Dev_Desc": "협행 / 모든 협행 수락 버튼",
+        "id": 8004546,
+        "alias": "UI.Bulletin.AcceptAllButton",
+        "text": "接受所有合作"
+    },
+    "8004547": {
+        "deprecated": false,
+        "Dev_Desc": "협행 / 모든 보상 수령 버튼",
+        "id": 8004547,
+        "alias": "UI.Bulletin.ReceiveAllButton",
+        "text": "每一个补偿收据"
+    },
+    "8004548": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 조작 / 편의 / 협행 완료 시 임무 목록에서 모든 보상 수령",
+        "id": 8004548,
+        "alias": "UI.Option.Control.Convenience.ReceiveBulletinRewardAll",
+        "text": "从任务列表中致电所有赔偿"
+    },
+    "8004549": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 조작 / 편의 / 협행 완료 시 임무 목록에서 모든 보상 수령 / 설명",
+        "id": 8004549,
+        "alias": "UI.Option.Control.Convenience.ReceiveBulletinRewardAll.Desc",
+        "text": "选择任务列表的完成时，您将获得补偿赔偿的所有各方的补偿。"
+    },
+    "8004550": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 조작 / 편의 / 아이템 자동 사용 그룹",
+        "id": 8004550,
+        "alias": "UI.Option.Control.Convenience.AutoUseGroupOption",
+        "text": "根据优先级自动使用相同类型的消耗品"
+    },
+    "8004551": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 조작 / 편의 / 아이템 자동 사용 그룹 / 설명",
+        "id": 8004551,
+        "alias": "UI.Option.Control.Convenience.AutoUseGroupOption.Desc",
+        "text": "使用自动使用时，请根据优先级使用相同类型的消耗品。 \\n高年级 - >事件 - >雕刻 - >非非"
+    },
+    "8004552": {
+        "deprecated": false,
+        "Dev_Desc": "신규/복귀 혜택 테스트용 데이터",
+        "id": 8004552,
+        "alias": "UI.CashShop.TapName.Sub.Test1",
+        "text": "新的好处测试选项卡"
+    },
+    "8004553": {
+        "deprecated": false,
+        "Dev_Desc": "신규/복귀 혜택 테스트용 데이터",
+        "id": 8004553,
+        "alias": "UI.CashShop.TapName.Sub.Test2",
+        "text": "返回优势测试选项卡"
+    },
+    "8004554": {
+        "deprecated": false,
+        "Dev_Desc": "신규/복귀 혜택 테스트용 데이터",
+        "id": 8004554,
+        "alias": "UI.CashShop.TapName.Sub.Test3",
+        "text": "新的"
+    },
+    "8004555": {
+        "deprecated": false,
+        "Dev_Desc": "보패 / 보패 장착 / 세트효과팝업 / 없음",
+        "id": 8004555,
+        "alias": "UI.Bopae.Equip.SetEffect.No",
+        "text": "没有具有集合效果的值。"
+    },
+    "8004556": {
+        "deprecated": false,
+        "Dev_Desc": "무공 / 특화 무공 / 이름 / 장검",
+        "id": 8004556,
+        "alias": "UI.Skill.SpecialSkill.DualDagger",
+        "text": "匕首专业化"
+    },
+    "8004561": {
+        "deprecated": false,
+        "Dev_Desc": "캐시상점 / 서브 탭 / 패키지 탭 / 주간월간 상품",
+        "id": 8004561,
+        "alias": "UI.CashShop.TapName.Sub.Package6",
+        "text": "每周/每月货物"
     }
 }

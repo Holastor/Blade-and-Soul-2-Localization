@@ -3815,7 +3815,8 @@
         "deprecated": false,
         "Dev_Desc": "영신단",
         "id": 89500585,
-        "alias": "Contents.Effect.Detail.9230109"
+        "alias": "Contents.Effect.Detail.9230109",
+        "text": "왕만두, 꿩만두, 백년초 만두 및 용정차 사용효과와 중첩하여 사용 불가"
     },
     "89500586": {
         "deprecated": false,
@@ -4058,21 +4059,21 @@
         "Dev_Desc": "왕만두",
         "id": 89500620,
         "alias": "Contents.Effect.Option.9230101",
-        "text": "공격력 +2"
+        "text": "공격력 +2\n기본 공격 속도 +20%\n내력 절대 재생 +15"
     },
     "89500621": {
         "deprecated": false,
         "Dev_Desc": "꿩만두",
         "id": 89500621,
         "alias": "Contents.Effect.Option.9230102",
-        "text": "공격력 +2\n명중 +1"
+        "text": "공격력 +2\n명중 +1\n기본 공격 속도 +20%\n내력 절대 재생 +15"
     },
     "89500622": {
         "deprecated": false,
         "Dev_Desc": "백년초 만두",
         "id": 89500622,
         "alias": "Contents.Effect.Option.9230103",
-        "text": "공격력 +2\n명중 +1\n관통력 +3"
+        "text": "공격력 +2\n명중 +1\n관통력 +3\n기본 공격 속도 +20%\n내력 절대 재생 +15"
     },
     "89500623": {
         "deprecated": false,
@@ -4135,21 +4136,21 @@
         "Dev_Desc": "왕만두",
         "id": 89500631,
         "alias": "Contents.Effect.Detail.9230101",
-        "text": "다른 음식 아이템 사용효과와 중첩하여 사용 불가"
+        "text": "영신단, 용정차 및 꿩만두, 백년초 만두 사용효과와 중첩하여 사용 불가"
     },
     "89500632": {
         "deprecated": false,
         "Dev_Desc": "꿩만두",
         "id": 89500632,
         "alias": "Contents.Effect.Detail.9230102",
-        "text": "다른 음식 아이템 사용효과와 중첩하여 사용 불가"
+        "text": "영신단, 용정차 및 왕만두, 백년초 만두 사용효과와 중첩하여 사용 불가"
     },
     "89500633": {
         "deprecated": false,
         "Dev_Desc": "백년초 만두",
         "id": 89500633,
         "alias": "Contents.Effect.Detail.9230103",
-        "text": "다른 음식 아이템 사용효과와 중첩하여 사용 불가"
+        "text": "영신단, 용정차 및 왕만두, 꿩만두 사용효과와 중첩하여 사용 불가"
     },
     "89500634": {
         "deprecated": false,
@@ -4194,7 +4195,8 @@
         "deprecated": false,
         "Dev_Desc": "용정차",
         "id": 89500640,
-        "alias": "Contents.Effect.Detail.9230113"
+        "alias": "Contents.Effect.Detail.9230113",
+        "text": "왕만두, 꿩만두, 백년초 만두 및 영신단 사용효과와 중첩하여 사용 불가"
     },
     "89500641": {
         "deprecated": false,
