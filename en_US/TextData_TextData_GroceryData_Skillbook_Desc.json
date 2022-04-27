@@ -32,7 +32,7 @@
         "Dev_Desc": "반격찌르기 / 일반 검 무공서 (각인)",
         "id": 97100005,
         "alias": "Contents.Item.Desc.9100114",
-        "text": "Off the \"block\", and attack the stinging attack of long intersections. \\n Soul parable can be used when successful."
+        "text": "Removes \"Block\" and performs a long-range stab attack.\\nCan be used when soul parrying is successful."
     },
     "97100006": {
         "deprecated": false,
@@ -67,7 +67,7 @@
         "Dev_Desc": "발도 / 상급 검 무공서 (각인)",
         "id": 97100010,
         "alias": "Contents.Item.Desc.9100124",
-        "text": "Fast continuous attacks are also attacked. \\n Soul pairing is available to manually press the attack button to a stunning target."
+        "text": "Attacks with feet that can be attacked in quick succession.\\nSoul Paring Can be used by manually pressing the attack button on a stunned target."
     },
     "97100011": {
         "deprecated": false,
@@ -102,7 +102,7 @@
         "Dev_Desc": "희귀 / 검술연계Ⅱ / 패시브",
         "id": 97100015,
         "alias": "Contents.Item.Desc.9100134",
-        "text": "To Boss Monster, \"Vague [Extreme]\", \"Deva [breakthrough]\" is a definite attack on the attack."
+        "text": "When attacking the boss monster with \"Upcut [Extreme]\" or \"Upcut [Breakthrough]\", it will perform a definite chained attack."
     },
     "97100016": {
         "deprecated": false,
@@ -130,14 +130,14 @@
         "Dev_Desc": "영웅 / 휘몰아치기 / 패시브",
         "id": 97100019,
         "alias": "Contents.Item.Desc.9100143",
-        "text": "I raise the momentum to raise the attacks. In the case of a certain time, a certain probability of a certain probability is obtained for 10 seconds. \\n Blood archigen increases the rate of unauthorized attacks. \\n Up to 5 times."
+        "text": "Raises the momentum to drive the attack.\\nWhen hitting with no attack, there is a chance to gain a swirling effect for 10 seconds.\\nThe attack speed of non-attack increases during swirling.\\nStacks up to 5 times."
     },
     "97100020": {
         "deprecated": false,
         "Dev_Desc": "검술연계Ⅰ",
         "id": 97100020,
         "alias": "Contents.Item.Desc.9100144",
-        "text": "Boss Monster Attacks, \"Clouds\", \"Clouds\" is activated. \\n"
+        "text": "When attacking a boss monster, \"Cleave the sky\" and \"Cleave the cloud\" are activated.\\n(Dealing time for activation of useless attack is 18 seconds)"
     },
     "97100021": {
         "deprecated": false,
@@ -227,7 +227,7 @@
         "Dev_Desc": "상급 / 연권 / QQ",
         "id": 97100033,
         "alias": "Contents.Item.Desc.9100224",
-        "text": "The target blows the fist to the left and right. \\n Soul Payment You can use the attack button manually to the target target."
+        "text": "Quickly shoots fists left and right at the target.\\nSoul Parrying You can use it by manually pressing the attack button on the stunned target."
     },
     "97100034": {
         "deprecated": false,
@@ -262,7 +262,7 @@
         "Dev_Desc": "희귀 / 권법연계Ⅱ / 패시브 / 각인",
         "id": 97100038,
         "alias": "Contents.Item.Desc.9100235",
-        "text": "To Boss Monster, \"Ascension [breakthrough]\", \"Bridge [breakthrough]\" is a definite attack on the attack."
+        "text": "When attacking the boss monster with \"Ascension [Breakthrough]\" or \"Bridge [Breakthrough]\", it performs a confirmed chained attack."
     },
     "97100039": {
         "deprecated": false,
@@ -304,14 +304,14 @@
         "Dev_Desc": "개혈 / 액티브",
         "id": 97100044,
         "alias": "Contents.Item.Desc.9100245",
-        "text": "Nearline attack power is permanently increased. \\n After opening the blood, the target will recover the vitality with a certain probability of attack."
+        "text": "Permanently increases melee attack power.\\nOpens blood vessels and has a chance to recover health when an attack hits a target."
     },
     "97100045": {
         "deprecated": false,
         "Dev_Desc": "영웅 / 권법연계Ⅰ / 패시브 / 각인",
         "id": 97100045,
         "alias": "Contents.Item.Desc.9100246",
-        "text": "When Boss Monster attacks, \"Name An Anccular\", \"Inspector\", \"Ascension\" is activated. \\n (((((()"
+        "text": "When attacking boss monsters, \"Death Strike\", \"Furious Tiger Attack\", and \"Spirit of Ascension\" are activated.\\n(Available waiting time 18 seconds)"
     },
     "97100046": {
         "deprecated": false,
@@ -423,14 +423,14 @@
         "Dev_Desc": "돌파의 정수 : 천지가르기",
         "id": 97100061,
         "alias": "Contents.Item.Desc.9101135",
-        "text": "It is an integer used in the evolution of \"heaven\". \\n\\n [Prerequisites] \\n\\n [Prerequisites] \\n older reinforcement stage 9 or later"
+        "text": "Essence used for the evolution of \"Cleave the Sky\".\\nWhen evolving, additional combo attacks are performed.\\n\\n[Prerequisite]\\nAbove attack power enhancement level +9"
     },
     "97100062": {
         "deprecated": false,
         "Dev_Desc": "돌파의 정수 : 일섬 ",
         "id": 97100062,
         "alias": "Contents.Item.Desc.9101136",
-        "text": "It is an integer used in the evolution of \"day island\". \\n Evolution time is increased, Damage, Damage increases. \\n\\n [Prerequisites] \\n older reinforcement stage 9 or later"
+        "text": "This is the essence used for the evolution of \"One Island\".\\nWhen evolving, the range and damage used by the target of the sword mark increases.\\n\\n[Prerequisites]\\nThe skill enhancement level +9 or higher"
     },
     "97100063": {
         "deprecated": false,
@@ -451,14 +451,14 @@
         "Dev_Desc": "극한의 정수 : 번개베기",
         "id": 97100065,
         "alias": "Contents.Item.Desc.9101142",
-        "text": "It is an integer used for evolution of \"times\". \\n Banning time is initialized to initialize the waiting for the island, and the attack power is increased for 6 seconds, and the hit is incremented by 9."
+        "text": "Essence used to evolve \"Lightning Slash\".\\nWhen Lightning Slash is used, the cooldown is reset, and attack power is increased by 12 and accuracy by 9 for 6 seconds."
     },
     "97100066": {
         "deprecated": false,
         "Dev_Desc": "돌파의 정수 : 번개베기",
         "id": 97100066,
         "alias": "Contents.Item.Desc.9101143",
-        "text": "It is an integer used for evolution of \"times\". \\n \\n\\n [Prerequisites] \\n\\n [Prerequisites] \\n"
+        "text": "Essence used for the evolution of \"Lightning Slash\".\\nAdditional attacks are applied to stunned enemies when evolving.\\n\\n[Prerequisite]\\nStrengthen Attack Level +9 or higher"
     },
     "97100067": {
         "deprecated": false,
@@ -472,35 +472,35 @@
         "Dev_Desc": "돌파의 정수 : 올려베기 (각인)",
         "id": 97100068,
         "alias": "Contents.Item.Desc.9101145",
-        "text": "It is an integer used in the evolution of \"up\". \\n Evangelization is an additional finishing attack after the linkage attack. \\n\\n [Prerequisites] \\n older reinforcement stage 9 or later"
+        "text": "This is the essence used for the evolution of \"Cleaning Up\".\\nWhen evolving, it applies an additional finishing attack after a combo attack.\\n\\n[Prerequisite]\\nAbove attack power enhancement level +9"
     },
     "97100069": {
         "deprecated": false,
         "Dev_Desc": "극한의 정수 : 어검징표",
         "id": 97100069,
         "alias": "Contents.Item.Desc.9101146",
-        "text": "It is an integer used for evolution of \"Singling Mark\". \\n Evolution is increased when evolution increases."
+        "text": "Essence used to evolve \"Sword Mark\".\\nThe range increases when evolving."
     },
     "97100070": {
         "deprecated": false,
         "Dev_Desc": "돌파의 정수 : 어검징표",
         "id": 97100070,
         "alias": "Contents.Item.Desc.9101147",
-        "text": "It is an integer used for evolution of \"no symptoms\". \\n \\n\\n [Prerequisites] \\n\\n [Prerequisites] \\n"
+        "text": "This is the essence used to evolve \"Sword Mark\".\\nWhen evolving, stun effect is applied with a certain probability.\\n\\n[Prerequisites]\\nMore than +9 skill enhancement level"
     },
     "97100071": {
         "deprecated": false,
         "Dev_Desc": "극한의 정수 : 구름베기",
         "id": 97100071,
         "alias": "Contents.Item.Desc.9101148",
-        "text": "This is the integer used for evolution of \"Clouds Bag\". \\n The damage received during use is 60% reduced."
+        "text": "Essence used to evolve \"Cloud Slash\".\\nDamage received while evolving is reduced by 60%."
     },
     "97100072": {
         "deprecated": false,
         "Dev_Desc": "돌파의 정수 : 구름베기",
         "id": 97100072,
         "alias": "Contents.Item.Desc.9101149",
-        "text": "It is an integer used in the evolution of \"Clouds Begin\". \\n \"Heavi\" in the evolution is the probability of \"heaven and earth\"."
+        "text": "This is the essence used to evolve \"Cloud Slash\".\\nWhen evolving, there is a chance to reset the cooldown of \"Cleave the Sky\".\\n\\n[Prerequisite]\\nAbove Weapon Enhancement Level +9"
     },
     "97100073": {
         "deprecated": false,
@@ -549,21 +549,21 @@
         "Dev_Desc": "증폭의 정수 : 발도 (각인)",
         "id": 97100079,
         "alias": "Contents.Item.Desc.9101157",
-        "text": "It is an integer used for evolution of \"foot\". \\n Evolutionary history consumption is 4 decreases."
+        "text": "Essence used to evolve \"Baldo\".\\nWhen evolving, strength consumption is reduced by 4."
     },
     "97100080": {
         "deprecated": false,
         "Dev_Desc": "극한의 정수 : 발도 (각인)",
         "id": 97100080,
         "alias": "Contents.Item.Desc.9101158",
-        "text": "It is an integer used for evolution of \"foot\". \\n Evolution increases damage."
+        "text": "Essence used to evolve \"Baldo\".\\nDamage increases when evolving."
     },
     "97100081": {
         "deprecated": false,
         "Dev_Desc": "돌파의 정수 : 발도 (각인)",
         "id": 97100081,
         "alias": "Contents.Item.Desc.9101159",
-        "text": "It is an integer used for evolution of \"fever\". Returns half of the history consumed with a certain probability of evolution."
+        "text": "Essence used to evolve \"Baldo\".\\nWhen evolving, there is a chance to return half of the consumed history."
     },
     "97100082": {
         "deprecated": false,
@@ -647,28 +647,28 @@
         "Dev_Desc": "증폭의 정수 : 맹호격 (각인)",
         "id": 97100093,
         "alias": "Contents.Item.Desc.9101234",
-        "text": "It is an integer used in the evolution of \"blindness\". \\n The damage of \"blindness\" in evolution increases."
+        "text": "Essence used to evolve \"Furious Tiger\".\\nWhen evolving, the damage of \"Furious Tiger\" increases."
     },
     "97100094": {
         "deprecated": false,
         "Dev_Desc": "극한의 정수 : 맹호격 (각인)",
         "id": 97100094,
         "alias": "Contents.Item.Desc.9101235",
-        "text": "It is an integer used in the evolution of \"blindness\". \\n Establishment increases the crisp of stunning."
+        "text": "Essence used for the evolution of \"Furious Strike\".\\nThe chance of being stunned increases when evolving."
     },
     "97100095": {
         "deprecated": false,
         "Dev_Desc": "돌파의 정수 : 다리걸기 (각인)",
         "id": 97100095,
         "alias": "Contents.Item.Desc.9101236",
-        "text": "It is an integer used in the evolution of \"legs\". \\n \"Leggings\" when using \"legs\" after use, use \"iron acid\" to the enemy of stunning state. \\n\\n [prior condition] \\n older reinforcement stage 9 or later"
+        "text": "Essence used for the evolution of \"Legging\".\\nWhen evolving, after using \"Legging\", use \"Iron Sango\" in conjunction with the stunned enemy.\\n\\n[Prerequisites]\\nStrengthening Step +9 or higher"
     },
     "97100096": {
         "deprecated": false,
         "Dev_Desc": "돌파의 정수 : 맹호격 (각인)",
         "id": 97100096,
         "alias": "Contents.Item.Desc.9101237",
-        "text": "It is an integer used for evolution of \"blindness\". The stunning effect is changed to evolution. \\n\\n [Prerequisite] \\n older reinforcement stage 9 or later"
+        "text": "Essence used for the evolution of \"Furious Strike\".\\nWhen evolving, the stun effect is changed to an air effect.\\n\\n[Prerequisite]\\nStrength Defense Level +9 or higher"
     },
     "97100097": {
         "deprecated": false,
@@ -710,35 +710,35 @@
         "Dev_Desc": "극한의 정수 : 붕권 (각인)",
         "id": 97100102,
         "alias": "Contents.Item.Desc.9101245",
-        "text": "This is the integer used for evolution of \"rushur\". \\n \"Roof\" in the evolution increases the penetration penetration."
+        "text": "Essence used to evolve \"Pungen\".\\nWhen evolving, \"Pungen\" block penetration increases by 7."
     },
     "97100103": {
         "deprecated": false,
         "Dev_Desc": "돌파의 정수 : 붕권 (각인)",
         "id": 97100103,
         "alias": "Contents.Item.Desc.9101246",
-        "text": "It is an integer used for evolution of \"rushur\". \\n Evolution, \"the use of\" rushur \", increases the number of distances and hits. \\n\\n [Prerequisites] \\n older reinforcement stage 9 or later"
+        "text": "Essence used to evolve \"Bungen\".\\nWhen evolving, the range and number of hits of \"Bungen\" increase.\\n\\n[Prerequisites]\\nStrengthen skill level +9 or higher"
     },
     "97100104": {
         "deprecated": false,
         "Dev_Desc": "돌파의 정수 : 승천권 (각인)",
         "id": 97100104,
         "alias": "Contents.Item.Desc.9101247",
-        "text": "It is an integer used in the evolution of \"ascension rights\". 진 진 시 시 시 시 시 시 시 연 연 연 연 연 연 연 연 연 연,"
+        "text": "This is the essence used to evolve \"Spirit of Ascension\".\\nWhen evolving, after using \"Spirit of Ascension\", use \"Kakhwagak\" in conjunction with enemies in the air.\\n\\n[Prerequisites]\\nStrengthen +9 or higher"
     },
     "97100105": {
         "deprecated": false,
         "Dev_Desc": "증폭의 정수: 개혈",
         "id": 97100105,
         "alias": "Contents.Item.Desc.9101248",
-        "text": ""
+        "text": "Essence used to evolve \"Blood Bleeding\".\\nPermanently increases short-range accuracy when evolving, and increases the chance of recovering health during \"Blood Bleeding\"."
     },
     "97100106": {
         "deprecated": false,
         "Dev_Desc": "극한의 정수: 개혈",
         "id": 97100106,
         "alias": "Contents.Item.Desc.9101249",
-        "text": "It is an integer used in the evolution of \"blood blood\". When evolution, \"blood\", \"blood\", will be reduced to reduce the speed of movement, and the immune state increases, and the amplification of the uncoated attack is increased by 12%."
+        "text": "Essence used to evolve \"Blood Bleeding\".\\nWhen evolved, all movement speed reduction effects during \"Blood Bleeding\" are removed, become immune, and non-attack amplification is increased by 12%."
     },
     "97100107": {
         "deprecated": false,
@@ -780,21 +780,21 @@
         "Dev_Desc": "증폭의 정수 : 연권 (각인)",
         "id": 97100112,
         "alias": "Contents.Item.Desc.9101255",
-        "text": "It is an integer used for evolution of \"Korean\". A. A. A. A. A. A. A. A. A.,"
+        "text": "Essence used for the evolution of \"Reincarnation\".\\nStrength consumption is reduced by 4 during evolution."
     },
     "97100113": {
         "deprecated": false,
         "Dev_Desc": "극한의 정수 : 연권 (각인)",
         "id": 97100113,
         "alias": "Contents.Item.Desc.9101256",
-        "text": "It is an integer used for evolution of \"Korean\". The damage increases during evolution."
+        "text": "This is the essence used to evolve \"Kiken\".\\nDamage increases when evolving."
     },
     "97100114": {
         "deprecated": false,
         "Dev_Desc": "돌파의 정수 : 연권 (각인)",
         "id": 97100114,
         "alias": "Contents.Item.Desc.9101257",
-        "text": "It is an integer used in the evolution of \"Korean Korean\". \\n \"Returns half of the history consumed with a certain probability of evolution. \\n\\n [Prerequisites] \\n older reinforcement stage 9 or later"
+        "text": "This is the essence used for the evolution of \"Reincarnation\".\\nWhen evolving, there is a chance to return half of the consumed history.\\n\\n[Prerequisite]\\nThe skill enhancement level +9 or higher"
     },
     "97100115": {
         "deprecated": false,
@@ -829,7 +829,7 @@
         "Dev_Desc": "충격 / 일반 도끼 무공서 (각인)",
         "id": 97100119,
         "alias": "Contents.Item.Desc.9100314",
-        "text": "Turn off the \"Iron Wall\", to get a shock wave at the location of the target by taking off the ax. \\n Soul parable can be used when successful."
+        "text": "Removes the \"iron wall\" and slashes the ax to generate a shock wave at the target's location to attack.\\nCan be used when soul parrying is successful."
     },
     "97100120": {
         "deprecated": false,
@@ -864,7 +864,7 @@
         "Dev_Desc": "진노 / 상급 도끼 무공서 (각인)",
         "id": 97100124,
         "alias": "Contents.Item.Desc.9100324",
-        "text": "It crosses the ax and wields and is a fast continuous attack. \\n Soul Packing is a stunning target to manually press the attack button manually."
+        "text": "Cross and swing axes to make quick continuous attacks.\\nYou can use it by manually pressing the attack button on a target that is in a stunned soul parrying state."
     },
     "97100125": {
         "deprecated": false,
@@ -899,7 +899,7 @@
         "Dev_Desc": "희귀 / 부술연계Ⅱ / 패시브",
         "id": 97100129,
         "alias": "Contents.Item.Desc.9100334",
-        "text": "Boss Monster \"sour\" breakthrough \"is confirmed by attack."
+        "text": "When attacking a boss monster with \"Spread [Breakthrough]\", it will perform a confirmed combo attack."
     },
     "97100130": {
         "deprecated": false,
@@ -927,14 +927,14 @@
         "Dev_Desc": "영웅 / 정의 / 패시브",
         "id": 97100133,
         "alias": "Contents.Item.Desc.9100343",
-        "text": "Strengthen attacks to the enemy of the state. \\n Protest, stunning, and additional damage when attacking targets."
+        "text": "Strengthens attacks against enemies with abnormal status.\\nInflicts additional damage when attacking targets that are in taunt, stun, or air status."
     },
     "97100134": {
         "deprecated": false,
         "Dev_Desc": "부술연계Ⅰ",
         "id": 97100134,
         "alias": "Contents.Item.Desc.9100344",
-        "text": "When Boss Monster attacks, \"Leiton\" is activated. \\n (((((((()"
+        "text": "When attacking boss monsters, \"Extermination\" is activated.\\n(Dealing time to activate useless attack is 18 seconds)"
     },
     "97100135": {
         "deprecated": false,
@@ -962,14 +962,14 @@
         "Dev_Desc": "일반 / 결빙공 / 특화 / 각인",
         "id": 97100138,
         "alias": "Contents.Item.Desc.9100410",
-        "text": "Protect yourself with ice. \\n 4 seconds defend from attacks in all directions."
+        "text": "Protects itself by enveloping it with ice.\\nDefends from attacks from all directions for 4 seconds."
     },
     "97100139": {
         "deprecated": false,
         "Dev_Desc": "일반 / 연화 / 액티브 / 각인",
         "id": 97100139,
         "alias": "Contents.Item.Desc.9100411",
-        "text": "Immediately impersonate to the target to damage it. \\n Getting the ignition effect that activates the \"oily\" unauthorized effect for 6 seconds. Up to 8 times overlap."
+        "text": "Instantly infuses fire damage to the target.\\nOn a hit, you gain a fire effect that activates the \"Meteor\" attack for 6 seconds. Stacks up to 8 times."
     },
     "97100140": {
         "deprecated": false,
@@ -990,14 +990,14 @@
         "Dev_Desc": "일반 / 빙륜참 / 액션 (각인)",
         "id": 97100142,
         "alias": "Contents.Item.Desc.9100414",
-        "text": "Release the \"freezer\" and fires the rotating ice blade. \\n Attack button is manually pressed by manually pressing."
+        "text": "Releases \"Freeze Ball\" and fires a rotating ice blade.\\nYou can use it manually by pressing the attack button."
     },
     "97100143": {
         "deprecated": false,
         "Dev_Desc": "상급 / 얼음창 / 액티브 / 각인",
         "id": 97100143,
         "alias": "Contents.Item.Desc.9100420",
-        "text": "Summons a number of ice windows and fires to enemies. \\n Cartecound effects apply slowdown effects to reduce movement speed. \\n\\n [Effect] \\n Movement speed reduction rate 60%"
+        "text": "Summons multiple ice spears and fires them at the enemy.\\nThere is a chance to apply a slowing effect that reduces movement speed.\\n\\n[Effect]\\nMovement speed reduction +60%"
     },
     "97100144": {
         "deprecated": false,
@@ -1025,28 +1025,28 @@
         "Dev_Desc": "상급 / 홍염 / 패시브 / 각인",
         "id": 97100147,
         "alias": "Contents.Item.Desc.9100424",
-        "text": "More fierce and red flames are dealt with. When the target is an image state, it grants a reduced effect of reducing the defense of the target. If the target is a boss, reduce the alive additional hood. \\n\\n [Effect] \\n Defense of the target-7 \\n Targets If the target is a boss,"
+        "text": "You will deal with more intense red flames.\\nWhen the target is burned, it gives a red flame effect that reduces the target's defense. If the target is a boss, additionally reduces self-defense.\\n\\n[Effect]\\nDefense of the target -7\\nIf the target is a boss, additional self-defense -5"
     },
     "97100148": {
         "deprecated": false,
         "Dev_Desc": "희귀 / 화빙연포 / 액션 (각인)",
         "id": 97100148,
         "alias": "Contents.Item.Desc.9100425",
-        "text": "It is not only a word that is only the ice bagon. \\n Soul Paying Stunning The target button is manually pressed to manually press the attack button."
+        "text": "Fire and ice bullets are fired in rapid succession.\\nYou can use it by manually pressing the attack button on the soul paring stunned target."
     },
     "97100149": {
         "deprecated": false,
         "Dev_Desc": "희귀 / 회진보 / 액티브 / 각인",
         "id": 97100149,
         "alias": "Contents.Item.Desc.9100430",
-        "text": "It turns into the appearance of just a rework to release the stunning effect and avoid rearward. When using, the control resistivity is increased for 5 seconds. \\n\\n [Effect] \\n Control resistivity 8%"
+        "text": "It turns into fire and ashes to cancel the stun effect and dodge backwards. When used, control resistance increases for 5 seconds.\\n\\n[Effect]\\nControl resistance +8%"
     },
     "97100150": {
         "deprecated": false,
         "Dev_Desc": "희귀 / 비륜연휘 / 액티브 / 각인",
         "id": 97100150,
         "alias": "Contents.Item.Desc.9100431",
-        "text": "The ultra-high temperature fire is damaged and damages it. When using \\n, the ignition effect to activate the \"oily\" unauthorized effect is obtained for 6 seconds. Up to 8 times overlap."
+        "text": "Fires a ball of superheated fire, dealing damage.\\nWhen used, a fire effect that activates \"Meteor\" fire is obtained for 6 seconds. Stacks up to 8 times."
     },
     "97100151": {
         "deprecated": false,
@@ -1067,7 +1067,7 @@
         "Dev_Desc": "희귀 / 멸소 / 패시브 / 각인",
         "id": 97100153,
         "alias": "Contents.Item.Desc.9100434",
-        "text": "Get the energy of the flame to destroy the enemy. When you give the ignition effect, give additional effects once. \\n [Effect] \\n [Effect] When you grant ignition effects,"
+        "text": "Gains the energy of flame to destroy the enemy.\\nWhen a fire effect is given, the effect is given one more time.\\n[Effect]\\nWhen a fire effect is given, one more time is given."
     },
     "97100154": {
         "deprecated": false,
@@ -1088,28 +1088,28 @@
         "Dev_Desc": "영웅 / 화륜 / 액티브 / 각인",
         "id": 97100156,
         "alias": "Contents.Item.Desc.9100442",
-        "text": "Give the heating effect that releases the inherent firearm by emitting the basic attack rate and the amplification of the basic attack speed and the amplification of the unauthorized fire. \\n\\n [Effect] \\n Base attack speed 50% \\n Maissed attack speed 3%"
+        "text": "Unleashes an underlying fire, giving party members a heating effect that increases basic attack speed and non-attack amplification for 24 seconds.\\n\\n[Effect]\\nBasic attack speed +50%\\nAttack attack amplification +3%"
     },
     "97100157": {
         "deprecated": false,
         "Dev_Desc": "영웅 / 천빙 / 패시브 / 각인",
         "id": 97100157,
         "alias": "Contents.Item.Desc.9100443",
-        "text": "Hankyardly attacks the dismissed destinations more relentlessly. \\n Applies additional damage to the target attack in the glazed state. \\n Additional damage has a reuse latency of 3 seconds."
+        "text": "Attacks a target that has been incapacitated by the chill more relentlessly.\\nAdditional damage is applied when attacking a target that is frozen.\\nThe additional damage has a 3 second cooldown."
     },
     "97100158": {
         "deprecated": false,
         "Dev_Desc": "영웅 / 염제 / 패시브 / 각인",
         "id": 97100158,
         "alias": "Contents.Item.Desc.9100444",
-        "text": "All things have a great sense of energy. \\n All attribute attack amplification and air attack amplification increases. \\n\\n [Effect] \\n All attribute attack amplification 10% \\n Maissed attack amplification 3%"
+        "text": "Masters the aura of all things.\\nAll elemental attack amplification and non-attack amplification increase.\\n\\n[Effect]\\nAll elemental attack amplification +10%\\nNon-attack amplification +3%"
     },
     "97100159": {
         "deprecated": false,
         "Dev_Desc": "전설 / 화광소천 / 액티브 / 각인",
         "id": 97100159,
         "alias": "Contents.Item.Desc.9100451",
-        "text": "The ultimate flame storm is formed by pulling it into a certain probability, and then explodes and pushes it. \\n It is a maximum of 5 people in the \\n. \\n It is immune to control status during use."
+        "text": "Forms the ultimate firestorm, attracts it with a certain probability, and then explodes it to push it back.\\nHits up to 5 people within range.\\nImmune to control status while in use."
     },
     "97100160": {
         "deprecated": false,
@@ -1185,7 +1185,7 @@
         "Dev_Desc": "연사 / QQ",
         "id": 97100170,
         "alias": "Contents.Item.Desc.9100524",
-        "text": "Quickly pull the demonstration to give the arrow to the target. Soul PAGING Available to manually press the attack button to the stunning target."
+        "text": "Quickly pull a string and fire an arrow at the target. Soul Parrying can be used by manually pressing the attack button on the stunned target."
     },
     "97100171": {
         "deprecated": false,
@@ -1227,7 +1227,7 @@
         "Dev_Desc": "희귀 / 궁술운용 / 패시브 / 각인",
         "id": 97100176,
         "alias": "Contents.Item.Desc.9100535",
-        "text": "Multi-Shooting Captain Natal Equality The effect of increasing the attack power is applied for 2 seconds. \\n\\n [Effect] \\n Bow attack power 1"
+        "text": "When multi-shot critical hits, the sharpshooter effect that increases bow attack power is applied for 2 seconds.\\nStacks up to 12 times.\\n\\n[Effect]\\nBow attack power +1"
     },
     "97100177": {
         "deprecated": false,
@@ -1269,7 +1269,7 @@
         "Dev_Desc": "신궁",
         "id": 97100182,
         "alias": "Contents.Item.Desc.9100546",
-        "text": "Ghosts are free of charge with a ghost. \\n\\n [Effect] \\nPvp Damage 3 \\n Pvp Pass 5"
+        "text": "You can freely handle the bow with demon-like skills.\\n\\n[Effect]\\nPVP Attack Power +3\\nPVP Penetration +5"
     },
     "97100183": {
         "deprecated": false,
@@ -1289,7 +1289,7 @@
         "Dev_Desc": "상급 / 생령치유 / 액티브 / 각인",
         "id": 97100185,
         "alias": "Contents.Item.Desc.9100610",
-        "text": "It heals continuously partitions by two surrounding party members with a spiritual energy."
+        "text": "Heals up to 2 nearby party members with divine energy in a row."
     },
     "97100186": {
         "deprecated": false,
@@ -1317,14 +1317,14 @@
         "Dev_Desc": "생령폭격 / EQ",
         "id": 97100189,
         "alias": "Contents.Item.Desc.9100614",
-        "text": "Soul Payment is counterattacked with a powerful attack on success."
+        "text": "Upon successful soul parrying, it counterattacks with a powerful attack."
     },
     "97100190": {
         "deprecated": false,
         "Dev_Desc": "일반 / 생령합일 / 특화 / 각인",
         "id": 97100190,
         "alias": "Contents.Item.Desc.9100620",
-        "text": "Most attacks are avoided by a certain amount of time. In the middle state, attack and rolling is not available, and the movement speed is reduced."
+        "text": "Dodge most attacks by uniting with a living spirit for a period of time. Attack and Roll cannot be used while united, and movement speed is reduced."
     },
     "97100191": {
         "deprecated": false,
@@ -1352,7 +1352,7 @@
         "Dev_Desc": "굉섬뢰 / Q",
         "id": 97100194,
         "alias": "Contents.Item.Desc.9100624",
-        "text": "Soul PAGING Available to the target of stunning state."
+        "text": "Soul Farring Inflicts a powerful attack on the stunned target."
     },
     "97100195": {
         "deprecated": false,
@@ -1380,7 +1380,7 @@
         "Dev_Desc": "희귀 / 예음",
         "id": 97100198,
         "alias": "Contents.Item.Desc.9100633",
-        "text": "I put a sharp energy. \\n\\n [Effect] \\nPVE Penetration 5, Boss Phase 5 5"
+        "text": "Puts sharp energy into sound.\\n\\n[Effect]\\nPVE Penetration +5, Boss Penetration +5"
     },
     "97100199": {
         "deprecated": false,
@@ -1394,7 +1394,7 @@
         "Dev_Desc": "영웅 / 수호 / 액티브 / 각인",
         "id": 97100200,
         "alias": "Contents.Item.Desc.9100641",
-        "text": "Reduces the damage to the subject by protecting the destination by protecting the target with a spiritual energy. \\n\\n [Effect] \\n Received Damage 20%"
+        "text": "Protects the target with divine energy, reducing damage taken for 25 seconds.\\n\\n[Effect]\\nDamage reduction +20%"
     },
     "97100201": {
         "deprecated": false,
@@ -1408,35 +1408,35 @@
         "Dev_Desc": "영웅 / 체화 / 패시브 / 각인",
         "id": 97100202,
         "alias": "Contents.Item.Desc.9100643",
-        "text": "The spirit of the spirit is insigned by body and increasing the weapon damage. \\n\\n [Effect] \\n Weapon Damage 2"
+        "text": "Embodied spiritual energy into the body to increase weapon attack power.\\n\\n[Effect]\\nWeapon attack power +2"
     },
     "97100203": {
         "deprecated": false,
         "Dev_Desc": "영웅 / 은총 / 패시브 / 각인",
         "id": 97100203,
         "alias": "Contents.Item.Desc.9100644",
-        "text": "The healing with the grace of heaven increases the healing. \\n\\n [Effect] \\n"
+        "text": "Healing from Heaven's Grace increases.\\n\\n[Effect]\\nHealing given by +3.0%"
     },
     "97100204": {
         "deprecated": false,
         "Dev_Desc": "영웅 / 치환 / 패시브",
         "id": 97100204,
         "alias": "Contents.Item.Desc.9100645",
-        "text": "In the default attack, the certain probability is proportional to the healing force in proportion to the healing."
+        "text": "Basic attacks have a chance to deal additional damage proportional to healing power."
     },
     "97100205": {
         "deprecated": false,
         "Dev_Desc": "항음",
         "id": 97100205,
         "alias": "Contents.Item.Desc.9100646",
-        "text": "It contains the energy of the Horse. \\n\\n [Effect] \\nPve Attack Power 10, Boss Damage 5"
+        "text": "Puts the energy of anti-ma in the sound.\\n\\n[Effect]\\nPVE Attack +10, Boss Attack +5"
     },
     "97100206": {
         "deprecated": false,
         "Dev_Desc": "전설 / 광명청음 / 액티브 / 각인",
         "id": 97100206,
         "alias": "Contents.Item.Desc.9100650",
-        "text": "Wrap the whole party with a spiritual light and sound. Protect the vitality to restore large volume and prevent damage to 5 seconds."
+        "text": "Envelops all party members with divine light and sound. Restores a large amount of health and protects from damage for 5 seconds."
     },
     "97100207": {
         "deprecated": false,
@@ -1499,7 +1499,7 @@
         "Dev_Desc": "돌파의 정수 : 격돌",
         "id": 97100215,
         "alias": "Contents.Item.Desc.9101324",
-        "text": "Essence used for the evolution of \"Clash\".\\nWhen evolving, there is a chance to apply the stun effect during \"Iron Wall [Breakthrough]\", and when killing a monster, there is a chance to reset the cooldown.\\n\\n[Prerequisites]\\nMore than +9 in the level of weapon enhancement"
+        "text": "This is the essence used to evolve \"Clash\".\\nWhen evolving, the stun effect is applied with a certain probability during \"Iron Wall [Breakthrough]\", and the cooldown is reset with a certain probability when you kill a monster.\\n\\n[Priority] Conditions]\\nMinistry Enhancement Level +9 or higher"
     },
     "97100216": {
         "deprecated": false,
@@ -1541,21 +1541,21 @@
         "Dev_Desc": "돌파의 정수 : 분노",
         "id": 97100221,
         "alias": "Contents.Item.Desc.9101335",
-        "text": "The integer used in the evolution of \"anger\". \\n Reactivation duration is increased by 3 seconds. \\n \"Sang\", \"Legend\" increases the probability of activation in the \"Lead\". \\n\\n [Prerequisites] \\n"
+        "text": "This is the essence used to evolve \"Rage\".\\nIncreases the duration of the rage effect by 3 seconds.\\nThe activation chance increases when you hit \"Windstorm\" or \"Extermination\".\\n\\n[Prerequisite]\\n Defense enhancement level +9 or higher"
     },
     "97100222": {
         "deprecated": false,
         "Dev_Desc": "극한의 정수 : 선풍",
         "id": 97100222,
         "alias": "Contents.Item.Desc.9101336",
-        "text": "It is an integer used in the evolution of \"sour\". \\n It is changed to a stunning effect after the stunning effect is pulled during evolution."
+        "text": "Essence used for the evolution of \"Wind Wind\".\\nWhen evolving, the stun effect is pulled and then changed to the stun effect."
     },
     "97100223": {
         "deprecated": false,
         "Dev_Desc": "돌파의 정수 : 선풍",
         "id": 97100223,
         "alias": "Contents.Item.Desc.9101337",
-        "text": "Essence used for the evolution of \"Swirl Wind\".\\nWhen evolving, additional attacks are applied to the drawn enemy.\\n\\n[Prerequisite]\\nStrengthening level +9 or higher"
+        "text": "Essence used to evolve \"Wind Wind\".\\nWhen evolving, it applies additional attacks to the drawn enemy.\\n\\n[Prerequisite]\\nStrengthening level +9 or higher"
     },
     "97100224": {
         "deprecated": false,
@@ -1597,28 +1597,28 @@
         "Dev_Desc": "극한의 정수 : 처단 ",
         "id": 97100229,
         "alias": "Contents.Item.Desc.9101345",
-        "text": "This is the integer used for evolution of the \"Left\". The damage increases during evolution."
+        "text": "Essence used for the evolution of \"Extermination\".\\nDamage increases when evolving."
     },
     "97100230": {
         "deprecated": false,
         "Dev_Desc": "돌파의 정수 : 처단",
         "id": 97100230,
         "alias": "Contents.Item.Desc.9101346",
-        "text": "It is an integer used in the evolution of \"segment\". \\n It is converted to wide area damage during evolution, and is hit by up to 3 people in the range. \\n\\n [Prerequisites] \\n older reinforcement stage 9 or later"
+        "text": "This is the essence used for the evolution of \"Extermination\".\\nWhen evolving, it converts to wide-area damage, and hits up to 3 people within the range.\\n\\n[Prerequisites]\\nAbove attack power enhancement level +9"
     },
     "97100231": {
         "deprecated": false,
         "Dev_Desc": "극한의 정수 : 포효",
         "id": 97100231,
         "alias": "Contents.Item.Desc.9101347",
-        "text": ""
+        "text": "Essence used to evolve \"Roar\".\\nWhen evolving, Roar damage increases, evasion during provocation decreases by 15, and control resistance decreases by 10%."
     },
     "97100232": {
         "deprecated": false,
         "Dev_Desc": "돌파의 정수 : 포효",
         "id": 97100232,
         "alias": "Contents.Item.Desc.9101348",
-        "text": "It is an integer used in the evolution of \"roar\". \\n It is converted to wide area damage in evolution, and up to 3 people in the range. \\n\\n [Prerequisite] \\n older reinforcement stage 9 or later"
+        "text": "Essence used to evolve \"Roar\".\\nWhen evolving, it converts to area damage and hits up to 3 people within the range.\\n\\n[Prerequisites]\\nAbove attack power enhancement level +9"
     },
     "97100233": {
         "deprecated": false,
@@ -1667,196 +1667,196 @@
         "Dev_Desc": "극한의 정수 : 진노 (각인)",
         "id": 97100239,
         "alias": "Contents.Item.Desc.9101356",
-        "text": "This is the integer used for evolution of \"wrath\". The damage increases during evolution."
+        "text": "Essence used to evolve \"Wrath\".\\nDamage increases when evolving."
     },
     "97100240": {
         "deprecated": false,
         "Dev_Desc": "돌파의 정수 : 진노 (각인)",
         "id": 97100240,
         "alias": "Contents.Item.Desc.9101357",
-        "text": "It is an integer used for evolution of \"wrath\". \\n Returns half of the history consumed with a certain probability of evolution."
+        "text": "Essence used to evolve \"Wrath\".\\nWhen evolving, there is a chance to return half of the consumed history."
     },
     "97100241": {
         "deprecated": false,
         "Dev_Desc": "증폭의 정수 : 결빙공 (각인)",
         "id": 97100241,
         "alias": "Contents.Item.Desc.9101410",
-        "text": "This is the integer used for evolution of \"freezing ball\". The power consumption of the \"freezing\" in the evolution is 100 decreases."
+        "text": "Essence used to evolve \"Freezer\".\\nWhen evolving, \"Freeze Ball\"'s energy consumption is reduced by 100."
     },
     "97100242": {
         "deprecated": false,
         "Dev_Desc": "증폭의 정수 : 연화 (각인)",
         "id": 97100242,
         "alias": "Contents.Item.Desc.9101411",
-        "text": "It is an integer used for evolution of \"softening\". \\n Give an image effect with a certain probability of evolution."
+        "text": "Essence used to evolve \"softening\".\\nWhen evolving, it has a chance to inflict a burn effect."
     },
     "97100243": {
         "deprecated": false,
         "Dev_Desc": "증폭의 정수 : 화련장 (각인)",
         "id": 97100243,
         "alias": "Contents.Item.Desc.9101412",
-        "text": "It is an integer used for evolution of \"liner\". \\n Evolution increases damage."
+        "text": "Essence used for the evolution of \"Hairyung\".\\nDamage increases when evolving."
     },
     "97100244": {
         "deprecated": false,
         "Dev_Desc": "극한의 정수 : 결빙공 (각인)",
         "id": 97100244,
         "alias": "Contents.Item.Desc.9101420",
-        "text": "It is an integer used in the evolution of \"freezing ball\". \\n If the defense in evolution, it applies to the attacked object."
+        "text": "Essence used to evolve \"Freezing Ball\".\\nIf the defense succeeds during evolution, damage is applied to the attacked target."
     },
     "97100245": {
         "deprecated": false,
         "Dev_Desc": "극한의 정수 : 연화 (각인)",
         "id": 97100245,
         "alias": "Contents.Item.Desc.9101421",
-        "text": "It is an integer used for evolution of \"softening\". \\n The reuse latency of \"softening\" in the evolution is reduced by 2 seconds."
+        "text": "Essence used to evolve \"Softening\".\\nEvolving reduces the cooldown of \"Softening\" by 2 seconds."
     },
     "97100246": {
         "deprecated": false,
         "Dev_Desc": "증폭의 정수 : 얼음창 (각인)",
         "id": 97100246,
         "alias": "Contents.Item.Desc.9101422",
-        "text": "It is an integer used in the evolution of \"Ice window\". \\n \"Ice window\" in the evolution is reduced by the strength of the history of the \"ice window\"."
+        "text": "Essence used to evolve \"Ice Spear\".\\nWhen evolving, the strength consumption of \"Ice Spear\" is reduced by 2."
     },
     "97100247": {
         "deprecated": false,
         "Dev_Desc": "돌파의 정수 : 결빙공 (각인)",
         "id": 97100247,
         "alias": "Contents.Item.Desc.9101430",
-        "text": "It is an integer used for evolution of \"freezing\". \\n If the defense is successful in evolution, it applies a slowing effect with a certain probability. \\n \"Loading hole\" Recovers the strength during maintenance. \\n\\n [Prerequisite] \\n 9 or more"
+        "text": "Essence used to evolve \"Frozen Ball\".\\nWhen it evolves, if it succeeds in defending, there is a chance to apply a slowing effect.\\nRecovers HP while maintaining \"Freeze Ball\".\\n\\n[Prerequisite] \\nThe weapon enhancement level +9 or higher"
     },
     "97100248": {
         "deprecated": false,
         "Dev_Desc": "극한의 정수 : 화련장 (각인)",
         "id": 97100248,
         "alias": "Contents.Item.Desc.9101431",
-        "text": "It is an integer used for evolution of \"liner\". \\n It is converted to wide area damage during evolution, and is hit up to 3 in the scope."
+        "text": "Essence used for the evolution of \"Hairyung\".\\nWhen evolving, it converts to wide-area damage, and hits up to 3 people within range."
     },
     "97100249": {
         "deprecated": false,
         "Dev_Desc": "극한의 정수 : 얼음창 (각인)",
         "id": 97100249,
         "alias": "Contents.Item.Desc.9101432",
-        "text": "It is an integer used in the evolution of \"Ice window\". The reuse latency of \"Ice Window\" in evolution reduces two seconds."
+        "text": "Essence used to evolve \"Ice Spear\".\\nEvolution reduces the cooldown of \"Ice Spear\" by 2 seconds."
     },
     "97100250": {
         "deprecated": false,
         "Dev_Desc": "증폭의 정수 : 유성 (각인)",
         "id": 97100250,
         "alias": "Contents.Item.Desc.9101433",
-        "text": "The integer used for evolution of \"oily\". The higher the ignition phase of the system, the higher the \"oily\" damage increases."
+        "text": "Essence used to evolve \"Meteor\".\\nThe higher the level of ignition consumed, the higher the \"Meteor\" damage."
     },
     "97100251": {
         "deprecated": false,
         "Dev_Desc": "증폭의 정수 : 회진보 (각인)",
         "id": 97100251,
         "alias": "Contents.Item.Desc.9101434",
-        "text": "It is an integer used for evolution of \"hand-to-step\". \\n The reuse latency of \"Conjustment\" in the evolution is reduced by 2 seconds."
+        "text": "Essence used for the evolution of \"Revolution\".\\nWhen evolving, the cooldown of \"Revolution\" is reduced by 2 seconds."
     },
     "97100252": {
         "deprecated": false,
         "Dev_Desc": "극한의 정수 : 회진보 (각인)",
         "id": 97100252,
         "alias": "Contents.Item.Desc.9101435",
-        "text": "It is an integer used in the evolution of \"stepping protection\". The reuse latency of \"handling\" when evolution is reduced by 7 seconds."
+        "text": "This is the essence used to evolve \"Revolution\".\\nWhen evolving, the cooldown of \"Revolution\" is reduced by 7 seconds."
     },
     "97100253": {
         "deprecated": false,
         "Dev_Desc": "돌파의 정수 : 회진보 (각인)",
         "id": 97100253,
         "alias": "Contents.Item.Desc.9101436",
-        "text": "This is the essence used for the evolution of \"Revolutions\".\\nWhen evolving, recovers HP after using \"Revolutions\".\\n\\n[Prerequisites]\\nArmor enhancement level +9 More than"
+        "text": "Essence used to evolve \"Roijinbo\".\\nWhen evolving, recovers HP after using \"Roejinbo\".\\n\\n[Prerequisites]\\nMore than +9 in attack enhancement level"
     },
     "97100254": {
         "deprecated": false,
         "Dev_Desc": "돌파의 정수 : 비륜연휘 (각인)",
         "id": 97100254,
         "alias": "Contents.Item.Desc.9101437",
-        "text": "It is an integer used for evolution of \"non-wig\". \\n \"Bi-wheel\" decreases in the evolution. \\n\\n [Prerequisites] \\n older reinforcement stage 9 or later"
+        "text": "Essence used for the evolution of \"Flying Ride\".\\nWhen evolving, the casting time of \"Flying Ride\" is reduced.\\n\\n[Prerequisites]\\nMore than +9 skill enhancement level"
     },
     "97100255": {
         "deprecated": false,
         "Dev_Desc": "돌파의 정수 : 연화 (각인)",
         "id": 97100255,
         "alias": "Contents.Item.Desc.9101440",
-        "text": "Essence used to evolve \"Soften\".\\nWhen evolving, \"Soften\" accuracy is increased by 35% and has a higher chance to inflict Burn.\\n\\n[Prerequisite]\\nThe weapon enhancement level +9 or higher"
+        "text": "Essence used to evolve \"softening\".\\nWhen evolving, \"softening\" accuracy is increased by 35%, and there is a higher chance of inflicting a burn effect.\\n\\n[Prerequisite]\\nMore than +9 skill enhancement level"
     },
     "97100256": {
         "deprecated": false,
         "Dev_Desc": "돌파의 정수 : 화련장 (각인)",
         "id": 97100256,
         "alias": "Contents.Item.Desc.9101441",
-        "text": "This is the essence used for the evolution of \"HwaRyeonJang\".\\nWhen evolving, \"HwaRyeonJang\" has a chance to reset the waiting time for \"Hairyun Enlightenment\".\\nThere is a chance to pierce a block. to apply the stun effect.\\n\\n[Prerequisites]\\nNo attack enhancement level +9 or higher"
+        "text": "Essence used for the evolution of \"HwaRyeonjang\".\\nWhen evolving, \"HwaRyeonjang\" has a chance to reset the waiting time for \"Fighting Ride\".\\nThere is a chance to penetrate the block and apply a stun effect.\\ n\\n[Prerequisites]\\nMore than +9 level of weapon enhancement"
     },
     "97100257": {
         "deprecated": false,
         "Dev_Desc": "돌파의 정수 : 얼음창 (각인)",
         "id": 97100257,
         "alias": "Contents.Item.Desc.9101442",
-        "text": "It is an integer used for evolution of \"Ice window\". \\n Evolution is a certain probability that further applies the ice effect. \\n\\n [Prerequisites] \\n older reinforcement stage 9 or later"
+        "text": "This is the essence used to evolve \"Ice Spear\".\\nWhen evolving, there is a chance to additionally apply the freezing effect.\\n\\n[Prerequisite]\\nAbove attack power enhancement level +9"
     },
     "97100258": {
         "deprecated": false,
         "Dev_Desc": "극한의 정수 : 유성 (각인)",
         "id": 97100258,
         "alias": "Contents.Item.Desc.9101443",
-        "text": "It is an integer used for evolution of \"oily\". \\n Evolution will launch an additional ice oily. \\n Ice planet applies a slowing effect with a certain probability."
+        "text": "Essence used to evolve \"Meteor\".\\nWhen evolving, fire an additional ice meteor.\\nIce meteors have a chance to apply a slowing effect."
     },
     "97100259": {
         "deprecated": false,
         "Dev_Desc": "증폭의 정수 : 비륜연휘 (각인)",
         "id": 97100259,
         "alias": "Contents.Item.Desc.9101444",
-        "text": "It is an integer used for evolution of \"non-wig\". \\n The penetration \"of\" Blank \"increases by 10%."
+        "text": "This is the essence used for the evolution of \"Flying Thing\".\\nWhen evolving, the penetration of \"Flying Thing\" is increased by 10%."
     },
     "97100260": {
         "deprecated": false,
         "Dev_Desc": "극한의 정수 : 용렬빙하 (각인)",
         "id": 97100260,
         "alias": "Contents.Item.Desc.9101445",
-        "text": "The integer used for evolution of \"faulting\". \\n Examples of the slowdown effect with a certain probability of evolution."
+        "text": "This is the essence used for the evolution of \"Dragon Glacier\".\\nWhen evolving, there is a chance to apply an additional slowing effect."
     },
     "97100261": {
         "deprecated": false,
         "Dev_Desc": "돌파의 정수 : 용렬빙하 (각인)",
         "id": 97100261,
         "alias": "Contents.Item.Desc.9101446",
-        "text": "The integer used in the evolution of \"Solid Binging\". The range width of \"Mortalglong\" is increased in the evolution. \\n\\n [Prerequisites] \\n olderation"
+        "text": "This is the essence used for the evolution of \"Dragon Glacier\".\\nWhen evolving, the range of \"Dragon Glacier\" increases.\\nThe chance to hit with frozen status increases.\\n\\n[Prerequisite]\\nStrengthen defense Step +9 or higher"
     },
     "97100262": {
         "deprecated": false,
         "Dev_Desc": "극한의 정수 : 봉황시 (각인)",
         "id": 97100262,
         "alias": "Contents.Item.Desc.9101447",
-        "text": "It is an integer used in the evolution of \"Phoenix\". \\n \"Phoenix\" in the evolution is increased by 25%."
+        "text": "Essence used to evolve \"Phoenix\".\\nWhen evolving, \"Phoenix\"'s penetration increases by 25%."
     },
     "97100263": {
         "deprecated": false,
         "Dev_Desc": "돌파의 정수 : 봉황시 (각인)",
         "id": 97100263,
         "alias": "Contents.Item.Desc.9101448",
-        "text": "It is an integer used for evolution of \"Phoenix\". \\n\\n [Prerequisites] \\n\\n [Prerequisites] \\n older reinforcement stage 9 or later"
+        "text": "Essence used to evolve \"Phoenix City\".\\nDamage increases when evolving.\\n\\n[Prerequisites]\\nStrengthening Level +9 or higher"
     },
     "97100264": {
         "deprecated": false,
         "Dev_Desc": "극한의 정수 : 화륜 (각인)",
         "id": 97100264,
         "alias": "Contents.Item.Desc.9101449",
-        "text": "It is an integer used for the evolution of \"trees\". If you use \"trail\", you will be given a foil effect that eliminates \"Blank\" waiting time for 4 seconds. In the heating state, the damage is increased by 25."
+        "text": "This is the essence used for the evolution of \"Hairun\".\\nIf you use \"Hairyun\" during evolution, it will give you a ring effect that removes the waiting time for \"Biryun Yeongwi\" for 4 seconds. Increases attack power by 25 while heated."
     },
     "97100265": {
         "deprecated": false,
         "Dev_Desc": "돌파의 정수 : 유성 (각인)",
         "id": 97100265,
         "alias": "Contents.Item.Desc.9101450",
-        "text": "Essence used to evolve \"Meteor\".\\nWhen evolved, \"Meteor\" range increases and the damage of Ice Meteor increases.\\nWhen used at the maximum level of ignition, Ice Meteor slows. Instead of the effect, there is a chance to apply the freezing effect.\\n\\n[Prerequisites]\\nAbove attack enhancement level +9"
+        "text": "Essence used to evolve \"Meteor\".\\nWhen evolving, the \"Meteor\" range increases and the damage of Ice Meteor increases.\\nWhen used at the maximum stage of ignition, Ice Meteor has a chance to freeze instead of slowing. Apply the effect.\\n\\n[Prerequisites]\\nNo attack enhancement level +9 or higher"
     },
     "97100266": {
         "deprecated": false,
         "Dev_Desc": "극한의 정수 : 비륜연휘 (각인)",
         "id": 97100266,
         "alias": "Contents.Item.Desc.9101451",
-        "text": "It is an integer used for evolution of \"non-wig\". \\n Establishes the \"Blank\" latency with a certain probability of evolution. After the latency initialization, the \"non-wiguer\" is used continuously, the probability of initialization of the latency is reduced."
+        "text": "This is the essence used for the evolution of \"Flying Thing\".\\nWhen evolving, there is a chance to reset the waiting time for \"Flying Thing\". After the standby time reset, if you continuously use \"Fighting Ride\", the chance of resetting the standby time decreases."
     },
     "97100267": {
         "deprecated": false,
@@ -1877,63 +1877,63 @@
         "Dev_Desc": "증폭의 정수 : 화륜 (각인)",
         "id": 97100269,
         "alias": "Contents.Item.Desc.9101454",
-        "text": "It is an integer used for evolution of \"trees\". \\n If you use \"trail\" when evolving, the uncoated attack rate increases by 10%."
+        "text": "This is the essence used to evolve \"Hairyun\".\\nWhen evolving, using \"Hairyun\" increases attack speed by 10%."
     },
     "97100270": {
         "deprecated": false,
         "Dev_Desc": "돌파의 정수 : 화륜 (각인)",
         "id": 97100270,
         "alias": "Contents.Item.Desc.9101455",
-        "text": "It is an integer used for evolution of \"trail\". When the evolution is used, the glossy rate is increased by 5%. \\n\\n [Prerequisites] \\n"
+        "text": "This is the essence used to evolve \"Flame Wheel\".\\nUsing \"Fire Wheel\" during evolution increases the Soul Activation Rate by 5%.\\n\\n[Prerequisite]\\nMore than +9 in Defense Enhancement Level"
     },
     "97100271": {
         "deprecated": false,
         "Dev_Desc": "증폭의 정수 : 화빙연포 (각인)",
         "id": 97100271,
         "alias": "Contents.Item.Desc.9101456",
-        "text": "This is the essence used for the evolution of \"Fire Ice Fire\".\\nWhen evolving, the power consumption is reduced by 4."
+        "text": "Essence used to evolve \"Fire Ice Fire\".\\nWhen evolving, strength consumption is reduced by 4."
     },
     "97100272": {
         "deprecated": false,
         "Dev_Desc": "극한의 정수 : 화빙연포 (각인)",
         "id": 97100272,
         "alias": "Contents.Item.Desc.9101457",
-        "text": "This is the integer used for evolution of \"flower lip\". \\n Evolution increases damage."
+        "text": "Essence used to evolve \"Fire Ice Fire\".\\nDamage increases when evolving."
     },
     "97100273": {
         "deprecated": false,
         "Dev_Desc": "돌파의 정수 : 화빙연포 (각인)",
         "id": 97100273,
         "alias": "Contents.Item.Desc.9101458",
-        "text": "It is an integer used in the evolution of \"flower lip\". Returns half of the history consumed with a certain probability of evolution. \\n\\n [Prerequisites] \\n older reinforcement stage 9 or later"
+        "text": "Essence used to evolve \"Fire Ice Fire\".\\nWhen evolving, there is a chance to return half of the consumed history.\\n\\n[Prerequisites]\\nMore than +9 attack power enhancement level"
     },
     "97100274": {
         "deprecated": false,
         "Dev_Desc": "증폭의 정수 : 추적화살 (각인)",
         "id": 97100274,
         "alias": "Contents.Item.Desc.9101510",
-        "text": "It is an integer used for evolution of \"trace arrows\". \\n The damage to the \"trace arrow\" in the evolution increases, and the history consumption is decreased by 1."
+        "text": "Essence used to evolve \"Tracking Arrow\".\\nWhen evolving, \"Tracking Arrow\"'s damage increases and stamina consumption decreases by 1."
     },
     "97100275": {
         "deprecated": false,
         "Dev_Desc": "증폭의 정수 : 화살비 (각인)",
         "id": 97100275,
         "alias": "Contents.Item.Desc.9101511",
-        "text": "It is an integer used for evolution of \"arrow costs\". \\n The damage to the \"arrow ratio\" in the evolution increases, and it is hit up to 3 in the scope."
+        "text": "Essence used to evolve \"Rain of Arrows\".\\nWhen evolving, the damage of \"Rain of Arrows\" increases and hits up to 3 people within range."
     },
     "97100276": {
         "deprecated": false,
         "Dev_Desc": "증폭의 정수 : 단일사격 (각인)",
         "id": 97100276,
         "alias": "Contents.Item.Desc.9101512",
-        "text": "It is an integer used for evolution of \"single shooting\". \\n The reuse latency of \"Single Shooting\" is reduced by one second."
+        "text": "Essence used to evolve \"Single Shot\".\\nWhen evolving, the cooldown of \"Single Shot\" is reduced by 1 second."
     },
     "97100277": {
         "deprecated": false,
         "Dev_Desc": "돌파의 정수 : 후퇴사격 (각인)",
         "id": 97100277,
         "alias": "Contents.Item.Desc.9101513",
-        "text": "It is an integer used for evolution of \"retraction shooting\". \\n \"Retreat shooting\" increases in use. \\n\\n [Prerequisites] \\n"
+        "text": "Essence used to evolve \"Retreat Shot\".\\nWhen evolving, Evasion increases by 1000 while using \"Retreat Shot\".\\n\\n[Prerequisites]\\nAbove Defense Enhancement Level +9"
     },
     "97100278": {
         "deprecated": false,
@@ -1968,7 +1968,7 @@
         "Dev_Desc": "돌파의 정수 : 화살비 (각인)",
         "id": 97100282,
         "alias": "Contents.Item.Desc.9101524",
-        "text": "It is an integer used in the evolution of \"arrow costs\". \\n It is subject to anticipation effect that increases the attack power of critical batteration during evolution. \\n\\n [Prerequisite] \\n"
+        "text": "Essence used for the evolution of \"Rain of Arrows\".\\nWhen evolving, the sharpshooter effect that increases bow attack power is applied for 2 seconds upon critical strike.\\nStacks up to 12 times.\\n\\n[Prerequisite]\\n Defense enhancement level +9 or higher"
     },
     "97100283": {
         "deprecated": false,
@@ -2010,14 +2010,14 @@
         "Dev_Desc": "돌파의 정수 : 살상명령 (각인)",
         "id": 97100288,
         "alias": "Contents.Item.Desc.9101535",
-        "text": "This is the essence used to evolve \"kill command\".\\nWhen evolving, the additional critical attack damage of \"kill command\" increases by 7.\\n\\n[Prerequisite]\\nStrengthening stage +9 or higher"
+        "text": "Essence used to evolve \"Command to Kill\".\\nWhen evolving, additional critical attack damage during \"Command to Kill\" increases by 7.\\n\\n[Prerequisite]\\nStrengthen Attack Level +9 or higher"
     },
     "97100289": {
         "deprecated": false,
         "Dev_Desc": "돌파의 정수 : 다중사격 (각인)",
         "id": 97100289,
         "alias": "Contents.Item.Desc.9101536",
-        "text": "The integer used in the evolution of \"multi-shooting\" is used in the evolution of \"Multi-shot\" when evolution increases, and can be moved during unpoorized use. \\n\\n [Prerequisites] \\n"
+        "text": "Essence used to evolve \"Multi Shot\".\\nWhen evolving, the damage of \"Multi Shot\" increases, and you can move while using no attack.\\n\\n[Prerequisites]\\nMore than +9 in attack enhancement level"
     },
     "97100290": {
         "deprecated": false,
@@ -2066,28 +2066,28 @@
         "Dev_Desc": "극한의 정수 : 조준사격 (각인)",
         "id": 97100296,
         "alias": "Contents.Item.Desc.9101546",
-        "text": "It is an integer used for evolution of \"aimed shooting\". \\n \"Aimed shooting\" in the evolution \"rates increase by 50%."
+        "text": "Essence used to evolve \"Aimed Shot\".\\nWhen evolving, \"Aimed Shot\" critical rate is increased by 50%."
     },
     "97100297": {
         "deprecated": false,
         "Dev_Desc": "극한의 정수 : 반마화살 (각인)",
         "id": 97100297,
         "alias": "Contents.Item.Desc.9101547",
-        "text": "It is an integer used in the evolution of \"reflection\". \\n The objects whose \"the target\" in the \"Convent arrow\" can not be applied to \"Protect [Extreme]\" for 10 seconds for evolution. ."
+        "text": "This is the essence used in the evolution of \"Half-Magic Arrow\".\\nWhen it evolves, it removes all martial-related beneficial effects from the target, and the target hit by the \"Half-Magic Arrow\" can receive effects up to \"Guardian [Extreme]\" for 10 seconds. There is not."
     },
     "97100298": {
         "deprecated": false,
         "Dev_Desc": "돌파의 정수 : 반마화살 (각인)",
         "id": 97100298,
         "alias": "Contents.Item.Desc.9101548",
-        "text": "It is an integer used for evolution of \"reflection arrow\". \\n Elimination of all non-relevant effects of the target during evolution and can not be applied for 3 seconds, and the subjects hit in the \"Relational Arrow\" are \"protected [breakthrough]\" You can not apply the superification effect. \\n\\n."
+        "text": "This is the essence used for the evolution of \"Anti-Magic Arrow\".\\nWhen evolving, all beneficial effects related to martial arts are removed from the target and cannot be applied for 3 seconds. Effects cannot be applied for 10 seconds.\\n\\n[Prerequisites]\\nMore than +9 skill enhancement level"
     },
     "97100299": {
         "deprecated": false,
         "Dev_Desc": "돌파의 정수 : 조준사격 (각인)",
         "id": 97100299,
         "alias": "Contents.Item.Desc.9101549",
-        "text": "The integer used in the evolution of \"aimed shooting\" is used in the evolution of the \"Aimed Seating\" in the evolution, and the damage to the \"Aiming Shooting\" increases, and the \"Aiming Shooting\" penetration increases by 25%. \\n\\n [Prerequisites] \\n"
+        "text": "Essence used to evolve \"Aimed Shot\".\\nWhen evolving, \"Aimed Shot\" damage increases and \"Aimed Shot\" penetration increases by 25%.\\n\\n[Prerequisites]\\nFitness enhancement stage +9 or higher"
     },
     "97100300": {
         "deprecated": false,
@@ -2122,28 +2122,28 @@
         "Dev_Desc": "돌파의 정수: 봉쇄화살",
         "id": 97100304,
         "alias": "Contents.Item.Desc.9101554",
-        "text": "It is an integer used for evolution of \"blockade arrow\". \\n Evolution rate is applied to the target, and the movement speed reduction rate increases. \\n\\n [Prerequisites] \\n"
+        "text": "This is the essence used for the evolution of \"Blocking Arrow\".\\nWhen evolving, the pulling effect is applied to the target and the movement speed reduction rate is additionally increased.\\n\\n[Prerequisites]\\nThe weapon enhancement level +9 More than"
     },
     "97100305": {
         "deprecated": false,
         "Dev_Desc": "증폭의 정수 : 연사 (각인)",
         "id": 97100305,
         "alias": "Contents.Item.Desc.9101555",
-        "text": "It is an integer used for evolution of \"speaker\". \\n Evolution is reduced by 4 to 4."
+        "text": "Essence used for the evolution of \"Burst Fire\".\\nStrength consumption is reduced by 4 when evolving."
     },
     "97100306": {
         "deprecated": false,
         "Dev_Desc": "극한의 정수 : 연사 (각인)",
         "id": 97100306,
         "alias": "Contents.Item.Desc.9101556",
-        "text": "The integer used for evolution of \"speaker\". The damage is increased when evolution."
+        "text": "Essence used to evolve \"Burst Fire\".\\nDamage increases when evolving."
     },
     "97100307": {
         "deprecated": false,
         "Dev_Desc": "돌파의 정수 : 연사 (각인)",
         "id": 97100307,
         "alias": "Contents.Item.Desc.9101557",
-        "text": "It is an integer used for evolution of \"speaker\". \\n Returns half of the history consumed with a certain probability of evolution. \\n\\n [Prerequisites] \\n 이상"
+        "text": "This is the essence used for the evolution of \"Burst Fire\".\\nWhen evolving, there is a chance to return half of the consumed history.\\n\\n[Prerequisites]\\nThe skill enhancement level +9 or higher"
     },
     "97100308": {
         "deprecated": false,
@@ -2164,7 +2164,7 @@
         "Dev_Desc": "증폭의 정수 : 생령치유 (각인)",
         "id": 97100310,
         "alias": "Contents.Item.Desc.9101612",
-        "text": "The integer used for evolution of occurrence of occurrence. \\n The reuse latency of the occurrence of occurrence of occurrence during evolution is reduced by 2 seconds."
+        "text": "Essence used for the evolution of Spirit Healing.\\nWhen evolving, the cooldown of Spirit Healing is reduced by 2 seconds."
     },
     "97100311": {
         "deprecated": false,
@@ -2185,91 +2185,91 @@
         "Dev_Desc": "증폭의 정수 : 생령합일 (각인)",
         "id": 97100313,
         "alias": "Contents.Item.Desc.9101622",
-        "text": "It is an integer used for evolution of the raw command. \\n Theores of the age of age during evolution is reduced by 50."
+        "text": "This is the essence used to evolve the Unity of Life.\\nWhen evolving, the energy consumption of the Unity of Life is reduced by 50."
     },
     "97100314": {
         "deprecated": false,
         "Dev_Desc": "증폭의 정수 : 심기일전 (각인)",
         "id": 97100314,
         "alias": "Contents.Item.Desc.9101623",
-        "text": "It is an integer used for evolution of planting."
+        "text": "This is the essence used to evolve before planting time.\\nEvolving will increase the duration of planting day by 3 seconds."
     },
     "97100315": {
         "deprecated": false,
         "Dev_Desc": "돌파의 정수 : 연섬뢰 (각인)",
         "id": 97100315,
         "alias": "Contents.Item.Desc.9101630",
-        "text": "This is the essence used to evolve the flashlight.\\nWhen evolving, the firefly's fatal rate increases by 30%.\\n\\n[Prerequisites]\\nAbove attack power enhancement level +9"
+        "text": "This is the essence used to evolve the flashlight.\\nWhen evolving, the firefly's fatality rate increases by 30%.\\n\\n[Prerequisites]\\nAbove attack power enhancement level +9"
     },
     "97100316": {
         "deprecated": false,
         "Dev_Desc": "돌파의 정수 : 강섬뢰 (각인)",
         "id": 97100316,
         "alias": "Contents.Item.Desc.9101631",
-        "text": "Essence used to evolve the Lightning Lightning.\\nWhen evolving, the damage of the Lightning Lightning increases and has a chance to penetrate the block to apply the \"stun\" effect.\\n\\n[Prerequisite]\\nThe weapon enhancement level +9 or higher"
+        "text": "This is the essence used to evolve the Lightning Lightning.\\nWhen evolving, the damage of the Lightning Lightning increases and there is a chance to penetrate the block and apply the \"stun\" effect.\\n\\n[Prerequisites]\\nStrengthen Attack Level + 9 or more"
     },
     "97100317": {
         "deprecated": false,
         "Dev_Desc": "극한의 정수 : 생령치유 (각인)",
         "id": 97100317,
         "alias": "Contents.Item.Desc.9101632",
-        "text": "The integer used for evolution of occurrence oil for occasions. \\n Certain probability Double the target twice."
+        "text": "Essence used for the evolution of Spirit Healing.\\nThere is a chance to heal the target twice."
     },
     "97100318": {
         "deprecated": false,
         "Dev_Desc": "극한의 정수 : 심기일전 (각인)",
         "id": 97100318,
         "alias": "Contents.Item.Desc.9101633",
-        "text": "This is the essence used to evolve before planting time.\\nThere is a chance to increase precision by 5 when using it. Inflicts damage to the attacked target when being attacked.\\n"
+        "text": "Used to level up New Leaf.\nIncreases its duration."
     },
     "97100319": {
         "deprecated": false,
         "Dev_Desc": "극한의 정수 : 생령합일 (각인)",
         "id": 97100319,
         "alias": "Contents.Item.Desc.9101634",
-        "text": "It is an integer used for evolution of the raw command. \\n The reuse latency of the raw age during evolution is reduced by 2 seconds."
+        "text": "This is the essence used to evolve the Unity of Life.\\nWhen evolving, the cooldown of the Unity of Life is reduced by 2 seconds."
     },
     "97100320": {
         "deprecated": false,
         "Dev_Desc": "극한의 정수 : 청화 (각인)",
         "id": 97100320,
         "alias": "Contents.Item.Desc.9101635",
-        "text": "It is an integer used for evolution of sulphuration. The damage of the sedimentation in the evolution increases. The pore defense of the boss exclusive monster is reduced by the pore defense of the boss exclusively in the texture."
+        "text": "This is the essence used to evolve blue flowers.\\nWhen evolving, the damage of blue flowers increases. The Qig DEF of non-boss monsters hit by blue and white is reduced by 15 for 5 seconds."
     },
     "97100321": {
         "deprecated": false,
         "Dev_Desc": "돌파의 정수 : 치유지대 (각인)",
         "id": 97100321,
         "alias": "Contents.Item.Desc.9101636",
-        "text": "Essence used to evolve the healing zone.\\nWhen evolving, the healing amount of the healing zone increases and the target's critical resistance increases by 20%.\\n\\n[Prerequisite]\\nStrengthening level + 9 or more"
+        "text": "Essence used to evolve the healing zone.\\nWhen evolving, the healing amount of the healing zone increases and the critical resistance of the healed target increases by 20%.\\n\\n[Prerequisite]\\nStrengthening level +9 or higher"
     },
     "97100322": {
         "deprecated": false,
         "Dev_Desc": "돌파의 정수 : 청화 (각인)",
         "id": 97100322,
         "alias": "Contents.Item.Desc.9101637",
-        "text": "It is an integer used for evolution of sulphuration. \\n Evolution increases the probability of removal of work and reduces the reuse latency 3 seconds. Use three consecutive sulphins with a certain probability. 3 When using continuous sedation, the effect of reducing the work is applied only to the first blow. \\n\\n [Prerequisites] \\n older strengthening step 9 or later"
+        "text": "This is the essence used to evolve blue and white.\\nWhen evolving, the probability of removing history is increased and the cooldown is reduced by 3 seconds. Has a chance to use blue and white 3 in a row. When using blue and white 3 consecutively, the strength removal effect only applies to the first hit.\\n\\n[Prerequisite]\\nAbove skill enhancement level +9"
     },
     "97100323": {
         "deprecated": false,
         "Dev_Desc": "증폭의 정수 : 구원 (각인)",
         "id": 97100323,
         "alias": "Contents.Item.Desc.9101640",
-        "text": ""
+        "text": "Essence used to evolve salvation.\\nWhen it evolves, movement speed increases by 50% for 4 seconds, and the cooldown of salvation decreases by 10 seconds."
     },
     "97100324": {
         "deprecated": false,
         "Dev_Desc": "돌파의 정수 : 생령치유 (각인)",
         "id": 97100324,
         "alias": "Contents.Item.Desc.9101641",
-        "text": "This is the essence used for the evolution of Spirit Healing.\\nWhen evolving, it continuously heals up to 4 nearby party members, with a higher chance to heal the target twice.\\n\\n[Prerequisite]\\ n Weapon enhancement level +9 or higher"
+        "text": "This is the essence used for the evolution of healing spirits.\\nWhen evolving, it continuously heals up to 4 nearby party members, with a higher chance of healing the target twice.\\n\\n[Prerequisite]\\nStrengthening stage +9 or higher"
     },
     "97100325": {
         "deprecated": false,
         "Dev_Desc": "증폭의 정수 : 치유지대 (각인)",
         "id": 97100325,
         "alias": "Contents.Item.Desc.9101642",
-        "text": "It is an integer used for evolution of the healing area. \\n The reuse latency of the healing area in evolution is reduced by 5 seconds."
+        "text": "Essence used to evolve the healing zone.\\nWhen evolving, the cooldown of the healing zone is reduced by 5 seconds."
     },
     "97100326": {
         "deprecated": false,
@@ -2283,56 +2283,56 @@
         "Dev_Desc": "돌파의 정수 : 생령합일 (각인)",
         "id": 97100327,
         "alias": "Contents.Item.Desc.9101644",
-        "text": "The integer used to evolve the occurrence date. \\n You can increase the movement speed of the junction during evolution, and can be turned off once more. Up to 3 people in the range are covered by a wide range of people. \\n\\n [Prerequisites] \\n older tooliene"
+        "text": "This is the essence used to evolve the unity of life.\\nThe movement speed of the united state during evolution is greatly increased, and the united state can be canceled when used again. When released, inflicts area damage to up to 3 people within range.\\n\\n[Prerequisite]\\nAbove attack power enhancement level +9"
     },
     "97100328": {
         "deprecated": false,
         "Dev_Desc": "극한의 정수 : 심판 (각인)",
         "id": 97100328,
         "alias": "Contents.Item.Desc.9101645",
-        "text": "It is an integer used for evolution of judgment. \\n The damage of the judgment in evolution increases, and the boss attack of the referee increases by 15. It is hit up to 3 people within the range."
+        "text": "Essence used to evolve Judgment.\\nWhen evolving, Judgment damage increases and Judgment boss attack power increases by 15. Hits up to 3 people in range."
     },
     "97100329": {
         "deprecated": false,
         "Dev_Desc": "돌파의 정수 : 심판 (각인)",
         "id": 97100329,
         "alias": "Contents.Item.Desc.9101646",
-        "text": "Essence used to evolve Judgment.\\nWhen evolving, there is a chance to apply a \"stun\" effect. When Judgment hits the target, the \"Stigma\" effect is applied for 10 seconds, and the cooldown of Judgment is reduced by 1 second when the target is hit with a basic attack. (Cooldown time 2 seconds)\\n\\n[Prerequisites]\\nMore than +9 skill enhancement level"
+        "text": "Essence used to evolve Judgment.\\nWhen evolving, there is a chance to apply a \"stun\" effect. When Judgment hits the target, \"Stigma\" is applied for 10 seconds, and when the target is hit with a basic attack, the cooldown of Judgment is reduced by 1 second. (Cooldown time 2 seconds)\\n\\n[Prerequisites]\\nMore than +9 skill enhancement level"
     },
     "97100330": {
         "deprecated": false,
         "Dev_Desc": "극한의 정수 : 수호 (각인)",
         "id": 97100330,
         "alias": "Contents.Item.Desc.9101647",
-        "text": "Essence used to evolve the guardian.\\nWhen evolving, the damage reduction value of the guardian increases by 5% and the range of the guardian increases."
+        "text": "Essence used to evolve the guardian.\\nWhen evolving, the damage reduction value of the guardian increases by 5%, and the range of the guardian increases."
     },
     "97100331": {
         "deprecated": false,
         "Dev_Desc": "돌파의 정수 : 수호 (각인)",
         "id": 97100331,
         "alias": "Contents.Item.Desc.9101648",
-        "text": "This is the essence used to evolve the guardian.\\nWhen evolving, the amount of damage received by the guardian increases by 10% and negates the dispel effect up to the Anti-Magic Arrow [Extreme].\\n\\n[Prerequisite]\\nThe weapon enhancement level +9 or higher"
+        "text": "Used to level up Guardian.\nIncreases its Damage Down effect and nullifies the removal of Magic Arrow."
     },
     "97100332": {
         "deprecated": false,
         "Dev_Desc": "극한의 정수 : 구원 (각인)",
         "id": 97100332,
         "alias": "Contents.Item.Desc.9101649",
-        "text": "This is the essence used for the evolution of salvation.\\nWhen evolving, it additionally removes the \"air\", \"taunt\", and \"incapacity\" states through the blade effect, and the cooldown of salvation is reduced by 20. seconds decrease."
+        "text": "Essence used for the evolution of salvation.\\nWhen evolving, it additionally removes \"incapacity\" status through \"air\", \"taunt\", and blade effects, and reduces the cooldown of salvation by 20 seconds."
     },
     "97100333": {
         "deprecated": false,
         "Dev_Desc": "증폭의 정수 : 심판 (각인)",
         "id": 97100333,
         "alias": "Contents.Item.Desc.9101650",
-        "text": "Essence used to evolve Judgment.\\nEvolution increases Judgment damage."
+        "text": "Used to level up Judgment.\nUpon accurate hit, heals the allies around the target."
     },
     "97100334": {
         "deprecated": false,
         "Dev_Desc": "돌파의 정수 : 심기일전 (각인)",
         "id": 97100334,
         "alias": "Contents.Item.Desc.9101651",
-        "text": "This is the essence used to evolve before planting.\\nThere is a chance to increase weapon damage by 7 when used. When using your own lightning bolt, you will use the accelerated flash. Also, when killing a monster, there is a chance that the standby time of the Lightning Lightning will be reset."
+        "text": "This is the essence used for the evolution of the battlefield.\\nThere is a chance to increase weapon damage by 7 when used. When using your own lightning bolt, you use the accelerated flash. Also, there is a chance that the standby time of the Lightning Lightning will be reset when you kill a monster.\\n\\n[Prerequisites]\\nAbove attack enhancement level +9"
     },
     "97100335": {
         "deprecated": false,
@@ -2346,14 +2346,14 @@
         "Dev_Desc": "증폭의 정수 : 수호 (각인)",
         "id": 97100336,
         "alias": "Contents.Item.Desc.9101653",
-        "text": "Essence used to evolve the guardian.\\nWhen evolving, the power consumption of the guardian decreases by 2, and when the guardian is applied, the self-defense increases by 5."
+        "text": "Used to level up Guardian.\nIncreases its Damage Down effect and nullifies the removal of Magic Arrow."
     },
     "97100337": {
         "deprecated": false,
         "Dev_Desc": "돌파의 정수 : 구원 (각인)",
         "id": 97100337,
         "alias": "Contents.Item.Desc.9101654",
-        "text": "This is the essence used for the evolution of salvation.\\nWhen evolving, you become immune to various controls for 5 seconds.\\n\\n[Prerequisite]\\nMore than +9 in defense enhancement level"
+        "text": "Used to level up Redemption.\nAdditionally removes Airborne, Provoke, Burn, and Bleed effects."
     },
     "97100338": {
         "deprecated": false,
@@ -2367,14 +2367,385 @@
         "Dev_Desc": "극한의 정수 : 굉섬뢰 (각인)",
         "id": 97100339,
         "alias": "Contents.Item.Desc.9101656",
-        "text": "Essence used to evolve the lightning bolt.\\nWhen evolving, the lightning strike damage increases."
+        "text": "Essence used to evolve lightning bolts.\\nWhen evolving, lightning strike damage increases."
     },
     "97100340": {
         "deprecated": false,
         "Dev_Desc": "돌파의 정수 : 굉섬뢰 (각인)",
         "id": 97100340,
         "alias": "Contents.Item.Desc.9101657",
-        "text": "This is the essence used to evolve the lightning bolt.\\nWhen evolving, there is a chance that half of the power consumed by the lightning bolt will be returned.\\n\\n[Prerequisites]\\nMore than +9 attack power enhancement level"
+        "text": "This is the essence used to evolve the lightning bolt.\\nWhen evolving, there is a chance that half of the power consumed by the lightning bolt will be returned.\\n\\n[Prerequisites]\\nThe attack power enhancement level +9 or higher"
+    },
+    "97100341": {
+        "deprecated": false,
+        "Dev_Desc": "일반 / 경계 자세 / 액티브 (각인)",
+        "id": 97100341,
+        "alias": "Contents.Item.Desc.9100710",
+        "text": "Blocks attacks in front for 1 second."
+    },
+    "97100342": {
+        "deprecated": false,
+        "Dev_Desc": "일반 / 그림자베기 / 액티브 (각인)",
+        "id": 97100342,
+        "alias": "Contents.Item.Desc.9100711",
+        "text": "Cleaves the enemy's shadow, dealing damage and reducing movement speed by 20% for 2 seconds.\\nWhen used, you gain the bloody effect that activates the \"Explosive Blood\" attack for 12 seconds. Blood effect stacks up to 8 times and increases movement speed by 2% per stack."
+    },
+    "97100343": {
+        "deprecated": false,
+        "Dev_Desc": "일반 / 기습 / 액티브 (각인)",
+        "id": 97100343,
+        "alias": "Contents.Item.Desc.9100712",
+        "text": "Approaches the enemy quickly and has a chance to inflict a stiff effect and inflict continuous damage."
+    },
+    "97100344": {
+        "deprecated": false,
+        "Dev_Desc": "일반 / 치밀함 / 패시브 (각인)",
+        "id": 97100344,
+        "alias": "Contents.Item.Desc.9100713",
+        "text": "Raises the blade of a dagger to effectively attack enemies.\\nIncreases skill accuracy.\\n\\n[Effect]\\nFunction accuracy +2"
+    },
+    "97100345": {
+        "deprecated": false,
+        "Dev_Desc": "상급 / 뇌격살 / 액티브 (각인)",
+        "id": 97100345,
+        "alias": "Contents.Item.Desc.9100720",
+        "text": "Infused with the energy of lightning, it swings a dagger to inflict damage."
+    },
+    "97100346": {
+        "deprecated": false,
+        "Dev_Desc": "상급 / 암흑살 / 액티브 (각인)",
+        "id": 97100346,
+        "alias": "Contents.Item.Desc.9100721",
+        "text": "Swings a dagger infused with dark energy, dealing damage in a row."
+    },
+    "97100347": {
+        "deprecated": false,
+        "Dev_Desc": "상급 / 극기 / 패시브 (각인)",
+        "id": 97100347,
+        "alias": "Contents.Item.Desc.9100722",
+        "text": "Train your body so that you can overcome your own limitations.\\nSkill increases.\\n\\n[Effect]\\nSkill +2"
+    },
+    "97100348": {
+        "deprecated": false,
+        "Dev_Desc": "상급 / 은밀함 / 패시브 (각인)",
+        "id": 97100348,
+        "alias": "Contents.Item.Desc.9100723",
+        "text": "Attacks secretly so that the enemy does not notice.\\nIncreases weapon attack power and skill penetration.\\n\\n[Effect]\\nWeapon attack power +1, skill penetration +2"
+    },
+    "97100349": {
+        "deprecated": false,
+        "Dev_Desc": "희귀 / 암습 / 액티브 (각인)",
+        "id": 97100349,
+        "alias": "Contents.Item.Desc.9100730",
+        "text": "After moving to the rear of the enemy, charges in the air to stun the target and inflict damage with a chance."
+    },
+    "97100350": {
+        "deprecated": false,
+        "Dev_Desc": "희귀 / 폭혈 / 액티브 (각인)",
+        "id": 97100350,
+        "alias": "Contents.Item.Desc.9100731",
+        "text": "Swings a dagger to slash the enemy, inflicting powerful damage.\\nConsumes the bloody effect."
+    },
+    "97100351": {
+        "deprecated": false,
+        "Dev_Desc": "희귀 / 심장찌르기 / QQ (각인)",
+        "id": 97100351,
+        "alias": "Contents.Item.Desc.9100732",
+        "text": "Performs a quick stab attack that pierces the target's heart.\\nSoul Paring Can be used by manually pressing the attack button on a stunned target."
+    },
+    "97100352": {
+        "deprecated": false,
+        "Dev_Desc": "희귀 / 살계 / 패시브 (각인)",
+        "id": 97100352,
+        "alias": "Contents.Item.Desc.9100733",
+        "text": "Attacks the enemy brutally by opening the slaughterhouse.\\nWhen acquiring the Blood Man effect, the effect is acquired one more time."
+    },
+    "97100353": {
+        "deprecated": false,
+        "Dev_Desc": "희귀 / 숙련 / 패시브 (각인)",
+        "id": 97100353,
+        "alias": "Contents.Item.Desc.9100734",
+        "text": "Skillfully disturbs enemies with skillful movements.\\nBasic attack speed and dexterity attack power increase.\\n\\n[Effect]\\nBasic attack speed +5%, dexterity attack power +2"
+    },
+    "97100354": {
+        "deprecated": false,
+        "Dev_Desc": "영웅 / 은신 / 액티브 (각인)",
+        "id": 97100354,
+        "alias": "Contents.Item.Desc.9100740",
+        "text": "Hides in the shadows and becomes stealthed for 7 seconds.\\nWhile stealth, \"Assault\" is activated, which attacks by charging a short distance. Incremented.\\nAvailable only manually."
+    },
+    "97100355": {
+        "deprecated": false,
+        "Dev_Desc": "영웅 / 그림자봉인 / 액티브 (각인)",
+        "id": 97100355,
+        "alias": "Contents.Item.Desc.9100741",
+        "text": "Gathers dark energy and attacks with a strong dagger.\\nThere is a chance to inflict silence for 4 seconds. You cannot use martial arts while silenced."
+    },
+    "97100356": {
+        "deprecated": false,
+        "Dev_Desc": "영웅 / 월섬 / 액티브 (각인)",
+        "id": 97100356,
+        "alias": "Contents.Item.Desc.9100742",
+        "text": "Swings a large dagger to inflict aerial effects with a chance and applies additional combo attacks.\\nUsed on targets in mid-air or stunned state."
+    },
+    "97100358": {
+        "deprecated": false,
+        "Dev_Desc": "영웅 / 맹독 / 패시브 (각인)",
+        "id": 97100358,
+        "alias": "Contents.Item.Desc.9100744",
+        "text": "Imbues a dagger with venom to inflict heavy wounds on enemies.\\nWhen hitting \"Shadow Slash\", \"Dark Death\" or \"Explosive Blood\", there is a chance to reduce the target's healing, potion recovery, and potion recovery rate.\\n \\n[Effect]\\nHealing received -75%, potion recovery -50, potion recovery -50%"
+    },
+    "97100359": {
+        "deprecated": false,
+        "Dev_Desc": "영웅 / 살법연계Ⅰ / 패시브 (각인)",
+        "id": 97100359,
+        "alias": "Contents.Item.Desc.9100745",
+        "text": "When attacking boss monsters, \"Walsum\" is activated.\\n(18 seconds waiting time for activation of no attack)"
+    },
+    "97100360": {
+        "deprecated": false,
+        "Dev_Desc": "영웅 / 살법연계Ⅱ / 패시브 (각인)",
+        "id": 97100360,
+        "alias": "Contents.Item.Desc.9100746",
+        "text": "When attacking a boss monster with \"Dark Kill [Breakthrough]\", it will perform a confirmed combo attack."
+    },
+    "97100361": {
+        "deprecated": false,
+        "Dev_Desc": "전설 / 무한 / 패시브 (각인)",
+        "id": 97100361,
+        "alias": "Contents.Item.Desc.9100750",
+        "text": "Maximizes combat abilities by mastering the martial arts handling daggers.\\nThere is a certain probability that stacking will not be reset when blood is consumed."
+    },
+    "97100362": {
+        "deprecated": false,
+        "Dev_Desc": "증폭의 정수 : 경계 자세 (각인)",
+        "id": 97100362,
+        "alias": "Contents.Item.Desc.9101710",
+        "text": "Essence used for the evolution of \"Vigilance Posture\".\\nEvolution reduces energy consumption by 100."
+    },
+    "97100363": {
+        "deprecated": false,
+        "Dev_Desc": "극한의 정수 : 경계 자세 (각인)",
+        "id": 97100363,
+        "alias": "Contents.Item.Desc.9101711",
+        "text": "This is the essence used to evolve the \"Vigilance Posture\".\\nWhen evolving, you will be able to move slowly while using martial arts."
+    },
+    "97100364": {
+        "deprecated": false,
+        "Dev_Desc": "돌파의 정수 : 경계 자세 (각인)",
+        "id": 97100364,
+        "alias": "Contents.Item.Desc.9101712",
+        "text": "This is the essence used for the evolution of \"Vigilance Posture\".\\nMovement speed increases while using no attack, and when reused on a nearby target, it moves to the rear of the target.\\n\\n[Prerequisite]\\nStrengthening stage +9 or higher"
+    },
+    "97100365": {
+        "deprecated": false,
+        "Dev_Desc": "증폭의 정수 : 그림자베기 (각인)",
+        "id": 97100365,
+        "alias": "Contents.Item.Desc.9101713",
+        "text": "Essence used to evolve \"Shadow Slash\".\\nEvolution reduces the cooldown by 2 seconds."
+    },
+    "97100366": {
+        "deprecated": false,
+        "Dev_Desc": "극한의 정수 : 그림자베기 (각인)",
+        "id": 97100366,
+        "alias": "Contents.Item.Desc.9101714",
+        "text": "Essence used to evolve \"Shadow Slash\".\\nWhen evolving, there is a chance that the blood effect will be stacked 2 times."
+    },
+    "97100367": {
+        "deprecated": false,
+        "Dev_Desc": "돌파의 정수 : 그림자베기 (각인)",
+        "id": 97100367,
+        "alias": "Contents.Item.Desc.9101715",
+        "text": "Essence used to evolve \"Shadow Cleave\".\\nThe \"Shadow Cleave [Extreme]\" effect is changed to 3 stacks of Blood Man.\\n\\n[Prerequisite]\\nStrength Enhancement Level +9 or higher"
+    },
+    "97100368": {
+        "deprecated": false,
+        "Dev_Desc": "증폭의 정수 : 기습 (각인)",
+        "id": 97100368,
+        "alias": "Contents.Item.Desc.9101716",
+        "text": "Essence used to evolve \"Ambush\".\\nStrength consumption is reduced by 2 during evolution."
+    },
+    "97100369": {
+        "deprecated": false,
+        "Dev_Desc": "극한의 정수 : 기습 (각인)",
+        "id": 97100369,
+        "alias": "Contents.Item.Desc.9101717",
+        "text": "Essence used for the evolution of \"Ambush\".\\nWhen evolving, the cooldown is reduced by 2 seconds and the range is increased."
+    },
+    "97100370": {
+        "deprecated": false,
+        "Dev_Desc": "돌파의 정수 : 기습 (각인)",
+        "id": 97100370,
+        "alias": "Contents.Item.Desc.9101718",
+        "text": "This is the essence used for the evolution of \"surprise\".\\nDamage increases during evolution, and the cooldown is reset with a certain probability when you kill a monster.\\n\\n[Prerequisites]\\nMore than +9 attack power level"
+    },
+    "97100371": {
+        "deprecated": false,
+        "Dev_Desc": "증폭의 정수 : 뇌격살 (각인)",
+        "id": 97100371,
+        "alias": "Contents.Item.Desc.9101720",
+        "text": "Essence used for the evolution of \"Thunder Strike\".\\nStrength consumption is reduced by 2 during evolution."
+    },
+    "97100372": {
+        "deprecated": false,
+        "Dev_Desc": "극한의 정수 : 뇌격살 (각인)",
+        "id": 97100372,
+        "alias": "Contents.Item.Desc.9101721",
+        "text": "Essence used to evolve \"Thunder Strike\".\\nDamage increases when evolving."
+    },
+    "97100373": {
+        "deprecated": false,
+        "Dev_Desc": "돌파의 정수 : 뇌격살 (각인)",
+        "id": 97100373,
+        "alias": "Contents.Item.Desc.9101722",
+        "text": "Essence used for the evolution of \"Thunder Strike\".\\nWhen evolving, there is a chance to stun the target.\\n\\n[Prerequisites]\\nAbove attack enhancement level +9"
+    },
+    "97100374": {
+        "deprecated": false,
+        "Dev_Desc": "증폭의 정수 : 암흑살 (각인)",
+        "id": 97100374,
+        "alias": "Contents.Item.Desc.9101723",
+        "text": "Essence used to evolve \"Dark Death\".\\nEvolution reduces the cooldown by 3 seconds."
+    },
+    "97100375": {
+        "deprecated": false,
+        "Dev_Desc": "극한의 정수 : 암흑살 (각인)",
+        "id": 97100375,
+        "alias": "Contents.Item.Desc.9101724",
+        "text": "Essence used to evolve \"Dark Death\".\\nWhen evolving, there is a chance to decrease the target's accuracy by 10 for 3 seconds."
+    },
+    "97100376": {
+        "deprecated": false,
+        "Dev_Desc": "돌파의 정수 : 암흑살 (각인)",
+        "id": 97100376,
+        "alias": "Contents.Item.Desc.9101725",
+        "text": "Essence used for the evolution of \"Dark Death\".\\nWhen evolving, \"Continuous Darkness\" is used on enemies that have the hit reduction effect applied.\\nThere is a chance to penetrate the block and apply the stun effect.\\n\\ n[Prerequisites]\\nAttack Strengthening Level +9 or higher"
+    },
+    "97100377": {
+        "deprecated": false,
+        "Dev_Desc": "증폭의 정수 : 그림자봉인 (각인)",
+        "id": 97100377,
+        "alias": "Contents.Item.Desc.9101743",
+        "text": "Essence used to evolve \"Shadow Seal\".\\nDamage increases when evolving."
+    },
+    "97100378": {
+        "deprecated": false,
+        "Dev_Desc": "극한의 정수 : 그림자봉인 (각인)",
+        "id": 97100378,
+        "alias": "Contents.Item.Desc.9101744",
+        "text": "Essence used to evolve \"Shadow Seal\".\\nWhen evolving, movement speed decreases by 35% while silenced and damage received from non-boss targets increases by 3%."
+    },
+    "97100379": {
+        "deprecated": false,
+        "Dev_Desc": "돌파의 정수 : 그림자봉인 (각인)",
+        "id": 97100379,
+        "alias": "Contents.Item.Desc.9101745",
+        "text": "Essence used to evolve \"Shadow Seal\".\\nWhen evolving, the duration of silence increases by 2 seconds. During silence, the opponent's Soul Deterrence is reduced by 5% and damage received from non-boss targets is increased by 7%.\\n\\n[Prerequisites]\\nMore than +9 in defense enhancement level"
+    },
+    "97100380": {
+        "deprecated": false,
+        "Dev_Desc": "증폭의 정수 : 폭혈 (각인)",
+        "id": 97100380,
+        "alias": "Contents.Item.Desc.9101733",
+        "text": "Essence used to evolve \"Explosive Blood\".\\nDamage increases when evolving."
+    },
+    "97100381": {
+        "deprecated": false,
+        "Dev_Desc": "극한의 정수 : 폭혈 (각인)",
+        "id": 97100381,
+        "alias": "Contents.Item.Desc.9101734",
+        "text": "Essence used to evolve \"Explosive Blood\".\\nWhen evolving, \"Explosive Blood\" penetration increases by 12%."
+    },
+    "97100382": {
+        "deprecated": false,
+        "Dev_Desc": "돌파의 정수 : 폭혈 (각인)",
+        "id": 97100382,
+        "alias": "Contents.Item.Desc.9101735",
+        "text": "Essence used for the evolution of \"Explosive Blood\".\\nDamage increases in proportion to the level of blood consumed during evolution.\\n\\n[Prerequisites]\\nMore than +9 in defense enhancement level"
+    },
+    "97100383": {
+        "deprecated": false,
+        "Dev_Desc": "증폭의 정수 : 심장찌르기 (각인)",
+        "id": 97100383,
+        "alias": "Contents.Item.Desc.9101736",
+        "text": "Essence used to evolve \"Heart Stab\".\\nStrength consumption is reduced by 4 when evolving."
+    },
+    "97100384": {
+        "deprecated": false,
+        "Dev_Desc": "극한의 정수 : 심장찌르기 (각인)",
+        "id": 97100384,
+        "alias": "Contents.Item.Desc.9101737",
+        "text": "Essence used to evolve \"Heart Stab\".\\nDamage increases when evolving."
+    },
+    "97100385": {
+        "deprecated": false,
+        "Dev_Desc": "돌파의 정수 : 심장찌르기 (각인)",
+        "id": 97100385,
+        "alias": "Contents.Item.Desc.9101738",
+        "text": "Essence used to evolve \"Heart Stab\".\\nWhen evolving, there is a chance to return half of the energy consumed.\\n\\n[Prerequisites]\\nMore than +9 in defense enhancement level"
+    },
+    "97100386": {
+        "deprecated": false,
+        "Dev_Desc": "증폭의 정수 : 은신 (각인)",
+        "id": 97100386,
+        "alias": "Contents.Item.Desc.9101740",
+        "text": "Essence used to evolve \"stealth\".\\nWhen evolving, using \"attack\" during \"stealth\" has a chance to stun the target. Increases movement speed by 10% for 7 seconds after using \"Stealth\"."
+    },
+    "97100387": {
+        "deprecated": false,
+        "Dev_Desc": "극한의 정수 : 은신 (각인)",
+        "id": 97100387,
+        "alias": "Contents.Item.Desc.9101741",
+        "text": "Essence used to evolve \"stealth\".\\nWhen evolving, after manually canceling \"stealth\", control accuracy increases by 7%, critical rate by 10%, and additional critical attack by 15 for 7 seconds.\\n\"Assault\" damage increases."
+    },
+    "97100388": {
+        "deprecated": false,
+        "Dev_Desc": "돌파의 정수 : 은신 (각인)",
+        "id": 97100388,
+        "alias": "Contents.Item.Desc.9101742",
+        "text": "Essence used to evolve \"stealth\".\\nEvolution increases the duration of \"stealth\" by 20 seconds. \\nIncreases the stun chance of \"Assault\" and applies the bloody effect in 8 stages when it hits.\\n\\n[Prerequisites]\\nMore than +9 in attack enhancement level"
+    },
+    "97100389": {
+        "deprecated": false,
+        "Dev_Desc": "증폭의 정수 : 암습 (각인)",
+        "id": 97100389,
+        "alias": "Contents.Item.Desc.9101730",
+        "text": "Essence used to evolve \"Attack\".\\nDamage increases when evolving."
+    },
+    "97100390": {
+        "deprecated": false,
+        "Dev_Desc": "극한의 정수 : 암습 (각인)",
+        "id": 97100390,
+        "alias": "Contents.Item.Desc.9101731",
+        "text": "Essence used to evolve \"Attack\".\\nEvolution reduces the cooldown by 3 seconds."
+    },
+    "97100391": {
+        "deprecated": false,
+        "Dev_Desc": "돌파의 정수 : 암습 (각인)",
+        "id": 97100391,
+        "alias": "Contents.Item.Desc.9101732",
+        "text": "Essence used to evolve \"Attack\".\\nWhen evolving, the stun chance increases.\\n\\n[Prerequisite]\\nStrengthening level +9 or higher"
+    },
+    "97100392": {
+        "deprecated": false,
+        "Dev_Desc": "증폭의 정수 : 월섬 (각인)",
+        "id": 97100392,
+        "alias": "Contents.Item.Desc.9101746",
+        "text": "Essence used to evolve \"Walsum\".\\nEvolution reduces the cooldown by 3 seconds."
+    },
+    "97100393": {
+        "deprecated": false,
+        "Dev_Desc": "극한의 정수 : 월섬 (각인)",
+        "id": 97100393,
+        "alias": "Contents.Item.Desc.9101747",
+        "text": "Essence used to evolve \"Walsum\".\\nWhen evolved, \"Walsum\"'s penetration is increased by 20%, and \"Thunder Strike\" has a chance to reset and activate \"Walsum\" cooldown."
+    },
+    "97100394": {
+        "deprecated": false,
+        "Dev_Desc": "돌파의 정수 : 월섬 (각인)",
+        "id": 97100394,
+        "alias": "Contents.Item.Desc.9101748",
+        "text": "Essence used to evolve \"Walsum\".\\nWhen evolving, the damage of \"Walsum\" increases. When using \"Thunder Strike\", there is a 100% chance to reset and activate the cooldown of \"Walsum\".\\n\\n[Prerequisites]\\nAbove attack enhancement level +9"
     },
     "97100395": {
         "deprecated": false,
@@ -2403,5 +2774,19 @@
         "id": 97100398,
         "alias": "Contents.Item.Desc.9100852",
         "text": "Face the enemy with a threatening force.\\n\\n[Effect]\\nPVP Accuracy +2\\nPVP Critical Rate +3%"
+    },
+    "97100399": {
+        "deprecated": false,
+        "Dev_Desc": "영웅 / 무기력 / 패시브 (각인)",
+        "id": 97100399,
+        "alias": "Contents.Item.Desc.9100747",
+        "text": "Strikes vital points to make the enemy incapacitated.\\nThe silence effect is strengthened, so the control resistance during silence is reduced, and it is impossible to use hearthstones or to land."
+    },
+    "97100400": {
+        "deprecated": false,
+        "Dev_Desc": "전설 / 암천멸혼 / 액티브 (각인)",
+        "id": 97100400,
+        "alias": "Contents.Item.Desc.9100751",
+        "text": "Detonates the power of darkness to stun nearby enemies.\\nSlows a dagger with dark energy to inflict fatal attacks on up to 3 enemies.\\nImmune to control status while in use.\\nStandby time for stealth initializes."
     }
 }

@@ -24341,17 +24341,17 @@
     },
     "8003560": {
         "deprecated": false,
-        "Dev_Desc": "NPC 상점 / 교환상 / 비사전 / 근거리",
+        "Dev_Desc": "NPC 상점 / 교환상 / 비사전 / 외공",
         "id": 8003560,
         "alias": "UI.Shop.Tittle.Name.10002.1.2",
-        "text": "근거리"
+        "text": "외공"
     },
     "8003561": {
         "deprecated": false,
-        "Dev_Desc": "NPC 상점 / 교환상 / 비사전 / 원거리",
+        "Dev_Desc": "NPC 상점 / 교환상 / 비사전 / 기교",
         "id": 8003561,
         "alias": "UI.Shop.Tittle.Name.10002.1.3",
-        "text": "원거리"
+        "text": "기교"
     },
     "8003562": {
         "deprecated": false,
@@ -29913,112 +29913,56 @@
         "Dev_Desc": "거래소 / 분류 / 보패 / 1번 보패",
         "id": 8004382,
         "alias": "UI.Trade.Category.SoulShieldPiece.1",
-        "text": "1번 보패"
+        "text": "보패 1번"
     },
     "8004383": {
         "deprecated": false,
         "Dev_Desc": "거래소 / 분류 / 보패 / 2번 보패",
         "id": 8004383,
         "alias": "UI.Trade.Category.SoulShieldPiece.2",
-        "text": "2번 보패"
+        "text": "보패 2번"
     },
     "8004384": {
         "deprecated": false,
         "Dev_Desc": "거래소 / 분류 / 보패 / 3번 보패",
         "id": 8004384,
         "alias": "UI.Trade.Category.SoulShieldPiece.3",
-        "text": "3번 보패"
+        "text": "보패 3번"
     },
     "8004385": {
         "deprecated": false,
         "Dev_Desc": "거래소 / 분류 / 보패 / 4번 보패",
         "id": 8004385,
         "alias": "UI.Trade.Category.SoulShieldPiece.4",
-        "text": "4번 보패"
+        "text": "보패 4번"
     },
     "8004386": {
         "deprecated": false,
         "Dev_Desc": "거래소 / 분류 / 보패 / 5번 보패",
         "id": 8004386,
         "alias": "UI.Trade.Category.SoulShieldPiece.5",
-        "text": "5번 보패"
+        "text": "보패 5번"
     },
     "8004387": {
         "deprecated": false,
         "Dev_Desc": "거래소 / 분류 / 보패 / 6번 보패",
         "id": 8004387,
         "alias": "UI.Trade.Category.SoulShieldPiece.6",
-        "text": "6번 보패"
+        "text": "보패 6번"
     },
     "8004388": {
         "deprecated": false,
         "Dev_Desc": "거래소 / 분류 / 보패 / 7번 보패",
         "id": 8004388,
         "alias": "UI.Trade.Category.SoulShieldPiece.7",
-        "text": "7번 보패"
+        "text": "보패 7번"
     },
     "8004389": {
         "deprecated": false,
         "Dev_Desc": "거래소 / 분류 / 보패 / 8번 보패",
         "id": 8004389,
         "alias": "UI.Trade.Category.SoulShieldPiece.8",
-        "text": "8번 보패"
-    },
-    "8004390": {
-        "deprecated": false,
-        "Dev_Desc": "아이템 / 아이템 소분류 / ",
-        "id": 8004390,
-        "alias": "UI.Item.ItemType.SoulShieldPiece1",
-        "text": "1번 보패"
-    },
-    "8004391": {
-        "deprecated": false,
-        "Dev_Desc": "아이템 / 아이템 소분류 / ",
-        "id": 8004391,
-        "alias": "UI.Item.ItemType.SoulShieldPiece2",
-        "text": "2번 보패"
-    },
-    "8004392": {
-        "deprecated": false,
-        "Dev_Desc": "아이템 / 아이템 소분류 / ",
-        "id": 8004392,
-        "alias": "UI.Item.ItemType.SoulShieldPiece3",
-        "text": "3번 보패"
-    },
-    "8004393": {
-        "deprecated": false,
-        "Dev_Desc": "아이템 / 아이템 소분류 / ",
-        "id": 8004393,
-        "alias": "UI.Item.ItemType.SoulShieldPiece4",
-        "text": "4번 보패"
-    },
-    "8004394": {
-        "deprecated": false,
-        "Dev_Desc": "아이템 / 아이템 소분류 / ",
-        "id": 8004394,
-        "alias": "UI.Item.ItemType.SoulShieldPiece5",
-        "text": "5번 보패"
-    },
-    "8004395": {
-        "deprecated": false,
-        "Dev_Desc": "아이템 / 아이템 소분류 / ",
-        "id": 8004395,
-        "alias": "UI.Item.ItemType.SoulShieldPiece6",
-        "text": "6번 보패"
-    },
-    "8004396": {
-        "deprecated": false,
-        "Dev_Desc": "아이템 / 아이템 소분류 / ",
-        "id": 8004396,
-        "alias": "UI.Item.ItemType.SoulShieldPiece7",
-        "text": "7번 보패"
-    },
-    "8004397": {
-        "deprecated": false,
-        "Dev_Desc": "아이템 / 아이템 소분류 / ",
-        "id": 8004397,
-        "alias": "UI.Item.ItemType.SoulShieldPiece8",
-        "text": "8번 보패"
+        "text": "보패 8번"
     },
     "8004398": {
         "deprecated": false,
@@ -31023,16 +30967,114 @@
     },
     "8004556": {
         "deprecated": false,
-        "Dev_Desc": "무공 / 특화 무공 / 이름 / 장검",
+        "Dev_Desc": "무공 / 특화 무공 / 이름 / 비수",
         "id": 8004556,
         "alias": "UI.Skill.SpecialSkill.DualDagger",
-        "text": "단검 특화 무공"
+        "text": "비수 특화 무공"
     },
     "8004561": {
         "deprecated": false,
         "Dev_Desc": "캐시상점 / 서브 탭 / 패키지 탭 / 주간월간 상품",
         "id": 8004561,
         "alias": "UI.CashShop.TapName.Sub.Package6",
-        "text": "주간/월간 상품"
+        "text": "주간/월간 패키지"
+    },
+    "8004562": {
+        "deprecated": false,
+        "Dev_Desc": "시스템 설정 / 자동 분해 / 대상 종류",
+        "id": 8004562,
+        "alias": "UI.Option.Control.GetItem.AutoDiscompose.Type",
+        "text": "대상 종류"
+    },
+    "8004563": {
+        "deprecated": false,
+        "Dev_Desc": "시스템 설정 / 자동 분해 / 대상 종류 / 장비",
+        "id": 8004563,
+        "alias": "UI.Option.Control.GetItem.AutoDiscompose.Type.Equipment",
+        "text": "장비"
+    },
+    "8004564": {
+        "deprecated": false,
+        "Dev_Desc": "시스템 설정 / 자동 분해 / 대상 종류 / 보패",
+        "id": 8004564,
+        "alias": "UI.Option.Control.GetItem.AutoDiscompose.Type.SoulShield",
+        "text": "보패"
+    },
+    "8004565": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 비수",
+        "id": 8004565,
+        "alias": "UI.Craft.CustomCategory.DualDagger",
+        "text": "비수"
+    },
+    "8004566": {
+        "deprecated": false,
+        "Dev_Desc": "블레이드 효과 극마지체Lv.1",
+        "id": 8004566,
+        "alias": "UI.Soul.BladeEffect.71",
+        "text": "블레이드 효과 극마지체 Lv.1"
+    },
+    "8004567": {
+        "deprecated": false,
+        "Dev_Desc": "블레이드 효과 극마지체Lv.2",
+        "id": 8004567,
+        "alias": "UI.Soul.BladeEffect.72",
+        "text": "블레이드 효과 극마지체 Lv.2"
+    },
+    "8004568": {
+        "deprecated": false,
+        "Dev_Desc": "영웅 5성/블레이드 효과 극마지체Lv.3",
+        "id": 8004568,
+        "alias": "UI.Soul.BladeEffect.73",
+        "text": "블레이드 효과 극마지체 Lv.3\n무공 사용 시 소울 발동"
+    },
+    "8004569": {
+        "deprecated": false,
+        "Dev_Desc": "블레이드 효과 극마지체Lv.3",
+        "id": 8004569,
+        "alias": "UI.Soul.BladeEffect.74",
+        "text": "블레이드 효과 극마지체 Lv.3"
+    },
+    "8004570": {
+        "deprecated": false,
+        "Dev_Desc": "전설 3성/블레이드 효과 극마지체Lv.4",
+        "id": 8004570,
+        "alias": "UI.Soul.BladeEffect.75",
+        "text": "블레이드 효과 극마지체 Lv.4\n무공 사용 시 소울 발동"
+    },
+    "8004571": {
+        "deprecated": false,
+        "Dev_Desc": "전설 5성/블레이드 효과 극마지체Lv.5",
+        "id": 8004571,
+        "alias": "UI.Soul.BladeEffect.76",
+        "text": "블레이드 효과 극마지체 Lv.5\n무공 공격 속도 증가"
+    },
+    "8004572": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 정보 / 전투 / 전투 집중 모드",
+        "id": 8004572,
+        "alias": "UI.Option.Information.Battle.Mode.UniteGuild",
+        "text": "연합 문파"
+    },
+    "8004573": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 정보 / 전투 / 전투 집중 모드",
+        "id": 8004573,
+        "alias": "UI.Option.Information.Battle.Mode.Etc",
+        "text": "그 외"
+    },
+    "8004574": {
+        "deprecated": false,
+        "Dev_Desc": "거래소 / 분류 / 무기 / 비수",
+        "id": 8004574,
+        "alias": "UI.Trade.Category.Weapon.DualDagger",
+        "text": "비수"
+    },
+    "8004575": {
+        "deprecated": false,
+        "Dev_Desc": "거래소 / 분류 / 무공 / 비수",
+        "id": 8004575,
+        "alias": "UI.Trade.Category.SkillSetScroll.DualDagger",
+        "text": "암살비문"
     }
 }

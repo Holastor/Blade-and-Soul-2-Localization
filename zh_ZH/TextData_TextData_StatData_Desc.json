@@ -1370,5 +1370,19 @@
         "id": 11196,
         "alias": "Contents.Stat.Desc.SoulParryDamage",
         "text": "增加对怪物灵魂通过格挡的伤害。"
+    },
+    "11197": {
+        "deprecated": false,
+        "Dev_Desc": "FixedRegenerationStamina",
+        "id": 11197,
+        "alias": "Contents.Stat.Desc.FixedRegenerationStamina",
+        "text": "每单位时间回收的能量增加。"
+    },
+    "11198": {
+        "deprecated": false,
+        "Dev_Desc": "DaggerAttack",
+        "id": 11198,
+        "alias": "Contents.Stat.Desc.DaggerAttack",
+        "text": "装备匕首时增加伤害。"
     }
 }

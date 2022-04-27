@@ -529,7 +529,7 @@
         "Dev_Desc": "번개베기_증폭",
         "id": 60010075,
         "alias": "Contents.Skill.Acquire.LongSword.1102_4",
-        "text": "<textColor=[248:99:99:255]>기절</> 상태의 적에게 추가 공격"
+        "text": "<textColor=[248:99:99:255]>공중</>, <textColor=[248:99:99:255]>기절</> 상태의 적에게 추가 공격\n추가 공격의 마지막 타격 명중 시 <textColor=[248:99:99:255]>기절</> 연장"
     },
     "60010076": {
         "deprecated": false,
@@ -676,14 +676,14 @@
         "Dev_Desc": "검날손질",
         "id": 60010096,
         "alias": "Contents.Skill.Desc.LongSword.1805",
-        "text": "검날을 날카롭게 연마합니다.\n근거리 관통력이 증가합니다."
+        "text": "검날을 날카롭게 연마합니다.\n외공 관통력이 증가합니다."
     },
     "60010097": {
         "deprecated": false,
         "Dev_Desc": "검날손질",
         "id": 60010097,
         "alias": "Contents.Skill.useEffect.LongSword.1805",
-        "text": "근거리 관통력 증가"
+        "text": "외공 관통력 증가"
     },
     "60010098": {
         "deprecated": false,
@@ -718,14 +718,14 @@
         "Dev_Desc": "약점공략",
         "id": 60010102,
         "alias": "Contents.Skill.Desc.LongSword.1807",
-        "text": "적의 약점을 간파하여 공격합니다.\n근거리 공격력이 증가합니다."
+        "text": "적의 약점을 간파하여 공격합니다.\n외공 공격력이 증가합니다."
     },
     "60010103": {
         "deprecated": false,
         "Dev_Desc": "약점공략",
         "id": 60010103,
         "alias": "Contents.Skill.useEffect.LongSword.1807",
-        "text": "근거리 공격력 증가"
+        "text": "외공 공격력 증가"
     },
     "60010104": {
         "deprecated": false,
@@ -778,10 +778,10 @@
     },
     "60010111": {
         "deprecated": false,
-        "Dev_Desc": "근거리 관통력 증가",
+        "Dev_Desc": "외공 관통력 증가",
         "id": 60010111,
         "alias": "Contents.Skill.Upgrade.Name.LongSword.ShortPhysicalPenetration",
-        "text": "근거리 관통력 +5"
+        "text": "외공 관통력 +5"
     },
     "60010112": {
         "deprecated": false,
@@ -799,10 +799,10 @@
     },
     "60010114": {
         "deprecated": false,
-        "Dev_Desc": "근거리 공격력 증가",
+        "Dev_Desc": "외공 공격력 증가",
         "id": 60010114,
         "alias": "Contents.Skill.Upgrade.Name.LongSword.ShortPhysicalAttack",
-        "text": "근거리 공격력 +2"
+        "text": "외공 공격력 +2"
     },
     "60010115": {
         "deprecated": false,
@@ -879,6 +879,6 @@
         "Dev_Desc": "연계강화II",
         "id": 60010125,
         "alias": "Contents.Skill.Desc.LongSword.1810",
-        "text": "보스 몬스터에게 \"올려베기[극한]\", \"올려베기[돌파]\" 공격 시 확정 연계 공격을 합니다."
+        "text": "보스 몬스터에게 \"올려베기[극한]\", \"올려베기[돌파]\", \"번개베기[돌파]\" 공격 시 확정 연계 공격을 합니다."
     }
 }

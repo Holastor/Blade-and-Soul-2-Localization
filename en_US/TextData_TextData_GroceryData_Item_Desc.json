@@ -309,7 +309,7 @@
     },
     "99000045": {
         "deprecated": false,
-        "Dev_Desc": "단검 식별",
+        "Dev_Desc": "비수 식별",
         "id": 99000045,
         "alias": "Contents.Item.Desc.9000171",
         "text": "Displays the players who use a dagger."
@@ -21967,7 +21967,7 @@
         "Dev_Desc": "시간의 화려한 소울 소환서(11회)(이벤트)_220706 토벌전 이벤트 보상",
         "id": 99003830,
         "alias": "Contents.Item.Desc.9300474",
-        "text": "You can acquire the soul according to the probability of use. <br/> (Rating: Advanced ~ Legend)"
+        "text": "When used, you can acquire a soul according to a set probability.<br/>(Rank: Advanced ~ Legendary)"
     },
     "99003831": {
         "deprecated": false,
@@ -22037,104 +22037,839 @@
         "Dev_Desc": "소울 메이트 패스권",
         "id": 99003840,
         "alias": "Contents.Event.Item.Desc.9300489",
-        "text": "Item is an item that can activate additional compensation for Soulmate Pass. \\n\\n * Caution \\n If the event is terminated, the pass mission can no longer proceed. The pass points that are not used after a week after the event ends, It is not possible."
+        "text": "This item can activate additional Soul Mate Pass rewards.\\n\\n* Caution\\nWhen the event ends, you cannot proceed with the pass mission any more.\\nA week after the event ends, unused Pass Points will expire. Exchange is no longer possible."
     },
     "99003841": {
         "deprecated": false,
         "Dev_Desc": "소울 메이트 재료 상자(이벤트)",
         "id": 99003841,
         "alias": "Contents.Event.Item.Desc.9300490",
-        "text": "You can acquire all the following items: \\n\\n - 30,000 people (engraved) 30 \\n - 30,000 people (engraved)"
+        "text": "You can obtain all of the following items when used.\\n\\n- 30 Thunderstone (Imprinted)\\n- 30 Thousand Snow (Imprinted)\\n- 30 Thousand Years of Hwajeong (Imprinted)"
     },
     "99003842": {
         "deprecated": false,
         "Dev_Desc": "소울 메이트 특별 선물(이벤트)",
         "id": 99003842,
         "alias": "Contents.Event.Item.Desc.9300491",
-        "text": "You can acquire all the following items: \\n\\n - Forgotten Hero Weapon Production Notes (Engraving) \\n - Forgotten Hero Armor Production Whole (Engraving) \\n - Hero Soul Selection Box (Engraving) \\n - (Event) \\n - Hero Costume Confirmation Pocket (Event) \\n - Soulmate Growth (Event)"
+        "text": "You can obtain all of the following items when used.\\n\\n- Forgotten Hero's Weapon Crafting Secret (Engraving)\\n- Forgotten Hero's Armor Crafting Secret (Engraving)\\n- Hero's Soul Selection Box (Imprinted)\\n- Rare Guardian Spirit Summon Scroll (1 time) (Event)\\n- Hero Costume Confirmation Bag (Event)\\n- Soul Mate Growth Box (Event)"
     },
     "99003843": {
         "deprecated": false,
         "Dev_Desc": "소울 메이트 성장 상자(이벤트)",
         "id": 99003843,
         "alias": "Contents.Event.Item.Desc.9300492",
-        "text": "You can acquire all the following items: \\n\\n - 100 months of the purpose of the month (event)."
+        "text": "You can obtain all of the following items when used.\\n\\n- The Dragon Bongtang of Paradise (event) 100ea\\n- Moonlight Spirit (event) 100ea\\n- Spirit Water (engraving) 10ea\\n- Elixir: Hsuo (engraved) 20"
     },
     "99003844": {
         "deprecated": false,
         "Dev_Desc": "암살자 사전예약 보상 3종_AutoOpenBox",
         "id": 99003844,
         "alias": "Contents.Item.Desc.9300494",
-        "text": "You can acquire the following three items: \\n\\n - the name of the blade (event) \\n - Blade's tension (event) \\n - Blade box (event)"
+        "text": "You can obtain the following 3 types of items when used.\\n\\n- Token of the Blade (Event)\\n- Seal of the Blade (Event)\\n- Box of Blades (Event)"
     },
     "99003845": {
         "deprecated": false,
         "Dev_Desc": "칼날의 증표(이벤트)",
         "id": 99003845,
         "alias": "Contents.Item.Desc.9300495",
-        "text": "It is a special material used for equipment is used."
+        "text": "A special material used in the Equipment Encyclopedia."
     },
     "99003846": {
         "deprecated": false,
         "Dev_Desc": "칼날의 상자(이벤트)",
         "id": 99003846,
         "alias": "Contents.Item.Desc.9300496",
-        "text": "You can acquire all the following items: \\n\\n - the hero Soul summary (3 times) (event) (event) (event) (11 times) (11 times) (11 times) (event) (11 times) (event) (11 times) (event) Lord Summon (11 times) (11 times) (event) 5 \\n - Hero's costume pocket (event) 5"
+        "text": "You can obtain all of the following items when used.\\n\\n- Hero of Sacrifice Soul Summon Scroll (3 times) (Event) 1 x\\n- Shining Soul Summon Scroll of Sacrifice (11 times) (Event) 5 x\\n - Shining Guardian Spirit of Sacrifice Summon Scroll (11 times) (Event) 5 x\\n- Hero Costume Pouch (Event) 5 x"
     },
     "99003847": {
         "deprecated": false,
         "Dev_Desc": "영롱한 야루의 소울 소환서(1회)(이벤트)_220511",
         "id": 99003847,
         "alias": "Contents.Item.Desc.9300497",
-        "text": "You can acquire Soul, depending on the probability of use. \\n (Rating: Hero ~ Legend)"
+        "text": "When used, you can acquire souls according to a set probability.\\n(Rank: Heroic ~ Legendary)"
     },
     "99003848": {
         "deprecated": false,
         "Dev_Desc": "찬란한 야루의 소울 소환서(1회)(이벤트)_220511",
         "id": 99003848,
         "alias": "Contents.Item.Desc.9300498",
-        "text": "You can acquire a soul according to the probability of use. \\n (Rating: Rare ~ Hero)"
+        "text": "You can acquire souls according to a set probability when used.\\n(Rare ~ Heroic)"
     },
     "99003849": {
         "deprecated": false,
         "Dev_Desc": "빛나는 야루의 소울 소환서(1회)(이벤트)_220511",
         "id": 99003849,
         "alias": "Contents.Item.Desc.9300499",
-        "text": "You can acquire the soul according to the probability of use. \\n (Rating: Rare)"
+        "text": "When used, you can acquire a soul according to a set probability.\\n(Class: Rare)"
     },
     "99003850": {
         "deprecated": false,
         "Dev_Desc": "영롱한 야루의 수호령 소환서(1회)(이벤트)_220511",
         "id": 99003850,
         "alias": "Contents.Item.Desc.9300500",
-        "text": "Depending on the probability of use, you can acquire the Lord. \\n (Rating: Hero ~ Legend)"
+        "text": "When used, you can acquire a guardian spirit according to a set probability.\\n(Rank: Heroic ~ Legendary)"
     },
     "99003851": {
         "deprecated": false,
         "Dev_Desc": "찬란한 야루의 수호령 소환서(1회)(이벤트)_220511",
         "id": 99003851,
         "alias": "Contents.Item.Desc.9300501",
-        "text": "Depending on the probability of use, you can acquire the Lord. \\n (Rating: Rare ~ Hero)"
+        "text": "When used, you can acquire a guardian spirit according to a set probability.\\n(Rare ~ Heroic)"
     },
     "99003852": {
         "deprecated": false,
         "Dev_Desc": "빛나는 야루의 수호령 소환서(1회)(이벤트)_220511",
         "id": 99003852,
         "alias": "Contents.Item.Desc.9300502",
-        "text": "Depending on the probability of use, you can acquire the Lord. \\n (Rating: Rare)"
+        "text": "When used, you can acquire a guardian spirit according to a set probability.\\n(Class: Rare)"
     },
     "99003853": {
         "deprecated": false,
         "Dev_Desc": "빛나는 경지의 주화",
         "id": 99003853,
         "alias": "Contents.Item.Desc.9901476",
-        "text": "It is a coin that is provided to those who have reached a higher enlightenment. \\n Can be used for equipment diagrams."
+        "text": "This coin is given to those who have reached a higher level of enlightenment.\\nCan be used in the Equipment Encyclopedia."
     },
     "99003854": {
         "deprecated": false,
         "Dev_Desc": "전설 의상 확정 주머니(각인)",
         "id": 99003854,
         "alias": "Contents.Item.Desc.9901477",
-        "text": "Depending on the probability of use, you can acquire one of the following items: \\n\\n - the song of the feet \\n - the song of the sword \\n - white glow \\n - white festival \\n - a wedding ceremony \\n - the festival of autumn \\n - \\n - forgotten promise"
+        "text": "Depending on the probability of use, you can obtain one of the following items according to a set probability.\\n\\n- Asura of Fever\\n- Requiem's ​​Song\\n- White Sunset\\n- Winter Festival\\n- Red Ghost\\n- Autumn Festival\\n- Golden Ghost\\n- Forgotten Promise"
+    },
+    "99003855": {
+        "deprecated": false,
+        "Dev_Desc": "희귀 무공서 선택 상자(비수)(각인)",
+        "id": 99003855,
+        "alias": "Contents.Item.Desc.9200660",
+        "text": "When used, you can obtain a rare dagger martial book."
+    },
+    "99003856": {
+        "deprecated": false,
+        "Dev_Desc": "탄생의 비약(이벤트)_220706",
+        "id": 99003856,
+        "alias": "Contents.Item.Desc.9300514",
+        "text": "The energy of birth permeates the body when used.\\nThe effect lasts for 30 minutes and cannot be reused or canceled during the duration of the effect.\\n\\n[Use effect]\\nExperience gain +30%\\n Soul Affinity +3\\nSoul Activation Rate +1%"
+    },
+    "99003857": {
+        "deprecated": false,
+        "Dev_Desc": "불꽃의 염화 무기 상자(각인)",
+        "id": 99003857,
+        "alias": "Contents.Item.Desc.9901479",
+        "text": "You can obtain one of the following items according to a set probability when used.\\n\\n- Flame Chloride Sword (Imprint)\\n- Flame Chloride Gauntlet (Imprint)\\n- Flame Chloride Sword (Imprint) \\n- Flame axe (engraving)\\n- Flame chlorination bow (engraving)\\n- Flame chlorination method (engraving)\\n- Flame chlorination dagger (engraving)"
+    },
+    "99003858": {
+        "deprecated": false,
+        "Dev_Desc": "시련의 무기 선택 상자(각인)",
+        "id": 99003858,
+        "alias": "Contents.Item.Desc.9901482",
+        "text": "You can obtain one of the following items when using it.\\n\\n- Sword of Light Dawn (Imprint)\\n- Gauntlets of Light Dawn (Imprint)\\n- Ax of Light Dawn (Imprint)\\n- Light Dawn's qigong plaque (engraving)\\n- Light Dawn Bow (engraving)\\n- Light Dawn Law Bell (engraving)\\n- Light Dawn's Dagger (engraving)"
+    },
+    "99003859": {
+        "deprecated": false,
+        "Dev_Desc": "검은 바람의 무기 선택 상자(각인)",
+        "id": 99003859,
+        "alias": "Contents.Item.Desc.9901483",
+        "text": "You can obtain one of the following items when using it.\\n\\n- Wave of Black Wind (Imprint)\\n- Chain of Black Wind (Imprint)\\n- Barrier of Black Wind (Imprint)\\n- Soul of Black Wind (Imprint)\\n- Fast and Black Wind (Imprint)\\n- Will of Black Wind (Imprint)\\n- Chill of Black Wind (Imprint)"
+    },
+    "99003860": {
+        "deprecated": false,
+        "Dev_Desc": "특별 희귀 무기 선택 상자",
+        "id": 99003860,
+        "alias": "Contents.Item.Desc.9901484",
+        "text": "You can obtain one of the following items when using it.\\n\\n- +7 Abyssal Thorn (Imprint)\\n- +7 Abyssal Claw (Imprint)\\n- +7 Abyssal Ice Flower (Imprint) )\\n- +7 Ax of Destruction (Imprint)\\n- +7 Bow of the Abyss (Imprint)\\n- +7 Wail of the Abyss (Imprint)\\n- +7 Silence of the Abyss (Imprint)"
+    },
+    "99003861": {
+        "deprecated": false,
+        "Dev_Desc": "특별 희귀 방어구 상자",
+        "id": 99003861,
+        "alias": "Contents.Item.Desc.9901485",
+        "text": "You can obtain all of the following items when used.\\n\\n- +5 White Lotus (Imprint)\\n- +5 Pasa's Gaiters (Imprinted)\\n- +5 Exorcist's Taesahye (Imprinted)\\n- +5 Hermit's Pauldrons (Imprint)\\n- +5 White Lightning Gloves (Imprinted)\\n- +5 Belt of the Oath (Imprinted)"
+    },
+    "99003862": {
+        "deprecated": false,
+        "Dev_Desc": "수라의 영웅 소울 선택 상자",
+        "id": 99003862,
+        "alias": "Contents.Item.Desc.9901486",
+        "text": "You can obtain a Hero Soul Summon Scroll when used."
+    },
+    "99003863": {
+        "deprecated": false,
+        "Dev_Desc": "비천한 소울 소환서(1회)(각인)",
+        "id": 99003863,
+        "alias": "Contents.Item.Desc.9901487",
+        "text": "When used, you get a lowly soul."
+    },
+    "99003864": {
+        "deprecated": false,
+        "Dev_Desc": "신무강 소울 소환서(1회)(각인)",
+        "id": 99003864,
+        "alias": "Contents.Item.Desc.9901488",
+        "text": "When used, you will acquire Shinmugang Soul."
+    },
+    "99003865": {
+        "deprecated": false,
+        "Dev_Desc": "염환 소울 소환서(1회)(각인)",
+        "id": 99003865,
+        "alias": "Contents.Item.Desc.9901489",
+        "text": "When used, you acquire a flame soul."
+    },
+    "99003866": {
+        "deprecated": false,
+        "Dev_Desc": "수라의 화려한 소울 소환서(11회)",
+        "id": 99003866,
+        "alias": "Contents.Item.Desc.9901490",
+        "text": "When used, you can acquire a soul according to a set probability.<br/>(Rank: Advanced ~ Legendary)"
+    },
+    "99003867": {
+        "deprecated": false,
+        "Dev_Desc": "수라의 영롱한 소울 소환서(1회)",
+        "id": 99003867,
+        "alias": "Contents.Item.Desc.9901491",
+        "text": "When used, you can acquire a soul according to a set probability.<br/>(Rank: Heroic ~ Legendary)"
+    },
+    "99003868": {
+        "deprecated": false,
+        "Dev_Desc": "수라의 빛나는 소울 소환서(11회)",
+        "id": 99003868,
+        "alias": "Contents.Item.Desc.9901492",
+        "text": "When used, you can acquire souls according to a set probability.<br/>(Rank: Normal ~ Heroic)"
+    },
+    "99003869": {
+        "deprecated": false,
+        "Dev_Desc": "수라의 영웅 소울 소환서(1회)",
+        "id": 99003869,
+        "alias": "Contents.Item.Desc.9901493",
+        "text": "When used, you can acquire hero grade souls."
+    },
+    "99003870": {
+        "deprecated": false,
+        "Dev_Desc": "암주 소울 파편(각인)",
+        "id": 99003870,
+        "alias": "Contents.Item.Desc.9901494",
+        "text": "You can obtain 1 Dark Lord Soul Fragment when used.<br/>(Rank: Legendary)"
+    },
+    "99003871": {
+        "deprecated": false,
+        "Dev_Desc": "화려한 희생의 수호령 소환서(6회)",
+        "id": 99003871,
+        "alias": "Contents.Item.Desc.9901495",
+        "text": "When used, you can acquire a guardian spirit according to a set probability.\\n(Rank: Advanced ~ Legendary)"
+    },
+    "99003872": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 무공 성장 상자",
+        "id": 99003872,
+        "alias": "Contents.Item.Desc.9901496",
+        "text": "Elixir: Wild ginseng (engraved) and secret (engraved) can be obtained according to a set probability when used.\\n\\n- Flask: Wild ginseng (engraved) 1/2/3/4/5 pieces\\n- Secret (engraved) ) 3,000/4,500/6,000/8,000/15,000"
+    },
+    "99003873": {
+        "deprecated": false,
+        "Dev_Desc": "찬란한 연오 공로함(각인)_해룡산맥",
+        "id": 99003873,
+        "alias": "Contents.Item.Desc.9901513",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003874": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 연오 공로함(각인)_해룡산맥",
+        "id": 99003874,
+        "alias": "Contents.Item.Desc.9901514",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003875": {
+        "deprecated": false,
+        "Dev_Desc": "평범한 연오 공로함(각인)_해룡산맥",
+        "id": 99003875,
+        "alias": "Contents.Item.Desc.9901515",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003876": {
+        "deprecated": false,
+        "Dev_Desc": "낡은 연오 공로함(각인)_해룡산맥",
+        "id": 99003876,
+        "alias": "Contents.Item.Desc.9901516",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003877": {
+        "deprecated": false,
+        "Dev_Desc": "찬란한 침식된 대인면충 공로함(각인)_해룡산맥",
+        "id": 99003877,
+        "alias": "Contents.Item.Desc.9901517",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003878": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 침식된 대인면충 공로함(각인)_해룡산맥",
+        "id": 99003878,
+        "alias": "Contents.Item.Desc.9901518",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003879": {
+        "deprecated": false,
+        "Dev_Desc": "평범한 침식된 대인면충 공로함(각인)_해룡산맥",
+        "id": 99003879,
+        "alias": "Contents.Item.Desc.9901519",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003880": {
+        "deprecated": false,
+        "Dev_Desc": "낡은 침식된 대인면충 공로함(각인)_해룡산맥",
+        "id": 99003880,
+        "alias": "Contents.Item.Desc.9901520",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003881": {
+        "deprecated": false,
+        "Dev_Desc": "찬란한 침식된 홍돈팔 공로함(각인)_해룡산맥",
+        "id": 99003881,
+        "alias": "Contents.Item.Desc.9901521",
+        "text": "When used, various items such as equipment and military documents are acquired according to a set probability."
+    },
+    "99003882": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 침식된 홍돈팔 공로함(각인)_해룡산맥",
+        "id": 99003882,
+        "alias": "Contents.Item.Desc.9901522",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003883": {
+        "deprecated": false,
+        "Dev_Desc": "평범한 침식된 홍돈팔 공로함(각인)_해룡산맥",
+        "id": 99003883,
+        "alias": "Contents.Item.Desc.9901523",
+        "text": "When used, various items such as equipment and military documents are acquired according to a set probability."
+    },
+    "99003884": {
+        "deprecated": false,
+        "Dev_Desc": "낡은 침식된 홍돈팔 공로함(각인)_해룡산맥",
+        "id": 99003884,
+        "alias": "Contents.Item.Desc.9901524",
+        "text": "When used, various items such as equipment and military documents are acquired according to a set probability."
+    },
+    "99003885": {
+        "deprecated": false,
+        "Dev_Desc": "찬란한 곤야차 공로함(각인)_해룡산맥",
+        "id": 99003885,
+        "alias": "Contents.Item.Desc.9901525",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003886": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 곤야차 공로함(각인)_해룡산맥",
+        "id": 99003886,
+        "alias": "Contents.Item.Desc.9901526",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003887": {
+        "deprecated": false,
+        "Dev_Desc": "평범한 곤야차 공로함(각인)_해룡산맥",
+        "id": 99003887,
+        "alias": "Contents.Item.Desc.9901527",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003888": {
+        "deprecated": false,
+        "Dev_Desc": "낡은 곤야차 공로함(각인)_해룡산맥",
+        "id": 99003888,
+        "alias": "Contents.Item.Desc.9901528",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003889": {
+        "deprecated": false,
+        "Dev_Desc": "찬란한 백야금 공로함(각인)_비옥대지",
+        "id": 99003889,
+        "alias": "Contents.Item.Desc.9901529",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003890": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 백야금 공로함(각인)_비옥대지",
+        "id": 99003890,
+        "alias": "Contents.Item.Desc.9901530",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003891": {
+        "deprecated": false,
+        "Dev_Desc": "평범한 백야금 공로함(각인)_비옥대지",
+        "id": 99003891,
+        "alias": "Contents.Item.Desc.9901531",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003892": {
+        "deprecated": false,
+        "Dev_Desc": "낡은 백야금 공로함(각인)_비옥대지",
+        "id": 99003892,
+        "alias": "Contents.Item.Desc.9901532",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003893": {
+        "deprecated": false,
+        "Dev_Desc": "찬란한 리오리노 공로함(각인)_비옥대지",
+        "id": 99003893,
+        "alias": "Contents.Item.Desc.9901533",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003894": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 리오리노 공로함(각인)_비옥대지",
+        "id": 99003894,
+        "alias": "Contents.Item.Desc.9901534",
+        "text": "When used, various items such as equipment and military documents are acquired according to a set probability."
+    },
+    "99003895": {
+        "deprecated": false,
+        "Dev_Desc": "평범한 리오리노 공로함(각인)_비옥대지",
+        "id": 99003895,
+        "alias": "Contents.Item.Desc.9901535",
+        "text": "When used, various items such as equipment and military documents are acquired according to a set probability."
+    },
+    "99003896": {
+        "deprecated": false,
+        "Dev_Desc": "낡은 리오리노 공로함(각인)_비옥대지",
+        "id": 99003896,
+        "alias": "Contents.Item.Desc.9901536",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003897": {
+        "deprecated": false,
+        "Dev_Desc": "찬란한 유강독모 공로함(각인)_비옥대지",
+        "id": 99003897,
+        "alias": "Contents.Item.Desc.9901537",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003898": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 유강독모 공로함(각인)_비옥대지",
+        "id": 99003898,
+        "alias": "Contents.Item.Desc.9901538",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003899": {
+        "deprecated": false,
+        "Dev_Desc": "평범한 유강독모 공로함(각인)_비옥대지",
+        "id": 99003899,
+        "alias": "Contents.Item.Desc.9901539",
+        "text": "When used, various items such as equipment and military documents are acquired according to a set probability."
+    },
+    "99003900": {
+        "deprecated": false,
+        "Dev_Desc": "낡은 유강독모 공로함(각인)_비옥대지",
+        "id": 99003900,
+        "alias": "Contents.Item.Desc.9901540",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003901": {
+        "deprecated": false,
+        "Dev_Desc": "찬란한 홍돈팔 공로함(각인)_비옥대지",
+        "id": 99003901,
+        "alias": "Contents.Item.Desc.9901541",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003902": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 홍돈팔 공로함(각인)_비옥대지",
+        "id": 99003902,
+        "alias": "Contents.Item.Desc.9901542",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003903": {
+        "deprecated": false,
+        "Dev_Desc": "평범한 홍돈팔 공로함(각인)_비옥대지",
+        "id": 99003903,
+        "alias": "Contents.Item.Desc.9901543",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003904": {
+        "deprecated": false,
+        "Dev_Desc": "낡은 홍돈팔 공로함(각인)_비옥대지",
+        "id": 99003904,
+        "alias": "Contents.Item.Desc.9901544",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003905": {
+        "deprecated": false,
+        "Dev_Desc": "찬란한 비옥_모순학 공로함(각인)_비옥대지",
+        "id": 99003905,
+        "alias": "Contents.Item.Desc.9901545",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003906": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 비옥_모순학 공로함(각인)_비옥대지",
+        "id": 99003906,
+        "alias": "Contents.Item.Desc.9901546",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003907": {
+        "deprecated": false,
+        "Dev_Desc": "평범한 비옥_모순학 공로함(각인)_비옥대지",
+        "id": 99003907,
+        "alias": "Contents.Item.Desc.9901547",
+        "text": "When used, various items such as equipment and military documents are acquired according to a set probability."
+    },
+    "99003908": {
+        "deprecated": false,
+        "Dev_Desc": "낡은 비옥_모순학 공로함(각인)_비옥대지",
+        "id": 99003908,
+        "alias": "Contents.Item.Desc.9901548",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003909": {
+        "deprecated": false,
+        "Dev_Desc": "찬란한 낙원대성 공로함(각인)_태록림",
+        "id": 99003909,
+        "alias": "Contents.Item.Desc.9901549",
+        "text": "When used, various items such as equipment and military documents are acquired according to a set probability."
+    },
+    "99003910": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 낙원대성 공로함(각인)_태록림",
+        "id": 99003910,
+        "alias": "Contents.Item.Desc.9901550",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003911": {
+        "deprecated": false,
+        "Dev_Desc": "평범한 낙원대성 공로함(각인)_태록림",
+        "id": 99003911,
+        "alias": "Contents.Item.Desc.9901551",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003912": {
+        "deprecated": false,
+        "Dev_Desc": "낡은 낙원대성 공로함(각인)_태록림",
+        "id": 99003912,
+        "alias": "Contents.Item.Desc.9901552",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003913": {
+        "deprecated": false,
+        "Dev_Desc": "찬란한 대인면충 공로함(각인)_태록림",
+        "id": 99003913,
+        "alias": "Contents.Item.Desc.9901553",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003914": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 대인면충 공로함(각인)_태록림",
+        "id": 99003914,
+        "alias": "Contents.Item.Desc.9901554",
+        "text": "When used, various items such as equipment and military documents are acquired according to a set probability."
+    },
+    "99003915": {
+        "deprecated": false,
+        "Dev_Desc": "평범한 대인면충 공로함(각인)_태록림",
+        "id": 99003915,
+        "alias": "Contents.Item.Desc.9901555",
+        "text": "When used, various items such as equipment and military documents are acquired according to a set probability."
+    },
+    "99003916": {
+        "deprecated": false,
+        "Dev_Desc": "낡은 대인면충 공로함(각인)_태록림",
+        "id": 99003916,
+        "alias": "Contents.Item.Desc.9901556",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003917": {
+        "deprecated": false,
+        "Dev_Desc": "찬란한 팔독모 공로함(각인)_태록림",
+        "id": 99003917,
+        "alias": "Contents.Item.Desc.9901557",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003918": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 팔독모 공로함(각인)_태록림",
+        "id": 99003918,
+        "alias": "Contents.Item.Desc.9901558",
+        "text": "When used, various items such as equipment and military documents are acquired according to a set probability."
+    },
+    "99003919": {
+        "deprecated": false,
+        "Dev_Desc": "평범한 팔독모 공로함(각인)_태록림",
+        "id": 99003919,
+        "alias": "Contents.Item.Desc.9901559",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003920": {
+        "deprecated": false,
+        "Dev_Desc": "낡은 팔독모 공로함(각인)_태록림",
+        "id": 99003920,
+        "alias": "Contents.Item.Desc.9901560",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003921": {
+        "deprecated": false,
+        "Dev_Desc": "찬란한 녹력대귀 공로함(각인)_태록림",
+        "id": 99003921,
+        "alias": "Contents.Item.Desc.9901561",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003922": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 녹력대귀 공로함(각인)_태록림",
+        "id": 99003922,
+        "alias": "Contents.Item.Desc.9901562",
+        "text": "When used, various items such as equipment and military documents are acquired according to a set probability."
+    },
+    "99003923": {
+        "deprecated": false,
+        "Dev_Desc": "평범한 녹력대귀 공로함(각인)_태록림",
+        "id": 99003923,
+        "alias": "Contents.Item.Desc.9901563",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003924": {
+        "deprecated": false,
+        "Dev_Desc": "낡은 녹력대귀 공로함(각인)_태록림",
+        "id": 99003924,
+        "alias": "Contents.Item.Desc.9901564",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003925": {
+        "deprecated": false,
+        "Dev_Desc": "찬란한 돌주먹 공로함(각인)_태록림",
+        "id": 99003925,
+        "alias": "Contents.Item.Desc.9901565",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003926": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 돌주먹 공로함(각인)_태록림",
+        "id": 99003926,
+        "alias": "Contents.Item.Desc.9901566",
+        "text": "When used, various items such as equipment and military documents are acquired according to a set probability."
+    },
+    "99003927": {
+        "deprecated": false,
+        "Dev_Desc": "평범한 돌주먹 공로함(각인)_태록림",
+        "id": 99003927,
+        "alias": "Contents.Item.Desc.9901567",
+        "text": "When used, various items such as equipment and military documents are acquired according to a set probability."
+    },
+    "99003928": {
+        "deprecated": false,
+        "Dev_Desc": "낡은 돌주먹 공로함(각인)_태록림",
+        "id": 99003928,
+        "alias": "Contents.Item.Desc.9901568",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003929": {
+        "deprecated": false,
+        "Dev_Desc": "찬란한 태록_모순학 공로함(각인)_태록림",
+        "id": 99003929,
+        "alias": "Contents.Item.Desc.9901569",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003930": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 태록_모순학 공로함(각인)_태록림",
+        "id": 99003930,
+        "alias": "Contents.Item.Desc.9901570",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003931": {
+        "deprecated": false,
+        "Dev_Desc": "평범한 태록_모순학 공로함(각인)_태록림",
+        "id": 99003931,
+        "alias": "Contents.Item.Desc.9901571",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003932": {
+        "deprecated": false,
+        "Dev_Desc": "낡은 태록_모순학 공로함(각인)_태록림",
+        "id": 99003932,
+        "alias": "Contents.Item.Desc.9901572",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003933": {
+        "deprecated": false,
+        "Dev_Desc": "찬란한 초령목 공로함(각인)_반달호수",
+        "id": 99003933,
+        "alias": "Contents.Item.Desc.9901573",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003934": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 초령목 공로함(각인)_반달호수",
+        "id": 99003934,
+        "alias": "Contents.Item.Desc.9901574",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003935": {
+        "deprecated": false,
+        "Dev_Desc": "평범한 초령목 공로함(각인)_반달호수",
+        "id": 99003935,
+        "alias": "Contents.Item.Desc.9901575",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003936": {
+        "deprecated": false,
+        "Dev_Desc": "낡은 초령목 공로함(각인)_반달호수",
+        "id": 99003936,
+        "alias": "Contents.Item.Desc.9901576",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003937": {
+        "deprecated": false,
+        "Dev_Desc": "찬란한 홍매화 공로함(각인)_반달호수",
+        "id": 99003937,
+        "alias": "Contents.Item.Desc.9901577",
+        "text": "When used, various items such as equipment and military documents are acquired according to a set probability."
+    },
+    "99003938": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 홍매화 공로함(각인)_반달호수",
+        "id": 99003938,
+        "alias": "Contents.Item.Desc.9901578",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003939": {
+        "deprecated": false,
+        "Dev_Desc": "평범한 홍매화 공로함(각인)_반달호수",
+        "id": 99003939,
+        "alias": "Contents.Item.Desc.9901579",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003940": {
+        "deprecated": false,
+        "Dev_Desc": "낡은 홍매화 공로함(각인)_반달호수",
+        "id": 99003940,
+        "alias": "Contents.Item.Desc.9901580",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003941": {
+        "deprecated": false,
+        "Dev_Desc": "찬란한 모순학 공로함(각인)_반달호수",
+        "id": 99003941,
+        "alias": "Contents.Item.Desc.9901581",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003942": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 모순학 공로함(각인)_반달호수",
+        "id": 99003942,
+        "alias": "Contents.Item.Desc.9901582",
+        "text": "When used, various items such as equipment and military documents are acquired according to a set probability."
+    },
+    "99003943": {
+        "deprecated": false,
+        "Dev_Desc": "평범한 모순학 공로함(각인)_반달호수",
+        "id": 99003943,
+        "alias": "Contents.Item.Desc.9901583",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003944": {
+        "deprecated": false,
+        "Dev_Desc": "낡은 모순학 공로함(각인)_반달호수",
+        "id": 99003944,
+        "alias": "Contents.Item.Desc.9901584",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003945": {
+        "deprecated": false,
+        "Dev_Desc": "찬란한 굴락 공로함(각인)_반달호수",
+        "id": 99003945,
+        "alias": "Contents.Item.Desc.9901585",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003946": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 굴락 공로함(각인)_반달호수",
+        "id": 99003946,
+        "alias": "Contents.Item.Desc.9901586",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003947": {
+        "deprecated": false,
+        "Dev_Desc": "평범한 굴락 공로함(각인)_반달호수",
+        "id": 99003947,
+        "alias": "Contents.Item.Desc.9901587",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003948": {
+        "deprecated": false,
+        "Dev_Desc": "낡은 굴락 공로함(각인)_반달호수",
+        "id": 99003948,
+        "alias": "Contents.Item.Desc.9901588",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003949": {
+        "deprecated": false,
+        "Dev_Desc": "찬란한 거곤 공로함(각인)_반달호수",
+        "id": 99003949,
+        "alias": "Contents.Item.Desc.9901589",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003950": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 거곤 공로함(각인)_반달호수",
+        "id": 99003950,
+        "alias": "Contents.Item.Desc.9901590",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003951": {
+        "deprecated": false,
+        "Dev_Desc": "평범한 거곤 공로함(각인)_반달호수",
+        "id": 99003951,
+        "alias": "Contents.Item.Desc.9901591",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003952": {
+        "deprecated": false,
+        "Dev_Desc": "낡은 거곤 공로함(각인)_반달호수",
+        "id": 99003952,
+        "alias": "Contents.Item.Desc.9901592",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003953": {
+        "deprecated": false,
+        "Dev_Desc": "찬란한 강철악 공로함(각인)_반달호수",
+        "id": 99003953,
+        "alias": "Contents.Item.Desc.9901593",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003954": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 강철악 공로함(각인)_반달호수",
+        "id": 99003954,
+        "alias": "Contents.Item.Desc.9901594",
+        "text": "When used, various items such as equipment and military documents are acquired according to a set probability."
+    },
+    "99003955": {
+        "deprecated": false,
+        "Dev_Desc": "평범한 강철악 공로함(각인)_반달호수",
+        "id": 99003955,
+        "alias": "Contents.Item.Desc.9901595",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003956": {
+        "deprecated": false,
+        "Dev_Desc": "낡은 강철악 공로함(각인)_반달호수",
+        "id": 99003956,
+        "alias": "Contents.Item.Desc.9901596",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003957": {
+        "deprecated": false,
+        "Dev_Desc": "희귀 무공서 선택 상자 I_비수 포함",
+        "id": 99003957,
+        "alias": "Contents.Item.Desc.9901658",
+        "text": "You can obtain it by selecting one of the following items when using it.\\n\\n- [Sword] Heaven-Slicing (Imprint) 1 x\\n- [Gauntlet] Legging (Imprinting) x 1\\n- [Axe] Whirlwind (Engraving) 1 x\\n- [Kigong Plaque] Hoejinbo (Engraving) 1 x [Bow] Killing Order (Imprinting) 1 x ] 1 Explosive Blood (engraved)"
+    },
+    "99003958": {
+        "deprecated": false,
+        "Dev_Desc": "희귀 무공서 선택 상자 II_비수 포함",
+        "id": 99003958,
+        "alias": "Contents.Item.Desc.9901659",
+        "text": "You can obtain one of the following items when using it.\\n\\n- [Sword] One Piece (Imprint) x1\\n- [Gauntlet] Furious Attack (Imprint) x1\\n- [Axe] Rage ( Engraving) 1 x\\n- [Kigong Plaque] Biryun Yeonhui (Engraving) 1 x \\n- [Bow] Multi-shot (Imprinting) 1 x (engraved) 1 pc"
+    },
+    "99003959": {
+        "deprecated": false,
+        "Dev_Desc": "소울 메이트 장비 상자(이벤트)_220706",
+        "id": 99003959,
+        "alias": "Contents.Event.Item.Desc.9300515",
+        "text": "You can obtain all of the following items when used.\\n\\n- Strong Extraction Weapon Selection Box (Event)\\n- Strong Extraction Armor Box (Event)"
     }
 }

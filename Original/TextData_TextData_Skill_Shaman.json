@@ -179,7 +179,7 @@
         "Dev_Desc": "굉섬뢰",
         "id": 60070025,
         "alias": "Contents.Skill.Desc.RitualBell.7131",
-        "text": "<textColor=[248:99:99:255]>소울 패링 기절</> 상태의 대상에게 강력한 공격을 가합니다.\n<textColor=[248:99:99:255]>소울 패링 기절</> 상태의 대상에게 공격 버튼을 수동으로 눌러 사용 가능합니다.\n"
+        "text": "대상에게 강력한 공격을 가합니다.\n<textColor=[248:99:99:255]>소울 패링 기절</> 상태의 대상에게 공격 버튼을 수동으로 눌러 사용 가능합니다."
     },
     "60070026": {
         "deprecated": false,
@@ -375,7 +375,7 @@
         "Dev_Desc": "강섬뢰_극한_설명",
         "id": 60070107,
         "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7033",
-        "text": "\"강섬뢰\" 명중 +20%"
+        "text": "\"강섬뢰\" 최종 명중률 +20%"
     },
     "60070108": {
         "deprecated": false,
@@ -501,14 +501,14 @@
         "Dev_Desc": "구원_극한_설명",
         "id": 60070125,
         "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7093",
-        "text": "<textColor=[248:99:99:255]>공중</>, <textColor=[248:99:99:255]>도발</> 추가 해제\n블레이드 효과의 <textColor=[248:99:99:255]>행동불능</> 추가 해제\n재사용 대기시간 -20초"
+        "text": "<textColor=[248:99:99:255]>공중</>, <textColor=[248:99:99:255]>도발</> 추가 해제\n블레이드 효과의 <textColor=[248:99:99:255]>행동불능</> 추가 해제\n재사용 대기시간 -30초"
     },
     "60070126": {
         "deprecated": false,
         "Dev_Desc": "구원_돌파_설명",
         "id": 60070126,
         "alias": "Contents.Skill.acquireEffectDesc.RitualBell.7094",
-        "text": "5초간 통제 면역"
+        "text": "<textColor=[248:99:99:255]>침묵</> 추가 해제\n\"구원\" 사용 시 기력 400 회복\n4초간 방어력 +25 및 생명력 지속 회복"
     },
     "60070127": {
         "deprecated": false,
@@ -668,7 +668,7 @@
         "Dev_Desc": "구원_효과",
         "id": 60070217,
         "alias": "Contents.Skill.UseEffect.RitualBell.7091",
-        "text": "기절, 빙결, 출혈, 화상, 이동속도 감소 효과 해제"
+        "text": "기절, 빙결, 화상, 이동속도 감소 효과 해제"
     },
     "60070218": {
         "deprecated": false,
@@ -845,554 +845,575 @@
     },
     "60070314": {
         "deprecated": false,
-        "Dev_Desc": "심기일전_피해량_버프창",
+        "Dev_Desc": "구원_돌파_버프창",
         "id": 60070314,
-        "alias": "Contents.Effect.Option.RitualBell.705100",
-        "text": "주는 피해량 증폭 4.0%"
+        "alias": "Contents.Effect.Name.RitualBell.709400",
+        "text": "구원[돌파]"
     },
     "60070315": {
         "deprecated": false,
-        "Dev_Desc": "심기일전_피해량_버프창",
+        "Dev_Desc": "구원_돌파_버프창",
         "id": 60070315,
-        "alias": "Contents.Effect.Option.RitualBell.705101",
-        "text": "주는 피해량 증폭 4.3%"
+        "alias": "Contents.Effect.Desc.RitualBell.709400",
+        "text": "이동 속도 증가율, 방어력 증가"
     },
     "60070316": {
         "deprecated": false,
         "Dev_Desc": "심기일전_피해량_버프창",
         "id": 60070316,
-        "alias": "Contents.Effect.Option.RitualBell.705102",
-        "text": "주는 피해량 증폭 4.6%"
+        "alias": "Contents.Effect.Option.RitualBell.705100",
+        "text": "주는 피해량 증폭 4.0%"
     },
     "60070317": {
         "deprecated": false,
         "Dev_Desc": "심기일전_피해량_버프창",
         "id": 60070317,
-        "alias": "Contents.Effect.Option.RitualBell.705103",
-        "text": "주는 피해량 증폭 5.0%"
+        "alias": "Contents.Effect.Option.RitualBell.705101",
+        "text": "주는 피해량 증폭 4.3%"
     },
     "60070318": {
         "deprecated": false,
         "Dev_Desc": "심기일전_피해량_버프창",
         "id": 60070318,
-        "alias": "Contents.Effect.Option.RitualBell.705104",
-        "text": "주는 피해량 증폭 5.3%"
+        "alias": "Contents.Effect.Option.RitualBell.705102",
+        "text": "주는 피해량 증폭 4.6%"
     },
     "60070319": {
         "deprecated": false,
         "Dev_Desc": "심기일전_피해량_버프창",
         "id": 60070319,
-        "alias": "Contents.Effect.Option.RitualBell.705105",
-        "text": "주는 피해량 증폭 5.6%"
+        "alias": "Contents.Effect.Option.RitualBell.705103",
+        "text": "주는 피해량 증폭 5.0%"
     },
     "60070320": {
         "deprecated": false,
         "Dev_Desc": "심기일전_피해량_버프창",
         "id": 60070320,
-        "alias": "Contents.Effect.Option.RitualBell.705106",
-        "text": "주는 피해량 증폭 6.0%"
+        "alias": "Contents.Effect.Option.RitualBell.705104",
+        "text": "주는 피해량 증폭 5.3%"
     },
     "60070321": {
         "deprecated": false,
         "Dev_Desc": "심기일전_피해량_버프창",
         "id": 60070321,
-        "alias": "Contents.Effect.Option.RitualBell.705107",
-        "text": "주는 피해량 증폭 6.3%"
+        "alias": "Contents.Effect.Option.RitualBell.705105",
+        "text": "주는 피해량 증폭 5.6%"
     },
     "60070322": {
         "deprecated": false,
         "Dev_Desc": "심기일전_피해량_버프창",
         "id": 60070322,
-        "alias": "Contents.Effect.Option.RitualBell.705108",
-        "text": "주는 피해량 증폭 6.6%"
+        "alias": "Contents.Effect.Option.RitualBell.705106",
+        "text": "주는 피해량 증폭 6.0%"
     },
     "60070323": {
         "deprecated": false,
         "Dev_Desc": "심기일전_피해량_버프창",
         "id": 60070323,
-        "alias": "Contents.Effect.Option.RitualBell.705109",
-        "text": "주는 피해량 증폭 7.0%"
+        "alias": "Contents.Effect.Option.RitualBell.705107",
+        "text": "주는 피해량 증폭 6.3%"
     },
     "60070324": {
         "deprecated": false,
-        "Dev_Desc": "심기일전_정밀_버프창",
+        "Dev_Desc": "심기일전_피해량_버프창",
         "id": 60070324,
-        "alias": "Contents.Effect.Option.RitualBell.705350",
-        "text": "정밀 +5"
+        "alias": "Contents.Effect.Option.RitualBell.705108",
+        "text": "주는 피해량 증폭 6.6%"
     },
     "60070325": {
         "deprecated": false,
-        "Dev_Desc": "심기일전_무기공격력_버프창",
+        "Dev_Desc": "심기일전_피해량_버프창",
         "id": 60070325,
-        "alias": "Contents.Effect.Option.RitualBell.705250",
-        "text": "무기 공격력 +7"
+        "alias": "Contents.Effect.Option.RitualBell.705109",
+        "text": "주는 피해량 증폭 7.0%"
     },
     "60070326": {
         "deprecated": false,
-        "Dev_Desc": "수호_기본_피해감소_버프창",
+        "Dev_Desc": "심기일전_정밀_버프창",
         "id": 60070326,
-        "alias": "Contents.Effect.Option.RitualBell.708100",
-        "text": "받는 피해량 감소 20.0%"
+        "alias": "Contents.Effect.Option.RitualBell.705350",
+        "text": "정밀 +5"
     },
     "60070327": {
         "deprecated": false,
-        "Dev_Desc": "수호_기본_피해감소_버프창",
+        "Dev_Desc": "심기일전_무기공격력_버프창",
         "id": 60070327,
-        "alias": "Contents.Effect.Option.RitualBell.708101",
-        "text": "받는 피해량 감소 21.2%"
+        "alias": "Contents.Effect.Option.RitualBell.705250",
+        "text": "무기 공격력 +7"
     },
     "60070328": {
         "deprecated": false,
         "Dev_Desc": "수호_기본_피해감소_버프창",
         "id": 60070328,
-        "alias": "Contents.Effect.Option.RitualBell.708102",
-        "text": "받는 피해량 감소 22.2%"
+        "alias": "Contents.Effect.Option.RitualBell.708100",
+        "text": "받는 피해량 감소 20.0%"
     },
     "60070329": {
         "deprecated": false,
         "Dev_Desc": "수호_기본_피해감소_버프창",
         "id": 60070329,
-        "alias": "Contents.Effect.Option.RitualBell.708103",
-        "text": "받는 피해량 감소 23.4%"
+        "alias": "Contents.Effect.Option.RitualBell.708101",
+        "text": "받는 피해량 감소 21.2%"
     },
     "60070330": {
         "deprecated": false,
         "Dev_Desc": "수호_기본_피해감소_버프창",
         "id": 60070330,
-        "alias": "Contents.Effect.Option.RitualBell.708104",
-        "text": "받는 피해량 감소 24.4%"
+        "alias": "Contents.Effect.Option.RitualBell.708102",
+        "text": "받는 피해량 감소 22.2%"
     },
     "60070331": {
         "deprecated": false,
         "Dev_Desc": "수호_기본_피해감소_버프창",
         "id": 60070331,
-        "alias": "Contents.Effect.Option.RitualBell.708105",
-        "text": "받는 피해량 감소 25.6%"
+        "alias": "Contents.Effect.Option.RitualBell.708103",
+        "text": "받는 피해량 감소 23.4%"
     },
     "60070332": {
         "deprecated": false,
         "Dev_Desc": "수호_기본_피해감소_버프창",
         "id": 60070332,
-        "alias": "Contents.Effect.Option.RitualBell.708106",
-        "text": "받는 피해량 감소 26.6%"
+        "alias": "Contents.Effect.Option.RitualBell.708104",
+        "text": "받는 피해량 감소 24.4%"
     },
     "60070333": {
         "deprecated": false,
         "Dev_Desc": "수호_기본_피해감소_버프창",
         "id": 60070333,
-        "alias": "Contents.Effect.Option.RitualBell.708107",
-        "text": "받는 피해량 감소 27.8%"
+        "alias": "Contents.Effect.Option.RitualBell.708105",
+        "text": "받는 피해량 감소 25.6%"
     },
     "60070334": {
         "deprecated": false,
         "Dev_Desc": "수호_기본_피해감소_버프창",
         "id": 60070334,
-        "alias": "Contents.Effect.Option.RitualBell.708108",
-        "text": "받는 피해량 감소 28.8%"
+        "alias": "Contents.Effect.Option.RitualBell.708106",
+        "text": "받는 피해량 감소 26.6%"
     },
     "60070335": {
         "deprecated": false,
         "Dev_Desc": "수호_기본_피해감소_버프창",
         "id": 60070335,
-        "alias": "Contents.Effect.Option.RitualBell.708109",
-        "text": "받는 피해량 감소 30.0%"
+        "alias": "Contents.Effect.Option.RitualBell.708107",
+        "text": "받는 피해량 감소 27.8%"
     },
     "60070336": {
         "deprecated": false,
-        "Dev_Desc": "수호_증폭_피해감소_버프창",
+        "Dev_Desc": "수호_기본_피해감소_버프창",
         "id": 60070336,
-        "alias": "Contents.Effect.Option.RitualBell.708200",
-        "text": "받는 피해량 감소 20.0%\n호신 +5"
+        "alias": "Contents.Effect.Option.RitualBell.708108",
+        "text": "받는 피해량 감소 28.8%"
     },
     "60070337": {
         "deprecated": false,
-        "Dev_Desc": "수호_증폭_피해감소_버프창",
+        "Dev_Desc": "수호_기본_피해감소_버프창",
         "id": 60070337,
-        "alias": "Contents.Effect.Option.RitualBell.708201",
-        "text": "받는 피해량 감소 21.2%\n호신 +5"
+        "alias": "Contents.Effect.Option.RitualBell.708109",
+        "text": "받는 피해량 감소 30.0%"
     },
     "60070338": {
         "deprecated": false,
         "Dev_Desc": "수호_증폭_피해감소_버프창",
         "id": 60070338,
-        "alias": "Contents.Effect.Option.RitualBell.708202",
-        "text": "받는 피해량 감소 22.2%\n호신 +5"
+        "alias": "Contents.Effect.Option.RitualBell.708200",
+        "text": "받는 피해량 감소 20.0%\n호신 +5"
     },
     "60070339": {
         "deprecated": false,
         "Dev_Desc": "수호_증폭_피해감소_버프창",
         "id": 60070339,
-        "alias": "Contents.Effect.Option.RitualBell.708203",
-        "text": "받는 피해량 감소 23.4%\n호신 +5"
+        "alias": "Contents.Effect.Option.RitualBell.708201",
+        "text": "받는 피해량 감소 21.2%\n호신 +5"
     },
     "60070340": {
         "deprecated": false,
         "Dev_Desc": "수호_증폭_피해감소_버프창",
         "id": 60070340,
-        "alias": "Contents.Effect.Option.RitualBell.708204",
-        "text": "받는 피해량 감소 24.4%\n호신 +5"
+        "alias": "Contents.Effect.Option.RitualBell.708202",
+        "text": "받는 피해량 감소 22.2%\n호신 +5"
     },
     "60070341": {
         "deprecated": false,
         "Dev_Desc": "수호_증폭_피해감소_버프창",
         "id": 60070341,
-        "alias": "Contents.Effect.Option.RitualBell.708205",
-        "text": "받는 피해량 감소 25.6%\n호신 +5"
+        "alias": "Contents.Effect.Option.RitualBell.708203",
+        "text": "받는 피해량 감소 23.4%\n호신 +5"
     },
     "60070342": {
         "deprecated": false,
         "Dev_Desc": "수호_증폭_피해감소_버프창",
         "id": 60070342,
-        "alias": "Contents.Effect.Option.RitualBell.708206",
-        "text": "받는 피해량 감소 26.6%\n호신 +5"
+        "alias": "Contents.Effect.Option.RitualBell.708204",
+        "text": "받는 피해량 감소 24.4%\n호신 +5"
     },
     "60070343": {
         "deprecated": false,
         "Dev_Desc": "수호_증폭_피해감소_버프창",
         "id": 60070343,
-        "alias": "Contents.Effect.Option.RitualBell.708207",
-        "text": "받는 피해량 감소 27.8%\n호신 +5"
+        "alias": "Contents.Effect.Option.RitualBell.708205",
+        "text": "받는 피해량 감소 25.6%\n호신 +5"
     },
     "60070344": {
         "deprecated": false,
         "Dev_Desc": "수호_증폭_피해감소_버프창",
         "id": 60070344,
-        "alias": "Contents.Effect.Option.RitualBell.708208",
-        "text": "받는 피해량 감소 28.8%\n호신 +5"
+        "alias": "Contents.Effect.Option.RitualBell.708206",
+        "text": "받는 피해량 감소 26.6%\n호신 +5"
     },
     "60070345": {
         "deprecated": false,
         "Dev_Desc": "수호_증폭_피해감소_버프창",
         "id": 60070345,
-        "alias": "Contents.Effect.Option.RitualBell.708209",
-        "text": "받는 피해량 감소 30.0%\n호신 +5"
+        "alias": "Contents.Effect.Option.RitualBell.708207",
+        "text": "받는 피해량 감소 27.8%\n호신 +5"
     },
     "60070346": {
         "deprecated": false,
-        "Dev_Desc": "수호_극한_피해감소_버프창",
+        "Dev_Desc": "수호_증폭_피해감소_버프창",
         "id": 60070346,
-        "alias": "Contents.Effect.Option.RitualBell.708300",
-        "text": "받는 피해량 감소 25.0%\n호신 +5"
+        "alias": "Contents.Effect.Option.RitualBell.708208",
+        "text": "받는 피해량 감소 28.8%\n호신 +5"
     },
     "60070347": {
         "deprecated": false,
-        "Dev_Desc": "수호_극한_피해감소_버프창",
+        "Dev_Desc": "수호_증폭_피해감소_버프창",
         "id": 60070347,
-        "alias": "Contents.Effect.Option.RitualBell.708301",
-        "text": "받는 피해량 감소 26.2%\n호신 +5"
+        "alias": "Contents.Effect.Option.RitualBell.708209",
+        "text": "받는 피해량 감소 30.0%\n호신 +5"
     },
     "60070348": {
         "deprecated": false,
         "Dev_Desc": "수호_극한_피해감소_버프창",
         "id": 60070348,
-        "alias": "Contents.Effect.Option.RitualBell.708302",
-        "text": "받는 피해량 감소 27.2%\n호신 +5"
+        "alias": "Contents.Effect.Option.RitualBell.708300",
+        "text": "받는 피해량 감소 25.0%\n호신 +5"
     },
     "60070349": {
         "deprecated": false,
         "Dev_Desc": "수호_극한_피해감소_버프창",
         "id": 60070349,
-        "alias": "Contents.Effect.Option.RitualBell.708303",
-        "text": "받는 피해량 감소 28.4%\n호신 +5"
+        "alias": "Contents.Effect.Option.RitualBell.708301",
+        "text": "받는 피해량 감소 26.2%\n호신 +5"
     },
     "60070350": {
         "deprecated": false,
         "Dev_Desc": "수호_극한_피해감소_버프창",
         "id": 60070350,
-        "alias": "Contents.Effect.Option.RitualBell.708304",
-        "text": "받는 피해량 감소 29.4%\n호신 +5"
+        "alias": "Contents.Effect.Option.RitualBell.708302",
+        "text": "받는 피해량 감소 27.2%\n호신 +5"
     },
     "60070351": {
         "deprecated": false,
         "Dev_Desc": "수호_극한_피해감소_버프창",
         "id": 60070351,
-        "alias": "Contents.Effect.Option.RitualBell.708305",
-        "text": "받는 피해량 감소 30.6%\n호신 +5"
+        "alias": "Contents.Effect.Option.RitualBell.708303",
+        "text": "받는 피해량 감소 28.4%\n호신 +5"
     },
     "60070352": {
         "deprecated": false,
         "Dev_Desc": "수호_극한_피해감소_버프창",
         "id": 60070352,
-        "alias": "Contents.Effect.Option.RitualBell.708306",
-        "text": "받는 피해량 감소 31.6%\n호신 +5"
+        "alias": "Contents.Effect.Option.RitualBell.708304",
+        "text": "받는 피해량 감소 29.4%\n호신 +5"
     },
     "60070353": {
         "deprecated": false,
         "Dev_Desc": "수호_극한_피해감소_버프창",
         "id": 60070353,
-        "alias": "Contents.Effect.Option.RitualBell.708307",
-        "text": "받는 피해량 감소 32.8%\n호신 +5"
+        "alias": "Contents.Effect.Option.RitualBell.708305",
+        "text": "받는 피해량 감소 30.6%\n호신 +5"
     },
     "60070354": {
         "deprecated": false,
         "Dev_Desc": "수호_극한_피해감소_버프창",
         "id": 60070354,
-        "alias": "Contents.Effect.Option.RitualBell.708308",
-        "text": "받는 피해량 감소 33.8%\n호신 +5"
+        "alias": "Contents.Effect.Option.RitualBell.708306",
+        "text": "받는 피해량 감소 31.6%\n호신 +5"
     },
     "60070355": {
         "deprecated": false,
         "Dev_Desc": "수호_극한_피해감소_버프창",
         "id": 60070355,
-        "alias": "Contents.Effect.Option.RitualBell.708309",
-        "text": "받는 피해량 감소 35.0%\n호신 +5"
+        "alias": "Contents.Effect.Option.RitualBell.708307",
+        "text": "받는 피해량 감소 32.8%\n호신 +5"
     },
     "60070356": {
         "deprecated": false,
-        "Dev_Desc": "수호_돌파_피해감소_버프창",
+        "Dev_Desc": "수호_극한_피해감소_버프창",
         "id": 60070356,
-        "alias": "Contents.Effect.Option.RitualBell.708400",
-        "text": "받는 피해량 감소 35.0%\n호신 +5"
+        "alias": "Contents.Effect.Option.RitualBell.708308",
+        "text": "받는 피해량 감소 33.8%\n호신 +5"
     },
     "60070357": {
         "deprecated": false,
-        "Dev_Desc": "수호_돌파_피해감소_버프창",
+        "Dev_Desc": "수호_극한_피해감소_버프창",
         "id": 60070357,
-        "alias": "Contents.Effect.Option.RitualBell.708401",
-        "text": "받는 피해량 감소 36.2%\n호신 +5"
+        "alias": "Contents.Effect.Option.RitualBell.708309",
+        "text": "받는 피해량 감소 35.0%\n호신 +5"
     },
     "60070358": {
         "deprecated": false,
         "Dev_Desc": "수호_돌파_피해감소_버프창",
         "id": 60070358,
-        "alias": "Contents.Effect.Option.RitualBell.708402",
-        "text": "받는 피해량 감소 37.2%\n호신 +5"
+        "alias": "Contents.Effect.Option.RitualBell.708400",
+        "text": "받는 피해량 감소 35.0%\n호신 +5"
     },
     "60070359": {
         "deprecated": false,
         "Dev_Desc": "수호_돌파_피해감소_버프창",
         "id": 60070359,
-        "alias": "Contents.Effect.Option.RitualBell.708403",
-        "text": "받는 피해량 감소 38.4%\n호신 +5"
+        "alias": "Contents.Effect.Option.RitualBell.708401",
+        "text": "받는 피해량 감소 36.2%\n호신 +5"
     },
     "60070360": {
         "deprecated": false,
         "Dev_Desc": "수호_돌파_피해감소_버프창",
         "id": 60070360,
-        "alias": "Contents.Effect.Option.RitualBell.708404",
-        "text": "받는 피해량 감소 39.4%\n호신 +5"
+        "alias": "Contents.Effect.Option.RitualBell.708402",
+        "text": "받는 피해량 감소 37.2%\n호신 +5"
     },
     "60070361": {
         "deprecated": false,
         "Dev_Desc": "수호_돌파_피해감소_버프창",
         "id": 60070361,
-        "alias": "Contents.Effect.Option.RitualBell.708405",
-        "text": "받는 피해량 감소 40.6%\n호신 +5"
+        "alias": "Contents.Effect.Option.RitualBell.708403",
+        "text": "받는 피해량 감소 38.4%\n호신 +5"
     },
     "60070362": {
         "deprecated": false,
         "Dev_Desc": "수호_돌파_피해감소_버프창",
         "id": 60070362,
-        "alias": "Contents.Effect.Option.RitualBell.708406",
-        "text": "받는 피해량 감소 41.6%\n호신 +5"
+        "alias": "Contents.Effect.Option.RitualBell.708404",
+        "text": "받는 피해량 감소 39.4%\n호신 +5"
     },
     "60070363": {
         "deprecated": false,
         "Dev_Desc": "수호_돌파_피해감소_버프창",
         "id": 60070363,
-        "alias": "Contents.Effect.Option.RitualBell.708407",
-        "text": "받는 피해량 감소 42.8%\n호신 +5"
+        "alias": "Contents.Effect.Option.RitualBell.708405",
+        "text": "받는 피해량 감소 40.6%\n호신 +5"
     },
     "60070364": {
         "deprecated": false,
         "Dev_Desc": "수호_돌파_피해감소_버프창",
         "id": 60070364,
-        "alias": "Contents.Effect.Option.RitualBell.708408",
-        "text": "받는 피해량 감소 43.8%\n호신 +5"
+        "alias": "Contents.Effect.Option.RitualBell.708406",
+        "text": "받는 피해량 감소 41.6%\n호신 +5"
     },
     "60070365": {
         "deprecated": false,
         "Dev_Desc": "수호_돌파_피해감소_버프창",
         "id": 60070365,
-        "alias": "Contents.Effect.Option.RitualBell.708409",
-        "text": "받는 피해량 감소 45.0%\n호신 +5"
+        "alias": "Contents.Effect.Option.RitualBell.708407",
+        "text": "받는 피해량 감소 42.8%\n호신 +5"
     },
     "60070366": {
         "deprecated": false,
-        "Dev_Desc": "구원_통제저항_버프창",
+        "Dev_Desc": "수호_돌파_피해감소_버프창",
         "id": 60070366,
-        "alias": "Contents.Effect.Option.RitualBell.709200",
-        "text": "이동 속도 증가율 +50%"
+        "alias": "Contents.Effect.Option.RitualBell.708408",
+        "text": "받는 피해량 감소 43.8%\n호신 +5"
     },
     "60070367": {
         "deprecated": false,
-        "Dev_Desc": "치유지대_돌파_치명 저항률 버프창",
+        "Dev_Desc": "수호_돌파_피해감소_버프창",
         "id": 60070367,
-        "alias": "Contents.Effect.Name.RitualBell.707450",
-        "text": "치유지대(치명 저항률)"
+        "alias": "Contents.Effect.Option.RitualBell.708409",
+        "text": "받는 피해량 감소 45.0%\n호신 +5"
     },
     "60070368": {
         "deprecated": false,
-        "Dev_Desc": "치유지대_돌파_치명 저항률 버프창",
+        "Dev_Desc": "구원_통제저항_버프창",
         "id": 60070368,
-        "alias": "Contents.Effect.Desc.RitualBell.707450",
-        "text": "치명 저항률 증가"
+        "alias": "Contents.Effect.Option.RitualBell.709200",
+        "text": "이동 속도 증가율 +50%"
     },
     "60070369": {
         "deprecated": false,
-        "Dev_Desc": "치유지대_돌파_치명 저항률 버프창",
+        "Dev_Desc": "구원_돌파_버프창",
         "id": 60070369,
+        "alias": "Contents.Effect.Option.RitualBell.709400",
+        "text": "이동 속도 증가율 +50%\n방어력 +25"
+    },
+    "60070370": {
+        "deprecated": false,
+        "Dev_Desc": "치유지대_돌파_치명 저항률 버프창",
+        "id": 60070370,
+        "alias": "Contents.Effect.Name.RitualBell.707450",
+        "text": "치유지대(치명 저항률)"
+    },
+    "60070371": {
+        "deprecated": false,
+        "Dev_Desc": "치유지대_돌파_치명 저항률 버프창",
+        "id": 60070371,
+        "alias": "Contents.Effect.Desc.RitualBell.707450",
+        "text": "치명 저항률 증가"
+    },
+    "60070372": {
+        "deprecated": false,
+        "Dev_Desc": "치유지대_돌파_치명 저항률 버프창",
+        "id": 60070372,
         "alias": "Contents.Effect.Option.RitualBell.707450",
         "text": "치명 저항률 +20%"
     },
-    "60070500": {
+    "60070373": {
         "deprecated": false,
         "Dev_Desc": "무공 강화 업그레이드 툴팁",
-        "id": 60070500,
+        "id": 60070373,
         "alias": "Contents.Skill.Upgrade.Name.7000",
         "text": "치유 계수 증가"
     },
-    "60070501": {
+    "60070374": {
         "deprecated": false,
         "Dev_Desc": "무공 강화 업그레이드 툴팁",
-        "id": 60070501,
+        "id": 60070374,
         "alias": "Contents.Skill.Upgrade.Name.7001",
         "text": "무공 피해 계수 증가"
     },
-    "60070502": {
+    "60070375": {
         "deprecated": false,
         "Dev_Desc": "무공 강화 업그레이드 툴팁",
-        "id": 60070502,
+        "id": 60070375,
         "alias": "Contents.Skill.Upgrade.Name.7002",
         "text": "주는 피해량 증폭"
     },
-    "60070503": {
+    "60070376": {
         "deprecated": false,
         "Dev_Desc": "무공 강화 업그레이드 툴팁",
-        "id": 60070503,
+        "id": 60070376,
         "alias": "Contents.Skill.Upgrade.Name.7003",
         "text": "받는 피해량 감소"
     },
-    "60070504": {
+    "60070377": {
         "deprecated": false,
         "Dev_Desc": "무공 강화 업그레이드 툴팁",
-        "id": 60070504,
+        "id": 60070377,
         "alias": "Contents.Skill.Upgrade.Name.7004",
         "text": "통제 저항률 증가"
     },
-    "60070505": {
+    "60070378": {
         "deprecated": false,
         "Dev_Desc": "무공 강화 업그레이드 툴팁",
-        "id": 60070505,
+        "id": 60070378,
         "alias": "Contents.Skill.Upgrade.Name.7005",
         "text": "부활 생명력 증가"
     },
-    "60070506": {
+    "60070379": {
         "deprecated": false,
         "Dev_Desc": "무공 강화 업그레이드 툴팁",
-        "id": 60070506,
+        "id": 60070379,
         "alias": "Contents.Skill.Upgrade.Name.7006",
         "text": "무적 유지시간 증가"
     },
-    "60070507": {
+    "60070380": {
         "deprecated": false,
         "Dev_Desc": "무공 강화 업그레이드 툴팁 패시브",
-        "id": 60070507,
+        "id": 60070380,
         "alias": "Contents.Skill.Upgrade.Name.7007",
         "text": "내력 재생 증가"
     },
-    "60070508": {
+    "60070381": {
         "deprecated": false,
         "Dev_Desc": "무공 강화 업그레이드 툴팁 패시브",
-        "id": 60070508,
+        "id": 60070381,
         "alias": "Contents.Skill.Upgrade.Name.7008",
         "text": "치유력 증가"
     },
-    "60070509": {
+    "60070382": {
         "deprecated": false,
         "Dev_Desc": "무공 강화 업그레이드 툴팁 패시브",
-        "id": 60070509,
+        "id": 60070382,
         "alias": "Contents.Skill.Upgrade.Name.7009",
         "text": "지능 증가"
     },
-    "60070510": {
+    "60070383": {
         "deprecated": false,
         "Dev_Desc": "무공 강화 업그레이드 툴팁 패시브",
-        "id": 60070510,
+        "id": 60070383,
         "alias": "Contents.Skill.Upgrade.Name.7010",
         "text": "지혜 증가"
     },
-    "60070511": {
+    "60070384": {
         "deprecated": false,
         "Dev_Desc": "무공 강화 업그레이드 툴팁 패시브",
-        "id": 60070511,
+        "id": 60070384,
         "alias": "Contents.Skill.Upgrade.Name.7011",
         "text": "법종 공격력 증가"
     },
-    "60070512": {
+    "60070385": {
         "deprecated": false,
         "Dev_Desc": "무공 강화 업그레이드 툴팁 패시브",
-        "id": 60070512,
+        "id": 60070385,
         "alias": "Contents.Skill.Upgrade.Name.7012",
         "text": "받는 치유량 증가"
     },
-    "60070513": {
+    "60070386": {
         "deprecated": false,
         "Dev_Desc": "무공 강화 업그레이드 툴팁 패시브",
-        "id": 60070513,
+        "id": 60070386,
         "alias": "Contents.Skill.Upgrade.Name.7013",
         "text": "통제 저항률 증가"
     },
-    "60070514": {
+    "60070387": {
         "deprecated": false,
         "Dev_Desc": "무공 강화 업그레이드 툴팁 패시브",
-        "id": 60070514,
+        "id": 60070387,
         "alias": "Contents.Skill.Upgrade.Name.7014",
         "text": "주는 치유량 증가"
     },
-    "60070515": {
+    "60070388": {
         "deprecated": false,
         "Dev_Desc": "무공 강화 업그레이드 툴팁",
-        "id": 60070515,
+        "id": 60070388,
         "alias": "Contents.Skill.Upgrade.Name.7015",
         "text": "이동 속도 단계"
     },
-    "60070516": {
+    "60070389": {
         "deprecated": false,
         "Dev_Desc": "심판_돌파_효과 툴팁",
-        "id": 60070516,
+        "id": 60070389,
         "alias": "Contents.Skill.UseEffect.RitualBell.7041",
         "text": "기절, 낙인"
     },
-    "60070517": {
+    "60070390": {
         "deprecated": false,
         "Dev_Desc": "청화_돌파 툴팁",
-        "id": 60070517,
+        "id": 60070390,
         "alias": "Contents.Skill.Desc.RitualBell.7104",
         "text": "상서로운 청염의 힘으로 대상을 공격합니다.\n3연속 청화 사용 시 내력 제거 효과는 첫 타격에만 적용됩니다."
     },
-    "60070518": {
+    "60070391": {
         "deprecated": false,
         "Dev_Desc": "낙인_버프창",
-        "id": 60070518,
+        "id": 60070391,
         "alias": "Contents.Effect.Name.RitualBell.704199",
         "text": "낙인"
     },
-    "60070519": {
+    "60070392": {
         "deprecated": false,
         "Dev_Desc": "낙인_버프창",
-        "id": 60070519,
+        "id": 60070392,
         "alias": "Contents.Effect.Desc.RitualBell.704199",
         "text": "적 무공 대기시간 감소"
     },
-    "60070520": {
+    "60070393": {
         "deprecated": false,
         "Dev_Desc": "낙인_버프창",
-        "id": 60070520,
+        "id": 60070393,
         "alias": "Contents.Effect.Option.RitualBell.704199",
         "text": "\"심판 [돌파]\"까지 진화시킨 대상에게 법종으로 피격 시 대상의 \"심판\" 대기시간 -1초\n(재사용 대기시간 2초)"
     },
-    "60070521": {
+    "60070394": {
         "deprecated": false,
         "Dev_Desc": "수호_기본_효과",
-        "id": 60070521,
+        "id": 60070394,
         "alias": "Contents.Skill.UseEffect.RitualBell.7081",
         "text": "받는 피해량 감소 +10%"
     },
-    "60070522": {
+    "60070395": {
         "deprecated": false,
         "Dev_Desc": "수호_극한_효과",
-        "id": 60070522,
+        "id": 60070395,
         "alias": "Contents.Skill.UseEffect.RitualBell.7083",
         "text": "받는 피해량 감소 +15%"
     }

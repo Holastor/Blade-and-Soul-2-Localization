@@ -1370,5 +1370,19 @@
         "id": 11196,
         "alias": "Contents.Stat.Desc.SoulParryDamage",
         "text": "Increases the damage against the monster's soul pass gauge."
+    },
+    "11197": {
+        "deprecated": false,
+        "Dev_Desc": "FixedRegenerationStamina",
+        "id": 11197,
+        "alias": "Contents.Stat.Desc.FixedRegenerationStamina",
+        "text": "Energy recovered per unit time increases."
+    },
+    "11198": {
+        "deprecated": false,
+        "Dev_Desc": "DaggerAttack",
+        "id": 11198,
+        "alias": "Contents.Stat.Desc.DaggerAttack",
+        "text": "Increases damage when equipped with a dagger."
     }
 }

@@ -4,56 +4,56 @@
         "Dev_Desc": "Strength",
         "id": 11001,
         "alias": "Contents.Stat.Desc.Strength",
-        "text": "일정 수치마다 근거리 공격력, 근거리 관통력, 근거리 명중, 방어력이 증가합니다."
+        "text": "일정 수치마다 외공 공격력, 외공 관통력, 외공 명중, 방어력, 무기 공격력 내성이 증가합니다."
     },
     "11002": {
         "deprecated": false,
         "Dev_Desc": "Dexterity",
         "id": 11002,
         "alias": "Contents.Stat.Desc.Dexterity",
-        "text": "일정 수치마다 원거리 공격력, 원거리 관통력, 원거리 명중, 치명타 추가 공격력이 증가합니다."
+        "text": "일정 수치마다 기교 공격력, 기교 관통력, 기교 명중, 치명타 추가 공격력, 무기 공격력이 증가합니다."
     },
     "11003": {
         "deprecated": false,
         "Dev_Desc": "Intelligence",
         "id": 11003,
         "alias": "Contents.Stat.Desc.Intelligence",
-        "text": "일정 수치마다 기공 공격력, 기공 관통력, 기공 명중, 통제 저항률이 증가합니다."
+        "text": "일정 수치마다 기공 공격력, 기공 관통력, 기공 명중, 통제 저항률, 정밀이 증가합니다."
     },
     "11004": {
         "deprecated": false,
         "Dev_Desc": "Constitution",
         "id": 11004,
         "alias": "Contents.Stat.Desc.Constitution",
-        "text": "일정 수치마다 생명력, 물약 회복률, 무공 피해 내성, 상대 소울 억제력이 증가합니다."
+        "text": "일정 수치마다 생명력, 물약 회복률, 무공 피해 내성, 상대 소울 억제력, 속성 피해 내성이 증가합니다."
     },
     "11005": {
         "deprecated": false,
         "Dev_Desc": "Wisdom",
         "id": 11005,
         "alias": "Contents.Stat.Desc.Wisdom",
-        "text": "일정 수치마다 내력, 소울 발동률, 무공 공격 증폭, 내력 조절이 증가합니다."
+        "text": "일정 수치마다 내력, 소울 발동률, 무공 공격 증폭, 내력 조절, 약점 추가 공격력이 증가합니다."
     },
     "11006": {
         "deprecated": false,
         "Dev_Desc": "Agility",
         "id": 11006,
         "alias": "Contents.Stat.Desc.Agility",
-        "text": "일정 수치마다 치명률, 회피, 이동 속도 증가율, 기본 공격 속도가 증가합니다."
+        "text": "일정 수치마다 치명률, 회피, 이동 속도 증가율, 기본 공격 속도, 약점 호신이 증가합니다."
     },
     "11007": {
         "deprecated": false,
         "Dev_Desc": "ShortPhysicalAttack",
         "id": 11007,
         "alias": "Contents.Stat.Desc.ShortPhysicalAttack",
-        "text": "공격 시 입히는 근거리 피해량입니다."
+        "text": "공격 시 입히는 외공 피해량입니다."
     },
     "11008": {
         "deprecated": false,
         "Dev_Desc": "LongPhysicalAttack",
         "id": 11008,
         "alias": "Contents.Stat.Desc.LongPhysicalAttack",
-        "text": "공격 시 입히는 원거리 피해량입니다."
+        "text": "공격 시 입히는 기교 피해량입니다."
     },
     "11009": {
         "deprecated": false,
@@ -165,14 +165,14 @@
         "Dev_Desc": "ShortPhysicalPenetration",
         "id": 11024,
         "alias": "Contents.Stat.Desc.ShortPhysicalPenetration",
-        "text": "근거리 공격 시 대상의 근거리 방어력을 상쇄합니다."
+        "text": "외공 공격 시 대상의 외공 방어력을 상쇄합니다."
     },
     "11025": {
         "deprecated": false,
         "Dev_Desc": "LongPhysicalPenetration",
         "id": 11025,
         "alias": "Contents.Stat.Desc.LongPhysicalPenetration",
-        "text": "원거리 공격 시 대상의 원거리 방어력을 상쇄합니다."
+        "text": "기교 공격 시 대상의 기교 방어력을 상쇄합니다."
     },
     "11026": {
         "deprecated": false,
@@ -193,14 +193,14 @@
         "Dev_Desc": "ShortPhysicalHit",
         "id": 11028,
         "alias": "Contents.Stat.Desc.ShortPhysicalHit",
-        "text": "근거리 공격 시 명중 확률이 증가합니다."
+        "text": "외공 공격 시 명중 확률이 증가합니다."
     },
     "11029": {
         "deprecated": false,
         "Dev_Desc": "LongPhysicalHit",
         "id": 11029,
         "alias": "Contents.Stat.Desc.LongPhysicalHit",
-        "text": "원거리 공격 시 명중 확률이 증가합니다."
+        "text": "기교 공격 시 명중 확률이 증가합니다."
     },
     "11030": {
         "deprecated": false,
@@ -221,14 +221,14 @@
         "Dev_Desc": "ShortPhysicalCriticalRate",
         "id": 11032,
         "alias": "Contents.Stat.Desc.ShortPhysicalCriticalRate",
-        "text": "근거리 공격 시 치명타 확률이 증가합니다."
+        "text": "외공 공격 시 치명타 확률이 증가합니다."
     },
     "11033": {
         "deprecated": false,
         "Dev_Desc": "LongPhysicalCriticalRate",
         "id": 11033,
         "alias": "Contents.Stat.Desc.LongPhysicalCriticalRate",
-        "text": "원거리 공격 시 치명타 확률이 증가합니다."
+        "text": "기교 공격 시 치명타 확률이 증가합니다."
     },
     "11034": {
         "deprecated": false,
@@ -277,14 +277,14 @@
         "Dev_Desc": "ShortPhysicalAttackReduction",
         "id": 11040,
         "alias": "Contents.Stat.Desc.ShortPhysicalAttackReduction",
-        "text": "근거리 공격력을 상쇄합니다."
+        "text": "외공 공격력을 상쇄합니다."
     },
     "11041": {
         "deprecated": false,
         "Dev_Desc": "LongPhysicalAttackReduction",
         "id": 11041,
         "alias": "Contents.Stat.Desc.LongPhysicalAttackReduction",
-        "text": "원거리 공격력을 상쇄합니다."
+        "text": "기교 공격력을 상쇄합니다."
     },
     "11042": {
         "deprecated": false,
@@ -305,14 +305,14 @@
         "Dev_Desc": "ShortPhysicalDefence",
         "id": 11044,
         "alias": "Contents.Stat.Desc.ShortPhysicalDefence",
-        "text": "근거리 공격으로 받는 피해가 감소합니다."
+        "text": "외공 공격으로 받는 피해가 감소합니다."
     },
     "11045": {
         "deprecated": false,
         "Dev_Desc": "LongPhysicalDefence",
         "id": 11045,
         "alias": "Contents.Stat.Desc.LongPhysicalDefence",
-        "text": "원거리 공격으로 받는 피해가 감소합니다."
+        "text": "기교 공격으로 받는 피해가 감소합니다."
     },
     "11046": {
         "deprecated": false,
@@ -333,14 +333,14 @@
         "Dev_Desc": "ShortPhysicalEvasion",
         "id": 11048,
         "alias": "Contents.Stat.Desc.ShortPhysicalEvasion",
-        "text": "근거리 공격을 받을 시 빗맞을 확률이 증가합니다."
+        "text": "외공 공격을 받을 시 빗맞을 확률이 증가합니다."
     },
     "11049": {
         "deprecated": false,
         "Dev_Desc": "LongPhysicalEvasion",
         "id": 11049,
         "alias": "Contents.Stat.Desc.LongPhysicalEvasion",
-        "text": "원거리 공격을 받을 시 빗맞을 확률이 증가합니다."
+        "text": "기교 공격을 받을 시 빗맞을 확률이 증가합니다."
     },
     "11050": {
         "deprecated": false,
@@ -361,14 +361,14 @@
         "Dev_Desc": "ShortPhysicalCriticalResistanceRate",
         "id": 11052,
         "alias": "Contents.Stat.Desc.ShortPhysicalCriticalResistanceRate",
-        "text": "근거리 공격을 받을 시 치명률을 상쇄합니다."
+        "text": "외공 공격을 받을 시 치명률을 상쇄합니다."
     },
     "11053": {
         "deprecated": false,
         "Dev_Desc": "LongPhysicalCriticalResistanceRate",
         "id": 11053,
         "alias": "Contents.Stat.Desc.LongPhysicalCriticalResistanceRate",
-        "text": "원거리 공격을 받을 시 치명률을 상쇄합니다."
+        "text": "기교 공격을 받을 시 치명률을 상쇄합니다."
     },
     "11054": {
         "deprecated": false,
@@ -669,14 +669,14 @@
         "Dev_Desc": "ShortPhysicalDefenceProbability",
         "id": 11096,
         "alias": "Contents.Stat.Desc.ShortPhysicalDefenceProbability",
-        "text": "근거리 공격을 받을 시 최종 방어율이 증가합니다."
+        "text": "외공 공격을 받을 시 최종 방어율이 증가합니다."
     },
     "11097": {
         "deprecated": false,
         "Dev_Desc": "LongPhysicalDefenceProbability",
         "id": 11097,
         "alias": "Contents.Stat.Desc.LongPhysicalDefenceProbability",
-        "text": "원거리 공격을 받을 시 최종 방어율이 증가합니다."
+        "text": "기교 공격을 받을 시 최종 방어율이 증가합니다."
     },
     "11098": {
         "deprecated": false,
@@ -690,14 +690,14 @@
         "Dev_Desc": "ShortPhysicalPenetrationProbability",
         "id": 11099,
         "alias": "Contents.Stat.Desc.ShortPhysicalPenetrationProbability",
-        "text": "근거리 공격 시 방어자의 최종 방어율을 상쇄합니다."
+        "text": "외공 공격 시 방어자의 최종 방어율을 상쇄합니다."
     },
     "11100": {
         "deprecated": false,
         "Dev_Desc": "LongPhysicalPenetrationProbability",
         "id": 11100,
         "alias": "Contents.Stat.Desc.LongPhysicalPenetrationProbability",
-        "text": "원거리 공격 시 방어자의 최종 방어율을 상쇄합니다."
+        "text": "기교 공격 시 방어자의 최종 방어율을 상쇄합니다."
     },
     "11101": {
         "deprecated": false,
@@ -711,14 +711,14 @@
         "Dev_Desc": "ShortPhysicalHitProbability",
         "id": 11102,
         "alias": "Contents.Stat.Desc.ShortPhysicalHitProbability",
-        "text": "근거리 공격 시 최종 명중 확률이 증가합니다."
+        "text": "외공 공격 시 최종 명중 확률이 증가합니다."
     },
     "11103": {
         "deprecated": false,
         "Dev_Desc": "LongPhysicalHitProbability",
         "id": 11103,
         "alias": "Contents.Stat.Desc.LongPhysicalHitProbability",
-        "text": "원거리 공격 시 최종 명중 확률이 증가합니다."
+        "text": "기교 공격 시 최종 명중 확률이 증가합니다."
     },
     "11104": {
         "deprecated": false,
@@ -732,14 +732,14 @@
         "Dev_Desc": "ShortPhysicalEvasionProbability",
         "id": 11105,
         "alias": "Contents.Stat.Desc.ShortPhysicalEvasionProbability",
-        "text": "근거리 공격을 받을 시 공격자의 최종 명중 확률을 상쇄합니다."
+        "text": "외공 공격을 받을 시 공격자의 최종 명중 확률을 상쇄합니다."
     },
     "11106": {
         "deprecated": false,
         "Dev_Desc": "LongPhysicalEvasionProbability",
         "id": 11106,
         "alias": "Contents.Stat.Desc.LongPhysicalEvasionProbability",
-        "text": "원거리 공격을 받을 시 공격자의 최종 명중 확률을 상쇄합니다."
+        "text": "기교 공격을 받을 시 공격자의 최종 명중 확률을 상쇄합니다."
     },
     "11107": {
         "deprecated": false,
@@ -1370,5 +1370,19 @@
         "id": 11196,
         "alias": "Contents.Stat.Desc.SoulParryDamage",
         "text": "보스 기력에 대한 피해량이 증가합니다."
+    },
+    "11197": {
+        "deprecated": false,
+        "Dev_Desc": "FixedRegenerationStamina",
+        "id": 11197,
+        "alias": "Contents.Stat.Desc.FixedRegenerationStamina",
+        "text": "단위 시간 당 회복되는 기력이 증가합니다."
+    },
+    "11198": {
+        "deprecated": false,
+        "Dev_Desc": "DaggerAttack",
+        "id": 11198,
+        "alias": "Contents.Stat.Desc.DaggerAttack",
+        "text": "비수 장착 시 증가하는 피해량입니다."
     }
 }

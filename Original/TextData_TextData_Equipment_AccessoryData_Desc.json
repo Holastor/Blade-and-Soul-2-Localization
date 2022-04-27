@@ -1616,6 +1616,12 @@
         "id": 95307003,
         "alias": "Contents.Item.Desc.5307003"
     },
+    "95307004": {
+        "deprecated": false,
+        "Dev_Desc": "할로윈 증표",
+        "id": 95307004,
+        "alias": "Contents.Item.Desc.5307004"
+    },
     "95101001": {
         "deprecated": false,
         "Dev_Desc": "비각인_일반_귀걸이_1",
@@ -1873,14 +1879,14 @@
         "Dev_Desc": "조개 귀걸이(각인)",
         "id": 95201001,
         "alias": "Contents.Item.Desc.5201001",
-        "text": "[협행], [각인 장비함]에서 획득할 수 있습니다."
+        "text": "[각인 장비함], [협행]에서 획득할 수 있습니다."
     },
     "95201002": {
         "deprecated": false,
         "Dev_Desc": "청동 귀걸이(각인)",
         "id": 95201002,
         "alias": "Contents.Item.Desc.5201002",
-        "text": "[제작]으로 획득할 수 있습니다."
+        "text": "[제작]에서 획득할 수 있습니다."
     },
     "95201003": {
         "deprecated": false,
@@ -1901,14 +1907,14 @@
         "Dev_Desc": "인어의 귀걸이(각인)",
         "id": 95201202,
         "alias": "Contents.Item.Desc.5201202",
-        "text": "[각인 장비함] 또는 [제작]으로 획득할 수 있습니다."
+        "text": "[각인 장비함], [제작]에서 획득할 수 있습니다."
     },
     "95201203": {
         "deprecated": false,
         "Dev_Desc": "은 세공 귀걸이(각인)",
         "id": 95201203,
         "alias": "Contents.Item.Desc.5201203",
-        "text": "[각인 장비함] 또는 [제작]으로 획득할 수 있습니다."
+        "text": "[각인 장비함], [제작]에서 획득할 수 있습니다."
     },
     "95201204": {
         "deprecated": false,
@@ -1921,7 +1927,7 @@
         "Dev_Desc": "억압의 귀걸이(각인)",
         "id": 95201401,
         "alias": "Contents.Item.Desc.5201401",
-        "text": "[협행], [제작]으로 획득할 수 있습니다."
+        "text": "[협행], [제작]에서 획득할 수 있습니다."
     },
     "95201402": {
         "deprecated": false,
@@ -1960,7 +1966,7 @@
         "Dev_Desc": "황동 장식 목걸이(각인)",
         "id": 95202004,
         "alias": "Contents.Item.Desc.5202004",
-        "text": "[제작]으로 획득할 수 있습니다."
+        "text": "[제작]에서 획득할 수 있습니다."
     },
     "95202005": {
         "deprecated": false,
@@ -1987,14 +1993,14 @@
         "Dev_Desc": "백금 문양 목걸이(각인)",
         "id": 95202202,
         "alias": "Contents.Item.Desc.5202202",
-        "text": "[제작]으로 획득할 수 있습니다."
+        "text": "[제작]에서 획득할 수 있습니다."
     },
     "95202203": {
         "deprecated": false,
         "Dev_Desc": "곡옥 달린 금 목걸이(각인)",
         "id": 95202203,
         "alias": "Contents.Item.Desc.5202203",
-        "text": "[각인 장비함] 또는 [제작]으로 획득할 수 있습니다."
+        "text": "[각인 장비함], [제작]에서 획득할 수 있습니다."
     },
     "95202204": {
         "deprecated": false,
@@ -2014,7 +2020,7 @@
         "Dev_Desc": "검투사의 목걸이(각인)",
         "id": 95202206,
         "alias": "Contents.Item.Desc.5202206",
-        "text": "[제작]으로 획득할 수 있습니다."
+        "text": "[제작]에서 획득할 수 있습니다."
     },
     "95202207": {
         "deprecated": false,
@@ -2040,7 +2046,7 @@
         "Dev_Desc": "붉은 달빛의 목걸이(각인)",
         "id": 95202402,
         "alias": "Contents.Item.Desc.5202402",
-        "text": "[제작]으로 획득할 수 있습니다."
+        "text": "[제작]에서 획득할 수 있습니다."
     },
     "95202403": {
         "deprecated": false,
@@ -2079,7 +2085,7 @@
         "Dev_Desc": "산호 반지(각인)",
         "id": 95203002,
         "alias": "Contents.Item.Desc.5203002",
-        "text": "[제작]으로 획득할 수 있습니다."
+        "text": "[제작]에서 획득할 수 있습니다."
     },
     "95203003": {
         "deprecated": false,
@@ -2125,7 +2131,7 @@
         "Dev_Desc": "흑옥 반지(각인)",
         "id": 95203203,
         "alias": "Contents.Item.Desc.5203203",
-        "text": "[각인 장비함] 또는 [제작]으로 획득할 수 있습니다."
+        "text": "[각인 장비함], [제작]에서 획득할 수 있습니다."
     },
     "95203204": {
         "deprecated": false,
@@ -2144,7 +2150,7 @@
         "Dev_Desc": "순백의 반지(각인)",
         "id": 95203206,
         "alias": "Contents.Item.Desc.5203206",
-        "text": "[제작]으로 획득할 수 있습니다."
+        "text": "[제작]에서 획득할 수 있습니다."
     },
     "95203207": {
         "deprecated": false,
@@ -2184,7 +2190,7 @@
         "Dev_Desc": "언약의 반지(각인)",
         "id": 95203404,
         "alias": "Contents.Item.Desc.5203404",
-        "text": "[제작]으로 획득할 수 있습니다."
+        "text": "[제작]에서 획득할 수 있습니다."
     },
     "95203601": {
         "deprecated": false,
@@ -2203,14 +2209,14 @@
         "Dev_Desc": "풀 팔찌(각인)",
         "id": 95204001,
         "alias": "Contents.Item.Desc.5204001",
-        "text": "[협행], [각인 장비함]에서 획득할 수 있습니다."
+        "text": "[각인 장비함], [협행]에서 획득할 수 있습니다."
     },
     "95204002": {
         "deprecated": false,
         "Dev_Desc": "구리 팔찌(각인)",
         "id": 95204002,
         "alias": "Contents.Item.Desc.5204002",
-        "text": "[제작]으로 획득할 수 있습니다."
+        "text": "[제작]에서 획득할 수 있습니다."
     },
     "95204003": {
         "deprecated": false,
@@ -2231,14 +2237,14 @@
         "Dev_Desc": "벽옥 팔찌(각인)",
         "id": 95204202,
         "alias": "Contents.Item.Desc.5204202",
-        "text": "[각인 장비함] 또는 [제작]으로 획득할 수 있습니다."
+        "text": "[각인 장비함], [제작]에서 획득할 수 있습니다."
     },
     "95204203": {
         "deprecated": false,
         "Dev_Desc": "백은 팔찌(각인)",
         "id": 95204203,
         "alias": "Contents.Item.Desc.5204203",
-        "text": "[각인 장비함] 또는 [제작]으로 획득할 수 있습니다."
+        "text": "[각인 장비함], [제작]에서 획득할 수 있습니다."
     },
     "95204204": {
         "deprecated": false,
@@ -2251,7 +2257,7 @@
         "Dev_Desc": "수호자의 팔찌(각인)",
         "id": 95204401,
         "alias": "Contents.Item.Desc.5204401",
-        "text": "[협행], [제작]으로 획득할 수 있습니다."
+        "text": "[협행], [제작]에서 획득할 수 있습니다."
     },
     "95204402": {
         "deprecated": false,
@@ -2277,7 +2283,7 @@
         "Dev_Desc": "청색 수실 노리개(각인)",
         "id": 95205002,
         "alias": "Contents.Item.Desc.5205002",
-        "text": "[제작]으로 획득할 수 있습니다."
+        "text": "[제작]에서 획득할 수 있습니다."
     },
     "95205003": {
         "deprecated": false,
@@ -2330,7 +2336,7 @@
         "Dev_Desc": "고운 매듭 노리개(각인)",
         "id": 95205204,
         "alias": "Contents.Item.Desc.5205204",
-        "text": "[제작]으로 획득할 수 있습니다."
+        "text": "[제작]에서 획득할 수 있습니다."
     },
     "95205205": {
         "deprecated": false,
@@ -2344,7 +2350,7 @@
         "Dev_Desc": "옥 문양 노리개(각인)",
         "id": 95205206,
         "alias": "Contents.Item.Desc.5205206",
-        "text": "[제작]으로 획득할 수 있습니다."
+        "text": "[제작]에서 획득할 수 있습니다."
     },
     "95205207": {
         "deprecated": false,
@@ -2370,7 +2376,7 @@
         "Dev_Desc": "환희의 노리개(각인)",
         "id": 95205402,
         "alias": "Contents.Item.Desc.5205402",
-        "text": "[각인 장비함], [제작]으로 획득할 수 있습니다."
+        "text": "[각인 장비함], [제작]에서 획득할 수 있습니다."
     },
     "95205403": {
         "deprecated": false,
@@ -2771,7 +2777,7 @@
         "Dev_Desc": "잊혀진 홍옥 귀걸이(각인)",
         "id": 95206457,
         "alias": "Contents.Item.Desc.5201601",
-        "text": "[제작]으로 획득할 수 있습니다."
+        "text": "[제작]에서 획득할 수 있습니다."
     },
     "95206458": {
         "deprecated": false,
@@ -2790,14 +2796,14 @@
         "Dev_Desc": "잊혀진 정심의 수주(각인)",
         "id": 95206460,
         "alias": "Contents.Item.Desc.5202603",
-        "text": "[제작]으로 획득할 수 있습니다."
+        "text": "[제작]에서 획득할 수 있습니다."
     },
     "95206461": {
         "deprecated": false,
         "Dev_Desc": "잊혀진 노림수의 팔찌(각인)",
         "id": 95206461,
         "alias": "Contents.Item.Desc.5204601",
-        "text": "[제작]으로 획득할 수 있습니다."
+        "text": "[제작]에서 획득할 수 있습니다."
     },
     "95206462": {
         "deprecated": false,

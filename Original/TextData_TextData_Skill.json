@@ -193,21 +193,21 @@
         "Dev_Desc": "권갑 버프 근력강화_내용",
         "id": 60000031,
         "alias": "Contents.Effect.Desc.LightGauntlet.282001",
-        "text": "근거리 공격력 증가"
+        "text": "외공 공격력 증가"
     },
     "60000032": {
         "deprecated": false,
         "Dev_Desc": "권갑 버프 근력강화_옵션",
         "id": 60000032,
         "alias": "Contents.Effect.Option.LightGauntlet.282001",
-        "text": "근거리 공격력 증가"
+        "text": "외공 공격력 증가"
     },
     "60000033": {
         "deprecated": false,
         "Dev_Desc": "권갑 버프 근력강화_세부",
         "id": 60000033,
         "alias": "Contents.Effect.Detail.LightGauntlet.282001",
-        "text": "근거리 공격력 증가"
+        "text": "외공 공격력 증가"
     },
     "60000034": {
         "deprecated": false,
@@ -305,21 +305,21 @@
         "Dev_Desc": "권갑 버프 횡이동 연마 I_내용",
         "id": 60000047,
         "alias": "Contents.Effect.Desc.LightGauntlet.282601",
-        "text": "횡이동 사용 이후 짧은 시간 동안 근거리 공격력 증가"
+        "text": "횡이동 사용 이후 짧은 시간 동안 외공 공격력 증가"
     },
     "60000048": {
         "deprecated": false,
         "Dev_Desc": "권갑 버프 횡이동 연마 I_옵션",
         "id": 60000048,
         "alias": "Contents.Effect.Option.LightGauntlet.282601",
-        "text": "횡이동 사용 이후 짧은 시간 동안 근거리 공격력 증가"
+        "text": "횡이동 사용 이후 짧은 시간 동안 외공 공격력 증가"
     },
     "60000049": {
         "deprecated": false,
         "Dev_Desc": "권갑 버프 횡이동 연마 I_세부",
         "id": 60000049,
         "alias": "Contents.Effect.Detail.LightGauntlet.282601",
-        "text": "횡이동 사용 이후 짧은 시간 동안 근거리 공격력 증가"
+        "text": "횡이동 사용 이후 짧은 시간 동안 외공 공격력 증가"
     },
     "60000050": {
         "deprecated": false,
@@ -389,21 +389,21 @@
         "Dev_Desc": "장궁 버프 조준_내용",
         "id": 60000059,
         "alias": "Contents.Effect.Desc.LongBow.540001",
-        "text": "정확한 조준으로 원거리 공격력을 증가시킵니다."
+        "text": "정확한 조준으로 기교 공격력을 증가시킵니다."
     },
     "60000060": {
         "deprecated": false,
         "Dev_Desc": "장궁 버프 조준_옵션",
         "id": 60000060,
         "alias": "Contents.Effect.Option.LongBow.540001",
-        "text": "원거리 공격력 증가"
+        "text": "기교 공격력 증가"
     },
     "60000061": {
         "deprecated": false,
         "Dev_Desc": "장궁 버프 조준_세부",
         "id": 60000061,
         "alias": "Contents.Effect.Detail.LongBow.540001",
-        "text": "원거리 공격력 증가"
+        "text": "기교 공격력 증가"
     },
     "60000062": {
         "deprecated": false,
@@ -417,21 +417,21 @@
         "Dev_Desc": "장궁 버프 집중_내용",
         "id": 60000063,
         "alias": "Contents.Effect.Desc.LongBow.540101",
-        "text": "목표에 더욱 조준하여 원거리 치명률을 증가시킵니다."
+        "text": "목표에 더욱 조준하여 기교 치명률을 증가시킵니다."
     },
     "60000064": {
         "deprecated": false,
         "Dev_Desc": "장궁 버프 집중_옵션",
         "id": 60000064,
         "alias": "Contents.Effect.Option.LongBow.540101",
-        "text": "원거리 치명률 증가"
+        "text": "기교 치명률 증가"
     },
     "60000065": {
         "deprecated": false,
         "Dev_Desc": "장궁 버프 집중_세부",
         "id": 60000065,
         "alias": "Contents.Effect.Detail.LongBow.540101",
-        "text": "원거리 치명률 증가"
+        "text": "기교 치명률 증가"
     },
     "60000066": {
         "deprecated": false,
@@ -473,21 +473,21 @@
         "Dev_Desc": "장궁 버프 광포_내용",
         "id": 60000071,
         "alias": "Contents.Effect.Desc.LongBow.540301",
-        "text": "시위를 더 강하게 당겨 원거리 관통력을 증가 시킵니다."
+        "text": "시위를 더 강하게 당겨 기교 관통력을 증가 시킵니다."
     },
     "60000072": {
         "deprecated": false,
         "Dev_Desc": "장궁 버프 광포_옵션",
         "id": 60000072,
         "alias": "Contents.Effect.Option.LongBow.540301",
-        "text": "원거리 관통력 증가"
+        "text": "기교 관통력 증가"
     },
     "60000073": {
         "deprecated": false,
         "Dev_Desc": "장궁 버프 광포_세부",
         "id": 60000073,
         "alias": "Contents.Effect.Detail.LongBow.540301",
-        "text": "원거리 관통력 증가"
+        "text": "기교 관통력 증가"
     },
     "60000074": {
         "deprecated": false,
@@ -1492,7 +1492,7 @@
         "Dev_Desc": "살상명령_증폭",
         "id": 60000217,
         "alias": "Contents.Skill.Desc.LongBow.5041",
-        "text": "짧은 시간동안 기본공격과 무공의 공격속도가 크게 증가하며, \n원거리 치명률과 치명타 추가피해량이 증가합니다."
+        "text": "짧은 시간동안 기본공격과 무공의 공격속도가 크게 증가하며, \n기교 치명률과 치명타 추가피해량이 증가합니다."
     },
     "60000218": {
         "deprecated": false,
@@ -1681,7 +1681,7 @@
         "Dev_Desc": "테스트_살상명령_증폭효과설명",
         "id": 60000244,
         "alias": "Contents.Skill.acquireEffectDesc.5040",
-        "text": "원거리 치명률이 추가로 증가합니다."
+        "text": "기교 치명률이 추가로 증가합니다."
     },
     "60000245": {
         "deprecated": false,
@@ -2164,14 +2164,14 @@
         "Dev_Desc": "공용패시브_상세설명_1",
         "id": 60000313,
         "alias": "Contents.Skill.Desc.Common.9000",
-        "text": "단련을 통해 신체를 강화합니다.\n근거리 공격력이 증가합니다."
+        "text": "단련을 통해 신체를 강화합니다.\n외공 공격력이 증가합니다."
     },
     "60000314": {
         "deprecated": false,
         "Dev_Desc": "공용패시브_상세설명_2",
         "id": 60000314,
         "alias": "Contents.Skill.Desc.Common.9001",
-        "text": "적을 확실히 포착할 수 있게 됩니다.\n원거리 공격력이 증가합니다."
+        "text": "적을 확실히 포착할 수 있게 됩니다.\n기교 공격력이 증가합니다."
     },
     "60000315": {
         "deprecated": false,
@@ -2185,14 +2185,14 @@
         "Dev_Desc": "공용패시브_상세설명_4",
         "id": 60000316,
         "alias": "Contents.Skill.Desc.Common.9003",
-        "text": "수련을 통해 힘을 집중시키는 방법을 습득합니다.\n근거리 관통력이 증가합니다."
+        "text": "수련을 통해 힘을 집중시키는 방법을 습득합니다.\n외공 관통력이 증가합니다."
     },
     "60000317": {
         "deprecated": false,
         "Dev_Desc": "공용패시브_상세설명_5",
         "id": 60000317,
         "alias": "Contents.Skill.Desc.Common.9004",
-        "text": "전투에 대한 집중력이 오릅니다.\n원거리 관통력이 증가합니다."
+        "text": "전투에 대한 집중력이 오릅니다.\n기교 관통력이 증가합니다."
     },
     "60000318": {
         "deprecated": false,
@@ -2220,14 +2220,14 @@
         "Dev_Desc": "공용패시브_상세설명_9",
         "id": 60000321,
         "alias": "Contents.Skill.Desc.Common.9008",
-        "text": "굳센 기상을 표출합니다.\n근거리 공격력과 근거리 관통력이 증가합니다."
+        "text": "굳센 기상을 표출합니다.\n외공 공격력과 외공 관통력이 증가합니다."
     },
     "60000322": {
         "deprecated": false,
         "Dev_Desc": "공용패시브_상세설명_10",
         "id": 60000322,
         "alias": "Contents.Skill.Desc.Common.9009",
-        "text": "멀리서도 적을 예리하게 포착할 수 있게 됩니다.\n원거리 공격력과 원거리 관통력이 증가합니다."
+        "text": "멀리서도 적을 예리하게 포착할 수 있게 됩니다.\n기교 공격력과 기교 관통력이 증가합니다."
     },
     "60000323": {
         "deprecated": false,
@@ -2241,14 +2241,14 @@
         "Dev_Desc": "공용패시브_상세설명_12",
         "id": 60000324,
         "alias": "Contents.Skill.Desc.Common.9011",
-        "text": "신체 한계의 틀을 깹니다.\n근거리 명중이 증가합니다."
+        "text": "신체 한계의 틀을 깹니다.\n외공 명중이 증가합니다."
     },
     "60000325": {
         "deprecated": false,
         "Dev_Desc": "공용패시브_상세설명_13",
         "id": 60000325,
         "alias": "Contents.Skill.Desc.Common.9012",
-        "text": "주변을 색적하여 목표를 정밀히 타격합니다.\n원거리 명중이 증가합니다."
+        "text": "주변을 색적하여 목표를 정밀히 타격합니다.\n기교 명중이 증가합니다."
     },
     "60000326": {
         "deprecated": false,
@@ -2290,14 +2290,14 @@
         "Dev_Desc": "공용패시브_상세설명_19",
         "id": 60000331,
         "alias": "Contents.Skill.Desc.Common.9018",
-        "text": "분노의 감정을 힘으로 승화합니다.\n근거리 관통력, 근거리 명중이 증가합니다."
+        "text": "분노의 감정을 힘으로 승화합니다.\n외공 관통력, 외공 명중이 증가합니다."
     },
     "60000332": {
         "deprecated": false,
         "Dev_Desc": "공용패시브_상세설명_20",
         "id": 60000332,
         "alias": "Contents.Skill.Desc.Common.9019",
-        "text": "흐릿한 안개 너머의 적까지 통찰할 수 있게 됩니다.\n원거리 관통력과 원거리 명중이 증가합니다."
+        "text": "흐릿한 안개 너머의 적까지 통찰할 수 있게 됩니다.\n기교 관통력과 기교 명중이 증가합니다."
     },
     "60000333": {
         "deprecated": false,
@@ -2465,14 +2465,14 @@
         "Dev_Desc": "공용패시브_효과_1",
         "id": 60000356,
         "alias": "Contents.Skill.useEffectDesc.Common.9000",
-        "text": "근거리 공격력 +1"
+        "text": "외공 공격력 +1"
     },
     "60000357": {
         "deprecated": false,
         "Dev_Desc": "공용패시브_효과_2",
         "id": 60000357,
         "alias": "Contents.Skill.useEffectDesc.Common.9001",
-        "text": "원거리 공격력 +1"
+        "text": "기교 공격력 +1"
     },
     "60000358": {
         "deprecated": false,
@@ -2486,14 +2486,14 @@
         "Dev_Desc": "공용패시브_효과_4",
         "id": 60000359,
         "alias": "Contents.Skill.useEffectDesc.Common.9003",
-        "text": "근거리 관통력 +2"
+        "text": "외공 관통력 +2"
     },
     "60000360": {
         "deprecated": false,
         "Dev_Desc": "공용패시브_효과_5",
         "id": 60000360,
         "alias": "Contents.Skill.useEffectDesc.Common.9004",
-        "text": "원거리 관통력 +2"
+        "text": "기교 관통력 +2"
     },
     "60000361": {
         "deprecated": false,
@@ -2521,14 +2521,14 @@
         "Dev_Desc": "공용패시브_효과_9",
         "id": 60000364,
         "alias": "Contents.Skill.useEffectDesc.Common.9008",
-        "text": "근거리 공격력 +1 근거리 관통력 +2"
+        "text": "외공 공격력 +1 외공 관통력 +2"
     },
     "60000365": {
         "deprecated": false,
         "Dev_Desc": "공용패시브_효과_10",
         "id": 60000365,
         "alias": "Contents.Skill.useEffectDesc.Common.9009",
-        "text": "원거리 공격력 +1 원거리 관통력 +2"
+        "text": "기교 공격력 +1 기교 관통력 +2"
     },
     "60000366": {
         "deprecated": false,
@@ -2542,14 +2542,14 @@
         "Dev_Desc": "공용패시브_효과_12",
         "id": 60000367,
         "alias": "Contents.Skill.useEffectDesc.Common.9011",
-        "text": "근거리 명중 +1"
+        "text": "외공 명중 +1"
     },
     "60000368": {
         "deprecated": false,
         "Dev_Desc": "공용패시브_효과_13",
         "id": 60000368,
         "alias": "Contents.Skill.useEffectDesc.Common.9012",
-        "text": "원거리 명중 +1"
+        "text": "기교 명중 +1"
     },
     "60000369": {
         "deprecated": false,
@@ -2591,14 +2591,14 @@
         "Dev_Desc": "공용패시브_효과_19",
         "id": 60000374,
         "alias": "Contents.Skill.useEffectDesc.Common.9018",
-        "text": "근거리 관통력 +2 근거리 명중 +3"
+        "text": "외공 관통력 +2 외공 명중 +3"
     },
     "60000375": {
         "deprecated": false,
         "Dev_Desc": "공용패시브_효과_20",
         "id": 60000375,
         "alias": "Contents.Skill.useEffectDesc.Common.9019",
-        "text": "원거리 관통력 +2 원거리 명중 +3"
+        "text": "기교 관통력 +2 기교 명중 +3"
     },
     "60000376": {
         "deprecated": false,
@@ -2766,14 +2766,14 @@
         "Dev_Desc": "공용패시브_업그레이드_1",
         "id": 60000399,
         "alias": "Contents.Skill.Upgrade.Common.9000",
-        "text": "근거리 공격력 증가"
+        "text": "외공 공격력 증가"
     },
     "60000400": {
         "deprecated": false,
         "Dev_Desc": "공용패시브_업그레이드_2",
         "id": 60000400,
         "alias": "Contents.Skill.Upgrade.Common.9001",
-        "text": "원거리 공격력 증가"
+        "text": "기교 공격력 증가"
     },
     "60000401": {
         "deprecated": false,
@@ -2787,14 +2787,14 @@
         "Dev_Desc": "공용패시브_업그레이드_4",
         "id": 60000402,
         "alias": "Contents.Skill.Upgrade.Common.9003",
-        "text": "근거리 관통력 증가"
+        "text": "외공 관통력 증가"
     },
     "60000403": {
         "deprecated": false,
         "Dev_Desc": "공용패시브_업그레이드_5",
         "id": 60000403,
         "alias": "Contents.Skill.Upgrade.Common.9004",
-        "text": "원거리 관통력 증가"
+        "text": "기교 관통력 증가"
     },
     "60000404": {
         "deprecated": false,
@@ -2822,28 +2822,28 @@
         "Dev_Desc": "공용패시브_업그레이드_9_1",
         "id": 60000407,
         "alias": "Contents.Skill.Upgrade.Common.9008.1",
-        "text": "근거리 공격력 증가"
+        "text": "외공 공격력 증가"
     },
     "60000408": {
         "deprecated": false,
         "Dev_Desc": "공용패시브_업그레이드_9_2",
         "id": 60000408,
         "alias": "Contents.Skill.Upgrade.Common.9008.2",
-        "text": "근거리 관통력 증가"
+        "text": "외공 관통력 증가"
     },
     "60000409": {
         "deprecated": false,
         "Dev_Desc": "공용패시브_업그레이드_10_1",
         "id": 60000409,
         "alias": "Contents.Skill.Upgrade.Common.9009.1",
-        "text": "원거리 공격력 증가"
+        "text": "기교 공격력 증가"
     },
     "60000410": {
         "deprecated": false,
         "Dev_Desc": "공용패시브_업그레이드_10_2",
         "id": 60000410,
         "alias": "Contents.Skill.Upgrade.Common.9009.2",
-        "text": "원거리 관통력 증가"
+        "text": "기교 관통력 증가"
     },
     "60000411": {
         "deprecated": false,
@@ -2864,14 +2864,14 @@
         "Dev_Desc": "공용패시브_업그레이드_12",
         "id": 60000413,
         "alias": "Contents.Skill.Upgrade.Common.9011",
-        "text": "근거리 명중 증가"
+        "text": "외공 명중 증가"
     },
     "60000414": {
         "deprecated": false,
         "Dev_Desc": "공용패시브_업그레이드_13",
         "id": 60000414,
         "alias": "Contents.Skill.Upgrade.Common.9012",
-        "text": "원거리 명중 증가"
+        "text": "기교 명중 증가"
     },
     "60000415": {
         "deprecated": false,
@@ -2920,28 +2920,28 @@
         "Dev_Desc": "공용패시브_업그레이드_19_1",
         "id": 60000421,
         "alias": "Contents.Skill.Upgrade.Common.9018.1",
-        "text": "근거리 관통력 증가"
+        "text": "외공 관통력 증가"
     },
     "60000422": {
         "deprecated": false,
         "Dev_Desc": "공용패시브_업그레이드_19_2",
         "id": 60000422,
         "alias": "Contents.Skill.Upgrade.Common.9018.2",
-        "text": "근거리 명중 증가"
+        "text": "외공 명중 증가"
     },
     "60000423": {
         "deprecated": false,
         "Dev_Desc": "공용패시브_업그레이드_20_1",
         "id": 60000423,
         "alias": "Contents.Skill.Upgrade.Common.9019.1",
-        "text": "원거리 관통력 증가"
+        "text": "기교 관통력 증가"
     },
     "60000424": {
         "deprecated": false,
         "Dev_Desc": "공용패시브_업그레이드_20_2",
         "id": 60000424,
         "alias": "Contents.Skill.Upgrade.Common.9019.2",
-        "text": "원거리 명중 증가"
+        "text": "기교 명중 증가"
     },
     "60000425": {
         "deprecated": false,

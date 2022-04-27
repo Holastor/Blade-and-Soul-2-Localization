@@ -46,14 +46,14 @@
         "Dev_Desc": "ShortPhysicalAttack",
         "id": 10007,
         "alias": "Contents.Stat.Name.ShortPhysicalAttack",
-        "text": "근거리 공격력"
+        "text": "외공 공격력"
     },
     "10008": {
         "deprecated": false,
         "Dev_Desc": "LongPhysicalAttack",
         "id": 10008,
         "alias": "Contents.Stat.Name.LongPhysicalAttack",
-        "text": "원거리 공격력"
+        "text": "기교 공격력"
     },
     "10009": {
         "deprecated": false,
@@ -165,14 +165,14 @@
         "Dev_Desc": "ShortPhysicalPenetration",
         "id": 10024,
         "alias": "Contents.Stat.Name.ShortPhysicalPenetration",
-        "text": "근거리 관통력"
+        "text": "외공 관통력"
     },
     "10025": {
         "deprecated": false,
         "Dev_Desc": "LongPhysicalPenetration",
         "id": 10025,
         "alias": "Contents.Stat.Name.LongPhysicalPenetration",
-        "text": "원거리 관통력"
+        "text": "기교 관통력"
     },
     "10026": {
         "deprecated": false,
@@ -193,14 +193,14 @@
         "Dev_Desc": "ShortPhysicalHit",
         "id": 10028,
         "alias": "Contents.Stat.Name.ShortPhysicalHit",
-        "text": "근거리 명중"
+        "text": "외공 명중"
     },
     "10029": {
         "deprecated": false,
         "Dev_Desc": "LongPhysicalHit",
         "id": 10029,
         "alias": "Contents.Stat.Name.LongPhysicalHit",
-        "text": "원거리 명중"
+        "text": "기교 명중"
     },
     "10030": {
         "deprecated": false,
@@ -221,14 +221,14 @@
         "Dev_Desc": "ShortPhysicalCriticalRate",
         "id": 10032,
         "alias": "Contents.Stat.Name.ShortPhysicalCriticalRate",
-        "text": "근거리 치명률"
+        "text": "외공 치명률"
     },
     "10033": {
         "deprecated": false,
         "Dev_Desc": "LongPhysicalCriticalRate",
         "id": 10033,
         "alias": "Contents.Stat.Name.LongPhysicalCriticalRate",
-        "text": "원거리 치명률"
+        "text": "기교 치명률"
     },
     "10034": {
         "deprecated": false,
@@ -277,14 +277,14 @@
         "Dev_Desc": "ShortPhysicalAttackReduction",
         "id": 10040,
         "alias": "Contents.Stat.Name.ShortPhysicalAttackReduction",
-        "text": "근거리 호신"
+        "text": "외공 호신"
     },
     "10041": {
         "deprecated": false,
         "Dev_Desc": "LongPhysicalAttackReduction",
         "id": 10041,
         "alias": "Contents.Stat.Name.LongPhysicalAttackReduction",
-        "text": "원거리 호신"
+        "text": "기교 호신"
     },
     "10042": {
         "deprecated": false,
@@ -305,14 +305,14 @@
         "Dev_Desc": "ShortPhysicalDefence",
         "id": 10044,
         "alias": "Contents.Stat.Name.ShortPhysicalDefence",
-        "text": "근거리 방어력"
+        "text": "외공 방어력"
     },
     "10045": {
         "deprecated": false,
         "Dev_Desc": "LongPhysicalDefence",
         "id": 10045,
         "alias": "Contents.Stat.Name.LongPhysicalDefence",
-        "text": "원거리 방어력"
+        "text": "기교 방어력"
     },
     "10046": {
         "deprecated": false,
@@ -333,14 +333,14 @@
         "Dev_Desc": "ShortPhysicalEvasion",
         "id": 10048,
         "alias": "Contents.Stat.Name.ShortPhysicalEvasion",
-        "text": "근거리 회피"
+        "text": "외공 회피"
     },
     "10049": {
         "deprecated": false,
         "Dev_Desc": "LongPhysicalEvasion",
         "id": 10049,
         "alias": "Contents.Stat.Name.LongPhysicalEvasion",
-        "text": "원거리 회피"
+        "text": "기교 회피"
     },
     "10050": {
         "deprecated": false,
@@ -361,14 +361,14 @@
         "Dev_Desc": "ShortPhysicalCriticalResistanceRate",
         "id": 10052,
         "alias": "Contents.Stat.Name.ShortPhysicalCriticalResistanceRate",
-        "text": "근거리 치명 저항률"
+        "text": "외공 치명 저항률"
     },
     "10053": {
         "deprecated": false,
         "Dev_Desc": "LongPhysicalCriticalResistanceRate",
         "id": 10053,
         "alias": "Contents.Stat.Name.LongPhysicalCriticalResistanceRate",
-        "text": "원거리 치명 저항률"
+        "text": "기교 치명 저항률"
     },
     "10054": {
         "deprecated": false,
@@ -669,14 +669,14 @@
         "Dev_Desc": "ShortPhysicalDefenceProbability",
         "id": 10096,
         "alias": "Contents.Stat.Name.ShortPhysicalDefenceProbability",
-        "text": "근거리 절대 방어력"
+        "text": "외공 절대 방어력"
     },
     "10097": {
         "deprecated": false,
         "Dev_Desc": "LongPhysicalDefenceProbability",
         "id": 10097,
         "alias": "Contents.Stat.Name.LongPhysicalDefenceProbability",
-        "text": "원거리 절대 방어력"
+        "text": "기교 절대 방어력"
     },
     "10098": {
         "deprecated": false,
@@ -690,14 +690,14 @@
         "Dev_Desc": "ShortPhysicalPenetrationProbability",
         "id": 10099,
         "alias": "Contents.Stat.Name.ShortPhysicalPenetrationProbability",
-        "text": "근거리 절대 관통력"
+        "text": "외공 절대 관통력"
     },
     "10100": {
         "deprecated": false,
         "Dev_Desc": "LongPhysicalPenetrationProbability",
         "id": 10100,
         "alias": "Contents.Stat.Name.LongPhysicalPenetrationProbability",
-        "text": "원거리 절대 관통력"
+        "text": "기교 절대 관통력"
     },
     "10101": {
         "deprecated": false,
@@ -711,14 +711,14 @@
         "Dev_Desc": "ShortPhysicalHitProbability",
         "id": 10102,
         "alias": "Contents.Stat.Name.ShortPhysicalHitProbability",
-        "text": "근거리 절대 명중"
+        "text": "외공 절대 명중"
     },
     "10103": {
         "deprecated": false,
         "Dev_Desc": "LongPhysicalHitProbability",
         "id": 10103,
         "alias": "Contents.Stat.Name.LongPhysicalHitProbability",
-        "text": "원거리 절대 명중"
+        "text": "기교 절대 명중"
     },
     "10104": {
         "deprecated": false,
@@ -732,14 +732,14 @@
         "Dev_Desc": "ShortPhysicalEvasionProbability",
         "id": 10105,
         "alias": "Contents.Stat.Name.ShortPhysicalEvasionProbability",
-        "text": "근거리 절대 회피"
+        "text": "외공 절대 회피"
     },
     "10106": {
         "deprecated": false,
         "Dev_Desc": "LongPhysicalEvasionProbability",
         "id": 10106,
         "alias": "Contents.Stat.Name.LongPhysicalEvasionProbability",
-        "text": "원거리 절대 회피"
+        "text": "기교 절대 회피"
     },
     "10107": {
         "deprecated": false,
@@ -1370,5 +1370,19 @@
         "id": 10196,
         "alias": "Contents.Stat.Name.SoulParryDamage",
         "text": "소울 합격 공격력"
+    },
+    "10197": {
+        "deprecated": false,
+        "Dev_Desc": "FixedRegenerationStamina",
+        "id": 10197,
+        "alias": "Contents.Stat.Name.FixedRegenerationStamina",
+        "text": "기력 절대 재생"
+    },
+    "10198": {
+        "deprecated": false,
+        "Dev_Desc": "DaggerAttack",
+        "id": 10198,
+        "alias": "Contents.Stat.Name.DaggerAttack",
+        "text": "비수 공격력"
     }
 }

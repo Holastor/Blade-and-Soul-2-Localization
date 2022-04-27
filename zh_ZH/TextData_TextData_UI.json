@@ -24341,14 +24341,14 @@
     },
     "8003560": {
         "deprecated": false,
-        "Dev_Desc": "NPC 상점 / 교환상 / 비사전 / 근거리",
+        "Dev_Desc": "NPC 상점 / 교환상 / 비사전 / 외공",
         "id": 8003560,
         "alias": "UI.Shop.Tittle.Name.10002.1.2",
         "text": "靠近"
     },
     "8003561": {
         "deprecated": false,
-        "Dev_Desc": "NPC 상점 / 교환상 / 비사전 / 원거리",
+        "Dev_Desc": "NPC 상점 / 교환상 / 비사전 / 기교",
         "id": 8003561,
         "alias": "UI.Shop.Tittle.Name.10002.1.3",
         "text": "远的"
@@ -29964,62 +29964,6 @@
         "alias": "UI.Trade.Category.SoulShieldPiece.8",
         "text": "8次"
     },
-    "8004390": {
-        "deprecated": false,
-        "Dev_Desc": "아이템 / 아이템 소분류 / ",
-        "id": 8004390,
-        "alias": "UI.Item.ItemType.SoulShieldPiece1",
-        "text": "第1号"
-    },
-    "8004391": {
-        "deprecated": false,
-        "Dev_Desc": "아이템 / 아이템 소분류 / ",
-        "id": 8004391,
-        "alias": "UI.Item.ItemType.SoulShieldPiece2",
-        "text": "2次"
-    },
-    "8004392": {
-        "deprecated": false,
-        "Dev_Desc": "아이템 / 아이템 소분류 / ",
-        "id": 8004392,
-        "alias": "UI.Item.ItemType.SoulShieldPiece3",
-        "text": "3次"
-    },
-    "8004393": {
-        "deprecated": false,
-        "Dev_Desc": "아이템 / 아이템 소분류 / ",
-        "id": 8004393,
-        "alias": "UI.Item.ItemType.SoulShieldPiece4",
-        "text": "4次"
-    },
-    "8004394": {
-        "deprecated": false,
-        "Dev_Desc": "아이템 / 아이템 소분류 / ",
-        "id": 8004394,
-        "alias": "UI.Item.ItemType.SoulShieldPiece5",
-        "text": "5次"
-    },
-    "8004395": {
-        "deprecated": false,
-        "Dev_Desc": "아이템 / 아이템 소분류 / ",
-        "id": 8004395,
-        "alias": "UI.Item.ItemType.SoulShieldPiece6",
-        "text": "6次"
-    },
-    "8004396": {
-        "deprecated": false,
-        "Dev_Desc": "아이템 / 아이템 소분류 / ",
-        "id": 8004396,
-        "alias": "UI.Item.ItemType.SoulShieldPiece7",
-        "text": "7次"
-    },
-    "8004397": {
-        "deprecated": false,
-        "Dev_Desc": "아이템 / 아이템 소분류 / ",
-        "id": 8004397,
-        "alias": "UI.Item.ItemType.SoulShieldPiece8",
-        "text": "8次"
-    },
     "8004398": {
         "deprecated": false,
         "Dev_Desc": "제작 커스텀 탭 이름 / 장비",
@@ -30963,76 +30907,174 @@
         "Dev_Desc": "협행 / 모든 보상 수령 버튼",
         "id": 8004547,
         "alias": "UI.Bulletin.ReceiveAllButton",
-        "text": "每一个补偿收据"
+        "text": "领取所有奖励"
     },
     "8004548": {
         "deprecated": false,
         "Dev_Desc": "설정 / 조작 / 편의 / 협행 완료 시 임무 목록에서 모든 보상 수령",
         "id": 8004548,
         "alias": "UI.Option.Control.Convenience.ReceiveBulletinRewardAll",
-        "text": "从任务列表中致电所有赔偿"
+        "text": "完成合作后获得任务列表中的所有奖励"
     },
     "8004549": {
         "deprecated": false,
         "Dev_Desc": "설정 / 조작 / 편의 / 협행 완료 시 임무 목록에서 모든 보상 수령 / 설명",
         "id": 8004549,
         "alias": "UI.Option.Control.Convenience.ReceiveBulletinRewardAll.Desc",
-        "text": "选择任务列表的完成时，您将获得补偿赔偿的所有各方的补偿。"
+        "text": "当您在任务列表中选择完成同伴时，您将一次性获得所有符合奖励条件的同伴的奖励。"
     },
     "8004550": {
         "deprecated": false,
         "Dev_Desc": "설정 / 조작 / 편의 / 아이템 자동 사용 그룹",
         "id": 8004550,
         "alias": "UI.Option.Control.Convenience.AutoUseGroupOption",
-        "text": "根据优先级自动使用相同类型的消耗品"
+        "text": "根据优先级自动使用同类型的消耗品"
     },
     "8004551": {
         "deprecated": false,
         "Dev_Desc": "설정 / 조작 / 편의 / 아이템 자동 사용 그룹 / 설명",
         "id": 8004551,
         "alias": "UI.Option.Control.Convenience.AutoUseGroupOption.Desc",
-        "text": "使用自动使用时，请根据优先级使用相同类型的消耗品。 \\n高年级 - >事件 - >雕刻 - >非非"
+        "text": "自动使用时，按优先顺序使用相同类型的消耗品。\\n最高等级 -> 事件 -> 雕刻 -> 非雕刻"
     },
     "8004552": {
         "deprecated": false,
         "Dev_Desc": "신규/복귀 혜택 테스트용 데이터",
         "id": 8004552,
         "alias": "UI.CashShop.TapName.Sub.Test1",
-        "text": "新的好处测试选项卡"
+        "text": "新的效益测试选项卡"
     },
     "8004553": {
         "deprecated": false,
         "Dev_Desc": "신규/복귀 혜택 테스트용 데이터",
         "id": 8004553,
         "alias": "UI.CashShop.TapName.Sub.Test2",
-        "text": "返回优势测试选项卡"
+        "text": "退货福利测试选项卡"
     },
     "8004554": {
         "deprecated": false,
         "Dev_Desc": "신규/복귀 혜택 테스트용 데이터",
         "id": 8004554,
         "alias": "UI.CashShop.TapName.Sub.Test3",
-        "text": "新的"
+        "text": "新的和返回的好处测试标签"
     },
     "8004555": {
         "deprecated": false,
         "Dev_Desc": "보패 / 보패 장착 / 세트효과팝업 / 없음",
         "id": 8004555,
         "alias": "UI.Bopae.Equip.SetEffect.No",
-        "text": "没有具有集合效果的值。"
+        "text": "没有设置效果的奖杯。"
     },
     "8004556": {
         "deprecated": false,
-        "Dev_Desc": "무공 / 특화 무공 / 이름 / 장검",
+        "Dev_Desc": "무공 / 특화 무공 / 이름 / 비수",
         "id": 8004556,
         "alias": "UI.Skill.SpecialSkill.DualDagger",
-        "text": "匕首专业化"
+        "text": "匕首专精"
     },
     "8004561": {
         "deprecated": false,
         "Dev_Desc": "캐시상점 / 서브 탭 / 패키지 탭 / 주간월간 상품",
         "id": 8004561,
         "alias": "UI.CashShop.TapName.Sub.Package6",
-        "text": "每周/每月货物"
+        "text": "每周/每月优惠"
+    },
+    "8004562": {
+        "deprecated": false,
+        "Dev_Desc": "시스템 설정 / 자동 분해 / 대상 종류",
+        "id": 8004562,
+        "alias": "UI.Option.Control.GetItem.AutoDiscompose.Type",
+        "text": "目标类型"
+    },
+    "8004563": {
+        "deprecated": false,
+        "Dev_Desc": "시스템 설정 / 자동 분해 / 대상 종류 / 장비",
+        "id": 8004563,
+        "alias": "UI.Option.Control.GetItem.AutoDiscompose.Type.Equipment",
+        "text": "设备"
+    },
+    "8004564": {
+        "deprecated": false,
+        "Dev_Desc": "시스템 설정 / 자동 분해 / 대상 종류 / 보패",
+        "id": 8004564,
+        "alias": "UI.Option.Control.GetItem.AutoDiscompose.Type.SoulShield",
+        "text": "大锤"
+    },
+    "8004565": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 비수",
+        "id": 8004565,
+        "alias": "UI.Craft.CustomCategory.DualDagger",
+        "text": "匕首"
+    },
+    "8004566": {
+        "deprecated": false,
+        "Dev_Desc": "블레이드 효과 극마지체Lv.1",
+        "id": 8004566,
+        "alias": "UI.Soul.BladeEffect.71",
+        "text": "刀锋效果终极 Lv.1"
+    },
+    "8004567": {
+        "deprecated": false,
+        "Dev_Desc": "블레이드 효과 극마지체Lv.2",
+        "id": 8004567,
+        "alias": "UI.Soul.BladeEffect.72",
+        "text": "刀锋效果终极 Lv.2"
+    },
+    "8004568": {
+        "deprecated": false,
+        "Dev_Desc": "영웅 5성/블레이드 효과 극마지체Lv.3",
+        "id": 8004568,
+        "alias": "UI.Soul.BladeEffect.73",
+        "text": "Blade Effect Extreme Lv.3\\n不使用攻击时激活灵魂"
+    },
+    "8004569": {
+        "deprecated": false,
+        "Dev_Desc": "블레이드 효과 극마지체Lv.3",
+        "id": 8004569,
+        "alias": "UI.Soul.BladeEffect.74",
+        "text": "刀锋效果终极 Lv.3"
+    },
+    "8004570": {
+        "deprecated": false,
+        "Dev_Desc": "전설 3성/블레이드 효과 극마지체Lv.4",
+        "id": 8004570,
+        "alias": "UI.Soul.BladeEffect.75",
+        "text": "Blade Effect Extreme Lv.4\\n不使用攻击时激活灵魂"
+    },
+    "8004571": {
+        "deprecated": false,
+        "Dev_Desc": "전설 5성/블레이드 효과 극마지체Lv.5",
+        "id": 8004571,
+        "alias": "UI.Soul.BladeEffect.76",
+        "text": "Blade Effect Extreme Lv.5\\n无攻击提升攻击速度"
+    },
+    "8004572": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 정보 / 전투 / 전투 집중 모드",
+        "id": 8004572,
+        "alias": "UI.Option.Information.Battle.Mode.UniteGuild",
+        "text": "联合派"
+    },
+    "8004573": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 정보 / 전투 / 전투 집중 모드",
+        "id": 8004573,
+        "alias": "UI.Option.Information.Battle.Mode.Etc",
+        "text": "ETC"
+    },
+    "8004574": {
+        "deprecated": false,
+        "Dev_Desc": "거래소 / 분류 / 무기 / 비수",
+        "id": 8004574,
+        "alias": "UI.Trade.Category.Weapon.DualDagger",
+        "text": "匕首"
+    },
+    "8004575": {
+        "deprecated": false,
+        "Dev_Desc": "거래소 / 분류 / 무공 / 비수",
+        "id": 8004575,
+        "alias": "UI.Trade.Category.SkillSetScroll.DualDagger",
+        "text": "暗杀铭文"
     }
 }
