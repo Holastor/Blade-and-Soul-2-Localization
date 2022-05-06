@@ -40,7 +40,7 @@ Preffered Donation - https://boosty.to/holastor HYPE HYPE HYPE !!!!
 * That's all folks!
 
 ## Mobile-Install
- Dropped for now.
+ Dropped.
 <!-- * ONLY Android
 * [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/releases/tag/3.0.0_M) Latest Release (patch.91.com.ncsoft.bns219.obb);
 * patch.91.com.ncsoft.bns219_en.obb - English Language; patch.91.com.ncsoft.bns219_zh.obb - Chinese Language;
