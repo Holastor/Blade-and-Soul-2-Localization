@@ -57,9 +57,7 @@ Preffered Donation - https://boosty.to/holastor HYPE HYPE HYPE !!!!
 2) The author is not responsible for bugs, bans, and other problems.
 3) !!!!!! The author is not 100% sure whether it is possible to get a ban for this!!!!!!
 4) Is something not translated? Feel free to leave a comment and I'll try to add the translation for the next update.
-5) There is text in the game that is sewn into the game, and its translation is impossible.
-6) There is a lot of confused, incomprehensible text. Most likely I did not touch it either.
-7) Translated with Google Translate
+5) Translated with Google Translate
 
 ## License
 
