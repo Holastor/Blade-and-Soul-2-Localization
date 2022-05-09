@@ -25,7 +25,7 @@ Preffered Donation - https://boosty.to/holastor HYPE HYPE HYPE !!!!
 ## Install
 
 * [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/releases/tag/3.0.6) Latest Release;
-* Unpack Localization.04.27.22.zip to \GameFolder\B2\Content\;
+* Unpack Localization.05.04.22.zip to \GameFolder\B2\Content\;
 * Run Choose Language.bat as administrator, choose which language you need.
 * That's all folks!
 ## OR Source-Install
