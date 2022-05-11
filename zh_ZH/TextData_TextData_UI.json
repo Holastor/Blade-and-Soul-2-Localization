@@ -5153,7 +5153,7 @@
     },
     "8000754": {
         "deprecated": false,
-        "Dev_Desc": "탐지 성장 / 단검 표시",
+        "Dev_Desc": "탐지 성장 / 비수 표시",
         "id": 8000754,
         "alias": "UI.ScanGrowth.Desc.DualSwordScan",
         "text": "探知时，可识别穿戴短剑的玩家。"
@@ -24404,7 +24404,7 @@
     },
     "8003569": {
         "deprecated": false,
-        "Dev_Desc": "NPC 상점 타이틀 / 무공서 상인",
+        "Dev_Desc": "NPC 상점 타이틀 / 무공 상인",
         "id": 8003569,
         "alias": "UI.Shop.Tittle.Name.10005",
         "text": "非官方商人"
@@ -27439,27 +27439,6 @@
         "id": 8004002,
         "alias": "UI.PartyDungeon.Text.Exit",
         "text": "出口"
-    },
-    "8004003": {
-        "deprecated": false,
-        "Dev_Desc": "별자리 / GNB",
-        "id": 8004003,
-        "alias": "UI.Galaxy.Gnb.Name",
-        "text": "星座"
-    },
-    "8004004": {
-        "deprecated": false,
-        "Dev_Desc": "별자리 / 성공확률",
-        "id": 8004004,
-        "alias": "UI.Galaxy.Imprint.SuccessRate",
-        "text": "成功概率"
-    },
-    "8004005": {
-        "deprecated": false,
-        "Dev_Desc": "별자리 / 각인",
-        "id": 8004005,
-        "alias": "UI.Galaxy.Imprint.Btn.Imprint",
-        "text": "雕刻"
     },
     "8004006": {
         "deprecated": false,
@@ -30624,14 +30603,14 @@
     },
     "8004492": {
         "deprecated": false,
-        "Dev_Desc": "단검 무공 설명 1",
+        "Dev_Desc": "비수 무공 설명 1",
         "id": 8004492,
         "alias": "UI.ShortSword.Skill.Desc1",
         "text": "传奇的垂钓者"
     },
     "8004493": {
         "deprecated": false,
-        "Dev_Desc": "단검 무공 설명 2",
+        "Dev_Desc": "비수 무공 설명 2",
         "id": 8004493,
         "alias": "UI.ShortSword.Skill.Desc2",
         "text": "匕首是一个不平衡的。"
@@ -31054,7 +31033,7 @@
         "Dev_Desc": "설정 / 정보 / 전투 / 전투 집중 모드",
         "id": 8004572,
         "alias": "UI.Option.Information.Battle.Mode.UniteGuild",
-        "text": "联合派"
+        "text": "联系"
     },
     "8004573": {
         "deprecated": false,
@@ -31076,5 +31055,481 @@
         "id": 8004575,
         "alias": "UI.Trade.Category.SkillSetScroll.DualDagger",
         "text": "暗杀铭文"
+    },
+    "8004576": {
+        "deprecated": false,
+        "Dev_Desc": "소셜모션 / ",
+        "id": 8004576,
+        "alias": "UI.SocialMotion.Text.ActionPose.01",
+        "text": "1号姿势"
+    },
+    "8004577": {
+        "deprecated": false,
+        "Dev_Desc": "소셜모션 / ",
+        "id": 8004577,
+        "alias": "UI.SocialMotion.Text.ActionPose.02",
+        "text": "2号姿势"
+    },
+    "8004578": {
+        "deprecated": false,
+        "Dev_Desc": "소셜모션 / ",
+        "id": 8004578,
+        "alias": "UI.SocialMotion.Text.ActionPose.03",
+        "text": "3号姿势"
+    },
+    "8004579": {
+        "deprecated": false,
+        "Dev_Desc": "소셜모션 / ",
+        "id": 8004579,
+        "alias": "UI.SocialMotion.Text.ActionPose.04",
+        "text": "4号姿势"
+    },
+    "8004580": {
+        "deprecated": false,
+        "Dev_Desc": "소셜모션 / ",
+        "id": 8004580,
+        "alias": "UI.SocialMotion.Text.ActionPose.05",
+        "text": "5号姿势"
+    },
+    "8004581": {
+        "deprecated": false,
+        "Dev_Desc": "복구술사 탭 / 경험치",
+        "id": 8004581,
+        "alias": "UI.Recovery.TabName.Exp",
+        "text": "经验"
+    },
+    "8004582": {
+        "deprecated": false,
+        "Dev_Desc": "복구술사 탭 / 물품",
+        "id": 8004582,
+        "alias": "UI.Recovery.TabName.Item",
+        "text": "文章"
+    },
+    "8004583": {
+        "deprecated": false,
+        "Dev_Desc": "복구술사 탭 / 후유증",
+        "id": 8004583,
+        "alias": "UI.Recovery.TabName.AfterRecovery",
+        "text": "后劲"
+    },
+    "8004584": {
+        "deprecated": false,
+        "Dev_Desc": "복구술사 후유증 리스트 / 타이틀",
+        "id": 8004584,
+        "alias": "UI.Recovery.AfterRecovery.Title",
+        "text": "后劲"
+    },
+    "8004585": {
+        "deprecated": false,
+        "Dev_Desc": "복구술사 유료 후유증 회복 팝업 - Desc",
+        "id": 8004585,
+        "alias": "UI.Recovery.PopUp.Recovery",
+        "text": "你想从后果中恢复过来吗？"
+    },
+    "8004586": {
+        "deprecated": false,
+        "Dev_Desc": "복구술사 유료 후유증 회복 팝업 - 회복 비용 Desc",
+        "id": 8004586,
+        "alias": "UI.Recovery.PopUp.RecoveryPrice",
+        "text": "回收成本"
+    },
+    "8004587": {
+        "deprecated": false,
+        "Dev_Desc": "복구술사 / 충전횟수 Desc",
+        "id": 8004587,
+        "alias": "UI.Recovery.RechargeCount",
+        "text": "费用 <arg p=[1:integer]/>"
+    },
+    "8004588": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 행복의 주화",
+        "id": 8004588,
+        "alias": "UI.Craft.CustomCategory.HappyCoin_01",
+        "text": "半月幸福湖"
+    },
+    "8004589": {
+        "deprecated": false,
+        "Dev_Desc": "복구술사 / 후유증 / 회복 버튼",
+        "id": 8004589,
+        "alias": "UI.Recorvery.ButtonName.Recorvery",
+        "text": "恢复"
+    },
+    "8004590": {
+        "deprecated": false,
+        "Dev_Desc": "복구술사 / 후유증 / 후유증 내역 없음",
+        "id": 8004590,
+        "alias": "UI.Recovery.AfterRecovery.No",
+        "text": "没有后遗症。"
+    },
+    "8004591": {
+        "deprecated": false,
+        "Dev_Desc": "복구술사 / 후유증 / 무료 회복 버튼",
+        "id": 8004591,
+        "alias": "UI.Recorvery.ButtonName.FreeRecorvery",
+        "text": "免费恢复"
+    },
+    "8004592": {
+        "deprecated": false,
+        "Dev_Desc": "무공UI/선택안내",
+        "id": 8004592,
+        "alias": "UI.Skill.Choice.Desc",
+        "text": "请选择武术。"
+    },
+    "8004593": {
+        "deprecated": false,
+        "Dev_Desc": "무공UI/습득안내",
+        "id": 8004593,
+        "alias": "UI.Skill.Get.Desc",
+        "text": "获得2个或更多武术技能时可以使用。"
+    },
+    "8004594": {
+        "deprecated": false,
+        "Dev_Desc": "무공UI/순서변경",
+        "id": 8004594,
+        "alias": "UI.Skill.Change.Desc",
+        "text": "改变了武术的顺序。"
+    },
+    "8004595": {
+        "deprecated": false,
+        "Dev_Desc": "문파 / 탭 이름 / 문파",
+        "id": 8004595,
+        "alias": "UI.Guild.TabName.Guild",
+        "text": "氏族"
+    },
+    "8004596": {
+        "deprecated": false,
+        "Dev_Desc": "문파 / 탭 이름 / 연합",
+        "id": 8004596,
+        "alias": "UI.Guild.TabName.Unite",
+        "text": "联盟"
+    },
+    "8004597": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 가입중 탭 / 연합 정보",
+        "id": 8004597,
+        "alias": "UI.Unite.UniteInfo",
+        "text": "联邦信息"
+    },
+    "8004598": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 가입중 탭 / 소속 문파",
+        "id": 8004598,
+        "alias": "UI.Unite.CrewInfo",
+        "text": "联系"
+    },
+    "8004599": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 미가입 탭 / 추천 연합",
+        "id": 8004599,
+        "alias": "UI.Unite.Recommend",
+        "text": "推荐协会"
+    },
+    "8004600": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 미가입 탭 / 가입 관리",
+        "id": 8004600,
+        "alias": "UI.Unite.JoinManage",
+        "text": "订阅管理"
+    },
+    "8004601": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 미가입 탭 / 연합 창설",
+        "id": 8004601,
+        "alias": "UI.Unite.Foundation",
+        "text": "联盟的成立"
+    },
+    "8004602": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 연합 정보 / 정보 / 대표 문파",
+        "id": 8004602,
+        "alias": "UI.Unite.UniteInfo.LeaderGuild",
+        "text": "代表氏族"
+    },
+    "8004603": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 연합 정보 / 정보 / 연합장",
+        "id": 8004603,
+        "alias": "UI.Unite.UniteInfo.Leader",
+        "text": "工会领袖"
+    },
+    "8004604": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 연합 정보 / 정보 / 연합원 수",
+        "id": 8004604,
+        "alias": "UI.Unite.UniteInfo.CrewNum",
+        "text": "工会会员人数"
+    },
+    "8004605": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 연합 정보 / 관리 버튼",
+        "id": 8004605,
+        "alias": "UI.Unite.Management",
+        "text": "联邦管理"
+    },
+    "8004606": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 연합 정보 / 공지사항 기본 문구",
+        "id": 8004606,
+        "alias": "UI.Unite.UniteInfo.Notice.Default",
+        "text": "写联合通知。\\n（最多50个韩文字符，100个英文字符）"
+    },
+    "8004607": {
+        "deprecated": false,
+        "Dev_Desc": "문파 / 문파 정보 / 적대동맹 / 안내 버튼",
+        "id": 8004607,
+        "alias": "UI.Guild.GuildInfo.GuildEnemyAlliance.DescButton",
+        "text": "友/敌优先"
+    },
+    "8004608": {
+        "deprecated": false,
+        "Dev_Desc": "문파 / 문파 정보 / 적대동맹 / 안내 텍스트",
+        "id": 8004608,
+        "alias": "UI.Guild.GuildInfo.GuildEnemyAlliance.Desc",
+        "text": "根据以下优先级应用盟友/敌人。\\n1.属于同一个联盟\\n2.你联盟的联盟/敌对联盟\\n3.你联盟的盟友/敌对派系\\n4.你氏族的联盟/敌对联盟\\n5.所属派系的盟友/敌对派系"
+    },
+    "8004609": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 연합 정보 / 관리 / 가입,해산 / 연합 소개",
+        "id": 8004609,
+        "alias": "UI.Unite.Management.Introduction.Title",
+        "text": "关于联盟"
+    },
+    "8004610": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 연합 정보 / 관리 / 가입,해산 / 연합 소개 / 기본 문구",
+        "id": 8004610,
+        "alias": "UI.Unite.Management.Introduction.Desc",
+        "text": "请向未来的联盟成员介绍联盟。\\n（最多15个韩文字符，30个英文字符）"
+    },
+    "8004611": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 연합 정보 / 관리 / 가입,해산 / 연합 해산",
+        "id": 8004611,
+        "alias": "UI.Unite.Management.Dissolve.Title",
+        "text": "工会解散"
+    },
+    "8004612": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 연합 정보 / 관리 / 가입,해산 / 연합 해산 / 안내",
+        "id": 8004612,
+        "alias": "UI.Unite.Management.Dissolve.Desc",
+        "text": "联盟解散后，到现在为止的所有活动记录都将丢失。\\n解散后，所有信息都无法恢复。"
+    },
+    "8004613": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 연합 정보 / 관리 / 가입,해산 / 연합 해산 버튼",
+        "id": 8004613,
+        "alias": "UI.Unite.Management.Dissolve.Button",
+        "text": "工会解散"
+    },
+    "8004614": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 연합 정보 / 관리 / 문장 / 문장 위 타이틀",
+        "id": 8004614,
+        "alias": "UI.Unite.Management.Emblem.Change.SubTitle",
+        "text": "联合纹章"
+    },
+    "8004615": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 소속 문파 / 소속 문파",
+        "id": 8004615,
+        "alias": "UI.Unite.StatusText.CrewNum",
+        "text": "隶属关系 (<arg p=[1:integer]/>/<arg p=[2:integer]/>)"
+    },
+    "8004616": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 소속 문파 / 가입 신청",
+        "id": 8004616,
+        "alias": "UI.Unite.StatusText.JoinRequestNum",
+        "text": "订阅 (<arg p=[1:integer]/>/<arg p=[2:integer]/>)"
+    },
+    "8004617": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 소속 문파 / 가입 초대",
+        "id": 8004617,
+        "alias": "UI.Unite.StatusText.JoinInviteNum",
+        "text": "邀请加入 (<arg p=[1:integer]/>/<arg p=[2:integer]/>)"
+    },
+    "8004618": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 소속 문파 / 컬럼 / 문파",
+        "id": 8004618,
+        "alias": "UI.Unite.CrewInfo.Colum.1",
+        "text": "氏族"
+    },
+    "8004619": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 소속 문파 / 컬럼 / 직위",
+        "id": 8004619,
+        "alias": "UI.Unite.CrewInfo.Colum.2",
+        "text": "点"
+    },
+    "8004620": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 소속 문파 / 컬럼 / 서버",
+        "id": 8004620,
+        "alias": "UI.Unite.CrewInfo.Colum.3",
+        "text": "服务器"
+    },
+    "8004621": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 소속 문파 / 컬럼 / 레벨",
+        "id": 8004621,
+        "alias": "UI.Unite.CrewInfo.Colum.4",
+        "text": "等级"
+    },
+    "8004622": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 소속 문파 / 컬럼 / 문파원 수",
+        "id": 8004622,
+        "alias": "UI.Unite.CrewInfo.Colum.5",
+        "text": "成员数量"
+    },
+    "8004623": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 소속 문파 / 컬럼 / 문파장 접속 상태",
+        "id": 8004623,
+        "alias": "UI.Unite.CrewInfo.Colum.6",
+        "text": "月波连接状态"
+    },
+    "8004624": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 소속 문파 / 컬럼 / 소개",
+        "id": 8004624,
+        "alias": "UI.Unite.CrewInfo.Colum.7",
+        "text": "介绍"
+    },
+    "8004625": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 소속 문파 / 컬럼 / 남은 시간",
+        "id": 8004625,
+        "alias": "UI.Unite.CrewInfo.Colum.8",
+        "text": "剩余时间"
+    },
+    "8004626": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 소속 문파 / 컬럼 / 가입 승인",
+        "id": 8004626,
+        "alias": "UI.Unite.CrewInfo.Colum.9",
+        "text": "注册批准"
+    },
+    "8004627": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 소속 문파 / 컬럼 / 초대 취소",
+        "id": 8004627,
+        "alias": "UI.Unite.CrewInfo.Colum.10",
+        "text": "取消邀请"
+    },
+    "8004628": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 소속 문파 / 없음1",
+        "id": 8004628,
+        "alias": "UI.Unite.CrewInfo.No1",
+        "text": "没有属于联盟的派系。"
+    },
+    "8004629": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 소속 문파 / 없음2",
+        "id": 8004629,
+        "alias": "UI.Unite.CrewInfo.No2",
+        "text": "通过邀请他们加入来招募您的氏族。"
+    },
+    "8004630": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 연합 창설 / 팝업 / 안내1",
+        "id": 8004630,
+        "alias": "UI.Unite.Foundation.PopUp.Desc",
+        "text": "您确定要创建联合<textColor=[255:198:109:255]><arg p=[1:string]/></><eul/>吗？"
+    },
+    "8004631": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 연합 창설 / 팝업 / 안내2",
+        "id": 8004631,
+        "alias": "UI.Unite.Foundation.PopUp.Notice",
+        "text": "创建后无法更改联合名称。"
+    },
+    "8004632": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 소속 문파 / 가입 초대 / 초대 / 안내",
+        "id": 8004632,
+        "alias": "UI.Unite.CrewInfo.Invite.PopUp.Desc",
+        "text": "输入要发送加入联盟的请求的派系名称。"
+    },
+    "8004633": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 소속 문파 / 가입 초대 / 초대 / 기본 문구",
+        "id": 8004633,
+        "alias": "UI.Unite.CrewInfo.Invite.PopUp.Text",
+        "text": "输入部落名称"
+    },
+    "8004634": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 연합 정보 / 탈퇴 / 안내1",
+        "id": 8004634,
+        "alias": "UI.Unite.WithDrawal.PopUp.Desc",
+        "text": "你确定要离开联盟吗？"
+    },
+    "8004635": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 검색 / 결과 없음",
+        "id": 8004635,
+        "alias": "UI.Unite.SearchResult.No",
+        "text": "没有符合会员条件的教派。"
+    },
+    "8004636": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 추천 연합 / 없음",
+        "id": 8004636,
+        "alias": "UI.Unite.Recommend.No",
+        "text": "没有教派可以推荐。"
+    },
+    "8004637": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 가입 관리 / 가입 신청 / 없음",
+        "id": 8004637,
+        "alias": "UI.Unite.JoinManage.JoinRequest.No",
+        "text": "没有氏族申请加入。"
+    },
+    "8004638": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 가입 관리 / 가입 초대 / 없음",
+        "id": 8004638,
+        "alias": "UI.Unite.JoinManage.JoinInvite.No",
+        "text": "没有被邀请的氏族。"
+    },
+    "8004639": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 소속 문파 / 추방 / 팝업 / 안내2",
+        "id": 8004639,
+        "alias": "UI.Unite.CrewInfo.Exile.ExileDesc",
+        "text": "驱逐<arg p=[1:integer]/>派系？"
+    },
+    "8004640": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 직위 / 대표 문파",
+        "id": 8004640,
+        "alias": "UI.Unite.StatusText.Master",
+        "text": "代表氏族"
+    },
+    "8004641": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 직위 / 일반 문파",
+        "id": 8004641,
+        "alias": "UI.Unite.StatusText.Crew",
+        "text": "一般教派"
+    },
+    "8004642": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 정보 / 전투 / 전투 집중 모드",
+        "id": 8004642,
+        "alias": "UI.Option.Information.Battle.Mode.AllianceUniteGuild",
+        "text": "联盟"
+    },
+    "8004643": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 정보 / 전투 / 전투 집중 모드",
+        "id": 8004643,
+        "alias": "UI.Option.Information.Battle.Mode.EnemyUniteGuild",
+        "text": "敌对联盟"
     }
 }

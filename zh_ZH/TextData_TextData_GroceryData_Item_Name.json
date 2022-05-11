@@ -4868,7 +4868,7 @@
     "89003603": {
         "deprecated": false,
         "id": 89003603,
-        "alias": "Contents.Item.Name.9900644",
+        "alias": "Contents.Event.Item.Name.9900644",
         "text": "被遗忘的英雄盔甲制作秘密碎片"
     },
     "89003604": {
@@ -5864,7 +5864,7 @@
     "89003770": {
         "deprecated": false,
         "id": 89003770,
-        "alias": "Contents.Item.Name.9900810",
+        "alias": "Contents.Event.Item.Name.9900810",
         "text": "被遗忘的英雄饰品制作秘密碎片"
     },
     "89003771": {
@@ -9521,7 +9521,7 @@
         "Dev_Desc": "수라의 화려한 소울 소환서(11회)",
         "id": 89004381,
         "alias": "Contents.Item.Name.9901490",
-        "text": "苏拉的华丽灵魂召唤卷轴（11）"
+        "text": "苏拉的华丽灵魂召唤卷轴（11次）"
     },
     "89004382": {
         "deprecated": false,
@@ -9535,7 +9535,7 @@
         "Dev_Desc": "수라의 빛나는 소울 소환서(11회)",
         "id": 89004383,
         "alias": "Contents.Item.Name.9901492",
-        "text": "苏拉的闪耀灵魂召唤卷轴（11）"
+        "text": "苏拉的闪耀灵魂召唤卷轴（11次）"
     },
     "89004384": {
         "deprecated": false,
@@ -9584,7 +9584,7 @@
         "Dev_Desc": "평범한 연오 공로함(각인)_해룡산맥",
         "id": 89004390,
         "alias": "Contents.Item.Name.9901515",
-        "text": "普通的延欧功德（刻）"
+        "text": "平凡的妍欧立功（刻）"
     },
     "89004391": {
         "deprecated": false,
@@ -9598,7 +9598,7 @@
         "Dev_Desc": "찬란한 침식된 대인면충 공로함(각인)_해룡산맥",
         "id": 89004392,
         "alias": "Contents.Item.Name.9901517",
-        "text": "辉煌侵蚀杀伤人员昆虫功绩（刻）"
+        "text": "辉煌侵蚀反人虫功德（刻）"
     },
     "89004393": {
         "deprecated": false,
@@ -9633,14 +9633,14 @@
         "Dev_Desc": "빛나는 침식된 홍돈팔 공로함(각인)_해룡산맥",
         "id": 89004397,
         "alias": "Contents.Item.Name.9901522",
-        "text": "闪耀蚀红钱臂功德（刻）"
+        "text": "光辉侵蚀红钱功勋臂（刻）"
     },
     "89004398": {
         "deprecated": false,
         "Dev_Desc": "평범한 침식된 홍돈팔 공로함(각인)_해룡산맥",
         "id": 89004398,
         "alias": "Contents.Item.Name.9901523",
-        "text": "普通蚀红钱臂功德（刻）"
+        "text": "普通蚀红当宝功德（刻）"
     },
     "89004399": {
         "deprecated": false,
@@ -9661,7 +9661,7 @@
         "Dev_Desc": "빛나는 곤야차 공로함(각인)_해룡산맥",
         "id": 89004401,
         "alias": "Contents.Item.Name.9901526",
-        "text": "闪耀魔芋优异奖（刻）"
+        "text": "闪亮的魔芋优异奖（刻）"
     },
     "89004402": {
         "deprecated": false,
@@ -9682,7 +9682,7 @@
         "Dev_Desc": "찬란한 백야금 공로함(각인)_비옥대지",
         "id": 89004404,
         "alias": "Contents.Item.Name.9901529",
-        "text": "辉煌铂金（刻）"
+        "text": "辉煌铂金优异奖（刻）"
     },
     "89004405": {
         "deprecated": false,
@@ -9710,7 +9710,7 @@
         "Dev_Desc": "찬란한 리오리노 공로함(각인)_비옥대지",
         "id": 89004408,
         "alias": "Contents.Item.Name.9901533",
-        "text": "辉煌的 Rioorino 优点（雕刻）"
+        "text": "辉煌的里奥奥里诺功绩（刻）"
     },
     "89004409": {
         "deprecated": false,
@@ -9724,7 +9724,7 @@
         "Dev_Desc": "평범한 리오리노 공로함(각인)_비옥대지",
         "id": 89004410,
         "alias": "Contents.Item.Name.9901535",
-        "text": "普通里奥里诺立功（刻）"
+        "text": "普通 Rio Orino Merit（刻）"
     },
     "89004411": {
         "deprecated": false,
@@ -9745,21 +9745,21 @@
         "Dev_Desc": "빛나는 유강독모 공로함(각인)_비옥대지",
         "id": 89004413,
         "alias": "Contents.Item.Name.9901538",
-        "text": "闪耀强毒帽功德（刻）"
+        "text": "发光强毒帽功德（刻）"
     },
     "89004414": {
         "deprecated": false,
         "Dev_Desc": "평범한 유강독모 공로함(각인)_비옥대지",
         "id": 89004414,
         "alias": "Contents.Item.Name.9901539",
-        "text": "普通俞康淑模功勋奖（刻）"
+        "text": "普通于康淑木功勋奖（刻）"
     },
     "89004415": {
         "deprecated": false,
         "Dev_Desc": "낡은 유강독모 공로함(각인)_비옥대지",
         "id": 89004415,
         "alias": "Contents.Item.Name.9901540",
-        "text": "破旧毒帽功德箱（刻）"
+        "text": "过时的儒帽功勋奖（刻）"
     },
     "89004416": {
         "deprecated": false,
@@ -9794,7 +9794,7 @@
         "Dev_Desc": "찬란한 비옥_모순학 공로함(각인)_비옥대지",
         "id": 89004420,
         "alias": "Contents.Item.Name.9901545",
-        "text": "辉煌的悖论优点（印记）"
+        "text": "辉煌的矛盾优点（印记）"
     },
     "89004421": {
         "deprecated": false,
@@ -9808,14 +9808,14 @@
         "Dev_Desc": "평범한 비옥_모순학 공로함(각인)_비옥대지",
         "id": 89004422,
         "alias": "Contents.Item.Name.9901547",
-        "text": "平凡的矛盾贡献（印记）"
+        "text": "平凡的悖论功德（刻）"
     },
     "89004423": {
         "deprecated": false,
         "Dev_Desc": "낡은 비옥_모순학 공로함(각인)_비옥대지",
         "id": 89004423,
         "alias": "Contents.Item.Name.9901548",
-        "text": "老悖论的贡献（印记）"
+        "text": "老矛盾的优点（印记）"
     },
     "89004424": {
         "deprecated": false,
@@ -9913,7 +9913,7 @@
         "Dev_Desc": "빛나는 녹력대귀 공로함(각인)_태록림",
         "id": 89004437,
         "alias": "Contents.Item.Name.9901562",
-        "text": "绿光大功德（刻）"
+        "text": "闪耀绿色功德功德（刻）"
     },
     "89004438": {
         "deprecated": false,
@@ -9948,7 +9948,7 @@
         "Dev_Desc": "평범한 돌주먹 공로함(각인)_태록림",
         "id": 89004442,
         "alias": "Contents.Item.Name.9901567",
-        "text": "普通石拳功德（刻）"
+        "text": "普通石拳功绩（刻）"
     },
     "89004443": {
         "deprecated": false,
@@ -9962,7 +9962,7 @@
         "Dev_Desc": "찬란한 태록_모순학 공로함(각인)_태록림",
         "id": 89004444,
         "alias": "Contents.Item.Name.9901569",
-        "text": "辉煌的悖论优点（印记）"
+        "text": "辉煌的矛盾优点（印记）"
     },
     "89004445": {
         "deprecated": false,
@@ -9983,14 +9983,14 @@
         "Dev_Desc": "낡은 태록_모순학 공로함(각인)_태록림",
         "id": 89004447,
         "alias": "Contents.Item.Name.9901572",
-        "text": "老悖论的贡献（印记）"
+        "text": "老矛盾的优点（印记）"
     },
     "89004448": {
         "deprecated": false,
         "Dev_Desc": "찬란한 초령목 공로함(각인)_반달호수",
         "id": 89004448,
         "alias": "Contents.Item.Name.9901573",
-        "text": "优秀的草岭牧功勋奖（刻）"
+        "text": "杰出的草岭牧功勋奖（刻）"
     },
     "89004449": {
         "deprecated": false,
@@ -10011,7 +10011,7 @@
         "Dev_Desc": "낡은 초령목 공로함(각인)_반달호수",
         "id": 89004451,
         "alias": "Contents.Item.Name.9901576",
-        "text": "老草灵树功德箱（刻）"
+        "text": "老草岭木功德箱（刻）"
     },
     "89004452": {
         "deprecated": false,
@@ -10046,7 +10046,7 @@
         "Dev_Desc": "찬란한 모순학 공로함(각인)_반달호수",
         "id": 89004456,
         "alias": "Contents.Item.Name.9901581",
-        "text": "辉煌的悖论优点（印记）"
+        "text": "辉煌的矛盾优点（印记）"
     },
     "89004457": {
         "deprecated": false,
@@ -10060,14 +10060,14 @@
         "Dev_Desc": "평범한 모순학 공로함(각인)_반달호수",
         "id": 89004458,
         "alias": "Contents.Item.Name.9901583",
-        "text": "平凡的悖论功德（刻）"
+        "text": "平凡的矛盾贡献（印记）"
     },
     "89004459": {
         "deprecated": false,
         "Dev_Desc": "낡은 모순학 공로함(각인)_반달호수",
         "id": 89004459,
         "alias": "Contents.Item.Name.9901584",
-        "text": "老悖论的贡献（印记）"
+        "text": "老矛盾的优点（印记）"
     },
     "89004460": {
         "deprecated": false,
@@ -10159,5 +10159,12 @@
         "id": 89004472,
         "alias": "Contents.Item.Name.9901657",
         "text": "天堂龙奉堂（刻）"
+    },
+    "89004473": {
+        "deprecated": false,
+        "Dev_Desc": "어둠의 증표",
+        "id": 89004473,
+        "alias": "Contents.Item.Name.9901660",
+        "text": "黑暗的印记"
     }
 }

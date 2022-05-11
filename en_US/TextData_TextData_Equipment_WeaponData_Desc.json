@@ -1274,7 +1274,8 @@
     "92101606": {
         "deprecated": false,
         "id": 92101606,
-        "alias": "Contents.Item.Desc.2101606"
+        "alias": "Contents.Item.Desc.2101606",
+        "text": "[제작]에서 획득할 수 있습니다."
     },
     "92101801": {
         "deprecated": false,
@@ -1447,7 +1448,8 @@
     "92102606": {
         "deprecated": false,
         "id": 92102606,
-        "alias": "Contents.Item.Desc.2102606"
+        "alias": "Contents.Item.Desc.2102606",
+        "text": "[제작]에서 획득할 수 있습니다."
     },
     "92102801": {
         "deprecated": false,
@@ -1620,7 +1622,8 @@
     "92103606": {
         "deprecated": false,
         "id": 92103606,
-        "alias": "Contents.Item.Desc.2103606"
+        "alias": "Contents.Item.Desc.2103606",
+        "text": "[제작]에서 획득할 수 있습니다."
     },
     "92103801": {
         "deprecated": false,
@@ -1793,7 +1796,8 @@
     "92104606": {
         "deprecated": false,
         "id": 92104606,
-        "alias": "Contents.Item.Desc.2104606"
+        "alias": "Contents.Item.Desc.2104606",
+        "text": "[제작]에서 획득할 수 있습니다."
     },
     "92104801": {
         "deprecated": false,
@@ -1966,7 +1970,8 @@
     "92105606": {
         "deprecated": false,
         "id": 92105606,
-        "alias": "Contents.Item.Desc.2105606"
+        "alias": "Contents.Item.Desc.2105606",
+        "text": "[제작]에서 획득할 수 있습니다."
     },
     "92105801": {
         "deprecated": false,
@@ -2139,7 +2144,8 @@
     "92106606": {
         "deprecated": false,
         "id": 92106606,
-        "alias": "Contents.Item.Desc.2106606"
+        "alias": "Contents.Item.Desc.2106606",
+        "text": "[제작]에서 획득할 수 있습니다."
     },
     "92106801": {
         "deprecated": false,
@@ -5076,7 +5082,8 @@
         "deprecated": false,
         "Dev_Desc": "잊혀진 처벌자의 비수",
         "id": 92107601,
-        "alias": "Contents.Item.Desc.2107601"
+        "alias": "Contents.Item.Desc.2107601",
+        "text": "It can be obtained from [Crafting]."
     },
     "92107602": {
         "deprecated": false,
@@ -5089,13 +5096,15 @@
         "deprecated": false,
         "Dev_Desc": "진실의 추적자",
         "id": 92107603,
-        "alias": "Contents.Item.Desc.2107603"
+        "alias": "Contents.Item.Desc.2107603",
+        "text": "It can be obtained from [Crafting]."
     },
     "92107604": {
         "deprecated": false,
         "Dev_Desc": "지옥 아귀의 칼날",
         "id": 92107604,
-        "alias": "Contents.Item.Desc.2107604"
+        "alias": "Contents.Item.Desc.2107604",
+        "text": "It can be obtained from [Crafting]."
     },
     "92107605": {
         "deprecated": false,
@@ -5132,7 +5141,8 @@
         "deprecated": false,
         "Dev_Desc": "지옥의 송곳니",
         "id": 92107801,
-        "alias": "Contents.Item.Desc.2107801"
+        "alias": "Contents.Item.Desc.2107801",
+        "text": "It can be obtained from [Crafting]."
     },
     "92107802": {
         "deprecated": false,
@@ -5276,7 +5286,7 @@
         "Dev_Desc": "금경비수(각인)",
         "id": 92207401,
         "alias": "Contents.Item.Desc.2207401",
-        "text": "It can be obtained from [Exchange Vendor] and [Crafting].\\n\\n+7 enhancement adds penetration\\n+8 enhancement adds accuracy\\n+9 enhances additional weapon attack power"
+        "text": "It can be obtained from [Exchange Vendor] or [Crafting].\\n\\n+7 enhancement adds penetration\\n+8 enhancement adds accuracy\\n+9 enhances additional weapon attack power"
     },
     "92207402": {
         "deprecated": false,
@@ -5366,21 +5376,19 @@
         "Dev_Desc": "옅은 새벽의 비수(각인)",
         "id": 92207602,
         "alias": "Contents.Item.Desc.2207602",
-        "text": "When attacking, has a chance to cast [Speech: Step 1] on the enemy.\\n\\n[Speech: Step 1]\\nReduces the target's critical resistance by 10% for 6 seconds\\n(The same effect cannot be applied to the same target for 30 seconds) \\n\\nYou can obtain it from [Trial Dungeon]."
+        "text": "When attacking, there is a chance to cast [Speech: Step 1] on the enemy.\\n\\n[Speech: Step 1]\\nReduces the target's critical resistance by 10% for 6 seconds\\n(The same effect cannot be applied to the same target for 30 seconds) \\n\\nYou can obtain it from [Trial Dungeon]."
     },
     "92207603": {
         "deprecated": false,
         "Dev_Desc": "진실의 추적자(각인)",
         "id": 92207603,
-        "alias": "Contents.Item.Desc.2207603",
-        "text": "It can be obtained from [Crafting]."
+        "alias": "Contents.Item.Desc.2207603"
     },
     "92207604": {
         "deprecated": false,
         "Dev_Desc": "지옥 아귀의 칼날(각인)",
         "id": 92207604,
-        "alias": "Contents.Item.Desc.2207604",
-        "text": "It can be obtained from [Crafting]."
+        "alias": "Contents.Item.Desc.2207604"
     },
     "92207605": {
         "deprecated": false,
@@ -5417,8 +5425,7 @@
         "deprecated": false,
         "Dev_Desc": "지옥의 송곳니(각인)",
         "id": 92207801,
-        "alias": "Contents.Item.Desc.2207801",
-        "text": "It can be obtained from [Crafting]."
+        "alias": "Contents.Item.Desc.2207801"
     },
     "92207802": {
         "deprecated": false,

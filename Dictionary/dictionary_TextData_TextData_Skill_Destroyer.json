@@ -1226,5 +1226,47 @@
         "English_Text": "Boss Monster \"sour\" breakthrough \"is confirmed by attack.",
         "Russian_Text": "",
         "Chinese_Text": "老板怪物酸突破通过攻击确认。"
+    },
+    "60040180": {
+        "Dev_Desc": "정의",
+        "Original_Text": "상태이상의 적에게 공격을 강화합니다.\\n<textColor=[248:99:99:255]>도발</>, <textColor=[248:99:99:255]>기절</>, <textColor=[248:99:99:255]>공중</> 상태인 대상 공격 시 추가 피해를 입힙니다.",
+        "English_Text": "Strengthens attacks against enemies with status ailments.\\n<textColor=[248:99:99:255]>Taunt</>, <textColor=[248:99:99:255]>Stun</>, <textColor= [248:99:99:255] Deals additional damage when attacking a target that is in >Air</> state.",
+        "Russian_Text": "",
+        "Chinese_Text": "加强对有异常状态的敌人的攻击。\\n<textColor=[248:99:99:255]>嘲讽</>, <textColor=[248:99:99:255]>眩晕</>, <textColor= [ 248:99:99:255] 攻击处于 >Air</> 状态的目标时造成额外伤害。"
+    },
+    "60040181": {
+        "Dev_Desc": "정의",
+        "Original_Text": "도발, 기절, 공중 대상",
+        "English_Text": "Taunt, Stun, Air Target",
+        "Russian_Text": "",
+        "Chinese_Text": "嘲讽、眩晕、空中目标"
+    },
+    "60040182": {
+        "Dev_Desc": "부술연계1",
+        "Original_Text": "부술연계Ⅰ",
+        "English_Text": "Linkage I",
+        "Russian_Text": "",
+        "Chinese_Text": "联动我"
+    },
+    "60040183": {
+        "Dev_Desc": "부술연계1",
+        "Original_Text": "보스 몬스터 공격 시 \"처단\"이 활성화됩니다.\\n(사용 무공 활성화 대기시간 18초)",
+        "English_Text": "When attacking boss monsters, \"Extermination\" is activated.\\n(Dealing time to activate useless attack is 18 seconds)",
+        "Russian_Text": "",
+        "Chinese_Text": "攻击boss怪物时，发动灭绝。\\n（发动无用攻击的处理时间为18秒）"
+    },
+    "60040184": {
+        "Dev_Desc": "부술연계2",
+        "Original_Text": "부술연계Ⅱ",
+        "English_Text": "Linkage II",
+        "Russian_Text": "",
+        "Chinese_Text": "联动二"
+    },
+    "60040185": {
+        "Dev_Desc": "부술연계2",
+        "Original_Text": "보스 몬스터에게 \"선풍[돌파]\" 공격 시 확정 연계 공격을 합니다.",
+        "English_Text": "When attacking a boss monster with \"Spread [Breakthrough]\", it will perform a confirmed combo attack.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用传播[突破]攻击BOSS怪物时，会进行确认的连击。"
     }
 }

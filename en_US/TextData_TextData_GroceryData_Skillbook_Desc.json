@@ -2409,7 +2409,7 @@
         "Dev_Desc": "상급 / 뇌격살 / 액티브 (각인)",
         "id": 97100345,
         "alias": "Contents.Item.Desc.9100720",
-        "text": "Infused with the energy of lightning, it swings a dagger to inflict damage."
+        "text": "Infused with the energy of lightning, swipe a dagger to inflict damage."
     },
     "97100346": {
         "deprecated": false,
@@ -2458,7 +2458,7 @@
         "Dev_Desc": "희귀 / 살계 / 패시브 (각인)",
         "id": 97100352,
         "alias": "Contents.Item.Desc.9100733",
-        "text": "Attacks the enemy brutally by opening the slaughterhouse.\\nWhen acquiring the Blood Man effect, the effect is acquired one more time."
+        "text": "Attacks the enemy brutally by opening the slaughterhouse.\\nWhen acquiring the Blood Human effect, the effect is acquired one more time."
     },
     "97100353": {
         "deprecated": false,
@@ -2479,7 +2479,7 @@
         "Dev_Desc": "영웅 / 그림자봉인 / 액티브 (각인)",
         "id": 97100355,
         "alias": "Contents.Item.Desc.9100741",
-        "text": "Gathers dark energy and attacks with a strong dagger.\\nThere is a chance to inflict silence for 4 seconds. You cannot use martial arts while silenced."
+        "text": "Gathers dark energy and attacks with a strong dagger.\\nThere is a chance to silence targets other than the boss for 4 seconds. You cannot use martial arts while silenced."
     },
     "97100356": {
         "deprecated": false,
@@ -2493,7 +2493,7 @@
         "Dev_Desc": "영웅 / 맹독 / 패시브 (각인)",
         "id": 97100358,
         "alias": "Contents.Item.Desc.9100744",
-        "text": "Imbues a dagger with venom to inflict heavy wounds on enemies.\\nWhen hitting \"Shadow Slash\", \"Dark Death\" or \"Explosive Blood\", there is a chance to reduce the target's healing, potion recovery, and potion recovery rate.\\n \\n[Effect]\\nHealing received -75%, potion recovery -50, potion recovery -50%"
+        "text": "Adds poison to the dagger.\\nThe amount of healing received, potion recovery amount, and potion recovery rate are reduced for targets afflicted with poison. Venom only applies to targets other than the boss, and has a chance to trigger when \"Shadow Cleave\", \"Dark Death\", or \"Explosive Blood\" hits.\\n\\n[Effect]\\nHealing received -75%, potion recovery -50 , potion recovery rate -50%"
     },
     "97100359": {
         "deprecated": false,
@@ -2514,7 +2514,7 @@
         "Dev_Desc": "전설 / 무한 / 패시브 (각인)",
         "id": 97100361,
         "alias": "Contents.Item.Desc.9100750",
-        "text": "Maximizes combat abilities by mastering the martial arts handling daggers.\\nThere is a certain probability that stacking will not be reset when blood is consumed."
+        "text": "Mastery in martial arts handling daggers maximizes combat abilities.\\nThere is a certain probability that stacking will not be reset when blood is consumed."
     },
     "97100362": {
         "deprecated": false,
@@ -2598,7 +2598,7 @@
         "Dev_Desc": "돌파의 정수 : 뇌격살 (각인)",
         "id": 97100373,
         "alias": "Contents.Item.Desc.9101722",
-        "text": "Essence used for the evolution of \"Thunder Strike\".\\nWhen evolving, there is a chance to stun the target.\\n\\n[Prerequisites]\\nAbove attack enhancement level +9"
+        "text": "Essence used in the evolution of \"Thunder Strike\".\\nWhen evolving, there is a chance to stun the target.\\n\\n[Prerequisite]\\nAbove attack power enhancement level +9"
     },
     "97100374": {
         "deprecated": false,
@@ -2612,7 +2612,7 @@
         "Dev_Desc": "극한의 정수 : 암흑살 (각인)",
         "id": 97100375,
         "alias": "Contents.Item.Desc.9101724",
-        "text": "Essence used to evolve \"Dark Death\".\\nWhen evolving, there is a chance to decrease the target's accuracy by 10 for 3 seconds."
+        "text": "Essence used to evolve \"Dark Death\".\\nWhen evolving, there is a chance to decrease the hit of non-boss targets by 10 for 3 seconds."
     },
     "97100376": {
         "deprecated": false,
@@ -2633,14 +2633,14 @@
         "Dev_Desc": "극한의 정수 : 그림자봉인 (각인)",
         "id": 97100378,
         "alias": "Contents.Item.Desc.9101744",
-        "text": "Essence used to evolve \"Shadow Seal\".\\nWhen evolving, movement speed decreases by 35% while silenced and damage received from non-boss targets increases by 3%."
+        "text": "Essence used to evolve \"Shadow Seal\".\\nWhen evolving, movement speed decreases by 35% and damage taken by the target increases by 3% during silence."
     },
     "97100379": {
         "deprecated": false,
         "Dev_Desc": "돌파의 정수 : 그림자봉인 (각인)",
         "id": 97100379,
         "alias": "Contents.Item.Desc.9101745",
-        "text": "Essence used to evolve \"Shadow Seal\".\\nWhen evolving, the duration of silence increases by 2 seconds. During silence, the opponent's Soul Deterrence is reduced by 5% and damage received from non-boss targets is increased by 7%.\\n\\n[Prerequisites]\\nMore than +9 in defense enhancement level"
+        "text": "Essence used to evolve \"Shadow Seal\".\\nWhen evolving, the duration of silence increases by 2 seconds. During silence, the opponent's Soul Deterrence is reduced by 5% and the target's damage taken is increased by 7%.\\n\\n[Prerequisites]\\nStrengthening Level +9 or higher"
     },
     "97100380": {
         "deprecated": false,
@@ -2745,7 +2745,7 @@
         "Dev_Desc": "돌파의 정수 : 월섬 (각인)",
         "id": 97100394,
         "alias": "Contents.Item.Desc.9101748",
-        "text": "Essence used to evolve \"Walsum\".\\nWhen evolving, the damage of \"Walsum\" increases. When using \"Thunder Strike\", there is a 100% chance to reset and activate the cooldown of \"Walsum\".\\n\\n[Prerequisites]\\nAbove attack enhancement level +9"
+        "text": "Essence used to evolve \"Walsum\".\\nWhen evolving, the damage of \"Walsum\" increases. When using \"Thunder Strike\", there is a 100% chance that the cooldown of \"Walsum\" is reset and activated.\\n\\n[Prerequisites]\\nAbove attack enhancement level +9"
     },
     "97100395": {
         "deprecated": false,

@@ -30991,85 +30991,659 @@
     "8004546": {
         "Dev_Desc": "협행 / 모든 협행 수락 버튼",
         "Original_Text": "모든 협행 수락",
-        "English_Text": "Accept all cooperation",
+        "English_Text": "Accept all collaborations",
         "Russian_Text": "",
         "Chinese_Text": "接受所有合作"
     },
     "8004547": {
         "Dev_Desc": "협행 / 모든 보상 수령 버튼",
         "Original_Text": "모든 보상 수령",
-        "English_Text": "Every compensation receipt",
+        "English_Text": "Receive all rewards",
         "Russian_Text": "",
-        "Chinese_Text": "每一个补偿收据"
+        "Chinese_Text": "领取所有奖励"
     },
     "8004548": {
         "Dev_Desc": "설정 / 조작 / 편의 / 협행 완료 시 임무 목록에서 모든 보상 수령",
         "Original_Text": "협행 완료 시 임무 목록에서 모든 보상 수령",
-        "English_Text": "Call all compensation from the list of missions",
+        "English_Text": "Receive all rewards from the mission list upon completion of the cooperative",
         "Russian_Text": "",
-        "Chinese_Text": "从任务列表中致电所有赔偿"
+        "Chinese_Text": "完成合作后获得任务列表中的所有奖励"
     },
     "8004549": {
         "Dev_Desc": "설정 / 조작 / 편의 / 협행 완료 시 임무 목록에서 모든 보상 수령 / 설명",
         "Original_Text": "임무 목록의 완료 협행 선택 시, 보상 수령 가능 상태인 모든 협행의 보상을 한 번에 수령합니다.",
-        "English_Text": "When you select the completion of the mission list, you will receive the compensation of all the parties that are compensated for compensation.",
+        "English_Text": "When you select Completion Companion in the mission list, you will receive the rewards of all companions that are eligible for rewards at once.",
         "Russian_Text": "",
-        "Chinese_Text": "选择任务列表的完成时，您将获得补偿赔偿的所有各方的补偿。"
+        "Chinese_Text": "当您在任务列表中选择完成同伴时，您将一次性获得所有符合奖励条件的同伴的奖励。"
     },
     "8004550": {
         "Dev_Desc": "설정 / 조작 / 편의 / 아이템 자동 사용 그룹",
         "Original_Text": "우선 순위에 따라 같은 종류 소모품 자동 사용",
-        "English_Text": "Automatically use the same kind of consumables according to priority",
+        "English_Text": "Automatically use consumables of the same type based on priority",
         "Russian_Text": "",
-        "Chinese_Text": "根据优先级自动使用相同类型的消耗品"
+        "Chinese_Text": "根据优先级自动使用同类型的消耗品"
     },
     "8004551": {
         "Dev_Desc": "설정 / 조작 / 편의 / 아이템 자동 사용 그룹 / 설명",
         "Original_Text": "자동 사용 시, 같은 종류의 소모품을 우선 순위에 따라 사용합니다.\\n높은 등급 -> 이벤트 -> 각인 -> 비각인 순",
-        "English_Text": "When using automatic use, use the same kind of consumables according to priority. \\n High grade -> Event -> Engraving -> Non-Non",
+        "English_Text": "When used automatically, consumables of the same type are used in order of priority.\\nHighest grade -> Event -> Engraved -> Non-engraved",
         "Russian_Text": "",
-        "Chinese_Text": "使用自动使用时，请根据优先级使用相同类型的消耗品。 \\n高年级 - >事件 - >雕刻 - >非非"
+        "Chinese_Text": "自动使用时，按优先顺序使用相同类型的消耗品。\\n最高等级 -> 事件 -> 雕刻 -> 非雕刻"
     },
     "8004552": {
         "Dev_Desc": "신규/복귀 혜택 테스트용 데이터",
         "Original_Text": "신규 혜택 테스트 탭",
-        "English_Text": "New Benefits Test Tab",
+        "English_Text": "New Benefit Test Tab",
         "Russian_Text": "",
-        "Chinese_Text": "新的好处测试选项卡"
+        "Chinese_Text": "新的效益测试选项卡"
     },
     "8004553": {
         "Dev_Desc": "신규/복귀 혜택 테스트용 데이터",
         "Original_Text": "복귀 혜택 테스트 탭",
-        "English_Text": "Return Benefits Test Tab",
+        "English_Text": "Return Benefit Test Tab",
         "Russian_Text": "",
-        "Chinese_Text": "返回优势测试选项卡"
+        "Chinese_Text": "退货福利测试选项卡"
     },
     "8004554": {
         "Dev_Desc": "신규/복귀 혜택 테스트용 데이터",
         "Original_Text": "신규&복귀 혜택 테스트 탭",
-        "English_Text": "new",
+        "English_Text": "New & Returning Benefit Test Tab",
         "Russian_Text": "",
-        "Chinese_Text": "新的"
+        "Chinese_Text": "新的和返回的好处测试标签"
     },
     "8004555": {
         "Dev_Desc": "보패 / 보패 장착 / 세트효과팝업 / 없음",
         "Original_Text": "세트 효과를 보유한 보패가 없습니다.",
-        "English_Text": "There is no value that has a set effect.",
+        "English_Text": "There are no trophies with set effects.",
         "Russian_Text": "",
-        "Chinese_Text": "没有具有集合效果的值。"
+        "Chinese_Text": "没有设置效果的奖杯。"
     },
     "8004556": {
         "Dev_Desc": "무공 / 특화 무공 / 이름 / 장검",
         "Original_Text": "단검 특화 무공",
-        "English_Text": "Dagger specialization",
+        "English_Text": "Dagger Specialization",
         "Russian_Text": "",
-        "Chinese_Text": "匕首专业化"
+        "Chinese_Text": "匕首专精"
     },
     "8004561": {
         "Dev_Desc": "캐시상점 / 서브 탭 / 패키지 탭 / 주간월간 상품",
         "Original_Text": "주간/월간 상품",
-        "English_Text": "Weekly / Monthly Goods",
+        "English_Text": "Weekly/Monthly Offers",
         "Russian_Text": "",
-        "Chinese_Text": "每周/每月货物"
+        "Chinese_Text": "每周/每月优惠"
+    },
+    "8004562": {
+        "Dev_Desc": "시스템 설정 / 자동 분해 / 대상 종류",
+        "Original_Text": "대상 종류",
+        "English_Text": "target type",
+        "Russian_Text": "",
+        "Chinese_Text": "目标类型"
+    },
+    "8004563": {
+        "Dev_Desc": "시스템 설정 / 자동 분해 / 대상 종류 / 장비",
+        "Original_Text": "장비",
+        "English_Text": "equipment",
+        "Russian_Text": "",
+        "Chinese_Text": "设备"
+    },
+    "8004564": {
+        "Dev_Desc": "시스템 설정 / 자동 분해 / 대상 종류 / 보패",
+        "Original_Text": "보패",
+        "English_Text": "sledgehammer",
+        "Russian_Text": "",
+        "Chinese_Text": "大锤"
+    },
+    "8004565": {
+        "Dev_Desc": "제작 커스텀 탭 이름 / 비수",
+        "Original_Text": "비수",
+        "English_Text": "dagger",
+        "Russian_Text": "",
+        "Chinese_Text": "匕首"
+    },
+    "8004566": {
+        "Dev_Desc": "블레이드 효과 극마지체Lv.1",
+        "Original_Text": "블레이드 효과 극마지체 Lv.1",
+        "English_Text": "Blade Effect Ultimate Lv.1",
+        "Russian_Text": "",
+        "Chinese_Text": "刀锋效果终极 Lv.1"
+    },
+    "8004567": {
+        "Dev_Desc": "블레이드 효과 극마지체Lv.2",
+        "Original_Text": "블레이드 효과 극마지체 Lv.2",
+        "English_Text": "Blade Effect Ultimate Lv.2",
+        "Russian_Text": "",
+        "Chinese_Text": "刀锋效果终极 Lv.2"
+    },
+    "8004568": {
+        "Dev_Desc": "영웅 5성/블레이드 효과 극마지체Lv.3",
+        "Original_Text": "블레이드 효과 극마지체 Lv.3\\n무공 사용 시 소울 발동",
+        "English_Text": "Blade Effect Extreme Lv.3\\nSoul is activated when using no attack",
+        "Russian_Text": "",
+        "Chinese_Text": "Blade Effect Extreme Lv.3\\n不使用攻击时激活灵魂"
+    },
+    "8004569": {
+        "Dev_Desc": "블레이드 효과 극마지체Lv.3",
+        "Original_Text": "블레이드 효과 극마지체 Lv.3",
+        "English_Text": "Blade Effect Ultimate Lv.3",
+        "Russian_Text": "",
+        "Chinese_Text": "刀锋效果终极 Lv.3"
+    },
+    "8004570": {
+        "Dev_Desc": "전설 3성/블레이드 효과 극마지체Lv.4",
+        "Original_Text": "블레이드 효과 극마지체 Lv.4\\n무공 사용 시 소울 발동",
+        "English_Text": "Blade Effect Extreme Lv.4\\nSoul is activated when using no attack",
+        "Russian_Text": "",
+        "Chinese_Text": "Blade Effect Extreme Lv.4\\n不使用攻击时激活灵魂"
+    },
+    "8004571": {
+        "Dev_Desc": "전설 5성/블레이드 효과 극마지체Lv.5",
+        "Original_Text": "블레이드 효과 극마지체 Lv.5\\n무공 공격 속도 증가",
+        "English_Text": "Blade Effect Extreme Lv.5\\nIncrease attack speed without attack",
+        "Russian_Text": "",
+        "Chinese_Text": "Blade Effect Extreme Lv.5\\n无攻击提升攻击速度"
+    },
+    "8004572": {
+        "Dev_Desc": "설정 / 정보 / 전투 / 전투 집중 모드",
+        "Original_Text": "소속 연합",
+        "English_Text": "affiliation",
+        "Russian_Text": "",
+        "Chinese_Text": "联系"
+    },
+    "8004573": {
+        "Dev_Desc": "설정 / 정보 / 전투 / 전투 집중 모드",
+        "Original_Text": "그 외",
+        "English_Text": "etc",
+        "Russian_Text": "",
+        "Chinese_Text": "ETC"
+    },
+    "8004574": {
+        "Dev_Desc": "거래소 / 분류 / 무기 / 비수",
+        "Original_Text": "비수",
+        "English_Text": "dagger",
+        "Russian_Text": "",
+        "Chinese_Text": "匕首"
+    },
+    "8004575": {
+        "Dev_Desc": "거래소 / 분류 / 무공 / 비수",
+        "Original_Text": "암살비문",
+        "English_Text": "assassination inscription",
+        "Russian_Text": "",
+        "Chinese_Text": "暗杀铭文"
+    },
+    "8004576": {
+        "Dev_Desc": "소셜모션 / ",
+        "Original_Text": "1호 자세",
+        "English_Text": "No. 1 posture",
+        "Russian_Text": "",
+        "Chinese_Text": "1号姿势"
+    },
+    "8004577": {
+        "Dev_Desc": "소셜모션 / ",
+        "Original_Text": "2호 자세",
+        "English_Text": "No. 2 posture",
+        "Russian_Text": "",
+        "Chinese_Text": "2号姿势"
+    },
+    "8004578": {
+        "Dev_Desc": "소셜모션 / ",
+        "Original_Text": "3호 자세",
+        "English_Text": "No. 3 posture",
+        "Russian_Text": "",
+        "Chinese_Text": "3号姿势"
+    },
+    "8004579": {
+        "Dev_Desc": "소셜모션 / ",
+        "Original_Text": "4호 자세",
+        "English_Text": "No. 4 posture",
+        "Russian_Text": "",
+        "Chinese_Text": "4号姿势"
+    },
+    "8004580": {
+        "Dev_Desc": "소셜모션 / ",
+        "Original_Text": "5호 자세",
+        "English_Text": "No. 5 posture",
+        "Russian_Text": "",
+        "Chinese_Text": "5号姿势"
+    },
+    "8004581": {
+        "Dev_Desc": "복구술사 탭 / 경험치",
+        "Original_Text": "경험치",
+        "English_Text": "Experience",
+        "Russian_Text": "",
+        "Chinese_Text": "经验"
+    },
+    "8004582": {
+        "Dev_Desc": "복구술사 탭 / 물품",
+        "Original_Text": "물품",
+        "English_Text": "article",
+        "Russian_Text": "",
+        "Chinese_Text": "文章"
+    },
+    "8004583": {
+        "Dev_Desc": "복구술사 탭 / 후유증",
+        "Original_Text": "후유증",
+        "English_Text": "aftereffect",
+        "Russian_Text": "",
+        "Chinese_Text": "后劲"
+    },
+    "8004584": {
+        "Dev_Desc": "복구술사 후유증 리스트 / 타이틀",
+        "Original_Text": "후유증",
+        "English_Text": "aftereffect",
+        "Russian_Text": "",
+        "Chinese_Text": "后劲"
+    },
+    "8004585": {
+        "Dev_Desc": "복구술사 유료 후유증 회복 팝업 - Desc",
+        "Original_Text": "후유증을 회복하시겠습니까?",
+        "English_Text": "Do you want to recover from the aftermath?",
+        "Russian_Text": "",
+        "Chinese_Text": "你想从后果中恢复过来吗？"
+    },
+    "8004586": {
+        "Dev_Desc": "복구술사 유료 후유증 회복 팝업 - 회복 비용 Desc",
+        "Original_Text": "회복 비용 ",
+        "English_Text": "recovery cost",
+        "Russian_Text": "",
+        "Chinese_Text": "回收成本"
+    },
+    "8004587": {
+        "Dev_Desc": "복구술사 / 충전횟수 Desc",
+        "Original_Text": "충전 횟수 <arg p=[1:integer]/>회",
+        "English_Text": "Charges <arg p=[1:integer]/>",
+        "Russian_Text": "",
+        "Chinese_Text": "费用 <arg p=[1:integer]/>"
+    },
+    "8004588": {
+        "Dev_Desc": "제작 커스텀 탭 이름 / 행복의 주화",
+        "Original_Text": "행복의 반달호수",
+        "English_Text": "Half Moon Lake of Happiness",
+        "Russian_Text": "",
+        "Chinese_Text": "半月幸福湖"
+    },
+    "8004589": {
+        "Dev_Desc": "복구술사 / 후유증 / 회복 버튼",
+        "Original_Text": "회복",
+        "English_Text": "recovery",
+        "Russian_Text": "",
+        "Chinese_Text": "恢复"
+    },
+    "8004590": {
+        "Dev_Desc": "복구술사 / 후유증 / 후유증 내역 없음",
+        "Original_Text": "후유증이 없습니다.",
+        "English_Text": "No sequelae.",
+        "Russian_Text": "",
+        "Chinese_Text": "没有后遗症。"
+    },
+    "8004591": {
+        "Dev_Desc": "복구술사 / 후유증 / 무료 회복 버튼",
+        "Original_Text": "무료 회복",
+        "English_Text": "free recovery",
+        "Russian_Text": "",
+        "Chinese_Text": "免费恢复"
+    },
+    "8004592": {
+        "Dev_Desc": "무공UI/선택안내",
+        "Original_Text": "무공을 선택해주세요.",
+        "English_Text": "Please select a martial art.",
+        "Russian_Text": "",
+        "Chinese_Text": "请选择武术。"
+    },
+    "8004593": {
+        "Dev_Desc": "무공UI/습득안내",
+        "Original_Text": "2개 이상의 무공 습득 시 사용할 수 있습니다.",
+        "English_Text": "Can be used when acquiring 2 or more martial arts skills.",
+        "Russian_Text": "",
+        "Chinese_Text": "获得2个或更多武术技能时可以使用。"
+    },
+    "8004594": {
+        "Dev_Desc": "무공UI/순서변경",
+        "Original_Text": "무공 순서를 변경하였습니다.",
+        "English_Text": "Changed the order of martial arts.",
+        "Russian_Text": "",
+        "Chinese_Text": "改变了武术的顺序。"
+    },
+    "8004595": {
+        "Dev_Desc": "문파 / 탭 이름 / 문파",
+        "Original_Text": "문파",
+        "English_Text": "clan",
+        "Russian_Text": "",
+        "Chinese_Text": "氏族"
+    },
+    "8004596": {
+        "Dev_Desc": "문파 / 탭 이름 / 연합",
+        "Original_Text": "연합",
+        "English_Text": "Union",
+        "Russian_Text": "",
+        "Chinese_Text": "联盟"
+    },
+    "8004597": {
+        "Dev_Desc": "연합 / 가입중 탭 / 연합 정보",
+        "Original_Text": "연합 정보",
+        "English_Text": "federation information",
+        "Russian_Text": "",
+        "Chinese_Text": "联邦信息"
+    },
+    "8004598": {
+        "Dev_Desc": "연합 / 가입중 탭 / 소속 문파",
+        "Original_Text": "소속 문파",
+        "English_Text": "affiliation",
+        "Russian_Text": "",
+        "Chinese_Text": "联系"
+    },
+    "8004599": {
+        "Dev_Desc": "연합 / 미가입 탭 / 추천 연합",
+        "Original_Text": "추천 연합",
+        "English_Text": "Referral Association",
+        "Russian_Text": "",
+        "Chinese_Text": "推荐协会"
+    },
+    "8004600": {
+        "Dev_Desc": "연합 / 미가입 탭 / 가입 관리",
+        "Original_Text": "가입 관리",
+        "English_Text": "Subscription Management",
+        "Russian_Text": "",
+        "Chinese_Text": "订阅管理"
+    },
+    "8004601": {
+        "Dev_Desc": "연합 / 미가입 탭 / 연합 창설",
+        "Original_Text": "연합 창설",
+        "English_Text": "Founding of the Union",
+        "Russian_Text": "",
+        "Chinese_Text": "联盟的成立"
+    },
+    "8004602": {
+        "Dev_Desc": "연합 / 연합 정보 / 정보 / 대표 문파",
+        "Original_Text": "대표 문파",
+        "English_Text": "representative clan",
+        "Russian_Text": "",
+        "Chinese_Text": "代表氏族"
+    },
+    "8004603": {
+        "Dev_Desc": "연합 / 연합 정보 / 정보 / 연합장",
+        "Original_Text": "연합장",
+        "English_Text": "union leader",
+        "Russian_Text": "",
+        "Chinese_Text": "工会领袖"
+    },
+    "8004604": {
+        "Dev_Desc": "연합 / 연합 정보 / 정보 / 연합원 수",
+        "Original_Text": "연합원 수",
+        "English_Text": "number of union members",
+        "Russian_Text": "",
+        "Chinese_Text": "工会会员人数"
+    },
+    "8004605": {
+        "Dev_Desc": "연합 / 연합 정보 / 관리 버튼",
+        "Original_Text": "연합 관리",
+        "English_Text": "federation management",
+        "Russian_Text": "",
+        "Chinese_Text": "联邦管理"
+    },
+    "8004606": {
+        "Dev_Desc": "연합 / 연합 정보 / 공지사항 기본 문구",
+        "Original_Text": "연합 공지사항을 작성해보세요.\\n(최대 한글 50자, 영문 100자)",
+        "English_Text": "Write a joint notice.\\n(Maximum 50 Korean characters, 100 English characters)",
+        "Russian_Text": "",
+        "Chinese_Text": "写联合通知。\\n（最多50个韩文字符，100个英文字符）"
+    },
+    "8004607": {
+        "Dev_Desc": "문파 / 문파 정보 / 적대동맹 / 안내 버튼",
+        "Original_Text": "아군/적군 우선 순위",
+        "English_Text": "Friendly/Enemy Priority",
+        "Russian_Text": "",
+        "Chinese_Text": "友/敌优先"
+    },
+    "8004608": {
+        "Dev_Desc": "문파 / 문파 정보 / 적대동맹 / 안내 텍스트",
+        "Original_Text": "아군/적군은 아래 우선 순위에 따라 적용됩니다.\\n1. 동일 연합 소속\\n2. 소속 연합의 동맹/적대 연합\\n3. 소속 연합의 동맹/적대 문파\\n4. 소속 문파의 동맹/적대 연합\\n5. 소속 문파의 동맹/적대 문파",
+        "English_Text": "Allies/enemy are applied according to the priority below.\\n1. belonging to the same alliance\\n2. Alliance/hostile alliance of your alliance\\n3. Allies/hostile factions of your alliance\\n4. Alliance/hostile alliance of your clan\\n5. Allies/hostile factions of the faction belonging to it",
+        "Russian_Text": "",
+        "Chinese_Text": "根据以下优先级应用盟友/敌人。\\n1.属于同一个联盟\\n2.你联盟的联盟/敌对联盟\\n3.你联盟的盟友/敌对派系\\n4.你氏族的联盟/敌对联盟\\n5.所属派系的盟友/敌对派系"
+    },
+    "8004609": {
+        "Dev_Desc": "연합 / 연합 정보 / 관리 / 가입,해산 / 연합 소개",
+        "Original_Text": "연합 소개",
+        "English_Text": "About the Union",
+        "Russian_Text": "",
+        "Chinese_Text": "关于联盟"
+    },
+    "8004610": {
+        "Dev_Desc": "연합 / 연합 정보 / 관리 / 가입,해산 / 연합 소개 / 기본 문구",
+        "Original_Text": "미래의 연합원들에게 연합을 소개해주세요.\\n(최대 한글 15자, 영문 30자)",
+        "English_Text": "Please introduce the alliance to future alliance members.\\n(Maximum 15 Korean characters, 30 English characters)",
+        "Russian_Text": "",
+        "Chinese_Text": "请向未来的联盟成员介绍联盟。\\n（最多15个韩文字符，30个英文字符）"
+    },
+    "8004611": {
+        "Dev_Desc": "연합 / 연합 정보 / 관리 / 가입,해산 / 연합 해산",
+        "Original_Text": "연합 해산",
+        "English_Text": "dissolution of the union",
+        "Russian_Text": "",
+        "Chinese_Text": "工会解散"
+    },
+    "8004612": {
+        "Dev_Desc": "연합 / 연합 정보 / 관리 / 가입,해산 / 연합 해산 / 안내",
+        "Original_Text": "연합 해산 시 지금까지 활동 이력이 모두 사라집니다.\\n해산 후 모든 정보는 복구할 수 없습니다.",
+        "English_Text": "When the alliance is disbanded, all activity history until now will be lost.\\nAfter disbanding, all information cannot be recovered.",
+        "Russian_Text": "",
+        "Chinese_Text": "联盟解散后，到现在为止的所有活动记录都将丢失。\\n解散后，所有信息都无法恢复。"
+    },
+    "8004613": {
+        "Dev_Desc": "연합 / 연합 정보 / 관리 / 가입,해산 / 연합 해산 버튼",
+        "Original_Text": "연합 해산",
+        "English_Text": "dissolution of the union",
+        "Russian_Text": "",
+        "Chinese_Text": "工会解散"
+    },
+    "8004614": {
+        "Dev_Desc": "연합 / 연합 정보 / 관리 / 문장 / 문장 위 타이틀",
+        "Original_Text": "연합 문장",
+        "English_Text": "united heraldry",
+        "Russian_Text": "",
+        "Chinese_Text": "联合纹章"
+    },
+    "8004615": {
+        "Dev_Desc": "연합 / 소속 문파 / 소속 문파",
+        "Original_Text": "소속 문파 (<arg p=[1:integer]/>/<arg p=[2:integer]/>)",
+        "English_Text": "Affiliation (<arg p=[1:integer]/>/<arg p=[2:integer]/>)",
+        "Russian_Text": "",
+        "Chinese_Text": "隶属关系 (<arg p=[1:integer]/>/<arg p=[2:integer]/>)"
+    },
+    "8004616": {
+        "Dev_Desc": "연합 / 소속 문파 / 가입 신청",
+        "Original_Text": "가입 신청 (<arg p=[1:integer]/>/<arg p=[2:integer]/>)",
+        "English_Text": "Subscribe (<arg p=[1:integer]/>/<arg p=[2:integer]/>)",
+        "Russian_Text": "",
+        "Chinese_Text": "订阅 (<arg p=[1:integer]/>/<arg p=[2:integer]/>)"
+    },
+    "8004617": {
+        "Dev_Desc": "연합 / 소속 문파 / 가입 초대",
+        "Original_Text": "가입 초대 (<arg p=[1:integer]/>/<arg p=[2:integer]/>)",
+        "English_Text": "Invite to join (<arg p=[1:integer]/>/<arg p=[2:integer]/>)",
+        "Russian_Text": "",
+        "Chinese_Text": "邀请加入 (<arg p=[1:integer]/>/<arg p=[2:integer]/>)"
+    },
+    "8004618": {
+        "Dev_Desc": "연합 / 소속 문파 / 컬럼 / 문파",
+        "Original_Text": "문파",
+        "English_Text": "clan",
+        "Russian_Text": "",
+        "Chinese_Text": "氏族"
+    },
+    "8004619": {
+        "Dev_Desc": "연합 / 소속 문파 / 컬럼 / 직위",
+        "Original_Text": "직위",
+        "English_Text": "spot",
+        "Russian_Text": "",
+        "Chinese_Text": "点"
+    },
+    "8004620": {
+        "Dev_Desc": "연합 / 소속 문파 / 컬럼 / 서버",
+        "Original_Text": "서버",
+        "English_Text": "server",
+        "Russian_Text": "",
+        "Chinese_Text": "服务器"
+    },
+    "8004621": {
+        "Dev_Desc": "연합 / 소속 문파 / 컬럼 / 레벨",
+        "Original_Text": "레벨",
+        "English_Text": "level",
+        "Russian_Text": "",
+        "Chinese_Text": "等级"
+    },
+    "8004622": {
+        "Dev_Desc": "연합 / 소속 문파 / 컬럼 / 문파원 수",
+        "Original_Text": "문파원 수",
+        "English_Text": "number of members",
+        "Russian_Text": "",
+        "Chinese_Text": "成员数量"
+    },
+    "8004623": {
+        "Dev_Desc": "연합 / 소속 문파 / 컬럼 / 문파장 접속 상태",
+        "Original_Text": "문파장 접속 상태",
+        "English_Text": "Moonwave connection status",
+        "Russian_Text": "",
+        "Chinese_Text": "月波连接状态"
+    },
+    "8004624": {
+        "Dev_Desc": "연합 / 소속 문파 / 컬럼 / 소개",
+        "Original_Text": "소개",
+        "English_Text": "Introduce",
+        "Russian_Text": "",
+        "Chinese_Text": "介绍"
+    },
+    "8004625": {
+        "Dev_Desc": "연합 / 소속 문파 / 컬럼 / 남은 시간",
+        "Original_Text": "남은 시간",
+        "English_Text": "Time remaining",
+        "Russian_Text": "",
+        "Chinese_Text": "剩余时间"
+    },
+    "8004626": {
+        "Dev_Desc": "연합 / 소속 문파 / 컬럼 / 가입 승인",
+        "Original_Text": "가입 승인",
+        "English_Text": "sign up approval",
+        "Russian_Text": "",
+        "Chinese_Text": "注册批准"
+    },
+    "8004627": {
+        "Dev_Desc": "연합 / 소속 문파 / 컬럼 / 초대 취소",
+        "Original_Text": "초대 취소",
+        "English_Text": "Cancel invitation",
+        "Russian_Text": "",
+        "Chinese_Text": "取消邀请"
+    },
+    "8004628": {
+        "Dev_Desc": "연합 / 소속 문파 / 없음1",
+        "Original_Text": "연합에 소속된 문파가 없습니다.",
+        "English_Text": "There are no factions belonging to the Union.",
+        "Russian_Text": "",
+        "Chinese_Text": "没有属于联盟的派系。"
+    },
+    "8004629": {
+        "Dev_Desc": "연합 / 소속 문파 / 없음2",
+        "Original_Text": "가입 초대를 통해 문파를 모집해보세요.",
+        "English_Text": "Recruit your clan by inviting them to join.",
+        "Russian_Text": "",
+        "Chinese_Text": "通过邀请他们加入来招募您的氏族。"
+    },
+    "8004630": {
+        "Dev_Desc": "연합 / 연합 창설 / 팝업 / 안내1",
+        "Original_Text": "연합 <textColor=[255:198:109:255]><arg p=[1:string]/></><eul/> 창설하시겠습니까?",
+        "English_Text": "Are you sure you want to create a federation <textColor=[255:198:109:255]><arg p=[1:string]/></><eul/>?",
+        "Russian_Text": "",
+        "Chinese_Text": "您确定要创建联合<textColor=[255:198:109:255]><arg p=[1:string]/></><eul/>吗？"
+    },
+    "8004631": {
+        "Dev_Desc": "연합 / 연합 창설 / 팝업 / 안내2",
+        "Original_Text": "연합 이름은 창설 이후 변경할 수 없습니다.",
+        "English_Text": "Federation names cannot be changed after creation.",
+        "Russian_Text": "",
+        "Chinese_Text": "创建后无法更改联合名称。"
+    },
+    "8004632": {
+        "Dev_Desc": "연합 / 소속 문파 / 가입 초대 / 초대 / 안내",
+        "Original_Text": "연합 가입 요청을 보낼 문파 이름을 입력하세요.",
+        "English_Text": "Enter the name of the faction to which the request to join the alliance will be sent.",
+        "Russian_Text": "",
+        "Chinese_Text": "输入要发送加入联盟的请求的派系名称。"
+    },
+    "8004633": {
+        "Dev_Desc": "연합 / 소속 문파 / 가입 초대 / 초대 / 기본 문구",
+        "Original_Text": "문파 이름 입력",
+        "English_Text": "Enter clan name",
+        "Russian_Text": "",
+        "Chinese_Text": "输入部落名称"
+    },
+    "8004634": {
+        "Dev_Desc": "연합 / 연합 정보 / 탈퇴 / 안내1",
+        "Original_Text": "연합을 탈퇴하시겠습니까?",
+        "English_Text": "Are you sure you want to leave the Union?",
+        "Russian_Text": "",
+        "Chinese_Text": "你确定要离开联盟吗？"
+    },
+    "8004635": {
+        "Dev_Desc": "연합 / 검색 / 결과 없음",
+        "Original_Text": "가입 조건에 맞는 문파가 없습니다.",
+        "English_Text": "There are no sects that match the membership conditions.",
+        "Russian_Text": "",
+        "Chinese_Text": "没有符合会员条件的教派。"
+    },
+    "8004636": {
+        "Dev_Desc": "연합 / 추천 연합 / 없음",
+        "Original_Text": "추천할 문파가 없습니다.",
+        "English_Text": "There is no sect to recommend.",
+        "Russian_Text": "",
+        "Chinese_Text": "没有教派可以推荐。"
+    },
+    "8004637": {
+        "Dev_Desc": "연합 / 가입 관리 / 가입 신청 / 없음",
+        "Original_Text": "가입 신청한 문파가 없습니다.",
+        "English_Text": "There are no clans that have applied for membership.",
+        "Russian_Text": "",
+        "Chinese_Text": "没有氏族申请加入。"
+    },
+    "8004638": {
+        "Dev_Desc": "연합 / 가입 관리 / 가입 초대 / 없음",
+        "Original_Text": "초대 받은 문파가 없습니다.",
+        "English_Text": "There are no clans invited.",
+        "Russian_Text": "",
+        "Chinese_Text": "没有被邀请的氏族。"
+    },
+    "8004639": {
+        "Dev_Desc": "연합 / 소속 문파 / 추방 / 팝업 / 안내2",
+        "Original_Text": "<arg p=[1:integer]/>개의 문파를 추방하시겠습니까?",
+        "English_Text": "Banish <arg p=[1:integer]/>factions?",
+        "Russian_Text": "",
+        "Chinese_Text": "驱逐<arg p=[1:integer]/>派系？"
+    },
+    "8004640": {
+        "Dev_Desc": "연합 / 직위 / 대표 문파",
+        "Original_Text": "대표 문파",
+        "English_Text": "representative clan",
+        "Russian_Text": "",
+        "Chinese_Text": "代表氏族"
+    },
+    "8004641": {
+        "Dev_Desc": "연합 / 직위 / 일반 문파",
+        "Original_Text": "일반 문파",
+        "English_Text": "general sect",
+        "Russian_Text": "",
+        "Chinese_Text": "一般教派"
+    },
+    "8004642": {
+        "Dev_Desc": "설정 / 정보 / 전투 / 전투 집중 모드",
+        "Original_Text": "동맹 연합",
+        "English_Text": "alliance",
+        "Russian_Text": "",
+        "Chinese_Text": "联盟"
+    },
+    "8004643": {
+        "Dev_Desc": "설정 / 정보 / 전투 / 전투 집중 모드",
+        "Original_Text": "적대 연합",
+        "English_Text": "hostile coalition",
+        "Russian_Text": "",
+        "Chinese_Text": "敌对联盟"
     }
 }

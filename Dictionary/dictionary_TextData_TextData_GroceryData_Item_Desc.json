@@ -19919,9 +19919,9 @@
     "99003830": {
         "Dev_Desc": "시간의 화려한 소울 소환서(11회)(이벤트)_220706 토벌전 이벤트 보상",
         "Original_Text": "사용 시 정해진 확률에 따라 소울을 획득할 수 있습니다.<br/>(등급: 상급 ~ 전설)",
-        "English_Text": "You can acquire the soul according to the probability of use. <br/> (Rating: Advanced ~ Legend)",
+        "English_Text": "When used, you can acquire a soul according to a set probability.<br/>(Rank: Advanced ~ Legendary)",
         "Russian_Text": "",
-        "Chinese_Text": "您可以根据使用可能性获取灵魂。 <br/>（评分：高级〜图例）"
+        "Chinese_Text": "使用时，可以按照设定的概率获得灵魂。<br/>（等级：高级~传奇）"
     },
     "99003831": {
         "Dev_Desc": "시간의 영웅 소울 소환서(1회)(이벤트)_220706 토벌전 이벤트 보상",
@@ -19989,106 +19989,911 @@
     "99003840": {
         "Dev_Desc": "소울 메이트 패스권",
         "Original_Text": "소울 메이트 패스 추가보상을 활성화할 수 있는 아이템입니다.\\n\\n* 주의\\n이벤트가 종료되면 패스 미션을 더 이상 진행할 수 없습니다.\\n이벤트 종료 후 일주일이 지나면 사용하지 못한 패스 포인트는 소멸되며 더 이상 교환이 불가합니다.",
-        "English_Text": "Item is an item that can activate additional compensation for Soulmate Pass. \\n\\n * Caution \\n If the event is terminated, the pass mission can no longer proceed. The pass points that are not used after a week after the event ends, It is not possible.",
+        "English_Text": "This item can activate additional Soul Mate Pass rewards.\\n\\n* Caution\\nWhen the event ends, you cannot proceed with the pass mission any more.\\nA week after the event ends, unused Pass Points will expire. Exchange is no longer possible.",
         "Russian_Text": "",
-        "Chinese_Text": "项目是一个可以激活灵魂伴侣通行证的额外补偿的项目。 \\n\\n *警告\\n如果事件终止，则可以不再继续传递任务。事件结束后一周后不使用的通行证，是不可能的。"
+        "Chinese_Text": "此物品可以激活额外的灵魂伴侣通行证奖励。\\n\\n*注意\\n活动结束后，您将无法继续进行通行证任务。\\n活动结束后一周，未使用的通行证积分将过期。交换不再可能。"
     },
     "99003841": {
         "Dev_Desc": "소울 메이트 재료 상자(이벤트)",
         "Original_Text": "사용 시 다음 물품을 모두 획득할 수 있습니다.\\n\\n- 천뢰석(각인) 30개\\n- 만년설(각인) 30개\\n- 천년화정(각인) 30개",
-        "English_Text": "You can acquire all the following items: \\n\\n - 30,000 people (engraved) 30 \\n - 30,000 people (engraved)",
+        "English_Text": "You can obtain all of the following items when used.\\n\\n- 30 Thunderstone (Imprinted)\\n- 30 Thousand Snow (Imprinted)\\n- 30 Thousand Years of Hwajeong (Imprinted)",
         "Russian_Text": "",
-        "Chinese_Text": "您可以获得以下所有项目：\\n\\n  -  30,000人（刻）30 \\n  -  30,000人（刻）"
+        "Chinese_Text": "使用时可以获得以下所有物品。\\n\\n- 30 雷石（印记）\\n- 30 000 雪（印记）\\n- 30 万年华精（印记）"
     },
     "99003842": {
         "Dev_Desc": "소울 메이트 특별 선물(이벤트)",
         "Original_Text": "사용 시 다음 물품을 모두 획득할 수 있습니다.\\n\\n- 잊혀진 영웅 무기 제작 비법서(각인)\\n- 잊혀진 영웅 방어구 제작 비법서(각인)\\n- 영웅 소울 선택 상자(각인)\\n- 희귀 수호령 소환서(1회)(이벤트)\\n- 영웅 의상 확정 주머니(이벤트)\\n- 소울 메이트 성장 상자(이벤트)",
-        "English_Text": "You can acquire all the following items: \\n\\n - Forgotten Hero Weapon Production Notes (Engraving) \\n - Forgotten Hero Armor Production Whole (Engraving) \\n - Hero Soul Selection Box (Engraving) \\n - (Event) \\n - Hero Costume Confirmation Pocket (Event) \\n - Soulmate Growth (Event)",
+        "English_Text": "You can obtain all of the following items when used.\\n\\n- Forgotten Hero's Weapon Crafting Secret (Engraving)\\n- Forgotten Hero's Armor Crafting Secret (Engraving)\\n- Hero's Soul Selection Box (Imprinted)\\n- Rare Guardian Spirit Summon Scroll (1 time) (Event)\\n- Hero Costume Confirmation Bag (Event)\\n- Soul Mate Growth Box (Event)",
         "Russian_Text": "",
-        "Chinese_Text": "您可以获得以下所有项目：\\n\\n忘记英雄武器制作票据（雕刻）\\n  - 忘记英雄盔甲制作整体（雕刻）\\n  - 英雄灵魂选择框（雕刻）\\n  - （事件）\\n  - 英雄服装确认口袋（活动）\\n  - 灵魂伴侣增长（活动）"
+        "Chinese_Text": "使用时可以获得以下所有物品。\\n\\n- 被遗忘的英雄的武器制作秘密（雕刻）\\n- 被遗忘的英雄的盔甲制作秘密（雕刻）\\n- 英雄的灵魂选择盒（印记）\\n- 稀有守护者灵魂召唤卷轴（1次）（活动）\\n- 英雄服装确认袋（活动）\\n- 灵魂伴侣成长箱（活动）"
     },
     "99003843": {
         "Dev_Desc": "소울 메이트 성장 상자(이벤트)",
         "Original_Text": "사용 시 다음 물품을 모두 획득할 수 있습니다.\\n\\n- 극락의 용봉탕(이벤트) 100개\\n- 월광정기(이벤트) 100개\\n- 공력수(각인) 10개\\n- 영약: 하수오(각인) 20개",
-        "English_Text": "You can acquire all the following items: \\n\\n - 100 months of the purpose of the month (event).",
+        "English_Text": "You can obtain all of the following items when used.\\n\\n- The Dragon Bongtang of Paradise (event) 100ea\\n- Moonlight Spirit (event) 100ea\\n- Spirit Water (engraving) 10ea\\n- Elixir: Hsuo (engraved) 20",
         "Russian_Text": "",
-        "Chinese_Text": "您可以获得以下所有项目：\\n\\n  -  100个月的月份（活动）。"
+        "Chinese_Text": "使用时可获得以下所有物品。\\n\\n- 天堂龙奉堂（活动）100ea\\n- 月光精灵（活动）100ea\\n- 灵水（雕刻）10ea\\n- 丹药：许（刻）20"
     },
     "99003844": {
         "Dev_Desc": "암살자 사전예약 보상 3종_AutoOpenBox",
         "Original_Text": "사용 시 다음 3종의 물품을 획득할 수 있습니다.\\n\\n- 칼날의 증표(이벤트)\\n- 칼날의 인장(이벤트)\\n- 칼날의 상자(이벤트)",
-        "English_Text": "You can acquire the following three items: \\n\\n - the name of the blade (event) \\n - Blade's tension (event) \\n - Blade box (event)",
+        "English_Text": "You can obtain the following 3 types of items when used.\\n\\n- Token of the Blade (Event)\\n- Seal of the Blade (Event)\\n- Box of Blades (Event)",
         "Russian_Text": "",
-        "Chinese_Text": "您可以获得以下三项：\\n\\n  - 刀片的名称（事件）\\n  - 刀片的张力（事件）\\n  - 刀片框（事件）"
+        "Chinese_Text": "使用时可获得以下 3 种物品。\\n\\n- 剑刃令牌（活动）\\n- 剑刃印章（活动）\\n- 剑之盒（活动）"
     },
     "99003845": {
         "Dev_Desc": "칼날의 증표(이벤트)",
         "Original_Text": "장비 도감에 사용되는 특별한 재료입니다.",
-        "English_Text": "It is a special material used for equipment is used.",
+        "English_Text": "A special material used in the Equipment Encyclopedia.",
         "Russian_Text": "",
-        "Chinese_Text": "它是用于设备的特殊材料。"
+        "Chinese_Text": "装备百科中使用的特殊材料。"
     },
     "99003846": {
         "Dev_Desc": "칼날의 상자(이벤트)",
         "Original_Text": "사용시 다음 물품을 모두 획득할 수 있습니다.\\n\\n- 희생의 영웅 소울 소환서(3회)(이벤트) 1개\\n- 희생의 빛나는 소울 소환서(11회)(이벤트) 5개\\n- 희생의 빛나는 수호령 소환서(11회)(이벤트) 5개\\n- 영웅 의상 주머니(이벤트) 5개 ",
-        "English_Text": "You can acquire all the following items: \\n\\n - the hero Soul summary (3 times) (event) (event) (event) (11 times) (11 times) (11 times) (event) (11 times) (event) (11 times) (event) Lord Summon (11 times) (11 times) (event) 5 \\n - Hero's costume pocket (event) 5",
+        "English_Text": "You can obtain all of the following items when used.\\n\\n- Hero of Sacrifice Soul Summon Scroll (3 times) (Event) 1 x\\n- Shining Soul Summon Scroll of Sacrifice (11 times) (Event) 5 x\\n - Shining Guardian Spirit of Sacrifice Summon Scroll (11 times) (Event) 5 x\\n- Hero Costume Pouch (Event) 5 x",
         "Russian_Text": "",
-        "Chinese_Text": "您可以获得以下所有项目：\\n\\n  - 英雄灵魂摘要（3次）（事件）（事件）（事件）（11次）（11次）（11次）（事件）（11次）（11次）（事件） （11次）（事件）主召唤（11次）（11次）（事件）5 \\n  - 英雄的服装口袋（活动）5"
+        "Chinese_Text": "使用时可以获得以下所有物品。\\n\\n- 牺牲英雄灵魂召唤卷轴（3次）（活动）1 x\\n- 闪耀灵魂召唤牺牲卷轴（11次）（活动）5 x\\ n - 光辉守护之祭灵召唤卷轴（11次）（活动）5 x\\n- 英雄服装袋（活动）5 x"
     },
     "99003847": {
         "Dev_Desc": "영롱한 야루의 소울 소환서(1회)(이벤트)_220511",
         "Original_Text": "사용 시 정해진 확률에 따라 소울을 획득할 수 있습니다.\\n(등급: 영웅 ~ 전설)",
-        "English_Text": "You can acquire Soul, depending on the probability of use. \\n (Rating: Hero ~ Legend)",
+        "English_Text": "When used, you can acquire souls according to a set probability.\\n(Rank: Heroic ~ Legendary)",
         "Russian_Text": "",
-        "Chinese_Text": "您可以取决于使用概率来获得灵魂。 \\n（评分：英雄〜图例）"
+        "Chinese_Text": "使用时，可以按照设定的概率获得灵魂。\\n（等级：英雄~传奇）"
     },
     "99003848": {
         "Dev_Desc": "찬란한 야루의 소울 소환서(1회)(이벤트)_220511",
         "Original_Text": "사용 시 정해진 확률에 따라 소울을 획득할 수 있습니다.\\n(등급: 희귀 ~ 영웅)",
-        "English_Text": "You can acquire a soul according to the probability of use. \\n (Rating: Rare ~ Hero)",
+        "English_Text": "You can acquire souls according to a set probability when used.\\n(Rare ~ Heroic)",
         "Russian_Text": "",
-        "Chinese_Text": "您可以根据使用可能性获得灵魂。 \\n（评分：罕见〜英雄）"
+        "Chinese_Text": "使用时可以按照设定的概率获得灵魂。\\n(稀有~英雄)"
     },
     "99003849": {
         "Dev_Desc": "빛나는 야루의 소울 소환서(1회)(이벤트)_220511",
         "Original_Text": "사용 시 정해진 확률에 따라 소울을 획득할 수 있습니다.\\n(등급: 희귀)",
-        "English_Text": "You can acquire the soul according to the probability of use. \\n (Rating: Rare)",
+        "English_Text": "When used, you can acquire a soul according to a set probability.\\n(Class: Rare)",
         "Russian_Text": "",
-        "Chinese_Text": "您可以根据使用可能性获取灵魂。 \\n（评分：罕见）"
+        "Chinese_Text": "使用时，可以按照设定的概率获得灵魂。\\n(等级：稀有)"
     },
     "99003850": {
         "Dev_Desc": "영롱한 야루의 수호령 소환서(1회)(이벤트)_220511",
         "Original_Text": "사용 시 정해진 확률에 따라 수호령을 획득할 수 있습니다.\\n(등급: 영웅 ~ 전설)",
-        "English_Text": "Depending on the probability of use, you can acquire the Lord. \\n (Rating: Hero ~ Legend)",
+        "English_Text": "When used, you can acquire a guardian spirit according to a set probability.\\n(Rank: Heroic ~ Legendary)",
         "Russian_Text": "",
-        "Chinese_Text": "取决于使用的可能性，您可以获得主。 \\n（评分：英雄〜图例）"
+        "Chinese_Text": "使用时，可以按照设定的概率获得守护灵。\\n（等级：英雄~传奇）"
     },
     "99003851": {
         "Dev_Desc": "찬란한 야루의 수호령 소환서(1회)(이벤트)_220511",
         "Original_Text": "사용 시 정해진 확률에 따라 수호령을 획득할 수 있습니다.\\n(등급: 희귀 ~ 영웅)",
-        "English_Text": "Depending on the probability of use, you can acquire the Lord. \\n (Rating: Rare ~ Hero)",
+        "English_Text": "When used, you can acquire a guardian spirit according to a set probability.\\n(Rare ~ Heroic)",
         "Russian_Text": "",
-        "Chinese_Text": "取决于使用的可能性，您可以获得主。 \\n（评分：罕见〜英雄）"
+        "Chinese_Text": "使用时，可以按照设定的概率获得守护灵。\\n(稀有~英雄)"
     },
     "99003852": {
         "Dev_Desc": "빛나는 야루의 수호령 소환서(1회)(이벤트)_220511",
         "Original_Text": "사용 시 정해진 확률에 따라 수호령을 획득할 수 있습니다.\\n(등급: 희귀)",
-        "English_Text": "Depending on the probability of use, you can acquire the Lord. \\n (Rating: Rare)",
+        "English_Text": "When used, you can acquire a guardian spirit according to a set probability.\\n(Class: Rare)",
         "Russian_Text": "",
-        "Chinese_Text": "取决于使用的可能性，您可以获得主。 \\n（评分：罕见）"
+        "Chinese_Text": "使用时，可以按照设定的概率获得守护灵。\\n(等级：稀有)"
     },
     "99003853": {
         "Dev_Desc": "빛나는 경지의 주화",
         "Original_Text": "더 높은 깨달음의 경지에 도달한 자에게 제공되는 주화입니다.\\n장비도감에 사용할 수 있습니다.",
-        "English_Text": "It is a coin that is provided to those who have reached a higher enlightenment. \\n Can be used for equipment diagrams.",
+        "English_Text": "This coin is given to those who have reached a higher level of enlightenment.\\nCan be used in the Equipment Encyclopedia.",
         "Russian_Text": "",
-        "Chinese_Text": "这是一个达到更高启蒙的人的硬币。 \\n可用于设备图。"
+        "Chinese_Text": "这枚钱币是送给悟道更高的人的。\\n可以在装备百科中使用。"
     },
     "99003854": {
         "Dev_Desc": "전설 의상 확정 주머니(각인)",
         "Original_Text": "사용 시 정해진 확률에 따라 다음 물품 중 1종을 획득할 수 있습니다.\\n\\n- 초열의 아수라\\n- 진혼의 노래\\n- 하얀 노을\\n- 겨울의 축제\\n- 적귀혼\\n- 가을의 축제\\n- 금귀혼\\n- 잊혀진 약속",
-        "English_Text": "Depending on the probability of use, you can acquire one of the following items: \\n\\n - the song of the feet \\n - the song of the sword \\n - white glow \\n - white festival \\n - a wedding ceremony \\n - the festival of autumn \\n - \\n - forgotten promise",
+        "English_Text": "Depending on the probability of use, you can obtain one of the following items according to a set probability.\\n\\n- Asura of Fever\\n- Requiem's ​​Song\\n- White Sunset\\n- Winter Festival\\n- Red Ghost\\n- Autumn Festival\\n- Golden Ghost\\n- Forgotten Promise",
         "Russian_Text": "",
-        "Chinese_Text": "根据使用概率，您可以获得以下项目之一：\\n\\n  - 脚的歌曲\\n  - 剑的歌曲\\n  - 白色辉光\\n  - 白节\\n  - 婚礼\\n  - 秋天的节日\\n  -  \\n  - 忘记了承诺"
+        "Chinese_Text": "根据使用概率，可以按照设定的概率获得以下物品之一。\\n\\n- 狂热修罗\\n- 安魂曲\\n- 白色落日\\n- 冬祭\\n- 红色鬼\\n- 中秋节\\n- 金鬼\\n- 遗忘的承诺"
+    },
+    "99003855": {
+        "Dev_Desc": "희귀 무공서 선택 상자(비수)(각인)",
+        "Original_Text": "사용 시 희귀 비수 무공서를 획득할 수 있습니다.",
+        "English_Text": "When used, you can obtain a rare dagger martial book.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时可以获得稀有的匕首武书。"
+    },
+    "99003856": {
+        "Dev_Desc": "탄생의 비약(이벤트)_220706",
+        "Original_Text": "사용 시 탄생의 기운이 몸에 스며듭니다.\\n효과는 30분간 지속되며, 효과 유지 시간 동안 재사용 및 해제가 불가능합니다.\\n\\n[사용 효과]\\n경험치 획득량 증가 +30%\\n소울 친화력 +3\\n소울 발동률 +1%",
+        "English_Text": "The energy of birth permeates the body when used.\\nThe effect lasts for 30 minutes and cannot be reused or canceled during the duration of the effect.\\n\\n[Use effect]\\nExperience gain +30%\\n Soul Affinity +3\\nSoul Activation Rate +1%",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时诞生的能量渗透全身。\\n效果持续30分钟，在效果持续期间不能重复使用或取消。\\n\\n[使用效果]\\n经验增益+30%\\n灵魂亲和度+3 \\n灵魂激活率 +1%"
+    },
+    "99003857": {
+        "Dev_Desc": "불꽃의 염화 무기 상자(각인)",
+        "Original_Text": "사용 시 정해진 확률에 따라 다음 물품 중 1종을 획득할 수 있습니다.\\n\\n- 불꽃의 염화검(각인)\\n- 불꽃의 염화권갑(각인)\\n- 불꽃의 염화기공패(각인)\\n- 불꽃의 염화도끼(각인)\\n- 불꽃의 염화궁(각인)\\n- 불꽃의 염화법종(각인)\\n- 불꽃의 염화비수(각인)",
+        "English_Text": "You can obtain one of the following items according to a set probability when used.\\n\\n- Flame Chloride Sword (Imprint)\\n- Flame Chloride Gauntlet (Imprint)\\n- Flame Chloride Sword (Imprint) \\n- Flame axe (engraving)\\n- Flame chlorination bow (engraving)\\n- Flame chlorination method (engraving)\\n- Flame chlorination dagger (engraving)",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时可按照设定概率获得以下物品之一。\\n\\n- 氯化火焰剑（印记）\\n- 氯化火焰手套（印记）\\n- 氯化火焰剑（印记）\\n- 火焰斧（雕刻）\\n- 火焰氯化弓（雕刻）\\n- 火焰氯化法（雕刻）\\n- 火焰氯化匕首（雕刻）"
+    },
+    "99003858": {
+        "Dev_Desc": "시련의 무기 선택 상자(각인)",
+        "Original_Text": "사용 시 다음 물품 중 1종을 선택하여 획득할 수 있습니다.\\n\\n- 옅은 새벽의 검(각인)\\n- 옅은 새벽의 권갑(각인)\\n- 옅은 새벽의 도끼(각인)\\n- 옅은 새벽의 기공패(각인)\\n- 옅은 새벽의 활(각인)\\n- 옅은 새벽의 법종(각인)\\n- 옅은 새벽의 비수(각인)",
+        "English_Text": "You can obtain one of the following items when using it.\\n\\n- Sword of Light Dawn (Imprint)\\n- Gauntlets of Light Dawn (Imprint)\\n- Ax of Light Dawn (Imprint)\\n- Light Dawn's qigong plaque (engraving)\\n- Light Dawn Bow (engraving)\\n- Light Dawn Law Bell (engraving)\\n- Light Dawn's Dagger (engraving)",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时可获得以下物品之一。\\n\\n- 黎明之剑（印记）\\n- 黎明之剑（印记）\\n- 黎明之斧（印记）\\n- 黎明的气功牌匾（雕刻）\\n- 光明黎明弓（雕刻）\\n- 光明黎明法铃（雕刻）\\n- 光明黎明匕首（雕刻）"
+    },
+    "99003859": {
+        "Dev_Desc": "검은 바람의 무기 선택 상자(각인)",
+        "Original_Text": "사용 시 다음 물품 중 1종을 선택하여 획득할 수 있습니다.\\n\\n- 검은 바람의 파도(각인)\\n- 검은 바람의 사슬(각인)\\n- 검은 바람의 장벽(각인)\\n- 검은 바람의 혼(각인)\\n- 검은 바람의 질주(각인)\\n- 검은 바람의 의지(각인)\\n- 검은 바람의 한기(각인)",
+        "English_Text": "You can obtain one of the following items when using it.\\n\\n- Wave of Black Wind (Imprint)\\n- Chain of Black Wind (Imprint)\\n- Barrier of Black Wind (Imprint)\\n- Soul of Black Wind (Imprint)\\n- Fast and Black Wind (Imprint)\\n- Will of Black Wind (Imprint)\\n- Chill of Black Wind (Imprint)",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时可获得以下物品之一。\\n\\n- 黑风之波（印记）\\n- 黑风之链（印记）\\n- 黑风结界（印记）\\n- 黑之魂风 (印记)\\n- 快速和黑风 (印记)\\n- 黑风意志 (印记)\\n- 黑风之寒 (印记)"
+    },
+    "99003860": {
+        "Dev_Desc": "특별 희귀 무기 선택 상자",
+        "Original_Text": "사용 시 다음 물품 중 1종을 선택하여 획득할 수 있습니다.\\n\\n- +7 심연의 가시(각인)\\n- +7 심연의 발톱(각인)\\n- +7 심연의 얼음꽃(각인)\\n- +7 파괴의 도끼(각인)\\n- +7 심연의 활(각인)\\n- +7 심연의 곡성(각인)\\n- +7 심연의 고요(각인)",
+        "English_Text": "You can obtain one of the following items when using it.\\n\\n- +7 Abyssal Thorn (Imprint)\\n- +7 Abyssal Claw (Imprint)\\n- +7 Abyssal Ice Flower (Imprint) )\\n- +7 Ax of Destruction (Imprint)\\n- +7 Bow of the Abyss (Imprint)\\n- +7 Wail of the Abyss (Imprint)\\n- +7 Silence of the Abyss (Imprint)",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时可获得以下物品之一。\\n\\n- +7 深渊荆棘（印记）\\n- +7 深渊之爪（印记）\\n- +7 深渊冰花（印记））\\n- + 7 毁灭之斧（印记）\\n- +7 深渊之弓（印记）\\n- +7 深渊哀嚎（印记）\\n- +7 深渊沉默（印记）"
+    },
+    "99003861": {
+        "Dev_Desc": "특별 희귀 방어구 상자",
+        "Original_Text": "사용 시 다음 아이템을 모두 획득할 수 있습니다.\\n\\n- +5 백련갑(각인)\\n- +5 파사의 각반(각인)\\n- +5 퇴마의 태사혜(각인)\\n- +5 은둔의 견갑(각인)\\n- +5 백뢰장갑(각인)\\n- +5 맹약의 혁대(각인)",
+        "English_Text": "You can obtain all of the following items when used.\\n\\n- +5 White Lotus (Imprint)\\n- +5 Pasa's Gaiters (Imprinted)\\n- +5 Exorcist's Taesahye (Imprinted)\\n- +5 Hermit's Pauldrons (Imprint)\\n- +5 White Lightning Gloves (Imprinted)\\n- +5 Belt of the Oath (Imprinted)",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时可以获得以下所有物品。\\n\\n- +5 白莲花（印记）\\n- +5 帕萨的绑腿（印记）\\n- +5 驱魔者的泰莎耶（印记）\\n- +5 隐士肩铠（印记）\\n- +5 白色闪电手套（印记）\\n- +5 誓约腰带（印记）"
+    },
+    "99003862": {
+        "Dev_Desc": "수라의 영웅 소울 선택 상자",
+        "Original_Text": "사용 시 영웅 소울 소환서를 획득할 수 있습니다.",
+        "English_Text": "You can obtain a Hero Soul Summon Scroll when used.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时可以获得英雄魂召唤卷轴。"
+    },
+    "99003863": {
+        "Dev_Desc": "비천한 소울 소환서(1회)(각인)",
+        "Original_Text": "사용 시 비천한 소울을 획득합니다.",
+        "English_Text": "When used, you get a lowly soul.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，你会得到一个卑微的灵魂。"
+    },
+    "99003864": {
+        "Dev_Desc": "신무강 소울 소환서(1회)(각인)",
+        "Original_Text": "사용 시 신무강 소울을 획득합니다.",
+        "English_Text": "When used, you will acquire Shinmugang Soul.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用后可获得新武钢之魂。"
+    },
+    "99003865": {
+        "Dev_Desc": "염환 소울 소환서(1회)(각인)",
+        "Original_Text": "사용 시 염환 소울을 획득합니다.",
+        "English_Text": "When used, you acquire a flame soul.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，你会获得一个火焰灵魂。"
+    },
+    "99003866": {
+        "Dev_Desc": "수라의 화려한 소울 소환서(11회)",
+        "Original_Text": "사용 시 정해진 확률에 따라 소울을 획득할 수 있습니다.<br/>(등급: 상급 ~ 전설)",
+        "English_Text": "When used, you can acquire a soul according to a set probability.<br/>(Rank: Advanced ~ Legendary)",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，可以按照设定的概率获得灵魂。<br/>（等级：高级~传奇）"
+    },
+    "99003867": {
+        "Dev_Desc": "수라의 영롱한 소울 소환서(1회)",
+        "Original_Text": "사용 시 정해진 확률에 따라 소울을 획득할 수 있습니다.<br/>(등급: 영웅 ~ 전설)",
+        "English_Text": "When used, you can acquire a soul according to a set probability.<br/>(Rank: Heroic ~ Legendary)",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，可以按照设定的概率获得灵魂。<br/>（等级：英雄~传奇）"
+    },
+    "99003868": {
+        "Dev_Desc": "수라의 빛나는 소울 소환서(11회)",
+        "Original_Text": "사용 시 정해진 확률에 따라 소울을 획득할 수 있습니다.<br/>(등급: 일반 ~ 영웅)",
+        "English_Text": "When used, you can acquire a soul according to a set probability.<br/>(Rank: Normal ~ Heroic)",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，可以按照设定的概率获得灵魂。<br/>（等级：普通~英雄）"
+    },
+    "99003869": {
+        "Dev_Desc": "수라의 영웅 소울 소환서(1회)",
+        "Original_Text": "사용 시 영웅 등급 소울을 획득할 수 있습니다.",
+        "English_Text": "When used, you can acquire hero grade souls.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时可以获得英雄级灵魂。"
+    },
+    "99003870": {
+        "Dev_Desc": "암주 소울 파편(각인)",
+        "Original_Text": "사용 시 암주 소울 파편을 1개 획득할 수 있습니다.<br/>(등급: 전설)",
+        "English_Text": "You can obtain 1 Dark Lord Soul Fragment when used.<br/>(Rank: Legendary)",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时可以获得1个黑暗领主灵魂碎片。<br/>（等级：传奇）"
+    },
+    "99003871": {
+        "Dev_Desc": "화려한 희생의 수호령 소환서(6회)",
+        "Original_Text": "사용 시 정해진 확률에 따라 수호령을 획득할 수 있습니다.\\n(등급: 상급 ~ 전설)",
+        "English_Text": "When used, you can acquire a guardian spirit according to a set probability.\\n(Rank: Advanced ~ Legendary)",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，可以按照设定的概率获得守护灵。\\n（等级：高级~传奇）"
+    },
+    "99003872": {
+        "Dev_Desc": "빛나는 무공 성장 상자",
+        "Original_Text": "사용 시 정해진 확률에 따라 영약: 산삼(각인)과 비결(각인)을 획득할 수 있습니다.\\n\\n- 영약: 산삼(각인) 1/2/3/4/5개\\n- 비결(각인) 3,000/4,500/6,000/8,000/15,000개",
+        "English_Text": "Elixir: Wild ginseng (engraved) and secret (engraved) can be obtained according to a set probability when used.\\n\\n- Flask: Wild ginseng (engraved) 1/2/3/4/5 pieces\\n- Secret (engraved) ) 3,000/4,500/6,000/8,000/15,000",
+        "Russian_Text": "",
+        "Chinese_Text": "灵药：山参（刻）和秘（刻），使用时可按设定概率获得。\\n\\n- 烧瓶：山参（刻）1/2/3/4/5个\\n- 秘（刻) ) 3,000/4,500/6,000/8,000/15,000"
+    },
+    "99003873": {
+        "Dev_Desc": "찬란한 연오 공로함(각인)_해룡산맥",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003874": {
+        "Dev_Desc": "빛나는 연오 공로함(각인)_해룡산맥",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003875": {
+        "Dev_Desc": "평범한 연오 공로함(각인)_해룡산맥",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003876": {
+        "Dev_Desc": "낡은 연오 공로함(각인)_해룡산맥",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are acquired according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003877": {
+        "Dev_Desc": "찬란한 침식된 대인면충 공로함(각인)_해룡산맥",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are acquired according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003878": {
+        "Dev_Desc": "빛나는 침식된 대인면충 공로함(각인)_해룡산맥",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003879": {
+        "Dev_Desc": "평범한 침식된 대인면충 공로함(각인)_해룡산맥",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are acquired according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003880": {
+        "Dev_Desc": "낡은 침식된 대인면충 공로함(각인)_해룡산맥",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are acquired according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003881": {
+        "Dev_Desc": "찬란한 침식된 홍돈팔 공로함(각인)_해룡산맥",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are acquired according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003882": {
+        "Dev_Desc": "빛나는 침식된 홍돈팔 공로함(각인)_해룡산맥",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are acquired according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003883": {
+        "Dev_Desc": "평범한 침식된 홍돈팔 공로함(각인)_해룡산맥",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are acquired according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003884": {
+        "Dev_Desc": "낡은 침식된 홍돈팔 공로함(각인)_해룡산맥",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are acquired according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003885": {
+        "Dev_Desc": "찬란한 곤야차 공로함(각인)_해룡산맥",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003886": {
+        "Dev_Desc": "빛나는 곤야차 공로함(각인)_해룡산맥",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003887": {
+        "Dev_Desc": "평범한 곤야차 공로함(각인)_해룡산맥",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are acquired according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003888": {
+        "Dev_Desc": "낡은 곤야차 공로함(각인)_해룡산맥",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003889": {
+        "Dev_Desc": "찬란한 백야금 공로함(각인)_비옥대지",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003890": {
+        "Dev_Desc": "빛나는 백야금 공로함(각인)_비옥대지",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003891": {
+        "Dev_Desc": "평범한 백야금 공로함(각인)_비옥대지",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003892": {
+        "Dev_Desc": "낡은 백야금 공로함(각인)_비옥대지",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003893": {
+        "Dev_Desc": "찬란한 리오리노 공로함(각인)_비옥대지",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003894": {
+        "Dev_Desc": "빛나는 리오리노 공로함(각인)_비옥대지",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003895": {
+        "Dev_Desc": "평범한 리오리노 공로함(각인)_비옥대지",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003896": {
+        "Dev_Desc": "낡은 리오리노 공로함(각인)_비옥대지",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003897": {
+        "Dev_Desc": "찬란한 유강독모 공로함(각인)_비옥대지",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003898": {
+        "Dev_Desc": "빛나는 유강독모 공로함(각인)_비옥대지",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003899": {
+        "Dev_Desc": "평범한 유강독모 공로함(각인)_비옥대지",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003900": {
+        "Dev_Desc": "낡은 유강독모 공로함(각인)_비옥대지",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003901": {
+        "Dev_Desc": "찬란한 홍돈팔 공로함(각인)_비옥대지",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003902": {
+        "Dev_Desc": "빛나는 홍돈팔 공로함(각인)_비옥대지",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003903": {
+        "Dev_Desc": "평범한 홍돈팔 공로함(각인)_비옥대지",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003904": {
+        "Dev_Desc": "낡은 홍돈팔 공로함(각인)_비옥대지",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are acquired according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003905": {
+        "Dev_Desc": "찬란한 비옥_모순학 공로함(각인)_비옥대지",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003906": {
+        "Dev_Desc": "빛나는 비옥_모순학 공로함(각인)_비옥대지",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are acquired according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003907": {
+        "Dev_Desc": "평범한 비옥_모순학 공로함(각인)_비옥대지",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are acquired according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003908": {
+        "Dev_Desc": "낡은 비옥_모순학 공로함(각인)_비옥대지",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003909": {
+        "Dev_Desc": "찬란한 낙원대성 공로함(각인)_태록림",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are acquired according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003910": {
+        "Dev_Desc": "빛나는 낙원대성 공로함(각인)_태록림",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003911": {
+        "Dev_Desc": "평범한 낙원대성 공로함(각인)_태록림",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are acquired according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003912": {
+        "Dev_Desc": "낡은 낙원대성 공로함(각인)_태록림",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003913": {
+        "Dev_Desc": "찬란한 대인면충 공로함(각인)_태록림",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003914": {
+        "Dev_Desc": "빛나는 대인면충 공로함(각인)_태록림",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003915": {
+        "Dev_Desc": "평범한 대인면충 공로함(각인)_태록림",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003916": {
+        "Dev_Desc": "낡은 대인면충 공로함(각인)_태록림",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003917": {
+        "Dev_Desc": "찬란한 팔독모 공로함(각인)_태록림",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003918": {
+        "Dev_Desc": "빛나는 팔독모 공로함(각인)_태록림",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003919": {
+        "Dev_Desc": "평범한 팔독모 공로함(각인)_태록림",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003920": {
+        "Dev_Desc": "낡은 팔독모 공로함(각인)_태록림",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003921": {
+        "Dev_Desc": "찬란한 녹력대귀 공로함(각인)_태록림",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003922": {
+        "Dev_Desc": "빛나는 녹력대귀 공로함(각인)_태록림",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003923": {
+        "Dev_Desc": "평범한 녹력대귀 공로함(각인)_태록림",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003924": {
+        "Dev_Desc": "낡은 녹력대귀 공로함(각인)_태록림",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003925": {
+        "Dev_Desc": "찬란한 돌주먹 공로함(각인)_태록림",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003926": {
+        "Dev_Desc": "빛나는 돌주먹 공로함(각인)_태록림",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003927": {
+        "Dev_Desc": "평범한 돌주먹 공로함(각인)_태록림",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are acquired according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003928": {
+        "Dev_Desc": "낡은 돌주먹 공로함(각인)_태록림",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are acquired according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003929": {
+        "Dev_Desc": "찬란한 태록_모순학 공로함(각인)_태록림",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003930": {
+        "Dev_Desc": "빛나는 태록_모순학 공로함(각인)_태록림",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003931": {
+        "Dev_Desc": "평범한 태록_모순학 공로함(각인)_태록림",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are acquired according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003932": {
+        "Dev_Desc": "낡은 태록_모순학 공로함(각인)_태록림",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are acquired according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003933": {
+        "Dev_Desc": "찬란한 초령목 공로함(각인)_반달호수",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003934": {
+        "Dev_Desc": "빛나는 초령목 공로함(각인)_반달호수",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003935": {
+        "Dev_Desc": "평범한 초령목 공로함(각인)_반달호수",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003936": {
+        "Dev_Desc": "낡은 초령목 공로함(각인)_반달호수",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003937": {
+        "Dev_Desc": "찬란한 홍매화 공로함(각인)_반달호수",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003938": {
+        "Dev_Desc": "빛나는 홍매화 공로함(각인)_반달호수",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003939": {
+        "Dev_Desc": "평범한 홍매화 공로함(각인)_반달호수",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are acquired according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003940": {
+        "Dev_Desc": "낡은 홍매화 공로함(각인)_반달호수",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003941": {
+        "Dev_Desc": "찬란한 모순학 공로함(각인)_반달호수",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003942": {
+        "Dev_Desc": "빛나는 모순학 공로함(각인)_반달호수",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003943": {
+        "Dev_Desc": "평범한 모순학 공로함(각인)_반달호수",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003944": {
+        "Dev_Desc": "낡은 모순학 공로함(각인)_반달호수",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003945": {
+        "Dev_Desc": "찬란한 굴락 공로함(각인)_반달호수",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003946": {
+        "Dev_Desc": "빛나는 굴락 공로함(각인)_반달호수",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003947": {
+        "Dev_Desc": "평범한 굴락 공로함(각인)_반달호수",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003948": {
+        "Dev_Desc": "낡은 굴락 공로함(각인)_반달호수",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003949": {
+        "Dev_Desc": "찬란한 거곤 공로함(각인)_반달호수",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003950": {
+        "Dev_Desc": "빛나는 거곤 공로함(각인)_반달호수",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003951": {
+        "Dev_Desc": "평범한 거곤 공로함(각인)_반달호수",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003952": {
+        "Dev_Desc": "낡은 거곤 공로함(각인)_반달호수",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003953": {
+        "Dev_Desc": "찬란한 강철악 공로함(각인)_반달호수",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003954": {
+        "Dev_Desc": "빛나는 강철악 공로함(각인)_반달호수",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003955": {
+        "Dev_Desc": "평범한 강철악 공로함(각인)_반달호수",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003956": {
+        "Dev_Desc": "낡은 강철악 공로함(각인)_반달호수",
+        "Original_Text": "사용 시 장비, 무공서 등 다양한 아이템을 정해진 확률에 따라 획득합니다.",
+        "English_Text": "When used, various items such as equipment and military documents are obtained according to a set probability.",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时，根据设定的概率获得装备、军事文件等各种物品。"
+    },
+    "99003957": {
+        "Dev_Desc": "희귀 무공서 선택 상자 I_비수 포함",
+        "Original_Text": "사용 시 다음 물품 중 1종을 선택하여 획득할 수 있습니다.\\n\\n- [검] 천지가르기(각인) 1개\\n- [권갑] 다리걸기(각인) 1개\\n- [도끼] 선풍(각인) 1개\\n- [기공패] 회진보(각인) 1개\\n- [활] 살상명령(각인) 1개\\n- [법종] 치유지대(각인) 1개\\n- [비수] 폭혈(각인) 1개",
+        "English_Text": "You can obtain it by selecting one of the following items when using it.\\n\\n- [Sword] Heaven-Slicing (Imprint) 1 x\\n- [Gauntlet] Legging (Imprinting) x 1\\n- [Axe] Whirlwind (Engraving) 1 x\\n- [Kigong Plaque] Hoejinbo (Engraving) 1 x [Bow] Killing Order (Imprinting) 1 x ] 1 Explosive Blood (engraved)",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时选择以下物品之一即可获得。\\n\\n- [剑] 斩天（印记） 1 x\\n- [护手] 护腿（印记） x 1\\n- [斧头] 旋风(雕刻) 1 x\\n- [Kigong Plaque] Hoejinbo (雕刻) 1 x [弓] 杀戮令 (烙印) 1 x ] 1 爆炸之血 (雕刻)"
+    },
+    "99003958": {
+        "Dev_Desc": "희귀 무공서 선택 상자 II_비수 포함",
+        "Original_Text": "사용 시 다음 물품 중 1종을 선택하여 획득할 수 있습니다.\\n\\n- [검] 일섬(각인) 1개\\n- [권갑] 맹호격(각인) 1개\\n- [도끼] 분노(각인) 1개\\n- [기공패] 비륜연휘(각인) 1개\\n- [활] 다중사격(각인) 1개\\n- [법종] 청화(각인) 1개\\n- [비수] 암습(각인) 1개",
+        "English_Text": "You can obtain one of the following items when using it.\\n\\n- [Sword] One Piece (Imprint) x1\\n- [Gauntlet] Furious Attack (Imprint) x1\\n- [Axe] Rage ( Engraving) 1 x\\n- [Kigong Plaque] Biryun Yeonhui (Engraving) 1 x \\n- [Bow] Multi-shot (Imprinting) 1 x (engraved) 1 pc",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时可获得以下物品之一。\\n\\n- [剑] 一件（印记）x1\\n- [手套] 狂暴攻击（印记）x1\\n- [斧] 狂暴（雕刻）1 x \\n- [Kigong Plaque] Biryun Yeonhui (雕刻) 1 x \\n- [弓] 连拍(印迹) 1 x (雕刻) 1 pc"
+    },
+    "99003959": {
+        "Dev_Desc": "소울 메이트 장비 상자(이벤트)_220706",
+        "Original_Text": "사용시 다음 물품을 모두 획득할 수 있습니다.\\n\\n- 강호 초출 무기 선택 상자(이벤트)\\n- 강호 초출 방어구 상자(이벤트)",
+        "English_Text": "You can obtain all of the following items when used.\\n\\n- Strong Extraction Weapon Selection Box (Event)\\n- Strong Extraction Armor Box (Event)",
+        "Russian_Text": "",
+        "Chinese_Text": "使用时可以获得以下所有物品。\\n\\n- 强力提取武器选择盒（活动）\\n- 强力提取装甲盒（活动）"
+    },
+    "99003960": {
+        "Dev_Desc": "어둠의 증표",
+        "Original_Text": "장비 도감에 사용되는 특별한 재료입니다.",
+        "English_Text": "A special material used in the Equipment Encyclopedia.",
+        "Russian_Text": "",
+        "Chinese_Text": "装备百科中使用的特殊材料。"
+    },
+    "99003961": {
+        "Dev_Desc": "보패 가루(각인)",
+        "Original_Text": "추후 보패 합성, 보패 제작에 사용되는 재료입니다.",
+        "English_Text": "It is a material that is used in the future to synthesize jewels and to make jewels.",
+        "Russian_Text": "",
+        "Chinese_Text": "它是一种将来用于合成珠宝和制作珠宝的材料。"
+    },
+    "99003962": {
+        "Dev_Desc": "수월평원 보패함 1~4번(각인) ",
+        "Original_Text": "수월평원 보패 1~4번 중 무작위 조각이 들어 있습니다.",
+        "English_Text": "Contains random fragments of Suwol Plains jewels 1-4.",
+        "Russian_Text": "",
+        "Chinese_Text": "包含水月平原珠宝 1-4 的随机碎片。"
+    },
+    "99003963": {
+        "Dev_Desc": "수월평원 보패함 5~8번(각인)",
+        "Original_Text": "수월평원 보패 5~8번 중 무작위 조각이 들어 있습니다.",
+        "English_Text": "Contains random fragments of Suwol Plains jewels 5-8.",
+        "Russian_Text": "",
+        "Chinese_Text": "包含水月平原珠宝 5-8 的随机碎片。"
+    },
+    "99003964": {
+        "Dev_Desc": "태록림 보패함 1~4번(각인)",
+        "Original_Text": "태록림 보패 1~4번 중 무작위 조각이 들어 있습니다.",
+        "English_Text": "Contains random pieces of Taerokrim Relics Nos. 1-4.",
+        "Russian_Text": "",
+        "Chinese_Text": "包含随机的 Taerokrim Relics Nos. 1-4。"
+    },
+    "99003965": {
+        "Dev_Desc": "태록림 보패함 5~8번(각인)",
+        "Original_Text": "태록림 보패 5~8번 중 무작위 조각이 들어 있습니다.",
+        "English_Text": "Contains a random piece of Taerokrim Relics No. 5-8.",
+        "Russian_Text": "",
+        "Chinese_Text": "包含一块随机的 Taerokrim Relics No. 5-8。"
+    },
+    "99003966": {
+        "Dev_Desc": "비옥대지 보패함 1~4번(각인)",
+        "Original_Text": "비옥대지 보패 1~4번 중 무작위 조각이 들어 있습니다.",
+        "English_Text": "Contains random fragments of Fertile Earth Relics numbers 1-4.",
+        "Russian_Text": "",
+        "Chinese_Text": "包含 1-4 号沃土遗迹的随机碎片。"
+    },
+    "99003967": {
+        "Dev_Desc": "비옥대지 보패함 5~8번(각인)",
+        "Original_Text": "비옥대지 보패 5~8번 중 무작위 조각이 들어 있습니다.",
+        "English_Text": "Contains random fragments of Fertile Earth Relics numbered 5-8.",
+        "Russian_Text": "",
+        "Chinese_Text": "包含编号为 5-8 的沃土遗迹的随机碎片。"
+    },
+    "99003968": {
+        "Dev_Desc": "해룡산맥 보패함 1~4번(각인)",
+        "Original_Text": "해룡산맥 보패 1~4번 중 무작위 조각이 들어 있습니다.",
+        "English_Text": "Contains a random fragment of Haeryong Mountains jewels 1-4.",
+        "Russian_Text": "",
+        "Chinese_Text": "包含海龙山宝石 1-4 的随机碎片。"
+    },
+    "99003969": {
+        "Dev_Desc": "해룡산맥 보패함 5~8번(각인)",
+        "Original_Text": "해룡산맥 보패 5~8번 중 무작위 조각이 들어 있습니다.",
+        "English_Text": "Contains a random fragment of Haeryong Mountains jewels 5-8.",
+        "Russian_Text": "",
+        "Chinese_Text": "包含海龙山宝石 5-8 的随机碎片。"
     }
 }

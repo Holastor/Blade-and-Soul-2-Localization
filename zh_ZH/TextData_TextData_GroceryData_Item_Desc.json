@@ -16463,7 +16463,7 @@
         "deprecated": false,
         "Dev_Desc": "잊혀진 영웅 방어구 제작 비법서 조각",
         "id": 99003002,
-        "alias": "Contents.Item.Desc.9900644",
+        "alias": "Contents.Event.Item.Desc.9900644",
         "text": "用于制作遗忘英雄护甲配方的材料。"
     },
     "99003003": {
@@ -17156,7 +17156,7 @@
         "deprecated": false,
         "Dev_Desc": "잊혀진 영웅 장신구 제작 비법서 조각",
         "id": 99003101,
-        "alias": "Contents.Item.Desc.9900810",
+        "alias": "Contents.Event.Item.Desc.9900810",
         "text": "用于制作被遗忘的英雄配饰秘籍书的材料。"
     },
     "99003102": {
@@ -22135,7 +22135,7 @@
         "Dev_Desc": "전설 의상 확정 주머니(각인)",
         "id": 99003854,
         "alias": "Contents.Item.Desc.9901477",
-        "text": "根据使用概率，可以按照设定的概率获得以下物品之一。\\n\\n- 狂热修罗\\n- 安魂曲\\n- 白色落日\\n- 冬祭\\n- 红色鬼\\n- 中秋节\\n- 金鬼\\n- 遗忘的约定"
+        "text": "根据使用概率，可以按照设定的概率获得以下物品之一。\\n\\n- 狂热修罗\\n- 安魂曲\\n- 白色落日\\n- 冬祭\\n- 红色鬼\\n- 中秋节\\n- 金鬼\\n- 遗忘的承诺"
     },
     "99003855": {
         "deprecated": false,
@@ -22871,5 +22871,75 @@
         "id": 99003959,
         "alias": "Contents.Event.Item.Desc.9300515",
         "text": "使用时可以获得以下所有物品。\\n\\n- 强力提取武器选择盒（活动）\\n- 强力提取装甲盒（活动）"
+    },
+    "99003960": {
+        "deprecated": false,
+        "Dev_Desc": "어둠의 증표",
+        "id": 99003960,
+        "alias": "Contents.Item.Desc.9901660",
+        "text": "装备百科中使用的特殊材料。"
+    },
+    "99003961": {
+        "deprecated": false,
+        "Dev_Desc": "보패 가루(각인)",
+        "id": 99003961,
+        "alias": "Contents.Item.Desc.9901661",
+        "text": "它是一种将来用于合成珠宝和制作珠宝的材料。"
+    },
+    "99003962": {
+        "deprecated": false,
+        "Dev_Desc": "수월평원 보패함 1~4번(각인) ",
+        "id": 99003962,
+        "alias": "Contents.Item.Desc.9901662",
+        "text": "包含水月平原珠宝 1-4 的随机碎片。"
+    },
+    "99003963": {
+        "deprecated": false,
+        "Dev_Desc": "수월평원 보패함 5~8번(각인)",
+        "id": 99003963,
+        "alias": "Contents.Item.Desc.9901663",
+        "text": "包含水月平原珠宝 5-8 的随机碎片。"
+    },
+    "99003964": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 보패함 1~4번(각인)",
+        "id": 99003964,
+        "alias": "Contents.Item.Desc.9901664",
+        "text": "包含随机的 Taerokrim Relics Nos. 1-4。"
+    },
+    "99003965": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 보패함 5~8번(각인)",
+        "id": 99003965,
+        "alias": "Contents.Item.Desc.9901665",
+        "text": "包含一块随机的 Taerokrim Relics No. 5-8。"
+    },
+    "99003966": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 보패함 1~4번(각인)",
+        "id": 99003966,
+        "alias": "Contents.Item.Desc.9901666",
+        "text": "包含 1-4 号沃土遗迹的随机碎片。"
+    },
+    "99003967": {
+        "deprecated": false,
+        "Dev_Desc": "비옥대지 보패함 5~8번(각인)",
+        "id": 99003967,
+        "alias": "Contents.Item.Desc.9901667",
+        "text": "包含编号为 5-8 的沃土遗迹的随机碎片。"
+    },
+    "99003968": {
+        "deprecated": false,
+        "Dev_Desc": "해룡산맥 보패함 1~4번(각인)",
+        "id": 99003968,
+        "alias": "Contents.Item.Desc.9901668",
+        "text": "包含海龙山宝石 1-4 的随机碎片。"
+    },
+    "99003969": {
+        "deprecated": false,
+        "Dev_Desc": "해룡산맥 보패함 5~8번(각인)",
+        "id": 99003969,
+        "alias": "Contents.Item.Desc.9901669",
+        "text": "包含海龙山宝石 5-8 的随机碎片。"
     }
 }

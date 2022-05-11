@@ -1274,7 +1274,8 @@
     "92101606": {
         "deprecated": false,
         "id": 92101606,
-        "alias": "Contents.Item.Desc.2101606"
+        "alias": "Contents.Item.Desc.2101606",
+        "text": "[제작]에서 획득할 수 있습니다."
     },
     "92101801": {
         "deprecated": false,
@@ -1447,7 +1448,8 @@
     "92102606": {
         "deprecated": false,
         "id": 92102606,
-        "alias": "Contents.Item.Desc.2102606"
+        "alias": "Contents.Item.Desc.2102606",
+        "text": "[제작]에서 획득할 수 있습니다."
     },
     "92102801": {
         "deprecated": false,
@@ -1620,7 +1622,8 @@
     "92103606": {
         "deprecated": false,
         "id": 92103606,
-        "alias": "Contents.Item.Desc.2103606"
+        "alias": "Contents.Item.Desc.2103606",
+        "text": "[제작]에서 획득할 수 있습니다."
     },
     "92103801": {
         "deprecated": false,
@@ -1793,7 +1796,8 @@
     "92104606": {
         "deprecated": false,
         "id": 92104606,
-        "alias": "Contents.Item.Desc.2104606"
+        "alias": "Contents.Item.Desc.2104606",
+        "text": "[제작]에서 획득할 수 있습니다."
     },
     "92104801": {
         "deprecated": false,
@@ -1966,7 +1970,8 @@
     "92105606": {
         "deprecated": false,
         "id": 92105606,
-        "alias": "Contents.Item.Desc.2105606"
+        "alias": "Contents.Item.Desc.2105606",
+        "text": "[제작]에서 획득할 수 있습니다."
     },
     "92105801": {
         "deprecated": false,
@@ -2139,7 +2144,8 @@
     "92106606": {
         "deprecated": false,
         "id": 92106606,
-        "alias": "Contents.Item.Desc.2106606"
+        "alias": "Contents.Item.Desc.2106606",
+        "text": "[제작]에서 획득할 수 있습니다."
     },
     "92106801": {
         "deprecated": false,
@@ -5076,7 +5082,8 @@
         "deprecated": false,
         "Dev_Desc": "잊혀진 처벌자의 비수",
         "id": 92107601,
-        "alias": "Contents.Item.Desc.2107601"
+        "alias": "Contents.Item.Desc.2107601",
+        "text": "它可以从[制作]中获得。"
     },
     "92107602": {
         "deprecated": false,
@@ -5089,13 +5096,15 @@
         "deprecated": false,
         "Dev_Desc": "진실의 추적자",
         "id": 92107603,
-        "alias": "Contents.Item.Desc.2107603"
+        "alias": "Contents.Item.Desc.2107603",
+        "text": "它可以从[制作]中获得。"
     },
     "92107604": {
         "deprecated": false,
         "Dev_Desc": "지옥 아귀의 칼날",
         "id": 92107604,
-        "alias": "Contents.Item.Desc.2107604"
+        "alias": "Contents.Item.Desc.2107604",
+        "text": "它可以从[制作]中获得。"
     },
     "92107605": {
         "deprecated": false,
@@ -5132,7 +5141,8 @@
         "deprecated": false,
         "Dev_Desc": "지옥의 송곳니",
         "id": 92107801,
-        "alias": "Contents.Item.Desc.2107801"
+        "alias": "Contents.Item.Desc.2107801",
+        "text": "它可以从[制作]中获得。"
     },
     "92107802": {
         "deprecated": false,
@@ -5276,7 +5286,7 @@
         "Dev_Desc": "금경비수(각인)",
         "id": 92207401,
         "alias": "Contents.Item.Desc.2207401",
-        "text": "可以从【兑换商】和【制作】中获得。\\n\\n+7强化增加穿透\\n+8强化增加精准\\n+9增加武器攻击力"
+        "text": "可从[兑换商]或[制作]获得。\\n\\n+7增强增加穿透\\n+8增强增加准确性\\n+9增强额外武器攻击力"
     },
     "92207402": {
         "deprecated": false,
@@ -5366,21 +5376,19 @@
         "Dev_Desc": "옅은 새벽의 비수(각인)",
         "id": 92207602,
         "alias": "Contents.Item.Desc.2207602",
-        "text": "攻击时，有一定几率对敌人施放[言语：步骤1]。\\n\\n[言语：步骤1]\\n降低目标暴击抗性10%，持续6秒\\n（同样效果不能应用于同一个目标30秒）\\n\\n你可以从[试炼地下城]获得。"
+        "text": "攻击时，有一定几率对敌人施放[言语：步骤1]。\\n\\n[言语：步骤1]\\n降低目标暴击抗性10%，持续6秒\\n（不能应用相同效果对同一个目标持续 30 秒）\\n\\n你可以从[试炼地下城]获得。"
     },
     "92207603": {
         "deprecated": false,
         "Dev_Desc": "진실의 추적자(각인)",
         "id": 92207603,
-        "alias": "Contents.Item.Desc.2207603",
-        "text": "它可以从[制作]中获得。"
+        "alias": "Contents.Item.Desc.2207603"
     },
     "92207604": {
         "deprecated": false,
         "Dev_Desc": "지옥 아귀의 칼날(각인)",
         "id": 92207604,
-        "alias": "Contents.Item.Desc.2207604",
-        "text": "它可以从[制作]中获得。"
+        "alias": "Contents.Item.Desc.2207604"
     },
     "92207605": {
         "deprecated": false,
@@ -5417,8 +5425,7 @@
         "deprecated": false,
         "Dev_Desc": "지옥의 송곳니(각인)",
         "id": 92207801,
-        "alias": "Contents.Item.Desc.2207801",
-        "text": "它可以从[制作]中获得。"
+        "alias": "Contents.Item.Desc.2207801"
     },
     "92207802": {
         "deprecated": false,

@@ -13964,14 +13964,14 @@
         "Dev_Desc": "극마지체_설명Lv.6",
         "id": 62007,
         "alias": "Contents.Soul.skillDescAlias.137",
-        "text": "When Soul is activated, ATK and PVE ATK are increased by 25, Critical additional ATK by 16, Critical Rate by 10%, and damage dealt by 2% for 5 seconds.\\nIn addition, when Soul is activated on a monster with less than 20% Health, there is a chance to be executed immediately. do. Does not apply to monsters with a named grade or higher.\\n(Execution cooldown: 5 seconds)"
+        "text": "When Soul is activated, ATK and PVE ATK are increased by 25, Critical additional ATK by 16, Critical Rate by 10%, and damage dealt by 2% for 5 seconds.\\nIn addition, when Soul is activated on a monster with 20% or less HP, there is a chance to be executed immediately. do. Does not apply to monsters with a named rank or higher.\\n(Execution cooldown: 5 seconds)"
     },
     "62008": {
         "deprecated": false,
         "Dev_Desc": "극마지체_설명Lv.7",
         "id": 62008,
         "alias": "Contents.Soul.skillDescAlias.138",
-        "text": "When Soul is activated, ATK and PVE ATK are increased by 25, Critical additional ATK by 18, Critical Rate by 10%, and damage dealt by 3% for 6 seconds.\\nIn addition, when Soul is activated on a monster with 30% or less HP, there is a chance to be executed immediately. do. Does not apply to monsters with a named grade or higher.\\n(Execution cooldown: 5 seconds)"
+        "text": "When Soul is activated, ATK and PVE ATK are increased by 25, Critical additional ATK by 18, Critical Rate by 10%, and damage dealt by 3% for 6 seconds.\\nIn addition, when Soul is activated on a monster with 30% health or less, there is a chance to be executed immediately. do. Does not apply to monsters with a named grade or higher.\\n(Execution cooldown: 5 seconds)"
     },
     "62009": {
         "deprecated": false,
@@ -14118,7 +14118,7 @@
         "Dev_Desc": "완전히 뚫을 순 없지",
         "id": 62029,
         "alias": "Contents.Soul.Collection.5383",
-        "text": "can't completely penetrate"
+        "text": "can't fully penetrate"
     },
     "62030": {
         "deprecated": false,

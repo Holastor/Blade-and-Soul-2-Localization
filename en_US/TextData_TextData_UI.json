@@ -5153,7 +5153,7 @@
     },
     "8000754": {
         "deprecated": false,
-        "Dev_Desc": "탐지 성장 / 단검 표시",
+        "Dev_Desc": "탐지 성장 / 비수 표시",
         "id": 8000754,
         "alias": "UI.ScanGrowth.Desc.DualSwordScan",
         "text": "You can identify players with a dagger with this technique."
@@ -24404,7 +24404,7 @@
     },
     "8003569": {
         "deprecated": false,
-        "Dev_Desc": "NPC 상점 타이틀 / 무공서 상인",
+        "Dev_Desc": "NPC 상점 타이틀 / 무공 상인",
         "id": 8003569,
         "alias": "UI.Shop.Tittle.Name.10005",
         "text": "Unofficial Merchant"
@@ -27439,27 +27439,6 @@
         "id": 8004002,
         "alias": "UI.PartyDungeon.Text.Exit",
         "text": "Exit"
-    },
-    "8004003": {
-        "deprecated": false,
-        "Dev_Desc": "별자리 / GNB",
-        "id": 8004003,
-        "alias": "UI.Galaxy.Gnb.Name",
-        "text": "Constellation"
-    },
-    "8004004": {
-        "deprecated": false,
-        "Dev_Desc": "별자리 / 성공확률",
-        "id": 8004004,
-        "alias": "UI.Galaxy.Imprint.SuccessRate",
-        "text": "Success probability"
-    },
-    "8004005": {
-        "deprecated": false,
-        "Dev_Desc": "별자리 / 각인",
-        "id": 8004005,
-        "alias": "UI.Galaxy.Imprint.Btn.Imprint",
-        "text": "engrave"
     },
     "8004006": {
         "deprecated": false,
@@ -30624,14 +30603,14 @@
     },
     "8004492": {
         "deprecated": false,
-        "Dev_Desc": "단검 무공 설명 1",
+        "Dev_Desc": "비수 무공 설명 1",
         "id": 8004492,
         "alias": "UI.ShortSword.Skill.Desc1",
         "text": "Legendary angler"
     },
     "8004493": {
         "deprecated": false,
-        "Dev_Desc": "단검 무공 설명 2",
+        "Dev_Desc": "비수 무공 설명 2",
         "id": 8004493,
         "alias": "UI.ShortSword.Skill.Desc2",
         "text": "Dagger is a unbalanced."
@@ -31054,7 +31033,7 @@
         "Dev_Desc": "설정 / 정보 / 전투 / 전투 집중 모드",
         "id": 8004572,
         "alias": "UI.Option.Information.Battle.Mode.UniteGuild",
-        "text": "united faction"
+        "text": "affiliation"
     },
     "8004573": {
         "deprecated": false,
@@ -31076,5 +31055,481 @@
         "id": 8004575,
         "alias": "UI.Trade.Category.SkillSetScroll.DualDagger",
         "text": "assassination inscription"
+    },
+    "8004576": {
+        "deprecated": false,
+        "Dev_Desc": "소셜모션 / ",
+        "id": 8004576,
+        "alias": "UI.SocialMotion.Text.ActionPose.01",
+        "text": "No. 1 posture"
+    },
+    "8004577": {
+        "deprecated": false,
+        "Dev_Desc": "소셜모션 / ",
+        "id": 8004577,
+        "alias": "UI.SocialMotion.Text.ActionPose.02",
+        "text": "No. 2 posture"
+    },
+    "8004578": {
+        "deprecated": false,
+        "Dev_Desc": "소셜모션 / ",
+        "id": 8004578,
+        "alias": "UI.SocialMotion.Text.ActionPose.03",
+        "text": "No. 3 posture"
+    },
+    "8004579": {
+        "deprecated": false,
+        "Dev_Desc": "소셜모션 / ",
+        "id": 8004579,
+        "alias": "UI.SocialMotion.Text.ActionPose.04",
+        "text": "No. 4 posture"
+    },
+    "8004580": {
+        "deprecated": false,
+        "Dev_Desc": "소셜모션 / ",
+        "id": 8004580,
+        "alias": "UI.SocialMotion.Text.ActionPose.05",
+        "text": "No. 5 posture"
+    },
+    "8004581": {
+        "deprecated": false,
+        "Dev_Desc": "복구술사 탭 / 경험치",
+        "id": 8004581,
+        "alias": "UI.Recovery.TabName.Exp",
+        "text": "Experience"
+    },
+    "8004582": {
+        "deprecated": false,
+        "Dev_Desc": "복구술사 탭 / 물품",
+        "id": 8004582,
+        "alias": "UI.Recovery.TabName.Item",
+        "text": "article"
+    },
+    "8004583": {
+        "deprecated": false,
+        "Dev_Desc": "복구술사 탭 / 후유증",
+        "id": 8004583,
+        "alias": "UI.Recovery.TabName.AfterRecovery",
+        "text": "aftereffect"
+    },
+    "8004584": {
+        "deprecated": false,
+        "Dev_Desc": "복구술사 후유증 리스트 / 타이틀",
+        "id": 8004584,
+        "alias": "UI.Recovery.AfterRecovery.Title",
+        "text": "aftereffect"
+    },
+    "8004585": {
+        "deprecated": false,
+        "Dev_Desc": "복구술사 유료 후유증 회복 팝업 - Desc",
+        "id": 8004585,
+        "alias": "UI.Recovery.PopUp.Recovery",
+        "text": "Do you want to recover from the aftermath?"
+    },
+    "8004586": {
+        "deprecated": false,
+        "Dev_Desc": "복구술사 유료 후유증 회복 팝업 - 회복 비용 Desc",
+        "id": 8004586,
+        "alias": "UI.Recovery.PopUp.RecoveryPrice",
+        "text": "recovery cost"
+    },
+    "8004587": {
+        "deprecated": false,
+        "Dev_Desc": "복구술사 / 충전횟수 Desc",
+        "id": 8004587,
+        "alias": "UI.Recovery.RechargeCount",
+        "text": "Charges <arg p=[1:integer]/>"
+    },
+    "8004588": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 행복의 주화",
+        "id": 8004588,
+        "alias": "UI.Craft.CustomCategory.HappyCoin_01",
+        "text": "Half Moon Lake of Happiness"
+    },
+    "8004589": {
+        "deprecated": false,
+        "Dev_Desc": "복구술사 / 후유증 / 회복 버튼",
+        "id": 8004589,
+        "alias": "UI.Recorvery.ButtonName.Recorvery",
+        "text": "recovery"
+    },
+    "8004590": {
+        "deprecated": false,
+        "Dev_Desc": "복구술사 / 후유증 / 후유증 내역 없음",
+        "id": 8004590,
+        "alias": "UI.Recovery.AfterRecovery.No",
+        "text": "No sequelae."
+    },
+    "8004591": {
+        "deprecated": false,
+        "Dev_Desc": "복구술사 / 후유증 / 무료 회복 버튼",
+        "id": 8004591,
+        "alias": "UI.Recorvery.ButtonName.FreeRecorvery",
+        "text": "free recovery"
+    },
+    "8004592": {
+        "deprecated": false,
+        "Dev_Desc": "무공UI/선택안내",
+        "id": 8004592,
+        "alias": "UI.Skill.Choice.Desc",
+        "text": "Please select a martial art."
+    },
+    "8004593": {
+        "deprecated": false,
+        "Dev_Desc": "무공UI/습득안내",
+        "id": 8004593,
+        "alias": "UI.Skill.Get.Desc",
+        "text": "Can be used when acquiring 2 or more martial arts skills."
+    },
+    "8004594": {
+        "deprecated": false,
+        "Dev_Desc": "무공UI/순서변경",
+        "id": 8004594,
+        "alias": "UI.Skill.Change.Desc",
+        "text": "Changed the order of martial arts."
+    },
+    "8004595": {
+        "deprecated": false,
+        "Dev_Desc": "문파 / 탭 이름 / 문파",
+        "id": 8004595,
+        "alias": "UI.Guild.TabName.Guild",
+        "text": "clan"
+    },
+    "8004596": {
+        "deprecated": false,
+        "Dev_Desc": "문파 / 탭 이름 / 연합",
+        "id": 8004596,
+        "alias": "UI.Guild.TabName.Unite",
+        "text": "Union"
+    },
+    "8004597": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 가입중 탭 / 연합 정보",
+        "id": 8004597,
+        "alias": "UI.Unite.UniteInfo",
+        "text": "federation information"
+    },
+    "8004598": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 가입중 탭 / 소속 문파",
+        "id": 8004598,
+        "alias": "UI.Unite.CrewInfo",
+        "text": "affiliation"
+    },
+    "8004599": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 미가입 탭 / 추천 연합",
+        "id": 8004599,
+        "alias": "UI.Unite.Recommend",
+        "text": "Referral Association"
+    },
+    "8004600": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 미가입 탭 / 가입 관리",
+        "id": 8004600,
+        "alias": "UI.Unite.JoinManage",
+        "text": "Subscription Management"
+    },
+    "8004601": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 미가입 탭 / 연합 창설",
+        "id": 8004601,
+        "alias": "UI.Unite.Foundation",
+        "text": "Founding of the Union"
+    },
+    "8004602": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 연합 정보 / 정보 / 대표 문파",
+        "id": 8004602,
+        "alias": "UI.Unite.UniteInfo.LeaderGuild",
+        "text": "representative clan"
+    },
+    "8004603": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 연합 정보 / 정보 / 연합장",
+        "id": 8004603,
+        "alias": "UI.Unite.UniteInfo.Leader",
+        "text": "union leader"
+    },
+    "8004604": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 연합 정보 / 정보 / 연합원 수",
+        "id": 8004604,
+        "alias": "UI.Unite.UniteInfo.CrewNum",
+        "text": "number of union members"
+    },
+    "8004605": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 연합 정보 / 관리 버튼",
+        "id": 8004605,
+        "alias": "UI.Unite.Management",
+        "text": "federation management"
+    },
+    "8004606": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 연합 정보 / 공지사항 기본 문구",
+        "id": 8004606,
+        "alias": "UI.Unite.UniteInfo.Notice.Default",
+        "text": "Write a joint notice.\\n(Maximum 50 Korean characters, 100 English characters)"
+    },
+    "8004607": {
+        "deprecated": false,
+        "Dev_Desc": "문파 / 문파 정보 / 적대동맹 / 안내 버튼",
+        "id": 8004607,
+        "alias": "UI.Guild.GuildInfo.GuildEnemyAlliance.DescButton",
+        "text": "Friendly/Enemy Priority"
+    },
+    "8004608": {
+        "deprecated": false,
+        "Dev_Desc": "문파 / 문파 정보 / 적대동맹 / 안내 텍스트",
+        "id": 8004608,
+        "alias": "UI.Guild.GuildInfo.GuildEnemyAlliance.Desc",
+        "text": "Allies/enemy are applied according to the priority below.\\n1. belonging to the same alliance\\n2. Alliance/hostile alliance of your alliance\\n3. Allies/hostile factions of your alliance\\n4. Alliance/hostile alliance of your clan\\n5. Allies/hostile factions of the faction belonging to it"
+    },
+    "8004609": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 연합 정보 / 관리 / 가입,해산 / 연합 소개",
+        "id": 8004609,
+        "alias": "UI.Unite.Management.Introduction.Title",
+        "text": "About the Union"
+    },
+    "8004610": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 연합 정보 / 관리 / 가입,해산 / 연합 소개 / 기본 문구",
+        "id": 8004610,
+        "alias": "UI.Unite.Management.Introduction.Desc",
+        "text": "Please introduce the alliance to future alliance members.\\n(Maximum 15 Korean characters, 30 English characters)"
+    },
+    "8004611": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 연합 정보 / 관리 / 가입,해산 / 연합 해산",
+        "id": 8004611,
+        "alias": "UI.Unite.Management.Dissolve.Title",
+        "text": "dissolution of the union"
+    },
+    "8004612": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 연합 정보 / 관리 / 가입,해산 / 연합 해산 / 안내",
+        "id": 8004612,
+        "alias": "UI.Unite.Management.Dissolve.Desc",
+        "text": "When the alliance is disbanded, all activity history until now will be lost.\\nAfter disbanding, all information cannot be recovered."
+    },
+    "8004613": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 연합 정보 / 관리 / 가입,해산 / 연합 해산 버튼",
+        "id": 8004613,
+        "alias": "UI.Unite.Management.Dissolve.Button",
+        "text": "dissolution of the union"
+    },
+    "8004614": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 연합 정보 / 관리 / 문장 / 문장 위 타이틀",
+        "id": 8004614,
+        "alias": "UI.Unite.Management.Emblem.Change.SubTitle",
+        "text": "united heraldry"
+    },
+    "8004615": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 소속 문파 / 소속 문파",
+        "id": 8004615,
+        "alias": "UI.Unite.StatusText.CrewNum",
+        "text": "Affiliation (<arg p=[1:integer]/>/<arg p=[2:integer]/>)"
+    },
+    "8004616": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 소속 문파 / 가입 신청",
+        "id": 8004616,
+        "alias": "UI.Unite.StatusText.JoinRequestNum",
+        "text": "Subscribe (<arg p=[1:integer]/>/<arg p=[2:integer]/>)"
+    },
+    "8004617": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 소속 문파 / 가입 초대",
+        "id": 8004617,
+        "alias": "UI.Unite.StatusText.JoinInviteNum",
+        "text": "Invite to join (<arg p=[1:integer]/>/<arg p=[2:integer]/>)"
+    },
+    "8004618": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 소속 문파 / 컬럼 / 문파",
+        "id": 8004618,
+        "alias": "UI.Unite.CrewInfo.Colum.1",
+        "text": "clan"
+    },
+    "8004619": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 소속 문파 / 컬럼 / 직위",
+        "id": 8004619,
+        "alias": "UI.Unite.CrewInfo.Colum.2",
+        "text": "spot"
+    },
+    "8004620": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 소속 문파 / 컬럼 / 서버",
+        "id": 8004620,
+        "alias": "UI.Unite.CrewInfo.Colum.3",
+        "text": "server"
+    },
+    "8004621": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 소속 문파 / 컬럼 / 레벨",
+        "id": 8004621,
+        "alias": "UI.Unite.CrewInfo.Colum.4",
+        "text": "level"
+    },
+    "8004622": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 소속 문파 / 컬럼 / 문파원 수",
+        "id": 8004622,
+        "alias": "UI.Unite.CrewInfo.Colum.5",
+        "text": "number of members"
+    },
+    "8004623": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 소속 문파 / 컬럼 / 문파장 접속 상태",
+        "id": 8004623,
+        "alias": "UI.Unite.CrewInfo.Colum.6",
+        "text": "Moonwave connection status"
+    },
+    "8004624": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 소속 문파 / 컬럼 / 소개",
+        "id": 8004624,
+        "alias": "UI.Unite.CrewInfo.Colum.7",
+        "text": "Introduce"
+    },
+    "8004625": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 소속 문파 / 컬럼 / 남은 시간",
+        "id": 8004625,
+        "alias": "UI.Unite.CrewInfo.Colum.8",
+        "text": "Time remaining"
+    },
+    "8004626": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 소속 문파 / 컬럼 / 가입 승인",
+        "id": 8004626,
+        "alias": "UI.Unite.CrewInfo.Colum.9",
+        "text": "sign up approval"
+    },
+    "8004627": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 소속 문파 / 컬럼 / 초대 취소",
+        "id": 8004627,
+        "alias": "UI.Unite.CrewInfo.Colum.10",
+        "text": "Cancel invitation"
+    },
+    "8004628": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 소속 문파 / 없음1",
+        "id": 8004628,
+        "alias": "UI.Unite.CrewInfo.No1",
+        "text": "There are no factions belonging to the Union."
+    },
+    "8004629": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 소속 문파 / 없음2",
+        "id": 8004629,
+        "alias": "UI.Unite.CrewInfo.No2",
+        "text": "Recruit your clan by inviting them to join."
+    },
+    "8004630": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 연합 창설 / 팝업 / 안내1",
+        "id": 8004630,
+        "alias": "UI.Unite.Foundation.PopUp.Desc",
+        "text": "Are you sure you want to create a federation <textColor=[255:198:109:255]><arg p=[1:string]/></><eul/>?"
+    },
+    "8004631": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 연합 창설 / 팝업 / 안내2",
+        "id": 8004631,
+        "alias": "UI.Unite.Foundation.PopUp.Notice",
+        "text": "Federation names cannot be changed after creation."
+    },
+    "8004632": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 소속 문파 / 가입 초대 / 초대 / 안내",
+        "id": 8004632,
+        "alias": "UI.Unite.CrewInfo.Invite.PopUp.Desc",
+        "text": "Enter the name of the faction to which the request to join the alliance will be sent."
+    },
+    "8004633": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 소속 문파 / 가입 초대 / 초대 / 기본 문구",
+        "id": 8004633,
+        "alias": "UI.Unite.CrewInfo.Invite.PopUp.Text",
+        "text": "Enter clan name"
+    },
+    "8004634": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 연합 정보 / 탈퇴 / 안내1",
+        "id": 8004634,
+        "alias": "UI.Unite.WithDrawal.PopUp.Desc",
+        "text": "Are you sure you want to leave the Union?"
+    },
+    "8004635": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 검색 / 결과 없음",
+        "id": 8004635,
+        "alias": "UI.Unite.SearchResult.No",
+        "text": "There are no sects that match the membership conditions."
+    },
+    "8004636": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 추천 연합 / 없음",
+        "id": 8004636,
+        "alias": "UI.Unite.Recommend.No",
+        "text": "There is no sect to recommend."
+    },
+    "8004637": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 가입 관리 / 가입 신청 / 없음",
+        "id": 8004637,
+        "alias": "UI.Unite.JoinManage.JoinRequest.No",
+        "text": "There are no clans that have applied for membership."
+    },
+    "8004638": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 가입 관리 / 가입 초대 / 없음",
+        "id": 8004638,
+        "alias": "UI.Unite.JoinManage.JoinInvite.No",
+        "text": "There are no clans invited."
+    },
+    "8004639": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 소속 문파 / 추방 / 팝업 / 안내2",
+        "id": 8004639,
+        "alias": "UI.Unite.CrewInfo.Exile.ExileDesc",
+        "text": "Banish <arg p=[1:integer]/>factions?"
+    },
+    "8004640": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 직위 / 대표 문파",
+        "id": 8004640,
+        "alias": "UI.Unite.StatusText.Master",
+        "text": "representative clan"
+    },
+    "8004641": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 직위 / 일반 문파",
+        "id": 8004641,
+        "alias": "UI.Unite.StatusText.Crew",
+        "text": "general sect"
+    },
+    "8004642": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 정보 / 전투 / 전투 집중 모드",
+        "id": 8004642,
+        "alias": "UI.Option.Information.Battle.Mode.AllianceUniteGuild",
+        "text": "alliance"
+    },
+    "8004643": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 정보 / 전투 / 전투 집중 모드",
+        "id": 8004643,
+        "alias": "UI.Option.Information.Battle.Mode.EnemyUniteGuild",
+        "text": "hostile coalition"
     }
 }
