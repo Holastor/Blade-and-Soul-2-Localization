@@ -24,9 +24,8 @@ Preffered Donation - https://boosty.to/holastor HYPE HYPE HYPE !!!!
 
 ## Install
 
-* [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/releases/tag/3.0.9) Latest Release;
-* Unpack Localization.05.11.22.zip to \GameFolder\B2\Content\;
-* Run Choose Language.bat as administrator, choose which language you need.
+* [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/releases/tag/3.1.0) Latest Release;
+* Place B2_ko-KR_TextData_00001.pak in the \GameFolder\B2\Content\TextPaks\ko-KR with replace;
 * That's all folks!
 ## OR Source-Install
 * Download Source code (zip) [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/archive/refs/heads/main.zip)
