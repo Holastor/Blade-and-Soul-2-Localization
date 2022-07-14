@@ -53,7 +53,7 @@ Preffered Donation - https://boosty.to/holastor HYPE HYPE HYPE !!!!
 ## About
   * Author: by Holastor;
 
-## Warning:
+## Warning
 1) Game crashes and unstable work are possible. Need more tests
 2) The author is not responsible for bugs, bans, and other problems.
 3) !!!!!! The author is not 100% sure whether it is possible to get a ban for this!!!!!!
