@@ -24,7 +24,7 @@ Preffered Donation - https://boosty.to/holastor HYPE HYPE HYPE !!!!
 
 ## Install
 
-* [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/releases/tag/3.1.3) Latest Release;
+* [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/releases/tag/3.1.4) Latest Release;
 * Place newpak.pak in the \GameFolder\AssetBundle, with replace;
 * Rename the file newpak.pak to B2-Bundle@2022.07.13-03.41.26.pak;
 * That's all folks!
