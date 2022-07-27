@@ -24,13 +24,14 @@ Preffered Donation - https://boosty.to/holastor HYPE HYPE HYPE !!!!
 
 ## Install
 
-* [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/releases/tag/3.1.4) Latest Release;
+* [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/releases/tag/3.1.5) Latest Release;
 * Place newpak.pak in the \GameFolder\AssetBundle, with replace;
-* Rename the file newpak.pak to B2-Bundle@2022.07.13-03.41.26.pak;
+* Rename the file newpak.pak to B2-Bundle@2022.07.27-00.35.09.pak;
 * That's all folks!
 
 ## OR Source-Install
-* Download Source code (zip) [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/archive/refs/heads/main.zip)
+ Dropped.
+<!--* Download Source code (zip) [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/archive/refs/heads/main.zip)
 * You need to download the source code and unpack it
 * In the /Blade-and-Soul-2-Localization-main/ folder there is an en_US folder, its contents must be transferred in the folder \Game Folder\B2\Data\Text\
 * And You need Rename en_US to ko-KR.
@@ -38,7 +39,7 @@ Preffered Donation - https://boosty.to/holastor HYPE HYPE HYPE !!!!
 * You should get something like this:
  ![Screenshot 2021-09-03 085020](https://user-images.githubusercontent.com/77208679/131947968-630a7edd-d2e2-4754-80e1-769d07ffa34a.png)
 * And you need to go folder \GameFolder\B2\Content and delete folder TextPaks;
-* That's all folks!
+* That's all folks!-->
 
 ## Mobile-Install
  Dropped.
