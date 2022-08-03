@@ -16031,21 +16031,21 @@
     },
     "8002367": {
         "deprecated": false,
-        "Dev_Desc": "거래소 / 분류 / 방어구 / 팔찌",
+        "Dev_Desc": "거래소 / 분류 / 장신구 / 팔찌",
         "id": 8002367,
         "alias": "UI.Trade.Category.Accessorry.Bracelet",
         "text": "Bracelet"
     },
     "8002368": {
         "deprecated": false,
-        "Dev_Desc": "거래소 / 분류 / 방어구 / 노리개",
+        "Dev_Desc": "거래소 / 분류 / 장신구 / 노리개",
         "id": 8002368,
         "alias": "UI.Trade.Category.Accessorry.Norigae",
         "text": "Norigae"
     },
     "8002369": {
         "deprecated": false,
-        "Dev_Desc": "거래소 / 분류 / 방어구 / 영혼석",
+        "Dev_Desc": "거래소 / 분류 / 장신구 / 영혼석",
         "id": 8002369,
         "alias": "UI.Trade.Category.Accessorry.SoulStone",
         "text": "Soul Gem"
@@ -20015,7 +20015,7 @@
     "8002940": {
         "deprecated": false,
         "id": 8002940,
-        "alias": "UI.Item.ItemType.Grocery.soulPiece",
+        "alias": "UI.Item.ItemType.Grocery.SoulPiece",
         "text": "Soul Shard"
     },
     "8002941": {
@@ -30316,7 +30316,7 @@
     },
     "8004451": {
         "deprecated": false,
-        "Dev_Desc": "제작 커스텀 탭 이름 / 염화 무기",
+        "Dev_Desc": "제작 커스텀 탭 이름 / 파티 던전",
         "id": 8004451,
         "alias": "UI.Craft.CustomCategory.PartyDungeon",
         "text": "Weapon"
@@ -31531,5 +31531,1755 @@
         "id": 8004643,
         "alias": "UI.Option.Information.Battle.Mode.EnemyUniteGuild",
         "text": "hostile coalition"
+    },
+    "8004644": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 미가입 / 컬럼 / 연합",
+        "id": 8004644,
+        "alias": "UI.Unite.CrewInfo.Colum.11",
+        "text": "Union"
+    },
+    "8004645": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 미가입 / 컬럼 / 대표 문파",
+        "id": 8004645,
+        "alias": "UI.Unite.CrewInfo.Colum.12",
+        "text": "representative clan"
+    },
+    "8004646": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 미가입 / 컬럼 / 연합원",
+        "id": 8004646,
+        "alias": "UI.Unite.CrewInfo.Colum.13",
+        "text": "number of union members"
+    },
+    "8004648": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 미가입 / 컬럼 / 신청",
+        "id": 8004648,
+        "alias": "UI.Unite.CrewInfo.Colum.14",
+        "text": "application"
+    },
+    "8004650": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 미가입 / 컬럼 / 신청 취소",
+        "id": 8004650,
+        "alias": "UI.Unite.CrewInfo.Colum.15",
+        "text": "Cancel application"
+    },
+    "8004651": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 미가입 / 컬럼 / 초대 수락",
+        "id": 8004651,
+        "alias": "UI.Unite.CrewInfo.Colum.16",
+        "text": "Accept invitation"
+    },
+    "8004652": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 연합 창설 / 창설 버튼 / 레벨 부족",
+        "id": 8004652,
+        "alias": "UI.Unite.Foundation.LackLevel",
+        "text": "Class <arg p=[1:integer]/>Level or higher"
+    },
+    "8004653": {
+        "deprecated": false,
+        "Dev_Desc": "아이템 / 아이템 소분류 / (운영툴용)",
+        "id": 8004653,
+        "alias": "UI.Item.ItemType.SoulShieldPiece1",
+        "text": "loot 1"
+    },
+    "8004654": {
+        "deprecated": false,
+        "Dev_Desc": "아이템 / 아이템 소분류 / (운영툴용)",
+        "id": 8004654,
+        "alias": "UI.Item.ItemType.SoulShieldPiece2",
+        "text": "2 times"
+    },
+    "8004655": {
+        "deprecated": false,
+        "Dev_Desc": "아이템 / 아이템 소분류 / (운영툴용)",
+        "id": 8004655,
+        "alias": "UI.Item.ItemType.SoulShieldPiece3",
+        "text": "3 times"
+    },
+    "8004656": {
+        "deprecated": false,
+        "Dev_Desc": "아이템 / 아이템 소분류 / (운영툴용)",
+        "id": 8004656,
+        "alias": "UI.Item.ItemType.SoulShieldPiece4",
+        "text": "treasure chest 4"
+    },
+    "8004657": {
+        "deprecated": false,
+        "Dev_Desc": "아이템 / 아이템 소분류 / (운영툴용)",
+        "id": 8004657,
+        "alias": "UI.Item.ItemType.SoulShieldPiece5",
+        "text": "5 times"
+    },
+    "8004658": {
+        "deprecated": false,
+        "Dev_Desc": "아이템 / 아이템 소분류 / (운영툴용)",
+        "id": 8004658,
+        "alias": "UI.Item.ItemType.SoulShieldPiece6",
+        "text": "shield number 6"
+    },
+    "8004659": {
+        "deprecated": false,
+        "Dev_Desc": "아이템 / 아이템 소분류 / (운영툴용)",
+        "id": 8004659,
+        "alias": "UI.Item.ItemType.SoulShieldPiece7",
+        "text": "7 trophies"
+    },
+    "8004660": {
+        "deprecated": false,
+        "Dev_Desc": "아이템 / 아이템 소분류 / (운영툴용)",
+        "id": 8004660,
+        "alias": "UI.Item.ItemType.SoulShieldPiece8",
+        "text": "number 8"
+    },
+    "8004661": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 연합 정보 / 해산 / 안내1",
+        "id": 8004661,
+        "alias": "UI.Unite.Management.Dissolve.PopUp.Desc",
+        "text": "Are you sure you want to dissolve the alliance?"
+    },
+    "8004662": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 연합 정보 / 해산 / 안내2",
+        "id": 8004662,
+        "alias": "UI.Unite.Management.Dissolve.PopUp.Desc.Detail",
+        "text": "Upon disbanding, all alliance information will be lost."
+    },
+    "8004663": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 연합 정보 / 해산 / 안내3",
+        "id": 8004663,
+        "alias": "UI.Unite.Management.Dissolve.PopUp.Desc.Input",
+        "text": "To dissolve a coalition, enter <textColor=[248:219:179:255]>\"Request dissolution\"</>."
+    },
+    "8004664": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 소속 문파 / 추방 / 팝업 / 안내1",
+        "id": 8004664,
+        "alias": "UI.Unite.Management.Exile.ExileSubjectInfo2",
+        "text": "Other <arg p=[1:integer]/>"
+    },
+    "8004665": {
+        "deprecated": false,
+        "Dev_Desc": "월드필드/퀘스트/달성필요/붉은 달 사막",
+        "id": 8004665,
+        "alias": "UI.Dungeon.WorldField.Quest",
+        "text": "You can enter after achieving [<arg p=[1:string]/>]."
+    },
+    "8004666": {
+        "deprecated": false,
+        "Dev_Desc": "월드필드/퀘스트/시간/만료/붉은 달 사막",
+        "id": 8004666,
+        "alias": "UI.Dungeon.WorldField.Info",
+        "text": "Expired World Fields cannot be entered. You can use the charging stone to recharge the world field usage time."
+    },
+    "8004667": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 대표 문파 위임 / 위임 안내",
+        "id": 8004667,
+        "alias": "UI.Unite.PopUp.Delegate.Desc",
+        "text": "Would you like to delegate the title of representative clan to that clan?"
+    },
+    "8004668": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 대표 문파 위임 / 안내2",
+        "id": 8004668,
+        "alias": "UI.Unite.PopUp.Delegate.ChangeDesc",
+        "text": "All powers of the union leader will be transferred,\\nand the position will be changed to a general clan."
+    },
+    "8004669": {
+        "deprecated": false,
+        "Dev_Desc": "문파 / 관리 / 위임/ 위임자 아이디 표시",
+        "id": 8004669,
+        "alias": "UI.Unite.PopUp.Delegate.TargetGuild",
+        "text": "target sect"
+    },
+    "8004670": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 버튼 / 연합 창설",
+        "id": 8004670,
+        "alias": "UI.Unite.buttonName.UniteFoundation",
+        "text": "Founding of the Union"
+    },
+    "8004671": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 보옥",
+        "id": 8004671,
+        "alias": "UI.Craft.CustomCategory.GemStone",
+        "text": "jewel"
+    },
+    "8004672": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 제작 재료",
+        "id": 8004672,
+        "alias": "UI.Craft.CustomCategory.CraftResource",
+        "text": "crafting material"
+    },
+    "8004673": {
+        "deprecated": false,
+        "Dev_Desc": "문파 / 문파원 / 추방 / 안내",
+        "id": 8004673,
+        "alias": "UI.Unite.Management.Exlie.Desc1",
+        "text": "Exile the selected clan."
+    },
+    "8004674": {
+        "deprecated": false,
+        "Dev_Desc": "문파 / 문파원 / 추방 / 추방 설명",
+        "id": 8004674,
+        "alias": "UI.Unite.Management.Exile.Desc2",
+        "text": "Choose which faction to exile"
+    },
+    "8004675": {
+        "deprecated": false,
+        "Dev_Desc": "아이템 / 아이템 소분류 / ",
+        "id": 8004675,
+        "alias": "UI.Item.ItemType.ChargeAfterEffectTicket",
+        "text": "Expendables"
+    },
+    "8004676": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 전투 옵션",
+        "id": 8004676,
+        "alias": "UI.Targeting.Filter.HostilityUnite",
+        "text": "hostile coalition"
+    },
+    "8004677": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 전투 옵션",
+        "id": 8004677,
+        "alias": "UI.Targeting.Filter.AffiliatedUnite",
+        "text": "affiliated association"
+    },
+    "8004678": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 전투 옵션",
+        "id": 8004678,
+        "alias": "UI.Targeting.Filter.AllianceUnite",
+        "text": "alliance"
+    },
+    "8004679": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 전투 옵션",
+        "id": 8004679,
+        "alias": "UI.Targeting.Filter.HostilityUniteLeader",
+        "text": "hostile coalition leader"
+    },
+    "8004680": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 전투 옵션",
+        "id": 8004680,
+        "alias": "UI.Targeting.Filter.AffiliatedUniteLeader",
+        "text": "affiliated union leader"
+    },
+    "8004681": {
+        "deprecated": false,
+        "Dev_Desc": "설정 / 전투 옵션",
+        "id": 8004681,
+        "alias": "UI.Targeting.Filter.AllianceUniteLeader",
+        "text": "alliance leader"
+    },
+    "8004682": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 붉은 달의 주화",
+        "id": 8004682,
+        "alias": "UI.Craft.CustomCategory.RedMoonCoin_01",
+        "text": "red moon coin"
+    },
+    "8004683": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 혼돈의 조각",
+        "id": 8004683,
+        "alias": "UI.Craft.CustomCategory.ChaosPiece_01",
+        "text": "fragment of chaos"
+    },
+    "8004684": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 생명의 ",
+        "id": 8004684,
+        "alias": "UI.Craft.CustomCategory.LifeSoul_01",
+        "text": "Lifeguard Summon Scroll Crafting Ticket"
+    },
+    "8004685": {
+        "deprecated": false,
+        "Dev_Desc": "환경설정 / 계정 / 결제 계정 정보",
+        "id": 8004685,
+        "alias": "UI.Option.Account.OnestorePaidAccountChangeButton",
+        "text": "Change your ONEstore billing account"
+    },
+    "8004686": {
+        "deprecated": false,
+        "Dev_Desc": "무공 / 무공 설명 / 단계5",
+        "id": 8004686,
+        "alias": "UI.Skill.Info.Step.5",
+        "text": "transcendence"
+    },
+    "8004687": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 달빛의 증표",
+        "id": 8004687,
+        "alias": "UI.Craft.CustomCategory.MoonToken_01",
+        "text": "mark of moonlight"
+    },
+    "8004688": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 절대 강자 블랙",
+        "id": 8004688,
+        "alias": "UI.Craft.CustomCategory.StrongBlack",
+        "text": "absolute strong black"
+    },
+    "8004689": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 신비의 깃털",
+        "id": 8004689,
+        "alias": "UI.Craft.CustomCategory.MysteriousFeather",
+        "text": "Mysterious Feather"
+    },
+    "8004690": {
+        "deprecated": false,
+        "Dev_Desc": "로그인 UI / 타이틀 하단 문구(TX용)",
+        "id": 8004690,
+        "alias": "UI.Login.Title.Desc",
+        "text": "\"The company actively implements the online game industry addiction prevention voluntary agreement.\\n\\nResist against bad games and reject pirated games. Pay attention to self-protection and be careful not to be deceived. Moderate games are the brains addicted to game drinks. Plan your time rationally and enjoy a healthy life.\\n\\nNotice on the National Press Office's Notice on Prevention of Online Game Addiction for Minors and Strict Management for Prevention of Online Game Theft by Minors According to the report, all online game users must complete real-name registration. Accounts with valid identity information can enter the game, and players who are authenticated as minors are restricted by anti-addiction features.\""
+    },
+    "8004691": {
+        "deprecated": false,
+        "Dev_Desc": "채팅 / 이용자 보호 안내",
+        "id": 8004691,
+        "alias": "UI.Chat.Guideline",
+        "text": "Unwholesome acts such as slander, abusive language, obscene/advertising, etc. are subject to sanctions according to the operation policy and may cause damage, so please do not disclose payment information and personal information to others."
+    },
+    "8004692": {
+        "deprecated": false,
+        "Dev_Desc": "제작 / 장비함",
+        "id": 8004692,
+        "alias": "UI.Craft.CustomCategory.Box2",
+        "text": "equipment box"
+    },
+    "8004693": {
+        "deprecated": false,
+        "Dev_Desc": "제작 / 비사문의 비밀 증표",
+        "id": 8004693,
+        "alias": "UI.Craft.CustomCategory.SecretCoin",
+        "text": "Secret Coin of the Secret"
+    },
+    "8004694": {
+        "deprecated": false,
+        "Dev_Desc": "파티던전 / 존 버프",
+        "id": 8004694,
+        "alias": "UI.PartyDungeon.HotTime.Count",
+        "text": "<arg p=[1:integer]/>species"
+    },
+    "8004695": {
+        "deprecated": false,
+        "Dev_Desc": "파티던전 / 존 버프",
+        "id": 8004695,
+        "alias": "UI.PartyDungeon.HotTime.HotTimeEffect.Title",
+        "text": "Hot Time Effect Information"
+    },
+    "8004696": {
+        "deprecated": false,
+        "Dev_Desc": "파티던전 / 존 버프",
+        "id": 8004696,
+        "alias": "UI.PartyDungeon.HotTime.Effect.Title",
+        "text": "Effect information"
+    },
+    "8004697": {
+        "deprecated": false,
+        "Dev_Desc": "블레이드 효과 악녀강림Lv.1",
+        "id": 8004697,
+        "alias": "UI.Soul.BladeEffect.77",
+        "text": "Blade Effect Advent of the Devil Lv.1"
+    },
+    "8004698": {
+        "deprecated": false,
+        "Dev_Desc": "블레이드 효과 악녀강림Lv.2",
+        "id": 8004698,
+        "alias": "UI.Soul.BladeEffect.78",
+        "text": "Blade Effect Advent of the Devil Lv.2"
+    },
+    "8004699": {
+        "deprecated": false,
+        "Dev_Desc": "영웅 5성/블레이드 효과 악녀강림Lv.3",
+        "id": 8004699,
+        "alias": "UI.Soul.BladeEffect.79",
+        "text": "Blade Effect Advent of the Villainess Lv.3\\nSoul is activated when using martial arts"
+    },
+    "8004700": {
+        "deprecated": false,
+        "Dev_Desc": "블레이드 효과 악녀강림Lv.3",
+        "id": 8004700,
+        "alias": "UI.Soul.BladeEffect.80",
+        "text": "Blade Effect Advent of the Devil Lv.3"
+    },
+    "8004701": {
+        "deprecated": false,
+        "Dev_Desc": "전설 3성/블레이드 효과 악녀강림Lv.4",
+        "id": 8004701,
+        "alias": "UI.Soul.BladeEffect.81",
+        "text": "Blade Effect Advent of the Villainess Lv.4\\nSoul is activated when using martial arts"
+    },
+    "8004702": {
+        "deprecated": false,
+        "Dev_Desc": "전설 5성/블레이드 효과 악녀강림Lv.5",
+        "id": 8004702,
+        "alias": "UI.Soul.BladeEffect.82",
+        "text": "Blade Effect Devil's Advent Lv.5\\nIncrease attack speed without attack"
+    },
+    "8004703": {
+        "deprecated": false,
+        "Dev_Desc": "제작/ 파티 던전 / 희생의 무덤",
+        "id": 8004703,
+        "alias": "UI.Craft.CustomCategory.Tomb",
+        "text": "tomb of sacrifice"
+    },
+    "8004704": {
+        "deprecated": false,
+        "Dev_Desc": "제작/ 파티 던전 / 바다뱀 보급기지",
+        "id": 8004704,
+        "alias": "UI.Craft.CustomCategory.SeaSerpent",
+        "text": "sea ​​snake supply base"
+    },
+    "8004705": {
+        "deprecated": false,
+        "Dev_Desc": "블레이드 효과 취향존중Lv.1",
+        "id": 8004705,
+        "alias": "UI.Soul.BladeEffect.83",
+        "text": "Blade Effect Respect for Taste Lv.1"
+    },
+    "8004706": {
+        "deprecated": false,
+        "Dev_Desc": "블레이드 효과 취향존중Lv.2",
+        "id": 8004706,
+        "alias": "UI.Soul.BladeEffect.84",
+        "text": "Blade Effect Respect for Taste Lv.2"
+    },
+    "8004707": {
+        "deprecated": false,
+        "Dev_Desc": "블레이드 효과 취향존중Lv.3",
+        "id": 8004707,
+        "alias": "UI.Soul.BladeEffect.85",
+        "text": "Blade Effect Respect for Taste Lv.3"
+    },
+    "8004708": {
+        "deprecated": false,
+        "Dev_Desc": "영웅 5성/블레이드 효과 취향존중Lv.3",
+        "id": 8004708,
+        "alias": "UI.Soul.BladeEffect.86",
+        "text": "Blade Effect Respect for Taste Lv.3\\nSoul is activated when using martial arts"
+    },
+    "8004709": {
+        "deprecated": false,
+        "Dev_Desc": "블레이드 효과 허약함Lv.1",
+        "id": 8004709,
+        "alias": "UI.Soul.BladeEffect.87",
+        "text": "Weak blade effect Lv.1"
+    },
+    "8004710": {
+        "deprecated": false,
+        "Dev_Desc": "블레이드 효과 허약함Lv.2",
+        "id": 8004710,
+        "alias": "UI.Soul.BladeEffect.88",
+        "text": "Weak blade effect Lv.2"
+    },
+    "8004711": {
+        "deprecated": false,
+        "Dev_Desc": "블레이드 효과 허약함Lv.3",
+        "id": 8004711,
+        "alias": "UI.Soul.BladeEffect.89",
+        "text": "Weak blade effect Lv.3"
+    },
+    "8004712": {
+        "deprecated": false,
+        "Dev_Desc": "영웅 5성/블레이드 효과 허약함Lv.3",
+        "id": 8004712,
+        "alias": "UI.Soul.BladeEffect.90",
+        "text": "Weak blade effect Lv.3\\nActivate soul when using no attack"
+    },
+    "8004713": {
+        "deprecated": false,
+        "Dev_Desc": "제작 / 비법서 / 특별 제작",
+        "id": 8004713,
+        "alias": "UI.Craft.CustomCategory.CraftScroll.Special",
+        "text": "equipment conversion"
+    },
+    "8004714": {
+        "deprecated": false,
+        "Dev_Desc": "제작 / 비법서 / 일반 제작",
+        "id": 8004714,
+        "alias": "UI.Craft.CustomCategory.CraftScroll.Normal",
+        "text": "Fragment Synthesis"
+    },
+    "8004715": {
+        "deprecated": false,
+        "Dev_Desc": "제작 / 이벤트 / 환상의 짝꿍",
+        "id": 8004715,
+        "alias": "UI.Craft.CustomCategory.BestFriend",
+        "text": "fantastic mate"
+    },
+    "8004716": {
+        "deprecated": false,
+        "Dev_Desc": "결제 계졍 연동 오류",
+        "id": 8004716,
+        "alias": "UI.Account.Error.NotConnected.Onestore",
+        "text": "Cash payment products can be purchased after logging in to One Store."
+    },
+    "8004717": {
+        "deprecated": false,
+        "Dev_Desc": "제작 / 한여름의 반달호수",
+        "id": 8004717,
+        "alias": "UI.Craft.CustomCategory.Event.Summer_01",
+        "text": "half moon lake in midsummer"
+    },
+    "8004718": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 성장",
+        "id": 8004718,
+        "alias": "UI.Pets.Level",
+        "text": "Lv.<arg p=[1:integer]/>"
+    },
+    "8004719": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 성장",
+        "id": 8004719,
+        "alias": "UI.PetsExpedition.Title",
+        "text": "guardian spirit expedition"
+    },
+    "8004720": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 성장",
+        "id": 8004720,
+        "alias": "UI.Pets.SummonStat.Button",
+        "text": "Summon ability"
+    },
+    "8004721": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 성장",
+        "id": 8004721,
+        "alias": "UI.Pets.ExpeditionStat.Button",
+        "text": "Exploration Skills"
+    },
+    "8004722": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 성장",
+        "id": 8004722,
+        "alias": "UI.Pets.ExpeditionStat.Text.Power",
+        "text": "combat power"
+    },
+    "8004723": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 성장",
+        "id": 8004723,
+        "alias": "UI.Pets.ExpeditionStat.Text.Element",
+        "text": "property"
+    },
+    "8004724": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 성장",
+        "id": 8004724,
+        "alias": "UI.Pets.ExpeditionStat.Text.LeaderSkill",
+        "text": "leader skill"
+    },
+    "8004725": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 성장",
+        "id": 8004725,
+        "alias": "UI.Pets.ExpeditionStat.Text.ExpedSkill",
+        "text": "exploration skills"
+    },
+    "8004726": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 성장",
+        "id": 8004726,
+        "alias": "UI.Pets.ExpeditionSkill.NameLevel",
+        "text": "<arg p=[1:string]/>Lv.<arg p=[2:integer]/>"
+    },
+    "8004727": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 성장",
+        "id": 8004727,
+        "alias": "UI.Pets.ExpeditionSkill.Text.RequireRank",
+        "text": "Guardian Spirit Star <arg p=[1:integer]/>Activated when holy day"
+    },
+    "8004728": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 성장",
+        "id": 8004728,
+        "alias": "UI.Pets.FragInfuse.Button",
+        "text": "fragment injection"
+    },
+    "8004729": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 성장",
+        "id": 8004729,
+        "alias": "UI.PetsExpedition.Exploring.Time",
+        "text": "Exploring"
+    },
+    "8004730": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 성장",
+        "id": 8004730,
+        "alias": "UI.Pets.GrowthInfo.Title",
+        "text": "growth information"
+    },
+    "8004731": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 성장",
+        "id": 8004731,
+        "alias": "UI.Pets.GrowthInfo.LevelRange",
+        "text": "Lv.<arg p=[1:integer]/>- <arg p=[2:integer]/>"
+    },
+    "8004732": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 성장",
+        "id": 8004732,
+        "alias": "UI.Pets.GrowthInfo.",
+        "text": "give additional attributes"
+    },
+    "8004733": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 성장",
+        "id": 8004733,
+        "alias": "UI.Pets.GrowthInfo.RankUp.Button",
+        "text": "growth"
+    },
+    "8004734": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 성장",
+        "id": 8004734,
+        "alias": "UI.Pets.GrowthInfo.RankUp.MaxProbability",
+        "text": "The success rate is at its maximum."
+    },
+    "8004735": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 성장",
+        "id": 8004735,
+        "alias": "UI.Pets.GrowthInfo.RankUp.LackMaterial",
+        "text": "Could not grow due to insufficient [<arg p=[1:string]/>]."
+    },
+    "8004736": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 성장",
+        "id": 8004736,
+        "alias": "UI.Pets.GrowthInfo.RankUp.Probability",
+        "text": "probability of success"
+    },
+    "8004737": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 성장",
+        "id": 8004737,
+        "alias": "UI.Pets.GrowthInfo.RankUp.ProbabilityValue",
+        "text": "<arg p=[1:integer]/>%"
+    },
+    "8004738": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 성장",
+        "id": 8004738,
+        "alias": "UI.Pets.GrowthInfo.RankUp.ProbabilityUp",
+        "text": "Increases growth rate by <arg p=[1:integer]/>%"
+    },
+    "8004739": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 성장",
+        "id": 8004739,
+        "alias": "UI.Pets.GrowthInfo.RankUp.ProbabilitySum",
+        "text": "Probability of success <arg p=[1:integer]/>% (<arg p=[2:integer]/>%+<arg p=[3:integer]/>%)"
+    },
+    "8004740": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004740,
+        "alias": "UI.PetsExpedition.ExpeditionLevel",
+        "text": "Exploration Lv.<arg p=[1:integer]/>"
+    },
+    "8004741": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004741,
+        "alias": "UI.PetsExpedition.OngoingSlotUsage",
+        "text": "Exploring <arg p=[1:integer]/>/<arg p=[2:integer]/>"
+    },
+    "8004742": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004742,
+        "alias": "UI.PetsExpedition.PartySlot",
+        "text": "Guardian Spirit Party Slots"
+    },
+    "8004743": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004743,
+        "alias": "UI.PetsExpedition.OngoingSlot",
+        "text": "Number of simultaneous explorations"
+    },
+    "8004744": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004744,
+        "alias": "UI.PetsExpedition.ProvinceRank",
+        "text": "<arg p=[1:integer]/>class"
+    },
+    "8004745": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004745,
+        "alias": "UI.PetsExpedition.ProvinceRankUp.Button",
+        "text": "advancement"
+    },
+    "8004746": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004746,
+        "alias": "UI.PetsExpedition.ExpeditionLevelInfo.Title",
+        "text": "Exploration level information"
+    },
+    "8004747": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004747,
+        "alias": "UI.PetsExpedition.ExpeditionLevelInfo.Level",
+        "text": "Lv.<arg p=[1:integer]/>"
+    },
+    "8004748": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004748,
+        "alias": "UI.PetsExpedition.ExpeditionLevelInfo.PartySlot",
+        "text": "Number of Guardian Spirit Party Slots"
+    },
+    "8004749": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004749,
+        "alias": "UI.PetsExpedition.ExpeditionLevelInfo.OngoingSlot",
+        "text": "Simultaneous Exploration Maximum"
+    },
+    "8004750": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004750,
+        "alias": "UI.PetsExpedition.ExpeditionLevelInfo.PlusValue",
+        "text": "+<arg p=[1:integer]/>"
+    },
+    "8004751": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004751,
+        "alias": "UI.PetsExpedition.SpotInfo.TimeRemainText",
+        "text": "leftover"
+    },
+    "8004752": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004752,
+        "alias": "UI.PetsExpedition.ProvinceRankUp.Title",
+        "text": "Regional Upgrade"
+    },
+    "8004753": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004753,
+        "alias": "UI.PetsExpedition.ProvinceRankUp.Result",
+        "text": "<arg p=[1:string]/><arg p=[2:integer]/>class"
+    },
+    "8004754": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004754,
+        "alias": "UI.PetsExpedition.ProvinceRankUp.DifficultyOpen",
+        "text": "<arg p=[1:string]/>Region <arg p=[2:string]/>Difficulty unlocked"
+    },
+    "8004755": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004755,
+        "alias": "UI.PetsExpedition.ProvinceRankUp.ConsumeItem",
+        "text": "upgrade material"
+    },
+    "8004756": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004756,
+        "alias": "UI.PetsExpedition.ProvinceRankUp.RankUpToLevelUp",
+        "text": "Exploration level increases as the rank of each region rises."
+    },
+    "8004757": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004757,
+        "alias": "UI.PetsExpedition.ProvinceExpRewardInfo",
+        "text": "<arg p=[1:integer]/>local experience"
+    },
+    "8004758": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004758,
+        "alias": "UI.PetsExpedition.ElementInfo",
+        "text": "attribute information"
+    },
+    "8004759": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004759,
+        "alias": "UI.PetsExpedition.RewardInfo",
+        "text": "Exploration Rewards"
+    },
+    "8004760": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004760,
+        "alias": "UI.PetsExpedition.CostInfo",
+        "text": "Exploration cost"
+    },
+    "8004761": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004761,
+        "alias": "UI.PetsExpedition.Ready.Button",
+        "text": "ready to explore"
+    },
+    "8004762": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004762,
+        "alias": "UI.PetsExpedition.SpotNameDifficulty",
+        "text": "<arg p=[1:string]/>(<arg p=[2:string]/>)"
+    },
+    "8004763": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004763,
+        "alias": "UI.PetsExpedition.TimeRemaining",
+        "text": "Time remaining"
+    },
+    "8004764": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004764,
+        "alias": "UI.PetsExpedition.SpotPopUp.Cancel.Button",
+        "text": "expedition cancel"
+    },
+    "8004765": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004765,
+        "alias": "UI.PetsExpedition.SpotPopUp.FinishNow.Button",
+        "text": "done immediately"
+    },
+    "8004766": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004766,
+        "alias": "UI.PetsExpedition.SpotPopUp.Finished.Button",
+        "text": "Exploration completed"
+    },
+    "8004767": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004767,
+        "alias": "UI.PetsExpedition.SpotPopUp.CanNotFinishCost",
+        "text": "The expedition cannot be completed immediately due to lack of resources."
+    },
+    "8004768": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004768,
+        "alias": "UI.PetsExpedition.SpotPopUp.CancelConfirm",
+        "text": "Are you sure you want to cancel an expedition in progress?"
+    },
+    "8004769": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004769,
+        "alias": "UI.PetsExpedition.SpotPopUp.CancelWarning",
+        "text": "No rewards can be obtained if the expedition is cancelled."
+    },
+    "8004770": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004770,
+        "alias": "UI.PetsExpedition.SpotPopUp.Quit.Button",
+        "text": "cancellation"
+    },
+    "8004771": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004771,
+        "alias": "UI.PetsExpedition.SpotPopUp.FinishConfirm",
+        "text": "Would you like to complete the expedition immediately?"
+    },
+    "8004772": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004772,
+        "alias": "UI.PetsExpedition.SpotPopUp.FinishWarning",
+        "text": "Immediate completion counts are charged once every 8 hours."
+    },
+    "8004773": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004773,
+        "alias": "UI.PetsExpedition.SpotPopUp.FinishRemain",
+        "text": "Remaining counts <arg p=[1:integer]/>/<arg p=[2:integer]/>times"
+    },
+    "8004774": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004774,
+        "alias": "UI.PetsExpedition.SpotPopUp.FinishCost",
+        "text": "cost of completion"
+    },
+    "8004775": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004775,
+        "alias": "UI.PetsExpedition.SpotPopUp.CancelComplete",
+        "text": "Canceled expedition ‘<arg p=[1:string]/>(<arg p=[2:string]/>)’."
+    },
+    "8004776": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004776,
+        "alias": "UI.PetsExpedition.SpotPopUp.CanNotFinishTicket",
+        "text": "The expedition cannot be completed immediately due to insufficient number of immediate completions remaining."
+    },
+    "8004777": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004777,
+        "alias": "UI.PetsExpedition.Result.Title",
+        "text": "Exploration results"
+    },
+    "8004778": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004778,
+        "alias": "UI.PetsExpedition.Result.TimeSpent",
+        "text": "Exploration time"
+    },
+    "8004779": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004779,
+        "alias": "UI.PetsExpedition.Result.Quit.Button",
+        "text": "Confirm"
+    },
+    "8004780": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004780,
+        "alias": "UI.PetsExpedition.Again.Start.Button",
+        "text": "re-explore"
+    },
+    "8004781": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004781,
+        "alias": "UI.PetsExpedition.Again.Confirm",
+        "text": "<arg p=[1:string]/>(<arg p=[2:string]/>) Re-explore?"
+    },
+    "8004782": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004782,
+        "alias": "UI.PetsExpedition.Again.Warning",
+        "text": "Resumes the expedition with the same difficulty and guardian spirit."
+    },
+    "8004783": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004783,
+        "alias": "UI.PetsExpedition.Again.Quit.Button",
+        "text": "cancellation"
+    },
+    "8004784": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004784,
+        "alias": "UI.PetsExpedition.CanNotStartCost",
+        "text": "Exploration cannot be done due to insufficient expedition costs."
+    },
+    "8004785": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004785,
+        "alias": "UI.PetsExpedition.StartSuccess",
+        "text": "Start exploring ‘<arg p=[1:string]/>(<arg p=[2:string]/>)’."
+    },
+    "8004786": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004786,
+        "alias": "UI.PetsExpedition.CostSelect.Title",
+        "text": "material selection"
+    },
+    "8004787": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004787,
+        "alias": "UI.PetsExpedition.CostSelect.Warning.Rule",
+        "text": "Use the materials in the order you select them."
+    },
+    "8004788": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004788,
+        "alias": "UI.PetsExpedition.CostSelect.SelectedCount",
+        "text": "<arg p=[1:integer]/>/<arg p=[2:integer]/>"
+    },
+    "8004789": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004789,
+        "alias": "UI.PetsExpedition.CostSelect.SelectedDiff",
+        "text": "<arg p=[1:integer]/>select species"
+    },
+    "8004790": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004790,
+        "alias": "UI.PetsExpedition.CostSelect.Ok.Button",
+        "text": "Confirm"
+    },
+    "8004791": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004791,
+        "alias": "UI.PetsExpedition.CostSelect.Warning.Empty",
+        "text": "There are no exploration materials in stock."
+    },
+    "8004792": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004792,
+        "alias": "UI.PetsExpedition.CostSelect.HaveNothing",
+        "text": "This item is not in stock."
+    },
+    "8004793": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004793,
+        "alias": "UI.PetsExpedition.NeedPower",
+        "text": "Required Combat Strength"
+    },
+    "8004794": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004794,
+        "alias": "UI.PetsExpedition.TimeRequired",
+        "text": "time taken"
+    },
+    "8004795": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004795,
+        "alias": "UI.PetsExpedition.CanAquireElementReward",
+        "text": "Attribute rewards can be obtained"
+    },
+    "8004796": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004796,
+        "alias": "UI.PetsExpedition.SpotElement",
+        "text": "local properties"
+    },
+    "8004797": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004797,
+        "alias": "UI.PetsExpedition.SpotElementIndicator",
+        "text": "<arg p=[1:string]/>attribute"
+    },
+    "8004798": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004798,
+        "alias": "UI.PetsExpedition.ElementRewardInfo",
+        "text": "Compensation for polarity attributes"
+    },
+    "8004799": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004799,
+        "alias": "UI.PetsExpedition.AutoSelect.Button",
+        "text": "automatic selection"
+    },
+    "8004800": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004800,
+        "alias": "UI.PetsExpedition.Start.Button",
+        "text": "adventure"
+    },
+    "8004801": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004801,
+        "alias": "UI.PetsExpedition.NeedProvinceRank",
+        "text": "‘<arg p=[1:string]/>’ <arg p=[2:integer]/>Can be explored upon reaching rank."
+    },
+    "8004802": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004802,
+        "alias": "UI.PetsExpedition.NeedExpeditionLevel",
+        "text": "Exploration Lv. You can register more than <arg p=[2:integer]/>."
+    },
+    "8004803": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004803,
+        "alias": "UI.PetsExpedition.LackEnrolledPet",
+        "text": "Register a Guardian Spirit to start your expedition"
+    },
+    "8004804": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004804,
+        "alias": "UI.PetsExpedition.LackPower",
+        "text": "The combat power of the guardian spirit expedition is insufficient."
+    },
+    "8004805": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004805,
+        "alias": "UI.PetsExpedition.LackOngoingSlot",
+        "text": "Exploration cannot proceed beyond the maximum number of simultaneous expeditions."
+    },
+    "8004806": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004806,
+        "alias": "UI.PetsExpedition.NoPetSkill",
+        "text": "No skills are being applied."
+    },
+    "8004807": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004807,
+        "alias": "UI.PetsExpedition.Enroll.Summoned",
+        "text": "This is the guardian spirit being summoned."
+    },
+    "8004808": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004808,
+        "alias": "UI.PetsExpedition.Enroll.OtherParty",
+        "text": "It is a guardian spirit that is already in the process of being explored."
+    },
+    "8004809": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004809,
+        "alias": "UI.PetsExpedition.Enroll.HaveNot",
+        "text": "Does not hold <arg p=[1:string]/>."
+    },
+    "8004810": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004810,
+        "alias": "UI.PetsExpedition.Enroll.Removed",
+        "text": "Unregistered <arg p=[1:string]/>."
+    },
+    "8004811": {
+        "deprecated": false,
+        "Dev_Desc": "제작 / 기타 / 주화",
+        "id": 8004811,
+        "alias": "UI.Craft.CustomCategory.Coin",
+        "text": "coinage"
+    },
+    "8004812": {
+        "deprecated": false,
+        "Dev_Desc": "제작 / 이벤트 / 비사문의 특별 주화",
+        "id": 8004812,
+        "alias": "UI.Craft.CustomCategory.SpecialCoin",
+        "text": "Bishamun's Special Coin"
+    },
+    "8004813": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004813,
+        "alias": "UI.PetsExpedition.ExpeditionLevelText",
+        "text": "adventure"
+    },
+    "8004814": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004814,
+        "alias": "UI.PetsExpedition.OngoingSlotUsageText",
+        "text": "Exploring"
+    },
+    "8004815": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004815,
+        "alias": "UI.PetsExpedition.ProvinceLock",
+        "text": "You can explore after activating the area."
+    },
+    "8004816": {
+        "deprecated": false,
+        "Dev_Desc": "제작/ 한정 / 매월 초기화",
+        "id": 8004816,
+        "alias": "UI.Creaft.Limited.Reset.Monthly",
+        "text": "Initialize at <arg p=[1:integer]/>days of the month <arg p=[2:string]/><arg p=[3:integer]/>"
+    },
+    "8004817": {
+        "deprecated": false,
+        "Dev_Desc": "TJ쿠폰 / 탭 / 소울 합성 재도전",
+        "id": 8004817,
+        "alias": "UI.TJCoupon.TopMenu01.Button",
+        "text": "Soul Composite Retry"
+    },
+    "8004818": {
+        "deprecated": false,
+        "Dev_Desc": "TJ쿠폰 / 탭 / 수호령 합성 재도전",
+        "id": 8004818,
+        "alias": "UI.TJCoupon.TopMenu02.Button",
+        "text": "Guardian Spirit Composite Retry"
+    },
+    "8004819": {
+        "deprecated": false,
+        "Dev_Desc": "TJ쿠폰 / 탭 / 상점 장신구 복구",
+        "id": 8004819,
+        "alias": "UI.TJCoupon.TopMenu03.Button",
+        "text": "shop trinkets recovery"
+    },
+    "8004820": {
+        "deprecated": false,
+        "Dev_Desc": "TJ쿠폰 / 버튼 / 재도전",
+        "id": 8004820,
+        "alias": "UI.TJCoupon.RetryText.Button",
+        "text": "retry"
+    },
+    "8004821": {
+        "deprecated": false,
+        "Dev_Desc": "TJ쿠폰 / 버튼 / 가격",
+        "id": 8004821,
+        "alias": "UI.TJCoupon.RetryCost.Button",
+        "text": "<arg p=[1:integer]/>"
+    },
+    "8004822": {
+        "deprecated": false,
+        "Dev_Desc": "TJ쿠폰 / 버튼 / 희귀 소울 합성",
+        "id": 8004822,
+        "alias": "UI.TJCoupon.SoulGrade01.Button",
+        "text": "Rare Soul Synthesis"
+    },
+    "8004823": {
+        "deprecated": false,
+        "Dev_Desc": "TJ쿠폰 / 버튼 / 영웅 소울 합성",
+        "id": 8004823,
+        "alias": "UI.TJCoupon.SoulGrade02.Button",
+        "text": "Hero Soul Synthesis"
+    },
+    "8004824": {
+        "deprecated": false,
+        "Dev_Desc": "TJ쿠폰 / 버튼 / 전설 소울 합성",
+        "id": 8004824,
+        "alias": "UI.TJCoupon.SoulGrade03.Button",
+        "text": "Legendary Soul Synthesis"
+    },
+    "8004825": {
+        "deprecated": false,
+        "Dev_Desc": "TJ쿠폰 / 설명 / 텍스트",
+        "id": 8004825,
+        "alias": "UI.TJCoupon.InfoMessageSoul01.Desc",
+        "text": "You can retry the highest rated Soul Synthesis attempted during the period below."
+    },
+    "8004826": {
+        "deprecated": false,
+        "Dev_Desc": "TJ쿠폰 / 설명 / 텍스트",
+        "id": 8004826,
+        "alias": "UI.TJCoupon.InfoMessageSoul02.Desc",
+        "text": "From August 23, 2021 to August 16, 2022, 24:00"
+    },
+    "8004827": {
+        "deprecated": false,
+        "Dev_Desc": "TJ쿠폰 / 버튼 / 희귀 수호령 합성",
+        "id": 8004827,
+        "alias": "UI.TJCoupon.PetGrade01.Button",
+        "text": "Rare Guardian Spirit Synthesis"
+    },
+    "8004828": {
+        "deprecated": false,
+        "Dev_Desc": "TJ쿠폰 / 버튼 / 영웅 수호령 합성",
+        "id": 8004828,
+        "alias": "UI.TJCoupon.PetGrade02.Button",
+        "text": "Hero Guardian Spirit Synthesis"
+    },
+    "8004829": {
+        "deprecated": false,
+        "Dev_Desc": "TJ쿠폰 / 버튼 / 전설 수호령 합성",
+        "id": 8004829,
+        "alias": "UI.TJCoupon.PetGrade03.Button",
+        "text": "Legendary Guardian Spirit Synthesis"
+    },
+    "8004830": {
+        "deprecated": false,
+        "Dev_Desc": "TJ쿠폰 / 설명 / 텍스트",
+        "id": 8004830,
+        "alias": "UI.TJCoupon.InfoMessagePet01.Desc",
+        "text": "You can try again the highest level of guardian spirit synthesis you have tried during the period below."
+    },
+    "8004831": {
+        "deprecated": false,
+        "Dev_Desc": "TJ쿠폰 / 설명 / 텍스트",
+        "id": 8004831,
+        "alias": "UI.TJCoupon.InfoMessagePet02.Desc",
+        "text": "From August 23, 2021 to August 16, 2022, 24:00"
+    },
+    "8004832": {
+        "deprecated": false,
+        "Dev_Desc": "TJ쿠폰 / 버튼 / 장신구 복구 01",
+        "id": 8004832,
+        "alias": "UI.TJCoupon.ItemGrade01.Button",
+        "text": "Thunder Roar Recovery"
+    },
+    "8004833": {
+        "deprecated": false,
+        "Dev_Desc": "TJ쿠폰 / 버튼 / 장신구 복구 02",
+        "id": 8004833,
+        "alias": "UI.TJCoupon.ItemGrade02.Button",
+        "text": "Lily's Flame Restoration"
+    },
+    "8004834": {
+        "deprecated": false,
+        "Dev_Desc": "TJ쿠폰 / 버튼 / 장신구 복구 03",
+        "id": 8004834,
+        "alias": "UI.TJCoupon.ItemGrade03.Button",
+        "text": "Whispers of Corruption Restoration"
+    },
+    "8004835": {
+        "deprecated": false,
+        "Dev_Desc": "TJ쿠폰 / 버튼 / 장신구 복구 04",
+        "id": 8004835,
+        "alias": "UI.TJCoupon.ItemGrade04.Button",
+        "text": "Windfury's Wrath Restoration"
+    },
+    "8004836": {
+        "deprecated": false,
+        "Dev_Desc": "TJ쿠폰 / 설명 / 텍스트",
+        "id": 8004836,
+        "alias": "UI.TJCoupon.InfoMessageItem01.Desc",
+        "text": "You can recover the highest rated item you tried during the period below."
+    },
+    "8004837": {
+        "deprecated": false,
+        "Dev_Desc": "TJ쿠폰 / 설명 / 텍스트",
+        "id": 8004837,
+        "alias": "UI.TJCoupon.InfoMessageItem02.Desc",
+        "text": "From August 23, 2021 to August 16, 2022, 24:00"
+    },
+    "8004838": {
+        "deprecated": false,
+        "Dev_Desc": "강화 결과 화면 / 단계 유지 보상 타이틀",
+        "id": 8004838,
+        "alias": "UI.EnchantResult.FailureReward2.Title",
+        "text": "level up reward"
+    },
+    "8004839": {
+        "deprecated": false,
+        "Dev_Desc": "비사문 전설 상인",
+        "id": 8004839,
+        "alias": "UI.Shop.Tittle.Name.10033",
+        "text": "secret trader"
+    },
+    "8004840": {
+        "deprecated": false,
+        "Dev_Desc": "방랑상인",
+        "id": 8004840,
+        "alias": "UI.Shop.Tittle.Name.10034",
+        "text": "wandering trader"
+    },
+    "8004841": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004841,
+        "alias": "UI.PetsExpedition.Element.Water",
+        "text": "number"
+    },
+    "8004842": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004842,
+        "alias": "UI.PetsExpedition.Element.Iron",
+        "text": "gold"
+    },
+    "8004843": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004843,
+        "alias": "UI.PetsExpedition.Element.Wood",
+        "text": "neck"
+    },
+    "8004844": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004844,
+        "alias": "UI.PetsExpedition.Element.Fire",
+        "text": "fury"
+    },
+    "8004845": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004845,
+        "alias": "UI.PetsExpedition.Element.Wind",
+        "text": "wind"
+    },
+    "8004846": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004846,
+        "alias": "UI.PetsExpedition.Element.Lightning",
+        "text": "brain"
+    },
+    "8004847": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004847,
+        "alias": "UI.PetsExpedition.Element.Light",
+        "text": "number of people"
+    },
+    "8004848": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004848,
+        "alias": "UI.PetsExpedition.Element.Dark",
+        "text": "cancer"
+    },
+    "8004849": {
+        "deprecated": false,
+        "Dev_Desc": "특화 서버 / 태그",
+        "id": 8004849,
+        "alias": "UI.WorldSpecailize.Tag",
+        "text": "<arg p=[1:string]/>server"
+    },
+    "8004850": {
+        "deprecated": false,
+        "Dev_Desc": "캐시상점 / IAP 구매 실패 팝업",
+        "id": 8004850,
+        "alias": "UI.CashShop.Error.Common",
+        "text": "A transient error occurred.\\n(<arg p=[1:string]/>: <arg p=[2:integer]/>)"
+    },
+    "8004851": {
+        "deprecated": false,
+        "Dev_Desc": "캐시상점 / IAP 구매 실패 팝업",
+        "id": 8004851,
+        "alias": "UI.CashShop.Error.Update.Onestore",
+        "text": "You can purchase after the OneStore update."
+    },
+    "8004852": {
+        "deprecated": false,
+        "Dev_Desc": "캐시상점 / IAP 구매 실패 팝업",
+        "id": 8004852,
+        "alias": "UI.CashShop.Error.LogIn.Onestore",
+        "text": "You can purchase after logging in to One Store."
+    },
+    "8004853": {
+        "deprecated": false,
+        "Dev_Desc": "캐시상점 / IAP 구매 실패 팝업",
+        "id": 8004853,
+        "alias": "UI.CashShop.PopUp.WronAccount.int",
+        "text": "Your account information is incorrect. <arg p=[1:integer]/>"
+    },
+    "8004854": {
+        "deprecated": false,
+        "Dev_Desc": "채팅 / 채팅 설정 / 자동 번역",
+        "id": 8004854,
+        "alias": "UI.Chat.Option.Translate",
+        "text": "automatic translation"
+    },
+    "8004855": {
+        "deprecated": false,
+        "Dev_Desc": "채팅 / 채팅 설정 / 적용 버튼",
+        "id": 8004855,
+        "alias": "UI.Common.ButtonName.Applied",
+        "text": "apply"
+    },
+    "8004856": {
+        "deprecated": false,
+        "Dev_Desc": "채팅 / 채팅 설정 / 미적용 버튼",
+        "id": 8004856,
+        "alias": "UI.Common.ButtonName.NotApplied",
+        "text": "Unapplied"
+    },
+    "8004857": {
+        "deprecated": false,
+        "Dev_Desc": "제작 / 이벤트 / 수호의 기운",
+        "id": 8004857,
+        "alias": "UI.Craft.CustomCategory.Event.Guard",
+        "text": "energy of protection"
+    },
+    "8004858": {
+        "deprecated": false,
+        "Dev_Desc": "파티던전 / 존 버프",
+        "id": 8004858,
+        "alias": "UI.PartyDungeon.HotTime.Text.Title",
+        "text": "hot time event"
+    },
+    "8004859": {
+        "deprecated": false,
+        "Dev_Desc": "제작 커스텀 탭 이름 / 신비의 깃털 Ⅱ",
+        "id": 8004859,
+        "alias": "UI.Craft.CustomCategory.MysteriousFeather02",
+        "text": "Mysterious Feather II"
+    },
+    "8004860": {
+        "deprecated": false,
+        "Dev_Desc": "거래소 / 분류 / 장신구 / 인장",
+        "id": 8004860,
+        "alias": "UI.Trade.Category.Accessorry.Seal",
+        "text": "Seal"
+    },
+    "8004861": {
+        "deprecated": false,
+        "Dev_Desc": "\n타이틀 / 로그인 실패 / 연령 부족 / 타이틀",
+        "id": 8004861,
+        "alias": "UI.Login.Fail.LackAge.Title",
+        "text": "age limit"
+    },
+    "8004862": {
+        "deprecated": false,
+        "Dev_Desc": "타이틀 / 로그인 실패 / 연령 부족 / 설명",
+        "id": 8004862,
+        "alias": "UI.Login.Fail.LackAge.Desc",
+        "text": "It is not possible to log in with an account of an age that does not support the service."
+    },
+    "8004863": {
+        "deprecated": false,
+        "Dev_Desc": "여정 / 잠긴 임무",
+        "id": 8004863,
+        "alias": "UI.Quest.LockedQuest",
+        "text": "This is a mission that cannot be completed yet."
+    },
+    "8004864": {
+        "deprecated": false,
+        "Dev_Desc": "아이템 서브 타입",
+        "id": 8004864,
+        "alias": "UI.Item.ItemType.ClassSwapCoin",
+        "text": "Expendables"
+    },
+    "8004865": {
+        "deprecated": false,
+        "Dev_Desc": "아이템 서브 타입",
+        "id": 8004865,
+        "alias": "UI.Item.ItemType.ClassSwapTicket",
+        "text": "Expendables"
+    },
+    "8004866": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004866,
+        "alias": "UI.PetsExpedition.Filter.NoCondition",
+        "text": "all"
+    },
+    "8004867": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004867,
+        "alias": "UI.PetsExpedition.Filter.Legendary",
+        "text": "Legend"
+    },
+    "8004868": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004868,
+        "alias": "UI.PetsExpedition.Filter.Heroic",
+        "text": "hero"
+    },
+    "8004869": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004869,
+        "alias": "UI.PetsExpedition.Filter.Rare",
+        "text": "rare"
+    },
+    "8004870": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004870,
+        "alias": "UI.PetsExpedition.Filter.Superior",
+        "text": "advanced"
+    },
+    "8004871": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004871,
+        "alias": "UI.PetsExpedition.Filter.Common",
+        "text": "Normal"
+    },
+    "8004872": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004872,
+        "alias": "UI.PetsExpedition.Enroll.Enrolled",
+        "text": "A guardian spirit already registered in another slot."
+    },
+    "8004873": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004873,
+        "alias": "UI.PetsExpedition.Enroll.Equip",
+        "text": "mounting"
+    },
+    "8004874": {
+        "deprecated": false,
+        "Dev_Desc": "캐시상점 / IAP 구매 실패 팝업",
+        "id": 8004874,
+        "alias": "UI.CashShop.PopUp.Error.Common",
+        "text": "IAP Goods Missing\\n(<arg p=[1:string]/>)"
+    },
+    "8004875": {
+        "deprecated": false,
+        "Dev_Desc": "낙사",
+        "id": 8004875,
+        "alias": "UI.Revival.Desc.Fall",
+        "text": "fell and died."
+    },
+    "8004876": {
+        "deprecated": false,
+        "Dev_Desc": "균열 지배자",
+        "id": 8004876,
+        "alias": "UI.Craft.CustomCategory.Crack",
+        "text": "rift ruler"
+    },
+    "8004877": {
+        "deprecated": false,
+        "Dev_Desc": "무공창 / 수라 강림 중",
+        "id": 8004877,
+        "alias": "UI.Skill.Info.Transform",
+        "text": "During the advent of Sura"
+    },
+    "8004878": {
+        "deprecated": false,
+        "Dev_Desc": "무공창 / 미장착 무공",
+        "id": 8004878,
+        "alias": "UI.Skill.Info.NotEquipped",
+        "text": "not equipped"
+    },
+    "8004879": {
+        "deprecated": false,
+        "Dev_Desc": "제작 / 이벤트 / 충각단의 증표",
+        "id": 8004879,
+        "alias": "UI.Craft.LeftSubTabName.Event.SeaSerpent",
+        "text": "Confidentiality's Token"
+    },
+    "8004880": {
+        "deprecated": false,
+        "Dev_Desc": "유료 재화 충전 팝업 / 유료 신석",
+        "id": 8004880,
+        "alias": "UI.Pop.SimpleCharging.BloodStone",
+        "text": "paid new stone"
+    },
+    "8004881": {
+        "deprecated": false,
+        "Dev_Desc": "유료 재화 충전 팝업 / 무료 신석",
+        "id": 8004881,
+        "alias": "UI.Pop.SimpleCharging.FreeBloodStone",
+        "text": "free godstone"
+    },
+    "8004882": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004882,
+        "alias": "UI.PetsExpedition.Filter.Reset",
+        "text": "initialization"
+    },
+    "8004883": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004883,
+        "alias": "UI.PetsExpedition.Filter.Element",
+        "text": "property"
+    },
+    "8004884": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004884,
+        "alias": "UI.PetsExpedition.Filter.All",
+        "text": "all"
+    },
+    "8004885": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004885,
+        "alias": "UI.PetsExpedition.Filter.Province",
+        "text": "region"
+    },
+    "8004886": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004886,
+        "alias": "UI.PetsExpedition.Filter.Skill.Title",
+        "text": "exploration skills"
+    },
+    "8004887": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004887,
+        "alias": "UI.PetsExpedition.Filter.Skill.TimeReduce",
+        "text": "Reduce Exploration Time"
+    },
+    "8004888": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004888,
+        "alias": "UI.PetsExpedition.Filter.Skill.RewardUp",
+        "text": "Increase the amount of reward earned"
+    },
+    "8004889": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004889,
+        "alias": "UI.PetsExpedition.Filter.Skill.ProvinceExpUp",
+        "text": "Increased area experience gain"
+    },
+    "8004890": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004890,
+        "alias": "UI.PetsExpedition.Filter.Skill.PartyPowerUp",
+        "text": "Increase the expedition's combat power"
+    },
+    "8004891": {
+        "deprecated": false,
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "id": 8004891,
+        "alias": "UI.PetsExpedition.Filter.Skill.PcPowerUp",
+        "text": "Increase player stats while exploring"
+    },
+    "8004892": {
+        "deprecated": false,
+        "Dev_Desc": "무공 / 무공타겟 / 자신",
+        "id": 8004892,
+        "alias": "UI.Skill.ItemSkillSlot.UseSelf",
+        "text": "SELF"
+    },
+    "8004893": {
+        "deprecated": false,
+        "Dev_Desc": "제작 / 재료 / 무공 재료",
+        "id": 8004893,
+        "alias": "UI.Craft.CustomCategory.SkillResource",
+        "text": "hollow material"
+    },
+    "8004894": {
+        "deprecated": false,
+        "Dev_Desc": "제작 / 무공서 / 선택 상자",
+        "id": 8004894,
+        "alias": "UI.Craft.CustomCategory.SkillSetScrollChoiceBox",
+        "text": "selection box"
+    },
+    "8004895": {
+        "deprecated": false,
+        "Dev_Desc": "무공 / 무공타겟 / 파티원 번호",
+        "id": 8004895,
+        "alias": "UI.Skill.ItemSkillSlot.PartyMemberNumber",
+        "text": "<arg p=[1:integer]>P"
     }
 }

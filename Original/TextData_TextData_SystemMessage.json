@@ -1662,7 +1662,7 @@
         "Dev_Desc": "채팅 / ",
         "id": 9000270,
         "alias": "SysM.chat.TooManyMessage",
-        "text": "짧은 시간 내 많은 메시지를 보냈습니다. 잠시 후 시도해주세요."
+        "text": "짧은 시간 내 너무 많은 메시지를 보내 1 분간 채팅이 금지되었습니다."
     },
     "9000271": {
         "deprecated": false,
@@ -2453,7 +2453,7 @@
         "Dev_Desc": "문파 시스템 / 창설 / 이름 규칙 / 글자 수",
         "id": 9000385,
         "alias": "SysM.Guild.NotAvailableLength",
-        "text": "문파 이름 규칙에 맞지 않습니다."
+        "text": "이름 규칙에 맞지 않습니다."
     },
     "9000386": {
         "deprecated": false,
@@ -2607,14 +2607,14 @@
         "Dev_Desc": "문파 시스템 / 기록 / 문파장 위임 처리",
         "id": 9000408,
         "alias": "SysM.Guild.History.LeaderChange.001",
-        "text": "이전 문파장이 14일 이상 로그인하지 않아 <arg p=[1:string]/> 님 에게 문파장 지위가 위임되었습니다."
+        "text": "이전 문파장이 14일 이상 문파 출석을 하지 않아 <arg p=[1:string]/> 님에게 문파장 직위가 위임되었습니다."
     },
     "9000409": {
         "deprecated": false,
-        "Dev_Desc": "문파 시스템 / 기록 / 문파 공간 대여 가능 상태",
+        "Dev_Desc": "문파 시스템 / 기록 / 문파장 위임 처리",
         "id": 9000409,
         "alias": "SysM.Guild.History.LeaderChange.002",
-        "text": "이전 문파장이 계정 탈퇴하여 <arg p=[1:string]/> 님에게 문파장 지위가 위임되었습니다."
+        "text": "이전 문파장이 계정 탈퇴하여 <arg p=[1:string]/> 님에게 문파장 직위가 위임되었습니다."
     },
     "9000412": {
         "deprecated": false,
@@ -3461,7 +3461,7 @@
         "Dev_Desc": "문파 시스템 / 창설 / 이름 규칙 / 중복 문파 이름",
         "id": 9000538,
         "alias": "SysM.Guild.Error.NameOverlap",
-        "text": "이미 존재하는 문파 이름입니다."
+        "text": "이미 존재하는 이름입니다."
     },
     "9000539": {
         "deprecated": false,
@@ -4539,7 +4539,7 @@
         "Dev_Desc": "채팅 / 도배",
         "id": 9000710,
         "alias": "SysM.chat.SpamMessage",
-        "text": "짧은 시간 내 너무 많은 메시지를 보냈습니다."
+        "text": "짧은 시간 내 너무 많은 메시지를 보내 1 분간 채팅이 금지되었습니다."
     },
     "9000711": {
         "deprecated": false,
@@ -4616,7 +4616,7 @@
         "Dev_Desc": "문파 시스템 / 창설 / 이름 미입력",
         "id": 9000721,
         "alias": "SysM.Guild.Foundation.NoName",
-        "text": "문파 이름을 입력하세요."
+        "text": "이름을 입력하세요."
     },
     "9000722": {
         "deprecated": false,
@@ -4630,49 +4630,49 @@
         "Dev_Desc": "문파 시스템 / 적대 동맹 / 이름 미입력",
         "id": 9000723,
         "alias": "SysM.Guild.GuildEnemyAlliance.NoWrite",
-        "text": "문파 이름을 입력하세요."
+        "text": "대상 이름을 입력하세요."
     },
     "9000724": {
         "deprecated": false,
         "Dev_Desc": "문파 에러 / 기능 에러 / 없는 문파",
         "id": 9000724,
         "alias": "SysM.Guild.NoExist",
-        "text": "존재하지 않는 문파입니다"
+        "text": "존재하지 않는 문파 이름입니다."
     },
     "9000725": {
         "deprecated": false,
         "Dev_Desc": "문파 시스템 / 적대 문파 / 추가 / 최대치",
         "id": 9000725,
         "alias": "SysM.Guild.GuildEnemy.Add.Max",
-        "text": "최대 적대 문파 수를 초과하여 추가할 수 없습니다."
+        "text": "최대 적대 수를 초과하여 추가할 수 없습니다."
     },
     "9000726": {
         "deprecated": false,
         "Dev_Desc": "문파 시스템 / 적대 문파 / 추가 / 이미 적대",
         "id": 9000726,
         "alias": "SysM.Guild.GuildEnemy.Add.Already",
-        "text": "이미 <arg p=[1:string]/><wa/> 적대 관계입니다."
+        "text": "이미 <arg p=[1:string]/> 문파와 적대 관계입니다."
     },
     "9000727": {
         "deprecated": false,
         "Dev_Desc": "문파 시스템 / 적대 문파 / 추가 / 동맹 중",
         "id": 9000727,
         "alias": "SysM.Guild.GuildEnemy.Add.GuildAlliance",
-        "text": "<arg p=[1:string]/><wa/> 동맹 관계로 적대 문파에 추가할 수 없습니다."
+        "text": "<arg p=[1:string]/> 문파와 동맹 관계로 적대에 추가할 수 없습니다."
     },
     "9000728": {
         "deprecated": false,
         "Dev_Desc": "문파 시스템 / 적대 문파 / 추가 / 동맹 요청 중",
         "id": 9000728,
         "alias": "SysM.Guild.GuildEnemy.Add.SendGuildAlliance",
-        "text": "<arg p=[1:string]/>에 동맹 요청을 보낸 상태로 적대 문파에 추가할 수 없습니다."
+        "text": "<arg p=[1:string]/> 문파에 동맹 요청을 보낸 상태로 적대에 추가할 수 없습니다."
     },
     "9000729": {
         "deprecated": false,
         "Dev_Desc": "문파 시스템 / 적대 문파 / 해제",
         "id": 9000729,
         "alias": "SysM.Guild.GuildEnemy.Remove",
-        "text": "<arg p=[1:string]/><wa/>의 적대 관계가 해제되었습니다."
+        "text": "<arg p=[1:string]/> 문파와 적대 관계가 해제되었습니다."
     },
     "9000730": {
         "deprecated": false,
@@ -4686,14 +4686,14 @@
         "Dev_Desc": "문파 시스템 / 동맹 문파 / 요청 / 이미 동맹",
         "id": 9000731,
         "alias": "SysM.Guild.GuildAlliance.Add.Already",
-        "text": "이미 <arg p=[1:string]/><wa/> 동맹 관계입니다."
+        "text": "이미 <arg p=[1:string]/> 문파와 동맹 관계입니다."
     },
     "9000732": {
         "deprecated": false,
         "Dev_Desc": "문파 시스템 / 동맹 문파 / 요청 / 적대 중",
         "id": 9000732,
         "alias": "SysM.Guild.GuildAlliance.Add.GuildEnemy",
-        "text": "<arg p=[1:string]/><wa/> 적대 관계로 동맹 문파에 추가할 수 없습니다."
+        "text": "<arg p=[1:string]/> 문파와 적대 관계로 동맹을 요청할 수 없습니다."
     },
     "9000733": {
         "deprecated": false,
@@ -4707,14 +4707,14 @@
         "Dev_Desc": "문파 시스템 / 동맹 문파 / 요청 / 동맹 요청 받음",
         "id": 9000734,
         "alias": "SysM.Guild.GuildAlliance.Add.RecieveGuildAlliance",
-        "text": "이미 <arg p=[1:string]/>에 동맹 요청을 받은 상태입니다."
+        "text": "이미 <arg p=[1:string]/> 문파에게 동맹 요청을 받은 상태입니다."
     },
     "9000735": {
         "deprecated": false,
         "Dev_Desc": "문파 시스템 / 동맹 문파 / 해제",
         "id": 9000735,
         "alias": "SysM.Guild.GuildAlliance.Remove",
-        "text": "<arg p=[1:string]/><wa/>의 동맹 관계가 해제되었습니다."
+        "text": "<arg p=[1:string]/> 문파와 동맹 관계가 해제되었습니다."
     },
     "9000736": {
         "deprecated": false,
@@ -4903,14 +4903,14 @@
         "Dev_Desc": "문파 시스템 / 적대 문파 / 추가 / 자기 자신",
         "id": 9000762,
         "alias": "SysM.Guild.GuildEnemy.Add.SendMe",
-        "text": "자신이 가입한 문파는 적대 문파에 추가할 수 없습니다."
+        "text": "자신이 가입한 문파는 적대에 추가할 수 없습니다."
     },
     "9000763": {
         "deprecated": false,
         "Dev_Desc": "문파 시스템 / 동맹 문파 / 추가 / 자기 자신",
         "id": 9000763,
         "alias": "SysM.Guild.GuildAlliance.Add.SendMe",
-        "text": "자신이 가입한 문파는 동맹 문파에 추가할 수 없습니다."
+        "text": "자신이 가입한 문파에 동맹을 요청할 수 없습니다."
     },
     "9000764": {
         "deprecated": false,
@@ -4994,7 +4994,7 @@
         "Dev_Desc": "문파 시스템 / 적대 문파 / 추가",
         "id": 9000775,
         "alias": "SysM.Guild.GuildEnemy.Add",
-        "text": "<arg p=[1:string]/> 문파를 적대 문파로 추가했습니다."
+        "text": "<arg p=[1:string]/> 문파를 적대 관계로 추가했습니다."
     },
     "9000776": {
         "deprecated": false,
@@ -5015,28 +5015,28 @@
         "Dev_Desc": "문파 시스템 / 동맹 문파 / 요청 취소",
         "id": 9000778,
         "alias": "SysM.Guild.GuildAlliance.Cancel",
-        "text": "<arg p=[1:string]/>에 보낸 동맹 요청을 취소했습니다."
+        "text": "<arg p=[1:string]/> 문파에 보낸 동맹 요청을 취소했습니다."
     },
     "9000779": {
         "deprecated": false,
         "Dev_Desc": "문파 시스템 / 동맹 문파 / 승인",
         "id": 9000779,
         "alias": "SysM.Guild.GuildAlliance.Accept",
-        "text": "<arg p=[1:string]/><wa/> 동맹 문파가 되었습니다."
+        "text": "<arg p=[1:string]/> 문파와 동맹이 되었습니다."
     },
     "9000780": {
         "deprecated": false,
         "Dev_Desc": "문파 시스템 / 동맹 문파 / 승인 / 최대치",
         "id": 9000780,
         "alias": "SysM.Guild.GuildAlliance.Accept.Max",
-        "text": "최대 동맹 문파 수를 초과하여 승인할 수 없습니다."
+        "text": "최대 동맹 수를 초과하여 요청을 승인할 수 없습니다."
     },
     "9000781": {
         "deprecated": false,
         "Dev_Desc": "문파 시스템 / 동맹 문파 / 거절",
         "id": 9000781,
         "alias": "SysM.Guild.GuildAlliance.Reject",
-        "text": "<arg p=[1:string]/>의 동맹 요청을 거절했습니다."
+        "text": "<arg p=[1:string]/> 문파의 동맹 요청을 거절했습니다."
     },
     "9000782": {
         "deprecated": false,
@@ -5106,7 +5106,7 @@
         "Dev_Desc": "캐시상점 / 소지금액 부족",
         "id": 9000791,
         "alias": "SysM.CashShop.LackMoney",
-        "text": "소지 금액이 부족해 구매할수 없습니다."
+        "text": "소지 금액이 부족해 구매할 수 없습니다."
     },
     "9000792": {
         "deprecated": false,
@@ -5918,14 +5918,14 @@
         "Dev_Desc": "문파 시스템 / 창설 / 이름 / 이미 존재하는 이름",
         "id": 9000907,
         "alias": "SysM.Guild.Foundation.Name.Overlap",
-        "text": "이미 존재하는 문파 이름입니다."
+        "text": "이미 존재하는 이름입니다."
     },
     "9000908": {
         "deprecated": false,
         "Dev_Desc": "문파 시스템 / 창설 / 이름 / 재사용 시간 남음",
         "id": 9000908,
         "alias": "SysM.Guild.Foundation.Name.Restricted",
-        "text": "삭제 대기 중으로 현재 사용할 수 없는 문파 이름입니다."
+        "text": "삭제 대기 중으로 현재 사용할 수 없는 이름입니다."
     },
     "9000909": {
         "deprecated": false,
@@ -6142,7 +6142,7 @@
         "Dev_Desc": "로비 / 캐릭터 삭제 신청 확인 메시지",
         "id": 9000939,
         "alias": "SysM.Lobby.DeleteCharacter.Fail",
-        "text": "올바른 입력 값이 아닙니다. [삭제신청]이라고 입력해 주세요."
+        "text": "[삭제 신청]을 정확하게 입력해주세요."
     },
     "9000940": {
         "deprecated": false,
@@ -6352,7 +6352,7 @@
         "Dev_Desc": "문파 시스템 / 적대 문파 / 추가 / 동맹 요청 받음",
         "id": 9000969,
         "alias": "SysM.Guild.GuildEnemy.Add.ReceiveGuildAlliance",
-        "text": "<arg p=[1:string]/>에게서 동맹 요청을 받은 상태로 적대 문파에 추가할 수 없습니다."
+        "text": "<arg p=[1:string]/> 문파에게 동맹 요청을 받은 상태로 적대에 추가할 수 없습니다."
     },
     "9000970": {
         "deprecated": false,
@@ -6615,7 +6615,7 @@
     },
     "9001007": {
         "deprecated": false,
-        "Dev_Desc": "브로드캐스팅 / 수호령 획득",
+        "Dev_Desc": "상점 / 자동 주문 / 미설정",
         "id": 9001007,
         "alias": "SysM.Shop.Auto.NotAvilable",
         "text": "자동 주문이 설정되어 있지 않습니다."
@@ -6993,7 +6993,7 @@
     },
     "9001061": {
         "deprecated": false,
-        "Dev_Desc": "상점 / 이미 충분한 수량을 가지고 있는 경우",
+        "Dev_Desc": "상점 / 자동 주문 / 이미 수량 충분",
         "id": 9001061,
         "alias": "SysM.Shop.EnoughQuantities",
         "text": "설정 개수보다 보유량이 많아 자동 주문되지 않습니다."
@@ -7597,7 +7597,7 @@
         "Dev_Desc": "이름 변경권 / 아이템 없음",
         "id": 9001147,
         "alias": "SysM.Lobby.ChangeName.NoTicket",
-        "text": "보유한 이름 변경권이 없습니다. 이름변경권은 상점에서 구매할 수 있습니다."
+        "text": "보유한 이름 변경권이 없습니다. 이름 변경권은 상점에서 구매할 수 있습니다."
     },
     "9001148": {
         "deprecated": false,
@@ -7669,41 +7669,6 @@
         "alias": "SysM.SoulPass.Activate.LackItem",
         "text": "<arg p=[1:string]/><ga/> 부족하여 활성화할 수 없습니다."
     },
-    "9001158": {
-        "deprecated": false,
-        "Dev_Desc": "별자리 / 각인 성공 메시지 (각인 기능)",
-        "id": 9001158,
-        "alias": "SysM.Galaxy.MsgT.Imprint.Success",
-        "text": "별자리 각인에 성공하였습니다."
-    },
-    "9001159": {
-        "deprecated": false,
-        "Dev_Desc": "별자리 / 각인 대성공(랜덤 중 최고 능력치) 메시지 (각인 기능)",
-        "id": 9001159,
-        "alias": "SysM.Galaxy.MsgT.Imprint.BigSuccess",
-        "text": "별자리 각인에 완벽히 성공하였습니다."
-    },
-    "9001160": {
-        "deprecated": false,
-        "Dev_Desc": "별자리 / 각인 실패 메시지 (각인 기능)",
-        "id": 9001160,
-        "alias": "SysM.Galaxy.MsgT.Imprint.Fail",
-        "text": "별자리 각인에 실패하였습니다."
-    },
-    "9001161": {
-        "deprecated": false,
-        "Dev_Desc": "별자리 / 재각인 완료 메시지 (재각인 기능)",
-        "id": 9001161,
-        "alias": "SysM.Galaxy.MsgT.Imprint.Retry",
-        "text": "재각인을 통해 새로운 힘을 부여 받았습니다."
-    },
-    "9001162": {
-        "deprecated": false,
-        "Dev_Desc": "별자리 / 성공 확률 조정 한계 메시지 (프로그레시브 성장 기능)",
-        "id": 9001162,
-        "alias": "SysM.Galaxy.MsgT.MinMax",
-        "text": "성공확률이 최대치인 상태입니다."
-    },
     "9001163": {
         "deprecated": false,
         "Dev_Desc": "별자리 / 재료 부족 상태에서 각인 진행 버튼을 누른 경우",
@@ -7717,13 +7682,6 @@
         "id": 9001164,
         "alias": "SysM.Galaxy.MsgT.Select.ReqPrev",
         "text": "이전 단계 완료 후 각인 가능합니다."
-    },
-    "9001165": {
-        "deprecated": false,
-        "Dev_Desc": "별자리 / 구간을 이루는 점을 모두 각인하였을 때 표시되는 메시지",
-        "id": 9001165,
-        "alias": "SysM.Galaxy.MsgT.ZoneBonus.Achieved",
-        "text": "[구간이름]을/를 모두 각인하여 [구간이름]의 가호를 받습니다."
     },
     "9001166": {
         "deprecated": false,
@@ -7870,7 +7828,7 @@
         "Dev_Desc": "별자리 / 구간을 이루는 점을 모두 각인하였을 때 표시되는 메시지",
         "id": 9001188,
         "alias": "SysM.Galaxy.MsgT.ZoneBonus.Achieved",
-        "text": "<arg p=[1:string]/을 모두 각인하여 <arg p=[1:string]/의 가호를 받습니다."
+        "text": "<arg p=[1:string]/>을 모두 각인하여 <arg p=[1:string]/>의 가호를 받습니다."
     },
     "9001189": {
         "deprecated": false,
@@ -8052,21 +8010,21 @@
         "Dev_Desc": "문파 시스템 / 동맹 / 요청 / 소속 연합",
         "id": 9001214,
         "alias": "SysM.Guild.GuildAlliance.Add.SendMyUnite",
-        "text": "자신이 가입한 연합은 동맹에 추가할 수 없습니다."
+        "text": "자신이 가입한 연합에 동맹을 요청할 수 없습니다."
     },
     "9001215": {
         "deprecated": false,
         "Dev_Desc": "문파 시스템 / 적대 / 추가 / 소속 연합의 소속 문파",
         "id": 9001215,
         "alias": "SysM.Guild.GuildEnemy.Add.SendMyUniteMember",
-        "text": "<arg p=[1:string]/><eun/> 연합의 소속 문파로 적대에 추가할 수 없습니다."
+        "text": "<arg p=[1:string]/> 연합의 소속 문파로 적대에 추가할 수 없습니다."
     },
     "9001216": {
         "deprecated": false,
         "Dev_Desc": "문파 시스템 / 동맹 / 요청 / 소속 연합의 소속 문파",
         "id": 9001216,
         "alias": "SysM.Guild.GuildAlliance.Add.SendMyUniteMember",
-        "text": "<arg p=[1:string]/><eun/> 연합의 소속 문파로 동맹에 추가할 수 없습니다."
+        "text": "<arg p=[1:string]/> 연합의 소속 문파로 동맹을 요청할 수 없습니다."
     },
     "9001217": {
         "deprecated": false,
@@ -8074,5 +8032,698 @@
         "id": 9001217,
         "alias": "SysM.YaruBox.MsgT.AlarmHalt",
         "text": "진행 중인 재련 완료 후 재련이 중지됩니다."
+    },
+    "9001218": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 연합 가입",
+        "id": 9001218,
+        "alias": "SysM.Unite.Join",
+        "text": "<arg p=[1:string]/> 문파가 연합에 가입했습니다."
+    },
+    "9001219": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 가입 신청",
+        "id": 9001219,
+        "alias": "SysM.Unite.Join.Recive",
+        "text": "<arg p=[1:string]/> 문파가 연합에 지원했습니다."
+    },
+    "9001220": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 가입 신청 / 성공",
+        "id": 9001220,
+        "alias": "SysM.Unite.Join.WaitingTheAccept",
+        "text": "<arg p=[1:string]/> 연합에 가입 대기 중입니다."
+    },
+    "9001221": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 가입 신청 / 이미 가입 신청",
+        "id": 9001221,
+        "alias": "SysM.Unite.Join.AlreadyRequest",
+        "text": "이미 가입 신청한 연합 입니다."
+    },
+    "9001222": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 가입 신청 / 가입 신청 문파 수 최대",
+        "id": 9001222,
+        "alias": "SysM.Unite.Join.RequestFull",
+        "text": "가입 신청자가 너무 많아 신청할 수 없습니다."
+    },
+    "9001223": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 가입 신청 / 문파원 가득참",
+        "id": 9001223,
+        "alias": "SysM.Unite.Join.Full",
+        "text": "최대 소속 문파 수를 초과하여 가입할 수 없습니다."
+    },
+    "9001224": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 가입 신청 / 가입 불가 문파",
+        "id": 9001224,
+        "alias": "SysM.Unite.Join.Unavailable",
+        "text": "가입 신청 불가로 설정된 연합입니다."
+    },
+    "9001225": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 가입 신청 / 가입 신청 건수 초과",
+        "id": 9001225,
+        "alias": "SysM.Unite.Join.RequestNumOver",
+        "text": "최대 가입 신청 횟수를 초과했습니다."
+    },
+    "9001226": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 가입 신청 / 이미 초대 받은 문파",
+        "id": 9001226,
+        "alias": "SysM.Unite.Join.AlreadyInvite",
+        "text": "이미 초대받은 연합입니다."
+    },
+    "9001227": {
+        "deprecated": false,
+        "Dev_Desc": "연합 에러 / 기능 에러 / 없는 연합",
+        "id": 9001227,
+        "alias": "SysM.Unite.NoExist",
+        "text": "존재하지 않는 연합입니다."
+    },
+    "9001228": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 가입 신청 / 신청 취소",
+        "id": 9001228,
+        "alias": "SysM.Unite.Join.Withdrawal",
+        "text": "<arg p=[1:string]/> 연합 가입 신청이 취소되었습니다."
+    },
+    "9001229": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 가입 신청 / 신청 취소 / 이미 가입",
+        "id": 9001229,
+        "alias": "SysM.Unite.Join.Withdrawal.AlreadyIn",
+        "text": "이미 <arg p=[1:string]/> 연합에 가입 상태로 가입 신청을 취소할 수 없습니다."
+    },
+    "9001230": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 가입 신청 / 거절",
+        "id": 9001230,
+        "alias": "SysM.Unite.Join.Deny",
+        "text": "<arg p=[1:string]/> 연합에 가입 거절당했습니다."
+    },
+    "9001231": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 가입 신청 / 승인",
+        "id": 9001231,
+        "alias": "SysM.Unite.Join.RequestAccept",
+        "text": "<arg p=[1:string]/> 문파의 가입 신청을 승인했습니다."
+    },
+    "9001232": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 가입 신청 / 승인 / 자리 부족",
+        "id": 9001232,
+        "alias": "SysM.Unite.JoinRequest.Reject.Full",
+        "text": "최대 소속 가능 문파 수를 초과하여 가입을 승인할 수 없습니다."
+    },
+    "9001233": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 가입 신청 / 승인 / 시간 초과",
+        "id": 9001233,
+        "alias": "SysM.Unite.JoinRequest.Reject.LackTime",
+        "text": "가입 신청 시간이 초과되었습니다."
+    },
+    "9001234": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 가입 신청 / 승인 / 이미 가입",
+        "id": 9001234,
+        "alias": "SysM.Unite.JoinRequest.Reject.AlreadyIn",
+        "text": "대상 문파는 다른 연합에 가입 중입니다."
+    },
+    "9001235": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 가입 신청 / 거절",
+        "id": 9001235,
+        "alias": "SysM.Unite.Join.RequestDeny",
+        "text": "<arg p=[1:string]/> 문파의 가입 신청을 거절했습니다."
+    },
+    "9001236": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 가입 관리 / 신청 / 전부 수락",
+        "id": 9001236,
+        "alias": "SysM.Unite.Join.AllRequestAccept",
+        "text": "<arg p=[1:integer]/>개 문파의 가입 신청을 승인했습니다."
+    },
+    "9001237": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 가입 관리 / 신청 / 전부 수락 / 문파 수 넘침",
+        "id": 9001237,
+        "alias": "SysM.Unite.Join.AllRequestAccept.Full",
+        "text": "가입 신청 문파 수가 남은 문파 자리 수보다 많아 일괄 승인할 수 없습니다."
+    },
+    "9001238": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 가입 관리 / 신청 / 전부 수락 / 없음",
+        "id": 9001238,
+        "alias": "SysM.Unite.Join.AllRequestAccept.No",
+        "text": "가입 신청한 대상이 없습니다."
+    },
+    "9001239": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 가입 관리 / 신청 / 전부 수락",
+        "id": 9001239,
+        "alias": "SysM.Unite.Join.AllRequestDeny",
+        "text": "모든 가입 신청을 거절했습니다."
+    },
+    "9001240": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 가입 관리 / 신청 / 전부 수락 / 없음",
+        "id": 9001240,
+        "alias": "SysM.Unite.Join.AllRequestDeny.No",
+        "text": "가입 신청한 대상이 없습니다."
+    },
+    "9001241": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 가입 관리 / 초대",
+        "id": 9001241,
+        "alias": "SysM.Unite.Invite",
+        "text": "<arg p=[1:string]/> 문파를 연합에 초대했습니다."
+    },
+    "9001242": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 가입 관리 / 초대 / 타 연합에 가입 중",
+        "id": 9001242,
+        "alias": "SysM.Unite.Invite.Fail.AlreadyIn",
+        "text": "대상 문파는 다른 연합에 가입 중입니다."
+    },
+    "9001243": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 가입 관리 / 초대 / 이미 초대",
+        "id": 9001243,
+        "alias": "SysM.Unite.Invite.Fail.AlreadyInvite",
+        "text": "<arg p=[1:string]/> 문파는 이미 초대한 문파입니다."
+    },
+    "9001244": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 가입 관리 / 초대 / 소속 문파 수 최대",
+        "id": 9001244,
+        "alias": "SysM.Unite.Invite.Fail.Full",
+        "text": "최대 소속 가능 문파 수를 초과하여 초대할 수 없습니다."
+    },
+    "9001245": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 가입 관리 / 초대 / 검색 실패",
+        "id": 9001245,
+        "alias": "SysM.Unite.Invite.Fail.No",
+        "text": "해당 문파 이름이 존재하지 않습니다."
+    },
+    "9001246": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 가입 관리 / 초대 / 이름 미입력",
+        "id": 9001246,
+        "alias": "SysM.Unite.Invite.Fail.NeedName",
+        "text": "문파 이름을 입력해주세요."
+    },
+    "9001247": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 가입 관리 / 초대 / 소속 문파를 초대",
+        "id": 9001247,
+        "alias": "SysM.Unite.Invite.Fail.AlreadyMember",
+        "text": "<arg p=[1:string]/> 문파는 이미 같은 연합에 가입 중입니다."
+    },
+    "9001248": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 가입 관리 / 초대 / 자신 초대",
+        "id": 9001248,
+        "alias": "SysM.Unite.Invite.Fail.Me",
+        "text": "자신이 가입한 문파는 초대할 수 없습니다."
+    },
+    "9001249": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 가입 초대 / 취소",
+        "id": 9001249,
+        "alias": "SysM.Unite.Invite.Cancel",
+        "text": "<arg p=[1:string]/> 문파에게 보낸 초대를 취소했습니다."
+    },
+    "9001250": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 가입 초대 / 거절",
+        "id": 9001250,
+        "alias": "SysM.Unite.Invite.Reject",
+        "text": "<arg p=[1:string]/> 연합 초대를 거절했습니다."
+    },
+    "9001251": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 해산 / 문파장 전용 기능",
+        "id": 9001251,
+        "alias": "SysM.Unite.OnlyForMaster",
+        "text": "문파장 전용 기능입니다."
+    },
+    "9001252": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 관리 / 소개 수정",
+        "id": 9001252,
+        "alias": "SysM.Unite.Introduction.InputDone",
+        "text": "연합 소개 내용이 갱신되었습니다."
+    },
+    "9001253": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 관리 / 문장 변경 / 변경 완료 안내",
+        "id": 9001253,
+        "alias": "SysM.Unite.Emblem.Change.Complete",
+        "text": "연합 문장이 변경되었습니다."
+    },
+    "9001254": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 탈퇴 / 탈퇴 완료 안내",
+        "id": 9001254,
+        "alias": "SysM.Unite.Withdrawal.Complete",
+        "text": "<arg p=[1:string]/> 연합에서 탈퇴했습니다."
+    },
+    "9001255": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 해산 / 해산 완료",
+        "id": 9001255,
+        "alias": "SysM.Unite.Dissolution",
+        "text": "<arg p=[1:string]/> 연합이 해산되었습니다."
+    },
+    "9001256": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 직위 위임 / 기존 연합장에게 변경 안내",
+        "id": 9001256,
+        "alias": "SysM.Unite.PositionChange.LeaderChange",
+        "text": "<arg p=[1:string]/> 문파에게 대표 문파 직위를 위임했습니다. 일반 문파로 직위가 변경되었습니다."
+    },
+    "9001257": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 직위 위임 / 위임 대상자에게 변경 안내",
+        "id": 9001257,
+        "alias": "SysM.Unite.PositionChange.LeaderChange.MsgToRecipient",
+        "text": "연합장으로 임명되었습니다."
+    },
+    "9001258": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 직위 위임 / 가입 당일 위임 불가",
+        "id": 9001258,
+        "alias": "SysM.Unite.PositionChange.CannotLeaderChange",
+        "text": "당일 가입한 문파에게 대표 문파 직위를 위임할 수 없습니다."
+    },
+    "9001259": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 직위 위임 / 위임 대상 미선택 안내",
+        "id": 9001259,
+        "alias": "SysM.Unite.Management.Delegation.NotSelected",
+        "text": "위임할 대상을 선택하지 않았습니다."
+    },
+    "9001260": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 추방 / 소속 문파 없음",
+        "id": 9001260,
+        "alias": "SysM.Unite.Management.Apoint.No",
+        "text": "추방할 문파가 없습니다."
+    },
+    "9001261": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 추방 / 추방 대상 미선택",
+        "id": 9001261,
+        "alias": "SysM.Unite.Management.Apoint.NotSelected",
+        "text": "추방할 문파를 선택하지 않았습니다."
+    },
+    "9001262": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 추방 / 추방 완료",
+        "id": 9001262,
+        "alias": "SysM.Unite.Management.Apoint.Complete",
+        "text": "선택한 문파를 연합에서 추방했습니다."
+    },
+    "9001263": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 추방 / 추방 대상에게 안내",
+        "id": 9001263,
+        "alias": "SysM.Unite.BanishMsg",
+        "text": "<arg p=[1:string]/> 연합에서 추방되었습니다."
+    },
+    "9001264": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 기록 / 연합장 위임 처리",
+        "id": 9001264,
+        "alias": "SysM.Unite.History.LeaderChange.001",
+        "text": "이전 연합장이 14일 이상 문파 출석을 하지 않아 <arg p=[1:string]/> 문파에게 대표 문파 직위가 위임되었습니다."
+    },
+    "9001265": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 기록 / 연합장 위임 처리",
+        "id": 9001265,
+        "alias": "SysM.Unite.History.LeaderChange.002",
+        "text": "이전 연합장이 계정 탈퇴하여 <arg p=[1:string]/> 문파에게 대표 문파 직위가 위임되었습니다."
+    },
+    "9001266": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 적대 연합 / 추가",
+        "id": 9001266,
+        "alias": "SysM.Unite.GuildEnemy.Add",
+        "text": "<arg p=[1:string]/> 연합을 적대 관계로 추가했습니다."
+    },
+    "9001267": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 적대 연합 / 추가 / 이미 적대",
+        "id": 9001267,
+        "alias": "SysM.Unite.GuildEnemy.Add.Already",
+        "text": "이미 대상과 적대 관계입니다."
+    },
+    "9001268": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 적대 연합 / 추가 / 동맹 중",
+        "id": 9001268,
+        "alias": "SysM.Unite.GuildEnemy.Add.GuildAlliance",
+        "text": "대상과 동맹 관계로 적대에 추가할 수 없습니다."
+    },
+    "9001271": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 적대 연합 / 해제",
+        "id": 9001271,
+        "alias": "SysM.Unite.GuildEnemy.Remove.Unite",
+        "text": "<arg p=[1:string]/> 연합과 적대 관계가 해제되었습니다."
+    },
+    "9001272": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 동맹 연합 / 요청",
+        "id": 9001272,
+        "alias": "SysM.Unite.GuildAlliance.Add",
+        "text": "<arg p=[1:string]/> 연합에게 동맹 요청을 보냈습니다."
+    },
+    "9001273": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 동맹 연합 / 요청 / 이미 동맹",
+        "id": 9001273,
+        "alias": "SysM.Unite.GuildAlliance.Add.Already",
+        "text": "이미 대상과 동맹 관계입니다."
+    },
+    "9001274": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 동맹 연합 / 요청 / 적대 중",
+        "id": 9001274,
+        "alias": "SysM.Unite.GuildAlliance.Add.GuildEnemy",
+        "text": "대상과 적대 관계로 동맹을 요청할 수 없습니다."
+    },
+    "9001275": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 적대 연합 / 추가 / 동맹 요청 중",
+        "id": 9001275,
+        "alias": "SysM.Unite.GuildEnemy.Add.RequestGuildAlliance",
+        "text": "대상과의 동맹 요청이 존재하여 적대에 추가할 수 없습니다."
+    },
+    "9001276": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 동맹 연합 / 요청 / 동맹 요청 받음",
+        "id": 9001276,
+        "alias": "SysM.Unite.GuildAlliance.Add.RequestGuildAlliance",
+        "text": "이미 대상과의 동맹 요청이 존재하여 동맹을 요청할 수 없습니다."
+    },
+    "9001277": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 동맹 연합 / 요청 / 상대 문파 최대치",
+        "id": 9001277,
+        "alias": "SysM.Unite.GuildAlliance.Add.TargetMax",
+        "text": "상대 연합이 받은 요청이 너무 많아 동맹을 요청할 수 없습니다."
+    },
+    "9001278": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 동맹 연합 / 요청 취소",
+        "id": 9001278,
+        "alias": "SysM.Unite.GuildAlliance.Cancel",
+        "text": "<arg p=[1:string]/> 연합에 보낸 동맹 요청을 취소했습니다."
+    },
+    "9001279": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 동맹 연합 / 승인",
+        "id": 9001279,
+        "alias": "SysM.Unite.GuildAlliance.Accept",
+        "text": "<arg p=[1:string]/> 연합과 동맹이 되었습니다."
+    },
+    "9001280": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 동맹 연합 / 거절",
+        "id": 9001280,
+        "alias": "SysM.Unite.GuildAlliance.Reject",
+        "text": "<arg p=[1:string]/> 연합의 동맹 요청을 거절했습니다."
+    },
+    "9001281": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 동맹 연합 / 해제",
+        "id": 9001281,
+        "alias": "SysM.Unite.GuildAlliance.Remove.Unite",
+        "text": "<arg p=[1:string]/> 연합과 동맹 관계가 해제되었습니다."
+    },
+    "9001282": {
+        "deprecated": false,
+        "Dev_Desc": "채팅 / 연합 가입 메시지",
+        "id": 9001282,
+        "alias": "SysM.chat.InviteChatUnite",
+        "text": "문파가 가입했습니다."
+    },
+    "9001283": {
+        "deprecated": false,
+        "Dev_Desc": "채팅 / 연합 탈퇴 메시지",
+        "id": 9001283,
+        "alias": "SysM.chat.LeaveChatUnite",
+        "text": "문파가 탈퇴했습니다."
+    },
+    "9001284": {
+        "deprecated": false,
+        "Dev_Desc": "채팅 / 연합 추방 메시지",
+        "id": 9001284,
+        "alias": "SysM.chat.BanChatUnite",
+        "text": "문파가 추방되었습니다."
+    },
+    "9001285": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 연합 창설 / 레벨 제한",
+        "id": 9001285,
+        "alias": "SysM.Unite.Foundation.RequiredLevel",
+        "text": "문파 <arg p=[1:integer]/>레벨부터 연합을 창설할 수 있습니다."
+    },
+    "9001286": {
+        "deprecated": false,
+        "Dev_Desc": "채팅 / 힌트 / 연합",
+        "id": 9001286,
+        "alias": "SysM.chat.PromptUnite",
+        "text": "연합원과 대화하세요"
+    },
+    "9001287": {
+        "deprecated": false,
+        "Dev_Desc": "채팅 / 연합",
+        "id": 9001287,
+        "alias": "SysM.chat.Unite",
+        "text": "연합"
+    },
+    "9001288": {
+        "deprecated": false,
+        "Dev_Desc": "채팅 / 토스트 메시지 연합",
+        "id": 9001288,
+        "alias": "SysM.chat.ToastNotUnite",
+        "text": "가입된 연합이 없습니다."
+    },
+    "9001289": {
+        "deprecated": false,
+        "Dev_Desc": "채팅 / 토스트 메시지 연합",
+        "id": 9001289,
+        "alias": "SysM.chat.ToastNotPermissionUniteChat",
+        "text": "연합 채팅 권한이 없습니다."
+    },
+    "9001290": {
+        "deprecated": false,
+        "Dev_Desc": "협행 / 모든 협행 수락 시",
+        "id": 9001290,
+        "alias": "SysM.BulletinQuest.AcceptAll",
+        "text": "모든 협행을 수락했습니다."
+    },
+    "9001291": {
+        "deprecated": false,
+        "Dev_Desc": "협행 / 모든 협행 수락 실패 시",
+        "id": 9001291,
+        "alias": "SysM.BulletinQuest.CannotAcceptAll",
+        "text": "수락 가능한 협행이 없습니다."
+    },
+    "9001292": {
+        "deprecated": false,
+        "Dev_Desc": "협행 / 모든 보상 수령 실패 시",
+        "id": 9001292,
+        "alias": "SysM.BulletinQuest.CannotRecieveAll",
+        "text": "보상 수령 가능한 협행이 없습니다."
+    },
+    "9001293": {
+        "deprecated": false,
+        "Dev_Desc": "퀘스트 / 이동 패드 입력 중 퀘스트 자동 플레이 시",
+        "id": 9001293,
+        "alias": "SysM.Quest.AutoMove.Impossible",
+        "text": "수동 이동과 임무 자동 이동은 동시에 진행할 수 없습니다."
+    },
+    "9001294": {
+        "deprecated": false,
+        "Dev_Desc": "복구술사 / 후유증 회복",
+        "id": 9001294,
+        "alias": "SysM.AfterRecovery.Complete",
+        "text": "후유증이 회복 되었습니다."
+    },
+    "9001295": {
+        "deprecated": false,
+        "Dev_Desc": "복구술사 / 후유증 회복 실패 시",
+        "id": 9001295,
+        "alias": "SysM.AfterRecovery.AlreadyComplete",
+        "text": "해당 후유증은 이미 회복되었습니다."
+    },
+    "9001296": {
+        "deprecated": false,
+        "Dev_Desc": "복구술사 / 후유증 충전 실패 시",
+        "id": 9001296,
+        "alias": "SysM.AfterRecovery.RechargeFail",
+        "text": "최대치를 넘어 충전할 수 없습니다."
+    },
+    "9001297": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 창설 / 이름 미입력",
+        "id": 9001297,
+        "alias": "SysM.Unite.Foundation.NoName",
+        "text": "연합 이름을 입력하세요."
+    },
+    "9001298": {
+        "deprecated": false,
+        "Dev_Desc": "연합 에러 / 가입 신청 안 한 연합에 대해 가입 신청 취소 / 가입과 동시에 가입 신청 취소",
+        "id": 9001298,
+        "alias": "SysM.Unite.Error.join.NotRequest",
+        "text": "가입 신청하지 않은 연합이거나, 이미 연합에 가입된 상태입니다."
+    },
+    "9001299": {
+        "deprecated": false,
+        "Dev_Desc": "연합 탭 진입 / 월드 정보 없음",
+        "id": 9001299,
+        "alias": "SysM.Unite.Error.NotWorldInfo",
+        "text": "일시적으로 월드 정보를 불러올 수 없습니다. 잠시 후 다시 시도해주세요."
+    },
+    "9001300": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 가입 관리 / 초대 / 초대 받는 횟수 부족",
+        "id": 9001300,
+        "alias": "SysM.Unite.Error.InviteFailToGuild.Full",
+        "text": "<arg p=[1:string]/> 문파의 초대받을 수 있는 횟수가 부족합니다."
+    },
+    "9001301": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 연합장 / 추방, 탈퇴 불가 처리",
+        "id": 9001301,
+        "alias": "SysM.Unite.Error.Banish.CanNotLeaveOrKick",
+        "text": "연합장은 탈퇴하거나 추방 당할 수 없습니다."
+    },
+    "9001302": {
+        "deprecated": false,
+        "Dev_Desc": "파티 던전에서 퀘스트 축지 사용 불가",
+        "id": 9001302,
+        "alias": "SysM.PartyDungeon.CannotQuestTeleport",
+        "text": "파티 던전에서는 해당 위치로 축지할 수 없습니다."
+    },
+    "9001303": {
+        "deprecated": false,
+        "Dev_Desc": "월드 필드에서 퀘스트 축지 사용 불가",
+        "id": 9001303,
+        "alias": "SysM.WorldField.CannotQuestTeleport",
+        "text": "월드 필드에서는 해당 위치로 축지할 수 없습니다."
+    },
+    "9001304": {
+        "deprecated": false,
+        "Dev_Desc": "월드 필드 경계 추가 불가",
+        "id": 9001304,
+        "alias": "SysM.WorldField.CannotRegistAlert",
+        "text": "월드 컨텐츠의 PvP 기록에서는 경계 추가/삭제를 할 수 없습니다."
+    },
+    "9001305": {
+        "deprecated": false,
+        "Dev_Desc": "협행 / 갱신할 협행 없음",
+        "id": 9001305,
+        "alias": "SysM.Board.RefreshFail.NoTarget",
+        "text": "갱신할 협행이 없습니다."
+    },
+    "9001306": {
+        "deprecated": false,
+        "Dev_Desc": "상점 / 자동 주문 / 무게 초과",
+        "id": 9001306,
+        "alias": "SysM.Shop.Auto.NotEnoughWeight",
+        "text": "소지 가능 무게를 초과하여 자동 주문되지 않습니다."
+    },
+    "9001307": {
+        "deprecated": false,
+        "Dev_Desc": "아이템 / 제작 / 제작 실패 보상",
+        "id": 9001307,
+        "alias": "SysM.Item.Craft.FailReward",
+        "text": "<arg p=[1:string]/>을(를) 획득했습니다."
+    },
+    "9001308": {
+        "deprecated": false,
+        "Dev_Desc": "채팅 / 채팅 금지 제제 중 / Flooding 제재",
+        "id": 9001308,
+        "alias": "SysM.Chat.BanChat.Flooding",
+        "text": "채팅이 일시 금지되었습니다. 잠시 후 입력해주세요. 채팅금지 종료까지 남은 시간: <arg p=[1:string]/>"
+    },
+    "9001309": {
+        "deprecated": false,
+        "Dev_Desc": "채팅 / 채팅 금지 제제 중 / 계정 제재",
+        "id": 9001309,
+        "alias": "SysM.Chat.BanChat.Restricted",
+        "text": "서비스를 이용할 수 없는 계정입니다. 자세한 내용은 [모바일 고객센터 > 1:1문의]를 통해 확인해 주세요."
+    },
+    "9001310": {
+        "deprecated": false,
+        "Dev_Desc": "채팅 / 채팅 금지 제제 중 / 운영툴 제재",
+        "id": 9001310,
+        "alias": "SysM.Chat.BanChat.Admin",
+        "text": "운영 정책 위반으로 채팅이 일시 금지되었습니다. 제재 차수: <arg p=[1:integer]/>회 / 종료 일시: <arg p=[2:string]/>"
+    },
+    "9001311": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 충전석 최대 버튼 사용시 알림 (시간)",
+        "id": 9001311,
+        "alias": "SysM.Dungeon.MaximumTimeStone",
+        "text": "보유중인 충전석이 부족하여 더이상 시간을 충전할 수 없습니다."
+    },
+    "9001312": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 충전석 최대 버튼 사용시 알림 (횟수)",
+        "id": 9001312,
+        "alias": "SysM.Dungeon.MaximumCountTimeStone",
+        "text": "보유중인 충전석이 부족하여 더이상 던전 횟수를 충전할 수 없습니다."
+    },
+    "9001313": {
+        "deprecated": false,
+        "Dev_Desc": "채팅 시스템 메시지 / 단계 유지",
+        "id": 9001313,
+        "alias": "SysM.ChatSysM.Enchant",
+        "text": "<<arg p=[1:string]/>>+<arg p=[2:string]/> <arg p=[3:string]/></><<arg p=[4:string]/>> 강화 시도 후 아무 일도 일어나지 않았습니다.</>"
+    },
+    "9001314": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 충전석 최소 버튼 사용시 알림 (횟수)",
+        "id": 9001314,
+        "alias": "SysM.Dungeon.MinimumTimeStone",
+        "text": "최소값으로 설정되어있습니다."
+    },
+    "9001315": {
+        "deprecated": false,
+        "Dev_Desc": "거래소 / 검색 결과 오류",
+        "id": 9001315,
+        "alias": "SysM.Market.SearchError",
+        "text": "거래소 정보에 오류가 발생했습니다. 새로고침 후 이용 부탁 드립니다."
+    },
+    "9001316": {
+        "deprecated": false,
+        "Dev_Desc": "아이템 스킬 / BlockSkill 시 사용 불가",
+        "id": 9001316,
+        "alias": "SysM.ItemSkill.Condition.NotAvailable",
+        "text": "무공을 사용할 수 있는 상태가 아닙니다."
+    },
+    "9001317": {
+        "deprecated": false,
+        "Dev_Desc": "퀘스트 / 토스트 메시지 / 잠긴 임무",
+        "id": 9001317,
+        "alias": "SysM.Quest.ToastMessage.LockedQuest",
+        "text": "아직 진행할 수 없는 임무입니다."
+    },
+    "9001318": {
+        "deprecated": false,
+        "Dev_Desc": "장비도감 / 즐겨찾기 / 101개 이상 등록 시",
+        "id": 9001318,
+        "alias": "SysM.EquipCollection.FavoriteMaxCount",
+        "text": "즐겨찾기는 최대 100개까지 가능합니다."
     }
 }

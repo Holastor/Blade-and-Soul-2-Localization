@@ -883,7 +883,7 @@
     },
     "60126": {
         "deprecated": false,
-        "Dev_Desc": "소울 이름 / 에레다 대장 오름",
+        "Dev_Desc": "소울 이름 / 에레다 부문주 오름",
         "id": 60126,
         "alias": "Contents.Soul.Name.4021",
         "text": "오름"
@@ -1833,7 +1833,7 @@
     },
     "60273": {
         "deprecated": false,
-        "Dev_Desc": "소울 칭호 / 에레다 대장 오름",
+        "Dev_Desc": "소울 칭호 / 에레다 부문주 오름",
         "id": 60273,
         "alias": "Contents.Soul.Title.4021",
         "text": "에레다 부문주"
@@ -2011,7 +2011,8 @@
         "deprecated": false,
         "Dev_Desc": "소울 칭호 / 포화란",
         "id": 60299,
-        "alias": "Contents.Soul.Title.5012"
+        "alias": "Contents.Soul.Title.5012",
+        "text": "기지관리관"
     },
     "60300": {
         "deprecated": false,
@@ -14196,5 +14197,957 @@
         "id": 62040,
         "alias": "Contents.Soul.Collection.5394",
         "text": "나의 공격은 더 강해지지"
+    },
+    "62041": {
+        "deprecated": false,
+        "Dev_Desc": "소울 이름 / 정하도",
+        "id": 62041,
+        "alias": "Contents.Soul.Name.5011",
+        "text": "정하도"
+    },
+    "62042": {
+        "deprecated": false,
+        "Dev_Desc": "소울 이름 / 태장금",
+        "id": 62042,
+        "alias": "Contents.Soul.Name.4036",
+        "text": "태장금"
+    },
+    "62043": {
+        "deprecated": false,
+        "Dev_Desc": "소울 이름 / 막소보",
+        "id": 62043,
+        "alias": "Contents.Soul.Name.4037",
+        "text": "막소보"
+    },
+    "62044": {
+        "deprecated": false,
+        "Dev_Desc": "소울 이름 / 발라라",
+        "id": 62044,
+        "alias": "Contents.Soul.Name.4038",
+        "text": "발라라"
+    },
+    "62045": {
+        "deprecated": false,
+        "Dev_Desc": "소울 이름 / 나조귀",
+        "id": 62045,
+        "alias": "Contents.Soul.Name.3058",
+        "text": "나조귀"
+    },
+    "62046": {
+        "deprecated": false,
+        "Dev_Desc": "소울 이름 / 팔보재",
+        "id": 62046,
+        "alias": "Contents.Soul.Name.3059",
+        "text": "팔보재"
+    },
+    "62047": {
+        "deprecated": false,
+        "Dev_Desc": "소울 이름 / 양장비",
+        "id": 62047,
+        "alias": "Contents.Soul.Name.3060",
+        "text": "양장비"
+    },
+    "62048": {
+        "deprecated": false,
+        "Dev_Desc": "소울 이름 / 유산솔",
+        "id": 62048,
+        "alias": "Contents.Soul.Name.3061",
+        "text": "유산솔"
+    },
+    "62049": {
+        "deprecated": false,
+        "Dev_Desc": "소울 이름 / 흑창족 작업반장",
+        "id": 62049,
+        "alias": "Contents.Soul.Name.2027",
+        "text": "흑창족 작업반장"
+    },
+    "62050": {
+        "deprecated": false,
+        "Dev_Desc": "소울 이름 / 흑창족 잡역부",
+        "id": 62050,
+        "alias": "Contents.Soul.Name.2028",
+        "text": "흑창족 잡역부"
+    },
+    "62051": {
+        "deprecated": false,
+        "Dev_Desc": "소울 이름 / 풍사단 잡역부",
+        "id": 62051,
+        "alias": "Contents.Soul.Name.2029",
+        "text": "풍사단 잡역부"
+    },
+    "62052": {
+        "deprecated": false,
+        "Dev_Desc": "소울 이름 / 가두라",
+        "id": 62052,
+        "alias": "Contents.Soul.Name.2030",
+        "text": "가두라"
+    },
+    "62053": {
+        "deprecated": false,
+        "Dev_Desc": "소울 이름 / 밀주파 취객",
+        "id": 62053,
+        "alias": "Contents.Soul.Name.1027",
+        "text": "밀주파 취객"
+    },
+    "62054": {
+        "deprecated": false,
+        "Dev_Desc": "소울 이름 / 충각단 경비견",
+        "id": 62054,
+        "alias": "Contents.Soul.Name.1028",
+        "text": "충각단 경비견"
+    },
+    "62055": {
+        "deprecated": false,
+        "Dev_Desc": "소울 이름 / 흑창족 일꾼",
+        "id": 62055,
+        "alias": "Contents.Soul.Name.1029",
+        "text": "흑창족 일꾼"
+    },
+    "62056": {
+        "deprecated": false,
+        "Dev_Desc": "소울 이름 / 흑창족 심부름꾼",
+        "id": 62056,
+        "alias": "Contents.Soul.Name.1030",
+        "text": "흑창족 심부름꾼"
+    },
+    "62057": {
+        "deprecated": false,
+        "Dev_Desc": "악녀강림_설명Lv.1",
+        "id": 62057,
+        "alias": "Contents.Soul.skillDescAlias.140",
+        "text": "소울 발동 시 일정 확률로 7초간 공격력 10, 무기 공격력 증폭 5%가 증가합니다."
+    },
+    "62058": {
+        "deprecated": false,
+        "Dev_Desc": "악녀강림_설명Lv.2",
+        "id": 62058,
+        "alias": "Contents.Soul.skillDescAlias.141",
+        "text": "소울 발동 시 일정 확률로 7초간 공격력 13, 무기 공격력 증폭 7%가 증가합니다."
+    },
+    "62059": {
+        "deprecated": false,
+        "Dev_Desc": "악녀강림_설명Lv.3",
+        "id": 62059,
+        "alias": "Contents.Soul.skillDescAlias.142",
+        "text": "소울 발동 시 일정 확률로 7초간 공격력 17, 무기 공격력 증폭 10%가 증가합니다."
+    },
+    "62060": {
+        "deprecated": false,
+        "Dev_Desc": "악녀강림_설명Lv.4",
+        "id": 62060,
+        "alias": "Contents.Soul.skillDescAlias.143",
+        "text": "소울 발동 시 일정 확률로 7초간 공격력 20, 무기 공격력 증폭 12%가 증가합니다."
+    },
+    "62061": {
+        "deprecated": false,
+        "Dev_Desc": "악녀강림_설명Lv.5",
+        "id": 62061,
+        "alias": "Contents.Soul.skillDescAlias.144",
+        "text": "소울 발동 시 일정 확률로 7초간 공격력 25, 무기 공격력 증폭 14%, 무공 공격 증폭 3%가 증가합니다."
+    },
+    "62062": {
+        "deprecated": false,
+        "Dev_Desc": "악녀강림_설명Lv.6",
+        "id": 62062,
+        "alias": "Contents.Soul.skillDescAlias.145",
+        "text": "소울 발동 시 일정 확률로 7초간 공격력 25, 무기 공격력 증폭 17%, 무공 공격 증폭 5%가 증가하고, 회피가 불가능한 폭탄을 설치합니다. 폭탄은 3초 후 폭발하여 대상을 포함한 주변 최대 3인에게 특별한 효과를 적용합니다. 몬스터가 아닌 대상에게는 최대 체력의 5% 피해를 주고 얼어붙게 만들어 행동불능 상태에 빠뜨리며, 몬스터에게는 광역 피해를 주고 5초간 지속 피해와 함께 방어력 10, 회피 10이 감소하는 악녀화상을 부여합니다.\n(폭탄 재사용 대기시간 30초)"
+    },
+    "62063": {
+        "deprecated": false,
+        "Dev_Desc": "악녀강림_설명Lv.7",
+        "id": 62063,
+        "alias": "Contents.Soul.skillDescAlias.146",
+        "text": "소울 발동 시 일정 확률로 7초간 공격력 25, 무기 공격력 증폭 20%, 무공 공격 증폭 7%가 증가하고, 회피가 불가능한 폭탄을 설치합니다. 폭탄은 3초 후 폭발하여 대상을 포함한 주변 최대 3인에게 특별한 효과를 적용합니다. 몬스터가 아닌 대상에게는 최대 체력의 7% 피해를 주고 얼어붙게 만들어 행동불능 상태에 빠뜨리며, 몬스터에게는 광역 피해를 주고 5초간 지속 피해와 함께 방어력 20, 회피 15, 무공 피해 내성 5%가 감소하는 악녀화상을 부여합니다.\n(폭탄 재사용 대기시간 25초)"
+    },
+    "62064": {
+        "deprecated": false,
+        "Dev_Desc": "악녀강림_설명Lv.8",
+        "id": 62064,
+        "alias": "Contents.Soul.skillDescAlias.147",
+        "text": "소울 발동 시 일정 확률로 7초간 공격력 25, 무기 공격력 증폭 25%, 무공 공격 증폭 10%가 증가하고, 회피가 불가능한 폭탄을 설치합니다. 폭탄은 3초 후 폭발하여 대상을 포함한 주변 최대 3인에게 특별한 효과를 적용합니다. 몬스터가 아닌 대상에게는 최대 체력의 9% 피해를 주고 얼어붙게 만들어 행동불능 상태에 빠뜨리며, 몬스터에게는 광역 피해를 주고 5초간 지속 피해와 함께 방어력 30, 회피 20, 무공 피해 내성 10%가 감소하는 악녀화상을 부여합니다.\n(폭탄 재사용 대기시간 20초)"
+    },
+    "62065": {
+        "deprecated": false,
+        "Dev_Desc": "악녀강림_이름",
+        "id": 62065,
+        "alias": "Contents.Soul.skillNameAlias.34",
+        "text": "악녀강림"
+    },
+    "62066": {
+        "deprecated": false,
+        "Dev_Desc": "취향존중_설명Lv.1",
+        "id": 62066,
+        "alias": "Contents.Soul.skillDescAlias.148",
+        "text": "소울 발동 시 일정 확률로 5초간 모든 속성 피해가 20% 증가합니다."
+    },
+    "62067": {
+        "deprecated": false,
+        "Dev_Desc": "취향존중_설명Lv.2",
+        "id": 62067,
+        "alias": "Contents.Soul.skillDescAlias.149",
+        "text": "소울 발동 시 일정 확률로 5초간 모든 속성 피해가 50% 증가합니다."
+    },
+    "62068": {
+        "deprecated": false,
+        "Dev_Desc": "취향존중_설명Lv.3",
+        "id": 62068,
+        "alias": "Contents.Soul.skillDescAlias.150",
+        "text": "소울 발동 시 일정 확률로 5초간 모든 속성 피해가 80% 증가합니다."
+    },
+    "62069": {
+        "deprecated": false,
+        "Dev_Desc": "취향존중_이름",
+        "id": 62069,
+        "alias": "Contents.Soul.skillNameAlias.35",
+        "text": "취향존중"
+    },
+    "62070": {
+        "deprecated": false,
+        "Dev_Desc": "허약함_설명Lv.1",
+        "id": 62070,
+        "alias": "Contents.Soul.skillDescAlias.151",
+        "text": "소울 발동 시 일정 확률로 4초간 통제 숙련과 통제 유연을 8 감소시킵니다."
+    },
+    "62071": {
+        "deprecated": false,
+        "Dev_Desc": "허약함_설명Lv.2",
+        "id": 62071,
+        "alias": "Contents.Soul.skillDescAlias.152",
+        "text": "소울 발동 시 일정 확률로 4초간 통제 숙련과 통제 유연을 14 감소시킵니다."
+    },
+    "62072": {
+        "deprecated": false,
+        "Dev_Desc": "허약함_설명Lv.3",
+        "id": 62072,
+        "alias": "Contents.Soul.skillDescAlias.153",
+        "text": "소울 발동 시 일정 확률로 4초간 통제 숙련과 통제 유연을 20 감소시킵니다."
+    },
+    "62073": {
+        "deprecated": false,
+        "Dev_Desc": "허약함_이름",
+        "id": 62073,
+        "alias": "Contents.Soul.skillNameAlias.36",
+        "text": "허약함"
+    },
+    "62074": {
+        "deprecated": false,
+        "Dev_Desc": "치명적인 매력",
+        "id": 62074,
+        "alias": "Contents.Soul.Collection.5395",
+        "text": "치명적인 매력"
+    },
+    "62075": {
+        "deprecated": false,
+        "Dev_Desc": "또다른 시작, 새로운 만남",
+        "id": 62075,
+        "alias": "Contents.Soul.Collection.5396",
+        "text": "또 다른 시작, 새로운 만남"
+    },
+    "62076": {
+        "deprecated": false,
+        "Dev_Desc": "뒤틀린 세계",
+        "id": 62076,
+        "alias": "Contents.Soul.Collection.5397",
+        "text": "뒤틀린 세계"
+    },
+    "62077": {
+        "deprecated": false,
+        "Dev_Desc": "포화란을 더 강하게",
+        "id": 62077,
+        "alias": "Contents.Soul.Collection.5398",
+        "text": "포화란을 더 강하게"
+    },
+    "62078": {
+        "deprecated": false,
+        "Dev_Desc": "이렇게 만난것도 인연인데",
+        "id": 62078,
+        "alias": "Contents.Soul.Collection.5399",
+        "text": "이렇게 만난 것도 인연인데"
+    },
+    "62079": {
+        "deprecated": false,
+        "Dev_Desc": "생동감 넘치는",
+        "id": 62079,
+        "alias": "Contents.Soul.Collection.5400",
+        "text": "생동감 넘치는"
+    },
+    "62080": {
+        "deprecated": false,
+        "Dev_Desc": "유산솔과 양장비",
+        "id": 62080,
+        "alias": "Contents.Soul.Collection.5401",
+        "text": "유산솔과 양장비"
+    },
+    "62081": {
+        "deprecated": false,
+        "Dev_Desc": "바다뱀 보급기지로 가려면",
+        "id": 62081,
+        "alias": "Contents.Soul.Collection.5402",
+        "text": "바다뱀 보급기지로 가려면"
+    },
+    "62082": {
+        "deprecated": false,
+        "Dev_Desc": "새로운 탐험",
+        "id": 62082,
+        "alias": "Contents.Soul.Collection.5403",
+        "text": "새로운 탐험"
+    },
+    "62083": {
+        "deprecated": false,
+        "Dev_Desc": "보지 못했던 길",
+        "id": 62083,
+        "alias": "Contents.Soul.Collection.5404",
+        "text": "보지 못했던 길"
+    },
+    "62084": {
+        "deprecated": false,
+        "Dev_Desc": "철벽 방어",
+        "id": 62084,
+        "alias": "Contents.Soul.Collection.5405",
+        "text": "철벽 방어"
+    },
+    "62085": {
+        "deprecated": false,
+        "Dev_Desc": "이것이 절대 방어",
+        "id": 62085,
+        "alias": "Contents.Soul.Collection.5406",
+        "text": "이것이 절대 방어"
+    },
+    "62086": {
+        "deprecated": false,
+        "Dev_Desc": "늠름한 모습",
+        "id": 62086,
+        "alias": "Contents.Soul.Collection.5407",
+        "text": "늠름한 모습"
+    },
+    "62087": {
+        "deprecated": false,
+        "Dev_Desc": "경험을 통해 깨달은 것",
+        "id": 62087,
+        "alias": "Contents.Soul.Collection.5408",
+        "text": "경험을 통해 깨달은 것"
+    },
+    "62088": {
+        "deprecated": false,
+        "Dev_Desc": "보급기지의 중요성",
+        "id": 62088,
+        "alias": "Contents.Soul.Collection.5409",
+        "text": "보급기지의 중요성"
+    },
+    "62089": {
+        "deprecated": false,
+        "Dev_Desc": "허공에 있는 시간",
+        "id": 62089,
+        "alias": "Contents.Soul.Collection.5410",
+        "text": "허공에 있는 시간"
+    },
+    "62090": {
+        "deprecated": false,
+        "Dev_Desc": "전설의 존재들",
+        "id": 62090,
+        "alias": "Contents.Soul.Collection.5411",
+        "text": "전설의 존재들"
+    },
+    "62091": {
+        "deprecated": false,
+        "Dev_Desc": "우리 다시 만나지 말자",
+        "id": 62091,
+        "alias": "Contents.Soul.Collection.5412",
+        "text": "우리 다시 만나지 말자"
+    },
+    "62092": {
+        "deprecated": false,
+        "Dev_Desc": "바다뱀 보급기지에서 만나",
+        "id": 62092,
+        "alias": "Contents.Soul.Collection.5413",
+        "text": "바다뱀 보급기지에서 만나"
+    },
+    "62093": {
+        "deprecated": false,
+        "Dev_Desc": "영교원의 꿈",
+        "id": 62093,
+        "alias": "Contents.Soul.Collection.5414",
+        "text": "영교원의 꿈"
+    },
+    "62094": {
+        "deprecated": false,
+        "Dev_Desc": "생명의 은인",
+        "id": 62094,
+        "alias": "Contents.Soul.Collection.5415",
+        "text": "생명의 은인"
+    },
+    "62095": {
+        "deprecated": false,
+        "Dev_Desc": "새로운 보스를 만날 준비",
+        "id": 62095,
+        "alias": "Contents.Soul.Collection.5416",
+        "text": "새로운 보스를 만날 준비"
+    },
+    "62096": {
+        "deprecated": false,
+        "Dev_Desc": "거센 저항으로 살아남기",
+        "id": 62096,
+        "alias": "Contents.Soul.Collection.5417",
+        "text": "거센 저항으로 살아남기"
+    },
+    "62097": {
+        "deprecated": false,
+        "Dev_Desc": "나만 아는 비밀",
+        "id": 62097,
+        "alias": "Contents.Soul.Collection.5418",
+        "text": "나만 아는 비밀"
+    },
+    "62098": {
+        "deprecated": false,
+        "Dev_Desc": "전투의 기본",
+        "id": 62098,
+        "alias": "Contents.Soul.Collection.5419",
+        "text": "전투의 기본"
+    },
+    "62099": {
+        "deprecated": false,
+        "Dev_Desc": "정상에서 만나요",
+        "id": 62099,
+        "alias": "Contents.Soul.Collection.5420",
+        "text": "정상에서 만나요"
+    },
+    "62100": {
+        "deprecated": false,
+        "Dev_Desc": "정정당당한 결투",
+        "id": 62100,
+        "alias": "Contents.Soul.Collection.5421",
+        "text": "정정당당한 결투"
+    },
+    "62101": {
+        "deprecated": false,
+        "Dev_Desc": "내가 살아가는 힘",
+        "id": 62101,
+        "alias": "Contents.Soul.Collection.5422",
+        "text": "내가 살아가는 힘"
+    },
+    "62102": {
+        "deprecated": false,
+        "Dev_Desc": "작지만 강한 힘",
+        "id": 62102,
+        "alias": "Contents.Soul.Collection.5423",
+        "text": "작지만 강한 힘"
+    },
+    "62103": {
+        "deprecated": false,
+        "Dev_Desc": "강력해진 막소보",
+        "id": 62103,
+        "alias": "Contents.Soul.Collection.5424",
+        "text": "강력해진 막소보"
+    },
+    "62104": {
+        "deprecated": false,
+        "Dev_Desc": "나를 무시하지 마",
+        "id": 62104,
+        "alias": "Contents.Soul.Collection.5425",
+        "text": "나를 무시하지 마"
+    },
+    "62105": {
+        "deprecated": false,
+        "Dev_Desc": "무한한 가능성",
+        "id": 62105,
+        "alias": "Contents.Soul.Collection.5426",
+        "text": "무한한 가능성"
+    },
+    "62106": {
+        "deprecated": false,
+        "Dev_Desc": "속성 준비 끝",
+        "id": 62106,
+        "alias": "Contents.Soul.Collection.5427",
+        "text": "속성 준비 끝"
+    },
+    "62107": {
+        "deprecated": false,
+        "Dev_Desc": "태장금과 불마자",
+        "id": 62107,
+        "alias": "Contents.Soul.Collection.5428",
+        "text": "태장금과 불마자"
+    },
+    "62108": {
+        "deprecated": false,
+        "Dev_Desc": "용기있는 결심",
+        "id": 62108,
+        "alias": "Contents.Soul.Collection.5429",
+        "text": "용기 있는 결심"
+    },
+    "62109": {
+        "deprecated": false,
+        "Dev_Desc": "더 이상 무섭지 않아",
+        "id": 62109,
+        "alias": "Contents.Soul.Collection.5430",
+        "text": "더 이상 무섭지 않아"
+    },
+    "62110": {
+        "deprecated": false,
+        "Dev_Desc": "장금이의 요리교실",
+        "id": 62110,
+        "alias": "Contents.Soul.Collection.5431",
+        "text": "장금이의 요리교실"
+    },
+    "62111": {
+        "deprecated": false,
+        "Dev_Desc": "민첩한 움직임",
+        "id": 62111,
+        "alias": "Contents.Soul.Collection.5432",
+        "text": "민첩한 움직임"
+    },
+    "62112": {
+        "deprecated": false,
+        "Dev_Desc": "바다가 좋아",
+        "id": 62112,
+        "alias": "Contents.Soul.Collection.5433",
+        "text": "바다가 좋아"
+    },
+    "62113": {
+        "deprecated": false,
+        "Dev_Desc": "무기를 더 강하게 하는 것",
+        "id": 62113,
+        "alias": "Contents.Soul.Collection.5434",
+        "text": "무기를 더 강하게 하는 것"
+    },
+    "62114": {
+        "deprecated": false,
+        "Dev_Desc": "덜 아프게 맞는 법",
+        "id": 62114,
+        "alias": "Contents.Soul.Collection.5435",
+        "text": "덜 아프게 맞는 법"
+    },
+    "62115": {
+        "deprecated": false,
+        "Dev_Desc": "갈고 닦은 실력",
+        "id": 62115,
+        "alias": "Contents.Soul.Collection.5436",
+        "text": "갈고닦은 실력"
+    },
+    "62116": {
+        "deprecated": false,
+        "Dev_Desc": "침식된 존재들과의 인사",
+        "id": 62116,
+        "alias": "Contents.Soul.Collection.5437",
+        "text": "잡일은 나에게"
+    },
+    "62117": {
+        "deprecated": false,
+        "Dev_Desc": "나만의 길",
+        "id": 62117,
+        "alias": "Contents.Soul.Collection.5438",
+        "text": "나만의 길"
+    },
+    "62118": {
+        "deprecated": false,
+        "Dev_Desc": "약점 없애기",
+        "id": 62118,
+        "alias": "Contents.Soul.Collection.5439",
+        "text": "약점 없애기"
+    },
+    "62119": {
+        "deprecated": false,
+        "Dev_Desc": "달콤한 공격력",
+        "id": 62119,
+        "alias": "Contents.Soul.Collection.5440",
+        "text": "달콤한 공격력"
+    },
+    "62120": {
+        "deprecated": false,
+        "Dev_Desc": "눈처럼 불어나는",
+        "id": 62120,
+        "alias": "Contents.Soul.Collection.5441",
+        "text": "눈처럼 불어나는"
+    },
+    "62121": {
+        "deprecated": false,
+        "Dev_Desc": "안 아프게 맞는 법",
+        "id": 62121,
+        "alias": "Contents.Soul.Collection.5442",
+        "text": "몬스터와의 전투 준비"
+    },
+    "62122": {
+        "deprecated": false,
+        "Dev_Desc": "등을 보이지 마",
+        "id": 62122,
+        "alias": "Contents.Soul.Collection.5443",
+        "text": "등을 보이지 마"
+    },
+    "62123": {
+        "deprecated": false,
+        "Dev_Desc": "두꺼운 방어벽 뚫기",
+        "id": 62123,
+        "alias": "Contents.Soul.Collection.5444",
+        "text": "두꺼운 방어벽 뚫기"
+    },
+    "62124": {
+        "deprecated": false,
+        "Dev_Desc": "장금이의 요리실력",
+        "id": 62124,
+        "alias": "Contents.Soul.Collection.5445",
+        "text": "장금이의 요리 실력"
+    },
+    "62125": {
+        "deprecated": false,
+        "Dev_Desc": "지혜로운 선택",
+        "id": 62125,
+        "alias": "Contents.Soul.Collection.5446",
+        "text": "지혜로운 선택"
+    },
+    "62126": {
+        "deprecated": false,
+        "Dev_Desc": "표면과 다른 내공",
+        "id": 62126,
+        "alias": "Contents.Soul.Collection.5447",
+        "text": "표면과 다른 내공"
+    },
+    "62127": {
+        "deprecated": false,
+        "Dev_Desc": "파고드는 힘",
+        "id": 62127,
+        "alias": "Contents.Soul.Collection.5448",
+        "text": "파고드는 힘"
+    },
+    "62128": {
+        "deprecated": false,
+        "Dev_Desc": "다름을 인정하기",
+        "id": 62128,
+        "alias": "Contents.Soul.Collection.5449",
+        "text": "다름을 인정하기"
+    },
+    "62129": {
+        "deprecated": false,
+        "Dev_Desc": "지능을 올리려면",
+        "id": 62129,
+        "alias": "Contents.Soul.Collection.5450",
+        "text": "지능을 올리려면"
+    },
+    "62130": {
+        "deprecated": false,
+        "Dev_Desc": "새로운 맛",
+        "id": 62130,
+        "alias": "Contents.Soul.Collection.5451",
+        "text": "새로운 맛"
+    },
+    "62131": {
+        "deprecated": false,
+        "Dev_Desc": "너를 찾고 있었어",
+        "id": 62131,
+        "alias": "Contents.Soul.Collection.5452",
+        "text": "너를 찾고 있었어"
+    },
+    "62132": {
+        "deprecated": false,
+        "Dev_Desc": "심화 호신술",
+        "id": 62132,
+        "alias": "Contents.Soul.Collection.5453",
+        "text": "심화 호신술"
+    },
+    "62133": {
+        "deprecated": false,
+        "Dev_Desc": "발라라 성장 성공",
+        "id": 62133,
+        "alias": "Contents.Soul.Collection.5454",
+        "text": "발라라 성장 성공"
+    },
+    "62134": {
+        "deprecated": false,
+        "Dev_Desc": "예상 적중",
+        "id": 62134,
+        "alias": "Contents.Soul.Collection.5455",
+        "text": "예상 적중"
+    },
+    "62135": {
+        "deprecated": false,
+        "Dev_Desc": "무공 고수의 수련법",
+        "id": 62135,
+        "alias": "Contents.Soul.Collection.5456",
+        "text": "무공 고수의 수련법"
+    },
+    "62136": {
+        "deprecated": false,
+        "Dev_Desc": "보기만 해도 배불러",
+        "id": 62136,
+        "alias": "Contents.Soul.Collection.5457",
+        "text": "보기만 해도 배불러"
+    },
+    "62137": {
+        "deprecated": false,
+        "Dev_Desc": "나조귀와의 만남",
+        "id": 62137,
+        "alias": "Contents.Soul.Collection.5458",
+        "text": "나조귀와의 만남"
+    },
+    "62138": {
+        "deprecated": false,
+        "Dev_Desc": "새싹처럼 돋아나는 생명력",
+        "id": 62138,
+        "alias": "Contents.Soul.Collection.5459",
+        "text": "새싹처럼 돋아나는 생명력"
+    },
+    "62139": {
+        "deprecated": false,
+        "Dev_Desc": "외공 공격이란 이런것",
+        "id": 62139,
+        "alias": "Contents.Soul.Collection.5460",
+        "text": "외공 공격이란 이런 것"
+    },
+    "62140": {
+        "deprecated": false,
+        "Dev_Desc": "차근차근 성장하는 맛",
+        "id": 62140,
+        "alias": "Contents.Soul.Collection.5461",
+        "text": "차근차근 성장하는 맛"
+    },
+    "62141": {
+        "deprecated": false,
+        "Dev_Desc": "성장 후에 맛보는 공격력",
+        "id": 62141,
+        "alias": "Contents.Soul.Collection.5462",
+        "text": "성장 후에 맛보는 공격력"
+    },
+    "62142": {
+        "deprecated": false,
+        "Dev_Desc": "팔보재와의 만남",
+        "id": 62142,
+        "alias": "Contents.Soul.Collection.5463",
+        "text": "팔보재와의 만남"
+    },
+    "62143": {
+        "deprecated": false,
+        "Dev_Desc": "대체 불가 생명력",
+        "id": 62143,
+        "alias": "Contents.Soul.Collection.5464",
+        "text": "대체 불가 생명력"
+    },
+    "62144": {
+        "deprecated": false,
+        "Dev_Desc": "기교 공격이란 이런것",
+        "id": 62144,
+        "alias": "Contents.Soul.Collection.5465",
+        "text": "기교 공격이란 이런 것"
+    },
+    "62145": {
+        "deprecated": false,
+        "Dev_Desc": "비밀스러운 공격",
+        "id": 62145,
+        "alias": "Contents.Soul.Collection.5466",
+        "text": "비밀스러운 공격"
+    },
+    "62146": {
+        "deprecated": false,
+        "Dev_Desc": "우리의 싸움은 끝이 없지",
+        "id": 62146,
+        "alias": "Contents.Soul.Collection.5467",
+        "text": "우리의 싸움은 끝이 없지"
+    },
+    "62147": {
+        "deprecated": false,
+        "Dev_Desc": "양장비와의 만남",
+        "id": 62147,
+        "alias": "Contents.Soul.Collection.5468",
+        "text": "양장비와의 만남"
+    },
+    "62148": {
+        "deprecated": false,
+        "Dev_Desc": "회복할 수 있는 힘",
+        "id": 62148,
+        "alias": "Contents.Soul.Collection.5469",
+        "text": "회복할 수 있는 힘"
+    },
+    "62149": {
+        "deprecated": false,
+        "Dev_Desc": "기공 공격이란 이런것",
+        "id": 62149,
+        "alias": "Contents.Soul.Collection.5470",
+        "text": "기공 공격이란 이런 것"
+    },
+    "62150": {
+        "deprecated": false,
+        "Dev_Desc": "서로 다르게 생긴 우리",
+        "id": 62150,
+        "alias": "Contents.Soul.Collection.5471",
+        "text": "서로 다르게 생긴 우리"
+    },
+    "62151": {
+        "deprecated": false,
+        "Dev_Desc": "저를 더 강하게 만들어주세요",
+        "id": 62151,
+        "alias": "Contents.Soul.Collection.5472",
+        "text": "저를 더 강하게 만들어주세요"
+    },
+    "62152": {
+        "deprecated": false,
+        "Dev_Desc": "유산솔과의 만남",
+        "id": 62152,
+        "alias": "Contents.Soul.Collection.5473",
+        "text": "유산솔과의 만남"
+    },
+    "62153": {
+        "deprecated": false,
+        "Dev_Desc": "같은 물약, 다른 회복량",
+        "id": 62153,
+        "alias": "Contents.Soul.Collection.5474",
+        "text": "같은 물약, 다른 회복량"
+    },
+    "62154": {
+        "deprecated": false,
+        "Dev_Desc": "날렵한 사냥꾼",
+        "id": 62154,
+        "alias": "Contents.Soul.Collection.5475",
+        "text": "날렵한 사냥꾼"
+    },
+    "62155": {
+        "deprecated": false,
+        "Dev_Desc": "숨기고 있는 힘",
+        "id": 62155,
+        "alias": "Contents.Soul.Collection.5476",
+        "text": "숨기고 있는 힘"
+    },
+    "62156": {
+        "deprecated": false,
+        "Dev_Desc": "염환의 힘을 빌려",
+        "id": 62156,
+        "alias": "Contents.Soul.Collection.5477",
+        "text": "염환의 힘을 빌려"
+    },
+    "62157": {
+        "deprecated": false,
+        "Dev_Desc": "우리만의 동창회",
+        "id": 62157,
+        "alias": "Contents.Soul.Collection.5478",
+        "text": "우리만의 동창회"
+    },
+    "62158": {
+        "deprecated": false,
+        "Dev_Desc": "나의 소중한 외공 명중",
+        "id": 62158,
+        "alias": "Contents.Soul.Collection.5479",
+        "text": "나의 소중한 외공 명중"
+    },
+    "62159": {
+        "deprecated": false,
+        "Dev_Desc": "나의 소중한 기교 명중",
+        "id": 62159,
+        "alias": "Contents.Soul.Collection.5480",
+        "text": "나의 소중한 기교 명중"
+    },
+    "62160": {
+        "deprecated": false,
+        "Dev_Desc": "나의 소중한 기공 명중",
+        "id": 62160,
+        "alias": "Contents.Soul.Collection.5481",
+        "text": "나의 소중한 기공 명중"
+    },
+    "62161": {
+        "deprecated": false,
+        "Dev_Desc": "흑창족 일꾼 모임",
+        "id": 62161,
+        "alias": "Contents.Soul.Collection.5482",
+        "text": "흑창족 일꾼 모임"
+    },
+    "62162": {
+        "deprecated": false,
+        "Dev_Desc": "사냥을 나가자",
+        "id": 62162,
+        "alias": "Contents.Soul.Collection.5483",
+        "text": "사냥을 나가자"
+    },
+    "62163": {
+        "deprecated": false,
+        "Dev_Desc": "만나서 반가워요",
+        "id": 62163,
+        "alias": "Contents.Soul.Collection.5484",
+        "text": "만나서 반가워요"
+    },
+    "62164": {
+        "deprecated": false,
+        "Dev_Desc": "사냥을 나가기 전Ⅰ",
+        "id": 62164,
+        "alias": "Contents.Soul.Collection.5485",
+        "text": "사냥을 나가기 전Ⅰ"
+    },
+    "62165": {
+        "deprecated": false,
+        "Dev_Desc": "사냥을 나가기 전Ⅱ",
+        "id": 62165,
+        "alias": "Contents.Soul.Collection.5486",
+        "text": "사냥을 나가기 전Ⅱ"
+    },
+    "62166": {
+        "deprecated": false,
+        "Dev_Desc": "오늘의 할 일",
+        "id": 62166,
+        "alias": "Contents.Soul.Collection.5487",
+        "text": "오늘의 할 일"
+    },
+    "62167": {
+        "deprecated": false,
+        "Dev_Desc": "오늘의 일꾼",
+        "id": 62167,
+        "alias": "Contents.Soul.Collection.5488",
+        "text": "오늘의 일꾼"
+    },
+    "62168": {
+        "deprecated": false,
+        "Dev_Desc": "무엇이든 맡겨주세요",
+        "id": 62168,
+        "alias": "Contents.Soul.Collection.5489",
+        "text": "무엇이든 맡겨주세요"
+    },
+    "62169": {
+        "deprecated": false,
+        "Dev_Desc": "가두지 말아줘",
+        "id": 62169,
+        "alias": "Contents.Soul.Collection.5490",
+        "text": "가두지 말아 줘"
+    },
+    "62170": {
+        "deprecated": false,
+        "Dev_Desc": "숙취해소",
+        "id": 62170,
+        "alias": "Contents.Soul.Collection.5491",
+        "text": "숙취해소"
+    },
+    "62171": {
+        "deprecated": false,
+        "Dev_Desc": "경비를 부탁해",
+        "id": 62171,
+        "alias": "Contents.Soul.Collection.5492",
+        "text": "경비를 부탁해"
+    },
+    "62172": {
+        "deprecated": false,
+        "Dev_Desc": "열심히 일해요",
+        "id": 62172,
+        "alias": "Contents.Soul.Collection.5493",
+        "text": "열심히 일해요"
+    },
+    "62173": {
+        "deprecated": false,
+        "Dev_Desc": "오늘의 심부름",
+        "id": 62173,
+        "alias": "Contents.Soul.Collection.5494",
+        "text": "오늘의 심부름"
+    },
+    "62174": {
+        "deprecated": false,
+        "Dev_Desc": "소울 칭호 / 태장금",
+        "id": 62174,
+        "alias": "Contents.Soul.Title.4036",
+        "text": "주방장"
+    },
+    "62175": {
+        "deprecated": false,
+        "Dev_Desc": "소울 칭호 / 막소보",
+        "id": 62175,
+        "alias": "Contents.Soul.Title.4037",
+        "text": "내무반장"
+    },
+    "62176": {
+        "deprecated": false,
+        "Dev_Desc": "소울 칭호 / 발라라",
+        "id": 62176,
+        "alias": "Contents.Soul.Title.4038",
+        "text": "수문장"
     }
 }

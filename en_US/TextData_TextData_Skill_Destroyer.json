@@ -1183,9 +1183,9 @@
     },
     "60040170": {
         "deprecated": false,
-        "Dev_Desc": "장벽 막기 증가",
+        "Dev_Desc": "장벽 효과 받는 피해량 감소",
         "id": 60040170,
-        "alias": "Contents.Skill.Upgrade.Name.GreatAxe.BlockWall",
+        "alias": "Contents.Skill.useEffectDesc.GreatAxe.BlockWall",
         "text": "Defense +7"
     },
     "60040171": {
@@ -1292,5 +1292,33 @@
         "id": 60040185,
         "alias": "Contents.Skill.Desc.GreatAxe.4810",
         "text": "When attacking a boss monster with \"Spread [Breakthrough]\", it will perform a confirmed combo attack."
+    },
+    "60040186": {
+        "deprecated": false,
+        "Dev_Desc": "징벌",
+        "id": 60040186,
+        "alias": "Contents.Skill.Name.GreatAxe.4811",
+        "text": "punishment"
+    },
+    "60040187": {
+        "deprecated": false,
+        "Dev_Desc": "징벌",
+        "id": 60040187,
+        "alias": "Contents.Skill.Desc.GreatAxe.4811",
+        "text": "Punishes evil with righteous will and strength.\\nAx attack power and attack accuracy are increased."
+    },
+    "60040188": {
+        "deprecated": false,
+        "Dev_Desc": "징벌",
+        "id": 60040188,
+        "alias": "Contents.Skill.useEffect.GreatAxe.4811",
+        "text": "Ax attack power +8, attack accuracy +4"
+    },
+    "60040189": {
+        "deprecated": false,
+        "Dev_Desc": "정의 효과",
+        "id": 60040189,
+        "alias": "Contents.Skill.useEffectDesc.GreatAxe.4808",
+        "text": "Outer hole penetration +7"
     }
 }

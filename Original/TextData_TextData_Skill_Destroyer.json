@@ -780,7 +780,7 @@
         "Dev_Desc": "포효",
         "id": 60040112,
         "alias": "Contents.Skill.Desc.GreatAxe.4208",
-        "text": "전방에 함성을 질러 피해를 입힙니다.\n일정 확률로 <textColor=[248:99:99:255]>도발</> 효과를 부여합니다."
+        "text": "전방에 함성을 질러 피해를 입힙니다.\n일정 확률로 대상에게 <textColor=[248:99:99:255]>도발</> 효과를 부여합니다."
     },
     "60040113": {
         "deprecated": false,
@@ -808,14 +808,14 @@
         "Dev_Desc": "포효_극한",
         "id": 60040116,
         "alias": "Contents.Skill.acquireEffect.GreatAxe.4208_3",
-        "text": "피해량 증가\n<textColor=[248:99:99:255]>도발</> 중 회피 -15, 통제 저항률 -10%"
+        "text": "피해량 증가\n<textColor=[248:99:99:255]>도발</> 당한 대상 회피 -15, 통제 저항률 -10%"
     },
     "60040117": {
         "deprecated": false,
         "Dev_Desc": "포효_돌파",
         "id": 60040117,
         "alias": "Contents.Skill.acquireEffect.GreatAxe.4208_4",
-        "text": "범위 내 최대 3인까지 적중\n<textColor=[248:99:99:255]>도발</> 중 기본 공격 속도 -50%"
+        "text": "범위 내 최대 3인까지 적중\n<textColor=[248:99:99:255]>도발</> 당한 대상 기본 공격 속도 -50%"
     },
     "60040118": {
         "deprecated": false,
@@ -920,7 +920,7 @@
         "Dev_Desc": "장벽",
         "id": 60040132,
         "alias": "Contents.Skill.Desc.GreatAxe.4161",
-        "text": "장벽을 생성합니다.\n이동을 막고 적의 공격을 방해합니다.\n사용 중 통제 상태에 면역이 됩니다."
+        "text": "장벽을 생성하여 적의 공격을 막고 이동을 방해합니다.\n생성된 장벽은 60초 동안 유지됩니다.\n장벽은 공격을 받을때마다 충격이 누적되며, 장벽이 파손되면 막기 관통 무공을 사용하여 일정 확률로 장벽을 파괴할 수 있습니다.\n일정 확률로 범위 내 최대 5명의 적을 <textColor=[248:99:99:255]>기절</>시킵니다.\n막기 중인 대상을 일정 확률로 관통해 <textColor=[248:99:99:255]>기절</>시킵니다.\n사용 중 <textColor=[248:99:99:255]>통제</>, <textColor=[248:99:99:255]>빙결</>, <textColor=[248:99:99:255]>도발</>, <textColor=[248:99:99:255]>침묵</>, <textColor=[248:99:99:255]>행동불능</> 효과로 무공이 저지되지 않습니다."
     },
     "60040133": {
         "deprecated": false,
@@ -1183,10 +1183,10 @@
     },
     "60040170": {
         "deprecated": false,
-        "Dev_Desc": "장벽 막기 증가",
+        "Dev_Desc": "장벽 효과 받는 피해량 감소",
         "id": 60040170,
-        "alias": "Contents.Skill.Upgrade.Name.GreatAxe.BlockWall",
-        "text": "장벽 막기 증가"
+        "alias": "Contents.Skill.useEffectDesc.GreatAxe.BlockWall",
+        "text": "장벽 받는 피해량 감소 +1%"
     },
     "60040171": {
         "deprecated": false,
@@ -1256,7 +1256,7 @@
         "Dev_Desc": "정의",
         "id": 60040180,
         "alias": "Contents.Skill.Desc.GreatAxe.4808",
-        "text": "상태이상의 적에게 공격을 강화합니다.\n<textColor=[248:99:99:255]>도발</>, <textColor=[248:99:99:255]>기절</>, <textColor=[248:99:99:255]>공중</> 상태인 대상 공격 시 추가 피해를 입힙니다."
+        "text": "상태이상의 적에게 공격을 강화합니다.\n<textColor=[248:99:99:255]>도발</>, <textColor=[248:99:99:255]>기절</>, <textColor=[248:99:99:255]>공중</> 상태인 대상 공격 시 추가 피해를 입힙니다.\n외공 관통력이 증가합니다."
     },
     "60040181": {
         "deprecated": false,
@@ -1292,5 +1292,33 @@
         "id": 60040185,
         "alias": "Contents.Skill.Desc.GreatAxe.4810",
         "text": "보스 몬스터에게 \"선풍[돌파]\" 공격 시 확정 연계 공격을 합니다."
+    },
+    "60040186": {
+        "deprecated": false,
+        "Dev_Desc": "징벌",
+        "id": 60040186,
+        "alias": "Contents.Skill.Name.GreatAxe.4811",
+        "text": "징벌"
+    },
+    "60040187": {
+        "deprecated": false,
+        "Dev_Desc": "징벌",
+        "id": 60040187,
+        "alias": "Contents.Skill.Desc.GreatAxe.4811",
+        "text": "정의로운 의지와 힘으로 악을 징벌합니다.\n도끼 공격력과 외공 명중이 증가합니다."
+    },
+    "60040188": {
+        "deprecated": false,
+        "Dev_Desc": "징벌",
+        "id": 60040188,
+        "alias": "Contents.Skill.useEffect.GreatAxe.4811",
+        "text": "도끼 공격력 +8, 외공 명중 +4"
+    },
+    "60040189": {
+        "deprecated": false,
+        "Dev_Desc": "정의 효과",
+        "id": 60040189,
+        "alias": "Contents.Skill.useEffectDesc.GreatAxe.4808",
+        "text": "외공 관통력 +7"
     }
 }

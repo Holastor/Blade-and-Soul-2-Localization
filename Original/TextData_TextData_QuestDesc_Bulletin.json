@@ -1789,7 +1789,7 @@
         "Dev_Desc": "[Lv.67] 발발이 풀로 응급처치",
         "id": 18103066,
         "alias": "Contents.Quest.Desc.2003066",
-        "text": "에레다의 보급 상태가 좋지 못한 상태입니다. 곧 보급품을 마차가 도착할 거라고 생각합니다만... 우선 자급자족할 수 있는 부분은 노력해 보려고 합니다. 어둠 숲 진입로에 있는 발발이를 잡고 풀을 모아주시면 응급처치 약을 만들어보겠습니다. "
+        "text": "에레다의 보급 상태가 좋지 못한 상태입니다. 곧 보급품을 실은 마차가 도착할 거라고 생각합니다만... 우선 자급자족할 수 있는 부분은 노력해 보려고 합니다. 어둠 숲 진입로에 있는 발발이를 잡고 풀을 모아주시면 응급처치 약을 만들어보겠습니다. "
     },
     "18103067": {
         "deprecated": false,
@@ -1867,5 +1867,551 @@
         "id": 18103077,
         "alias": "Contents.Quest.Desc.2003077",
         "text": "수양은 포식자의 구릉지도 안전한 우리 관할로 만들길 원합니다. 하지만 예상외로 저항이 거센 편이네요. 효조와 호랑이의 수가 줄어든다면 방어 기지 건설도 더 앞당길 수 있을 것이고, 그럼 곧 구릉지를 안정화시킬 수 있을 것 같습니다. \n수양을 도와서 효조와 호랑이를 처치해 주십시오."
+    },
+    "18104000": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 위협적인 늑대",
+        "id": 18104000,
+        "alias": "Contents.Quest.Desc.2004000",
+        "text": "(작성예정)"
+    },
+    "18104001": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 방해꾼 제거",
+        "id": 18104001,
+        "alias": "Contents.Quest.Desc.2004001",
+        "text": "(작성예정)"
+    },
+    "18104002": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 길을 막는 적",
+        "id": 18104002,
+        "alias": "Contents.Quest.Desc.2004002",
+        "text": "(작성예정)"
+    },
+    "18104003": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 쓸모있는 깃털",
+        "id": 18104003,
+        "alias": "Contents.Quest.Desc.2004003",
+        "text": "(작성예정)"
+    },
+    "18104004": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 초원의 무법자들",
+        "id": 18104004,
+        "alias": "Contents.Quest.Desc.2004004",
+        "text": "(작성예정)"
+    },
+    "18104005": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 붉은손을 가진 자들",
+        "id": 18104005,
+        "alias": "Contents.Quest.Desc.2004005",
+        "text": "(작성예정)"
+    },
+    "18104006": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 겨울 준비",
+        "id": 18104006,
+        "alias": "Contents.Quest.Desc.2004006",
+        "text": "(작성예정)"
+    },
+    "18104007": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 초원의 골치거리",
+        "id": 18104007,
+        "alias": "Contents.Quest.Desc.2004007",
+        "text": "(작성예정)"
+    },
+    "18104008": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 영악한 새",
+        "id": 18104008,
+        "alias": "Contents.Quest.Desc.2004008",
+        "text": "(작성예정)"
+    },
+    "18104009": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 초원의 동물들",
+        "id": 18104009,
+        "alias": "Contents.Quest.Desc.2004009",
+        "text": "(작성예정)"
+    },
+    "18104010": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 사나운 늑대",
+        "id": 18104010,
+        "alias": "Contents.Quest.Desc.2004010",
+        "text": "(작성예정)"
+    },
+    "18104011": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 약재 구하기",
+        "id": 18104011,
+        "alias": "Contents.Quest.Desc.2004011",
+        "text": "(작성예정)"
+    },
+    "18104012": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 내 간식 내놔!",
+        "id": 18104012,
+        "alias": "Contents.Quest.Desc.2004012",
+        "text": "(작성예정)"
+    },
+    "18104013": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 좀도둑 퇴지",
+        "id": 18104013,
+        "alias": "Contents.Quest.Desc.2004013",
+        "text": "(작성예정)"
+    },
+    "18104014": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 석재 구하기",
+        "id": 18104014,
+        "alias": "Contents.Quest.Desc.2004014",
+        "text": "(작성예정)"
+    },
+    "18104015": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 걸리적거리는 것",
+        "id": 18104015,
+        "alias": "Contents.Quest.Desc.2004015",
+        "text": "(작성예정)"
+    },
+    "18104016": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 사막의 식생",
+        "id": 18104016,
+        "alias": "Contents.Quest.Desc.2004016",
+        "text": "(작성예정)"
+    },
+    "18104017": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 비석 재료",
+        "id": 18104017,
+        "alias": "Contents.Quest.Desc.2004017",
+        "text": "(작성예정)"
+    },
+    "18104018": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 유용한 덩굴",
+        "id": 18104018,
+        "alias": "Contents.Quest.Desc.2004018",
+        "text": "(작성예정)"
+    },
+    "18104019": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 여기서부터 사막",
+        "id": 18104019,
+        "alias": "Contents.Quest.Desc.2004019",
+        "text": "(작성예정)"
+    },
+    "18104020": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 적응한 동물",
+        "id": 18104020,
+        "alias": "Contents.Quest.Desc.2004020",
+        "text": "(작성예정)"
+    },
+    "18104021": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 순하지 않아",
+        "id": 18104021,
+        "alias": "Contents.Quest.Desc.2004021",
+        "text": "(작성예정)"
+    },
+    "18104022": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 사나운 선인장",
+        "id": 18104022,
+        "alias": "Contents.Quest.Desc.2004022",
+        "text": "(작성예정)"
+    },
+    "18104023": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 묵직한 존재감",
+        "id": 18104023,
+        "alias": "Contents.Quest.Desc.2004023",
+        "text": "(작성예정)"
+    },
+    "18104024": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 부족의 싸움꾼",
+        "id": 18104024,
+        "alias": "Contents.Quest.Desc.2004024",
+        "text": "(작성예정)"
+    },
+    "18104025": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 까다로운 상대",
+        "id": 18104025,
+        "alias": "Contents.Quest.Desc.2004025",
+        "text": "(작성예정)"
+    },
+    "18104026": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 탐나는 방패",
+        "id": 18104026,
+        "alias": "Contents.Quest.Desc.2004026",
+        "text": "(작성예정)"
+    },
+    "18104027": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 골치아픈 사냥꾼들",
+        "id": 18104027,
+        "alias": "Contents.Quest.Desc.2004027",
+        "text": "(작성예정)"
+    },
+    "18104028": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 수양의 선배?",
+        "id": 18104028,
+        "alias": "Contents.Quest.Desc.2004028",
+        "text": "(작성예정)"
+    },
+    "18104029": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 염료가 필요해",
+        "id": 18104029,
+        "alias": "Contents.Quest.Desc.2004029",
+        "text": "(작성예정)"
+    },
+    "18104030": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 붉은손바닥 마을 정리",
+        "id": 18104030,
+        "alias": "Contents.Quest.Desc.2004030",
+        "text": "(작성예정)"
+    },
+    "18104031": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 못된 놈들",
+        "id": 18104031,
+        "alias": "Contents.Quest.Desc.2004031",
+        "text": "(작성예정)"
+    },
+    "18104032": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 쓸만한 무기",
+        "id": 18104032,
+        "alias": "Contents.Quest.Desc.2004032",
+        "text": "(작성예정)"
+    },
+    "18104033": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 붉은 손의 비밀",
+        "id": 18104033,
+        "alias": "Contents.Quest.Desc.2004033",
+        "text": "(작성예정)"
+    },
+    "18104034": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 타고난 싸움꾼",
+        "id": 18104034,
+        "alias": "Contents.Quest.Desc.2004034",
+        "text": "(작성예정)"
+    },
+    "18104035": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 성가신 일꾼",
+        "id": 18104035,
+        "alias": "Contents.Quest.Desc.2004035",
+        "text": "(작성예정)"
+    },
+    "18104036": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 부락의 싸움꾼들",
+        "id": 18104036,
+        "alias": "Contents.Quest.Desc.2004036",
+        "text": "(작성예정)"
+    },
+    "18104037": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 흔치 않은 재료",
+        "id": 18104037,
+        "alias": "Contents.Quest.Desc.2004037",
+        "text": "(작성예정)"
+    },
+    "18104038": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 정찰 차단",
+        "id": 18104038,
+        "alias": "Contents.Quest.Desc.2004038",
+        "text": "(작성예정)"
+    },
+    "18104039": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 검은새벽단의 마수",
+        "id": 18104039,
+        "alias": "Contents.Quest.Desc.2004039",
+        "text": "(작성예정)"
+    },
+    "18104040": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 괴인의 정체",
+        "id": 18104040,
+        "alias": "Contents.Quest.Desc.2004040",
+        "text": "(작성예정)"
+    },
+    "18104041": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 멧돼지의 주인",
+        "id": 18104041,
+        "alias": "Contents.Quest.Desc.2004041",
+        "text": "(작성예정)"
+    },
+    "18104042": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 나쁜 녀석들",
+        "id": 18104042,
+        "alias": "Contents.Quest.Desc.2004042",
+        "text": "(작성예정)"
+    },
+    "18104043": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 광폭한 부족",
+        "id": 18104043,
+        "alias": "Contents.Quest.Desc.2004043",
+        "text": "(작성예정)"
+    },
+    "18104044": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 핵심 전력",
+        "id": 18104044,
+        "alias": "Contents.Quest.Desc.2004044",
+        "text": "(작성예정)"
+    },
+    "18104045": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 해골이빨 부락 정리",
+        "id": 18104045,
+        "alias": "Contents.Quest.Desc.2004045",
+        "text": "(작성예정)"
+    },
+    "18104046": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 하나도 안부럽다냥",
+        "id": 18104046,
+        "alias": "Contents.Quest.Desc.2004046",
+        "text": "(작성예정)"
+    },
+    "18104047": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 따끔한 복수",
+        "id": 18104047,
+        "alias": "Contents.Quest.Desc.2004047",
+        "text": "(작성예정)"
+    },
+    "18104048": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 쓸모없는 식물",
+        "id": 18104048,
+        "alias": "Contents.Quest.Desc.2004048",
+        "text": "(작성예정)"
+    },
+    "18104049": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 멋진 장식품",
+        "id": 18104049,
+        "alias": "Contents.Quest.Desc.2004049",
+        "text": "(작성예정)"
+    },
+    "18104050": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 훌륭한 단백질 공급원",
+        "id": 18104050,
+        "alias": "Contents.Quest.Desc.2004050",
+        "text": "(작성예정)"
+    },
+    "18104051": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 유용한 가시",
+        "id": 18104051,
+        "alias": "Contents.Quest.Desc.2004051",
+        "text": "(작성예정)"
+    },
+    "18104052": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 적대적인 견장족",
+        "id": 18104052,
+        "alias": "Contents.Quest.Desc.2004052",
+        "text": "(작성예정)"
+    },
+    "18104053": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 약초꾼의 고민",
+        "id": 18104053,
+        "alias": "Contents.Quest.Desc.2004053",
+        "text": "(작성예정)"
+    },
+    "18104054": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 무기를 빼앗자",
+        "id": 18104054,
+        "alias": "Contents.Quest.Desc.2004054",
+        "text": "(작성예정)"
+    },
+    "18104055": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 날카로운 화살촉",
+        "id": 18104055,
+        "alias": "Contents.Quest.Desc.2004055",
+        "text": "(작성예정)"
+    },
+    "18104056": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 아이 따가워",
+        "id": 18104056,
+        "alias": "Contents.Quest.Desc.2004056",
+        "text": "(작성예정)"
+    },
+    "18104057": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 성가신 가시",
+        "id": 18104057,
+        "alias": "Contents.Quest.Desc.2004057",
+        "text": "(작성예정)"
+    },
+    "18104058": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 무서운 사묘정",
+        "id": 18104058,
+        "alias": "Contents.Quest.Desc.2004058",
+        "text": "(작성예정)"
+    },
+    "18104059": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 부디 편안해지길",
+        "id": 18104059,
+        "alias": "Contents.Quest.Desc.2004059",
+        "text": "(작성예정)"
+    },
+    "18104060": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 대장장이의 고민",
+        "id": 18104060,
+        "alias": "Contents.Quest.Desc.2004060",
+        "text": "(작성예정)"
+    },
+    "18104061": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 그들을 막을 방법",
+        "id": 18104061,
+        "alias": "Contents.Quest.Desc.2004061",
+        "text": "(작성예정)"
+    },
+    "18104062": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 괘씸한 첩자",
+        "id": 18104062,
+        "alias": "Contents.Quest.Desc.2004062",
+        "text": "(작성예정)"
+    },
+    "18104063": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 못된 감시꾼",
+        "id": 18104063,
+        "alias": "Contents.Quest.Desc.2004063",
+        "text": "(작성예정)"
+    },
+    "18104064": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 탐나는 곤봉",
+        "id": 18104064,
+        "alias": "Contents.Quest.Desc.2004064",
+        "text": "(작성예정)"
+    },
+    "18104065": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 탁회암의 영향",
+        "id": 18104065,
+        "alias": "Contents.Quest.Desc.2004065",
+        "text": "(작성예정)"
+    },
+    "18104066": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 침식되어버린 추적꾼",
+        "id": 18104066,
+        "alias": "Contents.Quest.Desc.2004066",
+        "text": "(작성예정)"
+    },
+    "18104067": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 침식된 견장족 정리",
+        "id": 18104067,
+        "alias": "Contents.Quest.Desc.2004067",
+        "text": "(작성예정)"
+    },
+    "18104068": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 썩은 잎사귀",
+        "id": 18104068,
+        "alias": "Contents.Quest.Desc.2004068",
+        "text": "(작성예정)"
+    },
+    "18104069": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv.미정] 검은새벽단 소탕",
+        "id": 18104069,
+        "alias": "Contents.Quest.Desc.2004069",
+        "text": "(작성예정)"
+    },
+    "18104070": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv. - ] 영교원 협행 전문가",
+        "id": 18104070,
+        "alias": "Contents.Quest.Desc.2004070",
+        "text": "(작성예정)"
+    },
+    "18104071": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv. - ] 에레다 협행 전문가",
+        "id": 18104071,
+        "alias": "Contents.Quest.Desc.2004071",
+        "text": "(작성예정)"
+    },
+    "18104072": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv. - ] 금경철문 협행 전문가",
+        "id": 18104072,
+        "alias": "Contents.Quest.Desc.2004072",
+        "text": "(작성예정)"
+    },
+    "18104073": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv. - ] 도화상전 협행 전문가",
+        "id": 18104073,
+        "alias": "Contents.Quest.Desc.2004073",
+        "text": "(작성예정)"
+    },
+    "18104074": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv. - ] 수양 협행 전문가",
+        "id": 18104074,
+        "alias": "Contents.Quest.Desc.2004074",
+        "text": "(작성예정)"
+    },
+    "18104075": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv. - ] 명혜단 협행 전문가",
+        "id": 18104075,
+        "alias": "Contents.Quest.Desc.2004075",
+        "text": "(작성예정)"
+    },
+    "18104076": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv. - ] 풍백문 협행 전문가",
+        "id": 18104076,
+        "alias": "Contents.Quest.Desc.2004076",
+        "text": "(작성예정)"
+    },
+    "18104077": {
+        "deprecated": false,
+        "Dev_Desc": "[Lv. - ] 주민들의 해결사",
+        "id": 18104077,
+        "alias": "Contents.Quest.Desc.2004077",
+        "text": "(작성예정)"
     }
 }

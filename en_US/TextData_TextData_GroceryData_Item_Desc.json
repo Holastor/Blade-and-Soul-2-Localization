@@ -2431,7 +2431,7 @@
     },
     "99000349": {
         "deprecated": false,
-        "Dev_Desc": "에레다 대장 오름",
+        "Dev_Desc": "에레다 부문주 오름",
         "id": 99000349,
         "alias": "Contents.Item.Desc.9000579",
         "text": "Soul Scroll"
@@ -3684,13 +3684,6 @@
         "Dev_Desc": "화정",
         "id": 99000534,
         "alias": "Contents.Item.Desc.9200221",
-        "text": "Used to enhance a technique."
-    },
-    "99000535": {
-        "deprecated": false,
-        "Dev_Desc": "천년화정",
-        "id": 99000535,
-        "alias": "Contents.Item.Desc.9200222",
         "text": "Used to enhance a technique."
     },
     "99000536": {
@@ -10357,21 +10350,21 @@
     },
     "99002108": {
         "deprecated": false,
-        "Dev_Desc": "비옥대지 탐사 상자",
+        "Dev_Desc": "비옥 대지 탐사 상자",
         "id": 99002108,
         "alias": "Contents.Item.Desc.9200571",
         "text": "Voyage Reward of Caelite Land.\n\nContains Bound Gear Chests, Oracles, Enhance Scrolls and more."
     },
     "99002109": {
         "deprecated": false,
-        "Dev_Desc": "상급 비옥대지 탐사 상자",
+        "Dev_Desc": "상급 비옥 대지 탐사 상자",
         "id": 99002109,
         "alias": "Contents.Item.Desc.9200572",
         "text": "Voyage Reward of Caelite Land.\n\nContains Bound Gear Chests, Oracles, Enhance Scrolls and more."
     },
     "99002110": {
         "deprecated": false,
-        "Dev_Desc": "최상급 비옥대지 탐사 상자",
+        "Dev_Desc": "최상급 비옥 대지 탐사 상자",
         "id": 99002110,
         "alias": "Contents.Item.Desc.9200573",
         "text": "Voyage Reward of Caelite Land.\n\n\nContains Bound Gear Chests, Oracles, Enhance Scrolls and more."
@@ -14655,7 +14648,7 @@
     },
     "99002743": {
         "deprecated": false,
-        "Dev_Desc": "협행상자: 비옥대지",
+        "Dev_Desc": "협행상자: 비옥 대지",
         "id": 99002743,
         "alias": "Contents.Item.Desc.9900342",
         "text": "Has a chance to obtain a piece of reward gear for Caelite Land Chivalry Quest."
@@ -22888,58 +22881,2445 @@
     },
     "99003962": {
         "deprecated": false,
-        "Dev_Desc": "수월평원 보패함 1~4번(각인) ",
+        "Dev_Desc": "시련 방어보패함 1~2번(각인) ",
         "id": 99003962,
         "alias": "Contents.Item.Desc.9901662",
         "text": "Contains random fragments of Suwol Plains jewels 1-4."
     },
     "99003963": {
         "deprecated": false,
-        "Dev_Desc": "수월평원 보패함 5~8번(각인)",
+        "Dev_Desc": "시련 방어보패함 3~4번(각인) ",
         "id": 99003963,
         "alias": "Contents.Item.Desc.9901663",
         "text": "Contains random fragments of Suwol Plains jewels 5-8."
     },
     "99003964": {
         "deprecated": false,
-        "Dev_Desc": "태록림 보패함 1~4번(각인)",
+        "Dev_Desc": "시련 방어보패함 5~6번(각인) ",
         "id": 99003964,
         "alias": "Contents.Item.Desc.9901664",
         "text": "Contains random pieces of Taerokrim Relics Nos. 1-4."
     },
     "99003965": {
         "deprecated": false,
-        "Dev_Desc": "태록림 보패함 5~8번(각인)",
+        "Dev_Desc": "시련 방어보패함 7~8번(각인) ",
         "id": 99003965,
         "alias": "Contents.Item.Desc.9901665",
         "text": "Contains a random piece of Taerokrim Relics No. 5-8."
     },
     "99003966": {
         "deprecated": false,
-        "Dev_Desc": "비옥대지 보패함 1~4번(각인)",
+        "Dev_Desc": "시련 관통보패함 1~2번(각인) ",
         "id": 99003966,
         "alias": "Contents.Item.Desc.9901666",
         "text": "Contains random fragments of Fertile Earth Relics numbers 1-4."
     },
     "99003967": {
         "deprecated": false,
-        "Dev_Desc": "비옥대지 보패함 5~8번(각인)",
+        "Dev_Desc": "시련 관통보패함 3~4번(각인) ",
         "id": 99003967,
         "alias": "Contents.Item.Desc.9901667",
         "text": "Contains random fragments of Fertile Earth Relics numbered 5-8."
     },
     "99003968": {
         "deprecated": false,
-        "Dev_Desc": "해룡산맥 보패함 1~4번(각인)",
+        "Dev_Desc": "시련 관통보패함 5~6번(각인) ",
         "id": 99003968,
         "alias": "Contents.Item.Desc.9901668",
         "text": "Contains a random fragment of Haeryong Mountains jewels 1-4."
     },
     "99003969": {
         "deprecated": false,
-        "Dev_Desc": "해룡산맥 보패함 5~8번(각인)",
+        "Dev_Desc": "시련 관통보패함 7~8번(각인) ",
         "id": 99003969,
         "alias": "Contents.Item.Desc.9901669",
         "text": "Contains a random fragment of Haeryong Mountains jewels 5-8."
+    },
+    "99003970": {
+        "deprecated": false,
+        "Dev_Desc": "충전석: 붉은 달 사막",
+        "id": 99003970,
+        "alias": "Contents.Item.Desc.9901670",
+        "text": "Recharges time spent using dungeons in Red Moon Desert."
+    },
+    "99003971": {
+        "deprecated": false,
+        "Dev_Desc": "설연화(각인)",
+        "id": 99003971,
+        "alias": "Contents.Item.Desc.9901672",
+        "text": "A rare herb found in the deep snowy mountains.\\nCharges the number of recovery from aftereffects once."
+    },
+    "99003972": {
+        "deprecated": false,
+        "Dev_Desc": "신선루 파편(각인)",
+        "id": 99003972,
+        "alias": "Contents.Item.Desc.9901675",
+        "text": "A special material used in crafting."
+    },
+    "99003973": {
+        "deprecated": false,
+        "Dev_Desc": "반짝이는 정령석",
+        "id": 99003973,
+        "alias": "Contents.Item.Desc.9901676",
+        "text": "A special material used in crafting."
+    },
+    "99003974": {
+        "deprecated": false,
+        "Dev_Desc": "반짝이는 정령석(각인)",
+        "id": 99003974,
+        "alias": "Contents.Item.Desc.9901677",
+        "text": "A special material used in crafting."
+    },
+    "99003975": {
+        "deprecated": false,
+        "Dev_Desc": "탐욕의 가루(각인)",
+        "id": 99003975,
+        "alias": "Contents.Item.Desc.9200661",
+        "text": "A special material used in crafting."
+    },
+    "99003976": {
+        "deprecated": false,
+        "Dev_Desc": "죽음의 가루(각인)",
+        "id": 99003976,
+        "alias": "Contents.Item.Desc.9200662",
+        "text": "A special material used in crafting."
+    },
+    "99003977": {
+        "deprecated": false,
+        "Dev_Desc": "율법의 가루(각인)",
+        "id": 99003977,
+        "alias": "Contents.Item.Desc.9200663",
+        "text": "A special material used in crafting."
+    },
+    "99003978": {
+        "deprecated": false,
+        "Dev_Desc": "찬란한 침식된 백야금 공로함(각인)_월드필드",
+        "id": 99003978,
+        "alias": "Contents.Item.Desc.9901678",
+        "text": "When used, various items such as equipment and military documents are acquired according to a set probability."
+    },
+    "99003979": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 침식된 백야금 공로함(각인)_월드필드",
+        "id": 99003979,
+        "alias": "Contents.Item.Desc.9901679",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003980": {
+        "deprecated": false,
+        "Dev_Desc": "평범한 침식된 백야금 공로함(각인)_월드필드",
+        "id": 99003980,
+        "alias": "Contents.Item.Desc.9901680",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003981": {
+        "deprecated": false,
+        "Dev_Desc": "낡은 침식된 백야금 공로함(각인)_월드필드",
+        "id": 99003981,
+        "alias": "Contents.Item.Desc.9901681",
+        "text": "When used, various items such as equipment and military documents are acquired according to a set probability."
+    },
+    "99003982": {
+        "deprecated": false,
+        "Dev_Desc": "찬란한 화부 공로함(각인)_월드필드",
+        "id": 99003982,
+        "alias": "Contents.Item.Desc.9901682",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003983": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 화부 공로함(각인)_월드필드",
+        "id": 99003983,
+        "alias": "Contents.Item.Desc.9901683",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003984": {
+        "deprecated": false,
+        "Dev_Desc": "평범한 화부 공로함(각인)_월드필드",
+        "id": 99003984,
+        "alias": "Contents.Item.Desc.9901684",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003985": {
+        "deprecated": false,
+        "Dev_Desc": "낡은 화부 공로함(각인)_월드필드",
+        "id": 99003985,
+        "alias": "Contents.Item.Desc.9901685",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003986": {
+        "deprecated": false,
+        "Dev_Desc": "찬란한 거혼 공로함(각인)_월드필드",
+        "id": 99003986,
+        "alias": "Contents.Item.Desc.9901686",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003987": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 거혼 공로함(각인)_월드필드",
+        "id": 99003987,
+        "alias": "Contents.Item.Desc.9901687",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003988": {
+        "deprecated": false,
+        "Dev_Desc": "평범한 거혼 공로함(각인)_월드필드",
+        "id": 99003988,
+        "alias": "Contents.Item.Desc.9901688",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003989": {
+        "deprecated": false,
+        "Dev_Desc": "낡은 거혼 공로함(각인)_월드필드",
+        "id": 99003989,
+        "alias": "Contents.Item.Desc.9901689",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99003990": {
+        "deprecated": false,
+        "Dev_Desc": "보옥 강화 주문서",
+        "id": 99003990,
+        "alias": "Contents.Item.Desc.9901690",
+        "text": "A material used for strengthening.<br/>Normal: 1<br/>Blessing: 1-2<br/>Curse: -1"
+    },
+    "99003991": {
+        "deprecated": false,
+        "Dev_Desc": "축복받은 보옥 강화 주문서",
+        "id": 99003991,
+        "alias": "Contents.Item.Desc.9901691",
+        "text": "A material used for strengthening.<br/>Normal: 1<br/>Blessing: 1-2<br/>Curse: -1"
+    },
+    "99003992": {
+        "deprecated": false,
+        "Dev_Desc": "저주받은 보옥 강화 주문서",
+        "id": 99003992,
+        "alias": "Contents.Item.Desc.9901692",
+        "text": "A material used for strengthening.<br/>Normal: 1<br/>Blessing: 1-2<br/>Curse: -1"
+    },
+    "99003993": {
+        "deprecated": false,
+        "Dev_Desc": "보옥 강화 주문서(각인)",
+        "id": 99003993,
+        "alias": "Contents.Item.Desc.9901693",
+        "text": "A material used for strengthening.<br/>Normal: 1<br/>Blessing: 1-2<br/>Curse: -1"
+    },
+    "99003994": {
+        "deprecated": false,
+        "Dev_Desc": "축복받은 보옥 강화 주문서(각인)",
+        "id": 99003994,
+        "alias": "Contents.Item.Desc.9901694",
+        "text": "A material used for strengthening.<br/>Normal: 1<br/>Blessing: 1-2<br/>Curse: -1"
+    },
+    "99003995": {
+        "deprecated": false,
+        "Dev_Desc": "저주받은 보옥 강화 주문서(각인)",
+        "id": 99003995,
+        "alias": "Contents.Item.Desc.9901695",
+        "text": "A material used for strengthening.<br/>Normal: 1<br/>Blessing: 1-2<br/>Curse: -1"
+    },
+    "99003996": {
+        "deprecated": false,
+        "Dev_Desc": "수라의 찬란한 소울 소환서(5회)",
+        "id": 99003996,
+        "alias": "Contents.Item.Desc.9901697",
+        "text": "When used, you can acquire a soul according to a set probability.<br/>(Rare ~ Heroic)"
+    },
+    "99003997": {
+        "deprecated": false,
+        "Dev_Desc": "수라의 영웅 소울 파편(7개) 선택 꾸러미",
+        "id": 99003997,
+        "alias": "Contents.Item.Desc.9901698",
+        "text": "You can obtain it by selecting one of the following soul shards when used.\\n(Rank - Heroic)\\n\\n- 7 Soul Soul Fragments (Imprint)\\n- 7 Lowly Soul Fragments (Imprint)\\n- God Nogang Soul Fragment (Imprint) 7pcs\\n- Returner Arang Soul Fragment (Imprint) 7pcs\\n- Returner Pasa Soul Fragment (Imprint) 7pcs\\n- Returner Sarubi Soul Fragment (Imprint) 7pcs\\n - Wanderer organic soul shards (engraving) 7 pcs\\n- Oreum soul shards (engraving) 7 pcs\\n- Song Si-guk soul shards (engraving) 7 pcs\\n- Harem soul shards (engraving) 7 pcs\\n- Seojungmun soul 7 shards (engraved)\\n- Baekhwaryeom soul shards (engraved) 7 pcs\\n- Wind god soul shards (engraved) 7 pcs\\n- Thunder god soul shards (engraved) 7 pcs\\n- Nakwondaeseong soul shards (engraved) 7 pcs\\n- Moonlight wind soul shards (engraving) 7 pcs\\n- Perong Perong soul shards (engraving) 7 pcs\\n- Red plum blossom soul shards (engraving) 7 pcs\\n- Kwak Ho-ryong soul shards (engraving) 7 pcs\\n - Baobao Soul Fragment (Imprint) 7ea\\n- Biryuha Soul Fragment (Imprint) 7ea\\n- Red Ginseng Soul Fragment (Imprinted) 7ea\\n- Runaway Guard Captain Soul Fragment (Imprinted) 7ea\\n- Boss Duukshini soul shards (engraving) 7 pcs\\n- Choryung-mok soul shards (engraving) 7 pcs\\n- Guard Captain Soul shards (engraving) 7 pcs\\n- Dongchong soul shards (engraving) 7 pcs"
+    },
+    "99003998": {
+        "deprecated": false,
+        "Dev_Desc": "수라의 영웅 소울 파편(11회)",
+        "id": 99003998,
+        "alias": "Contents.Item.Desc.9901699",
+        "text": "When used, you can obtain a soul shard according to a set probability.<br/>(Rank: Hero)"
+    },
+    "99003999": {
+        "deprecated": false,
+        "Dev_Desc": "염환 소울 파편(각인)",
+        "id": 99003999,
+        "alias": "Contents.Item.Desc.9901700",
+        "text": "You can obtain 1 Flame Soul Fragment when used.<br/>(Rank: Heroic)"
+    },
+    "99004000": {
+        "deprecated": false,
+        "Dev_Desc": "수라의 기운",
+        "id": 99004000,
+        "alias": "Contents.Item.Desc.9901701",
+        "text": "You can acquire Sura's energy when used.\\nThe effect lasts for 60 minutes.\\n\\n[Use effect]\\nExperience gain increase +30%\\nDefense +5\\nDefense +3\\nAttribute Damage Resistance +20%\\nControl Resistance +3%\\nPVP Defense +3"
+    },
+    "99004001": {
+        "deprecated": false,
+        "Dev_Desc": "수라의 기운 4개 묶음",
+        "id": 99004001,
+        "alias": "Contents.Item.Desc.9901702",
+        "text": "You can acquire 4 Sura's Energy when used."
+    },
+    "99004002": {
+        "deprecated": false,
+        "Dev_Desc": "시련 방어보패함 1~2번(각인)_희귀",
+        "id": 99004002,
+        "alias": "Contents.Item.Desc.9901703",
+        "text": "Contains random fragments from 1 or 2 of the Ordeal Defense Shield."
+    },
+    "99004003": {
+        "deprecated": false,
+        "Dev_Desc": "시련 방어보패함 3~4번(각인)_희귀",
+        "id": 99004003,
+        "alias": "Contents.Item.Desc.9901704",
+        "text": "Contains random fragments from 3 or 4 of the Ordeal Defense Shield."
+    },
+    "99004004": {
+        "deprecated": false,
+        "Dev_Desc": "시련 방어보패함 5~6번(각인)_희귀",
+        "id": 99004004,
+        "alias": "Contents.Item.Desc.9901705",
+        "text": "Contains random fragments from 5-6 of the Ordeal Defense Shield."
+    },
+    "99004005": {
+        "deprecated": false,
+        "Dev_Desc": "시련 방어보패함 7~8번(각인)_희귀",
+        "id": 99004005,
+        "alias": "Contents.Item.Desc.9901706",
+        "text": "Contains random fragments from number 7-8 of the Ordeal Defense Shield."
+    },
+    "99004006": {
+        "deprecated": false,
+        "Dev_Desc": "시련 관통보패함 1~2번(각인)_희귀",
+        "id": 99004006,
+        "alias": "Contents.Item.Desc.9901707",
+        "text": "Contains random fragments of Trial Penetration Kits 1 and 2."
+    },
+    "99004007": {
+        "deprecated": false,
+        "Dev_Desc": "시련 관통보패함 3~4번(각인)_희귀",
+        "id": 99004007,
+        "alias": "Contents.Item.Desc.9901708",
+        "text": "Contains random fragments from 3 or 4 of the Trial Penetration Shield."
+    },
+    "99004008": {
+        "deprecated": false,
+        "Dev_Desc": "시련 관통보패함 5~6번(각인)_희귀",
+        "id": 99004008,
+        "alias": "Contents.Item.Desc.9901709",
+        "text": "Contains random pieces of 5-6 pieces of Ordeal Penetration."
+    },
+    "99004009": {
+        "deprecated": false,
+        "Dev_Desc": "시련 관통보패함 7~8번(각인)_희귀",
+        "id": 99004009,
+        "alias": "Contents.Item.Desc.9901710",
+        "text": "Contains a random piece of Ordeal Penetration No. 7-8."
+    },
+    "99004010": {
+        "deprecated": false,
+        "Dev_Desc": "희생의 보패함(각인)_영웅",
+        "id": 99004010,
+        "alias": "Contents.Item.Desc.9901711",
+        "text": "Contains a random fragment of Tokens of Sacrifice number 1-8."
+    },
+    "99004011": {
+        "deprecated": false,
+        "Dev_Desc": "희생의 보패함(각인)_희귀",
+        "id": 99004011,
+        "alias": "Contents.Item.Desc.9901712",
+        "text": "Contains a random fragment of Tokens of Sacrifice number 1-8."
+    },
+    "99004012": {
+        "deprecated": false,
+        "Dev_Desc": "희생의 보패함(각인)_상급",
+        "id": 99004012,
+        "alias": "Contents.Item.Desc.9901713",
+        "text": "Contains a random fragment of Tokens of Sacrifice number 1-8."
+    },
+    "99004013": {
+        "deprecated": false,
+        "Dev_Desc": "심연 속성보패함(각인)_영웅",
+        "id": 99004013,
+        "alias": "Contents.Item.Desc.9901714",
+        "text": "Contains random pieces of Abyssal Elemental Shields 1-8."
+    },
+    "99004014": {
+        "deprecated": false,
+        "Dev_Desc": "심연 치명보패함(각인)_영웅",
+        "id": 99004014,
+        "alias": "Contents.Item.Desc.9901715",
+        "text": "Contains a random fragment of Abyssal Critical Plaque numbers 1-8."
+    },
+    "99004015": {
+        "deprecated": false,
+        "Dev_Desc": "악몽 보패함(각인)_영웅",
+        "id": 99004015,
+        "alias": "Contents.Item.Desc.9901716",
+        "text": "Contains random pieces of sheet music pieces 1-8."
+    },
+    "99004016": {
+        "deprecated": false,
+        "Dev_Desc": "백야 보패함(각인)_영웅",
+        "id": 99004016,
+        "alias": "Contents.Item.Desc.9901717",
+        "text": "Contains a random fragment of White Night's jewels 1-8."
+    },
+    "99004017": {
+        "deprecated": false,
+        "Dev_Desc": "화부 보패함(각인)_영웅",
+        "id": 99004017,
+        "alias": "Contents.Item.Desc.9901718",
+        "text": "Contains random fragments from 1 to 8 of the Fire Relics."
+    },
+    "99004018": {
+        "deprecated": false,
+        "Dev_Desc": "거혼 보패함(각인)_영웅",
+        "id": 99004018,
+        "alias": "Contents.Item.Desc.9901719",
+        "text": "Contains a random fragment of Colossal Relics numbered 1-8."
+    },
+    "99004019": {
+        "deprecated": false,
+        "Dev_Desc": "암주 소울 확정 소환서(1회)",
+        "id": 99004019,
+        "alias": "Contents.Item.Desc.9901756",
+        "text": "When used, you will acquire a Dark Lord Soul."
+    },
+    "99004020": {
+        "deprecated": false,
+        "Dev_Desc": "염화대성 소울 확정 소환서(1회)",
+        "id": 99004020,
+        "alias": "Contents.Item.Desc.9901757",
+        "text": "When used, it acquires a chlorinated soul."
+    },
+    "99004021": {
+        "deprecated": false,
+        "Dev_Desc": "이름 없는 자 소울 확정 소환서(1회)",
+        "id": 99004021,
+        "alias": "Contents.Item.Desc.9901758",
+        "text": "When used, you obtain Soul of the Nameless One."
+    },
+    "99004022": {
+        "deprecated": false,
+        "Dev_Desc": "시로 소울 확정 소환서(1회)",
+        "id": 99004022,
+        "alias": "Contents.Item.Desc.9901759",
+        "text": "When used, Shiro acquires a soul."
+    },
+    "99004023": {
+        "deprecated": false,
+        "Dev_Desc": "파사 소울 확정 소환서(1회)",
+        "id": 99004023,
+        "alias": "Contents.Item.Desc.9901760",
+        "text": "When used, you get a Passa Soul."
+    },
+    "99004024": {
+        "deprecated": false,
+        "Dev_Desc": "노이 소울 확정 소환서(1회)",
+        "id": 99004024,
+        "alias": "Contents.Item.Desc.9901761",
+        "text": "When used, you gain Noi Soul."
+    },
+    "99004025": {
+        "deprecated": false,
+        "Dev_Desc": "야루 소울 확정 소환서(1회)",
+        "id": 99004025,
+        "alias": "Contents.Item.Desc.9901762",
+        "text": "When used, you get a Yaru Soul."
+    },
+    "99004026": {
+        "deprecated": false,
+        "Dev_Desc": "화려한 성장 상자Ⅰ",
+        "id": 99004026,
+        "alias": "Contents.Item.Desc.9901763",
+        "text": "When used, you will obtain all of the following items.\\n\\n- 2 Sura's Gorgeous Soul Summon Scroll (11 times)\\n- Gorgeous Sacrifice Guardian Spirit Summon Scroll (6 times) 2 x"
+    },
+    "99004027": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 성장 상자Ⅰ",
+        "id": 99004027,
+        "alias": "Contents.Item.Desc.9901764",
+        "text": "When used, you will acquire all of the following items.\\n\\n- Shining Soul Summon Scroll (11 times) 3 x\\n- Shining Guardian Spirit Summon Scroll (11 times) x 2"
+    },
+    "99004028": {
+        "deprecated": false,
+        "Dev_Desc": "봉마함 V(각인)",
+        "id": 99004028,
+        "alias": "Contents.Item.Desc.9901765",
+        "text": "Depending on the probability of use, you can obtain Craftsman's Token, Schematic, Bi-Dictionary, Metabolic Coin (Imprint), Shining Soul Fragment (11 times) (Imprint), and material items."
+    },
+    "99004029": {
+        "deprecated": false,
+        "Dev_Desc": "영지 만두(각인)",
+        "id": 99004029,
+        "alias": "Contents.Item.Desc.9901766",
+        "text": "When used, attack-related stats increase significantly.\\nThe effect lasts for 30 minutes.\\n\\n[Active]\\nAttack power +2\\nAccuracy +1\\nPenetration +3\\nExperience gain increase +3 %\\nBase attack speed +20%\\nHistory absolute regeneration +15"
+    },
+    "99004030": {
+        "deprecated": false,
+        "Dev_Desc": "시련 방어보패함 1~2번(각인)_희귀",
+        "id": 99004030,
+        "alias": "Contents.Item.Desc.9901767",
+        "text": "Contains random pieces of defense shields from trials 1 and 2.\\n(Rare)"
+    },
+    "99004031": {
+        "deprecated": false,
+        "Dev_Desc": "시련 방어보패함 3~4번(각인)_희귀",
+        "id": 99004031,
+        "alias": "Contents.Item.Desc.9901768",
+        "text": "Contains random pieces of defense shields from trials 3-4.\\n(Rare)"
+    },
+    "99004032": {
+        "deprecated": false,
+        "Dev_Desc": "시련 방어보패함 5~6번(각인)_희귀",
+        "id": 99004032,
+        "alias": "Contents.Item.Desc.9901769",
+        "text": "It contains random pieces of defense shields from trials 5-6.\\n(Rare)"
+    },
+    "99004033": {
+        "deprecated": false,
+        "Dev_Desc": "시련 방어보패함 7~8번(각인)_희귀",
+        "id": 99004033,
+        "alias": "Contents.Item.Desc.9901770",
+        "text": "Contains a random piece of defense shields from trials 7-8.\\n(Rare)"
+    },
+    "99004034": {
+        "deprecated": false,
+        "Dev_Desc": "시련 관통보패함 1~2번(각인)_희귀",
+        "id": 99004034,
+        "alias": "Contents.Item.Desc.9901771",
+        "text": "Contains random fragments of Trial Penetration No. 1-2.\\n(Rare)"
+    },
+    "99004035": {
+        "deprecated": false,
+        "Dev_Desc": "시련 관통보패함 3~4번(각인)_희귀",
+        "id": 99004035,
+        "alias": "Contents.Item.Desc.9901772",
+        "text": "Contains a random piece of Trial Penetration No. 3~4.\\n(Rare)"
+    },
+    "99004036": {
+        "deprecated": false,
+        "Dev_Desc": "시련 관통보패함 5~6번(각인)_희귀",
+        "id": 99004036,
+        "alias": "Contents.Item.Desc.9901773",
+        "text": "Contains a random piece of Trial Penetration No. 5-6.\\n(Rare)"
+    },
+    "99004037": {
+        "deprecated": false,
+        "Dev_Desc": "시련 관통보패함 7~8번(각인)_희귀",
+        "id": 99004037,
+        "alias": "Contents.Item.Desc.9901774",
+        "text": "Contains random fragments of Trial Penetration No. 7~8.\\n(Rare)"
+    },
+    "99004038": {
+        "deprecated": false,
+        "Dev_Desc": "희생의 보패함(각인)_영웅",
+        "id": 99004038,
+        "alias": "Contents.Item.Desc.9901775",
+        "text": "Contains random fragments from No. 1 to No. 8 of Sacrifice.\\n(Rank: Heroic)"
+    },
+    "99004039": {
+        "deprecated": false,
+        "Dev_Desc": "희생의 보패함(각인)_희귀",
+        "id": 99004039,
+        "alias": "Contents.Item.Desc.9901776",
+        "text": "Contains a random piece of sacrificial tokens 1 to 8.\\n(Class: Rare)"
+    },
+    "99004040": {
+        "deprecated": false,
+        "Dev_Desc": "심연 속성보패함(각인)_영웅",
+        "id": 99004040,
+        "alias": "Contents.Item.Desc.9901777",
+        "text": "Contains random pieces of Abyssal Elemental Retribution Nos. 1 to 8.\\n(Rank: Hero)"
+    },
+    "99004041": {
+        "deprecated": false,
+        "Dev_Desc": "심연 속성보패함(각인)_희귀",
+        "id": 99004041,
+        "alias": "Contents.Item.Desc.9901778",
+        "text": "Contains random fragments from Abyss Elemental Retribution Nos. 1 to 8.\\n(Rare)"
+    },
+    "99004042": {
+        "deprecated": false,
+        "Dev_Desc": "심연 치명보패함(각인)_영웅",
+        "id": 99004042,
+        "alias": "Contents.Item.Desc.9901779",
+        "text": "Contains random fragments from Abyss Critical Plaque Nos. 1-8.\\n(Rank: Heroic)"
+    },
+    "99004043": {
+        "deprecated": false,
+        "Dev_Desc": "심연 치명보패함(각인)_희귀",
+        "id": 99004043,
+        "alias": "Contents.Item.Desc.9901780",
+        "text": "Contains random fragments from Abyss Critical Decree Nos. 1-8.\\n(Rare)"
+    },
+    "99004044": {
+        "deprecated": false,
+        "Dev_Desc": "악몽 보패함(각인)_영웅",
+        "id": 99004044,
+        "alias": "Contents.Item.Desc.9901781",
+        "text": "Contains random pieces of sheet music pieces 1 to 8.\\n(Rank: Hero)"
+    },
+    "99004045": {
+        "deprecated": false,
+        "Dev_Desc": "악몽 보패함(각인)_희귀",
+        "id": 99004045,
+        "alias": "Contents.Item.Desc.9901782",
+        "text": "Contains random pieces of sheet music pieces 1 to 8.\\n(Rare)"
+    },
+    "99004046": {
+        "deprecated": false,
+        "Dev_Desc": "백야 보패함(각인)_영웅",
+        "id": 99004046,
+        "alias": "Contents.Item.Desc.9901783",
+        "text": "Contains random pieces of White Night Relic No. 1~8.\\n(Rank: Hero)"
+    },
+    "99004047": {
+        "deprecated": false,
+        "Dev_Desc": "백야 보패함(각인)_희귀",
+        "id": 99004047,
+        "alias": "Contents.Item.Desc.9901784",
+        "text": "Contains a random piece of White Night Relic No. 1-8.\\n(Rare)"
+    },
+    "99004048": {
+        "deprecated": false,
+        "Dev_Desc": "화부 보패함(각인)_영웅",
+        "id": 99004048,
+        "alias": "Contents.Item.Desc.9901785",
+        "text": "Contains random pieces of Fire Relic No. 1 to 8.\\n(Rank: Hero)"
+    },
+    "99004049": {
+        "deprecated": false,
+        "Dev_Desc": "화부 보패함(각인)_희귀",
+        "id": 99004049,
+        "alias": "Contents.Item.Desc.9901786",
+        "text": "Contains random fragments from 1 to 8 of Fire Relics.\\n(Class: Rare)"
+    },
+    "99004050": {
+        "deprecated": false,
+        "Dev_Desc": "거혼 보패함(각인)_영웅",
+        "id": 99004050,
+        "alias": "Contents.Item.Desc.9901787",
+        "text": "Contains a random piece of Remembrance of the Soul from 1 to 8.\\n(Rank: Heroic)"
+    },
+    "99004051": {
+        "deprecated": false,
+        "Dev_Desc": "거혼 보패함(각인)_희귀",
+        "id": 99004051,
+        "alias": "Contents.Item.Desc.9901788",
+        "text": "Contains a random piece of Remembrance of the Soul from 1 to 8.\\n(Rare)"
+    },
+    "99004052": {
+        "deprecated": false,
+        "Dev_Desc": "탄생의 비약(각인)",
+        "id": 99004052,
+        "alias": "Contents.Item.Desc.9901789",
+        "text": "The energy of birth permeates the body when used.\\nThe effect lasts for 30 minutes and cannot be reused or canceled during the duration of the effect.\\n\\n[Use effect]\\nExperience gain +30%\\n Soul Affinity +3\\nSoul Activation Rate +1%"
+    },
+    "99004053": {
+        "deprecated": false,
+        "Dev_Desc": "찬란한 생명의 수호령 소환서(1회)",
+        "id": 99004053,
+        "alias": "Contents.Item.Desc.9901790",
+        "text": "When used, you can acquire a guardian spirit according to a set probability.\\n(Class: Rare ~ Heroic)\\n\\n- Rare: Blood Siege/Ice Power\\n- Hero: Silver Light/Silent"
+    },
+    "99004054": {
+        "deprecated": false,
+        "Dev_Desc": "생명의 찬란한 수호령 소환서(3회)",
+        "id": 99004054,
+        "alias": "Contents.Item.Desc.9901791",
+        "text": "When used, you can acquire a guardian spirit according to a set probability.\\n(Rare ~ Heroic)"
+    },
+    "99004055": {
+        "deprecated": false,
+        "Dev_Desc": "생명의 화려한 수호령 소환서(11회)",
+        "id": 99004055,
+        "alias": "Contents.Item.Desc.9901792",
+        "text": "When used, you can acquire a guardian spirit according to a set probability.\\n(Rank: Advanced ~ Legendary)"
+    },
+    "99004056": {
+        "deprecated": false,
+        "Dev_Desc": "생명의 빛나는 수호령 소환서(11회)",
+        "id": 99004056,
+        "alias": "Contents.Item.Desc.9901793",
+        "text": "When used, you can acquire a guardian spirit according to a set probability.\\n(Rank: Normal ~ Heroic)"
+    },
+    "99004057": {
+        "deprecated": false,
+        "Dev_Desc": "찬란한 연오 공로함(각인)_해룡산맥",
+        "id": 99004057,
+        "alias": "Contents.Item.Desc.9901794",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99004058": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 연오 공로함(각인)_해룡산맥",
+        "id": 99004058,
+        "alias": "Contents.Item.Desc.9901795",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99004059": {
+        "deprecated": false,
+        "Dev_Desc": "평범한 연오 공로함(각인)_해룡산맥",
+        "id": 99004059,
+        "alias": "Contents.Item.Desc.9901796",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99004060": {
+        "deprecated": false,
+        "Dev_Desc": "낡은 연오 공로함(각인)_해룡산맥",
+        "id": 99004060,
+        "alias": "Contents.Item.Desc.9901797",
+        "text": "When used, various items such as equipment and military documents are obtained according to a set probability."
+    },
+    "99004061": {
+        "deprecated": false,
+        "Dev_Desc": "특제 집중의 녹용(각인)",
+        "id": 99004061,
+        "alias": "Contents.Item.Desc.9901846",
+        "text": "Attack-related stats increase when used.\\nThe effect lasts for 30 minutes.\\n\\n[Active]\\nPVE Accuracy +4"
+    },
+    "99004062": {
+        "deprecated": false,
+        "Dev_Desc": "블랙 상자",
+        "id": 99004062,
+        "alias": "Contents.Item.Desc.9901847",
+        "text": "Various items can be obtained when used."
+    },
+    "99004063": {
+        "deprecated": false,
+        "Dev_Desc": "황금 블랙 상자",
+        "id": 99004063,
+        "alias": "Contents.Item.Desc.9901848",
+        "text": "Various items can be obtained when used."
+    },
+    "99004064": {
+        "deprecated": false,
+        "Dev_Desc": "수라의 찬란한 소울 소환서(3회)",
+        "id": 99004064,
+        "alias": "Contents.Item.Desc.9901849",
+        "text": "When used, you can acquire a soul according to a set probability.<br/>(Rare ~ Heroic)"
+    },
+    "99004065": {
+        "deprecated": false,
+        "Dev_Desc": "희귀 장비함(각인)",
+        "id": 99004065,
+        "alias": "Contents.Item.Desc.9901850",
+        "text": "This is a box where you can get rare engraving equipment."
+    },
+    "99004066": {
+        "deprecated": false,
+        "Dev_Desc": "해룡 곤야차 보패함(각인)_희귀",
+        "id": 99004066,
+        "alias": "Contents.Item.Desc.9901851",
+        "text": "Contains random pieces of Gonyacha Relics No. 1-8.\\n(Rare)"
+    },
+    "99004067": {
+        "deprecated": false,
+        "Dev_Desc": "해룡 곤야차 보패함(각인)_영웅",
+        "id": 99004067,
+        "alias": "Contents.Item.Desc.9901852",
+        "text": "Contains random pieces of Gonyacha Relics 1 to 8.\\n(Rank: Heroic)"
+    },
+    "99004068": {
+        "deprecated": false,
+        "Dev_Desc": "해룡 침식된 홍돈팔 보패함(각인)_희귀",
+        "id": 99004068,
+        "alias": "Contents.Item.Desc.9901853",
+        "text": "Contains a random piece of red money arm jewels 1 to 8.\\n(Class: Rare)"
+    },
+    "99004069": {
+        "deprecated": false,
+        "Dev_Desc": "해룡 침식된 홍돈팔 보패함(각인)_영웅",
+        "id": 99004069,
+        "alias": "Contents.Item.Desc.9901854",
+        "text": "Contains random fragments from 1 to 8 of Red Don's Arms.\\n(Rank: Heroic)"
+    },
+    "99004070": {
+        "deprecated": false,
+        "Dev_Desc": "해룡 침식된 대인면충 보패함(각인)_희귀",
+        "id": 99004070,
+        "alias": "Contents.Item.Desc.9901855",
+        "text": "Contains random fragments from 1 to 8 of the Anti-personnel Insect Repels.\\n(Rare)"
+    },
+    "99004071": {
+        "deprecated": false,
+        "Dev_Desc": "해룡 침식된 대인면충 보패함(각인)_영웅",
+        "id": 99004071,
+        "alias": "Contents.Item.Desc.9901856",
+        "text": "Contains random pieces of Anti-Personal Insect Repels Nos. 1 to 8.\\n(Rank: Hero)"
+    },
+    "99004072": {
+        "deprecated": false,
+        "Dev_Desc": "해룡 연오 보패함(각인)_희귀",
+        "id": 99004072,
+        "alias": "Contents.Item.Desc.9901857",
+        "text": "Contains a random piece of Remembrance of the Year 1 to 8.\\n(Class: Rare)"
+    },
+    "99004073": {
+        "deprecated": false,
+        "Dev_Desc": "해룡 연오 보패함(각인)_영웅",
+        "id": 99004073,
+        "alias": "Contents.Item.Desc.9901858",
+        "text": "Contains random pieces of Remembrance of the Year 1 to 8.\\n(Rank: Hero)"
+    },
+    "99004074": {
+        "deprecated": false,
+        "Dev_Desc": "천년설삼(각인)",
+        "id": 99004074,
+        "alias": "Contents.Item.Desc.9200222",
+        "text": "It is used to strengthen the weapon."
+    },
+    "99004075": {
+        "deprecated": false,
+        "Dev_Desc": "영지 만두 상자",
+        "id": 99004075,
+        "alias": "Contents.Item.Desc.9901875",
+        "text": "You can obtain the following items when used.\\n\\n- 2 land dumplings (engraved)"
+    },
+    "99004076": {
+        "deprecated": false,
+        "Dev_Desc": "월광정기 상자",
+        "id": 99004076,
+        "alias": "Contents.Item.Desc.9901876",
+        "text": "You can obtain the following items when used.\\n\\n- 5 Moonlight Spirits"
+    },
+    "99004077": {
+        "deprecated": false,
+        "Dev_Desc": "찬란한 경지의 주화(각인)",
+        "id": 99004077,
+        "alias": "Contents.Item.Desc.9901878",
+        "text": "This coin is given to those who have reached a new level of enlightenment.\\nCan be used in the Equipment Encyclopedia."
+    },
+    "99004078": {
+        "deprecated": false,
+        "Dev_Desc": "바다의 기운",
+        "id": 99004078,
+        "alias": "Contents.Item.Desc.9901879",
+        "text": "A material used to craft sea weapons."
+    },
+    "99004079": {
+        "deprecated": false,
+        "Dev_Desc": "봉인된 바다뱀 보급기지 봉마함 I(각인)",
+        "id": 99004079,
+        "alias": "Contents.Item.Desc.9901880",
+        "text": "You can unlock the seal with the key of time (engraving) through crafting."
+    },
+    "99004080": {
+        "deprecated": false,
+        "Dev_Desc": "봉인된 바다뱀 보급기지 봉마함 II(각인)",
+        "id": 99004080,
+        "alias": "Contents.Item.Desc.9901881",
+        "text": "You can unlock the seal with the key of time (engraving) through crafting."
+    },
+    "99004081": {
+        "deprecated": false,
+        "Dev_Desc": "봉인된 바다뱀 보급기지 봉마함 III(각인)",
+        "id": 99004081,
+        "alias": "Contents.Item.Desc.9901882",
+        "text": "You can unlock the seal with the key of time (engraving) through crafting."
+    },
+    "99004082": {
+        "deprecated": false,
+        "Dev_Desc": "봉인된 바다뱀 보급기지 봉마함 IV(각인)",
+        "id": 99004082,
+        "alias": "Contents.Item.Desc.9901883",
+        "text": "You can unlock the seal with the key of time (engraving) through crafting."
+    },
+    "99004083": {
+        "deprecated": false,
+        "Dev_Desc": "봉인된 바다뱀 보급기지 봉마함 V(각인)",
+        "id": 99004083,
+        "alias": "Contents.Item.Desc.9901884",
+        "text": "You can unlock the seal with the key of time (engraving) through crafting."
+    },
+    "99004084": {
+        "deprecated": false,
+        "Dev_Desc": "바다뱀 보급기지 봉마함 I(각인)",
+        "id": 99004084,
+        "alias": "Contents.Item.Desc.9901885",
+        "text": "You can obtain one of the following items according to a set probability when used.\\n\\n- 100/200/300/400/500/1000 Starlight Powder (Imprint)\\n- Energy of the Sea (Imprint) 2/ 4/6/8/12 pcs\\n- Co-op gearbox (engraved) 1 x\\n- Shining Co-op gearbox (engraved) x 1\\n- Sea sachet pouch (engraved) x 1\\n- Shining sea 1 sachet pouch (engraved) of"
+    },
+    "99004085": {
+        "deprecated": false,
+        "Dev_Desc": "바다뱀 보급기지 봉마함 II(각인)",
+        "id": 99004085,
+        "alias": "Contents.Item.Desc.9901886",
+        "text": "You can obtain one of the following items according to a set probability when used.\\n\\n- 100/200/300/400/500/1000 Starlight Powder (Imprint)\\n- Energy of the Sea (Imprint) 2/ 4/6/8/12 pcs\\n- Co-op gearbox (engraved) 1 x\\n- Shiny Co-op gearbox (imprint) x 1\\n- Brilliant Co-op gearbox (engraving) x 1\\n- Sea 1 sachet pouch (engraved) of \\n- 1 sachet pouch of the shining sea (imprinted)\\n- 1 sachet pouch of the Brilliant sea (imprinted)"
+    },
+    "99004086": {
+        "deprecated": false,
+        "Dev_Desc": "바다뱀 보급기지 봉마함 III(각인)",
+        "id": 99004086,
+        "alias": "Contents.Item.Desc.9901887",
+        "text": "You can obtain one of the following items according to a set probability when used.\\n\\n- 300/400/500/1000 Starlight Powder (Imprint)\\n- 100/200 Starlight Crystal (Imprint)\\n- Energy of the sea (engraved) 2/4/6/8/12 pcs\\n- Cooperative gearbox (engraving) 1 x\\n- Shining cooperation gearbox (engraving) x 1\\n- Brilliant collaboration gearbox ( Imprint) 1 x\\n- Brilliant Cooperation Equipment Box (Imprint) x 1\\n- Sea Sachet Bag (Imprint) x 1\\n- Shining Sea Sachet Bag (Imprint) x 1\\n- Brilliant Sea Sachet 1 pouch (engraved)\\n- 1 Brilliant sea sachet pouch (engraved)"
+    },
+    "99004087": {
+        "deprecated": false,
+        "Dev_Desc": "바다뱀 보급기지 봉마함 IV(각인)",
+        "id": 99004087,
+        "alias": "Contents.Item.Desc.9901888",
+        "text": "You can obtain one of the following items according to a set probability when used.\\n\\n- 300/400/500/1000 Starlight Powder (Imprint)\\n- 100/200 Starlight Crystal (Imprint)\\n- Energy of the sea (engraved) 2/4/6/8/12 pcs\\n- Cooperative gearbox (engraving) 1 x\\n- Shining cooperation gearbox (engraving) x 1\\n- Brilliant collaboration gearbox ( Imprint) 1 x\\n- Brilliant Cooperation Equipment Box (Imprint) x 1\\n- Sea Sachet Bag (Imprint) x 1\\n- Shining Sea Sachet Bag (Imprint) x 1\\n- Brilliant Sea Sachet 1 pouch (engraved)\\n- 1 Brilliant sea sachet pouch (engraved)"
+    },
+    "99004088": {
+        "deprecated": false,
+        "Dev_Desc": "바다뱀 보급기지 봉마함 V(각인)",
+        "id": 99004088,
+        "alias": "Contents.Item.Desc.9901889",
+        "text": "You can obtain one of the following items according to a set probability when used.\\n\\n- 400/500/1000/1500 Starlight Powder (Imprint)\\n- 100/200 Starlight Crystal (Imprint)\\n- Energy of the Sea (engraved) 4/6/8/12/16 pcs\\n- Cooperative gearbox (engraving) 1 x\\n- Shiny Cooperative gearbox (engraving) x 1\\n- Brilliant Cooperation gearbox ( Imprint) 1 x\\n- Brilliant Cooperation Equipment Box (Imprint) 1 x\\n- Sea Sachet Bag (Imprint) 1 x\\n- Shining Sea Sachet Bag (Imprint) 1 x 1 pouch (engraved)\\n- 1 Brilliant sea sachet pouch (engraved)"
+    },
+    "99004089": {
+        "deprecated": false,
+        "Dev_Desc": "포화의 빛나는 소울 소환서(11회)",
+        "id": 99004089,
+        "alias": "Contents.Item.Desc.9901890",
+        "text": "When used, you can acquire a soul according to a set probability.<br/>(Rank: Normal ~ Heroic)"
+    },
+    "99004090": {
+        "deprecated": false,
+        "Dev_Desc": "바다뱀 보급 상자(무기)",
+        "id": 99004090,
+        "alias": "Contents.Item.Desc.9901891",
+        "text": "When used, you can obtain one of the following items from the list\\n: +7 Fairy Tale Stalker (Imprinted)\\n: +7 Yokai Hunter (Imprinted)\\n: +7 Surge of the Storm (Imprinted)\\n: +7 Oral Stem (Imprint)\\n: +7 Ancient Remnants (Imprint)\\n: +7 Breeze (Imprint)\\n: +7 Seeker of Truth (Imprint)"
+    },
+    "99004091": {
+        "deprecated": false,
+        "Dev_Desc": "바다뱀 보급 상자(방어구)",
+        "id": 99004091,
+        "alias": "Contents.Item.Desc.9901892",
+        "text": "When used, all of the following list items can be obtained\\n: +5 Jinma's Desire (Imprint)\\n: +5 Wave of the Sunset (Imprint)\\n: +5 Blessing of the Flame King (Imprint)\\n: +5 Pants of Corruption ( Imprint)\\n: +5 Wings of Corruption (Imprint)\\n: +5 Weight of Defilements (Imprint)\\n: +0 Protection of the Forest (Imprint)\\n: +0 Protection of Peace (Imprint)"
+    },
+    "99004092": {
+        "deprecated": false,
+        "Dev_Desc": "바다뱀 보급 상자(장신구 I)",
+        "id": 99004092,
+        "alias": "Contents.Item.Desc.9901893",
+        "text": "Use to obtain all of the following list items\\n: +3 Roar of Thunder\\n: +3 Fire of Blossom\\n: +3 Whispers of Corruption\\n: +3 Wrath of the Windfury"
+    },
+    "99004093": {
+        "deprecated": false,
+        "Dev_Desc": "영롱한 용봉탕(각인)",
+        "id": 99004093,
+        "alias": "Contents.Item.Desc.9901894",
+        "text": "The following effects are applied for 30 minutes when used.\\n\\n[Active]\\nExperience gain +30%\\nGold coin gain +30%"
+    },
+    "99004094": {
+        "deprecated": false,
+        "Dev_Desc": "바다뱀 보급 상자(장신구 II)",
+        "id": 99004094,
+        "alias": "Contents.Item.Desc.9901895",
+        "text": "When used, all of the following list items can be obtained\\n: +0 Primal Tears (Imprint)\\n: +0 Ring of Exorcism (Imprint)\\n: +0 Ring of Spirits (Imprint)\\n: +0 Soother of Joy ( Imprint)\\n: +0 Soulstone of Domination (Imprint)"
+    },
+    "99004095": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 천의방 기념 주화: 악의 씨앗",
+        "id": 99004095,
+        "alias": "Contents.Item.Desc.9901896",
+        "text": "This item is used in the Equipment Encyclopedia.\\n\\nIt can be obtained from [Achievements]."
+    },
+    "99004096": {
+        "deprecated": false,
+        "Dev_Desc": "화려한 천의방 기념 주화: 악의 꽃",
+        "id": 99004096,
+        "alias": "Contents.Item.Desc.9901897",
+        "text": "This item is used in the Equipment Encyclopedia.\\n\\nIt can be obtained from [Achievements]."
+    },
+    "99004097": {
+        "deprecated": false,
+        "Dev_Desc": "화려한 천의방 기념 주화: 악의 번영",
+        "id": 99004097,
+        "alias": "Contents.Item.Desc.9901898",
+        "text": "This item is used in the Equipment Encyclopedia.\\n\\nIt can be obtained from [Achievements]."
+    },
+    "99004098": {
+        "deprecated": false,
+        "Dev_Desc": "영롱한 천의방 기념 주화: 타오르는 악의",
+        "id": 99004098,
+        "alias": "Contents.Item.Desc.9901899",
+        "text": "This item is used in the Equipment Encyclopedia.\\n\\nIt can be obtained from [Achievements]."
+    },
+    "99004099": {
+        "deprecated": false,
+        "Dev_Desc": "바다뱀 보패함: 홀수(각인)",
+        "id": 99004099,
+        "alias": "Contents.Item.Desc.9901900",
+        "text": "Contains a random odd number of sea snake jewels 1 to 8.\\n(Rank: Advanced)"
+    },
+    "99004100": {
+        "deprecated": false,
+        "Dev_Desc": "바다뱀 보패함: 짝수(각인)",
+        "id": 99004100,
+        "alias": "Contents.Item.Desc.9901901",
+        "text": "Contains even random pieces of sea snake jewels 1 to 8.\\n(Rank: Advanced)"
+    },
+    "99004101": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 바다뱀 보패함: 홀수(각인)",
+        "id": 99004101,
+        "alias": "Contents.Item.Desc.9901902",
+        "text": "Contains a random odd piece of Shining Sea Serpent Relic No. 1-8.\\n(Rare)"
+    },
+    "99004102": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 바다뱀 보패함: 짝수(각인)",
+        "id": 99004102,
+        "alias": "Contents.Item.Desc.9901903",
+        "text": "Contains even random pieces of Shining Sea Serpent jewels 1 to 8.\\n(Rare)"
+    },
+    "99004103": {
+        "deprecated": false,
+        "Dev_Desc": "찬란한 바다뱀 보패함: 홀수(각인)",
+        "id": 99004103,
+        "alias": "Contents.Item.Desc.9901904",
+        "text": "Contains odd random pieces of Brilliant Sea Serpent Relic No. 1-8.\\n(Rank: Heroic)"
+    },
+    "99004104": {
+        "deprecated": false,
+        "Dev_Desc": "찬란한 바다뱀 보패함: 짝수(각인)",
+        "id": 99004104,
+        "alias": "Contents.Item.Desc.9901905",
+        "text": "Contains an even number of Brilliant Sea Serpent Relics 1 to 8 at random.\\n(Rank: Heroic)"
+    },
+    "99004105": {
+        "deprecated": false,
+        "Dev_Desc": "바다의 향낭 주머니(각인)",
+        "id": 99004105,
+        "alias": "Contents.Item.Desc.9901906",
+        "text": "One of the following items can be obtained according to a set probability when used.\\n(Class: Common ~ Rare)\\n\\n- Sachet of Courage (Imprint)\\n- Sachet of Harmony (Imprint)\\n- Old Scent bag of waves (Imprint)\\n- Ordinary Sachet of waves (Imprint)"
+    },
+    "99004106": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 바다의 향낭 주머니(각인)",
+        "id": 99004106,
+        "alias": "Contents.Item.Desc.9901907",
+        "text": "You can obtain one of the following items according to a set probability when used.\\n(Class: Superior ~ Rare)\\n\\n- Scented Sachet of Harmony (Imprinted)\\n- Old Wave's Sachet (Imprinted)\\n- Ordinary wave sachet (engraving)\\n- Shining wave sachet (engraving)\\n- Brilliant wave sachet (engraving)\\n- Brilliant wave sachet (engraving)\\n- Brilliant wave sachet"
+    },
+    "99004107": {
+        "deprecated": false,
+        "Dev_Desc": "찬란한 바다의 향낭 주머니(각인)",
+        "id": 99004107,
+        "alias": "Contents.Item.Desc.9901908",
+        "text": "You can obtain one of the items below according to a set probability when used.\\n(Rare ~ Heroic)\\n\\n- Scented Sachet of Shining Waves (Imprinted)\\n- Sachet of Brilliant Waves (Imprinted)\\n - Brilliant wave sachet (engraved)\\n- Brilliant wave sachet\\n- Old storm sachet (imprinted)\\n- Normal storm sachet (imprinted)"
+    },
+    "99004108": {
+        "deprecated": false,
+        "Dev_Desc": "영롱한 바다의 향낭 주머니(각인)",
+        "id": 99004108,
+        "alias": "Contents.Item.Desc.9901909",
+        "text": "You can obtain one of the following items according to a set probability when used.\\n(Class: Heroic)\\n\\n- Old Storm Sachet (Imprint)\\n- Ordinary Storm Sachet (Imprint)\\n- Shining Sachet of Storm (Imprint)\\n- Sachet of Brilliant Storm (Imprint)\\n- Sachet of Brilliant Storm (Imprint)\\n- Brilliant Sachet of Storm (Imprint)"
+    },
+    "99004109": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 도감 지원 상자 I",
+        "id": 99004109,
+        "alias": "Contents.Item.Desc.9901910",
+        "text": "When used, you will acquire all of the following items.\\n\\n- Long sword (engraving)\\n- Gauntlet (engraving)\\n- Large ax (engraving)\\n- Bow (engraving)\\n- Practice bow (engraving)\\n - Fireworks plaque (engraved)\\n- Bell (engraved)"
+    },
+    "99004110": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 도감 지원 상자 II",
+        "id": 99004110,
+        "alias": "Contents.Item.Desc.9901911",
+        "text": "When used, you will acquire all of the following items:\\n\\n- Shaman's Handcuffs (Imprinted)\\n- Bronze Gaiters (Imprinted)\\n- Ivory Rings (Imprinted)\\n- +4 Sachet of the Container (Imprinted)\\n- + 1 paulownia guard plaque (engraved)\\n- +1 soldier's torment (engraved)\\n- +6 luck sword (engraved)\\n- +4 leather uniform (engraved)"
+    },
+    "99004111": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 도감 지원 상자 III",
+        "id": 99004111,
+        "alias": "Contents.Item.Desc.9901912",
+        "text": "When used, you will obtain all of the following items.\\n\\n- Sandstorm Axe (Imprint)\\n- Fighter's Axe (Imprint)\\n- Fighter's Ax (Imprint)\\n- Flame Drop (Imprint)\\n- Executioner (engraved)\\n- Wolyeong qigong plaque (engraved)"
+    },
+    "99004112": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 도감 지원 상자 IV",
+        "id": 99004112,
+        "alias": "Contents.Item.Desc.9901913",
+        "text": "When used, you will acquire all of the following items.\\n\\n- Shaman's Gloves (Imprinted)\\n- Immersed Gaiters (Imprinted)\\n- Sorcerer's Boots (Imprinted)\\n- +6 Shadow Longsword (Imprinted)\\n - +6 Desert Leader's Bow (Imprinted)\\n- +6 Sandstorm Ax (Imprinted)\\n- +6 Veteran's Ceremonial (Imprinted)"
+    },
+    "99004113": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 도감 지원 상자 V",
+        "id": 99004113,
+        "alias": "Contents.Item.Desc.9901914",
+        "text": "When used, you will obtain all of the following items.\\n\\n- +6 Seeker's Gauntlets (Imprint)\\n- +6 Pilgrimage Bell (Imprint)\\n- +4 Exorcism's Shoes (Imprint)\\n- +6 Hyewol Palace (Imprint)\\n- +6 Flame Drops (Imprint)\\n- +4 Iron Gloves (Imprint)\\n- +6 Spirit Sword (Imprint)\\n- +4 Improved Chainsaw (Imprint)"
+    },
+    "99004114": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 도감 지원 상자 VI",
+        "id": 99004114,
+        "alias": "Contents.Item.Desc.9901915",
+        "text": "When used, you will acquire all of the following items.\\n\\n- Bell of Pilgrimage (Imprint)\\n- Leather Boots of Mastery (Imprint)\\n- Spaulders of Pilgrimage (Imprint)\\n- +6 Byeoksa Bow (Imprint) \\n- +4 Dumb Pants (Imprinted)\\n- +6 Infernal Qigong (Imprinted)\\n- +4 Belt of Fighting (Imprinted)"
+    },
+    "99004115": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 도감 지원 상자 VII",
+        "id": 99004115,
+        "alias": "Contents.Item.Desc.9901916",
+        "text": "When used, you will acquire all of the following items.\\n\\n- Bachelor's (Imprint)\\n- Crystal Gloves (Imprinted)\\n- High-quality leather belt (Imprinted)\\n- Monk's Creed (Imprinted)\\n- Tough Leather Pauldrons (Imprint)\\n- Gladiator's Necklace (Imprint)\\n- +6 Yin-Yang Gauntlets (Imprint)\\n- +4 Bronze Gaiters (Imprint)"
+    },
+    "99004116": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 도감 지원 상자 VIII",
+        "id": 99004116,
+        "alias": "Contents.Item.Desc.9901917",
+        "text": "When used, you will acquire all of the following items.\\n\\n- Silverwork Earrings (Imprint)\\n- Platinum Pattern Necklace (Imprint)\\n- Jasper Bracelet (Imprint)\\n- +4 Goblin Skirt (Imprint)\\n- +4 Boots of the Onslaught (Imprint)\\n- +4 Cotton Gloves (Imprint)\\n- +4 Cotton Long Sam (Imprint)"
+    },
+    "99004117": {
+        "deprecated": false,
+        "Dev_Desc": "포화란의 도감 지원 상자 I",
+        "id": 99004117,
+        "alias": "Contents.Item.Desc.9901918",
+        "text": "Use to obtain all of the following items:\\n\\n- +6 Iron Fist\\n- +4 Fur Coat\\n- +4 Leather Pants\\n- +4 Steel Pauldrons\\n- +7 Round Sword\\n- +7 Bronze Handguard\\n- +7 Bronze Butterfly\\n- +7 Practice Bow"
+    },
+    "99004118": {
+        "deprecated": false,
+        "Dev_Desc": "포화란의 도감 지원 상자 II",
+        "id": 99004118,
+        "alias": "Contents.Item.Desc.9901919",
+        "text": "Use to obtain all of the following items:\\n\\n- +7 Copper Handcuffs\\n- +7 Bronze Axe\\n- Acorn Necklace\\n- Copper Ornamental Necklace\\n- Bronze Ornamental Necklace"
+    },
+    "99004119": {
+        "deprecated": false,
+        "Dev_Desc": "포화란의 도감 지원 상자 III",
+        "id": 99004119,
+        "alias": "Contents.Item.Desc.9901920",
+        "text": "When used, you will obtain all of the following items:\\n\\n- Sandstorm Ax\\n- Fighter's Ax\\n- Executioner\\n- +6 White Owl\\n- +6 Monster's Bow"
+    },
+    "99004120": {
+        "deprecated": false,
+        "Dev_Desc": "포화란의 도감 지원 상자 IV",
+        "id": 99004120,
+        "alias": "Contents.Item.Desc.9901921",
+        "text": "When used, you obtain all of the following items:\\n\\n- +7 Longsword of the Shadow\\n- +5 Cheongdanryung\\n- +5 Giant Gaiters\\n- +5 Iron Padded Pauldrons\\n- +5 Quality Leather Belt\\n- +1 Silver Engraved Necklace\\n- +1 Jade Pattern Soother"
+    },
+    "99004121": {
+        "deprecated": false,
+        "Dev_Desc": "포화란의 도감 지원 상자 V",
+        "id": 99004121,
+        "alias": "Contents.Item.Desc.9901922",
+        "text": "When used, you will acquire all of the following items:\\n\\n- +7 Sandstorm Axe\\n- +5 Blue Spirit\\n- +5 Giant Gaiters\\n- +5 Iron Padded Pauldrons\\n- +5 Fine Leather Belt\\n- +7 Monster's Bow\\n- +7 Bell of the Beast"
+    },
+    "99004122": {
+        "deprecated": false,
+        "Dev_Desc": "포화란의 도감 지원 상자 VI",
+        "id": 99004122,
+        "alias": "Contents.Item.Desc.9901923",
+        "text": "When used, you will obtain all of the following items:\\n\\n- +4 White Lightning Gloves (Imprinted)\\n- +4 Steel's Blessing (Imprinted)\\n- +4 Shen Nong's Jade (Imprinted)\\n- +4 of Exorcism Sahye Tae (Imprint)\\n- +4 Application of Prayer (Imprint)"
+    },
+    "99004123": {
+        "deprecated": false,
+        "Dev_Desc": "포화란의 도감 지원 상자 VII",
+        "id": 99004123,
+        "alias": "Contents.Item.Desc.9901924",
+        "text": "When used, you will acquire all of the following items.\\n\\n- Application of Prayer (Imprint)\\n- Ring of the Spirit (Imprint)\\n- Mirror of Sin (Imprint)\\n- White Lotus (Imprint)\\n- + 4 Pasa Gaiters (engraved)\\n- +7 Spirit Bell (engraved)\\n- +5 Northern Guardian (engraved)\\n- +5 Gloves of Falsehood (engraved)"
+    },
+    "99004124": {
+        "deprecated": false,
+        "Dev_Desc": "포화란의 도감 지원 상자 VIII",
+        "id": 99004124,
+        "alias": "Contents.Item.Desc.9901925",
+        "text": "When used, you will acquire all of the following items.\\n\\n- Golden Gloves (Imprinted)\\n- Golden Golden Boots (Imprinted)\\n- Golden Mirrored Pauldrons (Imprinted)\\n- +6 Silent Moon Sword (Imprinted)\\n- +6 Fist of Condemnation (Imprint)\\n- +6 Mirror of Sin (Imprint)\\n- +6 Longing of the Soul (Imprint)\\n- +6 Prophet of the End (Imprint)"
+    },
+    "99004125": {
+        "deprecated": false,
+        "Dev_Desc": "포화란의 도감 지원 상자 IX",
+        "id": 99004125,
+        "alias": "Contents.Item.Desc.9901926",
+        "text": "When used, you will obtain all of the following items:\\n\\n- +7 Requiem Axe (Imprint)\\n- +5 Rapid Attack (Imprint)\\n- +5 Hermit's Pauldrons (Imprint)\\n- +4 Northern Guardian (Engraved)\\n- +4 Earth Belt (Imprinted)\\n- +4 Rachel's Pauldrons (Imprinted)\\n- +4 White Lotus (Imprinted)"
+    },
+    "99004126": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 성장 지원 상자(10레벨)",
+        "id": 99004126,
+        "alias": "Contents.Item.Desc.9901927",
+        "text": "When used, you will receive all of the following items.\\n\\n- 1x Rare Weapon Selection Box I (Imprint)\\n- 1x Yaru's Encyclopedia Support Box I\\n- 1x Yaru's Encyclopedia Support Box II\\n- Gold Bar : 1 million gold (engraving) 10 pieces\\n- Weapon enhancement order book (engraving) 30 pieces\\n- Armor enhancement order book (engraving) 30 pieces\\n- Accessory enhancement order book (engraving) 30 pieces\\n- Yaru growth support box ( 15 level) 1"
+    },
+    "99004127": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 성장 지원 상자(15레벨)",
+        "id": 99004127,
+        "alias": "Contents.Item.Desc.9901928",
+        "text": "When used, you will obtain all of the following items.\\n\\n- Shining Soul Summon Scroll (11 times) (engraved) x1\\n- Yaru's Encyclopedia Support Box III x 1\\n- Yaru's Encyclopedia Support Box IV x1\\ n- Gold Bar: 1 million gold (engraving) 20 \\n- Weapon Enhancement Scroll (engraving) 30 \\n- Armor Enhancement Scroll (engraving) 30 \\n- Accessory Enhancement Scroll (engraving) 30 \\n- Yaru Growth 1 support box (level 20)"
+    },
+    "99004128": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 성장 지원 상자(20레벨)",
+        "id": 99004128,
+        "alias": "Contents.Item.Desc.9901929",
+        "text": "When used, you will receive all of the following items.\\n\\n- 1 Shining Guardian Spirit Summon Scroll (11 times) (engraved) \\n- Yaru's Encyclopedia Support Box V x 1\\n- Yaru's Encyclopedia Support Box VI x 1\\ 1 x Amplifying Essence Selection Box I (Imprint)\\n- 1 Yaru Growth Support Box (Level 25)"
+    },
+    "99004129": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 성장 지원 상자(25레벨)",
+        "id": 99004129,
+        "alias": "Contents.Item.Desc.9901930",
+        "text": "When used, all of the following items are obtained.\\n\\n- General Tou Guardian Spirit Summon Scroll (1 time) x1\\n- Yaru's Encyclopedia Support Box VII x1\\n- Yaru's Encyclopedia Support Box VIII x1\\n- 1 x Amplifying Essence Selection Box II (engraved)\\n- 1 Yaru Growth Support Box (Level 30) x 1"
+    },
+    "99004130": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 성장 지원 상자(30레벨)",
+        "id": 99004130,
+        "alias": "Contents.Item.Desc.9901931",
+        "text": "When used, you will acquire all of the following items.\\n\\n- Yanggun Soul Summon Scroll (1 time) (engraved) 1 x\\n- Golden Moss Fox Soul Summon Scroll (1 time) 1 x 1 box (engraved)\\n- 1 Black Relic No. 1 (engraved)\\n- 1 Yaru growth support box (level 31)"
+    },
+    "99004131": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 성장 지원 상자(31레벨)",
+        "id": 99004131,
+        "alias": "Contents.Item.Desc.9901932",
+        "text": "When used, you will obtain all of the following items.\\n\\n- Hosuk-i Summon Scroll (1 time) 1x\\n- Black Wolf Soul Summon Scroll (1x) 1x\\n- Black Relic No. 2 (engraved) 1 Dog\\n- Yaru's Growth Support Box (Level 32) x 1"
+    },
+    "99004132": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 성장 지원 상자(32레벨)",
+        "id": 99004132,
+        "alias": "Contents.Item.Desc.9901933",
+        "text": "When used, you will obtain all of the following items.\\n\\n- Black Spear Chief Chef Guardian Spirit Summon Scroll (1 time) x 1\\n- Black Bear Soul Summon Scroll (1 time) x 1 \\n- Black Relic 3 (engraved) 1x\\n- 1x Yaru's Growth Support Box (Level 33)"
+    },
+    "99004133": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 성장 지원 상자(33레벨)",
+        "id": 99004133,
+        "alias": "Contents.Item.Desc.9901934",
+        "text": "When used, you will obtain all of the following items.\\n\\n- 1 Suwa Guardian Spirit Summon Scroll (1 time)\\n- 1 Suwa Guard Soul Summon Scroll (1 time)\\n- Black Relic No. 4 ( engraved) 1 x\\n- Yaru Growth Support Box (Level 34) x 1"
+    },
+    "99004134": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 성장 지원 상자(34레벨)",
+        "id": 99004134,
+        "alias": "Contents.Item.Desc.9901935",
+        "text": "When used, you will obtain all of the following items.\\n\\n- 1 Elder Guardian Spirit Summon Scroll (1 time)\\n- 1 Suwa Warrior Soul Summon Scroll (1 time)\\n- Black Relic No. 5 ( engraved) 1 x\\n- Yaru growth support box (level 35) x 1"
+    },
+    "99004135": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 성장 지원 상자(35레벨)",
+        "id": 99004135,
+        "alias": "Contents.Item.Desc.9901936",
+        "text": "When used, you will obtain all of the following items.\\n\\n- Jinmyoyeong Soul Summon Scroll (1 time) (engraved) 1 x\\n- Golden Moss Fox Soul Summon Scroll (1 time) 1 x - Ordeal Dungeon Charging Stone 1 selection box (engraved)\\n- 1 Black Relic No. 6 (engraved)\\n- 1 Yaru growth support box (level 36)"
+    },
+    "99004136": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 성장 지원 상자(36레벨)",
+        "id": 99004136,
+        "alias": "Contents.Item.Desc.9901937",
+        "text": "When used, you will obtain all of the following items.\\n\\n- 1 Autumn Picnic\\n- 1 Black Wolf Soul Summon Scroll (1 time)\\n- 1 Black Relic No. 7 (Engraved)\\n- Growth of Yaru 1 support box (level 37)"
+    },
+    "99004137": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 성장 지원 상자(37레벨)",
+        "id": 99004137,
+        "alias": "Contents.Item.Desc.9901938",
+        "text": "When used, you will obtain all of the following items.\\n\\n- Shining Soul Summon Scroll (11 times) (engraved) 1 x\\n- Black Bear Soul Summon Scroll (1 time) x 1\\n- Black Relic No. 8 (engraved) 1 piece\\n- 1 Yaru growth support box (level 38)"
+    },
+    "99004138": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 성장 지원 상자(38레벨)",
+        "id": 99004138,
+        "alias": "Contents.Item.Desc.9901939",
+        "text": "When used, you will acquire all of the following items.\\n\\n- 1 Shining Soul Summon Scroll (11 times) (engraved) \\n- 1 Suwa Guard Soul Summon Scroll (1 time)\\n- Yaru growth support 1 chest (level 39)"
+    },
+    "99004139": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 성장 지원 상자(39레벨)",
+        "id": 99004139,
+        "alias": "Contents.Item.Desc.9901940",
+        "text": "When used, you will obtain all of the following items.\\n\\n- 1 Shining Soul Summon Scroll (11 times) (engraved) \\n- 1 Suwa Warrior Soul Summon Scroll (1 time)\\n- Yaru growth support 1 chest (level 40)"
+    },
+    "99004140": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 성장 지원 상자(40레벨)",
+        "id": 99004140,
+        "alias": "Contents.Item.Desc.9901941",
+        "text": "When used, you will receive all of the following items.\\n\\n- 1 Chlorinated Weapon Selection Box (Imprint)\\n- +3 Red Jade Ring (Imprint)\\n- Forest Protection (Imprint)\\n- Reward Ticket: Party 1 dungeon (engraving)\\n- Time key (engraving) 10x\\n- 1 Yaru growth support box (level 41)"
+    },
+    "99004141": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 성장 지원 상자(41레벨)",
+        "id": 99004141,
+        "alias": "Contents.Item.Desc.9901942",
+        "text": "When used, you will acquire all of the following items.\\n\\n- 3 Faded Spirit Stones (Imprinted)\\n- Worn Spirit Stones (Imprinted) 3ea\\n- Faded Spirit Stones (Imprinted) 3ea\\n- Pearl Ring (Engraved)\\n- Collaboration completion plaque (engraving) 10ea\\n- Advanced collaboration completion plaque (engraving) 1ea\\n- Yaru growth support box (level 42) 1ea"
+    },
+    "99004142": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 성장 지원 상자(42레벨)",
+        "id": 99004142,
+        "alias": "Contents.Item.Desc.9901943",
+        "text": "When used, you will acquire all of the following items.\\n\\n- 3 Faded Spirit Stones (Imprinted)\\n- Worn Spirit Stones (Imprinted) 3ea\\n- Faded Spirit Stones (Imprinted) 3ea\\n- Jet Black Ring (engraved)\\n- Collaboration completion plaque (engraving) 10ea\\n- Advanced collaboration completion plaque (engraving) 1ea\\n- Yaru growth support box (level 43) 1ea"
+    },
+    "99004143": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 성장 지원 상자(43레벨)",
+        "id": 99004143,
+        "alias": "Contents.Item.Desc.9901944",
+        "text": "When used, you will acquire all of the following items.\\n\\n- 1000 Starlight Powder (Imprint)\\n- Platinum Ring (Imprint)\\n- Golden Egg (Imprint) 50ea\\n- Yaru's Growth Support Box (Level 44) ) One"
+    },
+    "99004144": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 성장 지원 상자(44레벨)",
+        "id": 99004144,
+        "alias": "Contents.Item.Desc.9901945",
+        "text": "When used, you will obtain all of the following items:\\n\\n- 1000 Starlight Powder (Imprint)\\n- Pumpkin Ring (Imprint)\\n- Golden Egg (Imprint) 50ea\\n- Yaru's Growth Support Box (Level 45) ) One"
+    },
+    "99004145": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 성장 지원 상자(45레벨)",
+        "id": 99004145,
+        "alias": "Contents.Item.Desc.9901946",
+        "text": "When used, you will obtain all of the following items:\\n\\n- 1 Breakfast on the Beach\\n- Blue and Silver Ring (Imprinted)\\n- Reward Ticket: 1 Party Dungeon (Imprinted)\\n- The Key of Time (Imprinted) ) 10 pcs\\n- 1 yaru growth support box (level 46)"
+    },
+    "99004146": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 성장 지원 상자(46레벨)",
+        "id": 99004146,
+        "alias": "Contents.Item.Desc.9901947",
+        "text": "When used, you obtain all of the following items.\\n\\n- 5 Faded Spirit Stones (Imprinted)\\n- Worn Spirit Stones (Imprinted) 5ea\\n- Faded Spirit Stones (Imprinted) 5ea\\n- Blessed Weapon Enhancement Scroll (Imprint) x1\\n- Cursed Weapon Enhancement Scroll (Imprint) x1\\n- Rare Costume Pouch (Imprint) x1\\n- Charging Stone: Golden Forest Path (Imprint) x1\\n- Yaru of Growth Support Box (Level 47) x 1"
+    },
+    "99004147": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 성장 지원 상자(47레벨)",
+        "id": 99004147,
+        "alias": "Contents.Item.Desc.9901948",
+        "text": "When used, you obtain all of the following items.\\n\\n- 5 Faded Spirit Stones (Imprinted)\\n- Worn Spirit Stones (Imprinted) 5ea\\n- Faded Spirit Stones (Imprinted) 5ea\\n- Blessed 1 x Armor Enhancement Scroll (Imprint)\\n- 1 Cursed Armor Enhancing Scroll (Imprint) \\n- 1 Rare Costume Pouch (Imprint)\\n- Charging Stone: Golden Forest Path (Imprint) 1 x \\n- Yaru growth support box (level 48) x 1"
+    },
+    "99004148": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 성장 지원 상자(48레벨)",
+        "id": 99004148,
+        "alias": "Contents.Item.Desc.9901949",
+        "text": "When used, you obtain all of the following items.\\n\\n- 5 Faded Spirit Stones (Imprinted)\\n- Worn Spirit Stones (Imprinted) 5ea\\n- Faded Spirit Stones (Imprinted) 5ea\\n- Blessed Accessory Enhancement Scroll (Engraving) 1 x\\n- Cursed Accessory Enhancement Scroll (Engraving) x 1\\n- Rare Costume Pouch (Engraving) x 1\\n- Charging Stone: Golden Forest Path (Engraving) x 1\\n- Yaru 1 growth support box (level 49)"
+    },
+    "99004149": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 성장 지원 상자(49레벨)",
+        "id": 99004149,
+        "alias": "Contents.Item.Desc.9901950",
+        "text": "When used, you will obtain all of the following items.\\n\\n- 3000 Starlight Powder (Imprint)\\n- 300 Starlight Crystals (Imprint)\\n- 1 Rare Costume Pouch (Imprint)\\n- Charging Stone: Golden Forest path (engraved) x 1\\n- Yaru growth support box (level 50) x 1"
+    },
+    "99004150": {
+        "deprecated": false,
+        "Dev_Desc": "야루의 성장 지원 상자(50레벨)",
+        "id": 99004150,
+        "alias": "Contents.Item.Desc.9901951",
+        "text": "When used, you will receive all of the following items.\\n\\n- Hero Soul Selection Box (Imprinted) x1\\n- Legendary Challenge Costume Pouch (Imprinted) x1\\n- Charging Stone: Paradise Labyrinth (Imprinted) x1"
+    },
+    "99004151": {
+        "deprecated": false,
+        "Dev_Desc": "포화란의 특별 복귀 지원 상자(10레벨)",
+        "id": 99004151,
+        "alias": "Contents.Item.Desc.9901952",
+        "text": "When used, you will receive all of the following items.\\n\\n- 1x Rare Weapon Selection Box II (Imprinted)\\n- 1x Encyclopedia of Saturated Orchid Support Box I\\n- 1x Encyclopedia of Saturated Encyclopedia Support Box II\\n - Gold Bar: 1 million gold (engraved) 50 pcs\\n- Saturated egg special recovery support box (level 15) 1 x"
+    },
+    "99004152": {
+        "deprecated": false,
+        "Dev_Desc": "포화란의 특별 복귀 지원 상자(15레벨)",
+        "id": 99004152,
+        "alias": "Contents.Item.Desc.9901953",
+        "text": "When used, you will obtain all of the following items.\\n\\n- 3x Shining Soul Summon Scroll (11 times) of Saturation\\n- 1x Encyclopedia of Saturation Lahn Support Box III\\n- 1x Encyclopedia of Saturation Encyclopedia Support Box IV \\n- Saturated Egg's Encyclopedia Support Box V x 1\\n- Gold Bar: 1,000,000 Gold (Imprinted) 100 pcs\\n- Saturation Egg's Special Return Support Box (Level 20) x 1"
+    },
+    "99004153": {
+        "deprecated": false,
+        "Dev_Desc": "포화란의 특별 복귀 지원 상자(20레벨)",
+        "id": 99004153,
+        "alias": "Contents.Item.Desc.9901954",
+        "text": "When used, you will receive all of the following items.\\n\\n- 3 Summon Scrolls of the Shining Guardian Spirit of Life (11 times)\\n- 1 Encyclopedia of Saturation Lahn Support Box VI\\n- 1 Encyclopedia of Saturation Lahn Support Box VII \\n- 1x Ultimate Essence Selection Box I (Imprinted)\\n- 1x Special Return Support Box for Saturated Eggs (Level 25)"
+    },
+    "99004154": {
+        "deprecated": false,
+        "Dev_Desc": "포화란의 특별 복귀 지원 상자(25레벨)",
+        "id": 99004154,
+        "alias": "Contents.Item.Desc.9901955",
+        "text": "When used, you will obtain all of the following items.\\n\\n- Jinsoah Guardian Spirit Summon Scroll (1 time) x1\\n- Saturated Oran's Encyclopedia Support Box VIII x1\\n- Saturated Oran's Encyclopedia Support Box IX x1\\ n- 1x Ultimate Essence Selection Box II (Imprinted)\\n- 1x Special Return Support Box for Saturated Eggs (Level 30)"
+    },
+    "99004155": {
+        "deprecated": false,
+        "Dev_Desc": "포화란의 특별 복귀 지원 상자(30레벨)",
+        "id": 99004155,
+        "alias": "Contents.Item.Desc.9901956",
+        "text": "When used, you will obtain all of the following items.\\n\\n- Yanggun Soul Summon Scroll (1 time) (engraved) 1 x\\n- Shining Soul Summon Scroll of Saturation (11 times) x 1\\n- Select ordeal dungeon charging stone 3 boxes (engraved)\\n- 1 Special Return Support Box (Level 31) of Saturated Eggs"
+    },
+    "99004156": {
+        "deprecated": false,
+        "Dev_Desc": "포화란의 특별 복귀 지원 상자(31레벨)",
+        "id": 99004156,
+        "alias": "Contents.Item.Desc.9901957",
+        "text": "When used, you will acquire all of the following items.\\n\\n- Yanggun Soul Summon Scroll (1 time) (engraved) 1 x\\n- Fire Shining Soul Summon Scroll (11 times) x 1\\n- Special Return of Saturation Lane 1 support box (level 32)"
+    },
+    "99004157": {
+        "deprecated": false,
+        "Dev_Desc": "포화란의 특별 복귀 지원 상자(32레벨)",
+        "id": 99004157,
+        "alias": "Contents.Item.Desc.9901958",
+        "text": "When used, you will acquire all of the following items.\\n\\n- Yanggun Soul Summon Scroll (1 time) (engraved) 1 x\\n- Fire Shining Soul Summon Scroll (11 times) x 1\\n- Special Return of Saturation Ran 1 support box (level 33)"
+    },
+    "99004158": {
+        "deprecated": false,
+        "Dev_Desc": "포화란의 특별 복귀 지원 상자(33레벨)",
+        "id": 99004158,
+        "alias": "Contents.Item.Desc.9901959",
+        "text": "When used, you will obtain all of the following items:\\n\\n- 3000 Starlight Powder (Imprint)\\n- Golden Egg (Imprinted) 150ea\\n- 1 Special Return Support Box (Level 34) of Saturated Eggs"
+    },
+    "99004159": {
+        "deprecated": false,
+        "Dev_Desc": "포화란의 특별 복귀 지원 상자(34레벨)",
+        "id": 99004159,
+        "alias": "Contents.Item.Desc.9901960",
+        "text": "When used, you will obtain all of the following items.\\n\\n- 3000 Starlight Powder (Imprinted)\\n- Golden Egg (Imprinted) 150ea\\n- 1 Special Return Support Box for Saturated Eggs (Level 35)"
+    },
+    "99004160": {
+        "deprecated": false,
+        "Dev_Desc": "포화란의 특별 복귀 지원 상자(35레벨)",
+        "id": 99004160,
+        "alias": "Contents.Item.Desc.9901961",
+        "text": "When used, you will acquire all of the following items.\\n\\n- Jinmyoyeong Soul Summon Scroll (1 time) (engraved) 1 x\\n- Life Shining Guardian Spirit Summon Scroll (11 times) 1 x - Ordeal Dungeon Charging Stone 3 selection boxes (engraved)\\n- 1 special return support box for saturated eggs (level 36)"
+    },
+    "99004161": {
+        "deprecated": false,
+        "Dev_Desc": "포화란의 특별 복귀 지원 상자(36레벨)",
+        "id": 99004161,
+        "alias": "Contents.Item.Desc.9901962",
+        "text": "When used, you will obtain all of the following items.\\n\\n- Jinmyoyeong Soul Summon Scroll (1 time) (engraved) 1 x\\n- Life Shining Guardian Spirit Summon Scroll (11 times) 1 x 1 Return Support Box (Level 37)"
+    },
+    "99004162": {
+        "deprecated": false,
+        "Dev_Desc": "포화란의 특별 복귀 지원 상자(37레벨)",
+        "id": 99004162,
+        "alias": "Contents.Item.Desc.9901963",
+        "text": "When used, you will obtain all of the following items.\\n\\n- Jinmyoyeong Soul Summon Scroll (1 time) (engraved) 1 x\\n- Life Shining Guardian Spirit Summon Scroll (11 times) 1 x 1 Return Support Box (Level 38)"
+    },
+    "99004163": {
+        "deprecated": false,
+        "Dev_Desc": "포화란의 특별 복귀 지원 상자(38레벨)",
+        "id": 99004163,
+        "alias": "Contents.Item.Desc.9901964",
+        "text": "When used, you will obtain all of the following items.\\n\\n- 3000 Starlight Powder (Imprinted)\\n- Golden Egg (Imprinted) 150ea\\n- Defense of Ordeal No. 1 (Imprinted) 1ea\\n- Saturated Egg 1 special return support box from (level 39)"
+    },
+    "99004164": {
+        "deprecated": false,
+        "Dev_Desc": "포화란의 특별 복귀 지원 상자(39레벨)",
+        "id": 99004164,
+        "alias": "Contents.Item.Desc.9901965",
+        "text": "When used, you obtain all of the following items.\\n\\n- 3000 Starlight Powder (Imprinted)\\n- Golden Egg (Imprinted) 150ea\\n- Defense of Ordeal No. 2 (Imprinted) 1ea\\n- Saturated Egg 1 Special Return Support Box (Level 40) of"
+    },
+    "99004165": {
+        "deprecated": false,
+        "Dev_Desc": "포화란의 특별 복귀 지원 상자(40레벨)",
+        "id": 99004165,
+        "alias": "Contents.Item.Desc.9901966",
+        "text": "When used, you will acquire all of the following items.\\n\\n- Biryuha Soul Summon Scroll (1 time) (engraved) x 1\\n- Ring of Harmony: Fire (Imprint)\\n- Soother of Flame (Imprint) \\n - Ordeal defense shield number 3 (engraved) 1 x\\n- Reward voucher: 5 party dungeons (engraved)\\n- Time key (engraved) 30 x ) One"
+    },
+    "99004166": {
+        "deprecated": false,
+        "Dev_Desc": "포화란의 특별 복귀 지원 상자(41레벨)",
+        "id": 99004166,
+        "alias": "Contents.Item.Desc.9901967",
+        "text": "When used, you will obtain all of the following items.\\n\\n- Shining Spirit Stone [Iron] (Imprint) 3 x\\n- Shining Spirit Stone [Yes] (Imprint) 3 x \\n- Shining Spirit Stone [Chung] (Imprinted) ) 3 \\n- Ring of Harmony: Wind (Imprinted)\\n- Wind Soother (Imprinted)\\n- Defense of Ordeal No. 4 (Imprinted) 1ea\\n- Special Recovery Support Box of Saturation Orchid (Level 42) ) One"
+    },
+    "99004167": {
+        "deprecated": false,
+        "Dev_Desc": "포화란의 특별 복귀 지원 상자(42레벨)",
+        "id": 99004167,
+        "alias": "Contents.Item.Desc.9901968",
+        "text": "When used, all of the following items will be obtained.\\n\\n- Shining Spirit Stone [Iron] (Imprint) 3 x\\n- Shining Spirit Stone [Yes] (Imprint) 3 x \\n- Shining Spirit Stone [Chung] (Imprinted) ) 3 pcs\\n- Ring of Harmony: Neck (engraved)\\n- Life Soother (engraved)\\n- Ordeal Defense Shield No. 5 (engraved) 1 x\\n- Special Recovery Support Box of Saturation Orchid (Level 43) ) One"
+    },
+    "99004168": {
+        "deprecated": false,
+        "Dev_Desc": "포화란의 특별 복귀 지원 상자(43레벨)",
+        "id": 99004168,
+        "alias": "Contents.Item.Desc.9901969",
+        "text": "When used, you will acquire all of the following items.\\n\\n- Ring of Harmony: Gold (Imprinted)\\n- Golden Soother (Imprinted)\\n- 1 Piece of Defense of Ordeal No. 6 (Imprinted)\\n- Completion of collaboration 20 cards (engraved)\\n- 5 pieces of advanced cooperative completion plaques (engraved)\\n- 1 special recovery support box (level 44) of Saturation Egg"
+    },
+    "99004169": {
+        "deprecated": false,
+        "Dev_Desc": "포화란의 특별 복귀 지원 상자(44레벨)",
+        "id": 99004169,
+        "alias": "Contents.Item.Desc.9901970",
+        "text": "When used, you will acquire all of the following items.\\n\\n- Ring of Harmony: Brain (Imprinted)\\n- Soother of Defilements (Imprinted)\\n- 1 Piece 7 (Imprinted) of Ordeal's Defense Shield\\n- Completion of Collaboration 20 tiles (engraved)\\n- 5 pieces of advanced cooperative completion tiles (engraved)\\n- 1x Special Return Support Box (level 45) of Saturated Eggs"
+    },
+    "99004170": {
+        "deprecated": false,
+        "Dev_Desc": "포화란의 특별 복귀 지원 상자(45레벨)",
+        "id": 99004170,
+        "alias": "Contents.Item.Desc.9901971",
+        "text": "When used, you will obtain all of the following items.\\n\\n- Hero Soul Selection Box (1 time)\\n- One White Ghost Costume\\n- Ring of Harmony: Water (Engraving)\\n- Soother of Waves (Imprinting) \\n- Armor of Ordeal No. 8 (Imprinted) \\n- Reward Ticket: 5 Party Dungeon (Imprinted)\\n- 30 Keys of Time (Imprinted)\\n- Special Return Support Box of Saturation Egg ( level 46) 1"
+    },
+    "99004171": {
+        "deprecated": false,
+        "Dev_Desc": "포화란의 특별 복귀 지원 상자(46레벨)",
+        "id": 99004171,
+        "alias": "Contents.Item.Desc.9901972",
+        "text": "When used, you obtain all of the following items.\\n\\n- Blessed Weapon Enhancement Scroll (Imprint) x1\\n- Cursed Weapon Enhancement Scroll (Imprint) x1\\n- Hero Costume Pouch (Imprint) x1\\n - 1x Lunar Elemental (Imprint)\\n- Charge Stone: 10 Ruins of Training (Imprint)\\n- 1x Special Return Support Box (Level 47) of Saturated Egg"
+    },
+    "99004172": {
+        "deprecated": false,
+        "Dev_Desc": "포화란의 특별 복귀 지원 상자(47레벨)",
+        "id": 99004172,
+        "alias": "Contents.Item.Desc.9901973",
+        "text": "When used, you obtain all of the following items.\\n\\n- Blessed Armor Enhancement Scroll (Imprint) x1\\n- Cursed Armor Enhancement Scroll (Imprint) x1\\n- Hero Costume Pouch (Imprint) x1\\n - Sun and Moon Elemental (Imprinted) 2ea\\n- Charge Stone: Ruins of Training (Imprinted) 10ea\\n- Saturated Egg's Special Return Support Box (Level 48) 1ea"
+    },
+    "99004173": {
+        "deprecated": false,
+        "Dev_Desc": "포화란의 특별 복귀 지원 상자(48레벨)",
+        "id": 99004173,
+        "alias": "Contents.Item.Desc.9901974",
+        "text": "When used, you will obtain all of the following items.\\n\\n- Blessed Accessory Enhancement Scroll (Imprint) x1\\n- Cursed Accessory Enhancement Scroll (Imprinted) x1\\n- Hero Costume Bag (Imprinted) x1\\n - Sun and Moon Elemental (Imprinted) 3ea\\n- Charge Stone: Ruins of Training (Imprinted) 10ea\\n- Saturated Egg's Special Return Support Box (Level 49) 1ea"
+    },
+    "99004174": {
+        "deprecated": false,
+        "Dev_Desc": "포화란의 특별 복귀 지원 상자(49레벨)",
+        "id": 99004174,
+        "alias": "Contents.Item.Desc.9901975",
+        "text": "When used, you will obtain all of the following items.\\n\\n- 10000 Starlight Powder (Imprint)\\n- 1000 Starlight Crystal (Imprint)\\n- Fate Stone (Imprint) 5ea\\n- Swordsman's Spirit (Imprint) 1x\\n- Charging Stone: 10 Ruins of Training (Imprint)\\n- 1x Special Return Support Box (Level 50) of Saturation Orchid"
+    },
+    "99004175": {
+        "deprecated": false,
+        "Dev_Desc": "포화란의 특별 복귀 지원 상자(50레벨)",
+        "id": 99004175,
+        "alias": "Contents.Item.Desc.9901976",
+        "text": "When used, you will obtain all of the following items.\\n\\n- Hero Soul Selection Box (Imprint) x1\\n- Legendary Challenge Costume Pouch (Imprint) x1\\n- Destiny Stone (Imprint) x10\\n- Doin's 2 Elemental (Imprinted)\\n- Reward Ticket: 5 Party Dungeons (Imprinted)\\n- 30 Keys of Time (Imprinted)\\n- 1 Special Return Support Box (Level 51) of Saturation Egg"
+    },
+    "99004176": {
+        "deprecated": false,
+        "Dev_Desc": "포화란의 특별 복귀 지원 상자(51레벨)",
+        "id": 99004176,
+        "alias": "Contents.Item.Desc.9901977",
+        "text": "When used, you will acquire all of the following items.\\n\\n- 3000 Starlight Powder (Imprint)\\n- Starlight Crystal (Imprint) 100ea\\n- Spirit Guide (Imprint)\\n- Ring of Covenant (Imprint)\\ n- Swordsman's Spirit (Imprint) x 1\\n- Filling Stone: Abyss Rift (Imprint) x 10\\n- Saturated Egg's Special Return Support Box (Level 52) x 1"
+    },
+    "99004177": {
+        "deprecated": false,
+        "Dev_Desc": "포화란의 특별 복귀 지원 상자(52레벨)",
+        "id": 99004177,
+        "alias": "Contents.Item.Desc.9901978",
+        "text": "When used, you will acquire all of the following items.\\n\\n- 3000 Starlight Powder (Imprint)\\n- Starlight Crystal (Imprint) 100ea\\n- Hero Weapon Crafting Secret Book (Imprint) 1ea\\n- The Spirit of the Swordsman 1 (engraved) \\n- 1 Special Return Support Box (Level 53) of Saturated Eggs"
+    },
+    "99004178": {
+        "deprecated": false,
+        "Dev_Desc": "포화란의 특별 복귀 지원 상자(53레벨)",
+        "id": 99004178,
+        "alias": "Contents.Item.Desc.9901979",
+        "text": "When used, you will obtain all of the following items.\\n\\n- 3000 Starlight Powder (Imprint)\\n- Starlight Crystal (Imprint) 100ea\\n- Forgotten Hero's Armor Selection Box (Imprint) 1ea\\n- The Spirit of the Swordsman (Engraving) 1 x\\n- Saturated Egg's Special Return Support Box (Level 54) x 1"
+    },
+    "99004179": {
+        "deprecated": false,
+        "Dev_Desc": "포화란의 특별 복귀 지원 상자(54레벨)",
+        "id": 99004179,
+        "alias": "Contents.Item.Desc.9901980",
+        "text": "When used, you will obtain all of the following items.\\n\\n- 3000 Starlight Powder (Imprint)\\n- Starlight Crystal (Imprint) 100ea\\n- Swordsman's Spirit (Imprint) 1ea\\n- Charging Stone: Abyss 10 rifts (engraved)\\n- 10 cold molten flames (imprinted)\\n- 1 special recovery support box for saturated eggs (level 55)"
+    },
+    "99004180": {
+        "deprecated": false,
+        "Dev_Desc": "포화란의 특별 복귀 지원 상자(55레벨)",
+        "id": 99004180,
+        "alias": "Contents.Item.Desc.9901981",
+        "text": "When used, you will acquire all of the following items.\\n\\n- Hero Soul Selection Box (1 time)\\n- Starlight Powder (Imprinted) 3000ea\\n- Starlight Crystal (Imprinted) 100ea\\n- Swordsman's Spirit (Imprinted) ) 1 x\\n- Reward voucher: 5 party dungeons (engraved)\\n- Time key (imprinted) 30 x"
+    },
+    "99004181": {
+        "deprecated": false,
+        "Dev_Desc": "포화란의 특별 복귀 지원 상자(56레벨)",
+        "id": 99004181,
+        "alias": "Contents.Item.Desc.9901982",
+        "text": "When used, you will acquire all of the following items.\\n\\n- 3000 Starlight Powder (Imprint)\\n- Starlight Crystal (Imprint) 100ea\\n- Forgotten Hero Weapon Selection Box (Imprint)\\n- The Spirit of the Swordsman (Imprint) ) 1 x\\n- Flask: Wild ginseng (engraved) x 1\\n- Saturated egg special recovery support box (level 57) x 1"
+    },
+    "99004182": {
+        "deprecated": false,
+        "Dev_Desc": "포화란의 특별 복귀 지원 상자(57레벨)",
+        "id": 99004182,
+        "alias": "Contents.Item.Desc.9901983",
+        "text": "When used, you will acquire all of the following items.\\n\\n- 3000 Starlight Powder (Imprint)\\n- Starlight Crystal (Imprint) 100ea\\n- Forgotten Hero's Armor Selection Box (Imprint)\\n- Swordsman's Spirit (Imprint) ) 1 x\\n- Flask: Wild Ginseng (Imprint) 1 x \\n- Filling Stone: Abyssal Rift (Imprint) 10 x \\n- Cold Dragon Flame (Imprint) 10 x \\n- Special Return Support Box for Saturated Eggs (58 level) 1"
+    },
+    "99004183": {
+        "deprecated": false,
+        "Dev_Desc": "포화란의 특별 복귀 지원 상자(58레벨)",
+        "id": 99004183,
+        "alias": "Contents.Item.Desc.9901984",
+        "text": "When used, you will acquire all of the following items.\\n\\n- 3000 Starlight Powder (Imprint)\\n- Starlight Crystal (Imprint) 100ea\\n- Secret Book of Forgotten Hero's Accessories (Imprint)\\n- The Spirit of the Swordsman ( Imprint) 1 x\\n- Flask: Wild ginseng (engraving) 1 x \\n- Filling stone: Labyrinth of Destroyed Awakening (Deep) (Imprint) 10 x \\n- Shining Snow (Imprint) 1 x \\n- Of Saturated Eggs 1 Special Return Support Box (Level 59)"
+    },
+    "99004184": {
+        "deprecated": false,
+        "Dev_Desc": "포화란의 특별 복귀 지원 상자(59레벨)",
+        "id": 99004184,
+        "alias": "Contents.Item.Desc.9901985",
+        "text": "When used, you will obtain all of the following items.\\n\\n- 3000 Starlight Powder (Imprint)\\n- Starlight Crystal (Imprint) 100ea\\n- Sword's Spirit (Imprint) 1ea\\n- Flask: Wild Ginseng (Imprinted) ) 1 \\n- Charging Stone: Labyrinth of Awakening Destroyed (Deep) (Imprinted) 10 \\n- Dragon Flame (Imprinted) 5 \\n- Saturated Egg's Special Recovery Support Box (Level 60) 1"
+    },
+    "99004185": {
+        "deprecated": false,
+        "Dev_Desc": "포화란의 특별 복귀 지원 상자(60레벨)",
+        "id": 99004185,
+        "alias": "Contents.Item.Desc.9901986",
+        "text": "When used, you will acquire all of the following items.\\n\\n- Hero Soul Selection Box (Imprint) 1ea\\n- Starlight Powder (Imprint) 3,000ea\\n- Starlight Crystal (Imprint) 100ea\\n- Hero Armor Crafting Secret Book (engraved) 1 x \\n- Doin's Elemental (engraved) x 1 \\n- Reward Ticket: Party Dungeon (engraved) 5 x \\n- Time Key (engraved) 30 \\n- Dragon Flame (engraved) 5 dog"
+    },
+    "99004186": {
+        "deprecated": false,
+        "Dev_Desc": "희귀 무기 선택 상자 I(각인)",
+        "id": 99004186,
+        "alias": "Contents.Item.Desc.9901987",
+        "text": "You can obtain one of the following items when using it.\\n\\n- Interlace Sword (Imprint)\\n- Fist of Condemnation (Imprint)\\n- Requiem Ax (Imprint)\\n- Punisher's Bow ( Engraving)\\n- Wave of Spirits (Imprint)\\n- Lighthouse of the Soul (Imprint)\\n- Echo of the Night Sky (Imprint)"
+    },
+    "99004187": {
+        "deprecated": false,
+        "Dev_Desc": "희귀 무기 선택 상자 II(각인)",
+        "id": 99004187,
+        "alias": "Contents.Item.Desc.9901988",
+        "text": "You can obtain one of the following items when using it.\\n\\n- Breaking Soul Sword (Imprint)\\n- Hand of Witacheon (Imprint)\\n- Abyssal Crusher (Imprint)\\n- Broken Moonlight Bow (Imprint)\\n- Fire of the Underworld (Imprint)\\n- Primal Call (Imprint)\\n- Thorn Flame Soul (Imprint)"
+    },
+    "99004188": {
+        "deprecated": false,
+        "Dev_Desc": "가을 소풍 의상 주머니(각인)",
+        "id": 99004188,
+        "alias": "Contents.Item.Desc.9901989",
+        "text": "You can obtain rare-grade costumes when used.\\n\\n- Autumn Picnic"
+    },
+    "99004189": {
+        "deprecated": false,
+        "Dev_Desc": "염화 무기 선택 상자(각인)",
+        "id": 99004189,
+        "alias": "Contents.Item.Desc.9901990",
+        "text": "You can obtain one of the following items when using it.\\n\\n- Chlorinated Gum (Imprinted)\\n- Chlorinated Girdle (Imprinted)\\n- Chlorinated Ax (Imprinted)\\n- Chlorinated Bow (Imprinted)\\ n- Chlorinated porcelain plaque (engraved)\\n- Chlorinated method species (engraved)\\n- Chlorinated dagger (engraved)"
+    },
+    "99004190": {
+        "deprecated": false,
+        "Dev_Desc": "해변의 아침 의상 주머니(각인)",
+        "id": 99004190,
+        "alias": "Contents.Item.Desc.9901991",
+        "text": "You can obtain a hero grade costume when used.\\n\\n- Morning on the beach"
+    },
+    "99004191": {
+        "deprecated": false,
+        "Dev_Desc": "증폭의 정수 선택 상자 I(각인)",
+        "id": 99004191,
+        "alias": "Contents.Item.Desc.9901992",
+        "text": "You can obtain one of the following items when using it.\\n\\n- [Sword] Amplifying Essence: 1 Stab (Imprint)\\n- [Sword] Amplifying Essence: Stab (Imprint) 1x \\n- [Gwangap] Amplifying Essence: 1 shard (engraving)\\n- [Gwongap] Amplifying Essence: 1 unflammable (engraving)\\n- [Axe] Amplifying Essence: Nemesis (engraving) 1 x \\n- [Axe] Amplifying Essence: Collapse (Imprint) 1 x\\n- [Qigong Plaque] Amplifying Essence: Soften (Imprint) 1 x Dog\\n- [Bow] Amplifying Essence: Single Shot (Imprint) 1 x [Bow] Amplifying Essence: Multiple Arrows (Imprinted) 1 x 1pc\\n- [Dagger] Amplifying Essence: Strong Lightning (Imprint) x1\\n- [Dagger] Amplifying Essence: Shadow Cleave (Imprint) x1\\n- [Dagger] Amplifying Essence: Surprise (Imprint) One"
+    },
+    "99004192": {
+        "deprecated": false,
+        "Dev_Desc": "극한의 정수 선택 상자 I(각인)",
+        "id": 99004192,
+        "alias": "Contents.Item.Desc.9901993",
+        "text": "You can obtain one of the following items when using it.\\n\\n- [Sword] Ultimate Essence: Imprint 1 x [Sword] Ultimate Essence: Stab (Imprint) x 1 \\n- [Gwongap] Ultimate Essence: Hoecheongak (Imprint) 1 x\\n- [Gwongap] Ultimate Essence: Unsalted Imprint (engraving) x 1\\n- [Axe] Ultimate Essence: Wrath (Imprint) x 1 \\n- [Axe] Extreme Essence: Collapse (Imprint) 1 x\\n- [Qigong Plaque] Extreme Essence: Soften (Imprint) x 1\\n- [Qigong Shield] Extreme Essence: Ice Lance (Imprint) 1 Dog\\n- [Bow] Ultimate Essence: 1 single shot (Imprint)\\n- [Bow] Ultimate Essence: Multiple arrows (Imprint) x 1\\n- [Beopjong] Ultimate Essence: Firefly (Imprint) 1pc\\n- [Beopjong] Ultimate Essence: Strong Lightning (Imprint) x1\\n- [Dagger] Ultimate Essence: Shadow Cleave (Imprint) x1\\n- [Dagger] Ultimate Essence: Surprise (Imprint) One"
+    },
+    "99004193": {
+        "deprecated": false,
+        "Dev_Desc": "백귀혼 의상 주머니(각인)",
+        "id": 99004193,
+        "alias": "Contents.Item.Desc.9901994",
+        "text": "You can obtain a hero grade costume when used.\\n\\n- White Ghost"
+    },
+    "99004194": {
+        "deprecated": false,
+        "Dev_Desc": "증폭의 정수 선택 상자 II(각인)",
+        "id": 99004194,
+        "alias": "Contents.Item.Desc.9901995",
+        "text": "You can obtain one of the following items when using it.\\n\\n- [Sword] Amplifying Essence: Uplifting (Imprint) 1 piece\\n- [Sword] Amplifying Essence: Jumping (Imprinted) 1 Dog\\n- [Gwongap] Amplifying Essence: Seungryongak (Imprint) 1 x [Gwongap] Amplifying Essence: Jeolmyeonggak (Imprint) 1 x [Axe] Amplifying Essence: Wind (Imprint) 1 Dog\\n- [Axe] Amplifying Essence: Clash (Imprint) 1 x [Qigong Plaque] Amplifying Essence: Hwa-Ryeonjang (Imprint) 1 x 1pc\\n- [Bow] Amplifying Essence: Arrow Rain (Imprint) 1 x [Bow] Amplifying Essence: Tracking Arrow (Imprinted) 1 x ) 1 x\\n- [Dagger] Amplifying Essence: Imprinting 1 x [Dagger] Amplifying Essence: Thunderbolt (Imprint) 1 x \\n- [Dagger] Amplifying Essence: Dark Flesh( engraved) 1"
+    },
+    "99004195": {
+        "deprecated": false,
+        "Dev_Desc": "극한의 정수 선택 상자 II(각인)",
+        "id": 99004195,
+        "alias": "Contents.Item.Desc.9901996",
+        "text": "You can obtain one of the following items when using it.\\n\\n- [Sword] Extreme Essence: Uplifting (Imprint) 1 piece\\n- [Sword] Extreme Essence: Jumping (Imprint) 1 Dog\\n- [Gwongap] Ultimate Essence: Seungryongak (Imprint) 1ea\\n- [Gwongap] Ultimate Essence: Jeolmyeonggak (Imprint) x1\\n- [Axe] Ultimate Essence: Windstorm (Imprint) 1 Dog\\n- [Axe] Ultimate Essence: Clash (Imprint) 1 x [Qigong Plaque] Ultimate Essence: Hwa-Ryeonjang (Imprint) x 1\\n- [Qigong Plate] Ultimate Essence: Meteor (Imprint) 1 piece\\n- [Bow] Ultimate Essence: Arrow Rain (Imprint) 1 x [Bow] Ultimate Essence: Tracking Arrow (Imprint) 1 x ) 1 x\\n- [Beopjong] Extreme Essence: Planting Day before (Imprint) 1 x [Dagger] Extreme Essence: Thunderbolt (Imprint) 1 x \\n- [Dagger] Extreme Essence: Dark flesh ( engraved) 1"
+    },
+    "99004199": {
+        "deprecated": false,
+        "Dev_Desc": "토우장군 수호령 소환서(1회)",
+        "id": 99004199,
+        "alias": "Contents.Item.Desc.9901999",
+        "text": "When used, you acquire General Tou's Guardian Spirit.<br/>(Rank: Advanced)"
+    },
+    "99004200": {
+        "deprecated": false,
+        "Dev_Desc": "호숙이 수호령 소환서(1회)",
+        "id": 99004200,
+        "alias": "Contents.Item.Desc.9902000",
+        "text": "When used, Hosuk acquires a guardian spirit.<br/>(Rank: Advanced)"
+    },
+    "99004201": {
+        "deprecated": false,
+        "Dev_Desc": "흑창족 대주방장 수호령 소환서(1회)",
+        "id": 99004201,
+        "alias": "Contents.Item.Desc.9902001",
+        "text": "When used, you acquire the guardian spirit of the black spear chief chef.<br/>(Level: Advanced)"
+    },
+    "99004202": {
+        "deprecated": false,
+        "Dev_Desc": "나조귀 소울 파편(각인)",
+        "id": 99004202,
+        "alias": "Contents.Item.Desc.9902002",
+        "text": "You can obtain 1 leopard soul fragment when used.<br/>(Rare)"
+    },
+    "99004203": {
+        "deprecated": false,
+        "Dev_Desc": "팔보재 소울 파편(각인)",
+        "id": 99004203,
+        "alias": "Contents.Item.Desc.9902003",
+        "text": "When used, you can obtain 1 Bracer Soul Fragment.<br/>(Rare)"
+    },
+    "99004204": {
+        "deprecated": false,
+        "Dev_Desc": "양장비 소울 파편(각인)",
+        "id": 99004204,
+        "alias": "Contents.Item.Desc.9902004",
+        "text": "When used, you can obtain 1 Soul Fragment.<br/>(Rare)"
+    },
+    "99004205": {
+        "deprecated": false,
+        "Dev_Desc": "유산솔 소울 파편(각인)",
+        "id": 99004205,
+        "alias": "Contents.Item.Desc.9902005",
+        "text": "When used, you can obtain 1 lactic acid Soul Fragment.<br/>(Rare)"
+    },
+    "99004206": {
+        "deprecated": false,
+        "Dev_Desc": "물수와족 수호령 소환서(1회)",
+        "id": 99004206,
+        "alias": "Contents.Item.Desc.9902006",
+        "text": "When used, it acquires the guardian spirit of the water Suwa family.<br/>(Rank: Advanced)"
+    },
+    "99004207": {
+        "deprecated": false,
+        "Dev_Desc": "악의 번영 의상 주머니",
+        "id": 99004207,
+        "alias": "Contents.Item.Desc.9902007",
+        "text": "You can obtain the Evil Prosperity Costume when used."
+    },
+    "99004208": {
+        "deprecated": false,
+        "Dev_Desc": "타오르는 악의 의상 주머니",
+        "id": 99004208,
+        "alias": "Contents.Item.Desc.9902008",
+        "text": "When used, you can obtain the Burning Evil Costume."
+    },
+    "99004209": {
+        "deprecated": false,
+        "Dev_Desc": "발라라 소울 파편(각인)",
+        "id": 99004209,
+        "alias": "Contents.Item.Desc.9902009",
+        "text": "You can obtain 1 Balala Soul Fragment when used.<br/>(Rank: Heroic)"
+    },
+    "99004210": {
+        "deprecated": false,
+        "Dev_Desc": "태장금 소울 파편(각인)",
+        "id": 99004210,
+        "alias": "Contents.Item.Desc.9902010",
+        "text": "You can obtain 1 Taejanggeum Soul Fragment when used.<br/>(Rank: Heroic)"
+    },
+    "99004211": {
+        "deprecated": false,
+        "Dev_Desc": "해월의 정기",
+        "id": 99004211,
+        "alias": "Contents.Item.Desc.9902011",
+        "text": "When used, you can obtain the Sea Moon Elemental.\\nThe effect lasts for 60 minutes.\\n\\n[Use effect]\\nExperience gain increase +30%\\nAttack power +3\\nDefense +3\\nPenetration +5\\nNon-Attack Attack Amplification +2%\\nControl Accuracy +2%"
+    },
+    "99004212": {
+        "deprecated": false,
+        "Dev_Desc": "포화의 화려한 소울 소환서(11회)",
+        "id": 99004212,
+        "alias": "Contents.Item.Desc.9902012",
+        "text": "You can acquire souls according to a set probability when used.\\n(Rank: Advanced ~ Legendary)"
+    },
+    "99004213": {
+        "deprecated": false,
+        "Dev_Desc": "포화의 찬란한 소울 소환서(5회)",
+        "id": 99004213,
+        "alias": "Contents.Item.Desc.9902013",
+        "text": "When used, you can acquire a soul according to a set probability.<br/>(Rare ~ Heroic)"
+    },
+    "99004214": {
+        "deprecated": false,
+        "Dev_Desc": "포화의 영롱한 소울 소환서(1회)",
+        "id": 99004214,
+        "alias": "Contents.Item.Desc.9902014",
+        "text": "When used, you can acquire a soul according to a set probability.\\n(Rank: Heroic ~ Legendary)"
+    },
+    "99004215": {
+        "deprecated": false,
+        "Dev_Desc": "화려한 성장 상자Ⅱ",
+        "id": 99004215,
+        "alias": "Contents.Item.Desc.9902017",
+        "text": "When used, you will obtain all of the following items.\\n\\n- 2 Brilliant Soul Summon Scrolls of Fire (11 times)\\n- 2 Brilliant Guardian Spirit Summon Scrolls of Life (6 times)"
+    },
+    "99004216": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 성장 상자Ⅱ",
+        "id": 99004216,
+        "alias": "Contents.Item.Desc.9902018",
+        "text": "When used, you will acquire all of the following items.\\n\\n- Shining Soul of Fire Summon Scroll (11 times) 3 x\\n- Shining Guardian Spirit of Fire Scroll (11 times) 2 x"
+    },
+    "99004217": {
+        "deprecated": false,
+        "Dev_Desc": "생명의 화려한 수호령 소환서(6회)",
+        "id": 99004217,
+        "alias": "Contents.Item.Desc.9902019",
+        "text": "When used, you can acquire a guardian spirit according to a set probability.\\n(Rank: Advanced ~ Legendary)"
+    },
+    "99004218": {
+        "deprecated": false,
+        "Dev_Desc": "포화의 영웅 소울 파편(7개) 선택 꾸러미",
+        "id": 99004218,
+        "alias": "Contents.Item.Desc.9902020",
+        "text": "When used, it can be obtained by selecting one of the following Soul Fragments. (Grade: Hero)\\n- Soul shards (engraving) 7 ea\\n- Guardian Captain Soul shards (engraving) 7 ea\\n- Soul shards of Choryeong tree (engraving) 7 ea\\n- Boss Head Soul shards (engraving) 7 Dog\\n- Runaway Guard Captain Soul Fragments (engraving) 7pcs\\n- Red Ginseng Soul Fragments (engraving) 7pcs\\n- Biryuha Soul Fragments (engraving) 7pcs\\n- Baobao Soul Fragments (engraving) 7pcs\\ n- Horyong Kwak soul shards (engraving) 7 pcs\\n- Red Plum Blossom soul shards (engraving) 7 pcs\\n- Furong Perong soul shards (engraving) 7 pcs\\n- Moonlight wind soul shards (engraving) 7 pcs\\n- Thunder Soul Soul 7 shards (engraved)\\n- Nakwondaeseong soul shards (engraved) 7 pcs\\n- Wind god soul shards (engraved) 7 pcs\\n- Oreum soul shards (engraved) 7 pcs\\n- Baekhwaryeom soul shards (engraved) 7pcs\\n- Seojungmun Soul Fragments (engraving) 7pcs\\n- Hareum Soul Fragments (engraving) 7pcs\\n- Song Si-guk Soul Fragments (engraving) 7pcs\\n- Drifter Yugi Soul Fragments (7pcs engraving)\\ n- Returner Sarubi Soul Fragment (Imprint) 7pcs\\n- Returner Arang Soul Fragment (Imprint) 7pcs\\n- Returner Passa Soul Fragment (Imprint) 7pcs\\n- Lowly Soul Fragment (Imprint) 7pcs \\n- Shinmugang soul shards (engraving) 7 pcs\\n- Flame Soul Soul shards (engraving) 7 pcs\\n- Taejanggeum soul shards (engraving) 7 pcs\\n- Maxobo soul shards (engraving) 7 pcs\\n- 7 Ballara Soul Fragments (Engraved)"
+    },
+    "99004219": {
+        "deprecated": false,
+        "Dev_Desc": "생명의 영롱한 수호령 소환서(1회)",
+        "id": 99004219,
+        "alias": "Contents.Item.Desc.9902021",
+        "text": "When used, you can acquire a soul according to a set probability.<br/>(Rank: Heroic ~ Legendary)"
+    },
+    "99004220": {
+        "deprecated": false,
+        "Dev_Desc": "막소보 소울 파편(각인)",
+        "id": 99004220,
+        "alias": "Contents.Item.Desc.9902022",
+        "text": "You can obtain 1 Maxovo Soul Fragment when used.<br/>(Rank: Heroic)"
+    },
+    "99004221": {
+        "deprecated": false,
+        "Dev_Desc": "영롱한 야루의 무기 강화 주문서",
+        "id": 99004221,
+        "alias": "Contents.Item.Desc.9200324",
+        "text": "+9 Enhanced Heroic Grade Weapons, +7 Enhanced, +8 Enhanced Legendary Grade Weapons are used to upgrade, and the weapon is not destroyed even if enhancement fails."
+    },
+    "99004222": {
+        "deprecated": false,
+        "Dev_Desc": "희생의 무덤 봉마함 III(각인)",
+        "id": 99004222,
+        "alias": "Contents.Item.Desc.9902023",
+        "text": "You can obtain one of the following items according to a set probability when used.\\n\\n- 300/400/500/1000 Starlight Powder (Imprint)\\n- Flame Energy (Imprint) 2/4/6/ 8/12 pcs\\n- Co-op gearbox (engraved) 1 x\\n- Shiny Co-op gearbox (engraved) x 1\\n- Brilliant Co-op gearbox (engraved) x 1\\n- Brilliant Co-op gear 1 box (imprint)\\n- 1 sachet pouch of flame (engraving)\\n- 1 sachet sachet of gleaming flame (imprint)\\n- 1 sachet sachet of Brilliant flame (imprint)\\n- Brilliant flame 1 sachet pouch (engraved) of"
+    },
+    "99004223": {
+        "deprecated": false,
+        "Dev_Desc": "희생의 무덤 봉마함 IV(각인)",
+        "id": 99004223,
+        "alias": "Contents.Item.Desc.9902024",
+        "text": "You can obtain one of the following items according to a set probability when used.\\n\\n- 300/400/500/1000 Starlight Powder (Imprint)\\n- Flame Energy (Imprint) 2/4/6/ 8/12 pcs\\n- Co-op gearbox (engraved) 1 x\\n- Shiny Co-op gearbox (engraved) x 1\\n- Brilliant Co-op gearbox (engraved) x 1\\n- Brilliant Co-op gear 1 box (imprint)\\n- 1 sachet pouch of flame (engraving)\\n- 1 sachet sachet of gleaming flame (imprint)\\n- 1 sachet sachet of Brilliant flame (imprint)\\n- Brilliant flame 1 sachet pouch (engraved) of"
+    },
+    "99004224": {
+        "deprecated": false,
+        "Dev_Desc": "희생의 무덤 봉마함 V(각인)",
+        "id": 99004224,
+        "alias": "Contents.Item.Desc.9902025",
+        "text": "You can obtain one of the following items according to a set probability when used.\\n\\n- 400/500/1000/1500 Starlight Powder (Imprint)\\n- Flame Energy (Imprint) 4/6/8/ 12/16 pieces\\n- Co-op gearbox (engraved) 1 x\\n- Shiny Co-op gearbox (engraved) x 1\\n- Brilliant Co-op gearbox (engraved) x 1\\n- Brilliant Co-op gear 1 box (imprint)\\n- 1 sachet pouch of flame (engraving)\\n- 1 sachet sachet of gleaming flame (imprint)\\n- 1 sachet sachet of Brilliant flame (imprint)\\n- Brilliant flame 1 sachet pouch (engraved) of"
+    },
+    "99004225": {
+        "deprecated": false,
+        "Dev_Desc": "잊혀진 영웅 무기 선택 상자(각인)_비수 포함",
+        "id": 99004225,
+        "alias": "Contents.Item.Desc.9902526",
+        "text": "You can obtain one of the following items when using it.\\n\\n- Forgotten Executioner's Sword (Imprint)\\n- Forgotten Fist of Condemnation (Imprint)\\n- Mirror of Forgotten Sins (Imprint)\\n- Ax of Forgotten Fanaticism(Engraving)\\n- Bow of Forgotten Punisher(Engraving)\\n- Forgotten Head Spirit(Engraving)\\n- Dagger of Forgotten Punisher(Engraving)"
+    },
+    "99004226": {
+        "deprecated": false,
+        "Dev_Desc": "공용 무공 선택 상자 I(각인)",
+        "id": 99004226,
+        "alias": "Contents.Item.Desc.9902026",
+        "text": "You can obtain it by selecting one of the following items when using it.\\n\\n- Porcelain (Imprint)\\n- Fighting Spirit (Imprint)\\n- Pharmaceutical Knowledge III (Imprint)"
+    },
+    "99004227": {
+        "deprecated": false,
+        "Dev_Desc": "공용 무공 선택 상자 I",
+        "id": 99004227,
+        "alias": "Contents.Item.Desc.9902027",
+        "text": "You can obtain it by selecting one of the items below when using it.\\n\\n- Destruction\\n- Fighting Spirit\\n- Pharmaceutical Knowledge III"
+    },
+    "99004228": {
+        "deprecated": false,
+        "Dev_Desc": "태초의 흉갑 선택 상자(각인)",
+        "id": 99004228,
+        "alias": "Contents.Item.Desc.9902028",
+        "text": "You can obtain it by selecting one of the items below when used.\\n\\n- Primal Desire (Imprint)\\n- Pride of the Beginning (Imprint)\\n- Primal Judgment (Imprint)"
+    },
+    "99004229": {
+        "deprecated": false,
+        "Dev_Desc": "태초의 흉갑 선택 상자",
+        "id": 99004229,
+        "alias": "Contents.Item.Desc.9902029",
+        "text": "You can obtain it by selecting one of the items below when used.\\n\\n- Primordial Desire\\n- Pride of the Beginning\\n- Judgment of the Beginning"
+    },
+    "99004230": {
+        "deprecated": false,
+        "Dev_Desc": "태초의 각반 선택 상자(각인)",
+        "id": 99004230,
+        "alias": "Contents.Item.Desc.9902030",
+        "text": "You can obtain it by selecting one of the items below when used.\\n\\n- Beginning fighting spirit (engraving)\\n- Beginning mercy (engraving)\\n- Beginning tenacity (engraving)"
+    },
+    "99004231": {
+        "deprecated": false,
+        "Dev_Desc": "태초의 각반 선택 상자",
+        "id": 99004231,
+        "alias": "Contents.Item.Desc.9902031",
+        "text": "You can obtain it by selecting one of the items below when used.\\n\\n- Primal Fighting Spirit\\n- Primal Mercy\\n- Primal Tenacity"
+    },
+    "99004232": {
+        "deprecated": false,
+        "Dev_Desc": "백야 보패함_영웅",
+        "id": 99004232,
+        "alias": "Contents.Item.Desc.9901783",
+        "text": "Contains a random piece of Brilliant White Night Relic No. 1-8.\\n(Rank: Heroic)"
+    },
+    "99004233": {
+        "deprecated": false,
+        "Dev_Desc": "백야 보패함_희귀",
+        "id": 99004233,
+        "alias": "Contents.Item.Desc.9901784",
+        "text": "Contains a random piece of White Night Relic No. 1-8.\\n(Rare)"
+    },
+    "99004234": {
+        "deprecated": false,
+        "Dev_Desc": "화부 보패함_영웅",
+        "id": 99004234,
+        "alias": "Contents.Item.Desc.9901785",
+        "text": "Contains random fragments from Brilliant Flower Relics No. 1 to 8.\\n(Rank: Heroic)"
+    },
+    "99004235": {
+        "deprecated": false,
+        "Dev_Desc": "화부 보패함_희귀",
+        "id": 99004235,
+        "alias": "Contents.Item.Desc.9901786",
+        "text": "Contains random fragments from 1 to 8 of Fire Relics.\\n(Class: Rare)"
+    },
+    "99004236": {
+        "deprecated": false,
+        "Dev_Desc": "거혼 보패함_영웅",
+        "id": 99004236,
+        "alias": "Contents.Item.Desc.9901787",
+        "text": "Contains a random piece of Brilliant Spirit Relic No. 1-8.\\n(Rank: Heroic)"
+    },
+    "99004237": {
+        "deprecated": false,
+        "Dev_Desc": "거혼 보패함_희귀",
+        "id": 99004237,
+        "alias": "Contents.Item.Desc.9901788",
+        "text": "Contains a random piece of Remembrance of the Soul from 1 to 8.\\n(Rare)"
+    },
+    "99004238": {
+        "deprecated": false,
+        "Dev_Desc": "신선루 파편 상자",
+        "id": 99004238,
+        "alias": "Contents.Item.Desc.9902038",
+        "text": "When used, you can obtain 5 to 10 Shinsengru Fragments (engravings) depending on a set probability."
+    },
+    "99004239": {
+        "deprecated": false,
+        "Dev_Desc": "백야금의 영웅 장비함(각인)",
+        "id": 99004239,
+        "alias": "Contents.Item.Desc.9902039",
+        "text": "When used, you can acquire hero grade equipment according to a set probability."
+    },
+    "99004240": {
+        "deprecated": false,
+        "Dev_Desc": "화부의 영웅 장비함(각인)",
+        "id": 99004240,
+        "alias": "Contents.Item.Desc.9902040",
+        "text": "When used, you can acquire hero grade equipment according to a set probability."
+    },
+    "99004241": {
+        "deprecated": false,
+        "Dev_Desc": "거혼의 영웅 장비함(각인)",
+        "id": 99004241,
+        "alias": "Contents.Item.Desc.9902041",
+        "text": "When used, you can acquire hero grade equipment according to a set probability."
+    },
+    "99004242": {
+        "deprecated": false,
+        "Dev_Desc": "유란 소울 파편(각인) 1개",
+        "id": 99004242,
+        "alias": "Contents.Item.Desc.9902046",
+        "text": "You can obtain 1 Yuran Soul Fragment when used.\\n(Rank: Heroic)"
+    },
+    "99004243": {
+        "deprecated": false,
+        "Dev_Desc": "거거붕 소울 파편(각인) 1개",
+        "id": 99004243,
+        "alias": "Contents.Item.Desc.9902047",
+        "text": "When used, you can obtain 1 shard of Geobogung Soul.\\n(Rank: Heroic)"
+    },
+    "99004244": {
+        "deprecated": false,
+        "Dev_Desc": "야루 소울 파편(각인) 1개",
+        "id": 99004244,
+        "alias": "Contents.Item.Desc.9902048",
+        "text": "You can obtain 1 Yaru Soul Fragment when used.\\n(Class: Legendary)"
+    },
+    "99004245": {
+        "deprecated": false,
+        "Dev_Desc": "이름 없는 자 소울 파편(각인) 1개",
+        "id": 99004245,
+        "alias": "Contents.Item.Desc.9902049",
+        "text": "You can obtain 1 Soul Fragment of the Nameless One when used.\\n(Class: Legendary)"
+    },
+    "99004246": {
+        "deprecated": false,
+        "Dev_Desc": "시로 소울 파편(각인) 1개",
+        "id": 99004246,
+        "alias": "Contents.Item.Desc.9902050",
+        "text": "When used, you can acquire 1 Soul Fragment.\\n(Class: Legendary)"
+    },
+    "99004247": {
+        "deprecated": false,
+        "Dev_Desc": "파사 소울 파편(각인) 1개",
+        "id": 99004247,
+        "alias": "Contents.Item.Desc.9902051",
+        "text": "You can obtain 1 Passa Soul Fragment when used.\\n(Class: Legendary)"
+    },
+    "99004248": {
+        "deprecated": false,
+        "Dev_Desc": "노이 소울 파편(각인) 1개",
+        "id": 99004248,
+        "alias": "Contents.Item.Desc.9902052",
+        "text": "You can obtain 1 Noi Soul Fragment when used.\\n(Class: Legendary)"
+    },
+    "99004249": {
+        "deprecated": false,
+        "Dev_Desc": "진서연 소울 파편(각인) 1개",
+        "id": 99004249,
+        "alias": "Contents.Item.Desc.9902053",
+        "text": "You can obtain 1 Jinseoyeon Soul Fragment when used.\\n(Class: Legendary)"
+    },
+    "99004250": {
+        "deprecated": false,
+        "Dev_Desc": "염화대성 소울 파편(각인) 1개",
+        "id": 99004250,
+        "alias": "Contents.Item.Desc.9902054",
+        "text": "When used, you can obtain 1 Chloride Fortress Soul Fragment.\\n(Class: Legendary)"
+    },
+    "99004251": {
+        "deprecated": false,
+        "Dev_Desc": "포화란 소울 파편(각인) 1개",
+        "id": 99004251,
+        "alias": "Contents.Item.Desc.9902055",
+        "text": "You can obtain 1 Saturated Egg Soul Fragment when used.\\n(Class: Legendary)"
+    },
+    "99004252": {
+        "deprecated": false,
+        "Dev_Desc": "화중 수호령 소환서(각인)",
+        "id": 99004252,
+        "alias": "Contents.Item.Desc.9902056",
+        "text": "When used, you acquire a fire guardian spirit.\\n(Rank: Heroic)"
+    },
+    "99004253": {
+        "deprecated": false,
+        "Dev_Desc": "해무진 수호령 소환서(각인)",
+        "id": 99004253,
+        "alias": "Contents.Item.Desc.9902057",
+        "text": "When used, you acquire the Guardian Spirit of the Sea Mujin.\\n(Rank: Heroic)"
+    },
+    "99004254": {
+        "deprecated": false,
+        "Dev_Desc": "홍석근 수호령 소환서(각인)",
+        "id": 99004254,
+        "alias": "Contents.Item.Desc.9902058",
+        "text": "When used, you acquire Hong Seok-geun's Guardian Spirit.\\n(Rank: Hero)"
+    },
+    "99004255": {
+        "deprecated": false,
+        "Dev_Desc": "천진권 수호령 소환서(각인)",
+        "id": 99004255,
+        "alias": "Contents.Item.Desc.9902059",
+        "text": "When used, you acquire the Guardian Spirit of Heaven.\\n(Rank: Hero)"
+    },
+    "99004256": {
+        "deprecated": false,
+        "Dev_Desc": "포화란 수호령 소환서(각인)",
+        "id": 99004256,
+        "alias": "Contents.Item.Desc.9902060",
+        "text": "When used, you acquire the Guardian Spirit of Saturation Egg.\\n(Rank: Heroic)"
+    },
+    "99004257": {
+        "deprecated": false,
+        "Dev_Desc": "거거붕 수호령 소환서(각인)",
+        "id": 99004257,
+        "alias": "Contents.Item.Desc.9902061",
+        "text": "When used, you will acquire a guardian spirit.\\n(Rank: Heroic)"
+    },
+    "99004258": {
+        "deprecated": false,
+        "Dev_Desc": "유란 수호령 소환서(각인)",
+        "id": 99004258,
+        "alias": "Contents.Item.Desc.9902062",
+        "text": "When used, you acquire the Yuran Guardian Spirit.\\n(Rank: Heroic)"
+    },
+    "99004259": {
+        "deprecated": false,
+        "Dev_Desc": "진서연 수호령 소환서(각인)",
+        "id": 99004259,
+        "alias": "Contents.Item.Desc.9902063",
+        "text": "When used, you acquire the Guardian Spirit of Jinseoyeon.\\n(Rank: Hero)"
+    },
+    "99004260": {
+        "deprecated": false,
+        "Dev_Desc": "익산운 수호령 소환서(각인)",
+        "id": 99004260,
+        "alias": "Contents.Item.Desc.9902064",
+        "text": "When used, you acquire the guardian spirit of Iksanun.\\n(Rank: Hero)"
+    },
+    "99004261": {
+        "deprecated": false,
+        "Dev_Desc": "검선비월 수호령 소환서(각인)",
+        "id": 99004261,
+        "alias": "Contents.Item.Desc.9902065",
+        "text": "When used, you acquire the Guardian Spirit of Swordsmanship.\\n(Rank: Heroic)"
+    },
+    "99004262": {
+        "deprecated": false,
+        "Dev_Desc": "예하랑 수호령 소환서(각인)",
+        "id": 99004262,
+        "alias": "Contents.Item.Desc.9902066",
+        "text": "When used, you will acquire Yeharang's Guardian Spirit.\\n(Rank: Heroic)"
+    },
+    "99004263": {
+        "deprecated": false,
+        "Dev_Desc": "군마혜 수호령 소환서(각인)",
+        "id": 99004263,
+        "alias": "Contents.Item.Desc.9902067",
+        "text": "When used, you will acquire a Warhorse Guardian Spirit.\\n(Rank: Heroic)"
+    },
+    "99004264": {
+        "deprecated": false,
+        "Dev_Desc": "무성 수호령 소환서(각인)",
+        "id": 99004264,
+        "alias": "Contents.Item.Desc.9902068",
+        "text": "When used, you acquire a silent guardian spirit.\\n(Rank: Heroic)"
+    },
+    "99004265": {
+        "deprecated": false,
+        "Dev_Desc": "은광일 수호령 소환서(각인)",
+        "id": 99004265,
+        "alias": "Contents.Item.Desc.9902069",
+        "text": "When used, you will acquire a Silver Light Day Guardian Spirit.\\n(Rank: Heroic)"
+    },
+    "99004266": {
+        "deprecated": false,
+        "Dev_Desc": "고요의 소울 파편 상자_영웅",
+        "id": 99004266,
+        "alias": "Contents.Item.Desc.9902070",
+        "text": "You can obtain 25 hero soul fragments (engravings) according to a set probability when used.\\n\\n[List of available soul fragments]\\n\\n<Heroic> Soul\\n[Chorus/Guardian Captain/Choryeongmok/Boss] Duukshini / Runaway Guard Captain / Hong Donsam / Biryuha / Baobao / Kwak Horyong / Red Plum Blossom / Perong Perong / Moonlight Wind / Thunder God / Nakwon Daeseong / Wind God / Baekhwaryeom / Oreum / Seojungmun / Hareum / Song Si-guk / Wanderer Yugi / Returner Ruby / Regressor Arang / Regressor Pasa / Yu Ran / Geogeobung / Yeom Hwan / Shin Mugang / Lowly / Tae Jang Geum / Maxo Bo / Balala]"
+    },
+    "99004267": {
+        "deprecated": false,
+        "Dev_Desc": "고요의 소울 파편 상자_전설",
+        "id": 99004267,
+        "alias": "Contents.Item.Desc.9902071",
+        "text": "When used, you can obtain 5/7/10 legendary soul fragments (engraved) according to a set probability.\\n\\n[List of available soul fragments]\\n\\n<Legendary> Soul\\n[Yaru/Unnamed] Ja/Shiro/Pasa/Noi/Seoyeon Jin/Daeseong Yeomhwa/Sura/Satura Ran]"
+    },
+    "99004268": {
+        "deprecated": false,
+        "Dev_Desc": "고요의 수호령 상자_영웅",
+        "id": 99004268,
+        "alias": "Contents.Item.Desc.9902072",
+        "text": "When used, you can obtain the Hero Guardian Spirit Summon Scroll (Engraving) according to a set probability.\\n\\n\\n[List of available Guardian Spirits]\\n\\n<Heroic> Guardian Spirit\\n[Hwajung/Haemujin/Hong Seokgeun/Tianjin Kwon / Pohwaran / Geogeobung / Yuran / Jin Seoyeon / Iksanun / Geomseonbiwol / Yeharang / Gunmahye / Museong / Eunkwangil]"
+    },
+    "99004269": {
+        "deprecated": false,
+        "Dev_Desc": "고요의 정수 상자",
+        "id": 99004269,
+        "alias": "Contents.Item.Desc.9902081",
+        "text": "When used, you can obtain 1/2/3 Essence of Silence (Imprint) according to a set probability."
+    },
+    "99004270": {
+        "deprecated": false,
+        "Dev_Desc": "고요의 정수(각인)",
+        "id": 99004270,
+        "alias": "Contents.Item.Desc.9902082",
+        "text": "A crystal formed by the concentration of the twilight stillness. Can be used to craft special coins."
+    },
+    "99004271": {
+        "deprecated": false,
+        "Dev_Desc": "비사문 특별 주화 상자",
+        "id": 99004271,
+        "alias": "Contents.Item.Desc.9902083",
+        "text": "When used, you can obtain 1/2/3 non-serial special coins (engraved) according to a set probability."
+    },
+    "99004272": {
+        "deprecated": false,
+        "Dev_Desc": "비사문 특별 주화",
+        "id": 99004272,
+        "alias": "Contents.Item.Desc.9902084",
+        "text": "It can be used to purchase special equipment from the [Legendary Vendor].\\n\\nYou can obtain it from [Unsermon Special Coin Box], [Crafting], etc."
+    },
+    "99004273": {
+        "deprecated": false,
+        "Dev_Desc": "탐욕의 가루 상자",
+        "id": 99004273,
+        "alias": "Contents.Item.Desc.9902085",
+        "text": "When used, you can obtain 100/150/200 Powder of Greed (Imprint) according to a set probability."
+    },
+    "99004274": {
+        "deprecated": false,
+        "Dev_Desc": "죽음의 가루 상자",
+        "id": 99004274,
+        "alias": "Contents.Item.Desc.9902086",
+        "text": "When used, you can obtain 100/150/200 Death Powder (Imprint) according to a set probability."
+    },
+    "99004275": {
+        "deprecated": false,
+        "Dev_Desc": "율법의 가루 상자",
+        "id": 99004275,
+        "alias": "Contents.Item.Desc.9902087",
+        "text": "When used, you can obtain 100/150/200 Powder of Law (Imprint) according to a set probability."
+    },
+    "99004276": {
+        "deprecated": false,
+        "Dev_Desc": "침식된 백야금의 전리품 상자(각인)",
+        "id": 99004276,
+        "alias": "Contents.Item.Desc.9902088",
+        "text": "When used, you will acquire all of the following items.\\n- 1x Platinum Hero's Equipment Box (Imprint)\\n- 1x Shinsengru Fragment Box\\n\\nYou can obtain the following items at a certain rate when used. \\n- 1x Secret Coin Box\\n- 1x Silent Essence Box"
+    },
+    "99004277": {
+        "deprecated": false,
+        "Dev_Desc": "화부의 전리품 상자(각인)",
+        "id": 99004277,
+        "alias": "Contents.Item.Desc.9902089",
+        "text": "When used, you will obtain all of the following items:\\n- 1x Secret Coin Box\\n- 1x Silent Essence Box\\n- 1x Fireman's Hero Equipment Box (Imprinted)\\n- 2x Shinsengru Fragment Box \\n\\nYou can obtain the following items according to a set probability when used.\\n- 1 Brilliant Soul Soul Fragment Box\\n- 1 Brilliant Silence Guardian Spirit Box"
+    },
+    "99004278": {
+        "deprecated": false,
+        "Dev_Desc": "거혼의 전리품 상자(각인)",
+        "id": 99004278,
+        "alias": "Contents.Item.Desc.9902090",
+        "text": "When used, the following items will be obtained according to a set probability.\\n- 2x Special Coin Box of Secrets\\n- 2x Quiet Essence Box\\n- 1x Heroic Hero's Gear Box (Engraving)\\n- Shinsengru Fragment 3 boxes\\n\\nYou can obtain the following items according to a set probability when used.\\n- 1 Brilliant Soul of Silence Fragment Box\\n- 1 Brilliant Guard Spirit Box of Silence"
+    },
+    "99004279": {
+        "deprecated": false,
+        "Dev_Desc": "영롱한 윤회의 무기 강화 주문서",
+        "id": 99004279,
+        "alias": "Contents.Item.Desc.9200326",
+        "text": "+9 Enhanced Heroic Grade Weapon, +7 Enhanced, +8 Enhanced Legendary Grade Weapon."
+    },
+    "99004280": {
+        "deprecated": false,
+        "Dev_Desc": "시간의 파편(각인)",
+        "id": 99004280,
+        "alias": "Contents.Item.Desc.9200665",
+        "text": "A fragment of the powerful power contained in a weapon that was created by holding on to even time. It is a material used to craft a special weapon enhancement spell."
+    },
+    "99004281": {
+        "deprecated": false,
+        "Dev_Desc": "공용 무공 선택 상자 II(각인)",
+        "id": 99004281,
+        "alias": "Contents.Item.Desc.9902091",
+        "text": "You can obtain it by selecting one of the items below when using it.\\n\\n- Understanding (Imprint)\\n- Salvation (Imprint)"
+    },
+    "99004282": {
+        "deprecated": false,
+        "Dev_Desc": "공용 무공 선택 상자 II",
+        "id": 99004282,
+        "alias": "Contents.Item.Desc.9902092",
+        "text": "You can obtain it by selecting one of the items below when used.\\n\\n- Understanding\\n- Salvation Stability"
+    },
+    "99004283": {
+        "deprecated": false,
+        "Dev_Desc": "돌파의 정수 선택 상자(각인)",
+        "id": 99004283,
+        "alias": "Contents.Item.Desc.9902093",
+        "text": "You can obtain one of the items below when using it.\\n\\n- [Sword] Essence of Breakthrough: Lightning Slash (Engraving)\\n- [Gauntlet] Essence of Breakthrough: Cleavage (Imprint)\\n- [ Axe] Essence of Breakthrough: Roar (Engraving)\\n- [Kigong Plaque] Essence of Breakthrough: Fire Ring (Engraving)\\n- [Bow] Essence of Breakthrough: Blockade Arrow (Engraving)\\n- [Beyond] Essence of Breakthrough: Salvation (Imprint)\\n- [Dagger] Essence of Breakthrough: Stealth (Imprint)"
+    },
+    "99004284": {
+        "deprecated": false,
+        "Dev_Desc": "돌파의 정수 선택 상자",
+        "id": 99004284,
+        "alias": "Contents.Item.Desc.9902094",
+        "text": "You can obtain one of the following items when using it.\\n\\n- [Sword] Essence of Breakthrough: Lightning Slash\\n- [Gauntlet] Essence of Breakthrough: Blood Bleeding\\n- [Axe] Essence of Breakthrough: Roar\\n- [Qigong Plaque] Essence of Breakthrough: Fire Ring\\n- [Bow] Essence of Breakthrough: Blockade Arrow\\n- [Beef Bell] Essence of Breakthrough: Salvation\\n- [Dagger] Essence of Breakthrough: Stealth"
+    },
+    "99004285": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 정수 제작 상자(각인)",
+        "id": 99004285,
+        "alias": "Contents.Item.Desc.9902095",
+        "text": "One of the following items can be obtained with a certain probability when used.\\n\\n- Essence Fragment (Imprint) 30ea\\n- Essence Fragment (Imprint) 50ea\\n- Essence Fragment (Imprint) 70ea\\ n- Essence Fragment (Imprint) 90ea\\n- Spirit of Spirit (Imprint) 1ea\\n- Spirit of Spirit (Imprint) 2ea"
+    },
+    "99004286": {
+        "deprecated": false,
+        "Dev_Desc": "포화의 영웅 소울 선택 상자",
+        "id": 99004286,
+        "alias": "Contents.Item.Desc.9902096",
+        "text": "When used, it can be obtained by selecting the summoning scroll of the hero grade soul."
+    },
+    "99004287": {
+        "deprecated": false,
+        "Dev_Desc": "발라라 소울 소환서(1회)(각인)",
+        "id": 99004287,
+        "alias": "Contents.Item.Desc.9902097",
+        "text": "When used, you obtain a Valara Soul."
+    },
+    "99004288": {
+        "deprecated": false,
+        "Dev_Desc": "막소보 소울 소환서(1회)(각인)",
+        "id": 99004288,
+        "alias": "Contents.Item.Desc.9902098",
+        "text": "Obtain Maxovo Soul when used."
+    },
+    "99004289": {
+        "deprecated": false,
+        "Dev_Desc": "태장금 소울 소환서(1회)(각인)",
+        "id": 99004289,
+        "alias": "Contents.Item.Desc.9902099",
+        "text": "When used, you get Taejanggeum Soul."
+    },
+    "99004290": {
+        "deprecated": false,
+        "Dev_Desc": "포화의 영웅 소울 소환서(1회)",
+        "id": 99004290,
+        "alias": "Contents.Item.Desc.9902101",
+        "text": "When used, you can acquire souls according to a set probability.\\n(Rank: Hero)"
+    },
+    "99004291": {
+        "deprecated": false,
+        "Dev_Desc": "포화의 영웅 소울 파편(11회)",
+        "id": 99004291,
+        "alias": "Contents.Item.Desc.9902102",
+        "text": "When used, you can obtain 1 Soul Fragment at a set probability.\\n(Rank: Hero)"
+    },
+    "99004292": {
+        "deprecated": false,
+        "Dev_Desc": "프리미엄 전설 방어구 재료 상자",
+        "id": 99004292,
+        "alias": "Contents.Item.Desc.9902103",
+        "text": "When used, you can obtain one of the following items with a certain probability:\\n\\n- Quiet Essence Box x1\\n- Legendary Armor Crafting Secret Recipe Fragment (Engraving) x10\\n- Non-serious Coin Box 1 dog"
+    },
+    "99004293": {
+        "deprecated": false,
+        "Dev_Desc": "태초의 어깨보호구 선택 상자(각인)",
+        "id": 99004293,
+        "alias": "Contents.Item.Desc.9902105",
+        "text": "You can obtain it by selecting one of the items below when used.\\n\\n- Beginning of Dawn (Imprint)\\n- Light of the Beginning (Imprint)\\n- Hope of the Beginning (Imprint)"
+    },
+    "99004294": {
+        "deprecated": false,
+        "Dev_Desc": "태초의 어깨보호구 선택 상자",
+        "id": 99004294,
+        "alias": "Contents.Item.Desc.9902106",
+        "text": "You can obtain it by selecting one of the items below when used.\\n\\n- Beginning of Dawn\\n- Light of the Beginning\\n- Hope of the Beginning"
+    },
+    "99004295": {
+        "deprecated": false,
+        "Dev_Desc": "영웅 노리개 선택 상자 l(각인)",
+        "id": 99004295,
+        "alias": "Contents.Item.Desc.9902107",
+        "text": "You can obtain it by selecting one of the items below when used.\\n\\n- Lover's Soother (Imprint)\\n- Starlight Drop (Imprint)"
+    },
+    "99004296": {
+        "deprecated": false,
+        "Dev_Desc": "영웅 노리개 선택 상자 l",
+        "id": 99004296,
+        "alias": "Contents.Item.Desc.9902108",
+        "text": "You can obtain it by selecting one of the items below when used.\\n\\n- Lover's Soother\\n- Starlight Drop"
+    },
+    "99004297": {
+        "deprecated": false,
+        "Dev_Desc": "돌파의 정수 선택 상자 ll(각인)",
+        "id": 99004297,
+        "alias": "Contents.Item.Desc.9902109",
+        "text": "You can obtain one of the following items when using it.\\n\\n- [Sword] Essence of Breakthrough: Cloud Slash (Engraving)\\n- [Gauntlet] Essence of Breakthrough: Bungwan (Imprint)\\n- [ Axe] Essence of Breakthrough: Punishment (Engraving)\\n- [Kigong Plaque] Essence of Breakthrough: Dragon's Row Glacier (Imprint)\\n- [Bow] Essence of Breakthrough: Anti-Magic Arrow (Engraving)\\n- [Beyond] Essence of Breakthrough : Guardian (Engraving)\\n- [Dagger] Essence of Breakthrough: Shadow Seal (Engraving)"
+    },
+    "99004298": {
+        "deprecated": false,
+        "Dev_Desc": "돌파의 정수 선택 상자 ll",
+        "id": 99004298,
+        "alias": "Contents.Item.Desc.9902110",
+        "text": "You can obtain one of the following items when using it.\\n\\n- [Sword] Essence of Breakthrough: Cloud Cleave \\n- [Gauntlet] Essence of Breakthrough: Suspension Fist\\n- [Axe] Essence of Breakthrough: [Bow] Essence of Breakthrough: [Bow] Breakthrough Essence: Anti-Magic Arrow \\n- [Beopjong] Breakthrough Essence: Guardian\\n- [Dagger] Essence of Breakthrough: Shadow Seal"
+    },
+    "99004299": {
+        "deprecated": false,
+        "Dev_Desc": "돌파의 정수 선택 상자 lll(각인)",
+        "id": 99004299,
+        "alias": "Contents.Item.Desc.9902111",
+        "text": "You can obtain one of the following items when using it.\\n\\n- [Sword] Breakthrough Essence: Sword Token (Engraving)\\n- [Sword Armor] Breakthrough Essence: Ascension Ticket (Engraving)\\n- [Axe] Essence of Breakthrough: Immortality (Engraving)\\n- [Qigong Plaque] Essence of Breakthrough: Phoenix Poetry (Engraving)\\n- [Bow] Essence of Breakthrough: Aiming Shot (Engraving)\\n- [Beyond] Breakthrough Essence: Judgment (Imprint)\\n- [Dagger] Essence of Breakthrough: Waltham (Imprint)"
+    },
+    "99004300": {
+        "deprecated": false,
+        "Dev_Desc": "돌파의 정수 선택 상자 lll",
+        "id": 99004300,
+        "alias": "Contents.Item.Desc.9902112",
+        "text": "You can obtain one of the following items when using it.\\n\\n- [Sword] Breakthrough Essence: Sword Mark\\n- [Sword Armor] Breakthrough Essence: Ascension Ticket\\n- [Axe] Breakthrough Essence : Immortality\\n- [Qigong Plaque] Essence of Breakthrough: Phoenix Poetry\\n- [Bow] Essence of Breakthrough: Aimed Shot\\n- [Beopjong] Essence of Breakthrough: Judgment\\n- [Dagger] Essence of Breakthrough: Waltham"
+    },
+    "99004301": {
+        "deprecated": false,
+        "Dev_Desc": "화염의 향낭 주머니(각인)",
+        "id": 99004301,
+        "alias": "Contents.Item.Desc.9902113",
+        "text": "You can obtain one of the items below according to a set probability when used.\\n(Class: Common ~ Rare)\\n\\n- Sachet of Courage (Imprint)\\n- Sachet of Harmony (Imprint)\\n- Old Sachet of Flame (Imprint)\\n- Sachet of Ordinary Flame (Imprint)\\n- Sachet of Ordinary Flame"
+    },
+    "99004302": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 화염의 향낭 주머니(각인)",
+        "id": 99004302,
+        "alias": "Contents.Item.Desc.9902114",
+        "text": "You can obtain one of the following items according to a set probability when used.\\n(Class: Superior ~ Rare)\\n\\n- Sachet of Harmony (Imprint)\\n- Sachet of Old Flames (Imprint)\\n- Sachet of Ordinary Flame (Imprint)\\n- Sachet of Plain Flame\\n- Sachet of Shining Flame (Imprint)\\n- Sachet of Brilliant Flame (Imprint)\\n- Sachet of Brilliant Flame (Imprint)\\n- Brilliant Flaming Sachet"
+    },
+    "99004303": {
+        "deprecated": false,
+        "Dev_Desc": "바다의 향낭 주머니(각인)",
+        "id": 99004303,
+        "alias": "Contents.Item.Desc.9902115",
+        "text": "You can obtain one of the following items according to a set probability when used.\\n(Class: Common ~ Rare)\\n\\n- Sachet of Courage (Imprint)\\n- Sachet of Harmony (Imprint)\\n- Old Wave's sachet (engraved)\\n- Ordinary wave's sachet (imprinted)\\n- Ordinary wave's sachet"
+    },
+    "99004304": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 바다의 향낭 주머니(각인)",
+        "id": 99004304,
+        "alias": "Contents.Item.Desc.9902116",
+        "text": "When used, you can obtain one of the following items according to a set probability.\\n(Class: Superior ~ Rare)\\n\\n- Sachet of Harmony (Imprint)\\n- Sachet of Old Waves (Imprint)\\n- Ordinary wave sachet (imprint)\\n- Ordinary wave sachet\\n- Shining wave sachet (engraving)\\n- Brilliant wave sachet (engraving)\\n- Brilliant wave sachet (engraving)\\n- Brilliant sachet of waves"
+    },
+    "99004305": {
+        "deprecated": false,
+        "Dev_Desc": "영웅 무공서 선택 상자 l",
+        "id": 99004305,
+        "alias": "Contents.Item.Desc.9902127",
+        "text": "You can obtain it by selecting one of the items below.\\n\\n- [Sword] Lightning Slash\\n- [Girl Armor] Blood Bleeding\\n- [Axe] Roar\\n- [Qigong Plaque] Firewheel\\n- [Bow] Blocking Arrow\\n- [Bow Bell] Salvation\\n- [Dagger] Stealth"
+    },
+    "99004306": {
+        "deprecated": false,
+        "Dev_Desc": "영웅 무공서 선택 상자 ll",
+        "id": 99004306,
+        "alias": "Contents.Item.Desc.9902128",
+        "text": "You can obtain it by selecting one of the following items when used.\\n\\n- [Sword] Sweeping\\n- [Gauntlet] Concussion\\n- [Axe] Justice\\n- [Sword] Cheon-bing\\n- [Bow] Hundreds of hairs\\n- [Beopjong] Substitution\\n- [Dagger] Lethargy"
+    },
+    "99004307": {
+        "deprecated": false,
+        "Dev_Desc": "영웅 반지 선택 상자 l",
+        "id": 99004307,
+        "alias": "Contents.Item.Desc.9902129",
+        "text": "You can obtain it by selecting one of the items below when used.\\n\\n- Betrayer's Faith\\n- Guardian's Path"
+    },
+    "99004308": {
+        "deprecated": false,
+        "Dev_Desc": "영웅 무공서 선택 상자 l(각인)",
+        "id": 99004308,
+        "alias": "Contents.Item.Desc.9902130",
+        "text": "You can obtain one of the following items when using it.\\n\\n- [Sword] Lightning Slash (Engraving)\\n- [Gauntlet] Blood Cleave (Engraving)\\n- [Axe] Roar (Engraving)\\n - [Qigong Plaque] Fire Ring (Engraving)\\n- [Bow] Blocking Arrow (Engraving)\\n- [Beopjong] Salvation (Engraving)\\n- [Dagger] Stealth (Engraving)"
+    },
+    "99004309": {
+        "deprecated": false,
+        "Dev_Desc": "영웅 무공서 선택 상자 ll(각인)",
+        "id": 99004309,
+        "alias": "Contents.Item.Desc.9902131",
+        "text": "You can obtain one of the following items when using it.\\n\\n- [Sword] Sweeping (Imprint)\\n- [Gauntlet] Concussion (Imprint)\\n- [Axe] Justice (Imprint)\\n - [Kigong Plaque] Cheon Bing (Engraving)\\n- [Bow] Hundreds of White (Engraving)\\n- [Beopjong] Substitution (Engraving)\\n- [Dagger] Lethargy (Engraving)"
+    },
+    "99004310": {
+        "deprecated": false,
+        "Dev_Desc": "영웅 반지 선택 상자 l(각인)",
+        "id": 99004310,
+        "alias": "Contents.Item.Desc.9902132",
+        "text": "You can obtain it by selecting one of the items below when used.\\n\\n- Betrayer's Faith (Imprint)\\n- Guardian's Path (Imprint)"
+    },
+    "99004311": {
+        "deprecated": false,
+        "Dev_Desc": "전설 무공서 선택 상자",
+        "id": 99004311,
+        "alias": "Contents.Item.Desc.9902133",
+        "text": "You can obtain one of the following items when using it.\\n\\n- [Sword] Sky Slash\\n- [Gauntlet] Transcendental Sword Dance\\n- [Axe] Barrier\\n- [Kigong Plaque] Hwagwang Socheon\\ n- [Bow] Salwoo\\n- [Beopjong] Gwangmyeong Listening\\n- [Dagger] Dark Heavenly Soul"
+    },
+    "99004312": {
+        "deprecated": false,
+        "Dev_Desc": "전설 무공서 선택 상자(각인)",
+        "id": 99004312,
+        "alias": "Contents.Item.Desc.9902134",
+        "text": "You can obtain one of the following items when using it.\\n\\n- [Sword] Sky Slash (Engraving)\\n- [Gauntlet] Transcendental Fist (Imprint)\\n- [Axe] Barrier (Imprint)\\ n- [Kigong Plaque] Hwagwang Socheon (Imprint)\\n- [Bow] Salwoo (Imprint)\\n- [Beopjong] Gwangmyeong Heungeum (Imprint)\\n- [Dagger] Amcheon Destruction Soul (Imprint)"
+    },
+    "99004313": {
+        "deprecated": false,
+        "Dev_Desc": "상급 비결(각인)",
+        "id": 99004313,
+        "alias": "Contents.Item.Desc.9200666",
+        "text": "It is used to enhance high-grade martial arts and craft swordsmanship."
     }
 }

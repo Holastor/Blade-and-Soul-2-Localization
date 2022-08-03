@@ -5305,7 +5305,8 @@
         "deprecated": false,
         "Dev_Desc": "집중의 녹용",
         "id": 89500801,
-        "alias": "Contents.Effect.Detail.70101160"
+        "alias": "Contents.Effect.Detail.70101160",
+        "text": "특제 집중의 녹용 사용효과와 중첩하여 사용 불가"
     },
     "89500802": {
         "deprecated": false,
@@ -6416,5 +6417,547 @@
         "Dev_Desc": "CM의 응원 단환(이벤트)",
         "id": 89500962,
         "alias": "Contents.Effect.Detail.70101181"
+    },
+    "89500963": {
+        "deprecated": false,
+        "Dev_Desc": "후유증 1단계",
+        "id": 89500963,
+        "alias": "Contents.Effect.Name.8122",
+        "text": "sequelae stage 1"
+    },
+    "89500964": {
+        "deprecated": false,
+        "Dev_Desc": "후유증 2단계",
+        "id": 89500964,
+        "alias": "Contents.Effect.Name.8123",
+        "text": "Aftermath Stage 2"
+    },
+    "89500965": {
+        "deprecated": false,
+        "Dev_Desc": "후유증 3단계",
+        "id": 89500965,
+        "alias": "Contents.Effect.Name.8124",
+        "text": "Aftermath Stage 3"
+    },
+    "89500966": {
+        "deprecated": false,
+        "Dev_Desc": "후유증 4단계",
+        "id": 89500966,
+        "alias": "Contents.Effect.Name.8125",
+        "text": "Aftermath Stage 4"
+    },
+    "89500967": {
+        "deprecated": false,
+        "Dev_Desc": "후유증 5단계",
+        "id": 89500967,
+        "alias": "Contents.Effect.Name.8126",
+        "text": "5 stages of sequelae"
+    },
+    "89500968": {
+        "deprecated": false,
+        "Dev_Desc": "후유증 1단계",
+        "id": 89500968,
+        "alias": "Contents.Effect.Desc.8122",
+        "text": "Resurrection Penalty"
+    },
+    "89500969": {
+        "deprecated": false,
+        "Dev_Desc": "후유증 2단계",
+        "id": 89500969,
+        "alias": "Contents.Effect.Desc.8123",
+        "text": "Resurrection Penalty"
+    },
+    "89500970": {
+        "deprecated": false,
+        "Dev_Desc": "후유증 3단계",
+        "id": 89500970,
+        "alias": "Contents.Effect.Desc.8124",
+        "text": "Resurrection Penalty"
+    },
+    "89500971": {
+        "deprecated": false,
+        "Dev_Desc": "후유증 4단계",
+        "id": 89500971,
+        "alias": "Contents.Effect.Desc.8125",
+        "text": "Resurrection Penalty"
+    },
+    "89500972": {
+        "deprecated": false,
+        "Dev_Desc": "후유증 5단계",
+        "id": 89500972,
+        "alias": "Contents.Effect.Desc.8126",
+        "text": "Resurrection Penalty"
+    },
+    "89500973": {
+        "deprecated": false,
+        "Dev_Desc": "후유증 1단계",
+        "id": 89500973,
+        "alias": "Contents.Effect.Option.8122",
+        "text": "Resurrection Life Recovery -5%\\nResurrection History Recovery -5%\\nPVE Resurrection Time +3 sec\\nPVP Resurrection Time +1 sec"
+    },
+    "89500974": {
+        "deprecated": false,
+        "Dev_Desc": "후유증 2단계",
+        "id": 89500974,
+        "alias": "Contents.Effect.Option.8123",
+        "text": "Resurrection health recovery -10%\\nResurrection history recovery -10%\\nPVE resurrection time +4 seconds\\nPVP resurrection time +2 seconds"
+    },
+    "89500975": {
+        "deprecated": false,
+        "Dev_Desc": "후유증 3단계",
+        "id": 89500975,
+        "alias": "Contents.Effect.Option.8124",
+        "text": "Resurrection health recovery -20%\\nResurrection history recovery -20%\\nPVE resurrection time +5 seconds\\nPVP resurrection time +3 seconds"
+    },
+    "89500976": {
+        "deprecated": false,
+        "Dev_Desc": "후유증 4단계",
+        "id": 89500976,
+        "alias": "Contents.Effect.Option.8125",
+        "text": "Resurrection health recovery -30%\\nResurrection history recovery -30%\\nPVE resurrection time +7 seconds\\nPVP resurrection time +4 seconds"
+    },
+    "89500977": {
+        "deprecated": false,
+        "Dev_Desc": "후유증 5단계",
+        "id": 89500977,
+        "alias": "Contents.Effect.Option.8126",
+        "text": "Resurrection Health Recovery -40%\\nResurrection History Recovery -40%\\nPVE Resurrection Time +10s\\nPVP Resurrection Time +5s"
+    },
+    "89500978": {
+        "deprecated": false,
+        "Dev_Desc": "후유증 1단계",
+        "id": 89500978,
+        "alias": "Contents.Effect.Detail.8122"
+    },
+    "89500979": {
+        "deprecated": false,
+        "Dev_Desc": "후유증 2단계",
+        "id": 89500979,
+        "alias": "Contents.Effect.Detail.8123"
+    },
+    "89500980": {
+        "deprecated": false,
+        "Dev_Desc": "후유증 3단계",
+        "id": 89500980,
+        "alias": "Contents.Effect.Detail.8124"
+    },
+    "89500981": {
+        "deprecated": false,
+        "Dev_Desc": "후유증 4단계",
+        "id": 89500981,
+        "alias": "Contents.Effect.Detail.8125"
+    },
+    "89500982": {
+        "deprecated": false,
+        "Dev_Desc": "후유증 5단계",
+        "id": 89500982,
+        "alias": "Contents.Effect.Detail.8126"
+    },
+    "89500983": {
+        "deprecated": false,
+        "Dev_Desc": "수라의 기운",
+        "id": 89500983,
+        "alias": "Contents.Effect.Name.70101183",
+        "text": "Sura's energy"
+    },
+    "89500984": {
+        "deprecated": false,
+        "Dev_Desc": "수라의 기운",
+        "id": 89500984,
+        "alias": "Contents.Effect.Desc.70101183",
+        "text": "increased combat ability"
+    },
+    "89500985": {
+        "deprecated": false,
+        "Dev_Desc": "수라의 기운",
+        "id": 89500985,
+        "alias": "Contents.Effect.Option.70101183",
+        "text": "EXP gain increase +30%\\nDefense +5\\nDefense +3\\nAttribute damage resistance +20%\\nControl resistance +3%\\nPVP defense +3"
+    },
+    "89500986": {
+        "deprecated": false,
+        "Dev_Desc": "수라의 기운",
+        "id": 89500986,
+        "alias": "Contents.Effect.Detail.70101183"
+    },
+    "89500987": {
+        "deprecated": false,
+        "Dev_Desc": "영지 만두",
+        "id": 89500987,
+        "alias": "Contents.Effect.Name.70101184",
+        "text": "Reishi Dumplings"
+    },
+    "89500988": {
+        "deprecated": false,
+        "Dev_Desc": "영지 만두",
+        "id": 89500988,
+        "alias": "Contents.Effect.Desc.70101184",
+        "text": "Attack power improvement: 4 steps"
+    },
+    "89500989": {
+        "deprecated": false,
+        "Dev_Desc": "영지 만두",
+        "id": 89500989,
+        "alias": "Contents.Effect.Option.70101184",
+        "text": "ATK +2\\nAccuracy +1\\nPenetration +3\\nExperience gain increase +3%\\nBasic attack speed +20%\\nHistory absolute regeneration +15"
+    },
+    "89500990": {
+        "deprecated": false,
+        "Dev_Desc": "영지 만두",
+        "id": 89500990,
+        "alias": "Contents.Effect.Detail.70101184",
+        "text": "Cannot be used by overlapping with the effects of using Youngsindan, Yongjeongcha, Wang Mandu, Pheasant Mandu, and Baeknyeoncho Mandu."
+    },
+    "89500991": {
+        "deprecated": false,
+        "Dev_Desc": "탄생의 비약(이벤트)",
+        "id": 89500991,
+        "alias": "Contents.Effect.Name.70101182",
+        "text": "Elixir of Birth"
+    },
+    "89500992": {
+        "deprecated": false,
+        "Dev_Desc": "탄생의 비약(이벤트)",
+        "id": 89500992,
+        "alias": "Contents.Effect.Desc.70101182",
+        "text": "Increases the amount of experience gained and combat ability"
+    },
+    "89500993": {
+        "deprecated": false,
+        "Dev_Desc": "탄생의 비약(이벤트)",
+        "id": 89500993,
+        "alias": "Contents.Effect.Option.70101182",
+        "text": "EXP gain increase +30%\\nSoul affinity +3\\nSoul activation rate +1%"
+    },
+    "89500994": {
+        "deprecated": false,
+        "Dev_Desc": "탄생의 비약(이벤트)",
+        "id": 89500994,
+        "alias": "Contents.Effect.Detail.70101182"
+    },
+    "89500995": {
+        "deprecated": false,
+        "Dev_Desc": "특제 집중의 녹용",
+        "id": 89500995,
+        "alias": "Contents.Effect.Name.70101185",
+        "text": "Deer antler of special concentration"
+    },
+    "89500996": {
+        "deprecated": false,
+        "Dev_Desc": "특제 집중의 녹용",
+        "id": 89500996,
+        "alias": "Contents.Effect.Desc.70101185",
+        "text": "increased hit ability"
+    },
+    "89500997": {
+        "deprecated": false,
+        "Dev_Desc": "특제 집중의 녹용",
+        "id": 89500997,
+        "alias": "Contents.Effect.Option.70101185",
+        "text": "PVE Hit +4"
+    },
+    "89500998": {
+        "deprecated": false,
+        "Dev_Desc": "특제 집중의 녹용",
+        "id": 89500998,
+        "alias": "Contents.Effect.Detail.70101185",
+        "text": "Cannot be used with concentration antler use effect."
+    },
+    "89500999": {
+        "deprecated": false,
+        "Dev_Desc": "영롱한 용봉탕(각인)",
+        "id": 89500999,
+        "alias": "Contents.Effect.Name.70101186",
+        "text": "Brilliant Yongbongtang"
+    },
+    "89501000": {
+        "deprecated": false,
+        "Dev_Desc": "영롱한 용봉탕(각인)",
+        "id": 89501000,
+        "alias": "Contents.Effect.Desc.70101186",
+        "text": "Increases the amount of experience gained and gold coins"
+    },
+    "89501001": {
+        "deprecated": false,
+        "Dev_Desc": "영롱한 용봉탕(각인)",
+        "id": 89501001,
+        "alias": "Contents.Effect.Option.70101186",
+        "text": "EXP gain increase +30%\\nGold coin gain +30%"
+    },
+    "89501002": {
+        "deprecated": false,
+        "Dev_Desc": "영롱한 용봉탕(각인)",
+        "id": 89501002,
+        "alias": "Contents.Effect.Detail.70101186"
+    },
+    "89501003": {
+        "deprecated": false,
+        "Dev_Desc": "해월의 정기",
+        "id": 89501003,
+        "alias": "Contents.Effect.Name.70101187",
+        "text": "regularity of the moon"
+    },
+    "89501004": {
+        "deprecated": false,
+        "Dev_Desc": "해월의 정기",
+        "id": 89501004,
+        "alias": "Contents.Effect.Desc.70101187",
+        "text": "increased combat ability"
+    },
+    "89501005": {
+        "deprecated": false,
+        "Dev_Desc": "해월의 정기",
+        "id": 89501005,
+        "alias": "Contents.Effect.Option.70101187",
+        "text": "EXP gain increase +30%\\nAttack power +3\\nDefense +3\\nPenetration +5\\nNon-air attack amplification +2%\\nControl hit +2%"
+    },
+    "89501006": {
+        "deprecated": false,
+        "Dev_Desc": "해월의 정기",
+        "id": 89501006,
+        "alias": "Contents.Effect.Detail.70101187"
+    },
+    "89501007": {
+        "deprecated": false,
+        "Dev_Desc": "애플민트맛 아이스크림(이벤트)",
+        "id": 89501007,
+        "alias": "Contents.Effect.Name.70101188",
+        "text": "Tochi's cool mint"
+    },
+    "89501008": {
+        "deprecated": false,
+        "Dev_Desc": "애플민트맛 아이스크림(이벤트)",
+        "id": 89501008,
+        "alias": "Contents.Effect.Desc.70101188",
+        "text": "Increases the amount of experience gained and combat ability"
+    },
+    "89501009": {
+        "deprecated": false,
+        "Dev_Desc": "애플민트맛 아이스크림(이벤트)",
+        "id": 89501009,
+        "alias": "Contents.Effect.Option.70101188",
+        "text": "Water property damage resistance +10%\\nPVE attack power +3\\nPVE accuracy +3\\nPVE defense +5\\nexperience gain +5%"
+    },
+    "89501010": {
+        "deprecated": false,
+        "Dev_Desc": "애플민트맛 아이스크림(이벤트)",
+        "id": 89501010,
+        "alias": "Contents.Effect.Detail.70101188"
+    },
+    "89501011": {
+        "deprecated": false,
+        "Dev_Desc": "수호의 기운(이벤트)",
+        "id": 89501011,
+        "alias": "Contents.Effect.Name.70101190",
+        "text": "Protective Energy (Event)"
+    },
+    "89501012": {
+        "deprecated": false,
+        "Dev_Desc": "수호의 기운(이벤트)",
+        "id": 89501012,
+        "alias": "Contents.Effect.Desc.70101190",
+        "text": "increased combat ability"
+    },
+    "89501013": {
+        "deprecated": false,
+        "Dev_Desc": "수호의 기운(이벤트)",
+        "id": 89501013,
+        "alias": "Contents.Effect.Option.70101190",
+        "text": "Defense +5\\nSelf Defense +3\\nAttribute Damage Resistance +20%\\nControl Resistance +3%"
+    },
+    "89501014": {
+        "deprecated": false,
+        "Dev_Desc": "수호의 기운(이벤트)",
+        "id": 89501014,
+        "alias": "Contents.Effect.Detail.70101190"
+    },
+    "89501015": {
+        "deprecated": false,
+        "Dev_Desc": "핫타임 존버프 - 희생의 무덤 쉬움 ",
+        "id": 89501015,
+        "alias": "Contents.Effect.Name.8128",
+        "text": "Call of Chloride Daeseong (First Line)"
+    },
+    "89501016": {
+        "deprecated": false,
+        "Dev_Desc": "핫타임 존버프 - 희생의 무덤 쉬움 ",
+        "id": 89501016,
+        "alias": "Contents.Effect.Desc.8128",
+        "text": "Hot Time Combat Ability Increase"
+    },
+    "89501017": {
+        "deprecated": false,
+        "Dev_Desc": "핫타임 존버프 - 희생의 무덤 쉬움 ",
+        "id": 89501017,
+        "alias": "Contents.Effect.Option.8128",
+        "text": "Attack +50\\nPenetration +15\\nDefense +40\\nAccuracy +25"
+    },
+    "89501018": {
+        "deprecated": false,
+        "Dev_Desc": "핫타임 존버프 - 희생의 무덤 쉬움 ",
+        "id": 89501018,
+        "alias": "Contents.Effect.Detail.8128"
+    },
+    "89501019": {
+        "deprecated": false,
+        "Dev_Desc": "핫타임 존버프 - 희생의 무덤 보통",
+        "id": 89501019,
+        "alias": "Contents.Effect.Name.8129",
+        "text": "Call of Chloride Great (Normal)"
+    },
+    "89501020": {
+        "deprecated": false,
+        "Dev_Desc": "핫타임 존버프 - 희생의 무덤 보통",
+        "id": 89501020,
+        "alias": "Contents.Effect.Desc.8129",
+        "text": "Hot Time Combat Ability Increase"
+    },
+    "89501021": {
+        "deprecated": false,
+        "Dev_Desc": "핫타임 존버프 - 희생의 무덤 보통",
+        "id": 89501021,
+        "alias": "Contents.Effect.Option.8129",
+        "text": "ATK +40\\nPenetration +15\\nDefense +30\\nAccuracy +20"
+    },
+    "89501022": {
+        "deprecated": false,
+        "Dev_Desc": "핫타임 존버프 - 희생의 무덤 보통",
+        "id": 89501022,
+        "alias": "Contents.Effect.Detail.8129"
+    },
+    "89501023": {
+        "deprecated": false,
+        "Dev_Desc": "핫타임 존버프 - 희생의 무덤 어려움",
+        "id": 89501023,
+        "alias": "Contents.Effect.Name.8130",
+        "text": "Call of Chloride Great (Hard)"
+    },
+    "89501024": {
+        "deprecated": false,
+        "Dev_Desc": "핫타임 존버프 - 희생의 무덤 어려움",
+        "id": 89501024,
+        "alias": "Contents.Effect.Desc.8130",
+        "text": "Hot Time Combat Ability Increase"
+    },
+    "89501025": {
+        "deprecated": false,
+        "Dev_Desc": "핫타임 존버프 - 희생의 무덤 어려움",
+        "id": 89501025,
+        "alias": "Contents.Effect.Option.8130",
+        "text": "Attack +35\\nPenetration +10\\nDefense +25\\nAccuracy +20"
+    },
+    "89501026": {
+        "deprecated": false,
+        "Dev_Desc": "핫타임 존버프 - 희생의 무덤 어려움",
+        "id": 89501026,
+        "alias": "Contents.Effect.Detail.8130"
+    },
+    "89501027": {
+        "deprecated": false,
+        "Dev_Desc": "핫타임 존버프 - 바다뱀 보급기지 쉬움 ",
+        "id": 89501027,
+        "alias": "Contents.Effect.Name.8131",
+        "text": "Invitation of Saturation Lan (first row)"
+    },
+    "89501028": {
+        "deprecated": false,
+        "Dev_Desc": "핫타임 존버프 - 바다뱀 보급기지 쉬움 ",
+        "id": 89501028,
+        "alias": "Contents.Effect.Desc.8131",
+        "text": "Hot Time Combat Ability Increase"
+    },
+    "89501029": {
+        "deprecated": false,
+        "Dev_Desc": "핫타임 존버프 - 바다뱀 보급기지 쉬움 ",
+        "id": 89501029,
+        "alias": "Contents.Effect.Option.8131",
+        "text": "Attack +50\\nPenetration +15\\nDefense +40\\nAccuracy +25"
+    },
+    "89501030": {
+        "deprecated": false,
+        "Dev_Desc": "핫타임 존버프 - 바다뱀 보급기지 쉬움 ",
+        "id": 89501030,
+        "alias": "Contents.Effect.Detail.8131"
+    },
+    "89501031": {
+        "deprecated": false,
+        "Dev_Desc": "핫타임 존버프 - 바다뱀 보급기지 보통",
+        "id": 89501031,
+        "alias": "Contents.Effect.Name.8132",
+        "text": "Invitation from Sauraran (Normal)"
+    },
+    "89501032": {
+        "deprecated": false,
+        "Dev_Desc": "핫타임 존버프 - 바다뱀 보급기지 보통",
+        "id": 89501032,
+        "alias": "Contents.Effect.Desc.8132",
+        "text": "Hot Time Combat Ability Increase"
+    },
+    "89501033": {
+        "deprecated": false,
+        "Dev_Desc": "핫타임 존버프 - 바다뱀 보급기지 보통",
+        "id": 89501033,
+        "alias": "Contents.Effect.Option.8132",
+        "text": "ATK +40\\nPenetration +15\\nDefense +30\\nAccuracy +20"
+    },
+    "89501034": {
+        "deprecated": false,
+        "Dev_Desc": "핫타임 존버프 - 바다뱀 보급기지 보통",
+        "id": 89501034,
+        "alias": "Contents.Effect.Detail.8132"
+    },
+    "89501035": {
+        "deprecated": false,
+        "Dev_Desc": "핫타임 존버프 - 바다뱀 보급기지 어려움",
+        "id": 89501035,
+        "alias": "Contents.Effect.Name.8133",
+        "text": "Invitation of Saturation Lan (Hard)"
+    },
+    "89501036": {
+        "deprecated": false,
+        "Dev_Desc": "핫타임 존버프 - 바다뱀 보급기지 어려움",
+        "id": 89501036,
+        "alias": "Contents.Effect.Desc.8133",
+        "text": "Hot Time Combat Ability Increase"
+    },
+    "89501037": {
+        "deprecated": false,
+        "Dev_Desc": "핫타임 존버프 - 바다뱀 보급기지 어려움",
+        "id": 89501037,
+        "alias": "Contents.Effect.Option.8133",
+        "text": "Attack +35\\nPenetration +10\\nDefense +25\\nAccuracy +20"
+    },
+    "89501038": {
+        "deprecated": false,
+        "Dev_Desc": "핫타임 존버프 - 바다뱀 보급기지 어려움",
+        "id": 89501038,
+        "alias": "Contents.Effect.Detail.8133"
+    },
+    "89501039": {
+        "deprecated": false,
+        "Dev_Desc": "핫타임 존버프 - 바다뱀 보급기지 어려움",
+        "id": 89501039,
+        "alias": "Contents.Effect.Name.8134",
+        "text": "Call of Chloride Daeseong (Sura)"
+    },
+    "89501040": {
+        "deprecated": false,
+        "Dev_Desc": "핫타임 존버프 - 바다뱀 보급기지 어려움",
+        "id": 89501040,
+        "alias": "Contents.Effect.Desc.8134",
+        "text": "Hot Time Combat Ability Increase"
+    },
+    "89501041": {
+        "deprecated": false,
+        "Dev_Desc": "핫타임 존버프 - 바다뱀 보급기지 어려움",
+        "id": 89501041,
+        "alias": "Contents.Effect.Option.8134",
+        "text": "Attack +30\\nPenetration +10\\nDefense +10\\nAccuracy +15"
+    },
+    "89501042": {
+        "deprecated": false,
+        "Dev_Desc": "핫타임 존버프 - 바다뱀 보급기지 어려움",
+        "id": 89501042,
+        "alias": "Contents.Effect.Detail.8134"
     }
 }

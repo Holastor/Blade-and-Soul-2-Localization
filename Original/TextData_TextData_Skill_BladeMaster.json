@@ -480,7 +480,7 @@
         "Dev_Desc": "하늘베기",
         "id": 60010068,
         "alias": "Contents.Skill.Desc.LongSword.1041",
-        "text": "적에게 접근하여 최대 3명의 적을 공격합니다.\n사용 중 통제 상태에 면역이 됩니다.\n일정 확률로 <textColor=[248:99:99:255]>공중</> 효과를 부여합니다."
+        "text": "적을 하늘로 띄워 강력한 연속 공격을 사용합니다.\n일정 확률로 최대 5인까지 <textColor=[248:99:99:255]>공중</>, <textColor=[248:99:99:255]>어검징표</> 효과를 부여합니다.\n막기 중인 대상을 일정 확률로 관통해 <textColor=[248:99:99:255]>기절</>시킵니다.\n사용 중 <textColor=[248:99:99:255]>통제</>, <textColor=[248:99:99:255]>빙결</>, <textColor=[248:99:99:255]>도발</>, <textColor=[248:99:99:255]>침묵</>, <textColor=[248:99:99:255]>행동불능</> 효과로 무공이 저지되지 않습니다."
     },
     "60010069": {
         "deprecated": false,
@@ -844,14 +844,14 @@
         "Dev_Desc": "휘몰아치기_스킬",
         "id": 60010120,
         "alias": "Contents.Skill.Desc.LongSword.1808",
-        "text": "기세를 올려 공격을 몰아칩니다.\n무공 명중 시, 일정 확률로 10초간 <textColor=[136:161:235:255]>휘몰아치기</> 효과를 얻습니다.\n<textColor=[136:161:235:255]>휘몰아치기</> 중 무공 공격 속도가 증가합니다.\n최대 5회까지 중첩됩니다."
+        "text": "기세를 올려 공격을 몰아칩니다.\n무공 명중 시, 일정 확률로 10초간 <textColor=[136:161:235:255]>휘몰아치기</> 효과를 얻습니다.\n<textColor=[136:161:235:255]>휘몰아치기</> 중 무공 공격 속도가 증가합니다.\n최대 5회까지 중첩됩니다.\n외공 공격력이 증가합니다."
     },
     "60010121": {
         "deprecated": false,
         "Dev_Desc": "휘몰아치기_스킬",
         "id": 60010121,
         "alias": "Contents.Skill.useEffect.LongSword.1808",
-        "text": "무공 공격 속도 +5%"
+        "text": "무공 공격 속도 +5%, 외공 공격력 +5"
     },
     "60010122": {
         "deprecated": false,
@@ -880,5 +880,33 @@
         "id": 60010125,
         "alias": "Contents.Skill.Desc.LongSword.1810",
         "text": "보스 몬스터에게 \"올려베기[극한]\", \"올려베기[돌파]\", \"번개베기[돌파]\" 공격 시 확정 연계 공격을 합니다."
+    },
+    "60010126": {
+        "deprecated": false,
+        "Dev_Desc": "공중, 어검징표",
+        "id": 60010126,
+        "alias": "Contents.Skill.useEffect.LongSword.1900",
+        "text": "공중, 어검징표"
+    },
+    "60010127": {
+        "deprecated": false,
+        "Dev_Desc": "격검",
+        "id": 60010127,
+        "alias": "Contents.Skill.Name.LongSword.1811",
+        "text": "격검"
+    },
+    "60010128": {
+        "deprecated": false,
+        "Dev_Desc": "격검",
+        "id": 60010128,
+        "alias": "Contents.Skill.Desc.LongSword.1811",
+        "text": "검을 사용한 전투에 숙달합니다.\n검 공격력과 외공 명중이 증가합니다."
+    },
+    "60010129": {
+        "deprecated": false,
+        "Dev_Desc": "격검",
+        "id": 60010129,
+        "alias": "Contents.Skill.useEffect.LongSword.1811",
+        "text": "검 공격력 +8, 외공 명중 +4"
     }
 }

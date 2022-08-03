@@ -1282,7 +1282,8 @@
         "deprecated": false,
         "Dev_Desc": "살우",
         "id": 97100184,
-        "alias": "Contents.Item.Desc.9100552"
+        "alias": "Contents.Item.Desc.9100552",
+        "text": "하늘로 도약해 최대 5명의 적에게 화살 폭풍을 퍼부어 일정 확률로 기절시킵니다.\n기절 효과를 해제할 수 있으며 치명타 시 활 공격력을 증가시키는 명사수 효과를 2초간 적용받습니다.\n막기 중인 대상을 일정 확률로 관통해 기절시킵니다.\n사용 중 최종 회피율이 증가하며 통제, 빙결, 도발, 침묵, 행동불능 효과로 무공이 저지되지 않습니다."
     },
     "97100185": {
         "deprecated": false,
@@ -2788,5 +2789,68 @@
         "id": 97100400,
         "alias": "Contents.Item.Desc.9100751",
         "text": "Detonates the power of darkness to stun nearby enemies.\\nSlows a dagger with dark energy to inflict fatal attacks on up to 3 enemies.\\nImmune to control status while in use.\\nStandby time for stealth initializes."
+    },
+    "97100401": {
+        "deprecated": false,
+        "Dev_Desc": "이해",
+        "id": 97100401,
+        "alias": "Contents.Item.Desc.9100853",
+        "text": "Gain understanding of the laws of nature.\\n\\n[Effect]\\nSoul activation rate +1%\\nAttribute attack amplification +30%\\nNon-attack amplification +3%"
+    },
+    "97100402": {
+        "deprecated": false,
+        "Dev_Desc": "구국간성",
+        "id": 97100402,
+        "alias": "Contents.Item.Desc.9100854",
+        "text": "You gain the heroic vitality of the Salvation Army.\\n\\n[Effect]\\nDefense +8\\nAttribute damage resistance +15%\\nEnemy's Soul Deterrence +2%"
+    },
+    "97100403": {
+        "deprecated": false,
+        "Dev_Desc": "격검",
+        "id": 97100403,
+        "alias": "Contents.Item.Desc.9100145",
+        "text": "Mastery in combat using swords.\\n\\n[Effect]\\nSword attack power +8\\nExercise accuracy +4"
+    },
+    "97100404": {
+        "deprecated": false,
+        "Dev_Desc": "혼신",
+        "id": 97100404,
+        "alias": "Contents.Item.Desc.9100247",
+        "text": "I put all my energy into every movement.\\n\\n[Effect]\\nHand armor +8\\nOuter air accuracy +4"
+    },
+    "97100405": {
+        "deprecated": false,
+        "Dev_Desc": "징벌",
+        "id": 97100405,
+        "alias": "Contents.Item.Desc.9100345",
+        "text": "Punishes evil with righteous will and strength.\\n\\n[Effect]\\nAx attack power +8\\nExercise accuracy +4"
+    },
+    "97100406": {
+        "deprecated": false,
+        "Dev_Desc": "혁작",
+        "id": 97100406,
+        "alias": "Contents.Item.Desc.9100445",
+        "text": "Creates an aggressive energy like red flames\\n\\n[Effect]\\nQigong attack power +8\\nQigong hit +4"
+    },
+    "97100407": {
+        "deprecated": false,
+        "Dev_Desc": "철궁",
+        "id": 97100407,
+        "alias": "Contents.Item.Desc.9100547",
+        "text": "Pulls the bow with firm and unshakable determination.\\n\\n[Effect]\\nBow attack power +8\\ntechnique accuracy +4"
+    },
+    "97100408": {
+        "deprecated": false,
+        "Dev_Desc": "폭음",
+        "id": 97100408,
+        "alias": "Contents.Item.Desc.9100647",
+        "text": "Destroys enemies with explosive sound.\\n\\n[Effect]\\nDefense Attack +8\\nQigong Accuracy +4"
+    },
+    "97100409": {
+        "deprecated": false,
+        "Dev_Desc": "암수",
+        "id": 97100409,
+        "alias": "Contents.Item.Desc.9100748",
+        "text": "Attacks with a sudden, sudden movement.\\n\\n[Effect]\\nDagger Attack +8\\nTechnology Accuracy +4"
     }
 }

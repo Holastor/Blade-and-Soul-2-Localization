@@ -2832,33 +2832,33 @@
         "alias": "Contents.Item.Desc.4206407",
         "text": " Increases ranged dodge by 1 for every 1/4/7 boost\n every 2/5/8 boosts increases qigong dodge by 1\n every 3/6/9 boost increases melee dodge by 1"
     },
-    "94207408": {
+    "94107405": {
         "deprecated": false,
         "Dev_Desc": "숲의 가호",
-        "id": 94207408,
+        "id": 94107405,
         "alias": "Contents.Item.Desc.4107405",
-        "text": " Increases ranged dodge by 1 for every 1/4/7 boost\n every 2/5/8 boosts increases qigong dodge by 1\n every 3/6/9 boost increases melee dodge by 1"
+        "text": "Each +1/4/7 reinforcement increases dexterity evasion by +1\\n+2/5/8 reinforcement increases qi evasion by +1\\n+3/6/9 reinforcement increases dexterity evasion by +1"
     },
-    "94208409": {
+    "94107406": {
         "deprecated": false,
         "Dev_Desc": "붉은 노을",
-        "id": 94208409,
+        "id": 94107406,
         "alias": "Contents.Item.Desc.4107406",
-        "text": " Increases ranged dodge by 1 for every 1/4/7 boost\n every 2/5/8 boosts increases qigong dodge by 1\n every 3/6/9 boost increases melee dodge by 1"
+        "text": "Each +1/4/7 reinforcement increases dexterity evasion by +1\\n+2/5/8 reinforcement increases qi evasion by +1\\n+3/6/9 reinforcement increases dexterity evasion by +1"
     },
-    "94209410": {
+    "94207405": {
         "deprecated": false,
         "Dev_Desc": "숲의 가호(각인)",
-        "id": 94209410,
+        "id": 94207405,
         "alias": "Contents.Item.Desc.4207405",
-        "text": "Can be obtained by [Crafting].\n\n Increases ranged dodge by 1 for every 1/4/7 enhancement\n Increases Qigong dodge by 1 for every 2/5/8 enhancement\n\n increases melee dodge by 1 for every 3/6/9 enhancement "
+        "text": "It can be obtained from [Crafting].\\n\\n+1/4/7 Technological Evasion increases by +1 for every enhancement\\n+2/5/8 Technological Evasion increases by +1 for every enhancement\\n+3/6/ Increases evasion evasion by +1 for every 9 enhancement"
     },
-    "94210411": {
+    "94207406": {
         "deprecated": false,
         "Dev_Desc": "붉은 노을(각인)",
-        "id": 94210411,
+        "id": 94207406,
         "alias": "Contents.Item.Desc.4207406",
-        "text": " Increases ranged dodge by 1 for every 1/4/7 boost\n every 2/5/8 boosts increases qigong dodge by 1\n every 3/6/9 boost increases melee dodge by 1"
+        "text": "Can be obtained from [Tomb of Sacrifice].\\n\\n+1/4/7 Technique Evasion increases by +1 for every upgrade\\n+2/5/8 Technological Evasion increases by +1 for every upgrade\\n+3/ For every 6/9 enhancement, evasion evasion increases by +1."
     },
     "94101604": {
         "deprecated": false,
@@ -3518,12 +3518,12 @@
         "alias": "Contents.Item.Desc.4208601",
         "text": "Range self-defense increases by 1 for every 1/4/7 boost \\n Qigong self-defense increases by 1 for every 2/5/8 boost \\n Close-range self-defense increases by 1 every 3/6/9 boost"
     },
-    "94209604": {
+    "94206410": {
         "deprecated": false,
-        "Dev_Desc": "물의 향기(각인)",
-        "id": 94209604,
-        "alias": "Contents.Item.Desc.4209604",
-        "text": "Can be obtained from [Half Moon Lake of Blessing]."
+        "Dev_Desc": "거룩한 흉갑(이벤트)",
+        "id": 94206410,
+        "alias": "Contents.Item.Desc.4206410",
+        "text": "It can be obtained from [Half Moon Lake of Blessing]."
     },
     "94301604": {
         "deprecated": false,
@@ -3597,40 +3597,40 @@
         "id": 94302603,
         "alias": "Contents.Item.Desc.4302603"
     },
-    "94209605": {
+    "94301603": {
         "deprecated": false,
         "Dev_Desc": "침식된 하얀 인도자",
-        "id": 94209605,
+        "id": 94301603,
         "alias": "Contents.Item.Desc.4301603"
     },
-    "94209606": {
+    "94304601": {
         "deprecated": false,
         "Dev_Desc": "침식된 고목의 줄기",
-        "id": 94209606,
+        "id": 94304601,
         "alias": "Contents.Item.Desc.4304601"
     },
-    "94209607": {
+    "94303602": {
         "deprecated": false,
         "Dev_Desc": "침식된 교룡의 분노",
-        "id": 94209607,
+        "id": 94303602,
         "alias": "Contents.Item.Desc.4303602"
     },
-    "94209608": {
+    "94305603": {
         "deprecated": false,
         "Dev_Desc": "침식된 바람의 산책",
-        "id": 94209608,
+        "id": 94305603,
         "alias": "Contents.Item.Desc.4305603"
     },
-    "94209609": {
+    "94306602": {
         "deprecated": false,
         "Dev_Desc": "침식된 요괴의 껍질",
-        "id": 94209609,
+        "id": 94306602,
         "alias": "Contents.Item.Desc.4306602"
     },
-    "94209610": {
+    "94302602": {
         "deprecated": false,
         "Dev_Desc": "침식된 명왕의 선고",
-        "id": 94209610,
+        "id": 94302602,
         "alias": "Contents.Item.Desc.4302602"
     },
     "94109001": {
@@ -3694,6 +3694,13 @@
         "id": 94209603,
         "alias": "Contents.Item.Desc.4209603",
         "text": "\"\""
+    },
+    "94209604": {
+        "deprecated": false,
+        "Dev_Desc": "물의 향기(각인)",
+        "id": 94209604,
+        "alias": "Contents.Item.Desc.4209604",
+        "text": "Can be obtained from [Half Moon Lake of Blessing]."
     },
     "94102605": {
         "deprecated": false,
@@ -3884,40 +3891,40 @@
         "alias": "Contents.Item.Desc.4209405",
         "text": "You can acquire from the grave of sacrifice. \\n\\n 5 to PVE attack power Addition \\n 6 to PVV"
     },
-    "94301603": {
+    "94209605": {
         "deprecated": false,
         "Dev_Desc": "낡은 염화의 향낭(각인)",
-        "id": 94301603,
+        "id": 94209605,
         "alias": "Contents.Item.Desc.4209605",
-        "text": "You can acquire from the grave of sacrifice. \\n\\n 5 to PVE attack power from the rising upward \\n 6 to PVV"
+        "text": "[희생의 무덤]에서 획득할 수 있습니다.\n\n+5부터 PVE 공격력 추가 상승\n+6부터 PVE 명중 추가 상승\n+7부터 PVE 호신 추가"
     },
-    "94304601": {
+    "94209606": {
         "deprecated": false,
         "Dev_Desc": "평범한 염화의 향낭(각인)",
-        "id": 94304601,
+        "id": 94209606,
         "alias": "Contents.Item.Desc.4209606",
-        "text": "You can acquire from the grave of sacrifice. \\n\\n 5 to PVE attack power from the rising upward \\n 6 to PVV"
+        "text": "[희생의 무덤]에서 획득할 수 있습니다.\n\n+5부터 PVE 공격력 추가 상승\n+6부터 PVE 명중 추가 상승\n+7부터 PVE 호신 추가"
     },
-    "94303602": {
+    "94209607": {
         "deprecated": false,
         "Dev_Desc": "빛나는 염화의 향낭(각인)",
-        "id": 94303602,
+        "id": 94209607,
         "alias": "Contents.Item.Desc.4209607",
-        "text": "You can acquire from the grave of sacrifice. \\n\\n 5 to PVE attack power from the rising upward \\n 6 to PVV"
+        "text": "[희생의 무덤]에서 획득할 수 있습니다.\n\n+5부터 PVE 공격력 추가 상승\n+6부터 PVE 명중 추가 상승\n+7부터 PVE 호신 추가"
     },
-    "94305603": {
+    "94209608": {
         "deprecated": false,
         "Dev_Desc": "찬란한 염화의 향낭(각인)",
-        "id": 94305603,
+        "id": 94209608,
         "alias": "Contents.Item.Desc.4209608",
-        "text": "You can acquire from the grave of sacrifice. \\n\\n 5 to PVE attack power from the rising upward \\n 6 to PVV"
+        "text": "[희생의 무덤]에서 획득할 수 있습니다.\n\n+5부터 PVE 공격력 추가 상승\n+6부터 PVE 명중 추가 상승\n+7부터 PVE 호신 추가"
     },
-    "94306602": {
+    "94209609": {
         "deprecated": false,
         "Dev_Desc": "영롱한 염화의 향낭(각인)",
-        "id": 94306602,
+        "id": 94209609,
         "alias": "Contents.Item.Desc.4209609",
-        "text": "You can acquire from the grave of sacrifice. \\n\\n 5 to PVE attack power from the rising upward \\n 6 to PVV"
+        "text": "[희생의 무덤]에서 획득할 수 있습니다.\n\n+5부터 PVE 공격력 추가 상승\n+6부터 PVE 명중 추가 상승\n+7부터 PVE 호신 추가"
     },
     "94103605": {
         "deprecated": false,
@@ -3960,5 +3967,166 @@
         "id": 94203607,
         "alias": "Contents.Item.Desc.4203607",
         "text": "[Unique Enhancement Effect]\\n+6 Enhancement Penetration +8\\n\\n[Regional Enhancement Effect]\\nAdditional increase in potion recovery when +4 enhancement\\nAdditional increase in potion recovery when strengthening +6\\n+8 enhancement Additional increase in potion recovery when potion is added\\n\\n[Rank Enhancement Effect]\\nAdditional increase in absolute regeneration when +5 is enhanced\\nAdditional increase in absolute regeneration in HP when strengthening to +7\\nAdditional additional increase in absolute regeneration in HP when strengthening to +9"
+    },
+    "94106605": {
+        "deprecated": false,
+        "Dev_Desc": "태초의 여명",
+        "id": 94106605,
+        "alias": "Contents.Item.Desc.4106605",
+        "text": "[Unique Enhancement Effect]\\n+6 Enhanced Critical Resistance +5%\\n\\n[Regional Enhanced Effect]\\n+4 Enhanced Additional Increases Critical Resistance\\n+6 Enhances Additional Critical Resistance Increase\\n+8 Enhance Additional increase in Critical Resistance\\n\\n[Rank Enhancement Effect]\\nAdditional increase in accuracy when strengthening by +5\\nAdditional increase in accuracy when strengthening by +7\\nAdditional increase in accuracy when strengthening by +9"
+    },
+    "94106606": {
+        "deprecated": false,
+        "Dev_Desc": "태초의 등불",
+        "id": 94106606,
+        "alias": "Contents.Item.Desc.4106606",
+        "text": "[Unique Enhancement Effect]\\n+6 Enhanced Critical Resistance +5%\\n\\n[Regional Enhanced Effect]\\n+4 Enhanced Additional Increases Critical Resistance\\n+6 Enhances Additional Critical Resistance Increase\\n+8 Enhance Additional increase in Critical Resistance\\n\\n[Rank Enhancement Effect]\\nAdditional increase in accuracy when strengthening by +5\\nAdditional increase in accuracy when strengthening by +7\\nAdditional increase in accuracy when strengthening by +9"
+    },
+    "94106607": {
+        "deprecated": false,
+        "Dev_Desc": "태초의 희망",
+        "id": 94106607,
+        "alias": "Contents.Item.Desc.4106607",
+        "text": "[Unique Enhancement Effect]\\n+6 Enhanced Critical Resistance +5%\\n\\n[Regional Enhanced Effect]\\n+4 Enhanced Additional Increases Critical Resistance\\n+6 Enhances Additional Critical Resistance Increase\\n+8 Enhance Additional increase in Critical Resistance\\n\\n[Rank Enhancement Effect]\\nAdditional increase in accuracy when strengthening by +5\\nAdditional increase in accuracy when strengthening by +7\\nAdditional increase in accuracy when strengthening by +9"
+    },
+    "94206605": {
+        "deprecated": false,
+        "Dev_Desc": "태초의 여명(각인)",
+        "id": 94206605,
+        "alias": "Contents.Item.Desc.4206605",
+        "text": "[Unique Enhancement Effect]\\n+6 Enhanced Critical Resistance +5%\\n\\n[Regional Enhanced Effect]\\n+4 Enhanced Additional Increases Critical Resistance\\n+6 Enhances Additional Critical Resistance Increase\\n+8 Enhance Additional increase in Critical Resistance\\n\\n[Rank Enhancement Effect]\\nAdditional increase in accuracy when strengthening by +5\\nAdditional increase in accuracy when strengthening by +7\\nAdditional increase in accuracy when strengthening by +9"
+    },
+    "94206606": {
+        "deprecated": false,
+        "Dev_Desc": "태초의 등불(각인)",
+        "id": 94206606,
+        "alias": "Contents.Item.Desc.4206606",
+        "text": "[Unique Enhancement Effect]\\n+6 Enhanced Critical Resistance +5%\\n\\n[Regional Enhanced Effect]\\n+4 Enhanced Additional Increases Critical Resistance\\n+6 Enhances Additional Critical Resistance Increase\\n+8 Enhance Additional increase in Critical Resistance\\n\\n[Rank Enhancement Effect]\\nAdditional increase in accuracy when strengthening by +5\\nAdditional increase in accuracy when strengthening by +7\\nAdditional increase in accuracy when strengthening by +9"
+    },
+    "94206607": {
+        "deprecated": false,
+        "Dev_Desc": "태초의 희망(각인)",
+        "id": 94206607,
+        "alias": "Contents.Item.Desc.4206607",
+        "text": "[Unique Enhancement Effect]\\n+6 Enhanced Critical Resistance +5%\\n\\n[Regional Enhanced Effect]\\n+4 Enhanced Additional Increases Critical Resistance\\n+6 Enhances Additional Critical Resistance Increase\\n+8 Enhance Additional increase in Critical Resistance\\n\\n[Rank Enhancement Effect]\\nAdditional increase in accuracy when strengthening by +5\\nAdditional increase in accuracy when strengthening by +7\\nAdditional increase in accuracy when strengthening by +9"
+    },
+    "94109411": {
+        "deprecated": false,
+        "Dev_Desc": "평범한 파도의 향낭",
+        "id": 94109411,
+        "alias": "Contents.Item.Desc.4109411",
+        "text": "It can be obtained at [Sea Snake Supply Base].\\n\\nAdditional increase in PVE attack power from +5\\nadditional increase in penetration from +6"
+    },
+    "94109414": {
+        "deprecated": false,
+        "Dev_Desc": "영롱한 파도의 향낭",
+        "id": 94109414,
+        "alias": "Contents.Item.Desc.4109414",
+        "text": "It can be obtained at [Sea Snake Supply Base].\\n\\nAdditional increase in PVE attack power from +5\\nadditional penetration from +6"
+    },
+    "94109614": {
+        "deprecated": false,
+        "Dev_Desc": "영롱한 폭풍의 향낭",
+        "id": 94109614,
+        "alias": "Contents.Item.Desc.4109614",
+        "text": "It can be obtained at [Sea Snake Supply Base].\\n\\nAdditional increase in PVE attack power from +5\\nAdditional increase in penetration power from +6\\nAdditional PVE defense from +7"
+    },
+    "94209410": {
+        "deprecated": false,
+        "Dev_Desc": "낡은 파도의 향낭(각인)",
+        "id": 94209410,
+        "alias": "Contents.Item.Desc.4209410",
+        "text": "Can be obtained by [Crafting].\n\n Increases ranged dodge by 1 for every 1/4/7 enhancement\n Increases Qigong dodge by 1 for every 2/5/8 enhancement\n\n increases melee dodge by 1 for every 3/6/9 enhancement "
+    },
+    "94209411": {
+        "deprecated": false,
+        "Dev_Desc": "평범한 파도의 향낭(각인)",
+        "id": 94209411,
+        "alias": "Contents.Item.Desc.4209411",
+        "text": "It can be obtained at [Sea Snake Supply Base].\\n\\nAdditional increase in PVE attack power from +5\\nadditional penetration from +6"
+    },
+    "94209412": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 파도의 향낭(각인)",
+        "id": 94209412,
+        "alias": "Contents.Item.Desc.4209412",
+        "text": "It can be obtained at [Sea Snake Supply Base].\\n\\nAdditional increase in PVE attack power from +5\\nadditional penetration from +6"
+    },
+    "94209413": {
+        "deprecated": false,
+        "Dev_Desc": "찬란한 파도의 향낭(각인)",
+        "id": 94209413,
+        "alias": "Contents.Item.Desc.4209413",
+        "text": "It can be obtained at [Sea Snake Supply Base].\\n\\nAdditional increase in PVE attack power from +5\\nadditional penetration from +6"
+    },
+    "94209414": {
+        "deprecated": false,
+        "Dev_Desc": "영롱한 파도의 향낭(각인)",
+        "id": 94209414,
+        "alias": "Contents.Item.Desc.4209414",
+        "text": "It can be obtained at [Sea Snake Supply Base].\\n\\nAdditional increase in PVE attack power from +5\\nadditional penetration from +6"
+    },
+    "94209610": {
+        "deprecated": false,
+        "Dev_Desc": "낡은 폭풍의 향낭(각인)",
+        "id": 94209610,
+        "alias": "Contents.Item.Desc.4209610",
+        "text": "[바다뱀 보급기지]에서 획득할 수 있습니다.\n\n+5부터 PVE 공격력 추가 상승\n+6부터 관통력 추가 상승\n+7부터 PVE 호신 추가"
+    },
+    "94209611": {
+        "deprecated": false,
+        "Dev_Desc": "평범한 폭풍의 향낭(각인)",
+        "id": 94209611,
+        "alias": "Contents.Item.Desc.4209611",
+        "text": "It can be obtained at [Sea Snake Supply Base].\\n\\nAdditional increase in PVE attack power from +5\\nAdditional increase in penetration power from +6\\nAdditional PVE defense from +7"
+    },
+    "94209612": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 폭풍의 향낭(각인)",
+        "id": 94209612,
+        "alias": "Contents.Item.Desc.4209612",
+        "text": "It can be obtained at [Sea Snake Supply Base].\\n\\nAdditional increase in PVE attack power from +5\\nAdditional increase in penetration power from +6\\nAdditional PVE defense from +7"
+    },
+    "94209613": {
+        "deprecated": false,
+        "Dev_Desc": "찬란한 폭풍의 향낭(각인)",
+        "id": 94209613,
+        "alias": "Contents.Item.Desc.4209613",
+        "text": "It can be obtained at [Sea Snake Supply Base].\\n\\nAdditional increase in PVE attack power from +5\\nAdditional increase in penetration power from +6\\nAdditional PVE defense from +7"
+    },
+    "94209614": {
+        "deprecated": false,
+        "Dev_Desc": "영롱한 폭풍의 향낭(각인)",
+        "id": 94209614,
+        "alias": "Contents.Item.Desc.4209614",
+        "text": "It can be obtained at [Sea Snake Supply Base].\\n\\nAdditional increase in PVE attack power from +5\\nAdditional increase in penetration power from +6\\nAdditional PVE defense from +7"
+    },
+    "94101499": {
+        "deprecated": false,
+        "Dev_Desc": "기능성 런닝 흉갑",
+        "id": 94101499,
+        "alias": "Contents.Item.Desc.4101499",
+        "text": "[Unique Enhancement Effect]\\n+6 Maximum weight +200 when enhanced"
+    },
+    "94102499": {
+        "deprecated": false,
+        "Dev_Desc": "일꾼의 장갑",
+        "id": 94102499,
+        "alias": "Contents.Item.Desc.4102499",
+        "text": "[Unique Enhancement Effect]\\n+6 Maximum weight +200 when enhanced"
+    },
+    "94104499": {
+        "deprecated": false,
+        "Dev_Desc": "공구 주머니 각반",
+        "id": 94104499,
+        "alias": "Contents.Item.Desc.4104499",
+        "text": "[Unique Enhancement Effect]\\n+6 Maximum weight +200 when enhanced"
+    },
+    "94105499": {
+        "deprecated": false,
+        "Dev_Desc": "철판 안전 신발",
+        "id": 94105499,
+        "alias": "Contents.Item.Desc.4105499",
+        "text": "[Unique Enhancement Effect]\\n+6 Maximum weight +200 when enhanced"
     }
 }

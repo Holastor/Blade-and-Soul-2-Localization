@@ -4,111 +4,552 @@
         "Dev_Desc": "행복의 주화(이벤트)",
         "id": 98000002,
         "alias": "Contents.Event.Item.Desc.9300525",
-        "text": "특별한 물품들을 제작할 수 있는 행복한 하루의 주화입니다."
+        "text": "A Coin of Happy Day that can be used to craft special items."
     },
     "98000003": {
         "deprecated": false,
         "Dev_Desc": "행복의 상자(이벤트)",
         "id": 98000003,
         "alias": "Contents.Event.Item.Desc.9300526",
-        "text": "사용 시 정해진 확률에 따라 다음 물품 중 1종을 획득할 수 있습니다.\n\n- 행복의 주화(이벤트) 5개\n- 행복의 주화(이벤트) 10개\n- 행복의 주화(이벤트) 15개\n- 행복의 주화(이벤트) 20개"
+        "text": "You can obtain 1 of the following items according to a set probability when used.\\n\\n- Happiness Coin (Event) 5ea\\n- Happiness Coin (Event) 10ea\\n- Happiness Coin (Event) 15 \\n- 20 Coins of Happiness (Event)"
     },
     "98000004": {
         "deprecated": false,
         "Dev_Desc": "행복의 별빛 가루 주머니(이벤트)",
         "id": 98000004,
         "alias": "Contents.Event.Item.Desc.9300527",
-        "text": "사용 시 정해진 확률에 따라 다음 물품 중 1종을 획득할 수 있습니다.\n\n- 별빛 가루(각인) 100개\n- 별빛 가루(각인) 200개\n- 별빛 가루(각인) 300개\n- 별빛 가루(각인) 400개\n- 별빛 가루(각인) 500개"
+        "text": "You can obtain one of the following items according to a set probability when used.\\n\\n- Starlight Powder (Imprint) 100ea\\n- Starlight Powder (Imprint) 200ea\\n- Starlight Powder (Imprint) 300ea\\ n- Starlight Powder (Imprint) 400pcs\\n- Starlight Powder (Imprint) 500ea"
     },
     "98000005": {
         "deprecated": false,
         "Dev_Desc": "행복의 비결 상자(이벤트)",
         "id": 98000005,
         "alias": "Contents.Event.Item.Desc.9300528",
-        "text": "사용 시 정해진 확률에 따라 다음 물품 중 1종을 획득할 수 있습니다.\n\n- 비결(각인) 50개\n- 비결(각인) 100개\n- 비결(각인) 150개\n- 비결(각인) 300개\n- 비결(각인) 400개"
+        "text": "You can obtain one of the following items according to a set probability when used.\\n\\n- Secret (Imprint) 50ea\\n- Secret (Imprint) 100ea\\n- Secret (Imprint) 150ea\\n- Secret (Imprint) 300 \\n- Secret (Imprint) 400"
     },
     "98000006": {
         "deprecated": false,
         "Dev_Desc": "행복의 황금달걀 상자(이벤트)",
         "id": 98000006,
         "alias": "Contents.Event.Item.Desc.9300529",
-        "text": "사용 시 정해진 확률에 따라 다음 물품 중 1종을 획득할 수 있습니다.\n\n- 황금 달걀(각인) 20개\n- 황금 달걀(각인) 30개\n- 황금 달걀(각인) 40개\n- 황금 달걀(각인) 50개\n- 황금 달걀(각인) 60개"
+        "text": "Depending on the probability of use, you can obtain one of the following items:\\n\\n- Golden Egg (Imprinted) 20ea\\n- Golden Egg (Imprinted) 30ea\\n- Golden Egg (Imprinted) 40ea\\ n- Golden Egg (Imprinted) 50pcs\\n- Golden Egg (Imprinted) 60ea"
     },
     "98000007": {
         "deprecated": false,
         "Dev_Desc": "어린이날 의상 선택 상자(이벤트)",
         "id": 98000007,
         "alias": "Contents.Event.Item.Desc.9300530",
-        "text": "사용 시 다음 물품 중 1종을 선택하여 획득할 수 있습니다.\n\n- 열정적인 레드 1개\n- 차분한 블루 1개\n- 온화한 그린 1개\n- 쾌활한 옐로우 1개\n- 다정한 핑크1개"
+        "text": "You can obtain one of the following items when used:\\n\\n- 1 Passionate Red\\n- Calm Blue 1x\\n- Gentle Green 1x\\n- Cheerful Yellow 1x\\n- Friendly 1 pink"
     },
     "98000008": {
         "deprecated": false,
         "Dev_Desc": "행복의 강화 주문서 선택 상자(이벤트)",
         "id": 98000008,
         "alias": "Contents.Event.Item.Desc.9300531",
-        "text": "사용 시 아래 물품 중 1종을 선택하여 획득할 수 있습니다.\n\n- 축복받은 무기 강화 주문서(이벤트) 1개\n- 축복받은 방어구 강화 주문서(이벤트) 1개\n- 축복받은 장신구 강화 주문서(이벤트) 1개\n- 저주받은 무기 강화 주문서(이벤트) 1개\n- 저주받은 방어구 강화 주문서(이벤트) 1개"
+        "text": "You can obtain one of the following items when using it.\\n\\n- Blessed Weapon Enhancement Scroll (Event) 1 x\\n- Blessed Armor Enhancement Scroll (Event) 1ea\\n- Blessed Accessory Enhancement 1 Scroll (event) \\n- Cursed Weapon Enhancement Scroll (Event) 1 \\n- Cursed Armor Enhancement Scroll (Event) 1 x"
     },
     "98000009": {
         "deprecated": false,
         "Dev_Desc": "행복의 정기 상자(이벤트)",
         "id": 98000009,
         "alias": "Contents.Event.Item.Desc.9300532",
-        "text": "사용 시 정해진 확률에 따라 다음 물품 중 1종을 획득할 수 있습니다.\n\n- 도인의 정기(각인) 1개\n- 도인의 정기(각인) 2개\n- 도인의 정기(각인) 3개\n- 도인의 정기(각인) 4개"
+        "text": "You can obtain one of the following items according to a set probability when used.\\n\\n- Doin's Spirit (Imprint) 1 x\\n- Doin's Spirit (Imprint) 2ea\\n- Doin's Spirit (Imprint) 3 pieces\\n- 4 pieces of swordsman's spirit (engraved)"
     },
     "98000010": {
         "deprecated": false,
         "Dev_Desc": "행복의 정수 상자(이벤트)",
         "id": 98000010,
         "alias": "Contents.Event.Item.Desc.9300533",
-        "text": "사용 시 정해진 확률에 따라 다음 물품 중 1종을 획득할 수 있습니다.\n\n- 돌파의 정수 파편(각인) 10개\n- 돌파의 정수 파편(각인) 20개\n- 돌파의 정수 파편(각인) 30개\n- 돌파의 정수 파편(각인) 40개\n- 돌파의 정수 파편(각인) 60개\n- 돌파의 정수 파편(각인) 80개"
+        "text": "When used, you can obtain one of the following items according to a set probability.\\n\\n- Breakthrough Essence Fragment (Imprint) 10ea\\n- Breakthrough Essence Fragment (Imprint) 20ea\\n- Breakthrough Essence Fragment (Imprint) 30ea\\n- Breakthrough Essence Fragment (Imprint) 40ea\\n- Breakthrough Essence Fragment (Imprint) 60ea\\n- Breakthrough Essence Fragment (Imprint) 80ea"
     },
     "98000011": {
         "deprecated": false,
         "Dev_Desc": "행복의 별빛 결정 상자(이벤트)",
         "id": 98000011,
         "alias": "Contents.Event.Item.Desc.9300534",
-        "text": "사용 시 정해진 확률에 따라 다음 물품 중 1종을 획득할 수 있습니다.\n\n- 별빛 결정(각인) 50개\n- 별빛 결정(각인) 60개\n- 별빛 결정(각인) 70개\n- 별빛 결정(각인) 80개\n- 별빛 결정(각인) 100개"
+        "text": "You can obtain one of the following items according to a set probability when used.\\n\\n- 50 Starlight Crystal (Imprinted)\\n- Starlight Crystal (Imprinted) 60ea\\n- Starlight Crystal (Imprinted) 70ea\\ n- Starlight Crystal (Imprinted) 80ea\\n- Starlight Crystal (Imprinted) 100ea"
     },
     "98000012": {
         "deprecated": false,
         "Dev_Desc": "짙은 심연의 무기 선택 상자(이벤트)_비수 포함",
         "id": 98000012,
         "alias": "Contents.Event.Item.Desc.9300535",
-        "text": "사용 시 다음 물품 중 1종을 선택하여 획득할 수 있습니다.\n\n- 짙은 심연의 검 1개\n- 짙은 심연의 권갑 1개\n- 짙은 심연의 도끼 1개\n- 짙은 심연의 기공패 1개\n- 짙은 심연의 장궁 1개\n- 짙은 심연의 법종 1개\n- 짙은 심연의 비수 1개"
+        "text": "You can obtain one of the following items when using it.\\n\\n- 1x Dark Abyss Sword\\n- 1x Dark Abyss Gauntlets\\n- 1x Dark Abyss Ax\\n- Dark Abyss 1 qigong tile\\n- 1x Longbow of the Dark Abyss\\n- 1x Bell of the Dark Abyss\\n- 1x Dagger of the Dark Abyss"
     },
     "98000013": {
         "deprecated": false,
         "Dev_Desc": "충전석: 행복의 반달호수(30분)(이벤트)",
         "id": 98000013,
         "alias": "Contents.Event.Item.Desc.9300536",
-        "text": "행복의 반달호수 던전 이용 시간을 충전합니다."
+        "text": "Recharges the time spent using the Half Moon Lake dungeon of happiness."
     },
     "98000014": {
         "deprecated": false,
         "Dev_Desc": "반달호수 행복의 협행 지원 상자(이벤트)",
         "id": 98000014,
         "alias": "Contents.Event.Item.Desc.9300537",
-        "text": "사용 시 반달호수 협행 보상 중 1종과 행복의 주화를 정해진 확률에 따라 획득할 수 있습니다.\n\n- 행복의 주화(이벤트) 5개\n- 행복의 주화(이벤트) 10개\n- 행복의 주화(이벤트) 15개\n- 행복의 주화(이벤트) 20개"
+        "text": "When used, you can obtain one of the Vandal Lake companion rewards and a Coin of Happiness according to a set probability.\\n\\n- Coin of Happiness (Event) 5ea\\n- Coin of Happiness (Event) 10ea\\n- 15 Coins of Happiness (Event)\\n- 20 Coins of Happiness (Event)"
     },
     "98000015": {
         "deprecated": false,
         "Dev_Desc": "태록림 행복의 협행 지원 상자(이벤트)",
         "id": 98000015,
         "alias": "Contents.Event.Item.Desc.9300538",
-        "text": "사용 시 태록림 협행 보상 중 1종과 행복의 주화를 정해진 확률에 따라 획득할 수 있습니다.\n\n- 행복의 주화(이벤트) 5개\n- 행복의 주화(이벤트) 10개\n- 행복의 주화(이벤트) 15개\n- 행복의 주화(이벤트) 20개"
+        "text": "When used, you can obtain 1 type of Taerokrim Compensation and a Coin of Happiness according to a set probability.\\n\\n- Coin of Happiness (Event) 5ea\\n- Coin of Happiness (Event) 10ea\\n- 15 Coins of Happiness (Event)\\n- 20 Coins of Happiness (Event)"
     },
     "98000016": {
         "deprecated": false,
         "Dev_Desc": "비옥대지 행복의 협행 지원 상자(이벤트)",
         "id": 98000016,
         "alias": "Contents.Event.Item.Desc.9300539",
-        "text": "사용 시 비옥대지 협행 보상 중 1종과 행복의 주화를 정해진 확률에 따라 획득할 수 있습니다.\n\n- 행복의 주화(이벤트) 5개\n- 행복의 주화(이벤트) 10개\n- 행복의 주화(이벤트) 15개\n- 행복의 주화(이벤트) 20개"
+        "text": "When used, you can obtain 1 of the Fertile Earth companion rewards and a Happy Coin according to a set probability.\\n\\n- Happiness Coin (Event) 5ea\\n- Happiness Coin (Event) 10ea\\n- 15 Coins of Happiness (Event)\\n- 20 Coins of Happiness (Event)"
     },
     "98000017": {
         "deprecated": false,
         "Dev_Desc": "해룡산맥 행복의 협행 지원 상자(이벤트)",
         "id": 98000017,
         "alias": "Contents.Event.Item.Desc.9300540",
-        "text": "사용 시 해룡산맥 협행 보상 중 1종과 행복의 주화를 정해진 확률에 따라 획득할 수 있습니다.\n\n- 행복의 주화(이벤트) 5개\n- 행복의 주화(이벤트) 10개\n- 행복의 주화(이벤트) 15개\n- 행복의 주화(이벤트) 20개"
+        "text": "When used, you can obtain 1 of the Haeryong Mountains co-op rewards and a Coin of Happiness at a set probability.\\n\\n- Coin of Happiness (Event) 5ea\\n- Coin of Happiness (Event) 10ea\\n- 15 Coins of Happiness (Event)\\n- 20 Coins of Happiness (Event)"
+    },
+    "98000018": {
+        "deprecated": false,
+        "Dev_Desc": "붉은 달의 상자",
+        "id": 98000018,
+        "alias": "Contents.Event.Item.Desc.9300562",
+        "text": "You can obtain all of the following items when used.\\n\\n- Sura's Hero Soul Summon Scroll (1 time) (event) 1 x\\n- Sura's Shining Soul Summon Scroll (11 times) (event) 3 x\\n - Shining Guardian Spirit of Sacrifice Summon Scroll (11 times) (event) x3"
+    },
+    "98000019": {
+        "deprecated": false,
+        "Dev_Desc": "붉은 달의 상자",
+        "id": 98000019,
+        "alias": "Contents.Event.Item.Desc.9300563",
+        "text": "You can obtain all of the following items when used.\\n\\n- Sura's Hero Soul Summon Scroll (1 time) (event) 1 x\\n- Sura's Shining Soul Summon Scroll (11 times) (event) 3 x\\n - Shining Guardian Spirit of Sacrifice Summon Scroll (11 times) (event) x3"
+    },
+    "98000020": {
+        "deprecated": false,
+        "Dev_Desc": "보옥 강화 주문서(이벤트)",
+        "id": 98000020,
+        "alias": "Contents.Event.Item.Desc.9300564",
+        "text": "A material used for strengthening.<br/>Normal: 1<br/>Blessing: 1-2<br/>Curse: -1"
+    },
+    "98000021": {
+        "deprecated": false,
+        "Dev_Desc": "축복받은 보옥 강화 주문서(이벤트)",
+        "id": 98000021,
+        "alias": "Contents.Event.Item.Desc.9300565",
+        "text": "A material used for strengthening.<br/>Normal: 1<br/>Blessing: 1-2<br/>Curse: -2"
+    },
+    "98000022": {
+        "deprecated": false,
+        "Dev_Desc": "저주받은 보옥 강화 주문서(이벤트)",
+        "id": 98000022,
+        "alias": "Contents.Event.Item.Desc.9300566",
+        "text": "A material used for strengthening.<br/>Normal: 1<br/>Blessing: 1-2<br/>Curse: -3"
+    },
+    "98000023": {
+        "deprecated": false,
+        "Dev_Desc": "설연화(이벤트)_220706",
+        "id": 98000023,
+        "alias": "Contents.Event.Item.Desc.9300567",
+        "text": "A rare herb found in the deep snowy mountains.\\nCharges the number of recovery from aftereffects once."
+    },
+    "98000024": {
+        "deprecated": false,
+        "Dev_Desc": "반달호수 붉은 달의 협행 지원 상자(이벤트)",
+        "id": 98000024,
+        "alias": "Contents.Event.Item.Desc.9300578",
+        "text": "When used, you can obtain 10 Red Moon Coins (events) and 1 of the Vandal Lake Compensation at a set probability."
+    },
+    "98000025": {
+        "deprecated": false,
+        "Dev_Desc": "태록림 붉은 달의 협행 지원 상자(이벤트)",
+        "id": 98000025,
+        "alias": "Contents.Event.Item.Desc.9300579",
+        "text": "When used, you can obtain 10 Red Moon Coins (events) and 1 of the Taerokrim Collaboration Rewards with a set probability."
+    },
+    "98000026": {
+        "deprecated": false,
+        "Dev_Desc": "비옥 대지 붉은 달의 협행 지원 상자(이벤트)",
+        "id": 98000026,
+        "alias": "Contents.Event.Item.Desc.9300580",
+        "text": "When used, you can obtain 10 Red Moon Coins (events) and 1 of Fertile Earth Combat Rewards with a set probability."
+    },
+    "98000027": {
+        "deprecated": false,
+        "Dev_Desc": "해룡 산맥 붉은 달의 협행 지원 상자(이벤트)",
+        "id": 98000027,
+        "alias": "Contents.Event.Item.Desc.9300581",
+        "text": "When used, you can obtain 10 Red Moon Coins (events) and 1 of the Sea Dragon Mountain Co-op rewards at a set probability."
+    },
+    "98000028": {
+        "deprecated": false,
+        "Dev_Desc": "생명의 수호령 소환서 제작 티켓",
+        "id": 98000028,
+        "alias": "Contents.Event.Item.Desc.9300590",
+        "text": "A material used to make various Guardian Spirit Summon Scrolls."
+    },
+    "98000029": {
+        "deprecated": false,
+        "Dev_Desc": "혼돈의 조각(각인)",
+        "id": 98000029,
+        "alias": "Contents.Event.Item.Desc.9300591",
+        "text": "A special material used in crafting."
+    },
+    "98000030": {
+        "deprecated": false,
+        "Dev_Desc": "붉은 달의 주화(이벤트)",
+        "id": 98000030,
+        "alias": "Contents.Event.Item.Desc.9300582",
+        "text": "A red moonlight coin that can be used to craft special items."
+    },
+    "98000031": {
+        "deprecated": false,
+        "Dev_Desc": "붉은 달의 별빛 가루 주머니(이벤트)",
+        "id": 98000031,
+        "alias": "Contents.Event.Item.Desc.9300583",
+        "text": "You can obtain one of the following items according to a set probability when used.\\n\\n- Starlight Powder (Imprint) 100ea\\n- Starlight Powder (Imprint) 200ea\\n- Starlight Powder (Imprint) 300ea\\ n- Starlight Powder (Imprint) 400pcs\\n- Starlight Powder (Imprint) 500ea"
+    },
+    "98000032": {
+        "deprecated": false,
+        "Dev_Desc": "붉은 달의 비결 상자(이벤트)",
+        "id": 98000032,
+        "alias": "Contents.Event.Item.Desc.9300584",
+        "text": "You can obtain one of the following items according to a set probability when used.\\n\\n- Secret (Imprint) 50ea\\n- Secret (Imprint) 100ea\\n- Secret (Imprint) 150ea\\n- Secret (Imprint) 300 \\n- Secret (Imprint) 400"
+    },
+    "98000033": {
+        "deprecated": false,
+        "Dev_Desc": "붉은 달의 황금달걀 상자(이벤트)  ",
+        "id": 98000033,
+        "alias": "Contents.Event.Item.Desc.9300585",
+        "text": "Depending on the probability of use, you can obtain one of the following items:\\n\\n- Golden Egg (Imprinted) 20ea\\n- Golden Egg (Imprinted) 30ea\\n- Golden Egg (Imprinted) 40ea\\ n- Golden Egg (Imprinted) 50pcs\\n- Golden Egg (Imprinted) 60ea"
+    },
+    "98000034": {
+        "deprecated": false,
+        "Dev_Desc": "붉은 달의 정수 파편 상자(이벤트)",
+        "id": 98000034,
+        "alias": "Contents.Event.Item.Desc.9300586",
+        "text": "Depending on the probability of use, you can obtain one of the following items:\\n\\n- Essence Fragment (Imprint) 20ea\\n- Essence Fragment (Imprint) 30ea\\n- Essence Fragment (Imprint) 40ea\\ n- Essence Fragment (Imprint) 50 x n- Essence Fragment (Imprint) 60 x"
+    },
+    "98000035": {
+        "deprecated": false,
+        "Dev_Desc": "붉은 달의 돌파의 정수 파편 상자(이벤트)",
+        "id": 98000035,
+        "alias": "Contents.Event.Item.Desc.9300587",
+        "text": "When used, you can obtain one of the following items according to a set probability.\\n\\n- Breakthrough Essence Fragment (Imprint) 10ea\\n- Breakthrough Essence Fragment (Imprint) 20ea\\n- Breakthrough Essence Fragment (Imprint) 30ea\\n- Breakthrough Essence Fragment (Imprint) 40ea\\n- Breakthrough Essence Fragment (Imprint) 60ea\\n- Breakthrough Essence Fragment (Imprint) 80ea"
+    },
+    "98000036": {
+        "deprecated": false,
+        "Dev_Desc": "붉은 달의 정기 상자(이벤트)",
+        "id": 98000036,
+        "alias": "Contents.Event.Item.Desc.9300588",
+        "text": "You can obtain one of the following items according to a set probability when used.\\n\\n- Doin's Spirit (Imprint) 1 x\\n- Doin's Spirit (Imprint) 2ea\\n- Doin's Spirit (Imprint) 3 pieces\\n- 4 pieces of swordsman's spirit (engraved)"
+    },
+    "98000037": {
+        "deprecated": false,
+        "Dev_Desc": "붉은 달의 강화 주문서 선택 상자(이벤트) ",
+        "id": 98000037,
+        "alias": "Contents.Event.Item.Desc.9300589",
+        "text": "You can obtain one of the following items when using it.\\n\\n- Blessed Weapon Enhancement Scroll (Event) 1 x\\n- Blessed Armor Enhancement Scroll (Event) 1ea\\n- Blessed Accessory Enhancement 1 Scroll (event) \\n- Cursed Weapon Enhancement Scroll (Event) 1 \\n- Cursed Armor Enhancement Scroll (Event) 1 x"
+    },
+    "98000038": {
+        "deprecated": false,
+        "Dev_Desc": "블랙의 선택 보패함(이벤트)",
+        "id": 98000038,
+        "alias": "Contents.Event.Item.Desc.9300601",
+        "text": "You can obtain it by selecting one of the items below.\\n\\n- Black Relic No. 1 (Engraved)\\n- Black Relic No. 2 (Engraved)\\n- Black Relic No. 3 (Engraved)\\n- Black jewel No. 4 (engraved)\\n- Black jewel No. 5 (engraved)\\n- Black jewel No. 6 (engraved)\\n- Black jewel No. 7 (engraved)\\n- Black jewel No. 8 (engraved)"
+    },
+    "98000039": {
+        "deprecated": false,
+        "Dev_Desc": "달빛의 증표",
+        "id": 98000039,
+        "alias": "Contents.Event.Item.Desc.9300602",
+        "text": "A special material used in the Equipment Encyclopedia"
+    },
+    "98000040": {
+        "deprecated": false,
+        "Dev_Desc": "블랙의 의상 주화(이벤트)",
+        "id": 98000040,
+        "alias": "Contents.Event.Item.Desc.9300603",
+        "text": "This is the mark of defeating the absolute strongest Black.\\nCan be used to craft black costumes."
+    },
+    "98000041": {
+        "deprecated": false,
+        "Dev_Desc": "블랙의 봉마함(이벤트)",
+        "id": 98000041,
+        "alias": "Contents.Event.Item.Desc.9300604",
+        "text": "You can obtain the following items when used.\\n\\n- Black Selective Retribution Box (event) x1\\n- Black Costume Coin (Engraving) x1\\n- Black Growth Secret Box (Event) x1"
+    },
+    "98000042": {
+        "deprecated": false,
+        "Dev_Desc": "블랙의 성장 비밀 상자(이벤트)",
+        "id": 98000042,
+        "alias": "Contents.Event.Item.Desc.9300605",
+        "text": "You can obtain one of the following items according to a set probability when used.\\n\\n- Ordeal Dungeon Charging Stone Box (Imprinted)\\n- The Key of Time (Imprinted)\\n- Starlight Powder (Imprinted)\\n- Starlight Crystal (Imprint)\\n- Breakthrough Essence Fragment (Imprint)\\n- Sword's Spirit (Imprint)\\n- Sun and Moon Spirit (Imprint)\\n- Special Concentration Antler (Imprint)\\n- Destiny Stone (Imprint) )\\n- Cold dragon salt (engraving)\\n- Wild ginseng (engraving)\\n- Spirit of Youngsu (engraving)\\n- Dragon salt (engraving)"
+    },
+    "98000043": {
+        "deprecated": false,
+        "Dev_Desc": "신비의 깃털(이벤트)",
+        "id": 98000043,
+        "alias": "Contents.Event.Item.Desc.9300615",
+        "text": "A special material used to craft various items."
+    },
+    "98000044": {
+        "deprecated": false,
+        "Dev_Desc": "신비의 정수 파편 상자(이벤트)",
+        "id": 98000044,
+        "alias": "Contents.Event.Item.Desc.9300616",
+        "text": "You can obtain the following items when used.\\n\\n- 30 Essence Fragments (Engraving)"
+    },
+    "98000045": {
+        "deprecated": false,
+        "Dev_Desc": "신비의 비결 상자(이벤트)",
+        "id": 98000045,
+        "alias": "Contents.Event.Item.Desc.9300617",
+        "text": "You can obtain the following items when used.\\n\\n- 300 secrets (engravings)"
+    },
+    "98000046": {
+        "deprecated": false,
+        "Dev_Desc": "잊혀진 영웅 무기 상자(비각인)",
+        "id": 98000046,
+        "alias": "Contents.Event.Item.Desc.9300618",
+        "text": "Upon use, you can obtain one of the following items with a set probability:\\n\\n- Forgotten Executioner's Sword\\n- Forgotten Fist of Condemnation\\n- Mirror of Forgotten Sins\\n- Forgotten Fanatic's Axe\\n- Bow of the Forgotten Punisher\\n- The Forgotten Bracers\\n- Blade of the Forgotten Punisher"
+    },
+    "98000047": {
+        "deprecated": false,
+        "Dev_Desc": "바다뱀의 증표",
+        "id": 98000047,
+        "alias": "Contents.Event.Item.Desc.9300638",
+        "text": "A special material used in the Equipment Encyclopedia."
+    },
+    "98000048": {
+        "deprecated": false,
+        "Dev_Desc": "보상 획득권: 파티 던전(이벤트)",
+        "id": 98000048,
+        "alias": "Contents.Event.Item.Desc.9300641",
+        "text": "This item can recharge the number of party dungeon rewards available."
+    },
+    "98000049": {
+        "deprecated": false,
+        "Dev_Desc": "바다뱀 보급기지_사전예약 보상_AutoOpenBox",
+        "id": 98000049,
+        "alias": "Contents.Event.Item.Desc.9300642",
+        "text": "This is a pre-order reward box for a sea snake supply base.\\nThank you for participating."
+    },
+    "98000050": {
+        "deprecated": false,
+        "Dev_Desc": "바다뱀 보급기지_업데이트 기념 보상_AutoOpenBox",
+        "id": 98000050,
+        "alias": "Contents.Event.Item.Desc.9300642",
+        "text": "This is a commemorative box for the sea snake supply base update.\\nLet's go conquer the sea snake supply base!"
+    },
+    "98000051": {
+        "deprecated": false,
+        "Dev_Desc": "비사문의 비밀 증표Ⅰ",
+        "id": 98000051,
+        "alias": "Contents.Item.Desc.9300683",
+        "text": "A special material used in the Equipment Encyclopedia."
+    },
+    "98000052": {
+        "deprecated": false,
+        "Dev_Desc": "비사문의 비밀 증표Ⅱ",
+        "id": 98000052,
+        "alias": "Contents.Item.Desc.9300684",
+        "text": "A special material used in the Equipment Encyclopedia."
+    },
+    "98000053": {
+        "deprecated": false,
+        "Dev_Desc": "비사문의 비밀 증표Ⅲ",
+        "id": 98000053,
+        "alias": "Contents.Item.Desc.9300685",
+        "text": "A special material used in the Equipment Encyclopedia."
+    },
+    "98000054": {
+        "deprecated": false,
+        "Dev_Desc": "비사문의 비밀 증표Ⅳ",
+        "id": 98000054,
+        "alias": "Contents.Item.Desc.9300686",
+        "text": "A special material used in the Equipment Encyclopedia."
+    },
+    "98000055": {
+        "deprecated": false,
+        "Dev_Desc": "비사문의 비밀 증표Ⅴ",
+        "id": 98000055,
+        "alias": "Contents.Item.Desc.9300687",
+        "text": "A special material used in the Equipment Encyclopedia."
+    },
+    "98000056": {
+        "deprecated": false,
+        "Dev_Desc": "비사문의 비밀 주화(이벤트)",
+        "id": 98000056,
+        "alias": "Contents.Item.Desc.9300688",
+        "text": "This is the secret coin of Bishamon that can craft special items."
+    },
+    "98000057": {
+        "deprecated": false,
+        "Dev_Desc": "수라의 화려한 소울 소환서(11회)(이벤트)",
+        "id": 98000057,
+        "alias": "Contents.Item.Desc.9300690",
+        "text": "When used, you can acquire a soul according to a set probability.<br/>(Rank: Advanced ~ Legendary)"
+    },
+    "98000058": {
+        "deprecated": false,
+        "Dev_Desc": "생명의 화려한 수호령 소환서(11회)(이벤트)",
+        "id": 98000058,
+        "alias": "Contents.Item.Desc.9300691",
+        "text": "When used, you can acquire a guardian spirit according to a set probability.\\n(Rank: Advanced ~ Legendary)"
+    },
+    "98000059": {
+        "deprecated": false,
+        "Dev_Desc": "환상의 짝꿍 증표",
+        "id": 98000059,
+        "alias": "Contents.Item.Desc.9300701",
+        "text": "This is a reward token for participating in the Fantastic Partner Pass event.\\nCan be used to craft event items."
+    },
+    "98000060": {
+        "deprecated": false,
+        "Dev_Desc": "환상의 짝꿍 상자",
+        "id": 98000060,
+        "alias": "Contents.Event.Item.Desc.9300703",
+        "text": "You can obtain the following items when used:\\n\\n- Vibrant Traveler\\n- Hero Soul Selection Box (Imprinted) 2 x\\n- Legendary Costume Pouch (Imprinted) x 1\\n- Shining Spirit Stone Box (Imprinted) 30 pieces\\n- Gold Bar: 50 pieces of 1 million gold (engraved)"
+    },
+    "98000061": {
+        "deprecated": false,
+        "Dev_Desc": "아이스크림(이벤트)",
+        "id": 98000061,
+        "alias": "Contents.Event.Item.Desc.9300713",
+        "text": "You can obtain 1 of the following items according to a set probability when used.\\n\\n- 100 Starlight Powder (Imprint)\\n- Essence Fragment (Imprint) 2ea\\n- Sura's Shining Soul Summon Scroll (6 Times) (Event)\\n- Life's Shining Guardian Spirit Summon Scroll (6 times) (Event)\\n- Cold Dragon Flame (Imprint)\\n- Dragon Flame (Imprint)\\n- Lightning Stone (Imprint)\\n- Perennial Snow (Imprint) )\\n- Millennium Hwajeong (Imprint)\\n- Yongbongtang (Imprint)\\n- Shining Yongbongtang (Imprint)\\n- Blessed Weapon Enhancement Scroll (Imprint)\\n- Blessed Armor Enhancement Scroll (Imprint)\\n- Curse Received Weapon Enhancement Scroll (Imprint)\\n- Cursed Armor Enhancement Scroll (Imprint)"
+    },
+    "98000062": {
+        "deprecated": false,
+        "Dev_Desc": "소다맛 아이스크림(이벤트)",
+        "id": 98000062,
+        "alias": "Contents.Event.Item.Desc.9300714",
+        "text": "When used, you can obtain Black's Selective Retribution (Event) and Black's Costume Coin (Imprint). \\nIn addition, one of the following items can be obtained with a set probability.\\n\\n- 100 Starlight Powder (Imprint)\\n- Essence Fragment (Imprint) 2ea\\n- Sura's Shining Soul Summon Scroll (6 times) (Event)\\n- Summon Scroll of the Shining Guardian Spirit of Life (6 times) (Event)\\n- Cold Dragon Flame (Imprint)\\n- Dragon Flame (Imprint)\\n- Lightning Stone (Imprint)\\n- Icecap (Engraving)\\n- Millennium Hwajeong (Engraving)\\n- Yongbongtang (Imprinting)\\n- Shining Yongbongtang (Imprinting)\\n- Blessed Weapon Enhancement Scroll (Engraving)\\n- Blessed Armor Enhancement Scroll (Engraving)\\n - Cursed Weapon Enhancement Scroll (Imprint)\\n- Cursed Armor Enhancement Scroll (Imprint)"
+    },
+    "98000063": {
+        "deprecated": false,
+        "Dev_Desc": "애플민트맛 아이스크림(이벤트)",
+        "id": 98000063,
+        "alias": "Contents.Event.Item.Desc.9300717",
+        "text": "It cools your head and makes you feel better.\\nThank you, Tochiya!\\n\\n[Active]\\nWater property damage resistance +10%\\nPVE attack power +3\\nPVE accuracy +3\\nPVE defense +5\\ nExperience gain increase +5%\\n\\nThe effect lasts for 60 minutes."
+    },
+    "98000064": {
+        "deprecated": false,
+        "Dev_Desc": "충전석: 한여름의 반달 호수(30분)(이벤트)",
+        "id": 98000064,
+        "alias": "Contents.Event.Item.Desc.9300718",
+        "text": "Recharge the time spent using the Half Moon Lake dungeon in midsummer."
+    },
+    "98000065": {
+        "deprecated": false,
+        "Dev_Desc": "수호의 기운(이벤트)",
+        "id": 98000065,
+        "alias": "Contents.Event.Item.Desc.9300737",
+        "text": "Defense-related stats increase when used.\\nThe effect lasts for 30 minutes.\\n\\n[Active]\\nDefense +5\\nSelf-defense +3\\nAttribute damage resistance +20%\\nControl resistance +3 %"
+    },
+    "98000066": {
+        "deprecated": false,
+        "Dev_Desc": "신비의 깃털(이벤트)",
+        "id": 98000066,
+        "alias": "Contents.Event.Item.Desc.9300738",
+        "text": "A special material used to craft various items."
+    },
+    "98000067": {
+        "deprecated": false,
+        "Dev_Desc": "신비의 정수 파편 상자(이벤트)",
+        "id": 98000067,
+        "alias": "Contents.Event.Item.Desc.9300739",
+        "text": "You can obtain the following items when used.\\n\\n- 30 Essence Fragments (Engraving)"
+    },
+    "98000068": {
+        "deprecated": false,
+        "Dev_Desc": "신비의 비결 상자(이벤트)",
+        "id": 98000068,
+        "alias": "Contents.Event.Item.Desc.9300740",
+        "text": "You can obtain the following items when used.\\n\\n- 300 secrets (engravings)"
+    },
+    "98000069": {
+        "deprecated": false,
+        "Dev_Desc": "데상트 의상 주머니(이벤트)",
+        "id": 98000069,
+        "alias": "Contents.Event.Item.Desc.9300750",
+        "text": "This box can be obtained by selecting one of the Descente costumes."
+    },
+    "98000070": {
+        "deprecated": false,
+        "Dev_Desc": "포화란의 행운 꾸러미",
+        "id": 98000070,
+        "alias": "Contents.Event.Item.Desc.9300751",
+        "text": "When used, you will obtain all of the following items.\\n\\n- Shining Growth Box II x1\\n- Shiny Dragon Blossom (Imprint) x10\\n- Charging Stone: Golden Forest Path (Imprinting) x5\\n- Charging Stone: 5 Ruins of Water Lily (Imprint)"
+    },
+    "98000071": {
+        "deprecated": false,
+        "Dev_Desc": "포화의 화려한 소울 소환서(11회)(이벤트)",
+        "id": 98000071,
+        "alias": "Contents.Item.Desc.9300752",
+        "text": "You can acquire souls according to a set probability when used.\\n(Rank: Advanced ~ Legendary)"
+    },
+    "98000072": {
+        "deprecated": false,
+        "Dev_Desc": "균열 수호자 주화(이벤트)",
+        "id": 98000072,
+        "alias": "Contents.Event.Item.Desc.9300753",
+        "text": "A Rift Guardian's coin that can craft special items."
+    },
+    "98000073": {
+        "deprecated": false,
+        "Dev_Desc": "균열 수호자 상자(이벤트)",
+        "id": 98000073,
+        "alias": "Contents.Event.Item.Desc.9300756",
+        "text": "You can obtain 1000 Starlight Powder (Imprint) and 1 Rare Equipment (Imprint) when used.\\nIn addition, you can obtain 1 of the following items with a set probability.\\n\\n- Forgotten Hero Weapon Box\\n- Wild ginseng (engraving)\\n- Sun and Moon Spirit (engraving)\\n- Taoist Spirit (engraving)\\n- Spiritual Spirit (engraving)\\n- Dragon Flame (engraving)\\n- Cold Dragon Flame (engraving) \\n- Time Key (Imprint)\\n- Golden Egg (Imprint) 100pcs\\n- Blessed Weapon Enhancement Scroll (Imprint)\\n- Blessed Armor Enhancement Scroll (Imprint)\\n- Cursed Weapon Enhancement Scroll ( Engraved)\\n- Cursed Armor Enhancement Scroll (Engraved)"
+    },
+    "98000074": {
+        "deprecated": false,
+        "Dev_Desc": "찬란한 귀혼 공로함(이벤트)",
+        "id": 98000074,
+        "alias": "Contents.Event.Item.Desc.9300758",
+        "text": "You can obtain the following items when used.\\n\\n- Land dumplings (engraved) 10ea\\n- Rift Guardian Coin (event) 1000ea\\n- Burnt Bird's Elixir (event) 10ea"
+    },
+    "98000075": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 귀혼 공로함(이벤트)",
+        "id": 98000075,
+        "alias": "Contents.Event.Item.Desc.9300759",
+        "text": "You can obtain the following items when used.\\n\\n- Territory dumplings (engraved) 5ea\\n- Rift Guardian Coin (event) 800ea\\n- Burnt Bird's Elixir (event) 5ea"
+    },
+    "98000076": {
+        "deprecated": false,
+        "Dev_Desc": "평범한 귀혼 공로함(이벤트)",
+        "id": 98000076,
+        "alias": "Contents.Event.Item.Desc.9300760",
+        "text": "You can obtain the following items when used.\\n\\n- Territory dumplings (engraved) 3ea\\n- Rift Guardian Coin (event) 600ea\\n- Burnt Bird's Elixir (event) 3ea"
+    },
+    "98000077": {
+        "deprecated": false,
+        "Dev_Desc": "낡은 귀혼 공로함(이벤트)",
+        "id": 98000077,
+        "alias": "Contents.Event.Item.Desc.9300761",
+        "text": "When used, you can obtain the following items.\\n\\n- Territory dumplings (engraved) 1 x\\n- Rift Guardian Coin (event) 500pcs\\n- Burnt Bird's Elixir (event) x1"
+    },
+    "98000078": {
+        "deprecated": false,
+        "Dev_Desc": "충각단의 증표",
+        "id": 98000078,
+        "alias": "Contents.Event.Item.Desc.9300771",
+        "text": "A special material used in the Equipment Encyclopedia"
+    },
+    "98000079": {
+        "deprecated": false,
+        "Dev_Desc": "1주년 기념 증표(이벤트)",
+        "id": 98000079,
+        "alias": "Contents.Event.Item.Desc.9300772",
+        "text": "A special material used in the Equipment Encyclopedia"
+    },
+    "98000080": {
+        "deprecated": false,
+        "Dev_Desc": "1주년 기념 상자",
+        "id": 98000080,
+        "alias": "Contents.Event.Item.Desc.9300773",
+        "text": "You can obtain the following items when used.\\n\\n- 1st Anniversary Token (Event) x 1\\n- 500 1st Anniversary Seals\\n- 1st Anniversary Costume x 1\\n- Summon a Gorgeous Soul of Fire Book (11 times) (event) 10ea\\n- Life's Brilliant Guardian Spirit Summon Scroll (11times) (event) 10ea"
     }
 }

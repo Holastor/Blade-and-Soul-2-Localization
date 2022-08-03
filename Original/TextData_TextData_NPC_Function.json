@@ -424,7 +424,7 @@
         "Dev_Desc": "기능_상점_이름",
         "id": 1099091,
         "alias": "Contents.Citizen.Name.199108",
-        "text": "무공서 상인"
+        "text": "무공 상인"
     },
     "1099092": {
         "deprecated": false,
@@ -439,6 +439,13 @@
         "id": 1099093,
         "alias": "Contents.Citizen.Name.199110",
         "text": "전설의 낚시꾼"
+    },
+    "1099094": {
+        "deprecated": false,
+        "Dev_Desc": "기능_상점_이름",
+        "id": 1099094,
+        "alias": "Contents.Citizen.Name.199112",
+        "text": "시간의 파편 상인"
     },
     "1099255": {
         "deprecated": false,
@@ -621,5 +628,26 @@
         "id": 1099285,
         "alias": "Contents.Citizen.Title.199100",
         "text": "이벤트 상인"
+    },
+    "1099286": {
+        "deprecated": false,
+        "Dev_Desc": "비사문_전설의 비밀 상인_타이틀",
+        "id": 1099286,
+        "alias": "Contents.Citizen.Title.199210",
+        "text": "비사문"
+    },
+    "1099287": {
+        "deprecated": false,
+        "Dev_Desc": "비사문_전설의 비밀 상인_네임",
+        "id": 1099287,
+        "alias": "Contents.Citizen.Name.199210",
+        "text": "전설의 비밀상인"
+    },
+    "1099288": {
+        "deprecated": false,
+        "Dev_Desc": "시간의 파편 상인_타이틀",
+        "id": 1099288,
+        "alias": "Contents.Citizen.Title.199101",
+        "text": "방랑하는"
     }
 }

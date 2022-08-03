@@ -680,7 +680,8 @@
         "deprecated": false,
         "Dev_Desc": "광명청음_효과",
         "id": 60070219,
-        "alias": "Contents.Skill.UseEffect.RitualBell.7111"
+        "alias": "Contents.Skill.UseEffect.RitualBell.7111",
+        "text": "광명청음"
     },
     "60070220": {
         "deprecated": false,
@@ -1416,5 +1417,54 @@
         "id": 60070395,
         "alias": "Contents.Skill.UseEffect.RitualBell.7083",
         "text": "Damage received +15%"
+    },
+    "60070396": {
+        "deprecated": false,
+        "Dev_Desc": "광명청음_무적_버프창",
+        "id": 60070396,
+        "alias": "Contents.Effect.Name.RitualBell.711100",
+        "text": "Gwangmyeong Listening"
+    },
+    "60070397": {
+        "deprecated": false,
+        "Dev_Desc": "광명청음_무적_버프창",
+        "id": 60070397,
+        "alias": "Contents.Effect.Desc.RitualBell.711100",
+        "text": "beopjong legend"
+    },
+    "60070398": {
+        "deprecated": false,
+        "Dev_Desc": "광명청음_무적_버프창",
+        "id": 60070398,
+        "alias": "Contents.Effect.Option.RitualBell.711100",
+        "text": "Targets affected by Light Hearing will not be disturbed and become immune to all damage as soon as their health drops to 1.\\nDamage reduction +15%"
+    },
+    "60070399": {
+        "deprecated": false,
+        "Dev_Desc": "폭음",
+        "id": 60070399,
+        "alias": "Contents.Skill.Name.RitualBell.7301",
+        "text": "explosion"
+    },
+    "60070400": {
+        "deprecated": false,
+        "Dev_Desc": "폭음",
+        "id": 60070400,
+        "alias": "Contents.Skill.Desc.RitualBell.7301",
+        "text": "Destroys enemies with explosive sound.\\nIncreases attack power and qigong accuracy."
+    },
+    "60070401": {
+        "deprecated": false,
+        "Dev_Desc": "폭음_효과",
+        "id": 60070401,
+        "alias": "Contents.Skill.UseEffect.RitualBell.7301",
+        "text": "Beam Attack +8, Qigong Accuracy +4"
+    },
+    "60070402": {
+        "deprecated": false,
+        "Dev_Desc": "치환_효과",
+        "id": 60070402,
+        "alias": "Contents.Skill.UseEffect.RitualBell.7271",
+        "text": "Healing +5"
     }
 }

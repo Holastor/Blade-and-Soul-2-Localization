@@ -1258,5 +1258,26 @@
         "id": 60050180,
         "alias": "Contents.Skill.acquireEffect.LongBow.5203",
         "text": "Returns half of the history consumed with a certain probability"
+    },
+    "60050181": {
+        "deprecated": false,
+        "Dev_Desc": "철궁",
+        "id": 60050181,
+        "alias": "Contents.Skill.Name.LongBow.5940",
+        "text": "iron bow"
+    },
+    "60050182": {
+        "deprecated": false,
+        "Dev_Desc": "철궁",
+        "id": 60050182,
+        "alias": "Contents.Skill.Desc.LongBow.5940",
+        "text": "I pull the bow with a firm and unwavering determination.\\nBow attack power and finesse accuracy are increased."
+    },
+    "60050183": {
+        "deprecated": false,
+        "Dev_Desc": "철궁_효과",
+        "id": 60050183,
+        "alias": "Contents.Skill.UseEffect.LongBow.5940",
+        "text": "Bow attack power +8, precision accuracy +4"
     }
 }

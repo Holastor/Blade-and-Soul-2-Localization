@@ -922,5 +922,543 @@
         "id": 61000132,
         "alias": "Contents.Effect.Detail.Monster.250830112",
         "text": "눈꽃 유지 중 빙결장판에 얼지 않습니다."
+    },
+    "61000133": {
+        "deprecated": false,
+        "Dev_Desc": "침야금_침식이펙트",
+        "id": 61000133,
+        "alias": "Contents.Effect.Name.Monster.125042112",
+        "text": "침식된 신체"
+    },
+    "61000134": {
+        "deprecated": false,
+        "Dev_Desc": "침야금_침식이펙트",
+        "id": 61000134,
+        "alias": "Contents.Effect.Desc.Monster.125042112",
+        "text": "침식 상태"
+    },
+    "61000135": {
+        "deprecated": false,
+        "Dev_Desc": "침야금_침식이펙트",
+        "id": 61000135,
+        "alias": "Contents.Effect.Option.Monster.125042112",
+        "text": "침식된 백야금의 발구르기 공격에 끌려갑니다"
+    },
+    "61000136": {
+        "deprecated": false,
+        "Dev_Desc": "보스, 염화대성_화마_이름",
+        "id": 61000136,
+        "alias": "Contents.Effect.Name.Monster.212660069",
+        "text": "화마"
+    },
+    "61000137": {
+        "deprecated": false,
+        "Dev_Desc": "보스, 염화대성_화마_설명",
+        "id": 61000137,
+        "alias": "Contents.Effect.Desc.Monster.212660069",
+        "text": "화마의 기운이 차오른 상태"
+    },
+    "61000138": {
+        "deprecated": false,
+        "Dev_Desc": "보스, 염화대성_화마_옵션",
+        "id": 61000138,
+        "alias": "Contents.Effect.Option.Monster.212660069",
+        "text": "5초 후 화염 폭발 피해와 기절 효과 적용"
+    },
+    "61000139": {
+        "deprecated": false,
+        "Dev_Desc": "염화대성_지옥_폭열분쇄장판_둔화_이름",
+        "id": 61000139,
+        "alias": "Contents.Effect.Name.Monster.212660075",
+        "text": "둔화"
+    },
+    "61000140": {
+        "deprecated": false,
+        "Dev_Desc": "염화대성_지옥_폭열분쇄장판_둔화_설명",
+        "id": 61000140,
+        "alias": "Contents.Effect.Desc.Monster.212660075",
+        "text": "이동속도 감소"
+    },
+    "61000141": {
+        "deprecated": false,
+        "Dev_Desc": "염화대성_지옥_폭열분쇄장판_둔화_옵션",
+        "id": 61000141,
+        "alias": "Contents.Effect.Option.Monster.212660075",
+        "text": "이동속도 감소율 +50%"
+    },
+    "61000142": {
+        "deprecated": false,
+        "Dev_Desc": "염화대성_지옥_화염불길장판_둔화_이름",
+        "id": 61000142,
+        "alias": "Contents.Effect.Name.Monster.212660076",
+        "text": "둔화"
+    },
+    "61000143": {
+        "deprecated": false,
+        "Dev_Desc": "염화대성_지옥_화염불길장판_둔화_설명",
+        "id": 61000143,
+        "alias": "Contents.Effect.Desc.Monster.212660076",
+        "text": "이동속도 감소"
+    },
+    "61000144": {
+        "deprecated": false,
+        "Dev_Desc": "염화대성_지옥_화염불길장판_둔화_옵션",
+        "id": 61000144,
+        "alias": "Contents.Effect.Option.Monster.212660076",
+        "text": "이동속도 감소율 +50%"
+    },
+    "61000145": {
+        "deprecated": false,
+        "Dev_Desc": "토우장군_디버프_석화1_이름",
+        "id": 61000145,
+        "alias": "Contents.Effect.Name.Monster.233650911",
+        "text": "석상화"
+    },
+    "61000146": {
+        "deprecated": false,
+        "Dev_Desc": "토우장군_디버프_석화1_설명",
+        "id": 61000146,
+        "alias": "Contents.Effect.Desc.Monster.233650911",
+        "text": "석상 상태"
+    },
+    "61000147": {
+        "deprecated": false,
+        "Dev_Desc": "토우장군_디버프_석화1_옵션",
+        "id": 61000147,
+        "alias": "Contents.Effect.Option.Monster.233650911",
+        "text": "이동 불가\n무공 사용 불가\n일부 아이템 사용 불가"
+    },
+    "61000148": {
+        "deprecated": false,
+        "Dev_Desc": "토우장군_디버프_석화1_세부",
+        "id": 61000148,
+        "alias": "Contents.Effect.Detail.Monster..233650911",
+        "text": "영혼이 연결된 대상을 죽일 경우 해제됩니다."
+    },
+    "61000149": {
+        "deprecated": false,
+        "Dev_Desc": "광폭한 창 화부 대쉬찌르기 중독 1스택 (도트) 이름",
+        "id": 61000149,
+        "alias": "Contents.Effect.Name.Monster.113561513",
+        "text": "화부의 독"
+    },
+    "61000150": {
+        "deprecated": false,
+        "Dev_Desc": "광폭한 창 화부 대쉬찌르기 중독 1스택 (도트) 설명",
+        "id": 61000150,
+        "alias": "Contents.Effect.Desc.Monster.113561513",
+        "text": "중독 상태"
+    },
+    "61000151": {
+        "deprecated": false,
+        "Dev_Desc": "광폭한 창 화부 대쉬찌르기 중독 1스택 (도트) 옵션",
+        "id": 61000151,
+        "alias": "Contents.Effect.Option.Monster.113561513"
+    },
+    "61000152": {
+        "deprecated": false,
+        "Dev_Desc": "광폭한 창 화부 대쉬찌르기 중독 1스택 (도트) 세부",
+        "id": 61000152,
+        "alias": "Contents.Effect.Detail.Monster.113561513",
+        "text": "한번 더 화부의 독에 맞으면 즉사."
+    },
+    "61000153": {
+        "deprecated": false,
+        "Dev_Desc": "광폭한 창 화부 불마의힘 징표 A 이름",
+        "id": 61000153,
+        "alias": "Contents.Effect.Name.Monster.113561731",
+        "text": "염환의 징표"
+    },
+    "61000154": {
+        "deprecated": false,
+        "Dev_Desc": "광폭한 창 화부 불마의힘 징표 B 이름",
+        "id": 61000154,
+        "alias": "Contents.Effect.Name.Monster.113561741",
+        "text": "거곤의 징표"
+    },
+    "61000155": {
+        "deprecated": false,
+        "Dev_Desc": "광폭한 창 화부 불마의힘 징표 C 이름",
+        "id": 61000155,
+        "alias": "Contents.Effect.Name.Monster.113561751",
+        "text": "모극의 징표"
+    },
+    "61000156": {
+        "deprecated": false,
+        "Dev_Desc": "발라라_감전_이름",
+        "id": 61000156,
+        "alias": "Contents.Effect.Name.Monster.213270012",
+        "text": "감전"
+    },
+    "61000157": {
+        "deprecated": false,
+        "Dev_Desc": "발라라_감전_설명",
+        "id": 61000157,
+        "alias": "Contents.Effect.Desc.Monster.213270012",
+        "text": "감전 상태"
+    },
+    "61000158": {
+        "deprecated": false,
+        "Dev_Desc": "발라라_감전_옵션",
+        "id": 61000158,
+        "alias": "Contents.Effect.Option.Monster.213270012",
+        "text": "이동 불가\n무공 사용 불가\n일부 아이템 사용 불가"
+    },
+    "61000159": {
+        "deprecated": false,
+        "Dev_Desc": "발라라_연발어뢰1_이름",
+        "id": 61000159,
+        "alias": "Contents.Effect.Name.Monster.213270006",
+        "text": "어뢰 중독"
+    },
+    "61000160": {
+        "deprecated": false,
+        "Dev_Desc": "발라라_연발어뢰1_설명",
+        "id": 61000160,
+        "alias": "Contents.Effect.Desc.Monster.213270006",
+        "text": "어뢰 중독 상태"
+    },
+    "61000161": {
+        "deprecated": false,
+        "Dev_Desc": "발라라_연발어뢰1_옵션",
+        "id": 61000161,
+        "alias": "Contents.Effect.Option.Monster.213270006",
+        "text": "발라라의 어뢰 공격 피격 시, 추가 피해"
+    },
+    "61000162": {
+        "deprecated": false,
+        "Dev_Desc": "발라라_연발어뢰2_이름",
+        "id": 61000162,
+        "alias": "Contents.Effect.Name.Monster.213270007",
+        "text": "강화 어뢰 중독"
+    },
+    "61000163": {
+        "deprecated": false,
+        "Dev_Desc": "발라라_연발어뢰2_설명",
+        "id": 61000163,
+        "alias": "Contents.Effect.Desc.Monster.213270007",
+        "text": "강화 어뢰 중독 상태"
+    },
+    "61000164": {
+        "deprecated": false,
+        "Dev_Desc": "발라라_연발어뢰3_옵션",
+        "id": 61000164,
+        "alias": "Contents.Effect.Option.Monster.213270007",
+        "text": "발라라의 어뢰 공격 피격 시, 더 큰 추가 피해"
+    },
+    "61000165": {
+        "deprecated": false,
+        "Dev_Desc": "태장금_출혈_이름",
+        "id": 61000165,
+        "alias": "Contents.Effect.Name.Monster.234171012",
+        "text": "표식"
+    },
+    "61000166": {
+        "deprecated": false,
+        "Dev_Desc": "태장금_출혈_설명",
+        "id": 61000166,
+        "alias": "Contents.Effect.Desc.Monster.234171012",
+        "text": "표식 중첩 상태"
+    },
+    "61000167": {
+        "deprecated": false,
+        "Dev_Desc": "태장금_출혈_옵션",
+        "id": 61000167,
+        "alias": "Contents.Effect.Option.Monster.234171012",
+        "text": "3회 중첩 시, 죽음의 표식 및 공중 효과"
+    },
+    "61000168": {
+        "deprecated": false,
+        "Dev_Desc": "태장금_중독_이름",
+        "id": 61000168,
+        "alias": "Contents.Effect.Name.Monster.234170612",
+        "text": "중독"
+    },
+    "61000169": {
+        "deprecated": false,
+        "Dev_Desc": "태장금_중독_설명",
+        "id": 61000169,
+        "alias": "Contents.Effect.Desc.Monster.234170612",
+        "text": "중독 피해"
+    },
+    "61000170": {
+        "deprecated": false,
+        "Dev_Desc": "태장금_중독_옵션",
+        "id": 61000170,
+        "alias": "Contents.Effect.Option.Monster.234170612",
+        "text": "중독 1단계"
+    },
+    "61000171": {
+        "deprecated": false,
+        "Dev_Desc": "태장금_중독_옵션",
+        "id": 61000171,
+        "alias": "Contents.Effect.Option.Monster.234170613",
+        "text": "중독 2단계"
+    },
+    "61000172": {
+        "deprecated": false,
+        "Dev_Desc": "태장금_중독_옵션",
+        "id": 61000172,
+        "alias": "Contents.Effect.Option.Monster.234170614",
+        "text": "중독 3단계"
+    },
+    "61000173": {
+        "deprecated": false,
+        "Dev_Desc": "태장금_중독_옵션",
+        "id": 61000173,
+        "alias": "Contents.Effect.Option.Monster.234170615",
+        "text": "중독 4단계"
+    },
+    "61000174": {
+        "deprecated": false,
+        "Dev_Desc": "태장금_중독_옵션",
+        "id": 61000174,
+        "alias": "Contents.Effect.Option.Monster.234170616",
+        "text": "중독 5단계"
+    },
+    "61000175": {
+        "deprecated": false,
+        "Dev_Desc": "태장금_중독_설명",
+        "id": 61000175,
+        "alias": "Contents.Effect.Desc.Monster.234170616",
+        "text": "강한 중독 피해"
+    },
+    "61000176": {
+        "deprecated": false,
+        "Dev_Desc": "태장금_출혈_이름",
+        "id": 61000176,
+        "alias": "Contents.Effect.Name.Monster.234171014",
+        "text": "죽음의 표식"
+    },
+    "61000178": {
+        "deprecated": false,
+        "Dev_Desc": "태장금_출혈_옵션",
+        "id": 61000178,
+        "alias": "Contents.Effect.Option.Monster.234171014",
+        "text": "강한 지속 피해"
+    },
+    "61000179": {
+        "deprecated": false,
+        "Dev_Desc": "보스, 발라라_둔화_이름",
+        "id": 61000179,
+        "alias": "Contents.Effect.Name.Monster.213270020",
+        "text": "둔화"
+    },
+    "61000180": {
+        "deprecated": false,
+        "Dev_Desc": "보스, 발라라_둔화_설명",
+        "id": 61000180,
+        "alias": "Contents.Effect.Desc.Monster.213270020",
+        "text": "이동속도 감소"
+    },
+    "61000181": {
+        "deprecated": false,
+        "Dev_Desc": "보스, 발라라_둔화_옵션",
+        "id": 61000181,
+        "alias": "Contents.Effect.Option.Monster.213270020",
+        "text": "이동속도 감소율 +60%"
+    },
+    "61000182": {
+        "deprecated": false,
+        "Dev_Desc": "포화란_화상",
+        "id": 61000182,
+        "alias": "Contents.Effect.Option.Monster.125060713",
+        "text": "유지시간 동안 지속 피해\n해제불가"
+    },
+    "61000183": {
+        "deprecated": false,
+        "Dev_Desc": "막소보_화상",
+        "id": 61000183,
+        "alias": "Contents.Effect.Option.Monster.135682121",
+        "text": "유지시간 동안 지속 피해\n수증기, 구원으로 해제 가능"
+    },
+    "61000184": {
+        "deprecated": false,
+        "Dev_Desc": "막소보_이속증가",
+        "id": 61000184,
+        "alias": "Contents.Effect.Name.Monster.135701111",
+        "text": "수증기"
+    },
+    "61000185": {
+        "deprecated": false,
+        "Dev_Desc": "막소보_이속증가",
+        "id": 61000185,
+        "alias": "Contents.Effect.Option.Monster.135701111",
+        "text": "이동속도 증가율 +50%"
+    },
+    "61000186": {
+        "deprecated": false,
+        "Dev_Desc": "[침공이벤트]_금빛 모래시계 소환_테스트_금빛모래 버프_최상급",
+        "id": 61000186,
+        "alias": "Contents.Effect.Name.Monster.136302111",
+        "text": "최상급 수호"
+    },
+    "61000187": {
+        "deprecated": false,
+        "Dev_Desc": "[침공이벤트]_금빛 모래시계 소환_테스트_금빛모래 버프_최상급",
+        "id": 61000187,
+        "alias": "Contents.Effect.Name.Monster.136302211",
+        "text": "상급 수호"
+    },
+    "61000188": {
+        "deprecated": false,
+        "Dev_Desc": "[침공이벤트]_금빛 모래시계 소환_테스트_금빛모래 버프_최상급",
+        "id": 61000188,
+        "alias": "Contents.Effect.Name.Monster.136302311",
+        "text": "중급 수호"
+    },
+    "61000189": {
+        "deprecated": false,
+        "Dev_Desc": "[침공이벤트]_금빛 모래시계 소환_테스트_금빛모래 버프_최상급",
+        "id": 61000189,
+        "alias": "Contents.Effect.Desc.Monster.136302111",
+        "text": "신체 능력치 상승"
+    },
+    "61000190": {
+        "deprecated": false,
+        "Dev_Desc": "[침공이벤트]_금빛 모래시계 소환_테스트_금빛모래 버프_상급",
+        "id": 61000190,
+        "alias": "Contents.Effect.Desc.Monster.136302211",
+        "text": "신체 능력치 상승"
+    },
+    "61000191": {
+        "deprecated": false,
+        "Dev_Desc": "[침공이벤트]_금빛 모래시계 소환_테스트_금빛모래 버프_중급",
+        "id": 61000191,
+        "alias": "Contents.Effect.Desc.Monster.136302311",
+        "text": "신체 능력치 상승"
+    },
+    "61000192": {
+        "deprecated": false,
+        "Dev_Desc": "[침공이벤트]_금빛 모래시계 소환_테스트_금빛모래 버프_최상급",
+        "id": 61000192,
+        "alias": "Contents.Effect.Option.Monster.136302111",
+        "text": "이동속도 증가율 +50%, PVE 공격력 +10"
+    },
+    "61000193": {
+        "deprecated": false,
+        "Dev_Desc": "[침공이벤트]_금빛 모래시계 소환_테스트_금빛모래 버프_상급",
+        "id": 61000193,
+        "alias": "Contents.Effect.Option.Monster.136302211",
+        "text": "이동속도 증가율 +30%, PVE 공격력 +5"
+    },
+    "61000194": {
+        "deprecated": false,
+        "Dev_Desc": "[침공이벤트]_금빛 모래시계 소환_테스트_금빛모래 버프_중급",
+        "id": 61000194,
+        "alias": "Contents.Effect.Option.Monster.136302311",
+        "text": "이동속도 증가율 +20%"
+    },
+    "61000195": {
+        "deprecated": false,
+        "Dev_Desc": "[침공이벤트]_금빛 모래시계 소환_테스트_금빛모래 버프_최상급",
+        "id": 61000195,
+        "alias": "Contents.Effect.Name.Monster.136302411",
+        "text": "최상급 시간 수호 증표"
+    },
+    "61000196": {
+        "deprecated": false,
+        "Dev_Desc": "[침공이벤트]_금빛 모래시계 소환_테스트_금빛모래 버프_최상급",
+        "id": 61000196,
+        "alias": "Contents.Effect.Option.Monster.136302411",
+        "text": "PVP 공격력 +20"
+    },
+    "61000197": {
+        "deprecated": false,
+        "Dev_Desc": "[침공이벤트]_금빛 모래시계 소환_테스트_금빛모래 버프_최상급",
+        "id": 61000197,
+        "alias": "Contents.Effect.Name.Monster.136302511",
+        "text": "상급 시간 수호 증표"
+    },
+    "61000198": {
+        "deprecated": false,
+        "Dev_Desc": "[침공이벤트]_금빛 모래시계 소환_테스트_금빛모래 버프_최상급",
+        "id": 61000198,
+        "alias": "Contents.Effect.Option.Monster.136302511",
+        "text": "PVP 공격력 +15"
+    },
+    "61000199": {
+        "deprecated": false,
+        "Dev_Desc": "[침공이벤트]_금빛 모래시계 소환_테스트_금빛모래 버프_최상급",
+        "id": 61000199,
+        "alias": "Contents.Effect.Name.Monster.136302611",
+        "text": "중급 시간 수호 증표"
+    },
+    "61000200": {
+        "deprecated": false,
+        "Dev_Desc": "[침공이벤트]_금빛 모래시계 소환_테스트_금빛모래 버프_최상급",
+        "id": 61000200,
+        "alias": "Contents.Effect.Option.Monster.136302611",
+        "text": "PVP 공격력 +10"
+    },
+    "61000201": {
+        "deprecated": false,
+        "Dev_Desc": "[침공이벤트]_금빛 모래시계 소환_테스트_금빛모래 버프_최상급",
+        "id": 61000201,
+        "alias": "Contents.Effect.Name.Monster.136302711",
+        "text": "하급 시간 수호 증표"
+    },
+    "61000202": {
+        "deprecated": false,
+        "Dev_Desc": "[침공이벤트]_금빛 모래시계 소환_테스트_금빛모래 버프_최상급",
+        "id": 61000202,
+        "alias": "Contents.Effect.Option.Monster.136302711",
+        "text": "PVP 공격력 +5"
+    },
+    "61000203": {
+        "deprecated": false,
+        "Dev_Desc": "붉은 달 사막 보스, 사군_사막의 밤_저주_이름",
+        "id": 61000203,
+        "alias": "Contents.Effect.Name.Monster.233850412",
+        "text": "저주 부적"
+    },
+    "61000204": {
+        "deprecated": false,
+        "Dev_Desc": "붉은 달 사막 보스, 사군_사막의 밤_저주_설명",
+        "id": 61000204,
+        "alias": "Contents.Effect.Desc.Monster.233850412",
+        "text": "원령의 저주에 걸린 상태"
+    },
+    "61000205": {
+        "deprecated": false,
+        "Dev_Desc": "붉은 달 사막 보스, 사군_사막의 밤_저주_옵션",
+        "id": 61000205,
+        "alias": "Contents.Effect.Option.Monster.233850412",
+        "text": "받는 피해량 증가"
+    },
+    "61000206": {
+        "deprecated": false,
+        "Dev_Desc": "붉은 달 사막 보스, 사군_사막의 밤_저주_세부",
+        "id": 61000206,
+        "alias": "Contents.Effect.Detail.Monster.233850412",
+        "text": "생명력의 비례하여 추가 피해를 받습니다."
+    },
+    "61000207": {
+        "deprecated": false,
+        "Dev_Desc": "[침공이벤트]_금빛 모래시계 소환_테스트_금빛모래 버프_최상급",
+        "id": 61000207,
+        "alias": "Contents.Effect.Desc.Monster.136302411",
+        "text": "신체 능력치 상승"
+    },
+    "61000208": {
+        "deprecated": false,
+        "Dev_Desc": "[침공이벤트]_금빛 모래시계 소환_테스트_금빛모래 버프_상급",
+        "id": 61000208,
+        "alias": "Contents.Effect.Desc.Monster.136302511",
+        "text": "신체 능력치 상승"
+    },
+    "61000209": {
+        "deprecated": false,
+        "Dev_Desc": "[침공이벤트]_금빛 모래시계 소환_테스트_금빛모래 버프_중급",
+        "id": 61000209,
+        "alias": "Contents.Effect.Desc.Monster.136302611",
+        "text": "신체 능력치 상승"
+    },
+    "61000210": {
+        "deprecated": false,
+        "Dev_Desc": "[침공이벤트]_금빛 모래시계 소환_테스트_금빛모래 버프_중급",
+        "id": 61000210,
+        "alias": "Contents.Effect.Desc.Monster.136302711",
+        "text": "신체 능력치 상승"
     }
 }

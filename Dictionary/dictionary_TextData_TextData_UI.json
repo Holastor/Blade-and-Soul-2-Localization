@@ -31645,5 +31645,1755 @@
         "English_Text": "hostile coalition",
         "Russian_Text": "",
         "Chinese_Text": "敌对联盟"
+    },
+    "8004644": {
+        "Dev_Desc": "연합 / 미가입 / 컬럼 / 연합",
+        "Original_Text": "연합",
+        "English_Text": "Union",
+        "Russian_Text": "",
+        "Chinese_Text": "联盟"
+    },
+    "8004645": {
+        "Dev_Desc": "연합 / 미가입 / 컬럼 / 대표 문파",
+        "Original_Text": "대표 문파",
+        "English_Text": "representative clan",
+        "Russian_Text": "",
+        "Chinese_Text": "代表氏族"
+    },
+    "8004646": {
+        "Dev_Desc": "연합 / 미가입 / 컬럼 / 연합원",
+        "Original_Text": "연합원 수",
+        "English_Text": "number of union members",
+        "Russian_Text": "",
+        "Chinese_Text": "工会会员人数"
+    },
+    "8004648": {
+        "Dev_Desc": "연합 / 미가입 / 컬럼 / 신청",
+        "Original_Text": "신청",
+        "English_Text": "application",
+        "Russian_Text": "",
+        "Chinese_Text": "应用"
+    },
+    "8004650": {
+        "Dev_Desc": "연합 / 미가입 / 컬럼 / 신청 취소",
+        "Original_Text": "신청 취소",
+        "English_Text": "Cancel application",
+        "Russian_Text": "",
+        "Chinese_Text": "取消申请"
+    },
+    "8004651": {
+        "Dev_Desc": "연합 / 미가입 / 컬럼 / 초대 수락",
+        "Original_Text": "초대 수락",
+        "English_Text": "Accept invitation",
+        "Russian_Text": "",
+        "Chinese_Text": "接受邀请"
+    },
+    "8004652": {
+        "Dev_Desc": "연합 / 연합 창설 / 창설 버튼 / 레벨 부족",
+        "Original_Text": "문파 <arg p=[1:integer]/>레벨 이상",
+        "English_Text": "Class <arg p=[1:integer]/>Level or higher",
+        "Russian_Text": "",
+        "Chinese_Text": "Class <arg p=[1:integer]/>级别或更高级别"
+    },
+    "8004653": {
+        "Dev_Desc": "아이템 / 아이템 소분류 / (운영툴용)",
+        "Original_Text": "보패 1번",
+        "English_Text": "loot 1",
+        "Russian_Text": "",
+        "Chinese_Text": "战利品 1"
+    },
+    "8004654": {
+        "Dev_Desc": "아이템 / 아이템 소분류 / (운영툴용)",
+        "Original_Text": "보패 2번",
+        "English_Text": "2 times",
+        "Russian_Text": "",
+        "Chinese_Text": "2次"
+    },
+    "8004655": {
+        "Dev_Desc": "아이템 / 아이템 소분류 / (운영툴용)",
+        "Original_Text": "보패 3번",
+        "English_Text": "3 times",
+        "Russian_Text": "",
+        "Chinese_Text": "3次"
+    },
+    "8004656": {
+        "Dev_Desc": "아이템 / 아이템 소분류 / (운영툴용)",
+        "Original_Text": "보패 4번",
+        "English_Text": "treasure chest 4",
+        "Russian_Text": "",
+        "Chinese_Text": "宝箱 4"
+    },
+    "8004657": {
+        "Dev_Desc": "아이템 / 아이템 소분류 / (운영툴용)",
+        "Original_Text": "보패 5번",
+        "English_Text": "5 times",
+        "Russian_Text": "",
+        "Chinese_Text": "5次"
+    },
+    "8004658": {
+        "Dev_Desc": "아이템 / 아이템 소분류 / (운영툴용)",
+        "Original_Text": "보패 6번",
+        "English_Text": "shield number 6",
+        "Russian_Text": "",
+        "Chinese_Text": "6号盾牌"
+    },
+    "8004659": {
+        "Dev_Desc": "아이템 / 아이템 소분류 / (운영툴용)",
+        "Original_Text": "보패 7번",
+        "English_Text": "7 trophies",
+        "Russian_Text": "",
+        "Chinese_Text": "7个奖杯"
+    },
+    "8004660": {
+        "Dev_Desc": "아이템 / 아이템 소분류 / (운영툴용)",
+        "Original_Text": "보패 8번",
+        "English_Text": "number 8",
+        "Russian_Text": "",
+        "Chinese_Text": "8 号"
+    },
+    "8004661": {
+        "Dev_Desc": "연합 / 연합 정보 / 해산 / 안내1",
+        "Original_Text": "연합을 해산하시겠습니까?",
+        "English_Text": "Are you sure you want to dissolve the alliance?",
+        "Russian_Text": "",
+        "Chinese_Text": "你确定要解散联盟吗？"
+    },
+    "8004662": {
+        "Dev_Desc": "연합 / 연합 정보 / 해산 / 안내2",
+        "Original_Text": "해산 시 모든 연합 정보가 사라집니다.",
+        "English_Text": "Upon disbanding, all alliance information will be lost.",
+        "Russian_Text": "",
+        "Chinese_Text": "解散后，所有联盟信息都将丢失。"
+    },
+    "8004663": {
+        "Dev_Desc": "연합 / 연합 정보 / 해산 / 안내3",
+        "Original_Text": "연합을 해산하려면 <textColor=[248:219:179:255]>\"해산 신청\"</>을 입력하세요.",
+        "English_Text": "To dissolve a coalition, enter <textColor=[248:219:179:255]>\"Request dissolution\"</>.",
+        "Russian_Text": "",
+        "Chinese_Text": "要解散联盟，请输入 <textColor=[248:219:179:255]>请求解散</>。"
+    },
+    "8004664": {
+        "Dev_Desc": "연합 / 소속 문파 / 추방 / 팝업 / 안내1",
+        "Original_Text": "외 <arg p=[1:integer]/>개",
+        "English_Text": "Other <arg p=[1:integer]/>",
+        "Russian_Text": "",
+        "Chinese_Text": "其他 <arg p=[1:integer]/>"
+    },
+    "8004665": {
+        "Dev_Desc": "월드필드/퀘스트/달성필요/붉은 달 사막",
+        "Original_Text": "[<arg p=[1:string]/>] 달성 후 입장할 수 있습니다.",
+        "English_Text": "You can enter after achieving [<arg p=[1:string]/>].",
+        "Russian_Text": "",
+        "Chinese_Text": "实现[<arg p=[1:string]/>]后即可进入。"
+    },
+    "8004666": {
+        "Dev_Desc": "월드필드/퀘스트/시간/만료/붉은 달 사막",
+        "Original_Text": "만료된 월드 필드는 입장할 수 없습니다. 충전석을 사용하여 월드 필드 이용 시간을 충전할 수 있습니다.",
+        "English_Text": "Expired World Fields cannot be entered. You can use the charging stone to recharge the world field usage time.",
+        "Russian_Text": "",
+        "Chinese_Text": "无法输入过期的世界字段。您可以使用充电石来为世界领域的使用时间充电。"
+    },
+    "8004667": {
+        "Dev_Desc": "연합 / 대표 문파 위임 / 위임 안내",
+        "Original_Text": "해당 문파에게 대표 문파 직위를 위임하겠습니까?",
+        "English_Text": "Would you like to delegate the title of representative clan to that clan?",
+        "Russian_Text": "",
+        "Chinese_Text": "是否要将代表氏族的称号授予该氏族？"
+    },
+    "8004668": {
+        "Dev_Desc": "연합 / 대표 문파 위임 / 안내2",
+        "Original_Text": "연합장의 모든 권한이 이전되며,\\n일반 문파로 직위가 변경됩니다.",
+        "English_Text": "All powers of the union leader will be transferred,\\nand the position will be changed to a general clan.",
+        "Russian_Text": "",
+        "Chinese_Text": "工会领袖的所有权力将被转移，\\n职位将更改为一般氏族。"
+    },
+    "8004669": {
+        "Dev_Desc": "문파 / 관리 / 위임/ 위임자 아이디 표시",
+        "Original_Text": "대상 문파",
+        "English_Text": "target sect",
+        "Russian_Text": "",
+        "Chinese_Text": "目标教派"
+    },
+    "8004670": {
+        "Dev_Desc": "연합 / 버튼 / 연합 창설",
+        "Original_Text": "연합 창설",
+        "English_Text": "Founding of the Union",
+        "Russian_Text": "",
+        "Chinese_Text": "联盟的成立"
+    },
+    "8004671": {
+        "Dev_Desc": "제작 커스텀 탭 이름 / 보옥",
+        "Original_Text": "보옥",
+        "English_Text": "jewel",
+        "Russian_Text": "",
+        "Chinese_Text": "宝石"
+    },
+    "8004672": {
+        "Dev_Desc": "제작 커스텀 탭 이름 / 제작 재료",
+        "Original_Text": "제작 재료",
+        "English_Text": "crafting material",
+        "Russian_Text": "",
+        "Chinese_Text": "制作材料"
+    },
+    "8004673": {
+        "Dev_Desc": "문파 / 문파원 / 추방 / 안내",
+        "Original_Text": "선택한 문파를 추방합니다.",
+        "English_Text": "Exile the selected clan.",
+        "Russian_Text": "",
+        "Chinese_Text": "放逐选定的氏族。"
+    },
+    "8004674": {
+        "Dev_Desc": "문파 / 문파원 / 추방 / 추방 설명",
+        "Original_Text": "추방할 문파 선택",
+        "English_Text": "Choose which faction to exile",
+        "Russian_Text": "",
+        "Chinese_Text": "选择流放哪个派系"
+    },
+    "8004675": {
+        "Dev_Desc": "아이템 / 아이템 소분류 / ",
+        "Original_Text": "소모품",
+        "English_Text": "Expendables",
+        "Russian_Text": "",
+        "Chinese_Text": "消耗品"
+    },
+    "8004676": {
+        "Dev_Desc": "설정 / 전투 옵션",
+        "Original_Text": "적대연합",
+        "English_Text": "hostile coalition",
+        "Russian_Text": "",
+        "Chinese_Text": "敌对联盟"
+    },
+    "8004677": {
+        "Dev_Desc": "설정 / 전투 옵션",
+        "Original_Text": "소속연합",
+        "English_Text": "affiliated association",
+        "Russian_Text": "",
+        "Chinese_Text": "附属协会"
+    },
+    "8004678": {
+        "Dev_Desc": "설정 / 전투 옵션",
+        "Original_Text": "동맹연합",
+        "English_Text": "alliance",
+        "Russian_Text": "",
+        "Chinese_Text": "联盟"
+    },
+    "8004679": {
+        "Dev_Desc": "설정 / 전투 옵션",
+        "Original_Text": "적대 연합장",
+        "English_Text": "hostile coalition leader",
+        "Russian_Text": "",
+        "Chinese_Text": "敌对联盟领导人"
+    },
+    "8004680": {
+        "Dev_Desc": "설정 / 전투 옵션",
+        "Original_Text": "소속 연합장",
+        "English_Text": "affiliated union leader",
+        "Russian_Text": "",
+        "Chinese_Text": "附属工会领袖"
+    },
+    "8004681": {
+        "Dev_Desc": "설정 / 전투 옵션",
+        "Original_Text": "동맹 연합장",
+        "English_Text": "alliance leader",
+        "Russian_Text": "",
+        "Chinese_Text": "联盟领袖"
+    },
+    "8004682": {
+        "Dev_Desc": "제작 커스텀 탭 이름 / 붉은 달의 주화",
+        "Original_Text": "붉은 달의 주화",
+        "English_Text": "red moon coin",
+        "Russian_Text": "",
+        "Chinese_Text": "红月币"
+    },
+    "8004683": {
+        "Dev_Desc": "제작 커스텀 탭 이름 / 혼돈의 조각",
+        "Original_Text": "혼돈의 조각",
+        "English_Text": "fragment of chaos",
+        "Russian_Text": "",
+        "Chinese_Text": "混乱的碎片"
+    },
+    "8004684": {
+        "Dev_Desc": "제작 커스텀 탭 이름 / 생명의 ",
+        "Original_Text": "생명의 수호령 소환서 제작 티켓",
+        "English_Text": "Lifeguard Summon Scroll Crafting Ticket",
+        "Russian_Text": "",
+        "Chinese_Text": "救生员召唤卷轴制作票"
+    },
+    "8004685": {
+        "Dev_Desc": "환경설정 / 계정 / 결제 계정 정보",
+        "Original_Text": "ONEstore 결제 계정 변경",
+        "English_Text": "Change your ONEstore billing account",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004686": {
+        "Dev_Desc": "무공 / 무공 설명 / 단계5",
+        "Original_Text": "초월",
+        "English_Text": "transcendence",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004687": {
+        "Dev_Desc": "제작 커스텀 탭 이름 / 달빛의 증표",
+        "Original_Text": "달빛의 증표",
+        "English_Text": "mark of moonlight",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004688": {
+        "Dev_Desc": "제작 커스텀 탭 이름 / 절대 강자 블랙",
+        "Original_Text": "절대 강자 블랙",
+        "English_Text": "absolute strong black",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004689": {
+        "Dev_Desc": "제작 커스텀 탭 이름 / 신비의 깃털",
+        "Original_Text": "신비의 깃털",
+        "English_Text": "Mysterious Feather",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004690": {
+        "Dev_Desc": "로그인 UI / 타이틀 하단 문구(TX용)",
+        "Original_Text": "\"회사는 온라인게임산업 중독방지자율협약을 적극 시행한다.\\n\\n나쁜 게임에 저항하고 불법 복제 게임을 거부합니다. 자기 보호에 주의하고 속지 않도록 주의하십시오. 적당한 게임은 게임 음료에 중독된 두뇌에 도움이 됩니다. 시간을 합리적으로 계획하고 건강한 삶을 즐기십시오.\\n\\n국가언론발행청의 미성년자 온라인 게임 중독 방지에 관한 고시 및 미성년자의 온라인 게임 도용 방지를 위한 더욱 엄중한 관리에 관한 고시에 따르면 모든 온라인 게임 이용자는 실명 등록을 완료해야 한다. 유효한 신원 정보가 있는 계정으로 게임에 입장할 수 있으며 미성년자로 인증된 플레이어는 중독 방지 기능에 의해 제한됩니다.\"",
+        "English_Text": "\"The company actively implements the online game industry addiction prevention voluntary agreement.\\n\\nResist against bad games and reject pirated games. Pay attention to self-protection and be careful not to be deceived. Moderate games are the brains addicted to game drinks. Plan your time rationally and enjoy a healthy life.\\n\\nNotice on the National Press Office's Notice on Prevention of Online Game Addiction for Minors and Strict Management for Prevention of Online Game Theft by Minors According to the report, all online game users must complete real-name registration. Accounts with valid identity information can enter the game, and players who are authenticated as minors are restricted by anti-addiction features.\"",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004691": {
+        "Dev_Desc": "채팅 / 이용자 보호 안내",
+        "Original_Text": "비방/욕설/음란/광고 등 불건전 행위는 운영 정책에 의거 제재 대상이 되며, 피해가 발생 할 수 있으므로 결제정보 및 개인정보는 절대 타인에게 공개하지 마시기 바랍니다.",
+        "English_Text": "Unwholesome acts such as slander, abusive language, obscene/advertising, etc. are subject to sanctions according to the operation policy and may cause damage, so please do not disclose payment information and personal information to others.",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004692": {
+        "Dev_Desc": "제작 / 장비함",
+        "Original_Text": "장비함",
+        "English_Text": "equipment box",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004693": {
+        "Dev_Desc": "제작 / 비사문의 비밀 증표",
+        "Original_Text": "비사문의 비밀 주화",
+        "English_Text": "Secret Coin of the Secret",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004694": {
+        "Dev_Desc": "파티던전 / 존 버프",
+        "Original_Text": "<arg p=[1:integer]/>종",
+        "English_Text": "<arg p=[1:integer]/>species",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004695": {
+        "Dev_Desc": "파티던전 / 존 버프",
+        "Original_Text": "핫타임 이펙트 정보",
+        "English_Text": "Hot Time Effect Information",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004696": {
+        "Dev_Desc": "파티던전 / 존 버프",
+        "Original_Text": "이펙트 정보",
+        "English_Text": "Effect information",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004697": {
+        "Dev_Desc": "블레이드 효과 악녀강림Lv.1",
+        "Original_Text": "블레이드 효과 악녀강림 Lv.1",
+        "English_Text": "Blade Effect Advent of the Devil Lv.1",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004698": {
+        "Dev_Desc": "블레이드 효과 악녀강림Lv.2",
+        "Original_Text": "블레이드 효과 악녀강림 Lv.2",
+        "English_Text": "Blade Effect Advent of the Devil Lv.2",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004699": {
+        "Dev_Desc": "영웅 5성/블레이드 효과 악녀강림Lv.3",
+        "Original_Text": "블레이드 효과 악녀강림 Lv.3\\n무공 사용 시 소울 발동",
+        "English_Text": "Blade Effect Advent of the Villainess Lv.3\\nSoul is activated when using martial arts",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004700": {
+        "Dev_Desc": "블레이드 효과 악녀강림Lv.3",
+        "Original_Text": "블레이드 효과 악녀강림 Lv.3",
+        "English_Text": "Blade Effect Advent of the Devil Lv.3",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004701": {
+        "Dev_Desc": "전설 3성/블레이드 효과 악녀강림Lv.4",
+        "Original_Text": "블레이드 효과 악녀강림 Lv.4\\n무공 사용 시 소울 발동",
+        "English_Text": "Blade Effect Advent of the Villainess Lv.4\\nSoul is activated when using martial arts",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004702": {
+        "Dev_Desc": "전설 5성/블레이드 효과 악녀강림Lv.5",
+        "Original_Text": "블레이드 효과 악녀강림 Lv.5\\n무공 공격 속도 증가",
+        "English_Text": "Blade Effect Devil's Advent Lv.5\\nIncrease attack speed without attack",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004703": {
+        "Dev_Desc": "제작/ 파티 던전 / 희생의 무덤",
+        "Original_Text": "희생의 무덤",
+        "English_Text": "tomb of sacrifice",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004704": {
+        "Dev_Desc": "제작/ 파티 던전 / 바다뱀 보급기지",
+        "Original_Text": "바다뱀 보급기지",
+        "English_Text": "sea ​​snake supply base",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004705": {
+        "Dev_Desc": "블레이드 효과 취향존중Lv.1",
+        "Original_Text": "블레이드 효과 취향존중 Lv.1",
+        "English_Text": "Blade Effect Respect for Taste Lv.1",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004706": {
+        "Dev_Desc": "블레이드 효과 취향존중Lv.2",
+        "Original_Text": "블레이드 효과 취향존중 Lv.2",
+        "English_Text": "Blade Effect Respect for Taste Lv.2",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004707": {
+        "Dev_Desc": "블레이드 효과 취향존중Lv.3",
+        "Original_Text": "블레이드 효과 취향존중 Lv.3",
+        "English_Text": "Blade Effect Respect for Taste Lv.3",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004708": {
+        "Dev_Desc": "영웅 5성/블레이드 효과 취향존중Lv.3",
+        "Original_Text": "블레이드 효과 취향존중 Lv.3\\n무공 사용 시 소울 발동",
+        "English_Text": "Blade Effect Respect for Taste Lv.3\\nSoul is activated when using martial arts",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004709": {
+        "Dev_Desc": "블레이드 효과 허약함Lv.1",
+        "Original_Text": "블레이드 효과 허약함 Lv.1",
+        "English_Text": "Weak blade effect Lv.1",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004710": {
+        "Dev_Desc": "블레이드 효과 허약함Lv.2",
+        "Original_Text": "블레이드 효과 허약함 Lv.2",
+        "English_Text": "Weak blade effect Lv.2",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004711": {
+        "Dev_Desc": "블레이드 효과 허약함Lv.3",
+        "Original_Text": "블레이드 효과 허약함 Lv.3",
+        "English_Text": "Weak blade effect Lv.3",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004712": {
+        "Dev_Desc": "영웅 5성/블레이드 효과 허약함Lv.3",
+        "Original_Text": "블레이드 효과 허약함 Lv.3\\n무공 사용 시 소울 발동",
+        "English_Text": "Weak blade effect Lv.3\\nActivate soul when using no attack",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004713": {
+        "Dev_Desc": "제작 / 비법서 / 특별 제작",
+        "Original_Text": "장비 전환",
+        "English_Text": "equipment conversion",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004714": {
+        "Dev_Desc": "제작 / 비법서 / 일반 제작",
+        "Original_Text": "조각 합성",
+        "English_Text": "Fragment Synthesis",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004715": {
+        "Dev_Desc": "제작 / 이벤트 / 환상의 짝꿍",
+        "Original_Text": "환상의 짝꿍",
+        "English_Text": "fantastic mate",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004716": {
+        "Dev_Desc": "결제 계졍 연동 오류",
+        "Original_Text": "현금 결제 상품은 원스토어 로그인 후 구매가 가능합니다.",
+        "English_Text": "Cash payment products can be purchased after logging in to One Store.",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004717": {
+        "Dev_Desc": "제작 / 한여름의 반달호수",
+        "Original_Text": "한여름의 반달호수",
+        "English_Text": "half moon lake in midsummer",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004718": {
+        "Dev_Desc": "수호령 / 성장",
+        "Original_Text": "Lv.<arg p=[1:integer]/>",
+        "English_Text": "Lv.<arg p=[1:integer]/>",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004719": {
+        "Dev_Desc": "수호령 / 성장",
+        "Original_Text": "수호령 탐험대",
+        "English_Text": "guardian spirit expedition",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004720": {
+        "Dev_Desc": "수호령 / 성장",
+        "Original_Text": "소환 능력치",
+        "English_Text": "Summon ability",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004721": {
+        "Dev_Desc": "수호령 / 성장",
+        "Original_Text": "탐험 능력치",
+        "English_Text": "Exploration Skills",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004722": {
+        "Dev_Desc": "수호령 / 성장",
+        "Original_Text": "전투력",
+        "English_Text": "combat power",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004723": {
+        "Dev_Desc": "수호령 / 성장",
+        "Original_Text": "속성",
+        "English_Text": "property",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004724": {
+        "Dev_Desc": "수호령 / 성장",
+        "Original_Text": "리더 스킬",
+        "English_Text": "leader skill",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004725": {
+        "Dev_Desc": "수호령 / 성장",
+        "Original_Text": "탐험 스킬",
+        "English_Text": "exploration skills",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004726": {
+        "Dev_Desc": "수호령 / 성장",
+        "Original_Text": "<arg p=[1:string]/> Lv.<arg p=[2:integer]/>",
+        "English_Text": "<arg p=[1:string]/>Lv.<arg p=[2:integer]/>",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004727": {
+        "Dev_Desc": "수호령 / 성장",
+        "Original_Text": "수호령 성급 <arg p=[1:integer]/>성일 시 활성화",
+        "English_Text": "Guardian Spirit Star <arg p=[1:integer]/>Activated when holy day",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004728": {
+        "Dev_Desc": "수호령 / 성장",
+        "Original_Text": "파편 주입",
+        "English_Text": "fragment injection",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004729": {
+        "Dev_Desc": "수호령 / 성장",
+        "Original_Text": "탐험 중 ",
+        "English_Text": "Exploring",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004730": {
+        "Dev_Desc": "수호령 / 성장",
+        "Original_Text": "성장 정보",
+        "English_Text": "growth information",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004731": {
+        "Dev_Desc": "수호령 / 성장",
+        "Original_Text": "Lv.<arg p=[1:integer]/> - <arg p=[2:integer]/>",
+        "English_Text": "Lv.<arg p=[1:integer]/>- <arg p=[2:integer]/>",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004732": {
+        "Dev_Desc": "수호령 / 성장",
+        "Original_Text": "추가 속성 부여",
+        "English_Text": "give additional attributes",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004733": {
+        "Dev_Desc": "수호령 / 성장",
+        "Original_Text": "성장",
+        "English_Text": "growth",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004734": {
+        "Dev_Desc": "수호령 / 성장",
+        "Original_Text": "성공확률이 최대치인 상태입니다.",
+        "English_Text": "The success rate is at its maximum.",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004735": {
+        "Dev_Desc": "수호령 / 성장",
+        "Original_Text": "[<arg p=[1:string]/>]이 부족하여 성장할 수 없습니다.",
+        "English_Text": "Could not grow due to insufficient [<arg p=[1:string]/>].",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004736": {
+        "Dev_Desc": "수호령 / 성장",
+        "Original_Text": "성공 확률",
+        "English_Text": "probability of success",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004737": {
+        "Dev_Desc": "수호령 / 성장",
+        "Original_Text": "<arg p=[1:integer]/>%",
+        "English_Text": "<arg p=[1:integer]/>%",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004738": {
+        "Dev_Desc": "수호령 / 성장",
+        "Original_Text": "성장 확률 <arg p=[1:integer]/>% 증가",
+        "English_Text": "Increases growth rate by <arg p=[1:integer]/>%",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004739": {
+        "Dev_Desc": "수호령 / 성장",
+        "Original_Text": "성공 확률 <arg p=[1:integer]/>% (<arg p=[2:integer]/>%+<arg p=[3:integer]/>%)",
+        "English_Text": "Probability of success <arg p=[1:integer]/>% (<arg p=[2:integer]/>%+<arg p=[3:integer]/>%)",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004740": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "탐험 Lv.<arg p=[1:integer]/>",
+        "English_Text": "Exploration Lv.<arg p=[1:integer]/>",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004741": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "탐험 중 <arg p=[1:integer]/>/<arg p=[2:integer]/>",
+        "English_Text": "Exploring <arg p=[1:integer]/>/<arg p=[2:integer]/>",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004742": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "수호령 파티 슬롯",
+        "English_Text": "Guardian Spirit Party Slots",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004743": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "동시 탐험 가능 수",
+        "English_Text": "Number of simultaneous explorations",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004744": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "<arg p=[1:integer]/>등급",
+        "English_Text": "<arg p=[1:integer]/>class",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004745": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "승급",
+        "English_Text": "advancement",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004746": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "탐험 레벨 정보",
+        "English_Text": "Exploration level information",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004747": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "Lv.<arg p=[1:integer]/>",
+        "English_Text": "Lv.<arg p=[1:integer]/>",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004748": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "수호령 파티 슬롯 수",
+        "English_Text": "Number of Guardian Spirit Party Slots",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004749": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "동시 탐험 최대치",
+        "English_Text": "Simultaneous Exploration Maximum",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004750": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "+<arg p=[1:integer]/>",
+        "English_Text": "+<arg p=[1:integer]/>",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004751": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "남음",
+        "English_Text": "leftover",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004752": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "지역 승급",
+        "English_Text": "Regional Upgrade",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004753": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "<arg p=[1:string]/> <arg p=[2:integer]/>등급",
+        "English_Text": "<arg p=[1:string]/><arg p=[2:integer]/>class",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004754": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "<arg p=[1:string]/> 지역 <arg p=[2:string]/> 난이도 해금",
+        "English_Text": "<arg p=[1:string]/>Region <arg p=[2:string]/>Difficulty unlocked",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004755": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "승급 재료",
+        "English_Text": "upgrade material",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004756": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "각 지역의 등급 상승 시 탐험 레벨이 증가합니다.",
+        "English_Text": "Exploration level increases as the rank of each region rises.",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004757": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "<arg p=[1:integer]/> 지역 경험치",
+        "English_Text": "<arg p=[1:integer]/>local experience",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004758": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "속성 정보",
+        "English_Text": "attribute information",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004759": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "탐험 보상",
+        "English_Text": "Exploration Rewards",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004760": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "탐험 비용",
+        "English_Text": "Exploration cost",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004761": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "탐험 준비",
+        "English_Text": "ready to explore",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004762": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "<arg p=[1:string]/> (<arg p=[2:string]/>)",
+        "English_Text": "<arg p=[1:string]/>(<arg p=[2:string]/>)",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004763": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "남은 시간",
+        "English_Text": "Time remaining",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004764": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "탐험 취소",
+        "English_Text": "expedition cancel",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004765": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "즉시 완료",
+        "English_Text": "done immediately",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004766": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "탐험 완료",
+        "English_Text": "Exploration completed",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004767": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "재화가 부족하여 탐험을 즉시 완료할 수 없습니다.",
+        "English_Text": "The expedition cannot be completed immediately due to lack of resources.",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004768": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "진행 중인 탐험을 취소하시겠습니까?",
+        "English_Text": "Are you sure you want to cancel an expedition in progress?",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004769": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "탐험 취소 시 보상을 획득할 수 없습니다.",
+        "English_Text": "No rewards can be obtained if the expedition is cancelled.",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004770": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "취소",
+        "English_Text": "cancellation",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004771": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "탐험을 즉시 완료하시겠습니까?",
+        "English_Text": "Would you like to complete the expedition immediately?",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004772": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "즉시 완료 횟수는 매 8시간 마다 1회씩 충전됩니다.",
+        "English_Text": "Immediate completion counts are charged once every 8 hours.",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004773": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "남은 횟수 <arg p=[1:integer]/>/<arg p=[2:integer]/> 회",
+        "English_Text": "Remaining counts <arg p=[1:integer]/>/<arg p=[2:integer]/>times",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004774": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "완료 비용",
+        "English_Text": "cost of completion",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004775": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "‘<arg p=[1:string]/>(<arg p=[2:string]/>)’ 탐험을 취소하였습니다.",
+        "English_Text": "Canceled expedition ‘<arg p=[1:string]/>(<arg p=[2:string]/>)’.",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004776": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "남은 즉시 완료 횟수가 부족하여 탐험을 즉시 완료할 수 없습니다.",
+        "English_Text": "The expedition cannot be completed immediately due to insufficient number of immediate completions remaining.",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004777": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "탐험 결과",
+        "English_Text": "Exploration results",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004778": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "탐험 소요 시간",
+        "English_Text": "Exploration time",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004779": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "확인",
+        "English_Text": "Confirm",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004780": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "재탐험",
+        "English_Text": "re-explore",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004781": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "<arg p=[1:string]/> (<arg p=[2:string]/>) 재탐험 하시겠습니까?",
+        "English_Text": "<arg p=[1:string]/>(<arg p=[2:string]/>) Re-explore?",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004782": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "동일한 난이도와 수호령으로 탐험을 다시 시작합니다.",
+        "English_Text": "Resumes the expedition with the same difficulty and guardian spirit.",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004783": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "취소",
+        "English_Text": "cancellation",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004784": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "탐험 비용이 부족하여 탐험을 할 수 없습니다.",
+        "English_Text": "Exploration cannot be done due to insufficient expedition costs.",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004785": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "‘<arg p=[1:string]/>(<arg p=[2:string]/>)’ 탐험을 시작합니다.",
+        "English_Text": "Start exploring ‘<arg p=[1:string]/>(<arg p=[2:string]/>)’.",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004786": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "재료 선택",
+        "English_Text": "material selection",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004787": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "선택한 순서대로 재료를 사용합니다.",
+        "English_Text": "Use the materials in the order you select them.",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004788": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "<arg p=[1:integer]/>/<arg p=[2:integer]/>",
+        "English_Text": "<arg p=[1:integer]/>/<arg p=[2:integer]/>",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004789": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "<arg p=[1:integer]/>종 선택",
+        "English_Text": "<arg p=[1:integer]/>select species",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004790": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "확인",
+        "English_Text": "Confirm",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004791": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "보유중인 탐험 재료가 없습니다.",
+        "English_Text": "There are no exploration materials in stock.",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004792": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "보유하지 않은 물품입니다.",
+        "English_Text": "This item is not in stock.",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004793": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "필요 전투력",
+        "English_Text": "Required Combat Strength",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004794": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "소요 시간",
+        "English_Text": "time taken",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004795": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "속성 보상 획득 가능",
+        "English_Text": "Attribute rewards can be obtained",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004796": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "지역 속성",
+        "English_Text": "local properties",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004797": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "<arg p=[1:string]/> 속성",
+        "English_Text": "<arg p=[1:string]/>attribute",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004798": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "상극 속성 대응 보상",
+        "English_Text": "Compensation for polarity attributes",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004799": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "자동 선택",
+        "English_Text": "automatic selection",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004800": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "탐험",
+        "English_Text": "adventure",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004801": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "‘<arg p=[1:string]/>’ <arg p=[2:integer]/>등급 달성 시 탐험할 수 있습니다.",
+        "English_Text": "‘<arg p=[1:string]/>’ <arg p=[2:integer]/>Can be explored upon reaching rank.",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004802": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "탐험 Lv. <arg p=[2:integer]/> 이상 등록할 수 있습니다.",
+        "English_Text": "Exploration Lv. You can register more than <arg p=[2:integer]/>.",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004803": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "탐험을 시작할 수호령을 등록해주세요",
+        "English_Text": "Register a Guardian Spirit to start your expedition",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004804": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "수호령 탐험대의 전투력이 부족합니다.",
+        "English_Text": "The combat power of the guardian spirit expedition is insufficient.",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004805": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "동시 탐험 가능 최대치를 초과하여 탐험을 진행할 수 없습니다.",
+        "English_Text": "Exploration cannot proceed beyond the maximum number of simultaneous expeditions.",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004806": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "적용 중인 스킬이 없습니다.",
+        "English_Text": "No skills are being applied.",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004807": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "소환 중인 수호령입니다.",
+        "English_Text": "This is the guardian spirit being summoned.",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004808": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "이미 탐험 진행중인 수호령입니다.",
+        "English_Text": "It is a guardian spirit that is already in the process of being explored.",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004809": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "<arg p=[1:string]/> 을/를 보유하고 있지 않습니다.",
+        "English_Text": "Does not hold <arg p=[1:string]/>.",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004810": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "<arg p=[1:string]/> 을/를 등록 해제했습니다.",
+        "English_Text": "Unregistered <arg p=[1:string]/>.",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004811": {
+        "Dev_Desc": "제작 / 기타 / 주화",
+        "Original_Text": "주화",
+        "English_Text": "coinage",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004812": {
+        "Dev_Desc": "제작 / 이벤트 / 비사문의 특별 주화",
+        "Original_Text": "비사문의 특별 주화",
+        "English_Text": "Bishamun's Special Coin",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004813": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "탐험",
+        "English_Text": "adventure",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004814": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "탐험 중",
+        "English_Text": "Exploring",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004815": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "지역 활성화 후 탐험 할 수 있습니다.",
+        "English_Text": "You can explore after activating the area.",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004816": {
+        "Dev_Desc": "제작/ 한정 / 매월 초기화",
+        "Original_Text": "매월 <arg p=[1:integer]/>일 <arg p=[2:string]/> <arg p=[3:integer]/>시 초기화",
+        "English_Text": "Initialize at <arg p=[1:integer]/>days of the month <arg p=[2:string]/><arg p=[3:integer]/>",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004817": {
+        "Dev_Desc": "TJ쿠폰 / 탭 / 소울 합성 재도전",
+        "Original_Text": "소울 합성 재도전",
+        "English_Text": "Soul Composite Retry",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004818": {
+        "Dev_Desc": "TJ쿠폰 / 탭 / 수호령 합성 재도전",
+        "Original_Text": "수호령 합성 재도전",
+        "English_Text": "Guardian Spirit Composite Retry",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004819": {
+        "Dev_Desc": "TJ쿠폰 / 탭 / 상점 장신구 복구",
+        "Original_Text": "상점 장신구 복구",
+        "English_Text": "shop trinkets recovery",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004820": {
+        "Dev_Desc": "TJ쿠폰 / 버튼 / 재도전",
+        "Original_Text": "재도전",
+        "English_Text": "retry",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004821": {
+        "Dev_Desc": "TJ쿠폰 / 버튼 / 가격",
+        "Original_Text": "<arg p=[1:integer]/>",
+        "English_Text": "<arg p=[1:integer]/>",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004822": {
+        "Dev_Desc": "TJ쿠폰 / 버튼 / 희귀 소울 합성",
+        "Original_Text": "희귀 소울 합성",
+        "English_Text": "Rare Soul Synthesis",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004823": {
+        "Dev_Desc": "TJ쿠폰 / 버튼 / 영웅 소울 합성",
+        "Original_Text": "영웅 소울 합성",
+        "English_Text": "Hero Soul Synthesis",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004824": {
+        "Dev_Desc": "TJ쿠폰 / 버튼 / 전설 소울 합성",
+        "Original_Text": "전설 소울 합성",
+        "English_Text": "Legendary Soul Synthesis",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004825": {
+        "Dev_Desc": "TJ쿠폰 / 설명 / 텍스트",
+        "Original_Text": "아래 기간동안 시도한 가장 높은 등급의 소울 합성을 다시 도전할 수 있습니다.",
+        "English_Text": "You can retry the highest rated Soul Synthesis attempted during the period below.",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004826": {
+        "Dev_Desc": "TJ쿠폰 / 설명 / 텍스트",
+        "Original_Text": "2021년 8월 23일~2022년 8월 16일 24:00 기준 / 이력 없을 시 희귀 등급 도전 가능",
+        "English_Text": "From August 23, 2021 to August 16, 2022, 24:00",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004827": {
+        "Dev_Desc": "TJ쿠폰 / 버튼 / 희귀 수호령 합성",
+        "Original_Text": "희귀 수호령 합성",
+        "English_Text": "Rare Guardian Spirit Synthesis",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004828": {
+        "Dev_Desc": "TJ쿠폰 / 버튼 / 영웅 수호령 합성",
+        "Original_Text": "영웅 수호령 합성",
+        "English_Text": "Hero Guardian Spirit Synthesis",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004829": {
+        "Dev_Desc": "TJ쿠폰 / 버튼 / 전설 수호령 합성",
+        "Original_Text": "전설 수호령 합성",
+        "English_Text": "Legendary Guardian Spirit Synthesis",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004830": {
+        "Dev_Desc": "TJ쿠폰 / 설명 / 텍스트",
+        "Original_Text": "아래 기간동안 시도한 가장 높은 등급의 수호령 합성을 다시 도전할 수 있습니다.",
+        "English_Text": "You can try again the highest level of guardian spirit synthesis you have tried during the period below.",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004831": {
+        "Dev_Desc": "TJ쿠폰 / 설명 / 텍스트",
+        "Original_Text": "2021년 8월 23일~2022년 8월 16일 24:00 기준 / 이력 없을 시 희귀 등급 도전 가능",
+        "English_Text": "From August 23, 2021 to August 16, 2022, 24:00",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004832": {
+        "Dev_Desc": "TJ쿠폰 / 버튼 / 장신구 복구 01",
+        "Original_Text": "뇌성의 포효 복구",
+        "English_Text": "Thunder Roar Recovery",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004833": {
+        "Dev_Desc": "TJ쿠폰 / 버튼 / 장신구 복구 02",
+        "Original_Text": "백합의 불꽃 복구",
+        "English_Text": "Lily's Flame Restoration",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004834": {
+        "Dev_Desc": "TJ쿠폰 / 버튼 / 장신구 복구 03",
+        "Original_Text": "타락의 속삭임 복구",
+        "English_Text": "Whispers of Corruption Restoration",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004835": {
+        "Dev_Desc": "TJ쿠폰 / 버튼 / 장신구 복구 04",
+        "Original_Text": "질풍의 진노 복구",
+        "English_Text": "Windfury's Wrath Restoration",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004836": {
+        "Dev_Desc": "TJ쿠폰 / 설명 / 텍스트",
+        "Original_Text": "아래 기간동안 시도한 가장 높은 등급의 아이템을 다시 복구받을 수 있습니다.",
+        "English_Text": "You can recover the highest rated item you tried during the period below.",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004837": {
+        "Dev_Desc": "TJ쿠폰 / 설명 / 텍스트",
+        "Original_Text": "2021년 8월 23일~2022년 8월 16일 24:00 기준 / 이력 없을 시 희귀 등급 도전 가능",
+        "English_Text": "From August 23, 2021 to August 16, 2022, 24:00",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004838": {
+        "Dev_Desc": "강화 결과 화면 / 단계 유지 보상 타이틀",
+        "Original_Text": "단계 유지 보상",
+        "English_Text": "level up reward",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004839": {
+        "Dev_Desc": "비사문 전설 상인",
+        "Original_Text": "비밀 상인",
+        "English_Text": "secret trader",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004840": {
+        "Dev_Desc": "방랑상인",
+        "Original_Text": "방랑 상인",
+        "English_Text": "wandering trader",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004841": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "수",
+        "English_Text": "number",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004842": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "금",
+        "English_Text": "gold",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004843": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "목",
+        "English_Text": "neck",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004844": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "화",
+        "English_Text": "fury",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004845": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "풍",
+        "English_Text": "wind",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004846": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "뇌",
+        "English_Text": "brain",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004847": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "명",
+        "English_Text": "number of people",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004848": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "암",
+        "English_Text": "cancer",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004849": {
+        "Dev_Desc": "특화 서버 / 태그",
+        "Original_Text": "<arg p=[1:string]/> 서버",
+        "English_Text": "<arg p=[1:string]/>server",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004850": {
+        "Dev_Desc": "캐시상점 / IAP 구매 실패 팝업",
+        "Original_Text": "일시적 오류가 발생했습니다.\\n(<arg p=[1:string]/> : <arg p=[2:integer]/>)",
+        "English_Text": "A transient error occurred.\\n(<arg p=[1:string]/>: <arg p=[2:integer]/>)",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004851": {
+        "Dev_Desc": "캐시상점 / IAP 구매 실패 팝업",
+        "Original_Text": "원스토어 업데이트 후 구매가 가능합니다.",
+        "English_Text": "You can purchase after the OneStore update.",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004852": {
+        "Dev_Desc": "캐시상점 / IAP 구매 실패 팝업",
+        "Original_Text": "원스토어 로그인 후 구매가 가능합니다.",
+        "English_Text": "You can purchase after logging in to One Store.",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004853": {
+        "Dev_Desc": "캐시상점 / IAP 구매 실패 팝업",
+        "Original_Text": "계정 정보가 잘못됐습니다. <arg p=[1:integer]/>",
+        "English_Text": "Your account information is incorrect. <arg p=[1:integer]/>",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004854": {
+        "Dev_Desc": "채팅 / 채팅 설정 / 자동 번역",
+        "Original_Text": "자동 번역",
+        "English_Text": "automatic translation",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004855": {
+        "Dev_Desc": "채팅 / 채팅 설정 / 적용 버튼",
+        "Original_Text": "적용",
+        "English_Text": "apply",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004856": {
+        "Dev_Desc": "채팅 / 채팅 설정 / 미적용 버튼",
+        "Original_Text": "미적용",
+        "English_Text": "Unapplied",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004857": {
+        "Dev_Desc": "제작 / 이벤트 / 수호의 기운",
+        "Original_Text": "수호의 기운",
+        "English_Text": "energy of protection",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004858": {
+        "Dev_Desc": "파티던전 / 존 버프",
+        "Original_Text": "핫타임 이벤트",
+        "English_Text": "hot time event",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004859": {
+        "Dev_Desc": "제작 커스텀 탭 이름 / 신비의 깃털 Ⅱ",
+        "Original_Text": "신비의 깃털 Ⅱ",
+        "English_Text": "Mysterious Feather II",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004860": {
+        "Dev_Desc": "거래소 / 분류 / 장신구 / 인장",
+        "Original_Text": "인장",
+        "English_Text": "Seal",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004861": {
+        "Dev_Desc": "\n타이틀 / 로그인 실패 / 연령 부족 / 타이틀",
+        "Original_Text": "연령 제한",
+        "English_Text": "age limit",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004862": {
+        "Dev_Desc": "타이틀 / 로그인 실패 / 연령 부족 / 설명",
+        "Original_Text": "서비스를 지원하지 않는 연령의 계정으로는 로그인이 불가능 합니다.",
+        "English_Text": "It is not possible to log in with an account of an age that does not support the service.",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004863": {
+        "Dev_Desc": "여정 / 잠긴 임무",
+        "Original_Text": "아직 진행할 수 없는 임무입니다.",
+        "English_Text": "This is a mission that cannot be completed yet.",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004864": {
+        "Dev_Desc": "아이템 서브 타입",
+        "Original_Text": "소모품",
+        "English_Text": "Expendables",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004865": {
+        "Dev_Desc": "아이템 서브 타입",
+        "Original_Text": "소모품",
+        "English_Text": "Expendables",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004866": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "전체",
+        "English_Text": "all",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004867": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "전설",
+        "English_Text": "Legend",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004868": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "영웅",
+        "English_Text": "hero",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004869": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "희귀",
+        "English_Text": "rare",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004870": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "상급",
+        "English_Text": "advanced",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004871": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "일반",
+        "English_Text": "Normal",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004872": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "다른 슬롯에 이미 등록된 수호령입니다.",
+        "English_Text": "A guardian spirit already registered in another slot.",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004873": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "장착",
+        "English_Text": "mounting",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004874": {
+        "Dev_Desc": "캐시상점 / IAP 구매 실패 팝업",
+        "Original_Text": "IAP Goods Missing\\n(<arg p=[1:string]/>)",
+        "English_Text": "IAP Goods Missing\\n(<arg p=[1:string]/>)",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004875": {
+        "Dev_Desc": "낙사",
+        "Original_Text": "추락하여 사망하였습니다.",
+        "English_Text": "fell and died.",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004876": {
+        "Dev_Desc": "균열 지배자",
+        "Original_Text": "균열 지배자",
+        "English_Text": "rift ruler",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004877": {
+        "Dev_Desc": "무공창 / 수라 강림 중",
+        "Original_Text": "수라 강림 중",
+        "English_Text": "During the advent of Sura",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004878": {
+        "Dev_Desc": "무공창 / 미장착 무공",
+        "Original_Text": "미장착 무공",
+        "English_Text": "not equipped",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004879": {
+        "Dev_Desc": "제작 / 이벤트 / 충각단의 증표",
+        "Original_Text": "충각단의 증표",
+        "English_Text": "Confidentiality's Token",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004880": {
+        "Dev_Desc": "유료 재화 충전 팝업 / 유료 신석",
+        "Original_Text": "유료 신석",
+        "English_Text": "paid new stone",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004881": {
+        "Dev_Desc": "유료 재화 충전 팝업 / 무료 신석",
+        "Original_Text": "무료 신석",
+        "English_Text": "free godstone",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004882": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "초기화",
+        "English_Text": "initialization",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004883": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "속성",
+        "English_Text": "property",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004884": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "전체",
+        "English_Text": "all",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004885": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "지역",
+        "English_Text": "region",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004886": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "탐험 스킬",
+        "English_Text": "exploration skills",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004887": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "탐험 시간 감소",
+        "English_Text": "Reduce Exploration Time",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004888": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "보상 획득량 증가",
+        "English_Text": "Increase the amount of reward earned",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004889": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "지역 경험치 획득량 증가",
+        "English_Text": "Increased area experience gain",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004890": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "탐험대 전투력 증가",
+        "English_Text": "Increase the expedition's combat power",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004891": {
+        "Dev_Desc": "수호령 / 수호령 탐험대",
+        "Original_Text": "탐험 중 플레이어 능력치 증가",
+        "English_Text": "Increase player stats while exploring",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004892": {
+        "Dev_Desc": "무공 / 무공타겟 / 자신",
+        "Original_Text": "SELF",
+        "English_Text": "SELF",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004893": {
+        "Dev_Desc": "제작 / 재료 / 무공 재료",
+        "Original_Text": "무공 재료",
+        "English_Text": "hollow material",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004894": {
+        "Dev_Desc": "제작 / 무공서 / 선택 상자",
+        "Original_Text": "선택 상자",
+        "English_Text": "selection box",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "8004895": {
+        "Dev_Desc": "무공 / 무공타겟 / 파티원 번호",
+        "Original_Text": "<arg p=[1:integer]>P",
+        "English_Text": "<arg p=[1:integer]>P",
+        "Russian_Text": "",
+        "Chinese_Text": ""
     }
 }

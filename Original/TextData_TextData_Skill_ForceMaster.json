@@ -305,7 +305,7 @@
         "Dev_Desc": "기공패 화광소천 효과 표시",
         "id": 60030044,
         "alias": "Contents.Skill.useEffectDesc.FireBangle.3651",
-        "text": "당기기, 밀치기, 기절, 화상"
+        "text": "당기기, 기절, 화상"
     },
     "60030045": {
         "deprecated": false,
@@ -375,7 +375,7 @@
         "Dev_Desc": "기공패 무공 회진보_설명",
         "id": 60030054,
         "alias": "Contents.Skill.Desc.FireBangle.3331",
-        "text": "불과 재의 모습으로 변하여 <textColor=[248:99:99:255]>기절</> 효과를 해제하고 후방으로 회피 합니다. 사용 시, 5초간 통제 저항률이 증가합니다."
+        "text": "불과 재의 모습으로 변하여 <textColor=[248:99:99:255]>기절</> 효과를 해제하고 후방으로 회피 합니다. 사용 시, 5초간 통제 저항률이 증가합니다.\n수동으로만 사용 가능합니다."
     },
     "60030055": {
         "deprecated": false,
@@ -487,7 +487,7 @@
         "Dev_Desc": "기공패 무공 화광소천_설명",
         "id": 60030070,
         "alias": "Contents.Skill.Desc.FireBangle.3651",
-        "text": "궁극의 화염폭풍을 형성하여 일정 확률로 끌어당긴 후 폭발시켜 밀어냅니다.\n범위 내 최대 5인까지 적중합니다.\n사용 중 통제 상태에 면역이 됩니다."
+        "text": "궁극의 화염폭풍을 형성하여 일정 확률로 <textColor=[248:99:99:255]>당기기</> 후 폭발시켜 <textColor=[248:99:99:255]>기절</>시킵니다.\n범위 내 최대 8인까지 적중합니다.\n막기 중인 대상을 일정 확률로 관통해 <textColor=[248:99:99:255]>기절</>시킵니다.\n사용 중 <textColor=[248:99:99:255]>통제</>, <textColor=[248:99:99:255]>빙결</>, <textColor=[248:99:99:255]>도발</>, <textColor=[248:99:99:255]>침묵</>, <textColor=[248:99:99:255]>행동불능</> 효과로 무공이 저지되지 않습니다."
     },
     "60030071": {
         "deprecated": false,
@@ -669,7 +669,7 @@
         "Dev_Desc": "연화_영웅_돌파_성장설명",
         "id": 60030096,
         "alias": "Contents.Skill.acquireEffectDesc.3354",
-        "text": "\"연화\" 최종 명중룰 +35%\n더 높은 확률로 <textColor=[248:99:99:255]>화상</> 효과 적용"
+        "text": "\"연화\" 최종 명중률 +35%\n더 높은 확률로 <textColor=[248:99:99:255]>화상</> 효과 적용"
     },
     "60030097": {
         "deprecated": false,
@@ -1103,14 +1103,14 @@
         "Dev_Desc": "패시브_천빙_둔화 빙결 추피",
         "id": 60030158,
         "alias": "Contents.Skill.useEffectDesc.FireBangle.3037",
-        "text": "빙결 상태의 대상 공격 시 추가 피해 적용"
+        "text": "빙결 상태의 대상 공격 시 추가 피해 적용,\n기공 공격력 +5"
     },
     "60030159": {
         "deprecated": false,
         "Dev_Desc": "기공패 패시브 천빙_설명",
         "id": 60030159,
         "alias": "Contents.Skill.Desc.FireBangle.3037",
-        "text": "한기로 무력화된 대상을 더욱 냉혹하게 공격합니다.\n<textColor=[248:99:99:255]>빙결</> 상태의 대상 공격 시 추가 피해를 적용합니다.\n추가 피해는 3초의 재사용 대기시간을 갖습니다."
+        "text": "한기로 무력화된 대상을 더욱 냉혹하게 공격합니다.\n<textColor=[248:99:99:255]>빙결</> 상태의 대상 공격 시 추가 피해를 적용합니다.\n추가 피해는 3초의 재사용 대기시간을 갖습니다.\n기공 공격력이 증가합니다."
     },
     "60030160": {
         "deprecated": false,
@@ -1307,5 +1307,26 @@
         "id": 60030187,
         "alias": "Contents.Effect.Option.FireBangle.300013",
         "text": "\"비륜연휘\"를 대기시간 없이 사용 가능"
+    },
+    "60030188": {
+        "deprecated": false,
+        "Dev_Desc": "기공패 패시브 혁작",
+        "id": 60030188,
+        "alias": "Contents.Skill.Name.FireBangle.3042",
+        "text": "혁작"
+    },
+    "60030189": {
+        "deprecated": false,
+        "Dev_Desc": "기공패 패시브 혁작",
+        "id": 60030189,
+        "alias": "Contents.Skill.Desc.FireBangle.3042",
+        "text": "붉은 불꽃과도 같은 공격적인 기운을 피워냅니다\n기공패 공격력과 기공 명중이 증가합니다."
+    },
+    "60030190": {
+        "deprecated": false,
+        "Dev_Desc": "기공패 패시브 혁작",
+        "id": 60030190,
+        "alias": "Contents.Skill.useEffectDesc.FireBangle.3042",
+        "text": "기공패 공격력 +8, 기공 명중 +4"
     }
 }

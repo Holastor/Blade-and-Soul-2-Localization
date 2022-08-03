@@ -655,14 +655,14 @@
         "Dev_Desc": "살우_설명",
         "id": 60050093,
         "alias": "Contents.Skill.Desc.LongBow.5090",
-        "text": "하늘로 도약해 대상에게 화살 폭풍을 퍼붓습니다.\n일정 확률로 범위 내 3인에게 <textColor=[248:99:99:255]>기절</> 효과를 적용합니다.\n사용 중 통제 상태에 면역이 됩니다."
+        "text": "하늘로 도약해 최대 5명의 적에게 화살 폭풍을 퍼부어 일정 확률로 <textColor=[248:99:99:255]>기절</>시킵니다. \n<textColor=[248:99:99:255]>기절</> 효과를 해제할 수 있으며 치명타 시 활 공격력을 증가시키는 <textColor=[136:161:235:255]>명사수</> 효과를 2초간 적용받습니다.\n막기 중인 대상을 일정 확률로 관통해 <textColor=[248:99:99:255]>기절</>시킵니다.\n사용 중 최종 회피율이 증가하며 <textColor=[248:99:99:255]>통제</>, <textColor=[248:99:99:255]>빙결</>, <textColor=[248:99:99:255]>도발</>, <textColor=[248:99:99:255]>침묵</>, <textColor=[248:99:99:255]>행동불능</> 효과로 무공이 저지되지 않습니다."
     },
     "60050094": {
         "deprecated": false,
         "Dev_Desc": "살우_효과",
         "id": 60050094,
         "alias": "Contents.Skill.UseEffect.LongBow.5090",
-        "text": "기절"
+        "text": "기절, 기절 해제, 명사수, 최종 회피율 +30%"
     },
     "60050095": {
         "deprecated": false,
@@ -795,7 +795,7 @@
         "Dev_Desc": "백발백중_효과",
         "id": 60050114,
         "alias": "Contents.Skill.UseEffect.LongBow.5880",
-        "text": "무기 공격력 증폭 +25%"
+        "text": "무기 공격력 증폭 +25%, 기교 관통력 +7"
     },
     "60050115": {
         "deprecated": false,
@@ -921,7 +921,7 @@
         "Dev_Desc": "백발백중",
         "id": 60050132,
         "alias": "Contents.Skill.Desc.LongBow.5880",
-        "text": "숙련된 활솜씨로 표적을 빗나가지 않습니다.\n무기 공격력 증폭이 증가합니다."
+        "text": "숙련된 활솜씨로 표적을 빗나가지 않습니다.\n무기 공격력 증폭과 기교 관통력이 증가합니다."
     },
     "60050133": {
         "deprecated": false,
@@ -1258,5 +1258,26 @@
         "id": 60050180,
         "alias": "Contents.Skill.acquireEffect.LongBow.5203",
         "text": "일정 확률로 소모한 내력의 절반을 반환"
+    },
+    "60050181": {
+        "deprecated": false,
+        "Dev_Desc": "철궁",
+        "id": 60050181,
+        "alias": "Contents.Skill.Name.LongBow.5940",
+        "text": "철궁"
+    },
+    "60050182": {
+        "deprecated": false,
+        "Dev_Desc": "철궁",
+        "id": 60050182,
+        "alias": "Contents.Skill.Desc.LongBow.5940",
+        "text": "단단하고 흔들림 없는 결의로 활을 당깁니다.\n활 공격력과 기교 명중이 증가합니다."
+    },
+    "60050183": {
+        "deprecated": false,
+        "Dev_Desc": "철궁_효과",
+        "id": 60050183,
+        "alias": "Contents.Skill.UseEffect.LongBow.5940",
+        "text": "활 공격력 +8, 기교 명중 +4"
     }
 }

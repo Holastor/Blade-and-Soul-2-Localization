@@ -880,5 +880,33 @@
         "id": 60010125,
         "alias": "Contents.Skill.Desc.LongSword.1810",
         "text": "Airborne, Stun"
+    },
+    "60010126": {
+        "deprecated": false,
+        "Dev_Desc": "공중, 어검징표",
+        "id": 60010126,
+        "alias": "Contents.Skill.useEffect.LongSword.1900",
+        "text": "mid-air"
+    },
+    "60010127": {
+        "deprecated": false,
+        "Dev_Desc": "격검",
+        "id": 60010127,
+        "alias": "Contents.Skill.Name.LongSword.1811",
+        "text": "hard sword"
+    },
+    "60010128": {
+        "deprecated": false,
+        "Dev_Desc": "격검",
+        "id": 60010128,
+        "alias": "Contents.Skill.Desc.LongSword.1811",
+        "text": "You become proficient in sword combat.\\nSword attack power and attack accuracy are increased."
+    },
+    "60010129": {
+        "deprecated": false,
+        "Dev_Desc": "격검",
+        "id": 60010129,
+        "alias": "Contents.Skill.useEffect.LongSword.1811",
+        "text": "Sword attack power +8, attack accuracy +4"
     }
 }

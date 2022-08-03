@@ -2729,11 +2729,11 @@
         "alias": "Contents.Item.Name.4208601",
         "text": "잊혀진 광야의 노을(각인)"
     },
-    "84209604": {
+    "84206410": {
         "deprecated": false,
-        "id": 84209604,
-        "alias": "Contents.Item.Name.4209604",
-        "text": "물의 향기(각인)"
+        "id": 84206410,
+        "alias": "Contents.Event.Item.Name.4206410",
+        "text": "거룩한 흉갑(이벤트)"
     },
     "84301604": {
         "deprecated": false,
@@ -2831,15 +2831,15 @@
         "alias": "Contents.Item.Name.4305603",
         "text": "침식된 바람의 산책"
     },
-    "84209609": {
+    "84306602": {
         "deprecated": false,
-        "id": 84209609,
+        "id": 84306602,
         "alias": "Contents.Item.Name.4306602",
         "text": "침식된 요괴의 껍질"
     },
-    "84209610": {
+    "84302602": {
         "deprecated": false,
-        "id": 84209610,
+        "id": 84302602,
         "alias": "Contents.Item.Name.4302602",
         "text": "침식된 명왕의 선고"
     },
@@ -2896,6 +2896,12 @@
         "id": 84209603,
         "alias": "Contents.Item.Name.4209603",
         "text": "뇌전의 호흡(각인)"
+    },
+    "84209604": {
+        "deprecated": false,
+        "id": 84209604,
+        "alias": "Contents.Item.Name.4209604",
+        "text": "물의 향기(각인)"
     },
     "84102605": {
         "deprecated": false,
@@ -2978,7 +2984,7 @@
     "84109402": {
         "deprecated": false,
         "id": 84109402,
-        "alias": "Contents.Event.Item.Name.4109402",
+        "alias": "Contents.Item.Name.4109402",
         "text": "평범한 불꽃의 향낭"
     },
     "84109403": {
@@ -3083,9 +3089,9 @@
         "alias": "Contents.Item.Name.4209608",
         "text": "찬란한 염화의 향낭(각인)"
     },
-    "84302602": {
+    "84209609": {
         "deprecated": false,
-        "id": 84302602,
+        "id": 84209609,
         "alias": "Contents.Item.Name.4209609",
         "text": "영롱한 염화의 향낭(각인)"
     },
@@ -3124,5 +3130,209 @@
         "id": 84203607,
         "alias": "Contents.Item.Name.4203607",
         "text": "태초의 월광(각인)"
+    },
+    "84106605": {
+        "deprecated": false,
+        "id": 84106605,
+        "alias": "Contents.Item.Name.4106605",
+        "text": "태초의 여명"
+    },
+    "84106606": {
+        "deprecated": false,
+        "id": 84106606,
+        "alias": "Contents.Item.Name.4106606",
+        "text": "태초의 등불"
+    },
+    "84106607": {
+        "deprecated": false,
+        "id": 84106607,
+        "alias": "Contents.Item.Name.4106607",
+        "text": "태초의 희망"
+    },
+    "84206605": {
+        "deprecated": false,
+        "id": 84206605,
+        "alias": "Contents.Item.Name.4206605",
+        "text": "태초의 여명(각인)"
+    },
+    "84206606": {
+        "deprecated": false,
+        "id": 84206606,
+        "alias": "Contents.Item.Name.4206606",
+        "text": "태초의 등불(각인)"
+    },
+    "84206607": {
+        "deprecated": false,
+        "id": 84206607,
+        "alias": "Contents.Item.Name.4206607",
+        "text": "태초의 희망(각인)"
+    },
+    "84109411": {
+        "deprecated": false,
+        "id": 84109411,
+        "alias": "Contents.Item.Name.4109411",
+        "text": "평범한 파도의 향낭"
+    },
+    "84109414": {
+        "deprecated": false,
+        "id": 84109414,
+        "alias": "Contents.Item.Name.4109414",
+        "text": "영롱한 파도의 향낭"
+    },
+    "84109614": {
+        "deprecated": false,
+        "id": 84109614,
+        "alias": "Contents.Item.Name.4109614",
+        "text": "영롱한 폭풍의 향낭"
+    },
+    "84209410": {
+        "deprecated": false,
+        "id": 84209410,
+        "alias": "Contents.Item.Name.4209410",
+        "text": "낡은 파도의 향낭(각인)"
+    },
+    "84209411": {
+        "deprecated": false,
+        "id": 84209411,
+        "alias": "Contents.Item.Name.4209411",
+        "text": "평범한 파도의 향낭(각인)"
+    },
+    "84209412": {
+        "deprecated": false,
+        "id": 84209412,
+        "alias": "Contents.Item.Name.4209412",
+        "text": "빛나는 파도의 향낭(각인)"
+    },
+    "84209413": {
+        "deprecated": false,
+        "id": 84209413,
+        "alias": "Contents.Item.Name.4209413",
+        "text": "찬란한 파도의 향낭(각인)"
+    },
+    "84209414": {
+        "deprecated": false,
+        "id": 84209414,
+        "alias": "Contents.Item.Name.4209414",
+        "text": "영롱한 파도의 향낭(각인)"
+    },
+    "84209610": {
+        "deprecated": false,
+        "id": 84209610,
+        "alias": "Contents.Item.Name.4209610",
+        "text": "낡은 폭풍의 향낭(각인)"
+    },
+    "84209611": {
+        "deprecated": false,
+        "id": 84209611,
+        "alias": "Contents.Item.Name.4209611",
+        "text": "평범한 폭풍의 향낭(각인)"
+    },
+    "84209612": {
+        "deprecated": false,
+        "id": 84209612,
+        "alias": "Contents.Item.Name.4209612",
+        "text": "빛나는 폭풍의 향낭(각인)"
+    },
+    "84209613": {
+        "deprecated": false,
+        "id": 84209613,
+        "alias": "Contents.Item.Name.4209613",
+        "text": "찬란한 폭풍의 향낭(각인)"
+    },
+    "84209614": {
+        "deprecated": false,
+        "id": 84209614,
+        "alias": "Contents.Item.Name.4209614",
+        "text": "영롱한 폭풍의 향낭(각인)"
+    },
+    "84103608": {
+        "deprecated": false,
+        "id": 84103608,
+        "alias": "Contents.Item.Name.4103608",
+        "text": "무덤의 허리띠"
+    },
+    "84203608": {
+        "deprecated": false,
+        "id": 84203608,
+        "alias": "Contents.Item.Name.4203608",
+        "text": "무덤의 허리띠(각인)"
+    },
+    "84106608": {
+        "deprecated": false,
+        "id": 84106608,
+        "alias": "Contents.Item.Name.4106608",
+        "text": "보급기지 견갑"
+    },
+    "84206608": {
+        "deprecated": false,
+        "id": 84206608,
+        "alias": "Contents.Item.Name.4206608",
+        "text": "보급기지 견갑(각인)"
+    },
+    "84101901": {
+        "deprecated": false,
+        "Dev_Desc": "테스트용 영웅흉갑1",
+        "id": 84101901,
+        "alias": "Contents.Item.Name.4101901",
+        "text": "테스트용 영웅흉갑1"
+    },
+    "84101902": {
+        "deprecated": false,
+        "Dev_Desc": "테스트용 영웅흉갑2",
+        "id": 84101902,
+        "alias": "Contents.Item.Name.4101902",
+        "text": "테스트용 영웅흉갑2"
+    },
+    "84101903": {
+        "deprecated": false,
+        "Dev_Desc": "테스트용 전설흉갑",
+        "id": 84101903,
+        "alias": "Contents.Item.Name.4101903",
+        "text": "테스트용 전설흉갑"
+    },
+    "84104901": {
+        "deprecated": false,
+        "Dev_Desc": "테스트용 영웅바지1",
+        "id": 84104901,
+        "alias": "Contents.Item.Name.4104901",
+        "text": "테스트용 영웅바지1"
+    },
+    "84104902": {
+        "deprecated": false,
+        "Dev_Desc": "테스트용 영웅바지2",
+        "id": 84104902,
+        "alias": "Contents.Item.Name.4104902",
+        "text": "테스트용 영웅바지2"
+    },
+    "84104903": {
+        "deprecated": false,
+        "Dev_Desc": "테스트용 전설바지",
+        "id": 84104903,
+        "alias": "Contents.Item.Name.4104903",
+        "text": "테스트용 전설바지"
+    },
+    "84101499": {
+        "deprecated": false,
+        "id": 84101499,
+        "alias": "Contents.Item.Name.4101499",
+        "text": "기능성 흉갑"
+    },
+    "84102499": {
+        "deprecated": false,
+        "id": 84102499,
+        "alias": "Contents.Item.Name.4102499",
+        "text": "일꾼의 장갑"
+    },
+    "84104499": {
+        "deprecated": false,
+        "id": 84104499,
+        "alias": "Contents.Item.Name.4104499",
+        "text": "공구 주머니 각반"
+    },
+    "84105499": {
+        "deprecated": false,
+        "id": 84105499,
+        "alias": "Contents.Item.Name.4105499",
+        "text": "철판 안전 신발"
     }
 }

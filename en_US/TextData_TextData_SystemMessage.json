@@ -2611,7 +2611,7 @@
     },
     "9000409": {
         "deprecated": false,
-        "Dev_Desc": "문파 시스템 / 기록 / 문파 공간 대여 가능 상태",
+        "Dev_Desc": "문파 시스템 / 기록 / 문파장 위임 처리",
         "id": 9000409,
         "alias": "SysM.Guild.History.LeaderChange.002",
         "text": "<arg p=[1:string]/> became the clan leader as the previous clan leader deleted their account."
@@ -6615,7 +6615,7 @@
     },
     "9001007": {
         "deprecated": false,
-        "Dev_Desc": "브로드캐스팅 / 수호령 획득",
+        "Dev_Desc": "상점 / 자동 주문 / 미설정",
         "id": 9001007,
         "alias": "SysM.Shop.Auto.NotAvilable",
         "text": "Auto-order isn't set."
@@ -6993,7 +6993,7 @@
     },
     "9001061": {
         "deprecated": false,
-        "Dev_Desc": "상점 / 이미 충분한 수량을 가지고 있는 경우",
+        "Dev_Desc": "상점 / 자동 주문 / 이미 수량 충분",
         "id": 9001061,
         "alias": "SysM.Shop.EnoughQuantities",
         "text": "Unable to auto-order because you have more than the specified quantity in your inventory."
@@ -7669,41 +7669,6 @@
         "alias": "SysM.SoulPass.Activate.LackItem",
         "text": "Not enough <arg p=[1:string]/><ga/> to activate."
     },
-    "9001158": {
-        "deprecated": false,
-        "Dev_Desc": "별자리 / 각인 성공 메시지 (각인 기능)",
-        "id": 9001158,
-        "alias": "SysM.Galaxy.MsgT.Imprint.Success",
-        "text": "You have succeeded in engraving the constellation."
-    },
-    "9001159": {
-        "deprecated": false,
-        "Dev_Desc": "별자리 / 각인 대성공(랜덤 중 최고 능력치) 메시지 (각인 기능)",
-        "id": 9001159,
-        "alias": "SysM.Galaxy.MsgT.Imprint.BigSuccess",
-        "text": "You have completely succeeded in engraving the constellation."
-    },
-    "9001160": {
-        "deprecated": false,
-        "Dev_Desc": "별자리 / 각인 실패 메시지 (각인 기능)",
-        "id": 9001160,
-        "alias": "SysM.Galaxy.MsgT.Imprint.Fail",
-        "text": "Failed to engrave the constellation."
-    },
-    "9001161": {
-        "deprecated": false,
-        "Dev_Desc": "별자리 / 재각인 완료 메시지 (재각인 기능)",
-        "id": 9001161,
-        "alias": "SysM.Galaxy.MsgT.Imprint.Retry",
-        "text": "I have been given new powers through re-engraving."
-    },
-    "9001162": {
-        "deprecated": false,
-        "Dev_Desc": "별자리 / 성공 확률 조정 한계 메시지 (프로그레시브 성장 기능)",
-        "id": 9001162,
-        "alias": "SysM.Galaxy.MsgT.MinMax",
-        "text": "Adjustable minimum or maximum."
-    },
     "9001163": {
         "deprecated": false,
         "Dev_Desc": "별자리 / 재료 부족 상태에서 각인 진행 버튼을 누른 경우",
@@ -7717,13 +7682,6 @@
         "id": 9001164,
         "alias": "SysM.Galaxy.MsgT.Select.ReqPrev",
         "text": "It's a star that can't be engraved yet."
-    },
-    "9001165": {
-        "deprecated": false,
-        "Dev_Desc": "별자리 / 구간을 이루는 점을 모두 각인하였을 때 표시되는 메시지",
-        "id": 9001165,
-        "alias": "SysM.Galaxy.MsgT.ZoneBonus.Achieved",
-        "text": "Engrave all [section name] to receive the blessing of [section name]."
     },
     "9001166": {
         "deprecated": false,
@@ -8074,5 +8032,698 @@
         "id": 9001217,
         "alias": "SysM.YaruBox.MsgT.AlarmHalt",
         "text": "Distribution is stopped after the progress is duplicated."
+    },
+    "9001218": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 연합 가입",
+        "id": 9001218,
+        "alias": "SysM.Unite.Join",
+        "text": "<arg p=[1:string]/>The clan has joined the coalition."
+    },
+    "9001219": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 가입 신청",
+        "id": 9001219,
+        "alias": "SysM.Unite.Join.Recive",
+        "text": "<arg p=[1:string]/>The clan has applied for the coalition."
+    },
+    "9001220": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 가입 신청 / 성공",
+        "id": 9001220,
+        "alias": "SysM.Unite.Join.WaitingTheAccept",
+        "text": "<arg p=[1:string]/>Waiting to join federation."
+    },
+    "9001221": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 가입 신청 / 이미 가입 신청",
+        "id": 9001221,
+        "alias": "SysM.Unite.Join.AlreadyRequest",
+        "text": "This is an association that has already applied for membership."
+    },
+    "9001222": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 가입 신청 / 가입 신청 문파 수 최대",
+        "id": 9001222,
+        "alias": "SysM.Unite.Join.RequestFull",
+        "text": "We are unable to apply because there are too many applicants for membership."
+    },
+    "9001223": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 가입 신청 / 문파원 가득참",
+        "id": 9001223,
+        "alias": "SysM.Unite.Join.Full",
+        "text": "You cannot join more than the maximum number of factions you belong to."
+    },
+    "9001224": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 가입 신청 / 가입 불가 문파",
+        "id": 9001224,
+        "alias": "SysM.Unite.Join.Unavailable",
+        "text": "This is a federation that is set to not apply for membership."
+    },
+    "9001225": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 가입 신청 / 가입 신청 건수 초과",
+        "id": 9001225,
+        "alias": "SysM.Unite.Join.RequestNumOver",
+        "text": "The maximum number of subscription applications has been exceeded."
+    },
+    "9001226": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 가입 신청 / 이미 초대 받은 문파",
+        "id": 9001226,
+        "alias": "SysM.Unite.Join.AlreadyInvite",
+        "text": "This is an association you have already been invited to."
+    },
+    "9001227": {
+        "deprecated": false,
+        "Dev_Desc": "연합 에러 / 기능 에러 / 없는 연합",
+        "id": 9001227,
+        "alias": "SysM.Unite.NoExist",
+        "text": "A union that doesn't exist."
+    },
+    "9001228": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 가입 신청 / 신청 취소",
+        "id": 9001228,
+        "alias": "SysM.Unite.Join.Withdrawal",
+        "text": "<arg p=[1:string]/>Your application to join the federation has been canceled."
+    },
+    "9001229": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 가입 신청 / 신청 취소 / 이미 가입",
+        "id": 9001229,
+        "alias": "SysM.Unite.Join.Withdrawal.AlreadyIn",
+        "text": "You cannot unsubscribe from joining the federation <arg p=[1:string]/>already."
+    },
+    "9001230": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 가입 신청 / 거절",
+        "id": 9001230,
+        "alias": "SysM.Unite.Join.Deny",
+        "text": "<arg p=[1:string]/>Rejected to join the federation."
+    },
+    "9001231": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 가입 신청 / 승인",
+        "id": 9001231,
+        "alias": "SysM.Unite.Join.RequestAccept",
+        "text": "<arg p=[1:string]/>Approved the membership application of the clan."
+    },
+    "9001232": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 가입 신청 / 승인 / 자리 부족",
+        "id": 9001232,
+        "alias": "SysM.Unite.JoinRequest.Reject.Full",
+        "text": "Membership cannot be approved for more than the maximum number of factions that can be affiliated with."
+    },
+    "9001233": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 가입 신청 / 승인 / 시간 초과",
+        "id": 9001233,
+        "alias": "SysM.Unite.JoinRequest.Reject.LackTime",
+        "text": "Your subscription application timed out."
+    },
+    "9001234": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 가입 신청 / 승인 / 이미 가입",
+        "id": 9001234,
+        "alias": "SysM.Unite.JoinRequest.Reject.AlreadyIn",
+        "text": "The target clan is joining another coalition."
+    },
+    "9001235": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 가입 신청 / 거절",
+        "id": 9001235,
+        "alias": "SysM.Unite.Join.RequestDeny",
+        "text": "<arg p=[1:string]/>The clan's application for membership has been rejected."
+    },
+    "9001236": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 가입 관리 / 신청 / 전부 수락",
+        "id": 9001236,
+        "alias": "SysM.Unite.Join.AllRequestAccept",
+        "text": "<arg p=[1:integer]/>You have approved the application for membership of the dog faction."
+    },
+    "9001237": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 가입 관리 / 신청 / 전부 수락 / 문파 수 넘침",
+        "id": 9001237,
+        "alias": "SysM.Unite.Join.AllRequestAccept.Full",
+        "text": "Since the number of clan applications for membership is greater than the number of remaining clan positions, bulk approval is not possible."
+    },
+    "9001238": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 가입 관리 / 신청 / 전부 수락 / 없음",
+        "id": 9001238,
+        "alias": "SysM.Unite.Join.AllRequestAccept.No",
+        "text": "There is no target for membership application."
+    },
+    "9001239": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 가입 관리 / 신청 / 전부 수락",
+        "id": 9001239,
+        "alias": "SysM.Unite.Join.AllRequestDeny",
+        "text": "We have rejected all subscription applications."
+    },
+    "9001240": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 가입 관리 / 신청 / 전부 수락 / 없음",
+        "id": 9001240,
+        "alias": "SysM.Unite.Join.AllRequestDeny.No",
+        "text": "There is no one who has applied for membership."
+    },
+    "9001241": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 가입 관리 / 초대",
+        "id": 9001241,
+        "alias": "SysM.Unite.Invite",
+        "text": "<arg p=[1:string]/>You have invited a clan to join the alliance."
+    },
+    "9001242": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 가입 관리 / 초대 / 타 연합에 가입 중",
+        "id": 9001242,
+        "alias": "SysM.Unite.Invite.Fail.AlreadyIn",
+        "text": "The target clan is joining another coalition."
+    },
+    "9001243": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 가입 관리 / 초대 / 이미 초대",
+        "id": 9001243,
+        "alias": "SysM.Unite.Invite.Fail.AlreadyInvite",
+        "text": "<arg p=[1:string]/>The clan has already been invited."
+    },
+    "9001244": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 가입 관리 / 초대 / 소속 문파 수 최대",
+        "id": 9001244,
+        "alias": "SysM.Unite.Invite.Fail.Full",
+        "text": "You cannot invite more than the maximum number of factions you can belong to."
+    },
+    "9001245": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 가입 관리 / 초대 / 검색 실패",
+        "id": 9001245,
+        "alias": "SysM.Unite.Invite.Fail.No",
+        "text": "The clan name does not exist."
+    },
+    "9001246": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 가입 관리 / 초대 / 이름 미입력",
+        "id": 9001246,
+        "alias": "SysM.Unite.Invite.Fail.NeedName",
+        "text": "Please enter the clan name."
+    },
+    "9001247": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 가입 관리 / 초대 / 소속 문파를 초대",
+        "id": 9001247,
+        "alias": "SysM.Unite.Invite.Fail.AlreadyMember",
+        "text": "<arg p=[1:string]/>The clan is already joining the same federation."
+    },
+    "9001248": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 가입 관리 / 초대 / 자신 초대",
+        "id": 9001248,
+        "alias": "SysM.Unite.Invite.Fail.Me",
+        "text": "You cannot invite the faction you are a member of."
+    },
+    "9001249": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 가입 초대 / 취소",
+        "id": 9001249,
+        "alias": "SysM.Unite.Invite.Cancel",
+        "text": "<arg p=[1:string]/>Canceled the invitation to the clan."
+    },
+    "9001250": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 가입 초대 / 거절",
+        "id": 9001250,
+        "alias": "SysM.Unite.Invite.Reject",
+        "text": "<arg p=[1:string]/>Rejected federation invitation."
+    },
+    "9001251": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 해산 / 문파장 전용 기능",
+        "id": 9001251,
+        "alias": "SysM.Unite.OnlyForMaster",
+        "text": "This is an exclusive function for Moonwave."
+    },
+    "9001252": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 관리 / 소개 수정",
+        "id": 9001252,
+        "alias": "SysM.Unite.Introduction.InputDone",
+        "text": "The Alliance introduction has been updated."
+    },
+    "9001253": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 관리 / 문장 변경 / 변경 완료 안내",
+        "id": 9001253,
+        "alias": "SysM.Unite.Emblem.Change.Complete",
+        "text": "The union sentence has been changed."
+    },
+    "9001254": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 탈퇴 / 탈퇴 완료 안내",
+        "id": 9001254,
+        "alias": "SysM.Unite.Withdrawal.Complete",
+        "text": "<arg p=[1:string]/>You have left the federation."
+    },
+    "9001255": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 해산 / 해산 완료",
+        "id": 9001255,
+        "alias": "SysM.Unite.Dissolution",
+        "text": "<arg p=[1:string]/>Federation disbanded."
+    },
+    "9001256": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 직위 위임 / 기존 연합장에게 변경 안내",
+        "id": 9001256,
+        "alias": "SysM.Unite.PositionChange.LeaderChange",
+        "text": "<arg p=[1:string]/>You have delegated the position of representative clan to the clan. The position has been changed to a general clan."
+    },
+    "9001257": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 직위 위임 / 위임 대상자에게 변경 안내",
+        "id": 9001257,
+        "alias": "SysM.Unite.PositionChange.LeaderChange.MsgToRecipient",
+        "text": "Appointed as president of the association."
+    },
+    "9001258": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 직위 위임 / 가입 당일 위임 불가",
+        "id": 9001258,
+        "alias": "SysM.Unite.PositionChange.CannotLeaderChange",
+        "text": "You cannot delegate the position of the representative clan to the clan that joined on the same day."
+    },
+    "9001259": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 직위 위임 / 위임 대상 미선택 안내",
+        "id": 9001259,
+        "alias": "SysM.Unite.Management.Delegation.NotSelected",
+        "text": "You have not selected any to delegate to."
+    },
+    "9001260": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 추방 / 소속 문파 없음",
+        "id": 9001260,
+        "alias": "SysM.Unite.Management.Apoint.No",
+        "text": "There are no clans to banish."
+    },
+    "9001261": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 추방 / 추방 대상 미선택",
+        "id": 9001261,
+        "alias": "SysM.Unite.Management.Apoint.NotSelected",
+        "text": "You have not chosen a faction to exile."
+    },
+    "9001262": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 추방 / 추방 완료",
+        "id": 9001262,
+        "alias": "SysM.Unite.Management.Apoint.Complete",
+        "text": "You have expelled the selected clan from the Alliance."
+    },
+    "9001263": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 추방 / 추방 대상에게 안내",
+        "id": 9001263,
+        "alias": "SysM.Unite.BanishMsg",
+        "text": "<arg p=[1:string]/>Banished from the coalition."
+    },
+    "9001264": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 기록 / 연합장 위임 처리",
+        "id": 9001264,
+        "alias": "SysM.Unite.History.LeaderChange.001",
+        "text": "The former leader of the clan did not attend the clan for more than 14 days, so the title of representative clan was delegated to the clan <arg p=[1:string]/>."
+    },
+    "9001265": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 기록 / 연합장 위임 처리",
+        "id": 9001265,
+        "alias": "SysM.Unite.History.LeaderChange.002",
+        "text": "The previous leader of the coalition left the account and the title of representative clan was delegated to the <arg p=[1:string]/>clan."
+    },
+    "9001266": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 적대 연합 / 추가",
+        "id": 9001266,
+        "alias": "SysM.Unite.GuildEnemy.Add",
+        "text": "<arg p=[1:string]/>Added coalition as hostile."
+    },
+    "9001267": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 적대 연합 / 추가 / 이미 적대",
+        "id": 9001267,
+        "alias": "SysM.Unite.GuildEnemy.Add.Already",
+        "text": "It is already hostile to the target."
+    },
+    "9001268": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 적대 연합 / 추가 / 동맹 중",
+        "id": 9001268,
+        "alias": "SysM.Unite.GuildEnemy.Add.GuildAlliance",
+        "text": "Cannot be added to hostile due to alliance with target."
+    },
+    "9001271": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 적대 연합 / 해제",
+        "id": 9001271,
+        "alias": "SysM.Unite.GuildEnemy.Remove.Unite",
+        "text": "<arg p=[1:string]/>Alliance and hostilities have been lifted."
+    },
+    "9001272": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 동맹 연합 / 요청",
+        "id": 9001272,
+        "alias": "SysM.Unite.GuildAlliance.Add",
+        "text": "<arg p=[1:string]/>An alliance request has been sent to the coalition."
+    },
+    "9001273": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 동맹 연합 / 요청 / 이미 동맹",
+        "id": 9001273,
+        "alias": "SysM.Unite.GuildAlliance.Add.Already",
+        "text": "Already have an alliance with the target."
+    },
+    "9001274": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 동맹 연합 / 요청 / 적대 중",
+        "id": 9001274,
+        "alias": "SysM.Unite.GuildAlliance.Add.GuildEnemy",
+        "text": "You cannot request an alliance because of hostility with the target."
+    },
+    "9001275": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 적대 연합 / 추가 / 동맹 요청 중",
+        "id": 9001275,
+        "alias": "SysM.Unite.GuildEnemy.Add.RequestGuildAlliance",
+        "text": "Can't add to hostilities because there is an alliance request with the target."
+    },
+    "9001276": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 동맹 연합 / 요청 / 동맹 요청 받음",
+        "id": 9001276,
+        "alias": "SysM.Unite.GuildAlliance.Add.RequestGuildAlliance",
+        "text": "You cannot request an alliance because an alliance request with the target already exists."
+    },
+    "9001277": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 동맹 연합 / 요청 / 상대 문파 최대치",
+        "id": 9001277,
+        "alias": "SysM.Unite.GuildAlliance.Add.TargetMax",
+        "text": "The opposing coalition cannot request an alliance because it has received too many requests."
+    },
+    "9001278": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 동맹 연합 / 요청 취소",
+        "id": 9001278,
+        "alias": "SysM.Unite.GuildAlliance.Cancel",
+        "text": "<arg p=[1:string]/>Canceled the alliance request sent to the coalition."
+    },
+    "9001279": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 동맹 연합 / 승인",
+        "id": 9001279,
+        "alias": "SysM.Unite.GuildAlliance.Accept",
+        "text": "<arg p=[1:string]/>Allied with a coalition."
+    },
+    "9001280": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 동맹 연합 / 거절",
+        "id": 9001280,
+        "alias": "SysM.Unite.GuildAlliance.Reject",
+        "text": "<arg p=[1:string]/>Rejected Alliance request."
+    },
+    "9001281": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 동맹 연합 / 해제",
+        "id": 9001281,
+        "alias": "SysM.Unite.GuildAlliance.Remove.Unite",
+        "text": "<arg p=[1:string]/>Alliances and alliances are broken."
+    },
+    "9001282": {
+        "deprecated": false,
+        "Dev_Desc": "채팅 / 연합 가입 메시지",
+        "id": 9001282,
+        "alias": "SysM.chat.InviteChatUnite",
+        "text": "Munpa has joined."
+    },
+    "9001283": {
+        "deprecated": false,
+        "Dev_Desc": "채팅 / 연합 탈퇴 메시지",
+        "id": 9001283,
+        "alias": "SysM.chat.LeaveChatUnite",
+        "text": "Munpa has resigned."
+    },
+    "9001284": {
+        "deprecated": false,
+        "Dev_Desc": "채팅 / 연합 추방 메시지",
+        "id": 9001284,
+        "alias": "SysM.chat.BanChatUnite",
+        "text": "The clan has been exiled."
+    },
+    "9001285": {
+        "deprecated": false,
+        "Dev_Desc": "연합 시스템 / 연합 창설 / 레벨 제한",
+        "id": 9001285,
+        "alias": "SysM.Unite.Foundation.RequiredLevel",
+        "text": "Coalitions can be created starting at the clan <arg p=[1:integer]/>level."
+    },
+    "9001286": {
+        "deprecated": false,
+        "Dev_Desc": "채팅 / 힌트 / 연합",
+        "id": 9001286,
+        "alias": "SysM.chat.PromptUnite",
+        "text": "Speak with an Allied Member"
+    },
+    "9001287": {
+        "deprecated": false,
+        "Dev_Desc": "채팅 / 연합",
+        "id": 9001287,
+        "alias": "SysM.chat.Unite",
+        "text": "Union"
+    },
+    "9001288": {
+        "deprecated": false,
+        "Dev_Desc": "채팅 / 토스트 메시지 연합",
+        "id": 9001288,
+        "alias": "SysM.chat.ToastNotUnite",
+        "text": "There are no federations affiliated."
+    },
+    "9001289": {
+        "deprecated": false,
+        "Dev_Desc": "채팅 / 토스트 메시지 연합",
+        "id": 9001289,
+        "alias": "SysM.chat.ToastNotPermissionUniteChat",
+        "text": "You do not have federated chat privileges."
+    },
+    "9001290": {
+        "deprecated": false,
+        "Dev_Desc": "협행 / 모든 협행 수락 시",
+        "id": 9001290,
+        "alias": "SysM.BulletinQuest.AcceptAll",
+        "text": "Accepted all collaborations."
+    },
+    "9001291": {
+        "deprecated": false,
+        "Dev_Desc": "협행 / 모든 협행 수락 실패 시",
+        "id": 9001291,
+        "alias": "SysM.BulletinQuest.CannotAcceptAll",
+        "text": "There are no acceptable collaborations."
+    },
+    "9001292": {
+        "deprecated": false,
+        "Dev_Desc": "협행 / 모든 보상 수령 실패 시",
+        "id": 9001292,
+        "alias": "SysM.BulletinQuest.CannotRecieveAll",
+        "text": "There are no partnerships available for compensation."
+    },
+    "9001293": {
+        "deprecated": false,
+        "Dev_Desc": "퀘스트 / 이동 패드 입력 중 퀘스트 자동 플레이 시",
+        "id": 9001293,
+        "alias": "SysM.Quest.AutoMove.Impossible",
+        "text": "Manual movement and automatic mission movement cannot be performed at the same time."
+    },
+    "9001294": {
+        "deprecated": false,
+        "Dev_Desc": "복구술사 / 후유증 회복",
+        "id": 9001294,
+        "alias": "SysM.AfterRecovery.Complete",
+        "text": "The aftermath has been restored."
+    },
+    "9001295": {
+        "deprecated": false,
+        "Dev_Desc": "복구술사 / 후유증 회복 실패 시",
+        "id": 9001295,
+        "alias": "SysM.AfterRecovery.AlreadyComplete",
+        "text": "The sequelae have already recovered."
+    },
+    "9001296": {
+        "deprecated": false,
+        "Dev_Desc": "복구술사 / 후유증 충전 실패 시",
+        "id": 9001296,
+        "alias": "SysM.AfterRecovery.RechargeFail",
+        "text": "You cannot charge beyond the maximum."
+    },
+    "9001297": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 창설 / 이름 미입력",
+        "id": 9001297,
+        "alias": "SysM.Unite.Foundation.NoName",
+        "text": "Enter a federation name."
+    },
+    "9001298": {
+        "deprecated": false,
+        "Dev_Desc": "연합 에러 / 가입 신청 안 한 연합에 대해 가입 신청 취소 / 가입과 동시에 가입 신청 취소",
+        "id": 9001298,
+        "alias": "SysM.Unite.Error.join.NotRequest",
+        "text": "It is either a federation that has not been applied for, or has already joined a federation."
+    },
+    "9001299": {
+        "deprecated": false,
+        "Dev_Desc": "연합 탭 진입 / 월드 정보 없음",
+        "id": 9001299,
+        "alias": "SysM.Unite.Error.NotWorldInfo",
+        "text": "Temporarily unable to load world information. Please try again in a few minutes."
+    },
+    "9001300": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 가입 관리 / 초대 / 초대 받는 횟수 부족",
+        "id": 9001300,
+        "alias": "SysM.Unite.Error.InviteFailToGuild.Full",
+        "text": "<arg p=[1:string]/>Insufficient number of clan invites."
+    },
+    "9001301": {
+        "deprecated": false,
+        "Dev_Desc": "연합 / 연합장 / 추방, 탈퇴 불가 처리",
+        "id": 9001301,
+        "alias": "SysM.Unite.Error.Banish.CanNotLeaveOrKick",
+        "text": "Coalition leaders cannot be withdrawn or expelled."
+    },
+    "9001302": {
+        "deprecated": false,
+        "Dev_Desc": "파티 던전에서 퀘스트 축지 사용 불가",
+        "id": 9001302,
+        "alias": "SysM.PartyDungeon.CannotQuestTeleport",
+        "text": "In party dungeons, you cannot move to that location."
+    },
+    "9001303": {
+        "deprecated": false,
+        "Dev_Desc": "월드 필드에서 퀘스트 축지 사용 불가",
+        "id": 9001303,
+        "alias": "SysM.WorldField.CannotQuestTeleport",
+        "text": "In the world field, you cannot move to that location."
+    },
+    "9001304": {
+        "deprecated": false,
+        "Dev_Desc": "월드 필드 경계 추가 불가",
+        "id": 9001304,
+        "alias": "SysM.WorldField.CannotRegistAlert",
+        "text": "Characters from other servers cannot be registered as alert targets."
+    },
+    "9001305": {
+        "deprecated": false,
+        "Dev_Desc": "협행 / 갱신할 협행 없음",
+        "id": 9001305,
+        "alias": "SysM.Board.RefreshFail.NoTarget",
+        "text": "There are no partnerships to update."
+    },
+    "9001306": {
+        "deprecated": false,
+        "Dev_Desc": "상점 / 자동 주문 / 무게 초과",
+        "id": 9001306,
+        "alias": "SysM.Shop.Auto.NotEnoughWeight",
+        "text": "You will not be automatically ordered if you exceed your carry-on weight."
+    },
+    "9001307": {
+        "deprecated": false,
+        "Dev_Desc": "아이템 / 제작 / 제작 실패 보상",
+        "id": 9001307,
+        "alias": "SysM.Item.Craft.FailReward",
+        "text": "Obtained <arg p=[1:string]/>."
+    },
+    "9001308": {
+        "deprecated": false,
+        "Dev_Desc": "채팅 / 채팅 금지 제제 중 / Flooding 제재",
+        "id": 9001308,
+        "alias": "SysM.Chat.BanChat.Flooding",
+        "text": "Chat is temporarily suspended. Please enter after a while. Time remaining until chat ban ends: <arg p=[1:string]/>"
+    },
+    "9001309": {
+        "deprecated": false,
+        "Dev_Desc": "채팅 / 채팅 금지 제제 중 / 계정 제재",
+        "id": 9001309,
+        "alias": "SysM.Chat.BanChat.Restricted",
+        "text": "This account is unavailable for service. For more information, please check [Mobile Customer Center > 1:1 Inquiry]."
+    },
+    "9001310": {
+        "deprecated": false,
+        "Dev_Desc": "채팅 / 채팅 금지 제제 중 / 운영툴 제재",
+        "id": 9001310,
+        "alias": "SysM.Chat.BanChat.Admin",
+        "text": "Chat is temporarily suspended for violating our operating policy. Please enter after the chat ban has ended. Sanctions: <arg p=[1:integer]/>times / Start Date: <arg p=[2:string]/>/ End Date: <arg p=3:string]/>"
+    },
+    "9001311": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 충전석 최대 버튼 사용시 알림 (시간)",
+        "id": 9001311,
+        "alias": "SysM.Dungeon.MaximumTimeStone",
+        "text": "You can no longer recharge time because you do not have enough charging stones."
+    },
+    "9001312": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 충전석 최대 버튼 사용시 알림 (횟수)",
+        "id": 9001312,
+        "alias": "SysM.Dungeon.MaximumCountTimeStone",
+        "text": "You can no longer recharge the number of dungeons due to insufficient charging stones."
+    },
+    "9001313": {
+        "deprecated": false,
+        "Dev_Desc": "채팅 시스템 메시지 / 단계 유지",
+        "id": 9001313,
+        "alias": "SysM.ChatSysM.Enchant",
+        "text": "<<arg p=[1:string]/>>+<arg p=[2:string]/><arg p=[3:string]/></><<arg p=[4:string]/>> Nothing happened after the hardening attempt.</>"
+    },
+    "9001314": {
+        "deprecated": false,
+        "Dev_Desc": "던전 / 충전석 최소 버튼 사용시 알림 (횟수)",
+        "id": 9001314,
+        "alias": "SysM.Dungeon.MinimumTimeStone",
+        "text": "It is set to the minimum value."
+    },
+    "9001315": {
+        "deprecated": false,
+        "Dev_Desc": "거래소 / 검색 결과 오류",
+        "id": 9001315,
+        "alias": "SysM.Market.SearchError",
+        "text": "An error has occurred in the exchange information. Please use it after refreshing."
+    },
+    "9001316": {
+        "deprecated": false,
+        "Dev_Desc": "아이템 스킬 / BlockSkill 시 사용 불가",
+        "id": 9001316,
+        "alias": "SysM.ItemSkill.Condition.NotAvailable",
+        "text": "You are not in a state where you can use martial arts."
+    },
+    "9001317": {
+        "deprecated": false,
+        "Dev_Desc": "퀘스트 / 토스트 메시지 / 잠긴 임무",
+        "id": 9001317,
+        "alias": "SysM.Quest.ToastMessage.LockedQuest",
+        "text": "This is a mission that cannot be completed yet."
+    },
+    "9001318": {
+        "deprecated": false,
+        "Dev_Desc": "장비도감 / 즐겨찾기 / 101개 이상 등록 시",
+        "id": 9001318,
+        "alias": "SysM.EquipCollection.FavoriteMaxCount",
+        "text": "You can have up to 100 favorites."
     }
 }

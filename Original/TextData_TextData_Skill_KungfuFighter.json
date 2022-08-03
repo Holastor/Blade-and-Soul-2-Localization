@@ -277,7 +277,7 @@
         "Dev_Desc": "초월권무",
         "id": 60020039,
         "alias": "Contents.Skill.Desc.LightGauntlet.2340",
-        "text": "적에게 접근하여 강력한 연계공격을 퍼붓습니다.\n마지막 공격은 일정 확률로 적을 <textColor=[248:99:99:255]>밀치기</> 후 <textColor=[248:99:99:255]>기절</>시킵니다.\n사용 중 통제 상태에 면역이 됩니다."
+        "text": "적에게 접근하여 강력한 연계공격을 퍼붓습니다.\n일정 확률로 최대 3인까지 <textColor=[248:99:99:255]>밀치기</> 후 <textColor=[248:99:99:255]>기절</>시킵니다.\n막기 중인 대상을 일정 확률로 관통해 <textColor=[248:99:99:255]>기절</>시킵니다.\n대상을 처치하여 \"초월권무\" 중도 종료 시, 잔여 타격 수에 비례하여 대기시간을 일부 반환합니다.\n사용 중 <textColor=[248:99:99:255]>통제</>, <textColor=[248:99:99:255]>빙결</>, <textColor=[248:99:99:255]>도발</>, <textColor=[248:99:99:255]>침묵</>, <textColor=[248:99:99:255]>행동불능</> 효과로 무공이 저지되지 않습니다."
     },
     "60020040": {
         "deprecated": false,
@@ -725,7 +725,7 @@
         "Dev_Desc": "패시브-뇌진탕",
         "id": 60020105,
         "alias": "Contents.Skill.Desc.LightGauntlet.2806",
-        "text": "기본공격이 적에게 명중할 경우 일정 확률로 대상을 <textColor=[248:99:99:255]>경직</>시킵니다.\n<textColor=[248:99:99:255]>경직</> 효과는 3초의 재사용 대기시간을 갖습니다."
+        "text": "적의 후두부를 때려 뇌진탕을 유발합니다.\n치명타 추가 공격력이 증가합니다.\n추가로, 기본공격이 적에게 명중할 경우 일정 확률로 대상을 <textColor=[248:99:99:255]>경직</>시킵니다.\n<textColor=[248:99:99:255]>경직</> 효과는 3초의 재사용 대기시간을 갖습니다."
     },
     "60020106": {
         "deprecated": false,
@@ -1468,5 +1468,40 @@
         "id": 60020215,
         "alias": "Contents.Skill.Name.LightGauntlet.2901",
         "text": "리어 대쉬"
+    },
+    "60020216": {
+        "deprecated": false,
+        "Dev_Desc": "비염각초월",
+        "id": 60020216,
+        "alias": "Contents.Skill.Name.LightGauntlet.2902",
+        "text": "비염각 초월"
+    },
+    "60020217": {
+        "deprecated": false,
+        "Dev_Desc": "패시브_혼신_이름",
+        "id": 60020217,
+        "alias": "Contents.Skill.Name.LightGauntlet.2812",
+        "text": "혼신"
+    },
+    "60020218": {
+        "deprecated": false,
+        "Dev_Desc": "패시브_혼신_설명",
+        "id": 60020218,
+        "alias": "Contents.Skill.Desc.LightGauntlet.2812",
+        "text": "모든 동작에 혼신의 힘을 담아냅니다.\n권갑 공격력과 외공 명중이 증가합니다."
+    },
+    "60020219": {
+        "deprecated": false,
+        "Dev_Desc": "패시브_혼신_효과",
+        "id": 60020219,
+        "alias": "Contents.Skill.useEffectDesc.LightGauntlet.2812",
+        "text": "권갑 공격력 +8, 외공 명중 +4"
+    },
+    "60020220": {
+        "deprecated": false,
+        "Dev_Desc": "권갑 뇌진탕 효과 표시 경직",
+        "id": 60020220,
+        "alias": "Contents.Skill.useEffectDesc.LightGauntlet.2806",
+        "text": "치명타 추가 공격력 +5, 경직"
     }
 }

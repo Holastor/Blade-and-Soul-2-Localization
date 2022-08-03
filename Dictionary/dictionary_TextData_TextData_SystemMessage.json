@@ -8216,5 +8216,698 @@
         "English_Text": "Distribution is stopped after the progress is duplicated.",
         "Russian_Text": "",
         "Chinese_Text": "分布在进行重复后停止。"
+    },
+    "9001218": {
+        "Dev_Desc": "연합 시스템 / 연합 가입",
+        "Original_Text": "<arg p=[1:string]/> 문파가 연합에 가입했습니다.",
+        "English_Text": "<arg p=[1:string]/>The clan has joined the coalition.",
+        "Russian_Text": "",
+        "Chinese_Text": "<arg p=[1:string]/>氏族已加入联盟。"
+    },
+    "9001219": {
+        "Dev_Desc": "연합 시스템 / 가입 신청",
+        "Original_Text": "<arg p=[1:string]/> 문파가 연합에 지원했습니다.",
+        "English_Text": "<arg p=[1:string]/>The clan has applied for the coalition.",
+        "Russian_Text": "",
+        "Chinese_Text": "<arg p=[1:string]/>氏族已申请加入联盟。"
+    },
+    "9001220": {
+        "Dev_Desc": "연합 시스템 / 가입 신청 / 성공",
+        "Original_Text": "<arg p=[1:string]/> 연합에 가입 대기 중입니다.",
+        "English_Text": "<arg p=[1:string]/>Waiting to join federation.",
+        "Russian_Text": "",
+        "Chinese_Text": "<arg p=[1:string]/>等待加入联邦。"
+    },
+    "9001221": {
+        "Dev_Desc": "연합 시스템 / 가입 신청 / 이미 가입 신청",
+        "Original_Text": "이미 가입 신청한 연합 입니다.",
+        "English_Text": "This is an association that has already applied for membership.",
+        "Russian_Text": "",
+        "Chinese_Text": "这是一个已经申请入会的协会。"
+    },
+    "9001222": {
+        "Dev_Desc": "연합 시스템 / 가입 신청 / 가입 신청 문파 수 최대",
+        "Original_Text": "가입 신청자가 너무 많아 신청할 수 없습니다.",
+        "English_Text": "We are unable to apply because there are too many applicants for membership.",
+        "Russian_Text": "",
+        "Chinese_Text": "我们无法申请，因为申请会员的人数太多。"
+    },
+    "9001223": {
+        "Dev_Desc": "연합 시스템 / 가입 신청 / 문파원 가득참",
+        "Original_Text": "최대 소속 문파 수를 초과하여 가입할 수 없습니다.",
+        "English_Text": "You cannot join more than the maximum number of factions you belong to.",
+        "Russian_Text": "",
+        "Chinese_Text": "你不能加入超过你所属的派系的最大数量。"
+    },
+    "9001224": {
+        "Dev_Desc": "연합 시스템 / 가입 신청 / 가입 불가 문파",
+        "Original_Text": "가입 신청 불가로 설정된 연합입니다.",
+        "English_Text": "This is a federation that is set to not apply for membership.",
+        "Russian_Text": "",
+        "Chinese_Text": "这是一个设置为不申请成员资格的联盟。"
+    },
+    "9001225": {
+        "Dev_Desc": "연합 시스템 / 가입 신청 / 가입 신청 건수 초과",
+        "Original_Text": "최대 가입 신청 횟수를 초과했습니다.",
+        "English_Text": "The maximum number of subscription applications has been exceeded.",
+        "Russian_Text": "",
+        "Chinese_Text": "已超过订阅申请的最大数量。"
+    },
+    "9001226": {
+        "Dev_Desc": "연합 시스템 / 가입 신청 / 이미 초대 받은 문파",
+        "Original_Text": "이미 초대받은 연합입니다.",
+        "English_Text": "This is an association you have already been invited to.",
+        "Russian_Text": "",
+        "Chinese_Text": "这是您已被邀请参加的协会。"
+    },
+    "9001227": {
+        "Dev_Desc": "연합 에러 / 기능 에러 / 없는 연합",
+        "Original_Text": "존재하지 않는 연합입니다.",
+        "English_Text": "A union that doesn't exist.",
+        "Russian_Text": "",
+        "Chinese_Text": "一个不存在的工会。"
+    },
+    "9001228": {
+        "Dev_Desc": "연합 시스템 / 가입 신청 / 신청 취소",
+        "Original_Text": "<arg p=[1:string]/> 연합 가입 신청이 취소되었습니다.",
+        "English_Text": "<arg p=[1:string]/>Your application to join the federation has been canceled.",
+        "Russian_Text": "",
+        "Chinese_Text": "<arg p=[1:string]/>您加入联盟的申请已被取消。"
+    },
+    "9001229": {
+        "Dev_Desc": "연합 시스템 / 가입 신청 / 신청 취소 / 이미 가입",
+        "Original_Text": "이미 <arg p=[1:string]/> 연합에 가입 상태로 가입 신청을 취소할 수 없습니다.",
+        "English_Text": "You cannot unsubscribe from joining the federation <arg p=[1:string]/>already.",
+        "Russian_Text": "",
+        "Chinese_Text": "您不能取消订阅加入联盟 <arg p=[1:string]/>已经。"
+    },
+    "9001230": {
+        "Dev_Desc": "연합 시스템 / 가입 신청 / 거절",
+        "Original_Text": "<arg p=[1:string]/> 연합에 가입 거절당했습니다.",
+        "English_Text": "<arg p=[1:string]/>Rejected to join the federation.",
+        "Russian_Text": "",
+        "Chinese_Text": "<arg p=[1:string]/>拒绝加入联邦。"
+    },
+    "9001231": {
+        "Dev_Desc": "연합 시스템 / 가입 신청 / 승인",
+        "Original_Text": "<arg p=[1:string]/> 문파의 가입 신청을 승인했습니다.",
+        "English_Text": "<arg p=[1:string]/>Approved the membership application of the clan.",
+        "Russian_Text": "",
+        "Chinese_Text": "<arg p=[1:string]/>批准了战队的入会申请。"
+    },
+    "9001232": {
+        "Dev_Desc": "연합 시스템 / 가입 신청 / 승인 / 자리 부족",
+        "Original_Text": "최대 소속 가능 문파 수를 초과하여 가입을 승인할 수 없습니다.",
+        "English_Text": "Membership cannot be approved for more than the maximum number of factions that can be affiliated with.",
+        "Russian_Text": "",
+        "Chinese_Text": "会员资格的批准不能超过可以隶属的最大派系数。"
+    },
+    "9001233": {
+        "Dev_Desc": "연합 시스템 / 가입 신청 / 승인 / 시간 초과",
+        "Original_Text": "가입 신청 시간이 초과되었습니다.",
+        "English_Text": "Your subscription application timed out.",
+        "Russian_Text": "",
+        "Chinese_Text": "您的订阅申请超时。"
+    },
+    "9001234": {
+        "Dev_Desc": "연합 시스템 / 가입 신청 / 승인 / 이미 가입",
+        "Original_Text": "대상 문파는 다른 연합에 가입 중입니다.",
+        "English_Text": "The target clan is joining another coalition.",
+        "Russian_Text": "",
+        "Chinese_Text": "目标氏族正在加入另一个联盟。"
+    },
+    "9001235": {
+        "Dev_Desc": "연합 시스템 / 가입 신청 / 거절",
+        "Original_Text": "<arg p=[1:string]/> 문파의 가입 신청을 거절했습니다.",
+        "English_Text": "<arg p=[1:string]/>The clan's application for membership has been rejected.",
+        "Russian_Text": "",
+        "Chinese_Text": "<arg p=[1:string]/>战队入会申请被拒绝。"
+    },
+    "9001236": {
+        "Dev_Desc": "연합 시스템 / 가입 관리 / 신청 / 전부 수락",
+        "Original_Text": "<arg p=[1:integer]/>개 문파의 가입 신청을 승인했습니다.",
+        "English_Text": "<arg p=[1:integer]/>You have approved the application for membership of the dog faction.",
+        "Russian_Text": "",
+        "Chinese_Text": "<arg p=[1:integer]/>您已批准加入狗派的申请。"
+    },
+    "9001237": {
+        "Dev_Desc": "연합 시스템 / 가입 관리 / 신청 / 전부 수락 / 문파 수 넘침",
+        "Original_Text": "가입 신청 문파 수가 남은 문파 자리 수보다 많아 일괄 승인할 수 없습니다.",
+        "English_Text": "Since the number of clan applications for membership is greater than the number of remaining clan positions, bulk approval is not possible.",
+        "Russian_Text": "",
+        "Chinese_Text": "由于战队申请入会的数量大于剩余战队职位的数量，因此无法批量审批。"
+    },
+    "9001238": {
+        "Dev_Desc": "연합 시스템 / 가입 관리 / 신청 / 전부 수락 / 없음",
+        "Original_Text": "가입 신청한 대상이 없습니다.",
+        "English_Text": "There is no target for membership application.",
+        "Russian_Text": "",
+        "Chinese_Text": "会员申请没有对象。"
+    },
+    "9001239": {
+        "Dev_Desc": "연합 시스템 / 가입 관리 / 신청 / 전부 수락",
+        "Original_Text": "모든 가입 신청을 거절했습니다.",
+        "English_Text": "We have rejected all subscription applications.",
+        "Russian_Text": "",
+        "Chinese_Text": "我们已拒绝所有订阅申请。"
+    },
+    "9001240": {
+        "Dev_Desc": "연합 시스템 / 가입 관리 / 신청 / 전부 수락 / 없음",
+        "Original_Text": "가입 신청한 대상이 없습니다.",
+        "English_Text": "There is no one who has applied for membership.",
+        "Russian_Text": "",
+        "Chinese_Text": "没有人申请入会。"
+    },
+    "9001241": {
+        "Dev_Desc": "연합 시스템 / 가입 관리 / 초대",
+        "Original_Text": "<arg p=[1:string]/> 문파를 연합에 초대했습니다.",
+        "English_Text": "<arg p=[1:string]/>You have invited a clan to join the alliance.",
+        "Russian_Text": "",
+        "Chinese_Text": "<arg p=[1:string]/>您已邀请一个氏族加入联盟。"
+    },
+    "9001242": {
+        "Dev_Desc": "연합 시스템 / 가입 관리 / 초대 / 타 연합에 가입 중",
+        "Original_Text": "대상 문파는 다른 연합에 가입 중입니다.",
+        "English_Text": "The target clan is joining another coalition.",
+        "Russian_Text": "",
+        "Chinese_Text": "目标氏族正在加入另一个联盟。"
+    },
+    "9001243": {
+        "Dev_Desc": "연합 시스템 / 가입 관리 / 초대 / 이미 초대",
+        "Original_Text": "<arg p=[1:string]/> 문파는 이미 초대한 문파입니다.",
+        "English_Text": "<arg p=[1:string]/>The clan has already been invited.",
+        "Russian_Text": "",
+        "Chinese_Text": "<arg p=[1:string]/>部落已经被邀请了。"
+    },
+    "9001244": {
+        "Dev_Desc": "연합 시스템 / 가입 관리 / 초대 / 소속 문파 수 최대",
+        "Original_Text": "최대 소속 가능 문파 수를 초과하여 초대할 수 없습니다.",
+        "English_Text": "You cannot invite more than the maximum number of factions you can belong to.",
+        "Russian_Text": "",
+        "Chinese_Text": "您不能邀请超过您可以属于的最大派系数量。"
+    },
+    "9001245": {
+        "Dev_Desc": "연합 시스템 / 가입 관리 / 초대 / 검색 실패",
+        "Original_Text": "해당 문파 이름이 존재하지 않습니다.",
+        "English_Text": "The clan name does not exist.",
+        "Russian_Text": "",
+        "Chinese_Text": "氏族名称不存在。"
+    },
+    "9001246": {
+        "Dev_Desc": "연합 시스템 / 가입 관리 / 초대 / 이름 미입력",
+        "Original_Text": "문파 이름을 입력해주세요.",
+        "English_Text": "Please enter the clan name.",
+        "Russian_Text": "",
+        "Chinese_Text": "请输入部落名称。"
+    },
+    "9001247": {
+        "Dev_Desc": "연합 시스템 / 가입 관리 / 초대 / 소속 문파를 초대",
+        "Original_Text": "<arg p=[1:string]/> 문파는 이미 같은 연합에 가입 중입니다.",
+        "English_Text": "<arg p=[1:string]/>The clan is already joining the same federation.",
+        "Russian_Text": "",
+        "Chinese_Text": "<arg p=[1:string]/>氏族已经加入同一个联邦。"
+    },
+    "9001248": {
+        "Dev_Desc": "연합 시스템 / 가입 관리 / 초대 / 자신 초대",
+        "Original_Text": "자신이 가입한 문파는 초대할 수 없습니다.",
+        "English_Text": "You cannot invite the faction you are a member of.",
+        "Russian_Text": "",
+        "Chinese_Text": "您不能邀请您所属的派系。"
+    },
+    "9001249": {
+        "Dev_Desc": "연합 시스템 / 가입 초대 / 취소",
+        "Original_Text": "<arg p=[1:string]/> 문파에게 보낸 초대를 취소했습니다.",
+        "English_Text": "<arg p=[1:string]/>Canceled the invitation to the clan.",
+        "Russian_Text": "",
+        "Chinese_Text": "<arg p=[1:string]/>取消了加入部落的邀请。"
+    },
+    "9001250": {
+        "Dev_Desc": "연합 시스템 / 가입 초대 / 거절",
+        "Original_Text": "<arg p=[1:string]/> 연합 초대를 거절했습니다.",
+        "English_Text": "<arg p=[1:string]/>Rejected federation invitation.",
+        "Russian_Text": "",
+        "Chinese_Text": "<arg p=[1:string]/>拒绝联合邀请。"
+    },
+    "9001251": {
+        "Dev_Desc": "연합 시스템 / 해산 / 문파장 전용 기능",
+        "Original_Text": "문파장 전용 기능입니다.",
+        "English_Text": "This is an exclusive function for Moonwave.",
+        "Russian_Text": "",
+        "Chinese_Text": "这是 Moonwave 独有的功能。"
+    },
+    "9001252": {
+        "Dev_Desc": "연합 시스템 / 관리 / 소개 수정",
+        "Original_Text": "연합 소개 내용이 갱신되었습니다.",
+        "English_Text": "The Alliance introduction has been updated.",
+        "Russian_Text": "",
+        "Chinese_Text": "联盟介绍已更新。"
+    },
+    "9001253": {
+        "Dev_Desc": "연합 시스템 / 관리 / 문장 변경 / 변경 완료 안내",
+        "Original_Text": "연합 문장이 변경되었습니다.",
+        "English_Text": "The union sentence has been changed.",
+        "Russian_Text": "",
+        "Chinese_Text": "工会判决已更改。"
+    },
+    "9001254": {
+        "Dev_Desc": "연합 시스템 / 탈퇴 / 탈퇴 완료 안내",
+        "Original_Text": "<arg p=[1:string]/> 연합에서 탈퇴했습니다.",
+        "English_Text": "<arg p=[1:string]/>You have left the federation.",
+        "Russian_Text": "",
+        "Chinese_Text": "<arg p=[1:string]/>您已离开联邦。"
+    },
+    "9001255": {
+        "Dev_Desc": "연합 시스템 / 해산 / 해산 완료",
+        "Original_Text": "<arg p=[1:string]/> 연합이 해산되었습니다.",
+        "English_Text": "<arg p=[1:string]/>Federation disbanded.",
+        "Russian_Text": "",
+        "Chinese_Text": "<arg p=[1:string]/>联邦解散。"
+    },
+    "9001256": {
+        "Dev_Desc": "연합 시스템 / 직위 위임 / 기존 연합장에게 변경 안내",
+        "Original_Text": "<arg p=[1:string]/> 문파에게 대표 문파 직위를 위임했습니다. 일반 문파로 직위가 변경되었습니다.",
+        "English_Text": "<arg p=[1:string]/>You have delegated the position of representative clan to the clan. The position has been changed to a general clan.",
+        "Russian_Text": "",
+        "Chinese_Text": "<arg p=[1:string]/>您已将代表氏族的位置委托给氏族。位置已更改为一般氏族。"
+    },
+    "9001257": {
+        "Dev_Desc": "연합 시스템 / 직위 위임 / 위임 대상자에게 변경 안내",
+        "Original_Text": "연합장으로 임명되었습니다.",
+        "English_Text": "Appointed as president of the association.",
+        "Russian_Text": "",
+        "Chinese_Text": "被任命为协会主席。"
+    },
+    "9001258": {
+        "Dev_Desc": "연합 시스템 / 직위 위임 / 가입 당일 위임 불가",
+        "Original_Text": "당일 가입한 문파에게 대표 문파 직위를 위임할 수 없습니다.",
+        "English_Text": "You cannot delegate the position of the representative clan to the clan that joined on the same day.",
+        "Russian_Text": "",
+        "Chinese_Text": "您不能将代表氏族的位置委托给当天加入的氏族。"
+    },
+    "9001259": {
+        "Dev_Desc": "연합 시스템 / 직위 위임 / 위임 대상 미선택 안내",
+        "Original_Text": "위임할 대상을 선택하지 않았습니다.",
+        "English_Text": "You have not selected any to delegate to.",
+        "Russian_Text": "",
+        "Chinese_Text": "您尚未选择任何要委派给的人。"
+    },
+    "9001260": {
+        "Dev_Desc": "연합 시스템 / 추방 / 소속 문파 없음",
+        "Original_Text": "추방할 문파가 없습니다.",
+        "English_Text": "There are no clans to banish.",
+        "Russian_Text": "",
+        "Chinese_Text": "没有可以驱逐的氏族。"
+    },
+    "9001261": {
+        "Dev_Desc": "연합 시스템 / 추방 / 추방 대상 미선택",
+        "Original_Text": "추방할 문파를 선택하지 않았습니다.",
+        "English_Text": "You have not chosen a faction to exile.",
+        "Russian_Text": "",
+        "Chinese_Text": "你没有选择流放派系。"
+    },
+    "9001262": {
+        "Dev_Desc": "연합 시스템 / 추방 / 추방 완료",
+        "Original_Text": "선택한 문파를 연합에서 추방했습니다.",
+        "English_Text": "You have expelled the selected clan from the Alliance.",
+        "Russian_Text": "",
+        "Chinese_Text": "您已将选定的氏族逐出联盟。"
+    },
+    "9001263": {
+        "Dev_Desc": "연합 시스템 / 추방 / 추방 대상에게 안내",
+        "Original_Text": "<arg p=[1:string]/> 연합에서 추방되었습니다.",
+        "English_Text": "<arg p=[1:string]/>Banished from the coalition.",
+        "Russian_Text": "",
+        "Chinese_Text": "<arg p=[1:string]/>被联盟驱逐。"
+    },
+    "9001264": {
+        "Dev_Desc": "연합 시스템 / 기록 / 연합장 위임 처리",
+        "Original_Text": "이전 연합장이 14일 이상 문파 출석을 하지 않아 <arg p=[1:string]/> 문파에게 대표 문파 직위가 위임되었습니다.",
+        "English_Text": "The former leader of the clan did not attend the clan for more than 14 days, so the title of representative clan was delegated to the clan <arg p=[1:string]/>.",
+        "Russian_Text": "",
+        "Chinese_Text": "部落前任族长超过14天没有参加部落，因此将代表部落的头衔授予部落<arg p=[1:string]/>。"
+    },
+    "9001265": {
+        "Dev_Desc": "연합 시스템 / 기록 / 연합장 위임 처리",
+        "Original_Text": "이전 연합장이 계정 탈퇴하여 <arg p=[1:string]/> 문파에게 대표 문파 직위가 위임되었습니다.",
+        "English_Text": "The previous leader of the coalition left the account and the title of representative clan was delegated to the <arg p=[1:string]/>clan.",
+        "Russian_Text": "",
+        "Chinese_Text": "联盟前任首领离开账号，代表氏族的头衔下放给<arg p=[1:string]/>氏族。"
+    },
+    "9001266": {
+        "Dev_Desc": "연합 시스템 / 적대 연합 / 추가",
+        "Original_Text": "<arg p=[1:string]/> 연합을 적대 관계로 추가했습니다.",
+        "English_Text": "<arg p=[1:string]/>Added coalition as hostile.",
+        "Russian_Text": "",
+        "Chinese_Text": "<arg p=[1:string]/>将联盟添加为敌对。"
+    },
+    "9001267": {
+        "Dev_Desc": "연합 시스템 / 적대 연합 / 추가 / 이미 적대",
+        "Original_Text": "이미 대상과 적대 관계입니다.",
+        "English_Text": "It is already hostile to the target.",
+        "Russian_Text": "",
+        "Chinese_Text": "它已经对目标充满敌意。"
+    },
+    "9001268": {
+        "Dev_Desc": "연합 시스템 / 적대 연합 / 추가 / 동맹 중",
+        "Original_Text": "대상과 동맹 관계로 적대에 추가할 수 없습니다.",
+        "English_Text": "Cannot be added to hostile due to alliance with target.",
+        "Russian_Text": "",
+        "Chinese_Text": "由于与目标结盟，无法加入敌对状态。"
+    },
+    "9001271": {
+        "Dev_Desc": "연합 시스템 / 적대 연합 / 해제",
+        "Original_Text": "<arg p=[1:string]/> 연합과 적대 관계가 해제되었습니다.",
+        "English_Text": "<arg p=[1:string]/>Alliance and hostilities have been lifted.",
+        "Russian_Text": "",
+        "Chinese_Text": "<arg p=[1:string]/>联盟和敌对行动已经解除。"
+    },
+    "9001272": {
+        "Dev_Desc": "연합 시스템 / 동맹 연합 / 요청",
+        "Original_Text": "<arg p=[1:string]/> 연합에게 동맹 요청을 보냈습니다.",
+        "English_Text": "<arg p=[1:string]/>An alliance request has been sent to the coalition.",
+        "Russian_Text": "",
+        "Chinese_Text": "<arg p=[1:string]/>已向联盟发送联盟请求。"
+    },
+    "9001273": {
+        "Dev_Desc": "연합 시스템 / 동맹 연합 / 요청 / 이미 동맹",
+        "Original_Text": "이미 대상과 동맹 관계입니다.",
+        "English_Text": "Already have an alliance with the target.",
+        "Russian_Text": "",
+        "Chinese_Text": "已经与目标结盟。"
+    },
+    "9001274": {
+        "Dev_Desc": "연합 시스템 / 동맹 연합 / 요청 / 적대 중",
+        "Original_Text": "대상과 적대 관계로 동맹을 요청할 수 없습니다.",
+        "English_Text": "You cannot request an alliance because of hostility with the target.",
+        "Russian_Text": "",
+        "Chinese_Text": "你不能因为与目标敌对而请求结盟。"
+    },
+    "9001275": {
+        "Dev_Desc": "연합 시스템 / 적대 연합 / 추가 / 동맹 요청 중",
+        "Original_Text": "대상과의 동맹 요청이 존재하여 적대에 추가할 수 없습니다.",
+        "English_Text": "Can't add to hostilities because there is an alliance request with the target.",
+        "Russian_Text": "",
+        "Chinese_Text": "无法增加敌对行动，因为与目标有联盟请求。"
+    },
+    "9001276": {
+        "Dev_Desc": "연합 시스템 / 동맹 연합 / 요청 / 동맹 요청 받음",
+        "Original_Text": "이미 대상과의 동맹 요청이 존재하여 동맹을 요청할 수 없습니다.",
+        "English_Text": "You cannot request an alliance because an alliance request with the target already exists.",
+        "Russian_Text": "",
+        "Chinese_Text": "您无法请求联盟，因为与目标的联盟请求已存在。"
+    },
+    "9001277": {
+        "Dev_Desc": "연합 시스템 / 동맹 연합 / 요청 / 상대 문파 최대치",
+        "Original_Text": "상대 연합이 받은 요청이 너무 많아 동맹을 요청할 수 없습니다.",
+        "English_Text": "The opposing coalition cannot request an alliance because it has received too many requests.",
+        "Russian_Text": "",
+        "Chinese_Text": "对方联盟无法请求联盟，因为它收到了太多请求。"
+    },
+    "9001278": {
+        "Dev_Desc": "연합 시스템 / 동맹 연합 / 요청 취소",
+        "Original_Text": "<arg p=[1:string]/> 연합에 보낸 동맹 요청을 취소했습니다.",
+        "English_Text": "<arg p=[1:string]/>Canceled the alliance request sent to the coalition.",
+        "Russian_Text": "",
+        "Chinese_Text": "<arg p=[1:string]/>取消发送给联盟的联盟请求。"
+    },
+    "9001279": {
+        "Dev_Desc": "연합 시스템 / 동맹 연합 / 승인",
+        "Original_Text": "<arg p=[1:string]/> 연합과 동맹이 되었습니다.",
+        "English_Text": "<arg p=[1:string]/>Allied with a coalition.",
+        "Russian_Text": "",
+        "Chinese_Text": "<arg p=[1:string]/>与一个联盟结盟。"
+    },
+    "9001280": {
+        "Dev_Desc": "연합 시스템 / 동맹 연합 / 거절",
+        "Original_Text": "<arg p=[1:string]/> 연합의 동맹 요청을 거절했습니다.",
+        "English_Text": "<arg p=[1:string]/>Rejected Alliance request.",
+        "Russian_Text": "",
+        "Chinese_Text": "<arg p=[1:string]/>拒绝联盟请求。"
+    },
+    "9001281": {
+        "Dev_Desc": "연합 시스템 / 동맹 연합 / 해제",
+        "Original_Text": "<arg p=[1:string]/> 연합과 동맹 관계가 해제되었습니다.",
+        "English_Text": "<arg p=[1:string]/>Alliances and alliances are broken.",
+        "Russian_Text": "",
+        "Chinese_Text": "<arg p=[1:string]/>联盟和联盟被打破。"
+    },
+    "9001282": {
+        "Dev_Desc": "채팅 / 연합 가입 메시지",
+        "Original_Text": "문파가 가입했습니다.",
+        "English_Text": "Munpa has joined.",
+        "Russian_Text": "",
+        "Chinese_Text": "蒙帕加入了。"
+    },
+    "9001283": {
+        "Dev_Desc": "채팅 / 연합 탈퇴 메시지",
+        "Original_Text": "문파가 탈퇴했습니다.",
+        "English_Text": "Munpa has resigned.",
+        "Russian_Text": "",
+        "Chinese_Text": "蒙帕辞职了。"
+    },
+    "9001284": {
+        "Dev_Desc": "채팅 / 연합 추방 메시지",
+        "Original_Text": "문파가 추방되었습니다.",
+        "English_Text": "The clan has been exiled.",
+        "Russian_Text": "",
+        "Chinese_Text": "氏族已被流放。"
+    },
+    "9001285": {
+        "Dev_Desc": "연합 시스템 / 연합 창설 / 레벨 제한",
+        "Original_Text": "문파 <arg p=[1:integer]/>레벨부터 연합을 창설할 수 있습니다.",
+        "English_Text": "Coalitions can be created starting at the clan <arg p=[1:integer]/>level.",
+        "Russian_Text": "",
+        "Chinese_Text": "可以从氏族 <arg p=[1:integer]/>级别开始创建联盟。"
+    },
+    "9001286": {
+        "Dev_Desc": "채팅 / 힌트 / 연합",
+        "Original_Text": "연합원과 대화하세요",
+        "English_Text": "Speak with an Allied Member",
+        "Russian_Text": "",
+        "Chinese_Text": "与盟军成员交谈"
+    },
+    "9001287": {
+        "Dev_Desc": "채팅 / 연합",
+        "Original_Text": "연합",
+        "English_Text": "Union",
+        "Russian_Text": "",
+        "Chinese_Text": "联盟"
+    },
+    "9001288": {
+        "Dev_Desc": "채팅 / 토스트 메시지 연합",
+        "Original_Text": "가입된 연합이 없습니다.",
+        "English_Text": "There are no federations affiliated.",
+        "Russian_Text": "",
+        "Chinese_Text": "没有附属的联合会。"
+    },
+    "9001289": {
+        "Dev_Desc": "채팅 / 토스트 메시지 연합",
+        "Original_Text": "연합 채팅 권한이 없습니다.",
+        "English_Text": "You do not have federated chat privileges.",
+        "Russian_Text": "",
+        "Chinese_Text": "您没有联合聊天权限。"
+    },
+    "9001290": {
+        "Dev_Desc": "협행 / 모든 협행 수락 시",
+        "Original_Text": "모든 협행을 수락했습니다.",
+        "English_Text": "Accepted all collaborations.",
+        "Russian_Text": "",
+        "Chinese_Text": "接受所有合作。"
+    },
+    "9001291": {
+        "Dev_Desc": "협행 / 모든 협행 수락 실패 시",
+        "Original_Text": "수락 가능한 협행이 없습니다.",
+        "English_Text": "There are no acceptable collaborations.",
+        "Russian_Text": "",
+        "Chinese_Text": "没有可接受的合作。"
+    },
+    "9001292": {
+        "Dev_Desc": "협행 / 모든 보상 수령 실패 시",
+        "Original_Text": "보상 수령 가능한 협행이 없습니다.",
+        "English_Text": "There are no partnerships available for compensation.",
+        "Russian_Text": "",
+        "Chinese_Text": "没有可用于补偿的合作伙伴关系。"
+    },
+    "9001293": {
+        "Dev_Desc": "퀘스트 / 이동 패드 입력 중 퀘스트 자동 플레이 시",
+        "Original_Text": "수동 이동과 임무 자동 이동은 동시에 진행할 수 없습니다.",
+        "English_Text": "Manual movement and automatic mission movement cannot be performed at the same time.",
+        "Russian_Text": "",
+        "Chinese_Text": "手动移动和自动任务移动不能同时进行。"
+    },
+    "9001294": {
+        "Dev_Desc": "복구술사 / 후유증 회복",
+        "Original_Text": "후유증이 회복 되었습니다.",
+        "English_Text": "The aftermath has been restored.",
+        "Russian_Text": "",
+        "Chinese_Text": "善后已经恢复。"
+    },
+    "9001295": {
+        "Dev_Desc": "복구술사 / 후유증 회복 실패 시",
+        "Original_Text": "해당 후유증은 이미 회복되었습니다.",
+        "English_Text": "The sequelae have already recovered.",
+        "Russian_Text": "",
+        "Chinese_Text": "后遗症已经痊愈。"
+    },
+    "9001296": {
+        "Dev_Desc": "복구술사 / 후유증 충전 실패 시",
+        "Original_Text": "최대치를 넘어 충전할 수 없습니다.",
+        "English_Text": "You cannot charge beyond the maximum.",
+        "Russian_Text": "",
+        "Chinese_Text": "您不能收取超出最高限额的费用。"
+    },
+    "9001297": {
+        "Dev_Desc": "연합 / 창설 / 이름 미입력",
+        "Original_Text": "연합 이름을 입력하세요.",
+        "English_Text": "Enter a federation name.",
+        "Russian_Text": "",
+        "Chinese_Text": "输入联合名称。"
+    },
+    "9001298": {
+        "Dev_Desc": "연합 에러 / 가입 신청 안 한 연합에 대해 가입 신청 취소 / 가입과 동시에 가입 신청 취소",
+        "Original_Text": "가입 신청하지 않은 연합이거나, 이미 연합에 가입된 상태입니다.",
+        "English_Text": "It is either a federation that has not been applied for, or has already joined a federation.",
+        "Russian_Text": "",
+        "Chinese_Text": "要么是尚未申请的联盟，要么是已经加入的联盟。"
+    },
+    "9001299": {
+        "Dev_Desc": "연합 탭 진입 / 월드 정보 없음",
+        "Original_Text": "일시적으로 월드 정보를 불러올 수 없습니다. 잠시 후 다시 시도해주세요.",
+        "English_Text": "Temporarily unable to load world information. Please try again in a few minutes.",
+        "Russian_Text": "",
+        "Chinese_Text": "暂时无法加载世界信息。请在几分钟后再试一次。"
+    },
+    "9001300": {
+        "Dev_Desc": "연합 / 가입 관리 / 초대 / 초대 받는 횟수 부족",
+        "Original_Text": "<arg p=[1:string]/> 문파의 초대받을 수 있는 횟수가 부족합니다.",
+        "English_Text": "<arg p=[1:string]/>Insufficient number of clan invites.",
+        "Russian_Text": "",
+        "Chinese_Text": "<arg p=[1:string]/>部落邀请数量不足。"
+    },
+    "9001301": {
+        "Dev_Desc": "연합 / 연합장 / 추방, 탈퇴 불가 처리",
+        "Original_Text": "연합장은 탈퇴하거나 추방 당할 수 없습니다.",
+        "English_Text": "Coalition leaders cannot be withdrawn or expelled.",
+        "Russian_Text": "",
+        "Chinese_Text": "联盟领导人不能被撤回或驱逐。"
+    },
+    "9001302": {
+        "Dev_Desc": "파티 던전에서 퀘스트 축지 사용 불가",
+        "Original_Text": "파티 던전에서는 해당 위치로 축지할 수 없습니다.",
+        "English_Text": "In party dungeons, you cannot move to that location.",
+        "Russian_Text": "",
+        "Chinese_Text": "在派对地牢中，您无法移动到该位置。"
+    },
+    "9001303": {
+        "Dev_Desc": "월드 필드에서 퀘스트 축지 사용 불가",
+        "Original_Text": "월드 필드에서는 해당 위치로 축지할 수 없습니다.",
+        "English_Text": "In the world field, you cannot move to that location.",
+        "Russian_Text": "",
+        "Chinese_Text": "在世界领域，你不能移动到那个位置。"
+    },
+    "9001304": {
+        "Dev_Desc": "월드 필드 경계 추가 불가",
+        "Original_Text": "다른 서버의 캐릭터를 경계 대상으로 등록할 수 없습니다.",
+        "English_Text": "Characters from other servers cannot be registered as alert targets.",
+        "Russian_Text": "",
+        "Chinese_Text": "来自其他服务器的角色不能注册为警报目标。"
+    },
+    "9001305": {
+        "Dev_Desc": "협행 / 갱신할 협행 없음",
+        "Original_Text": "갱신할 협행이 없습니다.",
+        "English_Text": "There are no partnerships to update.",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "9001306": {
+        "Dev_Desc": "상점 / 자동 주문 / 무게 초과",
+        "Original_Text": "소지 가능 무게를 초과하여 자동 주문되지 않습니다.",
+        "English_Text": "You will not be automatically ordered if you exceed your carry-on weight.",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "9001307": {
+        "Dev_Desc": "아이템 / 제작 / 제작 실패 보상",
+        "Original_Text": "<arg p=[1:string]/>을(를) 획득했습니다.",
+        "English_Text": "Obtained <arg p=[1:string]/>.",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "9001308": {
+        "Dev_Desc": "채팅 / 채팅 금지 제제 중 / Flooding 제재",
+        "Original_Text": "채팅이 일시 금지되었습니다. 잠시 후 입력해주세요. 채팅금지 종료까지 남은 시간: <arg p=[1:string]/>",
+        "English_Text": "Chat is temporarily suspended. Please enter after a while. Time remaining until chat ban ends: <arg p=[1:string]/>",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "9001309": {
+        "Dev_Desc": "채팅 / 채팅 금지 제제 중 / 계정 제재",
+        "Original_Text": "서비스를 이용할 수 없는 계정입니다. 자세한 내용은 [모바일 고객센터 > 1:1문의]를 통해 확인해 주세요.",
+        "English_Text": "This account is unavailable for service. For more information, please check [Mobile Customer Center > 1:1 Inquiry].",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "9001310": {
+        "Dev_Desc": "채팅 / 채팅 금지 제제 중 / 운영툴 제재",
+        "Original_Text": "운영 정책 위반으로 채팅이 일시 금지되었습니다. 채팅금지 종료 후 입력해주세요. 제재 차수: <arg p=[1:integer]/>회 / 시작 일시: <arg p=[2:string]/> / 종료 일시: <arg p=3:string]/>",
+        "English_Text": "Chat is temporarily suspended for violating our operating policy. Please enter after the chat ban has ended. Sanctions: <arg p=[1:integer]/>times / Start Date: <arg p=[2:string]/>/ End Date: <arg p=3:string]/>",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "9001311": {
+        "Dev_Desc": "던전 / 충전석 최대 버튼 사용시 알림 (시간)",
+        "Original_Text": "보유중인 충전석이 부족하여 더이상 시간을 충전할 수 없습니다.",
+        "English_Text": "You can no longer recharge time because you do not have enough charging stones.",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "9001312": {
+        "Dev_Desc": "던전 / 충전석 최대 버튼 사용시 알림 (횟수)",
+        "Original_Text": "보유중인 충전석이 부족하여 더이상 던전 횟수를 충전할 수 없습니다.",
+        "English_Text": "You can no longer recharge the number of dungeons due to insufficient charging stones.",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "9001313": {
+        "Dev_Desc": "채팅 시스템 메시지 / 단계 유지",
+        "Original_Text": "<<arg p=[1:string]/>>+<arg p=[2:string]/> <arg p=[3:string]/></><<arg p=[4:string]/>> 강화 시도 후 아무 일도 일어나지 않았습니다.</>",
+        "English_Text": "<<arg p=[1:string]/>>+<arg p=[2:string]/><arg p=[3:string]/></><<arg p=[4:string]/>> Nothing happened after the hardening attempt.</>",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "9001314": {
+        "Dev_Desc": "던전 / 충전석 최소 버튼 사용시 알림 (횟수)",
+        "Original_Text": "최소값으로 설정되어있습니다.",
+        "English_Text": "It is set to the minimum value.",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "9001315": {
+        "Dev_Desc": "거래소 / 검색 결과 오류",
+        "Original_Text": "거래소 정보에 오류가 발생했습니다. 새로고침 후 이용 부탁 드립니다.",
+        "English_Text": "An error has occurred in the exchange information. Please use it after refreshing.",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "9001316": {
+        "Dev_Desc": "아이템 스킬 / BlockSkill 시 사용 불가",
+        "Original_Text": "무공을 사용할 수 있는 상태가 아닙니다.",
+        "English_Text": "You are not in a state where you can use martial arts.",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "9001317": {
+        "Dev_Desc": "퀘스트 / 토스트 메시지 / 잠긴 임무",
+        "Original_Text": "아직 진행할 수 없는 임무입니다.",
+        "English_Text": "This is a mission that cannot be completed yet.",
+        "Russian_Text": "",
+        "Chinese_Text": ""
+    },
+    "9001318": {
+        "Dev_Desc": "장비도감 / 즐겨찾기 / 101개 이상 등록 시",
+        "Original_Text": "즐겨찾기는 최대 100개까지 가능합니다.",
+        "English_Text": "You can have up to 100 favorites.",
+        "Russian_Text": "",
+        "Chinese_Text": ""
     }
 }

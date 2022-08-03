@@ -123,7 +123,7 @@
         "Dev_Desc": "구원",
         "id": 60070017,
         "alias": "Contents.Skill.Desc.RitualBell.7091",
-        "text": "파티원 전체의 해로운 효과 일부를 해제하며 생명력을 일정량 회복시킵니다."
+        "text": "파티원 전체의 해로운 효과 일부를 해제하며 생명력을 일정량 회복시킵니다.\n자신이 <textColor=[248:99:99:255]>통제</>, <textColor=[248:99:99:255]>도발</>, <textColor=[248:99:99:255]>침묵</>, <textColor=[248:99:99:255]>행동불능</> 상태일 때는 사용할 수 없습니다."
     },
     "60070018": {
         "deprecated": false,
@@ -151,7 +151,7 @@
         "Dev_Desc": "광명청음",
         "id": 60070021,
         "alias": "Contents.Skill.Desc.RitualBell.7111",
-        "text": "신령한 빛과 소리로 파티원 전체를 감쌉니다. 생명력을 대량 회복시키며 5초간 피해를 입지 않도록 보호합니다."
+        "text": "신령한 빛과 소리로 파티원 전체를 감싸 6초간 <textColor=[136:161:235:255]>광명청음</> 효과를 얻습니다. \n<textColor=[136:161:235:255]>광명청음</> 중에는 생명력이 1 아래로 감소하지 않고 <textColor=[248:99:99:255]>통제</>, <textColor=[248:99:99:255]>빙결</>, <textColor=[248:99:99:255]>도발</>, <textColor=[248:99:99:255]>침묵</>, <textColor=[248:99:99:255]>행동불능</>, <textColor=[248:99:99:255]>둔화</> 효과에 면역 상태가 되며 받는 피해가 감소합니다. 추가로, 생명력을 대량 회복시킵니다."
     },
     "60070022": {
         "deprecated": false,
@@ -291,7 +291,7 @@
         "Dev_Desc": "치환",
         "id": 60070041,
         "alias": "Contents.Skill.Desc.RitualBell.7271",
-        "text": "기본 공격 시 일정 확률로 치유력에 비례하여 추가 피해를 입힙니다."
+        "text": "생명의 힘을 빌려옵니다.\n치유력이 증가합니다.\n추가로, 기본 공격 시 일정 확률로 치유력에 비례하여 추가 피해를 입힙니다."
     },
     "60070042": {
         "deprecated": false,
@@ -584,7 +584,7 @@
         "Dev_Desc": "수호_조건",
         "id": 60070204,
         "alias": "Contents.Effect.requirementDesc.RitualBell.7081",
-        "text": "자신, 파티원, 문파원, 동맹 문파원 대상"
+        "text": "자신, 파티원, 동맹을 포함한 문파원, 연합원 대상"
     },
     "60070205": {
         "deprecated": false,
@@ -680,7 +680,8 @@
         "deprecated": false,
         "Dev_Desc": "광명청음_효과",
         "id": 60070219,
-        "alias": "Contents.Skill.UseEffect.RitualBell.7111"
+        "alias": "Contents.Skill.UseEffect.RitualBell.7111",
+        "text": "광명청음"
     },
     "60070220": {
         "deprecated": false,
@@ -715,7 +716,7 @@
         "Dev_Desc": "은총_효과",
         "id": 60070224,
         "alias": "Contents.Skill.UseEffect.RitualBell.7241",
-        "text": "주는 치유량 +3.0%"
+        "text": "주는 치유량 +3%"
     },
     "60070225": {
         "deprecated": false,
@@ -729,7 +730,7 @@
         "Dev_Desc": "통달_효과",
         "id": 60070226,
         "alias": "Contents.Skill.UseEffect.RitualBell.7261",
-        "text": "통제 저항률 +8.0%"
+        "text": "통제 저항률 +8%"
     },
     "60070227": {
         "deprecated": false,
@@ -862,7 +863,7 @@
         "Dev_Desc": "심기일전_피해량_버프창",
         "id": 60070316,
         "alias": "Contents.Effect.Option.RitualBell.705100",
-        "text": "주는 피해량 증폭 4.0%"
+        "text": "주는 피해량 증폭 4%"
     },
     "60070317": {
         "deprecated": false,
@@ -883,7 +884,7 @@
         "Dev_Desc": "심기일전_피해량_버프창",
         "id": 60070319,
         "alias": "Contents.Effect.Option.RitualBell.705103",
-        "text": "주는 피해량 증폭 5.0%"
+        "text": "주는 피해량 증폭 5%"
     },
     "60070320": {
         "deprecated": false,
@@ -904,7 +905,7 @@
         "Dev_Desc": "심기일전_피해량_버프창",
         "id": 60070322,
         "alias": "Contents.Effect.Option.RitualBell.705106",
-        "text": "주는 피해량 증폭 6.0%"
+        "text": "주는 피해량 증폭 6%"
     },
     "60070323": {
         "deprecated": false,
@@ -925,7 +926,7 @@
         "Dev_Desc": "심기일전_피해량_버프창",
         "id": 60070325,
         "alias": "Contents.Effect.Option.RitualBell.705109",
-        "text": "주는 피해량 증폭 7.0%"
+        "text": "주는 피해량 증폭 7%"
     },
     "60070326": {
         "deprecated": false,
@@ -946,7 +947,7 @@
         "Dev_Desc": "수호_기본_피해감소_버프창",
         "id": 60070328,
         "alias": "Contents.Effect.Option.RitualBell.708100",
-        "text": "받는 피해량 감소 20.0%"
+        "text": "받는 피해량 감소 20%"
     },
     "60070329": {
         "deprecated": false,
@@ -1009,14 +1010,14 @@
         "Dev_Desc": "수호_기본_피해감소_버프창",
         "id": 60070337,
         "alias": "Contents.Effect.Option.RitualBell.708109",
-        "text": "받는 피해량 감소 30.0%"
+        "text": "받는 피해량 감소 30%"
     },
     "60070338": {
         "deprecated": false,
         "Dev_Desc": "수호_증폭_피해감소_버프창",
         "id": 60070338,
         "alias": "Contents.Effect.Option.RitualBell.708200",
-        "text": "받는 피해량 감소 20.0%\n호신 +5"
+        "text": "받는 피해량 감소 20%\n호신 +5"
     },
     "60070339": {
         "deprecated": false,
@@ -1079,14 +1080,14 @@
         "Dev_Desc": "수호_증폭_피해감소_버프창",
         "id": 60070347,
         "alias": "Contents.Effect.Option.RitualBell.708209",
-        "text": "받는 피해량 감소 30.0%\n호신 +5"
+        "text": "받는 피해량 감소 30%\n호신 +5"
     },
     "60070348": {
         "deprecated": false,
         "Dev_Desc": "수호_극한_피해감소_버프창",
         "id": 60070348,
         "alias": "Contents.Effect.Option.RitualBell.708300",
-        "text": "받는 피해량 감소 25.0%\n호신 +5"
+        "text": "받는 피해량 감소 25%\n호신 +5"
     },
     "60070349": {
         "deprecated": false,
@@ -1149,14 +1150,14 @@
         "Dev_Desc": "수호_극한_피해감소_버프창",
         "id": 60070357,
         "alias": "Contents.Effect.Option.RitualBell.708309",
-        "text": "받는 피해량 감소 35.0%\n호신 +5"
+        "text": "받는 피해량 감소 35%\n호신 +5"
     },
     "60070358": {
         "deprecated": false,
         "Dev_Desc": "수호_돌파_피해감소_버프창",
         "id": 60070358,
         "alias": "Contents.Effect.Option.RitualBell.708400",
-        "text": "받는 피해량 감소 35.0%\n호신 +5"
+        "text": "받는 피해량 감소 35%\n호신 +5"
     },
     "60070359": {
         "deprecated": false,
@@ -1219,7 +1220,7 @@
         "Dev_Desc": "수호_돌파_피해감소_버프창",
         "id": 60070367,
         "alias": "Contents.Effect.Option.RitualBell.708409",
-        "text": "받는 피해량 감소 45.0%\n호신 +5"
+        "text": "받는 피해량 감소 45%\n호신 +5"
     },
     "60070368": {
         "deprecated": false,
@@ -1416,5 +1417,54 @@
         "id": 60070395,
         "alias": "Contents.Skill.UseEffect.RitualBell.7083",
         "text": "받는 피해량 감소 +15%"
+    },
+    "60070396": {
+        "deprecated": false,
+        "Dev_Desc": "광명청음_무적_버프창",
+        "id": 60070396,
+        "alias": "Contents.Effect.Name.RitualBell.711100",
+        "text": "광명청음"
+    },
+    "60070397": {
+        "deprecated": false,
+        "Dev_Desc": "광명청음_무적_버프창",
+        "id": 60070397,
+        "alias": "Contents.Effect.Desc.RitualBell.711100",
+        "text": "법종 전설 무공"
+    },
+    "60070398": {
+        "deprecated": false,
+        "Dev_Desc": "광명청음_무적_버프창",
+        "id": 60070398,
+        "alias": "Contents.Effect.Option.RitualBell.711100",
+        "text": "광명청음이 적용 중인 대상은 어떠한 방해도 받지 않으며 생명력이 1로 떨어지는 순간 모든 피해에 면역이 됩니다.\n받는 피해량 감소 +15%"
+    },
+    "60070399": {
+        "deprecated": false,
+        "Dev_Desc": "폭음",
+        "id": 60070399,
+        "alias": "Contents.Skill.Name.RitualBell.7301",
+        "text": "폭음"
+    },
+    "60070400": {
+        "deprecated": false,
+        "Dev_Desc": "폭음",
+        "id": 60070400,
+        "alias": "Contents.Skill.Desc.RitualBell.7301",
+        "text": "폭발적인 음향으로 적을 퇴치합니다.\n법종 공격력과 기공 명중이 증가합니다."
+    },
+    "60070401": {
+        "deprecated": false,
+        "Dev_Desc": "폭음_효과",
+        "id": 60070401,
+        "alias": "Contents.Skill.UseEffect.RitualBell.7301",
+        "text": "법종 공격력 +8, 기공 명중 +4"
+    },
+    "60070402": {
+        "deprecated": false,
+        "Dev_Desc": "치환_효과",
+        "id": 60070402,
+        "alias": "Contents.Skill.UseEffect.RitualBell.7271",
+        "text": "치유력 +5"
     }
 }

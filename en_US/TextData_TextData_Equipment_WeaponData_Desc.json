@@ -1253,7 +1253,8 @@
     "92101602": {
         "deprecated": false,
         "id": 92101602,
-        "alias": "Contents.Item.Desc.2101602"
+        "alias": "Contents.Item.Desc.2101602",
+        "text": "[고유 강화 효과]\n+8 강화 시 [백야: 1단계] 효과 추가\n+9 강화 시 무기 공격력 +15, [백야: 2단계]로 효과 상승\n\n[백야]\n공격 시 일정 확률로 자신에게 이로운 효과를 부여합니다.\n- 1단계: 6초간 치명률 7%, 치명타 추가 공격력 14 증가\n- 2단계: 6초간 치명률 10%, 치명타 추가 공격력 19 증가\n(재사용 대기시간 45초)"
     },
     "92101603": {
         "deprecated": false,
@@ -1269,7 +1270,8 @@
     "92101605": {
         "deprecated": false,
         "id": 92101605,
-        "alias": "Contents.Item.Desc.2101605"
+        "alias": "Contents.Item.Desc.2101605",
+        "text": "[고유 강화 효과]\n+8 강화 시 [폭렬: 1단계] 효과 추가\n+9 강화 시 무기 공격력 +15, [폭렬: 2단계]로 효과 상승\n\n[폭렬]\n공격 시 일정 확률로 자신에게 이로운 효과를 부여합니다.\n- 1단계: 6초간 무기 공격력 22, 명중 7, 치명률 10% 증가\n- 2단계: 6초간 무기 공격력 30, 명중 10, 치명률 15% 증가\n(재사용 대기시간 45초)"
     },
     "92101606": {
         "deprecated": false,
@@ -1286,7 +1288,8 @@
     "92101802": {
         "deprecated": false,
         "id": 92101802,
-        "alias": "Contents.Item.Desc.2101802"
+        "alias": "Contents.Item.Desc.2101802",
+        "text": "[고유 강화 효과]\n+8 강화 시 무기 공격력 +9, [금분진기: 1단계] 효과 추가\n+9 강화 시 무기 공격력 +21, [금분진기: 2단계]로 효과 상승\n\n[금분진기]\n공격 시 일정 확률로 자신에게 이로운 효과를 부여합니다.\n- 1단계: 6초간 무기 공격력 30, 치유력 20, 명중 14, 치명률 10% 증가\n- 2단계: 6초간 무기 공격력 60, 치유력 30, 명중 20, 치명률 50% 증가\n(재사용 대기시간 45초)"
     },
     "92102001": {
         "deprecated": false,
@@ -1427,7 +1430,8 @@
     "92102602": {
         "deprecated": false,
         "id": 92102602,
-        "alias": "Contents.Item.Desc.2102602"
+        "alias": "Contents.Item.Desc.2102602",
+        "text": "[고유 강화 효과]\n+8 강화 시 [폭렬: 1단계] 효과 추가\n+9 강화 시 무기 공격력 +15, [폭렬: 2단계]로 효과 상승\n\n[폭렬]\n공격 시 일정 확률로 자신에게 이로운 효과를 부여합니다.\n- 1단계: 6초간 무기 공격력 22, 명중 7, 치명률 10% 증가\n- 2단계: 6초간 무기 공격력 30, 명중 10, 치명률 15% 증가\n(재사용 대기시간 45초)"
     },
     "92102603": {
         "deprecated": false,
@@ -1443,7 +1447,8 @@
     "92102605": {
         "deprecated": false,
         "id": 92102605,
-        "alias": "Contents.Item.Desc.2102605"
+        "alias": "Contents.Item.Desc.2102605",
+        "text": "[고유 강화 효과]\n+8 강화 시 [백야: 1단계] 효과 추가\n+9 강화 시 무기 공격력 +15, [백야: 2단계]로 효과 상승\n\n[백야]\n공격 시 일정 확률로 자신에게 이로운 효과를 부여합니다.\n- 1단계: 6초간 치명률 7%, 치명타 추가 공격력 14 증가\n- 2단계: 6초간 치명률 10%, 치명타 추가 공격력 19 증가\n(재사용 대기시간 45초)"
     },
     "92102606": {
         "deprecated": false,
@@ -1460,7 +1465,8 @@
     "92102802": {
         "deprecated": false,
         "id": 92102802,
-        "alias": "Contents.Item.Desc.2102802"
+        "alias": "Contents.Item.Desc.2102802",
+        "text": "[고유 강화 효과]\n+8 강화 시 무기 공격력 +9, [금분진기: 1단계] 효과 추가\n+9 강화 시 무기 공격력 +21, [금분진기: 2단계]로 효과 상승\n\n[금분진기]\n공격 시 일정 확률로 자신에게 이로운 효과를 부여합니다.\n- 1단계: 6초간 무기 공격력 30, 치유력 20, 명중 14, 치명률 10% 증가\n- 2단계: 6초간 무기 공격력 60, 치유력 30, 명중 20, 치명률 50% 증가\n(재사용 대기시간 45초)"
     },
     "92103001": {
         "deprecated": false,
@@ -1612,12 +1618,14 @@
     "92103604": {
         "deprecated": false,
         "id": 92103604,
-        "alias": "Contents.Item.Desc.2103604"
+        "alias": "Contents.Item.Desc.2103604",
+        "text": "[고유 강화 효과]\n+8 강화 시 [폭렬: 1단계] 효과 추가\n+9 강화 시 무기 공격력 +15, [폭렬: 2단계]로 효과 상승\n\n[폭렬]\n공격 시 일정 확률로 자신에게 이로운 효과를 부여합니다.\n- 1단계: 6초간 무기 공격력 22, 명중 7, 치명률 10% 증가\n- 2단계: 6초간 무기 공격력 30, 명중 10, 치명률 15% 증가\n(재사용 대기시간 45초)"
     },
     "92103605": {
         "deprecated": false,
         "id": 92103605,
-        "alias": "Contents.Item.Desc.2103605"
+        "alias": "Contents.Item.Desc.2103605",
+        "text": "[고유 강화 효과]\n+8 강화 시 [백야: 1단계] 효과 추가\n+9 강화 시 무기 공격력 +15, [백야: 2단계]로 효과 상승\n\n[백야]\n공격 시 일정 확률로 자신에게 이로운 효과를 부여합니다.\n- 1단계: 6초간 치명률 7%, 치명타 추가 공격력 14 증가\n- 2단계: 6초간 치명률 10%, 치명타 추가 공격력 19 증가\n(재사용 대기시간 45초)"
     },
     "92103606": {
         "deprecated": false,
@@ -1634,7 +1642,8 @@
     "92103802": {
         "deprecated": false,
         "id": 92103802,
-        "alias": "Contents.Item.Desc.2103802"
+        "alias": "Contents.Item.Desc.2103802",
+        "text": "[고유 강화 효과]\n+8 강화 시 무기 공격력 +9, [금분진기: 1단계] 효과 추가\n+9 강화 시 무기 공격력 +21, [금분진기: 2단계]로 효과 상승\n\n[금분진기]\n공격 시 일정 확률로 자신에게 이로운 효과를 부여합니다.\n- 1단계: 6초간 무기 공격력 30, 치유력 20, 명중 14, 치명률 10% 증가\n- 2단계: 6초간 무기 공격력 60, 치유력 30, 명중 20, 치명률 50% 증가\n(재사용 대기시간 45초)"
     },
     "92104001": {
         "deprecated": false,
@@ -1786,12 +1795,14 @@
     "92104604": {
         "deprecated": false,
         "id": 92104604,
-        "alias": "Contents.Item.Desc.2104604"
+        "alias": "Contents.Item.Desc.2104604",
+        "text": "[고유 강화 효과]\n+8 강화 시 [폭렬: 1단계] 효과 추가\n+9 강화 시 무기 공격력 +15, [폭렬: 2단계]로 효과 상승\n\n[폭렬]\n공격 시 일정 확률로 자신에게 이로운 효과를 부여합니다.\n- 1단계: 6초간 무기 공격력 22, 명중 7, 치명률 10% 증가\n- 2단계: 6초간 무기 공격력 30, 명중 10, 치명률 15% 증가\n(재사용 대기시간 45초)"
     },
     "92104605": {
         "deprecated": false,
         "id": 92104605,
-        "alias": "Contents.Item.Desc.2104605"
+        "alias": "Contents.Item.Desc.2104605",
+        "text": "[고유 강화 효과]\n+8 강화 시 [백야: 1단계] 효과 추가\n+9 강화 시 무기 공격력 +15, [백야: 2단계]로 효과 상승\n\n[백야]\n공격 시 일정 확률로 자신에게 이로운 효과를 부여합니다.\n- 1단계: 6초간 치명률 7%, 치명타 추가 공격력 14 증가\n- 2단계: 6초간 치명률 10%, 치명타 추가 공격력 19 증가\n(재사용 대기시간 45초)"
     },
     "92104606": {
         "deprecated": false,
@@ -1808,7 +1819,8 @@
     "92104802": {
         "deprecated": false,
         "id": 92104802,
-        "alias": "Contents.Item.Desc.2104802"
+        "alias": "Contents.Item.Desc.2104802",
+        "text": "[고유 강화 효과]\n+8 강화 시 무기 공격력 +9, [금분진기: 1단계] 효과 추가\n+9 강화 시 무기 공격력 +21, [금분진기: 2단계]로 효과 상승\n\n[금분진기]\n공격 시 일정 확률로 자신에게 이로운 효과를 부여합니다.\n- 1단계: 6초간 무기 공격력 30, 치유력 20, 명중 14, 치명률 10% 증가\n- 2단계: 6초간 무기 공격력 60, 치유력 30, 명중 20, 치명률 50% 증가\n(재사용 대기시간 45초)"
     },
     "92105001": {
         "deprecated": false,
@@ -1949,12 +1961,14 @@
     "92105602": {
         "deprecated": false,
         "id": 92105602,
-        "alias": "Contents.Item.Desc.2105602"
+        "alias": "Contents.Item.Desc.2105602",
+        "text": "[고유 강화 효과]\n+8 강화 시 [백야: 1단계] 효과 추가\n+9 강화 시 무기 공격력 +15, [백야: 2단계]로 효과 상승\n\n[백야]\n공격 시 일정 확률로 자신에게 이로운 효과를 부여합니다.\n- 1단계: 6초간 치명률 7%, 치명타 추가 공격력 14 증가\n- 2단계: 6초간 치명률 10%, 치명타 추가 공격력 19 증가\n(재사용 대기시간 45초)"
     },
     "92105603": {
         "deprecated": false,
         "id": 92105603,
-        "alias": "Contents.Item.Desc.2105603"
+        "alias": "Contents.Item.Desc.2105603",
+        "text": "[고유 강화 효과]\n+8 강화 시 [폭렬: 1단계] 효과 추가\n+9 강화 시 무기 공격력 +15, [폭렬: 2단계]로 효과 상승\n\n[폭렬]\n공격 시 일정 확률로 자신에게 이로운 효과를 부여합니다.\n- 1단계: 6초간 무기 공격력 22, 명중 7, 치명률 10% 증가\n- 2단계: 6초간 무기 공격력 30, 명중 10, 치명률 15% 증가\n(재사용 대기시간 45초)"
     },
     "92105604": {
         "deprecated": false,
@@ -1982,7 +1996,8 @@
     "92105802": {
         "deprecated": false,
         "id": 92105802,
-        "alias": "Contents.Item.Desc.2105802"
+        "alias": "Contents.Item.Desc.2105802",
+        "text": "[고유 강화 효과]\n+8 강화 시 무기 공격력 +9, [금분진기: 1단계] 효과 추가\n+9 강화 시 무기 공격력 +21, [금분진기: 2단계]로 효과 상승\n\n[금분진기]\n공격 시 일정 확률로 자신에게 이로운 효과를 부여합니다.\n- 1단계: 6초간 무기 공격력 30, 치유력 20, 명중 14, 치명률 10% 증가\n- 2단계: 6초간 무기 공격력 60, 치유력 30, 명중 20, 치명률 50% 증가\n(재사용 대기시간 45초)"
     },
     "92106001": {
         "deprecated": false,
@@ -2123,7 +2138,8 @@
     "92106602": {
         "deprecated": false,
         "id": 92106602,
-        "alias": "Contents.Item.Desc.2106602"
+        "alias": "Contents.Item.Desc.2106602",
+        "text": "[고유 강화 효과]\n+8 강화 시 [백야: 1단계] 효과 추가\n+9 강화 시 무기 공격력 +15, [백야: 2단계]로 효과 상승\n\n[백야]\n공격 시 일정 확률로 자신에게 이로운 효과를 부여합니다.\n- 1단계: 6초간 치명률 7%, 치명타 추가 공격력 14 증가\n- 2단계: 6초간 치명률 10%, 치명타 추가 공격력 19 증가\n(재사용 대기시간 45초)"
     },
     "92106603": {
         "deprecated": false,
@@ -2139,7 +2155,8 @@
     "92106605": {
         "deprecated": false,
         "id": 92106605,
-        "alias": "Contents.Item.Desc.2106605"
+        "alias": "Contents.Item.Desc.2106605",
+        "text": "[고유 강화 효과]\n+8 강화 시 [폭렬: 1단계] 효과 추가\n+9 강화 시 무기 공격력 +15, [폭렬: 2단계]로 효과 상승\n\n[폭렬]\n공격 시 일정 확률로 자신에게 이로운 효과를 부여합니다.\n- 1단계: 6초간 무기 공격력 22, 명중 7, 치명률 10% 증가\n- 2단계: 6초간 무기 공격력 30, 명중 10, 치명률 15% 증가\n(재사용 대기시간 45초)"
     },
     "92106606": {
         "deprecated": false,
@@ -2156,7 +2173,8 @@
     "92106802": {
         "deprecated": false,
         "id": 92106802,
-        "alias": "Contents.Item.Desc.2106802"
+        "alias": "Contents.Item.Desc.2106802",
+        "text": "[고유 강화 효과]\n+8 강화 시 무기 공격력 +9, [금분진기: 1단계] 효과 추가\n+9 강화 시 무기 공격력 +21, [금분진기: 2단계]로 효과 상승\n\n[금분진기]\n공격 시 일정 확률로 자신에게 이로운 효과를 부여합니다.\n- 1단계: 6초간 무기 공격력 30, 치유력 20, 명중 14, 치명률 10% 증가\n- 2단계: 6초간 무기 공격력 60, 치유력 30, 명중 20, 치명률 50% 증가\n(재사용 대기시간 45초)"
     },
     "92201001": {
         "deprecated": false,
@@ -2316,7 +2334,8 @@
     "92201602": {
         "deprecated": false,
         "id": 92201602,
-        "alias": "Contents.Item.Desc.2201602"
+        "alias": "Contents.Item.Desc.2201602",
+        "text": "[고유 강화 효과]\n+8 강화 시 [백야: 1단계] 효과 추가\n+9 강화 시 무기 공격력 +15, [백야: 2단계]로 효과 상승\n\n[백야]\n공격 시 일정 확률로 자신에게 이로운 효과를 부여합니다.\n- 1단계: 6초간 치명률 7%, 치명타 추가 공격력 14 증가\n- 2단계: 6초간 치명률 10%, 치명타 추가 공격력 19 증가\n(재사용 대기시간 45초)"
     },
     "92201603": {
         "deprecated": false,
@@ -2331,7 +2350,8 @@
     "92201605": {
         "deprecated": false,
         "id": 92201605,
-        "alias": "Contents.Item.Desc.2201605"
+        "alias": "Contents.Item.Desc.2201605",
+        "text": "[고유 강화 효과]\n+8 강화 시 [폭렬: 1단계] 효과 추가\n+9 강화 시 무기 공격력 +15, [폭렬: 2단계]로 효과 상승\n\n[폭렬]\n공격 시 일정 확률로 자신에게 이로운 효과를 부여합니다.\n- 1단계: 6초간 무기 공격력 22, 명중 7, 치명률 10% 증가\n- 2단계: 6초간 무기 공격력 30, 명중 10, 치명률 15% 증가\n(재사용 대기시간 45초)"
     },
     "92201606": {
         "deprecated": false,
@@ -2342,12 +2362,14 @@
     "92201801": {
         "deprecated": false,
         "id": 92201801,
-        "alias": "Contents.Item.Desc.2201801"
+        "alias": "Contents.Item.Desc.2201801",
+        "text": "[고유 강화 효과]\n+8 강화 시 무기 공격력 +9, [금분진기: 1단계] 효과 추가\n+9 강화 시 무기 공격력 +21, [금분진기: 2단계]로 효과 상승\n\n[금분진기]\n공격 시 일정 확률로 자신에게 이로운 효과를 부여합니다.\n- 1단계: 6초간 무기 공격력 30, 치유력 20, 명중 14, 치명률 10% 증가\n- 2단계: 6초간 무기 공격력 60, 치유력 30, 명중 20, 치명률 50% 증가\n(재사용 대기시간 45초)"
     },
     "92201802": {
         "deprecated": false,
         "id": 92201802,
-        "alias": "Contents.Item.Desc.2201802"
+        "alias": "Contents.Item.Desc.2201802",
+        "text": "[고유 강화 효과]\n+8 강화 시 무기 공격력 +9, [금분진기: 1단계] 효과 추가\n+9 강화 시 무기 공격력 +21, [금분진기: 2단계]로 효과 상승\n\n[금분진기]\n공격 시 일정 확률로 자신에게 이로운 효과를 부여합니다.\n- 1단계: 6초간 무기 공격력 30, 치유력 20, 명중 14, 치명률 10% 증가\n- 2단계: 6초간 무기 공격력 60, 치유력 30, 명중 20, 치명률 50% 증가\n(재사용 대기시간 45초)"
     },
     "92202001": {
         "deprecated": false,
@@ -2507,7 +2529,8 @@
     "92202602": {
         "deprecated": false,
         "id": 92202602,
-        "alias": "Contents.Item.Desc.2202602"
+        "alias": "Contents.Item.Desc.2202602",
+        "text": "[고유 강화 효과]\n+8 강화 시 [폭렬: 1단계] 효과 추가\n+9 강화 시 무기 공격력 +15, [폭렬: 2단계]로 효과 상승\n\n[폭렬]\n공격 시 일정 확률로 자신에게 이로운 효과를 부여합니다.\n- 1단계: 6초간 무기 공격력 22, 명중 7, 치명률 10% 증가\n- 2단계: 6초간 무기 공격력 30, 명중 10, 치명률 15% 증가\n(재사용 대기시간 45초)"
     },
     "92202603": {
         "deprecated": false,
@@ -2522,7 +2545,8 @@
     "92202605": {
         "deprecated": false,
         "id": 92202605,
-        "alias": "Contents.Item.Desc.2202605"
+        "alias": "Contents.Item.Desc.2202605",
+        "text": "[고유 강화 효과]\n+8 강화 시 [백야: 1단계] 효과 추가\n+9 강화 시 무기 공격력 +15, [백야: 2단계]로 효과 상승\n\n[백야]\n공격 시 일정 확률로 자신에게 이로운 효과를 부여합니다.\n- 1단계: 6초간 치명률 7%, 치명타 추가 공격력 14 증가\n- 2단계: 6초간 치명률 10%, 치명타 추가 공격력 19 증가\n(재사용 대기시간 45초)"
     },
     "92202606": {
         "deprecated": false,
@@ -2533,12 +2557,14 @@
     "92202801": {
         "deprecated": false,
         "id": 92202801,
-        "alias": "Contents.Item.Desc.2202801"
+        "alias": "Contents.Item.Desc.2202801",
+        "text": "[고유 강화 효과]\n+8 강화 시 무기 공격력 +9, [금분진기: 1단계] 효과 추가\n+9 강화 시 무기 공격력 +21, [금분진기: 2단계]로 효과 상승\n\n[금분진기]\n공격 시 일정 확률로 자신에게 이로운 효과를 부여합니다.\n- 1단계: 6초간 무기 공격력 30, 치유력 20, 명중 14, 치명률 10% 증가\n- 2단계: 6초간 무기 공격력 60, 치유력 30, 명중 20, 치명률 50% 증가\n(재사용 대기시간 45초)"
     },
     "92202802": {
         "deprecated": false,
         "id": 92202802,
-        "alias": "Contents.Item.Desc.2202802"
+        "alias": "Contents.Item.Desc.2202802",
+        "text": "[고유 강화 효과]\n+8 강화 시 무기 공격력 +9, [금분진기: 1단계] 효과 추가\n+9 강화 시 무기 공격력 +21, [금분진기: 2단계]로 효과 상승\n\n[금분진기]\n공격 시 일정 확률로 자신에게 이로운 효과를 부여합니다.\n- 1단계: 6초간 무기 공격력 30, 치유력 20, 명중 14, 치명률 10% 증가\n- 2단계: 6초간 무기 공격력 60, 치유력 30, 명중 20, 치명률 50% 증가\n(재사용 대기시간 45초)"
     },
     "92203001": {
         "deprecated": false,
@@ -2708,12 +2734,14 @@
     "92203604": {
         "deprecated": false,
         "id": 92203604,
-        "alias": "Contents.Item.Desc.2203604"
+        "alias": "Contents.Item.Desc.2203604",
+        "text": "[고유 강화 효과]\n+8 강화 시 [폭렬: 1단계] 효과 추가\n+9 강화 시 무기 공격력 +15, [폭렬: 2단계]로 효과 상승\n\n[폭렬]\n공격 시 일정 확률로 자신에게 이로운 효과를 부여합니다.\n- 1단계: 6초간 무기 공격력 22, 명중 7, 치명률 10% 증가\n- 2단계: 6초간 무기 공격력 30, 명중 10, 치명률 15% 증가\n(재사용 대기시간 45초)"
     },
     "92203605": {
         "deprecated": false,
         "id": 92203605,
-        "alias": "Contents.Item.Desc.2203605"
+        "alias": "Contents.Item.Desc.2203605",
+        "text": "[고유 강화 효과]\n+8 강화 시 [백야: 1단계] 효과 추가\n+9 강화 시 무기 공격력 +15, [백야: 2단계]로 효과 상승\n\n[백야]\n공격 시 일정 확률로 자신에게 이로운 효과를 부여합니다.\n- 1단계: 6초간 치명률 7%, 치명타 추가 공격력 14 증가\n- 2단계: 6초간 치명률 10%, 치명타 추가 공격력 19 증가\n(재사용 대기시간 45초)"
     },
     "92203606": {
         "deprecated": false,
@@ -2724,12 +2752,14 @@
     "92203801": {
         "deprecated": false,
         "id": 92203801,
-        "alias": "Contents.Item.Desc.2203801"
+        "alias": "Contents.Item.Desc.2203801",
+        "text": "[고유 강화 효과]\n+8 강화 시 무기 공격력 +9, [금분진기: 1단계] 효과 추가\n+9 강화 시 무기 공격력 +21, [금분진기: 2단계]로 효과 상승\n\n[금분진기]\n공격 시 일정 확률로 자신에게 이로운 효과를 부여합니다.\n- 1단계: 6초간 무기 공격력 30, 치유력 20, 명중 14, 치명률 10% 증가\n- 2단계: 6초간 무기 공격력 60, 치유력 30, 명중 20, 치명률 50% 증가\n(재사용 대기시간 45초)"
     },
     "92203802": {
         "deprecated": false,
         "id": 92203802,
-        "alias": "Contents.Item.Desc.2203802"
+        "alias": "Contents.Item.Desc.2203802",
+        "text": "[고유 강화 효과]\n+8 강화 시 무기 공격력 +9, [금분진기: 1단계] 효과 추가\n+9 강화 시 무기 공격력 +21, [금분진기: 2단계]로 효과 상승\n\n[금분진기]\n공격 시 일정 확률로 자신에게 이로운 효과를 부여합니다.\n- 1단계: 6초간 무기 공격력 30, 치유력 20, 명중 14, 치명률 10% 증가\n- 2단계: 6초간 무기 공격력 60, 치유력 30, 명중 20, 치명률 50% 증가\n(재사용 대기시간 45초)"
     },
     "92204001": {
         "deprecated": false,
@@ -2899,12 +2929,14 @@
     "92204604": {
         "deprecated": false,
         "id": 92204604,
-        "alias": "Contents.Item.Desc.2204604"
+        "alias": "Contents.Item.Desc.2204604",
+        "text": "[고유 강화 효과]\n+8 강화 시 [폭렬: 1단계] 효과 추가\n+9 강화 시 무기 공격력 +15, [폭렬: 2단계]로 효과 상승\n\n[폭렬]\n공격 시 일정 확률로 자신에게 이로운 효과를 부여합니다.\n- 1단계: 6초간 무기 공격력 22, 명중 7, 치명률 10% 증가\n- 2단계: 6초간 무기 공격력 30, 명중 10, 치명률 15% 증가\n(재사용 대기시간 45초)"
     },
     "92204605": {
         "deprecated": false,
         "id": 92204605,
-        "alias": "Contents.Item.Desc.2204605"
+        "alias": "Contents.Item.Desc.2204605",
+        "text": "[고유 강화 효과]\n+8 강화 시 [백야: 1단계] 효과 추가\n+9 강화 시 무기 공격력 +15, [백야: 2단계]로 효과 상승\n\n[백야]\n공격 시 일정 확률로 자신에게 이로운 효과를 부여합니다.\n- 1단계: 6초간 치명률 7%, 치명타 추가 공격력 14 증가\n- 2단계: 6초간 치명률 10%, 치명타 추가 공격력 19 증가\n(재사용 대기시간 45초)"
     },
     "92204606": {
         "deprecated": false,
@@ -2915,12 +2947,14 @@
     "92204801": {
         "deprecated": false,
         "id": 92204801,
-        "alias": "Contents.Item.Desc.2204801"
+        "alias": "Contents.Item.Desc.2204801",
+        "text": "[고유 강화 효과]\n+8 강화 시 무기 공격력 +9, [금분진기: 1단계] 효과 추가\n+9 강화 시 무기 공격력 +21, [금분진기: 2단계]로 효과 상승\n\n[금분진기]\n공격 시 일정 확률로 자신에게 이로운 효과를 부여합니다.\n- 1단계: 6초간 무기 공격력 30, 치유력 20, 명중 14, 치명률 10% 증가\n- 2단계: 6초간 무기 공격력 60, 치유력 30, 명중 20, 치명률 50% 증가\n(재사용 대기시간 45초)"
     },
     "92204802": {
         "deprecated": false,
         "id": 92204802,
-        "alias": "Contents.Item.Desc.2204802"
+        "alias": "Contents.Item.Desc.2204802",
+        "text": "[고유 강화 효과]\n+8 강화 시 무기 공격력 +9, [금분진기: 1단계] 효과 추가\n+9 강화 시 무기 공격력 +21, [금분진기: 2단계]로 효과 상승\n\n[금분진기]\n공격 시 일정 확률로 자신에게 이로운 효과를 부여합니다.\n- 1단계: 6초간 무기 공격력 30, 치유력 20, 명중 14, 치명률 10% 증가\n- 2단계: 6초간 무기 공격력 60, 치유력 30, 명중 20, 치명률 50% 증가\n(재사용 대기시간 45초)"
     },
     "92205001": {
         "deprecated": false,
@@ -3080,12 +3114,14 @@
     "92205602": {
         "deprecated": false,
         "id": 92205602,
-        "alias": "Contents.Item.Desc.2205602"
+        "alias": "Contents.Item.Desc.2205602",
+        "text": "[고유 강화 효과]\n+8 강화 시 [백야: 1단계] 효과 추가\n+9 강화 시 무기 공격력 +15, [백야: 2단계]로 효과 상승\n\n[백야]\n공격 시 일정 확률로 자신에게 이로운 효과를 부여합니다.\n- 1단계: 6초간 치명률 7%, 치명타 추가 공격력 14 증가\n- 2단계: 6초간 치명률 10%, 치명타 추가 공격력 19 증가\n(재사용 대기시간 45초)"
     },
     "92205603": {
         "deprecated": false,
         "id": 92205603,
-        "alias": "Contents.Item.Desc.2205603"
+        "alias": "Contents.Item.Desc.2205603",
+        "text": "[고유 강화 효과]\n+8 강화 시 [폭렬: 1단계] 효과 추가\n+9 강화 시 무기 공격력 +15, [폭렬: 2단계]로 효과 상승\n\n[폭렬]\n공격 시 일정 확률로 자신에게 이로운 효과를 부여합니다.\n- 1단계: 6초간 무기 공격력 22, 명중 7, 치명률 10% 증가\n- 2단계: 6초간 무기 공격력 30, 명중 10, 치명률 15% 증가\n(재사용 대기시간 45초)"
     },
     "92205604": {
         "deprecated": false,
@@ -3106,12 +3142,14 @@
     "92205801": {
         "deprecated": false,
         "id": 92205801,
-        "alias": "Contents.Item.Desc.2205801"
+        "alias": "Contents.Item.Desc.2205801",
+        "text": "[고유 강화 효과]\n+8 강화 시 무기 공격력 +9, [금분진기: 1단계] 효과 추가\n+9 강화 시 무기 공격력 +21, [금분진기: 2단계]로 효과 상승\n\n[금분진기]\n공격 시 일정 확률로 자신에게 이로운 효과를 부여합니다.\n- 1단계: 6초간 무기 공격력 30, 치유력 20, 명중 14, 치명률 10% 증가\n- 2단계: 6초간 무기 공격력 60, 치유력 30, 명중 20, 치명률 50% 증가\n(재사용 대기시간 45초)"
     },
     "92205802": {
         "deprecated": false,
         "id": 92205802,
-        "alias": "Contents.Item.Desc.2205802"
+        "alias": "Contents.Item.Desc.2205802",
+        "text": "[고유 강화 효과]\n+8 강화 시 무기 공격력 +9, [금분진기: 1단계] 효과 추가\n+9 강화 시 무기 공격력 +21, [금분진기: 2단계]로 효과 상승\n\n[금분진기]\n공격 시 일정 확률로 자신에게 이로운 효과를 부여합니다.\n- 1단계: 6초간 무기 공격력 30, 치유력 20, 명중 14, 치명률 10% 증가\n- 2단계: 6초간 무기 공격력 60, 치유력 30, 명중 20, 치명률 50% 증가\n(재사용 대기시간 45초)"
     },
     "92206001": {
         "deprecated": false,
@@ -3271,7 +3309,8 @@
     "92206602": {
         "deprecated": false,
         "id": 92206602,
-        "alias": "Contents.Item.Desc.2206602"
+        "alias": "Contents.Item.Desc.2206602",
+        "text": "[고유 강화 효과]\n+8 강화 시 [백야: 1단계] 효과 추가\n+9 강화 시 무기 공격력 +15, [백야: 2단계]로 효과 상승\n\n[백야]\n공격 시 일정 확률로 자신에게 이로운 효과를 부여합니다.\n- 1단계: 6초간 치명률 7%, 치명타 추가 공격력 14 증가\n- 2단계: 6초간 치명률 10%, 치명타 추가 공격력 19 증가\n(재사용 대기시간 45초)"
     },
     "92206603": {
         "deprecated": false,
@@ -3286,7 +3325,8 @@
     "92206605": {
         "deprecated": false,
         "id": 92206605,
-        "alias": "Contents.Item.Desc.2206605"
+        "alias": "Contents.Item.Desc.2206605",
+        "text": "[고유 강화 효과]\n+8 강화 시 [폭렬: 1단계] 효과 추가\n+9 강화 시 무기 공격력 +15, [폭렬: 2단계]로 효과 상승\n\n[폭렬]\n공격 시 일정 확률로 자신에게 이로운 효과를 부여합니다.\n- 1단계: 6초간 무기 공격력 22, 명중 7, 치명률 10% 증가\n- 2단계: 6초간 무기 공격력 30, 명중 10, 치명률 15% 증가\n(재사용 대기시간 45초)"
     },
     "92206606": {
         "deprecated": false,
@@ -3297,12 +3337,14 @@
     "92206801": {
         "deprecated": false,
         "id": 92206801,
-        "alias": "Contents.Item.Desc.2206801"
+        "alias": "Contents.Item.Desc.2206801",
+        "text": "[고유 강화 효과]\n+8 강화 시 무기 공격력 +9, [금분진기: 1단계] 효과 추가\n+9 강화 시 무기 공격력 +21, [금분진기: 2단계]로 효과 상승\n\n[금분진기]\n공격 시 일정 확률로 자신에게 이로운 효과를 부여합니다.\n- 1단계: 6초간 무기 공격력 30, 치유력 20, 명중 14, 치명률 10% 증가\n- 2단계: 6초간 무기 공격력 60, 치유력 30, 명중 20, 치명률 50% 증가\n(재사용 대기시간 45초)"
     },
     "92206802": {
         "deprecated": false,
         "id": 92206802,
-        "alias": "Contents.Item.Desc.2206802"
+        "alias": "Contents.Item.Desc.2206802",
+        "text": "[고유 강화 효과]\n+8 강화 시 무기 공격력 +9, [금분진기: 1단계] 효과 추가\n+9 강화 시 무기 공격력 +21, [금분진기: 2단계]로 효과 상승\n\n[금분진기]\n공격 시 일정 확률로 자신에게 이로운 효과를 부여합니다.\n- 1단계: 6초간 무기 공격력 30, 치유력 20, 명중 14, 치명률 10% 증가\n- 2단계: 6초간 무기 공격력 60, 치유력 30, 명중 20, 치명률 50% 증가\n(재사용 대기시간 45초)"
     },
     "92900001": {
         "deprecated": false,
@@ -5116,13 +5158,8 @@
         "deprecated": false,
         "Dev_Desc": "붉은 바다의 길",
         "id": 92107606,
-        "alias": "Contents.Item.Desc.2107606"
-    },
-    "92107607": {
-        "deprecated": false,
-        "Dev_Desc": "짙은 심연의 비수",
-        "id": 92107607,
-        "alias": "Contents.Item.Desc.2107607"
+        "alias": "Contents.Item.Desc.2107606",
+        "text": "[고유 강화 효과]\n+8 강화 시 [백야: 1단계] 효과 추가\n+9 강화 시 무기 공격력 +15, [백야: 2단계]로 효과 상승\n\n[백야]\n공격 시 일정 확률로 자신에게 이로운 효과를 부여합니다.\n- 1단계: 6초간 치명률 7%, 치명타 추가 공격력 14 증가\n- 2단계: 6초간 치명률 10%, 치명타 추가 공격력 19 증가\n(재사용 대기시간 45초)"
     },
     "92107608": {
         "deprecated": false,
@@ -5135,7 +5172,8 @@
         "deprecated": false,
         "Dev_Desc": "고대 유적의 계승자",
         "id": 92107609,
-        "alias": "Contents.Item.Desc.2107609"
+        "alias": "Contents.Item.Desc.2107609",
+        "text": "[고유 강화 효과]\n+8 강화 시 [폭렬: 1단계] 효과 추가\n+9 강화 시 무기 공격력 +15, [폭렬: 2단계]로 효과 상승\n\n[폭렬]\n공격 시 일정 확률로 자신에게 이로운 효과를 부여합니다.\n- 1단계: 6초간 무기 공격력 22, 명중 7, 치명률 10% 증가\n- 2단계: 6초간 무기 공격력 30, 명중 10, 치명률 15% 증가\n(재사용 대기시간 45초)"
     },
     "92107801": {
         "deprecated": false,
@@ -5148,7 +5186,8 @@
         "deprecated": false,
         "Dev_Desc": "황천의 서약",
         "id": 92107802,
-        "alias": "Contents.Item.Desc.2107802"
+        "alias": "Contents.Item.Desc.2107802",
+        "text": "[고유 강화 효과]\n+8 강화 시 무기 공격력 +9, [금분진기: 1단계] 효과 추가\n+9 강화 시 무기 공격력 +21, [금분진기: 2단계]로 효과 상승\n\n[금분진기]\n공격 시 일정 확률로 자신에게 이로운 효과를 부여합니다.\n- 1단계: 6초간 무기 공격력 30, 치유력 20, 명중 14, 치명률 10% 증가\n- 2단계: 6초간 무기 공격력 60, 치유력 30, 명중 20, 치명률 50% 증가\n(재사용 대기시간 45초)"
     },
     "92207001": {
         "deprecated": false,
@@ -5400,13 +5439,8 @@
         "deprecated": false,
         "Dev_Desc": "붉은 바다의 길(각인)",
         "id": 92207606,
-        "alias": "Contents.Item.Desc.2207606"
-    },
-    "92207607": {
-        "deprecated": false,
-        "Dev_Desc": "짙은 심연의 비수(각인)",
-        "id": 92207607,
-        "alias": "Contents.Item.Desc.2207607"
+        "alias": "Contents.Item.Desc.2207606",
+        "text": "[고유 강화 효과]\n+8 강화 시 [백야: 1단계] 효과 추가\n+9 강화 시 무기 공격력 +15, [백야: 2단계]로 효과 상승\n\n[백야]\n공격 시 일정 확률로 자신에게 이로운 효과를 부여합니다.\n- 1단계: 6초간 치명률 7%, 치명타 추가 공격력 14 증가\n- 2단계: 6초간 치명률 10%, 치명타 추가 공격력 19 증가\n(재사용 대기시간 45초)"
     },
     "92207608": {
         "deprecated": false,
@@ -5419,19 +5453,22 @@
         "deprecated": false,
         "Dev_Desc": "고대 유적의 계승자(각인)",
         "id": 92207609,
-        "alias": "Contents.Item.Desc.2207609"
+        "alias": "Contents.Item.Desc.2207609",
+        "text": "[고유 강화 효과]\n+8 강화 시 [폭렬: 1단계] 효과 추가\n+9 강화 시 무기 공격력 +15, [폭렬: 2단계]로 효과 상승\n\n[폭렬]\n공격 시 일정 확률로 자신에게 이로운 효과를 부여합니다.\n- 1단계: 6초간 무기 공격력 22, 명중 7, 치명률 10% 증가\n- 2단계: 6초간 무기 공격력 30, 명중 10, 치명률 15% 증가\n(재사용 대기시간 45초)"
     },
     "92207801": {
         "deprecated": false,
         "Dev_Desc": "지옥의 송곳니(각인)",
         "id": 92207801,
-        "alias": "Contents.Item.Desc.2207801"
+        "alias": "Contents.Item.Desc.2207801",
+        "text": "[고유 강화 효과]\n+8 강화 시 무기 공격력 +9, [금분진기: 1단계] 효과 추가\n+9 강화 시 무기 공격력 +21, [금분진기: 2단계]로 효과 상승\n\n[금분진기]\n공격 시 일정 확률로 자신에게 이로운 효과를 부여합니다.\n- 1단계: 6초간 무기 공격력 30, 치유력 20, 명중 14, 치명률 10% 증가\n- 2단계: 6초간 무기 공격력 60, 치유력 30, 명중 20, 치명률 50% 증가\n(재사용 대기시간 45초)"
     },
     "92207802": {
         "deprecated": false,
         "Dev_Desc": "황천의 서약(각인)",
         "id": 92207802,
-        "alias": "Contents.Item.Desc.2207802"
+        "alias": "Contents.Item.Desc.2207802",
+        "text": "[고유 강화 효과]\n+8 강화 시 무기 공격력 +9, [금분진기: 1단계] 효과 추가\n+9 강화 시 무기 공격력 +21, [금분진기: 2단계]로 효과 상승\n\n[금분진기]\n공격 시 일정 확률로 자신에게 이로운 효과를 부여합니다.\n- 1단계: 6초간 무기 공격력 30, 치유력 20, 명중 14, 치명률 10% 증가\n- 2단계: 6초간 무기 공격력 60, 치유력 30, 명중 20, 치명률 50% 증가\n(재사용 대기시간 45초)"
     },
     "92307601": {
         "deprecated": false,
@@ -5444,5 +5481,348 @@
         "Dev_Desc": "침식된 진실의 추적자",
         "id": 92307603,
         "alias": "Contents.Item.Desc.2307603"
+    },
+    "92101619": {
+        "deprecated": false,
+        "Dev_Desc": "바다검(각인)",
+        "id": 92101619,
+        "alias": "Contents.Item.Desc.2201619",
+        "text": "It can be obtained through [Crafting].\\n\\n[Unique Enhancement Effect]\\n+7 PVE Accuracy +3\\n+8 Defense Ignore Attack Damage +5\\n+9 Defense Ignore Attack Attack +5 When Enhanced"
+    },
+    "92102619": {
+        "deprecated": false,
+        "Dev_Desc": "바다권갑(각인)",
+        "id": 92102619,
+        "alias": "Contents.Item.Desc.2202619",
+        "text": "It can be obtained through [Crafting].\\n\\n[Unique Enhancement Effect]\\n+7 PVE Accuracy +3\\n+8 Defense Ignore Attack Damage +5\\n+9 Defense Ignore Attack Attack +5 When Enhanced"
+    },
+    "92103619": {
+        "deprecated": false,
+        "Dev_Desc": "바다기공패(각인)",
+        "id": 92103619,
+        "alias": "Contents.Item.Desc.2203619",
+        "text": "It can be obtained through [Crafting].\\n\\n[Unique Enhancement Effect]\\n+7 PVE Accuracy +3\\n+8 Defense Ignore Attack Damage +5\\n+9 Defense Ignore Attack Attack +5 When Enhanced"
+    },
+    "92104619": {
+        "deprecated": false,
+        "Dev_Desc": "바다도끼(각인)",
+        "id": 92104619,
+        "alias": "Contents.Item.Desc.2204619",
+        "text": "It can be obtained through [Crafting].\\n\\n[Unique Enhancement Effect]\\n+7 PVE Accuracy +3\\n+8 Defense Ignore Attack Damage +5\\n+9 Defense Ignore Attack Attack +5 When Enhanced"
+    },
+    "92105619": {
+        "deprecated": false,
+        "Dev_Desc": "바다활(각인)",
+        "id": 92105619,
+        "alias": "Contents.Item.Desc.2205619",
+        "text": "It can be obtained through [Crafting].\\n\\n[Unique Enhancement Effect]\\n+7 PVE Accuracy +3\\n+8 Defense Ignore Attack Damage +5\\n+9 Defense Ignore Attack Attack +5 When Enhanced"
+    },
+    "92106619": {
+        "deprecated": false,
+        "Dev_Desc": "바다법종(각인)",
+        "id": 92106619,
+        "alias": "Contents.Item.Desc.2206619",
+        "text": "It can be obtained through [Crafting].\\n\\n[Unique Enhancement Effect]\\n+7 PVE Accuracy +3\\n+8 Defense Ignore Attack Damage +5\\n+9 Defense Ignore Attack Attack +5 When Enhanced"
+    },
+    "92107619": {
+        "deprecated": false,
+        "Dev_Desc": "바다비수(각인)",
+        "id": 92107619,
+        "alias": "Contents.Item.Desc.2207619",
+        "text": "It can be obtained through [Crafting].\\n\\n[Unique Enhancement Effect]\\n+7 PVE Accuracy +3\\n+8 Defense Ignore Attack Damage +5\\n+9 Defense Ignore Attack Attack +5 When Enhanced"
+    },
+    "92101620": {
+        "deprecated": false,
+        "Dev_Desc": "폭풍의 바다검(각인)",
+        "id": 92101620,
+        "alias": "Contents.Item.Desc.2201620",
+        "text": "It can be obtained through [Crafting].\\n\\n[Unique Enhancement Effect]\\n+7 PVE Accuracy +3\\n+8 Defense Ignore Attack Damage +5\\n+9 Defense Ignore Attack Attack +5 When Enhanced"
+    },
+    "92102620": {
+        "deprecated": false,
+        "Dev_Desc": "폭풍의 바다권갑(각인)",
+        "id": 92102620,
+        "alias": "Contents.Item.Desc.2202620",
+        "text": "It can be obtained through [Crafting].\\n\\n[Unique Enhancement Effect]\\n+7 PVE Accuracy +3\\n+8 Defense Ignore Attack Damage +5\\n+9 Defense Ignore Attack Attack +5 When Enhanced"
+    },
+    "92103620": {
+        "deprecated": false,
+        "Dev_Desc": "폭풍의 바다기공패(각인)",
+        "id": 92103620,
+        "alias": "Contents.Item.Desc.2203620",
+        "text": "It can be obtained through [Crafting].\\n\\n[Unique Enhancement Effect]\\n+7 PVE Accuracy +3\\n+8 Defense Ignore Attack Damage +5\\n+9 Defense Ignore Attack Attack +5 When Enhanced"
+    },
+    "92104620": {
+        "deprecated": false,
+        "Dev_Desc": "폭풍의 바다도끼(각인)",
+        "id": 92104620,
+        "alias": "Contents.Item.Desc.2204620",
+        "text": "It can be obtained through [Crafting].\\n\\n[Unique Enhancement Effect]\\n+7 PVE Accuracy +3\\n+8 Defense Ignore Attack Damage +5\\n+9 Defense Ignore Attack Attack +5 When Enhanced"
+    },
+    "92105620": {
+        "deprecated": false,
+        "Dev_Desc": "폭풍의 바다활(각인)",
+        "id": 92105620,
+        "alias": "Contents.Item.Desc.2205620",
+        "text": "It can be obtained through [Crafting].\\n\\n[Unique Enhancement Effect]\\n+7 PVE Accuracy +3\\n+8 Defense Ignore Attack Damage +5\\n+9 Defense Ignore Attack Attack +5 When Enhanced"
+    },
+    "92106620": {
+        "deprecated": false,
+        "Dev_Desc": "폭풍의 바다법종(각인)",
+        "id": 92106620,
+        "alias": "Contents.Item.Desc.2206620",
+        "text": "It can be obtained through [Crafting].\\n\\n[Unique Enhancement Effect]\\n+7 PVE Accuracy +3\\n+8 Defense Ignore Attack Damage +5\\n+9 Defense Ignore Attack Attack +5 When Enhanced"
+    },
+    "92107620": {
+        "deprecated": false,
+        "Dev_Desc": "폭풍의 바다비수(각인)",
+        "id": 92107620,
+        "alias": "Contents.Item.Desc.2207620",
+        "text": "It can be obtained through [Crafting].\\n\\n[Unique Enhancement Effect]\\n+7 PVE Accuracy +3\\n+8 Defense Ignore Attack Damage +5\\n+9 Defense Ignore Attack Attack +5 When Enhanced"
+    },
+    "92101621": {
+        "deprecated": false,
+        "Dev_Desc": "심해의 바다검(각인)",
+        "id": 92101621,
+        "alias": "Contents.Item.Desc.2201621",
+        "text": "It can be obtained through [Crafting].\\n\\n[Unique Enhancement Effect]\\n+7 PVE Accuracy +3\\n+8 Defense Ignore Attack Damage +5\\n+9 Defense Ignore Attack Attack +5 When Enhanced"
+    },
+    "92102621": {
+        "deprecated": false,
+        "Dev_Desc": "심해의 바다권갑(각인)",
+        "id": 92102621,
+        "alias": "Contents.Item.Desc.2202621",
+        "text": "It can be obtained through [Crafting].\\n\\n[Unique Enhancement Effect]\\n+7 PVE Accuracy +3\\n+8 Defense Ignore Attack Damage +5\\n+9 Defense Ignore Attack Attack +5 When Enhanced"
+    },
+    "92103621": {
+        "deprecated": false,
+        "Dev_Desc": "심해의 바다기공패(각인)",
+        "id": 92103621,
+        "alias": "Contents.Item.Desc.2203621",
+        "text": "It can be obtained through [Crafting].\\n\\n[Unique Enhancement Effect]\\n+7 PVE Accuracy +3\\n+8 Defense Ignore Attack Damage +5\\n+9 Defense Ignore Attack Attack +5 When Enhanced"
+    },
+    "92104621": {
+        "deprecated": false,
+        "Dev_Desc": "심해의 바다도끼(각인)",
+        "id": 92104621,
+        "alias": "Contents.Item.Desc.2204621",
+        "text": "It can be obtained through [Crafting].\\n\\n[Unique Enhancement Effect]\\n+7 PVE Accuracy +3\\n+8 Defense Ignore Attack Damage +5\\n+9 Defense Ignore Attack Attack +5 When Enhanced"
+    },
+    "92105621": {
+        "deprecated": false,
+        "Dev_Desc": "심해의 바다활(각인)",
+        "id": 92105621,
+        "alias": "Contents.Item.Desc.2205621",
+        "text": "It can be obtained through [Crafting].\\n\\n[Unique Enhancement Effect]\\n+7 PVE Accuracy +3\\n+8 Defense Ignore Attack Damage +5\\n+9 Defense Ignore Attack Attack +5 When Enhanced"
+    },
+    "92106621": {
+        "deprecated": false,
+        "Dev_Desc": "심해의 바다법종(각인)",
+        "id": 92106621,
+        "alias": "Contents.Item.Desc.2206621",
+        "text": "It can be obtained through [Crafting].\\n\\n[Unique Enhancement Effect]\\n+7 PVE Accuracy +3\\n+8 Defense Ignore Attack Damage +5\\n+9 Defense Ignore Attack Attack +5 When Enhanced"
+    },
+    "92107621": {
+        "deprecated": false,
+        "Dev_Desc": "심해의 바다비수(각인)",
+        "id": 92107621,
+        "alias": "Contents.Item.Desc.2207621",
+        "text": "It can be obtained through [Crafting].\\n\\n[Unique Enhancement Effect]\\n+7 PVE Accuracy +3\\n+8 Defense Ignore Attack Damage +5\\n+9 Defense Ignore Attack Attack +5 When Enhanced"
+    },
+    "92101622": {
+        "deprecated": false,
+        "Dev_Desc": "검은 심해의 바다검(각인)",
+        "id": 92101622,
+        "alias": "Contents.Item.Desc.2201622",
+        "text": "It can be obtained through [Crafting].\\n\\n[Unique Enhancement Effect]\\n+7 PVE Accuracy +3\\n+8 Defense Ignore Attack Damage +5\\n+9 Defense Ignore Attack Attack +5 When Enhanced"
+    },
+    "92102622": {
+        "deprecated": false,
+        "Dev_Desc": "검은 심해의 바다권갑(각인)",
+        "id": 92102622,
+        "alias": "Contents.Item.Desc.2202622",
+        "text": "It can be obtained through [Crafting].\\n\\n[Unique Enhancement Effect]\\n+7 PVE Accuracy +3\\n+8 Defense Ignore Attack Damage +5\\n+9 Defense Ignore Attack Attack +5 When Enhanced"
+    },
+    "92103622": {
+        "deprecated": false,
+        "Dev_Desc": "검은 심해의 바다기공패(각인)",
+        "id": 92103622,
+        "alias": "Contents.Item.Desc.2203622",
+        "text": "It can be obtained through [Crafting].\\n\\n[Unique Enhancement Effect]\\n+7 PVE Accuracy +3\\n+8 Defense Ignore Attack Damage +5\\n+9 Defense Ignore Attack Attack +5 When Enhanced"
+    },
+    "92104622": {
+        "deprecated": false,
+        "Dev_Desc": "검은 심해의 바다도끼(각인)",
+        "id": 92104622,
+        "alias": "Contents.Item.Desc.2204622",
+        "text": "It can be obtained through [Crafting].\\n\\n[Unique Enhancement Effect]\\n+7 PVE Accuracy +3\\n+8 Defense Ignore Attack Damage +5\\n+9 Defense Ignore Attack Attack +5 When Enhanced"
+    },
+    "92105622": {
+        "deprecated": false,
+        "Dev_Desc": "검은 심해의 바다활(각인)",
+        "id": 92105622,
+        "alias": "Contents.Item.Desc.2205622",
+        "text": "It can be obtained through [Crafting].\\n\\n[Unique Enhancement Effect]\\n+7 PVE Accuracy +3\\n+8 Defense Ignore Attack Damage +5\\n+9 Defense Ignore Attack Attack +5 When Enhanced"
+    },
+    "92106622": {
+        "deprecated": false,
+        "Dev_Desc": "검은 심해의 바다법종(각인)",
+        "id": 92106622,
+        "alias": "Contents.Item.Desc.2206622",
+        "text": "It can be obtained through [Crafting].\\n\\n[Unique Enhancement Effect]\\n+7 PVE Accuracy +3\\n+8 Defense Ignore Attack Damage +5\\n+9 Defense Ignore Attack Attack +5 When Enhanced"
+    },
+    "92107622": {
+        "deprecated": false,
+        "Dev_Desc": "검은 심해의 바다비수(각인)",
+        "id": 92107622,
+        "alias": "Contents.Item.Desc.2207622",
+        "text": "It can be obtained through [Crafting].\\n\\n[Unique Enhancement Effect]\\n+7 PVE Accuracy +3\\n+8 Defense Ignore Attack Damage +5\\n+9 Defense Ignore Attack Attack +5 When Enhanced"
+    },
+    "92101623": {
+        "deprecated": false,
+        "Dev_Desc": "일렁이는 심해의 바다검(각인)",
+        "id": 92101623,
+        "alias": "Contents.Item.Desc.2201623",
+        "text": "It can be obtained through [Crafting].\\n\\n[Unique Enhancement Effect]\\n+7 PVE Accuracy +3\\n when strengthening +8 Defense Ignoring Attack when strengthening +7\\n+9 Defense Ignoring Attack when strengthening +7"
+    },
+    "92102623": {
+        "deprecated": false,
+        "Dev_Desc": "일렁이는 심해의 바다권갑(각인)",
+        "id": 92102623,
+        "alias": "Contents.Item.Desc.2202623",
+        "text": "It can be obtained through [Crafting].\\n\\n[Unique Enhancement Effect]\\n+7 PVE Accuracy +3\\n when strengthening +8 Defense Ignoring Attack when strengthening +7\\n+9 Defense Ignoring Attack when strengthening +7"
+    },
+    "92103623": {
+        "deprecated": false,
+        "Dev_Desc": "일렁이는 심해의 바다기공패(각인)",
+        "id": 92103623,
+        "alias": "Contents.Item.Desc.2203623",
+        "text": "It can be obtained through [Crafting].\\n\\n[Unique Enhancement Effect]\\n+7 PVE Accuracy +3\\n when strengthening +8 Defense Ignoring Attack when strengthening +7\\n+9 Defense Ignoring Attack when strengthening +7"
+    },
+    "92104623": {
+        "deprecated": false,
+        "Dev_Desc": "일렁이는 심해의 바다도끼(각인)",
+        "id": 92104623,
+        "alias": "Contents.Item.Desc.2204623",
+        "text": "It can be obtained through [Crafting].\\n\\n[Unique Enhancement Effect]\\n+7 PVE Accuracy +3\\n when strengthening +8 Defense Ignoring Attack when strengthening +7\\n+9 Defense Ignoring Attack when strengthening +7"
+    },
+    "92105623": {
+        "deprecated": false,
+        "Dev_Desc": "일렁이는 심해의 바다활(각인)",
+        "id": 92105623,
+        "alias": "Contents.Item.Desc.2205623",
+        "text": "It can be obtained through [Crafting].\\n\\n[Unique Enhancement Effect]\\n+7 PVE Accuracy +3\\n when strengthening +8 Defense Ignoring Attack when strengthening +7\\n+9 Defense Ignoring Attack when strengthening +7"
+    },
+    "92106623": {
+        "deprecated": false,
+        "Dev_Desc": "일렁이는 심해의 바다법종(각인)",
+        "id": 92106623,
+        "alias": "Contents.Item.Desc.2206623",
+        "text": "It can be obtained through [Crafting].\\n\\n[Unique Enhancement Effect]\\n+7 PVE Accuracy +3\\n when strengthening +8 Defense Ignoring Attack when strengthening +7\\n+9 Defense Ignoring Attack when strengthening +7"
+    },
+    "92107623": {
+        "deprecated": false,
+        "Dev_Desc": "일렁이는 심해의 바다비수(각인)",
+        "id": 92107623,
+        "alias": "Contents.Item.Desc.2207623",
+        "text": "It can be obtained through [Crafting].\\n\\n[Unique Enhancement Effect]\\n+7 PVE Accuracy +3\\n when strengthening +8 Defense Ignoring Attack when strengthening +7\\n+9 Defense Ignoring Attack when strengthening +7"
+    },
+    "92101607": {
+        "deprecated": false,
+        "Dev_Desc": "짙은 심연의 검",
+        "id": 92101607,
+        "alias": "Contents.Item.Desc.2101607",
+        "text": "[Unique Enhancement Effect]\\nAdds [Commitment: Level 1] effect when strengthening +8\\n+9 Enhances weapon attack +15, increases effect to [Dedicated: Level 2]\\n\\n[Dedicated]\\nWhen attacking There is a chance to inflict a beneficial effect on yourself.\\n- Step 1: Ignore defense by 15 and increase penetration by 15 for 6 seconds\\n- Step 2: Ignore defense by increasing your attack power by 20 and penetration by 20 for 6 seconds\\n(Cooldown 45 candle)"
+    },
+    "92102607": {
+        "deprecated": false,
+        "Dev_Desc": "짙은 심연의 권갑",
+        "id": 92102607,
+        "alias": "Contents.Item.Desc.2102607",
+        "text": "[Unique Enhancement Effect]\\nAdds [Commitment: Level 1] effect when strengthening +8\\n+9 Enhances weapon attack +15, increases effect to [Dedicated: Level 2]\\n\\n[Dedicated]\\nWhen attacking There is a chance to inflict a beneficial effect on yourself.\\n- Step 1: Ignore defense by 15 and increase penetration by 15 for 6 seconds\\n- Step 2: Ignore defense by increasing your attack power by 20 and penetration by 20 for 6 seconds\\n(Cooldown 45 candle)"
+    },
+    "92103607": {
+        "deprecated": false,
+        "Dev_Desc": "짙은 심연의 기공패",
+        "id": 92103607,
+        "alias": "Contents.Item.Desc.2103607",
+        "text": "[Unique Enhancement Effect]\\nAdds [Commitment: Level 1] effect when strengthening +8\\n+9 Enhances weapon attack +15, increases effect to [Dedicated: Level 2]\\n\\n[Dedicated]\\nWhen attacking There is a chance to inflict a beneficial effect on yourself.\\n- Step 1: Ignore defense by 15 and increase penetration by 15 for 6 seconds\\n- Step 2: Ignore defense by increasing your attack power by 20 and penetration by 20 for 6 seconds\\n(Cooldown 45 candle)"
+    },
+    "92104607": {
+        "deprecated": false,
+        "Dev_Desc": "짙은 심연의 도끼",
+        "id": 92104607,
+        "alias": "Contents.Item.Desc.2104607",
+        "text": "[Unique Enhancement Effect]\\nAdds [Commitment: Level 1] effect when strengthening +8\\n+9 Enhances weapon attack +15, increases effect to [Dedicated: Level 2]\\n\\n[Dedicated]\\nWhen attacking There is a chance to inflict a beneficial effect on yourself.\\n- Step 1: Ignore defense by 15 and increase penetration by 15 for 6 seconds\\n- Step 2: Ignore defense by increasing your attack power by 20 and penetration by 20 for 6 seconds\\n(Cooldown 45 candle)"
+    },
+    "92105607": {
+        "deprecated": false,
+        "Dev_Desc": "짙은 심연의 장궁",
+        "id": 92105607,
+        "alias": "Contents.Item.Desc.2105607",
+        "text": "[Unique Enhancement Effect]\\nAdds [Commitment: Level 1] effect when strengthening +8\\n+9 Enhances weapon attack +15, increases effect to [Dedicated: Level 2]\\n\\n[Dedicated]\\nWhen attacking There is a chance to inflict a beneficial effect on yourself.\\n- Step 1: Ignore defense by 15 and increase penetration by 15 for 6 seconds\\n- Step 2: Ignore defense by increasing your attack power by 20 and penetration by 20 for 6 seconds\\n(Cooldown 45 candle)"
+    },
+    "92106607": {
+        "deprecated": false,
+        "Dev_Desc": "짙은 심연의 법종",
+        "id": 92106607,
+        "alias": "Contents.Item.Desc.2106607",
+        "text": "[Unique Enhancement Effect]\\nAdds [Commitment: Level 1] effect when strengthening +8\\n+9 Enhances weapon attack +15, increases effect to [Dedicated: Level 2]\\n\\n[Dedicated]\\nWhen attacking There is a chance to inflict a beneficial effect on yourself.\\n- Step 1: Ignore defense by 15 and increase penetration by 15 for 6 seconds\\n- Step 2: Ignore defense by increasing your attack power by 20 and penetration by 20 for 6 seconds\\n(Cooldown 45 candle)"
+    },
+    "92201607": {
+        "deprecated": false,
+        "Dev_Desc": "짙은 심연의 검(각인)",
+        "id": 92201607,
+        "alias": "Contents.Item.Desc.2201607",
+        "text": "[Unique Enhancement Effect]\\nAdds [Commitment: Level 1] effect when strengthening +8\\n+9 Enhances weapon attack +15, increases effect to [Dedicated: Level 2]\\n\\n[Dedicated]\\nWhen attacking There is a chance to inflict a beneficial effect on yourself.\\n- Step 1: Ignore defense by 15 and increase penetration by 15 for 6 seconds\\n- Step 2: Ignore defense by increasing your attack power by 20 and penetration by 20 for 6 seconds\\n(Cooldown 45 candle)"
+    },
+    "92202607": {
+        "deprecated": false,
+        "Dev_Desc": "짙은 심연의 권갑(각인)",
+        "id": 92202607,
+        "alias": "Contents.Item.Desc.2202607",
+        "text": "[Unique Enhancement Effect]\\nAdds [Commitment: Level 1] effect when strengthening +8\\n+9 Enhances weapon attack +15, increases effect to [Dedicated: Level 2]\\n\\n[Dedicated]\\nWhen attacking There is a chance to inflict a beneficial effect on yourself.\\n- Step 1: Ignore defense by 15 and increase penetration by 15 for 6 seconds\\n- Step 2: Ignore defense by increasing your attack power by 20 and penetration by 20 for 6 seconds\\n(Cooldown 45 candle)"
+    },
+    "92203607": {
+        "deprecated": false,
+        "Dev_Desc": "짙은 심연의 기공패(각인)",
+        "id": 92203607,
+        "alias": "Contents.Item.Desc.2203607",
+        "text": "[Unique Enhancement Effect]\\nAdds [Commitment: Level 1] effect when strengthening +8\\n+9 Enhances weapon attack +15, increases effect to [Dedicated: Level 2]\\n\\n[Dedicated]\\nWhen attacking There is a chance to inflict a beneficial effect on yourself.\\n- Step 1: Ignore defense by 15 and increase penetration by 15 for 6 seconds\\n- Step 2: Ignore defense by increasing your attack power by 20 and penetration by 20 for 6 seconds\\n(Cooldown 45 candle)"
+    },
+    "92204607": {
+        "deprecated": false,
+        "Dev_Desc": "짙은 심연의 도끼(각인)",
+        "id": 92204607,
+        "alias": "Contents.Item.Desc.2204607",
+        "text": "[Unique Enhancement Effect]\\nAdds [Commitment: Level 1] effect when strengthening +8\\n+9 Enhances weapon attack +15, increases effect to [Dedicated: Level 2]\\n\\n[Dedicated]\\nWhen attacking There is a chance to inflict a beneficial effect on yourself.\\n- Step 1: Ignore defense by 15 and increase penetration by 15 for 6 seconds\\n- Step 2: Ignore defense by increasing your attack power by 20 and penetration by 20 for 6 seconds\\n(Cooldown 45 candle)"
+    },
+    "92205607": {
+        "deprecated": false,
+        "Dev_Desc": "짙은 심연의 장궁(각인)",
+        "id": 92205607,
+        "alias": "Contents.Item.Desc.2205607",
+        "text": "[Unique Enhancement Effect]\\nAdds [Commitment: Level 1] effect when strengthening +8\\n+9 Enhances weapon attack +15, increases effect to [Dedicated: Level 2]\\n\\n[Dedicated]\\nWhen attacking There is a chance to inflict a beneficial effect on yourself.\\n- Step 1: Ignore defense by 15 and increase penetration by 15 for 6 seconds\\n- Step 2: Ignore defense by increasing your attack power by 20 and penetration by 20 for 6 seconds\\n(Cooldown 45 candle)"
+    },
+    "92206607": {
+        "deprecated": false,
+        "Dev_Desc": "짙은 심연의 법종(각인)",
+        "id": 92206607,
+        "alias": "Contents.Item.Desc.2206607",
+        "text": "[Unique Enhancement Effect]\\nAdds [Commitment: Level 1] effect when strengthening +8\\n+9 Enhances weapon attack +15, increases effect to [Dedicated: Level 2]\\n\\n[Dedicated]\\nWhen attacking There is a chance to inflict a beneficial effect on yourself.\\n- Step 1: Ignore defense by 15 and increase penetration by 15 for 6 seconds\\n- Step 2: Ignore defense by increasing your attack power by 20 and penetration by 20 for 6 seconds\\n(Cooldown 45 candle)"
+    },
+    "92107607": {
+        "deprecated": false,
+        "Dev_Desc": "짙은 심연의 비수",
+        "id": 92107607,
+        "alias": "Contents.Item.Desc.2107607",
+        "text": "[고유 강화 효과]\n+8 강화 시 [전념: 1단계] 효과 추가\n+9 강화 시 무기 공격력 +15, [전념: 2단계]로 효과 상승\n\n[전념]\n공격 시 일정 확률로 자신에게 이로운 효과를 부여합니다.\n- 1단계: 6초간 방어 무시 공격력 15, 관통력 15 증가\n- 2단계: 6초간 방어 무시 공격력 20, 관통력 20 증가\n(재사용 대기시간 45초)"
+    },
+    "92207607": {
+        "deprecated": false,
+        "Dev_Desc": "짙은 심연의 비수(각인)",
+        "id": 92207607,
+        "alias": "Contents.Item.Desc.2207607",
+        "text": "[고유 강화 효과]\n+8 강화 시 [전념: 1단계] 효과 추가\n+9 강화 시 무기 공격력 +15, [전념: 2단계]로 효과 상승\n\n[전념]\n공격 시 일정 확률로 자신에게 이로운 효과를 부여합니다.\n- 1단계: 6초간 방어 무시 공격력 15, 관통력 15 증가\n- 2단계: 6초간 방어 무시 공격력 20, 관통력 20 증가\n(재사용 대기시간 45초)"
     }
 }

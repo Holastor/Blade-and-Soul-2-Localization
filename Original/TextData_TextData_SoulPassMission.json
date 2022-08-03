@@ -3826,21 +3826,21 @@
         "Dev_Desc": "토벌 패스 / 미션 이름",
         "id": 83547,
         "alias": "Contents.SoulPass.Mission.29.4",
-        "text": "염화대성 처치 1회"
+        "text": "희생의 무덤 '염화대성' 처치 1회 (초행/보통/어려움)"
     },
     "83548": {
         "deprecated": false,
         "Dev_Desc": "토벌 패스 / 미션 이름",
         "id": 83548,
         "alias": "Contents.SoulPass.Mission.29.5",
-        "text": "염화대성 처치 3회"
+        "text": "희생의 무덤 '염화대성' 처치 3회 (초행/보통/어려움)"
     },
     "83549": {
         "deprecated": false,
         "Dev_Desc": "토벌 패스 / 미션 이름",
         "id": 83549,
         "alias": "Contents.SoulPass.Mission.29.6",
-        "text": "염화대성 처치 6회"
+        "text": "희생의 무덤 '염화대성' 처치 6회 (초행/보통/어려움)"
     },
     "83550": {
         "deprecated": false,
@@ -4114,5 +4114,621 @@
         "id": 83588,
         "alias": "Contents.SoulPass.Mission.31.17",
         "text": "정예 몬스터 처치 300회"
+    },
+    "83589": {
+        "deprecated": false,
+        "Dev_Desc": "프리미엄 패스 lll / 미션이름",
+        "id": 83589,
+        "alias": "Contents.SoulPass.Mission.32.1",
+        "text": "출석 하기"
+    },
+    "83590": {
+        "deprecated": false,
+        "Dev_Desc": "프리미엄 패스 lll / 미션이름",
+        "id": 83590,
+        "alias": "Contents.SoulPass.Mission.32.2",
+        "text": "1일 출석"
+    },
+    "83591": {
+        "deprecated": false,
+        "Dev_Desc": "프리미엄 패스 lll / 미션이름",
+        "id": 83591,
+        "alias": "Contents.SoulPass.Mission.32.3",
+        "text": "2일 출석"
+    },
+    "83592": {
+        "deprecated": false,
+        "Dev_Desc": "프리미엄 패스 lll / 미션이름",
+        "id": 83592,
+        "alias": "Contents.SoulPass.Mission.32.4",
+        "text": "3일 출석"
+    },
+    "83593": {
+        "deprecated": false,
+        "Dev_Desc": "프리미엄 패스 lll / 미션이름",
+        "id": 83593,
+        "alias": "Contents.SoulPass.Mission.32.5",
+        "text": "4일 출석"
+    },
+    "83594": {
+        "deprecated": false,
+        "Dev_Desc": "프리미엄 패스 lll / 미션이름",
+        "id": 83594,
+        "alias": "Contents.SoulPass.Mission.32.6",
+        "text": "5일 출석"
+    },
+    "83595": {
+        "deprecated": false,
+        "Dev_Desc": "프리미엄 패스 lll / 미션이름",
+        "id": 83595,
+        "alias": "Contents.SoulPass.Mission.32.7",
+        "text": "6일 출석"
+    },
+    "83596": {
+        "deprecated": false,
+        "Dev_Desc": "프리미엄 패스 lll / 미션이름",
+        "id": 83596,
+        "alias": "Contents.SoulPass.Mission.32.8",
+        "text": "7일 출석"
+    },
+    "83597": {
+        "deprecated": false,
+        "Dev_Desc": "시즌 패스: 6월 / 미션이름",
+        "id": 83597,
+        "alias": "Contents.SoulPass.Mission.33.1",
+        "text": "출석 하기"
+    },
+    "83598": {
+        "deprecated": false,
+        "Dev_Desc": "시즌 패스: 6월 / 미션이름",
+        "id": 83598,
+        "alias": "Contents.SoulPass.Mission.33.2",
+        "text": "일반 몬스터 처치"
+    },
+    "83599": {
+        "deprecated": false,
+        "Dev_Desc": "시즌 패스: 6월 / 미션이름",
+        "id": 83599,
+        "alias": "Contents.SoulPass.Mission.33.3",
+        "text": "정예 몬스터 처치"
+    },
+    "83600": {
+        "deprecated": false,
+        "Dev_Desc": "시즌 패스: 6월 / 미션이름",
+        "id": 83600,
+        "alias": "Contents.SoulPass.Mission.33.4",
+        "text": "왕만두/꿩만두/백년초/영지 만두 사용"
+    },
+    "83601": {
+        "deprecated": false,
+        "Dev_Desc": "시즌 패스: 6월 / 미션이름",
+        "id": 83601,
+        "alias": "Contents.SoulPass.Mission.33.5",
+        "text": "소울 소환 110회"
+    },
+    "83602": {
+        "deprecated": false,
+        "Dev_Desc": "시즌 패스: 6월 / 미션이름",
+        "id": 83602,
+        "alias": "Contents.SoulPass.Mission.33.6",
+        "text": "수호령 소환 110회"
+    },
+    "83603": {
+        "deprecated": false,
+        "Dev_Desc": "시즌 패스: 6월 / 미션이름",
+        "id": 83603,
+        "alias": "Contents.SoulPass.Mission.33.7",
+        "text": "3일 출석"
+    },
+    "83604": {
+        "deprecated": false,
+        "Dev_Desc": "시즌 패스: 6월 / 미션이름",
+        "id": 83604,
+        "alias": "Contents.SoulPass.Mission.33.8",
+        "text": "6일 출석"
+    },
+    "83605": {
+        "deprecated": false,
+        "Dev_Desc": "시즌 패스: 6월 / 미션이름",
+        "id": 83605,
+        "alias": "Contents.SoulPass.Mission.33.9",
+        "text": "9일 출석"
+    },
+    "83606": {
+        "deprecated": false,
+        "Dev_Desc": "시즌 패스: 6월 / 미션이름",
+        "id": 83606,
+        "alias": "Contents.SoulPass.Mission.33.10",
+        "text": "12일 출석"
+    },
+    "83607": {
+        "deprecated": false,
+        "Dev_Desc": "시즌 패스: 6월 / 미션이름",
+        "id": 83607,
+        "alias": "Contents.SoulPass.Mission.33.11",
+        "text": "15일 출석"
+    },
+    "83608": {
+        "deprecated": false,
+        "Dev_Desc": "시즌 패스: 6월 / 미션이름",
+        "id": 83608,
+        "alias": "Contents.SoulPass.Mission.33.12",
+        "text": "18일 출석"
+    },
+    "83609": {
+        "deprecated": false,
+        "Dev_Desc": "프리미엄 패스 lV / 미션이름",
+        "id": 83609,
+        "alias": "Contents.SoulPass.Mission.34.1",
+        "text": "출석 하기"
+    },
+    "83610": {
+        "deprecated": false,
+        "Dev_Desc": "프리미엄 패스 lV / 미션이름",
+        "id": 83610,
+        "alias": "Contents.SoulPass.Mission.34.2",
+        "text": "1일 출석"
+    },
+    "83611": {
+        "deprecated": false,
+        "Dev_Desc": "프리미엄 패스 lV / 미션이름",
+        "id": 83611,
+        "alias": "Contents.SoulPass.Mission.34.3",
+        "text": "2일 출석"
+    },
+    "83612": {
+        "deprecated": false,
+        "Dev_Desc": "프리미엄 패스 lV / 미션이름",
+        "id": 83612,
+        "alias": "Contents.SoulPass.Mission.34.4",
+        "text": "3일 출석"
+    },
+    "83613": {
+        "deprecated": false,
+        "Dev_Desc": "프리미엄 패스 lV / 미션이름",
+        "id": 83613,
+        "alias": "Contents.SoulPass.Mission.34.5",
+        "text": "4일 출석"
+    },
+    "83614": {
+        "deprecated": false,
+        "Dev_Desc": "프리미엄 패스 lV / 미션이름",
+        "id": 83614,
+        "alias": "Contents.SoulPass.Mission.34.6",
+        "text": "5일 출석"
+    },
+    "83615": {
+        "deprecated": false,
+        "Dev_Desc": "프리미엄 패스 lV / 미션이름",
+        "id": 83615,
+        "alias": "Contents.SoulPass.Mission.34.7",
+        "text": "6일 출석"
+    },
+    "83616": {
+        "deprecated": false,
+        "Dev_Desc": "프리미엄 패스 lV / 미션이름",
+        "id": 83616,
+        "alias": "Contents.SoulPass.Mission.34.8",
+        "text": "7일 출석"
+    },
+    "83617": {
+        "deprecated": false,
+        "Dev_Desc": "시즌 패스: 7월 / 미션이름",
+        "id": 83617,
+        "alias": "Contents.SoulPass.Mission.35.1",
+        "text": "출석 하기"
+    },
+    "83618": {
+        "deprecated": false,
+        "Dev_Desc": "시즌 패스: 7월 / 미션이름",
+        "id": 83618,
+        "alias": "Contents.SoulPass.Mission.35.2",
+        "text": "일반 몬스터 처치"
+    },
+    "83619": {
+        "deprecated": false,
+        "Dev_Desc": "시즌 패스: 7월 / 미션이름",
+        "id": 83619,
+        "alias": "Contents.SoulPass.Mission.35.3",
+        "text": "정예 몬스터 처치"
+    },
+    "83620": {
+        "deprecated": false,
+        "Dev_Desc": "시즌 패스: 7월 / 미션이름",
+        "id": 83620,
+        "alias": "Contents.SoulPass.Mission.35.4",
+        "text": "왕만두/꿩만두/백년초/영지 만두 사용"
+    },
+    "83621": {
+        "deprecated": false,
+        "Dev_Desc": "시즌 패스: 7월 / 미션이름",
+        "id": 83621,
+        "alias": "Contents.SoulPass.Mission.35.5",
+        "text": "소울 소환 110회"
+    },
+    "83622": {
+        "deprecated": false,
+        "Dev_Desc": "시즌 패스: 7월 / 미션이름",
+        "id": 83622,
+        "alias": "Contents.SoulPass.Mission.35.6",
+        "text": "수호령 소환 110회"
+    },
+    "83623": {
+        "deprecated": false,
+        "Dev_Desc": "시즌 패스: 7월 / 미션이름",
+        "id": 83623,
+        "alias": "Contents.SoulPass.Mission.35.7",
+        "text": "3일 출석"
+    },
+    "83624": {
+        "deprecated": false,
+        "Dev_Desc": "시즌 패스: 7월 / 미션이름",
+        "id": 83624,
+        "alias": "Contents.SoulPass.Mission.35.8",
+        "text": "6일 출석"
+    },
+    "83625": {
+        "deprecated": false,
+        "Dev_Desc": "시즌 패스: 7월 / 미션이름",
+        "id": 83625,
+        "alias": "Contents.SoulPass.Mission.35.9",
+        "text": "9일 출석"
+    },
+    "83626": {
+        "deprecated": false,
+        "Dev_Desc": "시즌 패스: 7월 / 미션이름",
+        "id": 83626,
+        "alias": "Contents.SoulPass.Mission.35.10",
+        "text": "12일 출석"
+    },
+    "83627": {
+        "deprecated": false,
+        "Dev_Desc": "시즌 패스: 7월 / 미션이름",
+        "id": 83627,
+        "alias": "Contents.SoulPass.Mission.35.11",
+        "text": "15일 출석"
+    },
+    "83628": {
+        "deprecated": false,
+        "Dev_Desc": "시즌 패스: 7월 / 미션이름",
+        "id": 83628,
+        "alias": "Contents.SoulPass.Mission.35.12",
+        "text": "18일 출석"
+    },
+    "83629": {
+        "deprecated": false,
+        "Dev_Desc": "환상의 짝꿍 패스 / 미션이름",
+        "id": 83629,
+        "alias": "Contents.SoulPass.Mission.36.1",
+        "text": "일반 몬스터 소탕"
+    },
+    "83630": {
+        "deprecated": false,
+        "Dev_Desc": "환상의 짝꿍 패스 / 미션이름",
+        "id": 83630,
+        "alias": "Contents.SoulPass.Mission.36.2",
+        "text": "정예 몬스터 소탕"
+    },
+    "83631": {
+        "deprecated": false,
+        "Dev_Desc": "환상의 짝꿍 패스 / 미션이름",
+        "id": 83631,
+        "alias": "Contents.SoulPass.Mission.36.3",
+        "text": "영석 결정(30분) 사용"
+    },
+    "83632": {
+        "deprecated": false,
+        "Dev_Desc": "환상의 짝꿍 패스 / 미션이름",
+        "id": 83632,
+        "alias": "Contents.SoulPass.Mission.36.4",
+        "text": "바다뱀 보급기지 태장금/포화란 처치 1회"
+    },
+    "83633": {
+        "deprecated": false,
+        "Dev_Desc": "환상의 짝꿍 패스 / 미션이름",
+        "id": 83633,
+        "alias": "Contents.SoulPass.Mission.36.5",
+        "text": "바다뱀 보급기지 태장금/포화란 처치 3회"
+    },
+    "83634": {
+        "deprecated": false,
+        "Dev_Desc": "환상의 짝꿍 패스 / 미션이름",
+        "id": 83634,
+        "alias": "Contents.SoulPass.Mission.36.6",
+        "text": "바다뱀 보급기지 태장금/포화란 처치 6회"
+    },
+    "83635": {
+        "deprecated": false,
+        "Dev_Desc": "환상의 짝꿍 패스 / 미션이름",
+        "id": 83635,
+        "alias": "Contents.SoulPass.Mission.36.7",
+        "text": "'시련 던전'에서 '이류' 보스 처치 3회"
+    },
+    "83636": {
+        "deprecated": false,
+        "Dev_Desc": "환상의 짝꿍 패스 / 미션이름",
+        "id": 83636,
+        "alias": "Contents.SoulPass.Mission.36.8",
+        "text": "'시련 던전'에서 '일류' 보스 처치 2회"
+    },
+    "83637": {
+        "deprecated": false,
+        "Dev_Desc": "환상의 짝꿍 패스 / 미션이름",
+        "id": 83637,
+        "alias": "Contents.SoulPass.Mission.36.9",
+        "text": "'시련 던전'에서 '초일류' 보스 처치 1회"
+    },
+    "83638": {
+        "deprecated": false,
+        "Dev_Desc": "환상의 짝꿍 패스 / 미션이름",
+        "id": 83638,
+        "alias": "Contents.SoulPass.Mission.36.10",
+        "text": "1일 출석"
+    },
+    "83639": {
+        "deprecated": false,
+        "Dev_Desc": "환상의 짝꿍 패스 / 미션이름",
+        "id": 83639,
+        "alias": "Contents.SoulPass.Mission.36.11",
+        "text": "3일 출석"
+    },
+    "83640": {
+        "deprecated": false,
+        "Dev_Desc": "환상의 짝꿍 패스 / 미션이름",
+        "id": 83640,
+        "alias": "Contents.SoulPass.Mission.36.12",
+        "text": "5일 출석"
+    },
+    "83641": {
+        "deprecated": false,
+        "Dev_Desc": "환상의 짝꿍 패스 / 미션이름",
+        "id": 83641,
+        "alias": "Contents.SoulPass.Mission.36.13",
+        "text": "7일 출석"
+    },
+    "83642": {
+        "deprecated": false,
+        "Dev_Desc": "환상의 짝꿍 패스 / 미션이름",
+        "id": 83642,
+        "alias": "Contents.SoulPass.Mission.36.14",
+        "text": "10일 출석"
+    },
+    "83643": {
+        "deprecated": false,
+        "Dev_Desc": "환상의 짝꿍 패스 / 미션이름",
+        "id": 83643,
+        "alias": "Contents.SoulPass.Mission.36.15",
+        "text": "15일 출석"
+    },
+    "83644": {
+        "deprecated": false,
+        "Dev_Desc": "환상의 짝꿍 패스 / 미션이름",
+        "id": 83644,
+        "alias": "Contents.SoulPass.Mission.36.16",
+        "text": "20일 출석"
+    },
+    "83645": {
+        "deprecated": false,
+        "Dev_Desc": "프리미엄 패스 V / 미션이름",
+        "id": 83645,
+        "alias": "Contents.SoulPass.Mission.37.1",
+        "text": "출석 하기"
+    },
+    "83646": {
+        "deprecated": false,
+        "Dev_Desc": "프리미엄 패스 V / 미션이름",
+        "id": 83646,
+        "alias": "Contents.SoulPass.Mission.37.2",
+        "text": "1일 출석"
+    },
+    "83647": {
+        "deprecated": false,
+        "Dev_Desc": "프리미엄 패스 V / 미션이름",
+        "id": 83647,
+        "alias": "Contents.SoulPass.Mission.37.3",
+        "text": "2일 출석"
+    },
+    "83648": {
+        "deprecated": false,
+        "Dev_Desc": "프리미엄 패스 V / 미션이름",
+        "id": 83648,
+        "alias": "Contents.SoulPass.Mission.37.4",
+        "text": "3일 출석"
+    },
+    "83649": {
+        "deprecated": false,
+        "Dev_Desc": "프리미엄 패스 V / 미션이름",
+        "id": 83649,
+        "alias": "Contents.SoulPass.Mission.37.5",
+        "text": "4일 출석"
+    },
+    "83650": {
+        "deprecated": false,
+        "Dev_Desc": "프리미엄 패스 V / 미션이름",
+        "id": 83650,
+        "alias": "Contents.SoulPass.Mission.37.6",
+        "text": "5일 출석"
+    },
+    "83651": {
+        "deprecated": false,
+        "Dev_Desc": "프리미엄 패스 V / 미션이름",
+        "id": 83651,
+        "alias": "Contents.SoulPass.Mission.37.7",
+        "text": "6일 출석"
+    },
+    "83652": {
+        "deprecated": false,
+        "Dev_Desc": "프리미엄 패스 V / 미션이름",
+        "id": 83652,
+        "alias": "Contents.SoulPass.Mission.37.8",
+        "text": "7일 출석"
+    },
+    "83653": {
+        "deprecated": false,
+        "Dev_Desc": "시즌 패스: 8월 / 미션이름",
+        "id": 83653,
+        "alias": "Contents.SoulPass.Mission.38.1",
+        "text": "출석 하기"
+    },
+    "83654": {
+        "deprecated": false,
+        "Dev_Desc": "시즌 패스: 8월 / 미션이름",
+        "id": 83654,
+        "alias": "Contents.SoulPass.Mission.38.2",
+        "text": "일반 몬스터 처치"
+    },
+    "83655": {
+        "deprecated": false,
+        "Dev_Desc": "시즌 패스: 8월 / 미션이름",
+        "id": 83655,
+        "alias": "Contents.SoulPass.Mission.38.3",
+        "text": "정예 몬스터 처치"
+    },
+    "83656": {
+        "deprecated": false,
+        "Dev_Desc": "시즌 패스: 8월 / 미션이름",
+        "id": 83656,
+        "alias": "Contents.SoulPass.Mission.38.4",
+        "text": "왕만두/꿩만두/백년초/영지 만두 사용"
+    },
+    "83657": {
+        "deprecated": false,
+        "Dev_Desc": "시즌 패스: 8월 / 미션이름",
+        "id": 83657,
+        "alias": "Contents.SoulPass.Mission.38.5",
+        "text": "소울 소환 110회"
+    },
+    "83658": {
+        "deprecated": false,
+        "Dev_Desc": "시즌 패스: 8월 / 미션이름",
+        "id": 83658,
+        "alias": "Contents.SoulPass.Mission.38.6",
+        "text": "수호령 소환 110회"
+    },
+    "83659": {
+        "deprecated": false,
+        "Dev_Desc": "시즌 패스: 8월 / 미션이름",
+        "id": 83659,
+        "alias": "Contents.SoulPass.Mission.38.7",
+        "text": "3일 출석"
+    },
+    "83660": {
+        "deprecated": false,
+        "Dev_Desc": "시즌 패스: 8월 / 미션이름",
+        "id": 83660,
+        "alias": "Contents.SoulPass.Mission.38.8",
+        "text": "6일 출석"
+    },
+    "83661": {
+        "deprecated": false,
+        "Dev_Desc": "시즌 패스: 8월 / 미션이름",
+        "id": 83661,
+        "alias": "Contents.SoulPass.Mission.38.9",
+        "text": "9일 출석"
+    },
+    "83662": {
+        "deprecated": false,
+        "Dev_Desc": "시즌 패스: 8월 / 미션이름",
+        "id": 83662,
+        "alias": "Contents.SoulPass.Mission.38.10",
+        "text": "12일 출석"
+    },
+    "83663": {
+        "deprecated": false,
+        "Dev_Desc": "시즌 패스: 8월 / 미션이름",
+        "id": 83663,
+        "alias": "Contents.SoulPass.Mission.38.11",
+        "text": "15일 출석"
+    },
+    "83664": {
+        "deprecated": false,
+        "Dev_Desc": "시즌 패스: 8월 / 미션이름",
+        "id": 83664,
+        "alias": "Contents.SoulPass.Mission.38.12",
+        "text": "18일 출석"
+    },
+    "83665": {
+        "deprecated": false,
+        "Dev_Desc": "데상트 패스 / 미션이름",
+        "id": 83665,
+        "alias": "Contents.SoulPass.Mission.39.1",
+        "text": "활강 200m"
+    },
+    "83666": {
+        "deprecated": false,
+        "Dev_Desc": "데상트 패스 / 미션이름",
+        "id": 83666,
+        "alias": "Contents.SoulPass.Mission.39.2",
+        "text": "활루 200m"
+    },
+    "83667": {
+        "deprecated": false,
+        "Dev_Desc": "데상트 패스 / 미션이름",
+        "id": 83667,
+        "alias": "Contents.SoulPass.Mission.39.3",
+        "text": "강하 40m"
+    },
+    "83668": {
+        "deprecated": false,
+        "Dev_Desc": "데상트 패스 / 미션이름",
+        "id": 83668,
+        "alias": "Contents.SoulPass.Mission.39.4",
+        "text": "질주 300m"
+    },
+    "83669": {
+        "deprecated": false,
+        "Dev_Desc": "데상트 패스 / 미션이름",
+        "id": 83669,
+        "alias": "Contents.SoulPass.Mission.39.5",
+        "text": "천상비 20회"
+    },
+    "83670": {
+        "deprecated": false,
+        "Dev_Desc": "데상트 패스 / 미션이름",
+        "id": 83670,
+        "alias": "Contents.SoulPass.Mission.39.6",
+        "text": "수상비 70m"
+    },
+    "83671": {
+        "deprecated": false,
+        "Dev_Desc": "데상트 패스 / 미션이름",
+        "id": 83671,
+        "alias": "Contents.SoulPass.Mission.39.7",
+        "text": "회류비 10회"
+    },
+    "83672": {
+        "deprecated": false,
+        "Dev_Desc": "데상트 패스 / 미션이름",
+        "id": 83672,
+        "alias": "Contents.SoulPass.Mission.39.8",
+        "text": "도약 20회"
+    },
+    "83673": {
+        "deprecated": false,
+        "Dev_Desc": "데상트 패스 / 미션이름",
+        "id": 83673,
+        "alias": "Contents.SoulPass.Mission.39.9",
+        "text": "1일 출석"
+    },
+    "83674": {
+        "deprecated": false,
+        "Dev_Desc": "데상트 패스 / 미션이름",
+        "id": 83674,
+        "alias": "Contents.SoulPass.Mission.39.10",
+        "text": "3일 출석"
+    },
+    "83675": {
+        "deprecated": false,
+        "Dev_Desc": "데상트 패스 / 미션이름",
+        "id": 83675,
+        "alias": "Contents.SoulPass.Mission.39.11",
+        "text": "5일 출석"
+    },
+    "83676": {
+        "deprecated": false,
+        "Dev_Desc": "데상트 패스 / 미션이름",
+        "id": 83676,
+        "alias": "Contents.SoulPass.Mission.39.12",
+        "text": "7일 출석"
     }
 }

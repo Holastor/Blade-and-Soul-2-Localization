@@ -53,7 +53,7 @@
         "Dev_Desc": "사막의 추적자",
         "id": 91201009,
         "alias": "Contents.Item.Desc.1201010",
-        "text": "오늘도 걷기에 이 사막은 끝날 것입니다. 숨 막히는 바람이 불어오는 열사에서도 당신의 걸음은 한결 같습니다.\n\n[상급 의상 상자]에서 획득할 수 있습니다."
+        "text": "Today's walk will end this desert. Even when the suffocating wind blows, your steps are the same.\\n\\nYou can get it from [Advanced Costume Box]."
     },
     "91201010": {
         "deprecated": false,
@@ -88,7 +88,7 @@
         "Dev_Desc": "오방신장의:동",
         "id": 91201014,
         "alias": "Contents.Item.Desc.1201018",
-        "text": "매일 아침 떠오르는 동녘의 해와 같이 한결같은 당신을 위한 의상입니다."
+        "text": "It is a costume for you who is consistent like the sun rising in the east every morning."
     },
     "91201015": {
         "deprecated": false,
@@ -102,14 +102,14 @@
         "Dev_Desc": "지귀",
         "id": 91201016,
         "alias": "Contents.Item.Desc.1201020",
-        "text": "사모의 마음이 사뭇쳐 제 자신마저 태워버린 존재를 기리기 위한 옷입니다.\n\n[사전예약/이벤트], [상점]에서 획득할 수 있는 의상입니다."
+        "text": "This is a dress to commemorate the existence of a woman who burned herself because of her longing for a woman.\\n\\nThis costume can be obtained from [Reservation/Event] and [Shop]."
     },
     "91201017": {
         "deprecated": false,
         "Dev_Desc": "사하브",
         "id": 91201017,
         "alias": "Contents.Item.Desc.1201021",
-        "text": "이 옷을 입은 당신은 적들에겐 마치 재앙과도 같이 보일겁니다.\n\n[플레이포인트]로 구매할 수 있는 의상입니다."
+        "text": "You will look like a disaster to your enemies when you wear this outfit.\\n\\nThis is an outfit that can be purchased with [playpoints]."
     },
     "91201018": {
         "deprecated": false,
@@ -151,7 +151,7 @@
         "Dev_Desc": "금강고",
         "id": 91201023,
         "alias": "Contents.Item.Desc.1201029",
-        "text": "혼란한 것들을 제압하는 영험한 기운이 깃든 의상입니다."
+        "text": "It is a costume with a magical energy that subdues chaos."
     },
     "91201024": {
         "deprecated": false,
@@ -179,7 +179,7 @@
         "Dev_Desc": "질풍",
         "id": 91201027,
         "alias": "Contents.Item.Desc.1201035",
-        "text": "불어오는 바람과 같은 자유로움을 추구하는 모험자를 위한 의상입니다."
+        "text": "It is a costume for adventurers who seek freedom like the blowing wind."
     },
     "91201028": {
         "deprecated": false,
@@ -199,7 +199,7 @@
         "Dev_Desc": "괴마축격",
         "id": 91201030,
         "alias": "Contents.Item.Desc.1201038",
-        "text": "정의를 추구하는 여행자를 위한 옷입니다."
+        "text": "Clothing for travelers seeking justice."
     },
     "91201031": {
         "deprecated": false,
@@ -227,7 +227,7 @@
         "Dev_Desc": "해변",
         "id": 91201034,
         "alias": "Contents.Item.Desc.1201042",
-        "text": "바다에 어울리는 의상입니다. 왠지 어릴적 바라보던 해변가로 이끌어 줄 것만 같습니다.\n\n[희귀 의상 상자], [영웅 의상 상자]에서 획득할 수 있습니다."
+        "text": "It is a costume suitable for the sea. It seems like it will lead me to the beach I used to watch as a child.\\n\\nYou can get it from [Rare Costume Box] and [Hero Costume Box]."
     },
     "91201035": {
         "deprecated": false,
@@ -528,7 +528,7 @@
         "Dev_Desc": "자신감",
         "id": 91201077,
         "alias": "Contents.Item.Desc.1202000",
-        "text": "진정한 강자의 품격은 복식에 구애받지 않습니다.\n\n[상급 의상 상자], [희귀 의상 상자]에서 획득할 수 있습니다."
+        "text": "The dignity of a true strong man does not depend on clothing.\\n\\nYou can obtain it from [Advanced Costume Box] and [Rare Costume Box]."
     },
     "91201078": {
         "deprecated": false,
@@ -1096,5 +1096,81 @@
         "id": 91201158,
         "alias": "Contents.Item.Desc.1205073",
         "text": "It is a bright costume that matches the spring and heard."
+    },
+    "91201159": {
+        "deprecated": false,
+        "Dev_Desc": "전대물 블랙",
+        "id": 91201159,
+        "alias": "Contents.Item.Desc.1206073",
+        "text": "It is a bright costume that matches the spring and heard."
+    },
+    "91201160": {
+        "deprecated": false,
+        "Dev_Desc": "노란 악의 꽃",
+        "id": 91201160,
+        "alias": "Contents.Item.Desc.1201074",
+        "text": "It is a bright costume that matches the spring and heard."
+    },
+    "91201161": {
+        "deprecated": false,
+        "Dev_Desc": "붉은 악의 꽃",
+        "id": 91201161,
+        "alias": "Contents.Item.Desc.1202074",
+        "text": "Descriptive text for savings account (Proceed to include descriptive text when determining the name later.)"
+    },
+    "91201162": {
+        "deprecated": false,
+        "Dev_Desc": "빛나는 악의 꽃",
+        "id": 91201162,
+        "alias": "Contents.Item.Desc.1203074",
+        "text": "This is the outfit that Pohwaran liked to wear."
+    },
+    "91201163": {
+        "deprecated": false,
+        "Dev_Desc": "부활한 악의 꽃",
+        "id": 91201163,
+        "alias": "Contents.Item.Desc.1204074",
+        "text": "This is the outfit that Pohwaran liked to wear."
+    },
+    "91201164": {
+        "deprecated": false,
+        "Dev_Desc": "쾌활한 여행가",
+        "id": 91201164,
+        "alias": "Contents.Item.Desc.1201076",
+        "text": "It's comfortable, stylish, and can be worn anywhere."
+    },
+    "91201165": {
+        "deprecated": false,
+        "Dev_Desc": "시원한 데상트 래쉬가드",
+        "id": 91201165,
+        "alias": "Contents.Item.Desc.1201075",
+        "text": "It's waterproof and highly active, so it's a favorite swimwear outfit."
+    },
+    "91201166": {
+        "deprecated": false,
+        "Dev_Desc": "편안한 데상트 래쉬가드",
+        "id": 91201166,
+        "alias": "Contents.Item.Desc.1202075",
+        "text": "It's waterproof and highly active, so it's a favorite swimwear outfit."
+    },
+    "91201167": {
+        "deprecated": false,
+        "Dev_Desc": "해변의 데상트 래쉬가드",
+        "id": 91201167,
+        "alias": "Contents.Item.Desc.1203075",
+        "text": "It's waterproof and highly active, so it's a favorite swimwear outfit."
+    },
+    "91201168": {
+        "deprecated": false,
+        "Dev_Desc": "여름의 데상트 래쉬가드",
+        "id": 91201168,
+        "alias": "Contents.Item.Desc.1204075",
+        "text": "It's waterproof and highly active, so it's a favorite swimwear outfit."
+    },
+    "91201169": {
+        "deprecated": false,
+        "Dev_Desc": "단테 의상1",
+        "id": 91201169,
+        "alias": "Contents.Item.Desc.1201077"
     }
 }
