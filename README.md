@@ -18,9 +18,9 @@
 
 Preffered Donation - https://boosty.to/holastor HYPE HYPE HYPE !!!!
 
-<a href="https://www.buymeacoffee.com/Holastor" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+<!--<a href="https://www.buymeacoffee.com/Holastor" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
-[PayPal](https://www.paypal.me/holastor)
+[PayPal](https://www.paypal.me/holastor) -->
 
 ## Install
 
