@@ -5,7 +5,7 @@
 </h1>
   <a href="#You-Can-Support-Me">Now You Can Support Me!</a> •
   <a href="#Install">Install</a> •
-  <-- <a href="#Source-Install">Source Install</a> • -->
+  <!-- <a href="#Source-Install">Source Install</a> • -->
   <a href="#Mobile-Install">Mobile Install</a> •
   <a href="#About">About</a> •
   <a href="#License">License</a> •
