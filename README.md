@@ -42,14 +42,11 @@ Preffered Donation - https://boosty.to/holastor HYPE HYPE HYPE !!!!
 * That's all folks!-->
 
 ## Mobile-Install
- Dropped.
-<!-- * ONLY Android
-* [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/releases/tag/3.0.0_M) Latest Release (patch.91.com.ncsoft.bns219.obb);
-* patch.91.com.ncsoft.bns219_en.obb - English Language; patch.91.com.ncsoft.bns219_zh.obb - Chinese Language;
-* Place the file patch.91.com.ncsoft.bns219_en.obb in the "Internal Memory\Android\obb\com.ncsoft.bns219";
-* Rename the file patch.91.com.ncsoft.bns219_en.obb to get patch.91.com.ncsoft.bns219.obb;
-* FOR BLADE AND SOUL 12+ you need rename file to patch.91.com.ncsoft.bns2.obb
-* And that's it you have English language or any other; -->
+* ONLY Android
+* [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/releases/tag/3.1.9_M) Latest Release (patch.121.com.ncsoft.bns219.obb);
+* Place the file patch.121.com.ncsoft.bns219.obb in the "Internal Memory\Android\obb\com.ncsoft.bns219";
+* FOR BLADE AND SOUL 12+ you need rename file to patch.121.com.ncsoft.bns2.obb;
+* That's all folks!; 
 
 ## About
   * Author: by Holastor;
