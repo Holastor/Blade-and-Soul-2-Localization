@@ -6,7 +6,7 @@
   <a href="#Donation">Donation!</a> •
   <a href="#Install">Install PC</a> •
   <!-- <a href="#Source-Install">Source Install</a> • -->
-  <a href="#Mobile-Install">Install Android</a> •
+  <!-- <a href="#Mobile-Install">Install Android</a> • -->
   <a href="#About">About</a> •
   <a href="#License">License</a> •
   <a href="#Warning">Warning</a> •
@@ -42,11 +42,12 @@ Preffered Donation - https://boosty.to/holastor HYPE HYPE HYPE !!!!
 * That's all folks!-->
 
 ## Mobile-Install
-* ONLY Android
+ Dropped....
+<!-- * ONLY Android
 * [Download](https://github.com/Holastor/Blade-and-Soul-2-Localization/releases/tag/3.1.9_M) Latest Release (patch.121.com.ncsoft.bns219.obb);
 * Place the file patch.121.com.ncsoft.bns219.obb in the "Internal Memory\Android\obb\com.ncsoft.bns219";
 * FOR BLADE AND SOUL 12+ you need rename file to patch.121.com.ncsoft.bns2.obb;
-* That's all folks!; 
+* That's all folks!; -->
 
 ## About
   * Author: by Holastor;
