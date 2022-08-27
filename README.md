@@ -3,10 +3,10 @@
   Blade and Soul 2 Unofficial Localization
   <br>
 </h1>
-  <a href="#You-Can-Support-Me">Now You Can Support Me!</a> •
-  <a href="#Install">Install</a> •
+  <a href="#Donation">Donation!</a> •
+  <a href="#Install">Install PC</a> •
   <!-- <a href="#Source-Install">Source Install</a> • -->
-  <a href="#Mobile-Install">Mobile Install</a> •
+  <a href="#Mobile-Install">Install Android</a> •
   <a href="#About">About</a> •
   <a href="#License">License</a> •
   <a href="#Warning">Warning</a> •
@@ -14,7 +14,7 @@
 </p>
 
 
-## You-Can-Support-Me
+## Donation!
 
 Preffered Donation - https://boosty.to/holastor HYPE HYPE HYPE !!!!
 
