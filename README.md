@@ -32,7 +32,7 @@ Preffered Donation - https://boosty.to/holastor HYPE HYPE HYPE !!!!
 3) Rename the file newpak.pak to B2-Bundle@2023.05.24-21.05.30.pak;
 
 4) Unzip the text.zip file into the ncsoft/b2/b2 folder
-5) 
+
 6) That's all folks!
 
 ## OR Source-Install
